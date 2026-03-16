@@ -1,3 +1,96 @@
+---
+chronology:
+  chapter_type: genealogy
+  period: antediluvian
+  calendar: anno_mundi
+  note: "All ages from Masoretic Text (MT) / KJV. LXX adds ~1,300 extra years across these patriarchs."
+  patriarchs:
+    - name: Adam
+      born_am: 0
+      age_at_named_son: 130
+      named_son: Seth
+      total_years: 930
+      source_verse: "Gen 5:3-5"
+    - name: Seth
+      born_am: 130
+      age_at_named_son: 105
+      named_son: Enosh
+      total_years: 912
+      source_verse: "Gen 5:6-8"
+    - name: Enosh
+      born_am: 235
+      age_at_named_son: 90
+      named_son: Cainan
+      total_years: 905
+      source_verse: "Gen 5:9-11"
+    - name: Cainan
+      born_am: 325
+      age_at_named_son: 70
+      named_son: Mahalaleel
+      total_years: 910
+      source_verse: "Gen 5:12-14"
+    - name: Mahalaleel
+      born_am: 395
+      age_at_named_son: 65
+      named_son: Jared
+      total_years: 895
+      source_verse: "Gen 5:15-17"
+    - name: Jared
+      born_am: 460
+      age_at_named_son: 162
+      named_son: Enoch
+      total_years: 962
+      source_verse: "Gen 5:18-20"
+    - name: Enoch
+      born_am: 622
+      age_at_named_son: 65
+      named_son: Methuselah
+      total_years: 365
+      translated_am: 987
+      note: "Never died — translated by God. Seventh from Adam. Type of rapture/first-fruits."
+      source_verse: "Gen 5:21-24"
+    - name: Methuselah
+      born_am: 687
+      age_at_named_son: 187
+      named_son: Lamech
+      total_years: 969
+      died_am: 1656
+      note: "Longest lifespan in Scripture. Died the exact year of the Flood. Name = 'when he dies it shall come.'"
+      source_verse: "Gen 5:25-27"
+    - name: Lamech
+      born_am: 874
+      age_at_named_son: 182
+      named_son: Noah
+      total_years: 777
+      source_verse: "Gen 5:28-31"
+    - name: Noah
+      born_am: 1056
+      flood_am: 1656
+      note: "600 years old at the Flood. Name = rest/comfort. Father of Shem, Ham, Japheth."
+      source_verse: "Gen 5:32"
+  anchor_events:
+    - event: "Creation of Adam"
+      anno_mundi: 0
+      source_verse: "Gen 1:26-27"
+    - event: "Birth of Seth"
+      anno_mundi: 130
+      duration_to_next: 105
+      source_verse: "Gen 5:3"
+    - event: "Translation of Enoch (rapture type)"
+      anno_mundi: 987
+      source_verse: "Gen 5:24"
+    - event: "Birth of Noah (the comforter)"
+      anno_mundi: 1056
+      source_verse: "Gen 5:29"
+    - event: "Death of Methuselah / Year of the Flood"
+      anno_mundi: 1656
+      source_verse: "Gen 5:27; Gen 7:6"
+  gospel_in_names:
+    sequence: "Adam → Seth → Enosh → Cainan → Mahalaleel → Jared → Enoch → Methuselah → Lamech → Noah"
+    meanings: "Man → Appointed → Mortal sorrow → Lamentation → The Blessed God → Shall come down → Teaching → His death shall bring → The despairing → Rest/Comfort"
+    decoded: "Man is appointed mortal sorrow; but the Blessed God shall come down teaching — His death shall bring the despairing rest."
+---
+
 # Genesis 5
 
 ---

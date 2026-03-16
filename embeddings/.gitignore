@@ -1,0 +1,4 @@
+# Embedding vectors — too large for git, regenerate locally
+*.npy
+*.pkl
+*.bin

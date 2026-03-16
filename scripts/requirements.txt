@@ -1,0 +1,16 @@
+# Core embedding dependencies
+sentence-transformers>=2.7.0
+numpy>=1.26.0
+torch>=2.2.0
+# CUDA support (comment out if using CPU only):
+# torch>=2.2.0+cu121  # install via: pip install torch --index-url https://download.pytorch.org/whl/cu121
+
+# For YAML frontmatter parsing
+pyyaml>=6.0.1
+
+# For the Gantt CSV / timeline
+# (csv is stdlib — no extra install needed)
+
+# Optional: for building a local API / web UI on top of semantic search
+# fastapi>=0.110.0
+# uvicorn>=0.29.0
