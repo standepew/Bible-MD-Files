@@ -93,6 +93,36 @@ Second, year, reign, Nebuchadnezzar, dreamed, dreams, spirit, troubled, sleep, b
 
 ---
 
+### "Then was the iron, the clay, the brass, the silver, and the gold, broken to pieces together" -- Simultaneous Destruction (Daniel 2:35)
+
+**Daniel 2:35** — "Then was the iron, the clay, the brass, the silver, and the gold, broken to pieces together, and became like the chaff of the summer threshingfloors; and the wind carried them away, that no place was found for them"
+
+- **Revelation 16:19** — "And the great city was divided into three parts, and the cities of the nations fell: and great Babylon came in remembrance before God, to give unto her the cup of the wine of the fierceness of his wrath."
+  - *Interpretation:* All five metals destroyed together proves one continuous system — Babylon never truly ended but transferred its spirit forward. Revelation 16:19 identifies the final form as "great Babylon" divided into three parts, corresponding to the three sovereign city-states.
+
+- **Revelation 17:5** — "And upon her forehead was a name written, MYSTERY, BABYLON THE GREAT, THE MOTHER OF HARLOTS AND ABOMINATIONS OF THE EARTH."
+  - *Interpretation:* The name "Mystery, Babylon" confirms the spiritual continuity: the same Babylonian system persists through every successive kingdom until Christ's return destroys them all simultaneously.
+
+- **Revelation 18:2** — "And he cried mightily with a strong voice, saying, Babylon is fallen, is fallen, and is become the habitation of devils, and the hold of every foul spirit."
+  - *Interpretation:* The final fall of Babylon at the stone's impact — the same event Daniel saw when all five metals were broken "together."
+
+---
+
+### "They shall mingle themselves with the seed of men" -- Genetic Corruption Echo (Daniel 2:43)
+
+**Daniel 2:43** — "And whereas thou sawest iron mixed with miry clay, they shall mingle themselves with the seed of men: but they shall not cleave one to another, even as iron is not mixed with clay."
+
+- **Genesis 6:1-4** — "And it came to pass, when men began to multiply on the face of the earth, and daughters were born unto them, That the sons of God saw the daughters of men that they were fair; and they took them wives of all which they chose... There were giants in the earth in those days; and also after that, when the sons of God came in unto the daughters of men, and they bare children to them."
+  - *Interpretation:* "Mingle themselves with the seed of men" echoes Genesis 6's Days of Noah — a supernatural or unnatural mingling with humanity. Christ's own words in Matthew 24:37 link the last days directly to the Days of Noah, anchoring Daniel 2:43 to that same end-time condition.
+
+- **Matthew 24:37** — "But as the days of Noah were, so shall also the coming of the Son of man be."
+  - *Interpretation:* The Days of Noah comparison from Christ Himself confirms the connection: the final iron/clay kingdom will replicate the Genesis 6 mingling. The stone's arrival ends both.
+
+- **Luke 17:26** — "And as it was in the days of Noe, so shall it be also in the days of the Son of man."
+  - *Interpretation:* A second witness from Christ that the Days of Noah pattern identifies the final phase of the statue — the very toes struck by the stone.
+
+---
+
 ## KEYWORD INDEX
 
 **Christ's Revelation:** troubled spirit, secret revealed, night vision, revealeth secrets
@@ -102,6 +132,16 @@ Second, year, reign, Nebuchadnezzar, dreamed, dreams, spirit, troubled, sleep, b
 **Stone Kingdom:** stone cut, without hands, great mountain, filled earth
 
 **Christ's Victory:** brake pieces, consume kingdoms, stand forever, never destroyed
+
+**Four World Kingdoms:** Babylon gold, Medo-Persia silver, Greece brass, Rome iron, 605 BC, 476 AD
+
+**Continuity of Babylon:** broken together, one system, Mystery Babylon, spirit transferred, Revelation 16:19
+
+**Ten Toes / Divided Europe:** iron clay, partly strong partly broken, ten toes, Heruli 493 AD, Vandals 534 AD, Ostrogoths 538 AD, three uprooted
+
+**Days of Noah / Genetic Corruption:** mingle seed of men, Genesis 6, sons of God, Days of Noah, Matthew 24:37
+
+**Three Sovereign City-States:** great city divided three parts, Vatican, London, Washington DC, final form iron clay
 
 ---
 

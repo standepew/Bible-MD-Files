@@ -103,6 +103,15 @@ Great, wonder, heaven, woman, clothed, sun, moon, feet, crown, twelve, stars, ch
 - **Deuteronomy 7:9" - "Know therefore that the LORD thy God, he is God, the faithful God, which keepeth covenant and mercy with them that love him and keep his commandments to a thousand generations;"
   -Interpretation:* Keep commandments.
 
+- **Exodus 31:13** — "Speak thou also unto the children of Israel, saying, Verily my sabbaths ye shall keep: for it is a sign between me and you throughout your generations; that ye may know that I am the LORD that doth sanctify you."
+  - Interpretation: The remnant who keep the commandments of God are specifically identified by Sabbath-keeping as the sign of God's covenant — the same sign the dragon targets in his final war.
+
+- **Revelation 14:12** — "Here is the patience of the saints: here are they that keep the commandments of God, and the faith of Jesus."
+  - Interpretation: The remnant of Revelation 12:17 are the same saints described in Revelation 14:12 — identified by commandment-keeping and faith in Jesus, standing in contrast to the beast's mark.
+
+- **Daniel 7:25** — "And he shall speak great words against the most High, and shall wear out the saints of the most High, and think to change times and laws: and they shall be given into his hand until a time and times and the dividing of time."
+  - Interpretation: The dragon's war on the remnant seed directly parallels Daniel 7:25 — the same power that wore out the saints for "a time, times, and the dividing of time" (1,260 years, 538–1798 AD) now targets the final remnant who refuse to abandon God's law.
+
 ---
 
 ## KEYWORD INDEX
