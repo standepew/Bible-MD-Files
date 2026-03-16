@@ -232,10 +232,56 @@ The iron bedstead of Og is not incidental detail. It establishes the sheer impos
 
 ## COMMONLY MISQUOTED PASSAGES
 
-*No passages in this chapter are commonly misquoted or frequently taken out of context in a way that distorts the chapter's meaning.*
+### Deuteronomy 3:22 — "The LORD Your God He Shall Fight for You" — Misapplied to Mean No Human Effort Required
+
+**Verse 22** — "Ye shall not fear them: for the LORD your God he shall fight for you."
+
+**How it is misused:** This verse is taken in isolation to argue that God's people should take no action, make no effort, and merely wait passively, since God will fight for them. It is also quoted to promise victory in any conflict a believer personally desires to win, regardless of whether God has actually commanded that battle.
+
+**What the text actually says:**
+- **Deuteronomy 3:18** — "I commanded you at that time, saying... ye shall pass over armed before your brethren the children of Israel, all that are meet for the war." — God commands the eastern tribes to cross armed and fight. God fights for them and they fight. These are not alternatives.
+- **Deuteronomy 3:21** — "Thine eyes have seen all that the LORD your God hath done unto these two kings: so shall the LORD do unto all the kingdoms whither thou passest." — the promise of God's fighting is grounded in His track record with Sihon and Og; it is confirmed evidence, not a blank promise for all conflicts.
+- **Joshua 1:2-3** — "Now therefore arise... every place that the sole of your foot shall tread upon, that have I given you" — God gives the land, but Israel must tread it. Divine gift and human participation coexist throughout the conquest.
+- **Nehemiah 4:9** — "Nevertheless we made our prayer unto our God, and set a watch against them day and night" — prayer and watchfulness together, not either alone.
+- **James 2:17** — "Even so faith, if it hath not works, is dead, being alone." — faith does not eliminate action; it activates it.
+
+*Correction:* "The LORD shall fight for you" describes who wins the battle — God gets the credit and the glory — not whether human effort is required. Throughout the conquest, God's fighting and Israel's fighting are simultaneous. The verse is a call to fearlessness grounded in God's power, not a call to passivity. Moreover, the promise is contextually bounded: God fights for Israel in the battles He has commanded. It is not a universal promise for every human conflict.
+
+---
+
+### Deuteronomy 3:26 — "Let It Suffice Thee" — God Answering No Means He Is Withholding Good
+
+**Verse 26** — "But the LORD was wroth with me for your sakes, and would not hear me: and the LORD said unto me, Let it suffice thee; speak no more unto me of this matter."
+
+**How it is misused:** This verse is misread to conclude that God sometimes refuses prayer for arbitrary or punitive reasons, and that when God says "no" He is either angry, indifferent, or withholding something good that the believer deserves.
+
+**What the text actually says:**
+- **Numbers 20:10-12** — The reason for Moses' exclusion is specific and stated: "Because ye believed me not, to sanctify me in the eyes of the children of Israel." Moses' act at Meribah — striking the rock twice instead of speaking to it — had a specific consequence. This is not an arbitrary "no."
+- **Deuteronomy 3:27** — "Get thee up into the top of Pisgah, and lift up thine eyes westward, and northward, and southward, and eastward, and behold it with thine eyes" — God closes the door to entry but opens a vision. "No" to one thing is accompanied by provision of another.
+- **2 Corinthians 12:8-9** — "For this thing I besought the Lord thrice, that it might depart from me. And he said unto me, My grace is sufficient for thee: for my strength is made perfect in weakness." — God's "no" to Paul's request for thorn removal is accompanied by the declaration of sufficient grace.
+- **Matthew 26:39** — "O my Father, if it be possible, let this cup pass from me: nevertheless not as I will, but as thou wilt." — Jesus submits to a closed door for the greater redemptive purpose. The closed door to personal relief opened the door to the world's salvation.
+- **Isaiah 55:8-9** — "For my thoughts are not your thoughts, neither are your ways my ways, saith the LORD. For as the heavens are higher than the earth, so are my ways higher than your ways."
+
+*Correction:* God's "no" to Moses is not arbitrary but is the consequence of a specific act that dishonored God's word in front of the nation. God's closed doors are not denials of good but redirections to a greater good or the execution of a righteous consequence. "Let it suffice thee" is God's sovereign declaration that He has determined the matter, and continuing to press it will not change His purpose. The pattern throughout Scripture is that God's closed doors are accompanied by sufficiency in another form — Moses gets the Pisgah vision; Paul gets sufficient grace; Christ's cup becomes the world's redemption.
 
 ---
 
 ## SYMBOLIC THREADS
 
-*No distinct symbolic threads requiring cross-reference definition in this chapter. See cross-references above for scripture-interpreting-scripture connections.*
+**The Giants (Rephaim/Anakim) — The Seed of Corruption in the Land:**
+- First appears in this context: **Deuteronomy 3:11** — "For only Og king of Bashan remained of the remnant of giants; behold, his bedstead was a bedstead of iron; is it not in Rabbath of the children of Ammon? nine cubits was the length thereof."
+- **Genesis 6:4** — "There were giants in the earth in those days; and also after that, when the sons of God came in unto the daughters of men, and they bare children to them, the same became mighty men which were of old, men of renown." — the origin of the giant line is connected to the pre-flood corruption.
+- **Numbers 13:33** — "And there we saw the giants, the sons of Anak, which come of the giants: and we were in our own sight as grasshoppers." — the spies' report at Kadesh-barnea; the giants are the reason for Israel's unbelief.
+- **Joshua 11:21-22** — "And at that time came Joshua, and cut off the Anakims from the mountains... none of the Anakims left in the land of the children of Israel: only in Gaza, in Gath, and in Ashdod, there remained." — Joshua systematically destroys the giant clans.
+- **1 Samuel 17:4** — "And there went out a champion out of the camp of the Philistines, named Goliath, of Gath, whose height was six cubits and a span." — Goliath descends from the remnant that survived Joshua's campaign.
+- *Pattern:* The giant nations in Scripture represent a supernatural corruption of the human line that persists from before the flood through the conquest period. God systematically removes them from the lands He governs. Their consistent association with the territories that threaten Israel's mission connects to the broader spiritual warfare thread of Genesis 3:15 — the seed of the serpent opposing the seed of the woman. Israel's victories over the giants (Og in Deuteronomy 3; the Anakim in Joshua; Goliath in 1 Samuel) follow the same pattern: natural impossibility overcome by God's power working through a chosen instrument.
+
+---
+
+**Joshua (Yeshua) — The One Who Leads Into Rest:**
+- First appears here as type: **Deuteronomy 3:28** — "But charge Joshua, and encourage him, and strengthen him: for he shall go over before this people, and he shall cause them to inherit the land which thou shalt see." — Moses is barred; Joshua enters. The Law cannot bring them in; Yeshua leads them in.
+- **Deuteronomy 31:7-8** — "And Moses called unto Joshua, and said unto him in the sight of all Israel, Be strong and of a good courage: for thou must go with this people unto the land which the LORD hath sworn unto their fathers to give them; and thou shalt cause them to inherit it."
+- **Joshua 1:1-6** — After Moses' death, God directly commissions Joshua with the same words: "Be strong and of a good courage."
+- **Hebrews 4:8-9** — "For if Jesus (Joshua) had given them rest, then would he not afterward have spoken of another day. There remaineth therefore a rest to the people of God." — the writer of Hebrews interprets Joshua's giving of the land as a type of a greater rest still to come.
+- **Matthew 1:21** — "And she shall bring forth a son, and thou shalt call his name JESUS: for he shall save his people from their sins." — the name Jesus is the Greek form of the Hebrew Yeshua/Joshua, meaning "the LORD saves."
+- *Pattern:* Joshua and Jesus share not only a name but a type-fulfillment relationship established by Hebrews 4. Moses (the Law) brings Israel to the border; Joshua (Yeshua) leads them into the land. The Law can reveal, instruct, and bring to the threshold — but cannot of itself give the rest. Only the One whose name means "the LORD saves" can accomplish the entry into inheritance. Deuteronomy 3 is the hinge passage where this typological handoff is made explicit.

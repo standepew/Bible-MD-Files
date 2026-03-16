@@ -191,7 +191,36 @@ Three more plagues. Plague 5 (murrain): all Egyptian livestock in the field die;
 
 ## COMMONLY MISQUOTED PASSAGES
 
-*No passages in this chapter are commonly misquoted or frequently taken out of context in a way that distorts the chapter's meaning.*
+### Exodus 9:16 — "For This Cause Have I Raised Thee Up" Used to Claim God Creates People for Damnation
+
+**Verse 16** — "And in very deed for this cause have I raised thee up, for to shew in thee my power; and that my name may be declared throughout all the earth."
+
+**How it is misused:** This verse (quoted in Romans 9:17) is used to argue that God arbitrarily creates certain people specifically for the purpose of eternal damnation, with no regard for their choices, making them instruments of wrath with no possibility of mercy. It is used to build a theology of unconditional reprobation where some people are simply made to be destroyed.
+
+**What the text actually says:** The word "raised thee up" in context means sustained in position, not created for destruction — and Pharaoh's resistance is the context of his own repeated choices:
+- **Exodus 5:2** — "Who is the LORD, that I should obey his voice?" — Pharaoh's defiance is his own stated position from the first encounter; he is not forced into it
+- **Exodus 8:15** — "He hardened his heart, and hearkened not unto them; as the LORD had said" — Pharaoh's own repeated acts of hardening precede God's judicial hardening
+- **Exodus 9:15** — "For now I will stretch out my hand, that I may smite thee and thy people with pestilence; and thou shalt be cut off from the earth" — God states He *could have* destroyed Pharaoh entirely by now; the fact that Pharaoh still lives is the grace that becomes the stage for demonstration
+- **Romans 9:17-18** — Paul's use of this verse in Romans 9 is in the context of God's freedom to show mercy or harden, not a doctrine that specific people are created without any possibility of repentance
+
+*Correction:* "Raised thee up" means God sustained Pharaoh alive through nine plagues that could have killed him, in order to complete the full demonstration of His power and make His name known worldwide. This is not arbitrary damnation — it is God's sovereign use of a man who had already repeatedly chosen his own path of resistance. The verse declares the purpose of the plagues for the nations, not the predetermined eternal fate of a soul who never had a choice.
+
+---
+
+### Exodus 9:27 — "I Have Sinned" Cited as Evidence of Pharaoh's Genuine Repentance
+
+**Verse 27** — "And Pharaoh sent, and called for Moses and Aaron, and said unto them, I have sinned this time: the LORD is righteous, and I and my people are wicked."
+
+**How it is misused:** Pharaoh's confession is sometimes used to argue that he had genuinely repented at this point and God's continued judgment of him afterward was therefore unjust. The words of confession are treated as equivalent to repentance, and the subsequent hardening is presented as God punishing a converted man.
+
+**What the text actually says:** The narrative immediately contradicts any reading of this as genuine repentance:
+- **Verse 34** — "And when Pharaoh saw that the rain and the hail and the thunders were ceased, he sinned yet more, and hardened his heart, he and his servants" — the moment the pressure lifted, Pharaoh's behavior changed; genuine repentance does not reverse when consequences are removed
+- **Verse 30** — Moses' own assessment precedes the removal of the hail: "But as for thee and thy servants, I know that ye will not yet fear the LORD God" — Moses, who was receiving God's word, did not believe this confession represented genuine repentance even as Pharaoh was making it
+- **2 Corinthians 7:10** — "For godly sorrow worketh repentance to salvation not to be repented of: but the sorrow of the world worketh death" — "sorrow of the world" = sorrow over consequences; it produces the appearance of repentance without the reality; Pharaoh's "I have sinned this time" is precisely this: sorrow for the hail, not sorrow for his rebellion against God
+
+*Correction:* Pharaoh's confession in Exodus 9:27 is an example of what 2 Corinthians 7:10 calls "worldly sorrow" — regret for the consequences of sin rather than repentance from the sin itself. The phrase "this time" reveals the scope: he is sorry about the hail specifically, not about his posture toward God. Verse 34 confirms: when the consequence was removed, the confession evaporated. Genuine repentance produces a change of direction that is "not to be repented of" — it does not reverse when the pressure lifts.
+
+---
 
 ---
 

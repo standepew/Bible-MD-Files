@@ -279,13 +279,54 @@ Moses issues the solemn command: do not add to or take away from God's word. The
 
 ## COMMONLY MISQUOTED PASSAGES
 
-### "Ye Shall Not Add... Nor Diminish" — Wrongly Used to Dismiss the New Testament
+### Deuteronomy 4:2 — "Ye Shall Not Add... Nor Diminish" — Used to Reject the New Testament
 
-Some have taken Deuteronomy 4:2 to mean no Scripture beyond Moses should be accepted. This is contradicted by:
+**Verse 2** — "Ye shall not add unto the word which I command you, neither shall ye diminish ought from it, that ye may keep the commandments of the LORD your God which I command you."
 
-- **Deuteronomy 18:18** — God Himself promises to raise up a Prophet and "put my words in his mouth" — Moses anticipates MORE divine words coming
-- **Revelation 22:18-19** uses the same formula at the END of the final book — both together establish Scripture's completeness as a canon from beginning to end
-- The add-not/diminish-not command means: do not supplement, alter, or subtract from God's revealed word. It is a command against human tradition superseding or replacing Scripture — not a command against further divine revelation before the canon's completion.
+**How it is misused:** Some cite Deuteronomy 4:2 to argue that no Scripture beyond Moses is valid — that the New Testament, the Prophets, or even subsequent books of Moses are "additions" forbidden by this verse. Others use it to argue that their particular tradition or interpretation cannot be questioned because to do so would be "diminishing" from the word.
+
+**What the text actually says:**
+- **Deuteronomy 18:18** — "I will raise them up a Prophet from among their brethren, like unto thee, and will put my words in his mouth; and he shall speak unto them all that I shall command him." — Moses himself, in the same book, anticipates God giving further words through a coming Prophet. If Deuteronomy 4:2 prohibited all future Scripture, Moses would contradict himself.
+- **Deuteronomy 12:32** — "What thing soever I command you, observe to do it: thou shalt not add thereto, nor diminish from it." — the same formula is repeated in the context of worship instructions, showing the command is about human additions to God's specific worship commands, not about the canon.
+- **Proverbs 30:5-6** — "Every word of God is pure... Add thou not unto his words, lest he reprove thee, and thou be found a liar." — the command applies to human manipulation of what God has said, not to God's own progressive revelation.
+- **Revelation 22:18-19** — "If any man shall add unto these things, God shall add unto him the plagues that are written in this book" — the identical formula closes the final book of the completed canon, establishing that both Deuteronomy 4:2 and Revelation 22:18-19 together bracket the whole of Scripture. God's word is complete as given; the command is against human alteration, not against God speaking further before the canon's completion.
+- **Mark 7:13** — "Making the word of God of none effect through your tradition, which ye have delivered" — Jesus applies the principle to human tradition that overrides Scripture, which is the actual target of the command.
+
+*Correction:* "Ye shall not add" is a command against human tradition superseding, supplementing, or distorting God's revealed word — not a command against God Himself giving further revelation before the canon is complete. Moses was still receiving and writing Scripture after this verse. The Prophets, Psalms, and New Testament are all God's own words added by God, not human additions prohibited by the text. The command is violated by those who add human tradition as equal to Scripture (Mark 7:13) or those who remove portions of Scripture that are inconvenient (Galatians 1:8-9 — any other gospel is accursed).
+
+---
+
+### Deuteronomy 4:24 — "A Consuming Fire, Even a Jealous God" — Used to Argue God of OT Is Different from God of NT
+
+**Verse 24** — "For the LORD thy God is a consuming fire, even a jealous God."
+
+**How it is misused:** This verse is commonly used to argue that the God of the Old Testament is a God of wrath and judgment while the God of the New Testament is a God of love and grace — as if there are two different deities, and that the consuming fire God of Deuteronomy 4:24 is obsolete or superseded.
+
+**What the text actually says:**
+- **Hebrews 12:29** — "For our God is a consuming fire." — The New Testament writer quotes Deuteronomy 4:24 directly and applies it to the God of the new covenant in the context of warning believers not to refuse Him who speaks. The consuming fire God has not changed between testaments.
+- **Hebrews 12:25-26** — "See that ye refuse not him that speaketh... Yet once more I shake not the earth only, but also heaven." — the consuming fire warning in Hebrews 12 is actually more severe than the Deuteronomy version because the revelation is greater.
+- **John 4:24** — "God is a Spirit: and they that worship him must worship him in spirit and in truth." — the New Testament equally demands exclusive, total worship.
+- **Revelation 6:16-17** — "And said to the mountains and rocks, Fall on us, and hide us from the face of him that sitteth on the throne, and from the wrath of the Lamb: For the great day of his wrath is come; and who shall be able to stand?" — the wrath of God and of the Lamb is present in full in the New Testament.
+- **1 Corinthians 10:22** — "Do we provoke the Lord to jealousy? are we stronger than he?" — Paul applies God's jealousy directly to New Testament believers in the context of idolatry.
+
+*Correction:* The consuming fire and jealous God of Deuteronomy 4:24 is the same God of the New Testament — Hebrews 12:29 makes this explicit. God's holiness has not diminished and His jealousy has not abated. The difference between the testaments is not that God became less holy or less jealous, but that in Christ, the consuming fire of God's judgment was absorbed by the Son on behalf of those who trust in Him. The New Testament does not eliminate the consuming fire; it provides the only hiding place from it.
+
+---
+
+### Deuteronomy 4:29 — "Thou Shalt Find Him, If Thou Seek Him with All Thy Heart" — Promise Stripped of Its Context
+
+**Verse 29** — "But if from thence thou shalt seek the LORD thy God, thou shalt find him, if thou seek him with all thy heart and with all thy soul."
+
+**How it is misused:** This verse is quoted as a simple, universal promise that anyone who sincerely seeks God will find Him — stripped of its specific context in the prophetic sequence of scattering, tribulation, and latter-days return. It is also misused to suggest that sincere religious seeking in any religion finds the same God.
+
+**What the text actually says:**
+- **Deuteronomy 4:26-28** — The context: Moses has just prophesied scattering among the nations, left few in number, serving gods of wood and stone. Verse 29 is the promise embedded within the scattering prophecy — it is the hope within the judgment, not a detached promise.
+- **Deuteronomy 4:30** — "When thou art in tribulation, and all these things are come upon thee, even in the latter days, if thou turn to the LORD thy God, and shalt be obedient unto his voice." — the seeking is in the context of tribulation and returning after judgment, in the latter days specifically.
+- **Jeremiah 29:13** — "And ye shall seek me, and find me, when ye shall search for me with all your heart." — confirms the promise but in the context of the Babylonian exile; it is a promise to the covenant people scattered by God's judgment.
+- **Isaiah 55:6-7** — "Seek ye the LORD while he may be found, call ye upon him while he is near: Let the wicked forsake his way, and the unrighteous man his thoughts: and let him return unto the LORD, and he will have mercy upon him." — seeking the LORD is always connected to turning from wickedness and returning; it is not neutral religious searching.
+- **John 4:22** — "Ye worship ye know not what: we know what we worship: for salvation is of the Jews." — Jesus distinguishes between worshipping the God who has revealed Himself and other worship. Not all seeking finds the same God.
+
+*Correction:* The promise of Deuteronomy 4:29 is given to Israel in the specific context of post-scattering tribulation and latter-days return. It is a covenant promise embedded in a prophetic sequence: judgment → scattering → tribulation → seeking → finding. The seeking is not passive or generalized; it is total ("with all thy heart and with all thy soul"), obedient ("and shalt be obedient unto his voice"), and involves turning from wickedness. The God found is the specific covenant God of Israel — YHWH — not a generic divine presence accessible through any religious path.
 
 ---
 

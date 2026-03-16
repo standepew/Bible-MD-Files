@@ -135,10 +135,52 @@ The logic is identical; the location of the sanctuary has changed. This is why P
 
 ## COMMONLY MISQUOTED PASSAGES
 
-*No passages in this chapter are commonly misquoted or frequently taken out of context in a way that distorts the chapter's meaning.*
+### Leviticus 15:19-24 — Menstrual Uncleanness Used to Exclude Women from Worship
+
+**Verses 19-20** — "And if a woman have an issue, and her issue in her flesh be blood, she shall be put apart seven days: and whosoever toucheth her shall be unclean until the even. And every thing that she lieth upon in her separation shall be unclean."
+
+**How it is misused:** This passage is sometimes used to argue that women are inherently spiritually deficient, that women should be excluded from participating in worship during menstruation, or that female biology is intrinsically impure in a way that male biology is not.
+
+**What the text actually says:**
+- **Leviticus 15:16-18** — Male seminal emission also produces uncleanness until evening; both male and female bodily processes are subject to purity laws. The chapter addresses both sexes.
+- **Galatians 3:28** — "There is neither Jew nor Greek, there is neither bond nor free, there is neither male nor female: for ye are all one in Christ Jesus."
+- **1 Peter 3:7** — "Likewise, ye husbands, dwell with them according to knowledge, giving honour unto the wife, as unto the weaker vessel, and as being heirs together of the grace of life."
+- **Romans 8:1** — "There is therefore now no condemnation to them which are in Christ Jesus."
+
+*Correction:* The purity laws of Leviticus 15 apply to both male and female bodily processes — this is not a chapter about female inferiority but about the condition of fallen human physicality in general. The period of uncleanness is defined and temporary; it ends with washing and a seven-day count, with access fully restored. In the New Covenant, the body itself is the temple of the Holy Spirit (1 Corinthians 6:19), and there is no condemnation in Christ (Romans 8:1). The ceremonial distinctions of Leviticus 15 are not carried forward as exclusions in the New Covenant community.
+
+---
+
+### Leviticus 15:31 — "Defile Not My Tabernacle" Used to Forbid Physical Access to Church Gatherings
+
+**Verse 31** — "Thus shall ye separate the children of Israel from their uncleanness; that they die not in their uncleanness, when they defile my tabernacle that is among them."
+
+**How it is misused:** This verse is sometimes cited to bar people with chronic illness, disabilities, or ongoing physical conditions from participating in worship gatherings — treating them as defiling the assembly by their presence.
+
+**What the text actually says:**
+- **1 Corinthians 6:19-20** — "What? know ye not that your body is the temple of the Holy Ghost which is in you... therefore glorify God in your body." — The temple has moved from an external building to the believer's person.
+- **Luke 8:43-48** — The woman with the chronic hemorrhage (the Leviticus 15 condition) touches Christ; instead of her uncleanness transferring to Him, His wholeness flows to her.
+- **Matthew 9:12** — "They that be whole need not a physician, but they that are sick." — Jesus reframes who belongs in His presence.
+
+*Correction:* Leviticus 15:31's warning about defiling the external Tabernacle is fulfilled — not continued — in the New Covenant by the principle of 1 Corinthians 6:19: the temple is now internal. The concern is not who may enter a building but what resides in the believer's body. The woman with the issue of blood (Luke 8) was barred from the synagogue under Leviticus 15 — and is the one Jesus specifically heals and commends publicly. The New Covenant applies the purity concern differently: not as a barrier to gathering but as a call to personal holiness in the body that is now the sanctuary.
 
 ---
 
 ## SYMBOLIC THREADS
 
-*No distinct symbolic threads requiring cross-reference definition in this chapter. See cross-references above for scripture-interpreting-scripture connections.*
+**The Body as the Temple / The Tabernacle Among Them:**
+- Established: Leviticus 15:31 — "that they die not in their uncleanness, when they defile my tabernacle that is among them" — the external Tabernacle requires Israel's bodily purity in its vicinity.
+- Leviticus 16:16 — "he shall make an atonement for the holy place, because of the uncleanness of the children of Israel" — the sanctuary itself accumulates defilement from Israel's uncleanness.
+- 1 Corinthians 3:16-17 — "Know ye not that ye are the temple of God, and that the Spirit of God dwelleth in you? If any man defile the temple of God, him shall God destroy."
+- 1 Corinthians 6:19-20 — "your body is the temple of the Holy Ghost which is in you" — the temple has moved inside.
+- Ephesians 2:21-22 — "In whom all the building fitly framed together groweth unto an holy temple in the Lord: In whom ye also are builded together for an habitation of God through the Spirit."
+- Revelation 21:3 — "Behold, the tabernacle of God is with men, and he will dwell with them."
+- *Pattern:* In Leviticus, the Tabernacle is among the people externally; the purity laws protect the external sanctuary. In the New Covenant, the Spirit dwells within the believer; the purity concern becomes internal. In the final state (Revelation 21:3), the dwelling of God is with men permanently — the separation problem is resolved not by laws maintaining distance but by God's permanent indwelling of His redeemed people.
+
+**Contact Uncleanness / The Spreading Nature of Impurity:**
+- Established: Leviticus 15:4-12 — the unclean person's bed, seat, and any person they touch transmit uncleanness.
+- Leviticus 11:32-38 — carcass contamination spreads to vessels and food; the spring of living water alone resists contamination.
+- Haggai 2:12-13 — God uses the Levitical contamination principle to make a theological point: "if one that is unclean by a dead body touch any of these, shall it be unclean? And the priests answered and said, It shall be unclean. Then said Haggai, So is this people."
+- 1 Corinthians 15:33 — "Be not deceived: evil communications corrupt good manners." — The spreading contamination principle applied to moral influence.
+- Hebrews 12:15 — "lest any root of bitterness springing up trouble you, and thereby many be defiled."
+- *Pattern:* Defilement spreads by contact; holiness does not automatically transfer. This principle, embedded in Leviticus 11 and 15, is quoted directly by God through Haggai and confirmed by Paul (1 Corinthians 15:33) and the writer of Hebrews (12:15). The exception is Christ — the one whose holiness reverses the direction, cleansing the unclean by contact rather than being contaminated by it (Mark 5:25-34; Mark 1:41-42).

@@ -203,7 +203,35 @@ Moses is born to a Levite couple. His mother hides him three months, then places
 
 ## COMMONLY MISQUOTED PASSAGES
 
-*No passages in this chapter are commonly misquoted or frequently taken out of context in a way that distorts the chapter's meaning.*
+### Exodus 2:12 — "Moses Killed Someone; Therefore Violence Is Justified by Good Intentions"
+
+**Verse 12** — "And he looked this way and that way, and when he saw that there was no man, he slew the Egyptian, and hid him in the sand."
+
+**How it is misused:** This verse is sometimes cited to argue that killing in the defense of the oppressed is endorsed by the example of Moses, and therefore violence on behalf of justice is morally validated by Scripture. The fact that Moses became the deliverer is used retroactively to justify the act.
+
+**What the text actually says:** The immediate context shows this act was not endorsed by God — it was a premature, self-powered attempt at deliverance that had to be abandoned:
+- **Verse 14** — "Who made thee a prince and a judge over us?" — Moses' own people rejected his authority immediately; his act did not produce solidarity but division
+- **Verse 15** — "Now when Pharaoh heard this thing, he sought to slay Moses. But Moses fled" — the consequence was not deliverance but flight; Moses' self-initiated action disqualified him from the position he sought and sent him into 40 years of preparation
+- **Acts 7:25** — "For he supposed his brethren would have understood how that God by his hand would deliver them: but they understood not" — Stephen's inspired account frames this as a premature, unrecognized act, not a divinely commissioned one
+
+*Correction:* Moses was right about the calling but wrong about the timing and the method. God did not commission him at the burning bush until Exodus 3 — forty years later. The killing of the Egyptian is presented in the narrative not as a model to imitate but as the beginning of the rejected-deliverer pattern. God's deliverers are commissioned by God, not self-appointed. The correction is not that Moses was a murderer beyond redemption, but that self-authorized violence, even with righteous motivations, is not the same as God-commissioned action.
+
+---
+
+### Exodus 2:24 — "God Remembered" Treated as Though God Had Forgotten
+
+**Verse 24** — "And God heard their groaning, and God remembered his covenant with Abraham, with Isaac, and with Jacob."
+
+**How it is misused:** The phrase "God remembered" is sometimes used to suggest that God had genuinely forgotten Israel during the 400 years of bondage, implying God is inattentive, limited in knowledge, or indifferent until provoked into action. This reading makes God reactive rather than sovereign.
+
+**What the text actually says:** The context shows God's silence was never forgetfulness — the covenant was never cancelled and the time was precisely measured:
+- **Genesis 15:13-14** — "Know of a surety that thy seed shall be a stranger in a land that is not theirs, and shall serve them; and they shall afflict them four hundred years... afterward shall they come out with great substance" — God told Abraham the exact duration 400 years before the Exodus; the silence was covenantal timing, not divine neglect
+- **Exodus 2:25** — "God looked upon the children of Israel, and God had respect unto them" — "had respect" means He took account of them; He had never stopped watching
+- **Psalm 105:8** — "He hath remembered his covenant for ever, the word which he commanded to a thousand generations" — God's remembering is not the recovery of a lost memory; it is the activation of a covenant promise at the appointed moment
+
+*Correction:* "God remembered" is a Hebrew idiom for covenant action, not a reference to divine forgetfulness. The same word (zakar) is used in Genesis 8:1 ("God remembered Noah") — not implying God had forgotten Noah in the ark, but that the moment had come for covenantal intervention. Every use of "God remembered" in Scripture precedes a decisive redemptive act. The silence of 400 years was not absence — it was preparation.
+
+---
 
 ---
 

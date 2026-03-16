@@ -155,10 +155,63 @@ God calls Moses, Aaron, Nadab, Abihu, and seventy elders to come up — but only
 
 ## COMMONLY MISQUOTED PASSAGES
 
-*No passages in this chapter are commonly misquoted or frequently taken out of context in a way that distorts the chapter's meaning.*
+### Exodus 24:7 — "All That the LORD Hath Said Will We Do" — Used to Argue Human Moral Capacity
+
+**Verse 7** — "And he took the book of the covenant, and read in the audience of the people: and they said, All that the LORD hath said will we do, and be obedient."
+
+**How it is misused:** Some use Israel's pledge at Sinai to argue that obedience to God's law is straightforwardly achievable through human will and resolve — that if people simply commit themselves fully, they can keep God's commandments. The pledge is treated as a model of sufficient moral commitment.
+
+**What the text actually says:**
+- **Exodus 32:1-4** — Within forty days of this pledge, the same people have built and are worshipping the golden calf — the pledge collapsed faster than any other vow in Scripture
+- **Deuteronomy 5:27-29** — When Israel makes the same pledge at Horeb, God responds: "O that there were such an heart in them, that they would fear me, and keep all my commandments always, that it might be well with them" — God knows the pledge will not hold; what is needed is a different heart
+- **Romans 7:18-19** — "For to will is present with me; but how to perform that which is good I find not. For the good that I would I do not: but the evil which I would not, that I do"
+- **Jeremiah 31:33** — "I will put my law in their inward parts, and write it in their hearts" — the New Covenant solves what the Sinai pledge could not: the problem is not the standard but the heart
+
+*Correction:* The Sinai pledge is not a model of sufficient commitment — it is the demonstration of insufficient human nature. "We will do" was true as a statement of intention and false as a prophecy of performance. The speed of the golden calf failure (forty days) is the Spirit's commentary on the human heart's capacity to sustain covenant loyalty by willpower. Deuteronomy 5:29 shows God knew this. The answer is not a better pledge but a new heart — which is precisely what the New Covenant provides (Jeremiah 31:33; Ezekiel 36:26).
+
+---
+
+### Exodus 24:10-11 — "They Saw God" — Used to Claim Moses and the Elders Had Full Knowledge of God
+
+**Verse 10** — "And they saw the God of Israel: and there was under his feet as it were a paved work of a sapphire stone, and as it were the body of heaven in his clearness."
+
+**How it is misused:** This passage is cited to argue that the Old Testament saints had direct, complete, unveiled knowledge of God — sometimes used to flatten the distinction between the covenants, or to argue that the restriction "no man shall see God and live" (Exodus 33:20) is contradicted here.
+
+**What the text actually says:**
+- **Exodus 33:20** — "Thou canst not see my face: for there shall no man see me, and live" — spoken after this event; the "seeing" in Exodus 24 is clearly partial and mediated
+- **Exodus 24:10** — The text describes what was under His feet — not His face, not His full person; it is a partial, controlled revelation
+- **1 Timothy 6:16** — "Who only hath immortality, dwelling in the light which no man can approach unto; whom no man hath seen, nor can see" — the full essential being of God remains inaccessible even to Moses and the elders
+- **John 1:18** — "No man hath seen God at any time; the only begotten Son, which is in the bosom of the Father, he hath declared him" — the complete revelation of God comes only through Christ
+
+*Correction:* The elders "saw God" in the sense of a throne-vision — a controlled revelation of His glory-presence, specifically from below and at a distance, with no description of His face or full form. Exodus 33:20 confirms that a full direct vision of God's face remained impossible. The two passages do not contradict — they define the limits of old covenant revelation. John 1:18 is the resolution: the complete seeing of God comes through the Son alone. What the elders saw on Sinai was real but bounded; what the redeemed will see in the new creation (Revelation 22:4 — "they shall see his face") is the fulfillment the Sinai vision only anticipated.
 
 ---
 
 ## SYMBOLIC THREADS
 
-*No distinct symbolic threads requiring cross-reference definition in this chapter. See cross-references above for scripture-interpreting-scripture connections.*
+**Blood Sprinkled on the People:**
+- First appears: Exodus 24:8 — "And Moses took the blood, and sprinkled it on the people, and said, Behold the blood of the covenant, which the LORD hath made with you"
+- Leviticus 16:14-15 — The high priest sprinkles blood on the mercy seat and before it on the Day of Atonement — blood as the mechanism of covenant access to God's presence
+- Hebrews 9:19-21 — "For when Moses had spoken every precept to all the people according to the law, he took the blood of calves and of goats, with water, and scarlet wool, and hyssop, and sprinkled both the book, and all the people"
+- Hebrews 12:24 — "And to Jesus the mediator of the new covenant, and to the blood of sprinkling, that speaketh better things than that of Abel"
+- 1 Peter 1:2 — "Elect... unto obedience and sprinkling of the blood of Jesus Christ"
+- *Pattern:* Blood sprinkled on the covenant people is the Bible's consistent act of covenant ratification and entry. The sprinkling at Sinai (Exodus 24) initiates the old covenant; the blood of Christ sprinkled through faith initiates the new. Hebrews 12:24 draws the explicit comparison: both covenants are ratified by sprinkled blood, but Christ's blood "speaketh better things." The pattern is identical; the substance is superior.
+
+---
+
+**The Sapphire Pavement / Heavenly Throne Room:**
+- First appears: Exodus 24:10 — "there was under his feet as it were a paved work of a sapphire stone, and as it were the body of heaven in his clearness"
+- Ezekiel 1:26 — "And above the firmament... was the likeness of a throne, as the appearance of a sapphire stone: and upon the likeness of the throne was the likeness as the appearance of a man above upon it"
+- Ezekiel 10:1 — "in the firmament that was above the head of the cherubims there appeared over them as it were a sapphire stone, as the appearance of the likeness of a throne"
+- Revelation 4:6 — "And before the throne there was a sea of glass like unto crystal"
+- *Pattern:* The sapphire pavement beneath God's throne is the recurring image of the divine dwelling place in Scripture. The same heavenly throne room appears to Moses and the elders (Exodus 24), to Ezekiel by the river Chebar (Ezekiel 1 and 10), and to John on Patmos (Revelation 4). Each vision is of the same heavenly reality from a different vantage point. The consistency of the imagery — sapphire, crystal, clear as sky — is the Spirit's testimony that these are not separate visions but successive glimpses of one unchange heavenly court.
+
+---
+
+**The Forty Days in the Cloud:**
+- First appears: Exodus 24:18 — "And Moses was in the mount forty days and forty nights"
+- Exodus 34:28 — Moses' second forty-day period on the mountain after the golden calf — same duration, same fasting
+- Deuteronomy 9:9 — "I abode in the mount forty days and forty nights, I neither did eat bread, nor drink water"
+- 1 Kings 19:8 — "And he arose, and did eat and drink, and went in the strength of that meat forty days and forty nights unto Horeb the mount of God" — Elijah's forty-day journey to the same mountain
+- Matthew 4:2 — "And when he had fasted forty days and forty nights, he was afterward an hungred" — Jesus in the wilderness before His public ministry
+- *Pattern:* Forty days in Scripture is the consistent duration of divine preparation and testing before a major mission or revelation. Moses spent two separate forty-day periods receiving the Law. Elijah spent forty days reaching the place where Moses had been. Jesus spent forty days being tested before His ministry began. The number marks a complete period of covenant formation: the person who enters the forty-day period comes out changed, commissioned, and carrying something from God for the people.

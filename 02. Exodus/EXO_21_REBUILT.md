@@ -172,10 +172,61 @@ God gives Moses "the judgments" — the civil and criminal code that governs Isr
 
 ## COMMONLY MISQUOTED PASSAGES
 
-*No passages in this chapter are commonly misquoted or frequently taken out of context in a way that distorts the chapter's meaning.*
+### Exodus 21:24 — "Eye for Eye" Taken as License for Personal Revenge
+
+**Verse 24** — "Eye for eye, tooth for tooth, hand for hand, foot for foot"
+
+**How it is misused:** People cite this verse to justify personal retaliation — "The Bible says I can pay back wrong for wrong." It is used to defend vengeance, grudges, and the refusal to forgive.
+
+**What the text actually says:**
+- **Exodus 21:12-13** — "He that smiteth a man, so that he die, shall be surely put to death. And if a man lie not in wait, but God deliver him into his hand; then I will appoint thee a place whither he shall flee" — the law addresses courts and judges, not private citizens; intent matters
+- **Deuteronomy 19:17-18** — "Then both the men, between whom the controversy is, shall stand before the LORD, before the priests and the judges... And the judges shall make diligent inquisition" — lex talionis is administered by judges, not individuals
+- **Romans 12:19** — "Vengeance is mine; I will repay, saith the Lord. Therefore if thine enemy hunger, feed him"
+- **Matthew 5:38-39** — "Ye have heard that it hath been said, An eye for an eye... But I say unto you, That ye resist not evil: but whosoever shall smite thee on thy right cheek, turn to him the other also"
+
+*Correction:* The lex talionis is a courtroom restraint, not a personal permission slip. It caps punishment at equivalence and forbids excessive retaliation by judges. Leviticus 19:18 — "thou shalt not avenge, nor bear any grudge against the children of thy people" — already commanded against personal revenge within the same legal code. Jesus in Matthew 5 does not abolish the civil law; He addresses personal conduct of the heart. Courts apply proportional justice; individuals are commanded not to avenge themselves at all, leaving vengeance to God.
+
+---
+
+### Exodus 21:22 — "If Men Strive and Hurt a Woman with Child" — Misread to Minimize the Unborn
+
+**Verse 22** — "And if men strive, and hurt a woman with child, so that her fruit depart from her, and yet no mischief follow: he shall be surely punished, according as the woman's husband will lay upon him"
+
+**How it is misused:** Some argue that since a fine — not death — is prescribed for causing premature birth, the unborn child is legally less than a full person. This reading is used to argue the Torah assigns the unborn lesser value than the born.
+
+**What the text actually says:**
+- **Exodus 21:23** — "And if any mischief follow, then thou shalt give life for life" — the very next verse applies the full lex talionis if the child dies; life for life means the same law that governs the death of an adult governs the death of the unborn
+- **Psalm 139:13-16** — "Thou hast covered me in my mother's womb... my substance, yet being unperfect; and in thy book all my members were written, which in continuance were fashioned, when as yet there was none of them"
+- **Jeremiah 1:5** — "Before I formed thee in the belly I knew thee; and before thou camest forth out of the womb I sanctified thee"
+- **Luke 1:44** — "For, lo, as soon as the voice of thy salutation sounded in mine ears, the babe leaped in my womb for joy" — the unborn John recognized Christ in the womb; personhood is present
+
+*Correction:* The fine in verse 22 applies to the premature birth where the child survives. The moment the child dies — "if any mischief follow" (v.23) — the death penalty applies: life for life. The same law that condemns the killing of a born person condemns the killing of an unborn person. The unborn child is legally designated by yeled — the ordinary Hebrew word for a born child — and the full force of the lex talionis applies to its death.
 
 ---
 
 ## SYMBOLIC THREADS
 
-*No distinct symbolic threads requiring cross-reference definition in this chapter. See cross-references above for scripture-interpreting-scripture connections.*
+**The Doorpost:**
+- First appears: Exodus 12:7 — "And they shall take of the blood, and strike it on the two side posts and on the upper door post of the houses, wherein they shall eat it"
+- Exodus 21:6 — "his master shall bore his ear through with an aul" at the door post — the same structure marks both the Passover (blood applied for redemption) and the bondservant's permanent consecration (ear bored for love)
+- Deuteronomy 6:9 — "And thou shalt write them upon the posts of thy house, and on thy gates" — the doorpost is the place of covenant inscription for the entire household
+- *Pattern:* The doorpost is consistently the Bible's location of covenant commitment — either the blood that declares a household redeemed (Exodus 12), the inscription that declares a household under the Law (Deuteronomy 6), or the piercing that marks a servant permanently bound by love (Exodus 21). It is the threshold of covenant consecration, the boundary between the world and the household claimed by God.
+
+---
+
+**The Seventh Year:**
+- First appears: Exodus 21:2 — "In the seventh year he shall go out free for nothing"
+- Exodus 23:10-11 — "But the seventh year thou shalt let it rest and lie still; that the poor of thy people may eat" — the land rests in the seventh year
+- Leviticus 25:4, 10 — "But in the seventh year shall be a sabbath of rest unto the land... And ye shall hallow the fiftieth year, and proclaim liberty throughout all the land unto all the inhabitants thereof" — seven sevens lead to Jubilee
+- Isaiah 61:1-2 — "to proclaim liberty to the captives, and the opening of the prison to them that are bound; To proclaim the acceptable year of the LORD"
+- Luke 4:18-19 — Jesus reads Isaiah 61:1-2 and declares: "This day is this scripture fulfilled in your ears"
+- *Pattern:* The seventh-year release is the Sabbath principle applied outward: the seventh day releases from labor; the seventh year releases the servant; the seventh times seventh (Jubilee) releases all. Each is a type of the same reality — Christ as the ultimate Jubilee who proclaims liberty to all captives. The sabbatical year is not merely economic policy; it is a recurring enacted prophecy of the gospel.
+
+---
+
+**Thirty Shekels of Silver:**
+- First appears: Exodus 21:32 — "he shall give unto their master thirty shekels of silver" — the legal price paid when an ox gores a slave; the value set by law on a servant's life
+- Zechariah 11:12-13 — "So they weighed for my price thirty pieces of silver. And the LORD said unto me, Cast it unto the potter: a goodly price that I was prised at of them"
+- Matthew 26:15 — "And they covenanted with him for thirty pieces of silver" — Judas's price for betraying Christ
+- Matthew 27:5-7 — the silver thrown into the temple, then used to buy the potter's field — fulfilling Zechariah 11:13 precisely
+- *Pattern:* Thirty shekels is the Torah's legal price for a slave (Exodus 21:32). When Judas negotiated thirty pieces of silver for the Son of God, the religious leaders of Israel had — in the language of their own Law — valued the Lord of glory at the price of a gored slave. Zechariah 11 prophesied this exact sum centuries earlier. The number is not accidental; it is the Spirit's precise marking of the valuation that sinful men placed upon the Messiah.

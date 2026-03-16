@@ -158,7 +158,35 @@ Moses and Aaron confront Pharaoh: "Thus saith the LORD God of Israel, Let my peo
 
 ## COMMONLY MISQUOTED PASSAGES
 
-*No passages in this chapter are commonly misquoted or frequently taken out of context in a way that distorts the chapter's meaning.*
+### Exodus 5:2 — "Who Is the LORD, That I Should Obey?" Treated as an Unanswerable Question
+
+**Verse 2** — "And Pharaoh said, Who is the LORD, that I should obey his voice to let Israel go? I know not the LORD, neither will I let Israel go."
+
+**How it is misused:** Pharaoh's question is sometimes treated as a legitimate philosophical challenge that went unanswered, implying that the existence and authority of God are genuinely debatable and that resistance to divine authority is a reasonable posture. In secular contexts the verse is quoted to suggest God's authority is merely claimed, not demonstrated.
+
+**What the text actually says:** Exodus itself is the answer to Pharaoh's question — the entire narrative from chapters 7-14 is God's response:
+- **Exodus 7:5** — "And the Egyptians shall know that I am the LORD, when I stretch forth mine hand upon Egypt" — God's stated purpose: to answer Pharaoh's question through demonstration
+- **Exodus 9:16** — "And in very deed for this cause have I raised thee up, for to shew in thee my power; and that my name may be declared throughout all the earth" — the plagues are the answer; Pharaoh's question is used by God as the occasion for global declaration of His name
+- **Romans 9:17** — Paul quotes Exodus 9:16 as the definitive answer: Pharaoh's resistance becomes the very stage on which God's power is displayed and declared throughout all the earth
+
+*Correction:* Pharaoh's "Who is the LORD?" is not an unanswered philosophical question — it is a defiant rejection that God answered definitively through the ten plagues and the destruction of Egypt's army. The book of Exodus is written precisely as the answer to Exodus 5:2. Every plague is a page of the answer. By Exodus 14:31, Israel "feared the LORD" — the question was answered in history, not left open.
+
+---
+
+### Exodus 5:22-23 — Moses' Complaint Used to Justify Accusing God of Failure
+
+**Verses 22-23** — "Lord, wherefore hast thou so evil entreated this people? why is it that thou hast sent me? For since I came to Pharaoh to speak in thy name, he hath done evil to this people; neither hast thou delivered thy people at all."
+
+**How it is misused:** Moses' complaint is sometimes used to argue that prayer of lament is essentially faithlessness, or conversely, that because Moses complained and was not rebuked, any complaint against God — including accusation and sustained unbelief — is spiritually valid. Both misuses miss the narrative.
+
+**What the text actually says:** God's response to Moses' complaint is not rebuke — but neither is it validation of Moses' assessment. God answers with fuller revelation:
+- **Exodus 6:1** — "Then the LORD said unto Moses, Now shalt thou see what I will do to Pharaoh: for with a strong hand shall he let them go, and with a strong hand shall he drive them out of his land" — God answers with a promise of imminent, decisive action; He was not absent
+- **Exodus 6:3-8** — God's response is the fullest covenant declaration in Exodus: seven "I will" promises; His apparent silence was not abandonment but preparation for the demonstration of His name
+- **Psalm 22:1-2** — "My God, my God, why hast thou forsaken me? why art thou so far from helping me, and from the words of my roaring? O my God, I cry in the daytime, but thou hearest not" — David's lament; the complaint is received, but the lament itself contains faith ("My God")
+
+*Correction:* Moses' prayer in Exodus 5:22-23 is genuine lament — honest, raw, and received by God. The biblical pattern of lament (Psalms, Jeremiah, Habakkuk) is not faithlessness; it is faith pressed by circumstances. But the text shows that Moses' complaint was based on an incomplete view of what God was doing. God was not failing; He was preparing a far greater deliverance than Moses' first attempt could have produced. Lament that cries to God is not the same as unbelief that walks away from God.
+
+---
 
 ---
 

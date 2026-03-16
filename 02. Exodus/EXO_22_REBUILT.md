@@ -154,7 +154,51 @@ The civil and moral laws of Exodus 22 are foundational to the covenant structure
 
 ## COMMONLY MISQUOTED PASSAGES
 
-*No passages in this chapter are commonly misquoted or frequently taken out of context in a way that distorts the chapter's meaning.*
+### Exodus 22:18 — "Thou Shalt Not Suffer a Witch to Live" — Ripped from Its Covenant Context
+
+**Verse 18** — "Thou shalt not suffer a witch to live."
+
+**How it is misused:** This verse is cited either (1) to justify violence against people accused of occult practice outside any legal framework, or (2) dismissed entirely as primitive cruelty that no longer applies. Both uses strip the verse from its covenantal and legal context.
+
+**What the text actually says:**
+- **Deuteronomy 18:10-12** — "There shall not be found among thee any one that maketh his son or his daughter to pass through the fire, or that useth divination, or an observer of times, or an enchanter, or a witch, Or a charmer, or a consulter with familiar spirits, or a wizard, or a necromancer. For all that do these things are an abomination unto the LORD"
+- **Deuteronomy 17:6** — "At the mouth of two witnesses, or three witnesses, shall he that is worthy of death be put to death; but at the mouth of one witness he shall not be put to death" — capital sentences required legal process with multiple witnesses
+- **Leviticus 20:27** — "A man also or woman that hath a familiar spirit, or that is a wizard, shall surely be put to death: they shall stone them with stones: their blood shall be upon them" — same law, same legal process implied
+- **Galatians 5:20** — Paul lists witchcraft (pharmakeia) among the works of the flesh that exclude from the kingdom of God — the spiritual severity is carried into the New Covenant
+
+*Correction:* The law is a capital statute under the Mosaic civil code governing the theocratic nation of Israel, applied through a court process requiring witnesses (Deuteronomy 17:6). It is not a private authorization for individuals to harm those they suspect of occult practice. The theological principle it reflects — that operating in supernatural power derived from sources other than YHWH is covenant treason of the most serious kind — carries into the New Testament in different form. Galatians 5:20 and Revelation 21:8 continue to treat sorcery as among the gravest spiritual offenses.
+
+---
+
+### Exodus 22:28 — "Thou Shalt Not Revile the Gods" — Misread as Endorsing Polytheism
+
+**Verse 28** — "Thou shalt not revile the gods (Elohim), nor curse the ruler of thy people."
+
+**How it is misused:** Some cite the word "gods" (Elohim) to argue the Torah acknowledges multiple deities as real, or that this verse endorses tolerance of all religions. Others misread it as two unrelated commands with no connection.
+
+**What the text actually says:**
+- **Psalm 82:1, 6** — "God standeth in the congregation of the mighty; he judgeth among the gods... I have said, Ye are gods; and all of you are children of the most High" — Elohim here refers to judges and rulers who hold divine delegated authority
+- **John 10:34-35** — Jesus quotes Psalm 82:6 directly: "Is it not written in your law, I said, Ye are gods? If he called them gods, unto whom the word of God came, and the scripture cannot be broken" — Jesus confirms Elohim in this context = those who hold God's authority
+- **Acts 23:5** — Paul, corrected for speaking against the high priest: "I wist not, brethren, that he was the high priest: for it is written, Thou shalt not speak evil of the ruler of thy people" — Paul quotes Exodus 22:28 directly, applying it to governing authority
+- **Romans 13:1** — "For there is no power but of God: the powers that be are ordained of God"
+
+*Correction:* "Elohim" in Exodus 22:28 refers to God or to His delegated human authorities (judges/rulers) — a usage confirmed by Psalm 82 and John 10:34. The verse is not endorsing polytheism; it is prohibiting contemptuous speech against God and those who hold covenant authority. Acts 23:5 demonstrates that the New Testament church understood and applied this law to governing religious authorities. The law addresses speech that undermines divinely ordained authority structures, not the existence of foreign deities.
+
+---
+
+### Exodus 22:21 — "Ye Were Strangers in Egypt" — Claimed as an Open-Borders Proof Text
+
+**Verse 21** — "Thou shalt neither vex a stranger, nor oppress him: for ye were strangers in the land of Egypt."
+
+**How it is misused:** This verse is regularly extracted and applied as a blanket command requiring Israel (and by extension modern nations) to admit all foreigners without condition or distinction — that any limitation on immigration is a violation of this command.
+
+**What the text actually says:**
+- **Leviticus 19:34** — "But the stranger that dwelleth with you shall be unto you as one born among you, and thou shalt love him as thyself" — the protection applies to the stranger "dwelling with you" — already in the community
+- **Numbers 15:16** — "One law and one ordinance shall be for you, and for the stranger that sojourneth with you" — the stranger dwelling in Israel was subject to the same law; protection came with covenant accountability
+- **Deuteronomy 23:3** — "An Ammonite or Moabite shall not enter into the congregation of the LORD; even to their tenth generation shall they not enter" — the Torah itself distinguishes among foreigners; not all nations had identical standing
+- **Exodus 12:48** — "And when a stranger shall sojourn with thee, and will keep the passover to the LORD, let all his males be circumcised, and then let him come near and keep it... for no uncircumcised person shall eat thereof" — covenant participation had conditions
+
+*Correction:* The stranger-protection command forbids cruelty and oppression of the vulnerable foreigner living among the covenant people — grounded in Israel's own experience as oppressed aliens. It does not eliminate all distinctions among foreigners, nor does it forbid covenant communities from setting terms of membership. The Torah itself maintains distinctions between the sojourner dwelling among Israel (who receives protection and is subject to Israel's law) and those outside the covenant community entirely (Deuteronomy 23:3). The moral principle is: do not abuse the vulnerable who are already among you.
 
 ---
 

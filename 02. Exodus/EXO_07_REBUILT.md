@@ -179,7 +179,37 @@ Each plague targets a specific Egyptian deity — God is dismantling the religio
 
 ## COMMONLY MISQUOTED PASSAGES
 
-*No passages in this chapter are commonly misquoted or frequently taken out of context in a way that distorts the chapter's meaning.*
+### Exodus 7:1 — "I Have Made Thee a God to Pharaoh" Used to Claim Human Divinity
+
+**Verse 1** — "And the LORD said unto Moses, See, I have made thee a god to Pharaoh: and Aaron thy brother shall be thy prophet."
+
+**How it is misused:** Some use this verse to argue that humans can become gods or that there is a category of divine human authority that blurs the line between God and man. It is cited to support teachings of human deification or to give individuals extraordinary authority claims over others.
+
+**What the text actually says:** The context immediately defines what "god to Pharaoh" means — it is a relational, representational role, not an ontological claim:
+- **Verse 2** — "Thou shalt speak all that I command thee: and Aaron thy brother shall speak unto Pharaoh" — Moses does not originate the words; he receives and transmits them; this is the role of a commissioned representative, not a deity
+- **Exodus 4:16** — "He shall be thy spokesman unto the people: and he shall be, even he shall be to thee instead of a mouth, and thou shalt be to him instead of God" — the identical relationship was already described in chapter 4; it is a functional analogy of authority, not a claim of divine nature
+- **John 10:34-35** — Jesus quotes Psalm 82:6 ("I said, Ye are gods") explaining: "If he called them gods, unto whom the word of God came" — those who bear and transmit God's word are described in god-language because they carry His authority; it is representative language, not ontological
+
+*Correction:* "Made thee a god to Pharaoh" means Moses stood before Pharaoh as God's full representative — bearing God's word, authority, and demand. It is an office of commissioned representation, entirely dependent on the One who sent him. Moses has no independent divine nature; his "god-ness" to Pharaoh is borrowed authority. The moment God's commission ends, so does the authority. This is confirmed by Aaron being called Moses' "prophet" — prophets speak for someone else; Moses is speaking for God.
+
+---
+
+### Exodus 7:13 — "God Hardened Pharaoh's Heart" Treated as the Whole Story of Hardening
+
+**Verse 13** — "And he hardened Pharaoh's heart, that he hearkened not unto them; as the LORD had said."
+
+**How it is misused:** This verse — and similar statements in chapters 7 and beyond — is used to argue that Pharaoh's resistance was entirely God's creation, leaving Pharaoh no moral agency and making the plagues an unjust punishment of someone God had predestined to resist. See also the note on Exodus 4:21.
+
+**What the text actually says:** The narrative of hardening runs in two distinct phases, and chapter 7's use of passive language must be read alongside the full sequence:
+- **Exodus 7:22** — "Pharaoh's heart was hardened" — passive construction; the immediate agent is not specified
+- **Exodus 8:15** — "He hardened his heart" — Pharaoh himself is the explicit agent; his own choice
+- **Exodus 8:32** — "Pharaoh hardened his heart at this time also" — again, Pharaoh's own act
+- **Exodus 9:34** — "He sinned yet more, and hardened his heart, he and his servants" — Pharaoh and his court choose hardness
+- Only from Exodus 9:12 onward does God harden Pharaoh's heart as an explicit divine act — after Pharaoh had already done so repeatedly
+
+*Correction:* The hardening narrative is a two-stage process: self-hardening followed by divine judicial confirmation. Romans 1:24-28 establishes this pattern: "God gave them up" comes after and in response to the human choice to reject the truth. Pharaoh's hardening does not begin with God; it begins with Pharaoh. God's hardening is the confirmation and use of the direction Pharaoh had already established by his own repeated choices.
+
+---
 
 ---
 
