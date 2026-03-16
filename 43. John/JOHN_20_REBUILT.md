@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** The Empty Tomb, Jesus Appears to Mary Magdalene, Jesus Appears to His Disciples, Jesus and Thomas
 
-**Tags:** #first-day-week-Mary-Magdalene-early-dark-sepulchre-seeth-stone-taken-sepulchre-runneth-Simon-Peter-disciple-Jesus-loved-taken-Lord-sepulchre-laid-Peter-disciple-sepulchre-ran-disciple-outrun-Peter-sepulchre-stooping-looking-linen-clothes-lying-went-sepulchre-Simon-Peter-following-sepulchre-linen-clothes-napkin-head-lying-linen-wrapped-place-disciple-sepulchre-believed-knew-scripture-rise-dead-disciples-home-Mary-sepulchre-weeping-wept-stooped-sepulchre-angels-white-sitting-head-feet-body-Jesus-lain-angels-Woman-weepest-taken-Lord-laid-turned-Jesus-standing-knew-Jesus-Woman-weepest-seeketh-gardener-borne-hence-tell-laid-take-Jesus-Mary-turned-Rabboni-Master-Touch-not-ascended-Father-brethren-ascend-Father-Father-God-God-Mary-Magdalene-disciples-Lord-spoken-day-evening-first-day-week-doors-shut-disciples-feared-Jews-Jesus-midst-Peace-disciples-hands-side-disciples-glad-Jesus-Peace-Father-sent-breathed-Holy-Ghost-sins-remit-remitted-sins-retain-retained-Thomas-Didymus-disciples-Jesus-disciples-Lord-hands-nails-finger-nails-hand-side-believe-days-disciples-doors-shut-midst-Peace-Thomas-finger-behold-hands-hand-side-faithless-believing-Thomas-Lord-God-Thomas-seen-believed-blessed-believed-signs-Jesus-disciples-written-book-written-believe-Christ-Son-God-believing-life-name
+**Tags:** #the-empty-tomb #jesus-appears-to-mary-magdalene #jesus-appears-to-his-disciples #jesus-and-thomas
 
 ---
 
@@ -219,7 +219,7 @@ First, day, week, Mary, Magdalene, early, dark, sepulchre, seeth, stone, taken, 
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Empty Tomb as Type of Christ's Resurrection
 - **Physical empty:** Stone taken (John 20:3)

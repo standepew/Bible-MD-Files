@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Marriage and Singleness, Mixed Marriages, Christian Liberty, The Present Distress
 
-**Tags:** #concerning-wrote-man-touch-woman-avoid-fornication-man-wife-woman-husband-husband-render-wife-benevolence-wife-husband-wife-power-body-husband-wife-power-body-wife-defraud-consent-time-fasting-prayer-come-together-Satan-tempt-incontinency-permission-commandment-men-proper-gift-God-manner-unmarried-widows-abide-contain-marry-better-marry-burn-married-command-Lord-wife-depart-husband-depart-unmarried-reconciled-husband-husband-put-wife-rest-speak-Lord-brother-wife-believeth-dwell-put-away-woman-husband-believeth-dwell-leave-unbelieving-husband-sanctified-wife-unbelieving-wife-sanctified-husband-children-unclean-holy-unbelieving-depart-depart-brother-sister-bondage-cases-God-called-peace-wife-save-husband-man-save-wife-God-distributed-man-Lord-called-man-walk-ordain-churches-man-called-circumcised-uncircumcised-called-uncircumcision-circumcised-circumcision-uncircumcision-keeping-commandments-God-man-abide-calling-called-servant-care-made-free-use-called-Lord-servant-Lord-freeman-called-free-Christ-servant-bought-price-servants-men-brethren-man-called-abide-God-virgins-commandment-Lord-judgment-mercy-Lord-faithful-present-distress-man-bound-wife-seek-loosed-loosed-wife-seek-wife-marry-sinned-virgin-marry-sinned-trouble-flesh-spare-brothers-time-short-remain-wives-wives-weep-wept-rejoice-rejoiced-buy-possessed-use-world-abusing-fashion-world-passeth-carefulness-unmarried-careth-Lord-please-Lord-married-careth-world-please-wife-difference-wife-virgin-unmarried-careth-Lord-holy-body-spirit-married-careth-world-please-husband-profit-snares-comely-attend-Lord-distraction-man-behaveth-uncomely-virgin-pass-flower-age-require-will-sinned-marry-standeth-stedfast-heart-necessity-power-will-decreed-heart-keep-virgin-well-giveth-marriage-well-giveth-marriage-better-wife-law-husband-husband-dead-liberty-married-will-Lord-happier-abide-judgment-Spirit-God
+**Tags:** #marriage-and-singleness #mixed-marriages #christian-liberty #the-present-distress
 
 ---
 
@@ -295,7 +295,7 @@ Concerning, wrote, man, touch, woman, avoid, fornication, man, wife, woman, husb
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Marriage and Singleness as Type of Christ's Relationship
 - **Physical relationship:** Touch woman (1 Corinthians 7:3)

@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Sanctification and Purity, Brotherly Love, Working Quietly, The Coming of the Lord
 
-**Tags:** #beseech-brethren-exhort-Lord-Jesus-received-walk-please-God-abound-commandments-Lord-Jesus-will-God-sanctification-abstain-fornication-possess-vessel-sanctification-honour-lust-concupiscence-Gentiles-know-God-beyond-defraud-brother-matter-Lord-avenger-forewarned-testified-God-called-uncleanness-holiness-despiseth-despiseth-man-God-given-holy-Spirit-touching-brotherly-love-write-ye-taught-God-love-brethren-Macedonia-increase-study-quiet-business-own-hands-commanded-walk-honestly-without-lack-ignorant-brethren-asleep-sorrow-others-hope-believe-Jesus-died-rose-sleep-Jesus-God-bring-word-Lord-alive-remain-coming-Lord-prevent-asleep-Lord-descend-heaven-shout-voice-archangel-trump-God-dead-Christ-rise-alive-remain-caught-clouds-meet-Lord-air-ever-Lord-comfort-words
+**Tags:** #sanctification-and-purity #brotherly-love #working-quietly #the-coming-of-the-lord
 
 ---
 
@@ -167,7 +167,7 @@ Beseech, brethren, exhort, Lord, Jesus, received, walk, please, God, abound, com
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Sanctification and Purity as Type of Christ's Holiness
 - **Physical holiness:** Sanctification honour (1 Thessalonians 4:2)

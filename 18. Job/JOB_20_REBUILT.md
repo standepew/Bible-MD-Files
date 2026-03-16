@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Zophar's Second Speech, Wicked's Short Triumph, Divine Judgment, Complete Ruin
 
-**Tags:** #Zophar-Naamathite-answered-thoughts-haste-check-reproach-spirit-understanding #triumphing-wicked-short-joy-hypocrite-moment #excellency-heavens-head-clouds-perish-dung-dream-vision-night #eye-see-place-behold #children-please-poor-hands-restore-goods #bones-sin-youth-dust #wickedness-sweet-mouth-tongue-spare-forsake-keep #meat-bowels-gall-asps #swallowed-riches-vomit-GOD-cast-belly #suck-poison-asps-viper-tongue-slay #rivers-floods-brooks-honey-butter #laboured-restore-swallow-substance-restitution-rejoice #oppressed-forsaken-poor-violently-house-builded #quietness-belly-save-desired #meat-left-goods #fulness-sufficiency-straits-wicked-hand #fill-belly-GOD-fury-wrath-rain-eating #flee-iron-weapon-bow-steel-strike #drawn-body-glittering-sword-gall-terrors #darkness-secret-places-fire-consumed-tabernacle #heaven-reveal-iniquity-earth-rise #increase-house-depart-goods-flow-wrath #portion-wicked-GOD-heritage-appointed
+**Tags:** #eye-see-place-behold #bones-sin-youth-dust #meat-bowels-gall-asps #rivers-floods-brooks-honey-butter #quietness-belly-save-desired #meat-left-goods #fulness-sufficiency-straits-wicked-hand #heaven-reveal-iniquity-earth-rise #portion-wicked-GOD-heritage-appointed #zophar #wicked #divine-judgment #complete-ruin
 
 ---
 

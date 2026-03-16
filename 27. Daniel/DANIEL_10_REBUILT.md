@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Revelation, Spiritual Warfare, Angelic Beings, Divine Strength
 
-**Tags:** #third-year-Cyrus-king-Persia-thing-revealed-Daniel-Belteshazzar-thing-true-time-appointed-long-understood-thing-understanding-vision-days-Daniel-mourning-three-full-weeks-ate-pleasant-bread-flesh-wine-mouth-anointed-three-whole-weeks-fulfilled-four-twentieth-day-first-month-side-great-river-Hiddekel-lifted-eyes-looked-certain-man-clothed-linen-loins-girded-fine-gold-Uphaz-body-beryl-face-appearance-lightning-eyes-lamps-fire-arms-feet-colour-polished-brass-voice-words-voice-multitude-Daniel-alone-vision-men-vision-quaking-fled-hide-left-alone-great-vision-remained-strength-comeliness-turned-corruption-retained-strength-heard-voice-words-deep-sleep-face-face-ground-hand-touched-knees-palms-hands-Daniel-greatly-beloved-understand-words-stand-upright-sent-spoken-word-stood-trembling-Fear-Daniel-first-day-set-heart-understand-chastened-God-words-heard-come-words-prince-kingdom-Persia-withstood-one-twenty-days-Michael-chief-princes-came-help-remained-kings-Persia-come-understand-befall-people-latter-days-vision-many-days-spoken-words-face-ground-became-dumb-similitude-sons-men-touched-lips-opened-mouth-spake-stood-lord-vision-sorrows-turned-retained-strength-servant-lord-talk-lord-straightway-remained-strength-breath-came-again-touched-appearance-man-strengthened-man-greatly-beloved-fear-peace-strong-strengthened-spoke-strengthened-lord-speak-strengthened-Knowest-come-return-fight-prince-Persia-gone-prince-Grecia-shew-noted-scripture-truth-holdeth-Michael-prince
+**Tags:** #christ #spiritual-warfare #angelic-beings #divine-strength
 
 ---
 

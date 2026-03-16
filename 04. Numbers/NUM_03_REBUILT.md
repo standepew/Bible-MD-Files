@@ -2,7 +2,7 @@
 
 ---
 
-## 1. CHAPTER METADATA
+## CHAPTER METADATA
 
 **Book:** Numbers
 **Chapter:** 3
@@ -13,13 +13,13 @@
 
 ---
 
-## 2. CHAPTER SUMMARY
+## CHAPTER SUMMARY
 
 The chapter opens with the generations of Aaron and Moses, noting the death of Nadab and Abihu (who left no sons) and the surviving sons Eleazar and Ithamar. God commands Moses to bring Levi near and present them before Aaron — they are given wholly to him for Tabernacle service. God then states the foundational principle: the Levites are taken instead of all the firstborn of Israel, because all firstborn are His — claimed on the night He struck Egypt's firstborn and hallowed Israel's. The three clans are numbered from one month and upward: Gershon (7,500) — assigned west, bearing the outer tabernacle coverings and hangings; Kohath (8,600) — assigned south, bearing the ark, table, candlestick, altars, and holy vessels; Merari (6,200) — assigned north, bearing the boards, bars, pillars, and sockets. Moses, Aaron, and sons camp east before the Tabernacle. Total Levites: 22,000. Then God commands a separate count of Israel's firstborn males from one month up: 22,273. The 273 excess (over and above the Levites) are redeemed at five shekels each — 1,365 shekels given to Aaron and his sons.
 
 ---
 
-## 3. CROSS-REFERENCES (Scripture Interpreting Scripture)
+## CROSS-REFERENCES (Scripture Interpreting Scripture) (Scripture Interpreting Scripture)
 
 ### "All the Firstborn Are Mine" — The Passover Claim
 
@@ -56,7 +56,7 @@ The chapter opens with the generations of Aaron and Moses, noting the death of N
 
 ---
 
-## 4. KEYWORD INDEX
+## KEYWORD INDEX
 
 **For Current Events Matching:**
 - **Substitution / someone taking another's place** → Numbers 3:12 — the Levites instead of the firstborn; typology of Christ as the substitute
@@ -67,7 +67,7 @@ The chapter opens with the generations of Aaron and Moses, noting the death of N
 
 ---
 
-## 5. KEY TERMS WITH CONTEXTUAL DEFINITIONS
+## KEY TERMS WITH CONTEXTUAL DEFINITIONS WITH CONTEXTUAL DEFINITIONS
 
 ### WHOLLY GIVEN (Hebrew: netunim netunim — given, given; a doubled form)
 - **Numbers 3:9** — "they are wholly given unto him" — the doubling of the Hebrew verb intensifies the completeness of the gift
@@ -79,7 +79,7 @@ The chapter opens with the generations of Aaron and Moses, noting the death of N
 
 ---
 
-## 6. THE ACTUAL VERSES — NUMBERS 3 (KJV)
+## THE ACTUAL VERSES (KJV) — NUMBERS 3 (KJV)
 
 **1** These also are the generations of Aaron and Moses in the day that the LORD spake with Moses in mount Sinai.
 **2** And these are the names of the sons of Aaron; Nadab the firstborn, and Abihu, Eleazar, and Ithamar.
@@ -135,7 +135,7 @@ The chapter opens with the generations of Aaron and Moses, noting the death of N
 
 ---
 
-## 7. PROPHETIC/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS/TYPOLOGICAL CONNECTIONS
 
 ### Kohath Bears the Ark — The Danger of Proximity to the Most Holy
 
@@ -147,7 +147,7 @@ The Kohathites bear the holiest objects — the ark, the table, the candlestick,
 
 ---
 
-## 8. COMMONLY MISQUOTED PASSAGES
+## COMMONLY MISQUOTED PASSAGES PASSAGES
 
 ### Numbers 3:4 — Nadab and Abihu "Had No Children" — Used as Incidental Detail
 
@@ -161,7 +161,7 @@ The Kohathites bear the holiest objects — the ark, the table, the candlestick,
 
 ---
 
-## 9. SYMBOLIC THREADS
+## SYMBOLIC THREADS
 
 ### The Three Burdens — Covering, Content, Structure
 

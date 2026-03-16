@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Paul Before Festus, Paul Appeals to Caesar, Paul Before Agrippa
 
-**Tags:** #Festus-province-three-days-ascended-Caesarea-Jerusalem-high-priest-chief-Jews-informed-Paul-besought-desired-favour-send-Jerusalem-laying-wait-kill-Festus-answered-kept-Caesarea-depart-shortly-therewith-able-accuse-man-wickedness-tarried-ten-days-Caesarea-next-judgment-seat-commanded-brought-Jews-Jerusalem-stood-laid-grievous-complaints-prove-answered-neither-law-Jews-temple-Caeser-offended-Festus-willing-Jews-pleasure-answered-Jerusalem-judged-Paul-stand-Caeser-judgment-seat-judged-Jews-wrong-knowest-offender-committed-worthy-death-refuse-die-accuse-deliver-appeal-Caeser-Festus-conferred-council-answered-appealed-Caeser-Caeser-certain-days-king-Agrippa-Bernice-Caesarea-salute-Festus-days-Festus-declared-Paul-cause-king-man-left-bonds-Felix-Jerusalem-chief-priests-elders-Jews-informed-desiring-judgment-answered-manner-Romans-deliver-accused-accusers-face-licence-answer-crime-laid-here-delay-morrow-judgment-seat-commanded-brought-accusers-accusation-supposed-questions-superstition-Jesus-dead-Paul-affirmed-alive-doubted-questions-asked-Jerusalem-judged-matters-Paul-appealed-reserved-hearing-Augustus-commanded-kept-send-Caeser-Agrippa-Festus-hear-man-morrow-hear-morrow-Agrippa-Bernice-great-pomp-entered-place-hearing-chief-captains-principal-men-city-Festus-commandment-brought-Festus-King-Agrippa-present-multitude-Jews-dealt-Jerusalem-crying-live-longer-found-committed-worthy-death-appealed-Augustus-determined-send-certain-write-lord-brought-specially-king-Agrippa-examination-write-someth-unreasonable-send-prisoner-signify-crimes-laid
+**Tags:** #paul-before-festus #paul-appeals-to-caesar #paul-before-agrippa
 
 ---
 
@@ -243,7 +243,7 @@ Festus, province, three, days, ascended, Caesarea, Jerusalem, high, priest, chie
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Paul Before Festus as Type of Christ's Trial
 - **Physical trial:** Laying wait (Acts 25:5)

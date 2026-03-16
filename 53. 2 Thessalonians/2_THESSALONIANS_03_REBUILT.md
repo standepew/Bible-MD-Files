@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Prayer for the Ministry, The Faithful Lord, Command to Work, Discipline of Disorderly, Final Benediction
 
-**Tags:** #Finally-brethren-pray-word-Lord-free-course-glorified-delivered-unreasonable-wicked-men-faith-Lord-faithful-stablish-keep-evil-confidence-Lord-touching-command-withdraw-disorderly-tradition-received-behaved-disorderly-eat-bread-nought-wrought-labour-travail-night-day-chargeable-power-ensample-follow-command-work-eat-disorderly-working-busybodies-command-exhort-Lord-Jesus-Christ-quietness-work-bread-weary-well-doing-obey-word-epistle-note-man-company-ashamed-enemy-admonish-brother-Lord-peace-give-peace-means-Lord-salutation-Paul-hand-token-epistle-write-grace-Lord-Jesus-Christ-Amen
+**Tags:** #prayer-for-the-ministry #the-faithful-lord #command-to-work #discipline-of-disorderly #final-benediction
 
 ---
 
@@ -181,7 +181,7 @@ Finally, brethren, pray, word, Lord, free, course, glorified, delivered, unreaso
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Prayer for the Ministry as Type of Christ's Intercession
 - **Physical intercession:** Free course (2 Thessalonians 3:2)

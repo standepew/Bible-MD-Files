@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Sabbath Worship, Divine Works, Righteous Flourishing, God's Uprightness
 
-**Tags:** #Psalm-Song-sabbath-day-good-thing-give-thanks-LORD-sing-praises-name-High-shew-lovingkindness-morning-faithfulness-night-instrument-ten-strings-psaltery-harp-solemn-sound-LORD-made-glad-work-triumph-works-hands-LORD-great-works-thoughts-deep-brutish-know-fool-understand-wicked-spring-grass-workers-iniquity-flourish-destroyed-forever-LORD-high-forever-enemies-LORD-enemies-perish-workers-iniquity-scattered-horn-exalt-like-horn-unicorn-anointed-fresh-oil-eye-desire-enemies-ears-desire-wicked-rise-against-righteous-flourish-palm-tree-grow-cedar-Lebanon-planted-house-LORD-flourish-courts-GOD-bring-forth-fruit-old-age-fat-flourishing-shew-LORD-upright-rock-unrighteousness
+**Tags:** #sabbath-worship #divine-works #righteous-flourishing #god
 
 ---
 

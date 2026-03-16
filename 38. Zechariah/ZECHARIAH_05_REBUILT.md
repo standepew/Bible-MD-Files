@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Judgment on Sin, Flying Roll of Curse, Woman in Ephah, Removal of Wickedness
 
-**Tags:** #turned-lifted-eyes-looked-flying-roll-seest-answered-flying-roll-length-twenty-cubits-breadth-ten-cubits-curse-goeth-face-whole-earth-stealeth-cut-side-sweareth-cut-side-bring-forth-LORD-hosts-enter-house-thief-house-sweareth-falsely-name-remain-midst-house-consume-timber-stones-angel-talked-went-forth-Lift-eyes-see-forth-answered-ephah-forth-resemblance-earth-lifted-talent-lead-woman-sitteth-midst-ephah-wickedness-cast-midst-ephah-cast-weight-lead-mouth-lifted-eyes-looked-two-women-wind-wings-wings-stork-lifted-ephah-earth-heaven-angel-talked-Whither-bear-ephah-build-house-land-Shinar-established-set-base
+**Tags:** #christ #flying-roll-of-curse #woman-in-ephah #removal-of-wickedness
 
 ---
 

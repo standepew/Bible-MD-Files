@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Historical Victory, Present Defeat, Covenant Faithfulness, Prayer for Redemption
 
-**Tags:** #chief-Musician-sons-Korah-Maschil-heard-ears-GOD-fathers-told-work-days-times-old-drove-heathen-hand-plantedst-afflicted-people-cast-land-possession-own-sword-own-arm-save-right-hand-arm-light-countenance-favour-King-GOD-command-deliverances-Jacob-push-enemies-name-tread-rise-trust-bow-sword-save-saved-enemies-put-shame-hated-GOD-boast-day-long-praise-name-Selah-cast-put-shame-goest-forth-armies-turn-back-enemies-hate-spoil #given-sheep-appointed-meat-scattered-heathen-sellest-people-nought-increase-wealth-price-reproach-neighbours-scorn-derision-round-byword-heathen-shaking-head-people-confusion-continually-shame-face-covered-voice-reproacheth-blasphemeth-enemy-avenger-come-forgotten-dealt-falsely-covenant-heart-turned-back-steps-declined-way-sore-broken-place-dragons-covered-shadow-death-forgotten-name-GOD-stretched-hands-strange-god-search-secrets-heart-sake-killed-day-long-counted-sheep-slaughter #Awake-sleepest-Lord-arise-cast-forever-hidest-face-forgettest-affliction-oppression-soul-bowed-dust-belly-cleaveth-earth-arise-help-redeem-mercies-sake
+**Tags:** #historical-victory #present-defeat #covenant-faithfulness #prayer-for-redemption
 
 ---
 

@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Healing, Resurrection Power, Divine Mercy, Covenant Knowledge
 
-**Tags:** #Come-return-LORD-torn-heal-smitten-bind-two-days-revive-third-day-raise-live-sight-follow-know-LORD-going-forth-prepared-morning-come-rain-latter-former-rain-earth-Ephraim-Judah-goodness-morning-cloud-early-dew-away-hewed-prophets-slain-words-mouth-judgments-light-forth-desired-mercy-sacrifice-knowledge-God-burnt-offerings-men-transgressed-covenant-dealt-treacherously-Gilead-city-work-iniquity-polluted-blood-troops-robbers-man-company-priests-murder-way-consent-commit-lewdness-horrible-thing-house-Israel-whoredom-Ephraim-Israel-defiled-Judah-harvest-captivity-people
+**Tags:** #christ #resurrection-power #divine-mercy #covenant-knowledge
 
 ---
 

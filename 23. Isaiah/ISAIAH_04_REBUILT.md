@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Branch, Spiritual Cleansing, Divine Protection, Millennial Blessings
 
-**Tags:** #day-seven-women-hold-man-saying-eat-bread-wear-apparel-called-name-reproach-day-branch-LORD-beautiful-glorious-fruit-earth-excellent-comely-escaped-Israel-left-Zion-remain-Jerusalem-called-holy-written-living-Jerusalem-LORD-washed-filth-daughters-Zion-purged-blood-Jerusalem-midst-spirit-judgment-spirit-burning-LORD-create-dwelling-place-mount-Zion-assemblies-cloud-smoke-day-shining-flaming-fire-night-glory-defence-tabernacle-shadow-daytime-heat-place-refuge-covert-storm-rain
+**Tags:** #christ #spiritual-cleansing #divine-protection #millennial-blessings
 
 ---
 

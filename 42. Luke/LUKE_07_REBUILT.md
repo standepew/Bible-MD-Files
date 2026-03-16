@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Healing of the Centurion's Servant, Raising of the Widow's Son, Jesus and John the Baptist, Anointing of Jesus' Feet
 
-**Tags:** #ended-sayings-audience-people-entered-Capernaum-centurion-servant-dear-sick-ready-die-heard-Jesus-sent-elders-Jews-beseeching-heal-servant-Jesus-elders-instantly-worthy-built-synagogue-Jesus-house-centurion-friends-Lord-trouble-worthy-roof-worthy-come-word-servant-healed-man-authority-soldiers-said-Go-Come-Do-servant-Jesus-heard-marvelled-people-followed-found-great-faith-Israel-sent-returning-house-servant-whole-sick-day-city-Nain-disciples-people-gate-city-dead-man-carried-son-mother-widow-people-city-Lord-saw-compassion-Weep-touched-bier-bare-still-Young-man-Arise-dead-sat-spoke-delivered-mother-fear-glorified-God-prophet-risen-visited-rumour-Judæa-region-disciples-John-things-John-calling-disciples-sent-Jesus-come-look-men-Jesus-John-Baptist-sent-come-look-hour-cured-infirmities-plagues-evil-spirits-blind-sight-Jesus-answering-John-seen-heard-blind-lame-lepers-deaf-hear-dead-raised-poor-gospel-preached-blessed-offended-messengers-departed-people-John-wilderness-reed-wind-soft-raiment-apparelled-delicately-kings-courts-prophet-much-prophet-written-messenger-face-prepare-way-born-women-greater-prophet-John-Baptist-least-kingdom-God-greater-people-heard-publicans-justified-God-baptized-John-Pharisees-lawyers-rejected-counsel-God-baptized-Lord-liken-generation-marketplace-piped-danced-mourned-wept-John-Baptist-eating-bread-drinking-wine-devil-Son-man-eating-drinking-gluttonous-winebibber-friend-publicans-sinners-wisdom-justified-children-Pharisee-desired-eat-Pharisee-house-meat-woman-city-sinner-Jesus-meat-Pharisee-house-alabaster-box-ointment-feet-weeping-wash-feet-tears-wipe-hairs-head-kissed-feet-anointed-ointment-Pharisee-bidden-prophet-woman-sinner-Jesus-answering-Simon-somewhat-Master-say-creditor-debtors-owed-pence-fifty-pay-frankly-forgave-love-most-Simon-answered-forgave-rightly-judged-turned-woman-Simon-woman-entered-house-water-feet-washed-feet-tears-wiped-hairs-head-kiss-ceased-kiss-feet-head-oil-anoint-feet-ointment-forgiven-loved-forgiven-loved-sins-forgiven-meat-sins-forgiven-faith-saved-peace
+**Tags:** #healing-of-the-centurion #raising-of-the-widow #jesus-and-john-the-baptist #anointing-of-jesus
 
 ---
 
@@ -363,7 +363,7 @@ Ended, sayings, audience, people, entered, Capernaum, centurion, servant, dear, 
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Healing of the Centurion's Servant as Type of Christ's Authority
 - **Physical healing:** Centurion servant (Luke 7:4)

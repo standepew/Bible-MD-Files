@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Human Frailty, Life's Brevity, Hope in God, Deliverance from Sin
 
-**Tags:** #chief-Musician-Jeduthun-Psalm-David-take-heed-ways-sin-tongue-keep-mouth-bridle-wicked-dumb-silence-held-peace-good-sorrow-stirred-heart-hot-within-musing-fire-burned-spake-tongue-LORD-make-know-end-measure-days-frail-behold-made-days-handbreadth-age-nothing-man-best-state-vanity-Selah-walketh-vain-shew-disquieted-vain-heapeth-riches-knoweth-gather #Lord-wait-hope-deliver-transgressions-make-reproach-foolish-dumb-opened-mouth-thou-didst-remove-stroke-away-consumed-blow-hand-rebukes-correct-man-iniquity-beauty-consume-moth-man-vanity-Selah-hear-prayer-LORD-give-ear-cry-hold-peace-tears-stranger-sojourner-fathers-spare-recover-strength-go-hence
+**Tags:** #human-frailty #life #hope-in-god #deliverance-from-sin
 
 ---
 

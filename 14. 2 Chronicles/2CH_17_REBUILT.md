@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Jehoshaphat's Reign, Religious Reform, Educational System, Divine Blessing
 
-**Tags:** #Jehoshaphat-son-reigned-stead-strengthened-Israel #placed-forces-fenced-cities-Judah-garrisons-land-Judah-cities-Ephraim-Asa-father-taken #LORD-Jehoshaphat-walked-ways-father-David-sought-Baalim #sought-LORD-God-father-walked-commandments-doings-Israel #LORD-stablished-kingdom-hand-Judah-Jehoshaphat-presents-riches-honour-abundance #heart-lifted-ways-LORD-took-high-places-groves-Judah #third-year-reign-sent-princes-Ben-hail-Obadiah-Zechariah-Nethaneel-Michaiah-teach-cities-Judah #Levites-Shemaiah-Nethaniah-Zebadiah-Asahel-Shemiramoth-Jehonathan-Adonijah-Tobijah-Tob-adonijah-Levites-Elishama-Jehoram-priests #taught-Judah-book-law-LORD-cities-Judah-taught-people #fear-LORD-fell-kingdoms-lands-Judah-war-Jehoshaphat #Philistines-Jehoshaphat-presents-tribute-silver-Arabians-flocks-seven-thousand-seven-hundred-rams-seven-thousand-seven-hundred-he-goats #Jehoshaphat-waxed-great-exceedingly-Judah-castles-cities-store #business-cities-Judah-men-war-mighty-men-valour-Jerusalem #numbers-house-fathers-Judah-captains-thousands-Adnah-chief-mighty-men-valour-three-hundred-thousand #Jehohanan-captain-two-hundred-fourscore-thousand #Amasiah-son-Zichri-willingly-offered-LORD-two-hundred-thousand-mighty-men-valour #Benjamin-Eliada-mighty-men-valour-armed-men-bow-shield-two-hundred-thousand #Jehozabad-hundred-fourscore-thousand-ready-prepared-war #waited-king-fenced-cities-Judah
+**Tags:** #waited-king-fenced-cities-Judah #jehoshaphat #religious-reform #educational-system #divine-blessing
 
 ---
 

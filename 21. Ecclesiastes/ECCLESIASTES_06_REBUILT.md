@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Divine Sovereignty, Human Limitations, Wealth and Misery, Life and Death
 
-**Tags:** #evil-seen-sun-common-men-man-God-given-riches-wealth-honour-wanteth-nothing-soul-desireth-God-giveth-power-eat-stranger-eat-vanity-evil-disease-man-beget-hundred-children-live-many-years-days-years-soul-filled-good-burial-untimely-birth-better-cometh-vanity-departeth-darkness-name-covered-darkness-seen-sun-known-thing-rest-live-thousand-years-twice-told-seen-good-place-labour-mouth-appetite-filled-wise-fool-poor-knoweth-walk-living-sight-eyes-wandering-desire-vanity-vexation-spirit-hath-named-man-contend-mightier-things-increase-vanity-man-better-knoweth-good-man-life-days-vain-life-spend-shadow-tell-man-sun
+**Tags:** #divine-sovereignty #human-limitations #wealth-and-misery #life-and-death
 
 ---
 

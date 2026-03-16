@@ -2,7 +2,7 @@
 
 ---
 
-## 1. CHAPTER METADATA
+## CHAPTER METADATA
 
 **Book:** Numbers
 **Chapter:** 7
@@ -13,13 +13,13 @@
 
 ---
 
-## 2. CHAPTER SUMMARY
+## CHAPTER SUMMARY
 
 On the day Moses finishes setting up and anointing the Tabernacle, the twelve tribal princes bring six covered wagons (one per two princes) and twelve oxen (one per prince) before the Tabernacle. God instructs Moses to distribute them to the Levites according to service needs: Gershon receives two wagons and four oxen for the outer coverings; Merari receives four wagons and eight oxen for the heavy structural framework; Kohath receives none — they carry on their shoulders. Then, over twelve consecutive days, each prince brings his offering for the altar dedication. Every offering is identical: one silver charger (130 shekels) full of fine flour and oil; one silver bowl (70 shekels) full of fine flour and oil; one golden spoon (10 shekels) full of incense; one young bullock, one ram, one yearling lamb for burnt offering; one kid for sin offering; two oxen, five rams, five he-goats, five yearling lambs for peace offerings. Day 1: Nahshon of Judah. Day 2: Nethaneel of Issachar. Days 3-12: each tribe in succession. The chapter then totals everything: 12 silver chargers, 12 silver bowls, 12 golden spoons, 12 burnt-offering animals per category, 12 sin-offering goats, and peace-offering animals. The chapter closes: when Moses entered the Tabernacle to speak with God, he heard the voice speaking from above the mercy seat between the two cherubim.
 
 ---
 
-## 3. CROSS-REFERENCES (Scripture Interpreting Scripture)
+## CROSS-REFERENCES (Scripture Interpreting Scripture) (Scripture Interpreting Scripture)
 
 ### The Mercy Seat — Where God Speaks
 
@@ -55,7 +55,7 @@ On the day Moses finishes setting up and anointing the Tabernacle, the twelve tr
 
 ---
 
-## 4. KEYWORD INDEX
+## KEYWORD INDEX
 
 **For Current Events Matching:**
 - **Equal standing before God regardless of status/size** → Numbers 7 — every tribe's identical offering; Romans 2:11; Galatians 3:28
@@ -66,7 +66,7 @@ On the day Moses finishes setting up and anointing the Tabernacle, the twelve tr
 
 ---
 
-## 5. KEY TERMS WITH CONTEXTUAL DEFINITIONS
+## KEY TERMS WITH CONTEXTUAL DEFINITIONS WITH CONTEXTUAL DEFINITIONS
 
 ### MERCY SEAT (Hebrew: kapporeth — covering, atonement-lid)
 - **Numbers 7:89** — "from off the mercy seat"
@@ -78,7 +78,7 @@ On the day Moses finishes setting up and anointing the Tabernacle, the twelve tr
 
 ---
 
-## 6. THE ACTUAL VERSES — NUMBERS 7 (KJV)
+## THE ACTUAL VERSES (KJV) — NUMBERS 7 (KJV)
 
 **1** And it came to pass on the day that Moses had fully set up the tabernacle, and had anointed it, and sanctified it, and all the instruments thereof, both the altar and all the vessels thereof, and had anointed them, and sanctified them;
 **2** That the princes of Israel, heads of the house of their fathers, who were the princes of the tribes, and were over them that were numbered, offered:
@@ -172,7 +172,7 @@ On the day Moses finishes setting up and anointing the Tabernacle, the twelve tr
 
 ---
 
-## 7. PROPHETIC/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS/TYPOLOGICAL CONNECTIONS
 
 ### The Twelve-Day Offering and the Twelve Apostles
 
@@ -186,7 +186,7 @@ The twelve offerings of Numbers 7 are the first fully-completed twelve-fold dedi
 
 ---
 
-## 8. COMMONLY MISQUOTED PASSAGES
+## COMMONLY MISQUOTED PASSAGES PASSAGES
 
 ### Numbers 7 — "Why Does God Repeat the Same Thing Twelve Times?"
 
@@ -201,7 +201,7 @@ The twelve offerings of Numbers 7 are the first fully-completed twelve-fold dedi
 
 ---
 
-## 9. SYMBOLIC THREADS
+## SYMBOLIC THREADS
 
 ### The Silver, Gold, and Grain — Metals and Offerings in Combination
 

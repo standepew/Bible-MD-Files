@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Washing the Disciples' Feet, The Betrayal of Judas, The New Commandment, Peter's Denial Foretold
 
-**Tags:** #feast-passover-Jesus-hour-depart-world-Father-loved-own-world-loved-end-supper-ended-devil-heart-Judas-Iscariot-Simon-son-betray-Jesus-knowing-Father-hands-come-God-went-God-riseth-supper-laid-garments-towel-girded-poureth-water-basin-wash-disciples-feet-wipe-towel-girded-Simon-Peter-Lord-wash-feet-Jesus-answered-knowest-knowest-hereafter-Peter-wash-feet-Jesus-answered-wash-part-Jesus-Peter-feet-hands-head-Jesus-washed-wash-feet-clean-whit-clean-clean-betray-clean-washed-feet-garments-said-Know-done-Master-Lord-well-Lord-Master-washed-feet-wash-feet-example-example-servant-greater-lord-sent-greater-know-things-happy-speak-chosen-scripture-fulfilled-eateth-bread-lifted-heel-tell-come-pass-believe-receiveth-whomsoever-send-receiveth-receiveth-sent-troubled-spirit-testified-betray-disciples-looked-doubted-leaning-Jesus-bosom-disciple-Jesus-loved-Simon-Peter-beckoned-lying-Jesus-breast-Lord-Jesus-answered-sop-dipped-sop-Judas-Iscariot-Simon-sop-Satan-entered-Jesus-do-quickly-table-intent-Judas-bag-feast-buy-need-give-poor-received-sop-immediately-night-gone-Jesus-Son-man-glorified-God-glorified-glorified-glorified-straightway-glorified-Little-children-Jews-Whither-come-Jews-come-little-while-seek-Whither-come-commandment-love-loved-love-disciples-love-disciples-Simon-Peter-Whither-Jesus-answered-Whither-follow-now-follow-Peter-Whither-lay-life-Jesus-answered-lay-life-cock-crow-denied-thrice
+**Tags:** #washing-the-disciples #the-betrayal-of-judas #the-new-commandment #peter
 
 ---
 
@@ -255,7 +255,7 @@ Feast, passover, Jesus, hour, depart, world, Father, loved, own, world, loved, e
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Washing the Disciples' Feet as Type of Christ's Service
 - **Physical washing:** Wash feet (John 13:6)

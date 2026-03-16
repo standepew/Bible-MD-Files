@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Signs, Rebellious House, Divine Captivity, Christ's Word
 
-**Tags:** #word-LORD-son-man-dwellest-midst-rebellious-house-eyes-see-see-ears-hear-hear-rebellious-house-son-man-prepare-stuff-removing-remove-day-sight-remove-place-place-sight-rebellious-house-bring-stuff-day-sight-stuff-removing-go-forth-even-sight-go-forth-captivity-Dig-wall-sight-carry-bear-shoulders-carry-twilight-cover-face-see-ground-set-sign-house-Israel-commanded-brought-stuff-day-stuff-captivity-even-digged-wall-hand-brought-twilight-bare-shoulder-sight-morning-word-LORD-son-man-house-Israel-rebellious-house-What-doest-Say-Lord-GOD-burden-concerneth-prince-Jerusalem-house-Israel-sign-like-done-remove-captivity-prince-shoulder-twilight-go-forth-dig-wall-carry-cover-face-see-ground-eyes-net-spread-taken-snare-bring-Babylon-land-Chaldeans-see-die-scatter-wind-help-bands-draw-sword-know-LORD-scatter-nations-disperse-countries-leave-few-men-sword-famine-pestilence-declare-abominations-heathen-know-LORD-word-LORD-son-man-eat-bread-quaking-drink-water-trembling-carefulness-people-land-Lord-GOD-inhabitants-Jerusalem-land-Israel-eat-bread-carefulness-drink-water-astonishment-land-desolate-violence-dwell-cities-inhabited-laid-waste-land-desolate-know-LORD-word-LORD-son-man-proverb-land-Israel-days-prolonged-vision-faileth-Lord-GOD-proverb-cease-proverb-Israel-days-hand-effect-vision-vain-vision-flattering-divination-house-Israel-LORD-speak-word-come-pass-prolonged-rebellious-house-word-perform-Lord-GOD-word-LORD-son-man-house-Israel-vision-seeth-many-days-prophesieth-times-far-Lord-GOD-words-prolonged-word-spoken-done-Lord-GOD
+**Tags:** #christ #rebellious-house #divine-captivity
 
 ---
 

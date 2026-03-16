@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** The Widow's Offering, Signs of the End Times, Persecution of Believers, The Destruction of Jerusalem, The Coming of the Son of Man, The Parable of the Fig Tree, Watch and Pray
 
-**Tags:** #looked-rich-men-casting-gifts-treasury-poor-widow-casting-thither-two-mites-truth-poor-widow-cast-abundance-offerings-God-penury-cast-living-spake-temple-adorned-goodly-stones-gifts-behold-days-stone-stone-thrown-asked-Master-things-sign-come-pass-deceived-many-come-name-Christ-time-draweth-go-deceived-hear-wars-commotions-terrified-things-first-pass-end-nation-nation-kingdom-kingdom-earthquakes-divers-places-famines-pestilences-fearful-sights-signs-heaven-lay-hands-persecute-delivering-synagogues-prisons-brought-kings-rulers-name-testimony-settle-hearts-meditate-answer-mouth-wisdom-adversaries-gainsay-resist-betrayed-parents-brethren-kinsfolks-friends-cause-death-hated-men-name-hair-head-perish-patience-possess-souls-Jerusalem-compassed-armies-desolation-nigh-Judæa-flee-mountains-midst-depart-countries-enter-days-vengeance-fulfilled-child-suck-days-great-distress-land-wrath-people-fall-edge-sword-led-captive-nations-Jerusalem-trodden-Gentiles-times-Gentiles-fulfilled-signs-sun-moon-stars-earth-distress-nations-perplexity-sea-waves-roaring-hearts-failing-fear-coming-earth-powers-heaven-shaken-see-Son-man-coming-cloud-power-glory-things-pass-look-lift-heads-redemption-nigh-parable-fig-tree-trees-shoot-summer-nigh-kingdom-God-nigh-generation-pass-fulfilled-heaven-earth-pass-words-pass-hearts-overcharged-surfeiting-drunkenness-cares-life-day-unawares-snare-dwell-face-earth-watch-pray-always-accounted-worthy-escape-stand-Son-man-day-teaching-temple-night-abode-mount-Olives-people-early-morning-temple-hear
+**Tags:** #the-widow #signs-of-the-end-times #persecution-of-believers #the-destruction-of-jerusalem #the-coming-of-the-son-of #the-parable-of-the-fig-tree #watch-and-pray
 
 ---
 
@@ -273,7 +273,7 @@ Looked, rich, men, casting, gifts, treasury, poor, widow, casting, thither, two,
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Widow's Offering as Type of Christ's Sacrifice
 - **Physical offering:** Poor widow (Luke 21:3)

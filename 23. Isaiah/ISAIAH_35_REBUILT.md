@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Healing, Divine Restoration, Spiritual Joy, Christ's Highway
 
-**Tags:** #wilderness-solitary-place-glad-desert-rejoice-blossom-rose-blossom-abundantly-rejoice-joy-singing-glory-Lebanon-excellency-Carmel-Sharon-see-glory-LORD-excellency-God-Strengthen-weak-hands-confirm-feeble-knees-fearful-heart-strong-fear-behold-God-come-vengeance-God-recompence-come-save-eyes-blind-opened-ears-deaf-unstopped-lame-man-leap-hart-tongue-dumb-sing-wilderness-waters-break-streams-desert-parched-ground-pool-thirsty-land-springs-water-habitation-dragons-lay-grass-reeds-rushes-highway-way-called-way-holiness-unclean-pass-wayfaring-men-fools-err-lion-ravenous-beast-found-redeemed-walk-ransomed-LORD-return-Zion-songs-everlasting-joy-heads-obtain-joy-gladness-sorrow-sighing-flee
+**Tags:** #christ #divine-restoration #spiritual-joy
 
 ---
 

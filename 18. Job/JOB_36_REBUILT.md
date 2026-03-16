@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Elihu's Fourth Speech, God's Power, Divine Discipline, Natural Wonders
 
-**Tags:** #Elihu-proceeded-suffer-shew-GOD-behalf-fetch-knowledge-ascribe-righteousness-Maker-words-false-perfect-knowledge #mighty-despiseth-strength-wisdom-preserveth-wicked-giveth-right-poor-withdraw-eyes-righteous-kings-throne-exalted #bound-fetters-holden-cords-affliction-sheweth-work-transgressions-open-ear-discipline-return-iniquity #obey-serve-days-prosperity-years-pleasures-perish-sword-die-knowledge-hypocrites-heart-heap-wrath-cry-bindeth #die-youth-life-unclean-delivereth-poor-affliction-open-ears-oppression-removed-strait-broad-place-straitness-table-full-fatness #fulfilled-judgment-wicked-justice-wrath-stroke-ransom-deliver-esteem-riches-gold-forces-strength-night-people-cut-place #heed-regard-iniquity-chosen-affliction-GOD-exalteth-power-teacheth-enjoined-way-wrought-iniquity-magnify-work-behold-men #behold-GOD-great-know-number-years-searched-maketh-small-drops-water-pour-rain-vapour-clouds-drop-distil-man-abundantly #understand-spreadings-clouds-noise-tabernacle-spreadeth-light-covereth-bottom-sea-judgeth-people-meat-abundance #covereth-light-commandeth-shine-cloud-betwixt-noise-sheweth-cattle-vapour
+**Tags:** #elihu #god #divine-discipline #natural-wonders
 
 ---
 

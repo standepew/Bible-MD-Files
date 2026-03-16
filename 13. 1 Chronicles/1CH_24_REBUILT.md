@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Priestly Divisions, Levitical Organization, Temple Service Structure, Divine Order
 
-**Tags:** #divisions-sons-Aaron-sons-Aaron-Nadab-Abihu-Eleazar-Ithamar #Nadab-Abihu-died-father-children-Eleazar-Ithamar-executed-priest-office #David-distributed-Zadok-sons-Eleazar-Ahimelech-sons-Ithamar-offices-service #chief-men-sons-Eleazar-sons-Ithamar-divided-sixteen-chief-men-house-fathers-sons-Eleazar-eight-sons-Ithamar-house-fathers #divided-lot-sort-governors-sanctuary-governors-house-God-sons-Eleazar-sons-Ithamar #Shemaiah-son-Nethanel-scribe-Levites-wrote-king-princes-Zadok-priest-Ahimelech-son-Abiathar-chief-fathers-priests-Levites #first-lot-Jehoiarib-second-Jedaiah-third-Harim-fourth-Seorim-fifth-Malchijah-sixth-Mijamin-seventh-Hakkoz-eighth-Jeshua-ninth-Jeshibab-tenth-Jachin-eleventh-Jachin-twentieth-Gamul-two-twentieth-Delaiah-three-twentieth-Maaziah-four-twentieth #orderings-service-come-house-LORD-manner-Aaron-father-LORD-Israel-commanded #rest-sons-Levi-sons-Amram-Shubael-sons-Shubael-Jehdeiah #Rehabiah-sons-Rehabiah-first-Isshiah-second #Izharites-Shelomith-Jahath #sons-Hebron-Jeriah-first-Amariah-second-Jahaziel-third-Jekameam-fourth #Uzzielites-Michah-first-Jesiah-second #Merarites-Mahli-Mushi #sons-Mahli-Eleazar-Kish #Eleazar-died-sons-brethren-sons-Kish-took #sons-Mushi-Mahli-Eder-Jerimoth #sons-Levi-house-fathers-chief-fathers-counted-number-names-polls-work-service-house-LORD-age-twenty-years-upward
+**Tags:** #Izharites-Shelomith-Jahath #Uzzielites-Michah-first-Jesiah-second #Merarites-Mahli-Mushi #sons-Mahli-Eleazar-Kish #sons-Mushi-Mahli-Eder-Jerimoth #priestly-divisions #levitical-organization #temple-service-structure #divine-order
 
 ---
 

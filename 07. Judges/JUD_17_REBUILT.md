@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Micah's Theft, Mother's Blessing, Idol Making, House of Gods, Levite Priest, No King in Israel, Personal Righteousness
 
-**Tags:** #man-mount-Ephraim-Micah #mother-eleven-hundred-shekels-silver-taken-cursed-spoken-ears #silver-I-took #mother-Blessed-LORD-son #restored-eleven-hundred-shekels-silver-mother #mother-wholly-dedicated-silver-LORD-hand-son #graven-image-molten-image #restore #restored-money-mother #mother-two-hundred-shekels-silver-founder #graven-image-molten-image-house-Micah #Micah-house-gods-ephod-teraphim #consecrated-son-priest #days-king-Israel-man-right-eyes #young-man-Beth-lehem-Judah-family-Judah-Levite-sojourned #departed-city-Beth-lehem-Judah-sojourn-place #journey-mount-Ephraim-house-Micah #Micah-Whence-comest #Levite-Beth-lehem-Judah-sojourn-place #Micah-Dwell-father-priest-ten-shekels-silver-year-suit-apparel-victuals #Levite-content-dwell-man #young-man-sons #Micah-consecrated-Levite #young-man-priest-house-Micah #Micah-LORD-good-Levite-priest
+**Tags:** #man-mount-Ephraim-Micah #silver-I-took #mother-Blessed-LORD-son #graven-image-molten-image #restore #restored-money-mother #Micah-house-gods-ephod-teraphim #consecrated-son-priest #journey-mount-Ephraim-house-Micah #Micah-Whence-comest #Levite-content-dwell-man #young-man-sons #Micah-consecrated-Levite #young-man-priest-house-Micah #Micah-LORD-good-Levite-priest #micah #mother #idol-making #house-of-gods #levite-priest #no-king-in-israel #personal-righteousness
 
 ---
 

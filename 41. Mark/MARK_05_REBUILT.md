@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Christ's Power Over Demons, Healing of Demoniac, Woman with Issue, Raising of Jairus' Daughter
 
-**Tags:** #came-sea-country-Gadarenes-ship-unclean-spirit-dwelling-tombs-man-bind-chains-fetter-chains-plucked-asunder-fetter-broken-tame-night-day-mountains-toms-crying-cutting-stones-Jesus-worshipped-cried-loud-voice-Jesus-Son-high-God-adjure-God-torment-Come-unclean-spirit-asked-name-answered-name-Legion-many-besought-send-country-mountains-herd-swine-feeding-devils-besought-send-swine-enter-Jesus-gave-leave-unclean-spirits-swine-herd-violently-steep-sea-choked-sea-fed-swine-fled-city-country-see-Jesus-devil-possessed-legion-sitting-clothed-mind-afraid-befell-possessed-devil-swine-began-pray-depart-coasts-ship-devil-possessed-prayed-Jesus-suffered-friends-Lord-compassion-departed-publish-Decapolis-great-things-Jesus-marvel-passed-ship-multitude-sea-ruler-synagogue-Jairus-fell-feet-besought-little-daughter-death-pray-lay-hands-healed-live-Jesus-multitude-followed-thronged-woman-issue-blood-years-suffered-physicians-spent-bettered-worse-heard-Jesus-press-touched-garment-touched-clothes-whole-fountain-blood-dried-felt-healed-plague-Jesus-knowing-virtue-turned-press-touched-clothes-disciples-multitude-thronging-touched-looked-round-woman-fearing-trembling-done-fell-told-truth-Daughter-faith-whole-peace-plague-spoke-ruler-synagogue-house-daughter-dead-trouble-Master-Jesus-heard-spoken-ruler-synagogue-believe-suffered-man-follow-Peter-James-John-James-house-ruler-tumult-wept-wailed-come-weep-damsel-dead-sleepeth-laughed-scorn-put-father-mother-damsel-enter-lying-damsel-hand-Talitha-cumi-interpreted-Damsel-arise-straightway-damsel-arose-walked-years-astonished-great-astonishment-charged-straitly-know-commanded-eat
+**Tags:** #christ #healing-of-demoniac #woman-with-issue #raising-of-jairus
 
 ---
 
@@ -313,7 +313,7 @@ Came, sea, country, Gadarenes, ship, unclean, spirit, dwelling, tombs, man, bind
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Christ's Power Over Demons as Type of Christ's Victory
 - **Physical demons:** Unclean spirit (Mark 5:4)

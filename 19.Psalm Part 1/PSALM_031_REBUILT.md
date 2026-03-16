@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Trust in God, Commitment to God, God's Protection, Courage for the Faithful
 
-**Tags:** #chief-Musician-Psalm-David-trust-LORD-ashamed-deliver-righteousness-bow-ear-deliver-speedily-strong-rock-house-defence-save-rock-fortress-name-sake-lead-guide-pull-net-laid-privily-strength-hand-commit-spirit-redeemed-LORD-GOD-truth #hated-regard-lying-vanities-trust-LORD-glad-rejoice-mercy-considered-trouble-known-soul-adversities-shut-hand-enemy-set-feet-large-room-mercy-trouble-eye-consumed-grief-soul-belly-life-spent-grief-years-sighing-strength-faileth-iniquity-bones-consumed #reproach-enemies-neighbours-fear-acquaintance-fled-forgotten-dead-man-mind-broken-vessel-heard-slander-many-fear-side-counsel-together-devised-take-life-trusted-LORD-said-GOD-times-hand-deliver-hand-enemies-persecute #make-face-shine-servant-save-mercies-sake-ashamed-LORD-called-wicked-ashamed-silent-grave-lying-lips-silence-speak-grievous-proudly-contemptuously-righteous-goodness-laid-fear-wrought-trust-sons-men-hide-secret-presence-pride-man #keep-secretly-pavilion-strife-tongues-blessed-LORD-shewed-marvellous-kindness-strong-city-haste-cut-off-eyes-nevertheless-heardest-voice-supplications-cried-love-LORD-saints-LORD-preserveth-faithful-plentifully-rewardeth-proud-doer #good-courage-strengthen-heart-hope-LORD
+**Tags:** #trust-in-god #commitment-to-god #god #courage-for-the-faithful
 
 ---
 

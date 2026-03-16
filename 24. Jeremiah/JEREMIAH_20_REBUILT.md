@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Persecution, Divine Vengeance, Burning Fire, Christ's Deliverance
 
-**Tags:** #Pashur-son-Immer-priest-chief-governor-house-LORD-heard-Jeremiah-prophesied-things-Pashur-smote-Jeremiah-prophet-stocks-high-gate-Benjamin-house-LORD-morrow-Pashur-brought-Jeremiah-stocks-Jeremiah-LORD-called-name-Pashur-Magor-missabib-LORD-terror-friends-fall-sword-enemies-eyes-behold-give-Judah-hand-king-Babylon-carry-captive-Babylon-slay-sword-deliver-strength-city-labours-precious-things-treasures-kings-Judah-hand-enemies-spoil-carry-Babylon-Pashur-dwell-house-captivity-Babylon-die-buried-friends-prophesied-lies-LORD-deceived-prevailed-derision-daily-mocketh-spake-cried-violence-spoil-word-LORD-reproach-derision-daily-mention-speak-name-word-heart-burning-fire-shut-bones-weary-forbearing-stay-defaming-many-fear-side-Report-report-familiars-watched-halting-enticed-prevail-revenge-LORD-mighty-terrible-persecutors-stumble-prevail-ashamed-prosper-everlasting-confusion-forgotten-LORD-hosts-triest-righteous-seest-reins-heart-vengeance-opened-cause-Sing-LORD-praise-LORD-delivered-soul-poor-hand-evildoers-Cursed-day-born-day-mother-bare-blessed-Cursed-man-brought-tidings-father-man-child-born-glad-man-cities-LORD-overthrew-repented-hear-cry-morning-shouting-noontide-slew-womb-mother-grave-womb-great-womb-labour-sorrow-days-consumed-shame
+**Tags:** #christ #divine-vengeance #burning-fire
 
 ---
 

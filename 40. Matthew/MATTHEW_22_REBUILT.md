@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Christ's Wedding Feast, Kingdom Invitation, Divine Commandments, Christ's Sonship
 
-**Tags:** #Jesus-answered-parables-kingdom-heaven-king-marriage-son-sent-servants-call-bidden-wedding-come-again-servants-saying-bidden-behold-prepared-dinner-oxen-fatlings-killed-ready-marriage-light-farm-merchandise-remnant-servants-entreated-spitefully-slew-king-heard-wroth-sent-armies-destroyed-murderers-burned-city-servants-wedding-ready-bidden-worthy-highways-find-bid-marriage-servants-highways-gathered-found-bad-good-wedding-furnished-guests-king-guests-wedding-garment-Friend-came-hither-wedding-garment-speechless-king-servants-bind-hand-foot-take-cast-outer-darkness-weeping-gnashing-teeth-called-chosen-Pharisees-counsel-entangle-talk-disciples-Herodians-Master-true-teach-way-God-truth-regard-person-men-tribute-Caesar-tribute-perceived-wickedness-tempt-hypocrites-tribute-money-penny-image-superscription-Caesar-Render-Caesar-things-Caesar-God-things-God-marvelled-left-way-Sadducees-resurrection-asked-Master-Moses-die-children-brother-marry-wife-raise-seed-brother-seven-brethren-first-married-wife-deceased-issue-wife-brother-likewise-third-seventh-woman-died-resurrection-wife-seven-resurrection-God-Abraham-Isaac-Jacob-God-dead-living-multitude-astonished-doctrine-Pharisees-Sadducees-silence-gathered-lawyer-question-tempting-Master-great-commandment-law-Jesus-love-Lord-God-heart-soul-mind-first-great-commandment-second-like-love-neighbour-commandments-hang-law-prophets-Pharisees-gathered-Jesus-asked-Christ-son-David-Son-David-spirit-call-Lord-right-hand-footstool-David-call-Lord-son-able-answer-word-durst-ask-questions
+**Tags:** #christ #kingdom-invitation #divine-commandments
 
 ---
 
@@ -283,7 +283,7 @@ Jesus, answered, parables, kingdom, heaven, king, marriage, son, sent, servants,
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Christ's Wedding Feast as Type of Christ's Salvation
 - **Physical feast:** Marriage son (Matthew 22:4)

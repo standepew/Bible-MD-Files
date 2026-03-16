@@ -143,3 +143,55 @@ The food laws were the embodied, daily-practice form of this wall. Their cancell
 ---
 
 **End of Leviticus Chapter 11**
+
+---
+
+## COMMONLY MISQUOTED PASSAGES
+
+### Leviticus 11:7-8 — "Swine" Used to Bind New Covenant Believers to Dietary Law
+
+**Verses 7-8** — "And the swine, though he divide the hoof, and be clovenfooted, yet he cheweth not the cud; he is unclean to you. Of their flesh shall ye not eat, and their carcase shall ye not touch; they are unclean to you."
+
+**How it is misused:** This verse is frequently quoted to argue that Christians who eat pork are violating God's law — that the dietary laws of Leviticus 11 remain binding on New Covenant believers, and that eating forbidden foods incurs spiritual defilement.
+
+**What the text actually says:**
+- **Mark 7:18-19** — "Do ye not perceive, that whatsoever thing from without entereth into the man, it cannot defile him; Because it entereth not into his heart, but into the belly, and goeth out into the draught, purging all meats."
+- **Acts 10:15** — "What God hath cleansed, that call not thou common."
+- **Romans 14:14** — "I know, and am persuaded by the Lord Jesus, that there is nothing unclean of itself: but to him that esteemeth any thing to be unclean, to him it is unclean."
+- **Colossians 2:16-17** — "Let no man therefore judge you in meat, or in drink... which are a shadow of things to come; but the body is of Christ."
+
+*Correction:* The dietary laws were a shadow (Colossians 2:17) — they served as a bodily, daily-practice partition that separated Israel from the nations and taught the clean/unclean distinction until the Seed came (Galatians 3:19). Acts 10:15 is God's own declaration that He has cleansed what was formerly called common. The holiness principle the food laws taught (1 Peter 1:15-16) is fully retained in the New Covenant — but the food laws themselves are not the vehicle of that principle for New Covenant believers.
+
+---
+
+### Leviticus 11:44-45 — "Be Ye Holy" Divorced from Its Covenantal Context
+
+**Verses 44-45** — "For I am the LORD your God: ye shall therefore sanctify yourselves, and ye shall be holy; for I am holy... ye shall therefore be holy, for I am holy."
+
+**How it is misused:** This call to holiness is sometimes quoted in isolation to imply that God requires moral perfection before He will accept a person — used as a standard of exclusion rather than identity formation, or used to demand food-law observance as the content of New Covenant holiness.
+
+**What the text actually says:**
+- **1 Peter 1:15-16** — "But as he which hath called you is holy, so be ye holy in all manner of conversation; Because it is written, Be ye holy; for I am holy." — Peter quotes Leviticus 11:44 and applies it to New Covenant ethical conduct, not dietary law.
+- **Hebrews 12:14** — "Follow peace with all men, and holiness, without which no man shall see the Lord."
+- **Romans 6:22** — "But now being made free from sin, and become servants to God, ye have your fruit unto holiness, and the end everlasting life."
+
+*Correction:* "Be ye holy, for I am holy" is the theological engine of Leviticus, not a dietary code. Peter quotes it directly and applies it to "all manner of conversation" — conduct, behavior, the whole pattern of life — not food. The holiness commanded here is identity-shaped ethics: because God is who He is, and His people belong to Him, their lives reflect His character. The vehicle in Leviticus was food laws; the vehicle in the New Covenant is the Spirit-formed life of 1 Peter 1:15.
+
+---
+
+## SYMBOLIC THREADS
+
+**Clean and Unclean (Tahor / Tameh):**
+- First established: Genesis 7:2 — "Of every clean beast thou shalt take to thee by sevens, the male and his female: and of beasts that are not clean by two, the male and his female." — The clean/unclean distinction precedes Moses by centuries.
+- Leviticus 11:47 — "To make a difference between the unclean and the clean, and between the beast that may be eaten and the beast that may not be eaten." — The stated purpose of the entire chapter.
+- Leviticus 20:25 — "Ye shall therefore put difference between clean beasts and unclean, and between unclean fowls and clean."
+- Acts 10:14-15 — Peter's vision: "Not so, Lord; for I have never eaten any thing that is common or unclean. And the voice spake unto him again the second time, What God hath cleansed, that call not thou common." — God declares the clean/unclean food wall abolished.
+- Revelation 21:27 — "And there shall in no wise enter into it any thing that defileth, neither whatsoever worketh abomination, or maketh a lie: but they which are written in the Lamb's book of life." — The clean/unclean distinction reaches its final form: not food categories but moral reality.
+- *Pattern:* Clean/unclean is a theological category established before Moses, codified in Leviticus, used to separate Israel from the nations, cancelled as a food distinction in Acts 10, and applied in its ultimate moral sense to the New Jerusalem. The principle — that God's presence requires a qualified approach — is permanent. The food-law vehicle for that principle in Israel's economy is not.
+
+**The Abomination (Sheqetz / Toevah):**
+- Leviticus 11:10 — sheqetz applied to forbidden sea creatures; ritual category violation.
+- Leviticus 18:22 — toevah applied to moral violations; stronger category.
+- Proverbs 6:16-19 — "These six things doth the LORD hate: yea, seven are an abomination unto him" — a proud look, lying tongue, hands that shed innocent blood, a heart that deviseth wicked imaginations, feet swift to mischief, a false witness, and sowing discord.
+- Revelation 21:27 — "neither whatsoever worketh abomination" shall enter the New Jerusalem.
+- *Pattern:* Scripture uses two Hebrew terms translated "abomination." Sheqetz marks ritual category violations (Leviticus 11 food laws). Toevah marks moral violations (Leviticus 18:22; Proverbs 6:16). The distinction matters: not everything called "abomination" carries the same weight or the same permanence. Sheqetz prohibited foods belong to the ceremonial law that the NT declares fulfilled. Toevah moral violations are re-stated by Paul in Romans 1 and 1 Corinthians 6 as still operative.

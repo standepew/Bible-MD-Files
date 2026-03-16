@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Thanksgiving for the Thessalonians, Their Faith and Witness, Paul's Ministry, Waiting for Christ's Return
 
-**Tags:** #Paul-Silvanus-Timotheus-church-Thessalonians-God-Father-Lord-Jesus-Christ-grace-peace-God-Father-Lord-Jesus-Christ-give-thanks-God-prayers-Remembering-ceasing-work-faith-labour-love-patience-hope-Lord-Jesus-Christ-sight-God-Father-knowing-brethren-beloved-election-God-gospel-word-power-Holy-Ghost-assurance-know-manner-sake-followers-Lord-received-word-affliction-joy-Holy-Ghost-ensamples-believe-Macedonia-Achaia-sounded-word-Lord-Macedonia-Achaia-place-faith-God-ward-spread-abroad-speak-shew-entering-ye-turned-God-idols-serve-living-true-God-wait-Son-heaven-raised-dead-Jesus-delivered-wrath
+**Tags:** #thanksgiving-for-the-thessalonians #their-faith-and-witness #paul #waiting-for-christ
 
 ---
 
@@ -139,7 +139,7 @@ Paul, Silvanus, Timotheus, church, Thessalonians, God, Father, Lord, Jesus, Chri
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Thanksgiving for the Thessalonians as Type of Christ's Joy
 - **Physical joy:** Thanks God (1 Thessalonians 1:4)

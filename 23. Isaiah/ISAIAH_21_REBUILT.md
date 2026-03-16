@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Watchman, Divine Vision, Babylon's Fall, Christ's Return
 
-**Tags:** #burden-desert-sea-whirlwinds-south-pass-terrible-land-grievous-vision-declared-treacherous-dealer-treacherously-spoiler-spoileth-Elam-besiege-Media-sighing-cease-loins-filled-pain-pangs-taken-woman-travaileth-bowed-hearing-dismayed-seeing-heart-panted-fearfulness-affrighted-night-pleasure-turned-fear-Prepare-table-watch-watchtower-eat-drink-arise-princes-anoint-shield-LORD-set-watchman-declare-seeth-chariot-couple-horsemen-chariot-asses-chariot-camels-hearkened-diligently-heed-cried-lion-stand-continually-watchtower-daytime-set-ward-whole-nights-behold-chariot-men-couple-horsemen-answered-Babylon-fallen-fallen-graven-images-gods-broken-ground-threshing-corn-floor-heard-LORD-hosts-God-Israel-declared-burden-Dumah-calleth-Seir-Watchman-night-Watchman-night-morning-cometh-night-enquire-enquire-return-burden-Arabia-forest-Arabia-lodge-travelling-companies-Dedanim-inhabitants-land-Tema-brought-water-thirsty-prevented-bread-fled-swords-drawn-sword-bent-bow-grievousness-war-Lord-within-year-years-hireling-glory-Kedar-fail-residue-number-archers-mighty-men-children-Kedar-diminished-LORD-God-Israel-spoken
+**Tags:** #christ #divine-vision #babylon
 
 ---
 

@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Ministers of Christ, Faithful Stewards, Apostolic Suffering, Kingdom of God
 
-**Tags:** #account-ministers-Christ-stewards-mysteries-God-required-stewards-faithful-judged-man-judgment-judge-justified-judgeth-Lord-judge-time-Lord-bring-light-hidden-darkness-manifest-counsels-hearts-praise-God-brethren-figure-transferred-Apollos-sakes-learn-think-men-written-puffed-maketh-differ-receive-glory-received-full-rich-reigned-kings-reign-reign-apostles-appointed-death-spectacle-world-angels-men-fools-Christ-sake-wise-Christ-weak-strong-honourable-despised-hunger-thirst-naked-buffeted-certain-dwellingplace-labour-working-hands-reviled-bless-persecuted-suffer-defamed-intreat-filth-world-offscouring-things-shame-beloved-sons-warn-ten-thousand-instructors-Christ-fathers-Christ-Jesus-begotten-gospel-beseech-followers-Timotheus-beloved-son-faithful-Lord-bring-remembrance-ways-Christ-teach-church-puffed-come-shortly-Lord-speech-puffed-power-kingdom-God-word-power-rod-love-spirit-meekness
+**Tags:** #ministers-of-christ #faithful-stewards #apostolic-suffering #kingdom-of-god
 
 ---
 
@@ -209,7 +209,7 @@ Account, ministers, Christ, stewards, mysteries, God, required, stewards, faithf
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Ministers of Christ as Type of Christ's Service
 - **Physical service:** Ministers Christ (1 Corinthians 4:3)

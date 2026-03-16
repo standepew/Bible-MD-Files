@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Final Judgment, Day of the LORD, Divine Wrath, Complete Consumption
 
-**Tags:** #word-LORD-Zephaniah-son-Cushi-son-Gedaliah-son-Amariah-son-Hizkiah-days-Josiah-son-Amon-king-Judah-utterly-consume-things-land-LORD-consume-man-beast-consume-fowls-heaven-fishes-sea-stumblingblocks-wicked-cut-man-land-LORD-stretch-hand-Judah-inhabitants-Jerusalem-cut-remnant-Baal-place-name-Chemarims-priests-worship-host-heaven-housetops-worship-swear-LORD-swear-Malcham-turned-back-LORD-sought-LORD-enquired-hold-peace-presence-Lord-GOD-day-LORD-hand-LORD-prepared-sacrifice-bid-guests-day-LORD-sacrifice-punish-princes-king-children-clothed-strange-apparel-day-punish-leap-threshold-fill-masters-houses-violence-deceit-day-LORD-noise-cry-fish-gate-howling-second-great-crashing-hills-Howl-inhabitants-Maktesh-merchant-people-cut-bear-silver-cut-time-search-Jerusalem-candles-punish-men-settled-lees-heart-LORD-good-evil-goods-booty-houses-desolation-build-houses-inhabit-plant-vineyards-drink-wine-great-day-LORD-near-near-hasteth-greatly-voice-day-LORD-mighty-man-cry-bitterly-day-wrath-day-trouble-distress-day-wasteness-desolation-day-darkness-gloominess-day-clouds-thick-darkness-day-trumpet-alarm-fenced-cities-high-towers-bring-distress-men-walk-blind-men-sinned-LORD-blood-poured-dust-flesh-dung-silver-gold-deliver-day-LORD-wrath-whole-land-devoured-fire-jealousy-speedy-riddance-dwell-land
+**Tags:** #christ #day-of-the-lord #divine-wrath #complete-consumption
 
 ---
 

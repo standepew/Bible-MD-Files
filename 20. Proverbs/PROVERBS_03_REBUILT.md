@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Trust in the LORD, Divine Direction, Wisdom's Value, God's Correction
 
-**Tags:** #son-forget-law-heart-keep-commandments-length-days-long-life-peace-add-mercy-truth-forsake-bind-neck-write-table-heart-find-favour-good-understanding-sight-God-man-Trust-LORD-heart-lean-understanding-ways-acknowledge-direct-paths-wise-eyes-fear-LORD-depart-evil-health-navel-marrow-bones-Honour-LORD-substance-firstfruits-increase-barns-filled-plenty-presses-burst-new-wine-son-despise-chastening-LORD-weary-correction-LORD-loveth-correcteth-father-son-delighteth-Happy-man-findeth-wisdom-getteth-understanding-merchandise-better-merchandise-silver-gain-fine-gold-precious-rubies-things-desire-compared-Length-days-right-hand-left-hand-riches-honour-ways-pleasantness-paths-peace-tree-life-lay-hold-happy-retain-LORD-wisdom-founded-earth-understanding-established-heavens-knowledge-depths-broken-clouds-drop-dew-son-depart-eyes-keep-sound-wisdom-discretion-life-soul-grace-neck-walk-way-safely-foot-stumble-lied-feared-sleep-sweet-afraid-sudden-fear-desolation-wicked-cometh-LORD-confidence-keep-foot-taken-Withhold-good-due-power-hand-neighbour-tomorrow-give-Devise-evil-neighbour-dwelleth-securely-Strive-man-cause-harm-Envy-oppressor-choose-ways-froward-abomination-LORD-secret-righteous-curse-LORD-house-wicked-blesseth-habitation-just-scorneth-scorners-giveth-grace-lowly-wise-inherit-glory-shame-promotion-fools
+**Tags:** #trust-in-the-lord #divine-direction #wisdom #god
 
 ---
 

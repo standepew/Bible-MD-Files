@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Rejoicing in the Lord, Confidence in the Flesh vs. Christ, Knowing Christ, Pressing Toward the Goal
 
-**Tags:** #Finally-brethren-rejoice-Lord-write-things-grievous-safe-beware-dogs-evil-workers-concision-circumcision-worship-God-spirit-rejoice-Christ-Jesus-confidence-flesh-confidence-flesh-trust-flesh-circumcised-eighth-day-stock-Israel-tribe-Benjamin-Hebrew-Hebrews-law-Pharisee-zeal-persecuting-church-righteousness-law-blameless-things-gain-counted-loss-Christ-doubtless-count-things-loss-excellency-knowledge-Christ-Jesus-Lord-suffered-loss-things-count-dung-win-Christ-found-righteousness-law-faith-Christ-righteousness-God-faith-know-power-resurrection-fellowship-sufferings-conformable-death-attain-resurrection-dead-attained-perfect-follow-apprehend-apprehended-Christ-Jesus-count-apprehended-forget-behind-reaching-press-mark-prize-high-calling-God-Christ-Jesus-perfect-minded-otherwise-minded-God-reveal-attained-walk-rule-mind-brethren-followers-mark-walk-ensample-walk-enemies-cross-Christ-end-destruction-God-belly-glory-shame-earthly-things-conversation-heaven-look-Saviour-Lord-Jesus-Christ-change-vile-body-fashioned-glorious-body-working-able-subdue-things
+**Tags:** #rejoicing-in-the-lord #confidence-in-the-flesh-vs-christ #knowing-christ #pressing-toward-the-goal
 
 ---
 
@@ -185,7 +185,7 @@ Finally, brethren, rejoice, Lord, write, things, grievous, safe, beware, dogs, e
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Rejoicing in the Lord as Type of Christ's Joy
 - **Physical joy:** Rejoice Lord (Philippians 3:2)

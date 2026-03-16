@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Rejection, Jerusalem's Humiliation, Divine Forgetfulness, Christ's Restoration
 
-**Tags:** #Remember-LORD-come-upon-consider-behold-reproach-inheritance-turned-strangers-houses-aliens-orphans-fatherless-mothers-widows-drunken-water-money-wood-sold-necks-persecution-labour-rest-hand-Egyptians-Assyrians-satisfied-bread-fathers-sinned-borne-iniquities-servants-ruled-deliver-hand-gat-bread-peril-lives-sword-wilderness-skin-black-oven-terrible-famine-ravished-women-Zion-maids-cities-Judah-princes-hanged-hand-faces-elders-honoured-took-young-men-grind-children-fell-wood-elders-ceased-gate-young-men-musick-joy-heart-ceased-dance-turned-mourning-crown-fallen-head-woe-sinned-heart-faint-eyes-dim-mountain-Zion-desolate-foxes-walk-LORD-remain-forever-throne-generation-generation-forget-forsaken-long-time-turn-LORD-turned-renew-days-utterly-rejected-wroth
+**Tags:** #christ #jerusalem #divine-forgetfulness
 
 ---
 

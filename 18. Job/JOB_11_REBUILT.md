@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Zophar's Speech, Divine Wisdom, Human Limitation, Promise of Restoration
 
-**Tags:** #Zophar-Naamathite-answered-multitude-words-justified #lies-hold-peace-mockest-ashamed #doctrine-pure-clean-eyes #God-speak-open-lips-secrets-wisdom-double #searching-God-Almighty-perfection #high-heaven-deeper-hell #measure-longer-earth-broader-sea #cut-shut-gather-hinder #vain-men-wickedness-consider #vain-wise-wild-ass-colt #prepare-heart-stretch-hands #iniquity-hand-wickedness-tabernacles #lift-face-spot-stedfast-fear #forget-misery-waters-pass-age-clearer-noonday-shine-morning #secure-hope-dig-rest-safety #lie-down-afraid-suit #wicked-eyes-fail-escape-hope-ghost
+**Tags:** #lies-hold-peace-mockest-ashamed #doctrine-pure-clean-eyes #searching-God-Almighty-perfection #high-heaven-deeper-hell #measure-longer-earth-broader-sea #cut-shut-gather-hinder #vain-men-wickedness-consider #vain-wise-wild-ass-colt #prepare-heart-stretch-hands #iniquity-hand-wickedness-tabernacles #lift-face-spot-stedfast-fear #secure-hope-dig-rest-safety #lie-down-afraid-suit #zophar #divine-wisdom #human-limitation #promise-of-restoration
 
 ---
 

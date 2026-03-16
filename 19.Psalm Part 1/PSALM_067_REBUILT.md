@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** God's Mercy, Universal Praise, Divine Governance, Earth's Increase
 
-**Tags:** #chief-Musician-Neginoth-Psalm-Song-GOD-merciful-bless-cause-face-shine-Selah-way-known-earth-saving-health-nations-people-praise-GOD-people-praise-nations-glad-sing-joy-judge-people-righteously-govern-nations-earth-Selah-people-praise-GOD-people-praise-earth-yield-increase-GOD-bless-GOD-bless-ends-earth-fear
+**Tags:** #god #universal-praise #divine-governance #earth
 
 ---
 

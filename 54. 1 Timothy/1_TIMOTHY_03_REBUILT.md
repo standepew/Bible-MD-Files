@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Qualifications for Bishops, Qualifications for Deacons, The Mystery of Godliness, The House of God
 
-**Tags:** #true-saying-man-desire-office-bishop-good-work-bishop-blameless-husband-one-wife-vigilant-sober-good-behaviour-hospitality-apt-teach-wine-striker-greedy-filthy-lucre-patient-brawler-covetous-ruleth-house-children-subjection-gravity-know-rule-house-care-church-God-novice-lifted-pride-condemnation-devil-good-report-without-reproach-snar-devil-deacons-grave-doubletongued-wine-greedy-filthy-lucre-Holding-mystery-faith-pure-conscience-proved-office-deacon-blameless-wives-grave-slanderers-sober-faithful-husbands-one-wife-ruling-children-houses-used-office-deacon-well-purchase-good-degree-great-boldness-faith-Christ-Jesus-write-hoping-come-shortly-tarry-know-behave-house-God-church-living-God-pillar-ground-truth-without-controversy-great-mystery-godliness-God-manifest-flesh-justified-Spirit-seen-angels-preached-Gentiles-believed-world-received-glory
+**Tags:** #qualifications-for-bishops #qualifications-for-deacons #the-mystery-of-godliness #the-house-of-god
 
 ---
 
@@ -161,7 +161,7 @@ True, saying, man, desire, office, bishop, good, work, bishop, blameless, husban
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Qualifications for Bishops as Type of Christ's Shepherding
 - **Physical shepherding:** Bishop blameless (1 Timothy 3:2)

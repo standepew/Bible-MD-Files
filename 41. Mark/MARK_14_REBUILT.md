@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Christ's Anointing, Last Supper, Gethsemane, Betrayal, Peter's Denial, Trial Before Sanhedrin
 
-**Tags:** #two-days-feast-passover-unleavened-bread-chief-priests-scribes-craft-death-feast-uproar-people-Bethany-house-Simon-leper-sat-meat-woman-alabaster-box-ointment-spikenard-precious-brake-box-poured-head-indignation-waste-ointment-sold-three-pence-poor-murmured-Jesus-trouble-wrought-good-work-poor-always-good-always-anointed-burying-gospel-preached-world-memorial-Judas-Iscariot-twelve-chief-priests-betray-glad-money-conveniently-betray-first-day-unleavened-killed-passover-disciples-prepare-passover-disciples-city-man-pitcher-water-follow-goodman-house-Master-guestchamber-passover-disciples-large-upper-room-furnished-ready-passover-evening-twelve-sat-eat-Jesus-betray-sorrowful-betray-twelve-dippeth-dish-Son-man-written-betray-good-born-bread-blessed-brake-gave-Take-body-cup-given-thanks-drank-blood-testament-shed-many-fruit-vine-kingdom-God-sung-hymn-Olives-offended-night-smite-shepherd-scattered-risen-Galilee-Peter-offended-denied-cock-crow-thrice-vehemently-die-deny-wise-Gethsemane-disciples-pray-Peter-James-John-amazed-heavy-soul-sorrowful-death-tarry-watch-forward-fell-ground-prayed-hour-pass-Abba-Father-possible-cup-will-sleeping-Simon-sleepest-watch-hour-watch-pray-temptation-spirit-ready-flesh-weak-away-prayed-words-returned-asleep-eyes-heavy-answer-third-time-sleep-rest-hour-betrayed-sinners-Rise-betrayeth-hand-Judas-multitude-swords-staves-chief-priests-scribes-elders-betrayed-token-kiss-take-lead-hands-took-kiss-Master-hands-laid-sword-servant-high-priest-ear-thief-swords-staves-daily-temple-teaching-took-scriptures-fulfilled-forsook-fled-young-man-linen-cloth-naked-linen-naked-led-high-priest-chief-priests-elders-scribes-Peter-afar-palace-high-priest-servants-warmed-fire-chief-priests-council-witness-death-false-witness-agreed-false-witness-destroy-temple-three-days-build-without-agreed-high-priest-midst-answered-witness-answered-peace-Christ-Blessed-Son-man-sitting-right-hand-power-clouds-heaven-rent-clothes-further-witnesses-blasphemy-condemned-guilty-death-spit-face-buffet-Prophesy-servants-strike-palms-Peter-palace-maid-high-priest-warming-Nazareth-denied-know-understand-porch-cock-crew-maid-stood-denied-Galilaean-speech-curse-swear-know-man-cock-crew-remembered-word-cock-crow-denied-thrice-wept
+**Tags:** #christ #last-supper #gethsemane #betrayal #peter #trial-before-sanhedrin
 
 ---
 
@@ -387,7 +387,7 @@ Two, days, feast, passover, unleavened, bread, chief, priests, scribes, craft, d
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Christ's Anointing as Type of Christ's Burial
 - **Physical anointing:** Alabaster box (Mark 14:5)

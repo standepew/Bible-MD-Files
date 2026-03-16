@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Mixed Marriages, Ezra's Lament, Confession of Sin, Divine Mercy
 
-**Tags:** #things-done-princes-came-people-Israel-priests-Levites-separated-people-lands-abominations-Canaanites-Hittites-Perizzites-Jebusites-Ammonites-Moabites-Egyptians-Amorites #taken-daughters-sons-holy-seed-mingled-people-lands-hand-princes-rulers-chief-trespass #heard-thing-rent-garment-mantle-plucked-hair-head-beard-sat-astonied #assembled-trembled-words-GOD-Israel-transgression-carried-sat-astonied-evening-sacrifice #evening-sacrifice-arose-heaviness-rent-garment-mantle-fell-knees-spread-hands-LORD-GOD #GOD-ashamed-blush-lift-face-GOD-iniquities-increased-head-trespass-grown-heavens #days-fathers-great-trespass-day-iniquities-kings-priests-delivered-hand-kings-lands-sword-captivity-spoil-confusion-face-day #little-space-grace-LORD-GOD-remnant-escape-nail-holy-place-GOD-lighten-eyes-little-reviving-bondage #bondmen-GOD-forsaken-bondage-extended-mercy-sight-kings-Persia-reviving-set-house-GOD-repair-desolations-wall-Judah-Jerusalem #GOD-forsaken-commandments #commanded-servants-prophets-land-possess-unclean-land-filthiness-people-lands-abominations-filled-uncleanness #give-daughters-sons-take-daughters-sons-seek-peace-wealth-strong-eat-good-land-inheritance-children #come-evil-deeds-great-trespass-GOD-punished-less-iniquities-deserve-deliverance #break-commandments-join-affinity-people-abominations-angry-consumed-remnant-escaping #LORD-GOD-Israel-righteous-remain-escaped-trespasses-stand
+**Tags:** #GOD-forsaken-commandments #mixed-marriages #ezra #confession-of-sin #divine-mercy
 
 ---
 

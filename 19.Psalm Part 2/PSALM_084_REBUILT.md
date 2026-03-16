@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Longing for God's House, Divine Blessing, Spiritual Strength, Eternal Dwelling
 
-**Tags:** #chief-Musician-Gittith-Psalm-sons-Korah-amiable-tabernacles-LORD-hosts-soul-longeth-fainteth-courts-LORD-heart-flesh-crieth-living-GOD-sparrow-found-house-swallow-nest-lay-young-altars-LORD-hosts-King-GOD-Blessed-dwell-house-praising-Selah-Blessed-man-strength-heart-ways-passing-valley-Baca-well-rain-filleth-pools-strength-strength-Zion-appeareth-GOD-LORD-GOD-hosts-hear-prayer-ear-GOD-Jacob-Selah-behold-GOD-shield-look-face-anointed-day-courts-better-thousand-doorkeeper-house-GOD-dwell-tents-wickedness-LORD-GOD-sun-shield-LORD-grace-glory-good-thing-withhold-walk-uprightly-LORD-hosts-blessed-man-trusteth
+**Tags:** #longing-for-god #divine-blessing #spiritual-strength #eternal-dwelling
 
 ---
 

@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Paul's Greeting and Purpose, Qualifications for Elders, False Teachers in Crete, Rebuke of False Teachers, Pure and Defiled
 
-**Tags:** #Paul-servant-God-apostle-Jesus-Christ-faith-God-elect-acknowledging-truth-godliness-hope-eternal-life-God-lie-promised-world-began-times-manifested-word-preaching-commandment-God-Saviour-Titus-son-common-faith-Grace-mercy-peace-God-Father-Lord-Jesus-Christ-Saviour-cause-left-Crete-set-order-wanting-ordain-elders-city-appointed-blameless-husband-wife-faithful-children-accused-riot-unruly-bishop-blameless-steward-God-selfwilled-angry-wine-striker-filthy-lucre-lover-hospitality-lover-good-men-sober-just-holy-temperate-Holding-faithful-word-taught-able-sound-doctrine-exhort-convince-gainsayers-unruly-vain-talkers-deceivers-circumcision-mouths-stopped-subvert-houses-teaching-things-filthy-lucre-prophet-Cretians-liars-evil-beasts-slow-bellies-witness-true-rebuke-sharply-sound-faith-heeding-Jewish-fables-commandments-men-turn-truth-pure-defiled-unbelieving-mind-conscience-defiled-profess-know-God-works-deny-abominable-disobedient-good-work-reprobate
+**Tags:** #paul #qualifications-for-elders #false-teachers-in-crete #rebuke-of-false-teachers #pure-and-defiled
 
 ---
 
@@ -165,7 +165,7 @@ Paul, servant, God, apostle, Jesus, Christ, faith, God, elect, acknowledging, tr
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Paul's Greeting and Purpose as Type of Christ's Commission
 - **Physical commission:** Faith elect (Titus 1:2)

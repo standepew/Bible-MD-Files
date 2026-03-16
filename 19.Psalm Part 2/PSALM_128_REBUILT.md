@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Blessing of Righteousness, Family Prosperity, Generational Blessing, Peace in Israel
 
-**Tags:** #Song-degrees-Blessed-feareth-LORD-walketh-ways-eat-labour-hands-happy-well-wife-fruitful-vine-sides-house-children-olive-plants-round-table-man-blessed-feareth-LORD-LORD-bless-Zion-see-good-Jerusalem-days-life-see-children-children-peace-Israel
+**Tags:** #blessing-of-righteousness #family-prosperity #generational-blessing #peace-in-israel
 
 ---
 

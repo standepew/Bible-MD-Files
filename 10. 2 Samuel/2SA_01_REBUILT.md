@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** News of Saul's Death, Amalekite's Report, David's Grief, Execution of Amalekite, David's Lament
 
-**Tags:** #David-returned-slaughter-Amalekites-abode-two-days-Ziklag #third-day-man-camp-Saul-clothes-rent-earth-head-fell-earth-obeisance #David-whence-comest-camp-Israel-escaped #David-matter-tell-people-fled-battle-people-fallen-dead-Saul-Jonathan-son-dead #David-young-man-knew-Saul-Jonathan-son-dead #young-man-chance-mount-Gilboa-Saul-leaned-spear-chariots-horsemen-followed #looked-behind-called-answered-Amalekite #Stand-slay-anguish-life-whole #stood-slay-could-live-crown-head-bracelet-arm-lord #David-clothes-rent-men-mourned-weeped-fasted-Saul-Jonathan-son-people-LORD-house-Israel-sword #David-young-man-stranger-Amalekite #afraid-stretch-hand-destroy-LORD-anointed #David-young-men-smote-died #blood-head-mouth-testified-slain-LORD-anointed #David-lamentation-Saul-Jonathan-son-teach-children-Judah-book-Jasher #beauty-Israel-slain-high-places-mighty-fallen #Gath-Askelon-daughters-Philistines-rejoice-daughters-uncircumcised-triumph #mountains-Gilboa-dew-rain-fields-offerings-shield-mighty-cast-away-Saul-anointed-oil #blood-slain-fat-mighty-bow-Jonathan-sword-Saul-empty #Saul-Jonathan-lovely-pleasant-lives-death-divided-swifter-eagles-stronger-lions #daughters-Israel-weep-Saul-scarlet-delights-ornaments-gold-apparel #mighty-fallen-battle-Jonathan-slain-high-places #distressed-brother-Jonathan-pleasant-love-wonderful-women #mighty-fallen-weapons-war-perished
+**Tags:** #looked-behind-called-answered-Amalekite #Stand-slay-anguish-life-whole #David-young-man-stranger-Amalekite #David-young-men-smote-died #mighty-fallen-weapons-war-perished #news-of-saul #amalekite #david #execution-of-amalekite
 
 ---
 

@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Warning to the Rich, Patience and the Lord's Coming, Power of Prayer, Restoring the Wanderer
 
-**Tags:** #rich-men-weep-howl-miseries-come-riches-corrupted-garments-motheaten-gold-silver-cankered-rust-witness-eat-flesh-fire-heaped-treasure-last-days-hire-labourers-reaped-fields-kept-fraud-crieth-cries-reaped-ears-Lord-sabaoth-lived-pleasure-earth-wanton-nourished-hearts-day-slaughter-condemned-killed-resist-patient-brethren-coming-Lord-husbandman-wait-precious-fruit-earth-long-patience-receive-early-latter-rain-patient-stablish-hearts-coming-Lord-draweth-nigh-grudge-condemned-judge-standeth-door-prophets-spoken-name-Lord-example-suffering-affliction-patience-count-happy-endure-patience-Job-end-Lord-pitiful-tender-mercy-swear-heaven-earth-oath-yea-nay-condemnation-afflicted-pray-merry-sing-psalms-sick-elders-church-pray-oiling-name-Lord-prayer-faith-save-sick-Lord-raise-committed-sins-forgiven-confess-faults-pray-healed-effectual-fervent-prayer-righteous-availeth-Elias-man-passions-prayed-earnestly-rain-rained-earth-space-three-years-six-months-prayed-heaven-gave-rain-earth-brought-fruit-brethren-err-truth-convert-know-convert-sinner-error-way-save-soul-death-hide-multitude-sins
+**Tags:** #warning-to-the-rich #patience-and-the-lord #power-of-prayer #restoring-the-wanderer
 
 ---
 
@@ -195,7 +195,7 @@ Rich, men, weep, howl, miseries, come, riches, corrupted, garments, motheaten, g
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Warning to the Rich as Type of Christ's Judgment on Worldliness
 - **Physical judgment:** Rich men (James 5:2)

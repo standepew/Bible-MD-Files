@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Divine Vengeance, Wicked Triumph, Spiritual Instruction, God's Protection
 
-**Tags:** #LORD-GOD-vengeance-belong-shew-LORD-judge-earth-render-reward-proud-LORD-wicked-wicked-triumph-long-wicked-triumph-utter-speak-hard-things-workers-iniquity-boast-themselves-break-pieces-people-LORD-afflict-heritage-slay-widow-stranger-murder-fatherless-say-LORD-shall-see-regard-brutish-people-fools-wise-planted-ear-hear-formed-eye-see-chastiseth-heathen-correct-teach-man-knowledge-know-thoughts-man-vanity-Blessed-chastenest-LORD-teach-law-give-rest-days-adversity-pit-digged-wicked-LORD-cast-people-forsake-inheritance-judgment-return-righteousness-upright-heart-follow-rise-evildoers-stand-workers-iniquity-LORD-help-soul-dwelt-silence-foot-slippeth-mercy-LORD-held-multitude-thoughts-delight-soul-throne-iniquity-fellowship-frameth-mischief-law-gather-soul-righteous-condemn-innocent-blood-LORD-defence-GOD-rock-refuge-bring-iniquity-cut-wickedness-cut-LORD-GOD-cut
+**Tags:** #divine-vengeance #wicked-triumph #spiritual-instruction #god
 
 ---
 

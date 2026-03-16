@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Paul's Voyage to Rome, The Storm at Sea, Paul's Assurance, The Shipwreck
 
-**Tags:** #determined-sail-Italy-delivered-Paul-prisoners-Julius-centurion-Augustus-band-entering-ship-Adramyttium-launched-sailing-coasts-Asia-Aristarchus-Macedonian-Thessalonica-next-touched-Sidon-Julius-courteously-entreated-Paul-liberty-friends-refresh-launched-thence-sailed-Cyprus-winds-contrary-sailed-sea-Cilicia-Pamphylia-Myra-city-Lycia-centurion-ship-Alexandria-sailing-Italy-put-slowly-days-scarce-Cnidus-wind-suffering-sailed-Crete-Salmone-hardly-passing-place-fair-havens-nigh-Lasea-time-spent-sailing-dangerous-fast-past-Paul-admonished-perceived-voyage-hurt-damage-lading-ship-lives-centurion-believed-master-owner-ship-spoken-Paul-haven-commodious-winter-part-advised-depart-attain-Phenice-winter-haven-Crete-south-west-north-west-south-wind-blew-softly-obtained-purpose-loosing-sailed-Crete-long-tempestuous-wind-Euroclydon-ship-caught-bear-wind-drive-Clauda-work-boat-taken-helps-undergirding-ship-fearing-quicksands-strake-sail-driven-exceedingly-tossed-tempest-next-lightened-third-cast-tackling-neither-sun-stars-days-appeared-tempest-hope-saved-taken-long-abstinence-Paul-midst-hearkened-loosed-Crete-harm-loss-exhort-good-cheer-loss-life-ship-angel-God-serve-Fear-Paul-brought-Caeser-God-given-sail-cheer-believe-God-told-cast-island-fourteenth-night-driven-Adria-midnight-shipmen-drew-country-sounded-fathoms-further-fathoms-fearing-rocks-cast-anchors-stern-wished-shipmen-flee-ship-boat-sea-colour-cast-anchors-foreship-Paul-centurion-soldiers-abide-saved-soldiers-cut-ropes-boat-fall-day-coming-Paul-besought-meat-fourteenth-tarried-continued-fasting-nothing-pray-meat-health-hair-fall-head-spoke-bread-gave-thanks-God-presence-broken-eat-cheer-meat-ship-two-hundred-threescore-sixteen-souls-eaten-lightened-cast-wheat-sea-day-land-discovered-creek-shore-thrust-ship-anchors-committed-sea-loosed-rudder-bands-hoised-mainsail-wind-shore-falling-seas-met-ship-aground-forepart-stuck-unmoveable-hinder-broken-violence-waves-soldiers-counsel-kill-prisoners-swim-escape-centurion-willing-save-Paul-kept-purpose-commanded-swim-cast-sea-land-rest-boards-broken-pieces-ship-escaped-safe-land
+**Tags:** #paul #the-storm-at-sea #the-shipwreck
 
 ---
 
@@ -339,7 +339,7 @@ Determined, sail, Italy, delivered, Paul, prisoners, Julius, centurion, Augustus
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Paul's Voyage to Rome as Type of Christ's Mission
 - **Physical mission:** Augustus band (Acts 27:3)

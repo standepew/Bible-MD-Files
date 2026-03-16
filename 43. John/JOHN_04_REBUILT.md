@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** The Woman at the Well, Living Water, True Worship, The Harvest, Healing the Nobleman's Son
 
-**Tags:** #Lord-knew-Pharisees-Jesus-made-baptized-disciples-Jesus-disciples-left-Judæa-departed-Galilee-needs-Samaria-city-Samaria-Sychar-parcel-ground-Jacob-son-Joseph-Jacob-well-Jesus-wearied-journey-well-sixth-hour-woman-Samaria-draw-water-Jesus-drink-disciples-city-buy-meat-woman-Samaria-Jew-drink-woman-Samaria-Jews-dealings-Samaritans-Jesus-answered-knew-gift-God-saith-drink-asked-given-living-water-woman-Sir-draw-well-deep-living-water-greater-Jacob-gave-well-drank-children-cattle-Jesus-answered-drink-water-thirst-drink-water-given-never-thirst-water-given-well-water-springing-everlasting-life-woman-Sir-water-thirst-draw-Jesus-husband-come-hither-woman-husband-Jesus-husband-husbands-husband-truly-woman-prophet-fathers-worshipped-mountain-Jerusalem-place-worship-Jesus-believe-hour-neither-mountain-Jerusalem-worship-Father-worship-know-worship-salvation-Jews-hour-true-worshippers-worship-Father-spirit-truth-Father-seeketh-worship-Spirit-worship-spirit-truth-woman-Messias-cometh-Christ-tell-Jesus-spake-disciples-marvelled-talked-woman-man-seest-talkest-woman-left-waterpot-city-men-Come-man-told-Christ-city-Jesus-disciples-Master-eat-Jesus-meat-know-disciples-man-brought-Jesus-meat-will-sent-finish-work-four-months-harvest-Lift-eyes-fields-white-harvest-reapeth-wages-gathereth-fruit-life-eternal-soweth-reapeth-rejoice-saying-true-soweth-reapeth-sent-reap-bestowed-labour-men-laboured-entered-labours-Samaritans-city-believed-saying-woman-testified-told-Samaritans-tarry-abode-days-believed-word-woman-believe-saying-heard-know-Christ-Saviour-world-days-departed-Galilee-Jesus-testified-prophet-honour-country-Galilee-Galilæans-received-things-Jerusalem-feast-feast-Jesus-Cana-Galilee-water-wine-nobleman-son-sick-Capernaum-heard-Jesus-Judæa-Galilee-besought-heal-son-point-death-Jesus-signs-wonders-believe-nobleman-Sir-child-die-Jesus-son-liveth-man-believed-word-Jesus-way-going-servants-son-liveth-enquired-hour-amend-seventh-hour-fever-left-father-hour-Jesus-son-liveth-believed-house-miracle-Jesus-Judæa-Galilee
+**Tags:** #the-woman-at-the-well #living-water #true-worship #the-harvest #healing-the-nobleman
 
 ---
 
@@ -313,7 +313,7 @@ Lord, knew, Pharisees, Jesus, made, baptized, disciples, Jesus, disciples, left,
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Woman at the Well as Type of Christ's Salvation
 - **Physical woman:** Woman Samaria (John 4:9)

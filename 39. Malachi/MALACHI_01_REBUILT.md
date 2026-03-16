@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Divine Love, Polluted Worship, Priestly Failure, Universal Worship
 
-**Tags:** #burden-word-LORD-Israel-Malachi-loved-LORD-Wherein-loved-Esau-Jacob-brother-LORD-loved-Jacob-hated-Esau-laid-mountains-heritage-waste-dragons-wilderness-Edom-impoverished-return-build-desolate-places-LORD-hosts-build-throw-call-border-wickedness-people-LORD-indignation-forever-eyes-see-LORD-magnified-border-Israel-son-honoureth-father-servant-master-father-honour-master-fear-LORD-hosts-priests-despise-name-despised-name-offer-polluted-bread-altar-polluted-table-LORD-contemptible-offer-blind-sacrifice-evil-lame-sick-evil-governor-pleased-accept-person-LORD-hosts-beseech-gracious-means-regard-persons-LORD-hosts-shut-doors-nought-kindle-fire-altar-nought-pleasure-LORD-hosts-accept-offering-rising-sun-going-same-name-great-Gentiles-place-incense-offered-name-pure-offering-name-great-heathen-LORD-hosts-profaned-table-LORD-polluted-fruit-meat-contemptible-weariness-snuffed-brought-torn-lame-sick-offering-accept-hand-LORD-cursed-deceiver-flock-male-voweth-sacrificed-Lord-corrupt-thing-great-King-LORD-hosts-name-dreadful-heathen
+**Tags:** #christ #polluted-worship #priestly-failure #universal-worship
 
 ---
 

@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Triumphal Entry, Humble King, Universal Dominion, Prisoners of Hope
 
-**Tags:** #burden-word-LORD-land-Hadrach-Damascus-rest-eyes-man-tribes-Israel-LORD-Hamath-border-Tyrus-Zidon-wise-Tyrus-build-strong-hold-heaped-silver-dust-fine-gold-mire-streets-Lord-cast-smite-power-sea-devoured-fire-Ashkelon-fear-Gaza-sorrowful-Ekron-expectation-ashamed-king-perish-Gaza-Ashkelon-inhabited-bastard-dwell-Ashdod-cut-pride-Philistines-take-blood-mouth-abominations-teeth-remain-GOD-governor-Judah-Ekron-Jebusite-encamp-house-army-passeth-returneth-oppressor-pass-seen-eyes-Rejoice-greatly-daughter-Zion-shout-daughter-Jerusalem-behold-King-cometh-just-salvation-lowly-riding-ass-colt-foal-ass-cut-chariot-Ephraim-horse-Jerusalem-battle-bow-speak-peace-heathen-dominion-sea-sea-river-ends-earth-blood-covenant-sent-prisoners-pit-water-Turn-strong-hold-prisoners-hope-day-declare-render-double-bent-Judah-filled-bow-Ephraim-raised-sons-Zion-sons-Greece-sword-mighty-man-LORD-seen-arrow-lightning-LORD-GOD-blow-trumpet-whirlwinds-south-LORD-hosts-defend-devour-subdue-sling-stones-drink-noise-wine-filled-bowls-corners-altar-LORD-God-save-day-flock-people-stones-crown-lifted-ensign-land-goodness-beauty-corn-cheerful-young-men-new-wine-maids
+**Tags:** #christ #humble-king #universal-dominion #prisoners-of-hope
 
 ---
 

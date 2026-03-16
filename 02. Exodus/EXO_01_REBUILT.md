@@ -197,6 +197,38 @@ Exodus opens where Genesis closed — with Israel in Egypt. The seventy souls wh
 
 ---
 
+## COMMONLY MISQUOTED PASSAGES
+
+### Exodus 1:12 — "Affliction Produces Growth" Used to Justify Oppression
+
+**Verse 12** — "But the more they afflicted them, the more they multiplied and grew."
+
+**How it is misused:** This verse is sometimes cited to imply that hardship is inherently productive and therefore those suffering oppression should simply endure it, or that God is indifferent to the source of the affliction. It is also used to romanticize suffering without acknowledging the genuine evil of the oppressor.
+
+**What the text actually says:** The multiplication is not the product of affliction — it is the product of God's covenant blessing operating *despite* affliction. The surrounding verses make this clear:
+- **Verse 7** — "And the children of Israel were fruitful, and increased abundantly, and multiplied, and waxed exceeding mighty" — this blessing was already active *before* the affliction began; Pharaoh's oppression was a response to it, not the cause of it
+- **Verse 20** — "Therefore God dealt well with the midwives: and the people multiplied, and waxed very mighty" — the multiplication is explicitly credited to God's intervention and faithfulness, not to the suffering itself
+
+*Correction:* Exodus 1:12 does not teach that oppression is good or that God uses cruelty as a growth mechanism. It teaches that the Abrahamic covenant (Genesis 12:2-3; 15:5) cannot be cancelled by human tyranny. The affliction is evil; Pharaoh is culpable; God's blessing operates through it despite it, not because of it.
+
+---
+
+### Exodus 1:19 — "The Midwives Lied and God Blessed Them — Therefore Lying Is Acceptable"
+
+**Verse 19** — "And the midwives said unto Pharaoh, Because the Hebrew women are not as the Egyptian women; for they are lively, and are delivered ere the midwives come in unto them."
+
+**How it is misused:** Some use this passage to argue that the Bible approves of deception, or to build a general principle that lying is acceptable when the outcome is good. This reading flattens the narrative and draws a conclusion the passage does not support.
+
+**What the text actually says:** The text gives the reason for God's reward, and it is not the deception — it is the fear of God:
+- **Verse 17** — "But the midwives feared God, and did not as the king of Egypt commanded them, but saved the men children alive" — God's commendation is tied to this act of conscience, not to the specific words they said to Pharaoh
+- **Verse 21** — "Because the midwives feared God, that he made them houses" — the stated basis of the reward is their fear of God, not their speech to Pharaoh
+
+*Correction:* The passage does not endorse lying as a principle. It records what the midwives did and states why God rewarded them: they feared God above the king. The narrative draws attention to their faith-driven disobedience to an unjust authority, not to every word they spoke. The text's moral center is Acts 5:29 — "We ought to obey God rather than men" — not a theological endorsement of deception.
+
+---
+
+---
+
 ## SYMBOLIC THREADS
 
 ### The River (Nile) — Judgment and Salvation

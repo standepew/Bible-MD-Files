@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Sovereignty, Divine Judgment, Death's Plagues, Final Destruction
 
-**Tags:** #Ephraim-spake-trembling-exalted-Israel-offended-Baal-died-sin-molten-images-silver-idols-understanding-work-craftsmen-sacrifice-kiss-calves-morning-cloud-early-dew-passeth-chaff-whirlwind-floor-smoke-chimney-LORD-God-land-Egypt-know-god-saviour-wilderness-land-great-drought-pasture-filled-heart-exalted-forgotten-lion-leopard-way-observe-meet-bear-bereaved-whelps-rend-caul-heart-devour-lion-wild-beast-tear-Israel-destroyed-help-king-save-cities-judges-king-princes-king-anger-took-wrath-iniquity-Ephraim-bound-sin-sorrows-travailing-woman-unwise-son-stay-place-breaking-children-ransom-power-grave-redeem-death-plagues-grave-destruction-repentance-eyes-fruitful-brethren-east-wind-wind-LORD-wilderness-spring-dry-fountain-dried-spoil-treasure-pleasant-vessels-Samaria-desolate-rebelled-God-fall-sword-infants-dashed-pieces-women-child-ripped
+**Tags:** #christ #divine-judgment #death #final-destruction
 
 ---
 

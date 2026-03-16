@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** The Scourging and Mocking, The Crucifixion, The Death of Jesus, The Burial of Jesus
 
-**Tags:** #Pilate-scourged-Jesus-soldiers-platted-crown-thorns-head-purple-robe-Hail-King-Jews-smote-hands-Pilate-forth-behold-fault-Jesus-crown-thorns-purple-robe-behold-man-chief-priests-officers-crucify-crucify-Pilate-crucify-fault-Jews-law-die-Son-God-Pilate-heard-saying-afraid-judgment-Jesus-Whence-answer-Pilate-speakest-answer-power-crucify-release-Jesus-answer-power-given-above-delivered-greater-sin-Pilate-release-Jews-cried-Cæsar-friend-king-Cæsar-heard-saying-Jesus-forth-judgment-seat-Pavement-Hebrew-Gabbatha-preparation-passover-sixth-hour-Jews-King-Away-crucify-crucify-King-chief-priests-Cæsar-delivered-crucified-Jesus-cross-place-skull-Hebrew-Golgotha-crucified-side-Jesus-midst-Pilate-title-cross-writing-JESUS-NAZARETH-King-Jews-title-read-Jews-place-crucified-nigh-city-written-Hebrew-Greek-Latin-chief-priests-Pilate-write-King-Jews-King-Jews-written-soldiers-crucified-Jesus-garments-four-parts-soldier-part-coat-without-seam-woven-top-rend-cast-lots-scripture-fulfilled-parted-raiment-vesture-cast-lots-soldiers-cross-mother-mother-sister-Mary-Cleophas-Mary-Magdalene-Jesus-mother-disciple-loved-mother-Woman-behold-son-disciple-behold-mother-hour-disciple-home-Jesus-knowing-accomplished-scripture-fulfilled-thirst-vessel-vinegar-sponge-vinegar-hyssop-mouth-received-vinegar-finished-bowed-head-gave-ghost-Jews-preparation-bodies-cross-sabbath-sabbath-high-besought-Pilate-legs-broken-soldiers-brake-legs-first-crucified-Jesus-dead-brake-soldiers-spear-pierced-side-blood-water-saw-record-true-believe-scripture-fulfilled-bone-broken-scripture-pierced-Joseph-Arimathaea-disciple-secretly-fear-Jews-besought-Pilate-body-Jesus-Pilate-leave-body-Jesus-Nicodemus-night-mixture-myrrh-aloes-pound-weight-body-Jesus-linen-clothes-spices-manner-Jews-bury-crucified-garden-sepulchre-man-laid-Jews-preparation-sepulchre-hand
+**Tags:** #the-scourging-and-mocking #the-crucifixion #the-death-of-jesus #the-burial-of-jesus
 
 ---
 
@@ -275,7 +275,7 @@ Pilate, scourged, Jesus, soldiers, platted, crown, thorns, head, purple, robe, H
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Scourging and Mocking as Type of Christ's Suffering
 - **Physical scourging:** Scourged Jesus (John 19:3)

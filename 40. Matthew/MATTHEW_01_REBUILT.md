@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Christ's Royal Genealogy, Virgin Birth, Emmanuel Prophecy, Divine Protection
 
-**Tags:** #book-generation-Jesus-Christ-son-David-son-Abraham-Abraham-begat-Isaac-Isaac-begat-Jacob-Jacob-begat-Judas-brethren-Judas-begat-Phares-Zara-Thamar-Phares-begat-Esrom-Esrom-begat-Aram-Aram-begat-Aminadab-Aminadab-begat-Naasson-Naasson-begat-Salmon-Salmon-begat-Booz-Rachab-Booz-begat-Obed-Ruth-Obed-begat-Jesse-Jesse-begat-David-king-David-king-begat-Solomon-wife-Urias-Solomon-begat-Roboam-Roboam-begat-Abia-Abia-begat-Asa-Asa-begat-Josaphat-Josaphat-begat-Joram-Joram-begat-Ozias-Ozias-begat-Joatham-Joatham-begat-Achaz-Achaz-begat-Ezekias-Ezekias-begat-Manasses-Manasses-begat-Amon-Amon-begat-Josias-Josias-begat-Jechonias-brethren-carried-Babylon-brought-Babylon-Jechonias-begat-Salathiel-Salathiel-begat-Zorobabel-Zorobabel-begat-Abiud-Abiud-begat-Eliakim-Eliakim-begat-Azor-Azor-begat-Sadoc-Sadoc-begat-Achim-Achim-begat-Eliud-Eliud-begat-Eleazar-Eleazar-begat-Matthan-Matthan-begat-Jacob-Jacob-begat-Joseph-husband-Mary-born-Jesus-called-Christ-generations-Abraham-David-fourteen-generations-David-carrying-Babylon-fourteen-generations-carrying-Babylon-Christ-fourteen-generations-birth-Jesus-Christ-wise-mother-Mary-espoused-Joseph-came-child-Holy-Ghost-Joseph-husband-just-man-willing-make-publick-example-minded-privily-thought-angel-Lord-appeared-dream-Joseph-son-David-fear-Mary-wife-conceived-Holy-Ghost-bring-son-call-name-JESUS-save-people-sins-fulfilled-spoken-Lord-prophet-virgin-child-bring-son-call-name-Emmanuel-interpreted-God-Joseph-raised-sleep-angel-Lord-bidden-wife-knew-brought-firstborn-son-called-name-JESUS
+**Tags:** #christ #virgin-birth #emmanuel-prophecy #divine-protection
 
 ---
 

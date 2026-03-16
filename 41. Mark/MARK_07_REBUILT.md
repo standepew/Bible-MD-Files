@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Christ's Teaching on Tradition, Syrophenician Woman, Healing of Deaf-Mute, True Purity
 
-**Tags:** #Pharisees-scribes-Jerusalem-disciples-eat-bread-defiled-unwashen-hands-fault-Pharisees-Jews-wash-hands-oft-tradition-elders-market-wash-eat-washing-cups-pots-brasen-vessels-tables-Pharisees-scribes-tradition-elders-unwashen-hands-answered-Esaias-prophesied-hypocrites-written-people-honour-lips-heart-vain-worship-doctrines-commandments-men-laying-commandment-God-tradition-men-washing-pots-cups-commandment-God-Moses-commandment-Honour-father-mother-curseth-father-mother-death-Corban-gift-wherewith-mightest-proffited-free-suffer-father-mother-making-word-God-effect-tradition-delivered-called-people-Hearken-understand-without-entering-defile-without-defile-heart-entereth-belly-draught-purging-meats-cometh-defile-within-heart-proceed-evil-thoughts-adulteries-fornications-murders-thefts-covetousness-wickedness-deceit-lasciviousness-evil-eye-blasphemy-pride-foolishness-evil-within-defile-arose-borders-Tyre-Sidon-house-know-hid-Greek-Syrophenician-nation-young-daughter-unclean-spirit-heard-fell-feet-besought-cast-devil-daughter-Jesus-children-filled-meet-children-bread-cast-dogs-answered-Lord-dogs-table-children-crumbs-saying-devil-daughter-house-found-devil-daughter-bed-departing-coasts-Tyre-Sidon-sea-Galilee-midst-Decapolis-deaf-impediment-speech-besought-hand-multitude-aside-fingers-ears-spit-touched-tongue-heaven-sighed-Ephphatha-opened-straightway-ears-opened-string-tongue-loosed-spake-plain-charged-tell-man-charged-great-deal-published-astonished-beyond-measure-things-well-deaf-hear-dumb-speak
+**Tags:** #christ #syrophenician-woman #healing-of-deafmute #true-purity
 
 ---
 
@@ -277,7 +277,7 @@ Pharisees, scribes, Jerusalem, disciples, eat, bread, defiled, unwashen, hands, 
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Christ's Teaching on Tradition as Type of Christ's Authority
 - **Physical teaching:** Unwashen hands (Mark 7:4)

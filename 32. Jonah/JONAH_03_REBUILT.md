@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Second Call, Nineveh's Repentance, Divine Mercy, God's Relenting
 
-**Tags:** #word-LORD-Jonah-second-time-Arise-Nineveh-great-city-preach-preaching-bid-Jonah-arose-Nineveh-word-LORD-Nineveh-exceeding-great-city-three-days-journey-Jonah-began-enter-city-day-journey-cried-forty-days-Nineveh-overthrown-people-Nineveh-believed-God-proclaimed-fast-sackcloth-greatest-least-word-king-Nineveh-arose-throne-laid-robe-covered-sackcloth-sat-ashes-caused-proclaimed-published-Nineveh-decree-king-nobles-man-beast-herd-flock-taste-feed-drink-water-man-beast-covered-sackcloth-cry-mightily-God-turn-evil-way-violence-hands-tell-God-turn-repent-turn-fierce-anger-perish-God-saw-works-turned-evil-way-God-repented-evil-said-would-did
+**Tags:** #christ #nineveh #divine-mercy #god
 
 ---
 

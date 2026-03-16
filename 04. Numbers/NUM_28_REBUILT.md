@@ -2,7 +2,7 @@
 
 ---
 
-## 1. CHAPTER METADATA
+## CHAPTER METADATA
 
 **Book:** Numbers
 **Chapter:** 28
@@ -13,13 +13,13 @@
 
 ---
 
-## 2. CHAPTER SUMMARY
+## CHAPTER SUMMARY
 
 God speaks to Moses: command Israel to observe the offering calendar — my offering, my bread for my sacrifices made by fire, in their due season. The daily offering (tamid): two unblemished yearling lambs — one in the morning, one at evening — with a tenth ephah of flour mixed with beaten oil and a quarter hin of wine poured in the holy place. This was ordained at Sinai; it is perpetual. The Sabbath doubles the daily: two additional lambs with doubled flour, added to the continual offering. The New Moon adds: two young bulls, one ram, seven yearling lambs, with proportional flour and oil; one goat for sin offering — all beside the continual burnt offering. The Passover is the fourteenth of the first month. The Feast of Unleavened Bread opens on the fifteenth — seven days of eating unleavened bread; the first day is a holy convocation with no servile work; a burnt offering of two bulls, one ram, seven lambs, with flour and oil; one goat for atonement — beside the morning continual offering. This same offering daily for seven days; the seventh day is another holy convocation. Then the Feast of Firstfruits (Weeks/Pentecost): when the new grain offering is brought after your weeks are complete — a holy convocation with no servile work; two bulls, one ram, seven yearling lambs; proportional flour and oil; one goat for atonement — all unblemished, all beside the continual offering.
 
 ---
 
-## 3. CROSS-REFERENCES (Scripture Interpreting Scripture)
+## CROSS-REFERENCES (Scripture Interpreting Scripture) (Scripture Interpreting Scripture)
 
 ### "My Bread for My Sacrifices" — God's Table
 
@@ -54,7 +54,7 @@ God speaks to Moses: command Israel to observe the offering calendar — my offe
 
 ---
 
-## 4. KEYWORD INDEX
+## KEYWORD INDEX
 
 **For Current Events Matching:**
 - **Unceasing prayer / the continual offering** → Numbers 28:3-8 — 1 Thessalonians 5:17; Daniel 8:11-13
@@ -65,7 +65,7 @@ God speaks to Moses: command Israel to observe the offering calendar — my offe
 
 ---
 
-## 5. KEY TERMS WITH CONTEXTUAL DEFINITIONS
+## KEY TERMS WITH CONTEXTUAL DEFINITIONS WITH CONTEXTUAL DEFINITIONS
 
 ### CONTINUAL BURNT OFFERING / TAMID (Hebrew: olah tamid — ascending offering, continuous/perpetual)
 - **Numbers 28:3, 6, 10, 15, 23, 24, 31** — "beside the continual burnt offering" — repeated phrase throughout the chapter
@@ -77,7 +77,7 @@ God speaks to Moses: command Israel to observe the offering calendar — my offe
 
 ---
 
-## 6. THE ACTUAL VERSES — NUMBERS 28 (KJV)
+## THE ACTUAL VERSES (KJV) — NUMBERS 28 (KJV)
 
 **1** And the LORD spake unto Moses, saying,
 **2** Command the children of Israel, and say unto them, My offering, and my bread for my sacrifices made by fire, for a sweet savour unto me, shall ye observe to offer unto me in their due season.
@@ -113,7 +113,7 @@ God speaks to Moses: command Israel to observe the offering calendar — my offe
 
 ---
 
-## 7. PROPHETIC/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS/TYPOLOGICAL CONNECTIONS
 
 ### Morning and Evening — The Bookends of Every Day
 
@@ -126,7 +126,7 @@ Two lambs daily — one at dawn, one at dusk — frame every day of Israel's exi
 
 ---
 
-## 8. COMMONLY MISQUOTED PASSAGES
+## COMMONLY MISQUOTED PASSAGES PASSAGES
 
 ### Numbers 28:2 — "My Bread" Used to Argue That God Literally Eats
 
@@ -136,7 +136,7 @@ Two lambs daily — one at dawn, one at dusk — frame every day of Israel's exi
 
 ---
 
-## 9. SYMBOLIC THREADS
+## SYMBOLIC THREADS
 
 ### The Beside-the-Continual Thread — All Worship Builds on the Foundation
 

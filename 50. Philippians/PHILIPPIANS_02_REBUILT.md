@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** The Mind of Christ, Christ's Humiliation and Exaltation, Working Out Salvation, Examples of Service
 
-**Tags:** #consolation-Christ-comfort-love-fellowship-Spirit-bowels-mercies-fulfil-joy-likeminded-love-accord-mind-strife-vainglory-lowliness-mind-esteem-things-others-mind-Christ-Jesus-form-God-robbery-equal-God-reputation-form-servant-likeness-men-fashion-man-humbled-obedient-death-cross-God-highly-exalted-name-above-name-knee-bow-heaven-earth-under-earth-tongue-confess-Jesus-Christ-Lord-glory-God-Father-beloved-obeyed-presence-absence-work-salvation-fear-trembling-God-worketh-will-good-pleasure-murmurings-disputings-blameless-harmless-sons-God-rebuke-crooked-perverse-nation-shine-lights-world-holding-word-life-rejoice-day-Christ-run-vain-laboured-vain-offered-sacrifice-service-faith-joy-rejoice-cause-joy-rejoice-trust-Lord-Jesus-send-Timotheus-shortly-comfort-know-state-man-likeminded-care-state-seek-Jesus-Christ-proof-son-father-served-gospel-hope-send-presently-see-go-trust-Lord-come-shortly-supposed-necessary-send-Epaphroditus-brother-companion-labour-fellowsoldier-messenger-ministered-wants-longed-heaviness-heard-sick-sick-death-God-mercy-sorrow-sorrow-sent-carefully-see-rejoice-less-sorrowful-receive-Lord-gladness-hold-reputation-work-Christ-death-regarding-life-supply-lack-service
+**Tags:** #the-mind-of-christ #christ #working-out-salvation #examples-of-service
 
 ---
 
@@ -215,7 +215,7 @@ Consolation, Christ, comfort, love, fellowship, Spirit, bowels, mercies, fulfil,
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Mind of Christ as Type of Christ's Humility
 - **Physical humility:** Likeminded love (Philippians 2:3)

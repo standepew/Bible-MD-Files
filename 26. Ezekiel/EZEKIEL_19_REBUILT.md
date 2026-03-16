@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Lament, Lion Princes, Vine Judah, Divine Judgment
 
-**Tags:** #lamentation-princes-Israel-mother-lioness-lay-lions-nourished-whelps-young-lions-brought-whelp-young-lion-learned-catch-prey-devoured-men-nations-heard-taken-pit-chains-land-Egypt-waited-hope-lost-whelp-young-lion-lions-young-lion-learned-catch-prey-devoured-men-desolate-palaces-laid-waste-cities-land-desolate-fulness-noise-roaring-nations-set-provinces-spread-net-taken-pit-ward-chains-king-Babylon-holds-voice-heard-mountains-Israel-mother-vine-blood-planted-waters-fruitful-branches-reason-waters-strong-rods-sceptres-bare-rule-stature-exalted-thick-branches-height-multitude-branches-plucked-fury-cast-ground-east-wind-dried-fruit-strong-rods-broken-withered-fire-consumed-planted-wilderness-dry-thirsty-ground-fire-rod-branches-devoured-fruit-strong-rod-sceptre-rule-lamentation-lamentation
+**Tags:** #christ #lion-princes #vine-judah #divine-judgment
 
 ---
 

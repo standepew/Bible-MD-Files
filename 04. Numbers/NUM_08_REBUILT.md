@@ -2,7 +2,7 @@
 
 ---
 
-## 1. CHAPTER METADATA
+## CHAPTER METADATA
 
 **Book:** Numbers
 **Chapter:** 8
@@ -13,13 +13,13 @@
 
 ---
 
-## 2. CHAPTER SUMMARY
+## CHAPTER SUMMARY
 
 Two sections. First: God commands Aaron to light the seven lamps so that they give light toward the front of the candlestick — Aaron obeys exactly; the candlestick is beaten gold, according to the pattern God showed Moses. Second: the full consecration ceremony for the Levites. The process: (1) sprinkle water of purifying upon them; (2) shave all their flesh; (3) wash their clothes; (4) take a young bullock and meat offering, and another bullock for a sin offering. (5) Bring the Levites before the Tabernacle and gather all Israel — the congregation lays their hands on the Levites. (6) Aaron offers the Levites as a wave offering to the LORD from the children of Israel. (7) The Levites lay their hands on the heads of the two bulls. (8) The sin offering and burnt offering are made to make atonement for the Levites. (9) The Levites stand before Aaron and his sons and are offered as a wave offering before the LORD. Reason: the Levites are wholly given to God from Israel, instead of all the firstborn — because all firstborn are His since the night in Egypt. God has given the Levites as a gift to Aaron to do Israel's service at the Tabernacle and to make atonement so there is no plague when Israel comes near the sanctuary. Active service: from 25 years old; cease the heavy bearing at 50, but continue lighter ministry with their brethren — they do not retire entirely.
 
 ---
 
-## 3. CROSS-REFERENCES (Scripture Interpreting Scripture)
+## CROSS-REFERENCES (Scripture Interpreting Scripture) (Scripture Interpreting Scripture)
 
 ### The Seven Lamps — Light Toward the Front
 
@@ -60,7 +60,7 @@ This is the reverse of the normal hand-laying pattern. Normally the individual l
 
 ---
 
-## 4. KEYWORD INDEX
+## KEYWORD INDEX
 
 **For Current Events Matching:**
 - **Consecration / ordination / setting apart for service** → Numbers 8:5-22 — Acts 6:6; 13:3; 1 Timothy 5:22
@@ -71,7 +71,7 @@ This is the reverse of the normal hand-laying pattern. Normally the individual l
 
 ---
 
-## 5. KEY TERMS WITH CONTEXTUAL DEFINITIONS
+## KEY TERMS WITH CONTEXTUAL DEFINITIONS WITH CONTEXTUAL DEFINITIONS
 
 ### WAVE OFFERING (Hebrew: tenufah — waving, swinging)
 - **Numbers 8:11, 13, 15, 21** — the Levites waved as a tenufah before the LORD
@@ -83,7 +83,7 @@ This is the reverse of the normal hand-laying pattern. Normally the individual l
 
 ---
 
-## 6. THE ACTUAL VERSES — NUMBERS 8 (KJV)
+## THE ACTUAL VERSES (KJV) — NUMBERS 8 (KJV)
 
 **1** And the LORD spake unto Moses, saying,
 **2** Speak unto Aaron, and say unto him, When thou lightest the lamps, the seven lamps shall give light over against the candlestick.
@@ -114,7 +114,7 @@ This is the reverse of the normal hand-laying pattern. Normally the individual l
 
 ---
 
-## 7. PROPHETIC/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS/TYPOLOGICAL CONNECTIONS
 
 ### The Beaten Gold Candlestick — Suffering Producing Light
 
@@ -130,7 +130,7 @@ The candlestick is beaten — shaped by striking, not by casting into a mould. T
 
 ---
 
-## 8. COMMONLY MISQUOTED PASSAGES
+## COMMONLY MISQUOTED PASSAGES PASSAGES
 
 ### Numbers 8:25-26 — "From Fifty Years They Shall Serve No More" — Complete Retirement?
 
@@ -145,7 +145,7 @@ The candlestick is beaten — shaped by striking, not by casting into a mould. T
 
 ---
 
-## 9. SYMBOLIC THREADS
+## SYMBOLIC THREADS
 
 ### "No Plague When Israel Comes Near" — The Levites as Atonement Buffer
 

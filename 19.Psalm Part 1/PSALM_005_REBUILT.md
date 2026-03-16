@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Morning Prayer, Divine Justice, Wicked vs. Righteous, God's Protection
 
-**Tags:** #chief-Musician-Nehiloth-Psalm-David-ear-words-LORD-consider-meditation-hearken-voice-cry-King-GOD-pray-morning-direct-prayer-look-up #wickedness-evil-dwell-foolish-stand-sight-hate-workers-iniquity-destroy-speak-leasing-LORD-abhor-bloody-deceitful-man-house-multitude-mercy-fear-worship-holy-temple #lead-LORD-righteousness-enemies-way-straight-face-faithfulness-mouth-inward-wickedness-throat-open-sepulchre-flatter-tongue-destroy-GOD-fall-counsels-cast-transgressions-rebelled #trust-rejoice-shout-joy-defend-love-name-joyful-LORD-bless-righteous-favour-compass-shield
+**Tags:** #morning-prayer #divine-justice #wicked-vs-righteous #god
 
 ---
 

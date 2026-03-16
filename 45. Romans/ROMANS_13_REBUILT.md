@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Submission to Authorities, Love Fulfills the Law, The Armor of Light, Put on Christ
 
-**Tags:** #soul-subject-higher-powers-power-God-powers-ordained-God-resisteth-power-resisteth-ordinance-God-resist-receive-damnation-rulers-terror-good-works-evil-afraid-power-good-praise-minister-God-good-evil-afraid-beareth-sword-vain-minister-God-revenger-execute-wrath-evil-subject-wrath-conscience-cause-pay-tribute-God-ministers-attending-continually-render-dues-tribute-tribute-custom-custom-fear-fear-honour-honour-owe-man-thing-love-another-loveth-another-fulfilled-law-commit-adultery-kill-steal-bear-false-witness-covet-commandment-briefly-comprehended-saying-love-neighbour-love-worketh-neighbour-fulfilling-law-knowing-time-high-time-awake-sleep-salvation-nearer-believed-night-far-spent-day-hand-cast-works-darkness-put-armour-light-walk-honestly-day-rioting-drunkenness-chambering-wantonness-strife-envying-put-Lord-Jesus-Christ-provision-flesh-fulfil-lusts
+**Tags:** #submission-to-authorities #love-fulfills-the-law #the-armor-of-light #put-on-christ
 
 ---
 
@@ -171,7 +171,7 @@ Soul, subject, higher, powers, power, God, powers, ordained, God, resisteth, pow
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Submission to Authorities as Type of Christ's Lordship
 - **Physical lordship:** Higher powers (Romans 13:3)

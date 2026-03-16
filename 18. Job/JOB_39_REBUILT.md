@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** God's Second Speech, Animal Kingdom, Divine Providence, Human Ignorance
 
-**Tags:** #wild-goats-rock-bring-hinds-calve-number-months-fulfil-bow-themselves-young-ones-cast-sorrows-good-liking-grow-corn-return #wild-ass-free-loosed-bands-wilderness-barren-land-dwellings-scorneth-multitude-city-regardeth-crying-driver-range-mountains-pasture-searcheth-green #unicorn-willing-serve-abide-crib-bind-band-furrow-harrow-valleys-trust-strength-great-labour-believe-bring-seed-gather-barn #peacocks-wings-feathers-ostrich-leaveth-eggs-earth-warmeth-dust-forget-foot-crush-wild-beast-break-hardened-young-ones-labour-vain-fear #deprived-wisdom-imparted-understanding-lifteth-high-scorneth-horse-rider-given-strength-clothed-neck-thunder-make-afraid-grasshopper-glory-nostrils-terrible #paweth-valley-rejoiceth-strength-meet-armed-men-mocketh-fear-affrighted-turneth-sword-quiver-rattleth-glittering-spear-shield-swalloweth-ground-fierceness-rage-believeth-trumpet #ha-smelleth-battle-thunder-captains-shouting-hawk-fly-wisdom-stretch-wings-south-eagle-mount-command-nest-high-dwelleth-abideth-rock-crag-strong-place #prey-eyes-behold-afar-young-ones-suck-blood-slain
+**Tags:** #god #animal-kingdom #divine-providence #human-ignorance
 
 ---
 

@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Call to Repentance, Divine Mercy, Vision of Horses, Restoration of Jerusalem
 
-**Tags:** #eighth-month-second-year-Darius-word-LORD-Zechariah-son-Berechiah-son-Iddo-prophet-LORD-sore-displeased-fathers-say-LORD-hosts-Turn-LORD-turn-LORD-hosts-fathers-former-prophets-cried-Turn-evil-ways-evil-doings-hear-hearken-LORD-fathers-prophets-live-forever-words-statutes-commanded-servants-prophets-take-hold-fathers-returned-LORD-hosts-thought-ways-doings-dealt-four-twentieth-day-eleventh-month-Sebat-second-year-Darius-word-LORD-Zechariah-son-Berechiah-son-Iddo-prophet-saw-night-man-riding-red-horse-stood-myrtle-trees-bottom-red-horses-speckled-white-lord-angel-talked-shew-angel-LORD-stood-myrtle-trees-answered-LORD-sent-walk-earth-answered-angel-LORD-stood-myrtle-trees-walked-earth-earth-sitteth-rest-angel-LORD-answered-LORD-hosts-long-mercy-Jerusalem-cities-Judah-indignation-threescore-years-LORD-answered-angel-talked-good-words-comfortable-words-angel-communed-Cry-LORD-hosts-jealous-Jerusalem-Zion-great-jealousy-sore-displeased-heathen-ease-little-displeased-helped-affliction-LORD-returned-Jerusalem-mercies-house-built-LORD-hosts-line-stretched-Jerusalem-Cry-LORD-hosts-cities-prosperity-spread-abroad-LORD-comfort-Zion-choose-Jerusalem-lifted-eyes-four-horns-angel-talked-horns-scattered-Judah-Israel-Jerusalem-LORD-shewed-carpenters-fray-cast-horns-Gentiles-lifted-horn-land-Judah-scatter
+**Tags:** #christ #divine-mercy #vision-of-horses #restoration-of-jerusalem
 
 ---
 

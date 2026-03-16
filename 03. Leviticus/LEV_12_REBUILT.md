@@ -105,3 +105,59 @@ The mother's return to the sanctuary after the purification period is always thr
 ---
 
 **End of Leviticus Chapter 12**
+
+---
+
+## COMMONLY MISQUOTED PASSAGES
+
+### Leviticus 12:2-5 — Childbirth Uncleanness Used to Claim Women Are Inherently Sinful
+
+**Verses 2, 5** — "If a woman have conceived seed, and born a man child: then she shall be unclean seven days... But if she bear a maid child, then she shall be unclean two weeks."
+
+**How it is misused:** This passage is sometimes cited to argue that childbirth is inherently sinful, that women are spiritually inferior because of the longer uncleanness period for daughters, or that God holds women uniquely responsible for the fall in a way that males are not.
+
+**What the text actually says:**
+- **Psalm 51:5** — "Behold, I was shapen in iniquity; and in sin did my mother conceive me." — David is not blaming his mother; he is acknowledging the fallen condition into which every human is born.
+- **Romans 8:22** — "For we know that the whole creation groaneth and travaileth in pain together until now." — The condition of the whole creation, including the pain and blood of childbirth, reflects the fall.
+- **Genesis 3:16** — "Unto the woman he said, I will greatly multiply thy sorrow and thy conception; in sorrow thou shalt bring forth children." — The sorrow of childbirth is the consequence of the fall on the whole human condition.
+- **Luke 2:22-24** — Mary herself undergoes the purification rite without any sense that childbirth was sinful; she obeys the law, offering two turtledoves.
+
+*Correction:* The uncleanness of Leviticus 12 is not about sin committed — it is about the condition of fallen creation touching even the most life-giving human act. The text says nothing about the child's guilt or the mother's sin. The purification rite marks the reality that in a fallen world, even new life enters through processes bearing the marks of mortality. The doubling of the period for a daughter is not stated as a value judgment in the text, and Scripture nowhere explains it in terms of female spiritual inferiority.
+
+---
+
+### Leviticus 12:3 — Circumcision Used to Require Physical Rite for New Covenant Believers
+
+**Verse 3** — "And in the eighth day the flesh of his foreskin shall be circumcised."
+
+**How it is misused:** Some cite this verse (along with Genesis 17) to argue that physical circumcision is still required of male believers — that the sign of the covenant has not changed and that the New Covenant believer must be physically circumcised to be in proper covenant standing.
+
+**What the text actually says:**
+- **Galatians 5:2-3** — "Behold, I Paul say unto you, that if ye be circumcised, Christ shall profit you nothing. For I testify again to every man that is circumcised, that he is a debtor to do the whole law."
+- **Colossians 2:11** — "In whom also ye are circumcised with the circumcision made without hands, in putting off the body of the sins of the flesh by the circumcision of Christ."
+- **Romans 2:28-29** — "For he is not a Jew, which is one outwardly; neither is that circumcision, which is outward in the flesh: But he is a Jew, which is one inwardly; and circumcision is that of the heart, in the spirit."
+
+*Correction:* Colossians 2:11 explicitly identifies the true circumcision of the New Covenant as made "without hands" — it is the circumcision of Christ, accomplished in His death and resurrection and applied to the believer by faith. Paul in Galatians 5:2 states plainly that insisting on physical circumcision as required for salvation severs the person from Christ. The sign has changed its vehicle, not its meaning.
+
+---
+
+## SYMBOLIC THREADS
+
+**The Provision for the Poor Built Into Atonement:**
+- First appears: Leviticus 1:14 — "And if the burnt sacrifice for his offering to the LORD be of fowls, then he shall bring his offering of turtledoves, or of young pigeons." — The lowest-tier burnt offering.
+- Leviticus 5:7, 11 — A person who cannot afford a lamb for a sin offering may bring two turtledoves; if still too poor, a tenth of an ephah of flour.
+- Leviticus 12:8 — "And if she be not able to bring a lamb, then she shall bring two turtles, or two young pigeons." — The poor-tier provision for the mother's purification offering.
+- Leviticus 14:21-22 — The poor leper's cleansing rite substitutes two birds for two lambs (the trespass-offering lamb is still required).
+- Luke 2:24 — "And to offer a sacrifice according to that which is said in the law of the Lord, A pair of turtledoves, or two young pigeons." — Mary uses the poor-tier provision; the Lamb of God enters the Temple under the provision for the destitute.
+- Isaiah 55:1 — "Ho, every one that thirsteth, come ye to the waters, and he that hath no money; come ye, buy, and eat."
+- *Pattern:* The graduated offering scale — lamb, birds, flour — runs through Leviticus 1, 5, 12, and 14. No one is excluded from atonement by poverty. The system's graduated scale is the Old Testament form of what Isaiah 55:1 and Revelation 22:17 say directly: God's provision for the destitute is built into the very structure of access to Him. Mary's two birds at Luke 2:24 are the capstone of this thread: the ultimate Lamb comes through the door reserved for those who had nothing to offer.
+
+**The Eighth Day as Covenant Sign and New Beginning:**
+- Genesis 17:12 — "And he that is eight days old shall be circumcised among you" — the covenant sign given on the eighth day from birth.
+- Leviticus 9:1 — The Tabernacle begins its ministry on the eighth day after the seven days of consecration.
+- Leviticus 12:3 — "And in the eighth day the flesh of his foreskin shall be circumcised." — The covenant mark applied at the dawn of the new-creation day.
+- Leviticus 14:10 — The cleansed leper is restored to full covenant standing on the eighth day.
+- Leviticus 15:14, 29 — The cleansed person with a chronic discharge brings offerings on the eighth day.
+- Leviticus 23:36, 39 — The eighth day closes the Feast of Tabernacles as a holy convocation.
+- John 20:26 — "And after eight days again his disciples were within, and Thomas with them: then came Jesus."
+- *Pattern:* The eighth day is the day of new beginning beyond the completed week — the day of covenant marks, new creation launches, and restorations. The circumcision on the eighth day (Leviticus 12:3) is applied on the day that Scripture consistently marks as the day beyond the old order. Christ's resurrection on the first-day-which-is-the-eighth-day is the ultimate fulfillment of what the eighth day always pointed toward: new life that does not belong to the old cycle.

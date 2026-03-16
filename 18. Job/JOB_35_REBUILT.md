@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Elihu's Third Speech, Human Pride, Divine Transcendence, Futility of Self-Righteousness
 
-**Tags:** #Elihu-spake-right-righteousness-GOD-advantage-profit-cleansed-sin-answer-companions #heavens-clouds-higher-sinnest-transgressions-multiplied-righteous-giveth-receiveth-hand #wickedness-hurt-man-righteousness-profit-son-man-multitude-oppressions-oppressed-cry-arm-mighty #God-maker-songs-night-teacheth-beasts-earth-wiser-fowls-heaven-cry-answer-pride-evil-men #God-hear-vanity-Almighty-regard-judgment-trust-anger-extremity-open-mouth-vain-multiplieth-words-knowledge
+**Tags:** #elihu #human-pride #divine-transcendence #futility-of-selfrighteousness
 
 ---
 

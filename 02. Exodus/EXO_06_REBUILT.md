@@ -194,6 +194,41 @@ The seven covenant pledges of Exodus 6:6-8 map directly onto the New Testament g
 
 ---
 
+## COMMONLY MISQUOTED PASSAGES
+
+### Exodus 6:3 — "By My Name JEHOVAH Was I Not Known" Used to Create a Contradiction
+
+**Verse 3** — "And I appeared unto Abraham, unto Isaac, and unto Jacob, by the name of God Almighty, but by my name JEHOVAH was I not known to them."
+
+**How it is misused:** Critics and some readers use this verse to argue that the Pentateuch is composed of contradictory sources, since the patriarchs clearly used the name YHWH (LORD) in Genesis (Genesis 15:2, 22:14, 26:22, etc.). The verse is cited as proof of textual contradiction. Some also use it to argue that the God of the patriarchs was a different deity than the God of the Exodus.
+
+**What the text actually says:** The verse is not claiming the patriarchs never heard or used the word YHWH — it is making a distinction in the *experiential* knowledge of what that name means:
+- **Genesis 17:1** — "I am the Almighty God (El Shaddai)" — God's primary self-revelation to Abraham was through the El Shaddai name, the all-sufficient provider
+- **Genesis 15:2** — "And Abram said, Lord GOD (Adonai YHWH)..." — Abraham used YHWH in speech, confirming he knew the name; the issue is the dimension of the name's meaning he experienced
+- **Exodus 6:6-7** — The seven "I will" promises define what YHWH means in its fullness: bring out, rid, redeem, take, be your God, bring in, give — these are the acts of YHWH that the patriarchs received as promises but never saw fulfilled in their lifetimes
+- **Hebrews 11:13** — "These all died in faith, not having received the promises, but having seen them afar off" — the patriarchs knew the covenant; they did not see its execution in history
+
+*Correction:* Exodus 6:3 does not record a textual contradiction or a different deity. It records a progression in the revealed meaning of God's covenant name. The patriarchs knew YHWH as a name; Israel in Egypt will know YHWH as the One who acts to fulfill what He promised. The name is not new; the fullness of experience of what the name means is new. Just as a man may know his father's name from birth but understand what the name means only through years of lived relationship.
+
+---
+
+### Exodus 6:9 — "They Hearkened Not" Used to Excuse Unresponsiveness to Truth
+
+**Verse 9** — "But they hearkened not unto Moses for anguish of spirit, and for cruel bondage."
+
+**How it is misused:** This verse is sometimes used to argue that emotional or circumstantial suffering excuses persistent unresponsiveness to God's word — that the conditions of oppression render people permanently unable to hear, and therefore spiritual accountability should be suspended for those in distress.
+
+**What the text actually says:** The verse describes a real and pastoral condition, but the narrative does not make it a permanent state or a moral excuse:
+- **Exodus 4:31** — "And the people believed: and when they heard that the LORD had visited the children of Israel, and that he had looked upon their affliction, then they bowed their heads and worshipped" — before the increased burden, the same people believed and worshipped; anguish of spirit is a condition that can change
+- **Exodus 12:27-28** — After the Passover instruction, "the people bowed the head and worshipped. And the children of Israel went away, and did as the LORD had commanded" — the same people who could not hear in chapter 6 are able to obey completely in chapter 12
+- **Mark 4:18-19** — "the cares of this world... choke the word, and it becometh unfruitful" — Jesus acknowledges the same dynamic; it is a warning, not a permanent excuse
+
+*Correction:* Exodus 6:9 records a real pastoral reality: crushing oppression can temporarily close the spirit to receiving even the best news. The text does not condemn Israel for this condition — God continues to work. But the narrative shows this is a temporary state, not a permanent one. The same Israel who "hearkened not" in chapter 6 worships obediently in chapter 12. The anguish of spirit is a condition to be addressed and overcome by God's working, not a permanent category of unaccountability.
+
+---
+
+---
+
 ## SYMBOLIC THREADS
 
 ### "Stretched Out Arm" — The Arm of the LORD

@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** David's Kindness Rejected, Ammonite Insult, Joab's Strategy, Syrian Defeat, Peace Established
 
-**Tags:** #king-children-Ammon-died-Hanun-son-reigned-stead #David-kindness-Hanun-son-Nahash-father-kindness-David-sent-comfort-servants-father-David-servants-land-children-Ammon #princes-children-Ammon-Hanun-lord-David-honour-father-comforters-David-servants-search-city-spy-overthrow #Hanun-David-servants-shaved-half-beards-cut-garments-middle-buttocks-sent #told-David-sent-meet-men-ashamed-king-Tarry-Jericho-beards-grown-return #children-Ammon-stank-David-children-Ammon-hired-Syrians-Beth-rehob-Syrians-Zoba-twenty-thousand-footmen-king-Maacah-thousand-men-Ish-tob-twelve-thousand-men #David-heard-Joab-host-mighty-men #children-Ammon-battle-array-entering-gate-Syrians-Zoba-Rehob-Ish-tob-Maacah-field #Joab-front-battle-against-behind-choice-men-Israel-array-Syrians #rest-people-Abishai-brother-array-children-Ammon #Syrians-strong-help-children-Ammon-strong-help #courage-people-cities-GOD-LORD-seemeth-good #Joab-people-battle-Syrians-fled #children-Ammon-Syrians-fled-Abishai-city-Joab-children-Ammon-Jerusalem #Syrians-smitten-Israel-gathered #Hadarezer-Syrians-beyond-river-Helam-Shobach-captain-host-Hadarezer #told-David-gathered-Israel-Jordan-Helam-Syrians-array-David-fought #Syrians-fled-Israel-David-slew-seven-hundred-chariots-forty-thousand-horsemen-smote-Shobach-captain-host-died #kings-servants-Hadarezer-smitten-Israel-peace-Israel-served-Syrians-feared-help-children-Ammon
+**Tags:** #Joab-people-battle-Syrians-fled #Syrians-smitten-Israel-gathered #david #ammonite-insult #joab #syrian-defeat #peace-established
 
 ---
 

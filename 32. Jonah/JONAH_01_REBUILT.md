@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Call to Mission, Divine Discipline, Repentance of Mariners, Great Fish
 
-**Tags:** #word-LORD-Jonah-son-Amittai-Arise-Nineveh-great-city-cry-wickedness-come-Jonah-rose-flee-Tarshish-presence-LORD-went-Joppa-found-ship-Tarshish-paid-fare-went-Tarshish-presence-LORD-LORD-sent-great-wind-sea-mighty-tempest-sea-ship-like-broken-mariners-afraid-cried-god-cast-wares-ship-sea-lighten-Jonah-gone-sides-ship-lay-fast-asleep-shipmaster-came-sleeper-arise-call-God-think-perish-every-fellow-cast-lots-know-cause-evil-cast-lots-lot-Jonah-Tell-pray-cause-evil-occupation-whence-country-people-Hebrew-fear-LORD-God-heaven-made-sea-dry-land-men-exceedingly-afraid-done-men-knew-fled-presence-LORD-told-men-shall-sea-calm-sea-wrought-tempestuous-Take-cast-sea-sea-calm-know-sake-great-tempest-men-rowed-hard-bring-land-could-sea-wrought-tempestuous-cried-LORD-beseech-LORD-beseech-perish-man-life-lay-innocent-blood-LORD-done-pleased-took-Jonah-cast-sea-sea-ceased-raging-men-feared-LORD-exceedingly-offered-sacrifice-LORD-made-vows-LORD-prepared-great-fish-swallow-Jonah-Jonah-belly-fish-three-days-nights
+**Tags:** #christ #divine-discipline #repentance-of-mariners #great-fish
 
 ---
 

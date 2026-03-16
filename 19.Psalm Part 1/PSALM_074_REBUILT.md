@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Divine Anger, Temple Destruction, God's Past Works, Plea for Restoration
 
-**Tags:** #Maschil-Asaph-GOD-cast-forever-anger-smoke-sheep-pasture-Remember-congregation-purchased-rod-inheritance-redeemed-mount-Zion-dwelt-Lift-feet-perpetual-desolations-enemy-wickedly-sanctuary-enemies-roar-midst-congregations-set-ensigns-signs-man-famous-lifted-axes-thick-trees-break-carved-work-axes-hammers-cast-fire-sanctuary-defiled-casting-dwelling-place-name-ground-hearts-destroy-together-burned-synagogues-GOD-land-not-prophet-knoweth-long-GOD-adversary-reproach-enemy-blaspheme-name-forever-withdraw-hand-right-hand-pluck-bosom-GOD-King-working-salvation-midst-earth-divided-sea-strength-brake-heads-dragons-waters-brake-heads-leviathan-pieces-gave-meat-people-inhabiting-wilderness-cleft-fountain-flood-dried-mighty-rivers-day-thine-night-thine-prepared-light-sun-set-borders-earth-made-summer-winter-Remember-enemy-reproached-LORD-foolish-people-blasphemed-name-deliver-soul-turtledove-multitude-wicked-forget-congregation-poor-forever-respect-covenant-dark-places-earth-full-habitations-cruelty-oppressed-return-ashamed-poor-needy-praise-name-Arise-GOD-plead-cause-remember-foolish-man-reproacheth-daily-forget-voice-enemies-tumult-rise-continually
+**Tags:** #divine-anger #temple-destruction #god #plea-for-restoration
 
 ---
 

@@ -2,7 +2,7 @@
 
 ---
 
-## 1. CHAPTER METADATA
+## CHAPTER METADATA
 
 **Book:** Leviticus
 **Chapter:** 20
@@ -13,13 +13,13 @@
 
 ---
 
-## 2. CHAPTER SUMMARY
+## CHAPTER SUMMARY
 
 Leviticus 20 attaches penalties to the prohibitions of Leviticus 18. Molech worship (child sacrifice): death by stoning; if the community hides its eyes, God will set His face against that man AND his family AND all who follow after him. Familiar spirits and wizards: death by stoning. Then the positive call: "Sanctify yourselves therefore, and be ye holy: for I am the LORD your God." Cursing father or mother: death. Adultery: both parties die. Father's wife: death. Daughter-in-law: death. Man with man: death. A man and her mother together: burnt with fire. Bestiality: death for the person and the animal. Incest with sister: cut off. Intercourse during the woman's separation: cut off. Aunt or uncle's wife: they shall bear their iniquity, die childless. Brother's wife: they shall be childless. Summary: keep God's statutes; do not walk in the manners of the nations being cast out; God has separated Israel from other peoples to be His; put difference between clean and unclean; be holy to God for He is holy and has severed Israel from other peoples that they should be His. Wizard and familiar spirit: death by stoning.
 
 ---
 
-## 3. CROSS-REFERENCES (Scripture Interpreting Scripture)
+## CROSS-REFERENCES (Scripture Interpreting Scripture) (Scripture Interpreting Scripture)
 
 ### "I Will Set My Face Against That Man" — Communal Accountability
 
@@ -55,7 +55,7 @@ Leviticus 20 attaches penalties to the prohibitions of Leviticus 18. Molech wors
 
 ---
 
-## 4. KEYWORD INDEX
+## KEYWORD INDEX
 
 **For Current Events Matching:**
 - **Child sacrifice / abortion as Molech worship** → Leviticus 20:2-5 — 2 Kings 23:10; Jeremiah 32:35; Ezekiel 16:21
@@ -67,7 +67,7 @@ Leviticus 20 attaches penalties to the prohibitions of Leviticus 18. Molech wors
 
 ---
 
-## 5. KEY TERMS WITH CONTEXTUAL DEFINITIONS
+## KEY TERMS WITH CONTEXTUAL DEFINITIONS WITH CONTEXTUAL DEFINITIONS
 
 ### "I WILL SET MY FACE AGAINST" (Hebrew: natan panai b-)
 - **Leviticus 20:3, 5, 6** — the idiom of active divine opposition; God turning His face toward a person in hostility rather than favour
@@ -79,7 +79,7 @@ Leviticus 20 attaches penalties to the prohibitions of Leviticus 18. Molech wors
 
 ---
 
-## 6. THE ACTUAL VERSES — LEVITICUS 20 (KJV)
+## THE ACTUAL VERSES (KJV) — LEVITICUS 20 (KJV)
 
 **1** And the LORD spake unto Moses, saying,
 **2** Again, thou shalt say to the children of Israel, Whosoever he be of the children of Israel, or of the strangers that sojourn in Israel, that giveth any of his seed unto Molech; he shall surely be put to death: the people of the land shall stone him with stones.
@@ -111,7 +111,7 @@ Leviticus 20 attaches penalties to the prohibitions of Leviticus 18. Molech wors
 
 ---
 
-## 7. PROPHETIC/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS/TYPOLOGICAL CONNECTIONS
 
 ### Leviticus 20 and Matthew 27:25 — "His Blood Be On Us"
 
@@ -121,7 +121,7 @@ The irony is complete: in Leviticus 20, "blood shall be upon them" is declared o
 
 ---
 
-## 8. COMMONLY MISQUOTED PASSAGES
+## COMMONLY MISQUOTED PASSAGES PASSAGES
 
 ### Leviticus 20:13 — Used to Justify Violence Against Homosexual People
 
@@ -136,7 +136,7 @@ The irony is complete: in Leviticus 20, "blood shall be upon them" is declared o
 
 ---
 
-## 9. SYMBOLIC THREADS
+## SYMBOLIC THREADS
 
 ### The Land That Vomiteth — The Earth's Moral Sensitivity
 

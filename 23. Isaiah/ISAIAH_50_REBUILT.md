@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Suffering, Divine Obedience, Spiritual Trust, Christ's Vindication
 
-**Tags:** #LORD-bill-mother-divorcement-put-away-creditors-sold-behold-iniquities-sold-yourselves-transgressions-mother-put-came-man-called-answer-hand-shortened-redeem-power-deliver-rebuke-dry-sea-rivers-wilderness-fish-stinketh-water-dieth-thirst-clothe-heavens-blackness-sackcloth-covering-Lord-GOD-given-tongue-learned-speak-word-season-weary-waken-morning-morning-waken-ear-hear-learned-Lord-GOD-opened-ear-rebellious-turned-back-gave-back-smiters-cheeks-plucked-hair-hid-face-shame-spitting-Lord-GOD-help-confounded-set-face-flint-know-ashamed-near-justifieth-contend-stand-adversary-near-Lord-GOD-help-condemn-wax-garment-moth-eat-feareth-LORD-obey-voice-servant-walk-darkness-light-trust-name-LORD-stay-God-behold-ye-kindle-fire-compass-sparks-walk-light-fire-sparks-kindled-hand-lie-sorrow
+**Tags:** #christ #divine-obedience #spiritual-trust
 
 ---
 

@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Problem of Evil, Wicked's Pride, God's Hiddenness, Prayer for Justice
 
-**Tags:** #standest-afar-LORD-hidest-times-trouble-wicked-pride-persecute-poor-taken-devices-imagined-boasteth-heart-desire-blesseth-covetous-LORD-abhorreth-pride-countenance-seek-GOD-thoughts #ways-grievous-judgments-sight-enemies-puffeth-heart-moved-adversity-mouth-cursing-deceit-fraud-tongue-mischief-vanity-sitteth-lurking-places-villages-secret-murder-innocent-eyes-privily-poor #lieth-wait-secretly-lion-den-catch-poor-draweth-net-croucheth-humbleth-strong-ones-heart-forgotten-hideth-face-never-arise-LORD-GOD-lift-hand-forget-humble #wicked-contemn-GOD-heart-require-beheld-mischief-spite-requite-hand-poor-committeth-helper-fatherless-break-arm-wicked-evil-man-seek-wickedness-find-none-LORD-King-heathen-perished-land #LORD-heard-desire-humble-prepare-heart-cause-ear-hear-judge-fatherless-oppressed-man-earth-oppress
+**Tags:** #problem-of-evil #wicked #god #prayer-for-justice
 
 ---
 

@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Judgment, Divine Marking, Temple Cleansing, Christ's Protection
 
-**Tags:** #cried-ears-loud-voice-charge-city-draw-near-man-destroying-weapon-hand-six-men-higher-gate-north-man-slaughter-weapon-hand-man-clothed-linen-writer-inkhorn-side-brasen-altar-glory-God-Israel-gone-cherub-threshold-house-called-man-clothed-linen-writer-inkhorn-side-LORD-midst-city-midst-Jerusalem-set-mark-foreheads-men-sigh-cry-abominations-midst-hearing-city-smite-eye-spare-pity-slay-utterly-old-young-maids-little-children-women-near-mark-begin-sanctuary-began-ancient-men-house-defile-house-fill-courts-slain-go-forth-went-slew-city-slaying-left-fell-face-cried-Lord-GOD-destroy-residue-Israel-pouring-fury-Jerusalem-iniquity-house-Israel-Judah-exceeding-great-land-blood-city-perverseness-LORD-forsaken-earth-LORD-seeth-eye-spare-pity-recompense-way-head-behold-man-clothed-linen-inkhorn-side-reported-matter-commanded
+**Tags:** #christ #divine-marking #temple-cleansing
 
 ---
 

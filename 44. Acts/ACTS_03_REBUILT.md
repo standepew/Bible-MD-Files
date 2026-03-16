@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** The Healing of the Lame Man, Peter's Second Sermon, The Call to Repentance, The Promise of Restoration
 
-**Tags:** #Peter-John-temple-hour-prayer-ninth-hour-man-lame-mother-womb-carried-laid-daily-gate-temple-called-Beautiful-ask-alms-entered-temple-seeing-Peter-John-temple-asked-alms-Peter-fastening-eyes-John-Look-gave-heard-expecting-receive-Peter-Silver-gold-give-In-name-Jesus-Christ-Nazareth-rise-walk-right-hand-lifted-immediately-feet-ankle-bones-received-strength-leaping-walked-entered-temple-walking-leaping-praising-God-people-walking-praising-God-knew-sat-alms-Beautiful-gate-temple-filled-wonder-amazement-happened-lame-man-healed-held-Peter-John-people-ran-porch-called-Solomon-greatly-wondering-Peter-answered-people-Israel-marvel-earnestly-power-holiness-made-man-walk-God-Abraham-Isaac-Jacob-God-fathers-glorified-Son-Jesus-delivered-denied-Pilate-determined-denied-Holy-Just-desired-murderer-granted-killed-Prince-life-God-raised-dead-witnesses-name-faith-name-made-strong-know-faith-given-perfect-soundness-presence-brethren-ignorance-rulers-things-God-shewed-prophets-Christ-suffer-fulfilled-Repent-converted-sins-blotted-times-refreshing-Lord-send-Jesus-Christ-preached-heaven-receive-times-restitution-things-God-spoken-prophets-world-began-Moses-fathers-prophet-Lord-God-brethren-hear-things-hear-prophet-destroyed-people-prophets-Samuel-followed-spoken-foretold-days-children-prophets-covenant-God-fathers-saying-Abraham-seed-kindreds-earth-blessed-first-God-raised-Son-Jesus-sent-bless-turning-iniquities
+**Tags:** #the-healing-of-the-lame-man #peter #the-call-to-repentance #the-promise-of-restoration
 
 ---
 
@@ -195,7 +195,7 @@ Peter, John, temple, hour, prayer, ninth, hour, man, lame, mother, womb, carried
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Healing of the Lame Man as Type of Christ's Restoration
 - **Physical healing:** Rise walk (Acts 3:8)

@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Cleansing of the High Priest, Divine Forgiveness, The Branch, Stone with Seven Eyes
 
-**Tags:** #shewed-Joshua-high-priest-standing-angel-LORD-Satan-standing-right-hand-resist-LORD-rebuke-Satan-LORD-chosen-Jerusalem-rebuke-brand-plucked-fire-Joshua-clothed-filthy-garments-stood-angel-answered-spake-stood-Take-filthy-garments-Behold-caused-iniquity-pass-clothe-change-raiment-fair-mitre-head-set-fair-mitre-head-clothed-garments-angel-LORD-protested-Joshua-LORD-hosts-walk-ways-keep-charge-judge-house-keep-courts-give-places-walk-stand-Hear-Joshua-high-priest-fellows-sit-men-wondered-bring-servant-BRANCH-behold-stone-laid-Joshua-one-stone-seven-eyes-engrave-graving-LORD-hosts-remove-iniquity-land-day-call-neighbour-vine-fig-tree
+**Tags:** #christ #divine-forgiveness #the-branch #stone-with-seven-eyes
 
 ---
 

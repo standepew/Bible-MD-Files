@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Servants and Masters, False Teachers and Gain, Godliness with Contentment, The Love of Money, The Man of God, Charge to the Rich, Final Charge to Timothy
 
-**Tags:** #servants-yoke-count-masters-worthy-honour-name-God-doctrine-blasphemed-believing-masters-despise-brethren-service-faithful-beloved-partakers-benefit-teach-exhort-teach-otherwise-consent-wholesome-words-Lord-Jesus-Christ-doctrine-godliness-proud-knowing-doting-questions-strifes-words-envy-strife-railings-evil-surmisings-Perverse-disputings-corrupt-minds-destitute-truth-supposing-gain-godliness-withdraw-godliness-contentment-great-gain-brought-world-carry-food-raiment-content-rich-fall-temptation-snare-foolish-hurtful-lusts-drown-destruction-perdition-love-money-root-evil-coveted-erred-faith-pierced-sorrows-man-God-flee-follow-righteousness-godliness-faith-love-patience-meekness-Fight-good-fight-faith-lay-hold-eternal-life-called-professed-good-profession-witnesses-charge-sight-God-quickeneth-things-Christ-Jesus-Pontius-Pilate-witnessed-good-confession-keep-commandment-spot-unrebukeable-appearing-Lord-Jesus-Christ-times-shew-blessed-Potentate-King-kings-Lord-lords-immortality-dwelling-light-approach-seen-honour-power-everlasting-Charge-rich-world-highminded-trust-uncertain-riches-living-God-giveth-richly-enjoy-good-rich-works-ready-distribute-willing-communicate-Laying-store-foundation-time-lay-hold-eternal-life-Timothy-keep-committed-trust-avoiding-profane-vain-babblings-oppositions-science-falsely-called-professing-erred-faith-Grace-Amen
+**Tags:** #servants-and-masters #false-teachers-and-gain #godliness-with-contentment #the-love-of-money #the-man-of-god #charge-to-the-rich #final-charge-to-timothy
 
 ---
 
@@ -189,7 +189,7 @@ Servants, yoke, count, masters, worthy, honour, name, God, doctrine, blasphemed,
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Servants and Masters as Type of Christ's Service
 - **Physical service:** Masters worthy (1 Timothy 6:2)

@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Humility and Pride, Friendship and Counsel, Self-Control and Provision, Divine Knowledge
 
-**Tags:** #Boast-to-morrow-know-day-bring-another-man-praise-mouth-stranger-lips-stone-heavy-sand-weighty-fool-wrath-heavier-both-Wrath-cruel-anger-outrageous-stand-envy-Open-rebuke-better-secret-love-Faithful-wounds-friend-kisses-enemy-deceitful-full-soul-loatheth-honeycomb-hungry-soul-bitter-thing-sweet-bird-wandereth-nest-man-wandereth-place-Ointment-perfume-rejoice-heart-sweetness-man-friend-hearty-counsel-friend-father-friend-forsake-brother-house-day-calamity-better-neighbour-near-brother-far-son-wise-make-heart-glad-answer-reproacheth-prudent-man-foreseeth-evil-hideth-simple-pass-punished-garment-surety-stranger-pledge-strange-woman-blesseth-friend-loud-voice-rising-early-morning-counted-curse-continual-dropping-rainy-day-contentious-woman-alike-hideth-hideth-wind-ointment-right-hand-bewrayeth-Iron-sharpeneth-iron-man-sharpeneth-countenance-friend-keepeth-fig-tree-fruit-wait-master-honoured-water-face-answer-face-heart-man-man-Hell-destruction-never-full-eyes-man-satisfied-fining-pot-silver-furnace-gold-man-praise-bray-fool-mortar-wheat-pestle-foolishness-depart-diligent-know-state-flocks-look-herds-riches-not-crown-endure-generation-hay-appeareth-tender-grass-sheweth-herbs-mountains-gathered-lambs-clothing-goats-price-field-goats-milk-food-food-household-maintenance-maidens
+**Tags:** #humility-and-pride #friendship-and-counsel #selfcontrol-and-provision #divine-knowledge
 
 ---
 

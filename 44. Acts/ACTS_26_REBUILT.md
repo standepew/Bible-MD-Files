@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Paul's Defense Before Agrippa, His Conversion Story, The King's Response
 
-**Tags:** #Agrippa-Paul-permitted-speak-stretched-hand-answered-happy-king-Agrippa-answer-day-touching-accused-Jews-expert-customs-questions-Jews-beseech-hear-patiently-manner-life-youth-nation-Jerusalem-Jews-testify-straitest-religion-Pharisee-stand-judged-hope-promise-God-fathers-twelve-tribes-serving-God-night-hope-incredible-raise-dead-thought-Jesus-Nazareth-Jerusalem-saints-prison-authority-chief-priests-death-voice-punished-synagogues-compelled-blaspheme-exceedingly-persecuted-strange-cities-Damascus-authority-commission-midday-king-light-heaven-sun-shining-journeyed-fallen-earth-heard-voice-speaking-Hebrew-tongue-Saul-persecutest-kick-pricks-Lord-Jesus-persecutest-rise-feet-appeared-purpose-minister-witness-seen-appear-delivering-people-Gentiles-send-open-eyes-darkness-light-power-Satan-God-forgiveness-sins-inheritance-sanctified-faith-disobedient-heavenly-vision-Damascus-Jerusalem-coasts-Judaea-Gentiles-repent-turn-God-works-repentance-causes-Jews-caught-temple-kill-obtained-help-God-continue-day-witnessing-small-great-prophets-Moses-Christ-suffer-rise-dead-shew-light-people-Gentiles-spake-Festus-loud-voice-beside-much-learning-mad-not-mad-noble-Festus-truth-soberness-king-knoweth-freely-persuaded-hidden-corner-King-Agrippa-believest-prophets-know-believest-Agrippa-Paul-persuadest-Christian-God-hear-almost-altogether-bonds-king-rose-governor-Bernice-gone-aside-talked-worthy-death-bonds-Agrippa-Festus-liberty-appealed-Caeser
+**Tags:** #paul #his-conversion-story #the-king
 
 ---
 
@@ -277,7 +277,7 @@ Agrippa, Paul, permitted, speak, stretched, hand, answered, happy, king, Agrippa
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Paul's Defense Before Agrippa as Type of Christ's Testimony
 - **Physical testimony:** Stretched hand (Acts 26:4)

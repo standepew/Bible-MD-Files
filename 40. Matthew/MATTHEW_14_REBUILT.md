@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Christ's Compassion, Feeding Multitude, Walking on Water, Divine Healing
 
-**Tags:** #Herod-tetrarch-heard-fame-Jesus-servants-John-Baptist-risen-dead-mighty-works-shew-Herod-laid-hold-John-bound-prison-Herodias-brother-Philip-wife-John-lawful-death-feared-multitude-counted-prophet-Herod-birthday-kept-daughter-Herodias-danced-pleased-Herod-promised-oath-give-ask-instructed-mother-John-Baptist-head-charger-king-sorry-oath-sake-meat-commanded-given-sent-beheaded-John-prison-head-brought-charger-damsel-mother-disciples-took-body-buried-told-Jesus-Jesus-heard-departed-ship-desert-people-heard-followed-foot-cities-Jesus-multitude-compassion-healed-sick-evening-disciples-desert-place-time-past-multitude-villages-buy-victuals-Jesus-need-depart-give-eat-five-loaves-fishes-Bring-commanded-multitude-sit-grass-took-loaves-fishes-looking-heaven-blessed-brake-gave-loaves-disciples-disciples-multitude-ate-filled-fragments-remained-twelve-baskets-full-eaten-five-thousand-men-women-children-Jesus-constrained-disciples-ship-side-multitudes-Jesus-mountain-pray-evening-alone-ship-midst-sea-tossed-waves-wind-contrary-fourth-night-Jesus-walking-sea-disciples-walking-sea-troubled-spirit-cried-fear-Jesus-spake-cheer-afraid-Peter-answered-Lord-bid-water-Jesus-Come-Peter-ship-walked-water-Jesus-wind-boisterous-afraid-sink-crying-Lord-save-immediately-Jesus-stretched-hand-caught-faith-doubted-ship-wind-ceased-ship-worshipped-truth-Son-God-gone-land-Gennesaret-men-place-knowledge-sent-country-brought-diseased-besought-touch-garment-touched-perfectly-whole
+**Tags:** #christ #feeding-multitude #walking-on-water #divine-healing
 
 ---
 

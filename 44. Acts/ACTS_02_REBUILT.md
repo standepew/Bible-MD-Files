@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** The Day of Pentecost, Peter's Sermon, The First Converts, The Early Church
 
-**Tags:** #day-Pentecost-fully-come-accord-place-suddenly-sound-heaven-rushing-mighty-wind-filled-house-sitting-cloven-tongues-fire-sat-filled-Holy-Ghost-began-speak-tongues-Spirit-utterance-dwelling-Jerusalem-Jews-devout-men-nation-heaven-noised-abroad-multitude-confounded-heard-speak-language-amazed-marvelled-Galilæans-hear-tongue-born-Parthians-Medes-Elamites-dwellers-Mesopotamia-Judaea-Cappadocia-Pontus-Asia-Phrygia-Pamphylia-Egypt-parts-Libya-Cyrene-strangers-Rome-Jews-proselytes-Cretes-Arabians-tongues-wonderful-works-God-amazed-doubt-meaneth-mocking-new-wine-Peter-standing-eleven-lifted-voice-Judaea-dwell-Jerusalem-known-hearken-words-drunken-suppose-third-hour-spoken-prophet-Joel-pass-last-days-God-pour-Spirit-flesh-sons-daughters-prophesy-young-men-visions-old-dreams-servants-handmaidens-pour-Spirit-prophesy-shew-wonders-heaven-signs-earth-blood-fire-vapour-smoke-sun-darkness-moon-blood-great-notable-day-Lord-come-pass-call-name-Lord-saved-Israel-hear-words-Jesus-Nazareth-man-approved-God-miracles-wonders-signs-midst-delivered-determinate-counsel-foreknowledge-God-taken-wicked-hands-crucified-slain-God-raised-loosed-pains-death-holden-David-speaketh-foresaw-Lord-face-right-hand-moved-heart-rejoice-tongue-glad-flesh-rest-hope-leave-soul-hell-suffer-Holy-corruption-known-ways-life-full-joy-countenance-patriarch-David-dead-buried-sepulchre-prophet-knowing-God-sworn-oath-fruit-loins-according-flesh-raise-Christ-throne-seeing-resurrection-soul-left-hell-flesh-corruption-Jesus-God-raised-witnesses-right-hand-God-exalted-received-Father-promise-Holy-Ghost-shed-see-hear-David-ascended-heavens-LORD-Lord-right-hand-foes-footstool-house-Israel-assuredly-God-Jesus-crucified-Lord-Christ-heard-pricked-heart-Peter-apostles-brethren-Repent-baptized-Jesus-Christ-remission-sins-receive-gift-Holy-Ghost-promise-children-afar-Lord-God-call-testify-exhort-Save-untoward-generation-gladly-received-word-baptized-day-added-three-thousand-souls-continued-stedfastly-apostles-doctrine-fellowship-breaking-bread-prayers-fear-soul-wonders-signs-apostles-believed-common-sold-possessions-goods-parted-men-need-continuing-daily-accord-temple-breaking-bread-house-house-meat-gladness-singleness-heart-praising-God-favour-people-Lord-church-daily-saved
+**Tags:** #the-day-of-pentecost #peter #the-first-converts #the-early-church
 
 ---
 
@@ -275,7 +275,7 @@ Day, Pentecost, fully, come, accord, place, suddenly, sound, heaven, rushing, mi
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Day of Pentecost as Type of Christ's Provision
 - **Physical Pentecost:** Day Pentecost (Acts 2:3)

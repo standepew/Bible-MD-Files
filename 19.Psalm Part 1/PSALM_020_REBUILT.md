@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Prayer for Victory, Divine Help, Trust in God vs. Human Strength, God's Salvation
 
-**Tags:** #chief-Musician-Psalm-David-LORD-hear-day-trouble-name-GOD-Jacob-defend-send-help-sanctuary-strengthen-Zion-remember-offerings-accept-burnt-sacrifice-Selah-grant-heart-fulfil-counsel #rejoice-salvation-name-GOD-set-banners-fulfil-petitions-know-saveth-anointed-hear-holy-heaven-saving-strength-right-hand-trust-chariots-horses-remember-name-LORD-GOD #brought-fallen-risen-stand-upright-save-LORD-king-hear-call
+**Tags:** #prayer-for-victory #divine-help #trust-in-god-vs-human-strength #god
 
 ---
 

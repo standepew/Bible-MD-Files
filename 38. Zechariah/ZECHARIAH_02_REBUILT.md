@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Divine Protection, Jerusalem's Expansion, God's Presence, Gathering of Nations
 
-**Tags:** #lifted-eyes-man-measuring-line-hand-Whither-goth-measure-Jerusalem-breadth-length-angel-talked-angel-meet-Run-speak-young-man-Jerusalem-inhabited-towns-walls-multitude-men-cattle-LORD-wall-fire-round-glory-midst-flee-land-north-LORD-spread-abroad-four-winds-heaven-LORD-Deliver-Zion-dwell-daughter-Babylon-LORD-hosts-glory-sent-nations-spoiled-toucheth-apple-eye-shake-hand-spoil-servants-know-LORD-hosts-sent-Sing-rejoice-daughter-Zion-dwell-midst-LORD-nations-joined-LORD-people-dwell-midst-know-LORD-hosts-sent-LORD-inherit-Judah-portion-holy-land-choose-Jerusalem-silent-flesh-LORD-raised-holy-habitation
+**Tags:** #christ #jerusalem #god #gathering-of-nations
 
 ---
 

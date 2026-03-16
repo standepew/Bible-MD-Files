@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Paul's Greeting, Thanksgiving for Philemon, Appeal for Onesimus, Christ's Transformation, Partnership in the Gospel
 
-**Tags:** #Paul-prisoner-Jesus-Christ-Timothy-brother-Philemon-dearly-beloved-fellowlabourer-beloved-Apphia-Archippus-fellowsoldier-church-house-Grace-peace-God-Father-Lord-Jesus-Christ-thank-God-making-mention-prayers-Hearing-love-faith-Lord-Jesus-saints-communication-faith-effectual-acknowledging-good-thing-Christ-Jesus-great-joy-consolation-love-bowels-saints-refreshed-brother-bold-Christ-enjoin-convenient-love-sake-beseech-aged-prisoner-Jesus-Christ-beseech-son-Onesimus-begotten-bonds-unprofitable-profitable-sent-again-receive-bowels-retained-stead-ministered-bonds-gospel-without-mind-benefit-necessity-willingly-departed-season-receive-forever-servant-brother-beloved-specially-flesh-Lord-partner-receive-wronged-oweth-account-Paul-written-own-hand-repay-albeit-say-owest-self-besides-joy-Lord-refresh-bowels-Lord-confidence-obedience-wrote-knowing-will-lodging-trust-prayers-given-salute-Epaphras-fellowprisoner-Christ-Jesus-Marcus-Aristarchus-Demas-Lucas-fellowlabourers-grace-Lord-Jesus-Christ-spirit-Amen
+**Tags:** #paul #thanksgiving-for-philemon #appeal-for-onesimus #christ #partnership-in-the-gospel
 
 ---
 
@@ -183,7 +183,7 @@ Paul, prisoner, Jesus, Christ, Timothy, brother, Philemon, dearly, beloved, fell
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Paul's Greeting as Type of Christ's Commission
 - **Physical commission:** Prisoner Christ (Philemon 1:2)

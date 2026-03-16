@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Prayer for Vindication, Personal Integrity, Separation from Evil, Worship in Truth
 
-**Tags:** #Psalm-David-judge-LORD-walked-integrity-trusted-slide-examine-prove-reins-heart-lovingkindness-eyes-walked-truth-sat-vain-persons-dissemblers-hated-congregation-evil-wicked-sit-wicked #wash-hands-innocency-compass-altar-LORD-publish-voice-thanksgiving-tell-wondrous-works-loved-habitation-house-place-honour-dwelleth-gather-soul-sinners-life-bloody-men-hands-mischief-right-hand-bribes #walk-integrity-redeem-merciful-foot-stand-even-place-congregations-bless-LORD
+**Tags:** #prayer-for-vindication #personal-integrity #separation-from-evil #worship-in-truth
 
 ---
 

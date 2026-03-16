@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Restoration, Divine Healing, Spiritual Fruitfulness, Wise Understanding
 
-**Tags:** #Israel-return-LORD-God-fallen-iniquity-words-turn-LORD-away-iniquity-receive-graciously-render-calves-lips-Asshur-save-ride-horses-work-hands-gods-fatherless-mercy-heal-backsliding-love-freely-anger-turned-dew-Israel-grow-lily-cast-roots-Lebanon-branches-spread-beauty-olive-tree-smell-Lebanon-dwell-shadow-revive-corn-grow-vine-scent-wine-Lebanon-Ephraim-idols-heard-observed-green-fir-tree-fruit-found-wise-understand-prudent-know-ways-LORD-right-transgressors-fall
+**Tags:** #christ #divine-healing #spiritual-fruitfulness #wise-understanding
 
 ---
 

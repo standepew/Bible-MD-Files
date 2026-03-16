@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Trust in God, Divine Protection, God's Judgment, Righteous vs. Wicked
 
-**Tags:** #chief-Musician-Psalm-David-LORD-trust-soul-flee-bird-mountain-wicked-bend-bow-ready-arrow-string-privily-shoot-upright-heart-foundations-destroyed-righteous #LORD-holy-temple-throne-heaven-eyes-behold-eyelids-try-children-men-trieth-righteous-wicked-loveth-violence-soul-hateth-rain-snares-fire-brimstone-horrible-tempest-portion-cup #righteous-LORD-loveth-righteousness-countenance-behold-upright
+**Tags:** #trust-in-god #divine-protection #god #righteous-vs-wicked
 
 ---
 

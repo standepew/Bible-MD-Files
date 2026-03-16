@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Elihu's Introduction, Divine Inspiration, Youth vs. Age, Speaking Truth
 
-**Tags:** #three-men-ceased-answer-Job-righteous-eyes #wrath-Elihu-Barachel-Buzite-kindred-Ram-justified-rather-God #friends-wrath-kindled-answer-condemned #waited-Job-spoken-elder-young #afraid-opinion-days-speak-multitude-years-teach-wisdom #spirit-man-inspiration-Almighty-understanding #great-men-wise-aged-judgment #hearken-opinion-waited-words-gave-ear-reasons-searched #attended-convinced-Job-answered-found-wisdom-GOD-thrust-down-man #directed-words-speeches-amazed-answered-still-spake-not #answer-part-opinion-full-matter-spirit-constraineth #belly-wine-vent-burst-new-bottles-speak-refreshed-lips-answer #accept-person-flattering-titles-maker-take-away
+**Tags:** #friends-wrath-kindled-answer-condemned #waited-Job-spoken-elder-young #spirit-man-inspiration-Almighty-understanding #great-men-wise-aged-judgment #elihu #divine-inspiration #youth-vs-age #speaking-truth
 
 ---
 

@@ -2,24 +2,24 @@
 
 ---
 
-## 1. CHAPTER METADATA
+## CHAPTER METADATA
 
 **Book:** Numbers
 **Chapter:** 33
 **Testament:** Old Testament
 **Key Themes:** Moses writes down every stage of Israel's forty-year journey — by the commandment of the LORD, Forty-two stations from Rameses to the plains of Moab — a complete divine record of the wilderness, The departure: "with a high hand in the sight of all the Egyptians" — on the morrow after the Passover, while Egypt buried its firstborn, The insertion: Aaron's death on Mount Hor recorded with his age and the year, Final command for Canaan: drive out all inhabitants; destroy all their pictures, molten images, and high places; dispossess and dwell, The warning: if you do not drive them out, they will be pricks in your eyes, thorns in your sides, and I will do to you what I thought to do to them
 
-**Tags:** #journeys-of-the-children-of-Israel #Moses-wrote-their-goings-out #by-commandment-of-the-LORD #high-hand-in-sight-of-all-Egyptians #Egypt-buried-their-firstborn #gods-of-Egypt-judged #Rameses-to-Succoth #forty-two-stations #Marah-Elim-Red-Sea-wilderness-of-Sin #Rephidim-no-water #wilderness-of-Sinai #Kibroth-hattaavah #Hazeroth #Aaron-dies-Mount-Hor #fortieth-year-fifth-month-first-day #Aaron-123-years-old #king-Arad-heard #plains-of-Moab #Beth-jesimoth-to-Abel-shittim #drive-out-all-inhabitants #destroy-their-pictures-and-images #pricks-in-your-eyes-thorns-in-your-sides #I-will-do-to-you-as-I-thought-to-do-to-them
+**Tags:** #Moses-wrote-their-goings-out #by-commandment-of-the-LORD #Egypt-buried-their-firstborn #gods-of-Egypt-judged #Rameses-to-Succoth #forty-two-stations #Rephidim-no-water #wilderness-of-Sinai #Kibroth-hattaavah #Hazeroth #Aaron-dies-Mount-Hor #Aaron-123-years-old #king-Arad-heard #plains-of-Moab #Beth-jesimoth-to-Abel-shittim #drive-out-all-inhabitants #destroy-their-pictures-and-images #moses-writes-down-every-stage-of #fortytwo-stations-from-rameses-to-the #the-departure #the-insertion-aaron #final-command-for-canaan-drive-out #destroy-all-their-pictures-molten-images #dispossess-and-dwell #the-warning-if-you-do-not
 
 ---
 
-## 2. CHAPTER SUMMARY
+## CHAPTER SUMMARY
 
 Moses writes down every departure point of Israel's journeys by the LORD's command. Beginning: Rameses in the first month, fifteenth day — the day after the Passover — Israel went out with a high hand in sight of all Egypt, while Egypt buried the firstborn the LORD had struck; the gods of Egypt were judged. From Rameses: Succoth, Etham, Pi-hahiroth (before Baal-zephon at Migdol), through the sea, three days in Etham wilderness, Marah, Elim (twelve springs, seventy palms), by the Red Sea, wilderness of Sin, Dophkah, Alush, Rephidim (no water), wilderness of Sinai, Kibroth-hattaavah, Hazeroth, Rithmah — then seventeen more stations through the unknown middle wilderness years — Rimmon-parez, Libnah, Rissah, Kehelathah, Mount Shapher, Haradah, Makheloth, Tahath, Tarah, Mithcah, Hashmonah, Moseroth, Bene-jaakan, Hor-hagidgad, Jotbathah, Ebronah, Ezion-gaber, wilderness of Zin (Kadesh). From Kadesh to Mount Hor (edge of Edom). Note: Aaron the priest went up to Mount Hor and died there, the fortieth year, first day of the fifth month. Aaron was 123 years old. King Arad the Canaanite heard they were coming. Then: Zalmonah, Punon, Oboth, Ije-abarim (border of Moab), Dibon-gad, Almon-diblathaim, mountains of Abarim before Nebo, plains of Moab by Jordan — from Beth-jesimoth to Abel-shittim. God speaks: when you cross Jordan, drive out all the land's inhabitants; destroy all their carved images, molten images, and high places; dispossess them and dwell there — I have given you the land. Divide it by lot according to family size. Warning: if you do not drive them out, those left will be pricks in your eyes and thorns in your sides — and I will do to you as I planned to do to them.
 
 ---
 
-## 3. CROSS-REFERENCES (Scripture Interpreting Scripture)
+## CROSS-REFERENCES (Scripture Interpreting Scripture) (Scripture Interpreting Scripture)
 
 ### "Moses Wrote Their Goings Out" — The Divine Record
 
@@ -54,7 +54,7 @@ Moses writes down every departure point of Israel's journeys by the LORD's comma
 
 ---
 
-## 4. KEYWORD INDEX
+## KEYWORD INDEX
 
 **For Current Events Matching:**
 - **Divine record-keeping of journeys and history** → Numbers 33:2 — Malachi 3:16; Revelation 20:12
@@ -65,7 +65,7 @@ Moses writes down every departure point of Israel's journeys by the LORD's comma
 
 ---
 
-## 5. KEY TERMS WITH CONTEXTUAL DEFINITIONS
+## KEY TERMS WITH CONTEXTUAL DEFINITIONS WITH CONTEXTUAL DEFINITIONS
 
 ### PICTURES / CARVED IMAGES (Hebrew: maskiyoth — showpieces, figured stones, carved images)
 - **Numbers 33:52** — "destroy all their pictures"
@@ -77,7 +77,7 @@ Moses writes down every departure point of Israel's journeys by the LORD's comma
 
 ---
 
-## 6. THE ACTUAL VERSES — NUMBERS 33 (KJV)
+## THE ACTUAL VERSES (KJV) — NUMBERS 33 (KJV)
 
 **1** These are the journeys of the children of Israel, which went forth out of the land of Egypt with their armies under the hand of Moses and Aaron.
 **2** And Moses wrote their goings out according to their journeys by the commandment of the LORD: and these are their journeys according to their goings out.
@@ -138,7 +138,7 @@ Moses writes down every departure point of Israel's journeys by the LORD's comma
 
 ---
 
-## 7. PROPHETIC/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS/TYPOLOGICAL CONNECTIONS
 
 ### Forty-Two Stages — The Number of Testing and Completion
 
@@ -151,7 +151,7 @@ Numbers 33 records exactly forty-two stopping points from Rameses to the plains 
 
 ---
 
-## 8. COMMONLY MISQUOTED PASSAGES
+## COMMONLY MISQUOTED PASSAGES PASSAGES
 
 ### Numbers 33:56 — "I Shall Do unto You, as I Thought to Do unto Them" — Confused with Unconditional Promises
 
@@ -161,7 +161,7 @@ Numbers 33 records exactly forty-two stopping points from Rameses to the plains 
 
 ---
 
-## 9. SYMBOLIC THREADS
+## SYMBOLIC THREADS
 
 ### The Journey Written Down — Every Stage Counts
 

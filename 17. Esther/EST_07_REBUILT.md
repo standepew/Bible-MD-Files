@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Esther's Petition, Haman's Exposure, Poetic Justice, Divine Victory
 
-**Tags:** #king-Haman-banquet-Esther-queen #king-Esther-second-day-banquet-wine-petition-queen-Esther-granted-request-performed-half-kingdom #Esther-queen-answered-favour-sight-king-please-king-life-given-petition-people-request #sold-people-destroyed-slain-perish-sold-bondmen-bondwomen-held-tongue-enemy-countervail-king-damage #king-Ahasuerus-answered-Esther-queen-durst-presume-heart #Esther-adversary-enemy-wicked-Haman-Haman-afraid-king-queen #king-arising-banquet-wine-wrath-palace-garden-Haman-request-life-Esther-queen-evil-determined-king #king-returned-palace-garden-place-banquet-wine-Haman-fallen-bed-Esther-king-force-queen-house-king-mouth-covered-Haman-face #Harbonah-chamberlain-king-gallows-fifty-cubits-Haman-made-Mordecai-spoken-good-king-house-Haman-king-Hang #hanged-Haman-gallows-prepared-Mordecai-king-wrath-pacified
+**Tags:** #king-Haman-banquet-Esther-queen #esther #haman #poetic-justice #divine-victory
 
 ---
 

@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** David at Nob, Holy Bread, Goliath's Sword, Doeg the Edomite, David at Gath, Feigning Madness
 
-**Tags:** #David-Nob-Ahimelech-priest-Ahimelech-afraid-meeting-David-alone-man #David-Ahimelech-priest-king-commanded-business-man-know-business-commanded-servants-place #bread-hand-five-loaves-bread-hand-present #priest-David-common-bread-hand-hallowed-bread-young-men-kept-women #David-priest-truth-women-kept-three-days-vessels-young-men-holy-bread-common-sanctified-day-vessel #priest-hallowed-bread-bread-shewbread-taken-LORD-hot-bread-day-taken #servants-Saul-day-detained-LORD-Doeg-Edomite-chiefest-herdmen-Saul #David-Ahimelech-spear-sword-sword-weapons-king-business-haste #priest-sword-Goliath-Philistine-slew-valley-Elah-wrapped-cloth-ephod-David #David-arose-fled-day-fear-Saul-Achish-king-Gath #servants-Achish-David-king-land-sing-dances-Saul-thousands-David-ten-thousands #David-words-heart-sore-afraid-Achish-king-Gath #changed-behaviour-feigned-mad-hands-scrabbled-doors-gate-spittle-beard #Achish-servants-mad-brought-Achish #mad-men-play-mad-man-presence-fellow-house
+**Tags:** #Achish-servants-mad-brought-Achish #david-at-nob #holy-bread #goliath #doeg-the-edomite #david-at-gath #feigning-madness
 
 ---
 

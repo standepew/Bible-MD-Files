@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Folly and Wisdom, Deception and Truth, Sloth and Diligence, Strife and Peace
 
-**Tags:** #snow-summer-rain-harvest-honour-seemly-fool-bird-wandering-swalllow-flying-curse-causeless-shall-whip-horse-bridle-ass-rod-fool-back-Answer-fool-folly-like-unto-Answer-fool-folly-wise-conceit-fool-sendeth-message-hand-fool-cutteth-feet-drinketh-damage-legs-lame-equal-parable-mouth-fools-bindeth-stone-sling-giveth-honour-fool-thorn-hand-drunkard-parable-mouth-fools-great-God-formed-rewardeth-fool-rewardeth-transgressors-dog-returneth-vomit-fool-returneth-folly-seest-man-wise-conceit-hope-fool-slothful-man-saith-lion-way-lion-streets-door-turneth-hinges-slothful-bed-slothful-hideth-hand-bosom-grieveth-bring-mouth-sluggard-wiser-conceit-seven-men-render-reason-passeth-meddleth-strife-belonging-dog-ears-mad-man-casteth-firebrands-arrows-death-man-deceiveth-neighbour-sport-wood-fire-goeth-talebearer-strife-ceaseth-coals-burning-coals-wood-fire-contentious-man-kindle-strife-words-talebearer-wounds-innermost-parts-belly-burning-lips-wicked-heart-potsherd-covered-silver-dross-hateth-dissembleth-lips-layeth-deceit-speaketh-fair-believe-seven-abominations-heart-hatred-covered-deceit-wickedness-shewed-congregation-diggeth-pit-fall-rolleth-stone-return-lying-tongue-hateth-afflicted-flattering-mouth-worketh-ruin
+**Tags:** #folly-and-wisdom #deception-and-truth #sloth-and-diligence #strife-and-peace
 
 ---
 

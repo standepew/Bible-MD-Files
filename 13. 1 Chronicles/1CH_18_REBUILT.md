@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** David's Military Victories, Divine Preservation, Kingdom Expansion, Administrative Organization
 
-**Tags:** #David-smote-Philistines-subdued-took-Gath-towns-hand-Philistines #smote-Moab-Moabites-servants-David-brought-gifts #David-smote-Hadarezer-king-Zobah-Hamath-stablish-dominion-river-Euphrates #David-took-thousand-chariots-seven-thousand-horsemen-twenty-thousand-footmen-David-houghed-chariot-horses-reserved-hundred-chariots #Syrians-Damascus-help-Hadarezer-David-slew-Syrians-two-twenty-thousand-men #David-garrisons-Syria-Damascus-Syrians-servants-David-brought-gifts-LORD-preserved-David-whithersoever-went #David-took-shields-gold-servants-Hadarezer-brought-Jerusalem #Tibhath-Chun-cities-Hadarezer-David-brass-much-brass-Solomon-brasen-sea-pillars-vessels-brass #Tou-king-Hamath-heard-David-smitten-host-Hadarezer-smitten-David-war-Tou #Tou-sent-Hadoram-son-David-enquire-welfare-congratulate-fought-Hadarezer-smitten-Hadarezer-war-Tou-vessels-gold-silver-brass #David-dedicated-LORD-silver-gold-brought-nations-Edom-Moab-children-Ammon-Philistines-Amalek #Abishai-son-Zeruiah-slew-Edomites-valley-salt-eighteen-thousand #David-garrisons-Edom-Edomites-servants-LORD-preserved-David-whithersoever-went #David-reigned-Israel-executed-judgment-justice-people #Joab-son-Zeruiah-host-Jehoshaphat-son-Ahilud-recorder #Zadok-son-Ahitub-Abimelech-son-Ahiathar-priests-Shavsha-scribe #Benaiah-son-Jehoiada-Cherethites-Pelethites-sons-David-chiefs-king
+**Tags:** #david #divine-preservation #kingdom-expansion #administrative-organization
 
 ---
 

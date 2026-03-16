@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Judgment, Idolatrous Worship, Sown Wind Reap Whirlwind, Forgotten Maker
 
-**Tags:** #trumpet-mouth-eagle-house-LORD-transgressed-covenant-trespassed-law-Israel-cry-LORD-God-know-cast-thing-good-enemy-pursue-set-kings-princes-silver-gold-idols-cut-calf-Samaria-cast-anger-kindled-attain-innocency-Israel-workman-made-God-calf-Samaria-broken-pieces-sown-wind-reap-whirlwind-stalk-bud-yield-meal-strangers-swallow-Israel-swallowed-Gentiles-vessel-pleasure-Assyria-wild-ass-Ephraim-hired-lovers-hired-nations-gather-sorrow-burden-king-princes-Ephraim-altars-sin-altars-sin-written-great-things-law-counted-strange-sacrifice-flesh-sacrifices-offerings-eat-LORD-accepteth-remember-iniquity-visit-sins-return-Egypt-forgotten-Maker-build-temples-Judah-multiplied-fenced-cities-send-fire-cities-devour-palaces
+**Tags:** #christ #idolatrous-worship #sown-wind-reap-whirlwind #forgotten-maker
 
 ---
 

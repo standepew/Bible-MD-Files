@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Humble Supplication, Divine Mercy, Servant's Dependence, Contempt of the Proud
 
-**Tags:** #Song-degrees-lift-eyes-dwellest-heavens-Behold-eyes-servants-hand-masters-maiden-hand-mistress-eyes-wait-LORD-GOD-mercy-exceedingly-filled-contempt-soul-exceedingly-filled-scorning-ease-contempt-proud
+**Tags:** #humble-supplication #divine-mercy #servant #contempt-of-the-proud
 
 ---
 

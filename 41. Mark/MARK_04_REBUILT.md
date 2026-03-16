@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Christ's Parabolic Teaching, Kingdom Mysteries, Sower Parable, Storm Calming
 
-**Tags:** #teach-sea-side-gathered-multitude-ship-sea-multitude-sea-land-taught-parables-doctrine-Hearken-sower-sow-fell-way-side-fowls-air-devoured-stony-ground-earth-sprang-depth-earth-sun-scorched-root-withered-thorns-grew-choked-yield-fruit-good-ground-yield-fruit-sprang-increased-thirty-sixty-hundred-ears-hear-alone-twelve-asked-parable-mystery-kingdom-God-without-parables-seeing-perceive-hearing-understand-converted-sins-forgiven-parable-know-parables-sower-word-way-side-word-sown-heard-Satan-taketh-word-hearts-stony-ground-heard-word-gladness-root-time-affliction-persecution-word-offended-thorns-heard-cares-world-deceitfulness-riches-lusts-things-enter-choke-unfruitful-good-ground-heard-word-receive-fruit-thirtyfold-sixty-hundred-candle-bushel-bed-candlestick-hid-manifested-secret-abroad-ears-hear-heed-measure-mete-measured-hear-more-given-hath-given-hath-taken-kingdom-God-man-cast-seed-ground-sleep-rise-night-day-seed-spring-grow-knoweth-earth-fruit-herself-blade-ear-full-corn-fruit-sickle-harvest-liken-kingdom-God-comparison-grain-mustard-seed-sown-earth-less-seeds-sown-groweth-greater-herbs-branches-fowls-air-lodge-shadow-parables-spoke-word-hear-alone-parable-spake-alone-expounded-disciples-even-pass-multitude-ship-multitude-ships-storm-wind-waves-beat-ship-full-hinder-ship-asleep-pillow-awake-Master-perish-arose-rebuked-wind-sea-Peace-still-wind-ceased-great-calm-fearful-no-faith-feared-exceedingly-manner-man-wind-sea-obey
+**Tags:** #christ #kingdom-mysteries #sower-parable #storm-calming
 
 ---
 
@@ -633,7 +633,7 @@ Teach, sea, side, gathered, multitude, ship, sea, multitude, sea, land, taught, 
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Christ's Parabolic Teaching as Type of Christ's Revelation
 - **Physical teaching:** Parables doctrine (Mark 4:5)

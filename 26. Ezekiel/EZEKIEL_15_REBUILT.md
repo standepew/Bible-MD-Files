@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Judgment, Useless Vine, Divine Fire, Christ's Wrath
 
-**Tags:** #word-LORD-son-man-vine-tree-tree-branch-trees-forest-wood-work-pin-hang-vessel-cast-fire-fuel-fire-devoureth-ends-midst-burned-meet-work-whole-meet-work-fire-devoured-burned-Lord-GOD-vine-tree-trees-forest-given-fire-fuel-give-inhabitants-Jerusalem-set-face-fire-devour-know-LORD-set-face-land-desolate-committed-trespass-Lord-GOD
+**Tags:** #christ #useless-vine #divine-fire
 
 ---
 

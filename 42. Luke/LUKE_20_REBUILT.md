@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** The Question of Authority, Parable of the Wicked Husbandmen, The Cornerstone, Paying Taxes to Caesar, The Resurrection, David's Son and Lord, Warning Against the Scribes
 
-**Tags:** #days-taught-people-temple-preached-gospel-chief-priests-scribes-elders-authority-things-gave-authority-answered-ask-answer-baptism-John-heaven-men-reasoned-heaven-believed-men-stone-persuaded-prophet-answered-could-tell-Jesus-authority-parable-people-vineyard-husbandmen-long-time-season-servant-fruit-beat-empty-servant-beat-shamefully-empty-third-wounded-cast-lord-vineyard-send-beloved-son-reverence-husbandmen-reasoned-heir-kill-inheritance-cast-vineyard-killed-destroy-husbandmen-vineyard-others-heard-God-forbid-beheld-written-stone-builders-rejected-head-corner-fall-stone-broken-fall-grind-powder-chief-priests-scribes-hour-lay-hands-feared-people-perceived-parable-against-watched-spies-feign-just-take-hold-words-deliver-governor-authority-Master-sayest-teachest-rightly-accept-person-teachest-God-truly-tribute-Cæsar-perceived-craftiness-tempt-penny-image-superscription-Cæsar-Cæsar-God-God-take-hold-words-people-marvelled-held-peace-Sadducees-deny-resurrection-asked-Moses-brother-die-wife-die-children-brother-wife-seed-brother-seven-brethren-first-wife-died-children-second-wife-died-childless-third-wife-seven-children-died-woman-died-resurrection-wife-seven-married-marriage-world-accounted-worthy-world-resurrection-dead-marry-marriage-die-angels-children-God-children-resurrection-dead-raised-Moses-bush-calleth-Lord-God-Abraham-God-Isaac-God-Jacob-God-dead-living-live-scribes-answering-Master-well-said-durst-ask-Christ-David-son-David-Psalms-LORD-Lord-right-hand-enemies-footstool-David-Lord-son-audience-people-disciples-Beware-scribes-desire-walk-long-robes-greetings-markets-highest-seats-synagogues-chief-rooms-feasts-devour-widows-houses-shew-long-prayers-greater-damnation
+**Tags:** #the-question-of-authority #parable-of-the-wicked-husbandmen #the-cornerstone #paying-taxes-to-caesar #the-resurrection #david #warning-against-the-scribes
 
 ---
 
@@ -315,7 +315,7 @@ Days, taught, people, temple, preached, gospel, chief, priests, scribes, elders,
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Question of Authority as Type of Christ's Wisdom
 - **Physical authority:** Authority heaven (Luke 20:4)

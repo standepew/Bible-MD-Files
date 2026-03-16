@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** The Word of Life Manifested, Fellowship with God and Christ, God is Light, Walking in Light vs Darkness, Confession and Forgiveness of Sins
 
-**Tags:** #beginning-heard-seen-eyes-looked-hands-handled-Word-life-life-manifested-seen-bear-witness-shew-eternal-life-Father-manifested-seen-heard-declare-fellowship-truly-fellowship-Father-Son-Jesus-Christ-write-joy-full-message-heard-declare-God-light-darkness-fellowship-walk-darkness-lie-truth-walk-light-fellowship-blood-Jesus-Christ-Son-cleanseth-sin-say-no-sin-deceive-truth-confess-sins-faithful-forgive-sins-cleanse-unrighteousness-say-not-sinned-liar-word
+**Tags:** #the-word-of-life-manifested #fellowship-with-god-and-christ #god-is-light #walking-in-light-vs-darkness #confession-and-forgiveness-of-sins
 
 ---
 
@@ -129,7 +129,7 @@ Beginning, heard, seen, eyes, looked, hands, handled, Word, life, life, manifest
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Word of Life Manifested as Type of Christ's Incarnation
 - **Physical incarnation:** Word life (1 John 1:2)

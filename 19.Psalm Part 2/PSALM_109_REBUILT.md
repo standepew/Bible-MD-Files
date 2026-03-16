@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Imprecatory Prayer, False Accusations, Divine Vindication, Poor Man's Plea
 
-**Tags:** #chief-Musician-Psalm-David-Hold-peace-GOD-praise-mouth-wicked-mouth-deceitful-opened-lying-tongue-compassed-words-hatred-fought-without-cause-love-adversaries-give-prayer-rewarded-evil-good-hatred-love-set-wicked-man-Satan-right-hand-judged-condemned-prayer-become-sin-days-few-another-office-children-fatherless-wife-widow-children-continually-vagabonds-beg-seek-bread-desolate-places-extortioner-catch-strangers-spoil-labour-mercy-favour-fatherless-children-posterity-cut-off-generation-following-name-blotted-iniquity-fathers-remembered-LORD-sin-mother-blotted-continually-LORD-cut-memory-earth-remembered-shew-mercy-persecuted-poor-needy-man-slay-broken-heart-loved-cursing-delight-blessing-far-clothed-cursing-garment-come-bowels-water-oil-bones-garment-covereth-girdle-wherewith-girded-continually-reward-adversaries-LORD-speak-evil-soul-GOD-LORD-mercy-good-deliver-poor-needy-heart-wounded-within-gone-shadow-declineth-tossed-locust-knees-weak-fasting-flesh-fail-fatness-reproach-looked-shook-heads-Help-LORD-GOD-save-according-mercy-know-hand-LORD-done-curse-bless-arise-ashamed-servant-rejoice-adversaries-clothed-shame-cover-confusion-mantle-greatly-praise-LORD-mouth-praise-multitude-shall-stand-right-hand-poor-save-condemn-soul
+**Tags:** #imprecatory-prayer #false-accusations #divine-vindication #poor-man
 
 ---
 

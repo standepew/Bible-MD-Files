@@ -187,6 +187,41 @@ Each offer is more reasonable-sounding than the last. The final offer sounds alm
 
 ---
 
+## COMMONLY MISQUOTED PASSAGES
+
+### Exodus 10:2 — "Tell Your Children" Used to Justify Any Form of Generational Religious Transmission
+
+**Verse 2** — "And that thou mayest tell in the ears of thy son, and of thy son's son, what things I have wrought in Egypt, and my signs which I have done among them; that ye may know how that I am the LORD."
+
+**How it is misused:** This verse is sometimes cited generically to validate any tradition passed from parents to children, treating the command as a general endorsement of cultural or religious inheritance regardless of content. It is used to argue that passing down any family or denominational tradition is equivalent to keeping this command.
+
+**What the text actually says:** The verse specifies exactly what is to be transmitted — not traditions or culture, but the specific works of God in history, with a specific purpose:
+- **Verse 1** — "that I might shew these my signs before him" — the signs themselves are the content; what is transmitted is the testimony of what God did, not what the community developed
+- **Psalm 78:4-7** — "We will not hide them from their children, shewing to the generation to come the praises of the LORD, and his strength, and his wonderful works that he hath done... That the generation to come might know them... that they might set their hope in God" — the content is God's works; the purpose is that children would hope in God personally, not merely inherit cultural religion
+- **Deuteronomy 6:6-7** — "These words, which I command thee this day, shall be in thine heart: And thou shalt teach them diligently unto thy children" — again the content is God's word and works, not traditions built on top of them
+- **Judges 2:10** — "There arose another generation after them, which knew not the LORD, nor yet the works which he had done for Israel" — the generation that fails this command does not merely lack cultural religion; they lack knowledge of God and His works
+
+*Correction:* The generational transmission commanded in Exodus 10:2 is specifically the testimony of God's mighty works and their meaning — "that ye may know how that I am the LORD." The point is theological knowledge of God's character, not cultural continuity. A generation that inherits rituals, traditions, or religious identity without the testimony of what God has done and who He is has not kept this command. The Judges 2:10 generation proves that religious structure without the living testimony fails the next generation entirely.
+
+---
+
+### Exodus 10:26 — "Not a Hoof Shall Be Left Behind" Misapplied as a Total Prohibition of Practical Compromise
+
+**Verse 26** — "Our cattle also shall go with us; there shall not an hoof be left behind; for thereof must we take to serve the LORD our God; and we know not with what we must serve the LORD, until we come thither."
+
+**How it is misused:** This verse is sometimes cited outside its context to argue that any accommodation in any situation is sinful — that every aspect of life must be removed from any association with the "world" immediately and completely, without practical wisdom or process.
+
+**What the text actually says:** The verse is Moses' specific response to Pharaoh's specific fourth compromise offer, in the specific context of leaving Egypt permanently on God's command:
+- **Exodus 10:24** — "And Pharaoh called unto Moses, and said, Go ye, serve the LORD; only let your flocks and your herds be stayed" — the specific offer is to keep Israel's livelihood and material resources in Egypt's control even while the people leave
+- **Verse 26** — "we know not with what we must serve the LORD, until we come thither" — Moses' reason is not principled separatism for its own sake; it is that everything Israel has will be needed for the worship and service of God, and they cannot pre-determine what God will require before they arrive
+- The command being obeyed was specific: leave Egypt completely. The "not a hoof" principle applies to the complete execution of a specific divine command, not as a general principle of total cultural separation in all circumstances
+
+*Correction:* "Not a hoof shall be left behind" is the principle of total obedience to a specific command — when God says "come out completely," nothing stays in Egypt's control. It is not a general rule that any contact with the surrounding world is forbidden. The New Testament equivalent is not "leave society" but "be not conformed to this world" (Romans 12:2) — a matter of transformation, not physical withdrawal. The verse applies its full force where there is a clear divine command requiring complete execution.
+
+---
+
+---
+
 ## SYMBOLIC THREADS
 
 ### Light in Goshen / Darkness in Egypt — The Separation of Light from Darkness

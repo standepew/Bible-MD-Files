@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Cave Prayer, Divine Refuge, Spiritual Despair, Deliverance from Persecutors
 
-**Tags:** #Maschil-David-Prayer-cave-cried-LORD-voice-voice-LORD-supplication-poured-complaint-shewed-trouble-spirit-overwhelmed-knew-path-walked-privily-laid-snare-looked-right-beheld-no-man-know-refuge-failed-man-cared-soul-cried-LORD-refuge-portion-land-living-Attend-cry-brought-low-deliver-persecutors-stronger-bring-soul-prison-praise-name-righteous-compass-deal-bountifully
+**Tags:** #cave-prayer #divine-refuge #spiritual-despair #deliverance-from-persecutors
 
 ---
 

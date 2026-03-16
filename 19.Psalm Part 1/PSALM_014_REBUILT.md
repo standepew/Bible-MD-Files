@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Atheism's Folly, Universal Sinfulness, God's Knowledge, Salvation from Zion
 
-**Tags:** #chief-Musician-Psalm-David-fool-heart-God-corrupt-abominable-works-good-LORD-looked-heaven-children-men-understand-seek-GOD-aside-filthy-good-workers-iniquity-knowledge #eat-people-bread-call-LORD-great-fear-GOD-generation-righteous-shamed-counsel-poor-LORD-refuge-salvation-Israel-Zion-LORD-bring-captivity-people-Jacob-rejoice-Israel-glad
+**Tags:** #atheism #universal-sinfulness #god #salvation-from-zion
 
 ---
 

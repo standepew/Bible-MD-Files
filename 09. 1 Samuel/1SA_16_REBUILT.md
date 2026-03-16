@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** David Anointed, God's Choice by Heart, Spirit Departs from Saul, Evil Spirit Troubles Saul, David's Music Brings Relief
 
-**Tags:** #LORD-Samuel-mourn-Saul-rejected-reigning-Israel-horn-oil-Jesse-Beth-lehemite-provided-king-sons #Samuel-go-Saul-hear-kill-LORD-heifer-sacrifice-LORD-Jesse-sacrifice-shew-anoint-name #Samuel-LORD-Beth-lehem-elders-town-trembled-coming-peaceably-sacrifice-LORD-sanctify-Jesse-sons-sacrifice #looked-Eliab-LORD-anointed #LORD-Samuel-countenance-height-stature-refused-LORD-seeth-man-seeth-outward-appearance-LORD-heart #Jesse-Abinadab-pass-Samuel-LORD-chosen #Jesse-Shammah-pass-Samuel-LORD-chosen #Jesse-seven-sons-pass-Samuel-Jesse-LORD-chosen #Samuel-Jesse-children-youngest-sheep-Samuel-Jesse-fetch-sit-down-come #sent-brought-ruddy-beautiful-countenance-goodly-LORD-arise-anoint #Samuel-horn-oil-anointed-brethren-Spirit-LORD-David-day-Samuel-Ramah #Spirit-LORD-departed-Saul-evil-spirit-LORD-troubled #Saul-servants-evil-spirit-God-troubleth-lord-command-servants-seek-cunning-player-harp-evil-spirit-God-hand-play-well #Saul-servants-man-play-well-bring #servants-son-Jesse-Beth-lehemite-cunning-playing-mighty-valiant-man-war-prudent-matters-comely-person-LORD #Saul-messengers-Jesse-David-son-sheep #Jesse-ass-laden-bread-bottle-wine-kid-David-son-Saul #David-Saul-stood-loved-armourbearer #Saul-Jesse-David-stand-favour-sight #evil-spirit-God-David-harp-played-hand-Saul-refreshed-well-evil-spirit-departed
+**Tags:** #looked-Eliab-LORD-anointed #David-Saul-stood-loved-armourbearer #david-anointed #god #spirit-departs-from-saul #evil-spirit-troubles-saul #david
 
 ---
 

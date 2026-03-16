@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Lordship, Priestly Order, Divine Victory, Eternal Priesthood
 
-**Tags:** #Psalm-David-LORD-said-Lord-Sit-right-hand-make-enemies-footstool-LORD-send-rod-strength-Zion-rule-midst-enemies-people-willing-day-power-beauties-holiness-womb-morning-dew-youth-LORD-sworn-repent-priest-order-Melchizedek-Lord-right-hand-strike-kings-day-wrath-judge-heathen-fill-places-dead-bodies-wound-heads-countries-drink-brook-way-lift-head
+**Tags:** #christ #priestly-order #divine-victory #eternal-priesthood
 
 ---
 

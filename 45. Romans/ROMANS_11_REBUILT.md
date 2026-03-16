@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** God Has Not Cast Away Israel, The Remnant, The Olive Tree, All Israel Shall Be Saved
 
-**Tags:** #God-cast-people-God-forbid-Israelite-seed-Abraham-tribe-Benjamin-God-cast-people-foreknew-scripture-Elias-maketh-intercession-God-Israel-killed-prophets-digged-altars-left-alone-seek-life-answer-God-reserved-seven-thousand-bowed-knee-image-Baal-present-time-remnant-election-grace-grace-works-grace-works-grace-works-works-works-Israel-obtained-seeketh-election-obtained-rest-blinded-written-God-spirit-slumber-eyes-see-ears-hear-day-David-table-snares-trap-stumblingblock-recompence-eyes-darkened-bow-down-back-stumbled-fall-God-forbid-fall-salvation-Gentiles-provoke-jealousy-fall-riches-world-diminishing-Gentiles-fulness-Gentiles-apostle-Gentiles-magnify-office-provoke-emulation-flesh-save-casting-away-reconciling-world-receiving-life-dead-firstfruit-holy-lump-holy-root-holy-branches-branches-broken-wild-olive-tree-graffed-among-partakest-root-fatness-olive-tree-boast-branches-boast-root-root-branches-broken-graffed-well-unbelief-broken-off-stand-faith-highminded-fear-God-spared-natural-branches-spare-goodness-severity-God-fell-severity-goodness-continue-goodness-cut-off-abide-unbelief-graffed-God-graffed-wild-nature-graffed-nature-good-olive-tree-natural-branches-graffed-olive-tree-brethren-ignorant-mystery-wise-conceits-blindness-Israel-fulness-Gentiles-come-Israel-saved-written-Sion-Deliverer-turn-ungodliness-Jacob-covenant-take-sins-gospel-enemies-sakes-election-beloved-fathers-gifts-calling-God-repentance-past-believed-God-obtained-mercy-unbelief-believed-mercy-obtain-mercy-God-concluded-unbelief-mercy-depth-riches-wisdom-knowledge-God-unsearchable-judgments-ways-finding-known-mind-Lord-counsellor-first-given-recompensed-through-things-glory-forever
+**Tags:** #god-has-not-cast-away-israel #the-remnant #the-olive-tree #all-israel-shall-be-saved
 
 ---
 
@@ -287,7 +287,7 @@ God, cast, people, God, forbid, Israelite, seed, Abraham, tribe, Benjamin, God, 
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### God Has Not Cast Away Israel as Type of Christ's Faithfulness
 - **Physical faithfulness:** Cast away (Romans 11:3)

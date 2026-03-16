@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** God's Omniscience, Divine Presence, Creation Wonder, Separation from Evil
 
-**Tags:** #chief-Musician-Psalm-David-LORD-searched-known-downsitting-uprising-understood-thought-afar-compassest-path-lying-down-acquainted-ways-word-tongue-LORD-know-altogether-beset-behind-laid-hand-knowledge-wonderful-high-attain-whither-go-spirit-whither-flee-presence-ascend-heaven-bed-hell-wings-morning-dwell-uttermost-parts-sea-hand-lead-right-hand-darkness-cover-night-shine-day-darkness-light-alike-possessed-reins-covered-mother-womb-praise-fearfully-wonderfully-marvellous-works-soul-know-substance-hid-made-secret-curiously-wrought-lowest-parts-earth-eyes-substance-unperfect-book-members-written-continuance-fashioned-precious-thoughts-God-great-number-sand-awake-slai-wicked-depart-bloody-men-speak-wickedly-enemies-name-vain-hate-hate-rise-against-perfect-hatred-count-enemies-search-know-heart-thoughts-wicked-way-lead-way-everlasting
+**Tags:** #god #divine-presence #creation-wonder #separation-from-evil
 
 ---
 

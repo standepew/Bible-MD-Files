@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Financial Responsibility, Diligence vs. Sloth, Seven Abominations, Sexual Purity
 
-**Tags:** #son-surety-friend-stricken-hand-stranger-snared-words-mouth-taken-words-mouth-deliver-hand-friend-humble-make-sure-friend-give-sleep-eyes-slumber-eyelids-Deliver-roe-hand-hunter-bird-hand-fowler-Go-ant-sluggard-consider-ways-wise-guide-overseer-ruler-provideth-meat-summer-gathereth-food-harvest-long-sleep-slumber-folding-hands-sleep-poverty-travelleth-want-armed-man-naughty-person-wicked-man-walk-froward-mouth-winketh-eyes-speak-feet-teach-fingers-frowardness-heart-deviseth-mischief-continually-soweth-discord-calamity-suddenly-suddenly-broken-remedy-things-LORD-hate-seven-abomination-proud-look-lying-tongue-hands-shed-innocent-blood-heart-deviseth-wicked-imaginations-feet-swift-running-mischief-false-witness-speaketh-lies-soweth-discord-brethren-son-keep-father-commandment-forsake-mother-law-bind-continually-heart-tie-neck-goest-lead-sleepest-keep-awakest-talk-commandment-lamp-law-light-reproofs-instruction-way-life-keep-evil-woman-flattery-tongue-strange-woman-Lust-beauty-heart-take-eyelids-means-whorish-woman-brought-piece-bread-adulteress-hunt-precious-life-fire-bosom-clothes-burned-hot-coals-feet-burned-neighbour-wife-take-innocent-Men-despise-thief-steal-satisfy-soul-hungry-found-restore-sevenfold-give-substance-house-Whoso-committeth-adultery-woman-lack-understanding-destroy-soul-wound-dishonour-reproach-wiped-away-jealousy-rage-man-spare-day-vengeance-regard-ransom-rest-content-gifts
+**Tags:** #financial-responsibility #diligence-vs-sloth #seven-abominations #sexual-purity
 
 ---
 

@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Christ's Triumphant Entry, Temple Cleansing, Fig Tree Curse, Authority Question
 
-**Tags:** #drew-nigh-Jerusalem-Bethphage-mount-Olives-Jesus-disciples-village-ass-colt-loose-bring-man-say-Lord-need-straightway-fulfilled-spoken-prophet-daughter-Sion-King-cometh-meek-sitting-ass-colt-foal-ass-disciples-ass-colt-clothes-set-thereon-great-multitude-spread-garments-way-cut-branches-trees-strawed-multitudes-before-followed-cried-Hosanna-Son-David-Blessed-cometh-name-Lord-Hosanna-highest-Jerusalem-city-moved-multitude-Jesus-prophet-Nazareth-Galilee-Jesus-temple-God-cast-sold-bought-temple-overthrew-tables-moneychangers-seats-doves-written-house-prayer-den-thieves-blind-lame-temple-healed-chief-priests-scribes-wonderful-children-crying-temple-Hosanna-Son-David-displeased-Hearest-saying-Jesus-Yea-read-mouth-babes-sucklings-perfected-praise-left-city-Bethany-lodged-morning-returned-city-hungered-fig-tree-way-found-leaves-fig-tree-withered-disciples-marvelled-withered-Jesus-answered-faith-doubt-fig-tree-mountain-removed-sea-cast-prayer-believing-receive-temple-chief-priests-elders-teaching-authority-things-authority-Jesus-answered-ask-thing-tell-authority-things-baptism-John-heaven-men-reasoned-say-From-heaven-believe-say-men-people-fear-prophet-answered-Jesus-tell-authority-things-Think-man-two-sons-vineyard-first-I-repented-went-second-I-sir-went-whether-twain-will-father-first-Jesus-publicans-harlots-kingdom-God-John-righteousness-believed-publicans-harlots-believed-repented-believe-parable-householder-planted-vineyard-hedged-digged-winepress-tower-husbandmen-far-country-fruit-drew-sent-servants-husbandmen-fruits-husbandmen-servants-beat-killed-stoned-servants-first-likewise-son-reverence-husbandmen-son-heir-kill-seize-inheritance-caught-cast-vineyard-slew-lord-vineyard-husbandmen-wicked-men-let-vineyard-husbandmen-fruits-seasons-Jesus-read-scriptures-stone-builders-rejected-head-corner-Lord-doing-marvellous-eyes-kingdom-God-nation-fruits-stone-fallen-broken-fall-grind-powder-chief-priests-Pharisees-parables-spake-lay-hands-feared-multitude-prophet
+**Tags:** #christ #temple-cleansing #fig-tree-curse #authority-question
 
 ---
 
@@ -283,7 +283,7 @@ Drew, nigh, Jerusalem, Bethphage, mount, Olives, Jesus, disciples, village, ass,
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Christ's Triumphant Entry as Type of Christ's Kingship
 - **Physical entry:** Mount Olives (Matthew 21:3)

@@ -166,3 +166,57 @@ The entire ninth chapter of Hebrews is the Spirit-inspired interpretation of Lev
 ---
 
 **End of Leviticus Chapter 16**
+
+---
+
+## COMMONLY MISQUOTED PASSAGES
+
+### Leviticus 16:29-31 — "Afflict Your Souls" Used to Require Annual Corporate Fasting for Atonement
+
+**Verses 29, 31** — "That in the seventh month, on the tenth day of the month, ye shall afflict your souls, and do no work at all... It shall be a sabbath of rest unto you, and ye shall afflict your souls, by a statute for ever."
+
+**How it is misused:** This verse is sometimes cited to argue that New Covenant believers must observe Yom Kippur annually as a required act of corporate atonement — that Christ's atonement requires this annual re-enactment to remain effective, or that the "statute for ever" makes this day binding on all people in all times.
+
+**What the text actually says:**
+- **Hebrews 9:12** — "by his own blood he entered in once into the holy place, having obtained eternal redemption for us."
+- **Hebrews 10:1-4** — "For the law having a shadow of good things to come, and not the very image of the things, can never with those sacrifices which they offered year by year continually make the comers thereunto perfect... For it is not possible that the blood of bulls and of goats should take away sins."
+- **Hebrews 10:14** — "For by one offering he hath perfected for ever them that are sanctified."
+- **Colossians 2:16-17** — "Let no man therefore judge you in meat, or in drink, or in respect of an holyday, or of the new moon, or of the sabbath days: Which are a shadow of things to come; but the body is of Christ."
+
+*Correction:* Hebrews 10:1-4 states explicitly that the annual nature of the Day of Atonement was evidence of what it could not permanently accomplish — if it had fully cleansed, the worshippers would have had no more consciousness of sins, and the offering would not need to be repeated. Christ's one offering perfects forever (Hebrews 10:14). "A statute for ever" in the Mosaic covenant refers to the duration of the covenant administration, not to post-Messianic enforcement. The Day of Atonement was "for ever" until the reality it shadowed arrived.
+
+---
+
+### Leviticus 16:8-10 — "Scapegoat" Used to Describe Arbitrary Blame-Shifting
+
+**Verses 8-10** — "And Aaron shall cast lots upon the two goats; one lot for the LORD, and the other lot for the scapegoat... But the goat, on which the lot fell to be the scapegoat, shall be presented alive before the LORD, to make an atonement with him, and to let him go for a scapegoat into the wilderness."
+
+**How it is misused:** The word "scapegoat" has entered common language to mean any person blamed unfairly for others' failures. The Levitical scapegoat is then either dismissed as the origin of a psychological phenomenon or misread as arbitrary punishment of an innocent party.
+
+**What the text actually says:**
+- **Leviticus 16:21** — "And Aaron shall lay both his hands upon the head of the live goat, and confess over him all the iniquities of the children of Israel, and all their transgressions in all their sins, putting them upon the head of the goat." — The sins are formally, verbally, and physically transferred before the goat is sent away.
+- **Isaiah 53:6** — "and the LORD hath laid on him the iniquity of us all."
+- **Psalm 103:12** — "As far as the east is from the west, so far hath he removed our transgressions from us."
+
+*Correction:* The Levitical scapegoat is not arbitrary blame-shifting. The transfer is formal, deliberate, comprehensive, and God-ordained — both hands laid on the head, all sins verbally confessed, the burden transferred by divine institution. The goat goes into "a land not inhabited" (Leviticus 16:22) — a place of no return. Isaiah 53:6 and Psalm 103:12 show this is the type of a real, actual transfer of real sin to a real substitute, whose result is real removal. The modern use of "scapegoat" inverts the meaning: the Levitical scapegoat bears real guilt, properly transferred; modern scapegoating transfers no real guilt, only social blame.
+
+---
+
+## SYMBOLIC THREADS
+
+**The Mercy Seat (Kapporeth — The Place of Atonement):**
+- First appears: Exodus 25:17-22 — "And thou shalt make a mercy seat of pure gold... And there I will meet with thee, and I will commune with thee from above the mercy seat." — The mercy seat is the location of divine encounter; God speaks from above it.
+- Leviticus 16:2 — "I will appear in the cloud upon the mercy seat" — God's presence located above the mercy seat.
+- Leviticus 16:14-15 — The blood of the bull and the goat sprinkled on and before the mercy seat seven times — the instrument of atonement meets the place of God's presence.
+- Romans 3:25 — "Whom God hath set forth to be a propitiation through faith in his blood" — the Greek word translated "propitiation" (hilasterion) is the same word used in the Septuagint for the mercy seat (kapporeth).
+- Hebrews 9:5 — "And over it the cherubims of glory shadowing the mercyseat; of which we cannot now speak particularly."
+- *Pattern:* The mercy seat is the single point in the universe where divine holiness and human guilt could meet — covered by blood. Romans 3:25 identifies Christ as the hilasterion — the mercy seat — now set forth publicly in the gospel. The private, once-a-year, blood-on-the-mercy-seat of Leviticus 16 is fulfilled in the public, once-for-all, blood-of-the-Son mercy seat that is Christ Himself.
+
+**The Two Goats (Death and Removal — The Double Work of Atonement):**
+- Established: Leviticus 16:8-10 — one goat for the LORD (killed), one goat for Azazel (sent away alive).
+- Leviticus 14:4-7 — the same pattern in miniature: one bird killed, one bird released alive bearing the blood of the killed bird.
+- Isaiah 53:5-6, 12 — "he was wounded for our transgressions... the LORD hath laid on him the iniquity of us all... he bare the sin of many" — bearing (killed goat's blood) and carrying away (scapegoat's removal).
+- Psalm 103:12 — "As far as the east is from the west, so far hath he removed our transgressions from us" — the scapegoat principle.
+- Micah 7:19 — "he will cast all their sins into the depths of the sea."
+- Romans 4:25 — "Who was delivered for our offences, and was raised again for our justification" — delivered (killed goat) and raised (the living goat that goes out, sin-bearing, into newness of life).
+- *Pattern:* The two goats of Leviticus 16 and the two birds of Leviticus 14 teach the same double truth: the penalty of sin requires death, and the record of sin requires removal. No single animal could show both. Christ's death fulfills the killed goat; His resurrection fulfills the scapegoat — bearing sins into a land of no return, the sins left behind in the tomb while He rises. Romans 4:25 is the precise New Covenant statement of the two-goat theology.

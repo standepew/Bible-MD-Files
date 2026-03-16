@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Wisdom's Call, Fear of the LORD, Parental Instruction, Avoiding Evil Companions
 
-**Tags:** #Proverbs-Solomon-son-David-king-Israel-know-wisdom-instruction-perceive-words-understanding-receive-instruction-wisdom-justice-judgment-equity-give-subtilty-simple-young-man-knowledge-discretion-wise-man-hear-increase-learning-man-understanding-attain-wise-counsels-understand-proverb-interpretation-words-wise-dark-sayings-fear-LORD-beginning-knowledge-fools-despise-wisdom-instruction-son-hear-instruction-father-forsake-law-mother-ornament-grace-head-chains-neck-son-sinners-entice-consent-sinners-lay-wait-blood-lurk-privily-innocent-cause-swallow-alive-grave-whole-go-pit-find-precious-substance-fill-houses-spoil-cast-lot-purse-son-walk-way-refrain-foot-path-feet-run-evil-make-haste-shed-blood-vain-net-spread-sight-bird-lay-wait-blood-lurk-privily-lives-ways-greedy-gain-taketh-life-owners-Wisdom-crieth-without-uttereth-voice-streets-crieth-chief-place-concourse-openings-gates-city-uttereth-words-long-simple-love-simplicity-scorners-delight-scorning-fools-hate-knowledge-Turn-reproof-pour-spirit-make-known-words-called-refused-stretched-hand-regarded-set-nought-counsel-none-reproof-laugh-calamity-mock-fear-desolation-destruction-whirlwind-distress-anguish-call-answer-seek-early-find-hated-knowledge-choose-fear-LORD-none-counsel-despised-reproof-fruit-way-filled-devices-turning-simple-slay-prosperity-fools-destroy-hearken-dwell-safely-quiet-fear-evil
+**Tags:** #wisdom #fear-of-the-lord #parental-instruction #avoiding-evil-companions
 
 ---
 

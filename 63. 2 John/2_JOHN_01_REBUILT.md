@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Walking in Truth and Love, The Commandment to Love One Another, Warning Against Deceivers and Antichrists, Doctrine of Christ, Hospitality and Separation
 
-**Tags:** #elder-elect-lady-children-love-truth-known-truth-truth-sake-dwelleth-forever-Grace-mercy-peace-God-Father-Lord-Jesus-Christ-Son-Father-truth-love-rejoiced-greatly-found-children-walking-truth-received-commandment-Father-beseech-lady-new-commandment-beginning-love-another-love-walk-commandments-commandment-heard-beginning-walk-deceivers-entered-world-confess-Jesus-Christ-come-flesh-deceiver-antichrist-Lose-wrought-receive-full-reward-transgresseth-abideth-doctrine-Christ-God-abideth-doctrine-Christ-Father-Son-come-doctrine-receive-house-bid-God-speed-biddeth-God-speed-partaker-evil-deeds-write-paper-ink-trust-come-speak-face-face-joy-full-children-elect-sister-greet
+**Tags:** #walking-in-truth-and-love #the-commandment-to-love-one-another #warning-against-deceivers-and-antichrists #doctrine-of-christ #hospitality-and-separation
 
 ---
 
@@ -147,7 +147,7 @@ Elder, elect, lady, children, love, truth, known, truth, truth, sake, dwelleth, 
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Walking in Truth and Love as Type of Christ's Perfect Walk
 - **Physical walk:** Walking truth (2 John 1:5)

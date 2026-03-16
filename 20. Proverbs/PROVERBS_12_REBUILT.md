@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Wisdom vs. Folly, Righteousness vs. Wickedness, Truth vs. Deception, Diligence vs. Sloth
 
-**Tags:** #loveth-instruction-loveth-knowledge-hateth-reproof-brutish-good-man-obtain-favour-LORD-wicked-devices-condemn-man-established-wickedness-root-righteous-moved-virtuous-woman-crown-husband-maketh-ashamed-rottenness-bones-thoughts-righteous-counsels-wicked-deceit-words-wicked-lie-wait-blood-mouth-upright-deliver-wicked-overthrown-house-righteous-stand-man-commended-wisdom-perverse-heart-despised-servant-better-honoureth-lacketh-bread-righteous-man-regard-life-beast-tender-mercies-wicked-cruel-tilleth-land-satisfied-bread-follow-vain-persons-void-understanding-wicked-desireth-net-evil-men-root-righteous-yield-fruit-wicked-snared-transgression-lips-just-trouble-man-satisfied-good-fruit-mouth-recompence-man-hands-rendered-fool-right-eyes-hearkeneth-counsel-wise-fool-wrath-presently-known-prudent-man-cover-shame-speaketh-truth-sheweth-righteousness-false-witness-deceit-speaketh-like-piercings-sword-tongue-wise-health-lip-truth-established-lying-tongue-moment-deceit-heart-imagine-evil-counsellors-peace-evil-happen-just-wicked-filled-mischief-lying-lips-abomination-LORD-deal-truly-delight-prudent-man-concealeth-knowledge-heart-fools-proclaim-foolishness-hand-diligent-bear-rule-slothful-tribute-Heaviness-heart-makes-stoop-good-word-glad-righteous-excellent-neighbour-way-wicked-seduce-slothful-man-roasteth-took-hunting-substance-diligent-man-precious-way-righteousness-life-pathway-death
+**Tags:** #wisdom-vs-folly #righteousness-vs-wickedness #truth-vs-deception #diligence-vs-sloth
 
 ---
 

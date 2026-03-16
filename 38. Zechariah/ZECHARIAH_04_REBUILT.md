@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Spirit-Powered Ministry, Golden Candlestick, Two Olive Trees, Headstone with Grace
 
-**Tags:** #angel-talked-waked-man-wakened-sleep-seest-looked-candlestick-gold-bowl-top-seven-lamps-seven-pipes-seven-lamps-top-olive-trees-right-side-bowl-left-side-answered-spake-angel-talked-lord-answered-spake-Knowest-lord-answered-spake-word-LORD-Zerubbabel-might-power-spirit-LORD-hosts-mountain-Zerubbabel-plain-bring-headstone-shoutings-crying-Grace-grace-word-LORD-hands-Zerubbabel-laid-foundation-house-finish-know-LORD-hosts-sent-despised-day-small-things-rejoice-plummet-hand-Zerubbabel-seven-eyes-LORD-earth-answered-olive-trees-right-side-candlestick-left-side-answered-olive-branches-golden-pipes-empty-golden-oil-answered-Knowest-lord-answered-anointed-ones-stand-LORD-whole-earth
+**Tags:** #christ #golden-candlestick #two-olive-trees #headstone-with-grace
 
 ---
 

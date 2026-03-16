@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** God's Mercy Endures Forever, Creation's Wonder, Exodus Deliverance, Conquest Victory
 
-**Tags:** #give-thanks-LORD-good-mercy-endureth-forever-give-thanks-God-gods-mercy-endureth-forever-give-thanks-Lord-lords-mercy-endureth-forever-alone-doeth-great-wonders-mercy-endureth-forever-wisdom-made-heavens-mercy-endureth-stretched-earth-waters-mercy-endureth-made-great-lights-mercy-endureth-sun-rule-day-mercy-endureth-moon-stars-rule-night-mercy-endureth-smote-Egypt-firstborn-mercy-endureth-brought-Israel-mercy-endureth-strong-hand-stretched-arm-mercy-endureth-divided-Red-sea-parts-mercy-endureth-made-Israel-pass-midst-mercy-endureth-overthrew-Pharaoh-host-Red-sea-mercy-endureth-led-people-wilderness-mercy-endureth-smote-great-kings-mercy-endureth-slew-famous-kings-mercy-endureth-Sihon-king-Amorites-mercy-endureth-Og-king-Bashan-mercy-endureth-gave-land-heritage-mercy-endureth-heritage-Israel-servant-mercy-endureth-remembered-low-estate-mercy-endureth-redeemed-enemies-mercy-endureth-giveth-food-flesh-mercy-endureth-give-thanks-God-heaven-mercy-endureth
+**Tags:** #god #creation #exodus-deliverance #conquest-victory
 
 ---
 

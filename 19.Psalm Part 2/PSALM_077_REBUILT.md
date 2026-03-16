@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Spiritual Distress, God's Past Works, Divine Power, Redemptive Memory
 
-**Tags:** #chief-Musician-Jeduthun-Psalm-Asaph-cried-GOD-voice-GOD-voice-gave-ear-day-trouble-sought-LORD-sore-ran-night-ceased-soul-refused-comforted-remembered-GOD-troubled-complained-spirit-overwhelmed-Selah-holdest-eyes-waking-troubled-speak-considered-days-old-years-ancient-times-call-remembrance-song-night-commune-heart-spirit-diligent-search-LORD-cast-favour-mercy-clean-gone-fail-promise-fail-GOD-forgotten-gracious-anger-shut-tender-mercies-Selah-infirmity-remember-years-right-hand-High-remember-works-LORD-remember-wonders-meditate-work-talk-doings-way-GOD-sanctuary-great-GOD-wonders-declared-strength-people-arm-redeemed-people-sons-Jacob-Joseph-Selah-waters-saw-GOD-waters-saw-afraid-depths-troubled-clouds-poured-water-skies-sound-arrows-went-abroad-voice-thunder-heaven-lightnings-lightened-world-earth-trembled-shook-way-sea-path-great-waters-footsteps-known-led-people-flock-hand-Moses-Aaron
+**Tags:** #spiritual-distress #god #divine-power #redemptive-memory
 
 ---
 

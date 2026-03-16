@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Redemption, Unfaithful Israel, Divine Mercy, Covenant Restoration
 
-**Tags:** #word-LORD-Hosea-son-Beeri-days-Uzziah-Jotham-Ahaz-Hezekiah-kings-Judah-days-Jeroboam-son-Joash-king-Israel-beginning-word-LORD-Hosea-LORD-Hosea-wife-whoredoms-children-whoredoms-land-committed-whoredom-departing-LORD-went-took-Gomer-daughter-Diblaim-conceived-bare-son-LORD-Call-name-Jezreel-avenge-blood-Jezreel-house-Jehu-cause-cease-kingdom-house-Israel-day-break-bow-Israel-valley-Jezreel-conceived-bare-daughter-God-Call-name-Lo-ruhamah-mercy-house-Israel-utterly-mercy-house-Judah-save-LORD-God-save-bow-sword-battle-horses-horsemen-weaned-Lo-ruhamah-conceived-bare-son-God-Call-name-Lo-ammi-people-God-number-children-Israel-sand-sea-measured-numbered-place-said-people-said-sons-living-God-children-Judah-children-Israel-gathered-appoint-head-come-land-great-day-Jezreel
+**Tags:** #christ #unfaithful-israel #divine-mercy #covenant-restoration
 
 ---
 

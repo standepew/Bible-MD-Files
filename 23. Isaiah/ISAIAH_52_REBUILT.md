@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Redemption, Divine Glory, Spiritual Freedom, Christ's Suffering
 
-**Tags:** #Awake-awake-strength-Zion-beautiful-garments-Jerusalem-holy-city-henceforth-uncircumcised-unclean-Shake-dust-arise-sit-Jerusalem-loose-bands-neck-captive-daughter-Zion-LORD-sold-yourselves-nought-redeemed-without-money-Lord-GOD-people-aforetime-Egypt-sojourn-Assyrian-oppressed-cause-LORD-people-away-nought-rule-make-howl-LORD-name-continually-day-blasphemed-people-know-name-know-day-speak-behold-beautiful-mountains-feet-bringeth-good-tidings-publish-peace-bringeth-good-tidings-good-publish-salvation-Zion-God-reigneth-watchmen-lift-voice-voice-together-sing-eye-eye-LORD-bring-Zion-Break-joy-sing-waste-places-Jerusalem-LORD-comforted-people-redeemed-Jerusalem-LORD-bare-holy-arm-eyes-nations-ends-earth-salvation-God-Depart-depart-thence-touch-unclean-go-midst-clean-bear-vessels-LORD-haste-flight-LORD-before-God-Israel-rereward-behold-servant-deal-prudently-exalted-extolled-high-astonied-visage-marred-man-form-sons-men-sprinkle-nations-kings-shut-mouths-told-see-heard-consider
+**Tags:** #christ #divine-glory #spiritual-freedom
 
 ---
 

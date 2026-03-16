@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Feeding the Five Thousand, Walking on Water, Bread of Life Discourse, Many Disciples Depart
 
-**Tags:** #Jesus-sea-Galilee-sea-Tiberias-great-multitude-followed-miracles-diseased-Jesus-mountain-disciples-passover-feast-Jews-nigh-Jesus-lifted-eyes-great-company-Philip-bread-eat-prove-knew-Philip-answered-pennyworth-bread-sufficient-little-Andrew-Simon-brother-lad-five-barley-loaves-small-fishes-Jesus-men-grass-place-sat-five-thousand-Jesus-loaves-given-thanks-distributed-disciples-set-fishes-filled-disciples-fragments-remain-lost-gathered-fragments-twelve-baskets-five-barley-loaves-remained-eaten-men-miracle-Jesus-prophet-come-world-Jesus-perceived-force-king-departed-mountain-even-disciples-sea-ship-sea-Capernaum-dark-Jesus-sea-wind-blew-rowed-five-twenty-thirty-furlongs-Jesus-walking-sea-drawing-ship-afraid-afraid-received-ship-immediately-ship-land-people-side-sea-boat-disciples-boat-Jesus-disciples-boat-disciples-alone-boats-Tiberias-place-eat-bread-Lord-given-thanks-people-Jesus-disciples-shipping-Capernaum-seeking-Jesus-found-side-sea-Rabbi-camest-hither-Jesus-answered-seek-miracles-loaves-filled-Labour-meat-perisheth-meat-endureth-everlasting-life-Son-man-give-God-Father-sealed-works-God-believe-sent-Jesus-answered-work-God-believe-sent-sign-shewest-believe-work-fathers-manna-desert-written-bread-heaven-eat-Jesus-answered-Moses-bread-heaven-Father-bread-heaven-bread-God-cometh-heaven-life-world-Lord-bread-Jesus-bread-life-cometh-hunger-believeth-thirst-seen-believe-Father-giveth-cometh-cast-came-heaven-own-will-sent-Father-will-sent-lose-raise-last-day-will-sent-seeth-Son-believeth-everlasting-life-raise-last-day-Jews-murmured-bread-heaven-Joseph-father-mother-know-came-heaven-Jesus-answered-murmur-Father-sent-draw-raise-last-day-written-prophets-taught-God-heard-learned-Father-cometh-seen-Father-God-seen-Father-believeth-everlasting-life-bread-life-fathers-manna-wilderness-dead-bread-heaven-man-eat-die-living-bread-heaven-eat-bread-live-bread-flesh-life-world-Jews-strove-flesh-eat-Jesus-answered-flesh-Son-man-blood-life-flesh-blood-eternal-life-raise-last-day-flesh-meat-blood-drink-dwelleth-living-Father-sent-live-Father-eat-live-bread-heaven-fathers-manna-dead-bread-live-forever-synagogue-taught-Capernaum-disciples-heard-hard-saying-hear-Jesus-knew-disciples-murmured-offend-Son-man-ascend-spirit-quickeneth-flesh-profiteth-nothing-words-spirit-life-believe-Jesus-knew-beginning-believe-betray-Father-given-disciples-back-twelve-Jesus-twelve-go-away-Simon-Peter-Lord-words-eternal-life-believe-Christ-Son-living-God-Jesus-answered-chosen-twelve-devil-Judas-Iscariot-Simon-betray-twelve
+**Tags:** #feeding-the-five-thousand #walking-on-water #bread-of-life-discourse #many-disciples-depart
 
 ---
 
@@ -369,7 +369,7 @@ Jesus, sea, Galilee, sea, Tiberias, great, multitude, followed, miracles, diseas
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Feeding the Five Thousand as Type of Christ's Provision
 - **Physical feeding:** Five thousand (John 6:10)

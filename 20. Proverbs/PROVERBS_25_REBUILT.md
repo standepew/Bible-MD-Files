@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Divine Glory and Royal Honor, Wisdom and Speech, Self-Control and Relationships, Justice and Mercy
 
-**Tags:** #proverbs-Solomon-men-Hezekiah-king-Judah-copied-glory-God-conceal-thing-honour-kings-search-matter-heaven-height-earth-depth-heart-kings-unsearchable-dross-silver-vessel-finer-wicked-king-throne-established-righteousness-forth-presence-king-stand-place-great-men-better-said-Come-hither-put-lower-presence-prince-eyes-seen-forth-hastily-strive-know-end-neighbour-put-shame-Debate-cause-neighbour-discover-secret-another-heareth-put-shame-infamy-turn-word-fitly-spoken-apples-gold-pictures-silver-earring-gold-ornament-fine-gold-wise-reprover-obedient-ear-cold-snow-time-harvest-faithful-messenger-send-refresheth-soul-masters-boasteth-false-gift-clouds-wind-without-rain-long-forbearing-prince-persuaded-soft-tongue-break-bone-found-honey-eat-sufficient-filled-vomit-Withdraw-foot-neighbour-house-weary-hate-beareth-false-witness-neighbour-maul-sword-sharp-arrow-Confidence-unfaithful-man-time-trouble-broken-tooth-foot-joint-taketh-garment-cold-weather-vinegar-nitre-singeth-songs-heavy-heart-enemy-hungry-give-bread-thirsty-give-water-drink-shalt-heap-coals-fire-head-LORD-reward-thee-north-wind-driveth-rain-angry-countenance-backbiting-tongue-dwell-corner-housetop-brawling-woman-wide-house-cold-waters-thirsty-soul-good-news-far-country-righteous-man-falling-wicked-troubled-fountain-corrupt-spring-eat-much-honey-men-search-glory-not-glory-rule-spirit-city-broken-walls
+**Tags:** #divine-glory-and-royal-honor #wisdom-and-speech #selfcontrol-and-relationships #justice-and-mercy
 
 ---
 

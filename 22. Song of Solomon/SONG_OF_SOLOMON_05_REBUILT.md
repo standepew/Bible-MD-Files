@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Spiritual Intimacy, Christ's Absence, Bride's Longing, Christ's Glory
 
-**Tags:** #come-garden-sister-spouse-gathered-myrrh-spice-eaten-honeycomb-honey-drunk-wine-milk-eat-friends-drink-abundantly-beloved-sleep-heart-waketh-voice-beloved-knocketh-Open-sister-love-dove-undefiled-head-filled-dew-locks-drops-night-put-coat-put-washed-feet-defile-beloved-hand-hole-door-bowels-moved-rose-open-beloved-beloved-withdrawn-gone-soul-failed-spake-sought-find-called-answer-watchmen-city-found-smote-wounded-keepers-walls-took-veil-charge-daughters-Jerusalem-find-beloved-tell-sick-love-beloved-another-beloved-fairest-women-beloved-another-beloved-charge-beloved-white-ruddy-chiefest-ten-thousand-head-fine-gold-locks-bushy-black-raven-eyes-doves-rivers-waters-washed-milk-fitly-set-cheeks-bed-spices-sweet-flowers-lips-dropping-sweet-smelling-myrrh-hands-gold-rings-set-beryl-belly-bright-ivory-overlaid-sapphires-legs-pillars-marble-set-sockets-fine-gold-countenance-Lebanon-excellent-cedars-mouth-sweet-altogether-lovely-beloved-friend-daughters-Jerusalem
+**Tags:** #spiritual-intimacy #christ #bride
 
 ---
 

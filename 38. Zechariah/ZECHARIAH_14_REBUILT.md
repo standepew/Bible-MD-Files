@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Final Victory, Day of the LORD, Mount of Olives, Universal Worship
 
-**Tags:** #Behold-day-LORD-cometh-spoil-divided-midst-gather-nations-Jerusalem-battle-city-taken-houses-rifled-women-ravished-half-city-captivity-residue-people-cut-city-LORD-go-forth-fight-nations-day-battle-feet-stand-day-mount-Olives-Jerusalem-east-mount-Olives-cleave-midst-east-west-great-valley-half-mountain-remove-north-half-south-flee-valley-mountains-valley-mountains-reach-Azal-flee-earthquake-days-Uzziah-king-Judah-LORD-God-come-saints-day-light-clear-dark-day-known-LORD-day-night-evening-time-light-day-living-waters-Jerusalem-half-former-sea-half-hinder-sea-summer-winter-LORD-king-earth-day-one-LORD-name-one-land-turned-plain-Geba-Rimmon-south-Jerusalem-lifted-inhabited-place-Benjamin-gate-first-gate-corner-gate-tower-Hananeel-king-winepresses-men-dwell-utter-destruction-Jerusalem-safely-inhabited-plague-LORD-smite-people-fought-Jerusalem-flesh-consume-stand-feet-eyes-consume-holes-tongue-consume-mouth-day-great-tumult-LORD-lay-hand-neighbour-hand-rise-neighbour-Judah-fight-Jerusalem-wealth-heathen-gathered-gold-silver-apparel-great-abundance-plague-horse-mule-camel-ass-beasts-tents-plague-left-nations-Jerusalem-year-year-worship-King-LORD-hosts-keep-feast-tabernacles-whoso-families-earth-Jerusalem-worship-King-LORD-hosts-rain-family-Egypt-no-rain-plague-LORD-smite-heathen-feast-tabernacles-punishment-Egypt-punishment-nations-feast-tabernacles-day-bells-horses-HOLINESS-LORD-pots-LORD-house-bowls-altar-pot-Jerusalem-Judah-holiness-LORD-hosts-sacrifice-take-seethe-day-Canaanite-house-LORD-hosts
+**Tags:** #christ #day-of-the-lord #mount-of-olives #universal-worship
 
 ---
 

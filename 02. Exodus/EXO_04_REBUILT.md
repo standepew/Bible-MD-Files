@@ -187,6 +187,42 @@ Moses raises three objections to his commissioning: the people won't believe, he
 
 ---
 
+## COMMONLY MISQUOTED PASSAGES
+
+### Exodus 4:11 — "God Made the Dumb and the Blind" Used to Claim God Authors All Disability
+
+**Verse 11** — "And the LORD said unto him, Who hath made man's mouth? or who maketh the dumb, or deaf, or the seeing, or the blind? have not I the LORD?"
+
+**How it is misused:** This verse is sometimes extracted to argue that God directly and specifically designs each individual disability for that individual's life, or conversely that to seek medical healing is to resist what God has "made." It is also flattened to suggest God is the direct efficient cause of all suffering.
+
+**What the text actually says:** The verse is God's answer to Moses' claim that he cannot speak well — the context is specifically about divine sovereignty over human capacity and commissioning, not a general theology of suffering:
+- **Verse 10** — "And Moses said unto the LORD, O my Lord, I am not eloquent, neither heretofore, nor since thou hast spoken unto thy servant: but I am slow of speech, and of a slow tongue" — Moses is making an excuse for why he cannot fulfill a divine commission
+- **Verse 12** — "Now therefore go, and I will be with thy mouth, and teach thee what thou shalt say" — the application of verse 11 is not "your disability is God's design for your suffering" but "the God who made your mouth will be with it; your limitation is not an obstacle to my commission"
+- **Psalm 94:9** — "He that planted the ear, shall he not hear? he that formed the eye, shall he not see?" — the same rhetorical form; the point is God's sovereignty and competence, not a doctrine of individual disability causation
+
+*Correction:* Exodus 4:11 is God's assertion of His sovereignty over all human faculties as the answer to an excuse for disobedience. The verse does not teach a systematic doctrine of divine causation of every disability. Its context is missional: the God who created the mouth can work through any mouth He chooses, including an imperfect one. Moses' limitation becomes irrelevant once God declares He will be with the mouth.
+
+---
+
+### Exodus 4:21 — "God Hardened Pharaoh's Heart — Therefore Pharaoh Had No Choice" (The Fatalism Misread)
+
+**Verse 21** — "And the LORD said unto Moses, When thou goest to return into Egypt, see that thou do all those wonders before Pharaoh, which I have put in thine hand: but I will harden his heart, that he shall not let the people go."
+
+**How it is misused:** This verse is used to argue that Pharaoh was a puppet with no genuine choice, that his damnation was predetermined without any moral agency on his part, and therefore that the entire plague narrative is a demonstration of arbitrary divine sovereignty rather than responsive divine justice.
+
+**What the text actually says:** The full plague narrative shows Pharaoh repeatedly hardening his own heart before God hardens it — the sequence is deliberate:
+- **Exodus 8:15** — "But when Pharaoh saw that there was respite, he hardened his heart, and hearkened not unto them; as the LORD had said" — Pharaoh's own act; no divine intervention described
+- **Exodus 8:32** — "And Pharaoh hardened his heart at this time also, neither would he let the people go" — again, Pharaoh's own act
+- **Exodus 9:34-35** — "He sinned yet more, and hardened his heart, he and his servants" — his choice, his servants' choice
+- **Exodus 9:12** — Only at plague 6 (boils) does God harden Pharaoh's heart — after Pharaoh had already hardened his own heart repeatedly
+- **Romans 9:17-18** — "For this same purpose have I raised thee up, that I might shew my power in thee" — Paul uses this as an example of divine sovereignty working through established human choices, not creating them from nothing
+
+*Correction:* God's hardening of Pharaoh is judicial confirmation of a direction Pharaoh had already and repeatedly chosen. The sequence in Exodus 7-14 is: Pharaoh hardens himself (chapters 7-9), then God hardens him (chapters 9-14). Romans 1:24-28 follows the same pattern: "God gave them up" — divine judicial confirmation of what the people had already chosen. Pharaoh is not a marionette; he is a man whose persistent choices are confirmed and used by God to fulfill His declared purpose.
+
+---
+
+---
+
 ## SYMBOLIC THREADS
 
 ### The Serpent — Defeated Enemy Under the Deliverer's Authority

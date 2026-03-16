@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Restoration, Wilderness Experience, Covenant Betrothal, Divine Healing
 
-**Tags:** #brethren-Ammi-sisters-Ru-hamah-Plead-mother-plead-wife-husband-whoredoms-sight-adulteries-breasts-strip-naked-day-born-wilderness-dry-land-slay-thirst-mercy-children-whoredoms-mother-played-harlot-conceived-shamefully-lovers-bread-water-wool-flax-oil-drink-hedge-way-thorns-wall-find-paths-follow-lovers-overtake-seek-find-return-first-husband-better-gave-corn-wine-oil-multiplied-silver-gold-prepared-Baal-return-corn-time-wine-season-recover-wool-flax-cover-nakedness-discover-lewdness-sight-lovers-deliver-hand-cease-mirth-feast-days-new-moons-sabbaths-solemn-feasts-destroy-vines-fig-trees-rewards-lovers-forest-beasts-field-eat-visit-days-Baalim-burned-incense-decorated-earrings-jewels-lovers-forgat-LORD-allure-wilderness-speak-comfortably-vineyards-valley-Achor-door-hope-sing-days-youth-day-land-Egypt-call-Ishi-Baali-names-Baalim-mouth-remembered-covenant-beasts-field-fowls-heaven-creeping-ground-break-bow-sword-battle-earth-lie-safely-betroth-righteousness-judgment-lovingkindness-mercies-faithfulness-know-LORD-hear-heavens-hearth-earth-corn-wine-oil-hear-Jezreel-sow-earth-mercy-obtained-mercy-people-Thou-people-God
+**Tags:** #christ #wilderness-experience #covenant-betrothal #divine-healing
 
 ---
 

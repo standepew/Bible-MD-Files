@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Prophecy and Tongues, Order in Worship, Women in the Church, Church Order
 
-**Tags:** #follow-charity-desire-spiritual-gifts-prophesy-speak-unknown-tongue-speak-men-God-understandeth-spirit-speak-mysteries-prophesieth-speak-men-edification-exhortation-comfort-speak-unknown-tongue-edifieth-prophesieth-edifieth-church-spake-tongues-prophesied-greater-prophesieth-speak-tongues-interpret-church-edifying-brethren-speak-tongues-profit-revelation-knowledge-prophesying-doctrine-life-giving-sound-pipe-harp-distinction-sounds-known-piped-harped-trumpet-uncertain-sound-prepare-battle-utter-tongue-words-understood-known-spoken-air-kinds-voices-world-signification-meaning-voice-barbarian-barbarian-zealous-spiritual-gifts-excel-edifying-church-speak-unknown-tongue-pray-interpret-pray-unknown-tongue-spirit-pray-understanding-unfruitful-pray-spirit-pray-understanding-sing-spirit-sing-understanding-bless-spirit-occupieth-room-unlearned-Amen-giving-thanks-understand-sayest-givest-thanks-edified-thank-God-speak-tongues-church-speak-words-understanding-voice-teach-unknown-tongue-children-understanding-malice-children-understanding-men-law-written-men-tongues-lips-speak-people-believe-Lord-tongues-sign-believe-believe-prophesying-believe-believe-church-place-speak-tongues-unlearned-unbelievers-mad-prophesy-believeth-unlearned-convinced-judged-secrets-heart-manifest-falling-face-worship-God-report-God-brethren-come-psalm-doctrine-tongue-revelation-interpretation-edifying-speak-unknown-tongue-three-course-interpret-keep-silence-church-speak-God-prophets-three-judge-thing-revealed-sitteth-hold-peace-prophesy-learn-comforted-spirits-prophets-subject-prophets-God-author-confusion-peace-churches-saints-women-silence-churches-permitted-speak-commanded-obedience-law-learn-thing-husbands-home-shame-women-speak-church-word-God-acknowledge-commandments-Lord-ignorant-brethren-covet-prophesy-forbid-speak-tongues-decently-order
+**Tags:** #prophecy-and-tongues #order-in-worship #women-in-the-church #church-order
 
 ---
 
@@ -295,7 +295,7 @@ Follow, charity, desire, spiritual, gifts, prophesy, speak, unknown, tongue, spe
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Prophecy and Tongues as Type of Christ's Revelation
 - **Physical revelation:** Edification exhortation (1 Corinthians 14:4)

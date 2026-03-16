@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Divine Rebuke, Judicial Reform, Spiritual Renewal, Legal System
 
-**Tags:** #Jehoshaphat-king-Judah-returned-house-peace-Jerusalem #Jehu-son-Hanani-seer-king-Jehoshaphat-help-ungodly-love-hate-LORD-wrath-LORD #good-things-groves-land-prepared-heart-seek-God #Jehoshaphat-dwelt-Jerusalem-people-Beer-sheba-mount-Ephraim-brought-LORD-God-fathers #judges-land-fenced-cities-Judah-city-city #judges-Take heed-judge-man-LORD-judgment #fear-LORD-iniquity-LORD-God-respect-persons-gifts #Jerusalem-Jehoshaphat-Levites-priests-chief-fathers-Israel-judgment-LORD-controversies-Jerusalem #charged-fear-LORD-faithfully-perfect-heart #cause-brethren-cities-blood-blood-law-commandment-statutes-judgments-warn-trespass-LORD-wrath-trespass #Amariah-chief-priest-matters-LORD-Zebadiah-son-Ishmael-ruler-house-Judah-king-matters-Levites-officers-courageously-LORD-good
+**Tags:** #judges-Take #divine-rebuke #judicial-reform #spiritual-renewal #legal-system
 
 ---
 

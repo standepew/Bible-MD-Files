@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Royal Integrity, Personal Holiness, Righteous Leadership, Moral Purity
 
-**Tags:** #Psalm-David-sing-mercy-judgment-LORD-sing-behave-wisely-perfect-way-come-walk-house-perfect-heart-set-wicked-thing-eyes-hate-work-turn-aside-cleave-froward-heart-depart-know-wicked-person-privily-slander-neighbour-cut-high-look-proud-heart-suffer-eyes-faithful-land-dwell-perfect-way-serve-worketh-deceit-dwell-house-telleth-lies-tarry-sight-early-destroy-wicked-land-cut-wicked-doers-city-LORD
+**Tags:** #royal-integrity #personal-holiness #righteous-leadership #moral-purity
 
 ---
 

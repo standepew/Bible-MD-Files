@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** The Hallelujah Chorus, The Marriage Supper of the Lamb, The Rider on the White Horse, The Supper of the Great God, The Beast and False Prophet Destroyed
 
-**Tags:** #great-voice-people-heaven-Alleluia-Salvation-glory-honour-power-Lord-God-true-righteous-judgments-judged-great-whore-corrupt-earth-fornication-avenged-blood-servants-again-Alleluia-smoke-forever-four-twenty-elders-four-beasts-fell-worshipped-God-throne-Amen-Alleluia-voice-throne-Praise-God-servants-fear-small-great-voice-multitude-voice-waters-voice-thunderings-Alleluia-Lord-God-omnipotent-reigneth-glad-rejoice-honour-marriage-Lamb-wife-ready-arrayed-fine-linen-clean-white-fine-linen-righteousness-saints-Write-Blessed-called-marriage-supper-Lamb-true-sayings-God-fell-feet-worship-fellowservant-brethren-testimony-Jesus-worship-God-testimony-Jesus-spirit-prophecy-heaven-opened-white-horse-sat-Faithful-True-righteousness-judge-war-eyes-flame-fire-head-crowns-name-written-knew-clothed-vesture-dipped-blood-Word-God-armies-heaven-followed-white-horses-fine-linen-white-clean-mouth-sharp-sword-smite-nations-rule-rod-iron-tread-winepress-fierceness-wrath-Almighty-God-vesture-thigh-name-written-KING-KINGS-LORD-LORDS-angel-sun-cry-loud-voice-fowls-fly-midst-heaven-gather-supper-great-God-eat-flesh-kings-flesh-captains-flesh-mighty-flesh-horses-sit-flesh-men-free-bond-small-great-beast-kings-earth-armies-gathered-war-horse-army-beast-false-prophet-wrought-miracles-deceived-mark-beast-worshipped-image-cast-alive-lake-fire-brimstone-remnant-slain-sword-horse-sword-mouth-fowls-filled-flesh
+**Tags:** #the-hallelujah-chorus #the-marriage-supper-of-the-lamb #the-rider-on-the-white-horse #the-supper-of-the-great-god #the-beast-and-false-prophet-destroyed
 
 ---
 
@@ -199,7 +199,7 @@ Great, voice, people, heaven, Alleluia, Salvation, glory, honour, power, Lord, G
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Hallelujah Chorus as Type of Christ's Final Worship
 - **Physical final worship:** Alleluia salvation (Revelation 19:2)

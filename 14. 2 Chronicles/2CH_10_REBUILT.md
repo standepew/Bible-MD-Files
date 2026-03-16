@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Kingdom Division, Rehoboam's Folly, Divine Judgment, Israel's Rebellion
 
-**Tags:** #Rehoboam-Shechem-Israel-make-king #Jeroboam-son-Nebat-Egypt-fled-presence-Solomon-king-heard-Jeroboam-returned-Egypt #sent-called-Jeroboam-Israel-came-spake-Rehoboam-father-yoke-grievous-ease-grievous-servitude-father-heavy-yoke-put-serve #Come-three-days-people-departed #king-Rehoboam-counsel-old-men-stood-Solomon-father-lived-counsel-return-answer-people #old-men-kind-people-please-good-words-servants-forever #forsook-counsel-old-men-counsel-young-men-brought-up-stood #advice-return-answer-people-spake-Ease-somewhat-yoke-father-put #young-men-brought-answer-people-saying-father-yoke-heavy-make-lighter-little-finger-thicker-father-loins #father-heavy-yoke-add-yoke-father-chastised-whips-chastise-scorpions #Jeroboam-people-Rehoboam-third-day-king-bade-Come-third-day #king-answered-roughly-king-Rehoboam-forsake-counsel-old-men #answered-advice-young-men-father-yoke-heavy-add-father-chastised-whips-chastise-scorpions #king-hearkened-people-cause-God-LORD-perform-word-spoke-hand-Ahijah-Shilonite-Jeroboam-son-Nebat #Israel-king-hearken-people-answered-king-portion-David-inheritance-son-Jesse-tents-Israel-David-house #children-Israel-dwelt-cities-Judah-Rehoboam-reigned #king-Rehoboam-sent-Hadoram-tribute-children-Israel-stoned-died-king-Rehoboam-speed-chariot-flee-Jerusalem #Israel-rebelled-house-David-day
+**Tags:** #Rehoboam-Shechem-Israel-make-king #Come-three-days-people-departed #Israel-rebelled-house-David-day #kingdom-division #rehoboam #divine-judgment #israel
 
 ---
 

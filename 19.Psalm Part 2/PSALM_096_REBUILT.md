@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** New Song Worship, Divine Glory, Universal Praise, Righteous Judgment
 
-**Tags:** #sing-LORD-new-song-sing-LORD-earth-bless-name-shew-salvation-day-declare-glory-heathen-wonders-people-LORD-great-greatly-praised-feared-gods-gods-nations-idols-LORD-heavens-Honour-majesty-strength-beauty-sanctuary-ye-kindreds-people-ye-LORD-glory-strength-ye-LORD-glory-due-name-offering-come-courts-worship-LORD-beauty-holiness-fear-earth-heathen-LORD-reigneth-world-established-moved-judge-people-righteously-heavens-rejoice-earth-glad-sea-roar-fulness-field-joyful-trees-wood-rejoice-LORD-cometh-judge-earth-judge-world-righteousness-people-truth
+**Tags:** #new-song-worship #divine-glory #universal-praise #righteous-judgment
 
 ---
 

@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Resurrection, Everlasting Life, Time of Trouble, Book of Life
 
-**Tags:** #time-Michael-stand-great-prince-standeth-children-people-time-trouble-nation-people-delivered-found-written-book-sleep-dust-earth-awake-everlasting-life-shame-everlasting-contempt-wise-shine-brightness-firmament-turn-righteousness-stars-forever-Daniel-shut-words-seal-book-time-end-run-fro-knowledge-increased-Daniel-looked-two-side-bank-river-side-bank-river-said-man-clothed-linen-waters-river-long-end-wonders-heard-man-clothed-linen-waters-river-held-right-hand-left-hand-heaven-sware-liveth-time-times-half-accomplished-scatter-power-holy-people-finished-heard-understood-Lord-end-things-Go-way-Daniel-words-closed-sealed-time-end-purified-white-tried-wicked-wickedly-wicked-understand-wise-understand-time-daily-sacrifice-taken-abomination-maketh-desolate-thousand-two-hundred-ninety-days-Blessed-waiteth-thousand-three-hundred-five-thirty-days-way-end-rest-stand-lot-end-days
+**Tags:** #christ #everlasting-life #time-of-trouble #book-of-life
 
 ---
 

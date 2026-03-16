@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Truth, False Prophets, Divine Judgment, Christ's Protection
 
-**Tags:** #word-LORD-son-man-prophesy-prophets-Israel-prophesy-hear-word-LORD-Lord-GOD-foolish-prophets-follow-spirit-seen-foxes-deserts-gaps-made-hedge-house-Israel-stand-battle-day-LORD-seen-vanity-lying-divination-LORD-sent-hope-confirm-word-vain-vision-lying-divination-LORD-albeit-spoken-Lord-GOD-spoken-vanity-seen-against-hand-prophets-vanity-divine-lies-assembly-people-writing-house-Israel-enter-land-Israel-Lord-GOD-seduced-people-saying-Peace-peace-built-wall-daubed-untempered-morter-daub-untempered-morter-fall-overflowing-shower-great-hailstones-fall-stormy-wind-wall-fallen-daubing-wherewith-daubed-Lord-GOD-rend-stormy-wind-fury-overflowing-shower-anger-great-hailstones-fury-consume-break-wall-daubed-untempered-morter-bring-ground-foundation-discovered-fall-consumed-midst-accomplish-wrath-wall-daubed-untempered-morter-wall-prophets-Israel-prophesy-Jerusalem-visions-peace-peace-Lord-GOD-son-man-face-daughters-people-prophesy-heart-prophesy-Lord-GOD-women-sew-pillows-armholes-make-kerchiefs-head-stature-hunt-souls-hunt-souls-people-save-souls-alive-come-pollute-people-handfuls-barley-pieces-bread-slay-souls-die-save-souls-alive-live-lying-people-hear-lies-Lord-GOD-pillows-hunt-souls-fly-tear-arms-souls-hunt-fly-kerchiefs-tear-deliver-people-hand-hunted-lies-heart-righteous-sad-strengthened-hands-wicked-return-wicked-way-promising-life-see-vanity-divine-divinations-deliver-people-hand-Lord-GOD
+**Tags:** #christ #false-prophets #divine-judgment
 
 ---
 

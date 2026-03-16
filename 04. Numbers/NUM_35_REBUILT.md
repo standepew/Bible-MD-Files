@@ -2,24 +2,24 @@
 
 ---
 
-## 1. CHAPTER METADATA
+## CHAPTER METADATA
 
 **Book:** Numbers
 **Chapter:** 35
 **Testament:** Old Testament
 **Key Themes:** Forty-eight cities given to the Levites from all the tribes' inheritances — distributed proportionally, Six of the forty-eight are cities of refuge — three on each side of Jordan; available to Israelite, stranger, and sojourner alike, The law distinguishes carefully between murder and manslaughter — premeditation vs. sudden unchanneled anger vs. accident, The manslayer in the city of refuge: safe until the death of the high priest — then free; if he leaves before, the blood avenger may kill him without guilt, No ransom for a murderer's life; no ransom to leave the city of refuge early — blood pollutes the land, and only the blood of the one who shed it can cleanse the land, "I the LORD dwell among the children of Israel" — the land's holiness requires protection from blood-guilt
 
-**Tags:** #Levitical-cities #forty-eight-cities #suburbs-one-thousand-cubits #six-cities-of-refuge #three-on-each-side-of-Jordan #manslayer-may-flee #stand-before-congregation-in-judgment #avenger-of-blood #murder-vs-manslaughter #instrument-of-iron #throwing-stone #hand-weapon #hatred-or-lying-in-wait #murderer-put-to-death #sudden-without-enmity #congregation-judges #city-of-refuge-until-high-priests-death #after-high-priest-dies-manslayer-free #no-satisfaction-for-murderers-life #blood-defiles-the-land #land-cleansed-only-by-blood-of-him-that-shed-it #I-the-LORD-dwell-among-you
+**Tags:** #Levitical-cities #forty-eight-cities #suburbs-one-thousand-cubits #six-cities-of-refuge #manslayer-may-flee #stand-before-congregation-in-judgment #avenger-of-blood #murder-vs-manslaughter #instrument-of-iron #throwing-stone #hand-weapon #hatred-or-lying-in-wait #murderer-put-to-death #sudden-without-enmity #congregation-judges #no-satisfaction-for-murderers-life #blood-defiles-the-land #fortyeight-cities-given-to-the-levites #six-of-the-fortyeight-are-cities #available-to-israelite-stranger-and-sojourner #the-law-distinguishes-carefully-between-murder #the-manslayer-in-the-city-of #if-he-leaves-before-the-blood #no-ransom-for-a-murderer #no-ransom-to-leave-the-city #i-the-lord-dwell-among-the
 
 ---
 
-## 2. CHAPTER SUMMARY
+## CHAPTER SUMMARY
 
 God commands: the Levites shall receive forty-eight cities from the tribes' inheritances — proportional to each tribe's size. Every city will have a suburb of one thousand cubits in all directions plus two thousand cubits measured outward. Six of the forty-eight will be cities of refuge — three in Canaan, three in the Transjordan. Any person who kills someone unintentionally may flee there and be protected from the blood avenger until standing before the congregation for judgment. The law defines murder: using an instrument of iron, a thrown stone, a hand weapon — the murderer shall be put to death. If with hatred or lying in wait: murderer; blood avenger kills him. The blood avenger acts justly in executing the murderer. Manslaughter: a sudden thrust without enmity, or casting something without seeing the victim, or a stone that may cause death but was not thrown at the person in hatred — the congregation shall judge. If manslaughter, the congregation restores the person to the city of refuge until the high priest's death. If the manslayer leaves the city boundary, the blood avenger may kill him without guilt — because he should have remained until the high priest died. After the high priest's death, the manslayer returns freely to his inheritance. This is a statute for all generations. The rule of evidence: no one is put to death on one witness. No ransom may substitute for a murderer's life — he must die. No ransom may substitute for the manslayer leaving the city of refuge early — he must wait for the high priest's death. Blood defiles the land; the land cannot be cleansed of spilt blood except by the blood of the one who shed it. Defile not the land wherein I dwell — for I the LORD dwell among the children of Israel.
 
 ---
 
-## 3. CROSS-REFERENCES (Scripture Interpreting Scripture)
+## CROSS-REFERENCES (Scripture Interpreting Scripture) (Scripture Interpreting Scripture)
 
 ### Cities of Refuge — The Type of Christ as Refuge
 
@@ -53,7 +53,7 @@ God commands: the Levites shall receive forty-eight cities from the tribes' inhe
 
 ---
 
-## 4. KEYWORD INDEX
+## KEYWORD INDEX
 
 **For Current Events Matching:**
 - **Refuge for the innocent / protection from unjust vengeance** → Numbers 35:11-15 — Hebrews 6:18; Psalm 46:1
@@ -64,7 +64,7 @@ God commands: the Levites shall receive forty-eight cities from the tribes' inhe
 
 ---
 
-## 5. KEY TERMS WITH CONTEXTUAL DEFINITIONS
+## KEY TERMS WITH CONTEXTUAL DEFINITIONS WITH CONTEXTUAL DEFINITIONS
 
 ### AVENGER OF BLOOD (Hebrew: go'el ha-dam — redeemer of the blood)
 - **Numbers 35:12, 19, 21, 24, 25, 27** — the one who pursues the manslayer/murderer
@@ -76,7 +76,7 @@ God commands: the Levites shall receive forty-eight cities from the tribes' inhe
 
 ---
 
-## 6. THE ACTUAL VERSES — NUMBERS 35 (KJV)
+## THE ACTUAL VERSES (KJV) — NUMBERS 35 (KJV)
 
 **1** And the LORD spake unto Moses in the plains of Moab by Jordan near Jericho, saying,
 **2** Command the children of Israel, that they give unto the Levites of the inheritance of their possession cities to dwell in; and ye shall give also unto the Levites suburbs for the cities round about them.
@@ -115,7 +115,7 @@ God commands: the Levites shall receive forty-eight cities from the tribes' inhe
 
 ---
 
-## 7. PROPHETIC/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS/TYPOLOGICAL CONNECTIONS
 
 ### The City of Refuge — The Complete Type
 
@@ -134,7 +134,7 @@ The city of refuge contains the most developed and explicit type in the Torah fo
 
 ---
 
-## 8. COMMONLY MISQUOTED PASSAGES
+## COMMONLY MISQUOTED PASSAGES PASSAGES
 
 ### Numbers 35:30 — "By the Mouth of Witnesses" Applied Without Its Context
 
@@ -144,7 +144,7 @@ The city of refuge contains the most developed and explicit type in the Torah fo
 
 ---
 
-## 9. SYMBOLIC THREADS
+## SYMBOLIC THREADS
 
 ### The Levites Distributed Throughout — The Priestly People Among the People
 

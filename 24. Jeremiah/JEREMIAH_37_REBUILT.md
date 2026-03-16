@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Imprisonment, False Hope, Divine Warning, Christ's Suffering
 
-**Tags:** #king-Zedekiah-son-Josiah-reigned-Coniah-son-Jehoiakim-Nebuchadrezzar-king-Babylon-king-land-Judah-servants-people-land-hearken-words-LORD-spoke-prophet-Jeremiah-Zedekiah-king-sent-Jehucal-son-Shelemiah-Zephaniah-son-Maaseiah-priest-prophet-Jeremiah-Pray-LORD-God-Jeremiah-came-went-people-prison-Pharaoh-army-Egypt-Chaldeans-besieged-Jerusalem-heard-tidings-departed-Jerusalem-word-LORD-prophet-Jeremiah-LORD-God-Israel-king-Judah-sent-enquire-LORD-Pharaoh-army-help-return-Egypt-land-Chaldeans-come-fight-city-burn-fire-LORD-deceive-saying-Chaldeans-depart-Chaldeans-depart-smitten-army-Chaldeans-fight-remained-wounded-men-rise-tent-burn-city-fire-army-Chaldeans-broken-Jerusalem-fear-Pharaoh-army-Jeremiah-went-Jerusalem-land-Benjamin-separate-midst-people-gate-Benjamin-captain-ward-Irijah-son-Shelemiah-son-Hananiah-Jeremiah-prophet-fallest-Chaldeans-Jeremiah-false-fall-Chaldeans-hearkened-Irijah-Jeremiah-princes-princes-wroth-Jeremiah-smote-prison-house-Jonathan-scribe-prison-Jeremiah-entered-dungeon-cabins-Jeremiah-remained-days-Zedekiah-king-took-king-asked-secretly-house-word-LORD-Jeremiah-delivered-hand-king-Babylon-Jeremiah-king-Zedekiah-offended-servants-people-prison-prophets-prophesied-king-Babylon-come-land-hear-lord-king-supplication-accepted-return-house-Jonathan-scribe-die-Zedekiah-king-commanded-commit-Jeremiah-court-prison-daily-bread-bakers-street-bread-city-spent-Jeremiah-remained-court-prison
+**Tags:** #christ #false-hope #divine-warning
 
 ---
 

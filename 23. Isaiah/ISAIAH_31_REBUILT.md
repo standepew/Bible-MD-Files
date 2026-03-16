@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Protection, Divine Defense, Spiritual Trust, Christ's Victory
 
-**Tags:** #Woe-Egypt-help-stay-horses-trust-chariots-many-horsemen-strong-LORD-Holy-One-Israel-seek-LORD-wise-bring-evil-call-back-words-arise-house-evildoers-help-work-iniquity-Egyptians-men-God-horses-flesh-spirit-LORD-stretch-hand-helpeth-fall-holpen-fall-fail-LORD-spoken-like-lion-young-lion-roaring-prey-multitude-shepherds-called-afraid-voice-abase-noise-shepherds-LORD-hosts-fight-mount-Zion-hill-birds-flying-LORD-hosts-defend-Jerusalem-defending-deliver-passing-preserve-Turn-children-Israel-deeply-revolted-day-man-cast-idols-silver-idols-gold-hands-sin-Assyrian-fall-sword-mighty-man-sword-mean-man-devour-flee-sword-young-men-discomfited-pass-strong-hold-fear-ensign-LORD-fire-Zion-furnace-Jerusalem
+**Tags:** #christ #divine-defense #spiritual-trust
 
 ---
 

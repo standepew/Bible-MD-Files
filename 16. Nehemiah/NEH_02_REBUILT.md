@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Royal Audience, Divine Favor, Secret Survey, Opposition Begins
 
-**Tags:** #month-Nisan-twentieth-year-Artaxerxes-king-wine-king-took-wine-gave-king-not-sad-presence #king-countenance-sad-sick-sorrow-heart-afraid #king-live-countenance-sad-city-fathers-sepulchres-waste-gates-consumed-fire #king-request-prayed-GOD-heaven #king-favour-sight-send-Judah-city-fathers-sepulchres-build #queen-sitting-journey-time-return-pleased-king-send-time #letters-governors-beyond-river-convey-Judah-letter-Asaph-keeper-king-forest-timber-beams-gates-palace-house-wall-city-house-enter-king-granted-good-hand-GOD #governors-beyond-river-king-letters-king-sent-captains-army-horsemen #Sanballat-Horonite-Tobiah-servant-Ammonite-heard-grieved-man-welfare-children-Israel #Jerusalem-three-days #arose-night-men-GOD-heart-Jerusalem-beast #night-gate-valley-dragon-well-dung-port-viewed-walls-Jerusalem-broken-gates-consumed-fire #gate-fountain-king-pool-beast-pass #brook-viewed-wall-turned-gate-valley-returned #rulers-knew-Jews-priests-nobles-rulers-work #distress-Jerusalem-waste-gates-burned-fire-build-wall-Jerusalem-reproach #hand-GOD-good-king-words-spoken-rise-build-strengthened-hands-good-work #Sanballat-Horonite-Tobiah-servant-Ammonite-Geshem-Arabian-heard-laughed-scorn-despised-rebel-king #answered-GOD-heaven-prosper-servants-arise-build-portion-right-memorial-Jerusalem
+**Tags:** #king-request-prayed-GOD-heaven #Jerusalem-three-days #royal-audience #divine-favor #secret-survey #opposition-begins
 
 ---
 

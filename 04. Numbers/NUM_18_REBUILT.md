@@ -2,7 +2,7 @@
 
 ---
 
-## 1. CHAPTER METADATA
+## CHAPTER METADATA
 
 **Book:** Numbers
 **Chapter:** 18
@@ -13,13 +13,13 @@
 
 ---
 
-## 2. CHAPTER SUMMARY
+## CHAPTER SUMMARY
 
 After the terror of Numbers 17:12-13 ("we die, we perish"), God answers by clarifying who bears the weight of the sanctuary's holiness: Aaron and his sons bear the iniquity of the sanctuary and the iniquity of the priesthood — the priests absorb the danger on behalf of the people. The Levites are given to Aaron as a gift — and Aaron's family alone may minister before the altar and inside the veil; any stranger who approaches dies. In return: all the holy offerings of the Israelites belong to Aaron and his sons and daughters — every meal, sin, and trespass offering; all wave and heave offerings; the best of the firstfruits of oil, wine, and grain; every devoted thing; all firstborn humans (redeemed at five shekels from one month old); firstborn of clean animals sacrificed with blood on the altar, flesh for Aaron; firstborn of unclean animals redeemed. This entire allotment is a covenant of salt — perpetual, irrevocable. Aaron and the Levites have no land inheritance among Israel. "I am thy part and thine inheritance among the children of Israel." The Levites receive all Israel's tithe as their inheritance for Tabernacle service. They must in turn tithe the tithe — giving the best tenth of what they receive to Aaron.
 
 ---
 
-## 3. CROSS-REFERENCES (Scripture Interpreting Scripture)
+## CROSS-REFERENCES (Scripture Interpreting Scripture) (Scripture Interpreting Scripture)
 
 ### "Thou and Thy Sons with Thee Shall Bear the Iniquity of the Sanctuary"
 
@@ -57,7 +57,7 @@ After the terror of Numbers 17:12-13 ("we die, we perish"), God answers by clari
 
 ---
 
-## 4. KEYWORD INDEX
+## KEYWORD INDEX
 
 **For Current Events Matching:**
 - **Tithe / giving one-tenth / funding ministry** → Numbers 18:21-32 — Israel's tithe to the Levites; Levites' tithe to Aaron; Malachi 3:10; Matthew 23:23
@@ -68,7 +68,7 @@ After the terror of Numbers 17:12-13 ("we die, we perish"), God answers by clari
 
 ---
 
-## 5. KEY TERMS WITH CONTEXTUAL DEFINITIONS
+## KEY TERMS WITH CONTEXTUAL DEFINITIONS WITH CONTEXTUAL DEFINITIONS
 
 ### COVENANT OF SALT (Hebrew: berit melach — a salt covenant)
 - **Numbers 18:19** — the priestly allotment is sealed with a covenant of salt
@@ -80,7 +80,7 @@ After the terror of Numbers 17:12-13 ("we die, we perish"), God answers by clari
 
 ---
 
-## 6. THE ACTUAL VERSES — NUMBERS 18 (KJV)
+## THE ACTUAL VERSES (KJV) — NUMBERS 18 (KJV)
 
 **1** And the LORD said unto Aaron, Thou and thy sons and thy father's house with thee shall bear the iniquity of the sanctuary: and thou and thy sons with thee shall bear the iniquity of your priesthood.
 **2** And thy brethren also of the tribe of Levi, the tribe of thy father, bring thou with thee, that they may be joined unto thee, and minister unto thee: but thou and thy sons with thee shall minister before the tabernacle of witness.
@@ -117,7 +117,7 @@ After the terror of Numbers 17:12-13 ("we die, we perish"), God answers by clari
 
 ---
 
-## 7. PROPHETIC/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS/TYPOLOGICAL CONNECTIONS
 
 ### Hebrews 7 — The Levitical Tithe and the Melchizedek Priesthood
 
@@ -128,7 +128,7 @@ After the terror of Numbers 17:12-13 ("we die, we perish"), God answers by clari
 
 ---
 
-## 8. COMMONLY MISQUOTED PASSAGES
+## COMMONLY MISQUOTED PASSAGES PASSAGES
 
 ### Numbers 18:20 — "I Am Thy Part and Thine Inheritance" — Applied Only to Full-Time Ministers
 
@@ -143,7 +143,7 @@ The Numbers 18:20 principle applies uniquely to Aaron in its original context, b
 
 ---
 
-## 9. SYMBOLIC THREADS
+## SYMBOLIC THREADS
 
 ### No Land Inheritance — The Freedom of Having God as Portion
 

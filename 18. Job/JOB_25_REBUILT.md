@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Bildad's Third Speech, God's Dominion, Human Unworthiness, Divine Majesty
 
-**Tags:** #Bildad-Shuhite-answered-dominion-fear-peace-high-places #armies-number-light-arise #man-justified-GOD-clean-woman #moon-shineth-stars-pure-sight #man-worm-son-man-worm
+**Tags:** #armies-number-light-arise #man-justified-GOD-clean-woman #moon-shineth-stars-pure-sight #man-worm-son-man-worm #bildad #god #human-unworthiness #divine-majesty
 
 ---
 

@@ -172,6 +172,43 @@ The Exodus 19 theophany is the LAW covenant — its unapproachability is the nat
 
 ---
 
+## COMMONLY MISQUOTED PASSAGES
+
+### Exodus 19:5-6 — "A Kingdom of Priests, an Holy Nation" Used to Flatten All Distinctions in God's People
+
+**Verses 5-6** — "Now therefore, if ye will obey my voice indeed, and keep my covenant, then ye shall be a peculiar treasure unto me above all people: for all the earth is mine: And ye shall be unto me a kingdom of priests, and an holy nation."
+
+**How it is misused:** This verse is sometimes used to argue that if all Israel (and by extension all the church) is a kingdom of priests, then all distinctions in function, calling, and office among God's people are abolished — that there is no legitimate authority structure, no distinct calling, and no representative ministry because "we are all priests." The priesthood of all believers is used to reject the existence of any leadership or specific calling within the body.
+
+**What the text actually says:** The calling of Israel as a kingdom of priests did not abolish the need for specific representatives and ordained roles — the same chapter establishes the need for Moses as the sole mediator and the subsequent chapters establish the Levitical priesthood:
+- **Verse 24** — "And the LORD said unto him, Away, get thee down, and thou shalt come up, thou, and Aaron with thee: but let not the priests and the people break through to come up unto the LORD" — even within the "kingdom of priests," Moses and Aaron alone ascend; distinctions in access and function are maintained
+- **Exodus 28:1** — God calls Aaron and his sons to serve as priests — a specific office within the kingdom of priests; the national calling does not replace the specific Levitical calling
+- **Numbers 3:12** — God takes the Levites in place of Israel's firstborn — a specific tribe set apart within the nation of priests for specific service
+- **1 Peter 2:9** — "But ye are a chosen generation, a royal priesthood, an holy nation" — Peter applies Exodus 19:6 to the church; yet the New Testament still contains specific offices (apostles, prophets, evangelists, pastors, teachers — Ephesians 4:11) within the royal priesthood
+- **Hebrews 5:4** — "No man taketh this honour unto himself, but he that is called of God, as was Aaron" — specific priestly office still requires divine calling, not self-appointment
+
+*Correction:* "A kingdom of priests" means the entire nation has direct covenant access to God as a corporate priestly body — mediating God's knowledge to the nations. It does not abolish distinctions in function within the body. The same chapter that declares all Israel a kingdom of priests also grants only Moses and Aaron access to the summit. The New Testament royal priesthood (1 Peter 2:9) is equally consistent with specific gifts, offices, and callings within the body (Ephesians 4:11-12). The priesthood of all believers is about shared access to God, not the elimination of differing functions.
+
+---
+
+### Exodus 19:8 — "All That the LORD Hath Spoken We Will Do" Used to Claim Israel Agreed to Earn Salvation by Law
+
+**Verse 8** — "And all the people answered together, and said, All that the LORD hath spoken we will do. And Moses returned the words of the people unto the LORD."
+
+**How it is misused:** This verse is sometimes used to argue that at Sinai, Israel chose to earn their standing before God through performance — and that therefore the Mosaic covenant is fundamentally a covenant of works. This reading then contrasts Abraham's covenant of faith with Sinai's covenant of works, creating a theological discontinuity that makes the Law an interruption of grace.
+
+**What the text actually says:** The consent of verse 8 is made in response to a speech (verses 4-6) that begins with redemption already accomplished and identifies the covenant as the expression of the already-redeemed relationship:
+- **Verse 4** — "Ye have seen what I did unto the Egyptians, and how I bare you on eagles' wings, and brought you unto myself" — God has already acted; the Exodus is past; Israel is already redeemed before any law is given
+- **Verse 5** — "If ye will obey my voice indeed, and keep my covenant, then ye shall be a peculiar treasure" — the "if" is not a condition for redemption; it is the condition for the full expression of the covenant relationship that already exists
+- **Galatians 3:17** — "The covenant, that was confirmed before of God in Christ, the law, which was four hundred and thirty years after, cannot disannul" — the Abrahamic covenant (by faith) preceded and was not cancelled by the Sinai law; the law was given to the already-redeemed, not as the means of redemption
+- **Deuteronomy 7:6-8** — "The LORD thy God hath chosen thee... Not because ye were more in number than any people... but because the LORD loved you, and because he would keep the oath which he had sworn unto your fathers, hath the LORD brought you out with a mighty hand" — Israel was chosen and redeemed by grace; the law governs the redeemed life
+
+*Correction:* Israel's "we will do" in Exodus 19:8 is the response of the already-redeemed to their Redeemer — not an attempt to earn the redemption that had already taken place. The Mosaic law was given to people God had already brought out of Egypt on eagles' wings. The same pattern applies to the New Covenant: salvation is by grace through faith; the life of the redeemed is governed by God's commands (John 14:15 — "If ye love me, keep my commandments"). Neither Sinai nor the New Covenant makes obedience the basis of redemption; both present obedience as the pattern of the already-redeemed life.
+
+---
+
+---
+
 ## SYMBOLIC THREADS
 
 ### The Trumpet of God — Eschatological Pattern

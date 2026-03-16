@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Qualifications for Worship, Righteous Character, Integrity in Speech, Financial Integrity
 
-**Tags:** #Psalm-David-LORD-abide-tabernacle-dwell-holy-hill-walketh-uprightly-worketh-righteousness-speaketh-truth-heart-backbiteth-tongue-evil-neighbour-taketh-reproach-neighbour #eyes-vile-person-contemned-honoureth-fear-LORD-sweareth-own-hurt-changed-not-putteth-money-usury-taketh-reward-innocent-things-never-moved
+**Tags:** #qualifications-for-worship #righteous-character #integrity-in-speech #financial-integrity
 
 ---
 

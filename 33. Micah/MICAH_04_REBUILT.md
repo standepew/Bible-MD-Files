@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Millennial Kingdom, Universal Peace, Zion's Exaltation, Gentile Nations
 
-**Tags:** #last-days-pass-mountain-house-LORD-established-top-mountains-exalted-hills-people-flow-many-nations-Come-house-God-Jacob-teach-ways-walk-paths-law-Zion-word-LORD-Jerusalem-judge-many-people-rebuke-strong-nations-beat-swords-plowshares-spears-pruninghooks-nation-lift-sword-nation-learn-war-sit-vine-fig-tree-afraid-mouth-LORD-hosts-spoken-people-walk-name-god-walk-name-LORD-GOD-day-LORD-assemble-halteth-gather-driven-out-afflicted-halted-remnant-cast-far-strong-nation-LORD-reign-mount-Zion-henceforth-tower-flock-strong-hold-daughter-Zion-first-dominion-kingdom-daughter-Jerusalem-cry-aloud-king-counsellor-perished-pangs-woman-travail-pain-labour-bring-forth-daughter-Zion-woman-travail-go-forth-city-dwell-field-Babylon-delivered-LORD-redeem-hand-enemies-nations-gathered-defiled-eye-Zion-know-thoughts-LORD-understand-counsel-gather-sheaves-floor-Arise-thresh-daughter-Zion-make-horn-iron-hoofs-brass-beat-pieces-people-consecrate-gain-LORD-substance-LORD-whole-earth
+**Tags:** #christ #universal-peace #zion #gentile-nations
 
 ---
 

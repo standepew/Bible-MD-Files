@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** The Resurrection, The Empty Tomb, The Road to Emmaus, Jesus Appears to His Disciples, The Great Commission, The Ascension
 
-**Tags:** #first-day-week-early-morning-came-sepulchre-spices-prepared-found-stone-rolled-sepulchre-entered-found-body-Lord-Jesus-perplexed-behold-men-stood-shining-garments-afraid-bowed-faces-earth-seek-living-dead-risen-remember-spake-Galilee-Son-man-delivered-sinful-crucified-third-rise-remembered-words-returned-sepulchre-told-eleven-rest-Mary-Magdalene-Joanna-Mary-mother-James-women-apostles-words-idle-tales-believed-arose-Peter-ran-sepulchre-stooping-beheld-linen-clothes-departed-wondering-behold-two-Emmaus-Jerusalem-threescore-furlongs-talked-happened-communed-reasoned-Jesus-drew-near-eyes-holden-know-communications-sad-Cleopas-stranger-Jerusalem-known-things-Jesus-Nazareth-prophet-mighty-deed-word-God-people-chief-priests-rulers-delivered-condemned-death-crucified-trusted-redeemed-Israel-third-day-women-company-astonished-early-sepulchre-found-body-vision-angels-alive-sepulchre-found-women-saw-fools-slow-heart-believe-prophets-spoken-Christ-suffered-glory-Moses-prophets-expounded-scriptures-concerning-drew-nigh-village-made-gone-constrained-abide-evening-spent-tarry-meat-blessed-brake-gave-eyes-opened-knew-vanished-sight-heart-burn-opened-scriptures-rose-hour-returned-Jerusalem-found-eleven-gathered-Lord-risen-appeared-Simon-things-way-known-breaking-bread-Jesus-stood-midst-Peace-terrified-affrighted-spirit-troubled-thoughts-hearts-behold-hands-feet-handle-spirit-flesh-bones-shewed-hands-feet-believed-joy-wondered-meat-broiled-fish-honeycomb-took-ate-words-spake-fulfilled-written-law-Moses-prophets-psalms-opened-understanding-scriptures-written-behoved-Christ-suffer-rise-dead-repentance-remission-sins-preached-name-nations-Jerusalem-witnesses-promise-Father-tarry-Jerusalem-endued-power-high-led-Bethany-lifted-hands-blessed-parted-carried-heaven-worshipped-returned-Jerusalem-great-joy-continually-temple-praising-blessing-God
+**Tags:** #the-resurrection #the-empty-tomb #the-road-to-emmaus #jesus-appears-to-his-disciples #the-great-commission #the-ascension
 
 ---
 
@@ -325,7 +325,7 @@ First, day, week, early, morning, came, sepulchre, spices, prepared, found, ston
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Resurrection as Type of Christ's Victory
 - **Physical resurrection:** Stone rolled (Luke 24:4)

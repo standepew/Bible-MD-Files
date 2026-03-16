@@ -129,3 +129,56 @@ God announces to Moses the final, decisive plague — the death of all the first
 ---
 
 **End of Exodus Chapter 11**
+
+---
+
+## COMMONLY MISQUOTED PASSAGES
+
+### Exodus 11:2 — "Borrow of His Neighbour" — The Word "Borrow" Used to Imply Deception
+
+**Verse 2** — "Speak now in the ears of the people, and let every man borrow of his neighbour, and every woman of her neighbour, jewels of silver, and jewels of gold."
+
+**How it is misused:** Some use the English word "borrow" to argue that Israel practiced deceptive lending — that they obtained silver and gold with no intention of repaying it, making the Exodus a mass fraud against the Egyptians. This reading is then used to cast moral suspicion on the entire event.
+
+**What the text actually says:** The act was not deceptive borrowing but the fulfillment of a long-announced covenant promise that the Egyptians themselves facilitated willingly:
+- **Genesis 15:14** — "And also that nation, whom they shall serve, will I judge: and afterward shall they come out with great substance" — God told Abraham 430 years before that Israel would exit with wealth; this was His covenant promise, not a scheme Israel devised
+- **Exodus 3:21-22** — "And I will give this people favour in the sight of the Egyptians: and it shall come to pass, that, when ye go, ye shall not go empty" — God promised the favor; it was His doing, not Israel's manipulation
+- **Exodus 11:3** — "And the LORD gave the people favour in the sight of the Egyptians" — the favor was divinely given; the Egyptians gave willingly
+- **Psalm 105:37** — "He brought them forth also with silver and gold: and there was not one feeble person among their tribes" — the Psalm credits God with bringing them out with wealth; no moral cloud rests on the act in the inspired commentary
+
+*Correction:* The Hebrew word (sha'al) means to ask or request, not to borrow with intent to repay. The act is the covenant fulfillment of Genesis 15:14 — wages owed for 430 years of slave labor, given willingly by Egyptians under God's providential favor. Psalm 105:37 treats it as God's provision. The "spoiling of Egypt" is not fraud; it is the payment of a debt owed through the means God appointed.
+
+---
+
+### Exodus 11:4-5 — The Death of the Firstborn Used to Question God's Justice
+
+**Verse 5** — "And all the firstborn in the land of Egypt shall die, from the firstborn of Pharaoh that sitteth upon his throne, even unto the firstborn of the maidservant that is behind the mill; and all the firstborn of beasts."
+
+**How it is misused:** The scope of the tenth plague — including the firstborn of the lowest servant and the beasts — is used to argue that the innocent suffered unjustly, that the judgment was disproportionate, and that God's action against all firstborn regardless of personal guilt makes the Exodus a morally problematic event.
+
+**What the text actually says:** The chapter places the tenth plague in the specific context of the covenant principle of life for life, established in chapter 4:
+- **Exodus 4:22-23** — "Thus saith the LORD, Israel is my son, even my firstborn: And I say unto thee, Let my son go, that he may serve me: and if thou refuse to let him go, behold, I will slay thy son, even thy firstborn" — the tenth plague was announced in chapter 4 as a covenant response to Pharaoh's murder of Israel's sons (Exodus 1:16, 22) and his refusal to release God's firstborn son (the nation)
+- **Exodus 1:22** — "And Pharaoh charged all his people, saying, Every son that is born ye shall cast into the river" — Egypt as a society participated in the slaughter of Hebrew infants; the judgment falls on Egypt as a covenantal entity, not merely on Pharaoh personally
+- **Numbers 33:4** — "upon their gods also the LORD executed judgments" — the judgment targets Egypt's religious-political system, expressed through the firstborn who represented the nation's future
+
+*Correction:* The tenth plague is not arbitrary punishment of innocent bystanders — it is covenant justice for a society that participated in the genocide of Hebrew infants at Pharaoh's command. The "life for life" principle (the firstborn of those who killed Israel's sons) is explicitly stated in Exodus 4:22-23 before the plagues begin. The blood of the Passover lamb was available to any household in Egypt (see Exodus 12's provisions for willing foreigners); the judgment falls on those without the blood. The issue is never personal guilt in isolation — it is covenantal standing.
+
+---
+
+## SYMBOLIC THREADS
+
+**The Firstborn:**
+- First appears: Exodus 4:22-23 — "Israel is my son, even my firstborn... I will slay thy son, even thy firstborn" — the firstborn principle is the theological key of the tenth plague
+- Exodus 11:5 — every firstborn in Egypt dies; the scope of judgment is total: from throne to mill, from man to beast
+- Exodus 13:2 — "Sanctify unto me all the firstborn... it is mine" — Israel's surviving firstborn are consecrated to God because God spared them; life consecrated because life was purchased
+- Numbers 3:12-13 — God takes the tribe of Levi as substitutionary redemption of Israel's firstborn; the firstborn principle drives the entire Levitical system
+- Colossians 1:15, 18 — Christ is "the firstborn of every creature" and "the firstborn from the dead" — the ultimate Firstborn consecrated to God, who by His death redeems all who are counted as "the church of the firstborn" (Hebrews 12:23)
+- *Pattern:* The firstborn in Scripture is the representative of the whole. The tenth plague kills Egypt's representative; the Passover lamb dies as Israel's representative. Christ as the ultimate Firstborn dies as the representative of all who believe. The firstborn principle — representation, consecration, substitution — runs from Exodus 4 through Colossians 1 to Hebrews 12.
+
+**Midnight — The Hour of Divine Visitation:**
+- Exodus 11:4 — "About midnight will I go out into the midst of Egypt" — God's act of judgment comes at the darkest hour
+- Exodus 12:29 — "And it came to pass, that at midnight the LORD smote all the firstborn in the land of Egypt"
+- Matthew 25:6 — "And at midnight there was a cry made, Behold, the bridegroom cometh" — the parable of the ten virgins; the hour of the Lord's appearing is midnight
+- Acts 16:25 — Paul and Silas praying at midnight; at midnight the prison foundations shake and doors open
+- Mark 13:35 — "Watch ye therefore... lest coming suddenly he find you sleeping... at midnight, or at the cockcrowing, or in the morning"
+- *Pattern:* Midnight in Scripture is consistently the hour of divine visitation — both in judgment (Egypt) and in deliverance (Acts 16) and in the Lord's return (Matthew 25). When human darkness is at its deepest, God moves. The midnight of Egypt becomes the prototype of every subsequent midnight action of God in Scripture.

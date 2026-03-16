@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Divine Providence, Human Futility, Children as Heritage, Family Blessing
 
-**Tags:** #Song-degrees-Solomon-LORD-build-house-labour-vain-build-LORD-keep-city-watchman-waketh-vain-rise-early-sit-late-eat-bread-sorrows-giveth-beloved-sleep-Lo-children-heritage-LORD-fruit-womb-reward-arrows-hand-mighty-man-children-youth-Happy-man-quiver-full-ashamed-speak-enemies-gate
+**Tags:** #divine-providence #human-futility #children-as-heritage #family-blessing
 
 ---
 

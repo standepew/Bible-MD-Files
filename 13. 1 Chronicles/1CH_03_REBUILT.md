@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** David's Sons, Solomon's Lineage, Royal Succession, Exile and Return
 
-**Tags:** #sons-David-Hebron-Amnon-Ahinoam-Jezreelitess-Daniel-Abigail-Carmelitess-Absalom-Maachah-Talmai-king-Geshur-Adonijah-Haggith-Shephatiah-Abital-Ithream-Eglah-wife-Jerusalem-Shimea-Shobab-Nathan-Solomon-Bath-shua-Ammiel-Ibhar-Elishama-Eliphelet-Nogah-Nepheg-Japhia-Elishama-Eliada-Eliphelet-sons-concubines-Tamar-sister #Solomon-son-Rehoboam-Abia-Asa-Jehoshaphat-Joram-Ahaziah-Joash-Amaziah-Azariah-Jotham-Ahaz-Hezekiah-Manasseh-Amon-Josiah #sons-Josiah-Johanan-Jehoiakim-Zedekiah-Shallum #sons-Jehoiakim-Jeconiah-Zedekiah #sons-Jeconiah-Assir-Salathiel-Malchiram-Pedaiah-Shenazar-Jecamiah-Hoshama-Nedabiah #sons-Pedaiah-Zerubbabel-Shimei-sons-Zerubbabel-Meshullam-Hananiah-Shelomith-sister-Hashubah-Ohel-Berechiah-Hasadiah-Jushab-hesed #sons-Hananiah-Pelatiah-Jesaiah-sons-Rephaiah-Arnan-Obadiah-Shechaniah #sons-Shechaniah-Shemaiah-sons-Shemaiah-Hattush-Igeal-Bariah-Neariah-Shaphat #sons-Neariah-Elioenai-Hezekiah-Azrikam #sons-Elioenai-Hodaiah-Eliashib-Pelaiah-Akkub-Johanan-Dalaiah-Anani
+**Tags:** #sons-Jehoiakim-Jeconiah-Zedekiah #sons-Neariah-Elioenai-Hezekiah-Azrikam #david #solomon #royal-succession #exile-and-return
 
 ---
 

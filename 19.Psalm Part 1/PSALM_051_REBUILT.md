@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Repentance, Confession, Clean Heart, Joy of Salvation
 
-**Tags:** #chief-Musician-Psalm-David-Nathan-prophet-came-Bath-sheba-mercy-GOD-lovingkindness-multitude-tender-mercies-blot-transgressions-wash-throughly-iniquity-cleanse-sin-acknowledge-transgressions-sin-thee-sinned-evil-sight-justified-speakest-clear-judgest-shapen-iniquity-sin-mother-conceive-desirest-truth-inward-parts-hidden-part-know-wisdom-purge-hyssop-clean-wash-whiter-snow-hear-joy-gladness-bones-broken-rejoice-hide-face-sins-blot-iniquities-create-clean-heart-GOD-renew-right-spirit-within-cast-presence-holy-spirit-restore-joy-salvation-uphold-free-spirit-teach-transgressors-ways-sinners-converted #deliver-bloodguiltiness-GOD-salvation-tongue-sing-aloud-righteousness-Lord-open-lips-mouth-shew-praise-desirest-sacrifice-give-delightest-burnt-offering-sacrifices-GOD-broken-spirit-broken-contrite-heart-despise-good-pleasure-Zion-build-walls-Jerusalem-pleased-sacrifices-righteousness-burnt-offering-whole-burnt-offering-bullocks-altar
+**Tags:** #repentance #confession #clean-heart #joy-of-salvation
 
 ---
 

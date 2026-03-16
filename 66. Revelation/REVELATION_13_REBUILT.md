@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** The Beast from the Sea, The Beast from the Earth, The Mark of the Beast, The Number of the Beast, The Patience of the Saints
 
-**Tags:** #stood-sand-sea-beast-rise-sea-seven-heads-ten-horns-horns-ten-crowns-heads-name-blasphemy-beast-leopard-feet-bear-mouth-lion-dragon-gave-power-seat-authority-heads-wounded-death-wound-healed-world-wondered-beast-worshipped-dragon-power-beast-worshipped-beast-war-able-mouth-speaking-great-blasphemies-power-continue-forty-two-months-mouth-blasphemy-God-blaspheme-name-tabernacle-dwell-heaven-given-war-saints-overcome-power-kindreds-tongues-nations-dwell-earth-worship-names-written-book-life-Lamb-slain-foundation-world-ear-hear-leadeth-captivity-captivity-killeth-sword-killed-sword-patience-faith-saints-beheld-beast-coming-earth-horns-lamb-spake-dragon-exerciseth-power-first-beast-causeth-earth-dwell-worship-first-beast-wound-sword-live-great-wonders-fire-heaven-earth-sight-men-deceiveth-dwell-earth-miracles-power-sight-beast-dwell-earth-image-beast-wound-sword-live-power-life-image-beast-speak-cause-worship-image-beast-killed-causeth-small-great-rich-poor-free-bond-receive-mark-right-hand-foreheads-buy-sell-mark-name-beast-number-name-wisdom-understanding-count-number-beast-number-man-number-Six-hundred-threescore-six
+**Tags:** #the-beast-from-the-sea #the-beast-from-the-earth #the-mark-of-the-beast #the-number-of-the-beast #the-patience-of-the-saints
 
 ---
 
@@ -193,7 +193,7 @@ Stood, sand, sea, beast, rise, sea, seven, heads, ten, horns, horns, ten, crowns
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Beast from the Sea as Type of Christ's Spiritual Opposition
 - **Physical spiritual opposition:** Beast rise (Revelation 13:2)

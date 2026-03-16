@@ -233,3 +233,80 @@ Moses gives Israel the foundational declaration of their faith: "Hear, O Israel:
 ---
 
 **End of Deuteronomy Chapter 6**
+
+---
+
+## COMMONLY MISQUOTED PASSAGES
+
+### Deuteronomy 6:4 — "The LORD Our God Is One LORD" — The Shema Misused Against the Trinity
+
+**Verse 4** — "Hear, O Israel: The LORD our God is one LORD."
+
+**How it is misused:** This verse is cited to argue that the idea of God as Father, Son, and Spirit is a violation of the Shema — that any plural understanding of God contradicts Moses. It is used to deny the deity of Christ and the person of the Spirit on the grounds that "God is one."
+
+**What the text actually says:**
+- **Genesis 2:24** — "Therefore shall a man leave his father and his mother, and shall cleave unto his wife: and they shall be one (echad) flesh." — the Hebrew word echad (one) used in the Shema is the same word used for two persons becoming one flesh. Echad is compound unity, not absolute mathematical singularity.
+- **Genesis 1:26** — "And God said, Let us make man in our image, after our likeness." — within the same Torah, God speaks in the plural concerning Himself before any human interlocutor is present.
+- **Numbers 13:23** — "And they cut down from thence a branch with one (echad) cluster of grapes." — one cluster containing many individual grapes; echad routinely describes unified plurality.
+- **Mark 12:29-32** — Jesus quotes the Shema as the first commandment. The scribe affirms it: "Well, Master, thou hast said the truth: for there is one God; and there is none other but he." — Jesus does not contradict the Shema; He embodies its fulfillment as the LORD in flesh (John 1:1, 14).
+- **1 Corinthians 8:6** — "to us there is but one God, the Father, of whom are all things, and we in him; and one Lord Jesus Christ, by whom are all things, and we by him." — Paul maintains strict monotheism while distinguishing the Father and the Son within it.
+- **John 10:30** — "I and my Father are one." — Jesus makes the unity claim of the Shema His own concerning His relationship with the Father.
+
+*Correction:* The Shema declares that the LORD alone is God — it is an anti-polytheism declaration, not a mathematical statement about the inner composition of God. The word echad (one) in Hebrew consistently describes compound or unified plurality. The Shema does not rule out the Father, Son, and Spirit being one LORD — it rules out other gods. The God of the New Testament is the same God of the Shema; Jesus quotes the Shema Himself as the first commandment. The Trinity is not a violation of the Shema; it is the fuller revelation of the One who declared it.
+
+---
+
+### Deuteronomy 6:13 — "Thou Shalt Fear the LORD Thy God and Serve Him" — Jesus' Third Temptation Response
+
+**Verse 13** — "Thou shalt fear the LORD thy God, and serve him, and shalt swear by his name."
+
+**How it is misused:** This verse, when quoted by Jesus in Matthew 4:10, is sometimes misunderstood as Jesus claiming to be a servant among equals — used to argue He was merely a human prophet. The fuller Deuteronomy context is ignored. Others miss that Jesus is applying the covenant standard to rebuke Satan's offer of world dominion.
+
+**What the text actually says:**
+- **Matthew 4:8-10** — "Again, the devil taketh him up into an exceeding high mountain, and sheweth him all the kingdoms of the world... And saith unto him, All these things will I give thee, if thou wilt fall down and worship me. Then saith Jesus unto him, Get thee hence, Satan: for it is written, Thou shalt worship the Lord thy God, and him only shalt thou serve." — Jesus quotes Deuteronomy 6:13 as the standard that cannot be compromised: God alone receives worship and service.
+- **Deuteronomy 6:14-15** — "Ye shall not go after other gods, of the gods of the people which are round about you; (For the LORD thy God is a jealous God among you) lest the anger of the LORD thy God be kindled against thee." — the context of verse 13 is the exclusive claim of God against all rivals.
+- **Isaiah 42:8** — "I am the LORD: that is my name: and my glory will I not give to another, neither my praise to graven images." — God will not share worship; Jesus cites this principle to refuse Satan's offer.
+- **Luke 4:8** — Luke's parallel account: "And Jesus answered and said unto him, Get thee behind me, Satan: for it is written, Thou shalt worship the Lord thy God, and him only shalt thou serve." — the emphasis is on him only.
+- **Philippians 2:9-11** — "Wherefore God also hath highly exalted him, and given him a name which is above every name: That at the name of Jesus every knee should bow... And that every tongue should confess that Jesus Christ is Lord." — the One who quoted Deuteronomy 6:13 against Satan receives worship from every knee — the same worship the verse demands be given only to God.
+
+*Correction:* Jesus quotes Deuteronomy 6:13 as Israel's covenant standard for exclusive worship — the same standard He, as the true Israel, upholds perfectly in the wilderness where Israel failed. He refuses Satan's worship offer not as a creature deferring to the Creator, but as the faithful Son who knows that worship belongs to God alone — and who will Himself receive that same worship at His exaltation. The verse in Deuteronomy 6 is not evidence of Jesus' creatureliness but of His covenant faithfulness.
+
+---
+
+### Deuteronomy 6:16 — "Ye Shall Not Tempt the LORD Your God" — Jesus' Second Temptation Response
+
+**Verse 16** — "Ye shall not tempt the LORD your God, as ye tempted him in Massah."
+
+**How it is misused:** When Satan quotes Psalm 91:11-12 to Jesus ("He shall give his angels charge concerning thee"), Jesus responds with Deuteronomy 6:16. This exchange is sometimes misread as Jesus simply refusing a personal test rather than addressing a theological principle about how God's word is to be used. It is also misused by those who claim that demanding miraculous signs as proof of God's faithfulness is legitimate faith.
+
+**What the text actually says:**
+- **Exodus 17:1-7** — At Massah, Israel had already seen the plagues, the Red Sea parted, manna from heaven, and water provided — yet they said "Is the LORD among us, or not?" Tempting God means demanding He prove Himself despite prior evidence.
+- **Matthew 4:5-7** — Satan tells Jesus to throw Himself from the temple and quotes Psalm 91:11-12. Jesus responds: "It is written again, Thou shalt not tempt the Lord thy God." — Jesus identifies Satan's challenge as a demand that God prove His faithfulness by performing on demand, which is the definition of tempting God.
+- **Psalm 95:8-9** — "Harden not your heart, as in the provocation, and as in the day of temptation in the wilderness: When your fathers tempted me, proved me, and saw my work." — Hebrews 3 and 4 apply this Psalm as a warning to the church; the sin of Israel at Massah is a permanent warning.
+- **1 Corinthians 10:9** — "Neither let us tempt Christ, as some of them also tempted, and were destroyed of serpents." — Paul identifies the tempting of God at Massah with tempting Christ specifically, establishing that the LORD tempted in the wilderness is Christ.
+- **Luke 11:29** — "And when the people were gathered thick together, he began to say, This is an evil generation: they seek a sign; and there shall no sign be given it, but the sign of Jonas the prophet." — Jesus identifies sign-seeking (demanding proof beyond what God has revealed) as the posture of an evil generation.
+
+*Correction:* Tempting God means demanding He prove His presence or faithfulness in response to unbelief — treating God as if He must perform on request to validate Himself. At Massah, Israel had overwhelming evidence and still demanded proof. Satan's temptation of Jesus in Matthew 4:5-7 has the same structure: use a promise of God's word as a lever to force God to act. Jesus refuses because it is not faith to demand God demonstrate what He has already established. Genuine faith rests on what God has already said and done; tempting God demands He say or do more to satisfy present unbelief.
+
+---
+
+## SYMBOLIC THREADS
+
+**The Wilderness — Testing the True Israel:**
+- First appears as active testing context: **Deuteronomy 6:16** — "Ye shall not tempt the LORD your God, as ye tempted him in Massah." — the wilderness test at Massah is cited as the paradigm of Israel's failure.
+- **Deuteronomy 8:2** — "And thou shalt remember all the way which the LORD thy God led thee these forty years in the wilderness, to humble thee, and to prove thee, to know what was in thine heart."
+- **Numbers 14:33-34** — forty years of wilderness as the judicial consequence of forty days of unbelieving spying; each day for a year.
+- **Psalm 95:8-10** — "Harden not your heart, as in the provocation... When your fathers tempted me, proved me, and saw my work. Forty years long was I grieved with this generation."
+- **Matthew 4:1-11** — Jesus is led by the Spirit into the wilderness forty days; He is tempted in the same categories Israel failed: food (bread), testing God's faithfulness (Massah), and worship (golden calf). He quotes Deuteronomy in each case, demonstrating He is the faithful Israel where historical Israel was faithless.
+- **Hebrews 3:7-19** — The writer of Hebrews applies the wilderness generation's failure as a direct warning to the church, establishing that the wilderness test remains the paradigm for every generation's obedience or hardness of heart.
+- *Pattern:* The wilderness is Scripture's established symbol of the period of testing between redemption and inheritance. Israel was redeemed from Egypt (the world) and tested forty years in the wilderness before entering Canaan (rest). Jesus recapitulates Israel's wilderness forty days and passes every test Israel failed, using Deuteronomy's own words. The church is warned through the same wilderness generation in Hebrews 3-4. The wilderness is not incidental geography; it is the proving ground between deliverance and full possession of the promise.
+
+---
+
+**The Frontlet/Sign on Hand and Forehead — God's Ownership Mark:**
+- First appears: **Deuteronomy 6:8** — "And thou shalt bind them for a sign upon thine hand, and they shall be as frontlets between thine eyes."
+- **Exodus 13:9** — "And it shall be for a sign unto thee upon thine hand, and for a memorial between thine eyes" — first use, in connection with the Passover memorial; the hand and forehead as the locations of God's claim.
+- **Deuteronomy 11:18** — "Therefore shall ye lay up these my words in your heart and in your soul, and bind them for a sign upon your hand, that they may be as frontlets between your eyes." — the command is repeated.
+- **Revelation 13:16-17** — "And he causeth all, both small and great, rich and poor, free and bond, to receive a mark in their right hand, or in their foreheads... that no man might buy or sell, save he that had the mark." — the beast's mark uses the identical body locations of God's sign.
+- **Revelation 14:1** — "And I looked, and, lo, a Lamb stood on the mount Sion, and with him an hundred forty and four thousand, having his Father's name written in their foreheads." — God's people bear the Father's name on the same location where the beast's servants bear his mark.
+- *Pattern:* Hand and forehead in Scripture represent the total person: the hand is what you do (actions, labor, commerce); the forehead is who you are (identity, allegiance, thought). God's command to bind His words on hand and forehead declares His ownership of the whole person — every action and every thought. The beast's mark in Revelation deliberately uses the same locations because it is a satanic counterfeit of God's prior claim. Those who have already given hand and forehead to God cannot give them to the beast; those who have not given them to God are vulnerable to the counterfeit.

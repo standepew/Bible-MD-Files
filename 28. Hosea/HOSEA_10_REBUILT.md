@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Judgment, Empty Vine, Divided Heart, Righteous Plowing
 
-**Tags:** #Israel-empty-vine-bringeth-fruit-multitude-fruit-increased-altars-goodness-land-goodly-images-heart-divided-found-faulty-break-altars-spoil-images-no-king-feared-LORD-king-spoken-words-swearing-falsely-making-covenant-judgment-springeth-hemlock-furrows-field-inhabitants-Samaria-fear-calves-Beth-aven-people-mourn-priests-rejoiced-glory-departed-carried-Assyria-present-king-Jareb-Ephraim-receive-shame-Israel-ashamed-counsel-Samaria-king-cut-foam-water-high-places-Aven-sin-Israel-destroyed-thorn-thistle-altars-mountains-cover-hills-fall-sinned-days-Gibeah-stood-battle-Gibeah-children-iniquity-overtake-chastise-people-gathered-bind-two-furrows-Ephraim-heifer-taught-love-tread-corn-passed-fair-neck-ride-Ephraim-Judah-plow-Jacob-break-clods-sow-righteousness-reap-mercy-break-fallow-ground-seek-LORD-come-rain-righteousness-plowed-wickedness-reaped-iniquity-eaten-fruit-lies-trusted-way-multitude-mighty-men-tumult-people-fortresses-spoiled-Shalman-spoiled-Beth-arbel-day-battle-mother-dashed-pieces-children-Beth-el-great-wickedness-morning-king-Israel-cut
+**Tags:** #christ #empty-vine #divided-heart #righteous-plowing
 
 ---
 

@@ -2,24 +2,24 @@
 
 ---
 
-## 1. CHAPTER METADATA
+## CHAPTER METADATA
 
 **Book:** Numbers
 **Chapter:** 30
 **Testament:** Old Testament
 **Key Themes:** The law of vows — what comes out of the mouth binds the soul, A man's vow stands without exception: "he shall do according to all that proceedeth out of his mouth", A woman's vow: three categories — daughter in father's house; wife in husband's house; widow or divorced woman, The father and husband have a single day to disallow a vow heard — silence confirms it; disallowance on the day of hearing voids it, If the husband disallows after silence: he bears her iniquity, not her, The principle: authority structures can protect those under them from hasty vows, but passive silence ratifies; active dissent on the day voids
 
-**Tags:** #vow-unto-the-LORD #oath-to-bind-the-soul-with-a-bond #shall-not-break-his-word #all-that-proceedeth-out-of-his-mouth #woman-in-fathers-house #father-hears-holds-peace #vow-stands #father-disallows-same-day #LORD-shall-forgive-her #husband-hears-holds-peace #vow-confirmed-by-silence #husband-disallows-same-day #void #if-husband-makes-void-after-hearing #he-bears-her-iniquity #widow-and-divorced-vow-stands #statute-of-judgment #between-man-and-wife #between-father-and-daughter
+**Tags:** #vow-unto-the-LORD #shall-not-break-his-word #woman-in-fathers-house #father-hears-holds-peace #vow-stands #father-disallows-same-day #LORD-shall-forgive-her #husband-hears-holds-peace #vow-confirmed-by-silence #husband-disallows-same-day #void #he-bears-her-iniquity #widow-and-divorced-vow-stands #statute-of-judgment #between-man-and-wife #between-father-and-daughter #the-law-of-vows #a-man #a-woman #wife-in-husband #widow-or-divorced-woman #the-father-and-husband-have-a #disallowance-on-the-day-of-hearing #if-the-husband-disallows-after-silence #the-principle-authority-structures-can-protect #active-dissent-on-the-day-voids
 
 ---
 
-## 2. CHAPTER SUMMARY
+## CHAPTER SUMMARY
 
 Moses speaks to the heads of the tribes. The law of vows: if a man makes a vow to the LORD or swears an oath binding his soul, he shall not break his word — he shall do all that comes out of his mouth. For women, three cases: (1) A daughter still in her father's house makes a vow. If her father hears it and says nothing, the vow stands. If her father disallows it the same day he hears it, the vow is void and the LORD will forgive her. (2) If a woman vows while married, or speaks a bond from her lips after marriage: her husband hears it. If he says nothing the day he hears it, the vow stands. If he disallows it the same day, the vow is void, and the LORD will forgive her. If the husband hears it, says nothing for several days, then tries to void it after the fact — he bears her iniquity, not her. (3) The vow of a widow or divorced woman stands — no male authority over her to nullify it; she bears it herself. The woman who made a vow while in her husband's house: if he consistently holds his peace day after day, he confirms it; if he later voids it, he bears her iniquity. These are the statutes the LORD commanded Moses — between a man and his wife, between a father and his daughter in her youth in her father's house.
 
 ---
 
-## 3. CROSS-REFERENCES (Scripture Interpreting Scripture)
+## CROSS-REFERENCES (Scripture Interpreting Scripture) (Scripture Interpreting Scripture)
 
 ### The Binding Power of the Spoken Word
 
@@ -43,7 +43,7 @@ Moses speaks to the heads of the tribes. The law of vows: if a man makes a vow t
 
 ---
 
-## 4. KEYWORD INDEX
+## KEYWORD INDEX
 
 **For Current Events Matching:**
 - **The binding power of spoken words / oaths and contracts** → Numbers 30:2 — Matthew 5:33-37; Ecclesiastes 5:4-5
@@ -54,7 +54,7 @@ Moses speaks to the heads of the tribes. The law of vows: if a man makes a vow t
 
 ---
 
-## 5. KEY TERMS WITH CONTEXTUAL DEFINITIONS
+## KEY TERMS WITH CONTEXTUAL DEFINITIONS WITH CONTEXTUAL DEFINITIONS
 
 ### BIND THE SOUL WITH A BOND (Hebrew: isar al-naphesh — restraint upon the soul)
 - **Numbers 30:2-3** — the oath "to bind his soul with a bond"; the vow that "bindeth her soul"
@@ -66,7 +66,7 @@ Moses speaks to the heads of the tribes. The law of vows: if a man makes a vow t
 
 ---
 
-## 6. THE ACTUAL VERSES — NUMBERS 30 (KJV)
+## THE ACTUAL VERSES (KJV) — NUMBERS 30 (KJV)
 
 **1** And Moses spake unto the heads of the tribes concerning the children of Israel, saying, This is the thing which the LORD hath commanded.
 **2** If a man vow a vow unto the LORD, or swear an oath to bind his soul with a bond; he shall not break his word, he shall do according to all that proceedeth out of his mouth.
@@ -87,7 +87,7 @@ Moses speaks to the heads of the tribes. The law of vows: if a man makes a vow t
 
 ---
 
-## 7. PROPHETIC/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS/TYPOLOGICAL CONNECTIONS
 
 ### The Husband Who Bears Her Iniquity — The Covering Head
 
@@ -98,7 +98,7 @@ Moses speaks to the heads of the tribes. The law of vows: if a man makes a vow t
 
 ---
 
-## 8. COMMONLY MISQUOTED PASSAGES
+## COMMONLY MISQUOTED PASSAGES PASSAGES
 
 ### Numbers 30:3-8 — Used to Argue That Wives Have No Independent Spiritual Standing Before God
 
@@ -108,7 +108,7 @@ Moses speaks to the heads of the tribes. The law of vows: if a man makes a vow t
 
 ---
 
-## 9. SYMBOLIC THREADS
+## SYMBOLIC THREADS
 
 ### All That Proceedeth Out of His Mouth — The Word-Creation Thread
 

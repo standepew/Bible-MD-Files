@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Folly of Riches, Death and Corruption, God's Redemption, Wisdom and Understanding
 
-**Tags:** #chief-Musician-sons-Korah-Hear-people-inhabitants-world-low-high-rich-poor-mouth-speak-wisdom-meditation-heart-understanding-incline-ear-parable-open-dark-saying-harp-fear-days-evil-iniquity-heels-compass-trust-wealth-boast-multitude-riches-redeem-brother-GOD-ransom-redemption-soul-precious-ceaseth-forever-live-forever-corruption-seeth-wise-men-die-fool-brutish-perish-leave-wealth-others-inward-thought-houses-continue-forever-dwelling-places-generations-call-lands-names-man-honour-abideth-beasts-perish-way-folly-posterity-approve-sayings-Selah-sheep-laid-grave-death-feed-upright-dominion-morning-beauty-consume-grave-dwelling #GOD-redeem-soul-power-grave-receive-Selah-afraid-made-rich-glory-house-increased-dieth-carry-nothing-glory-descend-lived-blessed-soul-men-praise-well-thyself-generation-fathers-never-light-man-honour-understandeth-beasts-perish
+**Tags:** #folly-of-riches #death-and-corruption #god #wisdom-and-understanding
 
 ---
 

@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Final Judgment, Jerusalem's Corruption, God's Faithfulness, Restoration and Joy
 
-**Tags:** #Woe-filthy-polluted-oppressing-city-obeyed-voice-received-correction-trusted-LORD-drew-near-God-princes-roaring-lions-judges-evening-wolves-gnaw-bones-morrow-prophets-light-treacherous-priests-polluted-sanctuary-violence-law-just-LORD-midst-iniquity-morning-bring-judgment-light-faileth-unjust-knoweth-shame-cut-nations-towers-desolate-streets-waste-pass-cities-destroyed-man-inhabitant-said-fear-receive-instruction-dwelling-cut-punished-rose-early-corrupted-doings-wait-rise-prey-determination-gather-nations-assemble-kingdoms-pour-indignation-fierce-anger-earth-devoured-fire-jealousy-turn-people-pure-language-call-name-LORD-serve-consent-beyond-rivers-Ethiopia-suppliants-daughter-dispersed-bring-offering-day-ashamed-doings-transgressed-take-midst-rejoice-pride-haughty-holy-mountain-leave-midst-afflicted-poor-people-trust-name-LORD-remnant-Israel-iniquity-speak-lies-deceitful-tongue-mouth-feed-lie-down-make-afraid-Sing-daughter-Zion-shout-Israel-glad-rejoice-heart-daughter-Jerusalem-LORD-taken-judgments-cast-enemy-king-Israel-LORD-midst-see-evil-day-said-Jerusalem-Fear-hands-slack-LORD-God-midst-mighty-save-rejoice-joy-rest-love-joy-singing-gather-sorrowful-solemn-assembly-reproach-burden-undo-afflict-save-halteth-gather-driven-get-praise-fame-land-shame-bring-time-gather-name-praise-people-earth-turn-back-captivity-eyes-LORD
+**Tags:** #christ #jerusalem #god #restoration-and-joy
 
 ---
 

@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Judgment, Divine Fury, Jerusalem's End, Christ's Wrath
 
-**Tags:** #word-LORD-saying-son-man-Lord-GOD-land-Israel-end-four-corners-land-end-come-send-anger-judge-ways-recompense-abominations-eye-spare-pity-recompense-ways-abominations-midst-know-LORD-Lord-GOD-evil-evil-end-watcheth-morning-dwelt-land-time-trouble-near-sounding-mountains-shortly-pour-fury-accomplish-anger-judge-ways-recompense-abominations-eye-spare-pity-recompense-ways-abominations-midst-know-LORD-smiteth-day-morning-gone-rod-blossomed-pride-budded-violence-risen-rod-wickedness-remain-multitude-wailing-time-come-day-near-buyer-rejoice-seller-mourn-wrath-multitude-seller-return-sold-alive-vision-multitude-return-strengthen-iniquity-life-blown-trumpet-ready-battle-wrath-multitude-sword-without-pestilence-famine-within-field-die-sword-city-famine-pestilence-devour-escape-mountains-doves-valleys-mourning-iniquity-hands-feeble-knees-weak-water-gird-sackcloth-horror-cover-shame-faces-baldness-heads-cast-silver-streets-gold-removed-silver-gold-deliver-day-wrath-LORD-satisfy-souls-fill-bowels-stumblingblock-iniquity-beauty-ornament-majesty-images-abominations-detestable-things-set-strangers-prey-wicked-earth-spoil-pollute-face-turn-pollute-secret-place-robbers-enter-defile-chain-land-bloody-crimes-city-violence-worst-heathen-possess-houses-pomp-strong-cease-holy-places-defiled-destruction-seek-peace-mischief-mischief-rumour-rumour-seek-vision-prophet-law-perish-priest-counsel-ancients-king-mourn-prince-clothed-desolation-hands-people-troubled-way-deserts-judge-know-LORD
+**Tags:** #christ #divine-fury #jerusalem
 
 ---
 

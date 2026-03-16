@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Divine Sovereignty, Human Planning, Pride and Humility, Divine Justice
 
-**Tags:** #preparations-heart-man-answer-tongue-LORD-ways-man-clean-eyes-LORD-weigheth-spirits-Commit-works-LORD-thoughts-established-LORD-made-things-wicked-day-evil-proud-heart-abomination-LORD-hand-join-hand-unpunished-mercy-truth-iniquity-purged-fear-LORD-men-depart-evil-man-ways-please-LORD-enemies-peace-little-righteousness-great-revenues-right-man-heart-deviseth-way-LORD-directeth-steps-divine-sentence-lips-king-mouth-transgresseth-judgment-just-weight-balance-LORD-weights-bag-work-abomination-kings-commit-wickedness-throne-established-righteousness-Righteous-lips-delight-kings-love-speak-right-wrath-king-messengers-death-wise-man-pacify-light-king-countenance-life-favour-cloud-latter-rain-better-wisdom-gold-understanding-silver-highway-upright-depart-evil-keepeth-way-preserveth-soul-Pride-destruction-haughty-spirit-fall-humble-spirit-lowly-divide-spoil-proud-handle-matter-wisely-find-good-trusteth-LORD-happy-wise-heart-prudent-sweetness-lips-increases-learning-understanding-wellspring-life-instruction-fools-folly-heart-wise-teacheth-mouth-addeth-learning-lips-Pleasant-words-honeycomb-sweet-soul-health-bones-way-seemeth-right-man-end-ways-death-laboureth-laboureth-craveth-ungodly-man-diggeth-evil-lips-burning-fire-froward-man-soweth-strife-whisperer-separateth-friends-violent-man-enticeth-neighbour-leadeth-way-good-shutteth-eyes-devise-froward-things-moving-lips-bringeth-evil-pass-hoary-head-crown-glory-way-righteous-slow-anger-mighty-rule-spirit-taketh-city-lot-cast-lap-whole-disposing-LORD
+**Tags:** #divine-sovereignty #human-planning #pride-and-humility #divine-justice
 
 ---
 

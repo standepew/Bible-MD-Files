@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Suffering, Zeal for God's House, Divine Deliverance, Universal Praise
 
-**Tags:** #chief-Musician-Shoshannim-Psalm-David-Save-GOD-waters-come-soul-sink-deep-mire-standing-deep-waters-floods-overflow-weary-crying-throat-dried-eyes-fail-wait-GOD-hate-cause-hairs-head-destroy-enemies-wrongfully-mighty-restored-took-away-GOD-knowest-foolishness-sins-hid-wait-LORD-GOD-hosts-ashamed-sake-GOD-Israel-shame-covered-face-stranger-brethren-alien-mother-children-zeal-house-eaten-reproaches-reproached-reproached-fallen-wept-chastened-soul-fasting-reproach-sackcloth-garment-proverb-drunks-sit-gate-speak-song-drunks-prayer-LORD-acceptable-time-GOD-multitude-mercy-hear-truth-salvation-Deliver-mire-sink-delivered-hate-deep-waters-waterflood-overflow-deep-swallow-pit-shut-mouth-Hear-LORD-lovingkindness-good-multitude-tender-mercies-hide-face-servant-trouble-hear-speedily-Draw-nigh-soul-redeem-deliver-enemies-known-reproach-shame-dishonour-adversaries-reproach-broken-heart-heaviness-looked-pity-comforters-found-gall-meat-thirst-vinegar-drink-table-snares-welfare-trap-eyes-darkened-loins-shake-pour-indignation-wrathful-take-hold-habitation-desolate-dwell-tents-persecute-smitten-talk-grief-wounded-add-iniquity-iniquity-righteousness-blotted-book-living-written-righteous-poor-sorrowful-salvation-GOD-set-high-praise-name-GOD-song-magnify-thanksgiving-please-LORD-bullock-horns-hoofs-humble-see-glad-heart-live-seek-GOD-LORD-hear-poor-despiseth-prisoners-heaven-earth-praise-seas-everything-moveth-GOD-save-Zion-build-cities-Judah-dwell-possession-seed-servants-inherit-love-name-dwell
+**Tags:** #christ #zeal-for-god #divine-deliverance #universal-praise
 
 ---
 

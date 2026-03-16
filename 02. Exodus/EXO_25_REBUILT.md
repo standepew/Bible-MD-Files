@@ -183,3 +183,72 @@ God instructs Moses to take a freewill offering from every willing heart: gold, 
 ---
 
 **End of Exodus Chapter 25**
+
+---
+
+## COMMONLY MISQUOTED PASSAGES
+
+### Exodus 25:8 — "That I May Dwell Among Them" — Reduced to a Building Project
+
+**Verse 8** — "And let them make me a sanctuary; that I may dwell among them."
+
+**How it is misused:** This verse is regularly cited as a justification for elaborate church building programs — "God wants a beautiful house, therefore we must build one." The purpose of the command is reduced to the construction project itself, detached from the theology of divine dwelling.
+
+**What the text actually says:**
+- **Acts 7:48-49** — Stephen before the Sanhedrin: "Howbeit the most High dwelleth not in temples made with hands; as saith the prophet, Heaven is my throne, and earth is my footstool: what house will ye build me? saith the Lord"
+- **1 Kings 8:27** — Solomon at the Temple dedication: "But will God indeed dwell on the earth? behold, the heaven and heaven of heavens cannot contain thee; how much less this house that I have builded?"
+- **John 2:19-21** — "Destroy this temple, and in three days I will raise it up... But he spake of the temple of his body"
+- **1 Corinthians 6:19** — "What? know ye not that your body is the temple of the Holy Ghost which is in you"
+- **Revelation 21:3** — "Behold, the tabernacle of God is with men, and he will dwell with them"
+
+*Correction:* The tabernacle/temple is never an end in itself — it is the instrument of the one purpose stated in Exodus 25:8: "that I may dwell among them." The physical sanctuary was always a type pointing to God's ultimate dwelling in human flesh (John 1:14), in His people as a corporate temple (1 Corinthians 3:16), and finally in the new creation (Revelation 21:3). Stephen and Solomon both understood that no building actually contains God. The command to build is real; but the point of the building is always God dwelling with His people, not the structure itself.
+
+---
+
+### Exodus 25:40 — "After the Pattern Shewed Thee in the Mount" — Ignored in Worship Design
+
+**Verse 40** — "And look that thou make them after their pattern, which was shewed thee in the mount."
+
+**How it is misused:** This verse is either ignored entirely in discussions of Christian worship — treated as an Old Covenant curiosity with no bearing on how the church approaches God — or it is used selectively to enforce specific furniture arrangements without grasping the theological principle.
+
+**What the text actually says:**
+- **Hebrews 8:5** — "Who serve unto the example and shadow of heavenly things, as Moses was admonished of God when he was about to make the tabernacle: for, See, saith he, that thou make all things according to the pattern shewed to thee in the mount"
+- **Hebrews 9:23-24** — "It was therefore necessary that the patterns of things in the heavens should be purified with these; but the heavenly things themselves with better sacrifices... For Christ is not entered into the holy places made with hands, which are the figures of the true; but into heaven itself"
+- **Revelation 11:19** — "And the temple of God was opened in heaven, and there was seen in his temple the ark of his testament" — the heavenly originals exist; the earthly were copies
+- **Colossians 2:17** — "Which are a shadow of things to come; but the body is of Christ"
+
+*Correction:* The theological principle of Exodus 25:40 is that the earthly Tabernacle was a copy of a heavenly original. Hebrews 8-9 builds its entire argument on this: the earthly priesthood, sacrifices, and furniture are "shadows" of the heavenly realities accomplished by Christ. The practical application for New Covenant worship is not about specific furniture but about this: approach God according to His revealed pattern, not human invention. The "pattern in the mount" principle means that worship must be shaped by what God has revealed, not what seems good to human creativity.
+
+---
+
+## SYMBOLIC THREADS
+
+**Gold:**
+- First appears in the Tabernacle: Exodus 25:3 — gold is the first metal listed among the offerings
+- Exodus 25:11 — the Ark overlaid with pure gold "within and without"
+- Exodus 25:17 — the mercy seat "of pure gold"
+- Exodus 25:31 — the menorah "of pure gold"
+- Revelation 21:18, 21 — "the city was pure gold, like unto clear glass... the street of the city was pure gold"
+- Job 23:10 — "when he hath tried me, I shall come forth as gold"
+- 1 Peter 1:7 — "That the trial of your faith, being much more precious than of gold that perisheth, though it be tried with fire, might be found unto praise and honour and glory at the appearing of Jesus Christ"
+- *Pattern:* Gold in the Tabernacle is consistently associated with the divine presence and divine nature — the closer to the Most Holy Place, the more gold dominates. The outer court is bronze; the Holy Place is gold-overlaid; the Most Holy Place is pure gold. The New Jerusalem is described as pure gold (Revelation 21:18) — the eschatological completion of what the Tabernacle's gold signified. Gold as a symbol of divinity and refined character is also used by Job and Peter: faith tried in fire comes out as gold.
+
+---
+
+**Shittim Wood (Acacia):**
+- First appears: Exodus 25:5 — shittim wood listed among the Tabernacle materials
+- Exodus 25:10 — the Ark made of shittim wood, overlaid with gold
+- Exodus 25:13 — the staves of shittim wood, overlaid with gold
+- Exodus 25:23 — the table of shittim wood, overlaid with gold
+- Acts 2:27 — Peter quotes Psalm 16:10 of Christ: "Because thou wilt not leave my soul in hell, neither wilt thou suffer thine Holy One to see corruption"
+- *Pattern:* Shittim (acacia) wood is the hardest, most incorruptible wood available in the Sinai region — it resists rot and decay. Every piece of Tabernacle furniture that carries the presence of God is built from this incorruptible wood and overlaid with gold. The wood-and-gold combination is the consistent material picture of the hypostatic union: incorruptible humanity (wood that does not decay) united with divine glory (gold). Acts 2:27 applies the incorruptibility principle directly to Christ's resurrection — His body would not see corruption. The shittim wood is the physical type of that incorruptible human nature.
+
+---
+
+**The Cherubim:**
+- First appears: Genesis 3:24 — "So he drove out the man; and he placed at the east of the garden of Eden Cherubims, and a flaming sword which turned every way, to keep the way of the tree of life"
+- Exodus 25:18-20 — two cherubim of beaten gold on the mercy seat, wings spread, faces toward the mercy seat
+- Ezekiel 1:5-14 — the four living creatures (cherubim) carrying the divine throne; described as having four faces, four wings, and wheels
+- Ezekiel 10:20 — "This is the living creature that I saw under the God of Israel by the river of Chebar; and I knew that they were the cherubims"
+- Revelation 4:6-8 — "And in the midst of the throne, and round about the throne, were four beasts (living creatures) full of eyes... And the first beast was like a lion, and the second beast like a calf, and the third beast had a face as a man, and the fourth beast was like a flying eagle"
+- *Pattern:* The cherubim at Eden guard the way to life; the cherubim on the mercy seat face the place where atonement is made. The change in orientation is the gospel in symbol: what barred the way back to life (Eden's cherubim with flaming sword) now bows over the place where the barrier is removed (the mercy seat's blood). In Revelation 4, the cherubim surround the throne crying "Holy, holy, holy" — they have moved from guardians of exclusion to worshippers of the One who opened the way. The cherubim's posture tracks the entire arc of redemptive history.

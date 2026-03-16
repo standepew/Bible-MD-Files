@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Christ's Healing Power, Calling of Twelve, Kingdom Division, Family of Faith
 
-**Tags:** #entered-synagogue-withered-hand-watched-heal-sabbath-accuse-man-withered-hand-stand-forth-saying-lawful-good-sabbath-evil-life-kill-held-peace-looked-round-anger-grieved-hardness-hearts-Stretch-hand-stretched-restored-Pharisees-counsel-Herodians-destroy-withdrew-disciples-sea-multitude-Galilee-Judaea-Jerusalem-Idumaea-Jordan-Tyre-Sidon-multitude-heard-great-things-came-spoke-disciples-small-ship-wait-multitude-throng-healed-many-plagues-unclean-spirits-fell-cried-Son-God-charged-make-known-mountain-calleth-whom-came-ordained-disciples-send-preach-power-heal-sicknesses-cast-devils-Simon-surnamed-Peter-James-Zebedee-John-brother-James-surnamed-Boanerges-thunder-Andrew-Philip-Bartholomew-Matthew-Thomas-James-Alphæus-Thaddæus-Simon-Canaanite-Judas-Iscariot-betrayed-house-multitude-could-bread-friends-hold-beside-mother-brethren-without-calling-scribes-Jerusalem-Beelzebub-prince-devils-cast-devils-called-parables-Satan-cast-Satan-kingdom-divided-stand-house-divided-stand-Satan-rise-divided-stand-end-strong-man-house-spoil-goods-bind-strong-man-spoil-house-sins-forgiven-sons-men-blasphemies-blaspheme-Holy-Ghost-forgiveness-eternal-damnation-unclean-spirit-brethren-mother-without-calling-multitude-mother-brethren-without-seek-answered-mother-brethren-looked-behold-mother-brethren-whosoever-will-God-brother-sister-mother
+**Tags:** #christ #calling-of-twelve #kingdom-division #family-of-faith
 
 ---
 
@@ -299,7 +299,7 @@ Entered, synagogue, withered, hand, watched, heal, sabbath, accuse, man, withere
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Christ's Healing Power as Type of Christ's Restoration
 - **Physical healing:** Withered hand (Mark 3:3)

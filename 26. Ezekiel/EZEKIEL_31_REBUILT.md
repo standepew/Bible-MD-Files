@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Majesty, Assyrian Pride, Divine Judgment, Christ's Kingdom
 
-**Tags:** #eleventh-year-third-month-first-day-month-word-LORD-son-man-Pharaoh-king-Egypt-multitude-greatness-Assyrian-cedar-Lebanon-fair-branches-shadowing-shroud-high-stature-top-thick-boughs-waters-deep-set-rivers-running-plants-sent-little-rivers-trees-field-height-exalted-trees-field-boughs-multiplied-branches-long-multitude-waters-shot-fowls-heaven-nests-boughs-branches-beasts-field-bring-young-shadow-dwell-nations-fair-greatness-length-branches-root-great-waters-cedars-garden-GOD-hide-fir-trees-boughs-chesnut-trees-branches-tree-garden-GOD-beauty-multitude-branches-trees-Eden-garden-GOD-envied-Lord-GOD-lifted-height-shot-top-thick-boughs-heart-lifted-height-delivered-hand-mighty-heathen-deal-driven-wickedness-strangers-terrible-nations-cut-left-mountains-valleys-branches-fallen-boughs-broken-rivers-land-people-earth-shadow-left-ruin-fowls-heaven-remain-beasts-field-branches-trees-waters-exalt-height-shoot-top-thick-boughs-trees-stand-height-drink-water-delivered-death-nether-parts-earth-midst-children-men-descend-pit-Lord-GOD-day-grave-caused-mourning-covered-deep-restrained-floods-great-waters-stayed-caused-Lebanon-mourn-trees-field-fainted-nations-shake-sound-fall-cast-hell-descend-pit-trees-Eden-choice-best-Lebanon-drink-water-comforted-nether-parts-earth-descend-hell-slain-sword-arm-shadow-midst-heathen-glory-greatness-trees-Eden-brought-trees-Eden-nether-parts-earth-midst-uncircumcised-slain-sword-Pharaoh-multitude-Lord-GOD
+**Tags:** #christ #assyrian-pride #divine-judgment
 
 ---
 

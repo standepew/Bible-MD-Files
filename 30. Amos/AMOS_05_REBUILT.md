@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Call to Seek God, Lamentation for Israel, Day of the LORD, True Worship
 
-**Tags:** #Hear-word-lamentation-house-Israel-virgin-Israel-fallen-rise-forsaken-land-raise-saith-Lord-GOD-city-thousand-hundred-hundred-ten-house-Israel-saith-LORD-house-Israel-Seek-live-Seek-Beth-enter-Gilgal-pass-Beer-sheba-Gilgal-captivity-Beth-nought-Seek-LORD-live-break-fire-house-Joseph-devour-quench-Beth-turn-judgment-wormwood-leave-righteous-earth-Seek-maketh-seven-stars-Orion-turneth-shadow-death-morning-maketh-day-dark-night-calleth-waters-sea-poureth-face-earth-LORD-strengtheneth-spoiled-strong-spoiled-fortress-hate-rebuketh-gate-abhor-speaketh-uprightly-treading-poor-burdens-wheat-built-houses-hewn-stone-dwell-planted-pleasant-vineyards-drink-wine-know-manifold-transgressions-mighty-sins-afflict-just-bribe-aside-poor-gate-right-prudent-keep-silence-time-evil-time-Seek-good-evil-live-LORD-God-hosts-spoken-Hate-evil-love-good-establish-judgment-gate-LORD-God-hosts-gracious-remnant-Joseph-LORD-God-hosts-Lord-saith-Wailing-streets-highways-Alas-husbandman-mourning-skillful-lamentation-wailing-vineyards-wailing-pass-throug-LORD-Woe-desire-day-LORD-end-day-LORD-darkness-light-flee-lion-bear-met-house-hand-wall-serpent-bit-day-LORD-darkness-light-dark-brightness-despise-feast-days-smell-solemn-assemblies-offer-burnt-offerings-meat-offerings-accept-regard-peace-offerings-fat-beasts-noise-songs-hear-melody-viols-judgment-waters-righteousness-mighty-stream-offered-sacrifices-offerings-wilderness-years-house-Israel-borne-tabernacle-Moloch-Chiun-images-star-god-made-cause-captivity-beyond-Damascus-LORD-name-God-hosts
+**Tags:** #christ #lamentation-for-israel #day-of-the-lord #true-worship
 
 ---
 

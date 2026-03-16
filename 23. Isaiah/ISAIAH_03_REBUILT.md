@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Divine Judgment, Leadership Collapse, Social Chaos, Christ's Restoration
 
-**Tags:** #behold-Lord-LORD-hosts-take-Jerusalem-Judah-stay-staff-whole-stay-bread-whole-stay-water-mighty-man-man-war-judge-prophet-prudent-ancient-captain-fifty-honourable-man-counsellor-cunning-artificer-eloquent-orator-give-children-princes-babes-rule-people-oppressed-neighbour-behave-proudly-ancient-base-honourable-man-take-hold-brother-house-father-saying-clothing-ruler-ruin-hand-day-swear-healer-house-bread-clothing-ruler-people-Jerusalem-ruined-Judah-fallen-tongue-doings-LORD-provoke-eyes-glory-shew-countenance-witness-declare-sin-Sodom-hide-Woe-soul-rewarded-evil-righteous-fruit-doings-Woe-wicked-ill-reward-hands-people-children-oppressors-women-rule-people-lead-cause-err-destroy-way-paths-LORD-standeth-plead-stand-judge-people-LORD-enter-judgment-ancients-people-princes-eaten-vineyard-spoil-poor-houses-mean-ye-beat-people-pieces-grind-faces-poor-Lord-GOD-hosts-daughters-Zion-haughty-walk-stretched-necks-wanton-eyes-walking-mincing-tinkling-feet-Lord-smite-scab-crown-head-daughters-Zion-LORD-discover-secret-parts-day-Lord-take-bravery-tinkling-ornaments-feet-cauls-round-tires-moon-chains-bracelets-mufflers-bonnets-ornaments-legs-headbands-tablets-earrings-rings-nose-jewels-changeable-suits-apparel-mantles-wimples-crisping-pins-glasses-fine-linen-hoods-vails-pass-instead-sweet-smell-stink-girdle-rent-well-set-hair-baldness-stomacher-girding-sackcloth-burning-beauty-men-fall-sword-mighty-war-gates-lament-mourn-desolate-sit-ground
+**Tags:** #divine-judgment #leadership-collapse #social-chaos #christ
 
 ---
 

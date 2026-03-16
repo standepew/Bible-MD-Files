@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** New Song Praise, Joyful Worship, Divine Pleasure, Saintly Victory
 
-**Tags:** #Praise-LORD-Sing-LORD-new-song-praise-congregation-saints-Israel-rejoice-made-children-Zion-joyful-King-praise-name-dance-sing-praises-timbrel-harp-LORD-taketh-pleasure-people-beautify-meek-salvation-saints-joyful-glory-sing-aloud-beds-high-praises-God-mouth-twoedged-sword-hand-execute-vengeance-heathen-punishments-people-bind-kings-chains-nobles-fetters-iron-execute-judgment-written-honour-saints-Praise-LORD
+**Tags:** #new-song-praise #joyful-worship #divine-pleasure #saintly-victory
 
 ---
 

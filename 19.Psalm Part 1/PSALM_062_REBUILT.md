@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Soul Waits on God, God as Rock, Human Vanity, Divine Power
 
-**Tags:** #chief-Musician-Jeduthun-Psalm-David-Truly-soul-waiteth-GOD-salvation-rock-salvation-defence-greatly-moved-long-imagine-mischief-man-slain-bowing-wall-tottering-fence-consult-cast-down-excellency-delight-lies-bless-mouth-curse-inwardly-Selah-soul-wait-GOD-expectation-rock-salvation-defence-moved-GOD-salvation-glory-rock-strength-refuge-GOD-trust-people-pour-heart-refuge-Selah-men-low-degree-vanity-men-high-degree-lie-balance-lighter-vanity-trust-oppression-vain-robbery-riches-increase-heart-GOD-spoken-once-heard-power-belongeth-GOD-Lord-belongeth-mercy-render-man-work
+**Tags:** #soul-waits-on-god #god-as-rock #human-vanity #divine-power
 
 ---
 

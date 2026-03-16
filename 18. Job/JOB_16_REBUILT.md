@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Job's Response, Miserable Comforters, Divine Assault, Plea for Mediator
 
-**Tags:** #Job-answered-heard-things-miserable-comforters #vain-words-end-emboldeneth-answer #speak-soul-soul-stead-heap-words-shake-head #strengthen-mouth-lips-asswage-grief #speak-grief-asswaged-forbear-eased #weary-desolate-company #wrinkles-witness-leanness-face #teareth-wrath-hated-gnasheth-teeth-enemy-sharpen-eyes #gaped-mouth-smitten-cheek-reproachfully-gathered #God-delivered-ungodly-hands-wicked #ease-broken-neck-shaken-pieces-mark #archers-compass-cleave-reins-spare-poureth-gall-ground #breach-breach-giant #sewed-sackcloth-skin-defiled-horn-dust #face-foul-weeping-eyelids-shadow-death #injustice-hands-prayer-pure #earth-cover-blood-cry-place #witness-heaven-record-high #friends-scorn-eye-poureth-tears-GOD #plead-man-GOD-neighbour #years-go-way-return
+**Tags:** #vain-words-end-emboldeneth-answer #strengthen-mouth-lips-asswage-grief #speak-grief-asswaged-forbear-eased #weary-desolate-company #wrinkles-witness-leanness-face #God-delivered-ungodly-hands-wicked #breach-breach-giant #injustice-hands-prayer-pure #earth-cover-blood-cry-place #witness-heaven-record-high #plead-man-GOD-neighbour #years-go-way-return #job #miserable-comforters #divine-assault #plea-for-mediator
 
 ---
 

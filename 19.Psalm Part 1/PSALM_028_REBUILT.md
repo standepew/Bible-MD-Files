@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Prayer for Help, God as Rock, Judgment on Wicked, Thanksgiving for Salvation
 
-**Tags:** #Psalm-David-cry-LORD-rock-silent-pit-hear-voice-supplications-cry-lift-hands-holy-oracle-draw-wicked-workers-iniquity-speak-peace-neighbours-mischief-hearts-give-deeds-wickedness-endeavours-work-hands-render-desert-regard-works-LORD-operation-hands-destroy-build #blessed-LORD-heard-voice-supplications-LORD-strength-shield-heart-trusted-helped-heart-greatly-rejoiceth-song-praise-LORD-strength-saving-strength-anointed-save-people-bless-inheritance-feed-lift-forever
+**Tags:** #prayer-for-help #god-as-rock #judgment-on-wicked #thanksgiving-for-salvation
 
 ---
 

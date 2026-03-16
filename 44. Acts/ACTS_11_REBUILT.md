@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Peter Reports to Jerusalem, The Church in Antioch, The First Christians
 
-**Tags:** #apostles-brethren-Judaea-heard-Gentiles-received-word-God-Peter-Jerusalem-circumcision-contended-wentest-men-uncircumcised-didst-eat-rehearsed-matter-beginning-expounded-order-city-Joppa-praying-trance-vision-vessel-descend-great-sheet-heaven-four-corners-came-fastened-eyes-considered-fourfooted-beasts-earth-wild-beasts-creeping-things-fowls-air-heard-voice-Arise-Peter-slay-eat-Lord-common-unclean-entered-mouth-voice-answered-heaven-God-cleansed-call-common-three-times-drawn-heaven-behold-three-men-house-sent-Caesarea-Spirit-bade-doubting-six-brethren-accompanied-entered-house-shewed-angel-house-stood-Send-men-Joppa-call-Simon-surname-Peter-words-house-shall-saved-began-speak-Holy-Ghost-fell-beginning-remembered-word-Lord-John-baptized-water-baptized-Holy-Ghost-God-gift-believed-Lord-Jesus-Christ-withstand-God-heard-held-peace-glorified-God-Gentiles-granted-repentance-life-scattered-abroad-persecution-arose-Stephen-travelled-Phenice-Cyprus-Antioch-preaching-word-Jews-men-Cyprus-Cyrene-Antioch-spoke-Grecians-preaching-Lord-Jesus-hand-Lord-great-number-believed-turned-Lord-tidings-ears-church-Jerusalem-sent-Barnabas-Antioch-came-seen-grace-God-glad-exhorted-purpose-heart-cleave-Lord-good-man-full-Holy-Ghost-faith-much-people-added-Lord-departed-Barnabas-Tarsus-seek-Saul-found-brought-Antioch-whole-year-assembled-church-taught-people-disciples-called-Christians-Antioch-days-prophets-Jerusalem-Antioch-stood-Agabus-signified-Spirit-great-dearth-world-days-Claudius-Caesardisciples-ability-determined-relief-brethren-dwelt-Judaea-sent-elders-hands-Barnabas-Saul
+**Tags:** #peter-reports-to-jerusalem #the-church-in-antioch #the-first-christians
 
 ---
 
@@ -225,7 +225,7 @@ Apostles, brethren, Judaea, heard, Gentiles, received, word, God, Peter, Jerusal
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Peter Reports to Jerusalem as Type of Christ's Testimony
 - **Physical report:** Peter rehearsed (Acts 11:7)

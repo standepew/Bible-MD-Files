@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Christ Our Advocate, Keeping Commandments, Love and Hate, The Three Stages of Spiritual Growth, Love Not the World, Antichrists and the Anointing
 
-**Tags:** #little-children-write-sin-advocate-Father-Jesus-Christ-righteous-propitiation-sins-whole-world-know-commandments-liar-truth-keepeth-word-love-God-perfected-know-abideth-walk-walked-Brethren-commandment-old-commandment-beginning-word-heard-beginning-new-commandment-true-darkness-past-true-light-shineth-light-hateth-brother-darkness-loveth-brother-light-stumbling-hateth-brother-darkness-walketh-darkness-knoweth-whither-goeth-blinded-eyes-sins-forgiven-name-sake-fathers-known-beginning-young-men-overcome-wicked-one-known-Father-strong-word-God-overcome-wicked-one-Love-world-things-world-love-world-love-Father-world-lust-flesh-lust-eyes-pride-life-Father-world-passeth-lust-doeth-will-God-abideth-last-time-antichrist-antichrists-last-time-went-not-continued-manifest-unction-Holy-know-things-truth-lie-truth-liar-denying-Jesus-Christ-antichrist-denying-Father-Son-denying-Son-Father-acknowledging-Son-Father-abide-heard-beginning-remain-continue-Son-Father-promise-eternal-life-written-seduce-anointing-received-teach-anointing-teacheth-truth-lie-taught-abide-appear-confidence-ashamed-coming-righteous-doeth-righteousness-born
+**Tags:** #christ-our-advocate #keeping-commandments #love-and-hate #the-three-stages-of-spiritual-growth #love-not-the-world #antichrists-and-the-anointing
 
 ---
 
@@ -217,7 +217,7 @@ Little, children, write, sin, advocate, Father, Jesus, Christ, righteous, propit
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Christ Our Advocate as Type of Christ's Intercessory Ministry
 - **Physical intercession:** Advocate Father (1 John 2:2)

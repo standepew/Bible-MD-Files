@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Resurrection, Valley of Bones, Divine Unity, Christ's Kingdom
 
-**Tags:** #hand-LORD-spirit-LORD-valley-bones-pass-round-very-many-open-valley-very-dry-Son-man-bones-live-Lord-GOD-knowest-prophesy-bones-dry-bones-word-Lord-Lord-GOD-bones-breath-live-lay-sinews-flesh-skin-breath-live-know-Lord-prophesied-commanded-prophesied-noise-shaking-bones-bone-sinews-flesh-skin-breath-prophesy-wind-prophesy-son-man-wind-Lord-GOD-four-winds-breath-breathe-slain-live-prophesied-commanded-breath-lived-stood-feet-exceeding-great-army-bones-house-Israel-bones-dried-hope-lost-cut-parts-prophesy-Lord-GOD-people-open-graves-graves-land-Israel-know-Lord-opened-graves-people-graves-put-spirit-live-place-land-know-Lord-spoken-performed-Lord-word-LORD-son-man-stick-write-Judah-children-Israel-companions-stick-write-Joseph-stick-Ephraim-house-Israel-companions-join-stick-stick-hand-children-people-shew-meanest-Lord-GOD-stick-Joseph-hand-Ephraim-tribes-Israel-fellows-stick-Judah-stick-stick-hand-sticks-hand-eyes-Lord-GOD-children-Israel-heathen-gather-side-land-Israel-one-nation-land-mountains-Israel-one-king-king-two-nations-divided-two-kingdoms-defile-idols-detestable-things-transgressions-save-dwellingplaces-sinned-cleanse-people-GOD-David-servant-king-shepherd-walk-judgments-observe-statutes-dwell-land-Jacob-servant-fathers-dwelt-children-children-children-forever-servant-David-prince-forever-covenant-peace-everlasting-covenant-place-multiply-sanctuary-forevermore-tabernacle-God-people-heathen-know-Lord-sanctify-Israel-sanctuary-midst-forevermore
+**Tags:** #christ #valley-of-bones #divine-unity
 
 ---
 

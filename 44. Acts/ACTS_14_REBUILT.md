@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Ministry in Iconium, Healing at Lystra, Paul Stoned at Lystra, Return to Antioch
 
-**Tags:** #Iconium-synagogue-Jews-spake-great-multitude-Jews-Greeks-believed-unbelieving-Jews-stirred-Gentiles-minds-evil-affected-brethren-long-time-abode-speaking-boldly-Lord-testimony-word-grace-granted-signs-wonders-hands-multitude-city-divided-held-Jews-apostles-assault-Gentiles-Jews-rulers-despitefully-stone-were-fled-Lystra-Derbe-cities-Lycaonia-region-preached-gospel-Lystra-man-impotent-feet-cripple-mother-womb-walked-heard-Paul-speak-stedfastly-beholding-perceiving-faith-healed-loud-voice-stand-upright-feet-leaped-walked-people-saw-Paul-lifted-voices-speech-Lycaonia-gods-likeness-men-called-Barnabas-Jupiter-Paul-Mercurius-chief-speaker-priest-Jupiter-city-brought-oxen-garlands-gates-sacrifice-people-apostles-Barnabas-Paul-heard-rent-clothes-ran-people-crying-Sirs-things-men-like-passions-preach-turn-vanities-living-God-made-heaven-earth-sea-therein-times-suffered-nations-walk-ways-left-witness-good-gave-rain-heaven-fruitful-seasons-filling-hearts-food-gladness-sayings-scarce-restrained-people-sacrifice-Jews-Antioch-Iconium-persuaded-people-stoned-Paul-drew-city-supposing-dead-disciples-stood-rose-city-day-departed-Barnabas-Derbe-preached-gospel-city-taught-returned-Lystra-Iconium-Antioch-confirming-souls-disciples-exhorting-continue-faith-tribulation-kingdom-God-ordained-elders-church-prayed-fasting-commended-Lord-believed-passed-Pisidia-Pamphylia-preached-word-Perga-Attalia-thence-sailed-Antioch-recommended-grace-God-work-fulfilled-gathered-church-rehearsed-God-opened-door-faith-Gentiles-abode-disciples
+**Tags:** #ministry-in-iconium #healing-at-lystra #paul-stoned-at-lystra #return-to-antioch
 
 ---
 
@@ -235,7 +235,7 @@ Iconium, synagogue, Jews, spake, great, multitude, Jews, Greeks, believed, unbel
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Ministry in Iconium as Type of Christ's Perseverance
 - **Physical ministry:** Speaking boldly (Acts 14:5)

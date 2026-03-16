@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** The Earthly and Heavenly House, The Judgment Seat of Christ, The Ministry of Reconciliation, New Creation in Christ
 
-**Tags:** #earthly-house-tabernacle-dissolved-building-God-house-hands-eternal-heavens-groan-earnestly-desiring-clothed-house-heaven-clothed-found-naked-tabernacle-groan-burdened-unclothed-clothed-mortality-swallowed-life-wrought-selfsame-God-given-earnest-Spirit-confident-knowing-home-body-absent-Lord-walk-faith-sight-confident-willing-absent-body-present-Lord-labour-present-absent-accepted-appear-judgment-seat-Christ-receive-things-body-according-good-bad-knowing-terror-Lord-persuade-men-manifest-God-trust-manifest-consciences-commend-occasion-glory-behalf-answer-glory-appearance-heart-beside-sober-cause-love-Christ-constraineth-judge-died-dead-died-live-henceforth-live-themselves-died-rose-again-henceforth-know-Christ-flesh-know-Christ-man-Christ-new-creature-old-things-passed-behold-things-become-God-reconciled-Jesus-Christ-ministry-reconciliation-Christ-reconciling-world-imputing-trespasses-committed-word-reconciliation-ambassadors-Christ-beseech-pray-Christ-stead-reconciled-God-sin-knew-sin-righteousness-God
+**Tags:** #the-earthly-and-heavenly-house #the-judgment-seat-of-christ #the-ministry-of-reconciliation #new-creation-in-christ
 
 ---
 
@@ -197,7 +197,7 @@ Earthly, house, tabernacle, dissolved, building, God, house, hands, eternal, hea
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Earthly and Heavenly House as Type of Christ's Resurrection
 - **Physical resurrection:** Earthly house (2 Corinthians 5:3)

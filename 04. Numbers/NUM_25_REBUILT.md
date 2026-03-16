@@ -2,7 +2,7 @@
 
 ---
 
-## 1. CHAPTER METADATA
+## CHAPTER METADATA
 
 **Book:** Numbers
 **Chapter:** 25
@@ -13,13 +13,13 @@
 
 ---
 
-## 2. CHAPTER SUMMARY
+## CHAPTER SUMMARY
 
 Israel camps at Shittim. The people begin committing whoredom with Moabite women. The women invite Israel to their sacrifices; Israel eats and bows to their gods. Israel joins himself to Baal-Peor; the LORD's anger burns. God commands Moses: hang the heads of the people before the LORD against the sun to turn away His fierce anger. Moses commands the judges to slay every man joined to Baal-Peor. Then, in full public view — before the entire weeping congregation at the Tabernacle door — one Israelite named Zimri, prince of a Simeonite house, brings a Midianite woman named Cozbi, daughter of a Midianite chief, into the camp. Phinehas, son of Eleazar son of Aaron, sees it. He rises from the congregation, takes a javelin, goes into the tent after them, and thrusts both through. The plague is stayed. 24,000 have died. God speaks to Moses: Phinehas has turned My wrath from the children of Israel while he was zealous for My sake — he made atonement for the children of Israel. Therefore I give him My **covenant of peace** and his seed after him — the **covenant of an everlasting priesthood** — because he was zealous for his God. The names: the Israelite was Zimri son of Salu, a prince of Simeon; the Midianite woman was Cozbi daughter of Zur, a head of a Midianite house. God commands: vex the Midianites and smite them — for they beguiled Israel in the matter of Peor and in the matter of Cozbi.
 
 ---
 
-## 3. CROSS-REFERENCES (Scripture Interpreting Scripture)
+## CROSS-REFERENCES (Scripture Interpreting Scripture) (Scripture Interpreting Scripture)
 
 ### The Doctrine of Balaam — What the Curse Could Not Do, the Counsel Did
 
@@ -52,7 +52,7 @@ Israel camps at Shittim. The people begin committing whoredom with Moabite women
 
 ---
 
-## 4. KEYWORD INDEX
+## KEYWORD INDEX
 
 **For Current Events Matching:**
 - **Spiritual seduction through sexual immorality** → Numbers 25:1-3 — Revelation 2:14; Balaam's counsel; the enemy's indirect strategy
@@ -63,7 +63,7 @@ Israel camps at Shittim. The people begin committing whoredom with Moabite women
 
 ---
 
-## 5. KEY TERMS WITH CONTEXTUAL DEFINITIONS
+## KEY TERMS WITH CONTEXTUAL DEFINITIONS WITH CONTEXTUAL DEFINITIONS
 
 ### JOINED TO BAAL-PEOR (Hebrew: tsamad — yoked to, attached, bound to)
 - **Numbers 25:3** — "Israel joined himself unto Baal-peor"
@@ -75,7 +75,7 @@ Israel camps at Shittim. The people begin committing whoredom with Moabite women
 
 ---
 
-## 6. THE ACTUAL VERSES — NUMBERS 25 (KJV)
+## THE ACTUAL VERSES (KJV) — NUMBERS 25 (KJV)
 
 **1** And Israel abode in Shittim, and the people began to commit whoredom with the daughters of Moab.
 **2** And they called the people unto the sacrifices of their gods: and the people did eat, and bowed down to their gods.
@@ -98,7 +98,7 @@ Israel camps at Shittim. The people begin committing whoredom with Moabite women
 
 ---
 
-## 7. PROPHETIC/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS/TYPOLOGICAL CONNECTIONS
 
 ### Phinehas as Type of Christ's Zeal
 
@@ -111,7 +111,7 @@ Aaron ran with incense and stood between the dead and the living (Numbers 16:48)
 
 ---
 
-## 8. COMMONLY MISQUOTED PASSAGES
+## COMMONLY MISQUOTED PASSAGES PASSAGES
 
 ### Numbers 25:7-8 — Phinehas Used to Justify Vigilante Violence in God's Name
 
@@ -126,7 +126,7 @@ Aaron ran with incense and stood between the dead and the living (Numbers 16:48)
 
 ---
 
-## 9. SYMBOLIC THREADS
+## SYMBOLIC THREADS
 
 ### The Weeping Congregation at the Tabernacle Door
 

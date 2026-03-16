@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Spiritual Gifts, The Body of Christ, Unity in Diversity, Church Order
 
-**Tags:** #spiritual-gifts-brethren-ignorant-Gentiles-carried-dumb-idols-led-understand-speaking-Spirit-God-calleth-Jesus-accursed-man-say-Jesus-Lord-Holy-Ghost-diversities-gifts-Spirit-differences-administrations-Lord-diversities-operations-God-worketh-manifestation-Spirit-profit-word-wisdom-word-knowledge-Spirit-faith-Spirit-gifts-healing-Spirit-working-miracles-prophecy-discerning-spirits-diversities-tongues-interpretation-tongues-worketh-Spirit-dividing-man-severally-body-one-members-members-one-body-Christ-Spirit-baptized-body-Jews-Gentiles-bond-free-drink-Spirit-body-member-foot-hand-ear-eye-body-eye-hearing-hearing-smelling-God-set-members-body-pleased-member-body-members-body-eye-hand-need-head-feet-need-feeble-members-necessary-less-honourable-abundant-honour-uncomely-parts-abundant-comeliness-comely-parts-need-tempered-body-abundant-honour-lacked-schism-body-members-care-member-member-suffer-members-suffer-member-honoured-members-rejoice-body-Christ-members-particular-God-set-church-apostles-prophets-teachers-miracles-gifts-healings-helps-governments-diversities-tongues-apostles-prophets-teachers-workers-miracles-gifts-healing-speak-tongues-interpret-covet-earnestly-best-gifts-shew-excellent-way
+**Tags:** #spiritual-gifts #the-body-of-christ #unity-in-diversity #church-order
 
 ---
 
@@ -253,7 +253,7 @@ Spiritual, gifts, brethren, ignorant, Gentiles, carried, dumb, idols, led, under
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Spiritual Gifts as Type of Christ's Power
 - **Physical power:** Working miracles (1 Corinthians 12:9)

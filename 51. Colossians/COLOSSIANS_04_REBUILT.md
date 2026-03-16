@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Masters and Servants, Continue in Prayer, Walk in Wisdom, Final Greetings
 
-**Tags:** #Masters-servants-just-equal-knowing-Master-heaven-Continue-prayer-watch-thanksgiving-praying-God-open-door-utterance-speak-mystery-Christ-bonds-make-manifest-ought-speak-Walk-wisdom-without-redeeming-time-speech-grace-seasoned-salt-know-answer-Tychicus-declare-beloved-brother-faithful-minister-fellowservant-Lord-sent-purpose-estate-comfort-hearts-Onesimus-faithful-beloved-brother-make-known-Aristarchus-fellowprisoner-salute-Marcus-sister-son-Barnabas-received-commandments-come-receive-Jesus-Justus-circumcision-fellowworkers-kingdom-God-comfort-Epaphras-servant-Christ-salute-labouring-fervently-prayers-stand-perfect-complete-will-God-bear-record-zeal-Laodicea-Hierapolis-Luke-beloved-physician-Demas-greet-Salute-brethren-Laodicea-Nymphas-church-house-epistle-read-church-Laodiceans-likewise-read-epistle-Laodicea-Archippus-Take-heed-ministry-received-Lord-fulfil-salutation-hand-Paul-Remember-bonds-Grace-Amen
+**Tags:** #masters-and-servants #continue-in-prayer #walk-in-wisdom #final-greetings
 
 ---
 
@@ -167,7 +167,7 @@ Masters, servants, just, equal, knowing, Master, heaven, Continue, prayer, watch
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Masters and Servants as Type of Christ's Lordship
 - **Physical lordship:** Master heaven (Colossians 4:2)

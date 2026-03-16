@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Caring for the Poor, Betrayal by Friends, Divine Healing, God's Favor
 
-**Tags:** #chief-Musician-Psalm-David-blessed-considereth-poor-LORD-deliver-time-trouble-LORD-preserve-keep-alive-blessed-earth-deliver-enemies-LORD-strengthen-bed-languishing-make-bed-sickness-LORD-merciful-heal-soul-sinned-enemies-speak-evil-die-name-perish-come-see-speak-vanity-heart-gathereth-iniquity-goeth-abroad-telleth-hate-whisper-devise-hurt-evil-disease-cleaveth-fast-lieth-rise-familiar-friend-trusted-ate-bread-lifted-heel-against #LORD-merciful-raise-requite-favourest-enemy-triumph-upholdest-integrity-settest-face-forever-blessed-LORD-GOD-Israel-everlasting-Amen
+**Tags:** #caring-for-the-poor #betrayal-by-friends #divine-healing #god
 
 ---
 

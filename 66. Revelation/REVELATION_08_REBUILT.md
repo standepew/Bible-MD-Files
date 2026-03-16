@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** The Seventh Seal and Silence, The Seven Trumpets, The First Four Trumpets, The Three Woes
 
-**Tags:** #opened-seventh-seal-silence-heaven-half-hour-seven-angels-stood-God-given-seven-trumpets-angel-standed-altar-golden-censer-given-incense-offer-prayers-saints-golden-altar-throne-smoke-incense-prayers-saints-ascended-God-angel-hand-angel-censer-filled-fire-altar-cast-earth-voices-thunderings-lightnings-earthquake-seven-angels-seven-trumpets-prepared-sound-first-angel-sounded-followed-hail-fire-mingled-blood-cast-earth-third-part-trees-burnt-green-grass-burnt-second-angel-sounded-great-mountain-burning-fire-cast-sea-third-part-sea-blood-third-part-creatures-sea-life-died-third-part-ships-destroyed-third-angel-sounded-great-star-heaven-burning-lamp-fell-third-part-rivers-fountains-waters-name-star-called-Wormwood-third-part-waters-wormwood-men-died-waters-made-bitter-fourth-angel-sounded-third-part-sun-smitten-third-part-moon-third-part-stars-third-part-darkened-day-shone-third-part-night-beheld-angel-flying-midst-heaven-loud-voice-Woe-woe-woe-inhabiters-earth-reason-voices-trumpet-three-angels-sound
+**Tags:** #the-seventh-seal-and-silence #the-seven-trumpets #the-first-four-trumpets #the-three-woes
 
 ---
 
@@ -157,7 +157,7 @@ Opened, seventh, seal, silence, heaven, half, hour, seven, angels, stood, God, g
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Seventh Seal and Silence as Type of Christ's Solemn Preparation
 - **Physical preparation:** Seventh seal (Revelation 8:2)

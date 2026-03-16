@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Jesus Appears to Seven Disciples, The Miraculous Catch of Fish, Jesus and Peter, The Purpose of the Gospel
 
-**Tags:** #things-Jesus-shewed-disciples-sea-Tiberias-wise-shewed-Simon-Peter-Thomas-Didymus-Nathanael-Cana-Galilee-sons-Zebedee-disciples-Simon-Peter-fishing-ship-immediately-night-caught-morning-Jesus-shore-disciples-Jesus-Children-meat-answered-Cast-net-right-ship-find-cast-able-draw-multitude-fishes-disciple-Jesus-loved-Peter-Lord-Simon-Peter-Lord-girt-fisher-coat-naked-cast-sea-disciples-ship-land-two-hundred-cubits-dragging-net-fishes-land-fire-coals-fish-laid-bread-Jesus-fish-caught-Simon-Peter-net-land-fishes-hundred-fifty-three-many-net-broken-Jesus-dine-disciples-durst-Lord-knowing-Lord-Jesus-bread-giveth-fish-third-time-shewed-disciples-risen-dead-dined-Jesus-Simon-Peter-Jonas-lovest-Lord-knowest-love-Feed-lambs-second-time-Jonas-lovest-Lord-knowest-love-Feed-sheep-third-time-Jonas-lovest-grieved-third-Lord-knowest-knowest-love-Feed-sheep-young-girded-walked-wouldest-old-stretch-hands-gird-carry-wouldest-glory-God-spoken-death-Follow-Peter-disciple-Jesus-loved-breast-supper-Lord-betrayeth-Peter-Jesus-man-Jesus-come-follow-saying-abroad-brethren-disciple-die-Jesus-die-come-disciple-testifieth-wrote-testimony-true-things-Jesus-books-world-contain-books-Amen
+**Tags:** #jesus-appears-to-seven-disciples #the-miraculous-catch-of-fish #jesus-and-peter #the-purpose-of-the-gospel
 
 ---
 
@@ -193,7 +193,7 @@ Things, Jesus, shewed, disciples, sea, Tiberias, wise, shewed, Simon, Peter, Tho
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Jesus Appears to Seven Disciples as Type of Christ's Presence
 - **Physical appearance:** Jesus shore (John 21:6)

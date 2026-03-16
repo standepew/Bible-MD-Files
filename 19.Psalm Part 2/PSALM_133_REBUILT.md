@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Unity of Brethren, Anointed Blessing, Divine Favor, Eternal Life
 
-**Tags:** #Song-degrees-David-good-pleasant-brethren-dwell-unity-precious-ointment-head-ran-beard-Aaron-beard-went-down-skirts-garments-dew-Hermon-dew-descended-mountains-Zion-LORD-commanded-blessing-life-forevermore
+**Tags:** #unity-of-brethren #anointed-blessing #divine-favor #eternal-life
 
 ---
 

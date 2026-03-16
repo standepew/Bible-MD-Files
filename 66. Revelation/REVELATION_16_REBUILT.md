@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** The Seven Vials of Wrath, The First Six Vials, The Battle of Armageddon, The Seventh Vial, The Great Earthquake
 
-**Tags:** #great-voice-temple-seven-angels-ways-pour-vials-wrath-God-earth-first-poured-vial-earth-noisome-grievous-sore-men-mark-beast-worshipped-image-second-angel-poured-vial-sea-blood-dead-man-living-soul-died-sea-third-angel-poured-vial-rivers-fountains-waters-blood-heard-angel-waters-righteous-Lord-judged-shed-blood-saints-prophets-given-blood-drink-worthy-altar-Lord-God-Almighty-true-righteous-judgments-fourth-angel-poured-vial-sun-power-scorch-men-fire-men-scorched-great-heat-blasphemed-name-God-power-plagues-repented-glory-fifth-angel-poured-vial-seat-beast-kingdom-darkness-gnawed-tongues-pain-blasphemed-God-heaven-pains-sores-repented-deeds-sixth-angel-poured-vial-great-river-Euphrates-water-dried-way-kings-east-prepared-three-unclean-spirits-frogs-mouth-dragon-mouth-beast-mouth-false-prophet-spirits-devils-working-miracles-kings-earth-whole-world-gather-battle-great-day-God-Almighty-thief-Blessed-watcheth-keepeth-garments-walk-naked-shame-gathered-place-Hebrew-Armageddon-seventh-angel-poured-vial-air-great-voice-temple-heaven-throne-voices-thunders-lightnings-great-earthquake-mighty-earthquake-great-city-divided-three-parts-cities-nations-fell-great-Babylon-remembrance-God-cup-wine-fierceness-wrath-island-fled-mountains-found-great-hail-heaven-stone-weight-talent-men-blasphemed-God-plague-hail-plague-exceeding-great
+**Tags:** #the-seven-vials-of-wrath #the-first-six-vials #the-battle-of-armageddon #the-seventh-vial #the-great-earthquake
 
 ---
 
@@ -199,7 +199,7 @@ Great, voice, temple, seven, angels, ways, pour, vials, wrath, God, earth, first
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Seven Vials of Wrath as Type of Christ's Complete Judgment
 - **Physical complete judgment:** Vials wrath (Revelation 16:2)

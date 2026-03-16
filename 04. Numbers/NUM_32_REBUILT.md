@@ -2,24 +2,24 @@
 
 ---
 
-## 1. CHAPTER METADATA
+## CHAPTER METADATA
 
 **Book:** Numbers
 **Chapter:** 32
 **Testament:** Old Testament
 **Key Themes:** Reuben and Gad see the cattle-land east of Jordan and ask to settle there instead of crossing over, Moses's alarm: this is exactly what happened at Kadesh — the fathers discouraged the people and cost them forty years; are you rising up to do the same?, The tribes offer a counter-proposal: we will build cities for our families, then go armed before all Israel until every tribe has their inheritance — only then will we return, Moses accepts the conditional arrangement: if you cross and fight, the land east of Jordan is yours; if you do not, you shall have possession in Canaan with the rest, The tribal settlement: Gad and Reuben rebuild cities on the east; half the tribe of Manasseh receives Gilead and Bashan, "Be sure your sin will find you out" — the most famous verse in Numbers 32
 
-**Tags:** #great-multitude-of-cattle #land-of-Jazer-and-Gilead #place-for-cattle #bring-us-not-over-Jordan #Moses-alarmed #fathers-at-Kadesh #discouraged-the-heart #whats-increase-of-sinful-men #if-ye-turn-away #destroy-this-people #we-will-build-sheepfolds-and-cities #go-ready-armed-before-Israel #will-not-return-till-every-man-has-inheritance #not-inherit-on-yonder-side #if-ye-will-do-this #be-sure-your-sin-will-find-you-out #Gad-builds-Dibon-Ataroth-Aroer #Reuben-builds-Heshbon-Elealeh #Machir-takes-Gilead #Jair-takes-Havoth-jair #Nobah-takes-Kenath
+**Tags:** #great-multitude-of-cattle #land-of-Jazer-and-Gilead #place-for-cattle #bring-us-not-over-Jordan #Moses-alarmed #fathers-at-Kadesh #discouraged-the-heart #whats-increase-of-sinful-men #if-ye-turn-away #destroy-this-people #go-ready-armed-before-Israel #not-inherit-on-yonder-side #if-ye-will-do-this #Gad-builds-Dibon-Ataroth-Aroer #Reuben-builds-Heshbon-Elealeh #Machir-takes-Gilead #Jair-takes-Havoth-jair #Nobah-takes-Kenath #reuben-and-gad-see-the-cattleland #moses #are-you-rising-up-to-do #the-tribes-offer-a-counterproposal-we #moses-accepts-the-conditional-arrangement-if #if-you-do-not-you-shall #the-tribal-settlement-gad-and-reuben #half-the-tribe-of-manasseh-receives #be-sure-your-sin-will-find
 
 ---
 
-## 2. CHAPTER SUMMARY
+## CHAPTER SUMMARY
 
 Reuben and Gad have great multitudes of cattle. They see the conquered land of Jazer and Gilead — cattle country — and come to Moses, Eleazar, and the princes with a request: give us this land as our possession; bring us not over Jordan. Moses reacts sharply: shall your brothers go to war and you sit here? This is what your fathers did — sent from Kadesh to spy the land, they discouraged the heart of Israel, and God was angry, and none of them from twenty years old shall see the land. Here you are rising up as another generation of sinful men to augment God's fierce anger. If you turn away from following God, He will leave all Israel in the wilderness again, and you will destroy this people. Reuben and Gad respond with a counteroffer: we will build sheepfolds for our cattle and cities for our children here; but we ourselves will go armed before Israel until every tribe has its inheritance; then we will return. Moses presents the condition: if you do this — cross armed before the LORD until the land is subdued — then come back to this land as your inheritance. But if you do not go over armed, you have sinned against the LORD. And be sure your sin will find you out. Build cities for your children and folds for your sheep — but do what you said. The tribes agree. Moses gives the instruction to Eleazar, Joshua, and the tribal leaders. Gad builds Dibon, Ataroth, Aroer, and other cities; Reuben builds Heshbon, Elealeh, Nebo, and Baal-meon. Machir son of Manasseh takes Gilead; Jair takes the small towns (Havoth-jair); Nobah takes Kenath and renames it.
 
 ---
 
-## 3. CROSS-REFERENCES (Scripture Interpreting Scripture)
+## CROSS-REFERENCES (Scripture Interpreting Scripture) (Scripture Interpreting Scripture)
 
 ### "Be Sure Your Sin Will Find You Out"
 
@@ -53,7 +53,7 @@ Reuben and Gad have great multitudes of cattle. They see the conquered land of J
 
 ---
 
-## 4. KEYWORD INDEX
+## KEYWORD INDEX
 
 **For Current Events Matching:**
 - **Hidden sin inevitably exposed** → Numbers 32:23 — Luke 12:2-3; Hebrews 4:13; Galatians 6:7-8
@@ -64,7 +64,7 @@ Reuben and Gad have great multitudes of cattle. They see the conquered land of J
 
 ---
 
-## 5. KEY TERMS WITH CONTEXTUAL DEFINITIONS
+## KEY TERMS WITH CONTEXTUAL DEFINITIONS WITH CONTEXTUAL DEFINITIONS
 
 ### DISCOURAGE THE HEART (Hebrew: nur/yare — to make afraid, to faint the heart)
 - **Numbers 32:7, 9** — "And wherefore discourage ye the heart of the children of Israel from going over"
@@ -72,7 +72,7 @@ Reuben and Gad have great multitudes of cattle. They see the conquered land of J
 
 ---
 
-## 6. THE ACTUAL VERSES — NUMBERS 32 (KJV)
+## THE ACTUAL VERSES (KJV) — NUMBERS 32 (KJV)
 
 **1** Now the children of Reuben and the children of Gad had a very great multitude of cattle: and when they saw the land of Jazer, and the land of Gilead, that, behold, the place was a place for cattle;
 **2** The children of Gad and the children of Reuben came and spake unto Moses, and to Eleazar the priest, and unto the princes of the congregation, saying,
@@ -119,7 +119,7 @@ Reuben and Gad have great multitudes of cattle. They see the conquered land of J
 
 ---
 
-## 7. PROPHETIC/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS/TYPOLOGICAL CONNECTIONS
 
 ### The Two-and-a-Half Tribes East of Jordan — The Incomplete Settlement
 
@@ -130,7 +130,7 @@ Reuben, Gad, and half Manasseh settle east of Jordan — outside the boundaries 
 
 ---
 
-## 8. COMMONLY MISQUOTED PASSAGES
+## COMMONLY MISQUOTED PASSAGES PASSAGES
 
 ### Numbers 32:23 — "Your Sin Will Find You Out" Applied Only to Being Caught
 
@@ -140,7 +140,7 @@ Reuben, Gad, and half Manasseh settle east of Jordan — outside the boundaries 
 
 ---
 
-## 9. SYMBOLIC THREADS
+## SYMBOLIC THREADS
 
 ### "Go Before Your Brothers" — The Service Thread
 

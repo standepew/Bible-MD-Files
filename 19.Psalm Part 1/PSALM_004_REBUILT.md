@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Evening Prayer, Divine Mercy, Righteous Sacrifice, Peaceful Sleep
 
-**Tags:** #chief-Musician-Neginoth-Psalm-David-hear-call-GOD-righteousness-enlarged-distress-mercy-hear-prayer-sons-men-long-turn-glory-shame-love-vanity-seek-leasing-Selah #LORD-set-apart-godly-hear-call-stand-awe-sin-commune-heart-bed-still-Selah-offer-sacrifices-righteousness-trust-LORD-many-shew-good-LORD-light-countenance #put-gladness-heart-time-corn-wine-increased-lay-peace-sleep-LORD-dwell-safety
+**Tags:** #evening-prayer #divine-mercy #righteous-sacrifice #peaceful-sleep
 
 ---
 

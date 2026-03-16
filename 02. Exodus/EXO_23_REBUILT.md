@@ -179,3 +179,67 @@ The two spring feasts = Christ's first coming. The autumn feast = Christ's secon
 ---
 
 **End of Exodus Chapter 23**
+
+---
+
+## COMMONLY MISQUOTED PASSAGES
+
+### Exodus 23:2 — "Thou Shalt Not Follow a Multitude to Do Evil" — Inverted to Silence Correction
+
+**Verse 2** — "Thou shalt not follow a multitude to do evil; neither shalt thou speak in a cause to decline after many to wrest judgment"
+
+**How it is misused:** This verse is sometimes inverted — people use the idea of "not following the crowd" to justify their own contrarian views without accountability, claiming any majority opinion is by definition suspect. It is also applied in reverse: those who disagree with popular religious consensus use it to exempt themselves from all authority and correction.
+
+**What the text actually says:**
+- **Exodus 23:2b** — "neither shalt thou speak in a cause to decline after many to wrest judgment" — the command is specifically about the perversion of justice in legal proceedings; it is a courtroom command, not a general anti-consensus principle
+- **Proverbs 11:14** — "Where no counsel is, the people fall: but in the multitude of counsellors there is safety" — the Bible elsewhere affirms that multiple counselors can be a safeguard, not an automatic danger
+- **Matthew 27:20** — "But the chief priests and elders persuaded the multitude" — the crowd here was manipulated by leadership, not spontaneously corrupt; the danger is organized pressure, not simple majority opinion
+- **Acts 15:22** — "Then pleased it the apostles and elders, with the whole church, to send chosen men" — the Jerusalem Council reached a collective decision; unanimity of the right kind is affirmed
+
+*Correction:* The command prohibits being pressured into false witness or unjust judicial decisions by the weight of popular opinion — it is addressed to witnesses and judges, not to all social discourse. It does not make every majority inherently wrong or every minority inherently right. Proverbs 11:14 shows that wisdom can be found in multiple counselors. The specific evil forbidden is allowing social pressure to corrupt one's testimony in a legal matter.
+
+---
+
+### Exodus 23:19 — "Thou Shalt Not Seethe a Kid in His Mother's Milk" — Treated as Dietary Trivia
+
+**Verse 19** — "Thou shalt not seethe a kid in his mother's milk."
+
+**How it is misused:** This law is either dismissed as inexplicably odd, or it is used to build elaborate rabbinic separations of meat and dairy that go far beyond what the text says. Both misreadings — dismissal and expansion — fail to read the verse in its covenant context.
+
+**What the text actually says:**
+- **Exodus 34:26** — The same command is repeated in the covenant renewal: "Thou shalt not seethe a kid in his mother's milk" — its repetition in both the original covenant and the renewed covenant signals covenantal significance
+- **Deuteronomy 14:21** — The command appears a third time, in the dietary law section, alongside commands about clean and unclean animals
+- **Deuteronomy 22:6-7** — "If a bird's nest chance to be before thee in the way... thou shalt not take the dam with the young... that it may be well with thee, and that thou mayest prolong thy days" — a parallel principle: do not weaponize the life-giving relationship against itself; the mother-offspring bond is protected in multiple laws
+- **Leviticus 22:28** — "Whether it be cow or ewe, ye shall not kill it and her young both in one day" — again, the mother-offspring bond is to be respected
+
+*Correction:* The law belongs to a cluster of Torah commands that protect the life-giving relationship between mother and offspring from being turned into an instrument of death. To boil a kid in the very milk that sustained its life is to use the source of nurture as the instrument of destruction — an inversion of the natural order that God consistently prohibits. The law is not about dietary separation between meat and dairy as a general category; it addresses a specific and cruel practice. The broader principle: do not turn the life-sustaining bond into a means of harm.
+
+---
+
+## SYMBOLIC THREADS
+
+**The Angel in Whom God's Name Dwells:**
+- First appears: Exodus 3:2 — "And the angel of the LORD appeared unto him in a flame of fire out of the midst of a bush" — identified with YHWH himself in vv.4-6
+- Exodus 23:20-21 — "Behold, I send an Angel before thee... for my name is in him" — God's name (essential identity) dwells in this Angel; He is more than a messenger
+- Exodus 33:14 — "My presence shall go with thee" — God equates His presence with the Angel's going before Israel
+- Isaiah 63:9 — "the angel of his presence saved them" — the same divine Angel identified as God's own presence saving Israel
+- John 1:14 — "And the Word was made flesh, and dwelt among us, and we beheld his glory, the glory as of the only begotten of the Father"
+- *Pattern:* The Angel of the LORD in whom God's name dwells is the consistent pre-incarnate appearance of the Son of God throughout the Old Testament. The test is always the same: this Angel is identified with YHWH Himself (Exodus 3), carries God's name essentially (Exodus 23:21), and can forgive or not forgive transgression — which only God can do. John 1:14 is the same Person entering human flesh permanently. The Angel who led Israel through the wilderness is the same Word who tabernacled among men.
+
+---
+
+**The Hornets:**
+- First appears: Exodus 23:28 — "And I will send hornets before thee, which shall drive out the Hivite, the Canaanite, and the Hittite, from before thee"
+- Deuteronomy 7:20 — "Moreover the LORD thy God will send the hornet among them, until they that are left, and hide themselves from thee, be destroyed"
+- Joshua 24:12 — "And I sent the hornet before you, which drave them out from before thee, even the two kings of the Amorites; but not with thy sword, nor with thy bow"
+- *Pattern:* The hornet is the instrument of God's independent action on behalf of Israel — the victory that comes not from Israel's military strength but from God's sovereign intervention going before them. Joshua 24:12 makes explicit what Exodus 23:28 promises: the hornets worked, and Israel's own sword was not the cause. The hornets are a recurring symbol of God fighting for His people by means they neither control nor provide.
+
+---
+
+**The Snare:**
+- First appears: Exodus 23:33 — "for if thou serve their gods, it will surely be a snare unto thee"
+- Judges 2:3 — "their gods shall be a snare unto you" — God's warning repeated verbatim after Israel's first failures in the land
+- Psalm 91:3 — "Surely he shall deliver thee from the snare of the fowler" — God as the one who rescues from the snare
+- Proverbs 29:25 — "The fear of man bringeth a snare: but whoso putteth his trust in the LORD shall be safe"
+- 1 Timothy 3:7 — "Moreover he must have a good report of them which are without; lest he fall into reproach and the snare of the devil"
+- *Pattern:* The snare (Hebrew: moqesh) is the Bible's consistent image for the hidden mechanism of spiritual entrapment. What is tolerated becomes the trap. The specific application in Exodus 23 — foreign gods left in the land — becomes the historical reality of Judges: Israel served the Canaanite gods and was ensnared precisely as predicted. The snare pattern is: (1) the warning given in advance, (2) the warning ignored, (3) the snare sprung exactly as described. The New Testament continues the pattern: 1 Timothy 3:7 and 2 Timothy 2:26 show the snare operating in the New Covenant community through the same mechanism of compromise.

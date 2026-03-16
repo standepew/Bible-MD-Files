@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Peter and John Before the Council, The Prayer of the Disciples, The Believers Share Everything
 
-**Tags:** #spake-people-priests-captain-temple-Sadducees-grieved-taught-people-preached-Jesus-resurrection-dead-laid-hands-hold-next-day-eventide-many-heard-word-believed-number-men-five-thousand-morrow-rulers-elders-scribes-Annas-high-priest-Caiaphas-John-Alexander-kindred-high-priest-gathered-Jerusalem-set-midst-asked-power-name-done-Peter-filled-Holy-Ghost-rulers-people-elders-Israel-day-examined-good-deed-impotent-man-means-whole-known-people-Israel-name-Jesus-Christ-Nazareth-crucified-God-raised-dead-man-stand-whole-stone-set-nought-builders-head-corner-salvation-other-name-heaven-given-men-saved-boldness-Peter-John-perceived-unlearned-ignorant-men-marvelled-knowledge-been-Jesus-beholding-man-healed-standing-could-say-commanded-aside-council-conferred-commanded-threaten-speak-henceforth-man-name-called-commanded-speak-teach-name-Jesus-Peter-John-answered-right-sight-God-hearken-God-judge-speak-things-seen-heard-further-threatened-let-finding-punish-people-men-glorified-God-man-forty-years-old-miracle-healing-shewed-let-company-reported-chief-priests-elders-heard-lifted-voice-God-accord-Lord-God-made-heaven-earth-sea-mouth-servant-David-heathen-rage-people-imagine-vain-kings-earth-stood-rulers-gathered-Lord-Christ-truth-holy-child-Jesus-anointed-Herod-Pontius-Pilate-Gentiles-people-Israel-gathered-hand-counsel-determined-Lord-behold-threatenings-grant-servants-boldness-speak-word-stretching-hand-heal-signs-wonders-name-holy-child-Jesus-prayed-place-shaken-assembled-filled-Holy-Ghost-spake-word-God-boldness-multitude-believed-heart-soul-possessed-own-common-things-power-apostles-witness-resurrection-Lord-Jesus-grace-lacked-possessors-lands-houses-sold-prices-sold-laid-apostles-feet-distribution-man-need-Joses-apostles-surnamed-Barnabas-interpreted-son-consolation-Levite-country-Cyprus-land-sold-money-laid-apostles-feet
+**Tags:** #peter-and-john-before-the-council #the-prayer-of-the-disciples #the-believers-share-everything
 
 ---
 
@@ -265,7 +265,7 @@ Spake, people, priests, captain, temple, Sadducees, grieved, taught, people, pre
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Peter and John Before the Council as Type of Christ's Persecution
 - **Physical persecution:** Council gathered (Acts 4:7)

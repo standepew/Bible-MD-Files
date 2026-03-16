@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Divine Praise, God's Sovereignty, Creation's Power, Judgment of Idols
 
-**Tags:** #Praise-LORD-praise-name-LORD-praise-servants-LORD-stand-house-LORD-courts-house-God-Praise-LORD-LORD-good-sing-praises-name-pleasant-LORD-chosen-Jacob-Israel-peculiar-treasure-know-LORD-great-LORD-gods-LORD-pleased-heaven-earth-seas-deep-places-causeth-vapours-ascend-ends-earth-maketh-lightnings-rain-bringeth-wind-treasuries-smote-firstborn-Egypt-man-beast-sent-tokens-wonders-midst-Egypt-Pharaoh-servants-smote-great-nations-slew-mighty-kings-Sihon-king-Amorites-Og-king-Bashan-kingdoms-Canaan-gave-land-heritage-heritage-Israel-people-name-LORD-endureth-forever-memorial-LORD-generations-LORD-judge-people-repent-servants-idols-heathen-silver-gold-work-hands-mouths-speak-eyes-see-ears-hear-breath-mouths-make-like-trust-bless-LORD-house-Israel-bless-LORD-house-Aaron-bless-LORD-house-Levi-fear-LORD-bless-LORD-Blessed-LORD-Zion-dwelleth-Jerusalem-Praise-LORD
+**Tags:** #divine-praise #god #creation #judgment-of-idols
 
 ---
 

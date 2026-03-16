@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Seek Things Above, Put Off the Old, Put On the New, Christian Households, Christian Service
 
-**Tags:** #risen-Christ-seek-things-above-Christ-sitteth-right-hand-God-affection-things-above-earth-dead-life-hid-Christ-God-Christ-life-appear-appear-glory-Mortify-members-earth-fornication-uncleanness-inordinate-affection-evil-concupiscence-covetousness-idolatry-wrath-God-cometh-children-disobedience-walked-lived-put-anger-wrath-malice-blasphemy-filthy-communication-mouth-Lie-put-old-man-deeds-put-new-man-renewed-knowledge-image-created-Greek-Jew-circumcision-uncircumcision-Barbarian-Scythian-bond-free-Christ-elect-God-holy-beloved-bowels-mercies-kindness-humbleness-mind-meekness-longsuffering-forbearing-forgiving-quarrel-Christ-forgave-charity-bond-perfectness-peace-God-rule-hearts-called-body-thankful-word-Christ-dwell-richly-wisdom-teaching-admonishing-psalms-hymns-spiritual-songs-singing-grace-hearts-Lord-word-deed-name-Lord-Jesus-giving-thanks-God-Father-Wives-submit-husbands-fit-Lord-Husbands-love-wives-bitter-Children-obey-parents-things-pleasing-Lord-Fathers-provoke-children-anger-discouraged-Servants-obey-things-masters-flesh-eyeservice-menpleasers-singleness-heart-fearing-God-heartily-Lord-men-knowing-Lord-receive-reward-inheritance-serve-Lord-Christ-doeth-wrong-receive-wrong-respect-persons
+**Tags:** #seek-things-above #put-off-the-old #put-on-the-new #christian-households #christian-service
 
 ---
 
@@ -207,7 +207,7 @@ Risen, Christ, seek, things, above, Christ, sitteth, right, hand, God, affection
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Seek Things Above as Type of Christ's Ascension
 - **Physical ascension:** Seek things above (Colossians 3:2)

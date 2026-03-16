@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Athaliah's Usurpation, Joash's Protection, Jehoiada's Covenant, Temple Restoration, Davidic Preservation
 
-**Tags:** #Athaliah-mother-Ahaziah-son-dead-arose-destroyed-seed-royal #Jehosheba-daughter-king-Joram-sister-Ahaziah-Joash-son-Ahaziah-stole-king-sons-slain-hid-nurse-bedchamber-Athaliah-slain #hid-house-LORD-six-years-Athaliah-reigned-land #seventh-year-Jehoiada-rulers-hundreds-captains-guard-house-LORD-covenant-oath-house-LORD-king-son #third-part-sabbath-keepers-watch-king-house #third-part-gate-Sur-third-part-gate-guard-watch-house-broken #two-parts-sabbath-watch-house-LORD-king #compass-king-weapons-hand-ranges-slain-king-out-captains-hundreds-Jehoiada-priest-commanded-men-sabbath-sabbath-Jehoiada-priest #captains-hundreds-priest-David-spears-shields-temple-LORD #guard-weapons-hand-king-right-corner-temple-left-corner-temple-altar-temple #king-son-crown-testimony-king-anointed-clapped-hands-God-king #Athaliah-noise-guard-people-temple-LORD-king-pillar-manner-princes-trumpeters-king-people-land-rejoiced-trumpets-Athaliah-rent-clothes-Treason-Treason #Jehoiada-priest-captains-hundreds-officers-host-ranges-without-ranges-follow-sword-priest-slain-house-LORD #hands-horses-king-house-slain #Jehoiada-covenant-LORD-king-people-LORD-people-king-people #people-land-house-Baal-brake-altars-images-pieces-slew-Mattan-priest-Baal-altars-priest-officers-house-LORD #rulers-hundreds-captains-guard-people-land-king-house-LORD-gate-guard-king-house-throne-kings #people-land-rejoiced-city-quiet-slew-Athaliah-sword-king-house #seven-years-Jehoash-reigned
+**Tags:** #hands-horses-king-house-slain #seven-years-Jehoash-reigned #athaliah #joash #jehoiada #temple-restoration #davidic-preservation
 
 ---
 

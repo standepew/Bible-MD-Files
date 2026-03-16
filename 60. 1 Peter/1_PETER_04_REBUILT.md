@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Living for God's Will, Past Life of Gentiles, End Times and Watchfulness, Spiritual Gifts, Suffering as Christians
 
-**Tags:** #Christ-suffered-flesh-arm-mind-suffered-flesh-ceased-sin-longer-live-time-flesh-lusts-men-will-God-time-past-life-wrought-will-Gentiles-walked-lasciviousness-lusts-excess-wine-revellings-banquetings-abominable-idolatries-strange-excess-riot-speaking-evil-give-account-ready-judge-quick-dead-cause-gospel-preached-dead-judged-men-flesh-live-God-spirit-end-things-hand-sober-watch-prayer-fervent-charity-cover-multitude-sins-hospitality-grudging-received-gift-minister-stewards-manifold-grace-God-speak-oracles-God-minister-ability-God-giveth-God-glorified-Jesus-Christ-praise-dominion-Beloved-strange-fiery-trial-strange-thing-rejoice-partakers-Christ-sufferings-glory-revealed-glad-exceeding-joy-reproached-name-Christ-happy-spirit-glory-God-resteth-evil-spoken-glorified-suffer-murderer-thief-evildoer-busybody-matters-suffer-Christian-ashamed-glorify-God-behalf-judgment-begin-house-God-begin-obey-gospel-God-righteous-saved-ungodly-sinner-appear-suffer-will-God-commit-keeping-souls-well-doing-faithful-Creator
+**Tags:** #living-for-god #past-life-of-gentiles #end-times-and-watchfulness #spiritual-gifts #suffering-as-christians
 
 ---
 
@@ -183,7 +183,7 @@ Christ, suffered, flesh, arm, mind, suffered, flesh, ceased, sin, longer, live, 
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Living for God's Will as Type of Christ's Obedient Life
 - **Physical obedience:** Ceased sin (1 Peter 4:2)

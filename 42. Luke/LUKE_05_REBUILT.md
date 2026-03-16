@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Calling of the First Disciples, Healing of a Leper, Healing of a Paralytic, Calling of Matthew, Fasting
 
-**Tags:** #people-pressed-hear-word-God-lake-Gennesaret-ships-lake-fishermen-gone-washing-nets-entered-ship-Simon-prayed-thrust-land-sat-taught-people-ship-left-speaking-Simon-launch-deep-let-nets-draught-Simon-answering-Master-toiled-night-taken-word-let-net-inclosed-multitude-fishes-net-brake-beckoned-partners-ship-come-help-filled-ships-sink-Simon-Peter-fell-Jesus-knees-depart-sinful-man-astonished-draught-fishes-James-John-sons-Zebedee-partners-Simon-Jesus-Simon-Fear-catch-men-brought-ships-land-forsook-followed-city-man-leprosy-seeing-Jesus-fell-face-besought-Lord-wilt-make-clean-hand-touched-clean-immediately-leprosy-departed-charged-tell-priest-cleansing-Moses-testimony-fame-abroad-multitudes-healed-infirmities-withdrew-wilderness-prayed-teaching-Pharisees-doctors-law-town-Galilee-Judæa-Jerusalem-power-Lord-present-heal-men-bed-palsy-sought-means-multitude-housetop-tiling-couch-midst-Jesus-faith-sins-forgiven-scribes-Pharisees-reason-blasphemies-forgive-sins-God-Jesus-perceived-thoughts-answering-reason-hearts-easier-forgiven-sins-Rise-walk-Son-man-power-earth-forgive-sins-sick-palsy-Arise-couch-house-immediately-rose-couch-departed-house-glorifying-God-amazed-glorified-God-filled-fear-seen-strange-things-publican-Levi-receipt-custom-Follow-left-rose-followed-Levi-feast-house-company-publicans-scribes-Pharisees-murmured-disciples-eat-drink-publicans-sinners-Jesus-answering-whole-physician-sick-came-righteous-sinners-repentance-disciples-John-fast-prayers-disciples-Pharisees-bridegroom-days-bridegroom-taken-fast-parable-garment-new-old-rent-agreeth-old-wine-bottles-new-wine-burst-bottles-spilled-perish-new-wine-new-bottles-preserved-drunk-old-wine-desire-better
+**Tags:** #calling-of-the-first-disciples #healing-of-a-leper #healing-of-a-paralytic #calling-of-matthew #fasting
 
 ---
 
@@ -283,7 +283,7 @@ People, pressed, hear, word, God, lake, Gennesaret, ships, lake, fishermen, gone
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Calling of the First Disciples as Type of Christ's Mission
 - **Physical calling:** Lake Gennesaret (Luke 5:4)

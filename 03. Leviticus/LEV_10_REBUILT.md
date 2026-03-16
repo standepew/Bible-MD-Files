@@ -148,3 +148,55 @@ Leviticus 10 immediately follows Leviticus 9. The glory falls; two sons of the h
 ---
 
 **End of Leviticus Chapter 10**
+
+---
+
+## COMMONLY MISQUOTED PASSAGES
+
+### Leviticus 10:1-2 — "Strange Fire" Used to Forbid All Spontaneity in Worship
+
+**Verses 1-2** — "And Nadab and Abihu, the sons of Aaron, took either of them his censer, and put fire therein, and put incense thereon, and offered strange fire before the LORD, which he commanded them not. And there went out fire from the LORD, and devoured them, and they died before the LORD."
+
+**How it is misused:** This passage is sometimes cited to condemn any form of worship that is not explicitly written in a prescribed order — arguing that any unscripted prayer, spontaneous praise, or non-traditional element in worship is "strange fire" and therefore under divine judgment. Conversely, it is also dismissed as an overreaction of a harsh deity and not applicable to New Covenant worship at all.
+
+**What the text actually says:**
+- **Deuteronomy 12:32** — "What thing soever I command you, observe to do it: thou shalt not add thereto, nor diminish from it." — The governing principle is commanded versus not commanded, not scripted versus spontaneous.
+- **Hebrews 10:29** — "Of how much sorer punishment, suppose ye, shall he be thought worthy, who hath trodden under foot the Son of God, and hath counted the blood of the covenant, wherewith he was sanctified, an unholy thing, and hath done despite unto the Spirit of grace?"
+- **John 4:24** — "God is a Spirit: and they that worship him must worship him in spirit and in truth."
+
+*Correction:* The offense of Nadab and Abihu was not spontaneity — it was unauthorized substitution. They were consecrated priests who had witnessed the commanded procedures. The criterion "which he commanded them not" means they brought something God had not authorized in place of what He had prescribed. John 4:24 establishes that New Covenant worship must be "in truth" — conforming to what God has revealed — just as the Levitical system required. The principle is not destroyed by the New Covenant; it is made more searching.
+
+---
+
+### Leviticus 10:3 — "I Will Be Glorified" Used to Justify Any Judgment Called 'God's Discipline'
+
+**Verse 3** — "This is it that the LORD spake, saying, I will be sanctified in them that come nigh me, and before all the people I will be glorified. And Aaron held his peace."
+
+**How it is misused:** This verse is sometimes misapplied to claim that any tragedy befalling religious leaders or communities is God glorifying Himself in judgment — used as a silencing mechanism to stop legitimate grief or questions about suffering.
+
+**What the text actually says:**
+- **1 Peter 4:17** — "For the time is come that judgment must begin at the house of God: and if it first begin at us, what shall the end be of them that obey not the gospel of God?"
+- **Hebrews 12:6** — "For whom the Lord loveth he chasteneth, and scourgeth every son whom he receiveth."
+- **Lamentations 3:33** — "For he doth not afflict willingly nor grieve the children of men."
+
+*Correction:* Leviticus 10:3 applies specifically to those who come nearest to God in a representative priestly capacity — those with the greatest access bear the strictest accountability. It does not make every suffering a divine judgment or forbid lament. Aaron's silence is a man who understands God's holiness, not a man forbidden to feel grief. Lamentations 3:33 clarifies that God does not afflict willingly; 1 Peter 4:17 applies the principle specifically to the household of God, not universally to all tragedy.
+
+---
+
+## SYMBOLIC THREADS
+
+**Strange Fire / What God Did Not Command:**
+- Established: Leviticus 10:1 — "strange fire before the LORD, which he commanded them not" — the definitive statement of the category.
+- Deuteronomy 12:32 — "thou shalt not add thereto, nor diminish from it" — the governing law of commanded worship.
+- 1 Samuel 15:22-23 — "to obey is better than sacrifice... rebellion is as the sin of witchcraft" — Saul's unauthorized sacrifice placed in the same category.
+- 2 Samuel 6:6-7 — Uzzah's unauthorized steadying of the Ark; immediate death; same principle.
+- Matthew 7:22-23 — "Many will say to me in that day, Lord, Lord, have we not prophesied in thy name?... I never knew you" — the final-judgment application: "which he commanded them not" is the ultimate criterion.
+- *Pattern:* The "strange fire" principle — that proximity to God and religious sincerity do not authorize what God has not commanded — runs from Leviticus 10 through 1 Samuel 15, 2 Samuel 6, and into Christ's own words in Matthew 7. The nearer the access, the stricter the requirement for authorization.
+
+**The Fire of the LORD (Both Accepting and Judging):**
+- Leviticus 9:24 — fire from the LORD consumes the acceptable burnt offering; the people shout and prostrate.
+- Leviticus 10:2 — fire from the LORD devours Nadab and Abihu; the same fire, two opposite outcomes within one chapter.
+- Numbers 11:1-3 — "And when the people complained, it displeased the LORD: and his fire was kindled among them, and consumed them that were in the uttermost parts of the camp." — fire as judgment on murmuring.
+- 1 Kings 18:38 — fire falls on Elijah's sacrifice at Carmel; divine acceptance.
+- Hebrews 12:29 — "For our God is a consuming fire."
+- *Pattern:* The fire of the LORD in Scripture is not neutral. It accepts what is offered in obedience (Leviticus 9; 1 Kings 18) and judges what is offered in presumption (Leviticus 10; Numbers 11). The same attribute of God — His holy consuming nature — produces both outcomes. Hebrews 12:29 applies this to the New Covenant: the God who is a consuming fire must be served "with reverence and godly fear."

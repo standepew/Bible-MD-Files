@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Nicodemus and the New Birth, God's Love for the World, John the Baptist's Final Testimony, Eternal Life Through Faith
 
-**Tags:** #man-Pharisees-Nicodemus-ruler-Jews-Jesus-night-Rabbi-know-teacher-God-miracles-God-Jesus-answered-Verily-born-again-see-kingdom-God-Nicodemus-born-old-enter-mother-womb-born-Jesus-answered-born-water-Spirit-enter-kingdom-God-born-flesh-flesh-born-Spirit-spirit-Marvel-born-wind-bloweth-listeth-sound-whence-cometh-whither-goeth-born-Spirit-Nicodemus-things-master-Israel-knowest-things-Jesus-answered-master-Israel-knowest-things-Verily-know-testify-seen-receive-witness-earthly-believe-heavenly-man-ascended-heaven-heaven-Son-man-heaven-Moses-lifted-serpent-wilderness-Son-man-lifted-whosoever-believeth-perish-eternal-life-God-loved-world-gave-begotten-Son-whosoever-believeth-perish-everlasting-life-God-condemn-world-saved-believeth-condemned-believeth-condemned-begotten-Son-condemnation-light-world-men-loved-darkness-light-deeds-evil-doeth-evil-hateth-light-cometh-light-deeds-reproved-doeth-truth-cometh-light-deeds-manifest-wrought-God-Jesus-disciples-land-Judæa-tarried-baptized-John-baptizing-Ænon-Salim-water-baptized-John-cast-prison-question-John-disciples-Jews-purifying-John-Rabbi-beyond-Jordan-barest-witness-baptizeth-men-John-received-heaven-bear-witness-Christ-sent-bride-bridegroom-friend-bridegroom-standeth-heareth-rejoiceth-bridegroom-voice-joy-fulfilled-increase-decrease-cometh-above-above-earth-earthly-speaketh-earth-cometh-heaven-above-heard-testifieth-receiveth-testimony-received-testimony-seal-God-true-God-sent-speaketh-words-God-Giveth-Spirit-measure-Father-loveth-Son-given-hand-believeth-Son-everlasting-life-believeth-Son-life-wrath-God-abideth
+**Tags:** #nicodemus-and-the-new-birth #god #john-the-baptist #eternal-life-through-faith
 
 ---
 
@@ -251,7 +251,7 @@ Man, Pharisees, Nicodemus, ruler, Jews, Jesus, night, Rabbi, know, teacher, God,
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Nicodemus and the New Birth as Type of Christ's Salvation
 - **Physical birth:** Born again (John 3:5)

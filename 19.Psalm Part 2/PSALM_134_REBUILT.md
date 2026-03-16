@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Night Worship, Servants' Blessing, Divine Service, Zion's Blessing
 
-**Tags:** #Song-degrees-bless-LORD-servants-LORD-night-stand-house-LORD-Lift-hands-sanctuary-bless-LORD-LORD-made-heaven-earth-bless-Zion
+**Tags:** #night-worship #servants #divine-service #zion
 
 ---
 

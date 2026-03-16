@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Mary Anoints Jesus, The Triumphal Entry, Greeks Seek Jesus, The Son of Man Must Be Lifted Up, Unbelief Fulfilled
 
-**Tags:** #Jesus-six-days-passover-Bethany-Lazarus-dead-raised-supper-Martha-served-Lazarus-table-Mary-pound-ointment-spikenard-costly-anointed-feet-Jesus-wiped-feet-hair-house-odour-ointment-disciple-Judas-Iscariot-Simon-son-betray-ointment-sold-three-hundred-pence-poor-cared-poor-thief-bag-bare-Jesus-her-alone-day-burying-kept-poor-always-Jews-knew-Jesus-Lazarus-raised-chief-priests-consulted-put-Lazarus-death-Jews-believed-Jesus-next-day-people-feast-Jesus-Jerusalem-branches-palm-trees-meet-Hosanna-Blessed-King-Israel-cometh-name-Lord-Jesus-young-ass-sat-written-Fear-daughter-Sion-behold-King-cometh-sitting-ass-colt-disciples-first-Jesus-glorified-remembered-written-things-people-called-Lazarus-grave-raised-bare-record-miracle-Pharisees-prevail-world-Greeks-worship-feast-Philip-Bethsaida-Galilee-desired-see-Jesus-Philip-Andrew-Philip-Jesus-answered-hour-come-Son-man-glorified-Verily-corn-wheat-ground-die-abideth-die-bringeth-fruit-loveth-life-lose-hateth-life-world-keep-life-eternal-serve-follow-servant-Father-honour-soul-troubled-Father-save-hour-Father-glory-voice-heaven-thundered-angel-spake-answered-voice-sakes-people-judgment-world-prince-world-cast-lifted-earth-draw-men-signifying-death-people-heard-law-Christ-abideth-Son-man-lifted-Son-man-Jesus-answered-light-darkness-children-light-departed-miracles-believed-saying-Esaias-prophet-fulfilled-Lord-believed-report-arm-Lord-revealed-believed-Esaias-blinded-eyes-hardened-heart-see-understand-converted-heal-Esaias-glory-spake-chief-rulers-believed-Pharisees-confess-synagogue-loved-praise-men-praise-God-Jesus-cried-believeth-sent-seeth-sent-light-world-abide-darkness-hear-words-believe-judge-world-save-world-rejecteth-words-judgeth-last-day-spoken-Father-commandment-life-everlasting-spoke-Father
+**Tags:** #mary-anoints-jesus #the-triumphal-entry #greeks-seek-jesus #the-son-of-man-must-be #unbelief-fulfilled
 
 ---
 
@@ -305,7 +305,7 @@ Jesus, six, days, passover, Bethany, Lazarus, dead, raised, supper, Martha, serv
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Mary Anoints Jesus as Type of Christ's Preparation
 - **Physical anointing:** Mary anointed (John 12:3)

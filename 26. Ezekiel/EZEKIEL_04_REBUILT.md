@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Judgment, Jerusalem's Siege, Prophetic Symbolism, Divine Punishment
 
-**Tags:** #son-man-take-tile-lay-pourtray-city-Jerusalem-lay-siege-build-fort-cast-mount-set-camp-battering-rams-iron-pan-wall-iron-city-face-besieged-lay-siege-sign-house-Israel-left-side-iniquity-house-Israel-number-days-lie-bear-iniquity-years-iniquity-number-days-three-hundred-ninety-days-bear-iniquity-house-Israel-accomplished-right-side-bear-iniquity-house-Judah-forty-days-appointed-day-year-face-siege-Jerusalem-arm-uncovered-prophesy-bands-turn-side-ended-days-siege-wheat-barley-beans-lentiles-millet-fitches-vessel-bread-days-lie-side-three-hundred-ninety-days-eat-meat-eat-weight-twenty-shekels-day-time-eat-drink-water-measure-sixth-part-hin-time-drink-eat-barley-cakes-bake-dung-cometh-man-sight-LORD-children-Israel-eat-defiled-bread-Gentiles-drive-soul-polluted-youth-eaten-dieth-torn-pieces-abominable-flesh-mouth-cow-dung-man-dung-prepare-bread-break-staff-bread-Jerusalem-eat-bread-weight-care-drink-water-measure-astonishment-want-bread-water-astonied-consume-iniquity
+**Tags:** #christ #jerusalem #prophetic-symbolism #divine-punishment
 
 ---
 

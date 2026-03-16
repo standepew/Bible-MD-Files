@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Wisdom and Strength, Justice and Judgment, Diligence and Sloth, Divine Knowledge
 
-**Tags:** #envious-evil-men-desire-with-them-heart-studieth-destruction-lips-talk-mischief-wisdom-house-builded-understanding-established-knowledge-chambers-filled-precious-pleasant-riches-wise-man-strong-man-knowledge-increaseth-strength-wise-counsel-make-war-multitude-counsellors-safety-wisdom-high-fool-open-mouth-gate-deviseth-evil-mischief-person-thought-foolishness-sin-scorner-abomination-men-faint-day-adversity-strength-small-forbear-deliver-drawn-unto-death-ready-slain-say-Behold-we-knew-not-pondereth-heart-consider-keep-soul-know-render-works-son-eat-honey-honeycomb-sweet-taste-knowledge-wisdom-soul-found-reward-expectation-cut-Lay-wait-wicked-man-against-dwelling-righteous-spoil-resting-place-just-man-falleth-seven-times-riseth-wicked-fall-mischief-Rejoice-enemy-falleth-heart-glad-stumbleth-LORD-see-displease-turn-away-wrath-Fret-evil-men-envious-wicked-reward-evil-man-candle-wicked-put-fear-LORD-king-meddle-given-change-calamity-rise-suddenly-know-ruin-both-things-belong-wise-respect-persons-judgment-saith-wicked-righteous-people-curse-nations-abhor-rebuke-delight-good-blessing-come-lips-giveth-right-answer-kiss-lips-giveth-right-answer-Prepare-work-without-fit-field-afterwards-build-house-witness-neighbour-cause-deceive-lips-Say-render-man-according-work-went-field-slothful-vineyard-man-void-understanding-grown-thorns-nettles-covered-face-stone-wall-broken-saw-considered-well-received-instruction-little-sleep-slumber-folding-hands-sleep-poverty-travelleth-want-armed-man
+**Tags:** #wisdom-and-strength #justice-and-judgment #diligence-and-sloth #divine-knowledge
 
 ---
 

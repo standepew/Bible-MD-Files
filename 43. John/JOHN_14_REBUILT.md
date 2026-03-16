@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** The Way, the Truth, and the Life, The Father and the Son, The Promise of the Holy Spirit, Peace I Leave With You
 
-**Tags:** #heart-troubled-believe-God-believe-Father-house-mansions-told-prepare-place-prepare-place-come-receive-where-know-way-Thomas-Lord-know-whither-know-way-Jesus-way-truth-life-Father-Philip-Father-seen-Father-known-Father-seen-Father-seen-Father-knowest-Father-believe-Father-Father-words-speak-Father-dwelleth-works-believe-works-sake-believe-works-greater-works-Father-ask-name-glorified-Son-ask-name-love-commandments-pray-Father-Comforter-abide-Spirit-truth-world-receive-seeth-knoweth-dwelleth-comfortless-little-while-world-seeth-live-live-know-Father-know-manifest-Judas-Iscariot-manifest-world-love-keep-words-Father-love-abode-loveth-keep-sayings-Father-spoken-present-Comforter-Holy-Ghost-Father-send-name-teach-remembrance-said-Peace-leave-peace-give-world-troubled-afraid-heard-go-away-come-rejoice-Father-greater-told-pass-believe-talk-prince-world-nothing-love-Father-commandment-Arise-hence
+**Tags:** #the-way-the-truth-and-the #the-father-and-the-son #the-promise-of-the-holy-spirit #peace-i-leave-with-you
 
 ---
 
@@ -229,7 +229,7 @@ Heart, troubled, believe, God, believe, Father, house, mansions, told, prepare, 
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Way, the Truth, and the Life as Type of Christ's Exclusivity
 - **Physical way:** Way truth life (John 14:8)

@@ -170,3 +170,69 @@ God gives Moses the consecration (ordination) ritual for Aaron and his sons. The
 ---
 
 **End of Exodus Chapter 29**
+
+---
+
+## COMMONLY MISQUOTED PASSAGES
+
+### Exodus 29:38-39 — The Daily Sacrifice Taken as Rote Religion
+
+**Verses 38-39** — "Now this is that which thou shalt offer upon the altar; two lambs of the first year day by day continually. The one lamb thou shalt offer in the morning; and the other lamb thou shalt offer at even"
+
+**How it is misused:** The tamid (continual burnt offering) is either (1) dismissed as mere ritual repetition that the New Testament abolished as meaningless, or (2) used to argue that daily religious observance is inherently mechanical and inferior to "relationship." The regularity of the tamid is treated as evidence of empty religion.
+
+**What the text actually says:**
+- **Exodus 29:42-43** — "This shall be a continual burnt offering throughout your generations at the door of the tabernacle of the congregation before the LORD: where I will meet you, to speak there unto thee. And there I will meet with the children of Israel" — the tamid is God's stated meeting-point; it is relational, not mechanical
+- **Psalm 141:2** — "Let my prayer be set forth before thee as incense; and the lifting up of my hands as the evening sacrifice" — David treats the evening sacrifice as the pattern for personal prayer; it shapes his devotional life
+- **Acts 3:1** — "Now Peter and John went up together into the temple at the hour of prayer, being the ninth hour" — the apostles observed the hours of the tamid as their prayer rhythm even after Pentecost
+- **Hebrews 10:12** — "But this man, after he had offered one sacrifice for sins for ever, sat down on the right hand of God" — Christ's one offering fulfills the tamid, not by abolishing its principle but by perfecting it once for all
+
+*Correction:* The tamid was not rote religion — it was the daily rhythm of covenant life, and God specifically attached the promise "I will meet you there" to it (v.42-43). The apostles maintained the prayer hours structured around the tamid long after Pentecost (Acts 3:1). Christ's one offering does not abolish the principle of regular, structured devotion before God — it removes the need for repeated blood sacrifice. The daily rhythm of meeting God — morning and evening, Psalm 141:2's pattern — remains the New Covenant norm.
+
+---
+
+### Exodus 29:7 — Anointing Oil on the Head — Reduced to a Ceremony
+
+**Verse 7** — "Then shalt thou take the anointing oil, and pour it upon his head, and anoint him."
+
+**How it is misused:** The anointing of Aaron is treated as a ceremonial formality without direct application — a religious act that produced no spiritual reality, merely signaling the beginning of office. It is used to argue that Old Covenant ordination was purely external and ceremonial, with no connection to the Spirit's actual work.
+
+**What the text actually says:**
+- **1 Samuel 16:13** — "Then Samuel took the horn of oil, and anointed him in the midst of his brethren: and the Spirit of the LORD came upon David from that day forward" — anointing and the Spirit's coming are explicitly connected; the oil is the outward sign of the Spirit's inward work
+- **Isaiah 61:1** — "The Spirit of the Lord GOD is upon me; because the LORD hath anointed me" — the Messiah's anointing and the Spirit's anointing are the same event
+- **Acts 10:38** — "How God anointed Jesus of Nazareth with the Holy Ghost and with power" — the Spirit's coming at Jesus's baptism is described as God "anointing" Him — the Exodus 29 language applied to Christ
+- **1 John 2:27** — "But the anointing which ye have received of him abideth in you, and ye need not that any man teach you: but as the same anointing teacheth you of all things"
+
+*Correction:* The anointing of Aaron was not empty ceremony — 1 Samuel 16:13 shows that physical anointing and the Spirit's coming upon the person are inseparably linked in the covenant's pattern. Acts 10:38 applies the "anointing" language directly to Christ's reception of the Spirit. 1 John 2:27 extends the same anointing to every believer. The oil in Exodus 29 is the outward sign of what the Spirit does inwardly; the two operate together, not independently.
+
+---
+
+## SYMBOLIC THREADS
+
+**The Wave Offering and Heave Offering:**
+- First appears: Exodus 29:24 — "And thou shalt put all in the hands of Aaron, and in the hands of his sons; and shalt wave them for a wave offering before the LORD"
+- Exodus 29:27 — "And thou shalt sanctify the breast of the wave offering, and the shoulder of the heave offering"
+- Leviticus 7:30 — "His own hands shall bring the offerings of the LORD made by fire, the fat with the breast, it shall he bring, that the breast may be waved for a wave offering before the LORD"
+- Leviticus 23:11 — "And he shall wave the sheaf before the LORD, to be accepted for you: on the morrow after the sabbath the priest shall wave it" — the firstfruits sheaf is waved before the LORD
+- 1 Corinthians 15:20 — "But now is Christ risen from the dead, and become the firstfruits of them that slept" — Christ is the wave offering of the resurrection; waved before the Father on the first day after the Sabbath
+- *Pattern:* The wave offering moves horizontally before God — presented and waved in His presence as a dedicatory gesture. The heave offering moves vertically — lifted up before God. Together they form the cross-shaped presentation: horizontal and vertical, the movement of offering in every direction. Christ as the firstfruits (1 Corinthians 15:20), offered after the Sabbath, is the ultimate wave offering — presented before the Father as the first of the resurrection harvest.
+
+---
+
+**Oil Poured on the Head:**
+- First appears in priestly consecration: Exodus 29:7 — "Then shalt thou take the anointing oil, and pour it upon his head, and anoint him"
+- Psalm 133:2 — "It is like the precious ointment upon the head, that ran down upon the beard, even Aaron's beard: that went down to the skirts of his garments" — the oil runs from head to feet; the anointing covers the whole person
+- Psalm 23:5 — "thou anointest my head with oil; my cup runneth over" — the Shepherd's anointing of the sheep
+- Isaiah 61:1 — "the Spirit of the Lord GOD is upon me; because the LORD hath anointed me"
+- Acts 10:38 — "God anointed Jesus of Nazareth with the Holy Ghost and with power"
+- 2 Corinthians 1:21 — "Now he which stablisheth us with you in Christ, and hath anointed us, is God"
+- *Pattern:* Oil poured on the head is the consistent biblical sign of the Spirit's consecrating work — separating a person for God's exclusive service with power and identity. Aaron (Exodus 29), David (1 Samuel 16:13), and Christ (Acts 10:38) are all anointed with oil as the outward sign of the Spirit's inward commissioning. Psalm 133:2 shows the oil running from Aaron's head to his garments — the anointing covers the whole person and spreads. 2 Corinthians 1:21 confirms that every believer receives this same anointing through Christ.
+
+---
+
+**The Seven Days of Consecration:**
+- First appears: Exodus 29:35 — "And thus shalt thou do unto Aaron, and to his sons, according to all things which I have commanded thee: seven days shalt thou consecrate them"
+- Exodus 29:37 — "Seven days thou shalt make an atonement for the altar, and sanctify it; and it shall be an altar most holy"
+- Leviticus 8:33-35 — "And ye shall not go out of the door of the tabernacle of the congregation in seven days... as he hath done this day, so the LORD hath commanded to do, to make an atonement for you. Therefore shall ye abide at the door of the tabernacle of the congregation day and night seven days"
+- Genesis 2:2-3 — "And on the seventh day God ended his work which he had made; and he rested on the seventh day" — the seven-day creation pattern underlies the seven days of consecration
+- *Pattern:* Seven days is the Bible's number of completion and covenant formation. The seven days of priestly consecration mirror the seven days of creation — a new order is being established, a new beginning made holy. The priests emerge from seven days of consecration as a new creation within the covenant — fully set apart. Revelation 1:20 shows the seven churches as lampstands (the menorah's seven branches): the New Covenant community of priests consecrated for seven — for the complete age — of service before God.

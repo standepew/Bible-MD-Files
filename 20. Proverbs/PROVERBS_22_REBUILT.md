@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Good Name and Riches, Divine Creation, Wisdom and Instruction, Justice and Mercy
 
-**Tags:** #good-name-chosen-great-riches-loving-favour-silver-gold-rich-poor-meet-LORD-maker-prudent-man-foreseeth-evil-hideth-simple-pass-punished-humility-fear-LORD-riches-honour-life-thorns-snares-way-froward-keep-soul-far-Train-child-way-old-depart-Train-child-way-old-depart-rich-rule-poor-borrower-servant-lender-soweth-iniquity-reap-vanity-rod-anger-fail-bountiful-eye-blessed-giveth-bread-poor-Cast-scorner-contention-strife-reproach-cease-loveth-purity-heart-grace-lips-king-friend-eyes-LORD-preserve-knowledge-overthroweth-words-transgressor-slothful-lion-without-slain-streets-mouth-strange-women-deep-pit-abhorred-LORD-fall-Foolishness-bound-heart-child-rod-correction-drive-far-oppresseth-poor-increase-riches-giveth-rich-want-Bow-ear-hear-words-wise-apply-heart-knowledge-pleasant-thing-keep-within-fitted-lips-trust-LORD-made-known-day-even-excellent-things-counsels-knowledge-make-know-certainty-words-truth-answer-words-truth-send-Rob-poor-oppress-afflicted-gate-LORD-plead-cause-spoil-soul-spoiled-friendship-angry-man-furious-man-learn-ways-snare-soul-strike-hands-sureties-debts-nothing-pay-take-away-bed-ancient-landmark-fathers-set-diligent-business-stand-kings-stand-mean-men
+**Tags:** #good-name-and-riches #divine-creation #wisdom-and-instruction #justice-and-mercy
 
 ---
 

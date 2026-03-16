@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** God's Universal Reign, Royal Triumph, God's Inheritance, Praise and Worship
 
-**Tags:** #chief-Musician-sons-Korah-clap-hands-people-shout-GOD-voice-triumph-LORD-high-terrible-great-King-earth-subdue-people-nations-feet-choose-inheritance-excellency-Jacob-loved-Selah-GOD-shout-LORD-sound-trumpet-sing-praises-GOD-sing-praises-King-sing-praises-GOD-King-earth-sing-praises-understanding-GOD-reigneth-heathen-GOD-sitteth-throne-holiness-princes-people-gathered-people-GOD-Abraham-shields-earth-belong-GOD-greatly-exalted
+**Tags:** #god #royal-triumph #praise-and-worship
 
 ---
 

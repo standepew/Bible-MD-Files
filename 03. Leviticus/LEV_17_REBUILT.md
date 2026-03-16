@@ -132,3 +132,59 @@ Every New Testament reference to Christ's blood as the instrument of redemption 
 ---
 
 **End of Leviticus Chapter 17**
+
+---
+
+## COMMONLY MISQUOTED PASSAGES
+
+### Leviticus 17:11 — "The Blood That Maketh an Atonement" Cited to Deny the Sufficiency of Christ's One Sacrifice
+
+**Verse 11** — "For the life of the flesh is in the blood: and I have given it to you upon the altar to make an atonement for your souls: for it is the blood that maketh an atonement for the soul."
+
+**How it is misused:** This verse is sometimes invoked to argue that because "blood makes atonement," the sacrificial system must continue in some form in the New Covenant — either that the Lord's Supper is a re-sacrifice of Christ (the Mass), or that ongoing ritual acts of blood-atonement are necessary alongside Christ's sacrifice.
+
+**What the text actually says:**
+- **Hebrews 9:12** — "Neither by the blood of goats and calves, but by his own blood he entered in once into the holy place, having obtained eternal redemption for us."
+- **Hebrews 10:12** — "But this man, after he had offered one sacrifice for sins for ever, sat down on the right hand of God."
+- **Hebrews 10:14** — "For by one offering he hath perfected for ever them that are sanctified."
+- **1 John 1:7** — "the blood of Jesus Christ his Son cleanseth us from all sin."
+
+*Correction:* Leviticus 17:11 establishes the principle; Hebrews 9-10 announces its perfect and unrepeatable fulfillment. The very fact that Hebrews 10:12 says Christ "sat down" at the right hand of God shows the work is complete — the Aaronic priest never sat down; there was always more to do. Christ sits because the one offering has done what all the Levitical blood could only point to. Leviticus 17:11 is not a call to ongoing sacrifice but the explanation for why the one blood of the Son of God is sufficient forever.
+
+---
+
+### Leviticus 17:10 — "I Will Set My Face Against That Soul That Eateth Blood" Used to Bind New Covenant Dietary Abstinence from Blood
+
+**Verse 10** — "And whatsoever man there be of the house of Israel, or of the strangers that sojourn among you, that eateth any manner of blood; I will even set my face against that soul that eateth blood, and will cut him off from among his people."
+
+**How it is misused:** This verse, alongside Acts 15:20, is sometimes used to argue that the prohibition on eating blood is a universal moral law binding all people for all time — placed in the same moral category as prohibitions against murder or idolatry — and that violating it constitutes serious sin.
+
+**What the text actually says:**
+- **Acts 15:20, 29** — "abstain from blood" — retained by the Jerusalem Council as a requirement for Gentile believers, primarily as a matter of not giving offense to Jewish communities with whom Gentile believers shared fellowship.
+- **Acts 15:21** — "For Moses of old time hath in every city them that preach him, being read in the synagogues every sabbath day." — The rationale given is practical fellowship, not eternal moral law.
+- **Romans 14:14** — "I know, and am persuaded by the Lord Jesus, that there is nothing unclean of itself: but to him that esteemeth any thing to be unclean, to him it is unclean."
+- **1 Corinthians 10:25-27** — "Whatsoever is sold in the shambles, that eat, asking no question for conscience sake... eat, asking no question for conscience sake."
+
+*Correction:* The blood prohibition in Leviticus 17:10 is grounded in the theological principle of Leviticus 17:11 — life is in the blood, and blood is God's designated atonement medium. Acts 15 retains the prohibition in the specific context of Jewish-Gentile table fellowship in communities where Torah was publicly read. Romans 14 and 1 Corinthians 10 show Paul's broader approach: conscience and the edification of others govern food choices; no food is unclean of itself. The theological principle of Leviticus 17:11 (blood belongs to God as the instrument of life and atonement) remains; the ceremonial food prohibition does not operate as a universal moral absolute.
+
+---
+
+## SYMBOLIC THREADS
+
+**The Blood as the Life (Nefesh in the Blood):**
+- First appears: Genesis 9:4 — "But flesh with the life thereof, which is the blood thereof, shall ye not eat." — Blood = life, established at Noah; predates Moses.
+- Leviticus 17:11 — "For the life (nefesh) of the flesh is in the blood: and I have given it to you upon the altar to make an atonement for your souls: for it is the blood that maketh an atonement for the soul." — The definitive theological statement.
+- Leviticus 17:14 — "For it is the life of all flesh; the blood of it is for the life thereof." — The principle repeated.
+- Deuteronomy 12:23 — "Only be sure that thou eat not the blood: for the blood is the life; and thou mayest not eat the life with the flesh."
+- Hebrews 9:22 — "And almost all things are by the law purged with blood; and without shedding of blood is no remission." — The principle of Leviticus 17:11 stated as the operating rule of the entire Levitical economy.
+- Hebrews 9:12 — "by his own blood he entered in once into the holy place, having obtained eternal redemption for us" — the life (blood) of the Son of God poured out; infinite life for infinite atonement.
+- Revelation 12:11 — "And they overcame him by the blood of the Lamb, and by the word of their testimony."
+- *Pattern:* The identification of blood as the vehicle of life runs from Genesis 9 through the entire Levitical system to its fulfillment in Christ's blood in Hebrews and Revelation. Leviticus 17:11 is not one verse among many — it is the theological spine that explains why any blood was ever poured on any altar: life covers life. The cross is the final and infinitely sufficient expression of this principle.
+
+**The Altar as the Ordained Place for Blood:**
+- Established: Leviticus 17:3-6 — all slaughter of sacrificial animals must be brought to the door of the Tabernacle; the blood must be sprinkled on the altar by the priest.
+- Leviticus 17:7 — The alternative to the altar is sacrifice to se'irim (goat-demons) in the open field.
+- 1 Kings 18:30-38 — Elijah repairs the broken altar of the LORD before the sacrifice; the altar is the prescribed place; the fire falls on the altar.
+- Hebrews 13:10 — "We have an altar, whereof they have no right to eat which serve the tabernacle." — The New Covenant has its own altar.
+- Revelation 6:9 — "And when he had opened the fifth seal, I saw under the altar the souls of them that were slain for the word of God." — The altar persists in the heavenly reality.
+- *Pattern:* The altar is not incidental to the sacrificial system — it is the ordained location where God meets the blood He has prescribed. Leviticus 17 centralizes all blood at the one altar to cut off the channel to demonic worship. 1 Corinthians 10:20-21 applies this principle to the New Covenant: the table of the Lord and the table of demons are mutually exclusive. Hebrews 13:10 declares that New Covenant believers have an altar — Christ's cross — and that altar is incompatible with the old system's continued altar service.

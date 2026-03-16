@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Sign, Prophetic Action, Divine Judgment, Spiritual Humiliation
 
-**Tags:** #year-Tartan-came-Ashdod-Sargon-king-Assyria-sent-fought-Ashdod-took-time-spoke-LORD-Isaiah-son-Amoz-saying-loose-sackcloth-loins-put-shoe-foot-walking-naked-barefoot-LORD-servant-Isaiah-walked-naked-barefoot-three-years-sign-wonder-Egypt-Ethiopia-king-Assyria-lead-Egyptians-prisoners-Ethiopians-captives-young-old-naked-barefoot-buttocks-uncovered-shame-Egypt-afraid-ashamed-Ethiopia-expectation-Egypt-glory-inhabitant-isle-say-day-Behold-expectation-flee-help-delivered-king-Assyria-escape
+**Tags:** #christ #prophetic-action #divine-judgment #spiritual-humiliation
 
 ---
 

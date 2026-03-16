@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Prayer in Distress, Betrayal by Friends, Divine Deliverance, Trust in God
 
-**Tags:** #chief-Musician-Neginoth-Maschil-Psalm-David-Give-ear-prayer-GOD-hide-supplication-Attend-hear-mourn-complaint-noise-voice-enemy-oppression-wicked-cast-iniquity-wrath-hate-heart-sore-pained-terrors-death-fallen-fearfulness-trembling-horror-overwhelmed-wings-dove-fly-away-rest-wander-far-remain-wilderness-Selah-hasten-escape-windy-storm-tempest-Destroy-Lord-divide-tongues-seen-violence-strife-city-day-night-walls-mischief-sorrow-midst-wickedness-midst-deceit-guile-depart-streets-enemy-reproached-borne-hated-magnify-hid-man-mine-equal-guide-acquaintance-took-sweet-counsel-walked-house-GOD-company-death-seize-go-quick-hell-wickedness-dwellings-call-GOD-LORD-save-evening-morning-noon-pray-cry-aloud-hear-voice-delivered-soul-peace-battle-against-GOD-hear-afflict-abideth-old-Selah-changes-fear-GOD-hands-peace-broken-covenant-words-mouth-smoother-butter-war-heart-words-softer-oil-drawn-swords-Cast-burden-LORD-sustain-righteous-moved-GOD-bring-pit-destruction-bloody-deceitful-men-live-half-days-trust
+**Tags:** #prayer-in-distress #betrayal-by-friends #divine-deliverance #trust-in-god
 
 ---
 

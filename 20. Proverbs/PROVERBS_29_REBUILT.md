@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Authority and Justice, Wisdom and Folly, Pride and Humility, Divine Sovereignty
 
-**Tags:** #reproved-hardeneth-neck-suddenly-destroyed-remedy-righteous-authority-people-rejoice-wicked-bear-rule-people-mourn-loveth-wisdom-rejoiceth-father-keepeth-company-harlots-spend-substance-king-judgment-establish-land-receiveth-gifts-overthrow-man-flattereth-neighbour-spread-net-feet-transgression-evil-man-snare-righteous-sing-rejoice-righteous-considereth-cause-poor-wicked-regard-know-Scornful-men-bring-city-snare-wise-men-turn-away-wrath-wise-man-contendeth-foolish-man-whether-rage-laugh-rest-bloodthirsty-hate-upright-just-seek-soul-fool-uttereth-mind-wise-man-keepeth-afterwards-ruler-hearken-lies-servants-wicked-poor-deceitful-man-meet-LORD-lighten-eyes-king-faithfully-judgeth-poor-throne-established-forever-rod-reproof-give-wisdom-child-left-mother-shame-wicked-multiplied-transgression-increaseth-righteous-see-fall-Correct-son-give-rest-delight-soul-no-vision-people-perish-keep-law-happy-servant-corrected-words-understand-answer-seest-man-hasty-words-hope-fool-delicate-bring-servant-child-become-son-length-angry-man-stirreth-strife-furious-man-aboundeth-transgression-man-pride-bring-low-uphold-humble-spirit-partner-thief-hateth-soul-heareth-cursing-bewrayeth-fear-man-bring-snare-put-trust-LORD-safe-seek-ruler-favour-man-judgment-LORD-unjust-man-abomination-just-upright-way-abomination-wicked
+**Tags:** #authority-and-justice #wisdom-and-folly #pride-and-humility #divine-sovereignty
 
 ---
 

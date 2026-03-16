@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** God's Glory, Divine Victory, Fear of God, Heavenly Judgment
 
-**Tags:** #chief-Musician-Neginoth-Psalm-Song-Asaph-Judah-GOD-known-name-great-Israel-Salem-tabernacle-dwelling-place-Zion-brake-arrows-bow-shield-sword-battle-Selah-glorious-excellent-mountains-prey-stouthearted-spoiled-slept-sleep-men-might-found-hands-rebuke-GOD-Jacob-chariot-horse-cast-dead-sleep-feared-stand-sight-angry-caused-judgment-heard-heaven-earth-feared-still-GOD-arose-judgment-save-meek-earth-Selah-wrath-man-praise-remainder-wrath-restrain-Vow-pay-LORD-GOD-round-bring-presents-feared-cut-spirit-princes-terrible-kings-earth
+**Tags:** #god #divine-victory #fear-of-god #heavenly-judgment
 
 ---
 

@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Paul's Greeting, Thanksgiving, Unity in Christ, The Wisdom of the Cross
 
-**Tags:** #Paul-called-apostle-Jesus-Christ-will-God-Sosthenes-brother-church-God-Corinth-sanctified-Christ-Jesus-called-saints-place-call-name-Jesus-Christ-Lord-grace-peace-God-Father-Lord-Jesus-Christ-thank-God-grace-God-Jesus-Christ-enriched-utterance-knowledge-testimony-Christ-confirmed-gift-waiting-coming-Lord-Jesus-Christ-confirm-blameless-day-Lord-Jesus-Christ-God-faithful-called-fellowship-Son-Jesus-Christ-Lord-beseech-brethren-name-Lord-Jesus-Christ-speak-thing-divisions-perfectly-joined-mind-judgment-declared-brethren-house-Chloe-contentions-saith-Paul-Apollos-Cephas-Christ-divided-crucified-baptized-name-Paul-thank-God-baptized-Crispus-Gaius-baptized-mine-name-baptized-household-Stephanas-baptized-Christ-sent-baptize-preach-gospel-wisdom-words-cross-Christ-effect-preaching-cross-perish-foolishness-saved-power-God-written-destroy-wisdom-wise-nothing-understanding-prudent-wise-scribe-disputer-world-God-foolish-wisdom-world-wisdom-knew-God-pleased-God-foolishness-preaching-save-believe-Jews-require-sign-Greeks-seek-wisdom-preach-Christ-crucified-Jews-stumblingblock-Greeks-foolishness-called-Jews-Greeks-Christ-power-God-wisdom-God-foolishness-God-wiser-men-weakness-God-stronger-men-calling-wise-men-flesh-mighty-noble-called-God-chosen-foolish-things-world-confound-wise-God-chosen-weak-things-world-confound-mighty-base-things-world-despised-God-chosen-things-nought-flesh-glory-Christ-Jesus-God-wisdom-righteousness-sanctification-redemption-written-glory-Lord
+**Tags:** #paul #thanksgiving #unity-in-christ #the-wisdom-of-the-cross
 
 ---
 
@@ -241,7 +241,7 @@ Paul, called, apostle, Jesus, Christ, will, God, Sosthenes, brother, church, God
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Paul's Greeting as Type of Christ's Commission
 - **Physical commission:** Called apostle (1 Corinthians 1:3)

@@ -167,3 +167,57 @@ The great High Priest went outside the camp — not to diagnose uncleanness but 
 ---
 
 **End of Leviticus Chapter 14**
+
+---
+
+## COMMONLY MISQUOTED PASSAGES
+
+### Leviticus 14:34 — "I Put the Plague of Leprosy in a House" Used to Attribute All Adversity to Direct Divine Judgment
+
+**Verse 34** — "When ye be come into the land of Canaan, which I give to you for a possession, and I put the plague of leprosy in a house of the land of your possession."
+
+**How it is misused:** This verse is sometimes cited to argue that any adversity befalling a household — illness, financial disaster, structural problems — is God's direct punitive judgment on that family. Conversely, it is dismissed as ancient superstition with no theological content.
+
+**What the text actually says:**
+- **Proverbs 3:33** — "The curse of the LORD is in the house of the wicked: but he blesseth the habitation of the just." — God's activity in households is real, but the text connects it to the character of the household, not to arbitrary misfortune.
+- **Joshua 7:11-12** — Achan's hidden sin defiles the whole camp; God's removal of blessing from Israel is directly connected to a specific covenantal violation, not generic.
+- **Haggai 1:9** — "Ye looked for much, and, lo, it came to little... Why? saith the LORD of hosts. Because of mine house that is waste." — God explicitly identifies the connection between the people's priorities and the conditions of their households.
+
+*Correction:* Leviticus 14:34 does not teach that all household adversity is divine punishment or that God is actively afflicting homes in the same way. It teaches that God's governance extends to dwelling places and that the covenant community must take seriously the question of defilement — addressing it through the prescribed process rather than ignoring it or over-spiritualizing every structural problem. The passage is primarily about the seriousness of defilement's spread, not a template for diagnosing every misfortune.
+
+---
+
+### Leviticus 14:14 — Blood on Ear, Thumb, Toe Cited to Claim Elaborate Ritual Required for Restoration
+
+**Verse 14** — "And the priest shall take some of the blood of the trespass offering, and the priest shall put it upon the tip of the right ear of him that is to be cleansed, and upon the thumb of his right hand, and upon the great toe of his right foot."
+
+**How it is misused:** This verse is sometimes used to argue that restoration to community after sin requires elaborate multi-step ceremonial procedures modeled on the Levitical rite — that New Covenant restoration must be as procedurally complex as this eight-day process.
+
+**What the text actually says:**
+- **1 John 1:9** — "If we confess our sins, he is faithful and just to forgive us our sins, and to cleanse us from all unrighteousness."
+- **Hebrews 10:19-22** — "Having therefore, brethren, boldness to enter into the holiest by the blood of Jesus, By a new and living way, which he hath consecrated for us... Let us draw near."
+- **Hebrews 9:12** — "by his own blood he entered in once into the holy place, having obtained eternal redemption for us."
+
+*Correction:* The eight-day rite of Leviticus 14 is fulfilled — not replicated — in Christ. The blood on ear, thumb, and toe was the old-covenant way of signaling complete consecration; Hebrews 10:19-22 declares that the blood of Jesus has opened permanent, bold access to the presence of God. The New Covenant's answer to defilement is not a new ceremonial procedure but the once-for-all blood of Christ applied through faith and confession (1 John 1:9).
+
+---
+
+## SYMBOLIC THREADS
+
+**Hyssop (The Instrument of Application):**
+- First appears: Exodus 12:22 — "And ye shall take a bunch of hyssop, and dip it in the blood that is in the bason, and strike the lintel and the two side posts with the blood that is in the bason" — hyssop applies the Passover blood.
+- Numbers 19:18 — "And a clean person shall take hyssop, and dip it in the water, and sprinkle it upon the tent, and upon all the vessels, and upon the persons" — hyssop applies the water of purification for contact with the dead.
+- Leviticus 14:4, 6 — Hyssop is part of the two-bird ceremony for the cleansed leper.
+- Leviticus 14:49, 51-52 — Hyssop used again in the cleansing of the leprous house.
+- Psalm 51:7 — "Purge me with hyssop, and I shall be clean: wash me, and I shall be whiter than snow" — David uses the cleansing instrument as his prayer vocabulary.
+- Hebrews 9:19 — "he took the blood of calves and of goats, with water, and scarlet wool, and hyssop, and sprinkled both the book, and all the people."
+- John 19:29 — "they filled a spunge with vinegar, and put it upon hyssop, and put it to his mouth" — hyssop present at the final sacrifice.
+- *Pattern:* Hyssop is the consistent application instrument across the entire Levitical system: Passover (Exodus 12), leper's cleansing (Leviticus 14), red heifer purification (Numbers 19). Its presence at the cross (John 19:29) is the Spirit's consistent marking: the instrument of every prior application is present at the event that makes all application permanently real.
+
+**The Two-Bird Death and Release:**
+- Established: Leviticus 14:4-7 — one bird killed over living water; the living bird dipped in the blood and released into the open field.
+- Leviticus 16:7-22 — the two goats on the Day of Atonement: one killed for the LORD, one sent alive into the wilderness bearing all iniquities.
+- Psalm 103:12 — "As far as the east is from the west, so far hath he removed our transgressions from us."
+- Isaiah 53:5-6 — "he was wounded for our transgressions... the LORD hath laid on him the iniquity of us all" — the death; and Isaiah 53:12 — "he bare the sin of many" — the carrying away.
+- Romans 4:25 — "Who was delivered for our offences, and was raised again for our justification" — delivered (killed bird) and raised (living bird going out bearing the transferred burden away into newness).
+- *Pattern:* The two-bird ceremony of Leviticus 14 and the two-goat ceremony of Leviticus 16 teach the same truth: atonement requires both death (covering the penalty) and removal (carrying away the guilt to a place it does not return from). No single act can symbolize both simultaneously. Romans 4:25 — the cross and resurrection — is the New Covenant two-bird answer: Christ's death pays the penalty; His resurrection carries the removed sin into a new life where it has no more claim.

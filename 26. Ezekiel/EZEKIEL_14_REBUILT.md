@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Judgment, Idolatrous Hearts, Divine Righteousness, Christ's Remnant
 
-**Tags:** #elders-Israel-sat-word-LORD-son-men-set-idols-heart-stumblingblock-iniquity-face-enquired-Lord-GOD-house-Israel-set-idols-heart-stumblingblock-iniquity-face-prophet-LORD-answer-multitude-idols-house-Israel-heart-estranged-idols-house-Israel-Lord-GOD-Repent-turn-idols-turn-faces-abominations-house-Israel-stranger-sojourneth-Israel-separateth-set-idols-heart-stumblingblock-iniquity-face-prophet-enquire-LORD-answer-face-man-sign-proverb-cut-midst-people-know-LORD-prophet-deceived-spoken-LORD-deceived-prophet-stretch-hand-destroy-midst-people-Israel-bear-punishment-iniquity-punishment-prophet-punishment-seeketh-house-Israel-stray-polluted-transgressions-people-God-Lord-GOD-word-LORD-son-land-sinneth-trespassing-grievously-stretch-hand-break-staff-bread-send-famine-cut-man-beast-three-men-Noah-Daniel-Job-deliver-souls-righteousness-Lord-GOD-noisome-beasts-pass-land-spoil-desolate-man-pass-beasts-three-men-live-Lord-GOD-deliver-sons-daughters-delivered-land-desolate-sword-land-sword-land-cut-man-beast-three-men-live-Lord-GOD-deliver-sons-daughters-delivered-pestilence-land-pour-fury-blood-cut-man-beast-Noah-Daniel-Job-live-Lord-GOD-deliver-son-daughter-deliver-souls-righteousness-Lord-GOD-four-sore-judgments-Jerusalem-sword-famine-noisome-beast-pestilence-cut-man-beast-left-remnant-brought-sons-daughters-come-forth-see-way-doings-comforted-evil-Jerusalem-comfort-ways-doings-know-without-cause-Lord-GOD
+**Tags:** #christ #idolatrous-hearts #divine-righteousness
 
 ---
 

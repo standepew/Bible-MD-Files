@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Healing at Bethesda, The Sabbath Controversy, The Father and the Son, Witnesses to Christ
 
-**Tags:** #feast-Jews-Jesus-Jerusalem-Jerusalem-sheep-market-pool-Hebrew-Bethesda-five-porches-multitude-impotent-folk-blind-halt-withered-waiting-moving-water-angel-season-pool-troubled-water-troubling-stepped-whole-disease-man-infirmity-thirty-eight-years-Jesus-lie-long-time-case-whole-impotent-man-water-troubled-pool-coming-steppeth-Jesus-whole-bed-walk-immediately-whole-bed-walked-sabbath-Jews-cured-sabbath-day-lawful-bed-answered-made-whole-bed-walk-asked-man-bed-walk-healed-wist-Jesus-conveyed-multitude-place-Jesus-temple-whole-sin-worse-departed-Jews-Jesus-whole-Jews-persecute-Jesus-slay-sabbath-Jesus-answered-Father-worketh-work-Jews-kill-broken-sabbath-God-Father-equal-God-Jesus-answered-Verily-Son-father-seeth-Father-things-Son-Father-loveth-Son-sheweth-greater-works-marvel-Father-raised-dead-quickeneth-Son-quickeneth-Father-judgeth-committed-judgment-Son-honour-Son-honour-Father-honoureth-Son-honoureth-Father-sent-Verily-heareth-word-believeth-everlasting-life-condemnation-passed-death-life-hour-dead-hear-voice-Son-God-hear-live-Father-life-Son-life-authority-judgment-Son-man-Marvel-hour-graves-hear-voice-come-good-resurrection-life-evil-resurrection-damnation-self-hear-judge-judgment-just-seek-will-Father-sent-witness-true-witness-true-John-witness-truth-testimony-man-saved-burning-shining-light-season-rejoice-light-greater-witness-John-works-Father-finish-works-bear-witness-Father-sent-Father-borne-witness-voice-shape-word-abiding-sent-believe-Search-scriptures-eternal-life-testify-life-honour-men-love-God-Father-name-receive-another-own-name-receive-believe-honour-men-seek-honour-God-accuse-Father-accuse-Moses-trust-believed-Moses-believe-writings-believe-words
+**Tags:** #healing-at-bethesda #the-sabbath-controversy #the-father-and-the-son #witnesses-to-christ
 
 ---
 
@@ -297,7 +297,7 @@ Feast, Jews, Jesus, Jerusalem, Jerusalem, sheep, market, pool, Hebrew, Bethesda,
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Healing at Bethesda as Type of Christ's Salvation
 - **Physical healing:** Bethesda pool (John 5:4)

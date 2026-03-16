@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Living Stones and Spiritual House, Christ the Chief Cornerstone, Royal Priesthood, Christian Conduct Among Gentiles, Following Christ's Example
 
-**Tags:** #laying-aside-malice-guile-hypocrisies-envies-evil-speakings-newborn-babes-desire-sincere-milk-word-grow-tasted-Lord-gracious-living-stone-disallowed-men-chosen-God-precious-lively-stones-built-spiritual-house-holy-priesthood-offer-spiritual-sacrifices-acceptable-God-Jesus-Christ-scripture-lay-Sion-chief-corner-stone-elect-precious-believeth-confounded-believe-precious-disobedient-stone-builders-disallowed-head-corner-stone-stumbling-rock-offence-stumble-word-disobey-appointed-chosen-generation-royal-priesthood-holy-nation-peculiar-people-shew-praises-called-darkness-marvellous-light-people-mercy-strangers-pilgrims-abstain-fleshly-lusts-war-soul-conversation-honest-Gentiles-speak-evildoers-good-works-behold-glorify-God-visitation-Submit-ordinance-man-Lord-king-supreme-governors-sent-punishment-evildoers-praise-will-God-well-doing-silence-ignorance-foolish-free-liberty-cloke-maliciousness-servants-God-Honour-men-Love-brotherhood-Fear-God-Honour-king-Servants-masters-fear-good-gentle-froward-thankworthy-conscience-God-endure-grief-suffering-wrongfully-glory-buffeted-faults-take-patiently-suffer-patiently-acceptable-God-called-Christ-suffered-example-follow-steps-sin-guile-mouth-reviled-reviled-suffered-threatened-committed-judgeth-righteously-bare-sins-body-tree-dead-sins-live-righteousness-stripes-healed-sheep-astray-returned-Shepherd-Bishop-souls
+**Tags:** #living-stones-and-spiritual-house #christ-the-chief-cornerstone #royal-priesthood #christian-conduct-among-gentiles #following-christ
 
 ---
 
@@ -219,7 +219,7 @@ Laying, aside, malice, guile, hypocrisies, envies, evil, speakings, newborn, bab
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Living Stones and Spiritual House as Type of Christ's Temple
 - **Physical temple:** Spiritual house (1 Peter 2:5)

@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Pride, Spiritual Ruin, Divine Drunkenness, Christ's Humiliation
 
-**Tags:** #LORD-linen-girdle-loins-water-girdle-word-LORD-loins-word-LORD-second-time-girdle-loins-arise-Euphrates-hide-hole-rock-went-hid-Euphrates-LORD-commanded-days-LORD-arise-Euphrates-girdle-commanded-hide-went-Euphrates-digged-girdle-place-hid-girdle-marred-profitable-word-LORD-LORD-manner-mar-pride-Judah-great-pride-Jerusalem-evil-people-refuse-hear-words-walk-imagination-heart-walk-gods-serve-worship-girdle-good-nothing-girdle-cleaveth-loins-man-caused-cleave-house-Israel-house-Judah-LORD-people-name-praise-glory-hear-bottle-filled-wine-bottle-filled-wine-LORD-LORD-God-Israel-bottle-filled-wine-LORD-fill-inhabitants-land-kings-sit-David-throne-priests-prophets-inhabitants-Jerusalem-drunkenness-dash-fathers-sons-LORD-pity-spare-mercy-destroy-Hear-give-proud-LORD-spoken-glory-LORD-God-cause-darkness-feet-stumble-dark-mountains-look-light-turn-shadow-death-gross-darkness-hear-soul-weep-secret-pride-eye-weep-run-tears-LORD-flock-carried-captive-king-queen-Humble-sit-principalities-crown-glory-cities-south-shut-open-Judah-carried-captive-wholly-carried-captive-Lift-eyes-behold-north-flock-given-beautiful-flock-punish-taught-captains-chief-sorrows-travail-heart-things-greatness-iniquity-skirts-discovered-heels-bare-Ethiopian-change-skin-leopard-spots-good-accustomed-evil-scatter-stubble-passeth-wind-wilderness-lot-portion-measures-LORD-forgotten-trusted-falsehood-discover-skirts-face-shame-appear-adulteries-neighings-lewdness-whoredom-abominations-hills-fields-Jerusalem-clean
+**Tags:** #christ #spiritual-ruin #divine-drunkenness
 
 ---
 

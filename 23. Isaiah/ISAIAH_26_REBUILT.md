@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Peace, Perfect Trust, Divine Judgment, Resurrection Hope
 
-**Tags:** #day-song-sung-land-Judah-strong-city-salvation-God-appoint-walls-bulwarks-Open-gates-righteous-nation-keepeth-truth-enter-keep-perfect-peace-mind-stayed-trusteth-Trust-LORD-ever-LORD-JEHOVAH-everlasting-strength-bring-dwell-high-lofty-city-lay-lay-ground-bring-dust-foot-tread-feet-poor-steps-needy-way-just-uprightness-upright-weigh-path-just-way-judgments-LORD-waited-thee-desire-soul-name-remembrance-soul-desired-night-spirit-within-seek-early-judgments-earth-inhabitants-world-learn-righteousness-favour-shewed-wicked-learn-righteousness-land-uprightness-deal-unjustly-behold-majesty-LORD-hand-lifted-see-ashamed-envy-people-fire-enemies-devour-LORD-ordain-peace-wrought-works-LORD-GOD-lords-dominion-mention-name-dead-live-deceased-rise-visited-destroyed-made-memory-perish-increased-nation-LORD-increased-nation-glorified-removed-ends-earth-trouble-visited-poured-prayer-chastening-upon-woman-child-draw-near-time-delivery-pain-crieth-pangs-sight-LORD-child-pain-brought-wind-wrought-deliverance-earth-inhabitants-world-fallen-dead-men-live-dead-body-arise-Awake-sing-dwell-dust-dew-herbs-earth-cast-dead-Come-people-enter-chambers-shut-doors-hide-little-moment-indignation-overpast-behold-LORD-cometh-place-punish-inhabitants-earth-iniquity-earth-disclose-blood-cover-slain
+**Tags:** #christ #perfect-trust #divine-judgment #resurrection-hope
 
 ---
 

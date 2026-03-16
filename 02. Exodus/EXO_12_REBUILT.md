@@ -227,6 +227,42 @@ God institutes the Passover — the defining redemptive event of the Old Testame
 
 ---
 
+## COMMONLY MISQUOTED PASSAGES
+
+### Exodus 12:13 — "When I See the Blood" Treated as If Personal Merit Contributes to Salvation
+
+**Verse 13** — "And the blood shall be to you for a token upon the houses where ye are: and when I see the blood, I will pass over you, and the plague shall not be upon you to destroy you, when I smite the land of Egypt."
+
+**How it is misused:** The verse is sometimes read to suggest that it is the act of applying the blood (the obedience of the worshipper) that secures salvation — making the blood a symbol of human effort or sincerity rather than the ground of salvation itself. It is also misread in the opposite direction: as though the blood's presence is merely symbolic and the real safety lies in being Israelite by birth.
+
+**What the text actually says:** The text focuses entirely on the blood itself as the ground, not on the worthiness, sincerity, or nationality of those inside:
+- **Verse 13** — "when I see the blood" — God sees the blood, not the person, not their works, not their ethnicity; the blood alone is the token
+- **Exodus 12:48** — "And when a stranger shall sojourn with thee, and will keep the passover to the LORD, let all his males be circumcised, and then let him come near and keep it" — a non-Israelite who applied the blood was equally protected; the blood transcended ethnicity
+- **Hebrews 11:28** — "Through faith he kept the passover, and the sprinkling of blood, lest he that destroyed the firstborn should touch them" — Hebrews identifies the act as faith; the blood application is the form faith took, not a meritorious work
+- **1 Peter 1:18-19** — "redeemed... with the precious blood of Christ, as of a lamb without blemish and without spot" — Peter applies Exodus 12 to Christ's blood as the ground, not to human application of it as the merit
+
+*Correction:* "When I see the blood" establishes that the Passover lamb's blood is the sole ground of safety. Those inside the house are not saved because they are good, sincere, or even Israelite — they are saved because blood marks the door. The application of the blood (the act of faith) places one under its covering, but the ground is the blood itself. This is the grammar of grace: the substitute bears the judgment; the blood covers those who are under it.
+
+---
+
+### Exodus 12:14-15 — "An Ordinance For Ever" Used to Argue the Passover Must Still Be Observed
+
+**Verse 14** — "And this day shall be unto you for a memorial; and ye shall keep it a feast to the LORD throughout your generations; ye shall keep it a feast by an ordinance for ever."
+
+**How it is misused:** The phrase "ordinance for ever" is used to argue that the Passover observance was never fulfilled in Christ and must still be kept literally by believers today. The Hebrew word olam (for ever) is treated as an absolute perpetual command with no possibility of typological fulfillment.
+
+**What the text actually says:** The New Testament explicitly identifies Christ as the fulfillment of the Passover and institutes the Lord's Supper as the New Covenant form of its observance:
+- **1 Corinthians 5:7** — "For even Christ our passover is sacrificed for us" — Paul declares Christ IS the Passover; the Passover finds its fulfillment in a Person, not an ongoing animal sacrifice
+- **Luke 22:15-20** — Jesus at the last Passover: "With desire I have desired to eat this passover with you before I suffer... This cup is the new testament in my blood" — Jesus identifies His blood as the fulfillment and institutes the Lord's Supper as the New Covenant memorial in its place
+- **1 Corinthians 11:26** — "For as often as ye eat this bread, and drink this cup, ye do shew the Lord's death till he come" — the Lord's Supper is the New Testament Passover kept "in remembrance" until Christ returns
+- Hebrew olam = an indefinitely long duration, an age, not always absolute eternity; it is used for institutions that last until their fulfillment or replacement (the Levitical priesthood was also "for ever" — olam — yet Hebrews declares it superseded by Melchizedek's order in Christ)
+
+*Correction:* The "for ever" of Exodus 12:14 means the observance was to continue until the reality it pointed to arrived. When Christ — the true Passover Lamb — was sacrificed (1 Corinthians 5:7), the type was fulfilled in the antitype. The Lord's Supper is the New Covenant form of the Passover memorial, looking back to the cross rather than forward to it. Hebrews establishes this principle throughout: Old Covenant ordinances described as "for ever" find their fulfillment in Christ, who is their eternal substance.
+
+---
+
+---
+
 ## SYMBOLIC THREADS
 
 ### Unleavened Bread — Haste and Purity

@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Divine Judgment, Christ's Glory, Spiritual Harvest, True Worship
 
-**Tags:** #burden-Damascus-Behold-Damascus-taken-city-ruinous-heap-cities-Aroer-forsaken-flocks-lie-afraid-fortress-cease-Ephraim-kingdom-Damascus-remnant-Syria-glory-children-Israel-LORD-hosts-day-glory-Jacob-thin-fatness-flesh-wax-lean-harvestman-gathereth-corn-reapeth-ears-arm-gather-ears-valley-Rephaim-gleaning-grapes-left-shaking-olive-tree-two-three-berries-top-uppermost-bough-four-five-outmost-fruitful-branches-LORD-God-Israel-day-man-look-Maker-eyes-respect-Holy-One-Israel-look-altars-work-hands-respect-fingers-made-groves-images-strong-cities-forsaken-bough-uppermost-branch-left-children-Israel-desolation-forgotten-God-salvation-mindful-rock-strength-plant-pleasant-plants-set-strange-slips-day-plant-grow-morning-seed-flourish-harvest-heap-day-grief-desperate-sorrow-Woe-multitude-people-make-noise-like-noise-seas-rushing-nations-rushing-like-rushing-mighty-waters-nations-rush-rushing-waters-God-rebuke-flee-chased-chaff-mountains-wind-rolling-thing-whirlwind-behold-evening-trouble-morning-portion-spoil-lot-rob
+**Tags:** #divine-judgment #christ #spiritual-harvest #true-worship
 
 ---
 

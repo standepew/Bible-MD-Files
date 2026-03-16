@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Altar Rebuilt, Worship Restored, Temple Foundation, Mixed Emotions
 
-**Tags:** #seventh-month-children-Israel-cities-people-gathered-Jerusalem #Jeshua-son-Jozadak-brethren-priests-Zerubbabel-son-Shealtiel-brethren-builded-altar-God-Israel-offer-burnt-offerings-law-Moses-man-God #altar-bases-fear-people-countries-burnt-offerings-LORD-burnt-offerings-morning-evening #feast-tabernacles-written-daily-burnt-offerings-number-custom-duty-day-required #continual-burnt-offering-new-moons-set-feasts-LORD-consecrated-willingly-freewill-offering-LORD #first-day-seventh-month-burnt-offerings-LORD-foundation-temple-LORD-laid #money-masons-carpenters-meat-drink-oil-Zidon-Tyre-cedar-trees-Lebanon-sea-Joppa-grant-Cyrus-king-Persia #second-year-coming-house-GOD-Jerusalem-second-month-Zerubbabel-son-Shealtiel-Jeshua-son-Jozadak-remnant-brethren-priests-Levites-captivity-Jerusalem-appointed-Levites-twenty-years-upward-work-house-LORD #Jeshua-sons-brethren-Kadmiel-sons-sons-Judah-workmen-house-GOD-sons-Henadad-sons-brethren-Levites #builders-laid-foundation-temple-LORD-priests-apparel-trumpets-Levites-sons-Asaph-cymbals-praise-LORD-ordinance-David-king-Israel #sang-course-praising-thanks-LORD-good-mercy-endureth-Israel-people-shouted-great-shout-praised-LORD-foundation-house-LORD-laid #priests-Levites-chief-fathers-ancient-men-first-house-foundation-house-laid-eyes-wept-loud-voice-shouted-joy #people-discern-noise-shout-joy-noise-weeping-people-shouted-loud-shout-noise-heard-afar
+**Tags:** #altar-rebuilt #worship-restored #temple-foundation #mixed-emotions
 
 ---
 

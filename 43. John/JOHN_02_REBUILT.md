@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** The Wedding at Cana, First Miracle, Cleansing the Temple, Sign of the Resurrection
 
-**Tags:** #third-day-marriage-Cana-Galilee-mother-Jesus-called-disciples-marriage-wanted-wine-mother-saith-wine-Jesus-saith-Woman-mine-hour-mother-saith-servants-Whatsoever-saith-waterpots-stone-manner-purifying-Jews-firkins-Jesus-saith-Fill-waterpots-water-filled-brim-saith-Draw-bear-governor-feast-ruler-feast-tasted-water-made-wine-whence-servants-drew-water-knew-governor-feast-called-bridegroom-saith-man-beginning-good-wine-drunk-worse-kept-good-now-beginning-miracles-Jesus-Cana-Galilee-manifested-glory-disciples-believed-Capernaum-mother-brethren-disciples-continued-days-Jews-passover-hand-Jerusalem-temple-sold-oxen-sheep-doves-changers-money-sitting-scourge-small-cords-drove-temple-sheep-oxen-poured-changers-money-overthrew-tables-sold-doves-hence-Father-house-merchandise-disciples-remembered-written-zeal-house-eaten-answered-Jews-sign-shewest-doest-Jesus-answered-Destroy-temple-three-days-raise-Jews-Forty-six-years-temple-building-rear-three-days-spake-temple-body-risen-dead-disciples-remembered-believed-scripture-word-Jesus-Jerusalem-passover-feast-believed-name-miracles-Jesus-commit-himself-knew-men-needed-testify-man-knew-man
+**Tags:** #the-wedding-at-cana #first-miracle #cleansing-the-temple #sign-of-the-resurrection
 
 ---
 
@@ -193,7 +193,7 @@ Third, day, marriage, Cana, Galilee, mother, Jesus, called, disciples, marriage,
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Wedding at Cana as Type of Christ's Joy
 - **Physical wedding:** Marriage Cana (John 2:3)

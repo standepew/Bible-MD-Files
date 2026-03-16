@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Divine Judgment, Four Chariots, The Branch Crowned, Priest-King Messiah
 
-**Tags:** #turned-lifted-eyes-looked-four-chariots-two-mountains-mountains-brass-first-chariot-red-horses-second-chariot-black-horses-third-chariot-white-horses-fourth-chariot-grisled-bay-horses-answered-angel-talked-lord-angel-answered-four-spirits-heavens-go-forth-standing-Lord-earth-black-horses-forth-north-country-white-forth-grisled-forth-south-country-bay-forth-sought-walk-earth-Get-walk-earth-walked-earth-cried-spake-toward-north-country-quieted-spirit-north-country-word-LORD-captivity-Heldai-Tobijah-Jedaiah-come-Babylon-day-house-Josiah-son-Zephaniah-silver-gold-crowns-set-head-Joshua-son-Josedech-high-priest-speak-LORD-hosts-man-name-BRANCH-grow-place-build-temple-LORD-build-temple-LORD-bear-glory-sit-rule-throne-priest-throne-counsel-peace-crowns-Helem-Tobijah-Jedaiah-Hen-son-Zephaniah-memorial-temple-LORD-far-build-temple-LORD-know-LORD-hosts-sent-diligently-obey-voice-LORD-God
+**Tags:** #christ #four-chariots #the-branch-crowned #priestking-messiah
 
 ---
 

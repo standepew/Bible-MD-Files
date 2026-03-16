@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Judgment on Complacency, False Security, Divine Pride, Final Destruction
 
-**Tags:** #Woe-ease-Zion-trust-mountain-Samaria-named-chief-nations-house-Israel-came-Pass-Calneh-see-thence-Hamath-great-Gath-Philistines-better-kingdoms-border-greater-border-put-evil-day-seat-violence-near-lie-beds-ivory-stretch-couches-eat-lambs-flock-calves-midst-stall-chant-sound-viol-invent-instruments-musick-David-drink-wine-bowls-anoint-chief-ointments-grieved-affliction-Joseph-captive-first-captives-banquet-stretched-removed-Lord-GOD-sworn-LORD-God-hosts-abhor-excellency-Jacob-hate-palaces-deliver-city-within-remain-ten-men-house-die-uncle-take-burneth-bones-house-sides-house-remain-say-Hold-tongue-mention-name-LORD-behold-LORD-commandeth-smite-great-house-breaches-little-house-clefts-horses-run-rock-plow-oxen-turned-judgment-gall-fruit-righteousness-hemlock-rejoice-thing-nought-taken-horns-strength-behold-raise-nation-house-Israel-LORD-God-hosts-afflict-entering-Hemath-river-wilderness
+**Tags:** #christ #false-security #divine-pride #final-destruction
 
 ---
 

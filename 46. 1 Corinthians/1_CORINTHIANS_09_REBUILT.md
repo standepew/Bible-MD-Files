@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Paul's Apostleship, Rights of Ministers, The Gospel's Reward, Self-Discipline
 
-**Tags:** #apostle-free-seen-Jesus-Christ-Lord-work-Lord-apostle-others-seal-apostleship-Lord-answer-examine-power-eat-drink-power-lead-sister-wife-apostles-brethren-Lord-Cephas-Barnabas-power-forbear-working-warfare-charges-planteth-vineyard-eateth-fruit-feedeth-flock-eateth-milk-flock-saith-man-law-Moses-muzzle-mouth-ox-treadeth-corn-God-care-oxen-sakes-sakes-ploweth-hope-thresheth-hope-partaker-hope-sown-spiritual-things-reap-carnal-things-partakers-power-used-power-suffer-things-hinder-gospel-Christ-minister-holy-things-live-things-temple-wait-altar-partakers-altar-Lord-ordained-preach-gospel-live-gospel-used-things-written-things-done-die-man-make-glorying-void-preach-gospel-glory-necessity-woe-preach-gospel-thing-willingly-reward-dispensation-gospel-reward-preach-gospel-gospel-Christ-charge-abuse-power-gospel-free-men-servant-gain-Jews-Jew-gain-Jews-law-gain-law-without-law-without-law-law-God-law-Christ-gain-without-law-weak-weak-gain-weak-things-men-means-save-gospel-sake-partaker-gospel-run-race-prize-run-obtain-striveth-mastery-temperate-things-obtain-corruptible-crown-incorruptible-run-uncertainly-fight-beateth-air-keep-body-subjection-preach-others-castaway
+**Tags:** #paul #rights-of-ministers #the-gospel #selfdiscipline
 
 ---
 
@@ -233,7 +233,7 @@ Apostle, free, seen, Jesus, Christ, Lord, work, Lord, apostle, others, seal, apo
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Paul's Apostleship as Type of Christ's Commission
 - **Physical commission:** Seal apostleship (1 Corinthians 9:4)

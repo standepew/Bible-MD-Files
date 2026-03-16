@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Fatherly Love, Divine Compassion, Lion's Roar, Faithful Remnant
 
-**Tags:** #Israel-child-loved-called-son-Egypt-called-sacrificed-Baalim-burned-incense-graven-images-taught-Ephraim-go-taking-arms-knew-healed-drew-cords-man-bands-love-yoke-jaws-laid-meat-return-land-Egypt-Assyrian-king-refused-return-sword-abide-cities-consume-branches-devour-counsels-people-bent-backsliding-called-High-exalt-give-Ephraim-deliver-Israel-Admah-Zeboim-heart-turned-repentings-kindled-execute-fierceness-anger-return-destroy-Ephraim-God-man-Holy-midst-enter-city-walk-LORD-roar-lion-roar-children-tremble-west-tremble-bird-Egypt-dove-Assyria-place-houses-LORD-Ephraim-compasseth-lies-house-Israel-deceit-Judah-ruleth-God-faithful-saints
+**Tags:** #christ #divine-compassion #lion #faithful-remnant
 
 ---
 

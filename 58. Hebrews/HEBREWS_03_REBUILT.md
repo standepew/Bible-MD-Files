@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Christ Superior to Moses, Warning Against Unbelief, The Rest of God, Holding Fast Confidence
 
-**Tags:** #holy-brethren-partakers-heavenly-calling-consider-Apostle-High-Priest-profession-Christ-Jesus-faithful-appointed-Moses-faithful-house-counted-worthy-glory-Moses-builded-house-honour-house-house-builded-man-built-things-God-Moses-faithful-house-servant-testimony-things-spoken-Christ-son-house-hold-fast-confidence-rejoicing-hope-firm-end-Holy-Ghost-hear-voice-Harden-hearts-provocation-day-temptation-wilderness-fathers-tempted-proved-works-forty-years-grieved-generation-alway-err-heart-known-ways-sware-wrath-enter-rest-Take-heed-brethren-evil-heart-unbelief-departing-living-God-exhort-daily-called-To-day-hardened-deceitfulness-sin-partakers-Christ-hold-beginning-confidence-stedfast-end-hear-voice-harden-hearts-provocation-heard-provoke-came-Egypt-Moses-grieved-forty-years-sinned-carcases-fell-wilderness-sware-enter-rest-believed-not-enter-unbelief
+**Tags:** #christ-superior-to-moses #warning-against-unbelief #the-rest-of-god #holding-fast-confidence
 
 ---
 
@@ -169,7 +169,7 @@ Holy, brethren, partakers, heavenly, calling, consider, Apostle, High, Priest, p
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Christ Superior to Moses as Type of Christ's Preeminence
 - **Physical preeminence:** Apostle priest (Hebrews 3:2)

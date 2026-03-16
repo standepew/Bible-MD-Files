@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Nehemiah's Burden, Jerusalem's Condition, Prayer of Intercession, Divine Covenant
 
-**Tags:** #words-Nehemiah-son-Hachaliah-Chisleu-twentieth-year-Shushan-palace #Hanani-brethren-men-Judah-asked-Jews-escaped-left-captivity-Jerusalem #remnant-left-captivity-province-great-affliction-reproach-wall-Jerusalem-broken-gates-burned-fire #heard-words-sat-wept-mourned-days-fasted-prayed-GOD-heaven #beseech-LORD-GOD-heaven-great-terrible-GOD-keepeth-covenant-mercy-love-observe-commandments #ear-attentive-eyes-open-hear-prayer-servant-day-night-children-Israel-servants-confess-sins-children-Israel-sinned-I-father-house-sinned #dealt-corruptly-kept-commandments-statutes-judgments-commanded-servant-Moses #remember-word-commanded-servant-Moses-transgress-scatter-abroad-nations #turn-keep-commandments-cast-uttermost-heaven-gather-place-chosen-name #servants-people-redeemed-great-power-strong-hand #Lord-beseech-ear-attentive-prayer-servant-prayer-servants-desire-fear-name-prosper-servant-day-mercy-sight-man-king-cupbearer
+**Tags:** #nehemiah #jerusalem #prayer-of-intercession #divine-covenant
 
 ---
 

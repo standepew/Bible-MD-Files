@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Christ's Resurrection, Appearances, Great Commission, Ascension
 
-**Tags:** #sabbath-past-Mary-Magdalene-Mother-James-Salome-bought-sweet-spices-anoint-early-morning-first-day-week-sepulchre-rising-sun-among-stone-roll-door-sepulchre-looked-stone-rolled-great-entering-sepulchre-young-man-right-side-clothed-long-white-garment-affrighted-said-affrighted-seek-Jesus-Nazareth-crucified-risen-behold-place-laid-way-tell-disciples-Peter-goeth-before-Galilee-see-said-quickly-fled-sepulchre-trembled-amazed-thing-man-afraid-Jesus-risen-early-first-day-week-appeared-Mary-Magdalene-cast-devils-told-mourned-wept-believed-not-alive-seen-believed-not-appeared-form-walked-country-told-residue-believed-not-appeared-eleven-sat-meat-upbraided-unbelief-hardness-heart-believed-risen-said-world-preach-gospel-creature-believeth-baptized-saved-believeth-damned-signs-believe-cast-devils-speak-tongues-serpents-drink-deadly-hurt-lay-hands-sick-recover-Lord-spoken-heaven-right-hand-God-went-preached-Lord-working-confirming-word-signs-Amen
+**Tags:** #christ #appearances #great-commission #ascension
 
 ---
 
@@ -197,7 +197,7 @@ Sabbath, past, Mary, Magdalene, mother, James, Salome, bought, sweet, spices, an
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Christ's Resurrection as Type of Christ's Victory
 - **Physical resurrection:** Risen not (Mark 16:8)

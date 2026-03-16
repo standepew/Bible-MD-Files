@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Divine Provision, Good Shepherd, True Leadership, Restoration of Israel
 
-**Tags:** #Ask-LORD-rain-time-latter-rain-LORD-bright-clouds-showers-rain-grass-field-idols-spoken-vanity-diviners-seen-lie-false-dreams-comfort-vain-went-flock-troubled-shepherd-anger-kindled-shepherds-punished-goats-LORD-hosts-visited-flock-house-Judah-goodly-horse-battle-came-corner-nail-battle-bow-oppressor-mighty-men-tread-enemies-mire-streets-battle-fight-LORD-riders-horses-confounded-strengthen-house-Judah-save-house-Joseph-bring-place-mercy-cast-off-LORD-God-hear-Ephraim-mighty-heart-rejoice-wine-children-see-glad-heart-rejoice-LORD-hiss-gather-redeemed-increase-sow-people-remember-far-countries-live-children-turn-bring-land-Egypt-gather-Assyria-bring-land-Gilead-Lebanon-place-found-pass-sea-affliction-smite-waves-sea-deeps-river-dry-pride-Assyria-brought-sceptre-Egypt-depart-strengthen-LORD-walk-name-LORD
+**Tags:** #christ #good-shepherd #true-leadership #restoration-of-israel
 
 ---
 

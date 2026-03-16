@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** God's Glory, Human Dignity, Creation's Wonder, Christ's Prefiguration
 
-**Tags:** #chief-Musician-Gittith-Psalm-David-LORD-Lord-excellent-name-earth-glory-heavens-mouth-babes-sucklings-ordained-strength-enemies-still-enemy-avenger #consider-heavens-work-fingers-moon-stars-ordained-man-mindful-son-man-visit-lower-angels-crowned-glory-honour-madest-dominion-works-hands-things-feet #sheep-oxen-beasts-field-fowl-air-fish-sea-passeth-paths-seas-LORD-Lord-excellent-name-earth
+**Tags:** #god #human-dignity #creation #christ
 
 ---
 

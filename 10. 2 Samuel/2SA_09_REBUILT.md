@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** David's Kindness to Mephibosheth, Covenant Faithfulness, Restoration of Saul's House, Table Fellowship
 
-**Tags:** #David-house-Saul-kindness-Jonathan-sake #house-Saul-servant-Ziba-called-David-king-Ziba-servant #king-house-Saul-kindness-God-Ziba-Jonathan-son-lame-feet #king-house-Machir-son-Ammiel-Lo-debar #king-David-fetched-house-Machir-son-Ammiel-Lo-debar #Mephibosheth-son-Jonathan-son-Saul-David-face-reverence-David-Mephibosheth-servant #David-Fear-kindness-Jonathan-father-sake-restore-land-Saul-father-bread-table-continually #bowed-servant-dead-dog #king-Ziba-Saul-servant-master-son-Saul-house #sons-servants-till-land-fruits-master-son-food-Mephibosheth-master-son-bread-table-Ziba-fifteen-sons-twenty-servants #Ziba-king-lord-king-commanded-servant-Mephibosheth-table-king-sons #Mephibosheth-son-Micha-house-Ziba-servants-Mephibosheth #Mephibosheth-Jerusalem-king-table-lame-feet
+**Tags:** #bowed-servant-dead-dog #david #covenant-faithfulness #restoration-of-saul #table-fellowship
 
 ---
 

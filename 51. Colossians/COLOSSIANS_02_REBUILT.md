@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Paul's Conflict, Warning Against False Philosophy, Christ's Fullness, Freedom from Legalism
 
-**Tags:** #great-conflict-Laodicea-seen-face-flesh-hearts-comforted-knit-love-riches-full-assurance-understanding-acknowledgement-mystery-God-Father-Christ-hid-treasures-wisdom-knowledge-beguile-enticing-words-absent-flesh-spirit-joying-beholding-order-stedfastness-faith-Christ-received-Christ-Jesus-Lord-walk-Rooted-built-stablished-faith-taught-abounding-thanksgiving-Beware-spoil-philosophy-vain-deceit-tradition-men-rudiments-world-Christ-dwelleth-fulness-Godhead-bodily-complete-head-principality-power-circumcised-circumcision-without-hands-putting-body-sins-flesh-circumcision-Christ-Buried-baptism-risen-faith-operation-God-raised-dead-dead-sins-uncircumcision-flesh-quicken-forgiven-trespasses-Blotting-handwriting-ordinances-against-contrary-took-way-nailing-cross-spoiled-principalities-powers-shew-openly-triumphing-judge-meat-drink-respect-holyday-new-moon-sabbath-shadow-things-body-Christ-beguile-reward-voluntary-humility-worshipping-angels-intruding-seen-vainly-puffed-fleshly-mind-holding-Head-body-joints-bands-nourishment-ministered-knit-increaseth-increase-God-dead-Christ-rudiments-world-living-world-subject-ordinances-Touch-taste-handle-perish-using-commandments-doctrines-men-shew-wisdom-will-worship-humility-neglecting-body-honour-satisfying-flesh
+**Tags:** #paul #warning-against-false-philosophy #christ #freedom-from-legalism
 
 ---
 
@@ -201,7 +201,7 @@ Great, conflict, Laodicea, seen, face, flesh, hearts, comforted, knit, love, ric
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Paul's Conflict as Type of Christ's Warfare
 - **Physical warfare:** Great conflict (Colossians 2:3)

@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Covenant, Divine Restoration, Eternal Mercy, Spiritual Protection
 
-**Tags:** #Sing-barren-bear-break-singing-cry-aloud-travail-child-children-desolate-children-married-wife-LORD-Enlarge-place-tent-stretch-curtains-habitations-spare-lengthen-cords-strengthen-stakes-break-right-hand-left-seed-inherit-Gentiles-desolate-cities-inhabited-Fear-ashamed-confounded-put-shame-forget-shame-youth-reproach-widowhood-Maker-husband-LORD-hosts-name-Redeemer-Holy-One-Israel-God-earth-called-woman-forsaken-grieved-spirit-wife-youth-refused-God-small-moment-forsaken-great-mercies-gather-little-wrath-hid-face-moment-everlasting-kindness-mercy-LORD-Redeemer-waters-Noah-sworn-waters-Noah-earth-sworn-wroth-rebuke-mountains-depart-hills-removed-kindness-depart-covenant-peace-removed-LORD-mercy-afflicted-tossed-tempest-comforted-lay-stones-fair-colours-foundations-sapphires-windows-agates-gates-carbuncles-borders-pleasant-stones-children-taught-LORD-great-peace-children-righteousness-established-far-oppression-fear-terror-near-gather-not-gather-sake-fall-sake-created-smith-bloweth-coals-fire-bringeth-instrument-work-created-waster-destroy-weapon-formed-prosper-tongue-rise-judgment-condemn-heritage-servants-LORD-righteousness-LORD
+**Tags:** #christ #divine-restoration #eternal-mercy #spiritual-protection
 
 ---
 

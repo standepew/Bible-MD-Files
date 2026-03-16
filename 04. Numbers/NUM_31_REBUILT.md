@@ -2,7 +2,7 @@
 
 ---
 
-## 1. CHAPTER METADATA
+## CHAPTER METADATA
 
 **Book:** Numbers
 **Chapter:** 31
@@ -13,13 +13,13 @@
 
 ---
 
-## 2. CHAPTER SUMMARY
+## CHAPTER SUMMARY
 
 God tells Moses: avenge Israel of Midian — afterward you will be gathered to your people. Moses arms twelve thousand men — a thousand per tribe — with Phinehas carrying the holy instruments and the trumpets. They war against Midian: all males slain; five kings of Midian killed — Evi, Rekem, Zur, Hur, Reba; Balaam son of Beor killed with the sword. Cities and castles burned; women, children, livestock, and goods taken as spoil, brought to Moses and Eleazar at the camp. Moses goes out to meet them outside the camp and is furious: why have you saved all the women alive? These are the very women who, through Balaam's counsel, caused Israel to transgress at Peor — causing the plague. Kill every male child; kill every woman who has known a man. Keep alive only the virgins. All who killed or touched a slain person must stay outside camp seven days and purify on the third and seventh day. Eleazar instructs on metal purification: whatever can endure fire must go through fire and then through the water of separation; whatever cannot endure fire goes through water only. Wash clothes on the seventh day; then re-enter camp. God instructs on dividing the spoil: half to the warriors; half to the congregation. From the warriors' half — one soul in five hundred (of persons, cattle, donkeys, sheep) to Eleazar as a heave offering to the LORD. From the congregation's half — one in fifty to the Levites. The spoil totals: 675,000 sheep; 72,000 cattle; 61,000 donkeys; 32,000 persons (virgins). The officers then report: not one Israelite soldier is missing. In gratitude they bring a voluntary oblation — all their personal gold jewelry, 16,750 shekels — to Moses and Eleazar as an atonement for their souls before the LORD. Brought into the Tabernacle as a memorial.
 
 ---
 
-## 3. CROSS-REFERENCES (Scripture Interpreting Scripture)
+## CROSS-REFERENCES (Scripture Interpreting Scripture) (Scripture Interpreting Scripture)
 
 ### Balaam Dies by the Sword — His End vs. His Wish
 
@@ -52,7 +52,7 @@ God tells Moses: avenge Israel of Midian — afterward you will be gathered to y
 
 ---
 
-## 4. KEYWORD INDEX
+## KEYWORD INDEX
 
 **For Current Events Matching:**
 - **The counsel behind the seduction / the hidden strategy** → Numbers 31:16 — Revelation 2:14; the doctrine of Balaam; indirect warfare through internal corruption
@@ -63,7 +63,7 @@ God tells Moses: avenge Israel of Midian — afterward you will be gathered to y
 
 ---
 
-## 5. KEY TERMS WITH CONTEXTUAL DEFINITIONS
+## KEY TERMS WITH CONTEXTUAL DEFINITIONS WITH CONTEXTUAL DEFINITIONS
 
 ### HOLY INSTRUMENTS (Hebrew: kele ha-qodesh — vessels/instruments of holiness)
 - **Numbers 31:6** — "Phinehas the son of Eleazar the priest, to the war, with the holy instruments, and the trumpets to blow in his hand"
@@ -75,7 +75,7 @@ God tells Moses: avenge Israel of Midian — afterward you will be gathered to y
 
 ---
 
-## 6. THE ACTUAL VERSES — NUMBERS 31 (KJV)
+## THE ACTUAL VERSES (KJV) — NUMBERS 31 (KJV)
 
 **1** And the LORD spake unto Moses, saying,
 **2** Avenge the children of Israel of the Midianites: afterward shalt thou be gathered unto thy people.
@@ -134,7 +134,7 @@ God tells Moses: avenge Israel of Midian — afterward you will be gathered to y
 
 ---
 
-## 7. PROPHETIC/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS/TYPOLOGICAL CONNECTIONS
 
 ### Fire and Water — The Double Purification
 
@@ -147,7 +147,7 @@ God tells Moses: avenge Israel of Midian — afterward you will be gathered to y
 
 ---
 
-## 8. COMMONLY MISQUOTED PASSAGES
+## COMMONLY MISQUOTED PASSAGES PASSAGES
 
 ### Numbers 31:17-18 — The Command to Kill Used as Evidence That the God of the Old Testament Is Immoral
 
@@ -157,7 +157,7 @@ God tells Moses: avenge Israel of Midian — afterward you will be gathered to y
 
 ---
 
-## 9. SYMBOLIC THREADS
+## SYMBOLIC THREADS
 
 ### Not One Man Lacking — The Commander's Report
 

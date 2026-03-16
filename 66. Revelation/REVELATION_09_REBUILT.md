@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** The Fifth Trumpet (Locusts from the Pit), The Sixth Trumpet (Army of Horsemen), The Angel of the Bottomless Pit, The Impenitence of Mankind
 
-**Tags:** #fifth-angel-sounded-star-fall-heaven-earth-given-key-bottomless-pit-opened-bottomless-pit-arose-smoke-pit-smoke-great-furnace-sun-air-darkened-smoke-pit-smoke-locusts-earth-given-power-scorpions-earth-power-commanded-hurt-grass-earth-green-thing-tree-men-seal-God-foreheads-given-kill-tormented-five-months-torment-torment-scorpion-striketh-man-days-seek-death-find-desire-die-death-flee-shapes-locusts-horses-prepared-battle-heads-crowns-gold-faces-men-hair-women-teeth-lions-breastplates-iron-sound-wings-sound-chariots-horses-running-battle-tails-scorpions-stings-tails-power-hurt-men-five-months-king-angel-bottomless-pit-name-Hebrew-Abaddon-Greek-Apollyon-woe-past-woes-sixth-angel-sounded-voice-four-horns-golden-altar-God-sixth-angel-trumpet-Loose-four-angels-bound-great-river-Euphrates-four-angels-loosed-prepared-hour-day-month-year-slay-third-part-men-number-army-horsemen-two-hundred-thousand-thousand-number-horses-vision-sat-breastplates-fire-jacinth-brimstone-heads-horses-heads-lions-mouths-issued-fire-smoke-brimstone-three-third-part-men-killed-fire-smoke-brimstone-issued-mouths-power-mouth-tails-tails-serpents-heads-hurt-rest-men-killed-plagues-repented-works-hands-worship-devils-idols-gold-silver-brass-stone-wood-neither-see-hear-walk-repented-murders-sorceries-fornication-thefts
+**Tags:** #the-fifth-trumpet #the-sixth-trumpet #the-angel-of-the-bottomless-pit #the-impenitence-of-mankind
 
 ---
 
@@ -185,7 +185,7 @@ Fifth, angel, sounded, star, fall, heaven, earth, given, key, bottomless, pit, o
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Fifth Trumpet (Locusts from the Pit) as Type of Christ's Spiritual Torment
 - **Physical torment:** Locusts earth (Revelation 9:4)

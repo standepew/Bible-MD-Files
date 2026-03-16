@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Roar, Divine Judgment, Nations' Transgressions, Fire of Judgment
 
-**Tags:** #words-Amos-herdmen-Tekoa-saw-Israel-days-Uzziah-king-Judah-days-Jeroboam-son-Joash-king-Israel-years-earthquake-LORD-roar-Zion-utter-voice-Jerusalem-habitations-shepherds-mourn-top-Carmel-wither-saith-LORD-transgressions-Damascus-four-turn-punishment-threshed-Gilead-threshing-instruments-iron-send-fire-house-Hazael-devour-palaces-Ben-hadad-break-bar-Damascus-cut-inhabitant-plain-Aven-holdeth-sceptre-house-Eden-people-Syria-captivity-Kir-LORD-transgressions-Gaza-four-turn-punishment-carried-captive-captivity-deliver-Edom-send-fire-wall-Gaza-devour-palaces-cut-inhabitant-Ashdod-holdeth-sceptre-Ashkelon-turn-hand-Ekron-remnant-Philistines-perish-Lord-GOD-transgressions-Tyrus-four-turn-punishment-delivered-captivity-Edom-remembered-brotherly-covenant-send-fire-wall-Tyrus-devour-palaces-transgressions-Edom-four-turn-punishment-pursue-brother-sword-cast-pity-anger-tear-perpetually-kept-wrath-forever-send-fire-Teman-devour-palaces-Bozrah-transgressions-children-Ammon-four-turn-punishment-ripped-women-child-Gilead-enlarge-border-kindle-fire-wall-Rabbah-devour-palaces-shouting-day-battle-tempest-day-whirlwind-king-captivity-princes-LORD
+**Tags:** #christ #divine-judgment #nations #fire-of-judgment
 
 ---
 

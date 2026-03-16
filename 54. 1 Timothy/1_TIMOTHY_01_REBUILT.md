@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Paul's Greeting and Charge, Warning Against False Doctrine, The Proper Use of the Law, Paul's Testimony and Ministry, Charge to Timothy
 
-**Tags:** #Paul-apostle-Jesus-Christ-commandment-God-Saviour-Lord-Jesus-Christ-hope-Timothy-son-faith-Grace-mercy-peace-God-Father-Jesus-Christ-Lord-beseech-abide-Ephesus-Macedonia-charge-teach-doctrine-heed-fables-endless-genealogies-minister-questions-godly-edifying-faith-end-commandment-charity-pure-heart-good-conscience-faith-unfeigned-swerved-turned-aside-vain-jangling-desiring-teachers-law-understanding-affirm-law-good-lawfully-law-not-righteous-man-lawless-disobedient-ungodly-sinners-unholy-profane-murderers-fathers-murderers-mothers-manslayers-whoremongers-defile-mankind-menstealers-liars-perjured-persons-contrary-sound-doctrine-glorious-gospel-blessed-God-committed-trust-thank-Christ-Jesus-Lord-enabled-faithful-ministry-blasphemer-persecutor-injurious-obtained-mercy-ignorantly-unbelief-grace-Lord-exceeding-abundant-faith-love-Christ-Jesus-faithful-saying-acceptation-Christ-Jesus-world-save-sinners-chief-obtained-mercy-cause-Jesus-Christ-shew-longsuffering-pattern-believe-life-everlasting-King-eternal-immortal-invisible-wise-God-honour-glory-charge-commit-son-Timothy-prophecies-war-good-warfare-Holding-faith-good-conscience-put-away-faith-shipwreck-Hymenaeus-Alexander-delivered-Satan-learn-blaspheme
+**Tags:** #paul #warning-against-false-doctrine #the-proper-use-of-the-law #charge-to-timothy
 
 ---
 
@@ -185,7 +185,7 @@ Paul, apostle, Jesus, Christ, commandment, God, Saviour, Lord, Jesus, Christ, ho
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Paul's Greeting and Charge as Type of Christ's Commission
 - **Physical commission:** Charge doctrine (1 Timothy 1:4)

@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Word, Prophetic Responsibility, Christ's Watchman, Divine Glory
 
-**Tags:** #said-son-man-eat-findest-roll-speak-house-Israel-opened-mouth-caused-eat-roll-belly-eat-fill-bowels-roll-mouth-honey-sweetness-house-Israel-strange-speech-hard-language-people-strange-speech-hard-language-words-understand-sent-hearken-house-Israel-hearken-impudent-hardhearted-face-strong-faces-forehead-strong-foreheads-adamant-harder-flint-forehead-fear-dismayed-looks-rebellious-house-words-receive-heart-hear-ears-captivity-children-people-speak-Lord-GOD-hear-forbear-spirit-took-voice-great-rushing-Blessed-glory-LORD-place-noise-wings-living-creatures-touched-noise-wheels-great-rushing-spirit-lifted-bitterness-heat-spirit-hand-LORD-strong-came-captivity-Tel-abib-dwelt-river-Chebar-sat-remained-astonished-seven-days-end-seven-days-word-LORD-saying-watchman-house-Israel-hear-word-mouth-warning-wicked-die-warning-warn-wicked-wicked-way-save-life-wicked-die-iniquity-blood-require-hand-warn-wicked-turn-wickedness-wicked-way-die-iniquity-delivered-soul-righteous-man-turn-righteousness-commit-iniquity-lay-stumblingblock-die-warning-die-sin-righteousness-remembered-blood-require-hand-warn-righteous-righteous-sin-live-warned-delivered-soul-hand-LORD-arise-plain-talk-arose-plain-glory-LORD-glory-river-Chebar-fell-face-spirit-entered-set-feet-spake-shut-house-bands-bind-go-out-tongue-cleave-roof-mouth-dumb-reprover-rebellious-house-speak-open-mouth-Lord-GOD-heareth-hear-forbeareth-rebellious-house
+**Tags:** #christ #prophetic-responsibility #divine-glory
 
 ---
 

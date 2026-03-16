@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Potter, Divine Sovereignty, Human Rebellion, Christ's Vengeance
 
-**Tags:** #word-Jeremiah-LORD-saying-Arise-potter-house-cause-hear-words-went-potter-house-behold-wrought-work-wheels-vessel-clay-marred-hand-potter-made-again-vessel-seemed-good-potter-make-word-LORD-house-Israel-potter-clay-potter-hand-hand-house-Israel-speak-nation-kingdom-pluck-pull-destroy-nation-pronounced-turn-evil-repent-evil-thought-speak-nation-kingdom-build-plant-evil-sight-obey-voice-repent-good-benefit-go-speak-men-Judah-inhabitants-Jerusalem-LORD-frame-evil-devise-device-return-evil-way-ways-doings-good-hope-walk-own-devices-imagination-evil-heart-LORD-heathen-heard-virgin-Israel-horrible-thing-man-snow-Lebanon-rock-field-cold-flowing-waters-place-forgotten-people-burned-incense-vanity-caused-stumble-ways-ancient-paths-walk-paths-way-cast-land-desolate-perpetual-hissing-passeth-astonished-wag-head-scatter-east-wind-enemy-shew-back-face-day-calamity-devise-devices-Jeremiah-law-perish-priest-counsel-wise-word-prophet-smite-tongue-heed-words-heed-LORD-hearken-voice-contend-evil-recompensed-good-digged-pit-soul-Remember-stood-speak-good-turn-wrath-deliver-children-famine-pour-blood-force-sword-wives-bereaved-children-widows-men-death-young-men-slain-sword-battle-cry-houses-troop-suddenly-digged-pit-take-hid-snares-feet-LORD-knowest-counsel-slay-forgive-iniquity-blot-sin-sight-overthrown-deal-time-anger
+**Tags:** #christ #divine-sovereignty #human-rebellion
 
 ---
 

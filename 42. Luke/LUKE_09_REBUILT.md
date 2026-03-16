@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Mission of the Twelve, Herod's Perplexity, Feeding the Five Thousand, Peter's Confession, Prediction of Death, Transfiguration, Healing of the Boy with a Demon, Who is the Greatest, Cost of Discipleship
 
-**Tags:** #called-twelve-disciples-gave-power-authority-devils-cure-diseases-sent-preach-kingdom-God-heal-sick-journey-staves-scrip-bread-money-coats-apiece-house-enter-abide-depart-receive-shake-dust-feet-testimony-departed-towns-preaching-gospel-healing-Herod-tetrarch-heard-perplexed-John-risen-dead-Elias-appeared-prophets-risen-Herod-beheaded-desired-apostles-returned-done-took-desert-place-Bethsaida-people-followed-received-kingdom-God-healed-need-healing-day-wear-twelve-multitude-towns-country-lodge-victuals-desert-place-Give-eat-loaves-fishes-buy-meat-five-thousand-men-disciples-fifties-company-sat-loaves-fishes-looking-heaven-blessed-brake-gave-disciples-multitude-eat-filled-fragments-baskets-alone-praying-disciples-asked-people-John-Baptist-Elias-propheres-risen-again-Peter-answering-Christ-God-charged-tell-man-Son-man-suffer-rejected-elders-chief-priests-scribes-slain-raised-third-come-deny-cross-daily-follow-save-life-lose-life-lose-life-save-life-gain-world-lose-ashamed-words-ashamed-glory-Father-angels-truth-standing-taste-death-kingdom-God-eight-days-Peter-John-James-mountain-pray-prayed-fashion-countenance-altered-raiment-white-glistering-talked-Moses-Elias-glory-decease-accomplish-Jerusalem-Peter-sleep-awake-glory-departed-Master-good-tabernacles-Moses-Elias-knowing-spoke-cloud-overshadowed-feared-entered-cloud-voice-cloud-beloved-Son-hear-voice-past-Jesus-alone-kept-close-told-man-days-hill-people-man-company-Master-son-spirit-taketh-suddenly-crieth-teareth-foameth-bruising-depart-besought-disciples-cast-could-Jesus-answering-faithless-perverse-generation-suffer-Bring-son-coming-devil-threw-tare-rebuked-unclean-spirit-healed-child-delivered-father-amazed-mighty-power-God-wondered-disciples-sayings-ears-Son-man-delivered-hands-men-understood-saying-hid-perceived-feared-ask-reasoning-greatest-Jesus-perceiving-heart-child-set-receive-child-name-receive-sent-least-great-John-answered-casting-devils-name-forbad-followeth-Jesus-forbid-against-time-received-up-set-face-Jerusalem-messengers-face-village-Samaritans-ready-receive-face-Jerusalem-disciples-James-John-command-fire-heaven-consume-Elias-rebuked-spirit-destroy-lives-save-village-man-follow-whithersoever-Jesus-foxes-holes-birds-nests-lay-head-Follow-bury-father-dead-bury-dead-preach-kingdom-God-follow-farewell-house-plough-looking-fit-kingdom-God
+**Tags:** #mission-of-the-twelve #herod #feeding-the-five-thousand #peter #prediction-of-death #transfiguration #healing-of-the-boy-with-a #who-is-the-greatest #cost-of-discipleship
 
 ---
 
@@ -411,7 +411,7 @@ Called, twelve, disciples, gave, power, authority, devils, cure, diseases, sent,
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Mission of the Twelve as Type of Christ's Church
 - **Physical mission:** Twelve disciples (Luke 9:3)

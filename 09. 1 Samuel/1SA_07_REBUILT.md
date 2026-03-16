@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Ark at Kirjath-jearim, Twenty Years Lament, Samuel's Revival Call, Israel's Repentance, Mizpeh Assembly, Water Poured Out, Philistine Attack, Samuel's Sacrifice, Divine Thunder, Victory, Ebenezer Stone, Samuel's Judgeship
 
-**Tags:** #men-Kirjath-jearim-fetched-ark-LORD-house-Abinadab-hill-sanctified-Eleazar-son-keep-ark-LORD #ark-abode-Kirjath-jearim-time-long-twenty-years-house-Israel-lamented-LORD #Samuel-spake-house-Israel-return-LORD-hearts-strange-gods-Ashtaroth-prepare-hearts-LORD-serve-deliver-Philistines #children-Israel-Baalim-Ashtaroth-served-LORD #Samuel-Gather-Israel-Mizpeh-pray-LORD #gathered-Mizpeh-drew-water-poured-LORD-fasted-day-sinned-LORD #Samuel-judged-children-Israel-Mizpeh #Philistines-children-Israel-gathered-Mizpeh-lords-Philistines-Israel-children-Israel-afraid-Philistines #children-Israel-Samuel-cease-cry-LORD-God-save-Philistines #Samuel-sucking-lamb-burnt-offering-LORD-Samuel-cried-LORD-Israel-LORD-heard #Samuel-offering-burnt-offering-Philistines-drew-battle-Israel-LORD-thundered-great-thunder-Philistines-discomfited-smitten-Israel #men-Israel-Mizpeh-pursued-Philistines-smote-Beth-car #Samuel-stone-Mizpeh-Shen-Eben-ezer-LORD-helped #Philistines-subjected-coast-Israel-hand-LORD-Philistines-days-Samuel #cities-Philistines-Israel-Ekron-Gath-coasts-Israel-deliver-Philistines-peace-Israel-Amorites #Samuel-judged-Israel-days-life #year-circuit-Beth-el-Gilgal-Mizpeh-judged-Israel-places #return-Ramah-house-judged-Israel-built-altar-LORD
+**Tags:** #Samuel-judged-children-Israel-Mizpeh #Samuel-judged-Israel-days-life #ark-at-kirjathjearim #twenty-years-lament #samuel #israel #mizpeh-assembly #water-poured-out #philistine-attack #divine-thunder #victory #ebenezer-stone
 
 ---
 

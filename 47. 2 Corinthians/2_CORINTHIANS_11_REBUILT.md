@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Paul's Defense, False Apostles, Paul's Sufferings, The Fool's Boasting
 
-**Tags:** #bear-folly-jealous-godly-jealousy-espoused-husband-chaste-virgin-Christ-fear-serpent-beguiled-Eve-subtlety-minds-corrupted-simplicity-Christ-cometh-preach-another-Jesus-preached-receive-another-spirit-received-another-gospel-accepted-behind-chiefest-apostles-rude-speech-knowledge-manifest-things-committed-offence-abasing-exalted-preached-gospel-God-freely-robbed-churches-wages-service-present-wanted-chargeable-lacking-brethren-Macedonia-supplied-kept-burdensome-kept-truth-Christ-boasting-regions-Achaia-love-God-knoweth-cut-off-occasion-desire-occasion-glory-found-false-apostles-deceitful-workers-transforming-apostles-Christ-marvel-Satan-transformed-angel-light-ministers-righteousness-works-fool-fool-boasting-confidence-boasting-flesh-glory-suffer-fools-gladly-wise-bondage-devour-exalt-smite-face-reproach-weak-bold-bold-Hebrews-Israelites-seed-Abraham-ministers-Christ-fool-labours-abundant-stripes-measure-prisons-frequent-deaths-Jews-five-times-forty-stripes-save-thrice-beaten-rods-stoned-thrice-shipwreck-night-deep-journeyings-perils-waters-perils-robbers-perils-countrymen-perils-heathen-perils-city-perils-wilderness-perils-sea-perils-false-brethren-weariness-painfulness-watchings-hunger-thirst-fasting-cold-nakedness-without-daily-care-churches-weak-weak-offended-burn-glory-infirmities-God-Father-Lord-Jesus-Christ-blessed-lie-Damascus-governor-Aretas-king-city-Damascenes-garrison-apprehend-window-basket-wall-escaped-hands
+**Tags:** #paul #false-apostles #the-fool
 
 ---
 
@@ -233,7 +233,7 @@ Bear, folly, jealous, godly, jealousy, espoused, husband, chaste, virgin, Christ
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Paul's Defense as Type of Christ's Protection
 - **Physical protection:** Simplicity Christ (2 Corinthians 11:4)

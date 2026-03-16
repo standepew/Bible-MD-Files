@@ -2,7 +2,7 @@
 
 ---
 
-## 1. CHAPTER METADATA
+## CHAPTER METADATA
 
 **Book:** Numbers
 **Chapter:** 21
@@ -13,13 +13,13 @@
 
 ---
 
-## 2. CHAPTER SUMMARY
+## CHAPTER SUMMARY
 
 King Arad of Canaan fights Israel and takes prisoners. Israel vows a total ban — if God delivers Canaan, they will utterly destroy the cities. God hearkens; Hormah (destruction) is named. Then the long detour around Edom discourages the people; they speak against God and Moses: no bread, no water, we loathe the manna. God sends fiery serpents; many die. The people confess and ask Moses to pray. God's remedy: make a bronze serpent, set it on a pole — every bitten person who looks lives. The march continues with place-names: Oboth, Ije-abarim, valley of Zared, the Arnon. At Beer God promises water — instead of striving, Israel sings: "Spring up, O well; sing ye unto it: The princes digged the well, the nobles of the people digged it." From Beer to Mattanah, Nahaliel, Bamoth, Pisgah. Then Israel sends to Sihon king of the Amorites for passage — same request as to Edom — Sihon refuses and marches out against Israel. Israel destroys Sihon at Jahaz and occupies all his land including Heshbon. The ancient poetic taunt-song of Heshbon is cited. Then Og king of Bashan comes against Israel at Edrei. God tells Moses: "Fear him not: for I have delivered him into thy hand." Israel destroys Og and all his people and possesses his land.
 
 ---
 
-## 3. CROSS-REFERENCES (Scripture Interpreting Scripture)
+## CROSS-REFERENCES (Scripture Interpreting Scripture) (Scripture Interpreting Scripture)
 
 ### The Bronze Serpent — Look and Live
 
@@ -54,7 +54,7 @@ The contrast with every previous water narrative is striking: at Marah, they mur
 
 ---
 
-## 4. KEYWORD INDEX
+## KEYWORD INDEX
 
 **For Current Events Matching:**
 - **Looking to Christ / simple faith that heals** → Numbers 21:8-9 — John 3:14-15; look and live; no formula, no merit, only looking
@@ -65,7 +65,7 @@ The contrast with every previous water narrative is striking: at Marah, they mur
 
 ---
 
-## 5. KEY TERMS WITH CONTEXTUAL DEFINITIONS
+## KEY TERMS WITH CONTEXTUAL DEFINITIONS WITH CONTEXTUAL DEFINITIONS
 
 ### FIERY SERPENTS (Hebrew: nachashim seraphim — burning/fiery serpents)
 - **Numbers 21:6** — "the LORD sent fiery serpents"
@@ -77,7 +77,7 @@ The contrast with every previous water narrative is striking: at Marah, they mur
 
 ---
 
-## 6. THE ACTUAL VERSES — NUMBERS 21 (KJV)
+## THE ACTUAL VERSES (KJV) — NUMBERS 21 (KJV)
 
 **1** And when king Arad the Canaanite, which dwelt in the south, heard tell that Israel came by the way of the spies; then he fought against Israel, and took some of them prisoners.
 **2** And Israel vowed a vow unto the LORD, and said, If thou wilt indeed deliver this people into my hand, then I will utterly destroy their cities.
@@ -117,7 +117,7 @@ The contrast with every previous water narrative is striking: at Marah, they mur
 
 ---
 
-## 7. PROPHETIC/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS/TYPOLOGICAL CONNECTIONS
 
 ### The Bronze Serpent Destroyed by Hezekiah — The Danger of the Type Outliving Its Purpose
 
@@ -130,7 +130,7 @@ The bronze serpent that God ordained as a means of healing became, centuries lat
 
 ---
 
-## 8. COMMONLY MISQUOTED PASSAGES
+## COMMONLY MISQUOTED PASSAGES PASSAGES
 
 ### Numbers 21:8 — "Make Thee a Fiery Serpent" — God Commands Making an Image
 
@@ -140,7 +140,7 @@ The bronze serpent that God ordained as a means of healing became, centuries lat
 
 ---
 
-## 9. SYMBOLIC THREADS
+## SYMBOLIC THREADS
 
 ### "As Moses Lifted Up the Serpent" — The Lifting-Up Thread
 

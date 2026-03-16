@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Repent or Perish, Parable of the Barren Fig Tree, Healing on the Sabbath, Parables of the Mustard Seed and Leaven, The Narrow Door, Lament over Jerusalem
 
-**Tags:** #present-season-told-Galilæans-blood-Pilate-mingled-sacrifices-Jesus-answering-suppose-Galilæans-sinners-Galilæans-suffered-repent-perish-eighteen-tower-Siloam-fell-slew-sinners-men-Jerusalem-repent-perish-parable-fig-tree-vineyard-seeker-fruit-dresser-vineyard-years-seek-fruit-fig-tree-cut-cumbereth-answering-Lord-alone-year-dig-dung-bear-fruit-cut-teaching-synagogues-sabbath-woman-spirit-infirmity-years-bowed-lift-woman-loosed-infirmity-laid-hands-straight-glorified-God-ruler-synagogue-indignation-healed-sabbath-days-work-healed-sabbath-Lord-answered-hypocrite-sabbath-loose-ox-ass-stall-watering-woman-daughter-Abraham-Satan-bound-years-loosed-bond-sabbath-adversaries-ashamed-people-rejoiced-glorious-kingdom-God-resemble-grain-mustard-seed-garden-grew-great-tree-fowls-air-lodged-branches-liken-kingdom-God-leaven-woman-hid-measures-meal-leavened-cities-villages-teaching-journeying-Jerusalem-saved-strait-enter-strait-gate-seek-enter-master-house-risen-shut-door-stand-knock-Lord-Lord-open-answer-whence-eaten-drunk-presence-taught-streets-whence-depart-workers-iniquity-weeping-gnashing-teeth-Abraham-Isaac-Jacob-prophets-kingdom-God-thrust-east-west-north-south-kingdom-God-last-first-first-last-Pharisees-depart-Herod-kill-fox-cast-devils-cures-day-morrow-third-day-perfected-walk-today-tomorrow-following-prophet-perish-Jerusalem-Jerusalem-killest-prophets-stonest-sent-gathered-children-hen-gather-brood-wings-house-left-desolate-see-me-time-Blessed-cometh-Lord
+**Tags:** #repent-or-perish #parable-of-the-barren-fig-tree #healing-on-the-sabbath #parables-of-the-mustard-seed-and #the-narrow-door #lament-over-jerusalem
 
 ---
 
@@ -277,7 +277,7 @@ Present, season, told, Galilæans, blood, Pilate, mingled, sacrifices, Jesus, an
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Repent or Perish as Type of Christ's Judgment
 - **Physical repentance:** Galilæans blood (Luke 13:4)

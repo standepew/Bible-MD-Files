@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Herod Persecutes the Church, Peter's Miraculous Escape, Herod's Death
 
-**Tags:** #Herod-king-stretched-hands-vex-church-killed-James-brother-John-sword-pleased-Jews-proceeded-take-Peter-days-unleavened-bread-apprehended-prison-delivered-four-quaternions-soldiers-keep-intending-Easter-bring-people-Peter-kept-prison-prayer-ceasing-church-God-Herod-brought-night-Peter-sleeping-soldiers-bound-chains-keepers-door-kept-prison-behold-angel-Lord-light-shined-prison-smote-Peter-side-raised-Arise-quickly-chains-fell-hands-angel-Gird-bind-sandals-garment-follow-went-followed-wist-true-angel-thought-saw-vision-past-first-second-ward-iron-gate-leads-city-opened-accord-passed-street-forthwith-angel-departed-Peter-come-know-surety-Lord-sent-angel-delivered-hand-Herod-expectation-people-Jews-considered-house-Mary-mother-John-surname-Mark-gathered-praying-Peter-knocked-door-gate-damsel-hearken-named-Rhoda-knew-Peter-voice-opened-gate-gladness-ran-told-Peter-stood-gate-mad-constantly-affirmed-angel-Peter-continued-knocking-opened-door-saw-astonished-beckoning-hand-peace-declared-Lord-brought-prison-shew-James-brethren-departed-place-day-small-stir-soldiers-become-Peter-Herod-sought-found-examined-keepers-commanded-put-death-Judaea-Caesarea-abode-Herod-displeased-Tyre-Sidon-accord-Blastus-king-chamberlain-friend-desired-peace-country-nourished-king-country-set-day-Herod-arrayed-royal-apparel-sat-throne-oration-people-shout-voice-god-man-angel-Lord-smote-gave-God-glory-eaten-worms-gave-ghost-word-God-grew-multiplied-Barnabas-Saul-returned-Jerusalem-fulfilled-ministry-John-surname-Mark
+**Tags:** #herod-persecutes-the-church #peter #herod
 
 ---
 
@@ -215,7 +215,7 @@ Herod, king, stretched, hands, vex, church, killed, James, brother, John, sword,
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Herod Persecutes the Church as Type of Christ's Suffering
 - **Physical persecution:** Vex church (Acts 12:3)

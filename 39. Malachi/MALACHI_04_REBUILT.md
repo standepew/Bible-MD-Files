@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Final Judgment, Sun of Righteousness, Elijah's Return, Heart Reconciliation
 
-**Tags:** #behold-day-cometh-burn-oven-proud-wickedly-stubble-burn-leave-root-branch-fear-name-Sun-righteousness-arise-healing-wings-go-forth-grow-calves-stall-tread-wicked-ashes-soles-feet-day-LORD-hosts-Remember-law-Moses-servant-commanded-Horeb-Israel-statutes-judgments-send-Elijah-prophet-coming-great-dreadful-day-LORD-turn-heart-fathers-children-heart-children-fathers-come-smite-earth-curse
+**Tags:** #christ #sun-of-righteousness #elijah #heart-reconciliation
 
 ---
 

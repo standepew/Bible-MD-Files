@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Divine Sovereignty, Human Pride, Justice and Mercy, Wisdom and Understanding
 
-**Tags:** #king-heart-hand-LORD-rivers-water-turneth-whithersoever-way-man-right-eyes-LORD-pondereth-hearts-justice-judgment-acceptable-LORD-sacrifice-high-look-proud-heart-plowing-wicked-sin-thoughts-diligent-tend-plenteousness-hasty-want-getting-treasures-lying-tongue-vanity-tossed-death-robbery-wicked-destroy-refuse-judgment-way-man-froward-strange-pure-work-right-dwell-corner-housetop-brawling-woman-wide-house-soul-wicked-desireth-evil-neighbour-find-favour-eyes-scorner-punished-simple-made-wise-wise-instructed-receiveth-knowledge-righteous-man-considereth-house-wicked-God-overthroweth-wicked-wickedness-stoppeth-ears-cry-poor-cry-heard-gift-secret-pacifieth-anger-reward-bosom-strong-wrath-joy-justice-do-judgment-destruction-workers-iniquity-man-wandereth-way-understanding-remain-congregation-dead-loveth-pleasure-poor-man-loveth-wine-oil-rich-wicked-ransom-righteous-transgressor-upright-dwell-wilderness-contentious-angry-woman-treasure-desired-oil-dwelling-wise-foolish-man-spendeth-followeth-righteousness-mercy-find-life-righteousness-honour-wise-man-scaleth-city-mighty-cast-strength-confidence-keepeth-mouth-tongue-keep-soul-troubles-proud-haughty-scorner-name-dealeth-proud-wrath-desire-slothful-killeth-hands-refuse-labour-coveteth-greedily-day-long-righteous-giveth-spareth-sacrifice-wicked-abomination-wicked-mind-wicked-hardens-face-upright-directeth-way-wisdom-understanding-counsel-LORD-horse-prepared-day-battle-safety-LORD
+**Tags:** #divine-sovereignty #human-pride #justice-and-mercy #wisdom-and-understanding
 
 ---
 

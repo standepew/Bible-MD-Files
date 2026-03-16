@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Trust in the LORD, Divine Protection, Security of the Righteous, Judgment of the Wicked
 
-**Tags:** #Song-degrees-trust-LORD-mount-Zion-removed-abideth-forever-mountains-round-Jerusalem-LORD-round-people-henceforth-forever-rod-wicked-rest-lot-righteous-righteous-put-hands-iniquity-good-LORD-good-upright-hearts-turn-aside-crooked-ways-LORD-lead-workers-iniquity-peace-Israel
+**Tags:** #trust-in-the-lord #divine-protection #security-of-the-righteous #judgment-of-the-wicked
 
 ---
 

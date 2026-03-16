@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Christ's Marriage Teaching, Rich Young Ruler, Cost of Discipleship, Eternal Reward
 
-**Tags:** #Jesus-finished-sayings-departed-Galilee-coasts-Judaea-beyond-Jordan-multitudes-followed-healed-Pharisees-tempting-lawful-man-wife-cause-answered-read-beginning-made-male-female-cause-leave-father-mother-cleave-wife-twain-one-flesh-twain-one-flesh-God-joined-man-put-asunder-Moses-command-writing-divorcement-wife-Moses-hardness-hearts-suffered-wives-beginning-put-away-wife-fornication-marries-committeth-adultery-marrieth-committeth-adultery-disciples-case-man-wife-good-marry-saying-receive-given-eunuchs-born-mother-womb-eunuchs-men-eunuchs-made-kingdom-heaven-able-receive-brought-children-hands-pray-disciples-rebuked-Jesus-suffer-children-forbid-kingdom-heaven-laid-hands-departed-came-Good-Master-good-thing-eternal-life-good-none-good-God-enter-life-keep-commandments-commandments-murder-adultery-steal-false-witness-Honour-father-mother-love-neighbour-young-man-kept-youth-lack-perfect-sell-hast-give-poor-treasure-heaven-follow-sorrowful-possessions-Jesus-disciples-rich-man-kingdom-heaven-camel-needle-eye-rich-man-kingdom-God-disciples-amazed-saved-Jesus-beheld-impossible-God-possible-Peter-forsaken-followed-Jesus-disciples-regeneration-Son-man-throne-glory-twelve-thrones-judging-tribes-Israel-forsaken-houses-brethren-sisters-father-mother-wife-children-lands-name-sake-hundredfold-inherit-everlasting-life-first-last-last-first
+**Tags:** #christ #rich-young-ruler #cost-of-discipleship #eternal-reward
 
 ---
 
@@ -239,7 +239,7 @@ Jesus, finished, sayings, departed, Galilee, coasts, Judaea, beyond, Jordan, mul
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Christ's Marriage Teaching as Type of Christ's Covenant
 - **Physical marriage:** Male female (Matthew 19:6)

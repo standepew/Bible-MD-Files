@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Qualifications of High Priests, Christ as High Priest, Christ's Obedience and Perfection, Warning Against Immaturity
 
-**Tags:** #high-priest-taken-men-ordained-men-things-pertaining-God-offer-gifts-sacrifices-sins-compassion-ignorant-out-way-compassed-infirmity-reason-ought-people-offer-sins-man-taketh-honour-called-God-Aaron-Christ-glorified-high-priest-said-Son-begotten-priest-order-Melchisedec-days-flesh-offered-prayers-supplications-strong-crying-tears-able-save-death-heard-feared-Son-learned-obedience-suffered-perfect-author-eternal-salvation-obey-called-God-high-priest-order-Melchisedec-many-things-say-hard-uttered-dull-hearing-time-teachers-need-teach-first-principles-oracles-God-become-need-milk-strong-meat-useth-milk-unskilful-word-righteousness-babe-strong-meat-belong-full-age-reason-use-senses-exercised-discern-good-evil
+**Tags:** #qualifications-of-high-priests #christ-as-high-priest #christ #warning-against-immaturity
 
 ---
 
@@ -147,7 +147,7 @@ High, priest, taken, men, ordained, men, things, pertaining, God, offer, gifts, 
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Qualifications of High Priests as Type of Christ's Qualifications
 - **Physical qualifications:** High priest (Hebrews 5:2)

@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Unity of the Spirit, Gifts for Ministry, The New Man, Christian Conduct
 
-**Tags:** #prisoner-Lord-beseech-walk-worthy-vocation-called-lowliness-meekness-longsuffering-forbearing-love-endeavouring-unity-Spirit-bond-peace-body-Spirit-hope-calling-Lord-faith-baptism-God-Father-Grace-measure-gift-Christ-ascended-high-led-captivity-captive-gifts-men-ascended-descended-lower-parts-earth-descended-ascended-heavens-fill-things-gave-apostles-prophets-evangelists-pastors-teachers-perfecting-saints-work-ministry-edifying-body-Christ-unity-faith-knowledge-Son-God-perfect-man-measure-stature-fulness-Christ-children-tossed-carried-wind-doctrine-sleight-men-cunning-craftiness-wait-deceive-speaking-truth-love-grow-head-Christ-body-fitly-joined-compacted-joint-supplieth-effectual-working-measure-part-increase-body-edifying-love-testify-Lord-walk-Gentiles-vanity-mind-understanding-darkened-alienated-life-God-ignorance-blindness-heart-feeling-lasciviousness-uncleanness-greediness-learned-Christ-heard-taught-truth-Jesus-put-former-conversation-old-man-corrupt-deceitful-lusts-renewed-spirit-mind-put-new-man-created-righteousness-holiness-putting-lying-speak-truth-neighbour-members-angry-sin-sun-wrath-place-devil-stole-steal-labour-hands-good-needeth-corrupt-communication-mouth-edifying-minister-grace-hearers-grieve-holy-Spirit-God-sealed-redemption-bitterness-wrath-anger-clamour-evil-speaking-malice-kind-tenderhearted-forgiving-God-Christ-forgiven
+**Tags:** #unity-of-the-spirit #gifts-for-ministry #the-new-man #christian-conduct
 
 ---
 
@@ -231,7 +231,7 @@ Prisoner, Lord, beseech, walk, worthy, vocation, called, lowliness, meekness, lo
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Unity of the Spirit as Type of Christ's Body
 - **Physical body:** Unity Spirit (Ephesians 4:3)

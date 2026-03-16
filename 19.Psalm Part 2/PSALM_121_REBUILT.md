@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Divine Help, God's Protection, Eternal Preservation, Constant Care
 
-**Tags:** #Song-degrees-lift-eyes-hills-cometh-help-LORD-made-heaven-earth-suffer-foot-moved-keep-slumber-keep-Israel-slumber-sleep-LORD-keeper-shade-right-hand-sun-smite-day-moon-night-preserve-evil-preserve-soul-preserve-going-coming-time-forth-forevermore
+**Tags:** #divine-help #god #eternal-preservation #constant-care
 
 ---
 

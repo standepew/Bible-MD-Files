@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** David's Established Kingdom, Philistine Defeats, Divine Military Strategy, David's Growing Family
 
-**Tags:** #Hiram-king-Tyre-sent-messengers-David-timber-cedars-masons-carpenters-build-house #David-perceived-LORD-confirmed-king-Israel-kingdom-lifted-high-people-Israel #David-took-wives-Jerusalem-David-begat-sons-daughters #names-children-Jerusalem-Shammua-Shobab-Nathan-Solomon #Ibhar-Elishua-Elpalet #Nogah-Nepheg-Japhia #Elishama-Beeliada-Eliphalet #Philistines-heard-David-anointed-king-Israel-Philistines-seek-David-David-heard-went-Philistines #Philistines-came-spread-valley-Rephaim #David-enquired-God-Shall-go-Philistines-deliver-hand-LORD-Go-deliver-hand #came-Baal-perazim-David-smote-David-said-God-broken-enemies-hand-breaking-waters-called-place-Baal-perazim #left-gods-David-commandment-burned-fire #Philistines-again-spread-abroad-valley #David-enquired-God-God-told-go-after-turn-away-come-mulberry-trees #hear-sound-going-tops-mulberry-trees-go-battle-God-gone-before-smite-host-Philistines #David-God-commanded-smote-host-Philistines-Gibeon-Gazer #fame-David-lands-LORD-brought-fear-nations
+**Tags:** #Ibhar-Elishua-Elpalet #Nogah-Nepheg-Japhia #Elishama-Beeliada-Eliphalet #Philistines-came-spread-valley-Rephaim #Philistines-again-spread-abroad-valley #david #philistine-defeats #divine-military-strategy
 
 ---
 

@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Fixed Heart, Divine Praise, God's Glory, Victory Through God
 
-**Tags:** #Song-Psalm-David-GOD-heart-fixed-sing-give-praise-glory-Awake-psaltery-harp-awake-early-praise-LORD-people-sing-praises-nations-mercy-great-heavens-truth-reacheth-clouds-exalted-GOD-heavens-glory-earth-beloved-delivered-save-right-hand-answer-God-spoken-holiness-rejoice-divide-Shechem-mete-valley-Succoth-Gilead-Manasseh-Ephraim-strength-head-Judah-lawgiver-Moab-washpot-cast-shoe-Edom-triumph-Philistia-bring-strong-city-lead-Edom-GOD-cast-forth-hosts-Give-help-trouble-vain-help-man-Through-GOD-valiantly-tread-enemies
+**Tags:** #fixed-heart #divine-praise #god #victory-through-god
 
 ---
 

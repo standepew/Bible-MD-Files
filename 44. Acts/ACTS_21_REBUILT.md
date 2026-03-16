@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Paul's Journey to Jerusalem, The Prophecy of Agabus, Paul's Arrest in Jerusalem
 
-**Tags:** #gotten-launched-straight-course-Coos-Rhodes-Patara-finding-ship-sailing-Phenicia-aboard-set-discovered-Cyprus-left-sailed-Syria-landed-Tyre-ship-unlade-burden-finding-disciples-tarried-days-disciples-Spirit-go-Jerusalem-accomplished-departed-way-brought-wives-children-city-kneeled-shore-prayed-finished-course-Tyre-Ptolemais-saluted-brethren-abode-day-company-Caesarea-entered-house-Philip-evangelist-seven-abode-four-daughters-virgins-prophesied-tarried-days-Judaea-prophet-Agabus-come-girdle-bound-hands-feet-Holy-Ghost-Jews-Jerusalem-bind-man-owneth-girdle-deliver-Gentiles-heard-besought-go-Jerusalem-Paul-answered-mean-weep-break-heart-ready-bound-die-Jerusalem-name-Lord-Jesus-persuaded-ceased-Lord-carriages-Jerusalem-disciples-Caesarea-Mnason-Cyprus-disciple-lodge-Jerusalem-brethren-received-gladly-day-James-elders-present-saluted-declared-particularly-God-wrought-Gentiles-ministry-heard-glorified-Lord-brother-thousands-Jews-believe-zealous-law-informed-teachest-Jews-Gentiles-forsake-Moses-circumcise-children-walk-customs-multitude-needs-come-hear-thou-art-vow-men-take-purify-charges-shave-heads-know-things-informed-nothing-walkest-orderly-keepest-law-touching-Gentiles-believe-written-concluded-observe-things-offered-idols-blood-strangled-fornication-Paul-men-next-purifying-entered-temple-signify-accomplishment-days-purification-offering-seven-days-almost-ended-Jews-Asia-temple-stirred-people-laid-hands-cried-Men-Israel-help-man-teacheth-men-people-law-place-brought-Greeks-temple-polluted-holy-place-seen-city-Trophimus-Ephesian-supposed-brought-temple-city-moved-people-ran-took-Paul-drew-temple-forthwith-doors-shut-kill-tidings-chief-captain-band-Jerusalem-uproar-took-soldiers-centurions-ran-chief-captain-soldiers-left-beating-Paul-chief-captain-near-took-commanded-bound-two-chains-demanded-done-cried-multitude-tumult-certainty-commanded-carry-castle-stairs-violence-people-multitude-people-followed-crying-led-castle-Paul-chief-captain-speak-Greek-Egyptian-days-madest-uproar-leddest-wilderness-thousand-men-murderers-Paul-Jew-Tarsus-city-Cilicia-citizen-mean-city-beseech-suffer-speak-people-licence-stood-stairs-beckoned-hand-people-great-silence-spake-Hebrew-tongue
+**Tags:** #paul #the-prophecy-of-agabus
 
 ---
 
@@ -297,7 +297,7 @@ Gotten, launched, straight, course, Coos, Rhodes, Patara, finding, ship, sailing
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Paul's Journey to Jerusalem as Type of Christ's Journey
 - **Physical journey:** Left hand (Acts 21:5)

@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Elihu's First Speech, Divine Communication, Dreams and Visions, Mediator's Role
 
-**Tags:** #Job-hear-speeches-hearken-words-opened-mouth-tongue-spoken-uprightness-heart-lips-knowledge #Spirit-GOD-made-breath-Almighty-given-life-answer-words-order-stood #wish-GOD-stead-formed-clay-terror-hand-heavy #hearing-voice-words-clean-transgression-innocent-iniquity #findeth-occasions-enemy-feet-stocks-paths #just-GOD-greater-man-strive-account-matters #God-speaketh-twice-perceiveth-dream-vision-night-deep-sleep-slumberings-bed #openeth-ears-sealeth-instruction-withdraw-purpose-hide-pride #keepeth-soul-pit-life-perishing-sword-chastened-pain-bed-multitude-bones-strong-pain #life-abhorreth-bread-soul-dainty-meat-flesh-consumed-bones-stick-out-soul-grave-life-destroyers #messenger-interpreter-thousand-uprightness-gracious-Deliver-pit-ransom-flesh-fresher-child-youth #pray-GOD-favourable-face-joy-render-righteousness-looketh-men-sinned-perverted-right-not #deliver-soul-pit-life-light-worketh-God-oftentimes-back-soul-pit-enlightened-light-living #mark-well-hearken-hold-peace-speak-answer-justify-teach-wisdom
+**Tags:** #elihu #divine-communication #dreams-and-visions #mediator
 
 ---
 

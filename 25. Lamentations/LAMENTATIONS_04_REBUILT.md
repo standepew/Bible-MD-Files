@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Judgment, Jerusalem's Corruption, Divine Fury, Christ's Vengeance
 
-**Tags:** #gold-dim-fine-gold-changed-stones-sanctuary-poured-top-street-precious-sons-Zion-comparable-fine-gold-esteemed-earthen-pitchers-work-hands-potter-sea-monsters-draw-breast-suck-young-ones-daughter-people-cruel-ostriches-wilderness-tongue-sucking-child-cleaveth-roof-mouth-thirst-young-children-ask-bread-break-feed-delicately-desolate-streets-brought-scarlet-embrace-dunghills-punishment-iniquity-daughter-people-punishment-sin-Sodom-overthrown-moment-hands-stayed-Nazarites-purer-snow-whiter-milk-ruddy-body-rubies-polishing-sapphire-visage-blacker-coal-known-streets-skin-cleaveth-bones-withered-stick-slain-sword-better-slain-hunger-pine-stricken-fruits-field-hands-pitiful-women-sodden-children-meat-destruction-daughter-people-LORD-accomplished-fury-poured-fierce-anger-kindled-fire-Zion-devoured-foundations-kings-earth-inhabitants-world-believed-adversary-enemy-entered-gates-Jerusalem-sins-prophets-iniquities-priests-shed-blood-just-midst-wandered-blind-streets-polluted-blood-men-touch-garments-cried-depart-unclean-depart-depart-touch-fled-wandered-heathen-sojourn-anger-LORD-divided-regard-respected-persons-priests-favoured-elders-eyes-failed-vain-help-watching-watched-nation-save-hunt-streets-end-fulfilled-end-persecutors-swifter-eagles-heaven-pursued-mountains-laid-wait-wilderness-breath-nostrils-anointed-LORD-taken-pits-shadow-live-heathen-rejoice-glad-daughter-Edom-dwellest-land-Uz-cup-pass-drunken-naked-punishment-iniquity-accomplished-daughter-Zion-carry-captivity-visit-iniquity-daughter-Edom-discover-sins
+**Tags:** #christ #jerusalem #divine-fury
 
 ---
 

@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Cry from Depths, Divine Forgiveness, Waiting on God, Plenteous Redemption
 
-**Tags:** #Song-degrees-depths-cried-LORD-Lord-hear-voice-ears-attentive-voice-supplications-LORD-mark-iniquities-Lord-stand-forgiveness-feared-wait-LORD-soul-wait-word-hope-soul-wait-Lord-watch-morning-watch-morning-Israel-hope-LORD-LORD-mercy-plenteous-redemption-redeem-Israel-iniquities
+**Tags:** #cry-from-depths #divine-forgiveness #waiting-on-god #plenteous-redemption
 
 ---
 

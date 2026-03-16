@@ -237,3 +237,59 @@ Sihon (chapter 2) and Og (chapter 3) are always paired in Scripture as the proto
 ---
 
 **End of Deuteronomy Chapter 2**
+
+---
+
+## COMMONLY MISQUOTED PASSAGES
+
+### Deuteronomy 2:30 — "The LORD Hardened His Heart"
+
+**Verse 30** — "But Sihon king of Heshbon would not let us pass by him: for the LORD thy God hardened his spirit, and made his heart obstinate, that he might deliver him into thy hand, as appeareth this day."
+
+**How it is misused:** This verse is cited to argue that God arbitrarily forces innocent people to sin and then punishes them for the sin He compelled — making God unjust. It is also used to argue fatalism: that human choices are meaningless because God controls all outcomes against the will of the individual.
+
+**What the text actually says:**
+- **Deuteronomy 2:26-29** — "And I sent messengers out of the wilderness of Kedemoth unto Sihon king of Heshbon with words of peace... Let me pass through thy land: I will go along by the high way" — Israel first offered Sihon peaceful terms; he refused out of his own hostile character.
+- **Exodus 4:21** — "And I will harden Pharaoh's heart, that he shall not let the people go." — The same hardening pattern in Pharaoh; the context shows Pharaoh had already hardened his own heart first (Exodus 8:15, 8:32, 9:34).
+- **Exodus 9:16** — "And in very deed for this cause have I raised thee up, for to shew in thee my power; and that my name may be declared throughout all the earth."
+- **Romans 9:17-18** — "For the scripture saith unto Pharaoh, Even for this same purpose have I raised thee up, that I might shew my power in thee, and that my name might be declared throughout all the earth. Therefore hath he mercy on whom he will have mercy, and whom he will he hardeneth."
+- **Romans 1:24, 28** — "God gave them up... God gave them over" — hardening as God's judicial handing over of those already committed to rebellion.
+
+*Correction:* God's hardening of Sihon is not arbitrary. Sihon was already a hostile king who refused peaceful passage. God's hardening is a judicial act — confirming and completing the direction a rebellious heart has already chosen. God does not harden innocent men; He hardens those who have established their course against Him, so that His purposes are executed through their confirmed rebellion. The result here was Israel's first military victory, which sent dread of Israel throughout all the surrounding nations (verse 25).
+
+---
+
+### Deuteronomy 2:34 — "Utterly Destroyed" — God as Violent Ethnic Cleanser
+
+**Verse 34** — "And we took all his cities at that time, and utterly destroyed the men, and the women, and the little ones, of every city, we left none to remain."
+
+**How it is misused:** This verse is pulled out to portray the God of the Old Testament as commanding ethnic cleansing for Israel's territorial advantage, making Him immoral and incompatible with the God of the New Testament.
+
+**What the text actually says:**
+- **Genesis 15:16** — "But in the fourth generation they shall come hither again: for the iniquity of the Amorites is not yet full." — God delayed Israel's arrival for four centuries until the Amorites' own moral corruption had reached its fullness. The destruction is judicial, not ethnic.
+- **Deuteronomy 2:26-29** — Israel offered peaceful terms first. Sihon's rejection removed all basis for complaint against the judgment.
+- **Leviticus 18:21-25** — The specific sins of the Canaanite/Amorite nations (child sacrifice, sexual perversion) are listed as the basis for the land "vomiting them out."
+- **Deuteronomy 9:4-5** — "for the wickedness of these nations the LORD doth drive them out from before thee" — God Himself gives the reason: their wickedness, not Israel's merit.
+- **Romans 2:5-6** — "But after thy hardness and impenitent heart treasurest up unto thyself wrath against the day of wrath and revelation of the righteous judgment of God; Who will render to every man according to his deeds." — God's judgment is rendered to all nations according to their deeds.
+
+*Correction:* The destruction of the Amorites is the judicial sentence of a righteous God upon nations whose iniquity had been accumulating for four hundred years. God is not an ethnic partisan but the moral judge of all the earth (Genesis 18:25 — "Shall not the Judge of all the earth do right?"). He warns before He strikes (Israel's peace offer), He delays until iniquity is full (Genesis 15:16), and He acts on the basis of the wickedness of the nations, not the merit of the conqueror.
+
+---
+
+## SYMBOLIC THREADS
+
+**The Wilderness (Forty Years of Testing):**
+- First appears: **Deuteronomy 2:7** — "these forty years the LORD thy God hath been with thee; thou hast lacked nothing." — the forty years are defined here as a period of God's sustained provision through hardship.
+- **Deuteronomy 8:2** — "And thou shalt remember all the way which the LORD thy God led thee these forty years in the wilderness, to humble thee, and to prove thee, to know what was in thine heart."
+- **Numbers 14:33-34** — "And your children shall wander in the wilderness forty years... After the number of the days in which ye searched the land, even forty days, each day for a year, shall ye bear your iniquities, even forty years." — the forty years is a direct correspondence to the forty days of spying; one year per day of unbelief.
+- **Matthew 4:1-2** — "Then was Jesus led up of the Spirit into the wilderness to be tempted of the devil. And when he had fasted forty days and forty nights..." — Jesus' forty days mirrors Israel's forty years; He is the true Israel undergoing the same wilderness test.
+- *Pattern:* Forty years in the wilderness is Scripture's established symbol for a divinely-ordered season of testing, humbling, and proving. It is not punishment divorced from purpose — it is God's school for those He is preparing. Israel failed the forty-year test repeatedly; Jesus passed the forty-day test perfectly, as the faithful Son where Israel was unfaithful.
+
+---
+
+**The Hardened Heart (God's Judicial Confirmation of Chosen Rebellion):**
+- First appears: **Exodus 4:21** — "And I will harden Pharaoh's heart, that he shall not let the people go." — God's hardening of Pharaoh is the foundational instance.
+- **Deuteronomy 2:30** — "for the LORD thy God hardened his spirit, and made his heart obstinate, that he might deliver him into thy hand." — Sihon's hardening follows the Pharaoh pattern.
+- **Romans 9:17-18** — "Therefore hath he mercy on whom he will have mercy, and whom he will he hardeneth." — Paul establishes this as a principle of God's sovereign governance, not an instance of injustice.
+- **Romans 1:24, 26, 28** — "God gave them up... gave them over" — hardening expressed in New Testament terms as God's judicial abandonment of those who suppress the truth.
+- *Pattern:* The hardened heart in Scripture is always God's judicial act upon a heart already committed to its course. God never hardens an innocent or undecided heart. The pattern is: human rejection of light → God confirms the direction chosen → the consequences of that direction execute God's sovereign purposes. In Pharaoh and Sihon, the hardening results in demonstrations of God's power that spread His name and fear throughout the nations.

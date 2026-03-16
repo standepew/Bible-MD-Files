@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Wicked Reign, Fratricide, Divine Judgment, Covenant Faithfulness
 
-**Tags:** #Jehoshaphat-slept-fathers-buried-fathers-city-David-Jehoram-son-reigned-stead #brethren-sons-Jehoshaphat-Azariah-Jehiel-Zechariah-Azariah-Michael-Shephatiah-sons-Jehoshaphat-king-Israel #father-great-gifts-silver-gold-precious-fenced-cities-Judah-kingdom-Jehoram-firstborn #Jehoram-risen-kingdom-father-strengthened-slew-brethren-sword-divers-princes-Israel #Jehoram-thirty-two-years-reigned-eight-years-Jerusalem #walked-way-kings-Israel-house-Ahab-daughter-Ahab-wife-wrought-evil-eyes-LORD #LORD-destroy-house-David-covenant-David-light-sons-forever #days-Edomites-revolted-dominion-Judah-king #Jehoram-princes-chariots-night-smote-Edomites-compassed-captains-chariots #Edomites-revolted-hand-Judah-day-Libnah-revolt-hand-forsaken-LORD-God-fathers #high-places-mountains-Judah-inhabitants-Jerusalem-fornication-compelled-Judah #writing-Elijah-prophet-LORD-God-David-father-walked-ways-Jehoshaphat-father-ways-Asa-king-Judah #walked-way-kings-Israel-Judah-inhabitants-Jerusalem-whoring-whoredoms-house-Ahab-slain-brethren-father-house-better #great-plague-LORD-smite-people-children-wives-goods #great-sickness-disease-bowels-bowels-fall-sickness-day-day #LORD-stirred-Jehoram-spirit-Philistines-Arabians-Ethiopians #Judah-brake-substance-king-house-sons-wives-son-left-Jehoahaz-youngest-son #LORD-smote-bowels-incurable-disease #process-time-two-years-bowels-fall-sickness-died-sore-diseases-people-burning-fathers #thirty-two-years-reigned-Jerusalem-eight-years-departed-desired-buried-city-David-sepulchres-kings
+**Tags:** #LORD-smote-bowels-incurable-disease #wicked-reign #fratricide #divine-judgment #covenant-faithfulness
 
 ---
 

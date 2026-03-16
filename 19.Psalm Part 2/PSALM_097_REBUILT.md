@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** God's Reign, Divine Judgment, Idolatry Condemnation, Zion's Joy
 
-**Tags:** #LORD-reigneth-earth-rejoice-multitude-isles-glad-clouds-darkness-round-righteousness-judgment-habitation-throne-fire-goeth-burnen-enemies-round-lightnings-enlightened-world-earth-saw-trembled-hills-melted-wax-presence-LORD-presence-Lord-whole-earth-heavens-declare-righteousness-people-see-glory-Confounded-serve-graven-images-boast-idols-worship-gods-Zion-heard-glad-daughters-Judah-rejoiced-judgments-LORD-LORD-high-earth-exalted-gods-ye-love-LORD-hate-evil-preserveth-souls-saints-delivereth-hand-wicked-Light-sown-righteous-gladness-upright-heart-Rejoice-LORD-righteous-give-thanks-remembrance-holiness
+**Tags:** #god #divine-judgment #idolatry-condemnation #zion
 
 ---
 

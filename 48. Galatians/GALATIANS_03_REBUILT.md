@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Faith versus Works, The Blessing of Abraham, The Purpose of the Law, Unity in Christ
 
-**Tags:** #foolish-Galatians-bewitched-obey-truth-eyes-Jesus-Christ-evidently-crucified-learn-Received-Spirit-works-law-hearing-faith-foolish-begun-Spirit-made-perfect-flesh-suffered-vain-ministereth-Spirit-worketh-miracles-works-law-hearing-faith-Abraham-believed-God-accounted-righteous-know-faith-children-Abraham-scripture-foreseeing-God-justify-heathen-faith-preached-gospel-Abraham-nations-blessed-faith-blessed-faithful-Abraham-works-law-curse-cursed-continueth-written-book-law-justified-law-sight-God-evident-just-live-faith-law-faith-man-doeth-live-Christ-redeemed-curse-law-curse-cursed-hangeth-tree-blessing-Abraham-Gentiles-Jesus-Christ-receive-promise-Spirit-faith-brethren-speak-manner-men-covenant-confirmed-disannulleth-addeth-Abraham-seed-promises-seeds-seed-Christ-covenant-confirmed-Christ-law-four-hundred-thirty-years-disannul-promise-effect-inheritance-law-promise-God-promise-serveth-law-transgressions-seed-come-promise-angels-hand-mediator-mediator-mediator-God-law-promises-God-forbid-law-given-life-righteousness-law-scripture-concluded-sin-promise-faith-Jesus-Christ-believe-faith-come-kept-law-shut-faith-revealed-law-schoolmaster-Christ-justified-faith-faith-schoolmaster-children-God-faith-Christ-Jesus-baptized-Christ-put-Christ-Jew-Greek-bond-free-male-female-Christ-Christ-Abraham-seed-heirs-promise
+**Tags:** #faith-versus-works #the-blessing-of-abraham #the-purpose-of-the-law #unity-in-christ
 
 ---
 
@@ -225,7 +225,7 @@ Foolish, Galatians, bewitched, obey, truth, eyes, Jesus, Christ, evidently, cruc
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Faith versus Works as Type of Christ's Salvation
 - **Physical salvation:** Hearing faith (Galatians 3:3)

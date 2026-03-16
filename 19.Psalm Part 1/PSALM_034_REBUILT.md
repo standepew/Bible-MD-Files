@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** God's Deliverance, Angelic Protection, Fear of the LORD, Righteous Living
 
-**Tags:** #Psalm-David-changed-behaviour-Abimelech-drove-departed-bless-LORD-times-praise-continually-mouth-soul-boast-LORD-humble-heard-glad-magnify-LORD-exalt-name-sought-LORD-heard-delivered-fears-looked-lightened-faces-ashamed-poor-man-cried-LORD-heard-saved-troubles #angel-LORD-encampeth-fear-delivereth-taste-see-LORD-good-blessed-man-trusteth-fear-LORD-saints-want-fear-young-lions-lack-suffer-hunger-seek-LORD-want-good-children-hearken-teach-fear-LORD-desireth-life-love-days-see-good-keep-tongue-evil-lips-speaking-guile #depart-evil-good-seek-peace-pursue-eyes-LORD-righteous-ears-open-cry-face-LORD-evil-cut-remembrance-earth-righteous-cry-LORD-heareth-delivered-troubles-LORD-nigh-broken-heart-saveth-contrite-spirit-afflictions-righteous-LORD-delivereth-keepeth-bones-broken #evil-slay-wicked-hate-righteous-desolate-LORD-redeemeth-soul-servants-trust-desolate
+**Tags:** #god #angelic-protection #fear-of-the-lord #righteous-living
 
 ---
 

@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Whole Heart Praise, God's Truth, Divine Answer, Kings' Praise
 
-**Tags:** #Psalm-David-praise-whole-heart-gods-sing-praise-worship-holy-temple-praise-name-lovingkindness-truth-magnified-word-name-day-cried-answered-strengthened-strength-soul-kings-earth-praise-LORD-hear-words-mouth-sing-ways-LORD-great-glory-LORD-high-respect-lowly-proud-know-afar-walk-midst-trouble-revive-stretch-hand-wrath-enemies-right-hand-save-LORD-perfect-concerneth-mercy-LORD-endureth-forever-forsake-works-hands
+**Tags:** #whole-heart-praise #god #divine-answer #kings
 
 ---
 

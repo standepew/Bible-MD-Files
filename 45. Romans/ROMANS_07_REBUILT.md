@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Dead to the Law, Married to Christ, The Struggle with Sin, Delivered by Christ
 
-**Tags:** #know-brethren-speak-law-law-dominion-man-liveth-woman-husband-bound-law-husband-liveth-husband-dead-loosed-law-husband-husband-liveth-married-man-adulteress-husband-dead-free-law-adulteress-married-man-brethren-dead-law-body-Christ-married-raised-dead-fruit-God-flesh-motions-sins-law-work-members-fruit-death-delivered-law-dead-held-serve-newness-spirit-oldness-letter-law-sin-God-forbid-known-sin-law-known-lust-law-commandment-sin-occasion-commandment-wrought-concupiscence-without-law-sin-dead-alive-law-commandment-sin-revived-died-commandment-ordained-life-death-sin-occasion-commandment-deceived-slew-law-holy-commandment-holy-good-made-death-God-forbid-sin-appear-sin-working-death-good-sin-commandment-exceeding-sinful-know-law-spiritual-carnal-sold-sin-allow-would-hate-consent-law-good-dwell-know-flesh-dwell-good-will-present-perform-good-would-not-evil-would-not-law-dwell-delight-law-God-inward-man-law-members-warring-law-mind-bringing-captivity-law-sin-members-wretched-man-deliver-body-death-thank-God-Jesus-Christ-Lord-mind-serve-law-God-flesh-law-sin
+**Tags:** #dead-to-the-law #married-to-christ #the-struggle-with-sin #delivered-by-christ
 
 ---
 
@@ -241,7 +241,7 @@ Know, brethren, speak, law, law, dominion, man, liveth, woman, husband, bound, l
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Dead to the Law as Type of Christ's Death
 - **Physical death:** Dead law (Romans 7:3)

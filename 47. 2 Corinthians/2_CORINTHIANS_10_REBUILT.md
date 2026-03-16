@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Spiritual Warfare, Paul's Authority, Divine Weapons, The Righteous Boast
 
-**Tags:** #Paul-beseech-meekness-gentleness-Christ-presence-base-absent-bold-confidence-bold-walked-flesh-walk-flesh-war-flesh-weapons-warfare-carnal-mighty-God-pulling-strong-holds-casting-imaginations-high-thing-exalteth-knowledge-God-bringing-captivity-thought-obedience-Christ-readiness-revenge-disobedience-obedience-fulfilled-look-outward-appearance-trust-Christ-again-Christ-boast-authority-Lord-edification-destruction-ashamed-terrify-letters-weighty-powerful-bodily-presence-weak-speech-contemptible-absent-letters-present-deed-dare-number-compare-commend-measuring-comparing-wise-boast-things-measure-measure-rule-God-distributed-measure-reach-stretch-beyond-measure-reached-preaching-gospel-Christ-boasting-things-measure-men-labours-hope-faith-increased-enlarged-rule-abundantly-preach-gospel-regions-boast-line-things-ready-hand-glorieth-Lord-commendeth-approved-Lord-commendeth
+**Tags:** #spiritual-warfare #paul #divine-weapons #the-righteous-boast
 
 ---
 
@@ -191,7 +191,7 @@ Paul, beseech, meekness, gentleness, Christ, presence, base, absent, bold, confi
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Spiritual Warfare as Type of Christ's Victory
 - **Physical victory:** Weapons warfare (2 Corinthians 10:5)

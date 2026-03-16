@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Healing the Man Born Blind, The Sabbath Controversy, Spiritual Blindness, True Sight
 
-**Tags:** #Jesus-passed-blind-birth-disciples-Master-sin-parents-born-blind-Jesus-answered-sinned-parents-works-God-manifest-work-works-sent-day-night-cometh-work-light-world-spoken-spit-ground-clay-spittle-anointed-eyes-clay-Siloam-interpretation-Sent-washed-seeing-neighbours-blind-sat-begged-eyes-opened-Jesus-clay-anointed-eyes-Siloam-washed-received-sight-sight-Jews-blind-Pharisees-sabbath-Jesus-clay-opened-eyes-Pharisees-sinner-miracles-division-blind-man-prophet-Jews-blind-received-sight-parents-blind-see-parents-answered-son-born-blind-see-opened-eyes-know-age-speak-father-father-father-father-feared-Jews-agreed-confess-Christ-put-synagogue-age-ask-blind-man-God-praise-sinner-blind-blind-sin-blind-see-disciple-Moses-disciples-God-spoke-Moses-fellow-know-whence-marvellous-know-whence-opened-eyes-God-hear-sinners-worshipper-God-doeth-will-heareth-world-begin-opened-eyes-born-blind-God-nothing-born-sins-teach-cast-Jesus-heard-cast-found-Son-God-believe-Lord-believe-seen-talketh-Lord-believe-worshipped-Jesus-judgment-world-see-might-see-might-made-blind-Pharisees-blind-Jesus-blind-sin-blind-see-sin-remaineth
+**Tags:** #healing-the-man-born-blind #the-sabbath-controversy #spiritual-blindness #true-sight
 
 ---
 
@@ -273,7 +273,7 @@ Jesus, passed, blind, birth, disciples, Master, sin, parents, born, blind, Jesus
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Healing the Man Born Blind as Type of Christ's Salvation
 - **Physical healing:** Blind birth (John 9:5)

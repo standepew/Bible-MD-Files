@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Jerusalem Council, Justification by Faith, Peter's Hypocrisy, Life in Christ
 
-**Tags:** #fourteen-years-Jerusalem-Barnabas-Titus-revelation-communicated-gospel-preach-Gentiles-privately-reputation-run-vain-Titus-Greek-compelled-circumcised-false-brethren-unawares-brought-privily-spy-liberty-Christ-Jesus-bondage-place-subjection-hour-truth-gospel-continue-somewhat-matter-God-accepteth-person-somewhat-conference-added-contrariwise-gospel-uncircumcision-committed-gospel-circumcision-Peter-wrought-effectually-Peter-apostleship-circumcision-mighty-Gentiles-James-Cephas-John-pillars-perceived-grace-given-right-hands-fellowship-Gentiles-circumcision-remember-poor-forward-Antioch-withstood-face-blamed-certain-James-eat-Gentiles-withdrew-separated-fearing-circumcision-Jews-dissembled-Barnabas-carried-dissimulation-walked-uprightly-truth-gospel-Peter-Jew-livest-manner-Gentiles-Jews-compellest-Gentiles-Jews-Jews-nature-sinners-Gentiles-knowing-justified-works-law-faith-Jesus-Christ-believed-Jesus-Christ-justified-faith-Christ-works-law-works-law-flesh-justified-seek-justified-Christ-found-sinners-Christ-minister-sin-God-forbid-build-destroyed-transgressor-law-dead-law-live-God-crucified-Christ-live-Christ-liveth-life-live-flesh-live-faith-Son-God-loved-gave-frustrate-grace-God-righteousness-law-Christ-dead-vain
+**Tags:** #jerusalem-council #justification-by-faith #peter #life-in-christ
 
 ---
 
@@ -197,7 +197,7 @@ Fourteen, years, Jerusalem, Barnabas, Titus, revelation, communicated, gospel, p
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Jerusalem Council as Type of Christ's Authority
 - **Physical authority:** Liberty Christ (Galatians 2:4)

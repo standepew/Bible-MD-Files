@@ -168,3 +168,55 @@ The Levitical priest could never touch the leper. The leper had to come to him f
 ---
 
 **End of Leviticus Chapter 13**
+
+---
+
+## COMMONLY MISQUOTED PASSAGES
+
+### Leviticus 13:45-46 — "Unclean, Unclean" Used to Permanently Exclude the Suffering
+
+**Verses 45-46** — "And the leper in whom the plague is, his clothes shall be rent, and his head bare, and he shall put a covering upon his upper lip, and shall cry, Unclean, unclean. All the days wherein the plague shall be in him he shall be defiled; he is unclean: he shall dwell alone; without the camp shall his habitation be."
+
+**How it is misused:** This passage is sometimes used to justify the permanent social, spiritual, or congregational exclusion of people with certain conditions — chronic illness, moral failures, addiction, social stigma — as if the "outside the camp" status is the final word rather than a temporary diagnostic quarantine with a path back through Leviticus 14.
+
+**What the text actually says:**
+- **Leviticus 14:2-3** — "This shall be the law of the leper in the day of his cleansing: He shall be brought unto the priest: And the priest shall go forth out of the camp; and the priest shall look, and, behold, if the plague of leprosy be healed in the leper." — The exclusion of chapter 13 has a built-in reversal in chapter 14.
+- **Hebrews 13:12-13** — "Wherefore Jesus also, that he might sanctify the people with his own blood, suffered without the gate. Let us go forth therefore unto him without the camp, bearing his reproach."
+- **Mark 1:40-42** — The leper who comes to Jesus; Jesus touches him and says "I will; be thou clean." — The priest who should have kept his distance instead crosses it.
+
+*Correction:* Leviticus 13:46 is a temporary diagnostic quarantine — "all the days wherein the plague shall be in him." It is not a permanent verdict. Leviticus 14 exists precisely because healing is possible and the way back is built in. Hebrews 13:12-13 reframes the "outside the camp" location: not as the place of final rejection but as the place where Christ Himself went. The leper's address is the address Christ chose.
+
+---
+
+### Leviticus 13:13 — "Wholly White" Declared Clean Used to Argue Hidden Sin Is Safe
+
+**Verse 13** — "Then the priest shall consider: and, behold, if the leprosy have covered all his flesh, he shall pronounce him clean that hath the plague: it is all turned white: he is clean."
+
+**How it is misused:** This unusual case — the person completely covered in white leprosy declared clean — is sometimes used to argue that as long as sin is total and consistent it is not a problem; or it is dismissed as an arbitrary legal quirk with no spiritual meaning.
+
+**What the text actually says:**
+- **Leviticus 13:14-15** — "But when raw flesh appeareth in him, he shall be unclean. And the priest shall see the raw flesh, and pronounce him to be unclean: for the raw flesh is unclean: it is a leprosy." — The danger is the raw, active, spreading flesh — not the stabilized condition.
+- **Revelation 3:15-16** — "I know thy works, that thou art neither cold nor hot: I would thou wert cold or hot. So then because thou art lukewarm, and neither cold nor hot, I will spue thee out of my mouth." — The principle is not that complete corruption is acceptable but that spreading, active, unstable compromise is the dangerous state.
+
+*Correction:* The "wholly white" case does not teach that total corruption is harmless. Read in context, the priest is a diagnostician, not a moral arbitrator: a completely white, stable surface indicates the active process has stopped. The moment raw flesh appears — active, spreading disease — uncleanness is declared. The diagnostic principle teaches exactly what 1 Corinthians 5:6 says: "a little leaven leaveneth the whole lump." The danger is the spreading active condition, not the stable one.
+
+---
+
+## SYMBOLIC THREADS
+
+**The Leper Outside the Camp:**
+- Established: Leviticus 13:46 — "he shall dwell alone; without the camp shall his habitation be."
+- Numbers 5:2-3 — "Command the children of Israel, that they put out of the camp every leper... without the camp shall ye put them."
+- Numbers 12:14-15 — Miriam struck with leprosy is shut out of the camp seven days; the camp does not move until she is restored.
+- 2 Kings 7:3 — "And there were four leprous men at the entering in of the gate" — lepers at the threshold, outside the city.
+- Luke 17:12 — "there met him ten men that were lepers, which stood afar off" — keeping the Levitical distance.
+- Hebrews 13:12-13 — "Jesus also, that he might sanctify the people with his own blood, suffered without the gate. Let us go forth therefore unto him without the camp, bearing his reproach."
+- *Pattern:* The leper outside the camp is the consistent Scriptural image of total exclusion from the covenant community. The trajectory moves from exile (Leviticus 13) through the path of restoration (Leviticus 14) to Christ going outside the gate not to be cleansed but to cleanse from that location (Hebrews 13:12). The place of maximum exclusion is where the atoning work of the great High Priest is accomplished.
+
+**The Priest as Diagnostician (Not the Cause of Cleanness/Uncleanness):**
+- Leviticus 13:3 — "the priest shall look on him, and pronounce him unclean" — the priest reads what is already present.
+- Leviticus 13:6 — "the priest shall pronounce him clean" — declaring, not making.
+- Leviticus 14:7 — "shall pronounce him clean" — the pronouncement follows the healing; it does not cause it.
+- Mark 1:44 — Jesus says to the cleansed leper: "go shew thyself to the priest, and offer for thy cleansing those things which Moses commanded, for a testimony unto them." — The priest declares what Christ has already accomplished.
+- John 20:23 — "Whose soever sins ye remit, they are remitted unto them" — the apostolic declaration of what God has already done in the gospel; declaratory, not sacramentally causative.
+- *Pattern:* The Levitical priest diagnoses and declares — he does not create cleanness or uncleanness by his word; he reads what is actually present. This diagnostic role is the opposite of what Christ does: He pronounces clean by actually making clean (Mark 1:41-42). The Aaronic priest could only ratify existing healing; Christ heals first. This distinction is the hinge of the contrast between Law and Gospel throughout the NT.

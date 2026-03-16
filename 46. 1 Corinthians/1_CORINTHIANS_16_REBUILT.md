@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** The Collection for Saints, Paul's Travel Plans, Final Exhortations, Christian Greetings
 
-**Tags:** #collection-saints-order-churches-Galatia-first-day-week-lay-store-God-prospered-gatherings-come-approve-letters-send-liberality-Jerusalem-meet-go-pass-Macedonia-pass-Macedonia-abide-winter-journey-whithersoever-way-tarry-while-Lord-permit-tarry-Ephesus-Pentecost-great-door-effectual-opened-adversaries-Timotheus-fear-worketh-work-Lord-despise-conduct-peace-brothers-Apollos-brethren-will-convenient-time-watch-stand-faith-quit-men-strong-charity-beseech-brethren-house-Stephanas-firstfruits-Achaia-addicted-ministry-saints-submit-helpeth-laboured-glad-coming-Stephanas-Fortunatus-Achaicus-lacking-part-supplied-refreshed-spirit-acknowledge-churches-Asia-salute-Aquila-Priscilla-salute-Lord-church-house-brethren-greet-holy-kiss-salutation-Paul-hand-love-Lord-Jesus-Christ-Anathema-Maranatha-grace-Lord-Jesus-Christ-love-Christ-Jesus-Amen
+**Tags:** #the-collection-for-saints #paul #final-exhortations #christian-greetings
 
 ---
 
@@ -215,7 +215,7 @@ Collection, saints, order, churches, Galatia, first, day, week, lay, store, God,
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Collection for Saints as Type of Christ's Provision
 - **Physical provision:** Collection saints (1 Corinthians 16:3)

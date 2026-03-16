@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Church's Beauty, Christ's Praise, Spiritual Garden, Divine Intimacy
 
-**Tags:** #fair-love-doves-eyes-locks-hair-flock-goats-appear-mount-Gilead-teeth-flock-sheep-shorn-washing-every-bear-twins-barren-lips-thread-scarlet-speech-comely-temples-piece-pomegranate-locks-neck-tower-David-builded-armoury-hang-thousand-bucklers-shields-mighty-men-breasts-young-roes-twins-feed-lilies-day-break-shadows-flee-away-mountain-myrrh-hill-frankincense-fair-love-spot-spouse-Lebanon-top-Amana-top-Shenir-Hermon-lions-dens-mountains-leopards-ravished-heart-sister-spouse-ravished-heart-one-eyes-one-chain-neck-fair-love-sister-spouse-love-better-wine-smell-ointments-spices-lips-spouse-drop-honeycomb-honey-milk-tongue-smell-garments-Lebanon-garden-enclosed-sister-spouse-spring-shut-fountain-sealed-plants-orchard-pomegranates-pleasant-fruits-camphire-spikenard-spikenard-saffron-calamus-cinnamon-trees-frankincense-myrrh-aloes-chief-spices-fountain-gardens-well-living-waters-streams-Lebanon-Awake-north-wind-come-south-blow-garden-spices-flow-beloved-garden-eat-pleasant-fruits
+**Tags:** #church #christ #spiritual-garden #divine-intimacy
 
 ---
 

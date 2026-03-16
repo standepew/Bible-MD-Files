@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Bringing the Ark to Jerusalem, Uzzah's Death, David's Fear, Obed-edom's Blessing
 
-**Tags:** #David-consulted-captains-thousands-hundreds-every-leader #David-congregation-Israel-good-LORD-God-send-abroad-brethren-land-Israel-priests-Levites-cities-suburbs-gather #bring-ark-God-enquired-days-Saul #congregation-thing-right-eyes-people #David-gathered-Israel-Shihor-Egypt-entering-Hemath-bring-ark-God-Kirjath-jearim #David-Israel-Baalah-Kirjath-jearim-belonged-Judah-bring-ark-God-LORD-dwelleth-cherubims-called #carried-ark-God-new-cart-house-Abinadab-Uzza-Ahio-drave-cart #David-Israel-played-God-might-singing-harps-psalteries-timbrels-cymbals-trumpets #threshingfloor-Chidon-Uzza-hand-hold-ark-oxen-stumbled #anger-LORD-kindled-Uzza-smote-hand-ark-died-God #David-displeased-LORD-breached-Uzza-place-called-Perez-uzza-day #David-afraid-God-day-bring-ark-God-home #David-brought-ark-home-city-David-carried-aside-house-Obed-edom-Gittite #ark-God-remained-family-Obed-edom-house-three-months-LORD-blessed-house-Obed-edom
+**Tags:** #congregation-thing-right-eyes-people #bringing-the-ark-to-jerusalem #uzzah #david #obededom
 
 ---
 

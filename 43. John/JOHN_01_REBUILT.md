@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** The Word Became Flesh, John the Baptist's Testimony, The First Disciples, Nathanael's Declaration
 
-**Tags:** #beginning-Word-God-Word-with-Word-God-beginning-God-things-made-without-made-life-light-men-light-shineth-darkness-comprehended-man-sent-God-John-witness-bear-witness-Light-men-believe-Light-sent-bear-witness-true-Light-lighteth-man-cometh-world-world-world-made-knew-came-own-received-received-power-sons-God-believe-name-born-blood-will-flesh-will-man-God-Word-made-flesh-dwelt-beheld-glory-glory-begotten-Father-grace-truth-John-bare-witness-cried-spake-cometh-after-preferred-me-John-fulness-received-grace-grace-law-Moses-grace-truth-Jesus-Christ-man-seen-God-begotten-Son-bosom-Father-declared-record-John-Jews-priests-Levites-Jerusalem-ask-confessed-denied-confessed-Christ-asked-Elias-prophet-answered-voice-crying-wilderness-straight-way-Lord-prophet-Esaias-sent-Pharisees-asked-baptizest-Christ-Elias-prophet-John-baptize-water-standeth-know-cometh-after-preferred-me-shoe-latchet-worthy-unloose-things-Bethabara-beyond-Jordan-baptizing-next-John-seeth-Jesus-behold-Lamb-God-taketh-sin-world-spake-cometh-man-preferred-me-knew-manifest-Israel-baptizing-water-John-bare-record-Spirit-descending-heaven-dove-abode-knew-sent-baptize-water-Spirit-descending-remaining-baptizeth-Holy-Ghost-saw-bare-record-Son-God-again-next-John-disciples-looking-Jesus-walked-Behold-Lamb-God-disciples-heard-Jesus-turned-followed-seek-Rabbi-Master-dwellest-saith-Come-dwelt-abode-tenth-two-Andrew-Simon-brother-findeth-brother-Simon-found-Messias-Christ-brought-Jesus-Jesus-beheld-Simon-Jona-called-Cephas-stone-following-Galilee-findeth-Philip-Follow-Bethsaida-city-Andrew-Peter-Philip-findeth-Nathanael-found-Moses-law-prophets-write-Jesus-Nazareth-Joseph-Nathanael-good-Nazareth-Come-see-Jesus-Nathanael-Israelite-guile-knowest-Jesus-answered-Philip-called-fig-tree-saw-Nathanael-answered-Rabbi-Son-God-King-Israel-Jesus-answered-fig-tree-believest-greater-things-Verily-heaven-open-angels-God-ascending-descending-Son-man
+**Tags:** #the-word-became-flesh #john-the-baptist #the-first-disciples #nathanael
 
 ---
 
@@ -317,7 +317,7 @@ Beginning, Word, God, Word, with, Word, God, beginning, God, things, made, witho
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Word Became Flesh as Type of Christ's Incarnation
 - **Physical Word:** Beginning Word (John 1:3)

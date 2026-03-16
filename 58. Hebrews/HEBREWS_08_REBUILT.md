@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Christ's Heavenly Ministry, The True Tabernacle, A Better Covenant, The New Covenant Promises
 
-**Tags:** #sum-high-priest-set-right-hand-throne-Majesty-heavens-minister-sanctuary-true-tabernacle-Lord-pitched-man-high-priest-ordained-offer-gifts-sacrifices-necessity-man-offer-earth-priest-priests-offer-gifts-law-serve-example-shadow-heavenly-things-Moses-admonished-God-make-tabernacle-pattern-shewed-mount-excellent-ministry-mediator-better-covenant-established-better-promises-first-covenant-faultless-place-sought-second-finding-fault-days-Lord-new-covenant-house-Israel-house-Judah-covenant-fathers-day-hand-lead-land-Egypt-continued-covenant-regarded-Lord-covenant-house-Israel-days-Lord-put-laws-mind-write-hearts-God-people-teach-man-neighbour-brother-Know-Lord-know-least-greatest-merciful-unrighteousness-sins-iniquities-remember-new-covenant-first-old-decayeth-waxeth-old-ready-vanish
+**Tags:** #christ #the-true-tabernacle #a-better-covenant #the-new-covenant-promises
 
 ---
 
@@ -157,7 +157,7 @@ Sum, high, priest, set, right, hand, throne, Majesty, heavens, minister, sanctua
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Christ's Heavenly Ministry as Type of Christ's Exaltation
 - **Physical exaltation:** Right hand (Hebrews 8:2)

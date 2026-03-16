@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Universal Praise, God's Mercy, Eternal Truth, Global Worship
 
-**Tags:** #praise-LORD-nations-praise-people-merciful-kindness-great-truth-LORD-endureth-Praise-LORD
+**Tags:** #universal-praise #god #eternal-truth #global-worship
 
 ---
 

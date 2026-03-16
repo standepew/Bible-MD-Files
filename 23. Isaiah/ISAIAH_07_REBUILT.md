@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Virgin Birth, Divine Sign, Faith in God, Christ's Protection
 
-**Tags:** #came-pass-days-Ahaz-son-Jotham-son-Uzziah-king-Judah-Rezin-king-Syria-Pekah-son-Remaliah-king-Israel-Jerusalem-war-prevail-told-house-David-Syria-confederate-Ephraim-heart-moved-heart-people-trees-wood-moved-wind-LORD-Isaiah-forth-meet-Ahaz-Shear-jashub-son-conduit-upper-pool-highway-fuller-field-saying-take-heed-quiet-fear-fainthearted-tails-smoking-firebrands-fierce-anger-Rezin-Syria-son-Remaliah-Syria-Ephraim-son-Remaliah-evil-counsel-against-Judah-vex-breach-set-king-midst-son-Tabeal-Lord-GOD-shall-stand-shall-come-pass-head-Syria-Damascus-head-Damascus-Rezin-threescore-five-years-Ephraim-broken-people-head-Ephraim-Samaria-head-Samaria-Remaliah-son-believe-established-LORD-spake-Ahaz-saying-Ask-sign-LORD-God-ask-depth-height-LORD-said-tempt-LORD-Hear-house-David-small-thing-weary-men-weary-God-Lord-shall-give-sign-virgin-conceive-bear-son-call-Immanuel-butter-honey-eat-know-refuse-evil-choose-good-child-know-refuse-evil-choose-good-land-abhorrest-forsaken-kings-LORD-bring-people-father-house-days-come-day-Ephraim-departed-Judah-king-Assyria-come-pass-day-LORD-hiss-fly-uttermost-part-rivers-Egypt-bee-land-Assyria-come-rest-desolate-valleys-holes-rocks-thorns-bushes-day-Lord-shave-razor-hired-beyond-river-king-Assyria-head-hair-feet-consume-beard-day-man-nourish-young-cow-sheep-come-pass-abundance-milk-give-eat-butter-butter-honey-eat-left-land-come-pass-day-place-thousand-vines-thousand-silverlings-briers-thorns-arrows-bows-men-come-land-briers-thorns-hills-digged-mattock-fear-briers-thorns-sending-forth-oxen-treading-lesser-cattle
+**Tags:** #christ #divine-sign #faith-in-god
 
 ---
 

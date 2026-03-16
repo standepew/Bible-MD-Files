@@ -2,7 +2,7 @@
 
 ---
 
-## 1. CHAPTER METADATA
+## CHAPTER METADATA
 
 **Book:** Numbers
 **Chapter:** 2
@@ -13,13 +13,13 @@
 
 ---
 
-## 2. CHAPTER SUMMARY
+## CHAPTER SUMMARY
 
 God commands the arrangement of Israel's camp. The Tabernacle sits at the centre with the Levites encircling it. The twelve tribes are organized into four divisions of three, each under a lead-tribe's standard: East — Judah (lead), Issachar, Zebulun; 186,400; they march first. South — Reuben (lead), Simeon, Gad; 151,450; they march second. The Tabernacle with the Levites moves in the middle of the march. West — Ephraim (lead), Manasseh, Benjamin; 108,100; they march third. North — Dan (lead), Asher, Naphtali; 157,600; they march last as the rearguard. Total: 603,550 — identical to chapter 1. Israel does exactly as the LORD commanded. The chapter closes: "so they pitched by their standards, and so they set forward, every one after their families, according to the house of their fathers."
 
 ---
 
-## 3. CROSS-REFERENCES (Scripture Interpreting Scripture)
+## CROSS-REFERENCES (Scripture Interpreting Scripture) (Scripture Interpreting Scripture)
 
 ### God at the Centre — The Theocentric Architecture of the Camp
 
@@ -54,7 +54,7 @@ God commands the arrangement of Israel's camp. The Tabernacle sits at the centre
 
 ---
 
-## 4. KEYWORD INDEX
+## KEYWORD INDEX
 
 **For Current Events Matching:**
 - **Social order / community structure** → Numbers 2 — every person has a place, a tribe, a standard; ordered community vs. formless mass
@@ -64,7 +64,7 @@ God commands the arrangement of Israel's camp. The Tabernacle sits at the centre
 
 ---
 
-## 5. KEY TERMS WITH CONTEXTUAL DEFINITIONS
+## KEY TERMS WITH CONTEXTUAL DEFINITIONS WITH CONTEXTUAL DEFINITIONS
 
 ### STANDARD (Hebrew: degel)
 - **Numbers 2:2, 3, 10, 17, 18, 25, 31, 34** — the tribal banner; appears first here in Scripture
@@ -76,7 +76,7 @@ God commands the arrangement of Israel's camp. The Tabernacle sits at the centre
 
 ---
 
-## 6. THE ACTUAL VERSES — NUMBERS 2 (KJV)
+## THE ACTUAL VERSES (KJV) — NUMBERS 2 (KJV)
 
 **1** And the LORD spake unto Moses and unto Aaron, saying,
 **2** Every man of the children of Israel shall pitch by his own standard, with the ensign of their father's house: far off about the tabernacle of the congregation shall they pitch.
@@ -115,7 +115,7 @@ God commands the arrangement of Israel's camp. The Tabernacle sits at the centre
 
 ---
 
-## 7. PROPHETIC/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS/TYPOLOGICAL CONNECTIONS
 
 ### The Four-Sided Camp — The Fourfold Gospel Portrait
 
@@ -129,7 +129,7 @@ What the roadmap establishes: the Bible defines its own symbols. Ezekiel 1 defin
 
 ---
 
-## 8. COMMONLY MISQUOTED PASSAGES
+## COMMONLY MISQUOTED PASSAGES PASSAGES
 
 ### Numbers 2:34 — "They Did According to All That the LORD Commanded" — Total Obedience as the Exception
 
@@ -143,7 +143,7 @@ What the roadmap establishes: the Bible defines its own symbols. Ezekiel 1 defin
 
 ---
 
-## 9. SYMBOLIC THREADS
+## SYMBOLIC THREADS
 
 ### The Tabernacle at the Centre — The Axis of Everything
 

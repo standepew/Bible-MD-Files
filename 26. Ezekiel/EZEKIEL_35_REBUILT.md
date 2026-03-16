@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Judgment, Edom's Hatred, Divine Desolation, Christ's Vengeance
 
-**Tags:** #word-LORD-son-man-face-mount-Seir-prophesy-Lord-GOD-mount-Seir-stretch-hand-desolate-cities-waste-desolate-know-Lord-perpetual-hatred-shed-blood-children-Israel-force-sword-time-calamity-time-iniquity-live-Lord-GOD-prepare-blood-blood-pursue-hated-blood-blood-pursue-mount-Seir-desolate-cut-off-pass-return-fill-mountains-slain-men-hills-valleys-rivers-fall-slain-sword-perpetual-desolations-cities-return-know-Lord-two-nations-two-countries-mine-possess-Lord-live-Lord-GOD-anger-envy-hatred-make-known-judged-know-LORD-heard-blasphemies-spoken-mountains-Israel-laid-desolate-given-consume-mouth-boasted-multiplied-words-heard-Lord-GOD-whole-earth-rejoiceth-desolate-rejoiced-inheritance-house-Israel-desolate-desolate-mount-Seir-Idumea-know-Lord
+**Tags:** #christ #edom #divine-desolation
 
 ---
 

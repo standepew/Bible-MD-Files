@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** The Woman Caught in Adultery, I Am the Light of the World, The Truth Shall Make You Free, Before Abraham Was I Am
 
-**Tags:** #Jesus-mount-Olives-early-morning-temple-people-sat-taught-scribes-Pharisees-woman-adultery-midst-Master-woman-adultery-act-Moses-law-commanded-stoned-sayest-tempting-accuse-Jesus-stooped-finger-wrote-ground-heard-continued-asking-lifted-without-sin-first-cast-stone-stooped-wrote-ground-heard-convicted-conscience-continued-eldest-last-Jesus-alone-woman-midst-Jesus-lifted-woman-accusers-condemned-No-man-Lord-condemn-sin-spake-Jesus-light-world-followeth-darkness-light-life-Pharisees-record-thyself-record-true-Jesus-answered-record-true-know-came-know-came-flesh-judge-judge-judgment-true-alone-Father-sent-testimony-two-men-true-witness-witness-Father-witness-Father-sent-Where-Father-Jesus-answered-know-Father-known-Father-treasury-temple-hands-hour-Jesus-way-seek-die-sins-come-Jews-kill-whither-come-beneath-above-world-world-die-sins-believe-die-sins-art-thou-Jesus-beginning-things-judge-sent-true-speak-world-heard-Father-understood-Father-Jesus-lifted-Son-man-know-nothing-Father-taught-speak-things-sent-please-words-believed-Jesus-believed-continue-disciples-know-truth-truth-free-Abraham-seed-bondage-man-free-Jesus-answered-committeth-sin-servant-sin-servant-abideth-house-Son-abideth-ever-Son-free-free-Abraham-seed-kill-word-place-Father-seen-father-seen-father-Abraham-children-works-Abraham-kill-man-truth-God-Abraham-deeds-father-father-fornication-Father-God-Jesus-God-Father-love-proceeded-God-sent-understand-speech-hear-word-father-devil-lusts-father-murderer-beginning-abode-truth-truth-lie-liar-father-truth-believe-convinceth-sin-truth-believe-God-hear-God-hear-not-God-Jews-Samaritan-devil-Jesus-answered-devil-honour-Father-dishonour-glory-seeketh-judgeth-keep-saying-death-Jews-devil-Abraham-dead-prophets-death-taste-greater-Abraham-dead-prophets-Jesus-answered-honour-nothing-Father-honoureth-God-known-know-liar-know-keep-saying-Abraham-rejoiced-day-saw-glad-Jews-fifty-years-Abraham-Jesus-answered-Abraham-stones-cast-Jesus-hid-temple-midst-passed
+**Tags:** #the-woman-caught-in-adultery #i-am-the-light-of-the #the-truth-shall-make-you-free #before-abraham-was-i-am
 
 ---
 
@@ -345,7 +345,7 @@ Jesus, mount, Olives, early, morning, temple, people, sat, taught, scribes, Phar
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Woman Caught in Adultery as Type of Christ's Mercy
 - **Physical woman:** Woman adultery (John 8:5)

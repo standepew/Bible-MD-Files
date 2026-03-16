@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** The New Heaven and New Earth, The Holy City New Jerusalem, The Tabernacle of God, The New Jerusalem's Description, The Inhabitants of the City
 
-**Tags:** #new-heaven-new-earth-first-heaven-first-earth-passed-sea-John-holy-city-new-Jerusalem-coming-God-heaven-prepared-bride-adorned-husband-great-voice-heaven-Behold-tabernacle-God-men-dwell-people-God-God-wipe-tears-eyes-death-sorrow-crying-pain-former-things-passed-sat-throne-Behold-make-things-new-Write-words-true-faithful-done-Alpha-Omega-beginning-end-athirst-fountain-water-life-freely-overcometh-inherit-things-God-son-fearful-unbelieving-abominable-murderers-whoremongers-sorcerers-idolaters-liars-part-lake-fire-brimstone-second-death-seven-angels-seven-vials-seven-last-plagues-talked-Come-shew-bride-Lamb-wife-carried-spirit-great-high-mountain-shewed-great-city-holy-Jerusalem-descending-heaven-God-glory-God-light-stone-precious-jasper-stone-clear-crystal-wall-great-high-twelve-gates-gates-twelve-angels-names-twelve-tribes-children-Israel-east-three-gates-north-three-gates-south-three-gates-west-three-gates-wall-city-twelve-foundations-names-twelve-apostles-Lamb-golden-reed-measure-city-gates-wall-city-foursquare-length-large-breadth-measured-city-reed-twelve-thousand-furlongs-length-breadth-height-equal-measured-wall-hundred-forty-four-cubits-measure-man-angel-building-wall-jasper-city-pure-gold-clear-glass-foundations-wall-city-garnished-precious-stones-foundation-jasper-foundation-sapphire-foundation-chalcedony-foundation-emerald-foundation-sardonyx-foundation-sardius-foundation-chrysolite-foundation-beryl-foundation-topaz-foundation-chrysoprasus-foundation-jacinth-foundation-amethyst-twelve-gates-twelve-pearls-several-gate-one-pearl-street-city-pure-gold-transparent-glass-temple-Lord-God-Almighty-Lamb-temple-city-need-sun-moon-shine-glory-God-lighten-Lamb-light-nations-saved-walk-light-kings-earth-bring-glory-honour-gates-shut-day-night-glory-honour-nations-no-wise-enter-defileth-worketh-abomination-maketh-lie-written-Lamb-book-life
+**Tags:** #the-new-heaven-and-new-earth #the-holy-city-new-jerusalem #the-tabernacle-of-god #the-new-jerusalem #the-inhabitants-of-the-city
 
 ---
 
@@ -247,7 +247,7 @@ New, heaven, new, earth, first, heaven, first, earth, passed, sea, John, holy, c
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The New Heaven and New Earth as Type of Christ's Complete Renewal
 - **Physical complete renewal:** New heaven (Revelation 21:2)

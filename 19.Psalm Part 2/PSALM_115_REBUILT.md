@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** God's Glory, Idolatry's Folly, Divine Trust, Eternal Praise
 
-**Tags:** #LORD-glory-mercy-truth-sake-heathen-God-heavens-done-pleased-idols-silver-gold-work-hands-mouths-speak-eyes-see-ears-hear-noses-smell-hands-handle-feet-walk-speak-throat-make-like-trust-Israel-trust-LORD-help-shield-house-Aaron-trust-LORD-help-shield-fear-LORD-trust-LORD-help-shield-mindful-bless-bless-house-Israel-bless-house-Aaron-bless-fear-LORD-small-great-increase-children-blessed-LORD-made-heaven-earth-heaven-heavens-LORD-earth-given-children-men-dead-praise-LORD-silence-bless-LORD-time-forth-forevermore-Praise-LORD
+**Tags:** #god #idolatry #divine-trust #eternal-praise
 
 ---
 

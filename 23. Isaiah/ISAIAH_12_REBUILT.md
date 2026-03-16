@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Salvation, Divine Praise, Spiritual Joy, God's Strength
 
-**Tags:** #day-say-LORD-praise-angry-anger-turned-away-comforted-Behold-God-salvation-trust-afraid-LORD-JEHOVAH-strength-song-become-salvation-joy-draw-water-wells-salvation-day-say-Praise-LORD-call-name-declare-doings-people-mention-name-exalted-Sing-LORD-done-excellent-things-known-earth-Cry-shout-inhabitant-Zion-great-Holy-One-Israel-midst
+**Tags:** #christ #divine-praise #spiritual-joy #god
 
 ---
 

@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Solomon's Reign, Divine Wisdom, Temple Preparation, Kingdom Prosperity
 
-**Tags:** #Solomon-son-David-strengthened-kingdom-LORD-God-magnified-exceedingly #Solomon-spake-Israel-captains-thousands-hundreds-judges-governors-Israel-chief-fathers-Israel #Solomon-congregation-high-place-Gibeon-tabernacle-congregation-LORD-Moses-servant-wilderness-tabernacle-congregation-LORD #ark-God-David-brought-Kirjath-jearim-David-prepared-tent-Jerusalem-tabernacle-congregation-LORD #brasen-altar-Bezalel-son-Uri-son-Hur-tabernacle-congregation-LORD-Solomon-congregation-sought-brasen-altar-LORD-offered-thousand-burnt-offerings-LORD #night-God-appeared-Solomon-said-LORD-give-Solomon-said-LORD-shewed-great-mercy-David-father-made-reign-stead-people-dust-earth-multitude #Solomon-LORD-promise-David-father-established-LORD-ask-wisdom-knowledge-judge-people-great-people #God-said-Solomon-heart-not-asked-riches-wealth-honour-life-enemies-long-life-asked-wisdom-knowledge #wisdom-knowledge-granted-LORD-give-riches-wealth-honour-kings-like-kings-LORD-gave-wisdom-knowledge #Solomon-journey-high-place-Gibeon-Jerusalem-tabernacle-congregation-LORD-reigned-Israel #Solomon-gathered-chariots-horsemen-thousand-four-hundred-chariots-twelve-thousand-horsemen-placed-chariot-cities-king-Jerusalem #Solomon-made-silver-gold-Jerusalem-plenteous-stones-cedar-trees-abundance-sycomore-trees-vale-Solomon-brought-horses-Egypt-linen-yarn-king-merchants-received-linen-yarn-price #fetched-Egypt-chariot-six-hundred-shekels-silver-horse-hundred-fifty-shekel-horses-kings-Hittites-kings-Syrian-kings-merchants-received-horses
+**Tags:** #solomon #divine-wisdom #temple-preparation #kingdom-prosperity
 
 ---
 

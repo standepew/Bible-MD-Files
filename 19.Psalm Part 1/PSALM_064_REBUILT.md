@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Wicked's Secret Counsel, God's Arrow of Judgment, Divine Retribution, Righteous Trust
 
-**Tags:** #chief-Musician-Psalm-David-Hear-voice-GOD-prayer-preserve-life-fear-enemy-Hide-secret-counsel-wicked-insurrection-workers-iniquity-whet-tongue-sword-bend-bows-shoot-arrows-bitter-words-shoot-secret-perfect-suddenly-shoot-fear-encourage-evil-matter-commune-laying-snares-privily-see-search-iniquities-accomplish-diligent-search-inward-thought-heart-deep-GOD-shoot-arrow-suddenly-wounded-tongue-fall-see-flee-men-fear-declare-work-GOD-wisely-consider-doing-righteous-glad-LORD-trust-upright-heart-glory
+**Tags:** #wicked #god #divine-retribution #righteous-trust
 
 ---
 

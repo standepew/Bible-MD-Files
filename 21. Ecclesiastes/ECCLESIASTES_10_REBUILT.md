@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Wisdom and Folly, Authority and Leadership, Diligence and Sloth, Speech and Silence
 
-**Tags:** #Dead-flies-cause-ointment-apothecary-send-stinking-savour-little-folly-reputation-wisdom-honour-wise-man-heart-right-hand-fool-heart-left-fool-walketh-way-wisdom-faileth-saith-everyone-fool-spirit-ruler-rise-against-leave-place-yielding-pacifieth-great-offences-evil-seen-sun-error-proceedeth-ruler-Folly-set-great-dignity-rich-sit-low-place-seen-servants-horses-princes-walking-servants-earth-diggeth-pit-fall-breaketh-hedge-serpent-bite-removeth-stones-hurt-cleaveth-wood-endangered-iron-blunt-whet-edge-put-strength-wisdom-profitable-direct-serpent-bite-without-enchantment-babbler-better-words-wise-man-mouth-gracious-lips-fool-swallow-beginning-words-mouth-foolishness-end-talk-mischievous-madness-fool-full-words-man-tell-thing-labour-foolish-wearieth-knoweth-city-Woe-land-king-child-princes-eat-morning-Blessed-land-king-son-nobles-princes-eat-season-strength-drunkenness-slothfulness-building-decayeth-idleness-hands-house-droppeth-feast-made-laughter-wine-merry-money-answereth-Curse-king-thought-curse-rich-bedchamber-bird-air-carry-voice-wings-tell-matter
+**Tags:** #wisdom-and-folly #authority-and-leadership #diligence-and-sloth #speech-and-silence
 
 ---
 

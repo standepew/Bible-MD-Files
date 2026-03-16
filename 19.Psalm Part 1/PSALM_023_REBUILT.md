@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ as Shepherd, Divine Provision, Spiritual Guidance, Eternal Security
 
-**Tags:** #Psalm-David-LORD-shepherd-want-green-pastures-still-waters-restore-soul-paths-righteousness-name-sake-walk-valley-shadow-death-fear-evil-rod-staff-comfort-prepare-table-enemies-anoint-head-oil-cup-runneth #goodness-mercy-follow-days-life-dwell-house-LORD-forever
+**Tags:** #christ-as-shepherd #divine-provision #spiritual-guidance #eternal-security
 
 ---
 

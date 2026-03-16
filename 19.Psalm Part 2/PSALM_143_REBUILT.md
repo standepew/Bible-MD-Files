@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Faithful Answer, Righteous Judgment, Spiritual Thirst, Divine Guidance
 
-**Tags:** #Psalm-David-Hear-prayer-LORD-give-ear-supplications-faithfulness-answer-righteousness-enter-judgment-servant-sight-justified-living-enemy-persecuted-soul-smitten-life-ground-dwell-darkness-long-dead-spirit-overwhelmed-within-heart-desolate-remember-days-old-meditate-works-muse-work-hands-stretch-hands-soul-thirsteth-thee-thirsty-land-Hear-speedily-LORD-spirit-faileth-hide-face-like-go-pit-cause-hear-lovingkindness-morning-trust-cause-know-way-walk-lift-soul-Deliver-LORD-enemies-flee-hide-Teach-will-God-spirit-good-lead-land-uprightness-Quicken-LORD-name-sake-righteousness-sake-bring-soul-trouble-mercy-cut-enemies-destroy-afflict-soul-servant
+**Tags:** #faithful-answer #righteous-judgment #spiritual-thirst #divine-guidance
 
 ---
 

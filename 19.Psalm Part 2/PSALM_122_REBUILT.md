@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Jerusalem's Joy, House of the LORD, City of Peace, Unity of Worship
 
-**Tags:** #Song-degrees-David-glad-said-house-LORD-feet-stand-gates-Jerusalem-Jerusalem-builded-city-compact-tribes-tribes-LORD-testimony-Israel-give-thanks-name-LORD-thrones-judgment-thrones-house-David-Pray-peace-Jerusalem-prosper-love-Peace-walls-prosperity-palaces-brethren-companions-sake-Peace-house-LORD-GOD-seek-good
+**Tags:** #jerusalem #house-of-the-lord #city-of-peace #unity-of-worship
 
 ---
 

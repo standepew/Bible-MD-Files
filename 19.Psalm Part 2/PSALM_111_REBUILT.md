@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Divine Works, God's Righteousness, Covenant Faithfulness, Wisdom Foundation
 
-**Tags:** #Praise-LORD-praise-LORD-whole-heart-assembly-upright-congregation-works-LORD-great-sought-pleasure-work-honourable-glorious-righteousness-endureth-made-wonderful-works-remembered-LORD-gracious-full-compassion-given-meat-fear-mindful-covenant-shewed-people-power-works-give-heritage-heathen-works-hands-verity-judgment-commandments-sure-stand-fast-ever-done-truth-uprightness-sent-redemption-people-commanded-covenant-holy-reverend-name-fear-LORD-beginning-wisdom-good-understanding-commandments-praise-endureth
+**Tags:** #divine-works #god #covenant-faithfulness #wisdom-foundation
 
 ---
 

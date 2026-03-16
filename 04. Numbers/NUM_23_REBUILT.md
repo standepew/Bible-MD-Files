@@ -2,24 +2,24 @@
 
 ---
 
-## 1. CHAPTER METADATA
+## CHAPTER METADATA
 
 **Book:** Numbers
 **Chapter:** 23
 **Testament:** Old Testament
 **Key Themes:** Two oracles forced out of Balaam across two locations — each attempt to curse produces blessing, Oracle 1: "How shall I curse, whom God hath not cursed?" — Israel dwells alone, uncountable, the death of the righteous coveted, Oracle 2: "God is not a man that He should lie" — the immutability of divine blessing declared; no enchantment against Jacob; "What hath God wrought!", Balak's mounting frustration: each relocation produces a new blessing from the man hired to curse, Balaam's powerlessness: "Must I not take heed to speak that which the LORD hath put in my mouth?"
 
-**Tags:** #seven-altars #seven-oxen-seven-rams #God-puts-word-in-Balaam's-mouth #how-shall-I-curse-whom-God-hath-not-cursed #people-shall-dwell-alone #not-reckoned-among-nations #who-can-count-the-dust-of-Jacob #let-me-die-the-death-of-the-righteous #Balak-furious #field-of-Zophim #Pisgah #God-is-not-a-man #hath-he-said-shall-he-not-do-it #I-cannot-reverse-it #no-iniquity-beheld-in-Jacob #shout-of-a-king #no-enchantment-against-Jacob #what-hath-God-wrought #rise-as-a-great-lion #neither-curse-nor-bless #top-of-Peor
+**Tags:** #seven-altars #seven-oxen-seven-rams #God-puts-word-in-Balaam #people-shall-dwell-alone #not-reckoned-among-nations #Balak-furious #field-of-Zophim #Pisgah #God-is-not-a-man #I-cannot-reverse-it #no-iniquity-beheld-in-Jacob #shout-of-a-king #no-enchantment-against-Jacob #what-hath-God-wrought #rise-as-a-great-lion #neither-curse-nor-bless #top-of-Peor #two-oracles-forced-out-of-balaam #oracle-1 #oracle-2 #no-enchantment-against-jacob #what-hath-god-wrought #balak #balaam
 
 ---
 
-## 2. CHAPTER SUMMARY
+## CHAPTER SUMMARY
 
 Balak brings Balaam to the high places of Baal for a view of Israel's outermost camp. Seven altars; seven bulls and rams — one per altar. God meets Balaam and puts a word in his mouth. Oracle 1: How can I curse whom God has not cursed? From the rocks I see a people dwelling alone, not counted among nations. Who can count the dust of Jacob? Let me die the death of the righteous, and let my end be like his! Balak erupts: I brought you to curse my enemies and you blessed them! Balaam: must I not speak only what the LORD puts in my mouth? Balak tries a new vantage point — Pisgah, from which they can see only part of Israel, hoping a partial view will produce a partial curse. Same seven-altar ritual. God meets Balaam and gives him a second word. Oracle 2: Rise up, Balak, and hear. God is not a man that He should lie or repent. He commanded me to bless; He has blessed; I cannot reverse it. He has not seen iniquity in Jacob; the LORD is with him; the shout of a king among them; unicorn strength out of Egypt; no enchantment against Jacob, no divination against Israel — according to this time it shall be said: What hath God wrought! Israel rises as a great lion — it does not lie down until it has eaten the prey. Balak: then neither curse nor bless at all. Balaam: did I not tell you — I speak only what the LORD says? Balak tries yet again — the top of Peor.
 
 ---
 
-## 3. CROSS-REFERENCES (Scripture Interpreting Scripture)
+## CROSS-REFERENCES (Scripture Interpreting Scripture) (Scripture Interpreting Scripture)
 
 ### "God Is Not a Man That He Should Lie"
 
@@ -43,7 +43,7 @@ Balak brings Balaam to the high places of Baal for a view of Israel's outermost 
 
 ---
 
-## 4. KEYWORD INDEX
+## KEYWORD INDEX
 
 **For Current Events Matching:**
 - **Attempts to curse God's people failing** → Numbers 23:8 — Genesis 12:3; Isaiah 54:17; Romans 8:31
@@ -54,14 +54,14 @@ Balak brings Balaam to the high places of Baal for a view of Israel's outermost 
 
 ---
 
-## 5. KEY TERMS WITH CONTEXTUAL DEFINITIONS
+## KEY TERMS WITH CONTEXTUAL DEFINITIONS WITH CONTEXTUAL DEFINITIONS
 
 ### DEATH OF THE RIGHTEOUS (Numbers 23:10)
 - *Definition here: The righteous (yashar — upright, straight) die differently — not in disgrace, not cut off from God's presence, not in judgment. Balaam observes this from a distance and covets the end without the life. Proverbs 14:32 — "the righteous hath hope in his death." The end of the righteous is not the cessation of existence but the gathering to God — as Aaron was "gathered to his people" (Numbers 20:24). Balaam wants the destination without the journey.*
 
 ---
 
-## 6. THE ACTUAL VERSES — NUMBERS 23 (KJV)
+## THE ACTUAL VERSES (KJV) — NUMBERS 23 (KJV)
 
 **1** And Balaam said unto Balak, Build me here seven altars, and prepare me here seven oxen and seven rams.
 **2** And Balak did as Balaam had spoken; and Balak and Balaam offered on every altar a bullock and a ram.
@@ -96,7 +96,7 @@ Balak brings Balaam to the high places of Baal for a view of Israel's outermost 
 
 ---
 
-## 7. PROPHETIC/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS/TYPOLOGICAL CONNECTIONS
 
 ### The Shout of a King Among Them
 
@@ -108,7 +108,7 @@ Balak brings Balaam to the high places of Baal for a view of Israel's outermost 
 
 ---
 
-## 8. COMMONLY MISQUOTED PASSAGES
+## COMMONLY MISQUOTED PASSAGES PASSAGES
 
 ### Numbers 23:9 — "The People Shall Dwell Alone" Used for Israeli Political Isolationism
 
@@ -118,7 +118,7 @@ Balak brings Balaam to the high places of Baal for a view of Israel's outermost 
 
 ---
 
-## 9. SYMBOLIC THREADS
+## SYMBOLIC THREADS
 
 ### The Three Vantage Points — Changing the View Cannot Change the Blessing
 

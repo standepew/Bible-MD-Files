@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** The 144,000 Sealed, The Great Multitude, Worship Around the Throne, The Lamb's Shepherd Care
 
-**Tags:** #four-angels-standing-four-corners-earth-holding-four-winds-earth-wind-blow-earth-sea-tree-angel-ascending-east-seal-living-God-cried-loud-voice-four-angels-given-hurt-earth-sea-Hurt-earth-sea-trees-sealed-servants-God-foreheads-heard-number-sealed-sealed-hundred-forty-four-thousand-tribes-children-Israel-tribe-Juda-twelve-thousand-tribe-Reuben-twelve-thousand-tribe-Gad-twelve-thousand-tribe-Aser-twelve-thousand-tribe-Nepthalim-twelve-thousand-tribe-Manasses-twelve-thousand-tribe-Simeon-twelve-thousand-tribe-Levi-twelve-thousand-tribe-Issachar-twelve-thousand-tribe-Zabulon-twelve-thousand-tribe-Joseph-twelve-thousand-tribe-Benjamin-twelve-thousand-beheld-great-multitude-number-nations-kindreds-people-tongues-stood-throne-Lamb-clothed-white-robes-palms-hands-cried-loud-voice-Salvation-God-throne-Lamb-angels-round-throne-elders-four-beasts-fell-throne-faces-worshipped-God-Amen-Blessing-glory-wisdom-thanksgiving-honour-power-might-God-elder-answered-arrayed-white-robes-whence-came-Sir-knowest-came-great-tribulation-washed-robes-white-blood-Lamb-throne-God-serve-day-night-temple-sitteth-throne-dwell-hunger-no-more-thirst-no-more-sun-light-heat-Lamb-midst-throne-feed-lead-living-fountains-waters-God-wipe-tears-eyes
+**Tags:** #the-144000-sealed #the-great-multitude #worship-around-the-throne #the-lamb
 
 ---
 
@@ -177,7 +177,7 @@ Four, angels, standing, four, corners, earth, holding, four, winds, earth, wind,
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The 144,000 Sealed as Type of Christ's Protected People
 - **Physical protection:** Four winds (Revelation 7:2)

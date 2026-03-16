@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Salvation, Divine Feast, Death's Destruction, Christ's Victory
 
-**Tags:** #LORD-God-exalt-praise-name-wonderful-things-counsels-faithfulness-truth-city-heap-defenced-city-ruin-palace-strangers-city-built-strong-people-glorify-city-terrible-nations-fear-strength-poor-strength-needy-distress-refuge-storm-shadow-heat-blast-terrible-storm-wall-bring-noise-strangers-heat-dry-place-heat-shadow-cloud-branch-terrible-brought-low-mountain-LORD-hosts-make-people-feast-fat-things-feast-wines-lees-fat-things-full-marrow-wines-lees-refined-destroy-mountain-face-covering-cast-people-vail-spread-nations-swallow-death-victory-LORD-GOD-wipe-tears-faces-rebuke-people-take-earth-LORD-spoken-day-Lo-God-waited-save-LORD-waited-glad-rejoice-salvation-mountain-hand-LORD-rest-Moab-trodden-straw-dunghill-spread-hands-midst-swimmeth-spread-hands-swim-bring-pride-spoils-hands-fortress-high-fort-walls-bring-low-ground-dust
+**Tags:** #christ #divine-feast #death
 
 ---
 

@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Judgment, Egyptian Pride, Divine Humiliation, Christ's Restoration
 
-**Tags:** #tenth-year-tenth-month-twelfth-day-month-word-LORD-son-man-face-Pharaoh-king-Egypt-prophesy-Egypt-Lord-GOD-Pharaoh-king-Egypt-great-dragon-midst-rivers-river-mine-hooks-jaws-fish-rivers-stick-scales-bring-midst-rivers-fish-rivers-stick-scales-thrown-wilderness-fish-rivers-fall-open-fields-brought-gather-given-meat-beasts-field-fowls-heaven-inhabitants-Egypt-know-LORD-staff-reed-house-Israel-took-hold-hand-break-rend-shoulder-leaned-brakest-loins-stand-Lord-GOD-sword-cut-man-beast-land-Egypt-desolate-waste-know-LORD-river-mine-made-against-rivers-land-Egypt-utterly-waste-desolate-tower-Syene-border-Ethiopia-foot-man-pass-foot-beast-pass-inhabited-forty-years-land-Egypt-desolate-midst-countries-desolate-cities-cities-laid-waste-desolate-forty-years-scatter-Egyptians-nations-disperse-countries-Lord-GOD-end-forty-years-gather-Egyptians-people-scattered-bring-captivity-Egypt-return-land-Pathros-land-habitation-base-kingdom-basest-kingdoms-exalt-nations-diminish-rule-nations-confidence-house-Israel-bringeth-iniquity-remembrance-look-know-Lord-GOD-seven-twentieth-year-first-month-first-day-month-word-LORD-son-man-Nebuchadrezzar-king-Babylon-army-great-service-Tyrus-head-bald-shoulder-peeled-wages-army-Tyrus-service-Lord-GOD-land-Egypt-Nebuchadrezzar-king-Babylon-multitude-spoil-prey-wages-army-land-Egypt-labour-served-wrought-Lord-GOD-day-cause-horn-house-Israel-bud-opening-mouth-midst-know-Lord-GOD
+**Tags:** #christ #egyptian-pride #divine-humiliation
 
 ---
 

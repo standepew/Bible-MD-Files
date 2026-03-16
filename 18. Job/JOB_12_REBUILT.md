@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Job's Response, Divine Sovereignty, Creation's Testimony, Human Wisdom
 
-**Tags:** #Job-answered-people-wisdom-die #understanding-inferior-neighbour-mocked-GOD-answered-upright-scorn #slip-feet-lamp-despised-ease #robbers-prosper-provoke-GOD-secure-hand-abundantly #beasts-teach-fowls-teach-earth-teach-fishes-declare #LORD-hand-wrought-soul-living-breath-mankind #ear-words-mouth-meat #ancient-wisdom-length-days-understanding #wisdom-strength-counsel-understanding #break-down-built-shut-man-opening #withhold-waters-dry-send-overturn-earth #strength-wisdom-deceived-deceiver #counsellors-spoiled-judges-fools #looseth-bond-kings-girdeth-girdle #princes-spoiled-mighty-overthrown #speech-trusty-understanding-aged #contempt-princes-weaken-mighty #discover-deep-darkness-light-shadow-death #increase-nations-destroy-enlarge-straiten #heart-chief-wander-wilderness-way #gropedark-light-stagger-drunken
+**Tags:** #Job-answered-people-wisdom-die #slip-feet-lamp-despised-ease #ear-words-mouth-meat #ancient-wisdom-length-days-understanding #wisdom-strength-counsel-understanding #strength-wisdom-deceived-deceiver #counsellors-spoiled-judges-fools #looseth-bond-kings-girdeth-girdle #princes-spoiled-mighty-overthrown #speech-trusty-understanding-aged #contempt-princes-weaken-mighty #increase-nations-destroy-enlarge-straiten #heart-chief-wander-wilderness-way #gropedark-light-stagger-drunken #job #divine-sovereignty #creation #human-wisdom
 
 ---
 

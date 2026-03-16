@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Prayer from Deep, Divine Deliverance, Salvation from Death, Resurrection Typology
 
-**Tags:** #Jonah-prayed-LORD-God-fish-belly-cried-reason-affliction-LORD-heard-belly-hell-cried-heardest-voice-cast-deep-midst-seas-floods-compassed-billows-waves-passed-said-cast-sight-look-holy-temple-waters-compassed-soul-depth-closed-weeds-wrapped-head-bottoms-mountains-earth-bars-brought-life-corruption-LORD-God-soul-fainted-remembered-LORD-prayer-holy-temple-observe-lying-vanities-forsake-mercy-sacrifice-voice-thanksgiving-pay-vowed-Salvation-LORD-LORD-spake-fish-vomited-Jonah-dry-land
+**Tags:** #christ #divine-deliverance #salvation-from-death #resurrection-typology
 
 ---
 

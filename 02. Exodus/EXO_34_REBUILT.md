@@ -158,3 +158,71 @@ The believer's glory is: received from Christ, increasing ("from glory to glory"
 ---
 
 **End of Exodus Chapter 34**
+
+---
+
+## COMMONLY MISQUOTED PASSAGES
+
+### Exodus 34:7 — "Visiting the Iniquity of the Fathers upon the Children" — Misread as Inherited Guilt
+
+**Verse 7** — "Keeping mercy for thousands, forgiving iniquity and transgression and sin, and that will by no means clear the guilty; visiting the iniquity of the fathers upon the children, and upon the children's children, unto the third and to the fourth generation."
+
+**How it is misused:** This verse is read to teach that children are held personally guilty and punished by God for sins they did not commit — that God's justice punishes innocent descendants for their ancestors' choices. It is also misused to argue that generational curses operate automatically regardless of repentance.
+
+**What the text actually says:**
+- **Deuteronomy 24:16** — "The fathers shall not be put to death for the children, neither shall the children be put to death for the fathers: every man shall be put to death for his own sin" — judicial human law explicitly forbids punishing children for fathers' sins
+- **Ezekiel 18:20** — "The soul that sinneth, it shall die. The son shall not bear the iniquity of the father, neither shall the father bear the iniquity of the son: the righteousness of the righteous shall be upon him, and the wickedness of the wicked shall be upon him"
+- **Ezekiel 18:21-22** — "But if the wicked will turn from all his sins that he hath committed... he shall surely live, he shall not die" — repentance breaks the pattern
+- **Exodus 20:5-6** — The parallel text: "visiting the iniquity of the fathers upon the children unto the third and fourth generation of them that hate me; And shewing mercy unto thousands of them that love me" — the generational consequence attaches to those who continue in the same hatred of God, not to innocent children
+
+*Correction:* The "visiting" of iniquity on subsequent generations describes the natural and spiritual consequence of sin patterns passed through families — not the judicial imputation of guilt to innocent children. Deuteronomy 24:16 and Ezekiel 18:20 make individual accountability explicit. Exodus 20:5-6 clarifies that the generational consequence applies to those who "hate me" — children who continue their fathers' rejection of God experience the consequences of that ongoing spiritual trajectory. Ezekiel 18:21-22 shows repentance breaks the chain entirely. This is not divine injustice but the reality that sin's consequences ripple through generations in families who continue in sin.
+
+---
+
+### Exodus 34:6 — "The LORD God, Merciful and Gracious" — Used to Eliminate Divine Justice
+
+**Verse 6** — "And the LORD passed by before him, and proclaimed, The LORD, The LORD God, merciful and gracious, longsuffering, and abundant in goodness and truth"
+
+**How it is misused:** Verse 6 is isolated from verse 7 to construct a view of God that is only merciful, never judging. "God is love" is read through this half of the proclamation alone, erasing what immediately follows in verse 7: "and that will by no means clear the guilty."
+
+**What the text actually says:**
+- **Exodus 34:7** — Directly continues: "and that will by no means clear the guilty; visiting the iniquity of the fathers upon the children" — the mercy and the justice are in the same sentence, proclaimed together as one self-revelation
+- **Nahum 1:3** — Quotes the Exodus 34 formula: "The LORD is slow to anger, and great in power, and will not at all acquit the wicked" — Nahum applies the same formula but emphasizes the justice side against Nineveh
+- **Romans 3:25-26** — "To declare, I say, at this time his righteousness: that he might be just, and the justifier of him which believeth in Jesus" — the cross is where God simultaneously expresses both Exodus 34:6 (mercy) and Exodus 34:7 (not clearing the guilty); He is just AND the justifier
+- **Jonah 4:2** — Jonah knew God would forgive Nineveh because of Exodus 34:6 — but Jonah ignored that the same proclamation includes "will by no means clear the guilty"
+
+*Correction:* Exodus 34:6-7 is one proclamation, not two. The mercy and the justice are inseparable in God's self-revelation. Every Old Testament prophet who quotes this passage (Nahum, Jonah, Joel, Nehemiah, the Psalms) takes the whole declaration. Romans 3:25-26 shows the cross as the place where both sides of Exodus 34:6-7 are simultaneously satisfied: God's mercy is fully expressed (forgiveness) and His justice is fully satisfied (the guilty is not cleared because the guilt is absorbed by the Son). Extracting only verse 6 produces a sentimental god; reading both produces the God of the gospel.
+
+---
+
+## SYMBOLIC THREADS
+
+**The Shining Face / Reflected Glory:**
+- First appears: Exodus 34:29 — "Moses wist not that the skin of his face shone while he talked with him"
+- Exodus 34:33-35 — Moses puts a veil on his face when speaking to Israel; removes it when before the LORD
+- 2 Corinthians 3:7 — "the ministration of death... was glorious, so that the children of Israel could not stedfastly behold the face of Moses for the glory of his countenance; which glory was to be done away"
+- 2 Corinthians 3:13 — "Moses... put a vail over his face, that the children of Israel could not stedfastly look to the end of that which is abolished"
+- 2 Corinthians 3:18 — "But we all, with open face beholding as in a glass the glory of the Lord, are changed into the same image from glory to glory, even as by the Spirit of the Lord"
+- Matthew 17:2 — At the Transfiguration: "his face did shine as the sun, and his raiment was white as the light"
+- Revelation 1:16 — "and his countenance was as the sun shineth in his strength"
+- *Pattern:* Moses' shining face is the first instance of reflected divine glory on a human face — and 2 Corinthians 3 is the Spirit's definitive interpretation. Moses' glory was: reflected (not original), fading (being abolished — katargeo), and veiled (concealed). Christ's glory at the Transfiguration is: intrinsic (His own), permanent (not fading), and unveiled. The believer's glory in 2 Corinthians 3:18 is: received from Christ (not self-produced), increasing ("from glory to glory"), and unveiled (no veil between the believer and Christ). The trajectory runs: reflected and fading (Moses) → intrinsic and permanent (Christ) → received and increasing (the church).
+
+---
+
+**The Veil:**
+- First appears: Exodus 34:33 — "And till Moses had done speaking with them, he put a vail on his face"
+- Exodus 34:34-35 — Moses removes the veil before God, replaces it before the people
+- 2 Corinthians 3:14-16 — "But even unto this day, when Moses is read, the vail is upon their heart. Nevertheless when it shall turn to the Lord, the vail shall be taken away"
+- Isaiah 25:7 — "And he will destroy in this mountain the face of the covering cast over all people, and the vail that is spread over all nations"
+- Matthew 27:51 — "And, behold, the veil of the temple was rent in twain from the top to the bottom" — the physical veil torn at the crucifixion
+- Hebrews 10:20 — "By a new and living way, which he hath consecrated for us, through the veil, that is to say, his flesh"
+- *Pattern:* The veil in Scripture consistently represents the barrier between the fallen human and the full presence of God. Moses' veil concealed the fading glory of the old covenant (2 Corinthians 3:13). The temple veil kept all but the high priest from the Most Holy Place. The veil over the heart of Israel prevents seeing Christ in the reading of Moses (2 Corinthians 3:15). The pattern of veil-removal tracks redemption: the temple veil torn at the cross (Matthew 27:51), the heart-veil removed when one turns to the Lord (2 Corinthians 3:16), and Isaiah 25:7 promising the veil's complete removal from all nations. The veil's history in Scripture is the history of access to God — always being removed further and further until Revelation 22:4: "they shall see his face."
+
+---
+
+**The Second Tablets — Covenant After Failure:**
+- First appears: Exodus 34:1 — "Hew thee two tables of stone like unto the first: and I will write upon these tables the words that were in the first tables, which thou brakest"
+- Hosea 2:14-16 — "I will allure her, and bring her into the wilderness, and speak comfortably unto her... And she shall call me Ishi (my husband)" — God woos adulterous Israel back after her idolatry
+- Jeremiah 31:32-33 — "Not according to the covenant that I made with their fathers... which my covenant they brake... But this shall be the covenant that I will make with the house of Israel after those days, saith the LORD, I will put my law in their inward parts, and write it in their hearts"
+- Lamentations 3:22-23 — "It is of the LORD's mercies that we are not consumed... They are new every morning: great is thy faithfulness"
+- *Pattern:* The second tablets are the Bible's first explicit covenant-renewal-after-catastrophic-failure — and they establish the pattern that runs through all of Scripture: God does not abandon His covenant because His people break it. He renews it. Hosea 2, Jeremiah 31, and Ezekiel 36 all follow the same structure: Israel breaks the covenant; God renews it in a better form. The second tablets are better than the first in one detail: Moses provides the raw stone; God provides the writing. This is the pattern of grace that culminates in the New Covenant — the human brings the empty vessel; God fills it with His own word.

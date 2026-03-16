@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Divine Power and Precious Promises, Christian Virtues, Assurance of Salvation, Eyewitness Testimony of Christ, Authority of Scripture
 
-**Tags:** #Simon-Peter-servant-apostle-Jesus-Christ-obtained-precious-faith-righteousness-God-Saviour-Jesus-Christ-Grace-peace-multiplied-knowledge-God-Jesus-Lord-divine-power-life-godliness-knowledge-called-glory-virtue-exceeding-great-precious-promises-partakers-divine-nature-escaped-corruption-world-lust-diligence-faith-virtue-virtue-knowledge-knowledge-temperance-temperance-patience-patience-godliness-godliness-brotherly-kindness-brotherly-kindness-charity-barren-unfruitful-knowledge-Lord-Jesus-Christ-blind-afar-forgotten-purged-old-sins-diligence-calling-election-fall-entrance-ministered-abundantly-everlasting-kingdom-Lord-Saviour-Jesus-Christ-negligent-remembrance-established-present-truth-tabernacle-stir-remembrance-shortly-put-tabernacle-Lord-Jesus-Christ-shewed-decease-remembrance-followed-cunningly-devised-fables-power-coming-Lord-Jesus-Christ-eyewitnesses-majesty-received-God-Father-honour-glory-voice-excellent-glory-beloved-Son-pleased-voice-heaven-holy-mount-sure-word-prophecy-heed-light-shineth-dark-place-day-dawn-day-star-arise-hearts-knowing-prophecy-scripture-private-interpretation-prophecy-old-time-will-man-holy-men-God-spake-moved-Holy-Ghost
+**Tags:** #divine-power-and-precious-promises #christian-virtues #assurance-of-salvation #eyewitness-testimony-of-christ #authority-of-scripture
 
 ---
 
@@ -187,7 +187,7 @@ Simon, Peter, servant, apostle, Jesus, Christ, obtained, precious, faith, righte
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Divine Power and Precious Promises as Type of Christ's Divine Provision
 - **Physical provision:** Divine power (2 Peter 1:4)

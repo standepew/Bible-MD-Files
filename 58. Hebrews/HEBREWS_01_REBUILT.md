@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** God's Final Revelation in Christ, Christ's Superiority to Angels, Christ's Eternal Throne, Angels as Ministering Spirits
 
-**Tags:** #God-sundry-times-divers-manners-spake-time-past-fathers-prophets-last-days-spoken-Son-appointed-heir-worlds-brightness-glory-express-image-person-upholding-things-word-power-purged-sins-right-hand-Majesty-high-better-angels-inheritance-excellent-name-angels-time-Son-begotten-Father-Son-firstbegotten-world-angels-God-worship-angels-spirits-ministers-flame-fire-Son-throne-God-sceptre-righteousness-kingdom-loved-righteousness-hated-iniquity-God-anointed-gladness-fellows-Lord-beginning-foundation-earth-heavens-works-hands-perish-remainest-wax-old-garment-vesture-fold-changed-years-fail-angels-time-right-hand-enemies-footstool-ministering-spirits-sent-minister-heirs-salvation
+**Tags:** #god #christ #angels-as-ministering-spirits
 
 ---
 
@@ -159,7 +159,7 @@ God, sundry, times, divers, manners, spake, time, past, fathers, prophets, last,
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### God's Final Revelation in Christ as Type of Christ's Manifestation
 - **Physical manifestation:** Last days spoken (Hebrews 1:2)

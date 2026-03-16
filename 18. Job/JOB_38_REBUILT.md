@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** God's First Speech, Divine Creation, Human Limitation, Natural Order
 
-**Tags:** #LORD-answered-Job-whirlwind-darkeneth-counsel-words-knowledge-gird-loins-man-demand-answer #foundations-earth-measures-stretched-line-fastened-corner-stone-morning-stars-sang-sons-GOD-shouted-joy #shut-sea-doors-brake-womb-cloud-garment-thick-darkness-swaddlingband-decreed-place-bars-doors-proud-waves-stayed #commanded-morning-dayspring-place-ends-earth-wicked-shaken-clay-seal-garment-wicked-light-withholden-high-arm-broken #springs-sea-walked-depth-gates-death-shadow-death-breadth-earth-light-dwelleth-darkness-place-bound-paths-house-born-days-great #treasures-snow-hail-reserved-time-trouble-battle-war-way-light-parted-east-wind-watercourse-overflowing-lightning-thunder #rain-earth-man-wilderness-desolate-waste-ground-bud-tender-herb-spring-rain-father-begotten-drops-dew-womb-ice-hoary-frost-heaven-gendered #waters-stone-deep-frozen-bind-sweet-influences-Pleiades-loose-bands-Orion-Mazzaroth-season-Arcturus-sons #ordinances-heaven-dominion-earth-voice-clouds-abundance-waters-cover-lightnings-go-say-here-wisdom-inward-parts-understanding-heart #number-clouds-wisdom-stay-bottles-heaven-dust-hardness-clods-cleave-lion-prey-young-lions-dens-covert-wait #raven-food-young-ones-cry-GOD-wander-lack-meat
+**Tags:** #god #divine-creation #human-limitation #natural-order
 
 ---
 

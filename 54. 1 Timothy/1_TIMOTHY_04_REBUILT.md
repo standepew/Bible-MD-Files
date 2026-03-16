@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** The Spirit Speaks of Apostasy, False Teachings, Good Minister of Jesus Christ, Godliness is Profitable, Timothy's Example and Gift
 
-**Tags:** #Spirit-speaketh-expressly-latter-times-depart-faith-heeding-seducing-spirits-doctrines-devils-lies-hypocrisy-conscience-seared-hot-iron-forbidding-marry-commanding-abstain-meats-God-created-received-thanksgiving-believe-know-truth-creature-good-refused-received-thanksgiving-sanctified-word-God-prayer-brethren-remembrance-good-minister-Jesus-Christ-nourished-words-faith-good-doctrine-attained-refuse-profane-wives-fables-exercise-godliness-bodily-exercise-profiteth-little-godliness-profitable-things-promise-life-faithful-saying-acceptation-labour-suffer-reproach-trust-living-God-Saviour-men-specially-believe-command-teach-despise-youth-example-believers-word-conversation-charity-spirit-faith-purity-attendance-reading-exhortation-doctrine-neglect-gift-prophecy-laying-hands-presbytery-meditate-things-wholly-profiting-appear-heed-doctrine-continue-save-thyself-hear
+**Tags:** #the-spirit-speaks-of-apostasy #false-teachings #good-minister-of-jesus-christ #godliness-is-profitable #timothy
 
 ---
 
@@ -165,7 +165,7 @@ Spirit, speaketh, expressly, latter, times, depart, faith, heeding, seducing, sp
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Spirit Speaks of Apostasy as Type of Christ's Warning
 - **Physical warning:** Depart faith (1 Timothy 4:2)

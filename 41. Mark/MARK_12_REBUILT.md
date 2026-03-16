@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Parable of Wicked Husbandmen, Tribute to Caesar, Resurrection, Greatest Commandment, Christ as David's Lord
 
-**Tags:** #began-speak-parables-man-planted-vineyard-hedge-digged-winefat-built-tower-husbandmen-far-country-season-sent-husbandmen-servant-fruit-vineyard-caught-beat-sent-empty-sent-servant-cast-stones-wounded-head-shamefully-sent-servant-killed-others-beating-killing-one-son-wellbeloved-sent-reverence-son-husbandmen-among-heir-kill-inheritance-took-killed-cast-vineyard-lord-vineyard-destroy-husbandmen-vineyard-others-read-scripture-stone-builders-rejected-head-corner-Lord-doing-marvellous-eyes-seek-lay-hold-feared-people-spoken-parable-left-Pharisees-Herodians-catch-words-Master-true-carest-person-regard-teach-way-God-truth-tribute-Cæsar-knowing-hypocrisy-tempt-penny-image-superscription-Cæsar-answered-Render-Cæsar-Cæsar-God-marvelled-Sadducees-resurrection-Moses-brother-die-wife-children-brother-wife-seed-brother-seven-brethren-wife-dying-left-seed-second-took-wife-dying-left-seed-third-seven-wife-left-seed-last-woman-died-resurrection-wife-seven-wife-resurrection-answered-err-scriptures-power-God-rise-dead-marry-given-marriage-angels-heaven-dead-bush-God-spake-Abraham-Isaac-Jacob-God-dead-living-err-scribe-reasoning-perceiving-answered-first-commandment-answered-Hear-Israel-Lord-God-Lord-love-Lord-heart-soul-mind-strength-commandment-second-like-love-neighbour-none-greater-scribe-truth-God-love-heart-understanding-soul-strength-neighbour-burnt-offerings-sacrifices-discreetly-kingdom-God-man-question-Jesus-temple-teaching-scribes-Christ-Son-David-David-Holy-Ghost-Lord-Sit-hand-enemies-footstool-David-calleth-Lord-son-common-people-doctrine-scribes-long-clothing-salutations-marketplaces-chief-seats-synagogues-uppermost-feasts-devour-widows-houses-pretence-prayers-damnation-Jesus-treasury-beheld-money-treasury-rich-much-poor-widow-mites-farthing-disciples-Verily-poor-widow-cast-treasury-rich-abundance-want-cast-living
+**Tags:** #parable-of-wicked-husbandmen #tribute-to-caesar #resurrection #greatest-commandment #christ-as-david
 
 ---
 
@@ -307,7 +307,7 @@ Began, speak, parables, man, planted, vineyard, hedge, digged, winefat, built, t
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Parable of Wicked Husbandmen as Type of Christ's Rejection
 - **Physical parable:** Vineyard planted (Mark 12:3)

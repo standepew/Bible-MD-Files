@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** The Lord's Prayer, Persistence in Prayer, Jesus and Beelzebub, The Sign of Jonah, The Light of the Body, Woes to the Pharisees and Lawyers
 
-**Tags:** #praying-place-ceased-disciple-Lord-teach-pray-John-taught-disciples-pray-Father-heaven-Hallowed-name-kingdom-will-heaven-earth-daily-bread-forgive-sins-indebted-temptation-evil-friend-midnight-friend-loaves-journey-friend-set-shut-children-bed-rise-trouble-importunity-rise-needeth-ask-given-seek-find-knock-opened-asketh-receiveth-seeketh-findeth-knocketh-opened-son-bread-father-stone-fish-serpent-egg-scorpion-evil-good-gifts-heavenly-Father-Holy-Spirit-casting-devil-dumb-devil-dumb-spake-people-wondered-casteth-devils-Beelzebub-chief-devils-tempting-sign-heaven-knowing-thoughts-kingdom-divided-desolation-house-divided-falleth-Satan-divided-kingdom-stand-Beelzebub-cast-devils-sons-cast-judges-finger-God-cast-devils-kingdom-God-strong-man-armed-palace-goods-peace-stronger-overcome-armour-trusted-divideth-spoils-gathereth-scattereth-unclean-spirit-dry-places-rest-return-house-garnished-seven-spirits-wicked-enter-dwell-state-worse-woman-company-voice-Blessed-womb-bare-paps-sucked-blessed-hear-word-God-keep-people-gathered-evil-generation-sign-Jonas-prophet-Jonas-sign-Ninevites-Son-man-generation-queen-south-judgment-generation-condemn-utmost-earth-wisdom-Solomon-greater-Solomon-men-Nineve-judgment-generation-condemn-repented-preaching-Jonas-greater-Jonas-lighted-candle-secret-bushel-candlestick-come-light-light-body-eye-single-body-light-evil-darkness-take-heed-light-darkness-body-light-candle-light-Pharisee-dine-marvelled-washed-dinner-Lord-Pharisees-clean-outside-cup-platter-inward-ravening-wickedness-fools-within-without-alms-clean-woe-Pharisees-tithe-mint-rue-herbs-judgment-love-God-uppermost-seats-synagogues-greetings-markets-woe-scribes-Pharisees-hypocrites-graves-appear-walk-aware-lawyers-Master-reproachest-woe-lawyers-lade-burdens-grievous-fingers-build-sepulchres-prophets-fathers-killed-witness-allow-deeds-fathers-killed-sepulchres-wisdom-God-prophets-apostles-slay-persecute-blood-prophets-shed-foundation-world-required-generation-blood-Abel-blood-Zacharias-perished-altar-temple-required-generation-woe-lawyers-key-knowledge-entered-hindered-scribes-Pharisees-urge-provoke-laying-wait-catch-mouth-accuse
+**Tags:** #the-lord #persistence-in-prayer #jesus-and-beelzebub #the-sign-of-jonah #the-light-of-the-body #woes-to-the-pharisees-and-lawyers
 
 ---
 
@@ -387,7 +387,7 @@ Praying, place, ceased, disciple, Lord, teach, pray, John, taught, disciples, pr
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Lord's Prayer as Type of Christ's Intercession
 - **Physical prayer:** Father heaven (Luke 11:4)

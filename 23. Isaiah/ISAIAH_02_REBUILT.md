@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Kingdom, Peace on Earth, Divine Judgment, Idol Destruction
 
-**Tags:** #word-Isaiah-son-Amoz-saw-concerning-Judah-Jerusalem-come-pass-last-days-mountain-LORD-house-established-top-mountains-exalted-hills-nations-flow-people-go-saying-Come-go-mountain-LORD-house-God-Jacob-teach-ways-walk-paths-Zion-go-forth-law-word-LORD-Jerusalem-judge-nations-rebuke-people-beat-swords-plowshares-spears-pruninghooks-nation-lift-sword-nation-learn-war-house-Jacob-walk-light-LORD-forsaken-people-house-Jacob-replenished-east-soothsayers-Philistines-please-children-strangers-land-full-silver-gold-end-treasures-land-full-horses-end-chariots-land-full-idols-worship-work-hands-fingers-made-mean-man-boweth-great-man-humbleth-forgive-Enter-rock-hide-dust-fear-LORD-glory-majesty-lofty-looks-man-humbled-haughtiness-men-bowed-LORD-exalted-day-LORD-hosts-proud-lofty-lifted-brought-low-cedars-Lebanon-high-lifted-oaks-Bashan-high-mountains-hills-lifted-high-tower-fenced-wall-ships-Tarshish-pleasant-pictures-loftiness-man-bowed-haughtiness-men-LORD-exalted-day-idols-utterly-abolish-go-holes-rocks-caves-earth-fear-LORD-glory-majesty-ariseth-shake-terribly-earth-day-man-cast-idols-silver-idols-gold-worship-moles-bats-go-clefts-rocks-tops-ragged-rocks-fear-LORD-glory-majesty-ariseth-shake-terribly-earth-Cease-man-breath-nostrils-accounted
+**Tags:** #christ #peace-on-earth #divine-judgment #idol-destruction
 
 ---
 

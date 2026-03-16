@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** False Teachers and Their Destruction, Examples of Divine Judgment, Characteristics of False Teachers, The Way of Balaam, The Dog and Sow Proverb
 
-**Tags:** #false-prophets-people-false-teachers-privily-damnable-heresies-denying-Lord-bought-swift-destruction-follow-pernicious-ways-reason-way-truth-evil-spoken-covetousness-feigned-words-merchandise-judgment-long-time-lingereth-damnation-slumbereth-God-spared-angels-sinned-cast-hell-chains-darkness-reserved-judgment-spared-old-world-saved-Noah-eighth-person-preacher-righteousness-flood-world-ungodly-turning-cities-Sodom-Gomorrha-ashes-condemned-overthrow-ensample-live-ungodly-delivered-just-Lot-vexed-filthy-conversation-wicked-righteous-man-dwelling-seeing-hearing-vexed-righteous-soul-day-day-unlawful-deeds-Lord-knoweth-deliver-godly-temptations-reserve-unjust-day-judgment-punished-walk-flesh-lust-uncleanness-despise-government-Presumptuous-selfwilled-afraid-speak-evil-dignities-angels-greater-power-might-railing-accusation-Lord-natural-brute-beasts-taken-destroyed-speak-evil-things-understand-utterly-perish-corruption-reward-unrighteousness-pleasure-riot-day-time-Spots-blemishes-sporting-deceivings-feast-eyes-full-adultery-cease-sin-beguiling-unstable-souls-heart-exercised-covetous-practices-cursed-children-forsaken-right-way-gone-astray-following-way-Balaam-son-Bosor-loved-wages-unrighteousness-rebuked-iniquity-dumb-ass-speaking-man-voice-forbad-madness-prophet-wells-water-clouds-tempest-mist-darkness-reserved-speak-great-swelling-words-vanity-allure-lusts-flesh-wantonness-clean-escaped-live-error-promise-liberty-servants-corruption-overcome-brought-bondage-escaped-pollutions-world-knowledge-Lord-Saviour-Jesus-Christ-entangled-overcome-latter-worse-beginning-better-known-way-righteousness-holy-commandment-delivered-true-proverb-dog-turned-vomit-sow-washed-wallowing-mire
+**Tags:** #false-teachers-and-their-destruction #examples-of-divine-judgment #characteristics-of-false-teachers #the-way-of-balaam #the-dog-and-sow-proverb
 
 ---
 
@@ -189,7 +189,7 @@ False, prophets, people, false, teachers, privily, damnable, heresies, denying, 
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### False Teachers and Their Destruction as Type of Christ's Victory Over Error
 - **Physical victory:** Swift destruction (2 Peter 2:2)

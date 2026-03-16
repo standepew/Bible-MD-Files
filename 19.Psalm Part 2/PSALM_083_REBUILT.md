@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Enemy Confederacy, Divine Vengeance, Historical Victory, God's Supremacy
 
-**Tags:** #Song-Psalm-Asaph-Keep-silence-GOD-hold-peace-still-GOD-loenemies-tumult-hate-lifted-head-taken-crafty-counsel-people-consulted-hidden-ones-said-cut-nation-name-Israel-remembrance-consulted-consent-confederate-tabernacles-Edom-Ishmaelites-Moab-Hagarenes-Gebal-Ammon-Amalek-Philistines-inhabitants-Tyre-Assur-joined-holpen-children-Lot-Selah-Midianites-Sisera-Jabin-brook-Kison-perished-Endor-dung-earth-nobles-Oreb-Zeeb-princes-Zebah-Zalmunna-take-houses-GOD-possession-GOD-wheel-stubble-wind-fire-burn-wood-flame-set-mountains-fire-persecute-tempest-make-afraid-storm-Fill-faces-shame-seek-name-LORD-confounded-troubled-forever-ashamed-perish-men-know-JEHOVAH-High-earth
+**Tags:** #enemy-confederacy #divine-vengeance #historical-victory #god
 
 ---
 

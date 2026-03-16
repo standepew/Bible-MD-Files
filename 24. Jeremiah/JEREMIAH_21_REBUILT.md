@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Choice, Divine War, Way of Life, Christ's Judgment
 
-**Tags:** #word-Jeremiah-LORD-king-Zedekiah-sent-Pashur-son-Melchiah-Zephaniah-son-Maaseiah-priest-Enquire-LORD-Nebuchadrezzar-king-Babylon-war-against-LORD-deal-wondrous-works-Jeremiah-Zedekiah-LORD-God-Israel-turn-weapons-war-hands-fight-king-Babylon-Chaldeans-besiege-walls-assemble-midst-city-fight-outstretched-hand-strong-arm-anger-fury-great-wrath-smite-inhabitants-city-man-beast-die-great-pestilence-afterward-LORD-deliver-Zedekiah-king-Judah-servants-people-left-city-pestilence-sword-famine-hand-Nebuchadrezzar-king-Babylon-hand-enemies-hand-seek-life-smite-edge-sword-spare-pity-mercy-people-LORD-set-way-life-way-death-abideth-city-die-sword-famine-pestilence-goeth-falleth-Chaldeans-besiege-live-life-prey-set-face-city-evil-good-hand-king-Babylon-burn-fire-touching-house-king-Judah-Hear-word-LORD-house-David-LORD-Execute-judgment-morning-deliver-spoiled-hand-oppressor-fury-fire-burn-quench-evil-doings-inhabitant-valley-rock-plain-LORD-come-habitations-punish-fruit-doings-LORD-kindle-fire-forest-devour-round
+**Tags:** #christ #divine-war #way-of-life
 
 ---
 

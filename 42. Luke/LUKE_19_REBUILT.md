@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Zacchaeus Climbs the Tree, Salvation Comes to His House, Parable of the Ten Pounds, The Triumphal Entry, Jesus Weeps Over Jerusalem, Cleansing the Temple
 
-**Tags:** #Jesus-entered-passed-Jericho-man-Zacchæus-chief-publicans-rich-sought-see-Jesus-press-stature-climbed-sycomore-tree-see-pass-Jesus-place-looked-saw-Zacchæus-make-haste-come-day-abide-house-made-haste-came-received-joyfully-murmured-guest-sinner-Zacchæus-stood-Lord-half-goods-poor-false-accusation-restore-fourfold-Jesus-salvation-house-son-Abraham-Son-man-seek-save-lost-parable-nigh-Jerusalem-kingdom-God-immediately-appear-nobleman-far-country-receive-kingdom-return-called-ten-servants-delivered-ten-pounds-Occupy-come-citizens-hated-message-reign-returned-kingdom-commanded-servants-called-money-gained-trading-first-Lord-pound-gained-ten-pounds-good-servant-faithful-authority-ten-cities-second-pound-gained-five-pounds-five-cities-pound-kept-napkin-feared-austere-man-take-layed-reaped-sown-mouth-judge-wicked-servant-knew-austere-taking-reaping-sowing-gavest-money-bank-coming-required-usury-stood-pound-given-hath-not-taken-away-enemies-reign-slay-ascended-Jerusalem-nigh-Bethphage-Bethany-mount-Olives-sent-disciples-village-entering-colt-tied-sat-loose-bring-ask-loose-Lord-need-sent-found-loosing-colt-owners-loose-Lord-need-brought-Jesus-garments-colt-set-Jesus-spread-clothes-way-nigh-descent-Olives-multitude-disciples-rejoiced-praise-God-mighty-works-Blessed-King-cometh-Lord-peace-heaven-glory-highest-Pharisees-multitude-Master-rebuke-disciples-answered-hold-peace-stones-cry-near-beheld-city-wept-known-things-belong-peace-hidden-eyes-days-enemies-cast-trench-compass-keep-laid-ground-children-within-stone-stone-visitation-temple-cast-sold-bought-house-prayer-den-thieves-taught-daily-temple-chief-priests-scribes-chief-people-sought-destroy-people-attentive-hear
+**Tags:** #zacchaeus-climbs-the-tree #salvation-comes-to-his-house #parable-of-the-ten-pounds #the-triumphal-entry #jesus-weeps-over-jerusalem #cleansing-the-temple
 
 ---
 
@@ -303,7 +303,7 @@ Jesus, entered, passed, Jericho, man, Zacchæus, chief, publicans, rich, sought,
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Zacchaeus Climbs the Tree as Type of Christ's Seeking
 - **Physical tree:** Sycomore tree (Luke 19:4)

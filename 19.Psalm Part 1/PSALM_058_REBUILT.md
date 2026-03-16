@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Wicked's Deception, Divine Judgment, Righteous Vengeance, God's Justice
 
-**Tags:** #chief-Musician-Al-taschith-Michtam-David-ye-indeed-speak-righteousness-congregation-judge-uprightly-sons-men-heart-work-wickedness-weigh-violence-hands-earth-wicked-estranged-womb-go-astray-born-speaking-lies-poison-poison-serpent-deaf-adder-stopper-ear-hearken-voice-charmers-charming-wisely-Break-teeth-GOD-mouth-break-great-teeth-young-lions-LORD-melt-waters-run-continually-bend-bow-shoot-arrows-cut-pieces-snailed-melt-pass-untimely-birth-woman-see-sun-pots-feel-thorns-whirlwind-living-wrath-righteous-rejoice-vengeance-wash-feet-blood-wicked-man-reward-righteous-GOD-judgeth-earth
+**Tags:** #wicked #divine-judgment #righteous-vengeance #god
 
 ---
 

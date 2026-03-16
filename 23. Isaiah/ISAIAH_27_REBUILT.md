@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Victory, Leviathan's Defeat, Israel's Restoration, Divine Protection
 
-**Tags:** #day-LORD-sore-great-strong-sword-punish-leviathan-piercing-serpent-leviathan-crooked-serpent-slay-dragon-sea-day-sing-vineyard-red-wine-LORD-keep-water-moment-hurt-keep-night-day-Fury-briers-thorns-battle-burn-set-hold-strength-make-peace-peace-make-peace-cause-Jacob-take-root-Israel-blossom-bud-fill-face-world-fruit-smitten-smote-slaughter-slaughter-measure-shoot-forth-debate-stay-rough-wind-day-east-wind-iniquity-Jacob-purged-fruit-take-sin-stones-altar-chalkstones-beaten-sunder-groves-images-stand-defenced-city-desolate-habitation-forsaken-wilderness-calf-feed-lie-consume-branches-boughs-withered-broken-women-fire-people-understanding-made-mercy-formed-favour-beat-off-channel-river-stream-Egypt-gathered-children-Israel-day-great-trumpet-blown-ready-perish-land-Assyria-outcasts-land-Egypt-worship-LORD-holy-mount-Jerusalem
+**Tags:** #christ #leviathan #israel #divine-protection
 
 ---
 

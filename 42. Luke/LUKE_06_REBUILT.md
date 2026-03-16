@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Lord of the Sabbath, Healing on the Sabbath, Choosing of the Twelve, Beatitudes and Woes, Love for Enemies, Wise and Foolish Builders
 
-**Tags:** #second-sabbath-corn-fields-disciples-plucked-ears-corn-eat-rubbing-hands-Pharisees-lawful-sabbath-Jesus-answering-David-hungred-house-God-shewbread-priests-Son-man-Lord-sabbath-sabbath-synagogue-taught-man-right-hand-withered-scribes-Pharisees-watched-heal-sabbath-accusation-knew-thoughts-man-withered-hand-Rise-midst-arose-Jesus-ask-thing-lawful-sabbath-good-evil-save-life-destroy-looking-round-man-Stretch-hand-restored-whole-madness-communed-Jesus-mountain-pray-night-prayer-God-disciples-twelve-apostles-Simon-Peter-Andrew-brother-James-John-Philip-Bartholomew-Matthew-Thomas-James-Alphæus-Simon-Zelotes-Judas-James-Judas-Iscariot-traitor-mountain-plain-disciples-multitude-Judæa-Jerusalem-sea-coast-Tyre-Sidon-hear-healed-diseases-vexed-unclean-spirits-healed-multitude-touch-virtue-healed-lifted-eyes-disciples-Blessed-poor-kingdom-God-hunger-filled-weep-laugh-hate-separate-company-reproach-cast-evil-Son-man-rejoice-leap-joy-reward-heaven-fathers-prophets-woe-rich-consolation-full-hunger-mourn-weep-speak-well-fathers-false-prophets-hear-enemies-good-hate-bless-curse-pray-despitefully-smite-cheek-cloke-forbid-coat-man-asketh-goods-likewise-do-likewise-love-thank-sinners-good-thank-sinners-lend-hope-receive-thank-sinners-lend-sinners-receive-enemies-good-lend-hoping-reward-children-Highest-kind-unthankful-evil-merciful-Father-merciful-Judge-judge-condemn-condemned-forgive-forgiven-given-measure-pressed-shaken-running-bosom-measure-mete-parable-blind-lead-blind-fall-ditch-disciple-master-perfect-master-beholdest-mote-brother-eye-perceivest-beam-eye-brother-mote-eye-beam-hypocrite-beam-eye-see-mote-brother-eye-good-tree-corrupt-fruit-corrupt-tree-good-fruit-tree-fruit-thorns-figs-bramble-grapes-good-man-treasure-heart-good-evil-man-treasure-heart-evil-abundance-heart-speak-Lord-Lord-sayings-cometh-heareth-doeth-house-digged-foundation-rock-flood-stream-beat-shake-founded-rock-heareth-doeth-foundation-house-earth-stream-beat-fell-ruin-house
+**Tags:** #lord-of-the-sabbath #healing-on-the-sabbath #choosing-of-the-twelve #beatitudes-and-woes #love-for-enemies #wise-and-foolish-builders
 
 ---
 
@@ -341,7 +341,7 @@ Second, sabbath, corn, fields, disciples, plucked, ears, corn, eat, rubbing, han
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Lord of the Sabbath as Type of Christ's Authority
 - **Physical sabbath:** Corn fields (Luke 6:4)

@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Taming the Tongue, Two Kinds of Wisdom, Earthly vs. Heavenly Wisdom, The Fruit of Righteousness
 
-**Tags:** #brethren-masters-knowing-receive-greater-condemnation-offend-word-perfect-man-able-bridle-body-bits-horses-mouths-obey-turn-whole-body-ships-great-driven-fierce-winds-turned-small-helm-whithersoever-governor-listeth-tongue-little-member-boasteth-great-things-fire-kindleth-tongue-fire-world-iniquity-tongue-members-defileth-body-set-fire-course-nature-set-fire-hell-kind-beasts-birds-serpents-sea-tamed-mankind-tongue-tame-unruly-evil-deadly-poison-therewith-bless-God-Father-therewith-curse-men-similitude-God-mouth-proceedeth-blessing-cursing-brethren-fountain-place-sweet-water-bitter-fig-tree-brethren-bear-olive-berries-vine-figs-fountain-yield-salt-water-fresh-wise-man-endued-knowledge-shew-conversation-works-meekness-wisdom-bitter-envying-strife-hearts-glory-lie-truth-wisdom-descend-above-earthly-sensual-devilish-envying-strife-confusion-evil-work-wisdom-above-pure-peaceable-gentle-intreated-mercy-good-fruits-without-partiality-without-hypocrisy-fruit-righteousness-sown-peace-make-peace
+**Tags:** #taming-the-tongue #two-kinds-of-wisdom #earthly-vs-heavenly-wisdom #the-fruit-of-righteousness
 
 ---
 
@@ -179,7 +179,7 @@ Brethren, masters, knowing, receive, greater, condemnation, offend, word, perfec
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Taming the Tongue as Type of Christ's Perfect Speech
 - **Physical speech:** Bridle body (James 3:3)

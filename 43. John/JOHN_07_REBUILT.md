@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Jesus at the Feast of Tabernacles, Division Among the People, Living Water Promise, Officers Return Empty
 
-**Tags:** #Jesus-walked-Galilee-walk-Jewry-Jews-kill-Jews-feast-tabernacles-hand-brethren-depart-hence-Judæa-disciples-works-secret-seeketh-known-openly-shew-thyself-world-brethren-believe-Jesus-time-ready-world-hate-testify-works-evil-feast-time-full-Galilee-brethren-gone-feast-secret-Jews-feast-much-murmuring-people-good-man-deceiveth-people-openly-Jews-midst-feast-Jesus-temple-taught-Jews-marvelled-letters-learned-Jesus-answered-doctrine-mine-sent-will-doctrine-God-speaketh-myself-glory-sent-true-unrighteousness-Moses-law-keepeth-law-kill-devil-kill-Jesus-answered-one-work-marvel-Moses-circumcision-fathers-sabbath-circumcise-sabbath-circumcision-law-Moses-broken-angry-sabbath-whole-appearance-judgment-righteous-Jerusalem-kill-boldly-rulers-Christ-know-man-Christ-cometh-knoweth-Jesus-temple-taught-know-know-not-sent-true-know-sent-hands-hour-believed-Christ-miracles-Pharisees-murmured-Pharisees-chief-priests-officers-Jesus-little-sent-seek-find-cannot-Jews-dispersed-Gentiles-teach-Gentiles-saying-find-cannot-last-day-great-day-feast-Jesus-cried-thirst-drink-believeth-scripture-belly-rivers-living-water-Spirit-believe-Holy-Ghost-given-Jesus-glorified-people-heard-Prophet-Christ-Galilee-scripture-Christ-seed-David-Bethlehem-David-division-people-officers-chief-priests-Pharisees-officers-brought-officers-answered-spake-Pharisees-deceived-rulers-Pharisees-believed-people-law-cursed-Nicodemus-night-law-judge-hear-knoweth-Galilee-search-look-Galilee-prophet-house
+**Tags:** #jesus-at-the-feast-of-tabernacles #division-among-the-people #living-water-promise #officers-return-empty
 
 ---
 
@@ -309,7 +309,7 @@ Jesus, walked, Galilee, walk, Jewry, Jews, kill, Jews, feast, tabernacles, hand,
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Jesus at the Feast of Tabernacles as Type of Christ's Presence
 - **Physical feast:** Feast tabernacles (John 7:4)

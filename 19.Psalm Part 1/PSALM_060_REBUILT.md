@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Divine Displeasure, God's Restoration, Military Victory, God's Sovereignty
 
-**Tags:** #chief-Musician-Shushan-eduth-Michtam-David-teach-strove-Aram-naharaim-Aram-zobah-Joab-returned-smote-Edom-valley-salt-twelve-thousand-GOD-cast-scattered-displeased-turn-earth-tremble-broken-heal-breaches-shaketh-shewed-people-hard-things-drink-wine-astonishment-given-banner-fear-displayed-truth-Selah-beloved-delivered-save-right-hand-hear-GOD-spoken-holiness-rejoice-divide-Shechem-mete-valley-Succoth-Gilead-Manasseh-Ephraim-strength-head-Judah-lawgiver-Moab-washpot-cast-shoe-Edom-Philistia-triumph-strong-city-lead-Edom-GOD-cast-not-go-armies-help-trouble-vain-help-man-GOD-valiantly-tread-enemies
+**Tags:** #divine-displeasure #god #military-victory
 
 ---
 

@@ -2,7 +2,7 @@
 
 ---
 
-## 1. CHAPTER METADATA
+## CHAPTER METADATA
 
 **Book:** Numbers
 **Chapter:** 4
@@ -13,13 +13,13 @@
 
 ---
 
-## 2. CHAPTER SUMMARY
+## CHAPTER SUMMARY
 
 Where Numbers 3 counted all Levitical males from one month upward, Numbers 4 counts only those between 30 and 50 years old — the active-duty service years. Three separate censuses for three clans. For the Kohathites: Aaron and his sons must cover every holy object before the Kohathites enter to carry them. The ark is wrapped in the veil of the holy of holies, then covered with badger skins, then a blue cloth over all. The table of showbread: blue cloth, then dishes/spoons/bowls, then scarlet cloth, then badger skins. The candlestick: blue cloth, then all oil vessels, then badger skins, all put on a bar. The golden altar of incense: blue cloth, then badger skins. All service instruments: blue cloth covered with badger skins on a bar. The bronze altar: ashes cleared, purple cloth laid, then all instruments, then badger skins. Then after Aaron and sons have finished covering, the Kohathites come to bear the loads — but they must not touch or see any holy thing uncovered or they will die. Gershon (curtains, coverings, hangings) and Merari (boards, pillars, sockets, pins, cords) are also censused and assigned. Totals: Kohath 2,750; Gershon 2,630; Merari 3,200. Grand total active-duty Levites: 8,580.
 
 ---
 
-## 3. CROSS-REFERENCES (Scripture Interpreting Scripture)
+## CROSS-REFERENCES (Scripture Interpreting Scripture) (Scripture Interpreting Scripture)
 
 ### "Lest They Die" — The Lethal Boundary of the Uncovered Holy
 
@@ -54,7 +54,7 @@ Where Numbers 3 counted all Levitical males from one month upward, Numbers 4 cou
 
 ---
 
-## 4. KEYWORD INDEX
+## KEYWORD INDEX
 
 **For Current Events Matching:**
 - **Age requirements for service / retirement** → Numbers 4:3, 23, 30 — service from 30 to 50; a specific season of active duty
@@ -64,7 +64,7 @@ Where Numbers 3 counted all Levitical males from one month upward, Numbers 4 cou
 
 ---
 
-## 5. KEY TERMS WITH CONTEXTUAL DEFINITIONS
+## KEY TERMS WITH CONTEXTUAL DEFINITIONS WITH CONTEXTUAL DEFINITIONS
 
 ### BURDEN (Hebrew: massa)
 - **Numbers 4:15, 19, 24, 27, 31, 32, 47, 49** — the specific load assigned to each Levitical family and individual
@@ -76,7 +76,7 @@ Where Numbers 3 counted all Levitical males from one month upward, Numbers 4 cou
 
 ---
 
-## 6. THE ACTUAL VERSES — NUMBERS 4 (KJV)
+## THE ACTUAL VERSES (KJV) — NUMBERS 4 (KJV)
 
 **1** And the LORD spake unto Moses and unto Aaron, saying,
 **2** Take the sum of the sons of Kohath from among the sons of Levi, after their families, by the house of their fathers,
@@ -130,7 +130,7 @@ Where Numbers 3 counted all Levitical males from one month upward, Numbers 4 cou
 
 ---
 
-## 7. PROPHETIC/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS/TYPOLOGICAL CONNECTIONS
 
 ### Jesus Begins Ministry at Thirty — The Levitical Service Age
 
@@ -140,7 +140,7 @@ Where Numbers 3 counted all Levitical males from one month upward, Numbers 4 cou
 
 ---
 
-## 8. COMMONLY MISQUOTED PASSAGES
+## COMMONLY MISQUOTED PASSAGES PASSAGES
 
 ### Numbers 4:18-20 — "Cut Ye Not Off the Tribe of the Kohathites"
 
@@ -154,7 +154,7 @@ Where Numbers 3 counted all Levitical males from one month upward, Numbers 4 cou
 
 ---
 
-## 9. SYMBOLIC THREADS
+## SYMBOLIC THREADS
 
 ### The Ark Carried on Shoulders — No Shortcuts
 

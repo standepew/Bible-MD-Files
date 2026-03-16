@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Wine and Deception, Divine Providence, Justice and Integrity, Wisdom and Understanding
 
-**Tags:** #Wine-mocker-strong-drink-raging-deceived-thereby-wise-fear-king-roaring-lion-provoketh-anger-sinneth-soul-honour-man-cease-strife-fool-meddling-sluggard-plow-cold-beg-harvest-sluggard-plow-cold-beg-harvest-nothing-Counsel-heart-man-deep-water-man-understanding-draw-proclaim-goodness-faithful-man-just-man-walketh-integrity-children-blessed-king-sitteth-throne-judgment-scatter-evil-eyes-made-heart-clean-pure-sin-Divers-weights-divers-measures-alike-abomination-LORD-child-doings-pure-right-hearing-ear-seeing-eye-LORD-made-Love-sleep-poverty-open-eyes-satisfied-bread-naught-naught-buyer-gone-way-boasteth-gold-multitude-rubies-lips-knowledge-precious-jewel-garment-surety-stranger-pledge-strange-woman-Bread-deceit-sweet-man-afterwards-mouth-filled-gravel-purpose-established-counsel-good-advice-war-talebearer-revealeth-secrets-meddle-flattereth-lips-curseth-father-mother-lamp-put-obscure-darkness-inheritance-hastily-beginning-end-blessed-recompense-evil-wait-LORD-save-Divers-weights-abomination-LORD-false-balance-good-goings-LORD-understand-way-snare-devoureth-holy-vows-enquiry-wise-king-scattereth-wicked-bringeth-wheel-spirit-man-candle-LORD-searching-inward-parts-belly-Mercy-truth-preserve-king-throne-upheld-mercy-glory-young-men-strength-beauty-old-men-gray-head-blueness-wound-cleanseth-evil-stripes-inward-parts-belly
+**Tags:** #wine-and-deception #divine-providence #justice-and-integrity #wisdom-and-understanding
 
 ---
 

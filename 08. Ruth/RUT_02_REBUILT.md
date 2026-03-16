@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Boaz Introduction, Ruth's Gleaning, Divine Providence, Boaz's Protection, Ruth's Humility, Boaz's Blessing, Generous Provision, Kinsman Revelation
 
-**Tags:** #Naomi-kinsman-husband-mighty-man-wealth-family-Elimelech-Boaz #Ruth-Moabitess-Naomi-field-glean-ears-corn-grace #gleaned-field-reapers-hap-light-field-Boaz-kindred-Elimelech #Boaz-Beth-lehem-reapers-LORD-bless #Boaz-servant-reapers-damsel #servant-reapers-Moabitish-damsel-Naomi-country-Moab #glean-gather-reapers-sheaves-morning-tarried-house #Boaz-Ruth-daughter-glean-field-abide-fast-maidens #eyes-field-reap-go-them-charged-young-men-touch #thirst-vessels-drink-young-men-drew #fell-face-bowed-ground-grace-eyes-stranger #Boaz-answered-shewed-mother-in-law-death-husband #left-father-mother-land-nativity-people-knewest #LORD-recompense-work-full-reward-LORD-God-Israel-wings-trust #favour-sight-lord-comforted-friendly-handmaid-handmaidens #mealtime-bread-vinegar-sat-reapers-parched-corn-ate-sufficed-left #risen-glean-Boaz-commanded-young-men #glean-sheaves-reproach #fall-handfuls-purpose-glean-rebuke #gleaned-field-even-beat-gleaned-ephah-barley #city-mother-law-gleaned-reserved-sufficed #mother-law-gleaned-blessed-took-knowledge #shewed-mother-law-wrought-Boaz #Naomi-daughter-LORD-kindness-living-dead #near-kin-next-kinsmen #Ruth-Moabitess-keep-fast-young-men-ended-harvest #Naomi-Ruth-daughter-maidens-field-not-meet #kept-fast-maidens-Boaz-glean-end-barley-harvest-wheat-harvest-dwelt-mother-law
+**Tags:** #Boaz-servant-reapers-damsel #glean-sheaves-reproach #fall-handfuls-purpose-glean-rebuke #shewed-mother-law-wrought-Boaz #near-kin-next-kinsmen #boaz-introduction #ruth #divine-providence #boaz #generous-provision #kinsman-revelation
 
 ---
 

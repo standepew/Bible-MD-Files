@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Elijah's Ministry, Drought Prophecy, Divine Provision, Widow's Faith, Son's Resurrection
 
-**Tags:** #Elijah-Tishbite-inhabitants-Gilead-Ahab-LORD-GOD-Israel-liveth-stand-dew-rain-years-word #word-LORD-hide-eastward-brook-Cherith-Jordan #drink-brook-commanded-ravens-feed #went-word-LORD-dwelt-brook-Cherith-Jordan #ravens-brought-bread-flesh-morning-bread-flesh-evening-drank-brook #brook-dried-rain-land #word-LORD-Arise-Zarephath-Zidon-dwell-commanded-widow-sustain #arose-Zarephath-gate-city-widow-gathering-sticks-called-fetch-water-vessel-drink #going-fetch-called-morsel-bread-hand #LORD-GOD-liveth-cake-handful-meal-barrel-little-oil-cruse-gathering-sticks-dress-son-eat-die #Elijah-Fear-not-said-cake-first-bring-cake-son #LORD-GOD-Israel-barrel-meal-waste-cruse-oil-fail-LORD-rain-earth #went-saying-Elijah-house-eat-days #barrel-meal-wasted-cruse-oil-failed-word-LORD-spoke-Elijah #son-woman-mistress-house-fell-sick-sickness-sore-breath #woman-Elijah-man-God-come-sin-remembrance-slay-son #Elijah-son-bosom-loft-abode-bed #cried-LORD-LORD-GOD-evil-widow-slay-son #stretched-child-three-times-cried-LORD-LORD-GOD-child-soul #LORD-voice-Elijah-soul-child-revived #Elijah-child-chamber-house-mother-Elijah-son-liveth #woman-Elijah-man-GOD-word-LORD-mouth-truth
+**Tags:** #drink-brook-commanded-ravens-feed #brook-dried-rain-land #elijah #drought-prophecy #divine-provision #widow #son
 
 ---
 

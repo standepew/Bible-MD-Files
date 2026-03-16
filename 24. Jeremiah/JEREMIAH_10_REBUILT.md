@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Sovereignty, Idolatry's Futility, Divine Power, Christ's Correction
 
-**Tags:** #Hear-word-LORD-speaketh-house-Israel-LORD-Learn-way-heathen-dismayed-signs-heaven-heathen-dismayed-customs-people-vain-cutteth-tree-forest-work-hands-workman-axe-deck-silver-gold-fasten-nails-hammers-move-upright-palm-tree-speak-borne-cannot-afraid-evil-good-LORD-great-name-might-King-nations-appertain-wise-men-nations-kingdoms-brutish-foolish-stock-doctrine-vanities-Silver-spread-plates-Tarshish-gold-Uphaz-work-workman-hands-founder-blue-purple-clothing-work-cunning-men-LORD-true-God-living-God-everlasting-king-wrath-earth-tremble-nations-abide-indignation-gods-made-heavens-earth-perish-earth-heavens-made-earth-power-established-world-wisdom-stretched-heavens-discretion-uttereth-voice-multitude-waters-heavens-causeth-vapours-ascend-ends-earth-lightnings-rain-bringeth-wind-treasures-man-brutish-knowledge-founder-confounded-graven-image-molten-image-falsehood-breath-vanity-work-errors-time-visitation-perish-portion-Jacob-former-things-Israel-rod-inheritance-LORD-hosts-name-Gather-wares-land-inhabitant-fortress-LORD-sling-inhabitants-land-once-distress-find-Woe-hurt-wound-grievous-grief-bear-tabernacle-spoiled-cords-broken-children-gone-stretch-tent-set-curtains-pastors-brutish-sought-LORD-prosper-flocks-scattered-noise-bruit-commotion-north-country-cities-Judah-desolate-den-dragons-LORD-way-man-direct-steps-LORD-correct-judgment-anger-bring-nothing-Pour-fury-heathen-know-families-call-name-eaten-Jacob-devoured-consumed-habitation-desolate
+**Tags:** #christ #idolatry #divine-power
 
 ---
 

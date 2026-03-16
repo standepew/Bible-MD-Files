@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Victory, Gog Magog, Divine Judgment, Christ's Glory
 
-**Tags:** #word-LORD-son-man-face-Gog-land-Magog-chief-prince-Meshech-Tubal-prophesy-Lord-GOD-Gog-chief-prince-Meshech-Tubal-turn-hooks-jaws-bring-army-horses-horsemen-clothed-armour-great-company-bucklers-shields-handling-swords-Persia-Ethiopia-Libya-shield-helmet-Gomer-bands-house-Togarmah-north-quarters-bands-many-people-prepared-company-assembled-guard-days-visited-latter-years-land-brought-sword-gathered-people-mountains-Israel-waste-brought-nations-dwell-safely-ascend-storm-cloud-cover-land-bands-many-people-Lord-GOD-time-things-mind-evil-thought-unwalled-villages-rest-dwell-safely-walls-bars-gates-spoil-prey-hand-desolate-places-inhabited-people-gathered-nations-cattle-goods-midst-land-Sheba-Dedan-merchants-Tarshish-young-lions-spoil-gathered-company-prey-silver-gold-cattle-goods-great-spoil-son-man-prophesy-Gog-Lord-GOD-day-people-Israel-dwell-safely-place-north-parts-people-horses-great-company-mighty-army-people-Israel-cloud-cover-land-latter-days-land-heathen-know-sanctified-Gog-eyes-Lord-GOD-spoken-time-servants-prophets-Israel-prophesied-days-years-bring-Gog-land-Israel-Lord-GOD-fury-face-jealousy-fire-wrath-spoken-day-great-shaking-land-Israel-fishes-sea-fowls-heaven-beasts-field-creeping-things-earth-men-face-earth-shake-presence-mountains-thrown-steep-places-fall-wall-ground-sword-mountains-Lord-GOD-man-sword-brother-plead-pestilence-blood-rain-bands-people-overflowing-rain-great-hailstones-fire-brimstone-magnify-sanctify-known-eyes-nations-know-Lord
+**Tags:** #christ #gog-magog #divine-judgment
 
 ---
 

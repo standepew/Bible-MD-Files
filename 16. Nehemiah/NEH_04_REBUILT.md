@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Opposition Intensifies, Prayer and Watch, Armed Workers, Continuous Vigilance
 
-**Tags:** #Sanballat-heard-builded-wall-wroth-indignation-mocked-Jews #spoke-brethren-army-Samaria-feeble-Jews-fortify-sacrifice-end-day-revive-stones-heaps-rubbish-burned #Tobiah-Ammonite-build-fox-break-stone-wall #hear-GOD-despised-turn-reproach-head-prey-land-captivity #cover-iniquity-sin-blot-provoked-anger-builders #built-wall-joined-half-people-mind-work #Sanballat-Tobiah-Arabians-Ammonites-Ashdodites-heard-walls-Jerusalem-breaches-stopped-wroth #conspired-fight-Jerusalem-hinder #prayer-GOD-watch-day-night #Judah-strength-bearers-burdens-decayed-rubbish-build-wall #adversaries-know-see-midst-slay-work-cease #Jews-dwelt-ten-times-places-return #lower-places-wall-higher-places-people-families-swords-spears-bows #looked-rose-nobles-rulers-people-afraid-remember-LORD-great-terrible-fight-brethren-sons-daughters-wives-houses #enemies-heard-known-GOD-brought-counsel-nought-returned-wall-work #half-servants-work-half-spears-shields-bows-habergeons-rulers-house-Judah #builded-wall-bare-burdens-laded-hand-work-hand-held-weapon #builders-sword-girded-side-builded-trumpet #nobles-rulers-people-work-large-separated-wall-far-trumpet-resort-GOD-fight #laboured-work-half-spears-rising-morning-stars #people-servant-lodge-Jerusalem-night-guard-day #clothes-washing
+**Tags:** #conspired-fight-Jerusalem-hinder #prayer-GOD-watch-day-night #clothes-washing #opposition-intensifies #prayer-and-watch #armed-workers #continuous-vigilance
 
 ---
 

@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Yoke, False Prophecy, Iron Yoke, Christ's Truth
 
-**Tags:** #year-beginning-reign-Zedekiah-king-Judah-fourth-year-fifth-month-Hananiah-son-Azur-prophet-Gibeon-spake-house-LORD-presence-priests-people-speaketh-LORD-hosts-God-Israel-broken-yoke-king-Babylon-two-years-bring-place-vessels-LORD-house-Nebuchadnezzar-king-Babylon-place-carried-Babylon-bring-place-Jeconiah-son-Jehoiakim-king-Judah-captives-Judah-went-Babylon-LORD-break-yoke-king-Babylon-prophet-Jeremiah-prophet-Hananiah-presence-priests-people-house-LORD-prophet-Jeremiah-Amen-LORD-perform-words-prophesied-bring-vessels-LORD-house-carried-captive-Babylon-place-hear-word-speak-ears-people-prophets-before-prophesied-countries-great-kingdoms-war-evil-pestilence-prophet-prophesieth-peace-word-prophet-come-pass-prophet-known-LORD-truly-sent-Hananiah-prophet-yoke-prophet-Jeremiah-neck-brake-Hananiah-spake-people-saying-LORD-break-yoke-Nebuchadnezzar-king-Babylon-neck-nations-two-years-prophet-Jeremiah-way-word-LORD-prophet-Jeremiah-Hananiah-prophet-broken-yoke-prophet-Jeremiah-neck-saying-LORD-broken-yokes-wood-yokes-iron-LORD-hosts-God-Israel-yoke-iron-neck-nations-serve-Nebuchadnezzar-king-Babylon-serve-given-beasts-field-prophet-Jeremiah-prophet-Hananiah-prophet-Hear-Hananiah-LORD-sent-makest-people-trust-lie-LORD-cast-face-earth-year-die-taught-rebellion-LORD-Hananiah-prophet-died-year-seventh-month
+**Tags:** #christ #false-prophecy #iron-yoke
 
 ---
 

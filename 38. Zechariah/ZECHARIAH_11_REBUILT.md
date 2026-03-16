@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Rejection, Thirty Pieces of Silver, Broken Covenant, Foolish Shepherd
 
-**Tags:** #Open-doors-Lebanon-fire-devour-cedars-Howl-fir-tree-cedar-fallen-mighty-spoiled-Howl-oaks-Bashan-forest-vintage-voice-howling-shepherds-glory-spoiled-voice-roaring-young-lions-pride-Jordan-spoiled-LORD-God-Feed-flock-slaughter-possessors-slay-hold-guilty-sell-Blessed-LORD-rich-shepherds-pity-pity-inhabitants-land-LORD-deliver-men-neighbour-hand-king-hand-smite-land-hand-deliver-feed-flock-slaughter-poor-flock-staves-called-Beauty-called-Bands-fed-flock-shepherds-cut-month-soul-loathed-soul-abhorred-feed-dieth-die-cut-cut-rest-eat-flesh-another-staff-Beauty-cut-asunder-break-covenant-people-broken-day-poor-flock-waited-word-LORD-think-good-price-forbear-weighed-price-thirty-pieces-silver-LORD-Cast-potter-goodly-price-prised-took-thirty-pieces-silver-cast-potter-house-LORD-cut-staff-Bands-break-brotherhood-Judah-Israel-LORD-instruments-foolish-shepherd-raise-shepherd-land-visit-cut-neither-seek-young-heal-broken-feed-standeth-eat-flesh-fat-tear-claws-pieces-Woe-idol-shepherd-leaveth-flock-sword-arm-right-eye-arm-clean-dried-right-eye-utterly-darkened
+**Tags:** #christ #thirty-pieces-of-silver #broken-covenant #foolish-shepherd
 
 ---
 

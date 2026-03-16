@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Divine Judgment, Babylon's Fall, Day of the LORD, Christ's Victory
 
-**Tags:** #burden-Babylon-Isaiah-son-Amoz-Lift-banner-high-mountain-exalt-voice-shake-hand-gates-nobles-commanded-sanctified-ones-called-mighty-ones-anger-rejoice-highness-noise-multitude-mountains-great-people-tumultuous-noise-kingdoms-nations-gathered-LORD-hosts-mustereth-host-battle-come-far-country-end-heaven-LORD-weapons-indignation-destroy-whole-land-Howl-day-LORD-hand-destruction-Almighty-hands-faint-heart-melt-afraid-pangs-sorrows-hold-pain-travaileth-amazed-faces-flames-day-LORD-come-cruel-wrath-fierce-anger-land-desolate-destroy-sinners-stars-heaven-constellations-light-sun-darkened-going-moon-cause-light-shine-punish-world-evil-wicked-iniquity-cause-arrogancy-proud-cease-lay-haughty-terrible-man-precious-fine-gold-man-golden-wedge-Ophir-shake-heavens-earth-remove-place-wrath-LORD-hosts-day-fierce-anger-chased-roe-shepherd-taketh-people-own-flee-land-found-thrust-joined-fall-sword-children-dashed-pieces-eyes-houses-spoiled-wives-ravished-stir-Medes-regard-silver-gold-delight-bows-dash-young-men-pity-fruit-womb-eye-spare-children-Babylon-glory-kingdoms-beauty-Chaldees-excellency-God-overthrew-Sodom-Gomorrah-inhabited-dwelt-generation-generation-Arabian-pitch-tent-shepherds-fold-wild-beasts-desert-houses-doleful-creatures-owls-dwell-satyrs-dance-wild-beasts-islands-cry-desolate-houses-dragons-pleasant-palaces-time-prolonged
+**Tags:** #divine-judgment #babylon #day-of-the-lord #christ
 
 ---
 

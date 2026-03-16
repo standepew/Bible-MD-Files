@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Glory, Isaiah's Commission, Spiritual Cleansing, Divine Call
 
-**Tags:** #year-king-Uzziah-died-Lord-sitting-throne-lifted-train-filled-temple-seraphims-six-wings-twain-covered-face-twain-covered-feet-twain-fly-cried-another-Holy-holy-holy-LORD-hosts-earth-full-glory-posts-door-moved-voice-cried-house-filled-smoke-Woe-undone-man-unclean-lips-dwell-midst-people-unclean-lips-eyes-seen-King-LORD-hosts-flew-seraphims-live-coal-hand-tongs-altar-laid-mouth-touched-lips-iniquity-taken-sin-purged-voice-LORD-saying-send-go-people-hear-understand-see-perceive-Make-heart-people-fat-ears-heavy-shut-eyes-see-eyes-hear-ears-understand-heart-convert-healed-Lord-long-cities-wasted-inhabitant-houses-man-land-utterly-desolate-LORD-removed-men-far-great-forsaking-midst-land-tenth-return-eaten-teil-tree-oak-substance-cast-leaves-holy-seed-substance
+**Tags:** #christ #isaiah #spiritual-cleansing #divine-call
 
 ---
 

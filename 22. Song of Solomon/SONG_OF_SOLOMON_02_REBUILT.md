@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Beauty, Spiritual Refreshment, Divine Protection, Spring Resurrection
 
-**Tags:** #rose-Sharon-lily-valleys-lily-thorns-love-daughters-apple-tree-trees-wood-beloved-sons-sat-shadow-delight-fruit-sweet-taste-brought-banqueting-house-banner-love-stay-flagons-comfort-apples-sick-love-left-hand-head-right-hand-embrace-charge-daughters-Jerusalem-roes-hinds-field-stir-awake-love-please-voice-beloved-cometh-leaping-mountains-skipping-hills-beloved-roe-young-hart-standeth-wall-looketh-windows-shewing-lattice-beloved-spake-Rise-love-fair-come-away-winter-past-rain-gone-flowers-appear-earth-time-singing-birds-voice-turtle-heard-land-fig-tree-putteth-green-figs-vines-tender-grape-good-smell-Arise-love-fair-come-away-dove-clefts-rock-secret-places-stairs-see-countenance-hear-voice-sweet-voice-countenance-comely-Take-foxes-little-foxes-spoil-vines-vines-tender-grapes-beloved-mine-feedeth-lilies-day-break-shadows-flee-away-turn-beloved-like-roe-young-hart-mountains-Bether
+**Tags:** #christ #spiritual-refreshment #divine-protection #spring-resurrection
 
 ---
 

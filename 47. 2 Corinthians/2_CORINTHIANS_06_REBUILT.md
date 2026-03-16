@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Workers Together with God, The Ministry Approved, Unequal Yokes, The Temple of the Living God
 
-**Tags:** #workers-together-beseech-receive-grace-God-vain-heard-time-accepted-day-salvation-succoured-accepted-time-day-salvation-giving-offence-ministry-blamed-approving-ministers-God-patience-afflictions-necessities-distresses-stripes-imprisonments-tumults-labours-watchings-fastings-pureness-knowledge-longsuffering-kindness-Holy-Ghost-love-unfeigned-word-truth-power-God-armour-righteousness-right-hand-left-honour-dishonour-evil-report-good-report-deceivers-true-unknown-well-known-dying-live-chastened-killed-sorrowful-rejoicing-poor-making-rich-having-possessing-Corinthians-mouth-open-heart-enlarged-straitened-straitened-bowels-recompence-children-enlarged-unequally-yoked-unbelievers-fellowship-righteousness-unrighteousness-communion-light-darkness-concord-Christ-Belial-part-believeth-infidel-agreement-temple-God-idols-temple-living-God-dwell-walk-God-people-separate-Lord-touch-unclean-receive-Father-sons-daughters-Lord-Almighty
+**Tags:** #workers-together-with-god #the-ministry-approved #unequal-yokes #the-temple-of-the-living-god
 
 ---
 
@@ -179,7 +179,7 @@ Workers, together, beseech, receive, grace, God, vain, heard, time, accepted, da
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Workers Together with God as Type of Christ's Cooperation
 - **Physical cooperation:** Day salvation (2 Corinthians 6:3)

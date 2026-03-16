@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Divine Vengeance, God's Power and Wrath, Protection of the Righteous, Nineveh's Destruction
 
-**Tags:** #burden-Nineveh-book-vision-Nahum-Elkoshite-God-jealous-LORD-revengeth-LORD-revengeth-furious-LORD-take-vengeance-adversaries-reserveth-wrath-enemies-LORD-slow-anger-great-power-acquit-wicked-LORD-way-whirlwind-storm-clouds-dust-feet-rebuketh-sea-maketh-dry-drieth-rivers-Bashan-languisheth-Carmel-flower-Lebanon-languisheth-mountains-quake-hills-melt-earth-burned-presence-world-dwell-stand-indignation-abide-fierceness-anger-fury-poured-fire-rocks-thrown-LORD-good-strong-hold-trouble-knoweth-trust-overrunning-flood-utter-end-place-darkness-pursue-enemies-imagine-LORD-utter-end-affliction-rise-second-time-folden-thorns-drunken-drunkards-devoured-stubble-dry-imagineth-evil-LORD-wicked-counsellor-LORD-quiet-likewise-cut-pass-afflicted-afflict-break-yoke-burst-bonds-sunder-LORD-commandment-name-sown-house-gods-cut-graven-image-molten-image-grave-vile-mountains-feet-bringeth-good-tidings-publisheth-peace-Judah-keep-solemn-feasts-perform-vows-wicked-pass-utterly-cut
+**Tags:** #christ #god #protection-of-the-righteous #nineveh
 
 ---
 

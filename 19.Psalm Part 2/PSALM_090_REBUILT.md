@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** God's Eternity, Human Frailty, Divine Anger, Wisdom and Mercy
 
-**Tags:** #Prayer-Moses-man-GOD-LORD-dwelling-place-generations-mountains-brought-formed-earth-world-everlasting-everlasting-GOD-turnest-man-destruction-sayest-Return-children-men-thousand-years-sight-yesterday-past-watch-night-carriest-flood-sleep-morning-grass-flourish-grow-evening-cut-wither-consumed-anger-wrath-troubled-set-iniquities-secret-sins-light-countenance-days-passed-wrath-spend-years-tale-days-years-threescore-years-ten-reason-strength-fourscore-years-strength-labour-sorrow-cut-fly-knoweth-power-anger-according-fear-wrath-teach-number-days-apply-hearts-wisdom-Return-LORD-repent-servants-satisfy-early-mercy-rejoice-glad-days-Make-glad-days-afflicted-years-seen-evil-work-appear-servants-glory-children-beauty-LORD-GOD-establish-work-hands-work-hands-establish
+**Tags:** #god #human-frailty #divine-anger #wisdom-and-mercy
 
 ---
 

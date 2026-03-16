@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Warning Against Adultery, Seductive Deception, Fatal Consequences, Wisdom's Protection
 
-**Tags:** #son-keep-words-lay-commandments-keep-commandments-live-law-apple-eye-bind-fingers-write-table-heart-wisdom-sister-understanding-kinswoman-keep-strange-woman-stranger-flattereth-words-window-house-looked-casement-beheld-simple-discerned-youths-young-man-void-understanding-Passing-street-near-corner-way-house-twilight-evening-black-dark-night-met-woman-attire-harlot-subtil-heart-loud-stubborn-feet-abide-house-without-streets-lieth-wait-corner-caught-kissed-impudent-face-peace-offerings-payed-vows-came-meet-diligently-seek-face-found-decked-bed-coverings-tapestry-carved-works-fine-linen-Egypt-perfumed-bed-myrrh-aloes-cinnamon-Come-fill-love-morning-solace-loves-goodman-home-gone-long-journey-taken-bag-money-come-home-day-appointed-fair-speech-caused-yield-flattering-lips-forced-goeth-straightway-ox-slaughter-fool-correction-stocks-dart-strike-liver-bird-hasteth-snare-knoweth-life-Hearken-children-attend-words-mouth-heart-decline-ways-astray-paths-cast-down-wounded-strong-men-slain-house-way-hell-going-chambers-death
+**Tags:** #warning-against-adultery #seductive-deception #fatal-consequences #wisdom
 
 ---
 

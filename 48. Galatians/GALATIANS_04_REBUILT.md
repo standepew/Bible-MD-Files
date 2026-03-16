@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Heir and Child, Adoption as Sons, Paul's Pastoral Care, Two Covenants
 
-**Tags:** #heir-child-differ-servant-lord-tutors-governors-time-appointed-father-children-bondage-elements-world-fulness-time-God-sent-Son-made-woman-made-law-redeem-law-receive-adoption-sons-sons-Spirit-Son-hearts-crying-Abba-Father-servant-son-heir-God-Christ-known-God-known-God-weak-beggarly-elements-desire-bondage-observe-days-months-times-years-afraid-bestowed-labour-vain-brethren-beseech-injured-flesh-preached-gospel-first-temptation-flesh-despised-rejected-received-angel-God-Christ-Jesus-blessed-spake-record-possible-plucked-eyes-given-enemy-truth-zealously-affect-well-exclude-affect-good-zealously-affected-present-little-children-travail-birth-Christ-formed-desire-present-change-voice-stand-doubt-desire-law-hear-law-written-Abraham-sons-bondmaid-freewoman-bondwoman-flesh-freewoman-promise-allegory-covenants-covenant-mount-Sinai-gendereth-bondage-Agar-Agar-mount-Sinai-Arabia-answereth-Jerusalem-bondage-children-Jerusalem-free-mother-Rejoice-barren-bearest-break-cry-travailest-desolate-children-husband-Isaac-children-promise-born-flesh-persecuted-born-Spirit-now-scripture-Cast-bondwoman-son-bondwoman-heir-freewoman-son-bondwoman-free
+**Tags:** #heir-and-child #adoption-as-sons #paul #two-covenants
 
 ---
 
@@ -217,7 +217,7 @@ Heir, child, differ, servant, lord, tutors, governors, time, appointed, father, 
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Heir and Child as Type of Christ's Maturity
 - **Physical maturity:** Heir child (Galatians 4:3)

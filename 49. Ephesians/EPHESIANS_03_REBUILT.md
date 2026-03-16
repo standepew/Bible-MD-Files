@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** The Mystery of Christ, Paul's Ministry, The Unsearchable Riches, Strengthened in the Inner Man
 
-**Tags:** #cause-Paul-prisoner-Jesus-Christ-Gentiles-heard-dispensation-grace-God-revelation-mystery-wrote-words-read-understand-knowledge-mystery-Christ-ages-sons-men-revealed-holy-apostles-prophets-Spirit-Gentiles-fellowheirs-body-partakers-promise-Christ-gospel-minister-gift-grace-God-effectual-working-power-less-least-saints-grace-preach-Gentiles-unsearchable-riches-Christ-fellowship-mystery-beginning-world-hid-God-created-things-Jesus-Christ-intent-principalities-powers-heavenly-places-known-church-manifold-wisdom-God-eternal-purpose-purposed-Christ-Jesus-Lord-boldness-access-confidence-faith-desire-faint-tribulations-glory-bow-knees-Father-Lord-Jesus-Christ-family-heaven-earth-named-grant-riches-glory-strengthened-might-Spirit-inner-man-Christ-dwell-hearts-faith-rooted-grounded-love-comprehend-saints-breadth-length-depth-height-know-love-Christ-passeth-knowledge-filled-fulness-God-able-exceeding-abundantly-ask-think-power-worketh-glory-church-Christ-Jesus-ages-world-end-Amen
+**Tags:** #the-mystery-of-christ #paul #the-unsearchable-riches #strengthened-in-the-inner-man
 
 ---
 
@@ -173,7 +173,7 @@ Cause, Paul, prisoner, Jesus, Christ, Gentiles, heard, dispensation, grace, God,
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Mystery of Christ as Type of Christ's Revelation
 - **Physical revelation:** Mystery Christ (Ephesians 3:4)

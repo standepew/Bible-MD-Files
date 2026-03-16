@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Redemption Price, Faithful Love, Exile Period, Davidic Kingdom
 
-**Tags:** #LORD-love-woman-beloved-friend-adulteress-love-LORD-children-Israel-look-gods-love-flagons-wine-bought-fifteen-pieces-silver-homer-barley-half-homer-barley-abide-days-play-harlot-man-I-children-Israel-abide-days-king-prince-sacrifice-image-ephod-teraphim-Afterward-children-Israel-return-seek-LORD-God-David-king-fear-LORD-goodness-latter-days
+**Tags:** #christ #faithful-love #exile-period #davidic-kingdom
 
 ---
 

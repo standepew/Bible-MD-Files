@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Political Alliance, Divine Rebuke, Human Reliance, Spiritual Decline
 
-**Tags:** #six-thirtieth-year-reign-Asa-Baasha-king-Israel-Judah-built-Ramah-intent-go-come-Asa-king-Judah #Asa-brought-silver-gold-treasures-house-LORD-king-house-sent-Ben-hadad-king-Syria-Damascus-league-father-father-sent-silver-gold-break-league-Baasha-king-Israel-depart #Ben-hadad-hearkened-Asa-sent-captains-armies-cities-Israel-smote-Ijon-Dan-Abel-maim-store-cities-Naphtali #Baasha-heard-left-building-Ramah-work-cease #Asa-king-Judah-carried-stones-Ramah-timber-Baasha-building-built-Geba-Mizpah #Hanani-seer-Asa-king-Judah-relied-king-Syria-relied-LORD-God-host-king-Syria-escaped-hand #Ethiopians-Lubims-huge-host-chariots-horsemen-relied-LORD-delivered-hand #eyes-LORD-earth-strong-heart-perfect-foolishly-wars #Asa-wroth-seer-prison-house-rage-oppressed-people #acts-Asa-first-last-book-kings-Judah-Israel #thirty-ninth-year-reign-diseased-feet-disease-great-sought-LORD-physicians #Asa-slept-fathers-died-fortieth-year-reign #buried-sepulchres-city-David-bed-sweet-odours-divers-spices-apothecaries-art-great-burning
+**Tags:** #political-alliance #divine-rebuke #human-reliance #spiritual-decline
 
 ---
 

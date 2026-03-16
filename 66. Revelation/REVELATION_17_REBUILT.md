@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** The Great Whore, The Scarlet Beast, The Mystery of the Woman and Beast, The Seven Heads and Ten Horns, The Fall of Babylon
 
-**Tags:** #seven-angels-seven-vials-talked-saying-Come-shew-judgment-great-whore-sitteth-many-waters-kings-earth-committed-fornication-inhabitants-earth-made-drunk-wine-fornication-carried-spirit-wilderness-woman-sit-scarlet-coloured-beast-full-names-blasphemy-seven-heads-ten-horns-woman-arrayed-purple-scarlet-colour-decked-gold-precious-stones-pearls-golden-cup-hand-full-abominations-filthiness-fornication-forehead-name-written-MYSTERY-BABYLON-GREAT-MOTHER-HARLOTS-ABOMINATIONS-EARTH-woman-drunken-blood-saints-blood-martyrs-Jesus-wondered-great-admiration-angel-marvel-mystery-woman-beast-carrieth-seven-heads-ten-horns-beast-sawest-bottomless-pit-perdition-dwell-earth-wonder-names-written-book-life-foundation-world-behold-beast-mind-wisdom-seven-heads-seven-mountains-woman-sitteth-seven-kings-five-fallen-one-continue-short-space-beast-eighth-seven-perdition-ten-horns-ten-kings-received-kingdom-power-kings-hour-beast-mind-power-strength-beast-war-Lamb-Lamb-overcome-Lord-lords-King-kings-called-chosen-faithful-waters-whore-sitteth-peoples-multitudes-nations-tongues-ten-horns-beast-hate-whore-desolate-naked-eat-flesh-burn-fire-God-hearts-fulfil-will-agree-kingdom-beast-words-God-fulfilled-woman-great-city-reigneth-kings-earth
+**Tags:** #the-great-whore #the-scarlet-beast #the-mystery-of-the-woman-and #the-seven-heads-and-ten-horns #the-fall-of-babylon
 
 ---
 
@@ -193,7 +193,7 @@ Seven, angels, seven, vials, talked, saying, Come, shew, judgment, great, whore,
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Great Whore as Type of Christ's Spiritual Corruption
 - **Physical spiritual corruption:** Great whore (Revelation 17:2)

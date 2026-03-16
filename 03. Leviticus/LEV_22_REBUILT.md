@@ -2,7 +2,7 @@
 
 ---
 
-## 1. CHAPTER METADATA
+## CHAPTER METADATA
 
 **Book:** Leviticus
 **Chapter:** 22
@@ -13,13 +13,13 @@
 
 ---
 
-## 2. CHAPTER SUMMARY
+## CHAPTER SUMMARY
 
 God commands that the priests handle the holy things only when ceremonially clean; any priest who approaches the holy things while unclean shall be cut off. The categories of uncleanness that disqualify a priest from eating the holy food are detailed. No outsider (stranger, sojourner, hired servant) may eat the holy things. The priest's daughter who has married a non-priest may not eat; but if she returns to her father's house as a widow or divorcée without children, she may eat again. If someone eats holy food by mistake they must restore it plus a fifth. Then God addresses the quality of sacrificial animals: no blind, broken, maimed, diseased animal may be offered — not even to fulfil a vow. A freewill offering may include a slightly imperfect animal (something superfluous or lacking in its parts) but not for a vow. Nothing bruised, crushed, broken, or cut may be offered. Foreign-source animals with blemishes are not accepted. Newborn animals must remain seven days with the mother before being eligible for offering — on the eighth day they may be accepted. A cow or ewe and her young may not be killed on the same day. The thanksgiving offering must be eaten on the day it is offered. Summary: "I will be hallowed among the children of Israel: I am the LORD which hallow you."
 
 ---
 
-## 3. CROSS-REFERENCES (Scripture Interpreting Scripture)
+## CROSS-REFERENCES (Scripture Interpreting Scripture) (Scripture Interpreting Scripture)
 
 ### God Will Not Receive the Defective — Malachi's Commentary
 
@@ -55,7 +55,7 @@ God commands that the priests handle the holy things only when ceremonially clea
 
 ---
 
-## 4. KEYWORD INDEX
+## KEYWORD INDEX
 
 **For Current Events Matching:**
 - **Giving God the leftovers / nominal religion** → Leviticus 22:20-25 — Malachi 1:8, 14; Romans 12:1
@@ -65,7 +65,7 @@ God commands that the priests handle the holy things only when ceremonially clea
 
 ---
 
-## 5. KEY TERMS WITH CONTEXTUAL DEFINITIONS
+## KEY TERMS WITH CONTEXTUAL DEFINITIONS WITH CONTEXTUAL DEFINITIONS
 
 ### FREEWILL OFFERING vs. VOW (Hebrew: nedavah vs. neder)
 - **Leviticus 22:18-23** — a freewill offering (nedavah) may include a minor imperfection (something superfluous or lacking); a vow offering (neder) must be without blemish
@@ -77,7 +77,7 @@ God commands that the priests handle the holy things only when ceremonially clea
 
 ---
 
-## 6. THE ACTUAL VERSES — LEVITICUS 22 (KJV)
+## THE ACTUAL VERSES (KJV) — LEVITICUS 22 (KJV)
 
 **1** And the LORD spake unto Moses, saying,
 **2** Speak unto Aaron and to his sons, that they separate themselves from the holy things of the children of Israel, and that they profane not my holy name in those things which they hallow unto me: I am the LORD.
@@ -115,7 +115,7 @@ God commands that the priests handle the holy things only when ceremonially clea
 
 ---
 
-## 7. PROPHETIC/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS/TYPOLOGICAL CONNECTIONS
 
 ### "Without Blemish" — The Chain to the Lamb of God
 
@@ -132,7 +132,7 @@ What Leviticus 22 repeats chapter after chapter about the altar sacrifice, Peter
 
 ---
 
-## 8. COMMONLY MISQUOTED PASSAGES
+## COMMONLY MISQUOTED PASSAGES PASSAGES
 
 ### Leviticus 22:28 — "Mother and Young Not on the Same Day" — Misread as Animal Rights Law
 
@@ -147,7 +147,7 @@ What Leviticus 22 repeats chapter after chapter about the altar sacrifice, Peter
 
 ---
 
-## 9. SYMBOLIC THREADS
+## SYMBOLIC THREADS
 
 ### The Thanksgiving Offering Eaten Same Day — Urgency as Symbolic Thread
 

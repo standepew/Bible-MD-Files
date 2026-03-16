@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Wisdom's Call, Divine Creation, Eternal Existence, Life and Favor
 
-**Tags:** #wisdom-cry-understanding-put-voice-standeth-top-high-places-way-places-paths-crieth-gates-entry-city-coming-doors-men-call-voice-sons-man-simple-understand-wisdom-fools-understanding-heart-Hear-speak-excellent-things-opening-lips-right-things-mouth-speak-truth-wickedness-abomination-lips-words-mouth-righteousness-froward-perverse-plain-understandeth-right-find-knowledge-Receive-instruction-silver-knowledge-choice-gold-wisdom-better-rubies-things-desired-compared-wisdom-dwell-prudence-find-knowledge-witty-inventions-fear-LORD-hate-evil-pride-arrogancy-evil-way-froward-mouth-hate-Counsel-mine-sound-wisdom-understanding-strength-kings-reign-princes-decree-justice-princes-rule-nobles-judges-earth-love-love-early-find-Riches-honour-durable-riches-righteousness-fruit-better-gold-fine-gold-revenue-choice-silver-lead-way-righteousness-midst-paths-judgment-cause-love-inherit-substance-fill-treasures-LORD-possessed-beginning-way-works-old-set-everlasting-beginning-earth-depths-brought-forth-fountains-abounding-water-mountains-settled-hills-brought-earth-fields-highest-part-dust-world-prepared-heavens-compass-face-depth-established-clouds-above-strengthened-fountains-deep-gave-sea-decree-waters-pass-commandment-appointed-foundations-earth-brought-rejoicing-always-rejoicing-habitable-earth-delights-sons-men-children-hearken-blessed-keep-ways-Hear-instruction-wise-refuse-Blessed-man-heareth-watching-daily-gates-waiting-posts-doors-whoso-findeth-find-life-obtain-favour-LORD-sinneth-wrongeth-soul-hate-love-death
+**Tags:** #wisdom #divine-creation #eternal-existence #life-and-favor
 
 ---
 

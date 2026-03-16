@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** The Death of Lazarus, I Am the Resurrection, The Raising of Lazarus, The Council Against Jesus
 
-**Tags:** #certain-man-sick-Lazarus-Bethany-town-Mary-sister-Martha-Mary-anointed-Lord-ointment-wiped-feet-hair-brother-Lazarus-sick-sisters-sent-Lord-behold-lovest-sick-Jesus-heard-sickness-death-glory-God-Son-God-glorified-Jesus-loved-Martha-sister-Lazarus-heard-sick-abode-days-disciples-Judæa-disciples-Master-Jews-late-stone-Jesus-answered-hours-day-walk-day-stumbleth-seeth-light-world-walk-night-stumbleth-light-friend-Lazarus-sleepeth-awake-sleep-disciples-Lord-sleep-well-Jesus-spake-death-rest-sleep-Jesus-plainly-Lazarus-dead-glad-sakes-believe-Thomas-Didymus-disciples-die-Jesus-came-grave-four-days-Bethany-Jerusalem-fifteen-furlongs-Jews-Martha-Mary-comfort-brother-Martha-heard-Jesus-met-Mary-house-Martha-Lord-here-brother-died-know-whosoever-ask-God-God-Jesus-brother-rise-again-Martha-rise-again-resurrection-day-Jesus-resurrection-life-believeth-dead-live-liveth-believeth-die-believeth-Lord-Christ-Son-God-world-way-Master-secretly-arose-quickly-Jesus-town-place-Martha-Jews-house-comforted-Mary-rose-hastily-grave-weep-Mary-Jesus-feet-Lord-here-brother-died-Jesus-Mary-weeping-Jews-weeping-groaned-spirit-troubled-laid-Jesus-weep-Jews-loved-opened-eyes-blind-died-Jesus-groaning-grave-cave-stone-Jesus-stone-Martha-dead-stinketh-dead-four-days-Jesus-believe-glory-God-stone-dead-Jesus-eyes-Father-thank-heard-knew-hearest-people-stand-believe-sent-spoken-loud-voice-Lazarus-dead-come-forth-dead-came-forth-bound-hand-foot-graveclothes-face-bound-napkin-Jesus-Loose-Jews-Mary-seen-Jesus-believed-Jews-ways-Pharisees-Jesus-gathered-chief-priests-Pharisees-council-miracles-let-alone-believe-Romans-place-nation-Caiaphas-high-priest-year-know-nothing-expedient-man-die-people-nation-perish-spake-high-priest-prophesied-Jesus-die-nation-nation-scattered-children-God-together-day-counsel-death-Jesus-openly-Jews-country-wilderness-city-Ephraim-disciples-Jews-passover-hand-country-Jerusalem-passover-purify-Jesus-temple-feast-chief-priests-Pharisees-commandment-knew-shew-take
+**Tags:** #the-death-of-lazarus #i-am-the-resurrection #the-raising-of-lazarus #the-council-against-jesus
 
 ---
 
@@ -329,7 +329,7 @@ Certain, man, sick, Lazarus, Bethany, town, Mary, sister, Martha, Mary, anointed
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Death of Lazarus as Type of Christ's Victory
 - **Physical death:** Lazarus sick (John 11:3)

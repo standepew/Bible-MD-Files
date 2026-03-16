@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Divine Blessing, Forgiveness of Sins, Healing Power, God's Mercy
 
-**Tags:** #Psalm-David-bless-LORD-soul-bless-holy-name-bless-LORD-soul-forget-benefits-forgiveth-iniquities-healeth-diseases-redeemeth-life-destruction-crowneth-lovingkindness-tender-mercies-satisfieth-mouth-good-things-youth-renewed-eagle-LORD-executeth-righteousness-judgment-oppressed-made-known-ways-Moses-acts-children-Israel-LORD-merciful-gracious-slow-anger-plenteous-mercy-chide-keep-anger-dealt-sins-rewarded-iniquities-heaven-high-earth-great-mercy-fear-east-west-transgressions-father-pitieth-children-LORD-pitieth-fear-know-frame-remember-dust-days-grass-flower-field-flourish-wind-passeth-gone-place-know-grass-mercy-LORD-everlasting-fear-righteousness-children-children-keep-covenant-remember-commandments-LORD-prepared-throne-heavens-kingdom-ruleth-bless-LORD-angels-excel-strength-commandments-hearkening-voice-word-bless-LORD-hosts-ministers-pleasure-bless-LORD-works-places-dominion-bless-LORD-soul
+**Tags:** #divine-blessing #forgiveness-of-sins #healing-power #god
 
 ---
 

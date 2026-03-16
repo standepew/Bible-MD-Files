@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Universal Praise, Instrumental Worship, Divine Power, Breath Praise
 
-**Tags:** #Praise-LORD-Praise-God-sanctuary-praise-firmament-power-praise-mighty-acts-praise-excellent-greatness-praise-sound-trumpet-praise-psaltery-harp-praise-timbrel-dance-praise-stringed-instruments-organs-praise-loud-cymbals-praise-high-sounding-cymbals-breath-praise-LORD-Praise-LORD
+**Tags:** #universal-praise #instrumental-worship #divine-power #breath-praise
 
 ---
 

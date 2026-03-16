@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Perilous Times, Characteristics of Evil Men, Jannes and Jambres, Paul's Example, Continue in the Truth, Holy Scriptures, All Scripture Inspired
 
-**Tags:** #know-last-days-perilous-times-men-lovers-selves-covetous-boasters-proud-blasphemers-disobedient-parents-unthankful-unholy-natural-affection-trucebreakers-false-accusers-incontinent-fierce-despisers-good-Traitors-heady-highminded-lovers-pleasures-lovers-God-form-godliness-denying-power-turn-creep-houses-lead-captive-silly-women-laden-sins-led-away-divers-lusts-learning-able-knowledge-truth-Jannes-Jambres-withstood-Moses-resist-truth-corrupt-minds-reprobate-faith-proceed-further-folly-manifest-men-folly-known-doctrine-manner-life-purpose-faith-longsuffering-charity-patience-Persecutions-afflictions-Antioch-Iconium-Lystra-persecutions-endured-Lord-delivered-live-godly-Christ-Jesus-suffer-persecution-evil-men-seducers-worse-worse-deceiving-deceived-continue-things-learned-assured-knowing-learned-child-known-holy-scriptures-wise-salvation-faith-Christ-Jesus-scripture-inspiration-God-profitable-doctrine-reproof-correction-instruction-righteousness-man-God-perfect-thoroughly-furnished-good-works
+**Tags:** #perilous-times #characteristics-of-evil-men #jannes-and-jambres #paul #continue-in-the-truth #holy-scriptures #all-scripture-inspired
 
 ---
 
@@ -171,7 +171,7 @@ Know, last, days, perilous, times, men, lovers, selves, covetous, boasters, prou
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Perilous Times as Type of Christ's Warning
 - **Physical warning:** Perilous times (2 Timothy 3:2)

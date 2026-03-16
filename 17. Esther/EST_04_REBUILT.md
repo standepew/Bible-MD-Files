@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Mordecai's Mourning, Esther's Response, Divine Providence, Courageous Faith
 
-**Tags:** #Mordecai-perceived-done-rent-clothes-sackcloth-ashes-midst-city-cried-loud-bitter-cry #king-gate-enter-king-gate-clothed-sackcloth #province-king-commandment-decree-great-mourning-Jews-fasting-weeping-wailing-lay-sackcloth-ashes #Esther-maids-chamberlains-told-queen-grieved-sent-raiment-clothe-Mordecai-sackcloth-received #Esther-called-Hatach-king-chamberlains-attended-commandment-Mordecai-know #Hatach-Mordecai-street-city-king-gate #Mordecai-happened-money-Haman-promised-king-treasuries-Jews-destroy #copy-writing-decree-Shushan-destroy-Esther-declare-charge-king-supplication-request-people #Hatach-Esther-words-Mordecai #Esther-Hatach-commandment-Mordecai #king-servants-people-king-provinces-know-man-woman-king-inner-court-called-law-put-death-king-hold-golden-sceptre-live-called-king-thirty-days #told-Mordecai-Esther-words #Mordecai-commanded-answer-Esther-escape-king-house-Jews #altogether-holdest-peace-time-enlargement-deliverance-Jews-place-father-house-destroyed-know-come-kingdom-time #Esther-bade-return-Mordecai-answer #gather-Jews-Shushan-fast-neither-eat-drink-three-days-night-day-maidens-fast-king-law-perish-perish #Mordecai-way-Esther-commanded
+**Tags:** #Hatach-Esther-words-Mordecai #Esther-Hatach-commandment-Mordecai #told-Mordecai-Esther-words #Esther-bade-return-Mordecai-answer #Mordecai-way-Esther-commanded #mordecai #esther #divine-providence #courageous-faith
 
 ---
 

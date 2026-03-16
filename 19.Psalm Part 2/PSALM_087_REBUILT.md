@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Zion's Glory, Divine Foundation, Universal Recognition, Eternal City
 
-**Tags:** #Psalm-Song-sons-Korah-foundation-holy-mountains-LORD-loveth-gates-Zion-dwellings-Jacob-Glorious-things-spoken-city-GOD-Selah-mention-Rahab-Babylon-know-behold-Philistia-Tyre-Ethiopia-man-born-Zion-man-born-highest-establish-LORD-count-writeth-people-man-born-Selah-singers-players-instruments-springs
+**Tags:** #zion #divine-foundation #universal-recognition #eternal-city
 
 ---
 

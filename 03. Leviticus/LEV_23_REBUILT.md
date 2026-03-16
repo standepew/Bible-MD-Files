@@ -2,7 +2,7 @@
 
 ---
 
-## 1. CHAPTER METADATA
+## CHAPTER METADATA
 
 **Book:** Leviticus
 **Chapter:** 23
@@ -13,13 +13,13 @@
 
 ---
 
-## 2. CHAPTER SUMMARY
+## CHAPTER SUMMARY
 
 God gives Moses the complete calendar of His appointed times. The weekly Sabbath is listed first — even before the annual feasts — as the foundational appointed time. Then the seven annual feasts in order: (1) Passover — 14th of the first month at evening, the LORD's Passover. (2) Unleavened Bread — begins the 15th, seven days, first and last days are holy convocations with no servile work; eat unleavened bread throughout. (3) Firstfruits — the wave sheaf offered the morrow after the Sabbath during Unleavened Bread; the harvest cannot be eaten until the wave offering is made. (4) Pentecost/Feast of Weeks — count fifty days from the day after the Sabbath of the wave sheaf; offer two wave loaves of fine flour baked with leaven (firstfruits to the LORD); seven lambs, one bullock, two rams as burnt offering; one goat as sin offering; two lambs as peace offering; a holy convocation. (5) Feast of Trumpets — first day of the seventh month; memorial of blowing of trumpets; holy convocation; rest. (6) Day of Atonement — tenth day of the seventh month; afflict your souls; holy convocation; no work whatsoever; from evening to evening. (7) Feast of Tabernacles — fifteenth of the seventh month; seven days; live in booths; take branches of goodly trees, palms, thick trees, willows; rejoice before the LORD; the eighth day is a solemn assembly. The gleaning law appears at verse 22 in the middle of the feast calendar — the poor and the stranger must have access to harvest even during the celebration.
 
 ---
 
-## 3. CROSS-REFERENCES (Scripture Interpreting Scripture)
+## CROSS-REFERENCES (Scripture Interpreting Scripture) (Scripture Interpreting Scripture)
 
 ### "These Are MY Feasts" — The LORD's Ownership of Time
 
@@ -71,7 +71,7 @@ God gives Moses the complete calendar of His appointed times. The weekly Sabbath
 
 ---
 
-## 4. KEYWORD INDEX
+## KEYWORD INDEX
 
 **For Current Events Matching:**
 - **God's prophetic calendar / appointed times** → Leviticus 23 — Colossians 2:16-17; the feasts as the LORD's timeline
@@ -85,7 +85,7 @@ God gives Moses the complete calendar of His appointed times. The weekly Sabbath
 
 ---
 
-## 5. KEY TERMS WITH CONTEXTUAL DEFINITIONS
+## KEY TERMS WITH CONTEXTUAL DEFINITIONS WITH CONTEXTUAL DEFINITIONS
 
 ### FEAST / APPOINTED TIME (Hebrew: moed — plural: moedim)
 - **Leviticus 23:2, 4, 37, 44** — moed = an appointed time, a set meeting, a fixed season
@@ -101,7 +101,7 @@ God gives Moses the complete calendar of His appointed times. The weekly Sabbath
 
 ---
 
-## 6. THE ACTUAL VERSES — LEVITICUS 23 (KJV)
+## THE ACTUAL VERSES (KJV) — LEVITICUS 23 (KJV)
 
 **1** And the LORD spake unto Moses, saying,
 **2** Speak unto the children of Israel, and say unto them, Concerning the feasts of the LORD, which ye shall proclaim to be holy convocations, even these are my feasts.
@@ -150,7 +150,7 @@ God gives Moses the complete calendar of His appointed times. The weekly Sabbath
 
 ---
 
-## 7. PROPHETIC/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS/TYPOLOGICAL CONNECTIONS
 
 ### The Feast of Tabernacles and John 7 — "The Great Day of the Feast"
 
@@ -164,7 +164,7 @@ Jesus stands on the eighth day — the great day of Tabernacles — and declares
 
 ---
 
-## 8. COMMONLY MISQUOTED PASSAGES
+## COMMONLY MISQUOTED PASSAGES PASSAGES
 
 ### Leviticus 23:24 — "Feast of Trumpets" Used to Predict the Rapture Date
 
@@ -179,7 +179,7 @@ Jesus stands on the eighth day — the great day of Tabernacles — and declares
 
 ---
 
-## 9. SYMBOLIC THREADS
+## SYMBOLIC THREADS
 
 ### The Number Seven in the Feast Calendar
 

@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Faith in Christ as Son of God, Victory Over the World, The Threefold Witness, Eternal Life in the Son, Confidence in Prayer, Final Warning Against Idols
 
-**Tags:** #Whosoever-believeth-Jesus-Christ-born-God-loveth-begat-loveth-begotten-know-love-children-God-love-God-keep-commandments-love-God-keep-commandments-grievous-born-God-overcometh-world-victory-overcometh-world-faith-overcometh-world-believeth-Jesus-Son-God-water-blood-Jesus-Christ-water-water-blood-Spirit-beareth-witness-Spirit-truth-three-bear-record-heaven-Father-Word-Holy-Ghost-three-three-bear-witness-earth-Spirit-water-blood-three-agree-receive-witness-men-witness-God-greater-witness-God-testified-Son-believeth-Son-God-witness-believeth-God-liar-believeth-record-God-Son-record-God-given-eternal-life-life-Son-hath-Son-life-hath-Son-life-written-believe-name-Son-God-know-eternal-life-believe-name-Son-God-confidence-hear-ask-will-heareth-know-hear-ask-know-petitions-desired-brother-sin-sin-death-ask-give-life-sin-death-sin-death-pray-unrighteousness-sin-sin-death-know-born-God-sinneth-begotten-God-keepeth-wicked-toucheth-know-God-world-wickedness-know-Son-God-come-given-understanding-know-true-Son-Jesus-Christ-true-God-eternal-life-children-keep-idols
+**Tags:** #faith-in-christ-as-son-of #victory-over-the-world #the-threefold-witness #eternal-life-in-the-son #confidence-in-prayer #final-warning-against-idols
 
 ---
 
@@ -189,7 +189,7 @@ Whosoever, believeth, Jesus, Christ, born, God, loveth, begat, loveth, begotten,
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Faith in Christ as Son of God as Type of Christ's Saving Power
 - **Physical saving:** Born God (1 John 5:2)

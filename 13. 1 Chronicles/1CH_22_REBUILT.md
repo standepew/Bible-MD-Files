@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Temple Preparations, Solomon's Commission, David's Instructions, Divine Promise to Solomon
 
-**Tags:** #David-house-LORD-God-altar-burnt-offering-Israel #David-commanded-gather-strangers-Israel-land-masons-hew-wrought-stones-build-house-God #David-prepared-iron-abundance-nails-doors-gates-joinings-brass-abundance-weight #cedar-trees-abundance-Zidonians-Tyre-brought-cedar-wood-David #David-Solomon-son-young-tender-house-builded-LORD-exceeding-magnifical-fame-glory-countries-preparation-abundantly-death #David-called-Solomon-son-charged-build-house-LORD-God-Israel #David-Solomon-son-mind-build-house-name-LORD-God #word-LORD-David-shed-blood-abundantly-great-wars-build-house-name-shed-blood-earth-sight #son-born-man-rest-give-rest-enemies-round-name-Solomon-give-peace-quietness-Israel-days #build-house-name-son-father-establish-throne-kingdom-Israel-ever #son-LORD-prosper-build-house-LORD-God-LORD-said-thee #LORD-give-wisdom-understanding-charge-Israel-keep-law-LORD-God #prosper-heed-fulfil-statutes-judgments-LORD-charged-Moses-Israel-strong-good-courage-dread-dismayed #trouble-prepared-house-LORD-hundred-thousand-talents-gold-thousand-thousand-talents-silver-brass-iron-without-weight-abundance-timber-stone-prepared-add-thereto #workmen-abundance-hewers-workers-stone-timber-cunning-men-work #gold-silver-brass-iron-number-arise-LORD-thee #David-commanded-princes-Israel-help-Solomon-son #LORD-God-with-given-rest-side-given-inhabitants-land-hand-land-subdued-LORD-people #set-heart-soul-seek-LORD-God-arise-build-sanctuary-LORD-God-ark-covenant-LORD-holy-vessels-God-house-built-name-LORD
+**Tags:** #temple-preparations #solomon #david #divine-promise-to-solomon
 
 ---
 

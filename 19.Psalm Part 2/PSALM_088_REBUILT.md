@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Deep Suffering, Spiritual Darkness, Divine Silence, Cry for Help
 
-**Tags:** #Song-Psalm-sons-Korah-chief-Musician-Mahalath-Leannoth-Maschil-Heman-Ezrahite-LORD-GOD-salvation-cried-day-night-prayer-come-incline-ear-cry-soul-troubles-life-nigh-grave-counted-go-pit-man-strength-Free-dead-slain-grave-rememberest-cut-hand-laid-lowest-pit-darkness-deeps-wrath-lieth-hard-afflicted-waves-Selah-away-acquaintance-made-abomination-shut-come-eye-mourn-affliction-LORD-called-daily-stretched-hands-Shew-wonders-dead-arise-praise-Selah-lovingkindness-declared-grave-faithfulness-destruction-wonders-dark-righteousness-land-forgetfulness-cried-LORD-morning-prayer-prevent-LORD-cast-soul-hidest-face-afflicted-ready-die-youth-suffer-terrors-distracted-fierce-wrath-over-terrors-cut-came-round-daily-water-compassed-Lover-friend-far-acquaintance-darkness
+**Tags:** #deep-suffering #spiritual-darkness #divine-silence #cry-for-help
 
 ---
 

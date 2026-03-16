@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Thanksgiving and Prayer, Christ's Supremacy, Redemption and Forgiveness, The Mystery Revealed
 
-**Tags:** #Paul-apostle-Jesus-Christ-will-God-Timotheus-brother-saints-faithful-brethren-Christ-Colosse-grace-peace-God-Father-Lord-Jesus-Christ-give-thanks-God-Father-Lord-Jesus-Christ-praying-heard-faith-Christ-Jesus-love-saints-hope-laid-heaven-heard-word-truth-gospel-world-bringeth-fruit-day-heard-grace-God-truth-learned-Epaphras-dear-fellowservant-faithful-minister-Christ-declared-love-Spirit-cease-pray-desire-filled-knowledge-will-wisdom-spiritual-understanding-walk-worthy-Lord-pleasing-fruitful-good-work-increasing-knowledge-God-Strengthened-might-glorious-power-patience-longsuffering-joyfulness-Giving-thanks-Father-made-partakers-inheritance-saints-light-delivered-power-darkness-translated-kingdom-dear-Son-redemption-blood-forgiveness-sins-image-invisible-God-firstborn-creature-created-heaven-earth-visible-invisible-thrones-dominions-principalities-powers-created-things-before-things-consist-head-body-church-beginning-firstborn-dead-preeminence-pleased-Father-fulness-dwell-peace-blood-cross-reconcile-things-earth-heaven-alienated-enemies-mind-wicked-works-reconciled-body-flesh-death-present-holy-unblameable-unreproveable-sight-continue-faith-grounded-settled-moved-hope-gospel-heard-preached-creature-heaven-Paul-minister-rejoice-sufferings-fill-behind-afflictions-Christ-flesh-body-sake-church-minister-dispensation-God-fulfil-word-God-mystery-hid-ages-generations-made-manifest-saints-God-make-known-riches-glory-mystery-Gentiles-Christ-hope-glory-preach-warning-teaching-wisdom-present-perfect-Christ-Jesus-labour-striving-working-worketh-mightily
+**Tags:** #thanksgiving-and-prayer #christ #redemption-and-forgiveness #the-mystery-revealed
 
 ---
 
@@ -225,7 +225,7 @@ Paul, apostle, Jesus, Christ, will, God, Timotheus, brother, saints, faithful, b
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Thanksgiving and Prayer as Type of Christ's Intercession
 - **Physical intercession:** Thanksgiving prayer (Colossians 1:5)

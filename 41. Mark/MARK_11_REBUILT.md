@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Christ's Triumphant Entry, Cleansing of Temple, Cursing Fig Tree, Prayer and Faith
 
-**Tags:** #nigh-Jerusalem-Bethphage-Bethany-mount-Olives-sendeth-disciples-way-village-against-entered-colt-tied-man-sat-loose-bring-man-say-Lord-need-straightway-hither-way-colt-tied-door-without-two-ways-met-loosing-colt-standing-said-loosing-Jesus-commanded-let-brought-colt-Jesus-garments-sat-many-spread-garments-way-cut-branches-trees-strawed-way-went-before-followed-cried-Hosanna-Blessed-cometh-Lord-Blessed-kingdom-David-cometh-Lord-Hosanna-Jesus-entered-Jerusalem-temple-looked-eventide-Bethany-twelve-morrow-Bethany-hungry-fig-tree-leaves-haply-find-figs-time-figs-Jesus-answered-fruit-hereafter-disciples-heard-Jerusalem-temple-cast-sold-bought-overthrew-tables-moneychangers-seats-doves-suffer-vessel-temple-taught-written-house-prayer-thieves-scribes-chief-priests-heard-destroy-feared-people-astonished-doctrine-even-city-morning-fig-tree-dried-roots-remembering-Master-fig-tree-cursed-withered-Jesus-answered-faith-God-verily-mountain-removed-sea-doubt-heart-believe-said-pass-desire-pray-believe-receive-stand-praying-forgive-against-Father-heaven-forgive-trespasses-forgive-trespasses-Jerusalem-temple-walking-chief-priests-scribes-elders-authority-authority-things-answered-question-answer-authority-baptism-John-heaven-men-reasoned-heaven-believe-people-feared-counted-prophet-answered-tell-authority-Jerusalem-temple
+**Tags:** #christ #cleansing-of-temple #cursing-fig-tree #prayer-and-faith
 
 ---
 
@@ -257,7 +257,7 @@ Nigh, Jerusalem, Bethphage, Bethany, mount, Olives, sendeth, disciples, way, vil
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Christ's Triumphant Entry as Type of Christ's Kingship
 - **Physical entry:** Mount Olives (Mark 11:4)

@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Eternal Praise, Divine Help, Creation Power, Compassionate Justice
 
-**Tags:** #Praise-LORD-Praise-LORD-soul-live-praise-LORD-sing-praises-GOD-being-trust-princes-son-man-help-breath-goeth-return-earth-thoughts-perish-happy-God-Jacob-help-hope-LORD-God-made-heaven-earth-sea-therein-keepeth-truth-forever-executeth-judgment-oppressed-giveth-food-hungry-LORD-loosen-prisoners-LORD-openeth-eyes-blind-LORD-raiseth-bowed-LORD-loveth-righteous-LORD-preserveth-strangers-relieveth-fatherless-widow-way-wicked-turn-upside-down-LORD-reign-forever-GOD-Zion-generations-Praise-LORD
+**Tags:** #eternal-praise #divine-help #creation-power #compassionate-justice
 
 ---
 

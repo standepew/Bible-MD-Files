@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Knowledge, Spiritual Ignorance, Priestly Failure, Divine Judgment
 
-**Tags:** #Hear-word-LORD-children-Israel-LORD-controversy-inhabitants-land-truth-mercy-knowledge-God-land-swearing-lying-killing-stealing-committing-adultery-break-blood-touch-blood-land-mourn-dwelleth-languish-beasts-field-fowls-heaven-fishes-sea-taken-man-strive-reprove-people-strive-priest-fall-day-prophet-fall-night-destroy-mother-people-destroyed-lack-knowledge-rejected-knowledge-reject-priest-forgotten-law-God-forget-children-increased-sinned-change-glory-shame-eat-sin-people-heart-iniquity-people-priest-punish-ways-reward-doings-eat-whoredom-increase-left-heed-LORD-whoredom-wine-new-wine-heart-ask-counsel-stocks-staff-declare-spirit-whoredoms-err-whoring-God-sacrifice-tops-mountains-burn-incense-hills-oaks-poplars-elms-shadow-good-daughters-whoredom-spouses-adultery-punish-daughters-whoredom-spouses-adultery-separated-whores-sacrifice-harlots-people-understand-fall-Israel-play-harlot-Judah-offend-Gilgal-Beth-aven-swear-LORD-liveth-Israel-slideth-back-backsliding-heifer-LORD-feed-lamb-large-place-Ephraim-joined-idols-alone-drink-sour-committed-whoredom-continually-rulers-shame-love-wind-bound-wings-shamed-sacrifices
+**Tags:** #christ #spiritual-ignorance #priestly-failure #divine-judgment
 
 ---
 

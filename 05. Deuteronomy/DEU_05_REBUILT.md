@@ -208,3 +208,64 @@ Moses assembles all Israel and restates the Ten Commandments as given at Horeb. 
 ---
 
 **End of Deuteronomy Chapter 5**
+
+---
+
+## COMMONLY MISQUOTED PASSAGES
+
+### Deuteronomy 5:17 — "Thou Shalt Not Kill" — Used to Prohibit Capital Punishment and Warfare
+
+**Verse 17** — "Thou shalt not kill."
+
+**How it is misused:** This commandment is routinely cited to argue that all killing — capital punishment, warfare, self-defense, and animal slaughter — is forbidden by God. It is used as a proof-text for pacifism and the abolition of the death penalty.
+
+**What the text actually says:**
+- **Numbers 35:16-21** — The Law itself distinguishes between murder (rasach) and other forms of killing; only murder brings the death sentence. "Thou shalt not kill" uses rasach — intentional, malicious murder.
+- **Genesis 9:6** — "Whoso sheddeth man's blood, by man shall his blood be shed: for in the image of God made he man." — God commands capital punishment for murder before the Law of Moses, making capital punishment the explicit opposite of murder, not an extension of it.
+- **Deuteronomy 17:6-7** — Capital punishment is commanded within the same law that contains "thou shalt not kill," for specific crimes. A law cannot command what it simultaneously forbids.
+- **Deuteronomy 20:1** — "When thou goest out to battle against thine enemies..." — God commands warfare in the same covenant document. "Thou shalt not kill" does not prohibit commanded warfare.
+- **Romans 13:4** — "For he is the minister of God to thee for good. But if thou do that which is evil, be afraid; for he beareth not the sword in vain: for he is the minister of God, a revenger to execute wrath upon him that doeth evil." — the civil authority's right to execute punishment is affirmed in the New Testament.
+- **Matthew 5:21-22** — Jesus quotes this commandment: "Ye have heard that it was said by them of old time, Thou shalt not kill; and whosoever shall kill shall be in danger of the judgment: But I say unto you, That whosoever is angry with his brother without a cause shall be in danger of the judgment." — Jesus extends the commandment to the heart's anger, proving its target is murder arising from hatred, not all taking of life.
+
+*Correction:* The Hebrew word rasach (kill/murder) has a specific legal meaning: the intentional, unlawful killing of a human being out of malice or hatred. This is confirmed by the fact that the same Law commands capital punishment for murder (Deuteronomy 17), commands warfare (Deuteronomy 20), and institutes the sacrificial system (which requires killing animals daily). "Thou shalt not kill" means "thou shalt not murder" — and Jesus confirms this by rooting its violation in the heart's hatred, not in any act of lawful killing.
+
+---
+
+### Deuteronomy 5:15 — The Sabbath Grounded Only in Redemption — Used to Argue the Sabbath Is Only for Israel
+
+**Verse 15** — "And remember that thou wast a servant in the land of Egypt, and that the LORD thy God brought thee out thence through a mighty hand and by a stretched out arm: therefore the LORD thy God commanded thee to keep the sabbath day."
+
+**How it is misused:** Some argue that because Deuteronomy 5:15 grounds the Sabbath in the Exodus (an Israel-specific event), the Sabbath is a purely Jewish institution with no wider relevance. Others use the difference between Exodus 20 (creation) and Deuteronomy 5 (redemption) as a supposed contradiction to undermine the authority of both.
+
+**What the text actually says:**
+- **Exodus 20:11** — "For in six days the LORD made heaven and earth, the sea, and all that in them is, and rested the seventh day: wherefore the LORD blessed the sabbath day, and hallowed it." — the creation foundation is the first rationale given for the Sabbath. It applies to all of creation, not only to Israel.
+- **Genesis 2:2-3** — "And on the seventh day God ended his work which he had made; and he rested on the seventh day from all his work which he had made. And God blessed the seventh day, and sanctified it." — the Sabbath rest is established before Israel exists, before sin enters, before any covenant with a specific people.
+- **Isaiah 56:6-7** — "Also the sons of the stranger, that join themselves to the LORD, to serve him, and to love the name of the LORD, to be his servants, every one that keepeth the sabbath from polluting it, and taketh hold of my covenant; Even them will I bring to my holy mountain, and make them joyful in my house of prayer." — foreigners who join themselves to the LORD are included in Sabbath observance; it is not ethnically exclusive.
+- **Mark 2:27** — "The sabbath was made for man, and not man for the sabbath." — Jesus expands the Sabbath's scope to all humanity, not Israel alone.
+- **Hebrews 4:9-10** — "There remaineth therefore a rest to the people of God. For he that is entered into his rest, he also hath ceased from his own works, as God did from his." — the Sabbath principle continues into the new covenant as the rest of faith.
+
+*Correction:* Exodus 20 and Deuteronomy 5 give two complementary, not contradictory, foundations for the same commandment. The creation foundation (Exodus 20) establishes the Sabbath's universal basis — God's rest after His completed work applies to all creation. The redemption foundation (Deuteronomy 5) adds a covenant-specific rationale for Israel: you know what it means to be slaves who cannot rest; the Sabbath is your freedom declared weekly. Both are simultaneously true. The Sabbath is not weakened by having two grounds — it is strengthened.
+
+---
+
+## SYMBOLIC THREADS
+
+**The Two Tables of Stone — God's Law Written Outside vs. Inside:**
+- First appears: **Deuteronomy 5:22** — "he wrote them in two tables of stone, and delivered them unto me." — the Law's external medium defines the limitation of the old covenant.
+- **Exodus 31:18** — "And he gave unto Moses, when he had made an end of communing with him upon mount Sinai, two tables of testimony, tables of stone, written with the finger of God."
+- **Exodus 32:19** — Moses breaks the first tablets when Israel has already violated the covenant. The stone tablets broken = the covenant broken by a people whose hearts were not changed.
+- **Exodus 34:1, 28** — New tablets made; the covenant is restored. But still on stone.
+- **Jeremiah 31:33** — "But this shall be the covenant that I will make with the house of Israel; After those days, saith the LORD, I will put my law in their inward parts, and write it in their hearts." — the new covenant promise: same law, new medium.
+- **2 Corinthians 3:3** — "written not with ink, but with the Spirit of the living God; not in tables of stone, but in fleshy tables of the heart." — Paul identifies the new covenant as the fulfillment of Jeremiah 31.
+- *Pattern:* The progression of the stone tablets through Scripture traces the entire arc of redemption: God's law on stone (given externally, Sinai) → law on stone broken (covenant broken by hard hearts) → law on stone restored (the covenant's terms remain) → law on the heart (new covenant, the Spirit writing what stone could not accomplish). The stone tablets are not the goal; they are the pointer to what God always intended — His word dwelling within His people.
+
+---
+
+**The Fire, Cloud, and Thick Darkness — God's Presence in Theophany:**
+- First appears: **Deuteronomy 5:22** — "out of the midst of the fire, of the cloud, and of the thick darkness, with a great voice." — the three elements of God's Sinai appearance.
+- **Exodus 13:21-22** — "And the LORD went before them by day in a pillar of a cloud, to lead them the way; and by night in a pillar of fire, to give them light." — cloud and fire as God's guiding presence through the wilderness.
+- **Exodus 19:16-18** — At Sinai: "And it came to pass on the third day in the morning, that there were thunders and lightnings, and a thick cloud upon the mount... And mount Sinai was altogether on a smoke, because the LORD descended upon it in fire."
+- **Exodus 24:17** — "And the sight of the glory of the LORD was like devouring fire on the top of the mount in the eyes of the children of Israel."
+- **Hebrews 12:18-19** — "For ye are not come unto the mount that might be touched, and that burned with fire, nor unto blackness, and darkness, and tempest, And the sound of a trumpet, and the voice of words; which voice they that heard intreated that the word should not be spoken to them any more." — the Sinai theophany described from the New Testament perspective.
+- **Revelation 4:5** — "And out of the throne proceeded lightnings and thunderings and voices: and there were seven lamps of fire burning before the throne." — the throne in heaven shares the fire-and-thunder signature of Sinai.
+- *Pattern:* Fire, cloud, and thick darkness constitute Scripture's signature of God's immediate holy presence. They mark the moments of direct divine manifestation: Sinai's giving of the Law, the cloud-pillar in the wilderness, God's appearance to Moses. The same fire-presence appears in the heavenly throne room (Revelation 4) and in Christ's transfiguration (Matthew 17:5 — "a bright cloud overshadowed them"). These are not poetic embellishments; they are the consistent physical signature of the holy God making Himself present in time and space.

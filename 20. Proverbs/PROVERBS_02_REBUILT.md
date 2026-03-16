@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Seeking Wisdom, Divine Protection, Moral Uprightness, Avoiding Temptation
 
-**Tags:** #son-receive-words-hide-commandments-incline-ear-wisdom-apply-heart-understanding-cry-knowledge-liftest-voice-understanding-seek-silver-search-hid-treasures-understand-fear-LORD-find-knowledge-God-LORD-giveth-wisdom-mouth-cometh-knowledge-understanding-layeth-sound-wisdom-righteous-buckler-walk-uprightly-keepeth-paths-judgment-preserveth-way-saints-understand-righteousness-judgment-equity-good-path-wisdom-entereth-heart-knowledge-pleasant-soul-discretion-preserve-understanding-keep-deliver-way-evil-man-speaketh-froward-things-leave-paths-uprightness-walk-ways-darkness-rejoice-evil-delight-frowardness-wicked-ways-crooked-froward-paths-deliver-strange-woman-stranger-flattereth-words-forsaketh-guide-youth-forget-covenant-God-house-inclineth-death-paths-dead-return-again-hold-paths-life-walk-way-good-men-keep-paths-righteous-upright-dwell-land-perfect-remain-wicked-cut-earth-transgressors-rooted
+**Tags:** #seeking-wisdom #divine-protection #moral-uprightness #avoiding-temptation
 
 ---
 

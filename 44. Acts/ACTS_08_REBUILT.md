@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** The Persecution Scatters the Church, Philip in Samaria, Simon the Sorcerer, Philip and the Ethiopian
 
-**Tags:** #Saul-consenting-death-great-persecution-church-Jerusalem-scattered-abroad-regions-Judaea-Samaria-apostles-devout-men-carried-Stephen-burial-great-lamentation-Saul-havock-church-entering-house-haling-men-women-committed-prison-scattered-abroad-preaching-word-Philip-city-Samaria-preached-Christ-people-accord-heed-Philip-spake-hearing-seeing-miracles-unclean-spirits-crying-loud-voice-came-possessed-taken-palsies-lame-healed-great-joy-city-man-called-Simon-beforetime-city-sorcery-bewitched-people-Samaria-giving-great-gave-heard-least-greatest-man-great-power-God-regard-long-time-bewitched-sorceries-believed-Philip-preaching-kingdom-God-name-Jesus-Christ-baptized-men-women-Simon-believed-baptized-continued-Philip-wondered-beholding-miracles-signs-apostles-Jerusalem-heard-Samaria-received-word-God-sent-Peter-John-come-prayed-receive-Holy-Ghost-fallen-baptized-name-Lord-Jesus-laid-hands-received-Holy-Ghost-Simon-laying-apostles-hands-Holy-Ghost-given-offered-money-Give-power-lay-hands-receive-Holy-Ghost-Peter-money-perish-thought-gift-God-purchased-money-part-lot-matter-heart-right-sight-God-Repent-wickedness-pray-God-perhaps-thought-heart-forgiven-perceive-gall-bitterness-bond-iniquity-Simon-answered-Pray-Lord-none-things-spoken-testified-preached-word-Lord-returned-Jerusalem-preached-gospel-villages-Samaritans-angel-Lord-spoke-Philip-Arise-south-way-Jerusalem-Gaza-desert-arose-man-Ethiopia-eunuch-great-authority-Candace-queen-Ethiopians-charge-treasure-Jerusalem-worship-returning-sitting-chariot-read-Esaias-prophet-Spirit-Philip-near-join-chariot-Philip-ran-heard-read-prophet-Esaias-Understandest-readest-guide-desired-Philip-come-sit-place-scripture-read-led-sheep-slaughter-lamb-dumb-shearer-opened-mouth-humiliation-judgment-taken-declare-generation-life-earth-eunuch-answered-Philip-pray-prophet-man-Philip-opened-mouth-began-scripture-preached-Jesus-way-water-eunuch-water-hinder-baptized-Philip-believest-heart-mayest-answered-believe-Jesus-Christ-Son-God-commanded-chariot-stand-water-Philip-eunuch-baptized-water-Spirit-Lord-caught-Philip-eunuch-rejoicing-Philip-found-Azotus-passing-preached-cities-Caesarea
+**Tags:** #the-persecution-scatters-the-church #philip-in-samaria #simon-the-sorcerer #philip-and-the-ethiopian
 
 ---
 
@@ -259,7 +259,7 @@ Saul, consenting, death, great, persecution, church, Jerusalem, scattered, abroa
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Persecution Scatters the Church as Type of Christ's Suffering
 - **Physical persecution:** Great persecution (Acts 8:3)

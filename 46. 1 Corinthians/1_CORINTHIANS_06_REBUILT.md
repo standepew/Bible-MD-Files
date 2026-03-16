@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Lawsuits Among Believers, The Unrighteous, Sanctified in Christ, The Temple of the Holy Ghost
 
-**Tags:** #dare-matter-unjust-saints-know-saints-judge-world-judge-world-unworthy-judge-smallest-matters-know-judge-angels-much-matters-life-judgments-life-set-judge-least-esteemed-church-shame-wise-man-able-judge-brethren-brother-law-brother-unbelievers-utterly-fault-law-wrong-defraud-brethren-unrighteous-inherit-kingdom-God-deceived-fornicators-idolaters-adulterers-effeminate-abusers-thieves-covetous-drunkards-revilers-extortioners-inherit-kingdom-God-washed-sanctified-justified-name-Lord-Jesus-Spirit-God-lawful-expedient-lawful-brought-power-meats-belly-belly-meats-God-destroy-body-fornication-Lord-Lord-body-God-raised-Lord-raise-power-bodies-members-Christ-members-Christ-members-harlot-God-forbidden-joined-harlot-body-two-flesh-joined-Lord-spirit-flee-fornication-sin-without-body-committeth-fornication-sinneth-body-body-temple-Holy-Ghost-God-own-bought-price-glorify-God-body-spirit-God
+**Tags:** #lawsuits-among-believers #the-unrighteous #sanctified-in-christ #the-temple-of-the-holy-ghost
 
 ---
 
@@ -195,7 +195,7 @@ Dare, matter, unjust, saints, know, saints, judge, world, judge, world, unworthy
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Lawsuits Among Believers as Type of Christ's Authority
 - **Physical authority:** Judge angels (1 Corinthians 6:3)

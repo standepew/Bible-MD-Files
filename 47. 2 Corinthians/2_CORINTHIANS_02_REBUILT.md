@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Paul's Change of Plans, Forgiveness and Comfort, The Triumph in Christ, The Sweet Savour of Christ
 
-**Tags:** #determined-come-heaviness-make-sorry-glad-sorry-wrote-sorrow-rejoice-confidence-joy-joy-affliction-anguish-heart-wrote-tears-grieved-know-love-abundantly-caused-grief-grieved-part-overcharge-punishment-inflicted-contrariwise-forgive-comfort-swallowed-overmuch-sorrow-beseech-confirm-love-proof-obedient-forgive-forgive-forgave-sakes-forgave-person-Christ-Satan-advantage-ignorant-devices-Troas-preach-Christ-gospel-door-opened-Lord-rest-spirit-found-Titus-brother-leave-thence-Macedonia-thanks-God-causeth-triumph-Christ-manifest-savour-knowledge-place-sweet-savour-Christ-saved-perish-savour-death-death-savour-life-life-sufficient-corrupt-word-God-sincerity-sight-God-speak-Christ
+**Tags:** #paul #forgiveness-and-comfort #the-triumph-in-christ #the-sweet-savour-of-christ
 
 ---
 
@@ -177,7 +177,7 @@ Determined, come, heaviness, make, sorry, glad, sorry, wrote, sorrow, rejoice, c
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Paul's Change of Plans as Type of Christ's Compassion
 - **Physical compassion:** Love abundantly (2 Corinthians 2:6)

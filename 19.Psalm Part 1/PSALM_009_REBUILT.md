@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Thanksgiving for Victory, Divine Judgment, God's Eternal Throne, Refuge for Oppressed
 
-**Tags:** #chief-Musician-Muthlabben-Psalm-David-praise-LORD-whole-heart-shew-marvellous-works-glad-rejoice-sing-praise-name-High-enemies-turned-back-fall-perish-presence #maintained-right-cause-satest-throne-judging-right-rebuked-heathen-destroyed-wicked-name-forever-enemy-destructions-perpetual-destroyed-cities-memorial-perished #LORD-endure-prepared-throne-judgment-judge-world-righteousness-minister-judgment-people-uprightness-refuge-oppressed-trouble-know-name-trust-forsaken-seek #sing-praises-dwelleth-Zion-declare-people-doings-maketh-inquisition-blood-remember-cry-humble-mercy-trouble-hate-liftest-gates-death-shew-praise-gates-daughter-Zion-rejoice-salvation #heathen-sunk-pit-made-net-hid-foot-taken-LORD-known-judgment-executeth-wicked-snared-work-hands-Higgaion-Selah-wicked-turned-hell-nations-forget-GOD-needy-forgotten-expectation-poor-perish #arise-LORD-man-prevail-heathen-judged-sight-fear-nations-know-men-Selah
+**Tags:** #thanksgiving-for-victory #divine-judgment #god #refuge-for-oppressed
 
 ---
 

@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Prayer for Justice, Divine Vengeance, False Witnesses, Thanksgiving for Deliverance
 
-**Tags:** #Psalm-David-plead-cause-LORD-strive-fight-against-shield-buckler-stand-help-draw-spear-stop-way-persecute-soul-salvation-confounded-put-shame-seek-soul-turned-brought-confusion-devise-hurt-chaff-wind-angel-LORD-chase-way-dark-slippery-angel-LORD-persecute-without-cause-hid-net-pit-dug-soul-destruction-unawares-net-hid-catch-destruction-fall #soul-joyful-LORD-rejoice-salvation-bones-say-LORD-deliverest-poor-strong-poor-needy-spoileth-false-witnesses-rise-laid-charge-knew-rewarded-evil-good-spoiling-soul-sick-clothing-sackcloth-humbled-soul-fasting-prayer-returned-bosom-behaved-friend-brother-bowed-heavily-mourneth-mother-adversity-rejoiced-gathered-abjects-gathered-against-knew-tear-ceased-hypocritical-mockers-feasts-gnashed-teeth #Lord-long-look-rescue-soul-destructions-darling-lions-give-thanks-great-congregation-praise-much-people-enemies-wrongfully-rejoice-wink-eye-hate-cause-speak-peace-devise-deceitful-matters-quiet-land-opened-mouth-wide-said-Aha-eye-seen-LORD-keep-silence-Lord-far-stir-up-awake-judgment-cause-GOD-Lord-judge-LORD-GOD-righteousness-rejoice-hearts-say-would-swallowed-ashamed-brought-confusion-rejoice-hurt-clothed-shame-dishonour-magnify-shout-joy-favour-righteous-cause-continually-LORD-magnified-pleasure-prosperity-servant-tongue-speak-righteousness-praise-day
+**Tags:** #prayer-for-justice #divine-vengeance #false-witnesses #thanksgiving-for-deliverance
 
 ---
 

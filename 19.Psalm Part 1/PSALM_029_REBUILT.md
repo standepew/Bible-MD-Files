@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** God's Voice, Divine Power, God's Glory, Peace for His People
 
-**Tags:** #Psalm-David-mighty-LORD-glory-strength-due-name-worship-beauty-holiness-voice-waters-GOD-glory-thundereth-waters-powerful-voice-full-majesty-voice-breaketh-cedars-Lebanon-maketh-skip-calf-Lebanon-Sirion-young-unicorn #voice-divideth-flames-fire-voice-shaketh-wilderness-wilderness-Kadesh-voice-maketh-hinds-calve-discovereth-forests-temple-speak-glory-LORD-sitteth-flood-LORD-sitteth-King-forever-LORD-give-strength-people-LORD-bless-people-peace
+**Tags:** #god #divine-power #peace-for-his-people
 
 ---
 

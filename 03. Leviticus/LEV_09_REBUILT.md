@@ -148,3 +148,55 @@ This sequence foreshadows the high-priestly pattern of Hebrews: the priest enter
 ---
 
 **End of Leviticus Chapter 9**
+
+---
+
+## COMMONLY MISQUOTED PASSAGES
+
+### Leviticus 9:7 — "Make an Atonement for Thyself, and for the People"
+
+**Verse 7** — "Go unto the altar, and offer thy sin offering, and thy burnt offering, and make an atonement for thyself, and for the people: and offer the offering of the people, and make an atonement for them; as the LORD commanded."
+
+**How it is misused:** This verse is sometimes cited to argue that Old Testament priests were equal mediators to Christ — that the Aaronic priesthood and Christ's priesthood perform the same function, or that ordained clergy today stand in the same mediating role between God and the people.
+
+**What the text actually says:**
+- **Hebrews 7:27** — "Who needeth not daily, as those high priests, to offer up sacrifice, first for his own sins, and then for the people's: for this he did once, when he offered up himself."
+- **Hebrews 5:3** — "And by reason hereof he ought, as for the people, so also for himself, to offer for sins."
+
+*Correction:* The requirement that Aaron first atone for himself is not a model for all priesthood — it is the structural evidence of the Aaronic priesthood's limitation. Hebrews 7:27 uses this exact requirement to establish that Christ's priesthood is superior: He needed no sin offering for Himself. The Leviticus 9 pattern built the contrast into the liturgy; it does not establish a permanent template of human priestly mediation but rather exposes what such mediation lacks.
+
+---
+
+### Leviticus 9:24 — "Fire Out from Before the LORD"
+
+**Verse 24** — "And there came a fire out from before the LORD, and consumed upon the altar the burnt offering and the fat: which when all the people saw, they shouted, and fell on their faces."
+
+**How it is misused:** This verse is sometimes invoked to claim that miraculous fire in a worship gathering is always a sign of divine approval — that spectacular phenomena validate the worship being offered.
+
+**What the text actually says:**
+- **Leviticus 10:2** — "And there went out fire from the LORD, and devoured them, and they died before the LORD." — The same divine fire that consumed the acceptable offering in chapter 9 consumed Nadab and Abihu in chapter 10.
+- **1 Kings 18:38** — "Then the fire of the LORD fell, and consumed the burnt sacrifice" — the fire of divine acceptance falls specifically on Elijah's sacrifice offered according to God's pattern, not on Baal's altar.
+
+*Correction:* The fire from the LORD in Leviticus 9 signals divine acceptance of a specifically commanded procedure. The very next chapter shows that fire from the LORD also falls in judgment. The fire itself is not the validation — the obedience that preceded it is. The fire is God's signature on what He commanded, not a universal endorsement of religious enthusiasm.
+
+---
+
+## SYMBOLIC THREADS
+
+**The Eighth Day:**
+- First appears: Genesis 17:12 — "And he that is eight days old shall be circumcised among you, every man child in your generations."
+- Leviticus 9:1 — "And it came to pass on the eighth day" — the Tabernacle system begins its actual operation on the day beyond the completed seven.
+- Leviticus 14:10 — On the eighth day the cleansed leper brings his offerings and is restored to full covenant standing.
+- Leviticus 15:14, 29 — On the eighth day the one cleansed of a chronic discharge brings offerings before the LORD.
+- Leviticus 23:36 — "On the eighth day shall be an holy convocation unto you" — the closing solemn assembly of the Feast of Tabernacles, beyond the feast's seven days.
+- John 20:26 — "And after eight days again his disciples were within, and Thomas with them: then came Jesus."
+- *Pattern:* Scripture uses the eighth day consistently as the day of new beginning beyond the completed old cycle. Seven = the creation week brought to its close. Eight = the first day of what comes after. The Tabernacle launches on the eighth day; the leper is restored on the eighth day; Christ rises on the first-day-which-is-also-the-eighth, the day of new creation.
+
+**The Glory of the LORD (Kevod YHWH):**
+- First appears: Exodus 16:10 — "And it came to pass, as Aaron spake unto the whole congregation of the children of Israel, that they looked toward the wilderness, and, behold, the glory of the LORD appeared in the cloud."
+- Leviticus 9:6 — "the glory of the LORD shall appear unto you" — the explicit stated purpose of all the offerings on the first day of priestly ministry.
+- Leviticus 9:23 — "and the glory of the LORD appeared unto all the people."
+- 1 Kings 8:11 — "for the glory of the LORD had filled the house of the LORD" — the same glory fills Solomon's Temple at its dedication.
+- John 1:14 — "And the Word was made flesh, and dwelt among us, and we beheld his glory, the glory as of the only begotten of the Father."
+- Revelation 21:23 — "And the city had no need of the sun, neither of the moon, to shine in it: for the glory of God did lighten it, and the Lamb is the light thereof."
+- *Pattern:* The glory of the LORD is the visible manifestation of God's weighty, consuming, luminous presence. It appears at the Tabernacle launch (Leviticus 9), fills the Temple (1 Kings 8), and is beheld in the incarnate Son (John 1:14). The goal of the entire sacrificial system — access to God's presence — is finally and permanently achieved in the New Jerusalem where the glory is the light of the city forever.

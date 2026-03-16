@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Birth of Jesus, Shepherds and Angels, Presentation in Temple, Jesus at Twelve Years Old
 
-**Tags:** #came-pass-days-decree-Cæsar-Augustus-world-taxed-taxing-first-Cyrenius-governor-Syria-taxed-city-Joseph-Galilee-city-Nazareth-Judæa-city-David-Bethlehem-house-lineage-David-taxed-Mary-espoused-wife-great-child-accomplished-delivered-brought-firstborn-son-wrapped-swaddling-clothes-laid-manger-room-inn-country-shepherds-keeping-watch-flock-night-angel-Lord-glory-Lord-shone-sore-afraid-angel-Fear-behold-bring-good-tidings-great-joy-people-born-day-city-David-Saviour-Christ-Lord-sign-babe-wrapped-swaddling-clothes-lying-manger-suddenly-angel-multitude-heavenly-host-praising-God-Glory-highest-earth-peace-good-will-men-angels-gone-heaven-shepherds-Bethlehem-thing-pass-Lord-known-haste-found-Mary-Joseph-babe-manger-seen-known-saying-child-heard-wondered-told-shepherds-Mary-kept-pondered-heart-shepherds-returned-glorifying-praising-God-heard-seen-told-eight-days-accomplished-circumcising-child-called-JESUS-named-angel-conceived-womb-days-purification-law-Moses-Jerusalem-present-Lord-written-law-Lord-male-openeth-womb-holy-Lord-sacrifice-law-Lord-pair-turtledoves-young-pigeons-man-Jerusalem-Simeon-just-devout-consolation-Israel-Holy-Ghost-revealed-Holy-Ghost-death-Lord-Christ-Spirit-temple-parents-child-Jesus-custom-law-took-arms-blessed-God-Lord-servant-depart-peace-word-eyes-salvation-prepared-face-people-light-lighten-Gentiles-glory-people-Israel-Joseph-mother-marvelled-spoken-Simeon-blessed-Mary-mother-child-fall-rising-Israel-sign-spoken-sword-pierce-soul-thoughts-hearts-revealed-Anna-prophetess-daughter-Phanuel-tribe-Aser-great-age-lived-husband-seven-years-virginity-widow-fourscore-years-departed-temple-served-God-fastings-prayers-night-day-coming-instant-gave-thanks-Lord-spake-looked-redemption-Jerusalem-performed-law-Lord-returned-Galilee-city-Nazareth-child-grew-waxed-strong-spirit-filled-wisdom-grace-God-parents-Jerusalem-year-feast-passover-twelve-years-Jerusalem-custom-feast-fulfilled-days-returned-child-Jesus-tarried-Jerusalem-Joseph-mother-supposing-company-day-journey-sought-kinsfolk-acquaintance-found-returned-Jerusalem-seeking-three-days-temple-sitting-midst-doctors-hearing-asking-questions-heard-astonished-understanding-answers- amazed-mother-Son-dealt-sought-sorrowing-sought-Father-business-understood-saying-Nazareth-subject-mother-kept-sayings-heart-Jesus-increased-wisdom-stature-favour-God-man
+**Tags:** #birth-of-jesus #shepherds-and-angels #presentation-in-temple #jesus-at-twelve-years-old
 
 ---
 
@@ -305,7 +305,7 @@ Came, pass, days, decree, Cæsar, Augustus, world, taxed, taxing, first, Cyreniu
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Birth of Jesus as Type of Christ's Humiliation
 - **Physical birth:** Firstborn son (Luke 2:9)

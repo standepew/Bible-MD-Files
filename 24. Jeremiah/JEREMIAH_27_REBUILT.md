@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Yoke, Divine Servanthood, False Prophets, Christ's Vessels
 
-**Tags:** #beginning-reign-Jehoiakim-son-Josiah-king-Judah-word-Jeremiah-LORD-saying-LORD-bonds-yokes-put-neck-send-king-Edom-king-Moab-king-Ammonites-king-Tyrus-king-Zidon-hand-messengers-Jerusalem-Zedekiah-king-Judah-command-masters-LORD-hosts-God-Israel-masters-earth-man-beast-ground-power-outstretched-arm-given-meet-given-lands-hand-Nebuchadnezzar-king-Babylon-servant-beasts-field-serve-nations-serve-son-son-time-land-nations-great-kings-serve-nation-kingdom-serve-Nebuchadnezzar-king-Babylon-put-neck-yoke-king-Babylon-nation-punish-LORD-sword-famine-pestilence-consumed-hand-hearken-prophets-diviners-dreamers-enchanters-sorcerers-speak-serve-king-Babylon-prophesy-lie-remove-land-drive-perish-nations-bring-neck-yoke-king-Babylon-serve-remain-land-till-dwell-spoke-Zedekiah-king-Judah-words-bring-necks-yoke-king-Babylon-serve-live-die-people-sword-famine-pestilence-LORD-spoken-nation-serve-king-Babylon-hearken-words-prophets-speak-serve-king-Babylon-prophesy-lie-sent-prophesy-lie-drive-perish-prophets-prophesy-spoke-priests-people-LORD-Hearken-words-prophets-prophesy-vessels-LORD-house-brought-Babylon-prophesy-lie-Hearken-serve-king-Babylon-live-city-laid-waste-prophets-word-LORD-intercession-LORD-hosts-vessels-left-house-LORD-house-king-Judah-Jerusalem-Babylon-LORD-hosts-pillars-sea-bases-residue-vessels-city-Nebuchadnezzar-king-Babylon-carried-captive-Jeconiah-son-Jehoiakim-king-Judah-Jerusalem-Babylon-nobles-Judah-Jerusalem-LORD-hosts-God-Israel-vessels-remain-house-LORD-house-king-Judah-Jerusalem-carried-Babylon-day-visit-bring-restore-place
+**Tags:** #christ #divine-servanthood #false-prophets
 
 ---
 

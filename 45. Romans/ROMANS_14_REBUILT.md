@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Weak and Strong Faith, Liberty and Conscience, The Kingdom of God, Stumbling Blocks
 
-**Tags:** #weak-faith-receive-doubtful-disputations-believeth-eat-things-weak-eateth-herbs-eateth-despiseth-eateth-judge-eateth-God-received-judgest-servant-master-standeth-falleth-holden-God-stand-esteemed-day-esteemed-alike-persuaded-mind-regardeth-Lord-regardeth-Lord-eateth-Lord-giveth-God-thanks-eateth-Lord-giveth-God-thanks-liveth-dieth-live-Lord-die-Lord-Lord-Christ-died-rose-revived-Lord-dead-living-judge-brother-nought-brother-stand-judgment-seat-Christ-written-live-Lord-knee-bow-tongue-confess-God-account-God-judge-stumblingblock-occasion-fall-brother-way-persuaded-Lord-Jesus-unclean-unclean-unclean-brother-grieved-meat-walkest-charitably-destroy-meat-Christ-died-good-evil-spoken-kingdom-God-meat-drink-righteousness-peace-joy-Holy-Ghost-things-serveth-Christ-acceptable-God-approved-men-follow-peace-edify-destroy-work-God-things-pure-evil-man-eateth-offence-eat-flesh-drink-wine-brother-stumbleth-offended-weak-faith-God-happy-condemneth-alloweth-doubeth-damned-eat-faith-sin
+**Tags:** #weak-and-strong-faith #liberty-and-conscience #the-kingdom-of-god #stumbling-blocks
 
 ---
 
@@ -225,7 +225,7 @@ Weak, faith, receive, doubtful, disputations, believeth, eat, things, weak, eate
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Weak and Strong Faith as Type of Christ's Patience
 - **Physical patience:** Weak faith (Romans 14:3)

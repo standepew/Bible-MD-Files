@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Message to Ephesus (Lost First Love), Message to Smyrna (Faithful in Tribulation), Message to Pergamos (Compromise with False Doctrine), Message to Thyatira (Tolerance of Jezebel)
 
-**Tags:** #angel-church-Ephesus-write-holdeth-seven-stars-right-hand-walketh-midst-seven-golden-candlesticks-know-works-labour-patience-bear-evil-tried-apostles-found-liars-borne-patience-name-sake-laboured-fainted-left-first-love-Remember-whence-fallen-repent-first-works-remove-candlestick-place-repent-hatest-deeds-Nicolaitans-hate-ear-hear-Spirit-saith-churches-overcometh-eat-tree-life-midst-paradise-God-angel-church-Smyrna-write-first-last-dead-alive-know-works-tribulation-poverty-rich-blasphemy-Jews-synagogue-Satan-Fear-suffer-devil-cast-prison-tried-tribulation-ten-days-faithful-death-give-crown-life-ear-hear-Spirit-saith-churches-overcometh-hurt-second-death-angel-church-Pergamos-write-sharp-sword-two-edges-know-works-dwellest-Satan-seat-holdest-fast-name-denied-faith-days-Antipas-faithful-martyr-slain-Satan-dwellest-hold-doctrine-Balaam-taught-Balac-cast-stumblingblock-children-Israel-eat-sacrificed-idols-commit-fornication-hold-doctrine-Nicolaitans-hate-Repent-fight-sword-mouth-ear-hear-Spirit-saith-churches-overcometh-eat-hidden-manna-white-stone-stone-new-name-written-knoweth-receiveth-angel-church-Thyatira-write-Son-God-eyes-flame-fire-feet-fine-brass-know-works-charity-service-faith-patience-works-last-first-sufferest-woman-Jezebel-prophetess-teach-seduce-servants-commit-fornication-eat-sacrificed-idols-gave-space-repent-fornication-repended-cast-bed-commit-adultery-great-tribulation-repent-deeds-kill-children-death-churches-know-searcheth-reins-hearts-give-works-rest-Thyatira-doctrine-known-depths-Satan-speak-burden-hold-fast-come-overcometh-keepeth-works-end-give-power-nations-rule-rod-iron-vessels-potter-broken-shivers-received-Father-give-morning-star-ear-hear-Spirit-saith-churches
+**Tags:** #message-to-ephesus #message-to-smyrna #message-to-pergamos #message-to-thyatira
 
 ---
 
@@ -225,7 +225,7 @@ Angel, church, Ephesus, write, holdeth, seven, stars, right, hand, walketh, mids
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Message to Ephesus (Lost First Love) as Type of Christ's Restoration
 - **Physical restoration:** First love (Revelation 2:3)

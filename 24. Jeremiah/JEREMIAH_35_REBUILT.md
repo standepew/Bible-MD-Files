@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Obedience, Rechabites' Faithfulness, Divine Rebuke, Christ's Blessing
 
-**Tags:** #word-Jeremiah-LORD-days-Jehoiakim-son-Josiah-king-Judah-house-Rechabites-speak-house-LORD-chamber-give-wine-drink-Jaazaniah-son-Jeremiah-son-Habaziniah-brethren-sons-house-Rechabites-house-LORD-chamber-sons-Hanan-son-Igdaliah-man-God-chamber-princes-chamber-Maaseiah-son-Shallum-keeper-door-sons-house-Rechabites-pots-wine-cups-wine-drink-wine-Jonadab-son-Rechab-father-commanded-drink-wine-sons-build-house-sow-seed-plant-vineyard-dwell-tents-live-days-land-strangers-obeyed-voice-Jonadab-son-Rechab-father-charged-drink-wine-days-wives-sons-daughters-build-houses-dwell-vineyard-field-seed-dwell-tents-obeyed-Jonadab-father-commanded-Nebuchadrezzar-king-Babylon-came-land-Jerusalem-fear-army-Chaldeans-fear-army-Syrians-dwell-Jerusalem-word-LORD-Jeremiah-LORD-hosts-God-Israel-tell-Judah-inhabitants-Jerusalem-receive-instruction-hearken-words-LORD-words-Jonadab-son-Rechab-commanded-sons-drink-wine-performed-day-drink-obey-father-commandment-spoken-rising-early-speaking-hearkened-sent-servants-prophets-rising-early-sending-Return-man-evil-way-amend-doings-gods-serve-dwell-land-gave-fathers-inclined-ear-hearkened-sons-Jonadab-son-Rechab-performed-commandment-father-commanded-people-hearkened-LORD-God-hosts-God-Israel-Judah-inhabitants-Jerusalem-evil-pronounced-spoken-heard-called-answered-Jeremiah-house-Rechabites-LORD-hosts-God-Israel-obeyed-commandment-Jonadab-father-kept-precepts-commanded-LORD-hosts-God-Israel-Jonadab-son-Rechab-man-stand-forever
+**Tags:** #christ #rechabites #divine-rebuke
 
 ---
 

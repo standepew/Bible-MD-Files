@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Royal Tribute, Mordecai's Greatness, Final Honor, Peaceful Leadership
 
-**Tags:** #king-Ahasuerus-laid-tribute-land-isles-sea #acts-power-might-declaration-greatness-Mordecai-king-advanced-written-book-chronicles-kings-Media-Persia #Mordecai-Jew-next-king-Ahasuerus-great-Jews-accepted-multitude-brethren-seeking-wealth-people-speaking-peace-seed
+**Tags:** #royal-tribute #mordecai #final-honor #peaceful-leadership
 
 ---
 

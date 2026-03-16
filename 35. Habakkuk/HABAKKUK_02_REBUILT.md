@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Answer to Suffering, Just Shall Live by Faith, Woe Against Wickedness, God's Glory
 
-**Tags:** #stand-watch-set-tower-watch-say-answer-reproved-LORD-answered-WRITE-vision-plain-tables-run-readeth-vision-appointed-time-end-speak-lie-tarry-wait-surely-come-tarry-soul-lifted-upright-just-live-faith-transgresseth-wine-proud-man-keep-home-enlargeth-desire-hell-death-satisfied-gather-nations-heap-people-parable-taunting-proverb-woe-increaseth-long-ladened-thick-clay-rise-suddenly-bite-awake-vex-booties-spoiled-nations-remnant-people-spoil-blood-violence-land-city-dwell-woe-coveteth-evil-covetousness-house-set-nest-high-delivered-power-evil-consulted-shame-house-cutting-people-sinned-soul-stone-cry-wall-beam-timber-answer-woe-buildeth-town-blood-stablisheth-city-iniquity-LORD-hosts-people-labour-fire-weary-vanity-earth-filled-knowledge-glory-LORD-waters-cover-sea-woe-giveth-neighbour-drink-bottle-drunken-look-nakedness-filled-shame-glory-drink-foreskin-uncovered-cup-LORD-right-turned-shameful-spewing-glory-violence-Lebanon-cover-spoil-beasts-afraid-blood-violence-land-city-dwell-profiteth-graven-image-maker-graven-molten-image-teacher-lies-maker-work-trust-dumb-idols-woe-saith-wood-Awake-dumb-stone-Arise-teach-laid-gold-silver-breath-midst-LORD-holy-temple-earth-keep-silence
+**Tags:** #christ #just-shall-live-by-faith #woe-against-wickedness #god
 
 ---
 

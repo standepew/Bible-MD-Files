@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Faithful Reign, Building Projects, Military Victory, Divine Preparation
 
-**Tags:** #Jotham-twenty-five-years-reigned-sixteen-years-Jerusalem-mother-Jerushah-daughter-Zadok #right-sight-LORD-father-Uzziah-entered-temple-LORD-people-corruptly #built-high-gate-house-LORD-wall-Ophel-built-much #built-cities-mountains-Judah-forests-castles-towers #fought-king-Ammonites-prevailed-children-Ammon-hundred-talents-silver-ten-thousand-measures-wheat-ten-thousand-barley-second-year-third #Jotham-mighty-prepared-ways-LORD-GOD #acts-Jotham-wars-ways-book-kings-Israel-Judah #five-twenty-years-reigned-sixteen-years-Jerusalem #Jotham-slept-fathers-buried-city-David-Ahaz-son-reigned-stead
+**Tags:** #faithful-reign #building-projects #military-victory #divine-preparation
 
 ---
 

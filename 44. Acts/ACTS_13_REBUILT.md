@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Paul and Barnabas Sent, Elymas the Sorcerer, Paul's Sermon at Antioch, Rejection by the Jews
 
-**Tags:** #church-Antioch-prophets-teachers-Barnabas-Simeon-Niger-Lucius-Cyrene-Manaen-brought-Herod-tetrarch-Saul-ministered-Lord-fasted-Holy-Ghost-Separate-Barnabas-Saul-work-called-fasted-prayed-laid-hands-sent-Holy-Ghost-departed-Seleucia-sailed-Cyprus-Salamis-preached-word-God-synagogues-Jews-John-minister-gone-isle-Paphos-sorcerer-false-prophet-Jew-Bar-jesus-deputy-country-Sergius-Paulus-prudent-called-Barnabas-Saul-desired-hear-word-God-Elymas-sorcerer-interpretation-withstood-seeking-turn-deputy-faith-Saul-Paul-filled-Holy-Ghost-eyes-full-subtilty-mischief-child-devil-enemy-righteousness-cease-pervert-right-ways-Lord-hand-Lord-blind-seeing-sun-season-immediately-fell-mist-darkness-went-seeking-lead-hand-deputy-saw-believed-astonished-doctrine-Lord-Paul-company-loosed-Paphos-Perga-Pamphylia-John-departing-returned-Jerusalem-departed-Perga-Antioch-Pisidia-synagogue-sabbath-sat-reading-law-prophets-rulers-synagogue-ye-brethren-exhortation-people-Paul-beckoning-hand-Israel-fear-God-audience-God-Israel-chose-fathers-exalted-people-dwelt-strangers-land-Egypt-high-arm-brought-forty-years-suffered-manners-wilderness-destroyed-seven-nations-land-Chanaan-divided-land-lot-judges-space-four-hundred-fifty-years-Samuel-prophet-desired-king-God-Saul-son-Cis-tribe-Benjamin-forty-years-removed-raised-David-king-testimony-found-David-son-Jesse-heart-fulfil-will-seed-God-promise-raised-Israel-Saviour-Jesus-John-preached-coming-baptism-repentance-Israel-John-fulfilled-course-Whom-think-am-behold-cometh-shoes-feet-worthy-loose-brethren-stock-Abraham-feareth-God-salvation-dwell-Jerusalem-rulers-knew-voices-prophets-read-sabbath-fulfilled-condemning-found-cause-death-desired-Pilate-slain-fulfilled-written-took-tree-sepulchre-God-raised-dead-seen-days-came-Galilee-Jerusalem-witnesses-people-declare-glad-tidings-promise-fathers-God-fulfilled-children-raised-Jesus-written-psalm-Son-begotten-raised-dead-corruption-wise-mercies-David-psalm-Holy-corruption-David-served-generation-will-God-slept-fathers-corruption-raised-corruption-known-brethren-man-preached-forgiveness-sins-believe-justified-justified-law-Moses-Beware-prophets-despisers-wonder-perish-work-days-work-believe-man-declare-Jews-synagogue-Gentiles-besought-preached-sabbath-congregation-Jews-religious-proselytes-Paul-Barnabas-speaking-persuaded-continue-grace-God-sabbath-city-hear-word-God-Jews-multitudes-filled-envy-spoke-Paul-contradicting-blaspheming-Paul-Barnabas-waxed-bold-word-God-spoken-seeing-judge-unworthy-everlasting-life-turn-Gentiles-Lord-commanded-light-Gentiles-salvation-ends-earth-Gentiles-heard-glad-glorified-word-Lord-ordained-eternal-life-believed-word-Lord-published-region-Jews-stirred-devout-honourable-women-chief-men-city-persecution-Paul-Barnabas-expelled-coasts-shook-dust-feet-Iconium-disciples-filled-Holy-Ghost
+**Tags:** #paul-and-barnabas-sent #elymas-the-sorcerer #paul #rejection-by-the-jews
 
 ---
 
@@ -355,7 +355,7 @@ Church, Antioch, prophets, teachers, Barnabas, Simeon, Niger, Lucius, Cyrene, Ma
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Paul and Barnabas Sent as Type of Christ's Commission
 - **Physical commission:** Holy Ghost said (Acts 13:4)

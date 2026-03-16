@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Measuring the Temple, The Two Witnesses, Their Death and Resurrection, The Seventh Trumpet, The Kingdoms of This World
 
-**Tags:** #reed-rod-angel-stand-saying-Rise-measure-temple-God-altar-worship-court-without-temple-measure-Gentiles-holy-city-tread-foot-forty-two-months-power-two-witnesses-prophesy-thousand-two-hundred-threescore-days-clothed-sackcloth-olive-trees-candlesticks-standing-God-earth-hurt-fire-proceedeth-mouth-devoureth-enemies-hurt-killed-power-shut-heaven-rain-days-prophecy-power-waters-turn-blood-smite-earth-plagues-finished-testimony-beast-ascendeth-bottomless-pit-war-overcome-kill-dead-bodies-street-great-city-spiritually-Sodom-Egypt-Lord-crucified-people-kindreds-tongues-nations-dead-bodies-three-days-half-suffer-dead-bodies-graves-dwell-earth-rejoice-make-merry-send-gifts-prophets-tormented-dwelt-earth-three-days-half-Spirit-life-God-entered-stood-feet-great-fear-saw-great-voice-heaven-saying-Come-cloud-ascended-heaven-enemies-beheld-hour-great-earthquake-tenth-part-city-fell-earthquake-slain-seven-thousand-remnant-affrighted-glory-God-heaven-second-woe-third-woe-seventh-angel-sounded-great-voices-heaven-kingdoms-world-kingdoms-Lord-Christ-reign-forever-four-twenty-elders-sat-God-seats-fell-faces-worshipped-God-give-thanks-Lord-God-Almighty-reign-taken-great-power-reigned-nations-angry-wrath-time-dead-judged-reward-servants-prophets-saints-fear-name-small-great-destroy-destroy-earth-temple-God-opened-heaven-seen-temple-ark-testament-lightnings-voices-thunderings-earthquake-great-hail
+**Tags:** #measuring-the-temple #the-two-witnesses #their-death-and-resurrection #the-seventh-trumpet #the-kingdoms-of-this-world
 
 ---
 
@@ -195,7 +195,7 @@ Reed, rod, angel, stand, saying, Rise, measure, temple, God, altar, worship, cou
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Measuring the Temple as Type of Christ's Divine Protection
 - **Physical protection:** Measure temple (Revelation 11:2)

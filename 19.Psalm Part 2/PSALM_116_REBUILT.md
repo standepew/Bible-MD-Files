@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Personal Testimony, Divine Deliverance, Thanksgiving Vows, Death of Saints
 
-**Tags:** #love-LORD-heard-voice-supplications-inclined-ear-call-long-live-sorrows-death-compassed-pains-hell-gat-hold-trouble-sorrow-called-name-LORD-LORD-beseech-deliver-soul-Gracious-LORD-righteous-God-merciful-LORD-preserveth-simple-brought-low-helped-Return-rest-soul-LORD-dealt-bountifully-delivered-soul-death-eyes-tears-feet-falling-walk-LORD-land-living-believed-spoken-greatly-afflicted-haste-liars-render-benefits-take-cup-salvation-call-name-LORD-pay-vows-LORD-presence-people-Precious-sight-LORD-death-saints-truly-servant-servant-son-handmaid-loosed-bonds-offer-sacrifice-thanksgiving-call-name-LORD-pay-vows-LORD-presence-people-courts-LORD-house-midst-Jerusalem-Praise-LORD
+**Tags:** #personal-testimony #divine-deliverance #thanksgiving-vows #death-of-saints
 
 ---
 

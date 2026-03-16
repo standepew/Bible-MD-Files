@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Glory, Divine Chariot, Temple Departure, Christ's Presence
 
-**Tags:** #looked-firmament-head-cherubims-appeared-sapphire-stone-appearance-likeness-throne-spake-man-clothed-linen-wheels-cherub-fill-hand-coals-fire-cherubims-scatter-city-went-sight-cherubims-right-side-house-man-went-cloud-filled-inner-court-glory-LORD-cherub-threshold-house-house-filled-cloud-court-brightness-LORD-glory-sound-cherubims-wings-outer-court-voice-Almighty-GOD-speaketh-commanded-man-clothed-linen-fire-wheels-cherubims-went-stood-wheels-cherub-stretched-hand-cherubims-fire-cherubims-took-hands-man-clothed-linen-took-went-cherubims-form-man-hand-wings-cherubims-four-wheels-cherub-wheel-cherub-wheel-cherub-appearance-wheels-colour-beryl-stone-appearances-likeness-wheel-midst-wheel-went-four-sides-turned-went-place-head-looked-followed-turned-whole-body-backs-hands-wings-wheels-full-eyes-round-wheels-four-wheels-hearing-wheel-four-faces-first-face-cherub-second-face-man-third-face-lion-fourth-face-eagle-cherubims-lifted-living-creature-river-Chebar-cherubims-went-wheels-cherubims-lifted-wings-mount-earth-wheels-turned-beside-stood-stood-lifted-lifted-spirit-living-creature-glory-LORD-departed-threshold-house-cherubims-cherubims-lifted-wings-mounted-earth-sight-went-wheels-beside-stood-door-east-gate-LORD-house-glory-God-Israel-living-creature-God-Israel-river-Chebar-knew-cherubims-four-faces-four-wings-likeness-hands-man-wings-likeness-faces-river-Chebar-appearances-straight-forward
+**Tags:** #christ #divine-chariot #temple-departure
 
 ---
 

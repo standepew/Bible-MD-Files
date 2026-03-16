@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Figs, Good Captives, Evil Remnant, Christ's Restoration
 
-**Tags:** #LORD-shewed-baskets-figs-set-temple-LORD-Nebuchadrezzar-king-Babylon-carried-captive-Jeconiah-son-Jehoiakim-king-Judah-princes-Judah-carpenters-smiths-Jerusalem-brought-Babylon-basket-good-figs-figs-first-ripe-basket-naughty-figs-eaten-bad-LORD-Jeremiah-seest-Figs-good-evil-eaten-evil-word-LORD-LORD-God-Israel-good-figs-acknowledge-carried-captive-Judah-sent-place-Chaldeans-good-set-eyes-good-bring-land-build-pull-plant-pluck-heart-know-LORD-people-God-return-heart-evil-figs-eaten-evil-LORD-Zedekiah-king-Judah-princes-residue-Jerusalem-remain-land-dwell-land-Egypt-deliver-removed-kingdoms-earth-hurt-reproach-proverb-taunt-curse-places-drive-sword-famine-pestilence-consumed-land-gave-fathers
+**Tags:** #christ #good-captives #evil-remnant
 
 ---
 

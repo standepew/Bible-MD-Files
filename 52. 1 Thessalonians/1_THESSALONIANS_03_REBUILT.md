@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Timothy Sent to Thessalonica, Paul's Concern and Comfort, Prayer for the Thessalonians, Established in Holiness
 
-**Tags:** #forbear-thought-good-left-Athens-alone-sent-Timotheus-brother-minister-God-fellowlabourer-gospel-Christ-establish-comfort-faith-moved-afflictions-know-appointed-suffer-tribulation-came-pass-know-forbear-sent-know-faith-tempter-tempted-labour-vain-Timotheus-brought-good-tidings-faith-charity-good-remembrance-desiring-greatly-comforted-affliction-distress-faith-live-stand-fast-Lord-thanks-render-God-joy-joy-sakes-God-Night-day-praying-exceedingly-face-perfect-lacking-faith-God-Father-Lord-Jesus-Christ-direct-way-Lord-increase-abound-love-toward-men-end-stablish-hearts-unblameable-holiness-God-Father-coming-Lord-Jesus-Christ-saints
+**Tags:** #timothy-sent-to-thessalonica #paul #prayer-for-the-thessalonians #established-in-holiness
 
 ---
 
@@ -157,7 +157,7 @@ Forbear, thought, good, left, Athens, alone, sent, Timotheus, brother, minister,
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Timothy Sent to Thessalonica as Type of Christ's Mission
 - **Physical mission:** Establish faith (1 Thessalonians 3:4)

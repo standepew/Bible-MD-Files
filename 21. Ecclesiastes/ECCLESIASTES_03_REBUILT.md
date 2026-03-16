@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Divine Timing, Human Mortality, God's Sovereignty, Eternal Perspective
 
-**Tags:** #thing-season-time-purpose-heaven-time-born-time-die-time-plant-time-pluck-planted-time-kill-time-heal-time-break-time-build-time-weep-time-laugh-time-mourn-time-dance-time-cast-away-stones-time-gather-stones-time-embrace-time-refrain-embracing-time-get-time-lose-time-keep-time-cast-time-time-rend-time-sew-time-keep-silence-time-speak-time-love-time-hate-time-war-time-peace-profit-worketh-laboureth-seen-travail-God-given-sons-men-exercised-made-thing-beautiful-time-set-world-heart-man-find-work-God-beginning-end-know-good-rejoice-good-life-every-man-eat-drink-enjoy-good-labour-gift-God-know-God-shall-forever-thing-put-taken-God-men-fear-hath-shall-hath-been-hath-been-God-requireth-past-saw-sun-place-judgment-wickedness-place-righteousness-iniquity-said-heart-God-judge-righteous-wicked-time-purpose-work-said-heart-estate-sons-men-God-manifest-might-see-themselves-beasts-befalleth-sons-men-befalleth-beasts-thing-befalleth-dieth-dieth-breath-man-preeminence-beast-vanity-place-dust-turn-dust-knoweth-spirit-man-upward-spirit-beast-downward-earth-perceive-nothing-better-rejoice-works-portion-bring-see
+**Tags:** #divine-timing #human-mortality #god #eternal-perspective
 
 ---
 

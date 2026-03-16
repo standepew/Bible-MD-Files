@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Final Judgment, Valley of Decision, Divine Restoration, Holy Mountain
 
-**Tags:** #behold-days-time-bring-captivity-Judah-Jerusalem-gather-nations-valley-Jehoshaphat-plead-people-heritage-Israel-scattered-nations-parted-land-cast-lots-people-given-boy-harlot-sold-girl-wine-drink-Tyre-Zidon-coasts-Palestine-render-recompence-recompence-swiftly-speedily-return-recompence-head-taken-silver-gold-carried-temples-goodly-pleasant-children-Judah-children-Jerusalem-sold-Grecians-remove-border-behold-raise-place-sold-return-recompence-head-sell-sons-daughters-hand-children-Judah-sell-Sabeans-people-far-LORD-spoken-Proclaim-Gentiles-Prepare-war-wake-mighty-men-men-war-draw-near-come-Beat-plowshares-swords-pruninghooks-spears-weak-say-strong-Assemble-heathen-gather-round-mighty-ones-LORD-heathen-wakened-valley-Jehoshaphat-sit-judge-heathen-round-put-sickle-harvest-ripe-get-press-full-fats-overflow-wickedness-great-Multitudes-multitudes-valley-decision-day-LORD-near-valley-decision-sun-moon-darkened-stars-withdraw-shining-LORD-roar-Zion-utter-voice-Jerusalem-heavens-earth-shake-LORD-hope-people-strength-children-Israel-know-LORD-God-dwelling-Zion-holy-mountain-Jerusalem-holy-strangers-pass-day-mountains-drop-new-wine-hills-flow-milk-rivers-Judah-flow-waters-fountain-house-LORD-water-valley-Shittim-Egypt-desolation-Edom-desolate-wilderness-violence-children-Judah-shed-innocent-blood-land-Judah-dwell-Jerusalem-generation-generation-cleanse-blood-cleansed-LORD-dwelleth-Zion
+**Tags:** #christ #valley-of-decision #divine-restoration #holy-mountain
 
 ---
 

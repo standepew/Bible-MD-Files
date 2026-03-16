@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Israel's Example, Warnings Against Sin, The Lord's Table, All to God's Glory
 
-**Tags:** #brethren-ignorant-fathers-cloud-passed-sea-baptized-Moses-cloud-sea-spiritual-meat-spiritual-drink-spiritual-Rock-followed-Rock-Christ-pleased-overthrown-wilderness-examples-intent-lust-evil-lusted-idolaters-people-sat-eat-drink-rose-play-fornication-committed-fell-three-twenty-thousand-tempt-Christ-tempted-destroyed-serpents-murmur-murmured-destroyed-destroyer-ensamples-written-admonition-ends-world-thinketh-standeth-takeheed-fall-temptation-common-man-faithful-suffer-tempted-temptation-way-escape-able-bear-dearly-beloved-flee-idolatry-speak-wise-judge-cup-blessing-bless-communion-blood-Christ-bread-break-communion-body-Christ-many-one-bread-body-partakers-one-bread-Israel-flesh-eat-sacrifices-partakers-altar-idol-thing-sacrifice-idols-thing-Gentiles-sacrifice-devils-God-fellowship-devils-drink-cup-Lord-cup-devils-partakers-Lord-table-table-devils-provoke-Lord-jealousy-stronger-lawful-expedient-lawful-edify-man-seek-wealth-sold-shambles-eat-asking-question-conscience-earth-Lord-fulness-believe-feast-disposed-eat-asking-question-sacrifice-idols-eat-sake-shewed-conscience-earth-Lord-fulness-conscience-liberty-judged-conscience-grace-partaker-evil-spoken-give-thanks-eat-drink-whatsoever-glory-God-offence-Jews-Gentiles-church-God-please-men-things-seeking-profit-profit-many-saved
+**Tags:** #israel #warnings-against-sin #the-lord #all-to-god
 
 ---
 
@@ -245,7 +245,7 @@ Brethren, ignorant, fathers, cloud, passed, sea, baptized, Moses, cloud, sea, sp
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Israel's Example as Type of Christ's Warning
 - **Physical warning:** Overthrown wilderness (1 Corinthians 10:5)

@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Call to True Obedience, Empty Rituals, Social Justice, Divine Rejection
 
-**Tags:** #fourth-year-king-Darius-word-LORD-Zechariah-fourth-day-ninth-month-Chisleu-sent-house-God-Sherezer-Regem-melech-men-pray-LORD-speak-priests-house-LORD-hosts-prophets-weep-fifth-month-separating-years-word-LORD-hosts-people-land-priests-fasted-mourned-fifth-seventh-month-seventy-years-fast-fast-eat-drink-eat-yourselves-drink-yourselves-hear-words-LORD-cried-former-prophets-Jerusalem-inhabited-prosperity-cities-round-inhabited-south-plain-word-LORD-Zechariah-LORD-hosts-Execute-true-judgment-shew-mercy-compassions-brother-oppress-widow-fatherless-stranger-poor-imagine-evil-brother-heart-refused-hearken-pulled-shoulder-stopped-ears-hear-hearts-adamant-stone-hear-law-words-LORD-hosts-sent-spirit-former-prophets-great-wrath-LORD-hosts-cried-hear-cried-hear-LORD-hosts-scattered-whirlwind-nations-knew-land-desolate-passed-returned-laid-pleasant-land-desolate
+**Tags:** #christ #empty-rituals #social-justice #divine-rejection
 
 ---
 

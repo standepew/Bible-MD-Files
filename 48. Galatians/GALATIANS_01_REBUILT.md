@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Paul's Apostleship, The True Gospel, Paul's Conversion, Divine Revelation
 
-**Tags:** #Paul-apostle-men-man-Jesus-Christ-God-Father-raised-dead-brethren-churches-Galatia-grace-peace-God-Father-Lord-Jesus-Christ-gave-sins-deliver-present-evil-world-will-God-Father-glory-marvel-removed-called-grace-Christ-another-gospel-trouble-pervert-gospel-Christ-angel-heaven-preach-gospel-preached-accursed-said-preach-gospel-received-accursed-persuade-men-God-please-men-pleased-men-servant-Christ-certify-gospel-preached-man-received-man-taught-revelation-Jesus-Christ-conversation-time-Jews-religion-measure-persecuted-church-God-wasted-profited-Jews-religion-equals-nation-exceedingly-zealous-traditions-fathers-pleased-God-separated-mother-womb-called-grace-reveal-Son-preach-heathen-conferred-flesh-blood-Jerusalem-apostles-Arabia-Damascus-three-years-Jerusalem-Peter-abode-days-apostles-James-brother-write-God-lie-regions-Syria-Cilicia-unknown-face-churches-Judaea-Christ-heard-persecuted-preach-faith-destroyed-glorified-God
+**Tags:** #paul #the-true-gospel #divine-revelation
 
 ---
 
@@ -191,7 +191,7 @@ Paul, apostle, men, man, Jesus, Christ, God, Father, raised, dead, brethren, chu
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Paul's Apostleship as Type of Christ's Commission
 - **Physical commission:** Raised dead (Galatians 1:3)

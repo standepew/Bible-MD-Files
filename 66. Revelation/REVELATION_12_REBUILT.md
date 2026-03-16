@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** The Woman and the Dragon, The Male Child, War in Heaven, The Dragon Cast Out, The Woman in the Wilderness
 
-**Tags:** #great-wonder-heaven-woman-clothed-sun-moon-feet-crown-twelve-stars-child-cried-travailing-birth-pained-delivered-wonder-heaven-great-red-dragon-seven-heads-ten-horns-seven-crowns-heads-tail-drew-third-part-stars-heaven-cast-earth-dragon-stood-woman-ready-delivered-devour-child-born-brought-man-child-rule-nations-rod-iron-child-caught-God-throne-woman-fled-wilderness-place-prepared-God-feed-thousand-two-hundred-threescore-days-war-heaven-Michael-angels-fought-dragon-dragon-fought-angels-prevailed-place-found-heaven-great-dragon-cast-old-serpent-Devil-Satan-deceiveth-whole-world-cast-earth-angels-cast-loud-voice-heaven-salvation-strength-kingdom-God-power-Christ-accuser-brethren-cast-accused-God-day-night-overcame-blood-Lamb-word-testimony-loved-lives-death-rejoice-heavens-dwell-inhabiters-earth-sea-devil-earth-great-wrath-short-time-dragon-cast-earth-persecuted-woman-brought-man-child-woman-two-wings-great-eagle-fly-wilderness-place-nourished-time-times-half-time-face-serpent-serpent-cast-mouth-water-flood-woman-carried-flood-earth-helped-woman-earth-opened-mouth-swallowed-flood-dragon-cast-mouth-dragon-wroth-woman-war-remnant-seed-keep-commandments-God-testimony-Jesus-Christ
+**Tags:** #the-woman-and-the-dragon #the-male-child #war-in-heaven #the-dragon-cast-out #the-woman-in-the-wilderness
 
 ---
 
@@ -191,7 +191,7 @@ Great, wonder, heaven, woman, clothed, sun, moon, feet, crown, twelve, stars, ch
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Woman and the Dragon as Type of Christ's Church and Satan
 - **Physical church and Satan:** Great wonder (Revelation 12:2)

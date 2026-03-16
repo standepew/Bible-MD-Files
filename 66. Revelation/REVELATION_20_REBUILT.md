@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** The Thousand-Year Reign, The First Resurrection, Satan's Final Rebellion, The Great White Throne Judgment, The Second Death
 
-**Tags:** #angel-heaven-key-bottomless-pit-great-chain-hand-laid-hold-dragon-old-serpent-Devil-Satan-bound-thousand-years-cast-bottomless-pit-shut-seal-deceive-nations-thousand-years-fulfilled-loosed-little-season-thrones-judgment-souls-beheaded-witness-Jesus-word-God-worshipped-beast-image-received-mark-foreheads-hands-lived-reigned-Christ-thousand-years-rest-dead-lived-thousand-years-finished-first-resurrection-Blessed-holy-first-resurrection-second-death-power-priests-God-Christ-reign-thousand-years-thousand-years-expired-Satan-loosed-prison-deceive-nations-four-quarters-earth-Gog-Magog-gather-battle-number-sand-sea-breadth-earth-compassed-camp-saints-beloved-city-fire-God-heaven-devoured-devil-deceived-cast-lake-fire-brimstone-beast-false-prophet-tormented-day-night-forever-great-white-throne-sat-face-earth-heaven-fled-place-dead-small-great-stand-God-books-opened-book-life-dead-judged-books-works-sea-dead-death-hell-delivered-dead-judged-works-death-hell-cast-lake-fire-second-death-whosoever-found-book-life-cast-lake-fire
+**Tags:** #the-thousandyear-reign #the-first-resurrection #satan #the-great-white-throne-judgment #the-second-death
 
 ---
 
@@ -175,7 +175,7 @@ Angel, heaven, key, bottomless, pit, great, chain, hand, laid, hold, dragon, old
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Thousand-Year Reign as Type of Christ's Millennial Kingdom
 - **Physical millennial kingdom:** Thousand years (Revelation 20:3)

@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Elihu's Second Speech, God's Justice, Divine Sovereignty, Human Accountability
 
-**Tags:** #Elihu-answered-hear-words-wise-men-give-ear-knowledge-ear-trieth-words-mouth-tasteth-meat #choose-judgment-know-good-Job-righteous-GOD-taken-judgment-lie-right-wound-incurable-transgression #man-Job-drinketh-scorning-water-company-workers-iniquity-walketh-wicked-men-delight-GOD #understanding-GOD-wickedness-Almighty-iniquity-work-render-ways-GOD-wickedly-pervert-judgment #charge-earth-disposed-world-heart-man-spirit-breath-flesh-perish-dust #understanding-hear-voice-words-hate-right-govern-condemn-just-king-wicked-princes-ungodly #accept-persons-princes-regard-rich-poor-work-hands-die-people-midnight-mighty-hand #eyes-ways-man-seeth-goings-darkness-shadow-death-workers-iniquity-hide #lay-man-right-judgment-GOD-break-pieces-mighty-men-number-set-stead-know-works-overturn-night-destroyed #striketh-wicked-open-sight-turned-back-consider-ways-cry-poor-hear-afflicted #giveth-quietness-trouble-hideth-face-behold-nation-man-hypocrite-reign-people-ensnared #meet-said-GOD-borne-chastisement-offend-teach-iniquity-no-more-mind-recompense-refuse-choose #understanding-wise-man-hearken-Job-spoken-knowledge-words-wisdom-desire-tried-answers-wicked-men #addeth-rebellion-sin-clappeth-hands-multiplieth-words-GOD
+**Tags:** #elihu #god #divine-sovereignty #human-accountability
 
 ---
 

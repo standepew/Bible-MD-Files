@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Parable of the Lost Sheep, Parable of the Lost Coin, Parable of the Prodigal Son
 
-**Tags:** #drew-near-publicans-sinners-hear-Pharisees-scribes-murmured-receiveth-sinners-eateth-parable-man-hundred-sheep-lose-leave-ninety-nine-wilderness-lost-found-layeth-shoulders-rejoicing-cometh-home-calleth-friends-neighbours-Rejoice-found-sheep-lost-joy-heaven-sinner-repenteth-ninety-nine-just-persons-repentance-woman-ten-pieces-silver-lose-piece-light-candle-sweep-house-seek-diligently-found-calleth-friends-neighbours-Rejoice-found-piece-lost-joy-presence-angels-God-sinner-repenteth-certain-man-two-sons-younger-father-portion-goods-divided-living-days-gathered-journey-far-country-wasted-substance-riotous-living-spent-famine-land-want-joined-citizen-country-fields-feed-swine-fain-filled-belly-husks-no-man-came-himself-hired-servants-father-bread-spare-perish-hunger-arise-father-sinned-heaven-worthy-called-son-hired-servants-arose-father-great-way-father-saw-compassion-ran-fell-neck-kissed-son-sinned-heaven-sight-worthy-called-son-father-servants-best-robe-ring-hand-shoes-feet-fatted-calf-kill-eat-merry-son-dead-alive-lost-found-began-merry-elder-son-field-drew-nigh-house-musick-dancing-called-servant-things-meaning-brother-father-killed-fatted-calf-received-safe-sound-angry-enter-father-intreated-answering-father-years-serve-transgressed-commandment-gavest-kid-merry-friends-son-come-devoured-living-harlots-killed-fatted-calf-Son-ever-thine-meet-merry-glad-brother-dead-alive-lost-found
+**Tags:** #parable-of-the-lost-sheep #parable-of-the-lost-coin #parable-of-the-prodigal-son
 
 ---
 
@@ -257,7 +257,7 @@ Drew, near, publicans, sinners, hear, Pharisees, scribes, murmured, receiveth, s
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Parable of the Lost Sheep as Type of Christ's Salvation
 - **Physical parable:** Lost sheep (Luke 15:5)

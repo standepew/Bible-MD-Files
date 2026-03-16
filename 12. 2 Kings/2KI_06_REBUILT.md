@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Floating Axe Head, Divine Protection, Heavenly Host, Syrian Siege, Cannibalism Famine
 
-**Tags:** #sons-prophets-Elisha-place-dwell-strait-Jordan-beam-place-dwell #Go-Jordan-beam-place-dwell-Go-servants-I-went-Jordan-cut-wood #felling-beam-axe-head-water-Alas-master-borrowed #man-GOD-fell-place-cut-stick-cast-iron-swim-hand-took #king-Syria-warred-Israel-counsel-servants-place-camp #man-GOD-king-Israel-Beware-place-Syrians-come #king-Israel-place-man-GOD-warned-saved-once-twice #king-Syria-troubled-servants-king-Israel-servants-bedchamber-Elisha-prophet-Israel-king-Israel-words-bedchamber #spy-fetch-Dothan-horses-chariots-great-host-night-compassed-city #servant-man-GOD-risen-early-host-city-horses-chariots-master-fear-men-men #Elisha-prayed-LORD-open-eyes-see-LORD-opened-eyes-young-man-mountain-horses-chariots-fire-Elisha #Elisha-LORD-Smite-people-blindness-LORD-smote-blindness-word-Elisha #Elisha-way-city-follow-man-seek-led-Samaria #Samaria-LORD-open-eyes-men-see-LORD-opened-eyes-midst-Samaria #king-Israel-Elisha-smite-sword-bow-captive-bread-water-eat-drink-master #provision-ate-drank-master-bands-Syria-land-Israel #Ben-hadad-king-Syria-host-besieged-Samaria #famine-Samaria-ass-head-fourscore-silver-fourth-cab-dove-dung-silver #king-Israel-wall-woman-Help-LORD-help-barnfloor-winepress #king-woman-son-eat-day-son-morrow-boiled-son-ate-son-day-son-hid-son #king-words-woman-rent-clothes-wall-people-sackcloth-flesh #God-murderer-Elisha-son-Shaphat-head #Elisha-house-elders-king-messenger-elders-murderer-head-messenger-door-hold-fast-door-sound-master-feet #talked-messenger-evil-LORD-wait-LORD
+**Tags:** #floating-axe-head #divine-protection #heavenly-host #syrian-siege #cannibalism-famine
 
 ---
 

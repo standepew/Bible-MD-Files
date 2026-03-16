@@ -2,24 +2,24 @@
 
 ---
 
-## 1. CHAPTER METADATA
+## CHAPTER METADATA
 
 **Book:** Numbers
 **Chapter:** 22
 **Testament:** Old Testament
 **Key Themes:** Israel camps in the plains of Moab — Balak king of Moab is terrified, Balak hires Balaam the diviner to curse Israel — "he whom thou blessest is blessed, and he whom thou cursest is cursed", God tells Balaam: do not go, do not curse — for they are blessed; Balaam reports correctly, Balak sends more honourable princes with greater rewards; God permits Balaam to go but only to speak what He commands, God's anger is kindled when Balaam goes — the angel of the LORD stands in the way with a drawn sword, The donkey sees the angel three times; Balaam cannot; the donkey speaks; Balaam is rebuked, "Thy way is perverse before me" — Balaam is going the right direction with the wrong heart
 
-**Tags:** #plains-of-Moab #Balak-son-of-Zippor #Moab-distressed-because-of-Israel #elders-of-Midian #rewards-of-divination #Balaam-son-of-Beor #Pethor #curse-me-this-people #he-whom-thou-blessest-is-blessed #thou-shalt-not-curse-for-they-are-blessed #Balaam-refuses-first-embassy #house-full-of-silver-and-gold #God-permits-Balaam-to-go #God-angry-when-Balaam-goes #angel-with-drawn-sword #donkey-sees-the-angel #Balaam-smites-the-donkey-three-times #LORD-opens-donkeys-mouth #thy-way-is-perverse #I-have-sinned #speak-only-what-I-shall-say
+**Tags:** #plains-of-Moab #Balak-son-of-Zippor #Moab-distressed-because-of-Israel #elders-of-Midian #rewards-of-divination #Balaam-son-of-Beor #Pethor #curse-me-this-people #Balaam-refuses-first-embassy #God-permits-Balaam-to-go #God-angry-when-Balaam-goes #angel-with-drawn-sword #donkey-sees-the-angel #LORD-opens-donkeys-mouth #thy-way-is-perverse #I-have-sinned #israel-camps-in-the-plains-of #balak-hires-balaam-the-diviner-to #god-tells-balaam-do-not-go #balaam-reports-correctly #balak-sends-more-honourable-princes-with #god-permits-balaam-to-go-but #god #the-donkey-sees-the-angel-three #balaam-cannot #the-donkey-speaks #balaam-is-rebuked #thy-way-is-perverse-before-me
 
 ---
 
-## 2. CHAPTER SUMMARY
+## CHAPTER SUMMARY
 
 Israel camps in the plains of Moab. Balak son of Zippor, king of Moab, sees what Israel did to the Amorites and is terrified. He consults the elders of Midian: this people will devour everything around us like an ox licks grass. He sends elders of Moab and Midian to Balaam at Pethor with rewards of divination: come curse this people — you have power; he whom you bless is blessed, he whom you curse is cursed. Balaam tells them to lodge overnight; God comes to Balaam and asks who these men are. Balaam explains. God: do not go; do not curse — for they are blessed. Balaam dismisses the princes: the LORD refuses to let me go. Balak sends more prestigious ambassadors with promises of great honour and anything Balaam asks. Balaam's famous reply: if Balak gave me his house full of silver and gold I cannot go beyond the word of the LORD my God to do less or more. He asks them to stay overnight again — perhaps the LORD will say more. God returns: if the men come to call you, go with them — but speak only what I say. Balaam rises and goes. God's anger is kindled when he goes. The angel of the LORD stands three times in the way with a drawn sword. Each time the donkey sees the angel and turns aside or stops; each time Balaam beats her. The third time the donkey falls down. The LORD opens the donkey's mouth: what have I done to you that you beat me three times? Balaam argues with the donkey. The LORD opens Balaam's eyes; he sees the angel, falls on his face. The angel rebukes: your way is perverse before me; the donkey saved your life. Balaam confesses: I have sinned. The angel: go with the men — but speak only what I say. Balak meets Balaam; Balaam warns: I can only speak what God puts in my mouth.
 
 ---
 
-## 3. CROSS-REFERENCES (Scripture Interpreting Scripture)
+## CROSS-REFERENCES (Scripture Interpreting Scripture) (Scripture Interpreting Scripture)
 
 ### Balaam — The Prophet-for-Hire
 
@@ -53,7 +53,7 @@ Israel camps in the plains of Moab. Balak son of Zippor, king of Moab, sees what
 
 ---
 
-## 4. KEYWORD INDEX
+## KEYWORD INDEX
 
 **For Current Events Matching:**
 - **Hired prophets / prophecy for profit** → Numbers 22:7 — 2 Peter 2:15; Jude 11; Micah 3:11
@@ -64,7 +64,7 @@ Israel camps in the plains of Moab. Balak son of Zippor, king of Moab, sees what
 
 ---
 
-## 5. KEY TERMS WITH CONTEXTUAL DEFINITIONS
+## KEY TERMS WITH CONTEXTUAL DEFINITIONS WITH CONTEXTUAL DEFINITIONS
 
 ### REWARDS OF DIVINATION (Hebrew: qesem — divination, lot-casting)
 - **Numbers 22:7** — the elders carry the fee for Balaam's services
@@ -76,7 +76,7 @@ Israel camps in the plains of Moab. Balak son of Zippor, king of Moab, sees what
 
 ---
 
-## 6. THE ACTUAL VERSES — NUMBERS 22 (KJV)
+## THE ACTUAL VERSES (KJV) — NUMBERS 22 (KJV)
 
 **1** And the children of Israel set forward, and pitched in the plains of Moab on this side Jordan by Jericho.
 **2** And Balak the son of Zippor saw all that Israel had done to the Amorites.
@@ -122,7 +122,7 @@ Israel camps in the plains of Moab. Balak son of Zippor, king of Moab, sees what
 
 ---
 
-## 7. PROPHETIC/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS/TYPOLOGICAL CONNECTIONS
 
 ### The Angel with the Drawn Sword — The Divine Adversary
 
@@ -134,7 +134,7 @@ Israel camps in the plains of Moab. Balak son of Zippor, king of Moab, sees what
 
 ---
 
-## 8. COMMONLY MISQUOTED PASSAGES
+## COMMONLY MISQUOTED PASSAGES PASSAGES
 
 ### Numbers 22:20 — "God Said Go" Then Numbers 22:22 — "God's Anger Was Kindled Because He Went"
 
@@ -144,7 +144,7 @@ Israel camps in the plains of Moab. Balak son of Zippor, king of Moab, sees what
 
 ---
 
-## 9. SYMBOLIC THREADS
+## SYMBOLIC THREADS
 
 ### Three Refusals / Three Positions of the Angel — The Pattern of Blocked Paths
 

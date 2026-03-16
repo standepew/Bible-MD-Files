@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** The Revelation of Jesus Christ, Vision of the Glorified Christ, Seven Churches and Seven Stars, Alpha and Omega, Keys of Hell and Death
 
-**Tags:** #Revelation-Jesus-Christ-God-servants-shortly-pass-sent-signified-angel-servant-John-bare-record-word-God-testimony-Jesus-Christ-things-saw-Blessed-readeth-hear-words-prophecy-keep-written-time-hand-seven-churches-Asia-Grace-peace-throne-seven-Spirits-throne-Jesus-Christ-faithful-witness-begotten-dead-prince-kings-earth-loved-washed-sins-blood-kings-priests-God-Father-glory-dominion-cometh-clouds-eye-shall-pierced-kindreds-earth-wail-Alpha-Omega-beginning-ending-Lord-Almighty-John-brother-companion-tribulation-kingdom-patience-Jesus-Christ-Isle-Patmos-word-God-testimony-Jesus-Christ-Spirit-Lord-day-voice-trumpet-Alpha-Omega-first-last-seest-write-book-seven-churches-Asia-Ephesus-Smyrna-Pergamos-Thyatira-Sardis-Philadelphia-Laodicea-turned-voice-seven-golden-candlesticks-midst-seven-candlesticks-like-Son-man-clothed-garment-foot-girded-golden-girdle-head-hairs-white-wool-white-snow-eyes-flame-fire-feet-fine-brass-burned-furnace-voice-many-waters-right-hand-seven-stars-mouth-sharp-twoedged-sword-countenance-sun-shineth-strength-fell-feet-dead-laid-right-hand-Fear-first-last-liveth-dead-alive-keys-hell-death-write-seen-shall-hereafter-mystery-seven-stars-right-hand-seven-golden-candlesticks-seven-stars-angels-seven-churches-seven-candlesticks-seven-churches
+**Tags:** #the-revelation-of-jesus-christ #vision-of-the-glorified-christ #seven-churches-and-seven-stars #alpha-and-omega #keys-of-hell-and-death
 
 ---
 
@@ -209,7 +209,7 @@ Revelation, Jesus, Christ, God, servants, shortly, pass, sent, signified, angel,
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Revelation of Jesus Christ as Type of Christ's Complete Disclosure
 - **Physical disclosure:** Revelation Jesus (Revelation 1:2)

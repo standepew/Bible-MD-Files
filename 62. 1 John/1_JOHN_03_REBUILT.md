@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Sons of God and Future Glory, Sin and Righteousness, Children of God vs Children of the Devil, Love One Another, Practical Love and Assurance
 
-**Tags:** #Behold-manner-love-Father-bestowed-called-sons-God-world-knoweth-knew-sons-God-appear-like-hope-purifieth-pure-committeth-sin-transgresseth-law-sin-transgression-law-manifested-take-sins-committeth-sin-sinneth-seen-known-deceive-doeth-righteousness-righteous-committeth-sin-devil-devil-sinneth-beginning-purpose-Son-God-manifested-destroy-works-devil-born-God-commit-sin-seed-remaineth-born-God-children-God-manifest-children-devil-doeth-righteousness-loveth-brother-message-heard-beginning-love-another-Cain-wicked-slew-brother-works-evil-brother-righteous-Marvel-brethren-world-hate-passed-death-life-love-brethren-loveth-brother-abideth-death-hateth-brother-murderer-murderer-eternal-life-abiding-perceive-love-God-laid-life-lay-lives-brethren-world-good-seeth-brother-need-shutteth-bowels-compassion-dwelleth-love-God-love-word-tongue-deed-truth-know-truth-assure-heart-condemn-God-greater-heart-knoweth-condemn-confidence-God-ask-receive-keep-commandments-pleasing-sight-commandment-believe-name-Son-Jesus-Christ-love-commandment-keepeth-commandments-dwelleth-abideth-Spirit-given
+**Tags:** #sons-of-god-and-future-glory #sin-and-righteousness #children-of-god-vs-children-of #love-one-another #practical-love-and-assurance
 
 ---
 
@@ -205,7 +205,7 @@ Behold, manner, love, Father, bestowed, called, sons, God, world, knoweth, knew,
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Sons of God and Future Glory as Type of Christ's Glorification
 - **Physical glorification:** Appear like (1 John 3:3)

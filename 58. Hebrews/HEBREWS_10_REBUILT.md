@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Insufficiency of the Law, Christ's Perfect Sacrifice, The New Covenant, Bold Access to God, Warning Against Apostasy
 
-**Tags:** #law-shadow-good-things-image-sacrifices-offered-year-year-continually-comers-perfect-ceased-offered-worshippers-purged-conscience-sins-sacrifices-remembrance-sins-year-blood-bulls-goats-take-sins-cometh-world-sacrifice-offering-body-prepared-burnt-offerings-sacrifices-sin-pleasure-volume-book-written-do-will-God-above-sacrifice-offering-burnt-offerings-offering-sin-pleasure-law-come-will-God-taketh-first-establish-second-offering-body-Jesus-Christ-priest-standeth-daily-ministering-offering-oftentimes-sacrifices-take-sins-man-offered-sacrifice-sins-forever-right-hand-God-expecting-enemies-footstool-offering-perfected-forever-sanctified-Holy-Ghost-witness-covenant-days-Lord-laws-hearts-minds-write-sins-iniquities-remember-remission-offering-sin-brethren-boldness-enter-holiest-blood-Jesus-living-way-consecrated-veil-flesh-high-priest-house-God-draw-near-true-heart-full-assurance-faith-hearts-sprinkled-evil-conscience-bodies-washed-pure-water-hold-fast-profession-faith-wavering-faithful-promised-consider-provoke-love-good-works-forsaking-assembling-manner-exhorting-day-approaching-sin-wilfully-received-knowledge-truth-remain-sacrifice-sins-fearful-looking-judgment-fiery-indignation-devour-adversaries-despised-Moses-law-died-mercy-witnesses-sorer-punishment-trodden-foot-Son-God-counted-blood-covenant-sanctified-unholy-thing-despite-Spirit-grace-know-Vengeance-belong-recompense-Lord-judge-people-fearful-fall-hands-living-God-remembrance-former-days-illuminated-endured-great-fight-afflictions-gazingstock-reproaches-afflictions-companions-used-compassion-bonds-joyfully-spoiling-goods-knowing-heaven-better-enduring-substance-confidence-great-recompence-reward-patience-done-will-God-receive-promise-little-while-shall-come-tarry-just-live-faith-draw-back-pleasure-soul-draw-back-perdition-believe-saving-soul
+**Tags:** #insufficiency-of-the-law #christ #the-new-covenant #bold-access-to-god #warning-against-apostasy
 
 ---
 
@@ -259,7 +259,7 @@ Law, shadow, good, things, image, sacrifices, offered, year, year, continually, 
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Insufficiency of the Law as Type of Christ's Perfect Sacrifice
 - **Physical sacrifice:** Shadow good (Hebrews 10:2)

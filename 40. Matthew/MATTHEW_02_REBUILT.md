@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Christ's Royal Worship, Wise Men, Flight to Egypt, Herod's Massacre
 
-**Tags:** #Jesus-born-Bethlehem-Judaea-days-Herod-king-behold-wise-men-east-Jerusalem-born-King-Jews-seen-star-east-come-worship-Herod-king-heard-troubled-Jerusalem-gathered-chief-priests-scribes-people-together-demanded-Christ-born-Bethlehem-Judaea-written-prophet-Bethlehem-land-Juda-least-princes-Juda-Governor-rule-people-Israel-Herod-privily-wise-men-enquired-diligently-time-star-appeared-sent-Bethlehem-search-diligently-child-found-word-worship-departed-star-east-went-stood-child-rejoiced-exceeding-great-joy-house-child-Mary-mother-fell-worshipped-opened-treasures-presented-gifts-gold-frankincense-myrrh-warned-God-dream-return-Herod-departed-country-angel-Lord-appeared-Joseph-dream-Arise-take-child-mother-flee-Egypt-bring-word-Herod-seek-child-destroy-arose-took-child-mother-night-departed-Egypt-death-Herod-fulfilled-spoken-Lord-prophet-Egypt-called-son-Herod-mocked-wise-men-exceeding-wroth-slew-children-Bethlehem-coasts-two-years-time-diligently-enquired-wise-men-fulfilled-spoken-Jeremy-prophet-Rama-voice-lamentation-weeping-great-mourning-Rachel-weeping-children-comforted-Herod-dead-angel-Lord-appeared-dream-Joseph-Egypt-Arise-take-child-mother-land-Israel-dead-sought-child-life-arose-took-child-mother-land-Israel-heard-Archelaus-reign-Judaea-room-father-Herod-afraid-go-thither-notwithstanding-warned-God-dream-turned-parts-Galilee-dwelt-city-Nazareth-fulfilled-spoken-prophets-called-Nazarene
+**Tags:** #christ #wise-men #flight-to-egypt #herod
 
 ---
 

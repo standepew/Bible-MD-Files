@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Question of Suffering, Divine Justice, Chaldean Judgment, God's Sovereignty
 
-**Tags:** #burden-Habakkuk-prophet-O-LORD-long-cry-hear-cry-violence-save-shew-iniquity-behold-grievance-spoiling-violence-raise-strife-contention-law-slacked-judgment-wicked-compass-righteous-wrong-judgment-proceedeth-Behold-heathen-regard-wonder-marvellously-work-days-believe-told-Chaldeans-bitter-hasty-nation-march-breadth-land-possess-dwellingplaces-terrible-dreadful-judgment-dignity-proceed-horses-swifter-leopards-fierce-evening-wolves-horsemen-spread-far-fly-eagle-hasteth-eat-violence-faces-sup-east-wind-gather-captivity-sand-scoff-kings-princes-scorn-deride-strong-hold-heap-dust-mind-change-pass-offend-imputing-power-god-everlasting-LORD-God-Holy-One-die-LORD-ordained-judgment-mighty-God-established-correction-purer-eyes-behold-evil-look-iniquity-lookest-treacherously-holdest-tongue-wicked-devoureth-righteous-men-fishes-creeping-things-ruler-angle-catch-net-gather-drag-rejoice-glad-sacrifice-net-burn-incense-drag-portion-fat-meat-plenteous-empty-net-spare-continually-slay-nations
+**Tags:** #christ #divine-justice #chaldean-judgment #god
 
 ---
 

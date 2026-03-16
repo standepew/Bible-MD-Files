@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Job's Repentance, God's Restoration, Friends' Correction, Final Blessing
 
-**Tags:** #Job-answered-LORD-canst-thing-thought-withheld-hideth-counsel-knowledge-uttered-understood-wonderful-knew-hear-beseech-speak-demand-declare #heard-hearing-ear-eye-seeth-abhor-repent-dust-ashes-LORD-spoken-words-wrath-kindled-Eliphaz-Temanite-two-friends-spoken-thing-right-servant #seven-bullocks-seven-rams-servant-Job-offer-burnt-offering-pray-accept-deal-folly-spoken-right-servant-Eliphaz-Bildad-Shuhite-Zophar-Naamathite-commanded-accepted #turned-captivity-prayed-friends-gave-twice-brethren-sisters-acquaintance-bread-house-bemoaned-comforted-evil-LORD-brought-piece-money-earring-gold #blessed-latter-beginning-fourteen-thousand-sheep-six-thousand-camels-thousand-yoke-oxen-thousand-she-asses-seven-sons-three-daughters-Jemima-Kezia-Keren-happuch #women-fair-daughters-inheritance-brethren-lived-hundred-forty-years-sons-sons-sons-four-generations-died-old-full-days
+**Tags:** #job #god #friends #final-blessing
 
 ---
 

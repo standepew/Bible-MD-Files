@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Trust in God, Christ's Resurrection, Eternal Joy, Divine Inheritance
 
-**Tags:** #Michtam-David-preserve-GOD-trust-soul-LORD-Lord-goodness-extend-saints-earth-excellent-delight-sorrows-multiplied-hasten-another-god-drink-offerings-blood-offer-take-names-lips #LORD-portion-inheritance-cup-maintainest-lot-lines-fallen-pleasant-places-goodly-heritage-bless-LORD-given-counsel-reins-instruct-night-seasons-set-LORD-always-right-hand-moved #heart-glad-glory-rejoiceth-flesh-rest-hope-leave-soul-hell-suffer-Holy-One-corruption-shew-path-life-presence-fulness-joy-right-hand-pleasures-forevermore
+**Tags:** #trust-in-god #christ #eternal-joy #divine-inheritance
 
 ---
 

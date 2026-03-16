@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** God's Judgment, True Worship, Thanksgiving vs. Sacrifice, Wicked's Hypocrisy
 
-**Tags:** #Psalm-Asaph-mighty-GOD-LORD-spoken-called-earth-rising-sun-going-Zion-perfection-beauty-GOD-shined-GOD-come-keep-silence-fire-devour-tempestuous-round-call-heavens-above-earth-judge-people-gather-saints-covenant-sacrifice-heavens-declare-righteousness-GOD-judge-Selah-hear-people-speak-Israel-testify-GOD-reprove-sacrifices-burnt-offerings-continually-bullock-house-goats-folds-beast-forest-mine-cattle-thousand-hills-fowls-mountains-wild-beasts-field-mine-hungry-tell-world-fulness-eat-flesh-bulls-drink-blood-goats #offer-GOD-thanksgiving-pay-vows-High-call-trouble-deliver-glorify-wicked-declare-statutes-covenant-mouth-hate-instruction-cast-words-behind-saw-thief-consented-partaker-adulterers-givest-mouth-evil-tongue-frameth-deceit-sittest-speakest-brother-slanderest-mother-son-thought-altogether-reprove-set-order-eyes-forget-GOD-tear-pieces-deliver-offer-praise-glorifieth-order-conversation-aright-shew-salvation-GOD
+**Tags:** #god #true-worship #thanksgiving-vs-sacrifice #wicked
 
 ---
 

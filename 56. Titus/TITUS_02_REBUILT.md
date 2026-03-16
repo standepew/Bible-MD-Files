@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Sound Doctrine for Different Groups, Aged Men and Women, Young Women and Men, Servants, The Grace of God, Christ's Redemptive Work
 
-**Tags:** #speak-things-sound-doctrine-aged-men-sober-grave-temperate-sound-faith-charity-patience-aged-women-behaviour-becometh-holiness-false-accusers-wine-teachers-good-things-teach-young-women-sober-love-husbands-love-children-discreet-chaste-keepers-home-good-obedient-husbands-word-God-blasphemed-young-men-exhort-sober-minded-pattern-good-works-doctrine-uncorruptness-gravity-sincerity-Sound-speech-condemned-contrary-part-ashamed-evil-say-servants-obedient-masters-please-answering-purloining-shewing-good-fidelity-adorn-doctrine-God-Saviour-grace-God-bringeth-salvation-appeared-men-denying-ungodliness-worldly-lusts-live-soberly-righteously-godly-present-world-looking-blessed-hope-glorious-appearing-great-God-Saviour-Jesus-Christ-gave-redeem-iniquity-purify-peculiar-people-zealous-good-works-speak-exhort-rebuke-authority-despise
+**Tags:** #sound-doctrine-for-different-groups #aged-men-and-women #young-women-and-men #servants #the-grace-of-god #christ
 
 ---
 
@@ -165,7 +165,7 @@ Speak, things, sound, doctrine, aged, men, sober, grave, temperate, sound, faith
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Sound Doctrine for Different Groups as Type of Christ's Teaching
 - **Physical teaching:** Sound doctrine (Titus 2:2)

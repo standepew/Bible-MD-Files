@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Oil Miracle, Shunammite Woman, Son's Resurrection, Poisonous Stew, Feeding Miracle
 
-**Tags:** #woman-wives-sons-prophets-Elisha-servant-husband-dead-fear-LORD-creditor-sons-bondmen #Elisha-house-vessels-neighbours-empty-vessels-shut-door-sons-vessels-set-aside-full #vessels-full-son-vessel-oil-stayed-man-GOD-sell-oil-pay-debt-live-children #Elisha-Shunem-great-woman-bread-holy-man-God-chamber-wall-bed-table-stool-candlestick-chamber #chamber-bed-Gehazi-servant-Shunammite-careful-king-captain-host-people #Gehazi-child-husband-old-season-time-life-embrace-son-lord-man-GOD-handmaid-deceive #woman-conceived-son-season-Elisha-time-life #child-grown-father-reapers-head-father-lad-mother-knees-noon-died #bed-man-GOD-shut-door-husband-young-man-ass-man-GOD-Carmel-man-GOD-Shunammite #Gehazi-meet-well-husband-child-well-Gehazi-thrust-man-GOD-soul-vexed-LORD-hid #son-lord-deceive-Gehazi-loins-staff-hand-meet-man-salute-answer-staff-child #mother-child-LORD-soul-leave-arose-followed #Gehazi-staff-child-voice-hearing-child-awaked #Elisha-house-child-dead-bed-door-prayed-LORD #mouth-mouth-eyes-eyes-hands-hands-stretched-child-flesh-warm #house-to-fro-stretched-child-sneezed-seven-times-child-eyes #Gehazi-Shunammite-son-feet-ground-son #Elisha-Gilgal-dearth-land-sons-prophets-servant-great-pot-pottage-sons-prophets #field-herbs-wild-vine-wild-gourds-lap-pot-pottage-knew #men-eat-pottage-cried-man-GOD-death-pot-eat #meal-pot-men-eat-harm-pot #man-Baal-shalisha-man-GOD-bread-firstfruits-loaves-barley-ears-corn-husk-people-eat #servitor-hundred-men-people-eat-LORD-leave #people-ate-left-word-LORD
+**Tags:** #people-ate-left-word-LORD #oil-miracle #shunammite-woman #son #poisonous-stew #feeding-miracle
 
 ---
 

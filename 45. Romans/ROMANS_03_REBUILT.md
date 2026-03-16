@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** The Advantage of the Jews, All Under Sin, Justification by Faith
 
-**Tags:** #advantage-Jew-profit-circumcision-oracles-God-believe-unbelief-faith-God-effect-God-forbid-true-man-liar-written-justified-sayings-overcome-judged-unrighteousness-commend-righteousness-God-unrighteous-taketh-vengeance-speak-man-judge-world-truth-God-abounded-lie-glory-judged-sinner-slanderously-reported-affirm-say-evil-good-come-damnation-just-better-proved-Jews-Gentiles-sin-written-righteous-understand-seek-God-gone-way-unprofitable-good-throat-open-sepulchre-tongues-deceit-poison-asps-lips-mouth-cursing-bitterness-feet-swift-shed-blood-destruction-misery-ways-peace-fear-God-eyes-know-law-saith-under-law-mouth-stopped-world-guilty-God-deeds-law-justified-sight-law-knowledge-sin-righteousness-God-without-law-manifested-witnessed-law-prophets-righteousness-God-faith-Jesus-Christ-believe-difference-sinned-glory-God-justified-freely-grace-redemption-Christ-Jesus-God-set-propitiation-faith-blood-declare-righteousness-remission-sins-past-forbearance-God-declare-time-righteousness-just-justifier-believeth-Jesus-boasting-excluded-law-works-law-faith-conclude-man-justified-faith-deeds-law-God-Jews-Gentiles-God-justify-circumcision-faith-uncircumcision-faith-void-law-faith-God-forbid-establish-law
+**Tags:** #the-advantage-of-the-jews #all-under-sin #justification-by-faith
 
 ---
 
@@ -251,7 +251,7 @@ Advantage, Jew, profit, circumcision, oracles, God, believe, unbelief, faith, Go
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Advantage of the Jews as Type of Christ's Covenant
 - **Physical covenant:** Oracles God (Romans 3:4)

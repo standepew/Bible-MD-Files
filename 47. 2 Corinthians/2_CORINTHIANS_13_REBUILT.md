@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Final Warning, Self-Examination, The Power of Christ, Final Benediction
 
-**Tags:** #third-time-coming-mouth-witnesses-word-established-told-foretell-present-second-time-absent-write-heretofore-sinned-come-spare-seek-proof-Christ-speaking-weak-mighty-crucified-weakness-liveth-power-God-weak-live-power-God-examine-faith-prove-selves-Know-selves-Jesus-Christ-reprobates-trust-reprobates-pray-God-evil-appear-approved-honest-reprobates-truth-glad-weak-strong-wish-perfection-write-absent-present-sharpness-power-Lord-edification-destruction-finally-brethren-farewell-perfect-comfort-mind-live-peace-God-love-peace-greet-holy-kiss-saints-salute-grace-Lord-Jesus-Christ-love-God-communion-Holy-Ghost-Amen
+**Tags:** #final-warning #selfexamination #the-power-of-christ #final-benediction
 
 ---
 
@@ -159,7 +159,7 @@ Third, time, coming, mouth, witnesses, word, established, told, foretell, presen
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Final Warning as Type of Christ's Judgment
 - **Physical judgment:** Witnesses established (2 Corinthians 13:3)

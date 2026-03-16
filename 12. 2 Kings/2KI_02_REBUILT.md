@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Elijah's Ascension, Elisha's Succession, Double Portion Spirit, Jordan Crossing, Prophetic Authority
 
-**Tags:** #LORD-take-Elijah-heaven-whirlwind-Elijah-Elisha-Gilgal #Elijah-Elisha-Tarry-LORD-Beth-el-Elisha-LORD-soul-leave-Beth-el #sons-prophets-Beth-el-Elisha-LORD-take-master-day-peace #Elijah-Elisha-Tarry-LORD-Jericho-Elisha-LORD-soul-leave-Jericho #sons-prophets-Jericho-Elisha-LORD-take-master-day-peace #Elijah-Tarry-LORD-Jordan-Elisha-LORD-soul-leave-Jordan #fifty-men-sons-prophets-view-Jordan #Elijah-mantle-wrapped-smote-waters-divided-dry-ground #Elijah-Elisha-Ask-taken-double-portion-spirit #hard-thing-taken-see-taken-not-taken #chariot-fire-horses-fire-parted-Elijah-whirlwind-heaven #Elisha-father-chariot-Israel-horsemen-clothes-rent-two-pieces #mantle-Elijah-fell-bank-Jordan-mantle-Elijah-smote-waters-LORD-GOD-Elijah-smitten-waters-parted-Elisha #sons-prophets-Jericho-spirit-Elijah-Elisha-ground-servants-fifty-strong-men-seek-master-Spirit-LORD-cast-mountain-valley-send #urged-ashamed-send-fifty-men-sought-three-days-found #tarry-Jericho-Go #men-city-Elisha-situation-city-pleasant-water-naught-ground-barren #new-cruse-salt-spring-waters-salt-LORD-healed-waters-death-barren-land #waters-healed-day-saying-Elisha-spoke #Beth-el-way-children-city-mocked-bald-head #turned-looked-cursed-LORD-she-bears-wood-forty-two-children #mount-Carmel-Samaria
+**Tags:** #tarry-Jericho-Go #mount-Carmel-Samaria #elijah #elisha #double-portion-spirit #jordan-crossing #prophetic-authority
 
 ---
 

@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Paul Before Felix, The Accusation Against Paul, Paul's Defense, Felix's Response
 
-**Tags:** #five-days-Ananias-high-priest-descended-elders-orator-Tertullus-informed-governor-Paul-called-Tertullus-began-accuse-enjoy-quietness-worthy-deeds-nation-providence-accept-places-noble-Felix-thankfulness-further-tedious-pray-clemency-words-found-man-pestilent-fellow-mover-sedition-Jews-world-ringleader-sect-Nazarenes-gone-profane-temple-took-judged-law-chief-captain-Lysias-violence-hands-commanding-accusers-examining-knowledge-accuse-Jews-assented-governor-beckoned-speak-answered-judge-nation-cheerfully-mayest-understand-twelve-days-Jerusalem-worship-found-temple-disputing-man-raising-people-synagogues-city-prove-things-accuse-confess-way-call-heresy-worship-God-fathers-believing-things-written-law-prophets-hope-God-resurrection-dead-just-unjust-exercise-conscience-void-offence-God-men-years-brought-alms-nation-offerings-Jews-Asia-purified-temple-multitude-tumult-ought-object-against-else-accuse-evil-council-voice-cried-standing-Resurrection-called-question-Felix-heard-perfect-knowledge-way-deferred-Lysias-chief-captain-know-uttermost-matter-commanded-centurion-keep-Paul-liberty-forbid-acquaintance-minister-certain-days-Felix-wife-Drusilla-Jewess-sent-Paul-heard-faith-Christ-reasoned-righteousness-temperance-judgment-Felix-trembled-answered-convenient-season-call-hoped-money-loose-sent-oftener-communed-two-years-Porcius-Festus-Felix-pleasure-Jews-left-Paul-bound
+**Tags:** #paul-before-felix #the-accusation-against-paul #paul #felix
 
 ---
 
@@ -231,7 +231,7 @@ Five, days, Ananias, high, priest, descended, elders, orator, Tertullus, informe
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Paul Before Felix as Type of Christ's Trial
 - **Physical trial:** Worthy deeds (Acts 24:5)

@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Restoration Blessing, Jerusalem's Glory, God's Presence, Gathering of Nations
 
-**Tags:** #word-LORD-hosts-jealous-Zion-great-jealousy-great-fury-returned-Zion-dwell-midst-Jerusalem-Jerusalem-city-truth-mountain-LORD-hosts-holy-mountain-old-men-women-dwell-streets-Jerusalem-staff-hand-age-streets-city-full-boys-girls-playing-streets-marvellous-eyes-remnant-people-days-marvellous-eyes-LORD-hosts-save-people-east-country-west-country-bring-dwell-midst-Jerusalem-people-God-truth-righteousness-hands-strong-hear-days-words-mouth-prophets-day-foundation-house-LORD-hosts-laid-temple-built-days-hire-man-hire-beast-peace-went-came-affliction-set-men-neighbour-residue-people-former-days-LORD-hosts-seed-prosperous-vine-fruit-ground-increase-heavens-dew-remnant-people-possess-curse-heathen-house-Judah-house-Israel-save-blessing-fear-hands-strong-punish-fathers-provoked-wrath-LORD-hosts-repented-thought-days-well-Jerusalem-house-Judah-fear-ye-things-words-truth-neighbour-judgment-truth-peace-gates-imagine-evil-hearts-neighbour-love-false-oath-hate-LORD-word-LORD-hosts-fast-fourth-month-fifth-month-seventh-month-tenth-month-house-Judah-joy-gladness-cheerful-feasts-love-truth-peace-come-pass-people-inhabitants-cities-inhabitants-city-another-saying-speedily-pray-LORD-seek-LORD-hosts-people-strong-nations-seek-LORD-hosts-Jerusalem-pray-LORD-days-pass-ten-men-languages-nations-hold-skirt-Jew-saying-God
+**Tags:** #christ #jerusalem #god #gathering-of-nations
 
 ---
 

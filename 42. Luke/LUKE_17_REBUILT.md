@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Temptations and Forgiveness, Increase of Faith, Unprofitable Servants, Healing of the Ten Lepers, The Coming of the Kingdom, The Days of the Son of Man, The Day of Revelation
 
-**Tags:** #disciples-impossible-offences-woe-millstone-neck-sea-offend-little-ones-Take-heed-brother-trespass-rebuke-repent-forgive-trespass-seven-times-day-repent-forgive-apostles-Lord-Increase-faith-faith-grain-mustard-seed-sycamine-tree-plucked-root-planted-sea-obey-servant-plowing-feeding-cattle-field-sit-meat-ready-wherewith-sup-gird-serve-eaten-drunken-afterward-eat-drink-thank-servant-commanded-unprofitable-servants-duty-Jerusalem-passed-midst-Samaria-Galilee-village-ten-lepers-stood-afar-lifted-voices-Jesus-Master-mercy-shew-priests-cleansed-healed-turned-glory-God-fell-face-feet-thanks-Samaritan-Jesus-answered-cleansed-nine-returned-glory-God-stranger-Arise-faith-whole-Pharisees-kingdom-God-observation-within-disciples-days-desire-Son-man-seen-here-lightning-heaven-Son-man-suffer-rejected-generation-Noe-days-Son-man-ate-drank-married-wives-marriage-Noe-ark-flood-destroyed-Lot-days-Son-man-ate-drank-bought-sold-planted-builded-Lot-Sodom-rained-fire-brimstone-heaven-destroyed-day-Son-man-revealed-housetop-stuff-house-come-down-field-Remember-Lot-wife-seek-life-lose-life-lose-life-preserve-night-bed-taken-left-women-grinding-taken-left-men-field-taken-left-answered-Where-body-eagles-gathered
+**Tags:** #temptations-and-forgiveness #increase-of-faith #unprofitable-servants #healing-of-the-ten-lepers #the-coming-of-the-kingdom #the-days-of-the-son-of #the-day-of-revelation
 
 ---
 
@@ -271,7 +271,7 @@ Disciples, impossible, offences, woe, millstone, neck, sea, offend, little, ones
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Temptations and Forgiveness as Type of Christ's Grace
 - **Physical forgiveness:** Brother trespass (Luke 17:3)

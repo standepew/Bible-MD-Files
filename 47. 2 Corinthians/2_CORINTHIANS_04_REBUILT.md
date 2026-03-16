@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** The Ministry of Reconciliation, Treasures in Earthen Vessels, The Dying and Rising Life, Eternal Glory
 
-**Tags:** #ministry-received-mercy-faint-renounced-hidden-things-dishonesty-walking-craftiness-handling-word-God-deceitfully-manifestation-truth-commending-conscience-sight-God-gospel-hid-lost-god-world-blinded-minds-believe-light-glorious-gospel-Christ-image-God-shine-preach-ourselves-Christ-Jesus-Lord-servants-Jesus-sake-God-commanded-light-shine-darkness-shined-hearts-light-knowledge-glory-God-face-Jesus-Christ-treasure-earthen-vessels-excellency-power-God-troubled-side-distressed-perplexed-despair-persecuted-forsaken-cast-destroyed-bearing-body-dying-Lord-Jesus-life-Jesus-manifest-body-live-delivered-death-Jesus-sake-life-Jesus-manifest-mortal-flesh-death-work-life-spirit-faith-written-believed-spoken-believe-speak-knowing-raised-Lord-Jesus-raise-Jesus-present-things-sake-abundant-grace-thanksgiving-redound-glory-God-faint-outward-man-perish-inward-man-renewed-day-light-affliction-moment-work-exceeding-eternal-weight-glory-things-seen-things-seen-temporal-things-seen-eternal
+**Tags:** #the-ministry-of-reconciliation #treasures-in-earthen-vessels #the-dying-and-rising-life #eternal-glory
 
 ---
 
@@ -191,7 +191,7 @@ Ministry, received, mercy, faint, renounced, hidden, things, dishonesty, walking
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Ministry of Reconciliation as Type of Christ's Ambassadorship
 - **Physical ambassadorship:** Manifestation truth (2 Corinthians 4:3)

@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Spiritual Seeking, Christ's Coming, Divine Protection, Royal Procession
 
-**Tags:** #night-bed-sought-soul-loveth-sought-found-rise-city-streets-broad-ways-seek-soul-loveth-sought-found-watchmen-city-found-Saw-soul-loveth-little-passed-found-soul-loveth-held-brought-mother-house-chamber-conceived-charge-daughters-Jerusalem-roes-hinds-field-stir-awake-love-please-wilderness-pillars-smoke-perfumed-myrrh-frankincense-powders-merchant-behold-bed-Solomon-threescore-valiant-men-valiant-Israel-hold-swords-expert-war-man-sword-thigh-fear-night-King-Solomon-chariot-wood-Lebanon-pillars-silver-bottom-gold-covering-purple-midst-paved-love-daughters-Jerusalem-go-forth-daughters-Zion-behold-king-Solomon-crown-mother-crowned-day-espousals-day-gladness-heart
+**Tags:** #spiritual-seeking #christ #divine-protection #royal-procession
 
 ---
 

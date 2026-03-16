@@ -2,7 +2,7 @@
 
 ---
 
-## 1. CHAPTER METADATA
+## CHAPTER METADATA
 
 **Book:** Numbers
 **Chapter:** 12
@@ -13,13 +13,13 @@
 
 ---
 
-## 2. CHAPTER SUMMARY
+## CHAPTER SUMMARY
 
 Miriam and Aaron speak against Moses because he married an Ethiopian (Cushite) woman. But the real complaint surfaces: "Hath the LORD indeed spoken only by Moses? hath he not spoken also by us?" God hears it. The narrator inserts: Moses was very meek, above all men on earth. God suddenly calls all three to the Tabernacle and comes down in the pillar of cloud. He calls Aaron and Miriam separately and defines the grades of prophetic revelation: to other prophets He speaks in visions and dreams; but Moses is different — faithful in all His house, spoken to mouth to mouth, apparently (not in dark speeches), seeing the similitude of the LORD. Therefore: why were you not afraid to speak against My servant Moses? God departs in anger. Miriam is leprous — white as snow. Aaron sees it, confesses to Moses: we have done foolishly, we have sinned; let her not be as one dead with her flesh half consumed. Moses cries out: "Heal her now, O God, I beseech thee." God answers: if her father had spat in her face she would bear the shame seven days — let her be shut out seven days, then received back. Miriam is shut out seven days. The entire congregation waits. Then they move on to the wilderness of Paran.
 
 ---
 
-## 3. CROSS-REFERENCES (Scripture Interpreting Scripture)
+## CROSS-REFERENCES (Scripture Interpreting Scripture) (Scripture Interpreting Scripture)
 
 ### Moses Faithful in All My House — The Highest Commendation
 
@@ -65,7 +65,7 @@ Miriam and Aaron speak against Moses because he married an Ethiopian (Cushite) w
 
 ---
 
-## 4. KEYWORD INDEX
+## KEYWORD INDEX
 
 **For Current Events Matching:**
 - **Challenging established spiritual authority** → Numbers 12:2 — God's response: swift, direct, unambiguous defence of His servant
@@ -77,7 +77,7 @@ Miriam and Aaron speak against Moses because he married an Ethiopian (Cushite) w
 
 ---
 
-## 5. KEY TERMS WITH CONTEXTUAL DEFINITIONS
+## KEY TERMS WITH CONTEXTUAL DEFINITIONS WITH CONTEXTUAL DEFINITIONS
 
 ### MEEK (Hebrew: anav — humble, lowly, afflicted)
 - **Numbers 12:3** — "Now the man Moses was very meek, above all the men which were upon the face of the earth"
@@ -89,7 +89,7 @@ Miriam and Aaron speak against Moses because he married an Ethiopian (Cushite) w
 
 ---
 
-## 6. THE ACTUAL VERSES — NUMBERS 12 (KJV)
+## THE ACTUAL VERSES (KJV) — NUMBERS 12 (KJV)
 
 **1** And Miriam and Aaron spake against Moses because of the Ethiopian woman whom he had married: for he had married an Ethiopian woman.
 **2** And they said, Hath the LORD indeed spoken only by Moses? hath he not spoken also by us? And the LORD heard it.
@@ -110,7 +110,7 @@ Miriam and Aaron speak against Moses because he married an Ethiopian (Cushite) w
 
 ---
 
-## 7. PROPHETIC/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS/TYPOLOGICAL CONNECTIONS
 
 ### Miriam Outside the Camp Seven Days — The Leper's Restoration Pattern
 
@@ -124,7 +124,7 @@ Miriam and Aaron speak against Moses because he married an Ethiopian (Cushite) w
 
 ---
 
-## 8. COMMONLY MISQUOTED PASSAGES
+## COMMONLY MISQUOTED PASSAGES PASSAGES
 
 ### Numbers 12:1 — The Ethiopian Wife Used to Support Various Agendas
 
@@ -139,7 +139,7 @@ Miriam and Aaron speak against Moses because he married an Ethiopian (Cushite) w
 
 ---
 
-## 9. SYMBOLIC THREADS
+## SYMBOLIC THREADS
 
 ### The Cloud Departing — The Warning Sign
 

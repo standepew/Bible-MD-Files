@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Human Frailty, Life's Brevity, Physical Suffering, Plea for Relief
 
-**Tags:** #appointed-time-man-earth-days-hireling #servant-desireth-shadow-hireling-reward-work #months-vanity-wearisome-nights-appointed #lie-arise-night-gone-tossings-dawning-day #flesh-clothed-worms-clods-dust-skin-broken-loathsome #days-sifter-weaver-shuttle-spent-hope #remember-life-wind-eye-good #eye-seen-see-eyes #cloud-consumed-vanish-grave #return-house-place-know #refrain-mouth-anguish-spirit-complain-bitterness-soul #sea-whale-watch #bed-comfort-couch-ease-complaint #scarest-dreams-terrifiest-visions #soul-chooseth-strangling-death-life #loathe-live-alway-alone-days-vanity #man-magnify-heart #visit-morning-try-moment #depart-alone-swallow-spittle #sinned-preserver-men-mark-burden #pardon-transgression-iniquity-sleep-dust-morning
+**Tags:** #months-vanity-wearisome-nights-appointed #remember-life-wind-eye-good #eye-seen-see-eyes #cloud-consumed-vanish-grave #return-house-place-know #sea-whale-watch #bed-comfort-couch-ease-complaint #scarest-dreams-terrifiest-visions #soul-chooseth-strangling-death-life #man-magnify-heart #visit-morning-try-moment #depart-alone-swallow-spittle #sinned-preserver-men-mark-burden #human-frailty #life #physical-suffering #plea-for-relief
 
 ---
 

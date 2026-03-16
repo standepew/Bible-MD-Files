@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Judgment, Jerusalem's Destruction, Divine Fury, Christ's Anger
 
-**Tags:** #son-man-sharp-knife-barber-razor-pass-head-beard-balances-weigh-divide-hair-burn-fire-third-midst-city-days-siege-fulfilled-third-smite-knife-third-scatter-wind-draw-sword-few-number-bind-skirts-fire-come-forth-house-Israel-Lord-GOD-Jerusalem-midst-nations-countries-round-changed-judgments-wickedness-nations-statutes-countries-round-refused-judgments-statutes-walked-multiplied-nations-round-walked-statutes-kept-judgments-according-judgments-nations-round-Lord-GOD-against-execute-judgments-midst-sight-nations-done-like-abominations-fathers-eat-sons-midst-sons-eat-fathers-execute-judgments-whole-remnant-scatter-winds-live-Lord-GOD-defiled-sanctuary-detestable-things-abominations-diminish-eye-spare-pity-third-die-pestilence-famine-consumed-midst-third-fall-sword-round-scatter-third-winds-draw-sword-anger-accomplished-fury-rest-comforted-know-LORD-spoken-zeal-accomplished-fury-waste-reproach-nations-round-sight-pass-reproach-taunt-instruction-astonishment-nations-round-execute-judgments-anger-fury-furious-rebukes-LORD-spoken-send-evil-arrows-famine-destruction-destroy-increase-famine-break-staff-bread-send-famine-evil-beasts-bereave-pestilence-blood-pass-sword-LORD-spoken
+**Tags:** #christ #jerusalem #divine-fury
 
 ---
 

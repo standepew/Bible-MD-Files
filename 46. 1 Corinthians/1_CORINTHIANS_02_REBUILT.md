@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Christ Crucified, Wisdom of God, Spiritual Discernment, Mind of Christ
 
-**Tags:** #brethren-came-excellency-speech-wisdom-declaring-testimony-God-determined-know-thing-Jesus-Christ-crucified-weakness-fear-trembling-speech-preaching-enticing-words-man-wisdom-demonstration-Spirit-power-faith-stand-wisdom-men-power-God-wisdom-perfect-wisdom-world-princes-world-nought-speak-wisdom-God-mystery-hidden-wisdom-God-ordained-world-glory-princes-world-knew-crucified-Lord-glory-written-Eye-seen-ear-heard-entered-heart-man-things-God-prepared-love-God-revealed-Spirit-Spirit-searcheth-deep-things-God-man-knoweth-things-man-spirit-man-things-God-knoweth-Spirit-God-received-spirit-world-spirit-God-know-things-freely-God-speak-words-man-wisdom-teacheth-Holy-Ghost-teacheth-comparing-spiritual-things-spiritual-natural-man-receiveth-things-Spirit-God-foolishness-spiritually-discerned-spiritual-judgeth-things-judged-man-known-mind-Lord-instruct-mind-Christ
+**Tags:** #christ-crucified #wisdom-of-god #spiritual-discernment #mind-of-christ
 
 ---
 
@@ -175,7 +175,7 @@ Brethren, came, excellency, speech, wisdom, declaring, testimony, God, determine
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Christ Crucified as Type of Christ's Sacrifice
 - **Physical sacrifice:** Christ crucified (1 Corinthians 2:4)

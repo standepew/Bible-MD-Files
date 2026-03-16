@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Abraham's Justification by Faith, The Promise to Abraham, Faith Before Circumcision
 
-**Tags:** #Abraham-father-pertaining-flesh-found-justified-works-glory-God-scripture-Abraham-believed-God-counted-righteousness-worketh-reward-reckoned-grace-debt-worketh-believeth-justifieth-ungodly-faith-counted-righteousness-David-describeth-blessedness-man-God-imputeth-righteousness-works-Blessed-iniquities-forgiven-sins-covered-Blessed-man-Lord-impute-sin-blessedness-circumcision-uncircumcision-faith-reckoned-Abraham-righteousness-reckoned-circumcision-uncircumcision-received-sign-circumcision-seal-righteousness-faith-uncircumcised-father-believe-circumcised-righteousness-imputed-father-circumcision-circumcision-walk-steps-faith-father-Abraham-uncircumcised-promise-heir-world-Abraham-seed-law-righteousness-faith-law-heirs-faith-void-promise-effect-law-worketh-wrath-law-transgression-faith-grace-end-promise-sure-seed-law-faith-Abraham-father-us-written-father-nations-believed-God-quickeneth-dead-calleth-things-hope-believed-hope-father-nations-spoken-seed-weak-faith-considered-body-dead-hundred-years-deadness-Sara-womb-staggered-promise-God-unbelief-strong-faith-giving-glory-God-fully-persuaded-promised-able-perform-imputed-righteousness-written-sake-alone-imputed-us-believe-raised-Jesus-Lord-dead-delivered-offences-raised-justification
+**Tags:** #abraham #the-promise-to-abraham #faith-before-circumcision
 
 ---
 
@@ -227,7 +227,7 @@ Abraham, father, pertaining, flesh, found, justified, works, glory, God, scriptu
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Abraham's Justification by Faith as Type of Christ's Justification
 - **Physical justification:** Counted righteousness (Romans 4:4)

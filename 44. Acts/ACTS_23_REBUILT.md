@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Paul Before the Council, The Plot Against Paul, Paul Sent to Caesarea
 
-**Tags:** #Paul-earnestly-beholding-council-Men-brethren-lived-conscience-God-day-high-priest-Ananias-commanded-smite-mouth-God-smite-whited-wall-sittest-judge-law-commandest-smitten-contrary-law-Revilest-God-high-priest-Paul-wist-brother-high-priest-written-speak-evil-ruler-people-perceived-part-Sadducees-Pharisees-cried-council-Pharisee-Pharisee-hope-resurrection-called-question-arose-dissension-Pharisees-Sadducees-multitude-divided-Sadducees-resurrection-angel-spirit-Pharisees-confess-both-arose-great-cry-scribes-Pharisees-part-arose-strove-find-evil-man-spirit-angel-spoken-fight-God-arose-great-dissension-chief-captain-fearing-pulled-pieces-commanded-soldiers-force-among-castle-night-following-Lord-stood-good-cheer-Paul-testified-Jerusalem-bear-witness-Rome-day-Jews-banded-bound-curse-neither-eat-drink-killed-Paul-forty-conspiracy-chief-priests-elders-bound-curse-eat-slain-Paul-council-signify-chief-captain-bring-morrow-enquire-perfectly-come-near-kill-Paul-sister-son-heard-lying-wait-entered-castle-told-Paul-called-centurion-bring-young-man-chief-captain-certain-thing-took-brought-chief-captain-Paul-prisoner-called-prayed-bring-young-man-thee-something-chief-captain-hand-aside-privately-asked-Jews-agreed-desire-bring-morrow-council-enquire-somewhat-perfectly-yield-lying-wait-forty-men-bound-oath-neither-eat-drink-killed-ready-looking-promise-chief-captain-young-man-depart-charged-tell-man-shewed-called-centurions-ready-two-hundred-soldiers-Caesarea-horsemen-threescore-spearmen-two-hundred-third-hour-night-provide-beasts-set-Paul-safe-Felix-governor-wrote-letter-manner-Claudius-Lysias-excellent-governor-Felix-greeting-Jews-killed-army-rescived-understood-Roman-cause-accused-brought-council-perceived-accused-questions-law-charge-worthy-death-bonds-Jews-laid-wait-straightway-commandment-accusers-say-Farewell-soldiers-commanded-Paul-brought-night-Antipatris-morrow-left-horsemen-castle-Caesarea-delivered-epistle-governor-presented-Paul-governor-read-letter-asked-province-understood-Cilicia-hear-accusers-come-commanded-kept-Herod-judgment-hall
+**Tags:** #paul-before-the-council #the-plot-against-paul #paul-sent-to-caesarea
 
 ---
 
@@ -259,7 +259,7 @@ Paul, earnestly, beholding, council, Men, brethren, lived, conscience, God, day,
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Paul Before the Council as Type of Christ's Trial
 - **Physical trial:** Whited wall (Acts 23:5)

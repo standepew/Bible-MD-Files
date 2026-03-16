@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Dead to Sin, Baptized into Christ, Free from Sin, Servants of Righteousness
 
-**Tags:** #continue-sin-grace-abound-God-forbid-dead-sin-live-baptized-Jesus-Christ-baptized-death-buried-baptism-death-Christ-raised-dead-glory-Father-walk-newness-life-planted-likeness-death-likeness-resurrection-knowing-old-crucified-body-sin-destroyed-serve-sin-dead-freed-sin-dead-Christ-live-Christ-knowing-Christ-raised-dead-dieth-dominion-died-sin-died-liveth-God-reckon-dead-sin-alive-God-Jesus-Christ-Lord-sin-reign-mortal-body-obey-lusts-yield-members-instruments-unrighteousness-sin-yield-God-alive-dead-members-instruments-righteousness-God-dominion-law-grace-sin-law-grace-God-forbid-yield-servants-obey-servants-obey-sin-death-obedience-righteousness-God-thanked-servants-sin-obeyed-heart-form-doctrine-delivered-made-free-sin-servants-righteousness-speak-manner-men-infirmity-flesh-yielded-members-servants-uncleanness-iniquity-iniquity-yield-members-servants-righteousness-holiness-servants-sin-free-righteousness-fruit-ashamed-end-death-made-free-sin-servants-God-fruit-holiness-end-everlasting-life-wages-sin-death-gift-God-eternal-life-Jesus-Christ-Lord
+**Tags:** #dead-to-sin #baptized-into-christ #free-from-sin #servants-of-righteousness
 
 ---
 
@@ -213,7 +213,7 @@ Continue, sin, grace, abound, God, forbid, dead, sin, live, baptized, Jesus, Chr
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Dead to Sin as Type of Christ's Death
 - **Physical death:** Dead sin (Romans 6:4)

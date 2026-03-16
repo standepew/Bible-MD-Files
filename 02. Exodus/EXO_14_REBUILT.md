@@ -173,6 +173,42 @@ God instructs Israel to camp at Pi-hahiroth by the sea, a position that looks li
 
 ---
 
+## COMMONLY MISQUOTED PASSAGES
+
+### Exodus 14:13-14 — "Stand Still" Used to Teach Passivity in All Circumstances
+
+**Verses 13-14** — "Fear ye not, stand still, and see the salvation of the LORD... The LORD shall fight for you, and ye shall hold your peace."
+
+**How it is misused:** These verses are frequently cited to argue that in any difficult situation, the correct spiritual posture is always passive waiting — that taking action, planning, or engaging human effort is inherently a failure of faith. "Stand still" becomes a blanket prohibition on initiative.
+
+**What the text actually says:** The command to stand still is immediately followed by a command to go forward — the stillness is not inaction but a specific faith posture for a specific situation:
+- **Verse 15** — "And the LORD said unto Moses, Wherefore criest thou unto me? speak unto the children of Israel, that they go forward" — God follows "stand still and see" with "go forward"; the standing still was not permanent passivity but the posture of trust in the moment before God opened the way
+- **Verse 16** — "But lift thou up thy rod, and stretch out thine hand over the sea, and divide it" — Moses is given an active role; he must lift the rod, stretch out his hand; the miracle requires participation
+- **Joshua 1:2-3** — After Moses' death, God commands Joshua: "Arise, go over this Jordan... Every place that the sole of your foot shall tread upon, that have I given you" — the same God who said "stand still" now says "arise and go"; the posture changes as God's instruction changes
+- **2 Chronicles 20:17** — "Ye shall not need to fight in this battle: set yourselves, stand ye still, and see the salvation of the LORD" — this is the same command applied to Jehoshaphat's specific situation, not a universal principle
+
+*Correction:* "Stand still, and see the salvation of the LORD" is the command for a specific type of impossibility: when the sea is before you and the enemy is behind you and there is literally nowhere to go by human effort. It is not a general principle of passivity in all circumstances. Verse 15 shows that the "standing still" posture immediately becomes forward movement once God opens the way. The believer's posture before God is trust; the posture before the open way is action. Exodus 14 contains both.
+
+---
+
+### Exodus 14:11-12 — Israel's Complaint Used to Defend Preferring Bondage Over Risk
+
+**Verses 11-12** — "And they said unto Moses, Because there were no graves in Egypt, hast thou taken us away to die in the wilderness?... For it had been better for us to serve the Egyptians, than that we should die in the wilderness."
+
+**How it is misused:** Israel's words here are sometimes treated as a reasonable assessment of the situation — as if the choice to return to Egypt would have been rational and perhaps the wiser option given the circumstances. The verse is used to argue that preferring a safe known bondage over a risky unknown freedom is a legitimate response to fear.
+
+**What the text actually says:** The statement is presented as faithlessness immediately corrected by God, and the subsequent narrative completely vindicates the deliverance:
+- **Verse 13** — "And Moses said unto the people, Fear ye not, stand still, and see the salvation of the LORD, which he will shew to you to day: for the Egyptians whom ye have seen to day, ye shall see them again no more for ever" — Moses directly addresses their complaint as fear, not rational calculation
+- **Verse 31** — "And Israel saw that great work which the LORD did upon the Egyptians: and the people feared the LORD, and believed the LORD, and his servant Moses" — the chapter closes with the complete vindication of the deliverance; their preference for Egypt was entirely without basis
+- **Numbers 14:3-4** — The complaint returns in a more developed form after the spies' report: "Would God that we had died in the land of Egypt!... Let us make a captain, and let us return into Egypt" — God's response there is severe judgment; the longing for Egypt is consistently treated as faithlessness, not wisdom
+- **Hebrews 10:38-39** — "But if any man draw back, my soul shall have no pleasure in him. But we are not of them who draw back unto perdition; but of them that believe to the saving of the soul"
+
+*Correction:* Israel's statement in Exodus 14:11-12 is not wisdom under pressure — it is the voice of unbelief that has already forgotten the plagues, the Passover, and the promise. The narrative repeatedly identifies the desire to return to Egypt as the defining failure of the wilderness generation (Nehemiah 9:17; Psalm 78:41-42). The New Testament applies this pattern to those who draw back from faith: going back to bondage is never presented as safety — it is presented as the path of perdition.
+
+---
+
+---
+
 ## SYMBOLIC THREADS
 
 ### The East Wind — The Breath of God in Judgment and Salvation

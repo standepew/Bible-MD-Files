@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Coming Judgment, Divine Witness, Samaria's Fall, Jerusalem's Invasion
 
-**Tags:** #word-LORD-Micah-Morasthite-days-Jotham-Ahaz-Hezekiah-kings-Judah-concerning-Samaria-Jerusalem-Hear-people-hearken-earth-Lord-GOD-witness-Lord-holy-temple-behold-LORD-cometh-place-tread-high-places-earth-mountains-molten-valleys-cleft-wax-fire-waters-poured-steep-transgression-Jacob-sins-house-Israel-transgression-Jacob-Samaria-high-places-Judah-Jerusalem-make-Samaria-heap-field-plantings-vineyard-pour-stones-valley-discover-foundations-graven-images-beaten-pieces-hires-burned-fire-idols-lay-desolate-gathered-hire-harlot-return-hire-harlot-wail-howl-stripped-naked-wailing-dragons-mourning-owls-wound-incurable-Judah-gate-people-Jerusalem-Declare-Gath-weep-house-Aphrah-roll-dust-Pass-inhabitant-Saphir-shame-naked-inhabitant-Zaanan-mourning-Beth-ezel-receive-standing-inhabitant-Maroth-waited-carefully-good-evil-LORD-gate-Jerusalem-inhabitant-Lachish-bind-chariot-swift-beast-beginning-sin-daughter-Zion-transgressions-Israel-found-thee-shalt-presents-Moresheth-gath-houses-Achzib-lie-kings-Israel-bring-heir-inhabitant-Mareshah-Adullam-glory-Israel-bald-poll-delicate-children-enlarge-baldness-eagle-gone-captivity
+**Tags:** #christ #divine-witness #samaria #jerusalem
 
 ---
 

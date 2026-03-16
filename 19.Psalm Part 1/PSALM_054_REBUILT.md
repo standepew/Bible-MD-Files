@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Prayer for Help, Divine Deliverance, Enemy's Opposition, Sacrifice and Praise
 
-**Tags:** #chief-Musician-Neginoth-Maschil-Psalm-David-Ziphims-came-Saul-David-hide-strangers-risen-oppressors-seek-soul-set-GOD-Selah-behold-GOD-helper-LORD-uphold-soul-reward-enemies-cut-truth-freely-sacrifice-praise-name-LORD-good-delivered-trouble-eye-desire-enemies
+**Tags:** #prayer-for-help #divine-deliverance #enemy #sacrifice-and-praise
 
 ---
 

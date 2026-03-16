@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Christ's Transfiguration, Healing of Demon-possessed Boy, Teaching on Greatness, Warning Against Sin
 
-**Tags:** #Verily-stand-taste-death-kingdom-power-six-days-Jesus-Peter-James-John-high-mountain-apart-transfigured-raiment-shining-white-snow-fuller-white-Elias-Moses-talking-Jesus-Peter-Jesus-Master-tabernacles-Moses-Elias-wist-sore-afraid-cloud-overshadowed-voice-cloud-beloved-Son-heard-suddenly-round-man-Jesus-mountain-charged-tell-man-things-seen-Son-man-risen-dead-kept-saying-questioning-rising-dead-mean-scribes-Elias-Elias-restoreth-written-Son-man-suffer-set-nought-Elias-listed-disciples-multitude-scribes-questioning-people-beheld-amazed-running-saluted-scribes-question-multitude-Master-son-dumb-spirit-teareth-foameth-gnasheth-teeth-pineth-spake-disciples-cast-could-faithless-generation-suffer-brought-spirit-tare-ground-wallowed-foaming-father-child-came-fire-waters-destroy-canst-believe-things-possible-believeth-father-child-cried-tears-Lord-believe-unbelief-people-running-rebuked-foul-spirit-dumb-deaf-spirit-charge-come-enter-spirit-cried-rent-dead-said-dead-Jesus-hand-lifted-arose-house-disciples-privately-cast-prayer-fasting-departed-Galilee-know-taught-disciples-Son-man-delivered-hands-men-kill-third-day-rise-understood-saying-afraid-Capernaum-house-disputed-greatest-peace-greatest-servant-child-midst-arms-receive-children-receive-sent-John-Master-casting-devils-name-follow-forbad-forbid-miracle-name-lightly-speak-evil-against-part-belong-Christ-water-drink-belong-Christ-lose-reward-offend-little-ones-believe-millstone-neck-sea-hand-offend-cut-life-maimed-hands-hell-fire-quenched-worm-die-fire-quenched-foot-offend-cut-life-halt-feet-hell-fire-quenched-worm-die-fire-quenched-eye-offend-pluck-kingdom-eye-cast-hell-fire-quenched-worm-die-fire-quenched-salted-fire-sacrifice-salted-salt-salt-lost-saltness-season-salt-peace
+**Tags:** #christ #healing-of-demonpossessed-boy #teaching-on-greatness #warning-against-sin
 
 ---
 
@@ -353,7 +353,7 @@ Verily, stand, taste, death, kingdom, power, six, days, Jesus, Peter, James, Joh
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Christ's Transfiguration as Type of Christ's Glory
 - **Physical transfiguration:** Transfigured white (Mark 9:4)

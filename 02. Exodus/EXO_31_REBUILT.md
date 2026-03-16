@@ -140,3 +140,69 @@ God tells Moses He has called Bezaleel by name — from the tribe of Judah — a
 ---
 
 **End of Exodus Chapter 31**
+
+---
+
+## COMMONLY MISQUOTED PASSAGES
+
+### Exodus 31:14-15 — "Whosoever Doeth Work in the Sabbath Day, He Shall Surely Be Put to Death" — Used to Enforce Modern Sabbatarianism
+
+**Verses 14-15** — "Ye shall keep the sabbath therefore; for it is holy unto you: every one that defileth it shall surely be put to death... whosoever doeth any work in the sabbath day, he shall surely be put to death."
+
+**How it is misused:** This verse is cited to argue that Christians who work on Sunday (or Saturday) are under a divine death sentence — that the Sabbath death penalty is a continuing civil obligation binding on all nations and all times, and that the church or state should enforce it.
+
+**What the text actually says:**
+- **Exodus 31:13, 17** — "it is a sign between me and you throughout your generations... a sign between me and the children of Israel for ever" — the Sabbath sign is specifically marked as between God and Israel; it is a covenant sign for the covenant people
+- **Colossians 2:16-17** — "Let no man therefore judge you in meat, or in drink, or in respect of an holyday, or of the new moon, or of the sabbath days: Which are a shadow of things to come; but the body is of Christ"
+- **Romans 14:5-6** — "One man esteemeth one day above another: another esteemeth every day alike. Let every man be fully persuaded in his own mind. He that regardeth the day, regardeth it unto the Lord"
+- **Hebrews 4:9-10** — "There remaineth therefore a rest (sabbatismos) to the people of God. For he that is entered into his rest, he also hath ceased from his own works, as God did from his" — the true Sabbath is entering Christ's rest, not a specific calendar day
+
+*Correction:* The death penalty for Sabbath violation was a civil statute of the Mosaic theocracy specifically identified as a covenant sign between God and Israel (v.13, 17). The New Testament explicitly removes calendar observance from the category of binding obligation for New Covenant believers (Colossians 2:16-17; Romans 14:5-6). Hebrews 4:9-10 shows the true Sabbath is the rest believers enter through Christ — a rest from works-righteousness, not a day to be policed by civil penalty. The theological principle (rest in God, trust His provision) remains; the specific civil penalty and calendar sign belong to the old covenant administration.
+
+---
+
+### Exodus 31:3 — "Filled with the Spirit of God" for Craftsmanship — Narrowed to Spiritual Gifts Only
+
+**Verse 3** — "And I have filled him with the spirit of God, in wisdom, and in understanding, and in knowledge, and in all manner of workmanship"
+
+**How it is misused:** "Filled with the Spirit" is typically interpreted only in the context of prophecy, preaching, or miracles. Exodus 31:3 — the first use of the phrase in Scripture — is often overlooked or treated as a lesser, non-spiritual gift. Craftsmanship and artistry are excluded from the category of Spirit-filled ministry.
+
+**What the text actually says:**
+- **Exodus 31:3** — The first person in all of Scripture described as filled with the Spirit of God is Bezaleel — a craftsman, not a prophet or warrior
+- **Isaiah 11:2** — The Messianic Spirit: "the spirit of wisdom and understanding, the spirit of counsel and might, the spirit of knowledge" — the same triad Bezaleel receives
+- **1 Corinthians 12:7-11** — "the manifestation of the Spirit is given to every man to profit withal" — the list includes gifts of administration, helps, and diverse operations — not only the spectacular
+- **Ephesians 4:11-12** — "And he gave some, apostles; and some, prophets; and some, evangelists; and some, pastors and teachers; For the perfecting of the saints, for the work of the ministry, for the edifying of the body of Christ" — the gifts are for building God's dwelling, just as Bezaleel's gifts were
+
+*Correction:* The Spirit's first recorded filling in Scripture is for carpentry, metalwork, engraving, and textile arts — not prophecy or battle. This establishes from the beginning that the Spirit of God is the source of excellence in all skill applied to God's purposes, not only the "spiritual" gifts narrowly defined. Bezaleel's wisdom, understanding, and knowledge parallel the Messianic Spirit of Isaiah 11:2 and point to Christ as the master builder of the living temple. Every believer with a skill exercised in God's service operates under the same Spirit that filled Bezaleel.
+
+---
+
+## SYMBOLIC THREADS
+
+**The Finger of God:**
+- First appears: Exodus 8:19 — "Then the magicians said unto Pharaoh, This is the finger of God" — the magicians recognize divine power in the plague of lice
+- Exodus 31:18 — "two tables of testimony, tables of stone, written with the finger of God" — God Himself engraves the Law directly
+- Deuteronomy 9:10 — "And the LORD delivered unto me two tables of stone written with the finger of God"
+- Luke 11:20 — "But if I with the finger of God cast out devils, no doubt the kingdom of God is come upon you" — Jesus uses the identical phrase to describe His miraculous works
+- 2 Corinthians 3:3 — "written not with ink, but with the Spirit of the living God; not in tables of stone, but in fleshy tables of the heart"
+- *Pattern:* "The finger of God" is the Bible's phrase for direct divine action — no intermediary instrument, no human hand. The Law engraved on stone by God's finger is the outward, external form of the same divine writing that the Spirit does inwardly on human hearts (2 Corinthians 3:3; Jeremiah 31:33). Jesus's use of "the finger of God" in Luke 11:20 identifies His miracles as the same direct divine power. The medium changes across the covenants (stone → hearts) but the Author is always the same: the Spirit of the living God writing God's will directly.
+
+---
+
+**Wisdom, Understanding, and Knowledge (The Three Gifts):**
+- First appears together: Exodus 31:3 — "in wisdom, and in understanding, and in knowledge, and in all manner of workmanship"
+- Proverbs 3:19 — "The LORD by wisdom hath founded the earth; by understanding hath he established the heavens; By his knowledge the depths are broken up"
+- Proverbs 4:7 — "Wisdom is the principal thing; therefore get wisdom: and with all thy getting get understanding"
+- Isaiah 11:2 — "the spirit of wisdom and understanding, the spirit of counsel and might, the spirit of knowledge and of the fear of the LORD" — the Messianic Spirit carries the same triad
+- Colossians 2:3 — "In whom (Christ) are hid all the treasures of wisdom and knowledge"
+- *Pattern:* The triad of wisdom, understanding, and knowledge appears first in Bezaleel's Spirit-filling (Exodus 31:3), recurs in Proverbs 3:19 as God's own creative faculties, and culminates in Isaiah 11:2 as the gifts of the Messianic Spirit. Colossians 2:3 declares that all the treasures of wisdom and knowledge are hidden in Christ. The pattern runs: God created by wisdom-understanding-knowledge; Bezaleel built the Tabernacle by the same three; Christ fulfills all creation and all building by possessing them in their fullness. The Spirit-filled craftsman's gifts are a derivative of the Creator's own nature.
+
+---
+
+**The Sabbath as Sign:**
+- First appears as explicit "sign": Exodus 31:13 — "it is a sign between me and you throughout your generations; that ye may know that I am the LORD that doth sanctify you"
+- Exodus 31:17 — "It is a sign between me and the children of Israel for ever"
+- Ezekiel 20:12 — "Moreover also I gave them my sabbaths, to be a sign between me and them, that they might know that I am the LORD that sanctify them"
+- Ezekiel 20:20 — "And hallow my sabbaths; and they shall be a sign between me and you, that ye may know that I am the LORD your God"
+- Hebrews 4:9-10 — "There remaineth therefore a rest (sabbatismos) to the people of God. For he that is entered into his rest, he also hath ceased from his own works, as God did from his"
+- *Pattern:* The Sabbath functions in Scripture as the covenant sign of divine sanctification — it declares that God, not Israel's own effort, is the one who makes them holy. Ezekiel 20:12 and 20:20 repeat this explicitly. The sign-character of the Sabbath is not primarily about rest but about identity: whose sanctification this is. Hebrews 4:9-10 reveals the antitype: the true sabbatismos is entering the rest Christ has accomplished — ceasing from works-righteousness as God ceased from His creative work. The Sabbath sign is fulfilled when the believer rests in Christ's completed work rather than their own.

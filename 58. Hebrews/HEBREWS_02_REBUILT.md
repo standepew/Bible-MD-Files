@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Warning Against Neglect, Christ's Humanity, Christ's Suffering and Death, Christ's High Priesthood, Deliverance from Fear of Death
 
-**Tags:** #earnest-heard-slip-word-spoken-angels-stedfast-transgression-disobedience-recompense-reward-escape-neglect-salvation-spoken-Lord-confirmed-heard-God-bearing-witness-signs-wonders-divers-miracles-gifts-Holy-Ghost-angels-subjection-world-come-testified-mindful-son-man-visitest-lower-angels-crowned-glory-honour-works-hands-subjection-feet-nothing-put-see-Jesus-lower-angels-suffering-death-crowned-glory-honour-grace-God-taste-death-man-became-things-bringing-sons-glory-captain-salvation-perfect-sufferings-sanctifieth-sanctified-ashamed-brethren-declare-name-brethren-midst-church-sing-praise-trust-children-God-given-children-partakers-flesh-blood-partook-death-destroy-power-death-devil-deliver-fear-death-lifetime-bondage-nature-angels-seed-Abraham-behoved-like-brethren-merciful-faithful-high-priest-reconciliation-sins-people-suffered-tempted-able-succour-tempted
+**Tags:** #warning-against-neglect #christ #deliverance-from-fear-of-death
 
 ---
 
@@ -181,7 +181,7 @@ Earnest, heard, slip, word, spoken, angels, stedfast, transgression, disobedienc
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Warning Against Neglect as Type of Christ's Warning
 - **Physical warning:** Earnest heed (Hebrews 2:2)

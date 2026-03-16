@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Freedom, Gedaliah's Governance, Divine Mercy, Christ's Warning
 
-**Tags:** #word-Jeremiah-LORD-Nebuzar-adan-captain-guard-let-Ramah-bound-chains-carried-captive-Jerusalem-Judah-carried-captive-Babylon-captain-guard-Jeremiah-LORD-God-pronounced-evil-place-LORD-brought-done-sinned-LORD-obeyed-voice-thing-loose-chains-hand-seem-good-Babylon-look-well-seem-ill-Babylon-forbear-land-whither-good-convenient-whither-captain-guard-victuals-reward-Jeremiah-Gedaliah-son-Ahikam-son-Shaphan-king-Babylon-governor-cities-Judah-dwell-people-wheresoever-convenient-captain-guard-victuals-reward-Jeremiah-Gedaliah-son-Ahikam-Mizpah-dwelt-people-left-land-captains-forces-fields-men-king-Babylon-Gedaliah-son-Ahikam-governor-land-committed-men-women-children-poor-land-carried-captive-Babylon-Gedaliah-Mizpah-Ishmael-son-Nethaniah-Johanan-Jonathan-sons-Kareah-Seraiah-son-Tanhumeth-sons-Ephai-Netophathite-Jezaniah-son-Maachathite-men-Gedaliah-son-Ahikam-son-Shaphan-sware-men-Fear-serve-Chaldeans-dwell-land-serve-king-Babylon-dwell-Mizpah-serve-Chaldeans-gather-wine-summer-fruits-oil-vessels-dwell-cities-taken-Jews-Moab-Ammonites-Edom-countries-king-Babylon-left-remnant-Judah-Gedaliah-son-Ahikam-son-Shaphan-Jews-returned-places-driven-land-Judah-Gedaliah-Mizpah-gathered-wine-summer-fruits-Johanan-son-Kareah-captains-forces-fields-Gedaliah-Mizpah-certainly-know-Baalis-king-Ammonites-sent-Ishmael-son-Nethaniah-slay-Gedaliah-son-Ahikam-Johanan-son-Kareah-Mizpah-secretly-slay-Ishmael-son-Nethaniah-man-know-slay-Jews-gathered-scattered-remnant-Judah-perish-Gedaliah-son-Ahikam-Johanan-son-Kareah-thing-speakest-falsely-Ishmael
+**Tags:** #christ #gedaliah #divine-mercy
 
 ---
 
