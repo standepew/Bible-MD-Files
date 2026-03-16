@@ -129,6 +129,11 @@ Brought, ark, God, set, midest, tent, David, pitched, offered, burnt, sacrifices
 
 **David's Return:** people departed man house David returned bless house
 
+
+*AI Keywords for current event matching:*
+`abraham` `altar` `anointed` `appointed` `ark` `arks` `asaph` `beauty` `benaiah` `bless` `blessed` `bread` `brethren` `brought` `burnt` `call` `canaan` `chief` `children` `chosen` `come` `cometh` `commanded` `confirmed` `continually` `continued` `covenant` `creations` `cymbals` `david` `davids` `day` `dealt` `declare` `deeds` `deliver` `delivered` `departed` `earth` `eight` `eliab` `end` `endureth` `evening` `ever` `everlasting` `expressed` `face` `faithfulness` `fear` `feared` `few` `fields` `flagon` `flesh` `fulness` `gather` `generations` `generosity` `gibeon` `give` `glad` `gladness` `glory` `god` `gods` `good` `great` `greatly` `hand` `harm` `harps` `heart` `heathen` `heavens` `heman` `high` `holiness` `holy` `honour` `hosah` `house` `idols` `inheritance` `instruments` `isaac` `israel` `jacob` `jahaziel` `jeduthun` `jehiel` `jeiel` `judge` `judgments` `kindreds` `kingdom` `kings` `land` `law` `left` `levites` `levitical` `loaf` `lord` `lot` `made` `make` `man` `marvellous` `mattithiah` `men` `mercy` `midest` `mindful` `minister` `ministry` `morning` `mouth` `moved` `musical` `name` `nation` `nations` `oath` `obed-edom` `offer` `offered` `offering` `offerings` `ones` `peace` `people` `piece` `pitched` `place` `placement` `porters` `praise` `praised` `prayer` `presence` `priest` `priests` `proper` `prophets` `psalm` `psalms` `psalteries` `record` `reigneth` `rejoice` `remember` `reproved` `required` `rest` `return` `returned` `roar` `sacrifices` `sakes` `salvation` `save` `say` `saying` `sea` `seed` `seek` `servant` `set` `shemiramoth` `shew` `sing` `son` `sons` `sound` `stable` `strangers` `strength` `suffered` `tabernacle` `talk` `tent` `thank` `thanks` `therein` `thousand` `threescore` `touch` `trees` `true` `trumpets` `went` `wine` `woman` `wonders` `wondrous` `wood` `word` `work` `works` `world` `worship` `wrong` `zadok` `zechariah`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -155,6 +155,11 @@ Solomon, son, David, strengthened, kingdom, LORD, God, with, magnified, exceedin
 
 **Economic Prosperity:** Soloman made silver gold Jerusalem plenteous stones cedar trees abundance sycamore trees vale Soloman brought horses Egypt linen yarn king merchants received linen yarn price, fetched Egypt chariot six hundred shekels silver horse hundred fifty shekel horses kings Hittites kings Syrian kings merchants received horses
 
+
+*AI Keywords for current event matching:*
+`abundance` `altar` `appeared` `ark` `ask` `asked` `bezalel` `blessing` `brasen` `brought` `burnt` `captains` `cedar` `chariot` `chariots` `chief` `cities` `congregation` `david` `divine` `dust` `earth` `economic` `egypt` `enemies` `established` `exceedingly` `father` `fathers` `fetched` `fifty` `four` `gathered` `gibeon` `give` `god` `gold` `governors` `granted` `great` `heart` `high` `hittites` `honour` `horse` `horsemen` `horses` `hundred` `hundreds` `hur` `israel` `jearim` `jerusalem` `journey` `judge` `judges` `king` `kingdom` `kings` `kirjath` `knowledge` `life` `like` `linen` `long` `lord` `made` `magnified` `merchants` `mercy` `moses` `multitude` `night` `offered` `offerings` `people` `place` `placed` `plenteous` `preparation` `prepared` `price` `promise` `prosperity` `received` `reign` `reigned` `riches` `said` `servant` `shekel` `shekels` `shewed` `silver` `six` `soloman` `solomons` `son` `sought` `spake` `stead` `stones` `strengthened` `sycamore` `syrian` `tabernacle` `temple` `tent` `thousand` `thousands` `trees` `twelve` `uri` `vale` `wealth` `wilderness` `wisdom` `yarn`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

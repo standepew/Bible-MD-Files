@@ -103,6 +103,11 @@ Year, Tartan, came, Ashdod, Sargon, king, Assyria, sent, fought, Ashdod, took, t
 
 **Spiritual Humiliation:** afraid ashamed, expectation glory, inhabitant isle, escape
 
+
+*AI Keywords for current event matching:*
+`action` `afraid` `ashamed` `assyria` `barefoot` `christs` `divine` `egypt` `escape` `ethiopia` `expectation` `glory` `humiliation` `inhabitant` `isaiah` `isle` `judgment` `king` `lead` `loose` `lord` `naked` `prisoners` `prophetic` `put` `sackcloth` `servant` `shame` `shoe` `sign` `spiritual` `spoke` `three` `walking` `wonder` `years`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

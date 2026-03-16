@@ -103,6 +103,11 @@ Word, LORD, Joel, son, Pethuel, Hear, old, men, ear, inhabitants, land, days, fa
 
 **Day of the LORD:** day LORD at hand, destruction Almighty, meat cut off, joy gladness
 
+
+*AI Keywords for current event matching:*
+`almighty` `assembly` `burned` `call` `cankerworm` `caterpiller` `christs` `cry` `cut` `day` `destruction` `devoured` `divine` `fast` `fire` `flame` `gird` `gladness` `hand` `joy` `judgment` `lament` `lion` `locust` `lord` `meat` `nation` `off` `palmerworm` `plague` `repentance` `sanctify` `solemn` `strong` `teeth`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

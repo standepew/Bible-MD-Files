@@ -175,6 +175,11 @@ Condemnation, Christ, Jesus, walk, flesh, Spirit, law, Spirit, life, Christ, Jes
 
 **More Than Conquerors:** know things, work good, love God, called purpose, foreknow, predestinate, conformed, image, Son, firstborn, brethren, predestinate, called, justified, glorified, things God, spared Son, delivered freely, give things, charge God, elect justifieth, condemneth, Christ died, risen right, hand God, intercession, separate, love Christ, tribulation, distress, persecution, famine, nakedness, peril, sword written, killed day, accounted sheep, slaughter conquerors, loved persuaded, death life, angels, principalities, powers, things present, things height, depth, creature, separate, love God, Christ Jesus, Lord
 
+
+*AI Keywords for current event matching:*
+`abba` `accounted` `adoption` `angels` `bodies` `body` `bondage` `brethren` `called` `carnal` `carnally` `charge` `children` `christ` `condemnation` `condemned` `condemneth` `conformed` `conquerors` `corruption` `creation` `creature` `cry` `day` `dead` `death` `debtors` `deeds` `delivered` `depth` `die` `died` `distress` `dwell` `earnest` `elect` `enmity` `expectation` `famine` `father` `fear` `firstborn` `firstfruits` `flesh` `foreknow` `free` `freely` `fulfilled` `give` `glorified` `glorious` `glory` `god` `good` `groan` `groaneth` `groanings` `hand` `hearts` `height` `heirs` `helpeth` `hope` `image` `infirmities` `intercession` `jesus` `joint` `justified` `justifieth` `killed` `know` `law` `led` `liberty` `life` `likeness` `live` `lord` `love` `loved` `man` `manifestation` `mind` `minded` `mortal` `mortify` `nakedness` `ought` `pain` `patience` `peace` `peril` `persecution` `persuaded` `please` `powers` `pray` `predestinate` `present` `principalities` `purpose` `quicken` `raised` `reason` `received` `reckon` `redemption` `revealed` `right` `righteousness` `risen` `saints` `saved` `searcheth` `seen` `seeth` `sending` `separate` `sheep` `sin` `sinful` `slaughter` `son` `sons` `spared` `spirit` `spiritually` `subject` `subjected` `suffer` `sufferings` `sword` `things` `time` `travaileth` `tribulation` `uttered` `vanity` `wait` `waiting` `walk` `weak` `whole` `willingly` `witness` `work` `worthy` `written`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

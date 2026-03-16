@@ -139,6 +139,11 @@ Give, thanks, LORD, good, mercy, endureth, forever, give, thanks, God, gods, mer
 
 **Conquest Victory:** smote great kings, slew famous kings, Sihon Og, gave land heritage
 
+
+*AI Keywords for current event matching:*
+`arm` `brought` `conquest` `creations` `deliverance` `divided` `earth` `egypt` `endures` `endureth` `exodus` `famous` `firstborn` `forever` `gave` `gods` `great` `hand` `heavens` `heritage` `israel` `kings` `land` `lights` `made` `mercy` `moon` `red` `repeated` `sea` `sihon` `slew` `smote` `stars` `stretched` `strong` `sun` `times` `victory` `waters` `wisdom` `wonder`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

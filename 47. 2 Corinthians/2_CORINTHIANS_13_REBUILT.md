@@ -91,6 +91,11 @@ Third, time, coming, mouth, witnesses, word, established, told, foretell, presen
 
 **Final Benediction:** finally, brethren, farewell, perfect, comfort, mind, live, peace, God, love, peace, greet, holy, kiss, saints, salute, grace, Lord, Jesus, Christ, love, God, communion, Holy, Ghost, Amen
 
+
+*AI Keywords for current event matching:*
+`absent` `amen` `appear` `approved` `benediction` `brethren` `christ` `come` `comfort` `coming` `communion` `crucified` `destruction` `edification` `established` `evil` `examine` `faith` `farewell` `final` `finally` `foretell` `ghost` `glad` `god` `grace` `greet` `heretofore` `holy` `honest` `jesus` `kiss` `know` `live` `liveth` `lord` `love` `mighty` `mind` `mouth` `peace` `perfect` `perfection` `power` `pray` `present` `proof` `prove` `reprobates` `saints` `salute` `second` `seek` `self-examination` `selves` `sharpness` `sinned` `spare` `speaking` `strong` `third` `time` `told` `trust` `truth` `warning` `weak` `weakness` `wish` `witnesses` `word` `write`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

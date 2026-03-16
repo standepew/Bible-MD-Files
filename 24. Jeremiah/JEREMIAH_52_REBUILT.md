@@ -91,6 +91,11 @@ Zedekiah, years, began, reign, Jerusalem, mother, Hamutal, daughter, Jeremiah, L
 
 **Christ's Mercy:** lifted head Jehoiachin, spake kindly, throne above, continual bread
 
+
+*AI Keywords for current event matching:*
+`above` `babylon` `besieged` `brake` `brass` `bread` `broken` `burned` `christs` `city` `continual` `destruction` `evil` `eyes` `fall` `famine` `fled` `fulfillment` `gold` `head` `house` `jehoiachin` `jerusalems` `kindly` `lifted` `lord` `men` `mercy` `pillars` `rebelled` `reigned` `silver` `sore` `spake` `temples` `throne` `vessels` `walls` `war` `zedekiah`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

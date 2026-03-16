@@ -115,6 +115,11 @@ Remember, LORD, come, upon, consider, behold, reproach, inheritance, turned, str
 
 **Christ's Restoration:** remain forever, throne generation, turn unto thee, renew days
 
+
+*AI Keywords for current event matching:*
+`black` `ceased` `christs` `crown` `days` `divine` `fallen` `fatherless` `forever` `forget` `forgetfulness` `forsaken` `generation` `humiliation` `inheritance` `jerusalems` `joy` `long` `necks` `orphans` `persecution` `rejected` `rejection` `remain` `renew` `reproach` `restoration` `ruled` `servants` `skin` `strangers` `throne` `time` `turn` `utterly` `wroth`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

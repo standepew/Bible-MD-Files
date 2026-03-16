@@ -103,6 +103,11 @@ Beginning, reign, Jehoiakim, son, Josiah, king, Judah, word, LORD, saying, LORD,
 
 **Christ's Protection:** hand Ahikam Jeremiah, not give hand people, elders spake assembly, Hezekiah feared LORD
 
+
+*AI Keywords for current event matching:*
+`against` `ahikam` `assembly` `blood` `bring` `christs` `cities` `court` `death` `die` `diminish` `elders` `feared` `gathered` `give` `hand` `hezekiah` `house` `innocent` `jeremiah` `judah` `lord` `name` `people` `persecution` `priests` `prophesied` `prophets` `protection` `put` `sent` `slain` `spake` `speak` `stand` `sword` `temple` `truth` `urijah` `word` `worship` `worthy`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

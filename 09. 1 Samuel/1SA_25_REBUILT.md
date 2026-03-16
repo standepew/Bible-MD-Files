@@ -89,6 +89,11 @@ Samuel died; all Israelites gathered, lamented him, buried him in his house at R
 
 **Abigail's Marriage:** David Nabal dead LORD pleaded reproach hand Nabal kept evil LORD wickedness Nabal head, David communed Abigail wife, servants David Abigail Carmel wife, Abigail face earth servant wash feet servants lord, Abigail haste ass five damsels messengers David wife, David Ahinoam Jezreel wives, Saul Michal daughter wife Phalti son Laish Gallim
 
+
+*AI Keywords for current event matching:*
+`abigail` `abigails` `accepted` `advice` `ahinoam` `anger` `appeal` `arose` `ass` `asses` `audience` `avenging` `battles` `beautiful` `belial` `blessed` `blessing` `blood` `bottles` `bowed` `bread` `break` `brought` `bundle` `buried` `cakes` `caleb` `carmel` `ceased` `character` `churlish` `clusters` `communed` `consider` `corn` `countenance` `cover` `damsels` `daughter` `david` `davids` `day` `days` `dead` `death` `determined` `died` `divine` `dressed` `drunken` `earth` `enemies` `evil` `eyes` `face` `favour` `feast` `feet` `fell` `fellow` `fields` `figs` `five` `flesh` `follow` `folly` `forgive` `four` `gallim` `gathered` `girded` `goats` `god` `good` `great` `greet` `ground` `hand` `handmaid` `haste` `hasted` `head` `hear` `hearkened` `heart` `hill` `house` `household` `hundred` `hurt` `hurting` `husband` `iniquity` `israel` `israelites` `jesse` `jezreel` `justice` `keeping` `kept` `king` `know` `laish` `lamented` `life` `light` `lighted` `liveth` `loaves` `lord` `man` `maon` `marriage` `master` `masters` `measures` `meet` `men` `merry` `messengers` `met` `michal` `middle` `missing` `morning` `nabal` `nabals` `name` `night` `paran` `parched` `peace` `person` `pertained` `phalti` `pisseth` `pleaded` `possessions` `prosperity` `pursue` `railed` `raisins` `ramah` `regard` `reproach` `request` `requited` `response` `salute` `samuel` `samuels` `saul` `seek` `sent` `servant` `servants` `shear` `shearers` `shearing` `shed` `sheep` `shepherds` `sling` `smote` `son` `soul` `speak` `stone` `stuff` `sure` `sword` `ten` `thousand` `three` `told` `trespass` `two` `understanding` `vain` `voice` `wall` `wash` `water` `way` `wickedness` `wife` `wilderness` `wine` `wisdom` `withholden` `wives` `words` `young`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

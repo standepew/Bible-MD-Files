@@ -103,6 +103,11 @@ Brought, temple, measured, posts, six, cubits, broad, side, six, cubits, broad, 
 
 **Christ's Glory:** cherubims faces, palm trees, narrow windows, doors temple
 
+
+*AI Keywords for current event matching:*
+`chambers` `cherubims` `christs` `cubits` `divine` `doors` `faces` `forty` `glory` `holy` `hundred` `lord` `measurements` `most` `narrow` `palm` `place` `planks` `posts` `sanctuary` `side` `six` `table` `temple` `thick` `trees` `twenty` `upward` `winding` `windows`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

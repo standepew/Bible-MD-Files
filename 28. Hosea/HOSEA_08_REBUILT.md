@@ -103,6 +103,11 @@ Trumpet, mouth, eagle, house, LORD, transgressed, covenant, trespassed, law, Isr
 
 **Forgotten Maker:** forgotten Maker, build temples, great things law, strange thing
 
+
+*AI Keywords for current event matching:*
+`build` `calf` `christs` `covenant` `eagle` `fire` `forgotten` `gold` `great` `house` `idolatrous` `idols` `judgment` `law` `made` `maker` `mouth` `pleasure` `reap` `samaria` `send` `silver` `sown` `strange` `strangers` `swallow` `temples` `thing` `things` `transgressed` `trumpet` `vessel` `whirlwind` `wind` `worship`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

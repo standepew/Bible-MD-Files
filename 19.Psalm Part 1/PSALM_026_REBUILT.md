@@ -163,6 +163,11 @@ Psalm, David, judge, LORD, walked, integrity, trusted, slide, examine, prove, re
 
 **Worship in Truth:** compass altar LORD publish voice thanksgiving tell wondrous works, loved habitation house place honour dwelleth, congregations bless LORD
 
+
+*AI Keywords for current event matching:*
+`altar` `bless` `bloody` `compass` `congregation` `congregations` `david` `dissemblers` `dwelleth` `evil` `examine` `eyes` `gather` `habitation` `hands` `hated` `heart` `honour` `house` `innocency` `integrity` `judge` `life` `lord` `loved` `lovingkindness` `men` `merciful` `personal` `persons` `place` `prayer` `prove` `psalm` `publish` `redeem` `reins` `sat` `separation` `sinners` `sit` `slide` `soul` `tell` `thanksgiving` `trusted` `truth` `vain` `vindication` `voice` `walk` `walked` `wash` `wicked` `wondrous` `works` `worship`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

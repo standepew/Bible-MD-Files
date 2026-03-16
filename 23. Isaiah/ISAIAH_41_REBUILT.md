@@ -115,6 +115,11 @@ Keep, silence, islands, people, renew, strength, come, near, speak, come, near, 
 
 **Christ's Victory:** incensed ashamed confounded, strive perish, seek find, wind confusion
 
+
+*AI Keywords for current event matching:*
+`abraham` `ashamed` `beat` `chosen` `christs` `confounded` `confusion` `divine` `east` `fear` `find` `friend` `hand` `help` `hold` `incensed` `instrument` `israel` `jacob` `lord` `man` `mountains` `perish` `protection` `rejoice` `renew` `right` `righteous` `righteousness` `seed` `seek` `servant` `small` `spiritual` `strength` `strengthen` `strive` `teeth` `thresh` `threshing` `uphold` `victory` `wind`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

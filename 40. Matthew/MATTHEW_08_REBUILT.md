@@ -127,6 +127,11 @@ Jesus, come, mountain, multitudes, followed, behold, leper, worshipped, saying, 
 
 **Storm Authority:** great tempest, little faith, rebuked winds, great calm
 
+
+*AI Keywords for current event matching:*
+`authority` `bury` `calm` `centurion` `centurions` `christs` `cleansed` `cost` `dead` `devils` `discipleship` `east` `faith` `follow` `foxes` `great` `head` `healing` `holes` `leper` `little` `man` `mother` `peter` `possessed` `power` `rebuked` `servant` `son` `speak` `storm` `tempest` `west` `winds` `word` `worthy`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -103,6 +103,11 @@ LORD, Keep, judgment, do, justice, salvation, near, righteousness, revealed, Ble
 
 **Christ's House:** holy mountain joyful, house prayer people, burnt offerings accepted, altar house prayer
 
+
+*AI Keywords for current event matching:*
+`accepted` `altar` `blessed` `burnt` `choose` `christs` `covenant` `divine` `doeth` `eunuchs` `hold` `holy` `house` `inclusion` `join` `joined` `joyful` `judgment` `justice` `keep` `keepeth` `lord` `man` `mountain` `near` `offerings` `people` `please` `polluting` `prayer` `revealed` `righteousness` `sabbath` `sabbaths` `salvation` `son` `sons` `spiritual` `stranger` `take` `things`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

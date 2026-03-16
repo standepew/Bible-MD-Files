@@ -115,6 +115,11 @@ Psalm, David, LORD, said, Lord, Sit, right, hand, make, enemies, footstool, LORD
 
 **Eternal Priesthood:** priest forever, people willing day power, beauties holiness womb morning dew youth
 
+
+*AI Keywords for current event matching:*
+`beauties` `bodies` `christs` `countries` `day` `dead` `dew` `divine` `enemies` `eternal` `fill` `footstool` `forever` `hand` `heads` `heathen` `holiness` `judge` `kings` `lord` `lordship` `make` `melchizedek` `midst` `morning` `order` `people` `places` `power` `priest` `priesthood` `priestly` `repent` `right` `rod` `rule` `said` `send` `sit` `strength` `strike` `sworn` `victory` `willing` `womb` `wound` `wrath` `youth` `zion`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

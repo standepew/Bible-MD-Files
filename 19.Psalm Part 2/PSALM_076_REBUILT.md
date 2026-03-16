@@ -151,6 +151,11 @@ Chief, Musician, Neginoth, Psalm, Song, Asaph, Judah, GOD, known, name, great, I
 
 **Heavenly Judgment:** caused judgment heard heaven earth feared still, GOD arose judgment save meek earth, wrath man praise remainder wrath restrain
 
+
+*AI Keywords for current event matching:*
+`angry` `arose` `arrows` `asaph` `battle` `bow` `brake` `cast` `caused` `chariot` `chief` `dead` `divine` `dwelling` `earth` `excellent` `fear` `feared` `found` `glorious` `glory` `god` `gods` `great` `hands` `heard` `heaven` `heavenly` `horse` `israel` `jacob` `judah` `judgment` `kings` `known` `man` `meek` `men` `mountains` `musician` `name` `neginoth` `place` `praise` `prey` `psalm` `rebuke` `remainder` `restrain` `salem` `save` `shield` `sight` `sleep` `slept` `song` `spoiled` `stand` `still` `stouthearted` `sword` `tabernacle` `terrible` `victory` `wrath` `zion`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

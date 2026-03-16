@@ -153,6 +153,11 @@ House, chief, Pharisees, eat, bread, sabbath, watched, man, dropsy, Jesus, answe
 
 **The Salt of the Earth:** salt good, lost savour, seasoned, fit land, cast out
 
+
+*AI Keywords for current event matching:*
+`ass` `bear` `bidden` `bought` `build` `cast` `chief` `cost` `count` `cross` `discipleship` `dropsy` `earth` `exalted` `excuse` `fallen` `father` `feast` `fit` `five` `good` `great` `ground` `hate` `heal` `healed` `healing` `higher` `highest` `humbleth` `land` `lawful` `lost` `lowest` `make` `many` `parable` `pit` `pull` `room` `rooms` `sabbath` `salt` `savour` `seasoned` `supper` `ten` `thousand` `tower` `wedding` `yoke`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -103,6 +103,11 @@ Burden, word, LORD, Israel, LORD, stretcheth, heavens, layeth, foundation, earth
 
 **Great Mourning:** family apart, house David, house Nathan, house Levi
 
+
+*AI Keywords for current event matching:*
+`again` `apart` `bitterness` `burdensome` `christs` `cup` `david` `defend` `defense` `devour` `divine` `family` `fire` `firstborn` `great` `hearth` `horse` `house` `inhabitants` `inhabited` `jerusalems` `levi` `look` `mourn` `mourning` `nathan` `people` `pierced` `protection` `savior` `smite` `son` `stone` `torch` `trembling`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

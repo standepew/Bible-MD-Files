@@ -81,6 +81,11 @@ When Saul returned from following Philistines, it was told him David was in wild
 
 **Covenant of Mercy:** Swear LORD cut seed destroy name father house, David sware Saul Saul home David men hold
 
+
+*AI Keywords for current event matching:*
+`ancients` `anointed` `arose` `avenge` `bade` `bowed` `cause` `cave` `chosen` `confession` `covenant` `cover` `cried` `cut` `david` `davids` `dead` `dealt` `deliver` `delivered` `destroy` `dog` `earth` `en-gedi` `enemy` `evil` `eyes` `face` `father` `feet` `flea` `goats` `good` `hand` `hearest` `heart` `hold` `home` `house` `huntest` `hurt` `integrity` `israel` `judge` `kill` `killed` `king` `kingdom` `know` `looked` `lord` `master` `men` `mercy` `name` `opportunity` `philistines` `plead` `privily` `proverb` `pursue` `pursuit` `returned` `reward` `rewarded` `righteous` `rise` `robe` `rocks` `saul` `sauls` `seed` `seeketh` `seem` `servants` `sheepcotes` `shewed` `sides` `sinned` `skirt` `smote` `son` `soul` `spared` `stayed` `stooped` `sware` `swear` `thing` `thousand` `three` `transgression` `voice` `way` `well` `wept` `wicked` `wickedness` `wild` `wilderness` `words`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

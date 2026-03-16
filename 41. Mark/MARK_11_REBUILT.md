@@ -151,6 +151,11 @@ Nigh, Jerusalem, Bethphage, Bethany, mount, Olives, sendeth, disciples, way, vil
 
 **Prayer and Faith:** mountain removed, believe receive, forgive trespasses, baptism John
 
+
+*AI Keywords for current event matching:*
+`baptism` `believe` `blessed` `cast` `christs` `cleansing` `colt` `cursed` `cursing` `david` `den` `dried` `entry` `faith` `fig` `forgive` `god` `hosanna` `house` `john` `kingdom` `leaves` `lord` `mount` `mountain` `olives` `overthrew` `prayer` `receive` `removed` `roots` `sold` `tables` `temple` `thieves` `tied` `tree` `trespasses` `triumphant` `withered`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

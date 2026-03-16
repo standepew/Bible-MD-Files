@@ -151,6 +151,11 @@ Wise, son, heareth, father, instruction, scorner, heareth, not, rebuke, man, eat
 
 **Truth and Deception:** righteous man hateth lying, wicked man loathsome, faithful ambassador health
 
+
+*AI Keywords for current event matching:*
+`ambassador` `deception` `desireth` `destruction` `diligence` `diligent` `faithful` `fat` `fountain` `fruit` `gotten` `hateth` `health` `heareth` `instruction` `keepeth` `law` `life` `lips` `loathsome` `lying` `made` `man` `mouth` `openeth` `poverty` `rebuke` `righteous` `scorner` `sluggard` `son` `soul` `speech` `truth` `vanity` `wealth` `wicked` `wide` `wisdom` `wise`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

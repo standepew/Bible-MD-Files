@@ -151,6 +151,11 @@ Sanballat, heard, builded, wall, wroth, indignation, mocked, Jews. Spoke, brethr
 
 **Continuous Vigilance:** nobles rulers people work large separated wall far trumpet resort GOD fight, laboured work half spears rising morning stars, people servant lodge Jerusalem night guard day, clothes washing
 
+
+*AI Keywords for current event matching:*
+`adversaries` `afraid` `ammonite` `ammonites` `anger` `arabians` `armed` `army` `ashdodites` `bare` `bearers` `blot` `bows` `breaches` `break` `brethren` `brought` `build` `builded` `builders` `built` `burdens` `burned` `captivity` `cease` `clothes` `conspired` `continuous` `counsel` `cover` `daughters` `day` `decayed` `despised` `dwelt` `end` `enemies` `families` `far` `feeble` `fight` `fortify` `fox` `girded` `god` `great` `guard` `habergeons` `half` `hand` `head` `heaps` `hear` `heard` `held` `higher` `hinder` `house` `houses` `indignation` `iniquity` `intensifies` `jerusalem` `jews` `joined` `judah` `know` `known` `laboured` `laded` `land` `large` `lodge` `looked` `lord` `lower` `midst` `mind` `mocked` `morning` `night` `nobles` `nought` `opposition` `people` `places` `prayer` `prey` `provoked` `remember` `reproach` `resort` `return` `returned` `revive` `rising` `rose` `rubbish` `rulers` `sacrifice` `samaria` `sanballat` `see` `separated` `servant` `servants` `shields` `side` `sin` `slay` `sons` `spears` `spoke` `stars` `stone` `stones` `stopped` `strength` `sword` `swords` `ten` `terrible` `times` `tobiah` `trumpet` `turn` `vigilance` `wall` `walls` `washing` `watch` `weapon` `wives` `work` `workers` `wroth`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

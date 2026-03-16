@@ -115,6 +115,11 @@ Job, answered, people, wisdom, die. Understanding, inferior, neighbour, mocked, 
 
 **Human Wisdom:** withhold waters dry send overturn earth, strength wisdom deceived deceiver, counsellors spoiled judges fools, looseth bond kings girdeth girdle
 
+
+*AI Keywords for current event matching:*
+`abundantly` `ancient` `answered` `beasts` `bond` `break` `breath` `built` `counsel` `counsellors` `creations` `days` `deceived` `deceiver` `declare` `despised` `die` `divine` `down` `dry` `ear` `earth` `ease` `feet` `fishes` `fools` `fowls` `girdeth` `girdle` `god` `hand` `human` `inferior` `job` `jobs` `judges` `kings` `lamp` `length` `living` `looseth` `lord` `man` `mankind` `meat` `mocked` `mouth` `neighbour` `opening` `overturn` `people` `prosper` `provoke` `response` `robbers` `scorn` `secure` `send` `shut` `slip` `soul` `sovereignty` `spoiled` `strength` `teach` `testimony` `understanding` `upright` `waters` `wisdom` `withhold` `words` `wrought`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

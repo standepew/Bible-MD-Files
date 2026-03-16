@@ -81,6 +81,11 @@ After Saul's death, David returned from Amalekites' slaughter, abode two days in
 
 **David's Lament:** David lamentation Saul Jonathan son teach children Judah book Jasher, beauty Israel slain high places mighty fallen, Gath Askelon daughters Philistines rejoice daughters uncircumcised triumph, mountains Gilboa dew rain fields offerings shield mighty cast away Saul anointed oil, blood slain fat mighty bow Jonathan sword Saul empty, Saul Jonathan lovely pleasant lives death divided swifter eagles stronger lions, daughters Israel weep Saul scarlet delights ornaments gold apparel, mighty fallen battle Jonathan slain high places, distressed brother Jonathan pleasant love wonderful women, mighty fallen weapons war perished
 
+
+*AI Keywords for current event matching:*
+`abode` `afraid` `amalekite` `amalekites` `anguish` `anointed` `answered` `apparel` `arm` `askelon` `away` `battle` `beauty` `behind` `blood` `book` `bow` `bracelet` `brother` `called` `camp` `cast` `chance` `chariots` `children` `clothes` `comest` `crown` `daughters` `david` `davids` `day` `days` `dead` `death` `delights` `destroy` `dew` `died` `distressed` `divided` `eagles` `earth` `empty` `escaped` `execution` `fallen` `fasted` `fat` `fell` `fields` `fled` `followed` `gath` `gilboa` `gold` `grief` `hand` `head` `high` `horsemen` `house` `israel` `jasher` `jonathan` `judah` `knew` `lament` `lamentation` `leaned` `life` `lions` `live` `lives` `looked` `lord` `love` `lovely` `man` `matter` `men` `mighty` `mount` `mountains` `mourned` `mouth` `news` `obeisance` `offerings` `oil` `ornaments` `people` `perished` `philistines` `places` `pleasant` `rain` `rejoice` `rent` `report` `returned` `saul` `scarlet` `shield` `slain` `slaughter` `slay` `smote` `son` `spear` `stand` `stood` `stranger` `stretch` `stronger` `swifter` `sword` `teach` `tell` `testified` `third` `triumph` `two` `uncircumcised` `war` `weapons` `weep` `wept` `whence` `whole` `women` `wonderful` `young` `ziklag`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

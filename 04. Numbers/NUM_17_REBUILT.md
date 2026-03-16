@@ -65,6 +65,11 @@ The irony is complete: the sign designed to end the murmuring (v.5) produces a n
 - **Fear of God's holiness without a mediator** → Numbers 17:12-13 — Hebrews 10:19-22; Hebrews 12:18-24
 - **The permanent witness** → Numbers 17:10 — the rod kept "before the testimony"; Hebrews 9:4
 
+
+*AI Keywords for current event matching:*
+`54-5` `acts` `authority` `current` `events` `hebrews` `matching` `numbers` `romans` `signs` `supernatural` `validated`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS WITH CONTEXTUAL DEFINITIONS

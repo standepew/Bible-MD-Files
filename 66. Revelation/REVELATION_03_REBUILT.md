@@ -125,6 +125,11 @@ Angel, church, Sardis, write, seven, Spirits, God, seven, stars, know, works, na
 
 **Message to Laodicea (Lukewarm Complacency):** angel, church, Laodiceans, write, Amen, faithful, true, witness, beginning, creation, God, know, works, cold, hot, lukewarm, cold, hot, spue, mouth, sayest, rich, increased, goods, need, knowest, wretched, miserable, poor, blind, naked, counsel, buy, gold, tried, fire, rich, white, raiment, clothed, shame, nakedness, anoint, eyes, eyesalve, love, rebuke, chasten, zealous, repent, stand, door, knock, hear, voice, open, door, come, sup, overcometh, grant, sit, throne, overcame, set, Father, throne, ear, hear, Spirit, saith, churches
 
+
+*AI Keywords for current event matching:*
+`amen` `angel` `angels` `anoint` `beginning` `blind` `blot` `book` `buy` `chasten` `church` `churches` `city` `clothed` `cold` `come` `cometh` `complacency` `confess` `counsel` `creation` `crown` `david` `dead` `death` `defiled` `denied` `die` `door` `dwell` `ear` `earth` `eyes` `eyesalve` `faithful` `fast` `father` `feet` `fire` `flock` `found` `garments` `god` `gold` `goods` `grant` `hear` `heard` `heaven` `hold` `holy` `hot` `hour` `increased` `jerusalem` `jews` `keep` `kept` `key` `knock` `know` `knowest` `laodicea` `laodiceans` `lie` `life` `little` `livest` `love` `loved` `lukewarm` `message` `miserable` `mouth` `naked` `nakedness` `name` `names` `need` `new` `open` `openeth` `overcame` `overcometh` `patience` `perfect` `philadelphia` `pillar` `poor` `quickly` `raiment` `ready` `rebuke` `received` `remain` `remember` `repent` `rich` `saith` `sardis` `satan` `sayest` `set` `seven` `shame` `shut` `shutteth` `sit` `spirit` `spirits` `spiritual` `spue` `stand` `stars` `strength` `strengthen` `sup` `synagogue` `temple` `temptation` `thief` `things` `throne` `tried` `true` `try` `voice` `walk` `watch` `watchful` `white` `witness` `word` `works` `world` `worship` `worthy` `wretched` `write` `zealous`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

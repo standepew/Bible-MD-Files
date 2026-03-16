@@ -95,6 +95,11 @@ Moses gives three scenarios of enticement to idolatry, each requiring the death 
 
 **Divine Purpose:** Thrust away from LORD, brought out of Egypt, redeemed from bondage, commanded walk, put evil away, turn from anger, show mercy, have compassion, multiply
 
+
+*AI Keywords for current event matching:*
+`afterwards` `again` `among` `anger` `apostasy` `ask` `away` `belial` `bondage` `bosom` `brother` `brought` `built` `burn` `certain` `children` `city` `come` `commanded` `commands` `compassion` `conceal` `consent` `daughter` `death` `destroy` `destruction` `die` `diligently` `divine` `dreamer` `dreams` `edge` `egypt` `entice` `enticement` `ever` `evil` `eye` `false` `family` `fear` `fire` `first` `friend` `gather` `gods` `gone` `hand` `heap` `hear` `inhabitants` `inquire` `judgment` `kill` `lord` `love` `make` `mercy` `methods` `midst` `mother` `multiply` `pass` `people` `pity` `prophet` `prophetic` `proveth` `purpose` `put` `redeemed` `search` `secretly` `serve` `show` `sign` `signs` `smithe` `son` `soul` `spare` `spoil` `stone` `stones` `street` `surely` `sword` `thrust` `truth` `turn` `utterly` `walk` `wickedness` `wife` `withdrawn` `wonder` `you`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

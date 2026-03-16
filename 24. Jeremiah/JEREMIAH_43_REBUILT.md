@@ -103,6 +103,11 @@ Jeremiah, speaking, people, words, LORD, God, sent, words, Azariah, son, Hoshaia
 
 **Christ's Prophecy:** great stones hide, brickkiln entry, royal pavilion, images Beth-shemesh
 
+
+*AI Keywords for current event matching:*
+`beth-shemesh` `brickkiln` `captives` `chaldeans` `christs` `death` `deliver` `disobedience` `divine` `egypt` `egypts` `entry` `falsely` `fire` `folly` `great` `hide` `images` `judgment` `kindle` `land` `men` `nebuchadrezzar` `obeyed` `pavilion` `prophecy` `proud` `royal` `send` `set` `smite` `sojourn` `speakest` `stones` `tahpanhes` `there` `throne` `voice`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

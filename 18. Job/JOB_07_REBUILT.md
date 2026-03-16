@@ -139,6 +139,11 @@ Appointed, time, man, earth, days, hireling. Servant, desireth, shadow, hireling
 
 **Plea for Relief:** scarest dreams terrifiest visions, soul chooseth strangling death life, loathe live alway alone days vanity, man magnify heart, visit morning try moment, depart alone swallow spittle
 
+
+*AI Keywords for current event matching:*
+`alone` `alway` `anguish` `appointed` `arise` `bed` `bitterness` `brevity` `broken` `chooseth` `clods` `clothed` `cloud` `comfort` `complain` `complaint` `consumed` `couch` `dawning` `day` `days` `death` `depart` `desireth` `dreams` `dust` `earth` `ease` `eye` `eyes` `flesh` `frailty` `gone` `good` `grave` `heart` `hireling` `hope` `house` `human` `know` `lie` `life` `lifes` `live` `loathe` `loathsome` `magnify` `man` `moment` `months` `morning` `mouth` `night` `nights` `physical` `place` `plea` `refrain` `relief` `remember` `return` `reward` `scarest` `sea` `see` `seen` `servant` `shadow` `shuttle` `sifter` `skin` `soul` `spent` `spirit` `spittle` `strangling` `suffering` `swallow` `terrifiest` `time` `tossings` `try` `vanish` `vanity` `visions` `visit` `watch` `wearisome` `weaver` `whale` `wind` `work` `worms`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

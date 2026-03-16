@@ -151,6 +151,11 @@ Maschil, Ethan, Ezrahite, sing, mercies, LORD, forever, mouth, faithfulness, gen
 
 **Plea for Restoration:** cast abhorred wroth anointed, made void covenant servant profaned crown, broken hedges brought strong holds ruin, HOW LORD hide forever wrath burn fire
 
+
+*AI Keywords for current event matching:*
+`abhorred` `alter` `anointed` `break` `broken` `brought` `build` `built` `burn` `cast` `chosen` `congregation` `covenant` `crown` `david` `davidic` `days` `divine` `endure` `establish` `ethan` `ezrahite` `fail` `faithfulness` `fire` `forever` `found` `generations` `gods` `gone` `heaven` `heavens` `hedges` `hide` `holds` `holy` `lips` `lord` `lovingkindness` `made` `maschil` `mercies` `mercy` `mouth` `oil` `plea` `profaned` `restoration` `round` `ruin` `saints` `seed` `servant` `sing` `strong` `sworn` `throne` `utterly` `void` `wrath` `wroth`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

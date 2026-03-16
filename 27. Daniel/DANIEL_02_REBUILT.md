@@ -143,6 +143,11 @@ Second, year, reign, Nebuchadnezzar, dreamed, dreams, spirit, troubled, sleep, b
 
 **Three Sovereign City-States:** great city divided three parts, Vatican, London, Washington DC, final form iron clay
 
+
+*AI Keywords for current event matching:*
+`babylon` `brake` `brass` `broken` `christs` `city` `city-states` `clay` `consume` `continuity` `corruption` `cut` `days` `destroyed` `divided` `divine` `dream` `dreamed` `dreams` `earth` `europe` `filled` `final` `forever` `form` `four` `genesis` `genetic` `god` `gold` `great` `greece` `hands` `head` `heruli` `interpretation` `iron` `kingdom` `kingdoms` `know` `london` `matthew` `medo-persia` `men` `mingle` `mountain` `mystery` `never` `night` `noah` `one` `ostrogoths` `partly` `parts` `pieces` `revealed` `revealeth` `revelation` `rome` `secret` `secrets` `seed` `silver` `sons` `sovereign` `spirit` `stand` `stone` `strong` `system` `ten` `three` `toes` `together` `transferred` `troubled` `uprooted` `vandals` `vatican` `victory` `vision` `visions` `washington` `without` `world`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

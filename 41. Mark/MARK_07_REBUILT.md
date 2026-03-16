@@ -163,6 +163,11 @@ Pharisees, scribes, Jerusalem, disciples, eat, bread, defiled, unwashen, hands, 
 
 **True Purity:** without within, heart defile, evil thoughts, things well
 
+
+*AI Keywords for current event matching:*
+`bread` `children` `christs` `commandments` `crumbs` `daughter` `deaf` `deaf-mute` `defile` `devil` `dogs` `ears` `elders` `ephphatha` `evil` `greek` `hands` `healing` `heart` `impediment` `lips` `loosed` `men` `nation` `opened` `purity` `syrophenician` `teaching` `things` `thoughts` `tongue` `tradition` `true` `unwashen` `well` `within` `without` `woman`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

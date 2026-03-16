@@ -139,6 +139,11 @@ Wisdom, cry, understanding, put, voice, standeth, top, high, places, way, places
 
 **Life and Favor:** findeth life obtain favour, love me early find, blessed keep ways
 
+
+*AI Keywords for current event matching:*
+`beginning` `blessed` `brought` `call` `compass` `creation` `crieth` `cry` `depths` `divine` `early` `earth` `entry` `eternal` `everlasting` `existence` `favor` `favour` `find` `findeth` `forth` `gates` `heavens` `high` `keep` `life` `lord` `love` `obtain` `places` `possessed` `prepared` `set` `standeth` `top` `understanding` `voice` `way` `ways` `wisdom` `wisdoms` `works`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

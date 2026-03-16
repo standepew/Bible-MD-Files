@@ -93,6 +93,11 @@ Boaz went to the gate and sat down. The kinsman he had spoken of came by, and Bo
 
 **Davidic Genealogy:** generations Pharez Pharez Hezron, Hezron Ram Ram Amminadab, Amminadab Nahshon Nahshon Salmon, Salmon Boaz Boaz Obed, Obed Jesse Jesse David
 
+
+*AI Keywords for current event matching:*
+`advertise` `age` `amminadab` `aside` `bare` `beth-lehem` `birth` `blessed` `blessing` `boaz` `born` `bosom` `bought` `brethren` `brother` `build` `buy` `called` `ceremony` `changing` `child` `chilion` `city` `conception` `confirm` `country` `cut` `daughter` `david` `davidic` `day` `dead` `drew` `elders` `elimelech` `ephratah` `famous` `father` `field` `former` `gate` `genealogy` `generations` `hand` `hezron` `house` `inhabitants` `inheritance` `israel` `jesse` `judah` `kinsman` `kinsmans` `know` `land` `leah` `life` `lord` `love` `mahlon` `manner` `mar` `marriage` `men` `mine` `moab` `moabitess` `nahshon` `name` `naming` `naomi` `naomis` `neighbour` `neighbours` `nourisher` `nurse` `obed` `old` `parcel` `people` `pharez` `place` `plucked` `prayer` `public` `purchased` `rachel` `raise` `ram` `redeem` `redeeming` `redemption` `refusal` `restoration` `restorer` `right` `ruth` `ruths` `salmon` `sat` `seed` `selleth` `seven` `shoe` `son` `sons` `spoke` `tamar` `tell` `ten` `testimony` `thyself` `time` `transaction` `turn` `went` `wife` `witnesses` `woman` `women` `worthily` `young`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

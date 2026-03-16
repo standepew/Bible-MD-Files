@@ -115,6 +115,11 @@ Chief, Musician, Al, taschith, Psalm, Song, Asaph, GOD, give, thanks, name, near
 
 **Horns of Righteous:** horns wicked cut horns righteous exalted, Lift not horn high, horns righteous exalted
 
+
+*AI Keywords for current event matching:*
+`asaph` `bear` `chief` `congregation` `cup` `cut` `declare` `dissolved` `divine` `dregs` `drink` `earth` `east` `exalted` `full` `give` `god` `gods` `hand` `high` `horn` `horns` `inhabitants` `judge` `judgment` `lift` `lord` `mixture` `musician` `name` `near` `pillars` `poureth` `promotion` `psalm` `putteth` `receive` `red` `righteous` `setteth` `song` `south` `sovereignty` `taschith` `thanks` `thereof` `uprightly` `west` `wicked` `wine` `wondrous` `works` `wrath` `wring`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -127,6 +127,11 @@ Israel, Egypt, house, Jacob, people, strange, language, Judah, sanctuary, Israel
 
 **God's Presence:** presence Lord presence God Jacob, Tremble earth presence Lord, turned rock standing water
 
+
+*AI Keywords for current event matching:*
+`back` `creations` `divine` `driven` `earth` `egypt` `exodus` `fled` `flint` `fountain` `god` `gods` `hills` `house` `israel` `jacob` `jordan` `lambs` `language` `little` `lord` `miracle` `mountains` `people` `power` `presence` `rams` `response` `rock` `sea` `skipped` `standing` `strange` `tremble` `turned` `water` `waters`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

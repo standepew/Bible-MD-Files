@@ -79,6 +79,11 @@ Moab, LORD, hosts, God, Israel, Nebo, spoiled, Kiriathaim, confounded, taken, Mi
 
 **Christ's Restoration:** bring captivity, latter days, judgment Moab, thus far
 
+
+*AI Keywords for current event matching:*
+`baldness` `bring` `captivity` `chemosh` `christs` `confounded` `cut` `days` `derision` `dismaying` `divine` `exceeding` `far` `himself` `horn` `humiliation` `judgment` `kiriathaim` `latter` `lees` `magnified` `moab` `moabs` `nebo` `pride` `proud` `remained` `restoration` `sackcloth` `settled` `spoiled` `taste` `thus` `vomit` `wallow`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

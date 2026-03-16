@@ -93,6 +93,11 @@ Adoni-zedek king of Jerusalem, hearing Joshua took Ai and destroyed it, and that
 
 **Complete Conquest:** Joshua smote country hills, south vale springs, kings, remain destroyed breathed, LORD God Israel commanded, Joshua smote Kadesh-barnea Gaza, country Goshen Gibeon, kings land Joshua time, LORD God Israel fought Israel, Joshua returned Israel camp Gilgal
 
+
+*AI Keywords for current event matching:*
+`adoni-zedek` `against` `ajalon` `amorite` `amorites` `appeal` `ascended` `avenged` `azekah` `beth-horon` `book` `breathed` `bring` `called` `came` `camp` `campaign` `captains` `capture` `cast` `cave` `celestial` `ceremony` `chased` `children` `cities` `city` `coalition` `come` `commanded` `complete` `conquest` `consumed` `country` `courage` `day` `debir` `delivered` `destroyed` `died` `discomfited` `dismayed` `divine` `down` `dwell` `edge` `eglon` `encamped` `enemies` `enter` `evening` `fear` `feared` `feet` `fenced` `fight` `five` `fled` `fought` `found` `gathered` `gaza` `gezer` `gibeon` `gibeonite` `gilgal` `god` `going` `good` `goshen` `great` `greater` `greatly` `hailstones` `hand` `hanged` `hanging` `hasted` `heard` `hearkened` `heaven` `hebron` `help` `hid` `hills` `hindmost` `hoham` `horam` `hosts` `inhabitants` `israel` `japhia` `jarmuth` `jasher` `jericho` `jerusalem` `joshua` `kadesh-barnea` `keep` `king` `kings` `lachish` `laid` `land` `libnah` `lord` `makkedah` `man` `men` `midst` `mighty` `miracle` `moon` `mountains` `mouth` `moved` `near` `necks` `night` `none` `open` `passed` `peace` `people` `piram` `pursue` `quickly` `remain` `remained` `remaining` `returned` `roll` `royal` `save` `second` `sent` `servants` `set` `sight` `slack` `slaughter` `slaying` `slew` `smite` `smote` `souls` `south` `southern` `spoke` `springs` `stand` `stay` `stayed` `stones` `stood` `strong` `suddenly` `suffer` `sun` `sword` `time` `together` `told` `tongue` `took` `trees` `vale` `valley` `valour` `victory` `voice` `war` `way` `written`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

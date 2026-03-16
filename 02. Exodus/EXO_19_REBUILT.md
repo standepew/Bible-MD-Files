@@ -105,6 +105,11 @@ In the third month after the Exodus, Israel arrives at Sinai and camps before th
 - **God's universal ownership** → Exodus 19:5 — "all the earth is mine"
 - **Every believer a priest** → Exodus 19:6 → 1 Peter 2:9; Revelation 1:6
 
+
+*AI Keywords for current event matching:*
+`195-6` `calling` `current` `events` `exodus` `holy` `identity` `kingdom` `matching` `nation` `national` `peculiar` `priests` `treasure`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

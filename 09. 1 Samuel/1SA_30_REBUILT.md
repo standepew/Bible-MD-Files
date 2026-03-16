@@ -81,6 +81,11 @@ When David and men came to Ziklag third day, Amalekites invaded south, Ziklag, s
 
 **Spoil Distribution:** David two hundred faint follow David brook Besor meet David meet people David saluted, wicked men Belial David spoil recovered wife children lead depart, David brethren LORD given preserved delivered company hand, battle stuff part alike statute ordinance Israel day, David Ziklag spoil elders Judah friends present spoil enemies LORD, Beth-el south Ramoth Jattir Aroer Siphmoth Eshtemoa Rachal cities Jerahmeelites cities Kenites Hormah Chor-ashan Attac Hebron places David men haunt
 
+
+*AI Keywords for current event matching:*
+`abiathar` `abigail` `ahimelech` `ahinoam` `alike` `amalekite` `amalekites` `answered` `aroer` `ate` `attac` `attack` `battle` `belial` `belongest` `besor` `beth-el` `bread` `brethren` `brook` `brought` `burned` `cake` `caleb` `camels` `captives` `carmelite` `carried` `cattle` `cherethites` `children` `chor-ashan` `cities` `city` `coast` `company` `complete` `dancing` `daughters` `david` `davids` `day` `days` `deliver` `delivered` `depart` `distressed` `distribution` `drinking` `earth` `eating` `egyptian` `elders` `encouraged` `enemies` `enquired` `ephod` `escaped` `eshtemoa` `evening` `faint` `fell` `field` `figs` `fire` `fled` `flocks` `follow` `four` `friends` `given` `god` `great` `grieved` `hand` `haunt` `hebron` `herds` `hormah` `hundred` `invaded` `invasion` `israel` `jattir` `jerahmeelites` `jezreelitess` `judah` `kenites` `kill` `lacking` `lead` `left` `lord` `man` `master` `meet` `men` `nabal` `next` `nights` `ordinance` `overtake` `part` `people` `philistines` `places` `power` `present` `preserved` `priest` `pursue` `pursued` `pursuit` `rachal` `raisins` `ramoth` `recover` `recovered` `recovery` `rescued` `response` `saluted` `sick` `siphmoth` `six` `slew` `small` `smitten` `smote` `son` `sons` `soul` `south` `spirit` `spoil` `statute` `stoning` `stuff` `swear` `third` `three` `troop` `twilight` `two` `victory` `voice` `water` `way` `wept` `whence` `wicked` `wife` `wives` `women` `young` `ziklag`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

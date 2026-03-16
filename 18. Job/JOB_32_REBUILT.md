@@ -127,6 +127,11 @@ Three, men, ceased, answer, Job, righteous, eyes. Wrath, Elihu, Barachel, Buzite
 
 **Speaking Truth:** directed words speeches amazed answered still spake not, answer part opinion full matter spirit constraineth, belly wine vent burst new bottles speak refreshed lips answer
 
+
+*AI Keywords for current event matching:*
+`afraid` `age` `aged` `almighty` `amazed` `answer` `answered` `attended` `barachel` `belly` `bottles` `burst` `buzite` `ceased` `condemned` `constraineth` `convinced` `days` `directed` `divine` `down` `ear` `elder` `elihu` `elihus` `eyes` `found` `friends` `full` `gave` `god` `great` `hearken` `inspiration` `introduction` `job` `judgment` `justified` `kindled` `kindred` `lips` `man` `matter` `men` `multitude` `new` `opinion` `part` `ram` `rather` `reasons` `refreshed` `righteous` `searched` `spake` `speak` `speaking` `speeches` `spirit` `spoken` `still` `teach` `three` `thrust` `truth` `understanding` `vent` `waited` `wine` `wisdom` `wise` `words` `wrath` `years` `young` `youth`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

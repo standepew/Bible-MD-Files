@@ -151,6 +151,11 @@ Jesus, answered, parables, kingdom, heaven, king, marriage, son, sent, servants,
 
 **Christ's Sonship:** Son David, Lord footstool, David call, how son
 
+
+*AI Keywords for current event matching:*
+`angels` `bad` `bidden` `caesar` `call` `called` `chosen` `christs` `commandments` `darkness` `david` `divine` `fatlings` `feast` `few` `footstool` `garment` `good` `hedges` `highways` `invitation` `kingdom` `lord` `love` `many` `marriage` `neighbour` `outer` `oxen` `render` `resurrection` `son` `sonship` `wedding`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

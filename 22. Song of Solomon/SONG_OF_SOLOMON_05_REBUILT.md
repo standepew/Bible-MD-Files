@@ -187,6 +187,11 @@ Come, garden, sister, spouse, gathered, myrrh, spice, eaten, honeycomb, honey, d
 
 **Christ's Glory:** white ruddy, chiefest ten thousand, altogether lovely
 
+
+*AI Keywords for current event matching:*
+`absence` `altogether` `beloved` `brides` `charge` `chiefest` `christs` `come` `daughters` `failed` `find` `garden` `glory` `honey` `honeycomb` `intimacy` `knocketh` `longing` `love` `lovely` `milk` `opened` `ruddy` `sick` `sought` `soul` `spiritual` `ten` `thousand` `white` `wine` `withdrawn`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

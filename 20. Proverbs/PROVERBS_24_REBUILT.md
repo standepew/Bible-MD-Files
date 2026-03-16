@@ -115,6 +115,11 @@ Envious, evil, men, desire, them, heart, studieth, destruction, lips, talk, misc
 
 **Divine Knowledge:** knowledge chambers filled, keep soul know, LORD see displease
 
+
+*AI Keywords for current event matching:*
+`adversity` `answer` `builded` `chambers` `day` `diligence` `displease` `divine` `faint` `filled` `giveth` `house` `increaseth` `judgment` `justice` `keep` `know` `knowledge` `lips` `little` `lord` `man` `persons` `poverty` `respect` `right` `righteous` `saith` `see` `sleep` `sloth` `slumber` `soul` `strength` `strong` `travelleth` `wicked` `wisdom` `wise`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -103,6 +103,11 @@ Ninth, year, Zedekiah, king, Judah, tenth, month, Nebuchadrezzar, king, Babylon,
 
 **Christ's Reward:** deliver thee, not fall sword, life prey, put trust
 
+
+*AI Keywords for current event matching:*
+`among` `brake` `broken` `burned` `came` `captive` `carried` `christs` `city` `committed` `deliver` `divine` `dwelt` `eyes` `fall` `fulfillment` `gedaliah` `harm` `houses` `jerusalems` `life` `people` `prey` `princes` `protection` `put` `remnant` `reward` `slew` `sons` `sword` `take` `trust` `walls` `well`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

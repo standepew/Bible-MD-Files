@@ -62,6 +62,11 @@ At the top of Peor, Balaam sees it is the LORD's pleasure to bless Israel. He ab
 - **Ships from Chittim / naval power from the west** → Numbers 24:24 — Daniel 11:30
 - **Honour withheld because of obedience to God** → Numbers 24:11 — "the LORD hath kept thee back from honour"; Acts 5:29
 
+
+*AI Keywords for current event matching:*
+`current` `events` `expectation` `jacob` `matching` `matthew` `messianic` `numbers` `revelation` `star`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS WITH CONTEXTUAL DEFINITIONS

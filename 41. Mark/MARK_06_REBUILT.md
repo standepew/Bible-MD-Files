@@ -237,6 +237,11 @@ Went, country, disciples, sabbath, teach, synagogue, hearing, astonished, man, t
 
 **Walking on Sea:** walking sea, fourth watch, good cheer, border garment
 
+
+*AI Keywords for current event matching:*
+`anointed` `baptist` `baskets` `border` `carpenter` `cheer` `christs` `danced` `death` `dust` `feeding` `feet` `five` `fourth` `garment` `good` `hardened` `head` `heart` `herodias` `honour` `john` `loaves` `miracle` `mission` `oil` `pleased` `prophet` `rejection` `sea` `son` `staff` `thousand` `twelve` `two` `unbelief` `walking` `watch` `wife`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

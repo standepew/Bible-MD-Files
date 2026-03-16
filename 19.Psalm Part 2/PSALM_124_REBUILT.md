@@ -115,6 +115,11 @@ Song, degrees, David, LORD, side, Israel, say, LORD, side, men, rose, swallowed,
 
 **Trust in the LORD:** LORD side, men rose up against, help name LORD
 
+
+*AI Keywords for current event matching:*
+`against` `bird` `blessed` `broken` `danger` `deliverance` `divine` `earth` `escape` `escaped` `fowlers` `given` `gods` `heaven` `help` `israel` `lord` `made` `men` `name` `overwhelmed` `prey` `quick` `rose` `side` `snare` `swallowed` `teeth` `trust` `waters`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

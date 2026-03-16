@@ -78,6 +78,11 @@ Three days into the march from Sinai (Numbers 10:33), the people begin complaini
 - **Lust / greed / getting what you demanded as a curse** → Numbers 11:18-20 — "ye shall eat flesh... until it come out at your nostrils"; James 1:14-15
 - **Unauthorized prophesying / institutional jealousy** → Numbers 11:27-29 — Eldad and Medad; Joshua's institutional concern; Moses' liberation: "Would God that all were prophets"
 
+
+*AI Keywords for current event matching:*
+`against` `complaining` `complaint` `consequence` `current` `events` `fire` `leadership` `lord` `matching` `murmuring` `numbers` `pattern`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS WITH CONTEXTUAL DEFINITIONS

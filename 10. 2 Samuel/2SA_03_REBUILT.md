@@ -83,6 +83,11 @@ Long war between house of Saul and house of David; David waxed stronger, house o
 
 **David's Grief:** David Joab people clothes sackcloth mourn Abner king David bier, Abner buried Hebron king voice weep grave Abner people weep, king lamented Abner folly die, hands bound fetters man falleth wicked men fallest people weep, people David eat meat day David swore God bread sun, people notice pleased king pleased people, people Israel king slay Abner son Ner, king servants prince great man fallen Israel, day weak anointed king sons Zeruiah hard LORD reward evil wickedness
 
+
+*AI Keywords for current event matching:*
+`abigail` `abishai` `abital` `abner` `abners` `absalom` `adonijah` `ahinoam` `aiah` `amnon` `anointed` `answer` `arise` `asahel` `bahurim` `battle` `beer-sheba` `benjamin` `bier` `blood` `born` `bound` `bread` `brethren` `brother` `buried` `carmelite` `charged` `chileab` `civil` `clothes` `coming` `communication` `concubine` `dan` `daughter` `david` `davids` `day` `death` `deceive` `defection` `delivered` `desire` `die` `died` `dog` `eat` `eglah` `elders` `enemies` `espoused` `evil` `face` `fallen` `fallest` `falleth` `family` `father` `fault` `feared` `feast` `fetters` `fifth` `firstborn` `folly` `foreskins` `fourth` `friends` `gate` `gather` `geshur` `gibeon` `god` `going` `grave` `great` `grief` `guiltless` `haggith` `hand` `hands` `hard` `head` `heart` `hebron` `host` `house` `hundred` `husband` `ish-bosheth` `israel` `issue` `ithream` `jezreelitess` `joab` `judah` `kindness` `king` `kingdom` `knew` `know` `laish` `lamented` `land` `league` `leper` `long` `lord` `maacah` `man` `meat` `men` `messengers` `michal` `mourn` `nabal` `ner` `notice` `peace` `people` `phaltiel` `philistines` `pleased` `prince` `progress` `pursuing` `reign` `return` `reward` `rib` `rizpah` `sackcloth` `saul` `save` `second` `sent` `servant` `servants` `shephatiah` `sirah` `sixth` `slain` `slay` `slew` `son` `sons` `speak` `spoil` `spoken` `staff` `strength` `strong` `stronger` `sun` `sword` `swore` `sworn` `talmai` `third` `throne` `troop` `twenty` `voice` `war` `weak` `weaker` `weep` `weeping` `well` `wicked` `wickedness` `wife` `woman` `wroth` `zeruiah`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -115,6 +115,11 @@ Open, doors, Lebanon, fire, devour, cedars, Howl, fir, tree, cedar, fallen, migh
 
 **Foolish Shepherd:** foolish shepherd, visit cut, eat flesh, sword arm
 
+
+*AI Keywords for current event matching:*
+`arm` `asunder` `break` `broken` `cast` `christs` `covenant` `cut` `day` `devour` `doors` `eat` `fire` `flesh` `flock` `foolish` `give` `good` `lord` `open` `pieces` `possessors` `potter` `price` `rejection` `shepherd` `silver` `slaughter` `slay` `sword` `think` `thirty` `visit` `word`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

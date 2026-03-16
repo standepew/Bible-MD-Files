@@ -127,6 +127,11 @@ Send, messenger, prepare, way, Lord, seek, suddenly, come, temple, messenger, co
 
 **Book of Remembrance:** feared LORD, book remembrance, make jewels, spare them
 
+
+*AI Keywords for current event matching:*
+`book` `christs` `come` `coming` `covenant` `feared` `fire` `fullers` `god` `gold` `heaven` `jewels` `lord` `make` `meat` `messenger` `offerings` `prepare` `purge` `purify` `refiner` `refiners` `remembrance` `rob` `send` `silver` `soap` `spare` `storehouse` `suddenly` `tithes` `way` `windows`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

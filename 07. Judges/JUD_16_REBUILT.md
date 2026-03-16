@@ -95,6 +95,11 @@ Samson goes to Gaza and visits a harlot. The Gazites learn he's there and surrou
 
 **Burial:** brethren house father took buried Zorah Eshtaol buryingplace Manoah father, judged Israel twenty years
 
+
+*AI Keywords for current event matching:*
+`afflict` `afflicted` `arms` `arose` `avenged` `awaked` `bar` `beam` `beheld` `betrayal` `bind` `borne` `bound` `bowed` `brass` `brethren` `broke` `burial` `buried` `buryingplace` `called` `capture` `carried` `chamber` `city` `come` `compassed` `country` `dagon` `daily` `dead` `death` `deception` `delilah` `delilahs` `delivered` `departed` `destroyer` `die` `doors` `dried` `eleven` `enemy` `entertainment` `entice` `eshtaol` `eyes` `fastened` `father` `feel` `fell` `fetters` `final` `fire` `first` `full` `gate` `gathered` `gaza` `gazites` `god` `great` `green` `grew` `grind` `hair` `hand` `hands` `harlot` `head` `heart` `hearts` `hebron` `held` `hill` `house` `hundred` `imprisonment` `israel` `judged` `kill` `knees` `known` `lad` `laid` `lean` `left` `liers` `lies` `lieth` `life` `locks` `lord` `lords` `love` `loved` `lying` `man` `manoah` `men` `merry` `middle` `midnight` `mocked` `money` `morning` `mother` `nazarite` `new` `night` `occupied` `people` `philistines` `pieces` `pillars` `pin` `posts` `praised` `pressed` `prevail` `prison` `quiet` `razor` `rejoice` `remember` `revelation` `right` `roof` `ropes` `sacrifice` `samson` `saw` `second` `seduction` `see` `set` `seven` `shake` `shave` `shaven` `shewed` `shoulders` `silver` `sleep` `slept` `slew` `sorek` `soul` `sport` `stood` `strength` `strengthen` `tell` `third` `thousand` `thread` `three` `times` `told` `took` `tow` `twenty` `two` `urged` `valley` `vexed` `victory` `wait` `weak` `weave` `web` `went` `withs` `woman` `womb` `women` `worship` `years` `zorah`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

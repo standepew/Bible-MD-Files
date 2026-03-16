@@ -115,6 +115,11 @@ Eye, seen, ear, heard, understood. Know, inferior, Almighty, reason, GOD. Forger
 
 **Self-Examination:** diligently speech declaration ears, ordered cause justified plead tongue ghost, two things hide withdraw hand dread afraid
 
+
+*AI Keywords for current event matching:*
+`accept` `afraid` `almighty` `alone` `ashes` `bodies` `cause` `clay` `contend` `deceitfully` `declaration` `defense` `desire` `dialogue` `diligently` `dread` `ear` `ears` `excellency` `eye` `faith` `flesh` `forgers` `ghost` `god` `hand` `heard` `hide` `hold` `hypocrite` `inferior` `jobs` `justified` `know` `lies` `life` `lips` `maintain` `mock` `ordered` `peace` `person` `persons` `physicians` `plead` `pleadings` `reason` `reasoning` `remembrances` `reprove` `salvation` `search` `secretly` `seen` `self-examination` `slay` `speak` `speech` `teeth` `things` `tongue` `trust` `two` `understood` `value` `ways` `wickedly` `wisdom` `withdraw`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

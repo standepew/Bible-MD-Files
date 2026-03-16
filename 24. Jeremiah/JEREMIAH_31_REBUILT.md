@@ -115,6 +115,11 @@ Time, LORD, God, families, Israel, people, LORD, people, left, sword, grace, wil
 
 **Holy City:** city built LORD, tower Hananeel, gate corner, holy LORD, plucked thrown forever
 
+
+*AI Keywords for current event matching:*
+`blind` `bring` `built` `christs` `city` `coasts` `corner` `country` `covenant` `drawn` `earth` `everlasting` `father` `forever` `forgive` `gate` `gather` `hananeel` `hearts` `holy` `iniquity` `inward` `israel` `jacob` `lame` `law` `lord` `love` `lovingkindness` `new` `north` `parts` `plucked` `ransomed` `redeemed` `redemption` `remember` `sin` `stronger` `thrown` `tower` `woman` `write`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

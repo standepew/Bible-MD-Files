@@ -163,6 +163,11 @@ Month, Nisan, twentieth, year, Artaxerxes, king, wine, king, took, wine, gave, k
 
 **Opposition Begins:** distress Jerusalem waste gates burned fire build wall Jerusalem reproach, hand GOD good king words spoken rise build strengthened hands good work, Sanballat Horonite Tobiah servant Ammonite Geshem Arabian heard laughed scorn despised rebel king, answered GOD heaven prosper servants arise build portion right memorial Jerusalem
 
+
+*AI Keywords for current event matching:*
+`afraid` `ammonite` `answered` `arabian` `arise` `army` `arose` `artaxerxes` `asaph` `audience` `beams` `beast` `begins` `beyond` `broken` `brook` `build` `burned` `captains` `children` `city` `consumed` `convey` `countenance` `days` `despised` `distress` `divine` `dragon` `dung` `enter` `fathers` `favor` `favour` `fire` `forest` `fountain` `gate` `gates` `gave` `geshem` `god` `good` `governors` `granted` `grieved` `hand` `hands` `heard` `heart` `heaven` `horonite` `horsemen` `house` `israel` `jerusalem` `jews` `journey` `judah` `keeper` `king` `knew` `laughed` `letter` `letters` `live` `man` `memorial` `men` `month` `night` `nisan` `nobles` `opposition` `palace` `pass` `pleased` `pool` `port` `portion` `prayed` `presence` `priests` `prosper` `queen` `rebel` `reproach` `request` `return` `returned` `right` `rise` `river` `royal` `rulers` `sad` `sanballat` `scorn` `secret` `send` `sent` `sepulchres` `servant` `servants` `sick` `sight` `sitting` `sorrow` `spoken` `strengthened` `survey` `three` `timber` `time` `tobiah` `took` `turned` `twentieth` `valley` `viewed` `wall` `walls` `waste` `welfare` `well` `wine` `words` `work` `year`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

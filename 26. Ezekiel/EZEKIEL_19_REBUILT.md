@@ -115,6 +115,11 @@ Lamentation, princes, Israel, mother, lioness, lay, lions, nourished, whelps, yo
 
 **Divine Judgment:** plucked fury, cast ground, fire consumed, wilderness
 
+
+*AI Keywords for current event matching:*
+`blood` `branches` `cast` `catch` `christs` `consumed` `devoured` `divine` `east` `fire` `fruitful` `fury` `ground` `judah` `judgment` `lament` `lamentation` `lion` `lioness` `men` `mother` `pit` `planted` `plucked` `prey` `princes` `rods` `strong` `taken` `vine` `waters` `wilderness` `wind` `young`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

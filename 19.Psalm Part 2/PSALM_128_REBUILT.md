@@ -103,6 +103,11 @@ Blessed, feareth, LORD, walketh, ways, eat, labour, hands, happy, well, wife, fr
 
 **Peace in Israel:** see good Jerusalem days life, peace upon Israel
 
+
+*AI Keywords for current event matching:*
+`blessed` `blessing` `children` `days` `eat` `family` `feareth` `fruitful` `generation` `generational` `good` `grandmother` `hands` `happy` `house` `israel` `jerusalem` `labour` `life` `lois` `lord` `olive` `peace` `plants` `prosperity` `righteousness` `round` `see` `sides` `table` `third` `vine` `walketh` `ways` `well` `wife`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -89,6 +89,11 @@ Rehoboam Shechem; Israel Shechem, king. Jeroboam son Nebat, Egypt, heard; fled k
 
 **False Worship:** Jeroboam feast eighth month fifteenth day month feast Judah offered altar Beth-el calves made Beth-el priests high places made, offered altar fifteenth day eighth month month devised heart ordained feast children Israel offered altar burnt incense
 
+
+*AI Keywords for current event matching:*
+`add` `adoram` `advised` `ahijah` `altar` `answer` `answered` `appointed` `assembled` `benjamin` `beth-el` `brethren` `brought` `built` `burnt` `called` `calves` `cause` `chariot` `chastise` `chastised` `children` `chosen` `cities` `civil` `come` `congregation` `consulted` `counsel` `dan` `david` `day` `days` `depart` `departed` `devised` `died` `divine` `division` `dwelt` `egypt` `eighth` `ephraim` `false` `father` `feast` `fifteenth` `fight` `finger` `fled` `flee` `forsook` `fourscore` `god` `gods` `gold` `golden` `good` `grievous` `grown` `harsh` `heard` `hearkened` `heart` `heavy` `high` `house` `hundred` `incense` `inheritance` `israel` `jeroboam` `jeroboams` `jerusalem` `jesse` `judah` `kill` `king` `kingdom` `land` `levi` `lighter` `lived` `loins` `lord` `lowest` `made` `man` `men` `month` `mount` `much` `nebat` `offered` `old` `ordained` `penuel` `people` `perform` `places` `portion` `prevented` `priests` `providence` `rebelled` `rehoboam` `rehoboams` `reigned` `remnant` `response` `return` `roughly` `sacrifice` `saying` `scorpions` `seeking` `sent` `servant` `servants` `serve` `service` `set` `shechem` `shemaiah` `shilonite` `sin` `solomon` `son` `sons` `spoke` `stoned` `stood` `succession` `tents` `thicker` `thing` `third` `thousand` `three` `too` `tribe` `tribute` `two` `war` `warriors` `whips` `word` `words` `worship` `yoke` `young`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

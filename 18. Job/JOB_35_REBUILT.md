@@ -151,6 +151,11 @@ Elihu, spake, right, righteousness, GOD, advantage, profit, cleansed, sin, answe
 
 **Futility of Self-Righteousness:** righteousness GOD advantage profit cleansed sin, heavens clouds higher sinnest transgressions multiplied, righteous giveth receiveth hand wickedness hurt man
 
+
+*AI Keywords for current event matching:*
+`advantage` `almighty` `anger` `answer` `arm` `beasts` `cleansed` `clouds` `companions` `cry` `divine` `earth` `elihu` `elihus` `evil` `extremity` `fowls` `futility` `giveth` `god` `hand` `hear` `heaven` `heavens` `higher` `human` `hurt` `judgment` `knowledge` `maker` `man` `men` `mighty` `mouth` `multiplied` `multiplieth` `multitude` `night` `open` `oppressed` `oppressions` `pride` `profit` `receiveth` `regard` `right` `righteous` `righteousness` `self-righteousness` `sin` `sinnest` `son` `songs` `spake` `speech` `teacheth` `third` `transcendence` `transgressions` `trust` `vain` `vanity` `wickedness` `wiser` `words`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

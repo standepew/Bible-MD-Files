@@ -66,6 +66,11 @@ After the terror of Numbers 17:12-13 ("we die, we perish"), God answers by clari
 - **Permanent / irrevocable covenant** → Numbers 18:19 — covenant of salt; 2 Chronicles 13:5
 - **The best given back to God** → Numbers 18:29-30 — Levites tithe the best of what they receive; "heave the best thereof"
 
+
+*AI Keywords for current event matching:*
+`1821-32` `aaron` `current` `events` `funding` `giving` `israels` `levites` `malachi` `matching` `matthew` `ministry` `numbers` `one-tenth` `tithe`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS WITH CONTEXTUAL DEFINITIONS

@@ -115,6 +115,11 @@ Cried, ears, loud, voice, charge, city, draw, near, man, destroying, weapon, han
 
 **Christ's Protection:** clothed linen, writer inkhorn, not near mark, residue Israel
 
+
+*AI Keywords for current event matching:*
+`ancient` `begin` `charge` `christs` `city` `cleansing` `clothed` `courts` `cry` `defile` `destroying` `divine` `fill` `foreheads` `house` `inkhorn` `israel` `judgment` `linen` `mark` `marking` `men` `near` `protection` `residue` `sanctuary` `set` `sigh` `slaughter` `slay` `temple` `utterly` `weapon` `writer`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -103,6 +103,11 @@ Behold, day, cometh, burn, oven, proud, wickedly, stubble, burn, leave, root, br
 
 **Heart Reconciliation:** remember law, statutes judgments, smite earth, curse
 
+
+*AI Keywords for current event matching:*
+`arise` `branch` `burn` `calves` `children` `christs` `curse` `day` `dreadful` `earth` `elijah` `elijahs` `fathers` `fear` `final` `forth` `great` `grow` `healing` `heart` `judgment` `judgments` `law` `leave` `name` `oven` `proud` `reconciliation` `remember` `return` `righteousness` `root` `send` `smite` `statutes` `stubble` `sun` `turn` `wickedly`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

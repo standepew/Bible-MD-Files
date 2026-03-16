@@ -103,6 +103,11 @@ Israel, child, loved, called, son, Egypt, called, sacrificed, Baalim, burned, in
 
 **Faithful Remnant:** Judah ruleth, faithful saints, compasseth lies, house Israel
 
+
+*AI Keywords for current event matching:*
+`bands` `bird` `called` `child` `children` `christs` `compasseth` `compassion` `cords` `destroy` `divine` `execute` `faithful` `fatherly` `god` `holy` `house` `israel` `judah` `lies` `lion` `lions` `lord` `love` `loved` `man` `one` `remnant` `roar` `ruleth` `saints` `son` `tremble` `walk`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

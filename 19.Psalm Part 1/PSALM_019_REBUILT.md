@@ -187,6 +187,11 @@ Chief, Musician, Psalm, David, heavens, declare, glory, GOD, firmament, sheweth,
 
 **Human Depravity:** words mouth meditation heart acceptable sight LORD strength redeemer, understand errors cleanse secret faults, presumptuous sins dominion
 
+
+*AI Keywords for current event matching:*
+`acceptable` `back` `chief` `clean` `cleanse` `commandment` `converting` `david` `day` `declare` `depravity` `desired` `dominion` `earth` `enduring` `enlightening` `errors` `eyes` `faults` `fear` `fine` `firmament` `general` `glory` `god` `gods` `gold` `great` `handywork` `heard` `heart` `heavens` `honey` `honeycomb` `human` `innocent` `judgments` `keep` `keeping` `knowledge` `language` `law` `line` `lord` `meditation` `mouth` `musician` `night` `perfect` `presumptuous` `psalm` `pure` `redeemer` `rejoicing` `revelation` `reward` `right` `righteous` `secret` `servant` `sheweth` `sight` `simple` `sins` `soul` `special` `speech` `statutes` `strength` `sun` `sure` `sweeter` `tabernacle` `testimony` `transgression` `true` `understand` `upright` `uttereth` `voice` `warned` `wise` `words` `world`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

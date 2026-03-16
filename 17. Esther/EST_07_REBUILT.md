@@ -139,6 +139,11 @@ King, Haman, banquet, Esther, queen. King, Esther, second, day, banquet, wine, p
 
 **Divine Victory:** hanged Haman gallows prepared Mordecai king wrath pacified
 
+
+*AI Keywords for current event matching:*
+`adversary` `afraid` `ahasuerus` `answered` `arising` `banquet` `bed` `bondmen` `bondwomen` `chamberlain` `countervail` `covered` `cubits` `damage` `day` `destroyed` `determined` `divine` `durst` `enemy` `esther` `esthers` `evil` `exposure` `face` `fallen` `favour` `fifty` `force` `gallows` `garden` `given` `good` `granted` `half` `haman` `hamans` `hang` `hanged` `harbonah` `heart` `held` `house` `justice` `king` `kingdom` `life` `made` `mordecai` `mouth` `pacified` `palace` `people` `performed` `perish` `petition` `place` `please` `poetic` `prepared` `presume` `queen` `request` `returned` `second` `sight` `slain` `sold` `spoken` `tongue` `victory` `wicked` `wine` `wrath`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

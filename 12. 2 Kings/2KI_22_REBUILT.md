@@ -83,6 +83,11 @@ Josiah eight years, reigned thirty-one years Jerusalem, mother Jedidah, daughter
 
 **Divine Mercy:** gather fathers grave peace eyes evil place brought king word
 
+
+*AI Keywords for current event matching:*
+`according` `achbor` `adaiah` `ahikam` `anger` `asaiah` `azaliah` `book` `boscath` `breaches` `brought` `builders` `burned` `carpenters` `clothes` `colledge` `commanded` `communed` `curse` `daughter` `david` `deliver` `delivered` `desolation` `divine` `doers` `door` `dwelt` `eight` `eighteenth` `enquire` `evil` `eyes` `faithfully` `father` `fathers` `forsaken` `found` `gather` `gathered` `give` `god` `gods` `grave` `hand` `hands` `hasri` `heard` `hearkened` `heart` `hewn` `high` `hilkiah` `house` `huldah` `huldahs` `humbled` `humility` `incense` `inhabitants` `israel` `jedidah` `jerusalem` `josiah` `josiahs` `judah` `keeper` `keepers` `kindled` `king` `law` `left` `lord` `man` `masons` `mercy` `meshullam` `michaiah` `money` `mother` `oversight` `peace` `people` `place` `priest` `prophecy` `prophetess` `provoke` `quenched` `read` `reckoning` `reigned` `rent` `repair` `restoration` `right` `righteousness` `scribe` `sent` `servant` `servants` `shallum` `shaphan` `sight` `silver` `son` `stone` `temple` `tender` `thirty-one` `tikvah` `timber` `wardrobe` `way` `wept` `wife` `word` `words` `work` `works` `wrath` `written` `year` `years`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -139,6 +139,11 @@ Hear, prayer, LORD, give, ear, supplications, faithfulness, answer, righteousnes
 
 **Divine Guidance:** teach will, lead land uprightness, know way walk
 
+
+*AI Keywords for current event matching:*
+`answer` `divine` `enter` `faithful` `faithfulness` `guidance` `hear` `judgment` `justified` `know` `land` `lead` `living` `lovingkindness` `man` `morning` `prayer` `righteous` `righteousness` `sake` `servant` `soul` `spiritual` `supplications` `teach` `thirst` `thirsteth` `thirsty` `uprightness` `walk` `way`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

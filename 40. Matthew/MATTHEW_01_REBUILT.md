@@ -103,6 +103,11 @@ Book, generation, Jesus, Christ, son, David, son, Abraham, Abraham, begat, Isaac
 
 **Divine Protection:** angel appeared, Joseph raised sleep, bidden wife, called JESUS
 
+
+*AI Keywords for current event matching:*
+`abraham` `angel` `appeared` `bidden` `birth` `book` `called` `child` `christs` `conceived` `david` `divine` `emmanuel` `firstborn` `fourteen` `fulfilled` `genealogy` `generation` `generations` `ghost` `god` `holy` `interpreted` `jesus` `joseph` `prophecy` `protection` `raised` `royal` `sleep` `son` `spoken` `virgin` `wife`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

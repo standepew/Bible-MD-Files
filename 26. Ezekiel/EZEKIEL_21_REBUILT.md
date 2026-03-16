@@ -103,6 +103,11 @@ Word, Lord, son, man, face, Jerusalem, drop, word, holy, places, prophesy, land,
 
 **Christ's Kingdom:** remove diadem, overturn overturn, come right, give him
 
+
+*AI Keywords for current event matching:*
+`christs` `come` `cut` `diadem` `divine` `draw` `face` `fall` `flesh` `furbished` `give` `glitter` `holy` `israel` `jerusalem` `jerusalems` `judgment` `kingdom` `overturn` `places` `princes` `remove` `right` `righteous` `sharpened` `sheath` `slaughter` `sore` `sword` `terror` `wicked`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

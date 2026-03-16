@@ -181,6 +181,11 @@ Eighteenth, year, king, Jeroboam, Abijah, reign, Judah. Reigned, three, years, J
 
 **Royal Family:** Abijah waxed mighty married fourteen wives begat twenty two sons sixteen daughters, acts Abijah ways sayings story prophet Iddo
 
+
+*AI Keywords for current event matching:*
+`aaron` `abijah` `acts` `alarm` `ambushment` `army` `array` `battle` `begat` `behind` `belial` `beth` `brought` `bullock` `burn` `burnt` `business` `calves` `candlestick` `captain` `cast` `charge` `children` `chosen` `cities` `consecrate` `covenant` `cried` `cry` `daughter` `daughters` `david` `days` `delivered` `died` `divine` `eight` `eighteenth` `ephraim` `ephrain` `evening` `faith-based` `false` `family` `fathers` `fell` `fight` `five` `fled` `forever` `forsaken` `four` `fourteen` `gains` `gathered` `gave` `gibeah` `god` `gods` `gold` `golden` `great` `hand` `hundred` `iddo` `incense` `israel` `jeroboam` `jerusalem` `jeshanah` `judah` `judgment` `king` `kingdom` `lamps` `lands` `levites` `lord` `manner` `married` `men` `michaiah` `mighty` `military` `minister` `morning` `mother` `mount` `multitude` `nations` `nebat` `order` `people` `preparation` `presence` `prevailed` `priests` `prophet` `prosper` `pure` `pursued` `rams` `rebelled` `rebellion` `recover` `rehoboam` `reign` `reigned` `relied` `risen` `royal` `sacrifices` `salt` `sayings` `servant` `seven` `shewbread` `shout` `sixteen` `slain` `slaughter` `slew` `smote` `solomon` `son` `sons` `sounded` `sounding` `spiritual` `story` `strength` `strengthened` `struck` `succession` `sweet` `table` `tenderhearted` `territorial` `thousand` `three` `time` `towns` `true` `trumpets` `twenty` `two` `uriel` `vain` `valiant` `valour` `victory` `war` `warfare` `waxed` `ways` `withstand` `wives` `worship` `year` `years` `young` `zemaraim`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

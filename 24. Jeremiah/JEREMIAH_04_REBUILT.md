@@ -115,6 +115,11 @@ Return, Israel, LORD, return, put, abominations, sight, remove, swear, LORD, liv
 
 **Christ's Lament:** bowels pained heart, cannot hold peace, voice woman travail, daughter Zion
 
+
+*AI Keywords for current event matching:*
+`abominations` `away` `blow` `bowels` `break` `burn` `cannot` `christs` `circumcise` `cities` `daughter` `defenced` `destroyer` `destruction` `divine` `fallow` `fire` `fury` `gentiles` `ground` `heart` `hold` `israel` `judgment` `lament` `lion` `liveth` `lord` `pained` `peace` `put` `return` `spiritual` `swear` `thicket` `travail` `trumpet` `voice` `warfare` `woman` `yourselves` `zion`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

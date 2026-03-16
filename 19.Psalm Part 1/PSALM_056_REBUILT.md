@@ -103,6 +103,11 @@ Chief, Musician, Jonath, elem, rechokim, Michtam, David, Philistines, took, Gath
 
 **Prayer and Praise:** praise word GOD, praise word LORD, render praises, vows render praises
 
+
+*AI Keywords for current event matching:*
+`afraid` `back` `daily` `death` `deliver` `delivered` `divine` `enemies` `faith` `falling` `fear` `feet` `fighting` `flesh` `god` `light` `living` `lord` `man` `merciful` `oppresseth` `praise` `praises` `prayer` `protection` `render` `soul` `swallow` `trust` `turn` `vows` `walk` `word`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

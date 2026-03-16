@@ -115,6 +115,11 @@ Thing, season, time, purpose, heaven, time, born, time, die, time, plant, time, 
 
 **Eternal Perspective:** no preeminence beast, spirit upward downward, rejoice works portion
 
+
+*AI Keywords for current event matching:*
+`beast` `beasts` `beautiful` `befalleth` `born` `die` `divine` `doeth` `downward` `eternal` `forever` `god` `gods` `human` `judge` `men` `mortality` `past` `perspective` `plant` `pluck` `portion` `preeminence` `purpose` `rejoice` `requireth` `righteous` `season` `sons` `sovereignty` `spirit` `there` `time` `timing` `upward` `work` `works`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -91,6 +91,11 @@ Song, degrees, trust, LORD, mount, Zion, removed, abideth, forever, mountains, r
 
 **Judgment of the Wicked:** rod wicked, crooked ways, lead workers iniquity
 
+
+*AI Keywords for current event matching:*
+`abideth` `cannot` `crooked` `divine` `forever` `hearts` `henceforth` `iniquity` `israel` `jerusalem` `judgment` `lead` `lord` `lot` `mount` `mountains` `peace` `people` `protection` `removed` `rest` `righteous` `rod` `round` `security` `trust` `upright` `ways` `wicked` `workers` `zion`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

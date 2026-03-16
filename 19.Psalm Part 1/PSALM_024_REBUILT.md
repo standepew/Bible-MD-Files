@@ -127,6 +127,11 @@ Psalm, David, earth, LORD, fulness, world, dwell, founded, seas, established, fl
 
 **Christ's Ascension:** King glory come, lift heads gates everlasting doors, LORD strong mighty battle, LORD hosts King glory
 
+
+*AI Keywords for current event matching:*
+`ascend` `ascension` `battle` `blessing` `christs` `clean` `come` `david` `deceitfully` `doors` `dwell` `earth` `established` `everlasting` `face` `floods` `founded` `fulness` `gates` `generation` `glory` `god` `gods` `hands` `heads` `heart` `hill` `holy` `hosts` `jacob` `king` `lift` `lifted` `lord` `mighty` `ownership` `place` `psalm` `pure` `receive` `requirements` `righteousness` `salvation` `seas` `seek` `selah` `soul` `stand` `strong` `sworn` `vanity` `world` `worship`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

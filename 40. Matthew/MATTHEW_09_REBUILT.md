@@ -139,6 +139,11 @@ Entered, ship, passed, city, behold, brought, man, sick, palsy, lying, bed, Jesu
 
 **Harvest Compassion:** harvest plenteous, labourers few, compassion multitudes, pray harvest
 
+
+*AI Keywords for current event matching:*
+`arise` `arose` `bottles` `call` `christs` `cloth` `compassion` `covenant` `custom` `few` `follow` `forgive` `forgiven` `forgiveness` `garment` `harvest` `labourers` `man` `matthew` `multitudes` `new` `old` `plenteous` `power` `pray` `publicans` `receipt` `sinners` `sins` `son` `walk` `wine`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

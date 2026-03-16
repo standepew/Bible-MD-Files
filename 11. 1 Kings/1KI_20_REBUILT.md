@@ -81,6 +81,11 @@ Ben-hadad king Syria gathered host, thirty-two kings, horses, chariots; besieged
 
 **Prophetic Judgment:** sons prophets neighbour LORD Smite refused, obeyed voice LORD departed lion slay, man smite wounded, prophet departed waited king way disguised ashes face, king passed cried king servant midst battle man turned aside brought man Keep missing life life talent silver, busy gone king Israel judgment decided, hasted ashes face king Israel discerned prophets, LORD hand man destruction life life people people, king Israel house heavy displeased Samaria
 
+
+*AI Keywords for current event matching:*
+`ahab` `alive` `answered` `aphek` `army` `array` `ashes` `aside` `away` `battle` `ben-hadad` `besieged` `boast` `bring` `brother` `brought` `busy` `captains` `catch` `chamber` `chariot` `chariots` `children` `cities` `city` `consent` `country` `covenant` `cried` `damascus` `day` `decided` `deliver` `denied` `departed` `destruction` `diligently` `discerned` `disguised` `displeased` `drinking` `drunk` `elders` `escaped` `eyes` `face` `father` `fell` `fight` `first` `fled` `footmen` `gathered` `girdeth` `god` `gods` `gold` `gone` `goodliest` `great` `hand` `handfuls` `harness` `hasted` `hastily` `heads` `hearken` `hearkened` `heavy` `helped` `hills` `horse` `horsemen` `horses` `host` `house` `houses` `hundred` `improper` `inner` `invasion` `israel` `joined` `judgment` `keep` `kids` `king` `kings` `know` `land` `left` `life` `lion` `live` `loins` `lord` `lost` `man` `mark` `men` `merciful` `mercy` `message` `messengers` `midst` `mischief` `missing` `morrow` `multitude` `neighbour` `noon` `numbered` `obeyed` `observe` `off` `ordered` `passed` `pavilions` `peace` `people` `pitched` `plain` `pleasant` `present` `princes` `prophet` `prophetic` `prophets` `provinces` `pursued` `putteth` `refused` `restore` `return` `rooms` `ropes` `sackcloth` `samaria` `saying` `search` `second` `sent` `servant` `servants` `seven` `seventh` `silver` `slaughter` `slay` `slew` `smite` `sons` `streets` `strengthen` `stronger` `syria` `syrian` `syrians` `take` `talent` `thing` `thirty-two` `thousand` `took` `turned` `two` `valleys` `victory` `voice` `waited` `wall` `war` `warred` `way` `wives` `word` `wounded` `year` `young`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

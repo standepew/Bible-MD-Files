@@ -121,6 +121,11 @@ David, house, LORD, God, altar, burnt, offering, Israel. David, commanded, gathe
 
 **Leadership Instructions:** David commanded princes Israel help Solomon son, LORD God with given rest side given inhabitants land hand land subdued LORD people, set heart soul seek LORD God arise build sanctuary LORD God ark covenant LORD holy vessels God house built name LORD
 
+
+*AI Keywords for current event matching:*
+`abundance` `abundantly` `add` `altar` `arise` `ark` `blood` `born` `brass` `brought` `build` `built` `burnt` `called` `cedar` `charge` `charged` `commanded` `commission` `countries` `courage` `covenant` `cunning` `david` `davids` `days` `death` `dismayed` `disqualification` `divine` `doors` `dread` `earth` `enemies` `establish` `ever` `exceeding` `fame` `father` `fulfil` `gates` `gather` `give` `given` `glory` `god` `gold` `good` `great` `hand` `heart` `heed` `help` `hew` `hewers` `holy` `house` `hundred` `inhabitants` `instructions` `iron` `israel` `joinings` `judgments` `keep` `kingdom` `land` `law` `leadership` `lord` `magnifical` `man` `masons` `material` `men` `mind` `moses` `nails` `name` `number` `offering` `peace` `people` `preparation` `preparations` `prepared` `princes` `promise` `prosper` `quietness` `rest` `round` `said` `sanctuary` `seek` `set` `shed` `side` `sight` `silver` `solomon` `solomons` `son` `soul` `statutes` `stone` `stones` `strangers` `strong` `subdued` `talents` `temple` `tender` `thereto` `thousand` `throne` `timber` `trees` `trouble` `tyre` `understanding` `vessels` `wars` `weight` `wisdom` `without` `wood` `word` `work` `workers` `workmen` `wrought` `young` `zidonians`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

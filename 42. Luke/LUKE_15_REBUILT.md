@@ -153,6 +153,11 @@ Drew, near, publicans, sinners, hear, Pharisees, scribes, murmured, receiveth, s
 
 **Reaction of the Elder Son:** elder son, musick dancing, angry serve, transgressed commandment, alive again
 
+
+*AI Keywords for current event matching:*
+`again` `alive` `angels` `angry` `best` `calf` `came` `candle` `coin` `commandment` `compassion` `country` `dancing` `elder` `far` `father` `fatted` `feed` `found` `hand` `heaven` `himself` `house` `hundred` `joy` `light` `living` `lost` `musick` `parable` `piece` `pieces` `prodigal` `publicans` `reaction` `rejoicing` `return` `ring` `riotous` `robe` `serve` `sheep` `shoulders` `sinned` `sinners` `son` `sons` `sweep` `swine` `ten` `transgressed` `two`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

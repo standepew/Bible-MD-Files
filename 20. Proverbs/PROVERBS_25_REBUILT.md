@@ -127,6 +127,11 @@ Proverbs, Solomon, men, Hezekiah, king, Judah, copied, glory, God, conceal, thin
 
 **Justice and Mercy:** take away wicked king, faithful messenger refresheth soul, good news far country
 
+
+*AI Keywords for current event matching:*
+`away` `bread` `broken` `city` `conceal` `confidence` `country` `divine` `ear` `enemy` `established` `faithful` `far` `fitly` `foot` `give` `glory` `god` `good` `honor` `honour` `house` `hungry` `justice` `king` `kings` `man` `matter` `mercy` `messenger` `neighbour` `news` `obedient` `refresheth` `relationships` `reprover` `righteousness` `royal` `rule` `search` `self-control` `soul` `speech` `spirit` `spoken` `take` `thing` `throne` `unfaithful` `wicked` `wisdom` `wise` `withdraw` `word`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

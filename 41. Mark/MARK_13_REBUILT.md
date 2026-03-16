@@ -189,6 +189,11 @@ Went, temple, disciple, Master, stones, buildings, Jesus, answering, buildings, 
 
 **Watch and Pray:** watch pray, far journey, master house, watch
 
+
+*AI Keywords for current event matching:*
+`abomination` `affliction` `buildings` `christs` `coming` `councils` `darkened` `day` `days` `deceive` `desolation` `discourse` `end` `endure` `false` `far` `fig` `four` `generation` `great` `hour` `house` `journey` `man` `many` `master` `mount` `olives` `olivet` `pass` `pray` `rumours` `second` `signs` `son` `stones` `sun` `synagogues` `tree` `tribulation` `wars` `watch` `winds` `words`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

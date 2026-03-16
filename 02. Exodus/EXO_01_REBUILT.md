@@ -110,6 +110,11 @@ Exodus opens where Genesis closed — with Israel in Egypt. The seventy souls wh
 - **Ethnic cleansing / genocide** → Exodus 1:16, 22
 - **Whistleblowers / conscience objectors** → Exodus 1:17-21 — midwives defied royal command
 
+
+*AI Keywords for current event matching:*
+`abortion` `attacking` `children` `current` `dragon` `events` `exodus` `infanticide` `killing` `matching` `seed` `state-sponsored`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

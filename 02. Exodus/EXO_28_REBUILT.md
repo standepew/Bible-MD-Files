@@ -80,6 +80,11 @@ God commands garments for Aaron "for glory and for beauty," made by those filled
 - **Guidance / the will of God** → Exodus 28:30 — Urim and Thummim; John 16:13
 - **Priestly clothing / righteous garments** → Exodus 28 — Revelation 19:8 — "the fine linen is the righteousness of saints"
 
+
+*AI Keywords for current event matching:*
+`bearing` `current` `events` `exodus` `heart` `hebrews` `intercessory` `matching` `ministry` `names` `prayer` `shoulders`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -139,6 +139,11 @@ Eliphaz, Temanite, answered, profitable, man, wise, GOD. Pleasure, Almighty, rig
 
 **Promise of Restoration:** old way wicked trodden cut time foundation flood, God depart Almighty filled houses good counsel wicked, righteous glad innocent scoff substance cut fire consumeth
 
+
+*AI Keywords for current event matching:*
+`alleged` `almighty` `answered` `arms` `bread` `broken` `brother` `call` `circuit` `clothing` `cloud` `clouds` `consumeth` `counsel` `cover` `covering` `cut` `dark` `darkness` `depart` `drink` `dwelt` `earth` `eliphaz` `eliphazs` `empty` `fatherless` `fear` `filled` `fire` `flood` `foundation` `gain` `glad` `god` `good` `heaven` `height` `high` `honourable` `houses` `hungry` `infinite` `iniquities` `innocent` `jobs` `judge` `judgment` `know` `man` `mighty` `naked` `nought` `old` `perfect` `pleasure` `pledge` `profitable` `promise` `repentance` `reprove` `restoration` `righteous` `scoff` `sins` `snares` `speech` `stars` `stripped` `substance` `sudden` `temanite` `thick` `third` `time` `trodden` `water` `waters` `way` `ways` `weary` `wicked` `wickedness` `widows` `wise`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

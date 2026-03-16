@@ -103,6 +103,11 @@ Day, LORD, sore, great, strong, sword, punish, leviathan, piercing, serpent, lev
 
 **Divine Protection:** keep night day, water moment, fury not, make peace
 
+
+*AI Keywords for current event matching:*
+`blossom` `bud` `children` `christs` `crooked` `day` `defeat` `divine` `dragon` `fill` `fruit` `fury` `gather` `great` `israel` `israels` `keep` `leviathan` `leviathans` `lord` `make` `moment` `night` `peace` `piercing` `protection` `punish` `restoration` `root` `sea` `serpent` `slay` `sore` `strong` `sword` `take` `trumpet` `victory` `water` `world` `worship`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

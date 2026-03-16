@@ -139,6 +139,11 @@ Prayer, Moses, man, GOD, LORD, dwelling, place, generations, mountains, brought,
 
 **Wisdom and Mercy:** teach number days apply hearts wisdom, Return LORD repent servants, satisfy early mercy rejoice glad days, beauty LORD GOD establish work hands
 
+
+*AI Keywords for current event matching:*
+`according` `anger` `apply` `beauty` `brought` `carriest` `children` `consumed` `countenance` `cut` `days` `destruction` `divine` `dwelling` `early` `earth` `establish` `eternity` `evening` `everlasting` `fear` `flood` `flourish` `formed` `frailty` `generations` `glad` `god` `gods` `grass` `grow` `hands` `hearts` `human` `iniquities` `knoweth` `light` `lord` `man` `men` `mercy` `morning` `moses` `mountains` `night` `number` `passed` `past` `place` `power` `prayer` `rejoice` `repent` `return` `satisfy` `sayest` `secret` `servants` `set` `sight` `sins` `sleep` `spend` `tale` `teach` `ten` `thousand` `threescore` `troubled` `turnest` `watch` `wisdom` `wither` `work` `world` `wrath` `years` `yesterday`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

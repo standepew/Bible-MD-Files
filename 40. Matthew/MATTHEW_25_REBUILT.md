@@ -199,6 +199,11 @@ Kingdom, heaven, virgins, lamps, bridegroom, wise, foolish, foolish, lamps, oil,
 
 **Sheep Goats:** blessed Father, inherit kingdom, least brethren, everlasting fire
 
+
+*AI Keywords for current event matching:*
+`angels` `blessed` `brethren` `bridegroom` `christs` `country` `divideth` `door` `everlasting` `faithful` `far` `father` `final` `fire` `five` `foolish` `glory` `goats` `inherit` `judgment` `kingdom` `lamps` `least` `oil` `parable` `servant` `sheep` `shepherd` `shut` `talents` `ten` `throne` `unprofitable` `vessels` `virgins` `wise`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

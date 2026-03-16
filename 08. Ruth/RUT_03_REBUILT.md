@@ -95,6 +95,11 @@ Naomi tells Ruth she will seek rest for her that it may be well with her. She no
 
 **Naomi's Counsel:** Sit still daughter matter fall man rest finished thing day
 
+
+*AI Keywords for current event matching:*
+`afraid` `anoint` `ate` `bade` `barley` `beginning` `blessed` `blessing` `boaz` `boazs` `city` `corn` `counsel` `daughter` `day` `departure` `drank` `drinking` `eating` `empty` `encounter` `fall` `fear` `feet` `finished` `floor` `followed` `generous` `gift` `handmaid` `heap` `heart` `hold` `instructions` `kindness` `kindred` `kinsman` `know` `known` `laid` `latter` `law` `lay` `lie` `lord` `maidens` `man` `mark` `matter` `measured` `measures` `men` `merry` `midnight` `morning` `mother` `naomi` `naomis` `near` `nearer` `night` `obedience` `one` `part` `people` `perform` `place` `plan` `poor` `preparation` `promise` `raiment` `redemption` `report` `require` `rest` `rich` `rose` `ruth` `ruths` `said` `seek` `sit` `six` `skirt` `softly` `still` `tarry` `tell` `thing` `threshingfloor` `turned` `uncover` `uncovered` `vail` `virtuous` `visit` `wash` `wast` `well` `winnoweth` `woman` `young`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

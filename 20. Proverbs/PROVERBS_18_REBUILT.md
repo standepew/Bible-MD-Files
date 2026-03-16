@@ -115,6 +115,11 @@ Desire, man, separated, seeketh, intermeddleth, wisdom, fool, delight, understan
 
 **Divine Protection:** name LORD strong tower, righteous runneth safe, obtain favour LORD
 
+
+*AI Keywords for current event matching:*
+`brook` `brother` `city` `closer` `death` `deep` `destruction` `divine` `favour` `flowing` `friend` `friendship` `harder` `haughty` `heart` `honour` `humility` `isolation` `life` `lord` `man` `mouth` `name` `obtain` `offended` `power` `pride` `protection` `rich` `righteous` `runneth` `safe` `speech` `sticketh` `strong` `tongue` `tower` `waters` `wealth` `wellspring` `wisdom` `words`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

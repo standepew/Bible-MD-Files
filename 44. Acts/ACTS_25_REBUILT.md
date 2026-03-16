@@ -149,6 +149,11 @@ Festus, province, three, days, ascended, Caesarea, Jerusalem, high, priest, chie
 
 **Paul Before Agrippa:** Agrippa Festus, hear man, morrow hear, morrow Agrippa, Bernice great, pomp entered, place hearing, chief captains, principal men, city Festus, commandment brought, Festus King, Agrippa present, multitude Jews, dealt Jerusalem, crying live, longer found, committed worthy, death appealed, Augustus determined, send certain, write lord, brought specially, king Agrippa, examination write, somewhat unreasonable, send prisoner, signify crimes, laid
 
+
+*AI Keywords for current event matching:*
+`able` `accusation` `accuse` `accused` `accusers` `affirmed` `agrippa` `alive` `answer` `answered` `appeal` `appealed` `appeals` `ascended` `asked` `augustus` `bernice` `besought` `bonds` `brought` `caesar` `caesarea` `caeser` `captains` `cause` `certain` `chief` `city` `commanded` `commandment` `committed` `complaints` `conferred` `council` `crime` `crimes` `crying` `days` `dead` `dealt` `death` `declared` `delay` `deliver` `depart` `desired` `desiring` `determined` `die` `doubted` `elders` `entered` `examination` `face` `favour` `felix` `festus` `found` `great` `grievous` `hear` `hearing` `here` `high` `informed` `jerusalem` `jesus` `jews` `judged` `judgment` `kept` `kill` `king` `knowest` `laid` `law` `laying` `left` `licence` `live` `longer` `lord` `man` `manner` `matters` `men` `morrow` `multitude` `neither` `next` `offended` `offender` `paul` `place` `pleasure` `pomp` `present` `priest` `priests` `principal` `prisoner` `prove` `province` `questions` `refuse` `reserved` `romans` `salute` `seat` `send` `shortly` `signify` `somewhat` `specially` `stand` `stood` `superstition` `supposed` `tarried` `temple` `ten` `therewith` `three` `unreasonable` `wait` `wickedness` `willing` `worthy` `write` `wrong`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

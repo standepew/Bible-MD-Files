@@ -62,6 +62,11 @@ After the Baal-Peor plague, God tells Moses and Eleazar to take a new census —
 - **Allocation of resources by both lot and proportion** → Numbers 26:54-56 — divine and human factors working together
 - **Decline of a tribe as consequence** → Simeon's decline from 59,300 to 22,200 — the Baal-Peor toll; Zimri was a Simeonite prince
 
+
+*AI Keywords for current event matching:*
+`21-3` `241-3` `census` `counting` `current` `davids` `events` `forbidden` `luke` `matching` `numbers` `people` `samuel`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS WITH CONTEXTUAL DEFINITIONS

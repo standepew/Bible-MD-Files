@@ -107,6 +107,11 @@ Rebuke, elder, intreat, father, younger, men, brethren, elder, women, mothers, y
 
 **Church Discipline:** Drink, water, wine, stomach, sake, infirmities, sins, open, beforehand, judgment, follow, good, works, manifest, beforehand, hidden
 
+
+*AI Keywords for current event matching:*
+`acceptable` `accusation` `adversary` `afflicted` `angels` `aside` `bear` `beforehand` `believeth` `blameless` `brethren` `brought` `busybodies` `cast` `charge` `charged` `children` `christ` `church` `continueth` `corn` `counted` `damnation` `day` `dead` `denied` `desolate` `diligently` `discipline` `doctrine` `double` `drink` `elder` `elders` `elect` `faith` `family` `father` `fear` `feet` `first` `follow` `followed` `god` `good` `guide` `hands` `hidden` `home` `honor` `honour` `house` `idle` `infidel` `infirmities` `intreat` `jesus` `judgment` `keep` `labour` `labourer` `lay` `learn` `liveth` `lodged` `lord` `man` `manifest` `marry` `men` `mothers` `muzzle` `nephews` `night` `number` `observe` `occasion` `open` `others` `ought` `parents` `partaker` `partiality` `piety` `pleasure` `prayers` `preferring` `provide` `pure` `purity` `qualifications` `rebuke` `receive` `refuse` `relieve` `relieved` `reported` `reproachfully` `requite` `reward` `rule` `saints` `sake` `satan` `scripture` `shew` `sin` `sins` `sisters` `speaking` `specially` `stomach` `strangers` `suddenly` `supplications` `support` `taken` `tattlers` `three` `threescore` `tread` `treatment` `trust` `turned` `two` `wandering` `wanton` `washed` `water` `widow` `widows` `wife` `wine` `witnesses` `woman` `women` `word` `work` `works` `worse` `worthy` `years` `younger`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

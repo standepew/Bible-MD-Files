@@ -115,6 +115,11 @@ Word, Lord, son, man, prophesy, prophets, Israel, prophesy, hear, word, Lord, Lo
 
 **Christ's Protection:** deliver people, tear pillows, deliver hand, see vanity
 
+
+*AI Keywords for current event matching:*
+`accomplish` `against` `assembly` `christs` `confirm` `deliver` `deserts` `divination` `divine` `enter` `false` `foolish` `foxes` `gaps` `hand` `judgment` `land` `lord` `lying` `people` `pillows` `prophets` `protection` `see` `spirit` `tear` `truth` `vanity` `word` `wrath`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

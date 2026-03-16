@@ -175,6 +175,11 @@ Psalm, David, fret, evildoers, envious, workers, iniquity, cut, grass, wither, g
 
 **Righteous Prosperity:** righteous better riches wicked, LORD uphold righteous, LORD knoweth days upright inheritance forever, righteous not forsaken seed begging bread, upright end peace
 
+
+*AI Keywords for current event matching:*
+`abundance` `bay` `begging` `better` `bread` `bring` `commit` `consume` `cut` `david` `days` `delight` `delighteth` `desires` `downfall` `dwell` `earth` `end` `enemies` `envious` `evildoers` `fat` `fed` `forever` `forsaken` `forth` `fret` `give` `god` `good` `grass` `great` `green` `heart` `herb` `inherit` `inheritance` `iniquity` `knoweth` `lambs` `land` `lord` `man` `meek` `off` `ordered` `passed` `patiently` `peace` `perish` `power` `prosperity` `psalm` `rest` `riches` `righteous` `seed` `smoke` `spreading` `steps` `tree` `trust` `uphold` `upright` `wait` `way` `wicked` `wickeds` `wither` `workers`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

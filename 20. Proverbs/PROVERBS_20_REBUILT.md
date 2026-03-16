@@ -127,6 +127,11 @@ Wine, mocker, strong, drink, raging, deceived, thereby, wise, fear, king, roarin
 
 **Wisdom and Understanding:** counsel heart deep water, man understanding draw, lips knowledge precious jewel
 
+
+*AI Keywords for current event matching:*
+`balance` `bread` `candle` `counsel` `deceit` `deceived` `deception` `deep` `divers` `divine` `draw` `drink` `ear` `eye` `false` `goings` `good` `hearing` `heart` `integrity` `jewel` `justice` `knowledge` `lips` `lord` `man` `measures` `mocker` `precious` `providence` `seeing` `spirit` `strong` `sweet` `thereby` `understand` `understanding` `walketh` `water` `weights` `wine` `wisdom` `wise`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

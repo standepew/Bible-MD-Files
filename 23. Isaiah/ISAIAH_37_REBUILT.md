@@ -103,6 +103,11 @@ Came, pass, king, Hezekiah, heard, rent, clothes, covered, sackcloth, house, LOR
 
 **Christ's Protection:** defend city, save sake, servant David, mine own sake, remnant escape
 
+
+*AI Keywords for current event matching:*
+`angel` `angelic` `blast` `christs` `city` `corpses` `david` `dead` `defend` `deliverance` `departed` `divine` `ear` `escape` `fall` `five` `fourscore` `hand` `hear` `hezekiah` `hundred` `incline` `know` `land` `lord` `mine` `prayed` `prayer` `protection` `remnant` `return` `rumour` `sake` `save` `send` `servant` `smote` `sword` `thousand` `victory` `words`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -129,6 +129,11 @@ Shewed, pure, river, water, life, clear, crystal, proceeding, throne, God, Lamb,
 
 **The Final Invitation:** Blessed, commandments, right, tree, life, enter, gates, city, dogs, sorcerers, whoremongers, murderers, idolaters, whosoever, loveth, maketh, lie, Jesus, sent, angel, testify, churches, root, offspring, David, bright, morning, star, Spirit, bride, Come, heareth, Come, athirst, whosoever, water, life, freely, testify, man, heareth, words, prophecy, book, add, things, God, add, plagues, take, away, words, book, prophecy, take, part, book, life, holy, city, things, book, testifieth, surely, quickly, Amen, Lord, Jesus, grace, Lord, Jesus, Christ, Amen
 
+
+*AI Keywords for current event matching:*
+`add` `alpha` `amen` `angel` `athirst` `away` `bare` `beginning` `behold` `blessed` `book` `brethren` `bride` `bright` `candle` `christ` `churches` `city` `clear` `come` `commandments` `crystal` `curse` `david` `dogs` `either` `end` `enter` `face` `faithful` `feet` `fell` `fellowservant` `filthy` `final` `first` `foreheads` `forever` `freely` `fruit` `fruits` `gates` `god` `grace` `hand` `healing` `heard` `heareth` `holy` `idolaters` `invitation` `jesus` `john` `keep` `keepeth` `lamb` `last` `leaves` `lie` `life` `light` `lord` `loveth` `maketh` `man` `manner` `midst` `month` `morning` `murderers` `name` `nations` `need` `night` `offspring` `omega` `part` `plagues` `proceeding` `promise` `prophecy` `prophets` `pure` `quickly` `reign` `reward` `right` `righteous` `river` `root` `sayings` `seal` `sent` `servants` `serve` `shew` `shewed` `shortly` `side` `sorcerers` `spirit` `star` `street` `sun` `surely` `take` `testifieth` `testify` `things` `throne` `time` `tree` `true` `twelve` `unjust` `warning` `water` `whoremongers` `whosoever` `words` `work` `worship` `yielded`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

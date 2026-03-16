@@ -105,6 +105,11 @@ Leaving, principles, doctrine, Christ, perfection, foundation, repentance, dead,
 
 **Hope as Anchor:** God, promise, Abraham, swear, greater, sware, himself, blessing, bless, multiplying, multiply, patiently, endured, obtained, promise, men, swear, greater, oath, confirmation, strife, God, willing, abundantly, heirs, promise, immutability, counsel, confirmed, oath, two, immutable, things, impossible, God, lie, strong, consolation, fled, refuge, lay, hold, hope, set, anchor, soul, sure, stedfast, entereth, veil, forerunner, entered, Jesus, high, priest, order, Melchisedec
 
+
+*AI Keywords for current event matching:*
+`abraham` `abundantly` `accompany` `afresh` `against` `anchor` `apostasy` `assurance` `away` `baptisms` `beareth` `beloved` `better` `bless` `blessing` `briers` `bringeth` `burned` `christ` `confirmation` `confirmed` `consolation` `counsel` `crucify` `cursing` `dead` `desire` `diligence` `doctrine` `dressed` `drinketh` `earth` `end` `endured` `enlightened` `entered` `entereth` `eternal` `example` `faith` `fall` `fled` `followers` `forerunner` `forget` `foundation` `full` `ghost` `gift` `god` `gods` `going` `good` `greater` `hands` `heavenly` `heirs` `herbs` `high` `himself` `hold` `holy` `hope` `immutability` `immutable` `impossible` `inherit` `jesus` `judgment` `labour` `lay` `laying` `leaving` `lie` `love` `melchisedec` `men` `minister` `ministered` `multiply` `multiplying` `name` `nigh` `oath` `obtained` `open` `order` `partakers` `patience` `patiently` `perfection` `permit` `persuaded` `powers` `priest` `principles` `promise` `promises` `rain` `receiveth` `refuge` `rejected` `renew` `repentance` `resurrection` `saints` `salvation` `set` `shame` `shewed` `slothful` `son` `soul` `speak` `stedfast` `strife` `strong` `sure` `sware` `swear` `tasted` `things` `thorns` `two` `unrighteous` `veil` `warning` `willing` `word` `work` `works` `world`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

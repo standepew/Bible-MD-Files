@@ -127,6 +127,11 @@ Spoken, offended, synagogues, time, cometh, killeth, God, service, known, Father
 
 **I Have Overcome the World:** now believe, hour cometh, scattered man, leave alone, Father alone, spoken peace, tribulation, good cheer, overcome world
 
+
+*AI Keywords for current event matching:*
+`again` `alone` `anguish` `ask` `asked` `believe` `born` `came` `cheer` `child` `come` `cometh` `comforter` `delivered` `depart` `desirous` `disciples` `expedient` `father` `filled` `forth` `full` `give` `glorify` `god` `good` `guide` `hear` `heart` `holy` `hour` `joy` `judged` `judgment` `killeth` `knowest` `known` `lament` `leave` `little` `man` `mine` `name` `needest` `nothing` `now` `offended` `overcome` `peace` `plain` `plainly` `prince` `proverb` `proverbs` `receive` `rejoice` `remember` `reprove` `righteousness` `scattered` `see` `seen` `send` `shew` `sin` `sorrow` `sorrowful` `speak` `speaking` `spirit` `spoken` `synagogues` `taketh` `things` `time` `told` `travail` `tribulation` `truth` `turned` `weep` `while` `work` `world`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

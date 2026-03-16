@@ -87,6 +87,11 @@ Naboth Jezreelite vineyard, Jezreel, palace Ahab king Samaria. Ahab Naboth, vine
 
 **Partial Repentance:** Ahab words rent clothes sackcloth flesh fast lay sackcloth went softly, word LORD Elijah Tishbite Ahab humble LORD evil days son days evil house
 
+
+*AI Keywords for current event matching:*
+`ahab` `ahabs` `ahijah` `air` `amorites` `anger` `arise` `ate` `baasha` `bed` `belial` `better` `blaspheme` `blood` `bread` `carried` `carry` `cast` `children` `city` `clothes` `confrontation` `conspiracy` `cut` `days` `dead` `die` `died` `dies` `displeased` `divine` `dogs` `eat` `elders` `elijah` `elijahs` `enemy` `evil` `face` `false` `fast` `fathers` `field` `flesh` `forbid` `found` `fowls` `garden` `give` `god` `govern` `heavy` `herbs` `high` `house` `humble` `idols` `inhabitants` `inheritance` `israel` `jeroboam` `jezebel` `jezebels` `jezreel` `jezreelite` `judgment` `killed` `king` `kingdom` `lay` `letters` `lick` `licked` `lord` `men` `merry` `money` `naboth` `naboths` `nebat` `nobles` `palace` `partial` `people` `pisseth` `possess` `possession` `posterity` `provocation` `provoked` `refused` `rent` `repentance` `rose` `sackcloth` `sad` `samaria` `seal` `shut` `sight` `sin` `softly` `sold` `son` `sons` `spirit` `spoken` `stirred` `stone` `stoned` `tishbite` `trial` `turned` `vineyard` `wall` `went` `wickedness` `wife` `witness` `word` `words`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -175,6 +175,11 @@ Bless, LORD, soul, LORD, GOD, great, clothed, honour, majesty, coverest, light, 
 
 **God's Glory:** manifold works wisdom made earth full riches, glory LORD endure rejoice works, sing LORD live sing praise GOD
 
+
+*AI Keywords for current event matching:*
+`appointed` `asses` `beast` `beasts` `bless` `cattle` `causeth` `chambers` `clothed` `coverest` `creation` `creep` `curtain` `darkness` `divine` `drink` `earth` `endure` `field` `forest` `foundations` `fruit` `full` `garment` `give` `glory` `god` `gods` `going` `grass` `great` `grow` `heavens` `herb` `hills` `honour` `know` `laid` `light` `live` `lord` `made` `majesty` `makest` `man` `manifold` `moon` `natural` `night` `order` `praise` `providence` `quench` `rejoice` `removed` `riches` `run` `satisfied` `seasons` `sendeth` `service` `sing` `soul` `springs` `stretchest` `sun` `thirst` `valleys` `watereth` `wild` `wisdom` `works`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

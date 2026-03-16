@@ -115,6 +115,11 @@ Word, Lord, son, man, lamentation, Tyrus, Tyrus, situate, entry, sea, merchant, 
 
 **Divine Ruin:** east wind broken, fall midst seas, suburbs shake, never any more
 
+
+*AI Keywords for current event matching:*
+`any` `beauty` `boards` `broken` `christs` `commercial` `divine` `east` `enriched` `entry` `fall` `glorious` `glory` `isles` `kings` `lament` `lamentation` `many` `merchant` `merchants` `midst` `multitude` `never` `people` `perfect` `perfected` `pride` `replenished` `riches` `ruin` `seas` `shake` `ship` `ships` `situate` `suburbs` `tarshish` `traded` `tyrus` `wind`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

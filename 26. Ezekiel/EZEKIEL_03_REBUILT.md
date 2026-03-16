@@ -115,6 +115,11 @@ Said, son, man, eat, findest, roll, speak, house, Israel, opened, mouth, caused,
 
 **Divine Glory:** glory LORD, stood plain, fell face, spirit entered
 
+
+*AI Keywords for current event matching:*
+`adamant` `blood` `christs` `delivered` `divine` `ears` `eat` `entered` `face` `fear` `fell` `flint` `give` `glory` `hear` `heart` `honey` `house` `israel` `lord` `plain` `prophetic` `rebellious` `receive` `require` `responsibility` `roll` `soul` `spirit` `stood` `strong` `sweetness` `warning` `watchman` `word`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

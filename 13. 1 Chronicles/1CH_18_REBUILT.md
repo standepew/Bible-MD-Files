@@ -93,6 +93,11 @@ David, smote, Philistines, subdued, took, Gath, towns, hand, Philistines. Smote,
 
 **Temple Treasures:** David took shields gold servants Hadarezer brought Jerusalem, Tibhath Chun cities Hadarezer David brass much brass Solomon brasen sea pillars vessels brass, David dediated LORD silver gold brought nations Edom Moab children Ammon Philistines Amalek
 
+
+*AI Keywords for current event matching:*
+`abimelech` `abishai` `administrative` `ahiathar` `ahilud` `ahitub` `amalek` `ammon` `benaiah` `brasen` `brass` `brought` `campaigns` `chariot` `chariots` `cherethites` `chiefs` `children` `chun` `cities` `conquest` `damascus` `david` `dediated` `defeats` `dominion` `edom` `edomites` `eighteen` `euphrates` `executed` `footmen` `garrisons` `gath` `gifts` `gold` `hadarezer` `hamath` `hand` `heard` `help` `horsemen` `horses` `host` `hundred` `israel` `jehoiada` `jehoshaphat` `jerusalem` `joab` `judgment` `justice` `king` `lord` `men` `moab` `moabite` `moabites` `much` `nations` `organization` `pelethites` `people` `philistine` `philistines` `pillars` `preserved` `priests` `recorder` `reigned` `reserved` `river` `salt` `scribe` `sea` `servants` `seven` `shavsha` `shields` `silver` `slew` `smitten` `smote` `solomon` `son` `sons` `stablish` `subdued` `syria` `syrian` `syrians` `temple` `thoughed` `thousand` `tibhath` `took` `tou` `towns` `treasures` `twenty` `two` `valley` `vessels` `war` `went` `whithersoever` `zadok` `zeruiah` `zobah`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

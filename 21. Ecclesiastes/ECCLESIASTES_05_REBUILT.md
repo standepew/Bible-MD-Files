@@ -139,6 +139,11 @@ Keep, foot, goest, house, God, ready, hear, give, sacrifice, fools, consider, ev
 
 **Divine Justice:** higher than highest, oppression poor violent, God answereth joy heart
 
+
+*AI Keywords for current event matching:*
+`abundance` `answereth` `better` `contentment` `defer` `divine` `foot` `give` `god` `hasty` `hear` `heart` `higher` `highest` `house` `joy` `justice` `keep` `labouring` `loveth` `man` `mouth` `oppression` `pay` `poor` `promises` `rash` `ready` `reverence` `rich` `sacrifice` `satisfied` `silver` `sleep` `suffer` `sweet` `utter` `violent` `vow` `vowest` `vows` `wealth` `worship`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -127,6 +127,11 @@ Hear, children, instruction, father, attend, know, understanding, give, good, do
 
 **Heart Guard:** Keep heart diligence, issues life, remove foot evil
 
+
+*AI Keywords for current event matching:*
+`commandments` `crown` `darkness` `diligence` `doctrine` `evil` `father` `fathers` `foot` `get` `glory` `good` `guard` `heart` `instruction` `issues` `keep` `life` `light` `path` `paths` `principal` `pursuit` `remove` `right` `righteousness` `shining` `thing` `understanding` `way` `wicked` `wisdom` `words`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

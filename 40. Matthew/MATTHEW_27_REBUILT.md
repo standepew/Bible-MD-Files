@@ -271,6 +271,11 @@ Morning, chief, priests, elders, counsel, Jesus, death, bound, led, delivered, P
 
 **Guard at Sepulchre:** three days, sepulchre sure, sealing stone, setting watch
 
+
+*AI Keywords for current event matching:*
+`arimathæa` `burial` `christs` `clean` `cross` `crown` `crucifixion` `cyrene` `days` `death` `eli` `garments` `golgotha` `great` `guard` `jesus` `joseph` `linen` `new` `parted` `pieces` `pilate` `pontius` `scourged` `sealing` `sepulchre` `setting` `simon` `stone` `sure` `thirty` `thorns` `three` `tomb` `watch`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

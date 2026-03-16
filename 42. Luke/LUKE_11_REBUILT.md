@@ -239,6 +239,11 @@ Praying, place, ceased, disciple, Lord, teach, pray, John, taught, disciples, pr
 
 **Woes to the Pharisees and Lawyers:** cup platter, uppermost seats, graves appear, sepulchres prophets, blood Abel, key knowledge
 
+
+*AI Keywords for current event matching:*
+`abel` `appear` `ask` `beelzebub` `blood` `body` `bread` `candlestick` `chief` `come` `cup` `daily` `divided` `evil` `eye` `father` `finger` `forgive` `friend` `full` `generation` `gifts` `god` `good` `graves` `greater` `heaven` `heed` `holy` `importunity` `jesus` `jonah` `jonas` `key` `kingdom` `knowledge` `lawyers` `light` `lords` `man` `men` `midnight` `nineve` `persistence` `pharisees` `platter` `prayer` `prophets` `queen` `seats` `seek` `sepulchres` `seven` `sign` `single` `sins` `south` `spirit` `spirits` `strong` `take` `temptation` `uppermost` `woes`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -127,6 +127,11 @@ Psalm, David, wilderness, Judah, GOD, GOD, early, seek, soul, thirsteth, flesh, 
 
 **Divine Protection:** help shadow wings rejoice, right hand upholdeth, lower parts earth
 
+
+*AI Keywords for current event matching:*
+`better` `david` `divine` `dry` `early` `earth` `fatness` `flesh` `glory` `god` `gods` `hand` `help` `joyful` `judah` `land` `life` `lips` `longeth` `lovingkindness` `lower` `marrow` `mouth` `parts` `power` `praise` `protection` `psalm` `rejoice` `right` `sanctuary` `satisfaction` `satisfied` `see` `seek` `seen` `shadow` `soul` `spiritual` `thirst` `thirsteth` `thirsty` `upholdeth` `water` `wilderness` `wings`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -115,6 +115,11 @@ Chief, Musician, Al, taschith, Michtam, David, fled, Saul, cave, merciful, GOD, 
 
 **Fixed Heart:** heart fixed GOD heart fixed sing give praise, Awake glory awake psaltery harp, praise Lord people sing nations
 
+
+*AI Keywords for current event matching:*
+`awake` `calamities` `cave` `chief` `clouds` `cry` `david` `divine` `early` `earth` `exaltation` `exalted` `fixed` `fled` `give` `glory` `god` `gods` `great` `harp` `heart` `heaven` `heavens` `high` `lord` `merciful` `mercy` `michtam` `musician` `nations` `overpast` `people` `performeth` `praise` `psaltery` `refuge` `reproach` `saul` `save` `send` `shadow` `sing` `soul` `swallow` `taschith` `trust` `trusteth` `truth` `wings`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

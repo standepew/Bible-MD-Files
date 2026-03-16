@@ -91,6 +91,11 @@ Masters, servants, just, equal, knowing, Master, heaven, Continue, prayer, watch
 
 **Final Greetings:** Onesimus, faithful, beloved, brother, make, known, Aristarchus, fellowprisoner, salute, Marcus, sister, son, Barnabas, received, commandments, come, receive, Jesus, Justus, circumcision, fellowworkers, kingdom, God, comfort, Epaphras, servant, Christ, salute, labouring, fervently, prayers, stand, perfect, complete, will, God, bear, record, zeal, Laodicea, Hierapolis, Luke, beloved, physician, Demas, greet, Salute, brethren, Laodicea, Nymphas, church, house, epistle, read, church, Laodiceans, likewise, read, epistle, Laodicea, Archippus, Take, heed, ministry, received, Lord, fulfil, salutation, hand, Paul, Remember, bonds, Grace, Amen
 
+
+*AI Keywords for current event matching:*
+`amen` `answer` `archippus` `aristarchus` `barnabas` `bear` `beloved` `bonds` `brethren` `brother` `christ` `church` `circumcision` `come` `comfort` `commandments` `complete` `continue` `declare` `demas` `door` `epaphras` `epistle` `equal` `estate` `faithful` `fellowprisoner` `fellowservant` `fellowworkers` `fervently` `final` `fulfil` `god` `grace` `greet` `greetings` `hand` `hearts` `heaven` `heed` `hierapolis` `house` `jesus` `justus` `kingdom` `know` `knowing` `known` `labouring` `laodicea` `laodiceans` `likewise` `lord` `luke` `make` `manifest` `marcus` `master` `masters` `minister` `ministry` `mystery` `nymphas` `onesimus` `open` `ought` `paul` `perfect` `physician` `prayer` `prayers` `praying` `purpose` `read` `receive` `received` `record` `redeeming` `remember` `salt` `salutation` `salute` `seasoned` `sent` `servant` `servants` `sister` `son` `speak` `speech` `stand` `take` `thanksgiving` `time` `tychicus` `utterance` `walk` `watch` `wisdom` `without` `zeal`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

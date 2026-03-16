@@ -105,6 +105,11 @@ Finally, brethren, pray, word, Lord, free, course, glorified, delivered, unreaso
 
 **Final Benediction:** Lord, peace, give, peace, means, Lord, salutation, Paul, hand, token, epistle, write, grace, Lord, Jesus, Christ, Amen
 
+
+*AI Keywords for current event matching:*
+`admonish` `amen` `ashamed` `behaved` `benediction` `bread` `brethren` `brother` `busybodies` `chargeable` `christ` `command` `company` `confidence` `course` `day` `delivered` `discipline` `disorderly` `doing` `eat` `enemy` `ensample` `epistle` `evil` `exhort` `faith` `faithful` `final` `finally` `follow` `free` `give` `glorified` `grace` `hand` `jesus` `keep` `labour` `lord` `man` `means` `men` `ministry` `night` `note` `nought` `obey` `paul` `peace` `power` `pray` `prayer` `quietness` `received` `salutation` `stablish` `token` `touching` `tradition` `travail` `unreasonable` `weary` `well` `wicked` `withdraw` `word` `work` `working` `write` `wrought`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

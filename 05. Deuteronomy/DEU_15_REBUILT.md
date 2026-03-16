@@ -116,6 +116,11 @@ Moses commands the seven-year release: at the end of every seven years, creditor
 
 **Blemished Animals:** Blemish therein, lame blind, ill blemish, not sacrifice LORD, eat within gates, unclean clean alike, roebuck hart, not eat blood, pour ground water
 
+
+*AI Keywords for current event matching:*
+`alike` `animals` `attitude` `aul` `away` `beware` `blemish` `blemished` `bless` `blessing` `blind` `blood` `bondman` `borrow` `brother` `bullock` `carefully` `cease` `chooses` `clean` `command` `commandments` `commands` `creditor` `cry` `door` `double` `ear` `eat` `economic` `egypt` `empty` `end` `ever` `evil` `exact` `eye` `firstling` `flock` `floor` `foreigner` `free` `furnish` `gates` `generosity` `give` `givest` `giving` `greatly` `grieved` `ground` `hand` `hard` `harden` `hart` `hearken` `heart` `hebrew` `hired` `house` `household` `ill` `lame` `land` `lend` `liberally` `likewise` `lord` `lords` `love` `maidservant` `make` `males` `man` `many` `motivation` `nations` `neighbor` `never` `observe` `open` `place` `poor` `pour` `puttest` `redeemed` `redemption` `regulations` `reign` `release` `remember` `roebuck` `sacrifice` `sanctify` `save` `seem` `servant` `servants` `serve` `servitude` `seven` `seven-year` `seventh` `shear` `sheep` `shut` `six` `sold` `sufficient` `surely` `therein` `thing` `unclean` `voluntary` `water` `well` `wicked` `wide` `winepress` `within` `woman` `work` `works` `year` `years`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

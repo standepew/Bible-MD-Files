@@ -103,6 +103,11 @@ Displeased, Jonah, exceedingly, angry, prayed, LORD, pray, LORD, saying, country
 
 **Universal Salvation:** slow to anger, great kindness, repentest evil, cannot discern
 
+
+*AI Keywords for current event matching:*
+`anger` `angry` `cannot` `cattle` `christs` `city` `compassion` `discern` `displeased` `divine` `east` `evil` `exceedingly` `gentiles` `god` `gods` `gourd` `gracious` `great` `head` `kindness` `lesson` `merciful` `mercy` `much` `nineveh` `object` `prepared` `repentest` `salvation` `shadow` `sixscore` `slow` `spare` `thousand` `universal` `vehement` `wind` `worm`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

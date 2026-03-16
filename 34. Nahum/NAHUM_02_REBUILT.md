@@ -127,6 +127,11 @@ Dasheth, pieces, face, keep, munition, watch, way, loins, strong, fortify, power
 
 **Complete Destruction:** empty void waste, heart melteth, knees smite, voice messengers heard
 
+
+*AI Keywords for current event matching:*
+`chariots` `christs` `complete` `conquest` `dasheth` `defeat` `destruction` `devour` `divine` `dwelling` `empty` `flaming` `fortify` `heard` `heart` `judgment` `keep` `knees` `lightnings` `lion` `lions` `melteth` `messengers` `mighty` `munition` `nineveh` `old` `pieces` `power` `rage` `run` `scarlet` `shield` `smite` `torches` `valiant` `voice` `void` `walked` `waste` `whelp` `young`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -103,6 +103,11 @@ Chief, Musician, Psalm, Song, David, Praise, waiteth, GOD, Sion, vow, performed,
 
 **Divine Care:** makest outgoings morning evening rejoice, dwell uttermost parts afraid tokens, pastures clothed flocks valleys covered corn shout joy sing
 
+
+*AI Keywords for current event matching:*
+`abundance` `abundantly` `afraid` `approach` `blessed` `blessest` `blessings` `care` `chief` `choosest` `clothed` `come` `corn` `courts` `covered` `crowned` `david` `divine` `drop` `dwell` `earth` `earths` `enrichest` `evening` `fast` `fatness` `flesh` `flocks` `full` `furrows` `girded` `god` `gods` `goodness` `greatly` `hearest` `iniquities` `joy` `makest` `man` `morning` `mountains` `musician` `natural` `noise` `outgoings` `parts` `pastures` `paths` `people` `performed` `power` `praise` `prayer` `preparest` `prevail` `provided` `provision` `psalm` `purge` `rejoice` `ridges` `river` `seas` `setteth` `settlest` `shout` `showers` `sing` `sion` `soft` `song` `springing` `stilleth` `strength` `tokens` `transgressions` `tumult` `uttermost` `valleys` `visitest` `vow` `waiteth` `water` `waterest` `waves` `year`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

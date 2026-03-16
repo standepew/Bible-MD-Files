@@ -103,6 +103,11 @@ Nebuchadnezzar, king, people, nations, languages, dwell, earth, Peace, multiplie
 
 **Christ's Restoration:** understanding returned, blessed most High, kingdom established, excellent majesty
 
+
+*AI Keywords for current event matching:*
+`basest` `beast` `blessed` `christs` `decree` `demand` `divine` `drive` `eat` `established` `everlasting` `excellent` `giveth` `grass` `heart` `heavenly` `heavens` `high` `holy` `humiliation` `kingdom` `know` `living` `majesty` `men` `most` `ones` `oxen` `restoration` `returned` `rule` `ruleth` `seven` `sovereignty` `times` `understanding` `watchers` `whomsoever`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

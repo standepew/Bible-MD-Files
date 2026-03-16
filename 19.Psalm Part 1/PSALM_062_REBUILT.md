@@ -127,6 +127,11 @@ Chief, Musician, Jeduthun, Psalm, David, Truly, soul, waiteth, GOD, salvation, r
 
 **Divine Power:** GOD spoken once heard power belongeth GOD, Lord belongeth mercy render man work
 
+
+*AI Keywords for current event matching:*
+`balance` `belongeth` `defence` `degree` `divine` `expectation` `god` `greatly` `heard` `heart` `high` `human` `increase` `lie` `lighter` `lord` `low` `man` `men` `mercy` `moved` `once` `oppression` `power` `refuge` `render` `riches` `robbery` `rock` `salvation` `soul` `spoken` `strength` `truly` `trust` `vain` `vanity` `wait` `waiteth` `waits` `work`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -151,6 +151,11 @@ Psalm, David, mighty, LORD, glory, strength, due, name, worship, beauty, holines
 
 **Peace for His People:** LORD give strength people, LORD bless people peace, strength people peace
 
+
+*AI Keywords for current event matching:*
+`beauty` `bless` `breaketh` `calve` `cedars` `david` `discovereth` `divideth` `divine` `due` `fire` `flames` `flood` `forests` `forever` `full` `give` `glory` `god` `gods` `hinds` `holiness` `kadesh` `king` `lebanon` `lord` `majesty` `maketh` `mighty` `name` `peace` `people` `power` `powerful` `psalm` `shaketh` `sitteth` `speak` `strength` `temple` `thundereth` `voice` `waters` `wilderness` `worship`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

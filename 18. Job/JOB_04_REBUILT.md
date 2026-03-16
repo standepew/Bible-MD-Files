@@ -127,6 +127,11 @@ Eliphaz, Temanite, answered, commune, grieved, withhold, speaking. Instructed, s
 
 **Human Frailty:** Fear trembling bones shake, spirit passed face hair flesh stood, stood discern form image eyes silence voice, mortal man just GOD man pure maker, trust servants angels charged folly
 
+
+*AI Keywords for current event matching:*
+`angels` `answered` `blast` `bones` `breath` `broken` `charged` `come` `commune` `confidence` `consumed` `counsel` `cut` `deep` `discern` `divine` `ear` `eliphaz` `eliphazs` `eyes` `face` `faint` `fallen` `falling` `fear` `feeble` `fierce` `flesh` `folly` `form` `frailty` `god` `grieved` `hair` `hands` `hope` `human` `image` `iniquity` `innocent` `instructed` `knees` `lack` `lion` `lions` `maker` `man` `men` `mortal` `night` `nostrils` `off` `old` `passed` `perish` `perished` `plow` `prey` `principle` `pure` `reap` `received` `remember` `retribution` `righteous` `roaring` `scattered` `secretly` `servants` `shake` `silence` `sleep` `sow` `speaking` `spirit` `stood` `stout` `strengthened` `teeth` `temanite` `thing` `thoughts` `trembling` `troubled` `trust` `upheld` `uprightness` `vision` `visions` `voice` `ways` `weak` `whelps` `wickedness` `withhold` `words` `young`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

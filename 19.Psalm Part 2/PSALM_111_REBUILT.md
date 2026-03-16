@@ -151,6 +151,11 @@ Praise, LORD, praise, LORD, whole, heart, assembly, upright, congregation, works
 
 **Wisdom Foundation:** fear LORD beginning wisdom, good understanding commandments, praise endureth forever
 
+
+*AI Keywords for current event matching:*
+`beginning` `commanded` `commandments` `covenant` `divine` `endureth` `faithfulness` `fast` `fear` `forever` `foundation` `glorious` `gods` `good` `great` `hands` `holy` `honourable` `judgment` `lord` `made` `mindful` `name` `people` `pleasure` `power` `praise` `redemption` `remembered` `reverend` `righteousness` `sent` `shewed` `sought` `stand` `sure` `truth` `understanding` `uprightness` `verity` `wisdom` `wonderful` `work` `works`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

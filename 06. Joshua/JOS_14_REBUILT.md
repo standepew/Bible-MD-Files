@@ -78,6 +78,11 @@ Eleazar the priest, Joshua, and tribal heads distribute the Canaan land inherita
 
 **Inheritance Granted:** Joshua blessed, Caleb son Jephunneh Hebron inheritance, Hebron inheritance Caleb son Jephunneh Kenezite day, wholly followed LORD God Israel, Hebron Kirjath arba, Arba great man Anakims, land rest war
 
+
+*AI Keywords for current event matching:*
+`alive` `anakims` `arba` `blessed` `brethren` `brought` `caleb` `calebs` `canaan` `cattle` `challenge` `children` `cities` `come` `commanded` `concerning` `countries` `day` `distributed` `distribution` `divided` `drive` `dwell` `eleazar` `ephraim` `espy` `faithful` `fathers` `feet` `fenced` `five` `followed` `forever` `forty` `fourscore` `gave` `gilgal` `god` `granted` `great` `half` `hand` `heads` `heardest` `heart` `hebron` `inheritance` `inherited` `israel` `jephunneh` `jordan` `joseph` `joshua` `judah` `kadesh-barnea` `kenezite` `kept` `kirjath` `knowest` `land` `levites` `lord` `lot` `man` `manasseh` `melt` `moses` `mountain` `nine` `nun` `old` `part` `people` `priest` `request` `rest` `said` `sent` `servant` `son` `spake` `strength` `strong` `substance` `suburbs` `sware` `thing` `tribe` `tribes` `trodden` `two` `waiting` `wandered` `war` `wholly` `wilderness` `word` `years`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

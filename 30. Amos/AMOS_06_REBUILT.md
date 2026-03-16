@@ -103,6 +103,11 @@ Woe, ease, Zion, trust, mountain, Samaria, named, chief, nations, house, Israel,
 
 **Final Destruction:** raise nation, afflict entering, smite great house, little house clefts
 
+
+*AI Keywords for current event matching:*
+`afflict` `beds` `bowls` `chief` `christs` `clefts` `complacency` `couches` `day` `destruction` `divine` `drink` `ease` `eat` `entering` `evil` `excellency` `false` `final` `great` `horns` `house` `ivory` `jacob` `judgment` `lambs` `little` `mountain` `named` `nation` `nations` `nought` `pride` `put` `raise` `rejoice` `seat` `security` `smite` `stretch` `taken` `thing` `trust` `violence` `wine` `woe`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

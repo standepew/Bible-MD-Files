@@ -151,6 +151,11 @@ Psalm, David, plead, cause, LORD, strive, fight, against, shield, buckler, stand
 
 **Thanksgiving for Deliverance:** soul joyful LORD rejoice salvation bones say LORD deliverest poor strong, give thanks great congregation praise much people, tongue speak righteousness praise day
 
+
+*AI Keywords for current event matching:*
+`aha` `angel` `bones` `brought` `buckler` `catch` `cause` `chaff` `charge` `chase` `confounded` `confusion` `congregation` `dark` `david` `day` `deceitful` `deliverance` `deliverest` `destruction` `devise` `divine` `draw` `evil` `eye` `fall` `false` `fight` `give` `god` `good` `great` `help` `hid` `hurt` `joyful` `judge` `justice` `knew` `laid` `land` `lord` `matters` `mouth` `much` `net` `opened` `peace` `people` `persecute` `plead` `poor` `praise` `prayer` `psalm` `put` `quiet` `rejoice` `rewarded` `righteousness` `rise` `said` `salvation` `say` `seek` `seen` `shame` `shield` `slippery` `soul` `speak` `spear` `spoiling` `stand` `stop` `strive` `strong` `thanks` `thanksgiving` `tongue` `turned` `unawares` `vengeance` `way` `wide` `wind` `witnesses`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

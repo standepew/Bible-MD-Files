@@ -52,6 +52,11 @@ Balak brings Balaam to the high places of Baal for a view of Israel's outermost 
 - **Israel dwelling apart / the separated people** → Numbers 23:9 — Deuteronomy 32:8; Ephesians 2:12-13
 - **The lion that does not lie down till it has eaten** → Numbers 23:24 — Genesis 49:9; Revelation 5:5
 
+
+*AI Keywords for current event matching:*
+`attempts` `current` `curse` `events` `failing` `genesis` `gods` `isaiah` `matching` `numbers` `people` `romans`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS WITH CONTEXTUAL DEFINITIONS

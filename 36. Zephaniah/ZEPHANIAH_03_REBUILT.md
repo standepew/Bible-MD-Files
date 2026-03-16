@@ -139,6 +139,11 @@ Woe, filthy, polluted, oppressing, city, obeyed, voice, received, correction, tr
 
 **Restoration and Joy:** sing daughter Zion, taken away judgments, mighty save, rejoice joy
 
+
+*AI Keywords for current event matching:*
+`anger` `away` `captivity` `christs` `corrupted` `corruption` `daughter` `doings` `faithfulness` `fierce` `filthy` `final` `gods` `jerusalems` `joy` `judgment` `judgments` `knoweth` `language` `law` `lions` `lord` `midst` `mighty` `obeyed` `polluted` `pure` `rejoice` `restoration` `roaring` `sanctuary` `save` `shame` `sing` `taken` `turn` `unjust` `violence` `wait` `zion`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

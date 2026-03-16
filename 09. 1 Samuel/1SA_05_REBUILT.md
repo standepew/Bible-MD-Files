@@ -83,6 +83,11 @@ The Philistines took the ark of God from Eben-ezer to Ashdod, bringing it into D
 
 **Ekron Plagued:** ark God Ekron ark God Ekron Ekronites cried ark God Israel slay people, sent gathered lords Philistines away ark God Israel place slay people, dead destruction city hand God heavy, died smote emerods cry city heaven
 
+
+*AI Keywords for current event matching:*
+`abide` `ark` `ashdod` `away` `captured` `carried` `city` `coasts` `cried` `cry` `cut` `dagon` `day` `dead` `defeated` `destroyed` `destruction` `died` `early` `earth` `eben-ezer` `ekron` `ekronites` `emerods` `face` `fallen` `gath` `gathered` `god` `great` `ground` `hand` `hands` `head` `heaven` `heavy` `house` `israel` `left` `lord` `lords` `men` `morning` `morrow` `moved` `palms` `parts` `people` `philistines` `place` `plagued` `priests` `secret` `sent` `set` `slay` `small` `smote` `sore` `stump` `thither` `threshold` `tread`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

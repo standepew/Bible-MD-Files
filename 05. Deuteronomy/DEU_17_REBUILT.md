@@ -121,6 +121,11 @@ Moses commands that sacrifices must be without blemish, for defective offerings 
 
 **King's Law Requirements:** Sit upon throne, kingdom, write copy, law in book, before priests Levites, with him, read therein, all days of life, learn to fear, LORD his God, keep all words, law and statutes, do them, heart not lifted up, above brethren, turn not aside, commandment, right hand left hand, prolong days, kingdom, children, midst Israel
 
+
+*AI Keywords for current event matching:*
+`abomination` `above` `according` `afterward` `among` `any` `arise` `aside` `away` `between` `blemish` `blood` `book` `brethren` `bring` `brother` `cases` `cause` `certain` `children` `choose` `chooses` `come` `commanded` `commandment` `controversy` `copy` `covenant` `days` `death` `decline` `die` `difficult` `diligently` `disobedience` `dwell` `egypt` `enquire` `enquired` `evil` `evilfavouredness` `fear` `first` `forth` `found` `gates` `get` `god` `gods` `gold` `greatly` `hand` `hands` `hard` `hath` `hear` `heard` `hearken` `heart` `heaven` `horses` `host` `idolatry` `inform` `israel` `judge` `judgment` `keep` `king` `kingdom` `kings` `kingship` `land` `law` `learn` `left` `levites` `life` `lifted` `like` `lord` `man` `matter` `midst` `minister` `moon` `mouth` `multiply` `nations` `observe` `one` `people` `place` `plea` `possess` `presumptuous` `presumptuously` `priest` `priests` `prolong` `punishment` `put` `read` `regulations` `requirements` `restrictions` `return` `right` `royal` `sacrifice` `sacrificial` `said` `say` `sentence` `served` `set` `show` `silver` `sit` `standards` `statutes` `stone` `stones` `stranger` `stroke` `sun` `teach` `tell` `therein` `three` `throne` `till` `told` `too` `transgressing` `true` `turn` `two` `way` `wickedness` `wise` `within` `witness` `witnesses` `wives` `woman` `words` `worthy` `write` `wrought`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

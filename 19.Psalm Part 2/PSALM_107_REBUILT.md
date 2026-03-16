@@ -187,6 +187,11 @@ Give, thanks, LORD, good, mercy, endureth, redeemed, LORD, redeemed, hand, enemy
 
 **God's Lovingkindness:** satisfieth longing soul filleth hungry soul goodness, brought darkness shadow death brake bands sunder, maketh storm calm waves still
 
+
+*AI Keywords for current event matching:*
+`affliction` `bands` `bound` `brake` `brought` `business` `calm` `children` `city` `darkness` `death` `deliverance` `divine` `dwell` `east` `endureth` `enemy` `filleth` `fools` `found` `four` `gathered` `give` `gods` `good` `goodness` `great` `hand` `hungry` `iniquities` `iron` `lands` `longing` `lord` `lovingkindness` `maketh` `men` `mercy` `north` `praise` `redeemed` `redemption` `sacrifices` `satisfieth` `sea` `shadow` `ships` `solitary` `soul` `south` `still` `storm` `sunder` `thanks` `thanksgiving` `thirsty` `transgression` `types` `wandered` `wandering` `waters` `waves` `way` `west` `wilderness` `wonderful` `works`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

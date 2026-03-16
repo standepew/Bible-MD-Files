@@ -106,6 +106,11 @@ Israel commits trespass by taking accursed things: Achan of Judah takes a Babylo
 
 **Discovery and Punishment:** Joshua sent messengers, ran tent, hid tent, silver under, took midst tent, brought Joshua, children Israel, laid LORD, Joshua Israel took Achan son Zerah, silver garment, wedge gold, sons daughters, oxen asses sheep tent, valley Achor, troubled us, LORD trouble day, Israel stoned stones, burned fire, stoned stones, raised great heap stones, day, LORD turned fierceness anger, valley Achor day
 
+
+*AI Keywords for current event matching:*
+`accursed` `achan` `achans` `achor` `alas` `amorites` `anger` `answered` `ark` `asses` `aven` `babylonish` `backs` `beside` `beth` `brought` `burned` `burnt` `canaanites` `carmi` `chased` `children` `clothes` `commanded` `committed` `confession` `content` `country` `covenant` `coveted` `cut` `daughters` `day` `defeat` `deliver` `destroy` `discovery` `dissembled` `divine` `done` `down` `dust` `dwelt` `early` `earth` `east` `elders` `enemies` `environ` `eventide` `face` `families` `family` `fell` `few` `fierceness` `fifty` `fire` `fled` `folly` `garment` `gate` `get` `glory` `god` `going` `gold` `goodly` `great` `hand` `heads` `heap` `hear` `hearts` `hid` `hide` `household` `households` `hundred` `inhabitants` `investigation` `israel` `jericho` `jordan` `joshua` `joshuas` `judah` `kindled` `labour` `laid` `lament` `land` `lie` `lord` `man` `melted` `men` `messengers` `midst` `morning` `name` `off` `oxen` `people` `punishment` `put` `raised` `ran` `rent` `returned` `rose` `round` `sanctify` `saw` `say` `selection` `sent` `shebarim` `sheep` `shekels` `side` `silver` `sin` `sinned` `six` `smite` `smote` `son` `sons` `spoils` `stand` `stolen` `stoned` `stones` `stuff` `take` `taken` `tent` `thing` `thirty` `thither` `thousand` `three` `tomorrow` `took` `transgressed` `trespass` `tribal` `tribe` `tribes` `trouble` `troubled` `turned` `turns` `two` `valley` `view` `viewed` `water` `wedge` `weight` `went` `wrought` `zabdi` `zarhites` `zerah`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

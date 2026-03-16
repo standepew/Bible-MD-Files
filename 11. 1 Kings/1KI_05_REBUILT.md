@@ -85,6 +85,11 @@ Hiram king Tyre sent servants Solomon; anointed king room father; Hiram lover Da
 
 **Temple Preparation:** king commanded great stones costly stones hewed stones foundation house, Solomon builders Hiram builders hew stonesquarers prepared timber stones build house
 
+
+*AI Keywords for current event matching:*
+`accomplish` `adoniram` `adversary` `agreement` `anointed` `appoint` `bare` `blessed` `blessing` `build` `builders` `burdens` `cedar` `chief` `command` `commanded` `considered` `costly` `courses` `david` `day` `desire` `discharged` `divine` `evil` `father` `feet` `fir` `floats` `food` `foundation` `fourscore` `god` `great` `hew` `hewed` `hewers` `hiram` `hirams` `hire` `home` `house` `household` `hundred` `initiative` `israel` `king` `labor` `league` `lebanon` `levy` `lord` `lover` `measures` `men` `month` `months` `mountains` `name` `occurrent` `officers` `oil` `organization` `peace` `people` `place` `preparation` `prepared` `promised` `pure` `purpose` `receive` `rejoiced` `request` `response` `rest` `room` `ruled` `sea` `servants` `sides` `sidonians` `skill` `soles` `solomon` `solomons` `son` `spoke` `stones` `stonesquarers` `temple` `ten` `thirty` `thousand` `three` `threescore` `throne` `timber` `trade` `trees` `twenty` `two` `tyre` `wars` `wheat` `wisdom` `wise` `words` `work` `wrought` `year`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

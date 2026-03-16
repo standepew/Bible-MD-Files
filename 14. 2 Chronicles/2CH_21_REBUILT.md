@@ -181,6 +181,11 @@ Jehoshaphat, slept, fathers, buried, fathers, city, David, Jehoram, son, reigned
 
 **Royal Summary:** thirty two years reigned Jerusalem eight years departed desired buried city David sepulchres kings
 
+
+*AI Keywords for current event matching:*
+`ahab` `arabians` `asa` `azariah` `better` `bowels` `brake` `brethren` `buried` `burning` `captains` `chariots` `children` `cities` `city` `compassed` `compelled` `covenant` `daughter` `david` `day` `days` `departed` `desired` `destroy` `died` `disease` `diseases` `divers` `divine` `dominion` `edomites` `eight` `elijah` `ethiopians` `evil` `eyes` `faithfulness` `fall` `father` `fathers` `fenced` `firstborn` `forever` `fornication` `forsaken` `fratricide` `gifts` `god` `gold` `goods` `great` `hand` `high` `house` `incurable` `inhabitants` `israel` `jehiel` `jehoahaz` `jehoram` `jehoshaphat` `jerusalem` `judah` `judgment` `king` `kingdom` `kings` `left` `libnah` `light` `lord` `michael` `mountains` `national` `night` `people` `philistines` `places` `plague` `precious` `princes` `process` `prophet` `rebellion` `reign` `reigned` `revolt` `revolted` `risen` `royal` `sepulchres` `shephatiah` `sickness` `silver` `slain` `slept` `slew` `smite` `smote` `son` `sons` `sore` `spirit` `stead` `stirred` `strengthened` `substance` `succession` `summary` `sword` `thirty` `time` `two` `walked` `way` `ways` `whoredoms` `whoring` `wicked` `wife` `wives` `writing` `wrought` `years` `youngest` `zechariah`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

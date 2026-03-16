@@ -91,6 +91,11 @@ Brethren, man, overtaken, fault, spiritual, restore, spirit, meekness, consideri
 
 **The Cross of Christ:** God, forbid, glory, cross, Lord, Jesus, Christ, world, crucified, world, crucified, Christ, Jesus, circumcision, availeth, uncircumcision, new, creature, walk, rule, peace, mercy, Israel, God, trouble, body, marks, Lord, Jesus, grace, Lord, Jesus, Christ, spirit, Amen
 
+
+*AI Keywords for current event matching:*
+`amen` `availeth` `bear` `bearing` `body` `brethren` `burden` `burdens` `christ` `circumcised` `circumcision` `communicate` `considering` `constrain` `corruption` `creature` `cross` `crucified` `deceived` `deceiveth` `desire` `doing` `due` `everlasting` `faint` `fair` `faith` `fallen` `fault` `flesh` `forbid` `fulfil` `glory` `god` `good` `grace` `hand` `household` `israel` `jesus` `keep` `large` `law` `lest` `letter` `life` `lord` `man` `marks` `meekness` `mercy` `mocked` `new` `nothing` `opportunity` `overtaken` `peace` `persecution` `prove` `reap` `reaping` `rejoicing` `restore` `restoring` `rule` `season` `shew` `something` `soweth` `sowing` `specially` `spirit` `spiritual` `suffer` `taught` `teacheth` `tempted` `think` `trouble` `uncircumcision` `walk` `weary` `word` `work` `world`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

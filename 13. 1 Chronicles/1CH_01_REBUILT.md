@@ -79,6 +79,11 @@ Adam, Sheth, Enosh, Kenan, Mahalaleel, Jared, Enoch, Methuselah, Lamech, Noah. S
 
 **Abraham's Line:** Abraham Nahor Haran, sons Abraham Ishmael Jokshan Medan Midian Ishbak Shuah, sons Keturah Abram Abraham, sons Abraham Isaac Ishmael Jokshan Medan Midian Ishbak Shuah, sons Midian Ephah Epher Hanoch Abida Elda Elu Ephah, sons Keturah Abram Abraham
 
+
+*AI Keywords for current event matching:*
+`abida` `abraham` `abrahams` `abram` `adam` `adams` `amorite` `anamim` `aram` `arkite` `arphaxad` `arvadite` `asshur` `canaan` `cush` `eber` `elam` `elda` `elu` `enoch` `enosh` `ephah` `epher` `gether` `girgashite` `gomer` `ham` `hamathite` `hanoch` `haran` `havilah` `heth` `hivite` `hul` `isaac` `ishbak` `ishmael` `japheth` `jared` `javan` `jebusite` `jokshan` `kenan` `keturah` `lamech` `lehabim` `line` `lud` `ludim` `madai` `magog` `mahalaleel` `medan` `meshech` `methuselah` `midian` `mizraim` `nahor` `naphtuhim` `nimrod` `noah` `noahs` `peleg` `phut` `raamah` `reu` `sabtah` `sabtecah` `seba` `serug` `shelah` `shem` `shems` `sheth` `shuah` `sidon` `sinite` `sons` `terah` `tiras` `tubal` `zemarite` `zidon`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

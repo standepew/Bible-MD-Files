@@ -115,6 +115,11 @@ Psalm, Solomon, Give, king, judgments, GOD, righteousness, king, son, judge, peo
 
 **Eternal Blessing:** name endure forever continued sun, blessed men blessed nations call blessed, Blessed LORD GOD Israel wondrous things
 
+
+*AI Keywords for current event matching:*
+`blessed` `blessing` `bow` `break` `bring` `call` `children` `continued` `dominion` `dust` `dwell` `earth` `ends` `endure` `enemies` `eternal` `fear` `forever` `generations` `give` `god` `isles` `israel` `judge` `judgment` `judgments` `king` `kings` `lick` `lord` `men` `messianic` `moon` `name` `nations` `needy` `oppressor` `people` `pieces` `poor` `presents` `psalm` `righteous` `righteousness` `river` `save` `sea` `solomon` `son` `sun` `tarshish` `things` `universal` `wilderness` `wondrous`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

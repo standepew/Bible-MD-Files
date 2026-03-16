@@ -115,6 +115,11 @@ Man, born, woman, days, trouble. Flower, cut, shadow, continueth. Open, eyes, ju
 
 **Divine Judgment:** lieth down riseth heavens awake sleep, hide grave secret wrath past set time remember, die live again appointed time wait change
 
+
+*AI Keywords for current event matching:*
+`accomplish` `again` `appointed` `awake` `born` `boughs` `bounds` `branch` `brevity` `bud` `cease` `change` `clean` `continueth` `cut` `day` `days` `decay` `determined` `die` `dieth` `divine` `down` `drieth` `earth` `eyes` `fail` `flood` `flower` `frailty` `ghost` `grave` `ground` `heavens` `hide` `hireling` `hope` `human` `judgment` `lieth` `lifes` `live` `man` `months` `old` `open` `pass` `past` `plant` `remember` `rest` `resurrection` `riseth` `root` `scent` `sea` `secret` `set` `shadow` `sleep` `sprout` `stock` `tender` `time` `tree` `trouble` `turn` `unclean` `wait` `wasteth` `water` `waters` `woman` `wrath`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

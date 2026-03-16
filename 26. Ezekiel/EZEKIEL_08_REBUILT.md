@@ -139,6 +139,11 @@ Sixth, year, sixth, month, fifth, day, month, sat, house, elders, Judah, sat, ha
 
 **Divine Fury:** deal fury, eye spare, not pity, not hear
 
+
+*AI Keywords for current event matching:*
+`abominations` `appearance` `branch` `christs` `creeping` `deal` `divine` `exposure` `eye` `fell` `fire` `fury` `god` `hand` `hear` `hole` `idolatrys` `idols` `image` `israel` `jealousy` `lifted` `men` `nose` `pity` `seventy` `spare` `spirit` `sun` `tammuz` `temple` `things` `vision` `visions` `wall` `weeping` `worshipped`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

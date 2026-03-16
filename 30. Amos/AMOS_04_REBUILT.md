@@ -103,6 +103,11 @@ Hear, word, kine, Bashan, mountain, Samaria, oppress, poor, crush, needy, master
 
 **Prepare to Meet God:** prepare meet, God Israel, Lord GOD hosts, name
 
+
+*AI Keywords for current event matching:*
+`blasting` `bread` `call` `christs` `cleanness` `createth` `creation` `crush` `discipline` `divine` `formeth` `god` `gods` `hear` `high` `hosts` `israel` `lord` `maketh` `meet` `morning` `mountains` `name` `needy` `oppress` `places` `poor` `prepare` `rain` `repentance` `returned` `smitten` `teeth` `treadeth` `want` `wind` `withholden` `word` `yet`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

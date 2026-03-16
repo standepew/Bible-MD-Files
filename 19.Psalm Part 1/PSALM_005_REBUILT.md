@@ -139,6 +139,11 @@ Chief, Musician, Nehiloth, Psalm, David, ear, words, LORD, consider, meditation,
 
 **God's Protection:** house multitude mercy fear worship holy temple, lead LORD righteousness enemies way straight face, LORD bless righteous favour compass shield
 
+
+*AI Keywords for current event matching:*
+`abhor` `bless` `bloody` `cast` `chief` `compass` `consider` `counsels` `cry` `david` `deceitful` `defend` `destroy` `direct` `divine` `dwell` `ear` `enemies` `evil` `face` `faithfulness` `fall` `favour` `fear` `flatter` `foolish` `god` `gods` `hate` `hearken` `holy` `house` `iniquity` `inward` `joy` `joyful` `justice` `king` `lead` `leasing` `look` `lord` `love` `man` `meditation` `mercy` `morning` `mouth` `multitude` `musician` `name` `nehiloth` `open` `pray` `prayer` `protection` `psalm` `rebelled` `rejoice` `righteous` `righteousness` `sepulchre` `shield` `shout` `sight` `speak` `stand` `straight` `temple` `throat` `tongue` `transgressions` `trust` `voice` `way` `wicked` `wickedness` `words` `workers` `worship`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

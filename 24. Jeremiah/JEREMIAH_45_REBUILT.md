@@ -79,6 +79,11 @@ Word, Jeremiah, prophet, Baruch, son, Neriah, written, words, book, mouth, Jerem
 
 **Christ's Preservation:** seek great things, life prey, all places, give life
 
+
+*AI Keywords for current event matching:*
+`baruchs` `book` `break` `bring` `built` `christs` `comfort` `divine` `evil` `fainted` `find` `flesh` `fourth` `give` `great` `grief` `jeremiah` `land` `life` `mouth` `places` `planted` `pluck` `preservation` `prey` `rest` `seek` `sighing` `sorrow` `sovereignty` `things` `whole` `woe` `word` `words` `written` `year`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

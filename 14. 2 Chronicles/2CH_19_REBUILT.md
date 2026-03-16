@@ -151,6 +151,11 @@ Jehoshaphat, king, Judah, returned, house, peace, Jerusalem. Jehu, son, Hanani, 
 
 **Legal System:** Jerusalem Jehoshaphat Levites priests chief fathers Israel judgment LORD controversies Jerusalem, charged fear LORD faithfully perfect heart, cause brethren cities blood blood law commandment statutes judgments warn trespass LORD wrath trespass, Amariah chief priest matters LORD Zebadiah son Ishmael ruler house Judah king matters Levites officers courageously LORD good
 
+
+*AI Keywords for current event matching:*
+`amariah` `beer` `blood` `brethren` `brought` `cause` `charged` `chief` `cities` `city` `commandment` `controversies` `courageously` `divine` `dwelt` `ephraim` `faithfully` `fathers` `fear` `fenced` `gifts` `god` `good` `groves` `hanani` `hate` `heart` `heed` `help` `house` `iniquity` `ishmael` `israel` `jehoshaphat` `jehu` `jerusalem` `judah` `judge` `judges` `judgment` `judgments` `judicial` `king` `land` `law` `legal` `levites` `lord` `love` `man` `matters` `mount` `officers` `peace` `people` `perfect` `persons` `prepared` `priest` `priests` `rebuke` `reform` `renewal` `respect` `returned` `ruler` `seek` `seer` `sheba` `son` `spiritual` `statutes` `system` `take` `things` `trespass` `ungodly` `warn` `wrath` `zebadiah`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

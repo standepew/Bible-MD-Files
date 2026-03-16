@@ -81,6 +81,11 @@ All tribes of Israel came to David in Hebron, said behold bone and flesh. In tim
 
 **Philistine Defeats:** Philistines anointed David king Israel Philistines seek David David heard hold, Philistines spread valley Rephaim, David enquired LORD Philistines deliver hand LORD David deliver Philistines hand, David Baal-perazim David smiteth LORD broken enemies breach waters Baal-perazim, left images David men burned, Philistines spread valley Rephaim, David enquired LORD fetch compass mulberry trees, sound going tops mulberry trees bestir LORD smite host Philistines, David LORD commanded smote Philistines Geba Gazer
 
+
+*AI Keywords for current event matching:*
+`anointed` `anointing` `baal-perazim` `began` `bestir` `blind` `bone` `born` `breach` `broken` `broughtest` `built` `burned` `captain` `carpenters` `cedar` `chief` `city` `commanded` `compass` `concubines` `conquest` `daughters` `david` `davids` `day` `defeats` `deliver` `dwelt` `elders` `eliada` `eliphalet` `elishama` `elishua` `enemies` `enquired` `established` `exalted` `family` `feed` `fetch` `flesh` `fort` `forty` `gazer` `geba` `god` `going` `great` `grew` `gutter` `hand` `hated` `heard` `hebron` `hiram` `hither` `hold` `host` `hosts` `house` `ibhar` `images` `inhabitants` `international` `inward` `israel` `japhia` `jebusites` `jerusalem` `judah` `king` `kingdom` `lame` `league` `leddest` `left` `lord` `masons` `men` `messengers` `millo` `months` `mulberry` `names` `nathan` `nepheg` `past` `people` `perceived` `philistine` `philistines` `recognition` `reign` `reigned` `rephaim` `sake` `saul` `seek` `seven` `shammua` `shobab` `six` `smite` `smiteth` `smote` `solomon` `sons` `soul` `sound` `spread` `strong` `thinking` `thirty` `thirty-three` `time` `tops` `trees` `tribes` `tyre` `valley` `waters` `whosoever` `wives` `years` `zion`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

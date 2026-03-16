@@ -127,6 +127,11 @@ Evil, seen, sun, common, men, man, God, given, riches, wealth, honour, wanteth, 
 
 **Life and Death:** untimely birth better, departeth darkness, spend as shadow
 
+
+*AI Keywords for current event matching:*
+`among` `better` `birth` `cannot` `common` `contend` `darkness` `death` `departeth` `divine` `eat` `evil` `filled` `given` `giveth` `god` `good` `honour` `human` `life` `limitations` `men` `mightier` `misery` `power` `riches` `seen` `shadow` `soul` `sovereignty` `spend` `stranger` `sun` `untimely` `wealth`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

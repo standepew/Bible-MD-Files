@@ -79,6 +79,11 @@ Seventh year Jehu, Jehoash reigned, forty years, Jerusalem, mother Zibiah Beer-s
 
 **Joash's Death:** acts Joash book chronicles kings Judah, servants conspiracy slew Joash house Millo Silla, Jozachar son Shimeath Jehozabad son Shomer servants smote died fathers city David Amaziah son reigned
 
+
+*AI Keywords for current event matching:*
+`account` `acquaintance` `acts` `ahaziah` `altar` `amaziah` `away` `bags` `basons` `beer-sheba` `book` `bowls` `breach` `breaches` `builders` `burnt` `carpenters` `chest` `chronicles` `city` `consented` `conspiracy` `david` `days` `death` `dedicated` `died` `door` `face` `faithfully` `fathers` `forty` `found` `gath` `gold` `hallowed` `hands` `hazael` `heart` `hewed` `hewers` `high` `hole` `house` `incense` `instructed` `invasion` `jehoash` `jehoiada` `jehoram` `jehoshaphat` `jehozabad` `jehu` `jerusalem` `joash` `joashs` `jozachar` `judah` `king` `kings` `lid` `lord` `man` `masons` `men` `millo` `money` `mother` `oversight` `people` `places` `priest` `priests` `reckoned` `reign` `reigned` `repair` `repaired` `repairs` `right` `sacrificed` `scribe` `servants` `seventh` `shimeath` `shomer` `side` `sight` `silla` `silver` `sin` `slew` `smote` `snuffers` `son` `stone` `syria` `syrian` `taken` `temple` `things` `three` `timber` `treasures` `trespass` `trumpets` `twentieth` `vessels` `work` `workmen` `year` `years` `zibiah`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

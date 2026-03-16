@@ -115,6 +115,11 @@ Said, stand, feet, speak, spirit, entered, spake, set, feet, heard, spake, son, 
 
 **Divine Authority:** Lord GOD, hand sent, roll book, lamentations woe
 
+
+*AI Keywords for current event matching:*
+`afraid` `authority` `book` `briers` `calling` `christs` `commission` `divine` `entered` `feet` `forbear` `god` `hand` `hear` `house` `israel` `lamentations` `lord` `man` `mission` `mouth` `nation` `open` `prophetic` `rebellious` `roll` `scorpions` `send` `sent` `son` `speak` `spirit` `stand` `thorns` `woe` `words`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

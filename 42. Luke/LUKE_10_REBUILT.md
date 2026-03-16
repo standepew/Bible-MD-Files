@@ -215,6 +215,11 @@ Lord, appointed, seventy, sent, two, face, city, place, come, harvest, great, la
 
 **Mary and Martha:** Mary feet, cumbered serving, careful troubled, good part
 
+
+*AI Keywords for current event matching:*
+`babes` `blessed` `careful` `chorazin` `cities` `compassion` `cumbered` `dead` `dust` `eternal` `exalted` `eyes` `father` `feet` `good` `half` `harvest` `heaven` `hell` `joy` `kingdom` `kings` `labourers` `lambs` `life` `lightning` `martha` `mary` `mercy` `mission` `names` `nigh` `parable` `part` `peace` `prophets` `prudent` `return` `revealed` `samaritan` `satan` `serpents` `serving` `seventy` `shewed` `son` `thrust` `tread` `troubled` `unrepentant` `wipe` `wise` `woe` `woes` `wolves` `written`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

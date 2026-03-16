@@ -127,6 +127,11 @@ Depth, cried, LORD, Lord, hear, voice, ears, attentive, voice, supplications, LO
 
 **Plenteous Redemption:** plenteous redemption, redeem Israel, eternal redemption
 
+
+*AI Keywords for current event matching:*
+`cried` `cry` `depths` `divine` `eternal` `feared` `forgiveness` `god` `hear` `hope` `iniquities` `israel` `lord` `mark` `morning` `plenteous` `redeem` `redemption` `soul` `supplications` `voice` `wait` `waiting` `word`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

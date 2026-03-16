@@ -90,6 +90,11 @@ God gives Moses "the judgments" — the civil and criminal code that governs Isr
 - **Capital punishment** → Exodus 21:12-17 — murder, kidnapping, striking parents — all capital offenses
 - **Parental authority / family structure** → Exodus 21:15, 17 — Matthew 15:4
 
+
+*AI Keywords for current event matching:*
+`ancient` `code` `current` `events` `exodus` `humane` `labor` `law` `matching` `most` `release` `servitude` `seventh-year` `slavery`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

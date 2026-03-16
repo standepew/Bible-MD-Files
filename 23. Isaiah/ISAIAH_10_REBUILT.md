@@ -163,6 +163,11 @@ Woe, decree, unrighteous, decrees, write, grievous, prescribed, turn, aside, nee
 
 **Remnant Salvation:** remnant return, mighty God, consumption righteousness, anointing
 
+
+*AI Keywords for current event matching:*
+`afraid` `anger` `anointing` `assyrian` `axe` `boast` `burden` `christs` `consumption` `decrees` `destroy` `divine` `god` `hypocritical` `indignation` `instrument` `israel` `judgment` `lord` `mighty` `nation` `nations` `needy` `protection` `remnant` `return` `righteousness` `rod` `salvation` `shoulder` `staff` `stay` `unrighteous`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

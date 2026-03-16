@@ -115,6 +115,11 @@ Lamb, opened, seals, noise, thunder, four, beasts, Come, white, horse, sat, bow,
 
 **The Great Day of Wrath:** kings, earth, great, men, rich, men, chief, captains, mighty, men, bondman, free, man, hid, dens, rocks, mountains, mountains, rocks, Fall, hide, face, throne, wrath, Lamb, great, day, wrath, stand
 
+
+*AI Keywords for current event matching:*
+`altar` `avenge` `balances` `barley` `beast` `beasts` `black` `blood` `bondman` `bow` `brethren` `captains` `casteth` `chief` `come` `conquer` `conquering` `cried` `crown` `day` `death` `dens` `departed` `dwell` `earth` `earthquake` `face` `fall` `fell` `fellowservants` `fifth` `fig` `figs` `first` `followed` `four` `fourth` `free` `fulfilled` `god` `great` `hair` `hand` `heaven` `held` `hell` `hid` `hide` `holy` `horse` `horsemen` `hunger` `hurt` `island` `judge` `kill` `killed` `kings` `lamb` `little` `lord` `loud` `man` `martyrs` `measure` `measures` `men` `mighty` `moon` `mountain` `mountains` `moved` `name` `noise` `oil` `opened` `pair` `pale` `part` `peace` `penny` `places` `power` `red` `rest` `rich` `robes` `rocks` `rolled` `sackcloth` `sat` `scroll` `seal` `seals` `season` `second` `shaken` `six` `sixth` `slain` `souls` `stand` `stars` `sun` `sword` `testimony` `third` `three` `throne` `thunder` `tree` `true` `untimely` `voice` `wheat` `white` `wind` `wine` `word` `wrath`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

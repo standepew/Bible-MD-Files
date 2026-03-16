@@ -117,6 +117,11 @@ Stood, sand, sea, beast, rise, sea, seven, heads, ten, horns, horns, ten, crowns
 
 **The Patience of the Saints:** patience, faith, saints
 
+
+*AI Keywords for current event matching:*
+`able` `authority` `bear` `beast` `beheld` `blaspheme` `blasphemies` `blasphemy` `bond` `book` `buy` `captivity` `cause` `causeth` `coming` `continue` `count` `crowns` `death` `deceiveth` `dragon` `dwell` `ear` `earth` `exerciseth` `faith` `feet` `fire` `first` `foreheads` `forty` `foundation` `free` `gave` `given` `god` `great` `hand` `heads` `healed` `hear` `heaven` `horns` `hundred` `image` `killed` `killeth` `kindreds` `lamb` `leadeth` `leopard` `life` `lion` `live` `man` `mark` `men` `miracles` `months` `mouth` `name` `names` `nations` `number` `overcome` `patience` `poor` `power` `receive` `rich` `right` `rise` `saints` `sand` `sea` `seat` `sell` `seven` `sight` `six` `slain` `small` `spake` `speak` `speaking` `stood` `sword` `tabernacle` `ten` `threescore` `tongues` `two` `understanding` `war` `wisdom` `wondered` `wonders` `world` `worship` `worshipped` `wound` `wounded` `written`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

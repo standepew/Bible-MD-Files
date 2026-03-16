@@ -52,6 +52,11 @@ Moses speaks to the heads of the tribes. The law of vows: if a man makes a vow t
 - **The word that proceeds from the mouth** → Numbers 30:2 — Matthew 12:36-37; "every idle word that men shall speak, they shall give account"
 - **Protection of the vulnerable from hasty vows** → Numbers 30:3-8 — the gracious provision for disallowance on the same day
 
+
+*AI Keywords for current event matching:*
+`533-37` `54-5` `binding` `contracts` `current` `ecclesiastes` `events` `matching` `matthew` `numbers` `oaths` `power` `spoken` `words`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS WITH CONTEXTUAL DEFINITIONS

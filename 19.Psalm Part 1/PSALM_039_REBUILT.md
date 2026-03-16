@@ -139,6 +139,11 @@ Chief, Musician, Jeduthun, Psalm, David, take, heed, ways, sin, tongue, keep, mo
 
 **Deliverance from Sin:** hear prayer LORD give ear cry hold peace tears, spare recover strength go hence, deliver transgressions make reproach foolish
 
+
+*AI Keywords for current event matching:*
+`age` `away` `beauty` `behold` `best` `blow` `brevity` `bridle` `burned` `chief` `consume` `consumed` `correct` `cry` `david` `days` `deliver` `deliverance` `didst` `disquieted` `dumb` `ear` `end` `fathers` `fire` `foolish` `frail` `frailty` `gather` `give` `god` `good` `hand` `handbreadth` `heapeth` `hear` `heart` `heed` `held` `hence` `hold` `hope` `hot` `human` `iniquity` `jeduthun` `keep` `know` `knoweth` `lifes` `lord` `made` `make` `man` `measure` `moth` `mouth` `musician` `musing` `nothing` `opened` `peace` `prayer` `psalm` `rebukes` `recover` `remove` `reproach` `riches` `selah` `shew` `silence` `sin` `sojourner` `sorrow` `spake` `spare` `state` `stirred` `stranger` `strength` `stroke` `take` `tears` `tongue` `transgressions` `vain` `vanity` `wait` `walketh` `ways` `wicked` `within`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

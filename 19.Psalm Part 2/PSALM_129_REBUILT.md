@@ -127,6 +127,11 @@ Song, degrees, afflicted, youth, Israel, say, afflicted, youth, prevailed, plowe
 
 **Hope in Zion:** blessing LORD upon, bless name LORD, Israel say
 
+
+*AI Keywords for current event matching:*
+`afflicted` `against` `back` `bless` `blessing` `confounded` `cords` `cut` `divine` `enemies` `furrows` `grass` `hate` `hope` `housetops` `israel` `judgment` `long` `lord` `made` `name` `persecution` `plowed` `plowers` `prevailed` `righteous` `righteousness` `say` `turned` `wicked` `withereth` `youth` `zion`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

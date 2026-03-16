@@ -115,6 +115,11 @@ Brethren, speak, spiritual, carnal, babes, Christ, fed, milk, meat, bear, carnal
 
 **The Temple of God:** temple, God, Spirit, God, dwelleth, defile, temple, God, destroy, temple, God, holy, temple, deceive, wise, world, become, fool, wise, wisdom, world, foolishness, God, written, taketh, wise, craftiness, Lord, knoweth, thoughts, wise, vain, glory, men, things, yours, Paul, Apollos, Cephas, world, life, death, things, present, things, yours, Christ, Christ, God
 
+
+*AI Keywords for current event matching:*
+`abide` `apollos` `babes` `bear` `become` `believed` `brethren` `build` `buildeth` `building` `burned` `carnal` `cephas` `christ` `christians` `craftiness` `day` `death` `deceive` `declare` `defile` `destroy` `divisions` `dwelleth` `envying` `fed` `fire` `fool` `foolishness` `foundation` `gave` `glory` `god` `gods` `gold` `grace` `hay` `holy` `husbandry` `increase` `jesus` `knoweth` `labour` `labourers` `laid` `life` `lord` `loss` `man` `manifest` `masterbuilder` `meat` `men` `milk` `ministers` `paul` `planted` `planteth` `precious` `present` `receive` `revealed` `reward` `saith` `saved` `silver` `speak` `spirit` `spiritual` `stones` `strife` `stubble` `suffer` `takeheed` `taketh` `temple` `things` `thoughts` `vain` `walk` `watered` `watereth` `wisdom` `wise` `wood` `work` `world` `written` `yours`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

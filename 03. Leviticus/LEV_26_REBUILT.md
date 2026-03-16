@@ -79,6 +79,11 @@ The Hebrew prophets operate as the announced implementation of this passage:
 - **National repentance / return to God** → Leviticus 26:40-42 — Deuteronomy 30:1-10; Joel 2:12-13
 - **God's unconditional covenant / irrevocable promises** → Leviticus 26:42-45 — Romans 11:26-29; Hebrews 6:13-17
 
+
+*AI Keywords for current event matching:*
+`blessings` `current` `curses` `deuteronomy` `events` `judgment` `leviticus` `matching` `national` `nations` `proverbs`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS WITH CONTEXTUAL DEFINITIONS

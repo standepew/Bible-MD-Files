@@ -64,6 +64,11 @@ The chapter deals with four categories of bodily discharge. A man with a chronic
 - **Perpetual uncleanness / chronic conditions and access to God** → Leviticus 15 — Hebrews 10:19-22
 - **Contact spreading uncleanness / moral contagion** → Leviticus 15:4-12 — 1 Corinthians 15:33; Hebrews 12:15
 
+
+*AI Keywords for current event matching:*
+`1525-30` `525-34` `843-48` `blood` `current` `events` `issue` `leviticus` `luke` `mark` `matching` `woman`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

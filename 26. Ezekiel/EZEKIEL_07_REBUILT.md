@@ -115,6 +115,11 @@ Word, LORD, saying, son, man, Lord, GOD, land, Israel, end, four, corners, land,
 
 **Christ's Wrath:** eye spare, not pity, stumblingblock iniquity, robbers enter
 
+
+*AI Keywords for current event matching:*
+`abominations` `accomplish` `anger` `christs` `come` `cometh` `corners` `day` `destruction` `divine` `end` `enter` `eye` `four` `fury` `iniquity` `jerusalems` `judge` `judgment` `multitude` `pity` `pour` `recompense` `robbers` `send` `smiteth` `spare` `stumblingblock` `sword` `trouble` `ways` `without` `wrath`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

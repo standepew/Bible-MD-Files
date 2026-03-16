@@ -103,6 +103,11 @@ Spirit, Lord, GOD, anointed, preach, good, tidings, meek, sent, bind, brokenhear
 
 **Christ's Joy:** greatly rejoice LORD, soul joyful God, garments salvation, robe righteousness
 
+
+*AI Keywords for current event matching:*
+`acceptable` `anointed` `anointing` `appoint` `ashes` `beauty` `bind` `brokenhearted` `build` `captives` `christs` `comfort` `commission` `day` `divine` `garment` `garments` `god` `good` `greatly` `joy` `joyful` `liberty` `lord` `mourn` `mourning` `oil` `old` `praise` `preach` `proclaim` `rejoice` `restoration` `righteousness` `robe` `salvation` `sent` `soul` `spirit` `spiritual` `tidings` `vengeance` `wastes` `year` `zion`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

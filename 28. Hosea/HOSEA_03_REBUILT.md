@@ -79,6 +79,11 @@ LORD, love, woman, beloved, friend, adulteress, love, LORD, children, Israel, lo
 
 **Davidic Kingdom:** seek LORD, David king, fear LORD, latter days
 
+
+*AI Keywords for current event matching:*
+`abide` `adulteress` `barley` `beloved` `bought` `christs` `david` `davidic` `days` `exile` `faithful` `fear` `fifteen` `friend` `half` `harlot` `homer` `image` `king` `kingdom` `latter` `lord` `love` `period` `pieces` `play` `price` `prince` `redemption` `sacrifice` `seek` `without`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

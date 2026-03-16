@@ -163,6 +163,11 @@ Draw, leviathan, hook, tongue, cord, hook, nose, bore, jaw, thorn, supplications
 
 **Human Helplessness:** neesings light shine eyes eyelids morning burning lamps sparks fire nostrils smoke seething pot caldron breath kindleth coals flame mouth
 
+
+*AI Keywords for current event matching:*
+`banquet` `barbed` `battle` `bird` `bore` `breath` `bridle` `burning` `caldron` `cast` `challenge` `close` `coals` `comely` `companions` `conceal` `cord` `covenant` `divine` `doors` `double` `down` `draw` `eyelids` `eyes` `face` `fierce` `final` `fire` `fish` `flame` `garment` `gods` `hand` `heaven` `helplessness` `hook` `hope` `human` `irons` `jaw` `joined` `kindleth` `lamps` `leviathan` `light` `maidens` `merchants` `mine` `morning` `mouth` `neesings` `nose` `nostrils` `parts` `pot` `power` `prevented` `pride` `proportion` `repay` `scales` `seal` `seething` `servant` `shine` `sight` `smoke` `soft` `sparks` `spears` `stand` `stick` `stir` `sundered` `supplications` `teeth` `terrible` `thorn` `tongue` `vain` `words`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

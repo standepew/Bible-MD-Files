@@ -81,6 +81,11 @@ David asked if any left of house of Saul to show kindness for Jonathan's sake. H
 
 **Ziba's Response:** Ziba king lord king commanded servant Mephibosheth table king sons, Mephibosheth son Micha house Ziba servants Mephibosheth, Mephibosheth Jerusalem king table lame feet
 
+
+*AI Keywords for current event matching:*
+`ammiel` `arranged` `bowed` `bread` `called` `commanded` `continually` `david` `davids` `dead` `dog` `face` `father` `fear` `feet` `fetched` `fifteen` `food` `found` `fruits` `god` `house` `inquiry` `jerusalem` `jonathan` `kindness` `king` `lame` `land` `lo-debar` `lord` `machir` `master` `mephibosheth` `micha` `response` `restoration` `restore` `reverence` `sake` `saul` `servant` `servants` `son` `sons` `table` `till` `twenty` `ziba` `zibas`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

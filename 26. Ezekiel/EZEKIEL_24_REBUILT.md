@@ -115,6 +115,11 @@ Ninth, year, tenth, month, tenth, day, month, word, Lord, son, man, write, name,
 
 **Christ's Silence:** no mourning, cover lips, eat bread, no more dumb
 
+
+*AI Keywords for current event matching:*
+`against` `blood` `bloody` `bread` `christs` `city` `cover` `desire` `died` `divine` `dumb` `eat` `eyes` `ezekiel` `fire` `fury` `judgment` `lips` `midst` `mourning` `name` `pile` `pot` `rock` `scum` `set` `sign` `silence` `therein` `top` `vengeance` `wife` `write`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

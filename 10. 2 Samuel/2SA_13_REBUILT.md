@@ -89,6 +89,11 @@ Absalom son of David had fair sister Tamar; Amnon son of David loved her. Amnon 
 
 **Absalom's Flight:** Absalom fled Talmai son Ammihud king Geshur David mourned son day, Absalom fled Geshur three years, soul king David Absalom comforted Amnon dead
 
+
+*AI Keywords for current event matching:*
+`absalom` `absaloms` `ammihud` `amnon` `amnons` `apparelled` `appointment` `arise` `arose` `ashes` `away` `baal-hazor` `bad` `baked` `bed` `blessed` `bolt` `brother` `cakes` `cause` `chamber` `chargeable` `clothes` `colours` `comforted` `commanded` `confusion` `counsel` `courageous` `crying` `daughters` `david` `day` `dead` `deceptive` `desolate` `determined` `divers` `door` `dress` `earth` `eat` `ephraim` `evil` `eyes` `fair` `father` `fear` `fell` `fled` `flight` `flour` `folly` `fools` `force` `forced` `friend` `full` `garment` `garments` `geshur` `gone` `good` `greater` `hand` `hard` `hated` `head` `heard` `hearken` `heart` `hill` `hold` `house` `invited` `israel` `jonadab` `jonadabs` `kill` `king` `kneaded` `lay` `lean` `left` `lie` `lord` `love` `loved` `lust` `meat` `men` `merry` `mourned` `mules` `news` `pan` `peace` `people` `plan` `poured` `pressed` `rape` `refused` `regard` `rejection` `rent` `see` `sending` `servant` `servants` `shame` `sheepshearers` `shimeah` `sick` `side` `sight` `silence` `sister` `slain` `smite` `son` `sons` `soul` `stronger` `subtil` `talmai` `tamar` `tamars` `tare` `tell` `three` `tidings` `two` `valiant` `vengeance` `vexed` `virgin` `virgins` `voice` `watch` `wept` `wine` `withhold` `woman` `wroth` `years` `young`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

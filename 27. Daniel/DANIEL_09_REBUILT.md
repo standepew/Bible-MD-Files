@@ -103,6 +103,11 @@ First, year, Darius, son, Ahasuerus, seed, Medes, king, realm, Chaldeans, first,
 
 **Messiah Prince:** Messiah Prince, seven weeks, threescore two weeks, Messiah cut off
 
+
+*AI Keywords for current event matching:*
+`anger` `christs` `confessing` `cut` `divine` `end` `everlasting` `face` `fasting` `finish` `forgive` `forgivenesses` `great` `hear` `iniquity` `mercies` `mercy` `messiah` `off` `prayer` `prince` `reconciliation` `righteousness` `sackcloth` `set` `seven` `seventy` `sin` `sins` `supplications` `threescore` `transgression` `turn` `two` `weeks`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -95,6 +95,11 @@ During wheat harvest, Samson visits his wife with a kid, wanting to go into her 
 
 **Long Judgeship:** judged Israel days Philistines twenty years
 
+
+*AI Keywords for current event matching:*
+`against` `agreement` `arms` `ass` `attack` `avenged` `bands` `bind` `binding` `blameless` `bound` `brands` `brought` `burnt` `called` `came` `cast` `caught` `cease` `chamber` `clave` `come` `companion` `confrontation` `cords` `corn` `day` `days` `declaration` `deliver` `deliverance` `die` `displeasure` `divine` `done` `drank` `dwelt` `en-hakkore` `etam` `fairer` `fall` `fast` `father` `fire` `firebrand` `firebrands` `flax` `found` `fox` `foxes` `gave` `given` `god` `great` `hand` `hands` `harvest` `hated` `heaps` `hip` `hollow` `hundred` `instead` `israel` `jaw` `jawbone` `judah` `judahs` `judged` `judgeship` `kid` `kill` `law` `lehi` `long` `loosed` `lord` `made` `marriage` `men` `midst` `mightily` `new` `olives` `philistine` `philistines` `pitched` `place` `provision` `pursuit` `ramath-lehi` `rejection` `response` `revenge` `revived` `rock` `rulers` `samson` `servant` `set` `shocks` `shouted` `sister` `slain` `slaughter` `slew` `smote` `son` `sore` `speaking` `spirit` `spread` `standing` `suffer` `tail` `tails` `take` `thigh` `thirst` `thought` `thousand` `three` `time` `timnite` `took` `top` `turned` `twenty` `two` `uncircumcised` `victory` `vineyards` `violent` `visited` `water` `wheat` `wife` `years` `younger`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

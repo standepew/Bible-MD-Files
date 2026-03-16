@@ -163,6 +163,11 @@ Give, thanks, LORD, good, mercy, endureth, Israel, say, mercy, endureth, house, 
 
 **Eternal Salvation:** not die live declare works LORD, gates righteousness enter praise LORD, Blessed cometh name LORD
 
+
+*AI Keywords for current event matching:*
+`aaron` `answered` `blessed` `builders` `called` `christ` `cometh` `corner` `cornerstone` `day` `declare` `desire` `die` `distress` `divine` `doing` `endureth` `enter` `eternal` `eyes` `fear` `gates` `give` `glad` `good` `hate` `head` `help` `house` `israel` `large` `live` `lord` `made` `man` `marvellous` `mercy` `name` `part` `place` `praise` `refused` `rejoice` `righteousness` `salvation` `say` `set` `side` `stone` `taketh` `thanks` `thanksgiving` `works`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

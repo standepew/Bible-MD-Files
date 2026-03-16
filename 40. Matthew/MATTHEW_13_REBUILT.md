@@ -139,6 +139,11 @@ Jesus, house, sea, side, multitudes, gathered, ship, sat, multitude, shore, spak
 
 **Treasure Discovery:** treasure field, pearl great, merchant seeking, sold bought
 
+
+*AI Keywords for current event matching:*
+`angels` `bought` `christs` `discovery` `end` `field` `fire` `furnace` `gather` `good` `great` `harvest` `hear` `hearing` `judgment` `kingdom` `leaven` `meal` `merchant` `mustard` `mysteries` `parables` `parabolic` `pearl` `reapers` `see` `seed` `seeing` `seeking` `sold` `spake` `tares` `teaching` `treasure` `wheat`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

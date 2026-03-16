@@ -129,6 +129,11 @@ Laying, aside, malice, guile, hypocrisies, envies, evil, speakings, newborn, bab
 
 **Following Christ's Example:** Servants, masters, fear, good, gentle, froward, thankworthy, conscience, God, endure, grief, suffering, wrongfully, glory, buffeted, faults, take, patiently, suffer, patiently, acceptable, God, called, Christ, suffered, example, follow, steps, sin, guile, mouth, reviled, reviled, suffered, threatened, committed, judgeth, righteously, bare, sins, body, tree, dead, sins, live, righteousness, stripes, healed, sheep, astray, returned, Shepherd, Bishop, souls
 
+
+*AI Keywords for current event matching:*
+`abstain` `acceptable` `among` `appointed` `aside` `astray` `babes` `bare` `behold` `believe` `believeth` `bishop` `body` `brotherhood` `buffeted` `builders` `built` `called` `chief` `chosen` `christ` `christian` `christs` `cloke` `committed` `conduct` `confounded` `conscience` `conversation` `corner` `cornerstone` `darkness` `dead` `desire` `disallowed` `disobedient` `disobey` `doing` `elect` `endure` `envies` `evil` `evildoers` `example` `faults` `fear` `fleshly` `follow` `following` `foolish` `free` `froward` `generation` `gentiles` `gentle` `glorify` `glory` `god` `good` `governors` `gracious` `grief` `grow` `guile` `head` `healed` `holy` `honest` `honour` `house` `hypocrisies` `ignorance` `jesus` `judgeth` `king` `lay` `laying` `liberty` `light` `live` `lively` `living` `lord` `love` `lusts` `malice` `maliciousness` `man` `marvellous` `masters` `men` `mercy` `milk` `mouth` `nation` `newborn` `offence` `offer` `ordinance` `patiently` `peculiar` `people` `pilgrims` `praise` `praises` `precious` `priesthood` `punishment` `returned` `reviled` `righteously` `righteousness` `rock` `royal` `sacrifices` `scripture` `sent` `servants` `sheep` `shepherd` `shew` `silence` `sin` `sincere` `sins` `sion` `soul` `souls` `speak` `speakings` `spiritual` `steps` `stone` `stones` `strangers` `stripes` `stumble` `stumbling` `submit` `suffer` `suffered` `suffering` `supreme` `take` `tasted` `thankworthy` `threatened` `tree` `visitation` `war` `well` `word` `works` `wrongfully`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

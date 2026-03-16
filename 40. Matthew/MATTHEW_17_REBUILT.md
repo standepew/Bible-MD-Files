@@ -127,6 +127,11 @@ Six, days, Jesus, taketh, Peter, James, John, brother, bringeth, high, mountain,
 
 **Suffering Revelation:** betrayed hands, kill raised, Elias come, John Baptist
 
+
+*AI Keywords for current event matching:*
+`baptist` `beloved` `betrayed` `bright` `christs` `cloud` `come` `divine` `elias` `face` `faith` `generation` `glory` `grain` `hands` `hear` `impossible` `john` `kill` `light` `moses` `mountain` `mustard` `pleased` `raised` `remove` `requirement` `revelation` `shine` `son` `suffering` `sun` `things` `transfiguration` `transfigured` `unbelief` `well` `white`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

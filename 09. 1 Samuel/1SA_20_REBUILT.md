@@ -85,6 +85,11 @@ David fled from Naioth in Ramah, came to Jonathan asking what he had done, his i
 
 **Final Farewell:** morning Jonathan field time appointed David lad, lad find arrows lad ran shot arrow lad, lad place arrow Jonathan shot Jonathan lad arrow beyond, Jonathan lad speed haste stay not Jonathan lad arrows master, lad thing Jonathan David matter, Jonathan artillery lad city, lad David place south face ground bowed three times kissed wept David exceeded, Jonathan David peace sworn LORD LORD seed seed forever arose departed Jonathan city
 
+
+*AI Keywords for current event matching:*
+`abner` `anger` `answer` `appointed` `arose` `arrow` `arrows` `artillery` `asked` `away` `befallen` `beth-lehem` `beyond` `bowed` `brethren` `brother` `business` `cast` `chosen` `city` `clean` `commanded` `confusion` `covenant` `cut` `david` `davids` `day` `days` `deal` `death` `departed` `desire` `determined` `die` `earnestly` `earth` `empty` `enemies` `established` `evil` `exceeded` `eyes` `ezel` `face` `family` `far` `farewell` `father` `favour` `feast` `fetch` `field` `fierce` `final` `find` `fled` `forbid` `forever` `god` `good` `grace` `grieved` `ground` `hand` `haste` `hide` `house` `hurt` `iniquity` `israel` `javelin` `jesse` `jonathan` `kindly` `kindness` `king` `kingdom` `kissed` `knew` `lad` `leave` `life` `live` `liveth` `lord` `loved` `mark` `master` `matter` `meat` `miss` `month` `moon` `morning` `morrow` `mother` `naioth` `nakedness` `new` `peace` `perverse` `place` `plan` `plea` `ramah` `ran` `rebellious` `renewal` `roughly` `run` `sacrifice` `saul` `sauls` `seat` `second` `seed` `seeketh` `send` `sent` `servant` `shame` `shoot` `shot` `show` `side` `signal` `sin` `slain` `slay` `smite` `son` `soul` `sounded` `south` `speed` `spoken` `stay` `stayed` `step` `stone` `sware` `swear` `sworn` `table` `take` `tell` `test` `thing` `third` `three` `time` `times` `wall` `way` `well` `wept` `woman` `wroth` `yearly` `yesterday`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

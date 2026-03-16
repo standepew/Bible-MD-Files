@@ -62,6 +62,11 @@ The chief fathers of the families of Gilead son of Machir son of Manasseh come b
 - **Competing legitimate claims resolved simultaneously** → Numbers 36:6 — the daughters' inheritance right and the tribe's allotment right both preserved
 - **Obedience as the final word** → Numbers 36:10-12 — "even as the LORD commanded Moses, so did they"
 
+
+*AI Keywords for current event matching:*
+`367-9` `boundaries` `community` `covenant` `current` `events` `inheritance` `matching` `must` `numbers` `permanently` `principle` `rights` `transferred` `tribalfamily`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS WITH CONTEXTUAL DEFINITIONS

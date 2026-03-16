@@ -139,6 +139,11 @@ Psalm, sing, LORD, new, song, marvellous, things, right, hand, holy, arm, gotten
 
 **Righteous Judgment:** cometh judge earth, righteousness judge world people equity
 
+
+*AI Keywords for current event matching:*
+`arm` `clap` `cometh` `cornet` `divine` `dwell` `earth` `ends` `equity` `floods` `fulness` `god` `gotten` `hand` `hands` `harp` `heathen` `hills` `holy` `house` `israel` `joyful` `judge` `judgment` `king` `known` `lord` `loud` `made` `marvellous` `mercy` `new` `noise` `openly` `people` `praise` `psalm` `rejoice` `remembered` `right` `righteous` `righteousness` `roar` `salvation` `sea` `seen` `shewed` `sight` `sing` `song` `sound` `things` `trumpets` `truth` `universal` `victory` `voice` `world`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

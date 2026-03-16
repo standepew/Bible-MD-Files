@@ -126,6 +126,11 @@ Jericho is shut tight because of Israel. God tells Joshua He has given Jericho i
 
 **Joshua's Fame:** LORD Joshua, fame noised country
 
+
+*AI Keywords for current event matching:*
+`accursed` `adjured` `alive` `ark` `armed` `ascend` `ass` `bear` `bearing` `bid` `blast` `blew` `blow` `brass` `brethren` `bring` `brought` `build` `burnt` `called` `came` `camp` `children` `city` `command` `commanded` `compass` `compassed` `conquest` `consecrated` `continually` `country` `covenant` `curse` `cursed` `dawning` `day` `days` `destroyed` `devoted` `divine` `dwelleth` `early` `edge` `fall` `fame` `father` `fell` `fire` `firstborn` `flat` `followed` `foundation` `gates` `given` `going` `gold` `great` `hand` `harlot` `hear` `heard` `hid` `holy` `horn` `horns` `house` `household` `iron` `israel` `jericho` `joshua` `joshuas` `keep` `kindred` `king` `lay` `leadership` `left` `live` `lodged` `long` `lord` `man` `manner` `marching` `mechanism` `men` `messengers` `mighty` `morning` `mother` `mouth` `noise` `noised` `nun` `old` `once` `order` `pass` `passed` `people` `priestly` `priests` `proceed` `process` `rahab` `rahabs` `rams` `rebuilding` `rereward` `rescue` `returned` `riseth` `rose` `round` `said` `saved` `second` `sent` `set` `seven` `seven-day` `seventh` `sheep` `shout` `shouted` `shut` `siege` `silence` `silver` `six` `son` `sound` `spied` `spies` `spoken` `spy` `straight` `straitly` `strategy` `sware` `sword` `take` `thing` `things` `time` `times` `took` `treasury` `trouble` `trumpet` `trumpets` `two` `valour` `vessels` `victory` `voice` `wall` `war` `went` `wise` `woman` `word` `young` `youngest`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

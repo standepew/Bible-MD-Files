@@ -127,6 +127,11 @@ Job, answered, heard, things, miserable, comforters. Vain, words, end, emboldene
 
 **Plea for Mediator:** ease broken neck shaken pieces mark, archers compass cleave reins spare poureth gall ground, breach breach giant
 
+
+*AI Keywords for current event matching:*
+`answer` `answered` `archers` `assault` `asswage` `asswaged` `breach` `broken` `cheek` `cleave` `comforters` `company` `compass` `delivered` `desolate` `divine` `ease` `eased` `emboldeneth` `end` `enemy` `eyes` `face` `forbear` `gall` `gaped` `gathered` `giant` `gnasheth` `god` `grief` `ground` `hands` `hated` `head` `heap` `heard` `job` `jobs` `leanness` `lips` `mark` `mediator` `miserable` `mouth` `neck` `pieces` `plea` `poureth` `reins` `reproachfully` `response` `shake` `shaken` `sharpen` `smitten` `soul` `spare` `speak` `stead` `strengthen` `teareth` `teeth` `things` `ungodly` `vain` `weary` `wicked` `witness` `words` `wrath` `wrinkles`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

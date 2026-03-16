@@ -103,6 +103,11 @@ Woe, crown, pride, drunkenards, Ephraim, glorious, beauty, fading, flower, head,
 
 **Christ's Cornerstone:** believeth haste, judgment line, righteousness plummet, sweep refuge
 
+
+*AI Keywords for current event matching:*
+`believeth` `christs` `corner` `cornerstone` `crown` `destroying` `divine` `drunkards` `drunkenness` `ephraim` `foundation` `hail` `haste` `judgment` `line` `mighty` `overcome` `overflow` `plummet` `precious` `pride` `refuge` `righteousness` `scourge` `spiritual` `stone` `storm` `strong` `sure` `sweep` `tables` `tempest` `tried` `vomit` `wine`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

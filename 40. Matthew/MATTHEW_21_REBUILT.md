@@ -151,6 +151,11 @@ Drew, nigh, Jerusalem, Bethphage, mount, Olives, Jesus, disciples, village, ass,
 
 **Authority Question:** authority things, baptism John, two sons, householder vineyard
 
+
+*AI Keywords for current event matching:*
+`ass` `authority` `away` `baptism` `branches` `christs` `cleansing` `colt` `curse` `david` `den` `doubt` `entry` `faith` `fig` `garments` `healed` `hosanna` `house` `householder` `john` `lame` `moneychangers` `mount` `mountain` `olives` `prayer` `question` `removed` `sons` `tables` `temple` `thieves` `things` `tree` `triumphant` `two` `vineyard` `withered`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

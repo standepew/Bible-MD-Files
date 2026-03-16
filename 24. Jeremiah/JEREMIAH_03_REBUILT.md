@@ -127,6 +127,11 @@ Put, wife, away, become, man, return, again, greatly, polluted, played, harlot, 
 
 **Christ's Healing:** heal backslidings, feed knowledge understanding, pastors heart, throne LORD
 
+
+*AI Keywords for current event matching:*
+`again` `anger` `backsliding` `backslidings` `bring` `children` `christs` `divine` `feed` `forever` `harlot` `heal` `healing` `heart` `israel` `judah` `keep` `knowledge` `lord` `lovers` `married` `merciful` `mercy` `pastors` `played` `restoration` `return` `salvation` `scattered` `spiritual` `strangers` `throne` `treacherous` `turn` `understanding` `ways` `you` `zion`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -107,6 +107,11 @@ Whosoever, believeth, Jesus, Christ, born, God, loveth, begat, loveth, begotten,
 
 **Final Warning Against Idols:** brother, sin, sin, death, ask, give, life, sin, death, sin, death, pray, unrighteousness, sin, sin, death, know, born, God, sinneth, begotten, God, keepeth, wicked, toucheth, know, God, world, wickedness, know, Son, God, come, given, understanding, know, true, Son, Jesus, Christ, true, God, eternal, life, children, keep, idols
 
+
+*AI Keywords for current event matching:*
+`against` `agree` `ask` `bear` `beareth` `begat` `begotten` `believe` `believeth` `blood` `born` `brother` `children` `christ` `come` `commandments` `confidence` `death` `desired` `earth` `eternal` `faith` `father` `final` `ghost` `give` `given` `god` `greater` `grievous` `hath` `hear` `heareth` `heaven` `holy` `idols` `jesus` `keep` `keepeth` `know` `liar` `life` `love` `loveth` `men` `name` `overcometh` `petitions` `pray` `prayer` `receive` `record` `sin` `sinneth` `son` `spirit` `testified` `three` `threefold` `toucheth` `true` `truth` `understanding` `unrighteousness` `victory` `warning` `water` `whosoever` `wicked` `wickedness` `witness` `word` `world` `written`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

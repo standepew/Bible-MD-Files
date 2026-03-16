@@ -79,6 +79,11 @@ The chapter opens with a double framing: not the doings of Egypt (where they cam
 - **The land defiled by sexual immorality** → Leviticus 18:24-28 — Isaiah 24:5-6; Romans 8:22
 - **Child sacrifice / Molech** → Leviticus 18:21 — 2 Kings 23:10; Jeremiah 32:35; Ezekiel 16:21
 
+
+*AI Keywords for current event matching:*
+`124-27` `182-4` `69-11` `corinthians` `current` `ethics` `events` `god` `grounded` `leviticus` `lord` `matching` `romans` `sexual`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -83,6 +83,11 @@ David enquired of LORD about going to cities of Judah; LORD said go up. David as
 
 **Truce:** Joab Abishai pursued Abner sun hill Ammah Giah wilderness Gibeon, children Benjamin gathered Abner troop hill, Abner Joab sword devour bitterness latter end people return brethren, Joab GOD morning people brother, Joab trumpet people still pursued Israel fought, Abner men night plain Jordan Bithron Mahanaim, Joab Abner people David servants nineteen men Asahel, servants David smitten Benjamin Abner men three hundred threescore died, Asahel buried sepulchre father Bethlehem Joab men night Hebron break day
 
+
+*AI Keywords for current event matching:*
+`abigail` `abishai` `abner` `ahinoam` `ammah` `anointed` `anointing` `arise` `armour` `asahel` `asahels` `ashurites` `aside` `battle` `beaten` `begins` `behind` `benjamin` `bethlehem` `bithron` `bitterness` `break` `brethren` `brother` `buried` `captain` `carmelite` `caught` `children` `cities` `civil` `david` `davids` `day` `dead` `death` `devour` `died` `end` `enquired` `ephraim` `face` `father` `fell` `fellow` `fifth` `following` `foot` `forty` `fought` `gathered` `giah` `gibeon` `gilead` `god` `gratitude` `ground` `hands` `head` `hebron` `helkath-hazzurim` `hill` `hinder` `hold` `host` `house` `household` `hundred` `ish-bosheth` `ish-bosheths` `israel` `jabesh` `jezreel` `jezreelitess` `joab` `jordan` `judah` `kindness` `king` `kingdom` `latter` `left` `light` `lord` `mahanaim` `master` `men` `messengers` `months` `morning` `nabal` `ner` `night` `nineteen` `people` `place` `plain` `play` `pool` `pursued` `refused` `reigned` `requite` `return` `rib` `right` `roe` `sat` `saul` `sepulchre` `servants` `seven` `side` `six` `smite` `smitten` `son` `sons` `sore` `spear` `still` `strengthened` `sun` `sword` `three` `threescore` `thrust` `troop` `truce` `trumpet` `truth` `turned` `twelve` `two` `valiant` `war` `whither` `wife` `wild` `wilderness` `wives` `years` `young` `zeruiah`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

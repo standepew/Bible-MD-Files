@@ -127,6 +127,11 @@ Rivers, Babylon, sat, wept, remembered, Zion, hanged, harps, willows, midst, car
 
 **Divine Justice:** remember LORD children Edom, daughter Babylon destroyed, rewardeth served
 
+
+*AI Keywords for current event matching:*
+`away` `babylon` `captive` `captivity` `carried` `chief` `children` `cleave` `daughter` `destroyed` `divine` `edom` `exile` `forget` `hand` `hanged` `harps` `jerusalem` `joy` `justice` `lament` `land` `longing` `lord` `prefer` `remember` `remembered` `required` `rewardeth` `right` `rivers` `roof` `served` `sing` `song` `sorrow` `strange` `tongue` `wept` `willows` `zion`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

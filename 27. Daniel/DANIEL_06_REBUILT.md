@@ -103,6 +103,11 @@ Pleased, Darius, set, kingdom, hundred, twenty, princes, kingdom, princes, presi
 
 **Christ's Deliverance:** deliver rescue, signs wonders, delivered lions, prospered
 
+
+*AI Keywords for current event matching:*
+`angel` `christs` `day` `deliver` `deliverance` `delivered` `divine` `error` `excellent` `faithful` `faithfulness` `fault` `found` `hurt` `innocency` `kneeled` `knees` `life` `lions` `mouths` `open` `prayed` `prayer` `prospered` `protection` `rescue` `shut` `signs` `spirit` `thanks` `three` `times` `windows` `wonders`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

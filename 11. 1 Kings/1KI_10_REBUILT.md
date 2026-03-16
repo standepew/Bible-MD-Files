@@ -91,6 +91,11 @@ Queen Sheba heard fame Solomon name LORD; prove hard questions. Jerusalem great 
 
 **Military Strength:** Solomon chariots horsemen thousand four hundred chariots twelve thousand horsemen bestowed cities chariots king Jerusalem, king silver Jerusalem stones cedars sycomore trees vale abundance, Solomon horses Egypt linen yarn king merchants linen yarn price, chariot Egypt six hundred shekels silver hundred fifty horses kings Hittites kings Syria
 
+
+*AI Keywords for current event matching:*
+`abundance` `accounted` `acts` `almug` `annual` `apes` `apparel` `arabia` `armour` `ascent` `asked` `attendance` `bare` `beaten` `behind` `believed` `best` `bestowed` `blessed` `bounty` `brought` `built` `camels` `cedars` `chariot` `chariots` `cities` `communed` `continually` `country` `cupbearers` `day` `days` `delighted` `desire` `drinking` `earth` `egypt` `equipment` `exceed` `exceeded` `eyes` `fame` `fifty` `forest` `forever` `four` `garments` `gifts` `god` `gold` `governors` `great` `half` `happy` `hard` `harps` `hear` `heard` `heart` `hid` `hiram` `hittites` `horsemen` `horses` `house` `household` `hundred` `international` `israel` `ivory` `jerusalem` `judgment` `justice` `king` `kingdom` `kings` `land` `lebanon` `like` `linen` `lions` `lord` `loved` `meat` `men` `merchantmen` `merchants` `military` `ministers` `mules` `name` `navy` `ophir` `overlaid` `peacocks` `pillars` `place` `plenty` `pound` `precious` `present` `price` `prosperity` `prove` `psalteries` `pure` `queen` `queens` `questions` `rate` `report` `revenue` `riches` `round` `royal` `sea` `seat` `seen` `servants` `sheba` `shekels` `shield` `shields` `side` `silver` `singers` `sitting` `six` `solomon` `sought` `spice` `spices` `spirit` `stand` `stayed` `stays` `steps` `stones` `store` `strength` `sycomore` `syria` `table` `talents` `target` `targets` `testimony` `tharshish` `thing` `thousand` `three` `threescore` `throne` `told` `top` `trade` `traffick` `train` `trees` `true` `turned` `twelve` `twenty` `two` `universal` `vale` `vessels` `visit` `wealth` `weight` `wisdom` `words` `yarn` `year` `years`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

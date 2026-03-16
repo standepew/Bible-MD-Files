@@ -127,6 +127,11 @@ Justified, faith, peace, God, Lord, Jesus, Christ, access, faith, grace, stand, 
 
 **Grace Abounds:** man offence, death reigned, receive abundance, grace gift, righteousness, reign life, Jesus Christ, offence judgment, men condemnation, righteousness free, gift men, justification life, disobedience sinners, obedience righteous, law entered, offence abound, sin abounded, grace abounded, sin reigned, death grace, reign righteousness, eternal life, Jesus Christ, Lord
 
+
+*AI Keywords for current event matching:*
+`abound` `abounded` `abounds` `abroad` `abundance` `access` `adam` `ashamed` `atonement` `blood` `christ` `commendeth` `condemnation` `dare` `dead` `death` `die` `died` `disobedience` `enemies` `entered` `eternal` `experience` `faith` `figure` `free` `ghost` `gift` `given` `glory` `god` `good` `grace` `hearts` `holy` `hope` `imputed` `jesus` `joy` `judgment` `justification` `justified` `law` `life` `lord` `love` `man` `men` `moses` `obedience` `offence` `offences` `passed` `patience` `peace` `receive` `received` `reconciled` `reign` `reigned` `rejoice` `righteous` `righteousness` `saved` `shed` `similitude` `sin` `sinned` `sinners` `son` `stand` `strength` `time` `transgression` `tribulation` `tribulations` `ungodly` `without` `worketh` `world` `wrath`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

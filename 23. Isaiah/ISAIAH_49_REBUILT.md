@@ -127,6 +127,11 @@ Listen, isles, hearken, people, far, LORD, called, womb, bowels, mother, made, m
 
 **Christ's Glory:** glorified eyes LORD, lift hand Gentiles, set standard people, Saviour Redeemer mighty
 
+
+*AI Keywords for current event matching:*
+`acceptable` `called` `christs` `commission` `covenant` `darkness` `divine` `eyes` `feed` `forth` `gentiles` `glorified` `glory` `hand` `heard` `high` `hunger` `israel` `jacob` `lift` `light` `lord` `mighty` `mountains` `people` `places` `preserved` `prisoners` `raise` `redeemer` `restoration` `restore` `saviour` `servant` `set` `spiritual` `standard` `thing` `thirst` `time` `tribes` `way` `ways` `womb`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

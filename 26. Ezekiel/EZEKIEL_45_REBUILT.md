@@ -103,6 +103,11 @@ Divide, land, inheritance, oblation, Lord, holy, portion, land, length, five, tw
 
 **Christ's Reconciliation:** sin offering, burnt offering, peace offerings, reconciliation Lord
 
+
+*AI Keywords for current event matching:*
+`balances` `burnt` `christs` `divide` `divine` `ephah` `execute` `five` `holy` `houses` `hundred` `inheritance` `judgment` `justice` `land` `length` `levites` `lord` `ministers` `offering` `offerings` `peace` `place` `portion` `priests` `reconciliation` `remove` `round` `sanctuary` `sin` `square` `violence`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

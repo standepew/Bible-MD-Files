@@ -88,6 +88,11 @@ After the golden calf judgment, God tells Moses: go to the promised land — I'l
 - **Hidden in Christ** → Exodus 33:22 — Colossians 3:3; 1 Corinthians 10:4
 - **The consuming fire / holiness among sinners** → Exodus 33:3-5 — Isaiah 6:5; Hebrews 12:29
 
+
+*AI Keywords for current event matching:*
+`covenant` `current` `events` `exodus` `gods` `land` `matching` `point` `presence` `psalm` `refusing` `without`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

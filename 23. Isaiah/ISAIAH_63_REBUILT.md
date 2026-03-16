@@ -127,6 +127,11 @@ Cometh, Edom, dyed, garments, Bozrah, glorious, apparel, travelling, greatness, 
 
 **Christ's Compassion:** lovingkindnesses LORD, great goodness Israel, holy Spirit within, lead people
 
+
+*AI Keywords for current event matching:*
+`afflicted` `affliction` `angel` `apparel` `arm` `bare` `brought` `carried` `christs` `cometh` `compassion` `day` `divine` `dyed` `edom` `father` `goodness` `great` `heart` `holy` `israel` `lead` `lord` `love` `lovingkindnesses` `mighty` `people` `pity` `presence` `red` `redeemed` `redeemer` `redemption` `salvation` `save` `saved` `spirit` `spiritual` `tread` `vengeance` `winepress` `within` `year`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -64,6 +64,11 @@ The people weep all night, murmur against Moses and Aaron, wish they had died in
 - **The faithful minority vs. the faithless majority** → Numbers 14:24, 30 — Caleb and Joshua; 1 Kings 19:18 (seven thousand who have not bowed)
 - **Presumptuous action without divine command** → Numbers 14:44-45 — the counter-march; ark stays in camp; disaster follows
 
+
+*AI Keywords for current event matching:*
+`141-4` `312-19` `congregation` `current` `events` `gods` `hebrews` `institutional` `mass` `matching` `numbers` `promise` `rejection` `unbelief` `whole`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS WITH CONTEXTUAL DEFINITIONS

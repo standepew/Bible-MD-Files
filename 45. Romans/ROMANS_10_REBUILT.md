@@ -115,6 +115,11 @@ Brethren, heart, desire, prayer, God, Israel, saved, bear, record, zeal, God, kn
 
 **Salvation for All:** call believed, believe heard, hear preacher, preach sent, written beautiful, feet preach, gospel peace, bring glad, tidings obeyed, gospel Esaias, Lord believed, report faith, hearing hearing, word God heard, sound earth, words world Israel, know Moses, provoke jealousy, people foolish, nation anger, Esaias bold, found sought, made manifest, asked Israel, stretched hands, disobedient, gainsaying, people
 
+
+*AI Keywords for current event matching:*
+`above` `anger` `ascend` `ashamed` `asked` `bear` `beautiful` `believe` `believed` `believeth` `bold` `brethren` `bring` `call` `christ` `confess` `confession` `dead` `deep` `descend` `describeth` `desire` `difference` `disobedient` `doeth` `earth` `end` `esaias` `establish` `faith` `feet` `foolish` `found` `gainsaying` `glad` `god` `gospel` `greek` `hands` `hear` `heard` `hearing` `heart` `heaven` `ignorant` `israel` `israels` `jealousy` `jesus` `jew` `know` `knowledge` `law` `live` `lord` `made` `man` `manifest` `moses` `mouth` `nation` `nigh` `obeyed` `peace` `people` `prayer` `preach` `preacher` `provoke` `raised` `record` `report` `rich` `righteousness` `saith` `salvation` `saved` `scripture` `sent` `sought` `sound` `speak` `stretched` `submitted` `tidings` `wise` `word` `words` `world` `written` `zeal`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

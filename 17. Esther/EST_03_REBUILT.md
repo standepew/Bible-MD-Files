@@ -151,6 +151,11 @@ King, Ahasuerus, promote, Haman, son, Hammedatha, Agagite, advanced, seat, princ
 
 **Royal Decree:** king scribes thirteenth day first month written Haman commanded king lieutenants governors provinces rulers people provinces writing people language name king Ahasuerus written sealed king ring, letters posts king provinces destroy kill perish Jews young old children women day thirteenth day twelfth month month Adar take spoil prey, copy writing commandment province published people ready day, posts hastened king commandment decree Shushan palace king Haman sat drink city Shushan perplexed
 
+
+*AI Keywords for current event matching:*
+`adar` `advanced` `agagite` `against` `ahasuerus` `bowed` `business` `cast` `charge` `children` `city` `commanded` `commandment` `copy` `daily` `day` `decree` `defiance` `destroy` `dispersed` `diverse` `drink` `enemy` `first` `gate` `gave` `good` `governors` `haman` `hamans` `hammedatha` `hand` `hands` `hastened` `hearkened` `jew` `jews` `keep` `kill` `king` `kingdom` `language` `laws` `lay` `letters` `lieutenants` `lot` `matters` `month` `mordecai` `mordecais` `name` `nisan` `old` `palace` `pay` `people` `perish` `perplexed` `please` `plot` `posts` `prey` `princes` `profit` `promote` `promotion` `province` `provinces` `published` `pur` `ready` `reverence` `reverenced` `ring` `royal` `rulers` `sat` `scattered` `scorn` `scribes` `sealed` `seat` `seemeth` `servants` `shewed` `shushan` `silver` `son` `spake` `spoil` `stand` `suffer` `take` `talents` `ten` `thirteenth` `thousand` `told` `transgress` `treasuries` `twelfth` `women` `wrath` `writing` `written` `year` `young`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

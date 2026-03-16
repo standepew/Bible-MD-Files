@@ -127,6 +127,11 @@ LORD, trust, never, confusion, Deliver, righteousness, escape, incline, ear, sav
 
 **Eternal Praise:** mouth filled praise honour day, praise psaltery truth GOD sing harp Holy One Israel, lips greatly rejoice sing soul redeemed tongue talk righteousness day
 
+
+*AI Keywords for current event matching:*
+`age` `bowels` `cast` `coming` `commandment` `confusion` `continually` `cruel` `day` `deliver` `divine` `eternal` `everyone` `faileth` `faithfulness` `filled` `forsake` `fortress` `generation` `god` `grayheaded` `greatly` `habitation` `hand` `harp` `holden` `holy` `honour` `hope` `israel` `lifelong` `lips` `lord` `man` `mother` `mouth` `never` `off` `old` `one` `power` `praise` `protection` `psaltery` `redeemed` `rejoice` `resort` `righteousness` `rock` `save` `shewed` `sing` `soul` `strength` `strong` `talk` `time` `tongue` `took` `trust` `truth` `unrighteous` `wicked` `womb` `youth`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

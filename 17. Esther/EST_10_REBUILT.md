@@ -79,6 +79,11 @@ King, Ahasuerus, laid, tribute, land, isles, sea. Acts, power, might, declaratio
 
 **Peaceful Leadership:** seeking wealth people speaking peace seed
 
+
+*AI Keywords for current event matching:*
+`accepted` `acts` `advanced` `ahasuerus` `book` `brethren` `chronicles` `declaration` `final` `great` `greatness` `honor` `isles` `jew` `jews` `king` `kings` `laid` `land` `leadership` `media` `mordecai` `mordecais` `multitude` `next` `peace` `peaceful` `people` `persia` `power` `royal` `sea` `seed` `seeking` `speaking` `tribute` `wealth` `written`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

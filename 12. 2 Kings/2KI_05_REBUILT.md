@@ -91,6 +91,11 @@ Naaman captain host king Syria, great man, master, honourable, LORD deliverance 
 
 **Gehazi's Judgment:** master Elisha Whence Gehazi servant whither heart chariot meet time money garments oliveyards vineyards sheep oxen menservants maidservants, leprosy Naaman cleave seed leper white snow
 
+
+*AI Keywords for current event matching:*
+`abana` `away` `bags` `blessing` `bore` `bow` `burden` `burnt` `captain` `captive` `changes` `chariot` `child` `clean` `cleave` `clothes` `command` `companies` `company` `condition` `content` `conversion` `damascus` `deliverance` `departed` `door` `earth` `elisha` `elishas` `ephraim` `faith` `father` `fear` `flesh` `garments` `gehazi` `gehazis` `god` `gods` `gold` `great` `greed` `hand` `hands` `healing` `heart` `honourable` `horses` `host` `house` `israel` `israels` `jordan` `judgment` `kill` `king` `land` `lean` `leper` `leprosy` `letter` `life` `little` `live` `lord` `maid` `maids` `maidservants` `man` `master` `meet` `men` `menservants` `messenger` `mighty` `mistress` `money` `mount` `mules` `naaman` `naamans` `offering` `oliveyards` `oxen` `pardon` `peace` `pharpar` `place` `pride` `prophet` `prophets` `quarrel` `rage` `raiment` `receive` `receiving` `recover` `refused` `rent` `request` `rimmon` `rivers` `run` `sacrifice` `samaria` `seed` `servant` `servants` `seven` `sheep` `silver` `six` `snow` `somewhat` `sons` `spared` `stand` `strike` `syria` `syrian` `syrians` `talent` `talents` `ten` `thing` `thousand` `time` `times` `tower` `turned` `urged` `valour` `vineyards` `waited` `wash` `waters` `well` `whence` `white` `whither` `wife` `wisdom` `worship` `wroth` `young`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

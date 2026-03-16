@@ -67,6 +67,11 @@ The seventh month contains three great sacred times. First day: a holy convocati
 - **The eighth day / the solemn assembly** → Numbers 29:35 — John 7:37; the great day of the feast; the day after completion
 - **Vows and freewill offerings beside commanded offerings** → Numbers 29:39 — the commanded minimum is not the ceiling
 
+
+*AI Keywords for current event matching:*
+`announcement` `corinthians` `current` `divine` `events` `intervention` `matching` `matthew` `numbers` `thessalonians` `trumpets`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS WITH CONTEXTUAL DEFINITIONS

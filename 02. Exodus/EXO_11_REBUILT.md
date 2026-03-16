@@ -76,6 +76,11 @@ God announces to Moses the final, decisive plague — the death of all the first
 - **Righteous anger** → Exodus 11:8 — Moses departs in great anger
 - **God using resistance to multiply His signs** → Exodus 11:9-10 — wonders multiplied through Pharaoh's hardness
 
+
+*AI Keywords for current event matching:*
+`act` `current` `decisive` `events` `exodus` `final` `gods` `judgment` `matching` `plague` `point` `return` `tenth`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -79,6 +79,11 @@ Song, degrees, lift, eyes, dwellest, heavens, Behold, eyes, servants, hand, mast
 
 **Contempt of the Proud:** filled contempt, scorning ease, contempt proud
 
+
+*AI Keywords for current event matching:*
+`contempt` `dependence` `divine` `dwellest` `ease` `eyes` `filled` `god` `hand` `heavens` `humble` `lift` `lord` `maiden` `masters` `mercy` `mistress` `proud` `scorning` `servants` `supplication` `until` `wait`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -121,6 +121,11 @@ Jabin king of Hazor, hearing of Israel's victories, sends to Jobab of Madon, Shi
 
 **Conquest Completion:** Joshua whole land, LORD Moses, Joshua inheritance Israel divisions tribes, land rested war
 
+
+*AI Keywords for current event matching:*
+`achshaph` `afraid` `amorite` `anab` `anakim` `anakims` `army` `ashdod` `attack` `baal-gad` `back` `bade` `battle` `borders` `breathe` `burn` `burned` `burnt` `canaanite` `cattle` `chariots` `chased` `children` `chinneroth` `cities` `city` `coalition` `command` `commanded` `complete` `completion` `conquest` `country` `cut` `debir` `defeat` `deliver` `delivered` `destroy` `destroyed` `destroying` `destruction` `disarmament` `divine` `divisions` `dor` `east` `eastward` `edge` `extended` `favour` `fell` `fight` `fire` `gath` `gaza` `gibeon` `goshen` `great` `halak` `hand` `harden` `hardening` `hazor` `hazors` `head` `heard` `hearts` `hebron` `hermon` `hills` `hittite` `hivite` `hivites` `horses` `hosts` `hough` `inhabitants` `inheritance` `israel` `jabin` `jebusite` `jobab` `joshua` `judah` `king` `kingdoms` `kings` `land` `lebanon` `left` `long` `lord` `madon` `maim` `man` `massive` `merom` `met` `military` `misrephoth` `mizpeh` `moses` `mount` `mountain` `mountains` `multitude` `none` `north` `northern` `obedience` `peace` `people` `perfect` `perizzite` `pitched` `plain` `plains` `prey` `remained` `remaining` `rested` `sand` `sea` `seir` `sent` `servant` `shimron` `shore` `slain` `slew` `smote` `souls` `south` `spoil` `still` `strength` `sudden` `suddenly` `sword` `territorial` `time` `together` `tomorrow` `took` `tribes` `turned` `undone` `utterly` `valley` `war` `warfare` `waters` `went` `west` `whole` `zidon`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

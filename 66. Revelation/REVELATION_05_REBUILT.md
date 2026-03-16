@@ -93,6 +93,11 @@ Right, hand, throne, book, written, backside, sealed, seven, seals, strong, ange
 
 **Universal Worship:** creature, heaven, earth, under, earth, sea, heard, Blessing, honour, glory, power, throne, Lamb, beasts, Amen, elders, fell, worshipped, liveth
 
+
+*AI Keywords for current event matching:*
+`able` `amen` `angel` `angels` `backside` `beasts` `beheld` `behold` `blessing` `blood` `book` `came` `creature` `david` `earth` `elder` `elders` `eyes` `fell` `found` `four` `glory` `god` `golden` `hand` `harps` `heard` `heaven` `honour` `horns` `juda` `judah` `kindred` `kings` `lamb` `lion` `liveth` `look` `loose` `loud` `man` `midst` `nation` `new` `number` `odours` `open` `people` `power` `prayers` `prevailed` `priests` `proclaiming` `read` `receive` `redeemed` `reign` `riches` `right` `root` `round` `saints` `sea` `sealed` `seals` `sent` `seven` `slain` `song` `spirits` `stood` `strength` `strong` `sung` `take` `ten` `thousand` `thousands` `throne` `tongue` `took` `tribe` `twenty` `universal` `vials` `voice` `weep` `wept` `wisdom` `worship` `worshipped` `worthiness` `worthy` `written`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

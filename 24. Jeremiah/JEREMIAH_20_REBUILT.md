@@ -103,6 +103,11 @@ Pashur, son, Immer, priest, chief, governor, house, LORD, heard, Jeremiah, proph
 
 **Christ's Deliverance:** LORD mighty terrible, persecutors stumble not prevail, delivered soul poor, praise LORD
 
+
+*AI Keywords for current event matching:*
+`babylon` `bones` `burning` `christs` `daily` `deliverance` `delivered` `derision` `divine` `enemies` `fall` `familiars` `fire` `forbearing` `give` `halting` `heart` `jeremiah` `judah` `lord` `magor` `mighty` `missabib` `mocketh` `persecution` `persecutors` `poor` `praise` `prevail` `see` `shut` `smote` `soul` `stay` `stocks` `stumble` `sword` `terrible` `terror` `vengeance` `watched` `weary` `word`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

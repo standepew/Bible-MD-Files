@@ -117,6 +117,11 @@ Great, voice, people, heaven, Alleluia, Salvation, glory, honour, power, Lord, G
 
 **The Beast and False Prophet Destroyed:** beast, kings, earth, armies, gathered, war, horse, army, beast, false, prophet, wrought, miracles, deceived, mark, beast, worshipped, image, cast, alive, lake, fire, brimstone, remnant, slain, sword, horse, sword, mouth, fowls, filled, flesh
 
+
+*AI Keywords for current event matching:*
+`again` `alive` `alleluia` `almighty` `amen` `angel` `armies` `army` `arrayed` `avenged` `beast` `beasts` `blessed` `blood` `bond` `brethren` `brimstone` `called` `captains` `cast` `chorus` `clean` `clothed` `corrupt` `crowns` `cry` `deceived` `destroyed` `dipped` `earth` `eat` `elders` `eyes` `faithful` `false` `fear` `feet` `fell` `fellowservant` `fierceness` `filled` `fine` `fire` `flame` `flesh` `fly` `followed` `forever` `fornication` `four` `fowls` `free` `gather` `gathered` `glad` `glory` `god` `great` `hallelujah` `head` `heaven` `honour` `horse` `horses` `image` `iron` `jesus` `judge` `judged` `judgments` `king` `kings` `knew` `lake` `lamb` `linen` `lord` `lords` `loud` `mark` `marriage` `men` `midst` `mighty` `miracles` `mouth` `multitude` `name` `nations` `omnipotent` `opened` `people` `power` `praise` `prophecy` `prophet` `ready` `reigneth` `rejoice` `remnant` `rider` `righteous` `righteousness` `rod` `rule` `saints` `salvation` `sat` `sayings` `servants` `sharp` `sit` `slain` `small` `smite` `smoke` `spirit` `sun` `supper` `sword` `testimony` `thigh` `throne` `thunderings` `tread` `true` `twenty` `vesture` `voice` `war` `waters` `white` `whore` `wife` `winepress` `word` `worship` `worshipped` `wrath` `write` `written` `wrought`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

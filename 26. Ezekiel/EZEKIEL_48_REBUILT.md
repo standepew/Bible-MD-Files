@@ -91,6 +91,11 @@ Names, tribes, north, end, coast, way, Hethlon, Hamath, Hazar, enan, border, Dam
 
 **Divine Presence:** Lord there, sanctuary house, holy oblation, firstfruits holy
 
+
+*AI Keywords for current event matching:*
+`asher` `benjamin` `christs` `city` `dan` `divine` `ephraim` `firstfruits` `foursquare` `gates` `holy` `house` `judah` `kingdom` `lord` `manasseh` `measures` `midst` `names` `naphtali` `oblation` `portions` `presence` `reuben` `round` `sanctuary` `simeon` `there` `three` `tribal` `tribes` `twelve`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -115,6 +115,11 @@ Word, Lord, son, man, women, daughters, mother, committed, whoredoms, Egypt, you
 
 **Christ's Cup:** sister cup, drink deep, laughed scorn, drunkenness sorrow
 
+
+*AI Keywords for current event matching:*
+`aholah` `aholibah` `bare` `christs` `cup` `daughters` `deep` `delivered` `discovered` `divine` `doted` `drink` `drunkenness` `faithfulness` `famous` `hand` `harlot` `jerusalem` `judgment` `laughed` `lovers` `mine` `mother` `nakedness` `played` `samaria` `scorn` `sister` `sisters` `slew` `sons` `sorrow` `sword` `two` `unfaithful` `women`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

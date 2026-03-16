@@ -127,6 +127,11 @@ Fourth, year, king, Darius, word, LORD, Zechariah, fourth, day, ninth, month, Ch
 
 **Divine Rejection:** refused hearken, pulled shoulder, stopped ears, adamant stone
 
+
+*AI Keywords for current event matching:*
+`adamant` `brother` `call` `christs` `compassions` `divine` `drink` `ears` `eat` `empty` `evil` `execute` `fast` `fasted` `fatherless` `former` `hear` `hearken` `imagine` `judgment` `justice` `mercy` `mourned` `obedience` `oppress` `poor` `prophets` `pulled` `refused` `rejection` `rituals` `shew` `shoulder` `social` `stone` `stopped` `stranger` `true` `widow` `words` `yourselves`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -103,6 +103,11 @@ Entrance, vain, suffered, shamefully, entreated, Philippi, bold, God, speak, gos
 
 **Paul's Desire to Return:** brethren, taken, short, time, presence, heart, endeavoured, abundantly, face, desire, come, Paul, once, again, Satan, hindered, hope, joy, crown, rejoicing, presence, Lord, Jesus, Christ, coming, glory, joy
 
+
+*AI Keywords for current event matching:*
+`abundantly` `affectionately` `again` `allowed` `alway` `apostles` `behaved` `believe` `bold` `brethren` `burdensome` `called` `ceasing` `chargeable` `charged` `cherisheth` `children` `christ` `churches` `cloke` `come` `comforted` `coming` `conduct` `contention` `contrary` `countrymen` `covetousness` `crown` `day` `dear` `deceit` `desire` `desirous` `effectually` `endeavoured` `entrance` `entreated` `exhortation` `exhorted` `face` `father` `fill` `flattering` `followers` `forbidding` `gentiles` `gentle` `glory` `god` `gospel` `guile` `heard` `heart` `hearts` `hindered` `holily` `hope` `imparted` `jesus` `jews` `joy` `judaea` `justly` `killed` `kingdom` `labour` `labouring` `lord` `men` `ministry` `night` `nurse` `once` `paul` `pauls` `persecuted` `persecution` `philippi` `please` `preached` `presence` `prophets` `received` `reception` `rejoicing` `remember` `return` `satan` `saved` `shamefully` `short` `sins` `sought` `souls` `speak` `suffered` `taken` `thank` `thessalonians` `time` `travail` `trieth` `trust` `truth` `unblameably` `uncleanness` `uttermost` `vain` `walk` `witness` `witnesses` `word` `words` `worketh` `worthy` `wrath`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -127,6 +127,11 @@ Vex, soul, break, pieces, words. Ten, times, reproached, ashamed, strange. Erred
 
 **Hope of Redeemer:** bone skin flesh escaped teeth, pity friends hand GOD touched, persecute GOD flesh satisfied, written book graven iron pen lead rock
 
+
+*AI Keywords for current event matching:*
+`abhorred` `acquaintance` `aliens` `answer` `ashamed` `bone` `book` `break` `breath` `brethren` `children` `crown` `darkness` `despised` `destroyed` `divine` `enemies` `erred` `error` `escaped` `fenced` `flesh` `forgotten` `friends` `glory` `god` `gone` `graven` `hand` `head` `hope` `inward` `iron` `isolation` `jobs` `judgment` `kindled` `kinsfolk` `lead` `loved` `magnify` `net` `overthrown` `pass` `paths` `pen` `persecute` `persecution` `pieces` `pity` `redeemer` `remain` `removed` `reproach` `reproached` `response` `rock` `satisfied` `servant` `skin` `social` `soul` `spoke` `strange` `stranger` `stripped` `tabernacle` `teeth` `ten` `times` `touched` `tree` `troops` `turned` `vex` `wife` `words` `wrath` `written` `wrong`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

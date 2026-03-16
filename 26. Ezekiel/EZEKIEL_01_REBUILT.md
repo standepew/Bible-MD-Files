@@ -115,6 +115,11 @@ Thirtieth, year, fourth, month, fifth, day, month, captives, river, Chebar, heav
 
 **Christ's Majesty:** living creatures, four faces, four wings, eyes round
 
+
+*AI Keywords for current event matching:*
+`appearance` `bow` `brightness` `christs` `cloud` `creatures` `crystal` `divine` `eyes` `face` `faces` `fell` `fire` `four` `glory` `god` `great` `heavenly` `heavens` `infolding` `living` `lord` `majesty` `man` `north` `opened` `rain` `round` `sapphire` `terrible` `throne` `vision` `visions` `whirlwind` `wings`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

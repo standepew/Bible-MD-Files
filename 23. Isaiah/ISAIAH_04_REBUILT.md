@@ -103,6 +103,11 @@ Day, seven, women, hold, man, saying, eat, bread, wear, apparel, called, name, r
 
 **Millennial Blessings:** holy written living, tabernacle shadow, place refuge
 
+
+*AI Keywords for current event matching:*
+`beautiful` `blessings` `blood` `branch` `burning` `christs` `cleansing` `cloud` `day` `defence` `divine` `earth` `excellent` `filth` `fire` `flaming` `fruit` `glorious` `glory` `holy` `judgment` `living` `lord` `millennial` `night` `place` `protection` `purged` `refuge` `shadow` `smoke` `spirit` `spiritual` `tabernacle` `washed` `written`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

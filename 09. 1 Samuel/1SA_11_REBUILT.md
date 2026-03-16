@@ -81,6 +81,11 @@ Nahash the Ammonite encamped against Jabesh-gilead. Jabesh men asked Nahash to m
 
 **Kingdom Renewal:** people Samuel Saul reign men death, Saul man death LORD wrought salvation Israel, Samuel people Gilgal renew kingdom, people Gilgal Saul king LORD Gilgal sacrifices peace offerings LORD Saul men Israel rejoiced
 
+
+*AI Keywords for current event matching:*
+`ammonite` `ammonites` `anger` `army` `bezek` `children` `coasts` `companies` `consent` `covenant` `day` `days` `death` `elders` `encamped` `eyes` `fear` `field` `gathered` `gibeah` `gilgal` `glad` `god` `good` `heat` `help` `herd` `hewed` `host` `hot` `hundred` `israel` `jabesh` `jabesh-gilead` `judah` `kindled` `king` `kingdom` `left` `lord` `man` `men` `messengers` `midst` `military` `morning` `morrow` `nahash` `numbered` `offerings` `oxen` `peace` `people` `pieces` `reign` `rejoiced` `remained` `renew` `renewal` `reproach` `respite` `response` `right` `sacrifices` `salvation` `samuel` `saul` `sauls` `save` `scattered` `serve` `seven` `slew` `spirit` `sun` `thirty` `thousand` `threat` `three` `thrust` `tidings` `two` `victory` `voices` `watch` `weep` `wept` `wrought` `yoke`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

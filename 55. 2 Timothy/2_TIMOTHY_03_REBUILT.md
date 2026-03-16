@@ -97,6 +97,11 @@ Know, last, days, perilous, times, men, lovers, selves, covetous, boasters, prou
 
 **All Scripture Inspired:** scripture, inspiration, God, profitable, doctrine, reproof, correction, instruction, righteousness, man, God, perfect, thoroughly, furnished, good, works
 
+
+*AI Keywords for current event matching:*
+`able` `accusers` `affection` `afflictions` `antioch` `assured` `away` `blasphemers` `boasters` `captive` `characteristics` `charity` `child` `christ` `continue` `correction` `corrupt` `covetous` `creep` `days` `deceived` `deceiving` `delivered` `denying` `despisers` `disobedient` `divers` `doctrine` `endured` `evil` `example` `faith` `false` `fierce` `folly` `form` `furnished` `further` `god` `godliness` `godly` `good` `heady` `highminded` `holy` `houses` `iconium` `incontinent` `inspiration` `inspired` `instruction` `jambres` `jannes` `jesus` `know` `knowing` `knowledge` `known` `laden` `last` `lead` `learned` `learning` `led` `life` `live` `longsuffering` `lord` `lovers` `lusts` `lystra` `man` `manifest` `manner` `men` `minds` `moses` `natural` `parents` `patience` `pauls` `perfect` `perilous` `persecution` `persecutions` `pleasures` `power` `proceed` `profitable` `proud` `purpose` `reprobate` `reproof` `resist` `righteousness` `salvation` `scripture` `scriptures` `seducers` `selves` `silly` `sins` `suffer` `things` `thoroughly` `times` `traitors` `trucebreakers` `truth` `turn` `unholy` `unthankful` `wise` `withstood` `women` `works` `worse`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

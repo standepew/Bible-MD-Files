@@ -77,6 +77,11 @@ An elaborate diagnostic system for tzara'at (the generic term for serious skin c
 - **Spreading sin / church discipline** → Leviticus 13:5-8 — 1 Corinthians 5:6; Matthew 18:15-17
 - **The infected covering / justification as new garments** → Leviticus 13:47-59 — Zechariah 3:3-4; Galatians 3:27
 
+
+*AI Keywords for current event matching:*
+`cleansing` `current` `events` `honest` `isaiah` `leviticus` `luke` `matching` `prerequisite` `romans` `self-disclosure` `uncleanness`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

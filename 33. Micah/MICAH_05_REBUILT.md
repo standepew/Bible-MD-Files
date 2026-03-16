@@ -115,6 +115,11 @@ Gather, troops, daughter, troops, laid, siege, smite, judge, Israel, rod, cheek,
 
 **Remnant's Victory:** dew LORD, lion forest, lifted adversaries, cut witchcrafts
 
+
+*AI Keywords for current event matching:*
+`adversaries` `assyrian` `beth-lehem` `bethlehem` `birth` `christs` `come` `cut` `deliver` `deliverance` `dew` `earth` `eight` `ends` `ephratah` `everlasting` `feed` `forest` `goings` `great` `israel` `judah` `land` `lifted` `lion` `little` `lord` `majesty` `man` `men` `messianic` `name` `old` `peace` `principal` `remnants` `ruler` `seven` `shepherds` `stand` `strength` `thousands` `victory` `witchcrafts`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

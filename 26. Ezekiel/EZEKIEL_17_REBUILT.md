@@ -127,6 +127,11 @@ Word, Lord, son, man, riddle, parable, house, Israel, Lord, GOD, great, eagle, g
 
 **Christ's Covenant:** break covenant, oath despised, spread net, high cedar
 
+
+*AI Keywords for current event matching:*
+`babylonian` `branch` `break` `cedar` `christs` `city` `colours` `covenant` `cut` `despised` `divers` `divine` `eagle` `east` `fruit` `goodly` `great` `high` `highest` `kingdom` `land` `merchants` `net` `oath` `parable` `prosper` `pull` `riddle` `roots` `sovereignty` `spread` `traffick` `vine` `wind` `wings` `wither`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

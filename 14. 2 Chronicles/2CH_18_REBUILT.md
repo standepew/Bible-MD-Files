@@ -151,6 +151,11 @@ Jehoshaphat, riches, honour, abundance, joined, affinity, Ahab. Years, Ahab, Sam
 
 **Divine Judgment:** king Israel Jehoshaphat king Judah Ramoth gilead, king Israel disguise battle robes king Israel disguised battle, king Syria captains chariots fight small great king Israel, captains chariots Jehoshaphat king Israel compassed fight Jehoshaphat cried LORD helped God depart, captains chariots perceived king Israel turned pursuing, man drew bow venture smote king Israel joints harness chariot man carry host wounded, battle increased day king Israel chariot Syrians even sun down died
 
+
+*AI Keywords for current event matching:*
+`abundance` `adjure` `affinity` `affliction` `ahab` `alliance` `amon` `answered` `assent` `battle` `besides` `bow` `bread` `call` `captains` `carry` `chamber` `chariot` `chariots` `cheek` `chenaanah` `city` `compassed` `consumed` `cried` `day` `declare` `deliver` `delivered` `depart` `died` `disguise` `disguised` `divine` `down` `drew` `enquire` `evil` `false` `fellow` `fetch` `fight` `forbear` `four` `gathered` `gilead` `god` `good` `governor` `great` `hand` `harness` `hate` `heaven` `helped` `hide` `honour` `horns` `host` `house` `hundred` `imla` `increased` `inner` `iron` `israel` `jehoshaphat` `joash` `joined` `joints` `judah` `judgment` `killed` `king` `left` `liveth` `lord` `lying` `man` `master` `messenger` `micaiah` `mountains` `mouth` `name` `officer` `oxen` `peace` `people` `perceived` `persuaded` `prison` `prophesied` `prophet` `prophets` `prosper` `pursuing` `push` `ramoth` `return` `riches` `right` `robes` `samaria` `say` `scattered` `sheep` `shepherd` `small` `smote` `son` `speak` `spirit` `spoken` `sun` `syria` `syrians` `throne` `times` `true` `truth` `turned` `unholy` `venture` `war` `water` `word` `wounded` `years` `zedekiah`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

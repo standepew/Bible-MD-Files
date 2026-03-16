@@ -115,6 +115,11 @@ Words, Jeremiah, son, Hilkiah, priests, Anathoth, land, Benjamin, word, LORD, da
 
 **Christ's Protection:** afraid faces, deliver thee, with thee, fight prevail
 
+
+*AI Keywords for current event matching:*
+`afraid` `authority` `belly` `brasen` `calling` `came` `christs` `city` `command` `commission` `defenced` `deliver` `divine` `down` `faces` `fight` `formed` `iron` `kingdoms` `knew` `lord` `mouth` `nations` `ordained` `pillar` `prevail` `prophet` `protection` `pull` `put` `root` `sanctified` `send` `set` `speak` `spiritual` `walls` `womb` `word` `words`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

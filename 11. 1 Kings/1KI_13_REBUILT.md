@@ -89,6 +89,11 @@ Man of God Judah, word LORD, Beth-el; Jeroboam altar, burn incense. Cried altar 
 
 **Jeroboam's Persistence:** Jeroboam returned evil way lowest people priests high places whosoever consecrated priests high places, sin house Jeroboam cut destroy face earth
 
+
+*AI Keywords for current event matching:*
+`alas` `altar` `angel` `answered` `ashes` `ass` `back` `besought` `beth-el` `bones` `bread` `bring` `brother` `brought` `burial` `buried` `burn` `burnt` `bury` `came` `carcase` `charged` `child` `cities` `city` `come` `commanded` `commandment` `consecrated` `cried` `cut` `david` `day` `dead` `delivered` `destroy` `disobedience` `disobeyed` `divine` `drank` `dried` `drink` `dwelt` `earth` `eat` `eaten` `evil` `execution` `face` `false` `father` `fathers` `found` `god` `gone` `grave` `half` `hand` `heard` `high` `hold` `home` `house` `houses` `incense` `intreat` `jeroboam` `jeroboams` `josiah` `judah` `judgment` `kept` `king` `lied` `lion` `lord` `lowest` `man` `men` `mens` `mission` `mourn` `mourned` `mouth` `oak` `obedience` `offer` `old` `pass` `passed` `people` `persistence` `place` `places` `poured` `pray` `priests` `prophet` `prophetic` `pull` `refresh` `rent` `restored` `return` `returned` `reward` `rode` `samaria` `sat` `saying` `sepulchre` `sign` `sin` `sitting` `slain` `slew` `sons` `spoke` `spoken` `table` `torn` `turn` `validation` `water` `way` `whosoever` `word` `words` `works`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

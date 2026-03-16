@@ -115,6 +115,11 @@ LORD, anointed, Cyrus, right, hand, holden, subdue, nations, loose, loins, kings
 
 **Christ's Lordship:** I am LORD none else, every knee shall bow, tongue shall swear, seed Israel justified
 
+
+*AI Keywords for current event matching:*
+`anointed` `bow` `bring` `christs` `create` `created` `creation` `cyrus` `darkness` `divine` `earth` `else` `everlasting` `every` `evil` `form` `formed` `forth` `god` `heavens` `israel` `justified` `kings` `knee` `light` `loins` `look` `loose` `lord` `lordship` `make` `nations` `none` `peace` `salvation` `saved` `seed` `sovereignty` `spiritual` `subdue` `swear` `tongue`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

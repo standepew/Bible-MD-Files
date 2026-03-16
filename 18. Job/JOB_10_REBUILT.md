@@ -127,6 +127,11 @@ Soul, weary, life, complaint, bitterness, soul. God, condemn, contend. Oppress, 
 
 **Death Desired:** granted life favour visitation preserved spirit, hid heart sin marked acquit iniquity, wicked righteous head confusion affliction increaseth
 
+
+*AI Keywords for current event matching:*
+`acquit` `affliction` `bitterness` `bones` `cheese` `clay` `clothed` `complaint` `condemn` `confusion` `contend` `counsel` `creation` `curdled` `days` `death` `deliver` `desired` `despise` `destroy` `divine` `dust` `enquire` `eyes` `fashioned` `favour` `fenced` `flesh` `god` `granted` `hand` `hands` `head` `heart` `hid` `increaseth` `iniquity` `jobs` `lament` `life` `made` `man` `marked` `milk` `oppress` `oppression` `paradox` `poured` `preserved` `remember` `righteous` `search` `seest` `shine` `sin` `sinews` `skin` `soul` `spirit` `visitation` `weary` `wicked` `work` `years`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

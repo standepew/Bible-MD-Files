@@ -99,6 +99,11 @@ Samson goes to Timnath and sees a Philistine woman. He tells his parents to get 
 
 **Wife's Loss:** Samson wife given companion friend
 
+
+*AI Keywords for current event matching:*
+`anger` `arrangement` `ashkelon` `ate` `bees` `brethren` `brought` `burn` `called` `carcass` `challenge` `change` `children` `city` `companion` `companions` `content` `daughters` `day` `days` `declare` `desire` `discovery` `divine` `dominion` `eater` `encounter` `entice` `expound` `expounded` `father` `feast` `fire` `found` `friend` `garments` `get` `given` `hand` `hands` `hate` `hear` `heifer` `honey` `house` `husband` `israel` `kid` `kindled` `knew` `lasted` `lay` `lion` `lord` `loss` `love` `marriage` `meat` `men` `mightily` `mother` `objection` `occasion` `parental` `people` `philistines` `pleased` `pleaseth` `plowed` `pressure` `purpose` `put` `rent` `response` `returned` `revenge` `riddle` `roared` `samson` `samsons` `seven` `seventh` `sheets` `slew` `solution` `sore` `sought` `spirit` `spoil` `strong` `stronger` `sun` `swarm` `sweeter` `sweetness` `take` `talked` `thirty` `three` `time` `timnath` `told` `took` `turned` `uncircumcised` `used` `vineyards` `violent` `wedding` `well` `went` `wept` `wife` `wifes` `woman` `young`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

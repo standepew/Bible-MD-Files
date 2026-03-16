@@ -139,6 +139,11 @@ Brethren, ignorant, fathers, cloud, passed, sea, baptized, Moses, cloud, sea, sp
 
 **All to God's Glory:** sold, shambles, eat, asking, question, conscience, earth, Lord, fulness, believe, feast, disposed, eat, asking, question, sacrifice, idols, eat, sake, shewed, conscience, earth, Lord, fulness, conscience, liberty, judged, conscience, grace, partaker, evil, spoken, give, thanks, eat, drink, whatsoever, glory, God, offence, Jews, Gentiles, church, God, please, men, things, seeking, profit, profit, many, saved
 
+
+*AI Keywords for current event matching:*
+`able` `admonition` `against` `altar` `asking` `baptized` `bear` `believe` `beloved` `bless` `blessing` `blood` `body` `bread` `break` `brethren` `christ` `church` `cloud` `committed` `common` `communion` `conscience` `cup` `dearly` `destroyed` `destroyer` `devils` `disposed` `drink` `earth` `eat` `edify` `ends` `ensamples` `escape` `evil` `example` `examples` `expedient` `faithful` `fall` `fathers` `feast` `fell` `fellowship` `flee` `flesh` `followed` `fornication` `fulness` `gentiles` `give` `glory` `god` `gods` `grace` `idol` `idolaters` `idolatry` `idols` `ignorant` `intent` `israel` `israels` `jealousy` `jews` `judge` `judged` `lawful` `liberty` `lord` `lords` `lust` `lusted` `man` `many` `meat` `men` `moses` `murmur` `murmured` `offence` `one` `overthrown` `partaker` `partakers` `passed` `people` `play` `please` `pleased` `profit` `provoke` `question` `rock` `rose` `sacrifice` `sacrifices` `sake` `sat` `saved` `sea` `seek` `seeking` `serpents` `shambles` `shewed` `sin` `sold` `speak` `spiritual` `spoken` `standeth` `stronger` `suffer` `table` `takeheed` `tempt` `temptation` `tempted` `thanks` `thing` `things` `thinketh` `thousand` `three` `twenty` `warnings` `way` `wealth` `whatsoever` `wilderness` `wise` `world` `written`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

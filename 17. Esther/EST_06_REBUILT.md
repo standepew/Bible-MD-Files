@@ -139,6 +139,11 @@ Night, king, sleep, commanded, book, records, chronicles, read, king. Found, wri
 
 **Irony of Fate:** king Haman haste apparel horse Mordecai Jew sits king gate fail spoken, Haman apparel horse arrayed Mordecai horseback street city proclaimed man king delight honour, Mordecai king gate Haman house mourning head covered, Haman Zeresh wife friends befallen wise men Zeresh wife Mordecai seed Jews begun fall prevail fall, talking king chamberlains hasted Haman banquet Esther prepared
 
+
+*AI Keywords for current event matching:*
+`ahasuerus` `answered` `apparel` `array` `arrayed` `banquet` `befallen` `begun` `bigthana` `book` `chamberlains` `chronicles` `city` `commanded` `court` `covered` `crown` `delight` `delivered` `dignity` `divine` `door` `esther` `fail` `fall` `fate` `found` `friends` `gallows` `gate` `haman` `hand` `hang` `haste` `hasted` `head` `heart` `honor` `honour` `horse` `horseback` `house` `insomnia` `irony` `jew` `jews` `keepers` `king` `lay` `man` `men` `ministered` `mordecai` `mourning` `night` `noble` `nothing` `outward` `prepared` `prevail` `princes` `proclaim` `proclaimed` `providence` `read` `records` `reversed` `rideth` `royal` `seed` `servants` `sits` `sleep` `sought` `speak` `spoken` `street` `talking` `teresh` `told` `useth` `wear` `wife` `wise` `written` `zeresh`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -165,6 +165,11 @@ Moses gives various laws: (1) Divorce—if a man finds "uncleanness" in his wife
 
 **Harvest Gleaning:** Cut harvest field, forgot sheaf, not go fetch, stranger fatherless widow, LORD bless work, beat olive tree, not go boughs, stranger fatherless widow, gather grapes vineyard, not glean afterward, stranger fatherless widow, remember bondman Egypt, command do thing
 
+
+*AI Keywords for current event matching:*
+`abomination` `abroad` `afterward` `again` `against` `another` `anything` `away` `beat` `bill` `bless` `bondman` `boughs` `brethren` `bring` `brother` `business` `cause` `charged` `cheer` `children` `command` `commanded` `cry` `cut` `day` `defiled` `deliver` `departed` `die` `diligently` `divorce` `divorcement` `down` `egypt` `essential` `every` `evil` `exemption` `fatherless` `fathers` `favour` `fetch` `field` `find` `forgot` `former` `free` `gates` `gather` `generational` `give` `glean` `gleaning` `grapes` `hand` `harvest` `hate` `heart` `hire` `hired` `home` `house` `husband` `inheritance` `israel` `judgment` `justice` `kidnapping` `land` `latter` `lend` `leprosy` `levites` `life` `lord` `man` `married` `merchandise` `millstone` `miriam` `needy` `nether` `new` `newlywed` `observe` `olive` `oppress` `pervert` `plague` `pledge` `poor` `priests` `procedures` `protection` `put` `raiment` `redeemed` `regulations` `remember` `righteousness` `selleth` `send` `sent` `servant` `setteth` `sheaf` `sin` `sleep` `stand` `stealing` `stranger` `strangers` `sun` `take` `taken` `taketh` `teach` `thief` `thing` `tree` `uncleanness` `upper` `vineyard` `vulnerable` `war` `way` `widow` `wife` `work` `worker` `year`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

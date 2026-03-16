@@ -115,6 +115,11 @@ Came, pass, days, Ahaz, son, Jotham, son, Uzziah, king, Judah, Rezin, king, Syri
 
 **Christ's Protection:** smoking firebrands, land forsaken kings, nourish cow, butter honey
 
+
+*AI Keywords for current event matching:*
+`ask` `bear` `believe` `birth` `butter` `call` `christs` `conceive` `cow` `depth` `divine` `eat` `established` `fainthearted` `faith` `fear` `firebrands` `forsaken` `give` `god` `heed` `height` `honey` `immanuel` `kings` `land` `lord` `nourish` `protection` `quiet` `sign` `smoking` `son` `take` `virgin` `weary`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

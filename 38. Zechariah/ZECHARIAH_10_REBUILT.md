@@ -127,6 +127,11 @@ Ask, LORD, rain, time, latter, rain, LORD, bright, clouds, showers, rain, grass,
 
 **Restoration of Israel:** save Joseph, bring place, hiss gather, pass sea
 
+
+*AI Keywords for current event matching:*
+`bright` `bring` `christs` `clouds` `confounded` `corner` `divine` `enemies` `field` `fight` `flock` `gather` `good` `goodly` `grass` `hiss` `horse` `house` `israel` `joseph` `latter` `leadership` `lord` `men` `mighty` `nail` `pass` `place` `provision` `rain` `restoration` `riders` `save` `sea` `shepherd` `showers` `strengthen` `tread` `true` `visited`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

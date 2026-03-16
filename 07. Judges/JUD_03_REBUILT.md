@@ -97,6 +97,11 @@ God left specific nations to test Israel: five Philistine lords, Canaanites, Sid
 
 **Shamgar's Victory:** Shamgar son Anath, slew Philistines six hundred men ox goad, delivered Israel
 
+
+*AI Keywords for current event matching:*
+`alone` `amalek` `ammon` `amorites` `anath` `anger` `arose` `ashamed` `assassination` `away` `baal-hermon` `baalim` `bare` `belly` `benjamite` `blade` `blew` `brother` `brought` `caleb` `came` `canaan` `canaanites` `chamber` `children` `chushan-rishathaim` `city` `closed` `commanded` `commandments` `covereth` `cried` `cubit` `cycle` `dagger` `daughters` `dead` `death` `deliverance` `delivered` `deliverer` `died` `dirt` `discovery` `doors` `draw` `dwelt` `earth` `edges` `eglon` `eglons` `ehud` `ehuds` `eight` `eighteen` `end` `enemies` `entering` `ephraim` `errand` `escape` `escaped` `evil` `fallen` `fat` `fathers` `feet` `first` `five` `follow` `fords` `forgat` `forty` `fourscore` `gathered` `gave` `generations` `gera` `gilgal` `gird` `goad` `god` `gods` `gone` `groves` `haft` `hamath` `hand` `hearken` `hittites` `hivites` `hot` `hundred` `idolatry` `integrational` `israel` `israels` `jebusites` `jordan` `judged` `keep` `kenaz` `key` `king` `knew` `know` `land` `lebanon` `left` `lefthanded` `length` `locked` `lord` `lords` `lusty` `man` `men` `mesopotamia` `message` `mission` `moab` `moabites` `moses` `mount` `mountain` `nations` `nothing` `opened` `oppression` `othniel` `othniels` `palm` `parlour` `pass` `passed` `people` `perizzites` `philistines` `plot` `porch` `possessed` `preparation` `present` `prevailed` `prove` `quarries` `raiment` `raised` `rest` `right` `seat` `second` `secret` `seirath` `sent` `servants` `served` `shamgar` `shamgars` `shut` `sidonians` `sight` `silence` `sin` `six` `slew` `smote` `sold` `son` `sons` `spirit` `stood` `strengthened` `subdued` `suffered` `summer` `tarried` `teach` `ten` `testing` `thigh` `thousand` `thrust` `took` `trees` `trumpet` `turned` `two` `valour` `victory` `war` `wars` `went` `wives` `years`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

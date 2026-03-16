@@ -103,6 +103,11 @@ LORD, bill, mother, divorcement, put, away, creditors, sold, behold, iniquities,
 
 **Christ's Vindication:** Lord GOD help, not confounded, not ashamed, near justifieth contend
 
+
+*AI Keywords for current event matching:*
+`ashamed` `away` `back` `cheeks` `christs` `confounded` `contend` `darkness` `divine` `ear` `face` `fire` `flint` `gave` `god` `hair` `help` `hid` `justifieth` `kindle` `light` `lord` `name` `near` `obedience` `obey` `opened` `plucked` `rebellious` `servant` `set` `shame` `smiters` `sparks` `spiritual` `spitting` `stay` `suffering` `trust` `turned` `vindication` `voice` `walk`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

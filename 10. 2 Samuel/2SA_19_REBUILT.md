@@ -85,6 +85,11 @@ Joab told, king weeps, mourns Absalom. Victory day turned to mourning to people;
 
 **Kingdom Division:** people Jordan king Jordan king kissed Barzillai blessed place, king Gilgal Chimham people Judah king half Israel, men Israel king Judah stolen king household David men Jordan, men Judah men Israel kin angry cost gift, men Israel men Judah ten parts king right David despise advice first bring king words Judah fiercer Israel
 
+
+*AI Keywords for current event matching:*
+`abiathar` `abishai` `absalom` `adversaries` `advice` `aged` `amasa` `angel` `angry` `anointed` `apology` `arise` `arose` `ashamed` `ass` `bahurim` `barzillai` `barzillais` `battle` `beard` `benjamin` `benjamite` `blessed` `boat` `bone` `bones` `bowed` `brethren` `bring` `burden` `captain` `chimham` `city` `clothes` `comfortably` `concubines` `cost` `covered` `cried` `cursed` `daughters` `david` `davids` `day` `dead` `death` `deceived` `delivered` `departed` `despise` `die` `died` `discern` `division` `dressed` `drink` `eat` `elders` `enemies` `evil` `eyes` `face` `father` `feed` `feet` `fell` `ferry` `fiercer` `fifteen` `first` `fled` `flee` `flesh` `fourscore` `friends` `gate` `gera` `gift` `gileadite` `gilgal` `god` `good` `grave` `great` `grief` `grieved` `half` `hasted` `hate` `hear` `heart` `honor` `host` `house` `household` `impute` `iniquity` `israel` `jerusalem` `joab` `joabs` `jordan` `joseph` `judah` `kin` `king` `kingdom` `kissed` `lame` `land` `life` `live` `lived` `lord` `loud` `love` `mahanaim` `man` `matters` `meet` `men` `mephibosheth` `mephibosheths` `mother` `mourning` `mourns` `night` `parts` `peace` `people` `perversely` `philistines` `place` `pleased` `priests` `princes` `rebuke` `recompense` `remember` `restoration` `return` `returned` `reward` `ride` `right` `rogelim` `room` `saddle` `sat` `saul` `saved` `seemed` `servant` `servants` `shamed` `shimei` `shimeis` `singing` `sinned` `slandered` `son` `sons` `speak` `speech` `steal` `stealth` `stolen` `strife` `sustenance` `sware` `table` `tarry` `taste` `ten` `thousand` `tribes` `trimmed` `turn` `twenty` `victory` `voice` `washed` `weeps` `wives` `words` `worse` `years` `youth` `zadok` `zeruiah` `ziba`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

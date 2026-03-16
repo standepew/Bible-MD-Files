@@ -115,6 +115,11 @@ Woe, Ariel, Ariel, city, David, dwelt, add, year, year, kill, sacrifices, distre
 
 **Christ's Understanding:** erred spirit understanding, murmured learn doctrine, sanctify Holy One, fear God Israel
 
+
+*AI Keywords for current event matching:*
+`blind` `blindness` `book` `cannot` `christs` `closed` `deaf` `deep` `divine` `doctrine` `erred` `eyes` `fear` `field` `fruitful` `god` `hear` `hid` `holy` `increase` `israel` `joy` `learn` `lebanon` `marvellous` `meek` `murmured` `obscurity` `one` `perish` `read` `revelation` `sanctify` `sealed` `see` `sleep` `spirit` `spiritual` `understanding` `wisdom` `wonder` `words` `work`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -94,6 +94,11 @@ God introduces the sin offering (chattat) — specifically for sins committed "t
 - **Blood applied according to weight of sin** → Leviticus 4:5-7 — Hebrews 9:24; 10:19
 - **High-handed sin has no sacrifice** → Numbers 15:30 — Hebrews 10:26
 
+
+*AI Keywords for current event matching:*
+`current` `events` `ignorance` `john` `leviticus` `luke` `matching` `psalm` `sin` `sins` `unintentional`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

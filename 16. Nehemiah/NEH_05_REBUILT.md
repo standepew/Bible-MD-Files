@@ -163,6 +163,11 @@ Great, cry, people, wives, brethren, Jews. Sons, daughters, corn, eat, live. Mor
 
 **Personal Sacrifice:** appointed governor land Judah twentieth year two thirtieth year Artaxerxes king twelve years brothers bread governor, former governors chargeable people bread wine forty shekels silver servants bare rule people fear GOD, continued work wall bought land servants gathered work, table hundred fifty Jews rulers heathen, prepared daily ox six choice sheep fowls ten days wine required bread governor bondage heavy people, think GOD good people
 
+
+*AI Keywords for current event matching:*
+`ability` `amen` `anger` `angry` `answer` `appointed` `artaxerxes` `assembly` `bare` `bondage` `borrowed` `bought` `bread` `brethren` `brother` `brothers` `chargeable` `children` `choice` `congregation` `consulted` `continued` `corn` `cry` `daily` `daughters` `day` `days` `dearth` `eat` `economic` `emptied` `enemies` `exact` `fear` `fifty` `flesh` `former` `forty` `fowls` `gathered` `god` `good` `governor` `governors` `great` `heard` `heathen` `heavy` `held` `house` `houses` `hundred` `hundredth` `jews` `judah` `king` `labour` `land` `lands` `lap` `live` `lord` `men` `money` `mortgaged` `nehemiahs` `nobles` `oath` `oil` `oliveyards` `oppression` `peace` `people` `perform` `personal` `praised` `prepared` `priests` `promise` `rebuked` `redeem` `redeemed` `reform` `reproach` `require` `required` `restore` `rule` `rulers` `sacrifice` `sell` `servants` `shake` `shaken` `sheep` `shekels` `shook` `silver` `six` `sold` `sons` `table` `ten` `think` `thirtieth` `tribute` `twelve` `twentieth` `two` `usury` `vineyards` `walk` `wall` `wine` `wives` `words` `work` `year` `years`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

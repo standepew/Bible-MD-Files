@@ -139,6 +139,11 @@ Psalm, David, cry, LORD, rock, silent, pit, hear, voice, supplications, cry, lif
 
 **Thanksgiving for Salvation:** heart trusted helped heart greatly rejoiceth song praise, blessed LORD heard voice supplications, save people bless inheritance
 
+
+*AI Keywords for current event matching:*
+`anointed` `bless` `blessed` `build` `cry` `david` `deeds` `desert` `destroy` `draw` `endeavours` `feed` `give` `god` `greatly` `hands` `hear` `heard` `heart` `hearts` `help` `helped` `holy` `inheritance` `iniquity` `judgment` `lift` `lord` `mischief` `neighbours` `operation` `oracle` `peace` `people` `pit` `praise` `prayer` `psalm` `regard` `rejoiceth` `render` `rock` `salvation` `save` `saving` `shield` `silent` `song` `speak` `strength` `supplications` `thanksgiving` `trusted` `voice` `wicked` `wickedness` `work` `workers` `works`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

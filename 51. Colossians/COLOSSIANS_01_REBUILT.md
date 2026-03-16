@@ -127,6 +127,11 @@ Paul, apostle, Jesus, Christ, will, God, Timotheus, brother, saints, faithful, b
 
 **The Mystery Revealed:** mystery, hid, ages, generations, made, manifest, saints, God, make, known, riches, glory, mystery, Gentiles, Christ, hope, glory, preach, warning, teaching, wisdom, present, perfect, Christ, Jesus, labour, striving, working, worketh, mightily
 
+
+*AI Keywords for current event matching:*
+`afflictions` `ages` `alienated` `apostle` `beginning` `behind` `blood` `body` `brethren` `bringeth` `brother` `cease` `christ` `christs` `church` `colosse` `consist` `continue` `created` `creature` `cross` `darkness` `day` `dead` `dear` `death` `declared` `delivered` `desire` `dispensation` `dominions` `dwell` `earth` `enemies` `epaphras` `faith` `faithful` `father` `fellowservant` `fill` `filled` `firstborn` `flesh` `forgiveness` `fruit` `fruitful` `fulfil` `fulness` `generations` `gentiles` `give` `giving` `glorious` `glory` `god` `good` `gospel` `grace` `grounded` `head` `heard` `heaven` `hid` `holy` `hope` `image` `increasing` `inheritance` `invisible` `jesus` `joyfulness` `kingdom` `knowledge` `known` `labour` `laid` `learned` `light` `longsuffering` `lord` `love` `made` `make` `manifest` `mightily` `mind` `minister` `moved` `mystery` `partakers` `patience` `paul` `peace` `perfect` `pleased` `pleasing` `power` `powers` `pray` `prayer` `praying` `preach` `preached` `preeminence` `present` `principalities` `reconcile` `reconciled` `redemption` `rejoice` `revealed` `riches` `saints` `sake` `settled` `sight` `sins` `son` `spirit` `spiritual` `strengthened` `striving` `sufferings` `supremacy` `teaching` `thanks` `thanksgiving` `things` `thrones` `timotheus` `translated` `truth` `unblameable` `understanding` `unreproveable` `visible` `walk` `warning` `wicked` `wisdom` `word` `work` `worketh` `working` `works` `world` `worthy`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

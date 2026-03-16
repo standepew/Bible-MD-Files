@@ -163,6 +163,11 @@ Feast, Jews, Jesus, Jerusalem, Jerusalem, sheep, market, pool, Hebrew, Bethesda,
 
 **Witnesses to Christ:** resurrection life, resurrection damnation, judgment just, greater witness, burning light, Father borne witness, search scriptures, Moses accuse
 
+
+*AI Keywords for current event matching:*
+`accuse` `angel` `bed` `bethesda` `borne` `broken` `burning` `christ` `committed` `controversy` `damnation` `day` `eight` `equal` `everlasting` `father` `feast` `five` `folk` `god` `greater` `healing` `honor` `impotent` `jesus` `jews` `judgment` `lawful` `life` `light` `loveth` `made` `moses` `nothing` `persecute` `pool` `porches` `quickeneth` `resurrection` `sabbath` `scriptures` `search` `sin` `slay` `son` `take` `thirty` `troubled` `voice` `whole` `wilt` `witness` `witnesses` `worketh` `works` `years`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

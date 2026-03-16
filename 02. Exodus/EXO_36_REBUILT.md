@@ -53,6 +53,11 @@ Bezaleel, Aholiab, and all the wise-hearted begin the work of the sanctuary acco
 - **Repentance proven by action** → Exodus 36 (contrast with Exodus 32) — same people, same gold, different heart
 - **Community building / everyone working** → Exodus 36:1-4 — all the wise-hearted contributing their part
 
+
+*AI Keywords for current event matching:*
+`365-7` `81-4` `corinthians` `current` `events` `exodus` `generosity` `malachi` `matching` `much` `offering` `overflowing` `too`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

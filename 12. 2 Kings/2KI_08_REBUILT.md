@@ -83,6 +83,11 @@ Elisha, woman, son restored life, Arise, household, sojourn wheresoever, LORD fa
 
 **Syrian Wars:** Joram son Ahab war Hazael king Syria Ramoth-gilead Syrians wounded Joram, king Joram healed Jezreel wounds Syrians Ramah fought Hazael king Syria Ahaziah son Jehoram king Judah Joram son Ahab Jezreel sick
 
+
+*AI Keywords for current event matching:*
+`acts` `ahab` `ahaziah` `ahaziahs` `arise` `arose` `ashamed` `athaliah` `ben-hadad` `body` `book` `burden` `buried` `camels` `chariots` `child` `children` `chronicles` `city` `cloth` `countenance` `cried` `damascus` `dash` `daughter` `david` `day` `dead` `departed` `destroy` `die` `died` `disease` `dog` `edom` `edomites` `elisha` `enquire` `evil` `face` `famine` `fathers` `field` `fifth` `fire` `fled` `forty` `fought` `fruits` `gehazi` `god` `good` `great` `hand` `hazael` `hazaels` `healed` `hither` `holds` `house` `household` `israel` `jehoram` `jehorams` `jehoshaphat` `jerusalem` `jezreel` `joram` `judah` `king` `kings` `land` `left` `libnah` `life` `light` `lord` `man` `master` `meet` `men` `morrow` `mother` `night` `officer` `omri` `people` `philistines` `present` `promised` `ramah` `ramoth-gilead` `recover` `reign` `reigned` `restoration` `restore` `restored` `returned` `revolted` `rip` `rise` `sake` `saying` `servant` `settled` `seven` `shewed` `shunammites` `sick` `sight` `slay` `slept` `smote` `sojourn` `son` `strong` `sword` `syria` `syrian` `syrians` `tents` `thick` `thing` `things` `thirty-two` `told` `twelfth` `twenty-two` `war` `wars` `water` `way` `weep` `wept` `wheresoever` `wife` `woman` `women` `wounded` `wounds` `year` `years` `young` `zair`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -81,6 +81,11 @@ Philistines fought against Israel; Israel's men fled from Philistines, fell slai
 
 **Jabesh-Gilead's Loyalty:** inhabitants Jabesh-gilead Philistines Saul, valiant men arose night body Saul bodies sons wall Beth-shan Jabesh burned, bones buried tree Jabesh fasted seven days
 
+
+*AI Keywords for current event matching:*
+`abinadab` `abuse` `afraid` `archers` `armour` `armourbearer` `arose` `ashtaroth` `battle` `beth-shan` `bodies` `body` `bones` `buried` `burned` `cities` `cut` `day` `days` `dead` `death` `defeat` `desecrated` `died` `dwelt` `fallen` `fasted` `fell` `fled` `followed` `forsook` `fought` `gilboa` `hard` `head` `hit` `house` `idols` `inhabitants` `israel` `israels` `jabesh` `jabesh-gilead` `jabesh-gileads` `jonathan` `jordan` `land` `loyalty` `malchi-shua` `men` `morrow` `mount` `night` `people` `philistine` `philistines` `saul` `sauls` `seven` `side` `slain` `slew` `sons` `sore` `strip` `stripped` `sword` `three` `thrust` `tree` `uncircumcised` `valiant` `valley` `victory` `wall` `wounded`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

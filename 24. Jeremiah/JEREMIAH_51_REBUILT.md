@@ -79,6 +79,11 @@ LORD, Babylon, dwell, midst, rise, destroying, wind, fanners, empty, land, troub
 
 **Divine Sovereignty:** former things, battle axe, earth power, heavens understanding
 
+
+*AI Keywords for current event matching:*
+`arrows` `axe` `babylons` `battle` `bright` `broken` `cause` `christs` `complete` `cup` `deliverance` `destroyed` `destroying` `destruction` `divine` `dragons` `earth` `empty` `fallen` `fanners` `final` `former` `forsaken` `golden` `heaps` `heavens` `israels` `kings` `land` `medes` `plead` `power` `redeemer` `rest` `sovereignty` `spirit` `strong` `things` `understanding` `victory` `walls` `wind`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

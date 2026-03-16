@@ -287,6 +287,11 @@ Forasmuch, many, taken, hand, order, declaration, things, surely, believed, deli
 
 **Zacharias' Song:** holy covenant, dayspring visited, strong spirit, way peace
 
+
+*AI Keywords for current event matching:*
+`babe` `baptist` `birth` `blameless` `blessed` `covenant` `day` `dayspring` `eighth` `elizabeth` `favoured` `foretold` `gabriel` `ghost` `handmaid` `heard` `highest` `highly` `holy` `horn` `israel` `jesus` `john` `leaped` `loosed` `lord` `magnify` `marys` `mighty` `mother` `name` `peace` `power` `prayer` `presence` `righteous` `salvation` `seats` `servant` `son` `song` `soul` `spirit` `strong` `things` `tongue` `visit` `visited` `way` `women` `zacharias`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

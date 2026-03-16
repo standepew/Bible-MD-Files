@@ -151,6 +151,11 @@ Followers, Christ, praise, brethren, remember, things, keep, ordinances, deliver
 
 **Divine Order:** brethren, tarry, hunger, eat, home, condemnation, rest, order, come
 
+
+*AI Keywords for current event matching:*
+`angels` `approved` `believe` `betrayed` `better` `blood` `body` `brake` `bread` `brethren` `broken` `cause` `chastened` `christ` `church` `churches` `come` `comely` `condemnation` `condemned` `contentious` `cover` `covered` `covering` `coverings` `created` `cup` `custom` `damnation` `death` `declare` `delivered` `despise` `discerning` `dishonoureth` `divine` `divisions` `drink` `drunken` `eat` `eating` `examine` `followers` `given` `glory` `god` `guilty` `hair` `head` `heresies` `home` `houses` `hunger` `hungry` `image` `jesus` `judge` `judged` `keep` `long` `lord` `lords` `man` `manifest` `manner` `nature` `night` `oft` `often` `order` `ordinances` `place` `power` `praise` `pray` `prayeth` `praying` `prophesieth` `prophesying` `received` `remember` `remembrance` `rest` `self-examination` `shame` `shaven` `shew` `shorn` `sickly` `sleep` `supper` `take` `taketh` `tarry` `teach` `testament` `thanks` `things` `together` `uncovered` `unworthily` `weak` `whosoever` `without` `woman` `world` `worse`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

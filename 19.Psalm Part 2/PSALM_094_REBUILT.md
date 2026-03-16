@@ -151,6 +151,11 @@ LORD, GOD, vengeance, belong, shew, LORD, judge, earth, render, reward, proud, L
 
 **God's Protection:** LORD cast people forsake inheritance, unless LORD help soul dwelt silence, LORD defence GOD rock refuge
 
+
+*AI Keywords for current event matching:*
+`adversity` `afflict` `belong` `blessed` `boast` `break` `cast` `chastenest` `days` `defence` `digged` `divine` `dwelt` `earth` `forsake` `give` `god` `gods` `hard` `heart` `help` `heritage` `inheritance` `iniquity` `instruction` `judge` `judgment` `law` `long` `lord` `people` `pieces` `pit` `protection` `proud` `refuge` `render` `rest` `return` `reward` `righteousness` `rock` `shew` `silence` `soul` `speak` `spiritual` `teach` `things` `triumph` `unless` `upright` `utter` `vengeance` `wicked` `workers`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

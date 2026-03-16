@@ -125,6 +125,11 @@ Moses commands the three annual feasts: Passover (month of Abib, commemorating E
 
 **Forbidden Worship:** Plant not grove, any trees, near altar, set not up image, LORD hateth
 
+
+*AI Keywords for current event matching:*
+`abib` `able` `affliction` `altar` `altogether` `any` `appear` `assembly` `begin` `bless` `blessed` `blessing` `blind` `bondman` `bread` `brought` `chooses` `coast` `corn` `daughter` `days` `down` `eat` `egypt` `empty` `eyes` `fatherless` `feast` `flock` `follow` `forbidden` `forth` `freewill` `gates` `gathered` `gift` `give` `going` `grove` `hand` `hands` `haste` `hateth` `hath` `herd` `image` `increase` `inherit` `judge` `judges` `judgment` `judicial` `keep` `land` `leaven` `leavened` `levite` `live` `lord` `maidservant` `make` `males` `manservant` `month` `morning` `near` `night` `number` `observance` `observe` `offering` `officers` `passover` `people` `persons` `pervert` `pilgrimage` `place` `plant` `rejoice` `remain` `remember` `requirements` `respect` `roast` `sacrifice` `seen` `set` `seven` `sickle` `solemn` `son` `statutes` `stranger` `sun` `surely` `system` `tabernacles` `take` `three` `times` `trees` `tribute` `turn` `unleavened` `weeks` `widow` `wine` `within` `words` `work` `works` `worship` `wrest` `year`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

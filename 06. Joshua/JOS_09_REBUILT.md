@@ -107,6 +107,11 @@ When Canaanite kings hear of Israel's victories, they unite to fight. Gibeon's i
 
 **Judgment and Service:** Hand, good right, delivered hand children Israel, slew not, Joshua day hewers wood drawers water congregation, altar LORD, day place choose
 
+
+*AI Keywords for current event matching:*
+`accord` `afraid` `against` `altar` `ambassadors` `ambassadorship` `among` `amorite` `amorites` `answered` `ashtaroth` `asked` `asses` `bashan` `beeroth` `beguiled` `bondmen` `bottles` `bound` `bread` `called` `came` `camp` `canaanite` `chephirah` `children` `choose` `cities` `clouted` `coalition` `coasts` `come` `commanded` `confrontation` `congregation` `counsel` `country` `cursed` `day` `days` `deception` `decision` `delivered` `destroy` `dilemma` `discovery` `done` `drawers` `dry` `dwell` `egypt` `elders` `explanation` `false` `fame` `far` `feet` `fight` `filled` `formation` `freed` `garments` `gathered` `gibeon` `gibeonite` `gilgal` `give` `god` `good` `great` `hand` `heard` `heshbon` `hewers` `hills` `hittite` `hivite` `hivites` `hot` `house` `houses` `inhabitants` `israel` `jearim` `jebusite` `jericho` `jordan` `joshua` `journey` `journeyed` `judgment` `king` `kings` `kirjath` `land` `league` `lebanon` `live` `lives` `long` `lord` `meet` `men` `moses` `mouldy` `mouth` `murmured` `name` `neighbours` `new` `oath` `old` `peace` `perizzite` `place` `princes` `promised` `provision` `rent` `right` `role` `sacks` `sea` `servant` `servants` `service` `shoes` `side` `sihon` `slew` `smote` `sore` `spake` `sware` `sworn` `take` `testimony` `thing` `third` `three` `told` `touch` `two` `valleys` `victuals` `water` `went` `whence` `wilily` `wine` `without` `wood` `work` `wrath`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -106,6 +106,11 @@ God tells Moses He hardened Pharaoh's heart specifically so these signs could be
 - **End of negotiations** → Exodus 10:28-29 — the mercy door closed; final judgment coming
 - **People vs. rulers** → Exodus 10:7 — Pharaoh's servants see reality while he does not
 
+
+*AI Keywords for current event matching:*
+`acts` `children` `current` `events` `exodus` `generational` `gods` `matching` `telling` `testimony`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

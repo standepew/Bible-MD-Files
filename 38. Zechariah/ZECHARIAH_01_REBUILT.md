@@ -127,6 +127,11 @@ Eighth, month, second, year, Darius, word, LORD, Zechariah, son, Berechiah, son,
 
 **Restoration of Jerusalem:** house built, line stretched, cities prosperity, choose Jerusalem
 
+
+*AI Keywords for current event matching:*
+`built` `call` `choose` `christs` `cities` `comfortable` `displeased` `divine` `earth` `evil` `fathers` `good` `hear` `hearken` `horse` `horses` `house` `jerusalem` `line` `mercies` `mercy` `myrtle` `prosperity` `red` `repentance` `rest` `restoration` `returned` `sitteth` `sore` `stretched` `trees` `turn` `vision` `walk` `ways` `words`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -199,6 +199,11 @@ Teach, sea, side, gathered, multitude, ship, sea, multitude, sea, land, taught, 
 
 **Storm Calming:** wind sea, peace still, great calm, manner man
 
+
+*AI Keywords for current event matching:*
+`calm` `calming` `candle` `candlestick` `choke` `christs` `converted` `doctrine` `forgiven` `good` `great` `ground` `hearing` `kingdom` `man` `manner` `measure` `mete` `mysteries` `mystery` `parable` `parables` `parabolic` `peace` `perceive` `sea` `seeing` `side` `sower` `sown` `still` `stony` `storm` `teaching` `thorns` `understand` `way` `wind` `word`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

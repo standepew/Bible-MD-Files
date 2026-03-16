@@ -84,6 +84,11 @@ God gives Moses the consecration (ordination) ritual for Aaron and his sons. The
 - **Baptism / washing for ministry** → Exodus 29:4 — Titus 3:5; 1 Corinthians 6:11
 - **Anointing / the Holy Spirit** → Exodus 29:7 — oil on Aaron's head; 1 John 2:27
 
+
+*AI Keywords for current event matching:*
+`anointing` `consecration` `current` `events` `exodus` `garments` `matching` `ministers` `ordination` `washing`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -103,6 +103,11 @@ Word, Jeremiah, LORD, saying, Arise, potter, house, cause, hear, words, went, po
 
 **Christ's Vengeance:** devise devices Jeremiah, digged pit soul, deliver children famine, overthrown anger
 
+
+*AI Keywords for current event matching:*
+`again` `anger` `build` `children` `christs` `clay` `deliver` `destroy` `devices` `devise` `digged` `divine` `evil` `famine` `forgotten` `hand` `heart` `hope` `house` `human` `imagination` `jeremiah` `made` `marred` `overthrown` `pit` `plant` `pluck` `potter` `pull` `rebellion` `repent` `soul` `sovereignty` `vanity` `vengeance` `vessel` `wheels` `work`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

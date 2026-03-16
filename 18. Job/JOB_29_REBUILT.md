@@ -163,6 +163,11 @@ Job, continued, parable, months, past, days, GOD, preserved. Candle, shined, hea
 
 **Past Prosperity:** righteousness clothed judgment robe diadem, eyes blind feet lame, father poor cause searched, jaws wicked spoil teeth
 
+
+*AI Keywords for current event matching:*
+`aged` `almighty` `arose` `blessed` `blessing` `blind` `butter` `candle` `cause` `children` `city` `cleaved` `clothed` `continued` `darkness` `days` `delivered` `diadem` `divine` `ear` `eye` `eyes` `father` `fatherless` `favor` `feet` `former` `gate` `glory` `god` `hand` `head` `help` `hid` `honor` `jaws` `job` `jobs` `joy` `judgment` `lame` `light` `men` `months` `mouth` `nobles` `oil` `parable` `past` `peace` `perish` `poor` `prepared` `preserved` `princes` `prosperity` `refrained` `righteousness` `robe` `rock` `roof` `searched` `seat` `secret` `shined` `social` `spoil` `steps` `stood` `street` `tabernacle` `talking` `teeth` `tongue` `walked` `wicked` `widow` `witness` `young` `youth`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

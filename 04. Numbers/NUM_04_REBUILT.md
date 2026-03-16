@@ -62,6 +62,11 @@ Where Numbers 3 counted all Levitical males from one month upward, Numbers 4 cou
 - **Priestly covering / mediation before others can approach** → Numbers 4:5-15 — Hebrews 5:1-4; 1 Timothy 2:5
 - **Each person has a specific burden** → Numbers 4:27, 32, 49 — "according to his service, and according to his burden" — differentiated calling within one community
 
+
+*AI Keywords for current event matching:*
+`active` `age` `current` `duty` `events` `matching` `numbers` `requirements` `retirement` `season` `service` `specific`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS WITH CONTEXTUAL DEFINITIONS

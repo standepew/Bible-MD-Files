@@ -103,6 +103,11 @@ Word, Lord, son, man, children, people, sword, land, people, coasts, set, watchm
 
 **Christ's Mercy:** no pleasure death, turn live, covetousness heart, prophet among
 
+
+*AI Keywords for current event matching:*
+`among` `blood` `blow` `christs` `covetousness` `death` `deliver` `die` `divine` `fall` `hand` `head` `hear` `heart` `land` `live` `mercy` `people` `personal` `pleasure` `prophet` `require` `responsibility` `righteousness` `set` `soul` `sword` `trumpet` `turn` `warn` `warning` `watchman` `way` `wickedness` `word`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

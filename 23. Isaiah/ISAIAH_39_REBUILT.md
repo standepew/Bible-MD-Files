@@ -103,6 +103,11 @@ Time, Merodach, baladan, son, Baladan, king, Babylon, sent, letters, present, He
 
 **Christ's Sovereignty:** peace truth days, good word LORD, LORD spoken, Hezekiah glad
 
+
+*AI Keywords for current event matching:*
+`away` `babylon` `babylonian` `baladan` `carried` `christs` `come` `days` `divine` `eunuchs` `exile` `fathers` `glad` `good` `hear` `hezekiah` `isaiah` `judgment` `king` `laid` `left` `letters` `lord` `merodach` `nothing` `palace` `peace` `present` `prophet` `saying` `sons` `sovereignty` `spoken` `store` `take` `truth` `warning` `word`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

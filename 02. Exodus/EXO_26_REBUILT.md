@@ -65,6 +65,11 @@ God gives Moses precise specifications for the Tabernacle structure. The innermo
 - **Redemption as foundation** → Exodus 26:19 — silver sockets from ransom money; 1 Peter 1:18-19
 - **Beauty hidden by outward plainness** → Exodus 26:14 — badgers' skins outside, gold within; Isaiah 53:2
 
+
+*AI Keywords for current event matching:*
+`among` `construction` `current` `detailed` `dwelling` `events` `exodus` `gods` `holy` `matching` `men` `place` `sanctuary` `temple`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

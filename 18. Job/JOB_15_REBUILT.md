@@ -127,6 +127,11 @@ Eliphaz, Temanite, answered, wise, man, vain, knowledge, belly, east, wind. Unpr
 
 **Traditional Wisdom:** spirit GOD words mouth, man clean woman righteous, trust saints heavens clean, abominable filthy man iniquity water
 
+
+*AI Keywords for current event matching:*
+`abominable` `aged` `answered` `belly` `born` `carry` `cast` `clean` `condemn` `consolations` `crafty` `east` `elder` `eliphaz` `eliphazs` `eyes` `fate` `father` `fear` `filthy` `first` `god` `good` `grayheaded` `heart` `heavens` `hills` `human` `iniquity` `knowest` `knowledge` `lips` `man` `men` `mouth` `prayer` `restrain` `righteous` `saints` `second` `secret` `sinfulness` `small` `speech` `speeches` `spirit` `talk` `temanite` `testify` `thing` `tongue` `traditional` `trust` `understandest` `unprofitable` `vain` `water` `wickeds` `wind` `wink` `wisdom` `wise` `woman` `words`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

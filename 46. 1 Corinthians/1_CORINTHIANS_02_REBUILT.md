@@ -103,6 +103,11 @@ Brethren, came, excellency, speech, wisdom, declaring, testimony, God, determine
 
 **Mind of Christ:** spiritual, judgeth, things, judged, man, known, mind, Lord, instruct, mind, Christ
 
+
+*AI Keywords for current event matching:*
+`brethren` `came` `christ` `comparing` `crucified` `declaring` `deep` `demonstration` `determined` `discerned` `discernment` `ear` `entered` `enticing` `excellency` `eye` `faith` `fear` `foolishness` `freely` `ghost` `glory` `god` `heard` `heart` `hidden` `holy` `instruct` `jesus` `judged` `judgeth` `knew` `know` `knoweth` `known` `lord` `love` `man` `men` `mind` `mystery` `natural` `nought` `ordained` `perfect` `power` `preaching` `prepared` `princes` `received` `receiveth` `revealed` `searcheth` `seen` `speak` `speech` `spirit` `spiritual` `spiritually` `stand` `teacheth` `testimony` `thing` `things` `trembling` `weakness` `wisdom` `words` `world` `written`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

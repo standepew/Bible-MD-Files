@@ -93,6 +93,11 @@ Manasseh receives inheritance as Joseph's firstborn. Machir, Manasseh's firstbor
 
 **Joshua's Response:** Joshua answered, great people, wood country, cut down land Perizzites giants, mount Ephraim narrow, children Joseph hill enough, Canaanites dwell land valley chariots iron, Beth-shean towns, valley Jezreel, Joshua house Joseph Ephraim Manasseh, great people great power, one lot, mountain thine, wood cut down, outgoings thine, drive Canaanites, iron chariots strong
 
+
+*AI Keywords for current event matching:*
+`abiezer` `answered` `asher` `asriel` `bashan` `beth-shean` `blessed` `border` `boundaries` `brethren` `came` `canaanite` `canaanites` `chariots` `children` `cities` `coast` `commanded` `commandment` `complaint` `countries` `country` `cut` `daughters` `descended` `dor` `down` `drive` `dwell` `east` `eleazar` `en-tappuah` `endor` `enough` `ephraim` `families` `father` `firstborn` `giants` `gilead` `great` `hand` `helek` `hepher` `hill` `hitherto` `hoglah` `house` `ibleam` `inhabitants` `inherit` `inheritance` `iron` `israel` `issachar` `jezreel` `jordan` `joseph` `josephs` `joshua` `joshuas` `kanan` `land` `lord` `lot` `machir` `mahlah` `male` `man` `manasseh` `manassehs` `megiddo` `met` `michmethah` `milcah` `moses` `mount` `mountain` `names` `narrow` `noah` `north` `northward` `nun` `one` `outgoings` `people` `perizzites` `portion` `portions` `power` `priest` `princes` `problem` `response` `rest` `right` `river` `sea` `shechem` `shemida` `side` `son` `sons` `southward` `strong` `taanach` `tappuah` `ten` `three` `tirzah` `towns` `tribal` `tribe` `tribute` `utterly` `valley` `war` `waxen` `wood` `zelophehad` `zelophehads`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

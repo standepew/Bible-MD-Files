@@ -223,6 +223,11 @@ End, sabbath, dawn, first, day, week, Mary, Magdalene, Mary, sepulchre, earthqua
 
 **Christ's Authority:** heaven earth, Father Son Holy Ghost, alway end, Amen
 
+
+*AI Keywords for current event matching:*
+`alway` `amen` `angel` `angels` `authority` `baptize` `christs` `commanded` `commission` `day` `descended` `disciples` `earth` `end` `father` `fear` `first` `galilee` `ghost` `great` `heaven` `holy` `joy` `name` `nations` `observe` `place` `power` `proclamation` `resurrection` `risen` `see` `son` `teach` `tell`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

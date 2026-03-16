@@ -106,6 +106,11 @@ Israel encamps at Rephidim — no water. The people quarrel (chide) with Moses: 
 - **Writing as memorial / historical record** → Exodus 17:14 — first command to write in Scripture
 - **Christ crucified once** → Exodus 17:6 — the rock struck once; Numbers 20 contrast
 
+
+*AI Keywords for current event matching:*
+`christ` `corinthians` `current` `events` `exodus` `matching` `miraculous` `provision` `rock` `water`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

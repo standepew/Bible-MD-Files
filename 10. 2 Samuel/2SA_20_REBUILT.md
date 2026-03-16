@@ -89,6 +89,11 @@ Man of Belial, Sheba son of Bichri, Benjamite, blew trumpet, said no part in Dav
 
 **Administration:** Joab host Israel Benaiah son Jehoiada Cherethites Pelethites, Adoram tribute Jehoshaphat son Ahilud recorder, Sheva scribe Zadok Abiathar priests, Ira Jairite chief ruler David
 
+
+*AI Keywords for current event matching:*
+`abel` `abiathar` `abishai` `absalom` `administration` `adoram` `ahilud` `amasa` `amasas` `ask` `bank` `battered` `beard` `belial` `benaiah` `benjamite` `berites` `besieged` `beth-maachah` `bichri` `blew` `blood` `bowels` `brother` `came` `cherethites` `chief` `cities` `city` `clave` `cloth` `concubines` `consequences` `counsel` `david` `days` `death` `depart` `destroy` `died` `ended` `ephraim` `escape` `failure` `faithful` `favoured` `fed` `fell` `fenced` `field` `fifth` `followed` `garment` `gathered` `gibeon` `girded` `girdle` `great` `ground` `hand` `handmaid` `harm` `head` `health` `hear` `highway` `host` `house` `inheritance` `intervention` `ira` `israel` `jairite` `jehoiada` `jehoshaphat` `jerusalem` `jesse` `joab` `joabs` `jordan` `judah` `king` `kiss` `loins` `lord` `man` `matter` `men` `mighty` `mother` `old` `part` `peaceable` `pelethites` `people` `present` `priests` `pursue` `pursuit` `rebellion` `recorder` `resolution` `rib` `right` `ruler` `scribe` `servants` `sheath` `sheba` `shebas` `sheva` `siege` `smote` `son` `speak` `still` `stone` `swallows` `sword` `tarried` `ten` `tents` `three` `throw` `time` `trench` `tribes` `tribute` `trumpet` `wall` `wallowed` `ward` `widowhood` `wisdom` `wise` `woman` `womans` `women` `words` `zadok`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -62,6 +62,11 @@ God commands: the Levites shall receive forty-eight cities from the tribes' inhe
 - **No money substitute for justice** → Numbers 35:31-32 — the anti-ransom principle; Micah 3:11 (priests who teach for hire)
 - **God dwelling in the land making its defilement intolerable** → Numbers 35:34 — 1 Corinthians 3:16-17; 2 Corinthians 6:16
 
+
+*AI Keywords for current event matching:*
+`3511-15` `current` `events` `hebrews` `innocent` `matching` `numbers` `protection` `psalm` `refuge` `unjust` `vengeance`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS WITH CONTEXTUAL DEFINITIONS

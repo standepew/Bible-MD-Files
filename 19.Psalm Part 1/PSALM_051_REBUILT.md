@@ -127,6 +127,11 @@ Chief, Musician, Psalm, David, Nathan, prophet, came, Bath, sheba, mercy, GOD, l
 
 **Joy of Salvation:** hear joy gladness bones broken rejoice, restore joy salvation, deliver bloodguiltiness GOD salvation tongue sing aloud righteousness, Lord open lips mouth shew praise
 
+
+*AI Keywords for current event matching:*
+`acknowledge` `aloud` `bath` `bloodguiltiness` `blot` `bones` `broken` `came` `cast` `chief` `clean` `cleanse` `clear` `conceive` `confession` `contrite` `create` `david` `deliver` `desirest` `despise` `evil` `face` `free` `gladness` `god` `hear` `heart` `hidden` `hide` `holy` `hyssop` `iniquities` `iniquity` `inward` `joy` `judgest` `justified` `know` `lips` `lord` `lovingkindness` `mercies` `mercy` `mother` `mouth` `multitude` `musician` `nathan` `open` `part` `parts` `praise` `presence` `prophet` `psalm` `purge` `rejoice` `renew` `repentance` `restore` `right` `righteousness` `salvation` `shapen` `sheba` `shew` `sight` `sin` `sing` `sinned` `sins` `snow` `speakest` `spirit` `tender` `throughly` `tongue` `transgressions` `truth` `uphold` `wash` `whiter` `wisdom` `within`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

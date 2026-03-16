@@ -163,6 +163,11 @@ Straightway, morning, chief, priests, consultation, elders, scribes, council, bo
 
 **Burial:** centurion Son God, Joseph Arimathaea, fine linen, sepulchre hewn
 
+
+*AI Keywords for current event matching:*
+`arimathaea` `barabbas` `burial` `centurion` `christ` `crown` `crucified` `crucifixion` `crucify` `darkness` `death` `fine` `forsaken` `gave` `ghost` `god` `golgotha` `hewn` `jews` `joseph` `king` `land` `linen` `numbered` `people` `pilate` `place` `purple` `released` `rent` `scourged` `sepulchre` `son` `transgressors` `veil` `willing`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

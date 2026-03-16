@@ -151,6 +151,11 @@ Blessed, LORD, strength, teacheth, hands, war, fingers, fight, goodness, fortres
 
 **National Blessing:** sons plants grown, daughters corner stones, garners full, happy people
 
+
+*AI Keywords for current event matching:*
+`arrows` `blessed` `blessing` `bow` `corner` `daughters` `days` `destroy` `divine` `fortress` `frailty` `full` `garners` `gods` `grown` `hands` `happy` `heavens` `high` `human` `kings` `lightning` `like` `lord` `man` `national` `passeth` `people` `plants` `salvation` `scatter` `shadow` `shoot` `son` `sons` `stones` `strength` `teacheth` `tower` `vanity` `victory` `war`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

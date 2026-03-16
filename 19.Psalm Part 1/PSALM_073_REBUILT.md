@@ -139,6 +139,11 @@ Psalm, Asaph, Truly, GOD, good, Israel, clean, heart, feet, gone, steps, slipped
 
 **Eternal Perspective:** heart grieved pricked reins foolish ignorant beast, continually holden right hand guide counsel afterward receive glory, heaven desire beside earth, flesh heart faileth GOD strength heart portion
 
+
+*AI Keywords for current event matching:*
+`afterward` `almost` `asaph` `awakest` `awaketh` `bands` `beast` `beside` `brought` `casted` `chain` `chastened` `clean` `cleansed` `compasseth` `consumed` `continually` `counsel` `covereth` `day` `death` `desire` `desolation` `despise` `destruction` `divine` `dream` `earth` `end` `envious` `envy` `eternal` `faileth` `feet` `firm` `flesh` `foolish` `garment` `glory` `god` `gone` `good` `grieved` `guide` `hand` `hands` `heart` `heaven` `holden` `ignorant` `image` `innocency` `israel` `long` `lord` `moment` `morning` `perspective` `places` `plagued` `portion` `pricked` `pride` `prosperity` `psalm` `receive` `reins` `right` `sanctuary` `set` `slipped` `slippery` `spiritual` `steps` `strength` `terrors` `truly` `understood` `vain` `violence` `washed` `went` `wicked`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -112,6 +112,11 @@ Moses ascended from Moab plains to Mount Nebo's top (Pisgah) overlooking Jericho
 
 **Prophetic Uniqueness:** prophet Israel like Moses, LORD knew face face, signs wonders, LORD sent, land Egypt, Pharaoh, servants land, mighty hand, great terror, Moses shewed, sight Israel
 
+
+*AI Keywords for current event matching:*
+`abated` `abraham` `against` `age` `ascent` `beth` `buried` `caused` `children` `city` `commanded` `dan` `day` `days` `death` `died` `dim` `divine` `egypt` `ended` `ephraim` `eye` `eyes` `face` `final` `force` `full` `gilead` `give` `great` `hand` `hands` `hearkened` `hundred` `isaac` `israel` `israels` `jacob` `jericho` `joshua` `judah` `knew` `knoweth` `laid` `land` `leadership` `like` `lord` `man` `manasseh` `mighty` `moab` `moses` `mountain` `mourning` `naphtali` `natural` `nebo` `nun` `palm` `peor` `pharaoh` `pisgah` `plain` `plains` `promise` `prophet` `prophetic` `said` `sea` `see` `seed` `sent` `sepulchre` `servant` `servants` `shewed` `sight` `signs` `son` `south` `spirit` `sware` `terror` `thirty` `thither` `top` `transition` `trees` `twenty` `uniqueness` `utmost` `valley` `weeping` `went` `wept` `wisdom` `wonders` `word` `years` `zoar`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

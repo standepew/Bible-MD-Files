@@ -115,6 +115,11 @@ Brought, gate, outward, sanctuary, looketh, east, shut, Lord, gate, shut, opened
 
 **Christ's Inheritance:** inheritance possession, Lord inheritance, firstfruits, dedicated things
 
+
+*AI Keywords for current event matching:*
+`bread` `charge` `christs` `come` `dedicated` `difference` `divine` `eat` `firstfruits` `garments` `gate` `holy` `inheritance` `kept` `linen` `lord` `minister` `near` `possession` `priests` `prince` `service` `shut` `sons` `sweat` `teach` `things` `wool` `zadok`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

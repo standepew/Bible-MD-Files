@@ -187,6 +187,11 @@ Psalm, David, lift, soul, LORD, trust, ashamed, enemies, triumph, wait, ashamed,
 
 **Trust in God:** trust ashamed enemies triumph, wait ashamed transgress cause, trust keep soul deliver ashamed, integrity uprightness preserve wait
 
+
+*AI Keywords for current event matching:*
+`afflicted` `ashamed` `cause` `confession` `covenant` `david` `day` `deliver` `desolate` `divine` `enemies` `forgive` `god` `goodness` `great` `guidance` `guide` `iniquity` `integrity` `judgment` `keep` `lead` `lift` `lord` `lovingkindnesses` `meek` `mercies` `mercy` `name` `old` `pardon` `paths` `prayer` `preserve` `psalm` `remember` `sake` `salvation` `shew` `sin` `sins` `soul` `teach` `tender` `testimonies` `transgress` `transgressions` `triumph` `trust` `truth` `turn` `uprightness` `wait` `way` `ways` `youth`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

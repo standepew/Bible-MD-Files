@@ -127,6 +127,11 @@ Dry, morsel, quietness, house, full, sacrifices, strife, wise, servant, rule, so
 
 **Justice and Mercy:** mocketh poor reproacheth Maker, justifieth wicked abomination, punish just good
 
+
+*AI Keywords for current event matching:*
+`abomination` `adversity` `beginning` `born` `brother` `contentment` `covereth` `dry` `earth` `ends` `eyes` `folly` `fool` `friend` `friendship` `full` `good` `holdeth` `house` `justice` `justifieth` `loveth` `loyalty` `maker` `mercy` `mocketh` `morsel` `peace` `poor` `punish` `quietness` `reproacheth` `sacrifices` `strife` `times` `transgression` `understanding` `water` `wicked` `wisdom`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

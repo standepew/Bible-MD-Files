@@ -85,6 +85,11 @@ King of children of Ammon died, Hanun son reigned. David would show kindness to 
 
 **Peace Established:** kings servants Hadarezer smitten Israel peace Israel served Syrians feared help children Ammon
 
+
+*AI Keywords for current event matching:*
+`abishai` `against` `alliance` `ammon` `ammonite` `array` `ashamed` `battle` `beards` `behind` `beth-rehob` `beyond` `brother` `buttocks` `campaign` `captain` `chariots` `children` `choice` `cities` `city` `comfort` `comforters` `courage` `cut` `david` `davids` `died` `entering` `established` `father` `feared` `field` `first` `fled` `footmen` `forty` `fought` `front` `garments` `gate` `gathered` `god` `good` `grown` `hadarezer` `half` `hanun` `heard` `helam` `help` `hired` `honour` `horsemen` `host` `hundred` `insult` `ish-tob` `israel` `jericho` `jerusalem` `joab` `joabs` `jordan` `kindness` `king` `kings` `land` `lord` `maacah` `meet` `men` `middle` `mighty` `military` `nahash` `overthrow` `peace` `people` `princes` `rehob` `reigned` `rest` `return` `river` `search` `second` `seemeth` `sent` `servants` `served` `seven` `shaved` `shobach` `slew` `smitten` `smote` `son` `spy` `stank` `stead` `strategy` `strong` `syrians` `tarry` `thousand` `told` `twelve` `twenty` `zoba`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -64,6 +64,11 @@ On the day Moses finishes setting up and anointing the Tabernacle, the twelve tr
 - **Giving to God / bringing offerings** → Numbers 7 — twelve princes, each bringing voluntarily, each bringing his best, each bringing identically
 - **The mercy seat / atonement / propitiation** → Numbers 7:89 — Romans 3:25; Hebrews 4:16
 
+
+*AI Keywords for current event matching:*
+`current` `equal` `events` `every` `galatians` `god` `identical` `matching` `numbers` `offering` `regardless` `romans` `standing` `statussize` `tribes`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS WITH CONTEXTUAL DEFINITIONS

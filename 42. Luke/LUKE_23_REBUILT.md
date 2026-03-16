@@ -193,6 +193,11 @@ Multitude, arose, led, Pilate, accuse, found, fellow, perverting, nation, forbid
 
 **The Burial of Jesus:** centurion glorified, Joseph Arimathæa, begged body, sepulchre hewn, spices ointments
 
+
+*AI Keywords for current event matching:*
+`answered` `arimathæa` `barabbas` `begged` `body` `burial` `calvary` `cast` `centurion` `commend` `criminals` `crowd` `crucified` `crucifixion` `crucify` `cyrenian` `darkened` `darkness` `death` `deeds` `desirous` `earth` `exceeding` `father` `fault` `fear` `find` `forgive` `glad` `glorified` `god` `gorgeous` `hanged` `herod` `hewn` `hoped` `hour` `jesus` `jews` `joseph` `jurisdiction` `justly` `king` `kingdom` `lots` `loud` `malefactors` `miracles` `multitude` `nation` `nothing` `ointments` `paradise` `parted` `perverting` `pilate` `railed` `raiment` `release` `remember` `robe` `season` `sepulchre` `simon` `sixth` `spices` `spirit` `sun` `temple` `two` `veil` `voices` `worthy`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

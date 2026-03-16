@@ -103,6 +103,11 @@ Man, affliction, rod, wrath, led, darkness, light, turned, hand, day, flesh, ski
 
 **Christ's Redemption:** redeemed life, pleaded causes, heard voice, fear not
 
+
+*AI Keywords for current event matching:*
+`affliction` `bitter` `bones` `broken` `causes` `christ` `christs` `compassions` `consumed` `divine` `every` `fail` `faithfulness` `fear` `gravel` `great` `heard` `hope` `life` `mercies` `mercy` `morning` `new` `pleaded` `portion` `quietly` `redeemed` `redemption` `rod` `salvation` `seek` `soul` `stones` `suffering` `voice` `wait` `wormwood`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -139,6 +139,11 @@ Word, LORD, hosts, jealous, Zion, great, jealousy, great, fury, returned, Zion, 
 
 **Gathering of Nations:** east country west country, languages nations, ten men skirt, seek LORD
 
+
+*AI Keywords for current event matching:*
+`blessing` `boys` `christs` `city` `country` `dwell` `east` `foundation` `gathering` `girls` `glory` `god` `gods` `hands` `holy` `jealous` `jerusalems` `languages` `lord` `men` `midst` `mountain` `nations` `old` `people` `playing` `presence` `prosperous` `restoration` `returned` `righteousness` `save` `seed` `seek` `skirt` `strong` `temple` `ten` `truth` `west` `women` `zion`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -77,6 +77,11 @@ Ephraim's men gather and go north to confront Jephthah, angry he fought Ammon wi
 
 **Abdon's Judgeship:** Abdon son Hillel Pirathonite judged Israel, forty sons thirty nephews rode threescore ten ass colts, judged Israel eight years, Abdon son Hillel Pirathonite died buried Pirathon land Ephraim mount Amalekites
 
+
+*AI Keywords for current event matching:*
+`abdon` `abdons` `abroad` `aijalon` `amalekites` `ammon` `ass` `beth-lehem` `buried` `burn` `call` `called` `children` `cities` `civil` `colts` `come` `complaint` `control` `country` `daughters` `day` `death` `defense` `delivered` `died` `eight` `elon` `elons` `ephraim` `ephraimite` `ephraimites` `ephraims` `escaped` `fell` `fight` `fire` `forty` `forty-two` `fought` `frame` `fugitives` `gathered` `gilead` `gileadite` `gileadites` `great` `hand` `hands` `hillel` `house` `ibzan` `ibzans` `israel` `jephthah` `jephthahs` `jordan` `judged` `judgeship` `land` `leadership` `life` `lord` `manassites` `men` `mount` `nay` `nephews` `northward` `passages` `passed` `people` `pirathon` `pirathonite` `pronounce` `right` `rode` `rule` `said` `saw` `say` `sent` `seven` `shibboleth` `sibboleth` `six` `slew` `smote` `son` `sons` `strife` `ten` `test` `thirty` `thousand` `threescore` `took` `war` `years` `zebulonite` `zebulun`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

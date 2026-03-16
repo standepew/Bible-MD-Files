@@ -115,6 +115,11 @@ Expedient, glory, visions, revelations, Lord, knew, man, Christ, fourteen, years
 
 **The Signs of an Apostle:** fear, find, would, found, would, debates, envyings, wraths, strifes, backbitings, whisperings, swellings, tumults, humble, bewail, sinned, repented, uncleanness, fornication, lasciviousness, committed
 
+
+*AI Keywords for current event matching:*
+`abundance` `abundantly` `apostle` `apostles` `backbitings` `behind` `besought` `bewail` `body` `brother` `buffet` `burdensome` `caught` `chiefest` `children` `christ` `churches` `commended` `committed` `compelled` `crafty` `debates` `deeds` `depart` `desire` `distresses` `divine` `edifying` `envyings` `exalted` `excuse` `expedient` `fear` `find` `flesh` `fool` `forbear` `forgive` `fornication` `found` `fourteen` `gain` `gladly` `glady` `glory` `glorying` `god` `grace` `guile` `heard` `heareth` `heaven` `humble` `inferior` `infirmities` `knew` `knoweth` `lasciviousness` `lawful` `lay` `lord` `love` `loved` `made` `man` `messenger` `mighty` `necessities` `nothing` `paradise` `parents` `patience` `pauls` `perfect` `persecutions` `pleasure` `power` `ready` `repented` `reproaches` `rest` `revelations` `said` `sake` `satan` `say` `seek` `seeth` `sent` `signs` `sinned` `speak` `spend` `spent` `spirit` `steps` `strength` `strifes` `strong` `sufficient` `swellings` `tell` `things` `think` `third` `thorn` `thrice` `time` `titus` `truth` `tumults` `uncleanness` `unspeakable` `utter` `visions` `weak` `weakness` `whisperings` `wonders` `words` `wraths` `wrong` `wrought` `years` `yours`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

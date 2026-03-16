@@ -127,6 +127,11 @@ Boast, tomorrow, know, day, bring, another, man, praise, mouth, stranger, lips, 
 
 **Divine Knowledge:** know not day bring, water face answer face, Hell destruction never full
 
+
+*AI Keywords for current event matching:*
+`another` `answer` `boast` `bring` `counsel` `day` `destruction` `diligent` `divine` `face` `faithful` `fig` `flocks` `fool` `friend` `friendship` `full` `hearty` `heavier` `hell` `herds` `humility` `iron` `keepeth` `know` `knowledge` `look` `man` `never` `praise` `pride` `provision` `self-control` `sharpeneth` `tomorrow` `tree` `water` `well` `wounds` `wrath`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

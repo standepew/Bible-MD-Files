@@ -65,6 +65,11 @@ The ten spies define the problem precisely. They did not report what God said ab
 - **Self-image vs. God's assessment** → Numbers 13:33 — the grasshopper self-perception; Isaiah 40:22
 - **Fruit as evidence of the promise** → Numbers 13:23-27 — the cluster of grapes; Deuteronomy 8:7-9; John 15:16
 
+
+*AI Keywords for current event matching:*
+`1317-20` `assess` `briefing` `current` `defences` `events` `fruit` `gathering` `intelligence` `land` `matching` `moses` `numbers` `people` `reports` `spy`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS WITH CONTEXTUAL DEFINITIONS

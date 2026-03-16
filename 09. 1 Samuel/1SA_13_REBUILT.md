@@ -85,6 +85,11 @@ Saul reigned one year; when he had reigned two years, he chose three thousand me
 
 **Military Disadvantage:** spoilers camp Philistines three companies company way Ophrah land Shual, company Beth-horon company border valley Zeboim wilderness, smith land Israel Philistines swords spears, Israelites Philistines sharpen share coulter axe mattock, file mattocks coulters forks axes sharpen goads, battle sword spear hand people Saul Jonathan Saul Jonathan son, garrison Philistines passage Michmash
 
+
+*AI Keywords for current event matching:*
+`abode` `abomination` `appointed` `arose` `axe` `axes` `battle` `benjamin` `beth-aven` `beth-el` `beth-horon` `border` `burnt` `called` `came` `camp` `captain` `caves` `chariots` `commanded` `commandment` `companies` `company` `continue` `coulter` `coulters` `days` `disadvantage` `distressed` `eastward` `encamped` `end` `established` `ever` `fight` `file` `followed` `foolishly` `forced` `forks` `gad` `garrison` `gathered` `geba` `gibeah` `gilead` `gilgal` `goads` `god` `hand` `hear` `heard` `heart` `hebrews` `hide` `high` `horsemen` `hundred` `impatience` `israel` `israelites` `jonathan` `jonathans` `jordan` `kept` `kingdom` `land` `lord` `mattock` `mattocks` `meet` `men` `michmash` `military` `mount` `multitude` `numbered` `offered` `offering` `offerings` `ophrah` `organization` `passage` `peace` `people` `philistine` `philistines` `pitched` `pits` `places` `present` `rebuke` `reigned` `rejection` `rest` `rocks` `salute` `samuel` `samuels` `sand` `saul` `sauls` `scattered` `sea` `set` `seven` `share` `sharpen` `shore` `shual` `six` `smith` `smitten` `smote` `son` `sought` `spear` `spears` `spoilers` `strait` `supplication` `sword` `swords` `tarried` `tents` `thickets` `thirty` `thousand` `threat` `three` `time` `trembling` `trumpet` `two` `valley` `victory` `way` `wilderness` `year` `years` `zeboim`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

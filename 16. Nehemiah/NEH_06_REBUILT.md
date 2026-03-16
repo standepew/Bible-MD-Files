@@ -163,6 +163,11 @@ Sanballat, Tobiah, Geshem, Arabian, enemies, heard, builded, wall, breach, left,
 
 **Internal Compromise:** wall finished twenty fifth day month Elul fifty two days, enemies heard heathen cast eyes perceived work wrought GOD, nobles Judah letters Tobiah letters Tobiah, Judah sworn son in law Shechaniah son Arah son Johanan daughter Meshullam son Berechiah, reported good deeds uttered words Tobiah letters fear
 
+
+*AI Keywords for current event matching:*
+`afraid` `appointed` `arabian` `arah` `berechiah` `breach` `build` `builded` `cast` `cease` `come` `completed` `compromise` `counsel` `daughter` `day` `days` `deeds` `delaiah` `done` `doors` `down` `elul` `enemies` `evil` `eyes` `false` `fear` `feignest` `fifth` `fifty` `final` `finished` `flee` `four` `gashmu` `gates` `geshem` `god` `good` `great` `hands` `heard` `heart` `heathen` `hired` `house` `internal` `jerusalem` `jews` `johanan` `judah` `king` `law` `left` `letter` `letters` `life` `man` `manner` `matter` `meet` `mehetabeel` `meshullam` `messengers` `mischief` `month` `night` `noadiah` `nobles` `ono` `open` `opposition` `perceived` `plain` `preach` `pronounced` `prophecy` `prophetess` `prophets` `rebel` `report` `reported` `reproach` `sanballat` `save` `sent` `servant` `shechaniah` `shemaiah` `shut` `sin` `slay` `son` `strengthen` `sworn` `temple` `things` `think` `time` `times` `tobiah` `twenty` `two` `uttered` `villages` `wall` `weakened` `words` `work` `works` `written` `wrought`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

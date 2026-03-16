@@ -93,6 +93,11 @@ Mighty, angel, heaven, clothed, cloud, rainbow, head, face, sun, feet, pillars, 
 
 **The Command to Prophesy:** prophesy, peoples, nations, tongues, kings
 
+
+*AI Keywords for current event matching:*
+`angel` `ate` `belly` `bitter` `book` `clothed` `cloud` `command` `created` `cried` `days` `declared` `earth` `eat` `eaten` `face` `feet` `finished` `fire` `foot` `give` `god` `hand` `head` `heaven` `honey` `kings` `left` `lifted` `lion` `little` `liveth` `longer` `loud` `mighty` `mouth` `mystery` `nations` `oath` `open` `peoples` `pillars` `prophesy` `prophets` `rainbow` `right` `roareth` `sea` `seal` `servants` `seven` `seventh` `sound` `spake` `stand` `standeth` `sun` `sware` `sweet` `take` `things` `thunders` `time` `tongues` `took` `uttered` `voice` `voices` `write`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

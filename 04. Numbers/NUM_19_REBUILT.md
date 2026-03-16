@@ -72,6 +72,11 @@ God gives Moses and Aaron the ordinance of the red heifer — called "the ordina
 - **The paradox of bearing another's defilement** → Numbers 19:7-10 — 2 Corinthians 5:21; Isaiah 53:6
 - **Statute beyond human reasoning** → Numbers 19:2 — "the ordinance of the law" (chukkat ha-Torah); accepted by obedience before it is understood
 
+
+*AI Keywords for current event matching:*
+`1911-16` `chapter` `communicable` `contact` `contagion` `current` `death` `deaths` `entire` `events` `impurity` `makes` `matching` `numbers` `one` `spiritualceremonial` `unclean`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS WITH CONTEXTUAL DEFINITIONS

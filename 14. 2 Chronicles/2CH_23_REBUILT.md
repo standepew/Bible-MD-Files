@@ -159,6 +159,11 @@ Seventh, year, Jehoiada, strengthened, captains, hundreds, Azariah, son, Jeroham
 
 **Peaceful Restoration:** captains hundreds nobles governors people land king house LORD high gate king house king throne kingdom, people land rejoiced city quiet slain Athaliah sword
 
+
+*AI Keywords for current event matching:*
+`adaiah` `altar` `altars` `anointed` `athaliah` `azariah` `baal` `brake` `brought` `bucklers` `burnt` `captains` `chief` `cities` `city` `clothes` `come` `commanded` `compass` `congregation` `courses` `courts` `covenant` `crown` `david` `death` `discovery` `dismissed` `divine` `doors` `elishaphat` `else` `enter` `entering` `fathers` `follower` `foundation` `gate` `gates` `gathered` `god` `governors` `hand` `hands` `heard` `high` `holy` `horse` `host` `house` `hundreds` `images` `instruments` `ishmael` `israel` `jehohanan` `jehoiada` `jeroham` `jerusalem` `judah` `justice` `king` `kingdom` `laid` `land` `law` `left` `levites` `looked` `lord` `maaseiah` `mattan` `men` `minister` `moses` `musick` `nobles` `noise` `none` `obed` `offerings` `offices` `ordained` `part` `peaceful` `people` `pieces` `pillar` `planning` `porters` `praise` `praising` `priest` `priests` `princes` `quiet` `ranges` `reformation` `reign` `rejoiced` `rejoicing` `renewal` `rent` `restoration` `right` `royal` `running` `sabbath` `save` `seventh` `shields` `side` `sing` `singers` `singing` `slain` `slay` `slew` `son` `sons` `spears` `strengthened` `sword` `taught` `temple` `testimony` `thing` `third` `throne` `treason` `trumpets` `unclean` `usurpers` `watch` `weapon` `weapons` `year` `zichri`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

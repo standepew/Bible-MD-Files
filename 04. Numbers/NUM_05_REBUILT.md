@@ -64,6 +64,11 @@ Three distinct laws. First: all lepers, all with a bodily issue, and all defiled
 - **God as witness when no human witness exists** → Numbers 5:14, 31 — Hebrews 4:13; Psalm 139:1-12
 - **Bitter water / divine judgment on corruption** → Numbers 5:18-24 — Revelation 8:10-11; Jeremiah 9:15
 
+
+*AI Keywords for current event matching:*
+`51-4` `51-5` `616-71` `campcommunity` `corinthians` `current` `events` `matching` `numbers` `purity` `standards`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS WITH CONTEXTUAL DEFINITIONS

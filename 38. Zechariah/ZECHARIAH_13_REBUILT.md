@@ -91,6 +91,11 @@ Day, fountain, opened, house, David, inhabitants, Jerusalem, sin, uncleanness, d
 
 **Refined Remnant:** third part, refine silver, try gold, call name
 
+
+*AI Keywords for current event matching:*
+`ashamed` `call` `christs` `clean` `cleansing` `cut` `false` `fountain` `friends` `gold` `hands` `idols` `lies` `name` `opened` `part` `prophets` `refine` `refined` `remnant` `scattered` `sheep` `shepherd` `silver` `sin` `sins` `smite` `speakest` `spirit` `third` `try` `unclean` `uncleanness` `vision` `washed` `water` `wounded` `wounds`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

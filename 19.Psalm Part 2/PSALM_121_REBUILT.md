@@ -127,6 +127,11 @@ Song, degrees, lift, eyes, hills, cometh, help, LORD, made, heaven, earth, suffe
 
 **Constant Care:** sun smite day moon night, preserve going coming, preserve from all evil
 
+
+*AI Keywords for current event matching:*
+`care` `cometh` `coming` `constant` `day` `divine` `earth` `eternal` `evil` `eyes` `forevermore` `forth` `gods` `going` `hand` `heaven` `help` `hills` `israel` `keep` `keeper` `lift` `lord` `made` `moon` `night` `preservation` `preserve` `protection` `right` `shade` `sleep` `slumber` `smite` `soul` `sun` `time`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

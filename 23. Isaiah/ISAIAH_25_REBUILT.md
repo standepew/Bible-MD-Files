@@ -115,6 +115,11 @@ LORD, God, exalt, praise, name, wonderful, things, counsels, faithfulness, truth
 
 **Christ's Victory:** this is our God, glad rejoice salvation, hand LORD rest, trodden down
 
+
+*AI Keywords for current event matching:*
+`christs` `counsels` `death` `deaths` `destruction` `divine` `down` `faithfulness` `fat` `feast` `glad` `god` `hand` `lees` `lord` `marrow` `poor` `rebuke` `refined` `rejoice` `rest` `salvation` `save` `strength` `swallow` `take` `tears` `things` `trodden` `victory` `waited` `wines` `wipe` `wonderful`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

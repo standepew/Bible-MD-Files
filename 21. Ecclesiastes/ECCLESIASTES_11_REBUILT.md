@@ -151,6 +151,11 @@ Cast, bread, waters, find, days, Give, portion, seven, eight, knowest, evil, ear
 
 **Life and Light:** light sweet, behold sun, days darkness remember
 
+
+*AI Keywords for current event matching:*
+`behold` `bones` `bread` `cast` `clouds` `darkness` `days` `divine` `evil` `falleth` `full` `generosity` `give` `god` `human` `investment` `knowest` `life` `light` `limitations` `maketh` `morning` `observeth` `place` `portion` `rain` `remember` `seed` `seven` `sovereignty` `sow` `spirit` `sun` `sweet` `tree` `waters` `way` `wind` `works`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

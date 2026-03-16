@@ -103,6 +103,11 @@ Speak, tongues, men, angels, charity, sounding, brass, tinkling, cymbal, gift, p
 
 **Faith, Hope, and Love:** abideth, faith, hope, charity, greatest, charity
 
+
+*AI Keywords for current event matching:*
+`abideth` `angels` `away` `beareth` `became` `behave` `believeth` `bestow` `body` `brass` `burned` `cease` `charity` `child` `childish` `come` `cymbal` `darkly` `done` `easily` `endureth` `envieth` `evil` `excellence` `face` `fail` `faileth` `faith` `feed` `gift` `give` `glass` `goods` `greatest` `hope` `hopeth` `iniquity` `kind` `know` `knowledge` `known` `long` `love` `man` `men` `mountains` `mysteries` `nothing` `part` `perfect` `permanence` `poor` `profiteth` `prophecies` `prophecy` `prophesy` `provoked` `puffed` `put` `rejoiceth` `remove` `see` `seek` `sounding` `spake` `speak` `suffereth` `things` `thinketh` `thought` `tinkling` `tongues` `truth` `understand` `understood` `unseemly` `vanish` `vaunteth`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

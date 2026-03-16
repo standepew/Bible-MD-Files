@@ -103,6 +103,11 @@ Song, degrees, LORD, turned, captivity, Zion, dream, mouth, filled, laughter, to
 
 **Reaping in Joy:** reap in joy, rejoicing bringing sheaves, great things glad
 
+
+*AI Keywords for current event matching:*
+`again` `bearing` `bringing` `captivity` `divine` `filled` `forth` `glad` `goeth` `great` `harvest` `joy` `joyful` `laughter` `lord` `mouth` `precious` `reap` `reaping` `rejoicing` `restoration` `seed` `sheaves` `singing` `south` `sow` `sowing` `streams` `tears` `things` `tongue` `turn` `turned` `weepeth` `zion`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

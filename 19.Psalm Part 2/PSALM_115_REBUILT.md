@@ -163,6 +163,11 @@ LORD, glory, mercy, truth, sake, heathen, God, heavens, done, pleased, idols, si
 
 **Eternal Praise:** bless LORD time forth forevermore, dead praise not LORD silence, we bless LORD forevermore
 
+
+*AI Keywords for current event matching:*
+`aaron` `bless` `dead` `divine` `eternal` `eyes` `fear` `folly` `forevermore` `forth` `give` `glory` `god` `gods` `gold` `hands` `heathen` `help` `house` `idolatrys` `idols` `israel` `like` `lord` `make` `mercy` `mouths` `name` `praise` `sake` `say` `see` `shield` `silence` `silver` `speak` `time` `trust` `truth` `work`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

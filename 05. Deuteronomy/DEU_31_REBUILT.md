@@ -110,6 +110,11 @@ Moses announces his transition at 120 years old, unable to cross Jordan, but God
 
 **Final Prediction:** Gather elders tribes, officers, speak words ears, call heaven earth, record against them, know death, utterly corrupt, turn aside way, commanded you, evil befall latter days, do evil sight LORD, provoke anger work hands, Moses spake ears congregation Israel, words song ended
 
+
+*AI Keywords for current event matching:*
+`afraid` `against` `alive` `among` `amorites` `anger` `apostasy` `appear` `appeared` `approach` `ark` `aside` `bare` `befall` `befallen` `book` `break` `bring` `brought` `call` `called` `cause` `charge` `children` `choose` `cloud` `come` `commanded` `commandments` `congregation` `corrupt` `courage` `covenant` `day` `days` `death` `delivered` `destroy` `destroyed` `devoured` `die` `dismayed` `door` `ears` `earth` `eaten` `elders` `end` `ended` `evil` `evils` `face` `fail` `fat` `fathers` `fear` `feast` `filled` `final` `finished` `forgotten` `forsake` `future` `gates` `gather` `gave` `give` `god` `gods` `good` `hands` `hear` `hearing` `heaven` `hide` `honey` `hundred` `imagination` `inherit` `israel` `jordan` `joshua` `kindled` `kings` `know` `known` `land` `latter` `law` `leadership` `learn` `levi` `levites` `live` `lord` `made` `men` `milk` `moses` `mouths` `must` `nations` `neck` `nun` `observe` `officers` `people` `pillar` `place` `placement` `possess` `prediction` `present` `presented` `preservation` `priests` `provoke` `put` `read` `rebellion` `rebellious` `record` `release` `rise` `said` `say` `seed` `serve` `seven` `side` `sight` `sihon` `sleep` `solemnity` `son` `song` `sons` `spake` `speak` `stiff` `stood` `stranger` `strangers` `strong` `sware` `tabernacle` `tabernacles` `take` `taught` `teach` `testify` `transition` `tribes` `troubles` `turn` `turned` `twenty` `utterly` `waxen` `way` `whoring` `witness` `women` `words` `work` `write` `writing` `wrote` `wrought` `year` `years` `you`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

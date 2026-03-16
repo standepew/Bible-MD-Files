@@ -115,6 +115,11 @@ Jonah, prayed, LORD, God, fish, belly, cried, reason, affliction, LORD, heard, b
 
 **Resurrection Typology:** vomited dry land, three days nights, salvation LORD, holy temple
 
+
+*AI Keywords for current event matching:*
+`affliction` `belly` `billows` `brought` `cast` `christs` `compassed` `cried` `days` `death` `deep` `deliverance` `divine` `dry` `fainted` `fish` `floods` `heard` `hell` `holy` `land` `life` `lord` `nights` `prayed` `prayer` `remembered` `resurrection` `sacrifice` `salvation` `temple` `thanksgiving` `three` `typology` `voice` `vomited` `waves`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -115,6 +115,11 @@ Chief, Musician, Neginah, Psalm, David, Hear, cry, GOD, attend, prayer, end, ear
 
 **Royal Blessing:** prolong king life years generations, abide GOD forever, heritage fear name
 
+
+*AI Keywords for current event matching:*
+`abide` `attend` `blessing` `chief` `covert` `cry` `david` `distance` `earth` `end` `enemy` `eternal` `fear` `forever` `generations` `god` `hear` `heart` `heritage` `higher` `king` `lead` `life` `mercy` `musician` `name` `neginah` `overwhelmed` `prayer` `prepare` `preserve` `prolong` `protection` `psalm` `rock` `royal` `shelter` `strong` `tabernacle` `tower` `trust` `truth` `wings` `years`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

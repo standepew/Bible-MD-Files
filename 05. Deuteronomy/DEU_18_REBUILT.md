@@ -112,6 +112,11 @@ Moses outlines priestly support: Levites have no land inheritance because the LO
 
 **False Prophet Tests:** Presume speak word, not commanded, speak name other gods, prophet die, know word not spoken, thing follow not, come not pass, LORD not spoken, spoken presumptuously, not afraid
 
+
+*AI Keywords for current event matching:*
+`abomination` `abominations` `afraid` `among` `assembly` `brethren` `charmer` `cheeks` `chooses` `chosen` `come` `command` `commanded` `consulter` `corn` `daughter` `day` `desire` `desiredst` `die` `divination` `divine` `diviners` `drive` `due` `eat` `enchanter` `ever` `false` `familiar` `fire` `first` `firstfruit` `fleece` `follow` `forbidden` `gates` `give` `gods` `hath` `hear` `hearken` `hearkened` `horeb` `inheritance` `israel` `know` `learn` `levite` `levites` `like` `lord` `maw` `midst` `mind` `minister` `ministry` `moses` `mouth` `name` `nations` `necromancer` `observer` `observers` `offer` `offerings` `oil` `part` `pass` `patrimony` `people` `perfect` `place` `portion` `portions` `possessed` `practices` `presume` `presumptuously` `priest` `priestly` `priests` `prophet` `raise` `require` `sacrifice` `said` `sale` `see` `sheep` `shoulder` `sojourned` `son` `sons` `speak` `spirits` `spoken` `stand` `standard` `suffered` `support` `tests` `thing` `times` `tribes` `two` `voice` `well` `wine` `witch` `wizard` `word` `words`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

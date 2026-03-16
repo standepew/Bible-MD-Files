@@ -91,6 +91,11 @@ Healed, Israel, iniquity, Ephraim, discovered, wickedness, Samaria, commit, fals
 
 **Christ's Net:** spread my net, bring them down, fowls heaven, chastise them
 
+
+*AI Keywords for current event matching:*
+`adulterers` `adultery` `bring` `cake` `chastise` `christs` `commit` `consider` `deception` `discovered` `divine` `dove` `down` `falsehood` `fowls` `glad` `healed` `healing` `hearts` `heated` `heaven` `iniquity` `king` `lies` `make` `net` `oven` `princes` `rejected` `samaria` `silly` `spiritual` `spread` `turned` `wickedness`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

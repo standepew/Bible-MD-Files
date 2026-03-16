@@ -175,6 +175,11 @@ Rejoice, LORD, righteous, praise, comely, upright, praise, LORD, harp, sing, psa
 
 **Trust in God:** soul wait LORD help shield, heart rejoice trusted holy name, mercy LORD hope, blessed nation GOD LORD people chosen inheritance
 
+
+*AI Keywords for current event matching:*
+`alive` `awe` `blessed` `breath` `bringeth` `chosen` `comely` `commanded` `counsel` `creative` `death` `deliver` `delivered` `depth` `devices` `divine` `done` `earth` `effect` `eye` `famine` `fast` `fear` `gathereth` `god` `gods` `harp` `heap` `heart` `heathen` `heavens` `help` `helplessness` `holy` `hope` `horse` `host` `human` `inhabitants` `inheritance` `instrument` `keep` `king` `layeth` `lord` `loud` `made` `maketh` `man` `mercy` `mighty` `mouth` `multitude` `name` `nation` `new` `noise` `nought` `people` `play` `praise` `providence` `psaltery` `rejoice` `right` `righteous` `safety` `saved` `sea` `shield` `sing` `skilfully` `song` `soul` `spake` `stand` `stood` `storehouses` `strength` `strings` `ten` `trust` `trusted` `truth` `upright` `vain` `wait` `waters` `word` `works` `world`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

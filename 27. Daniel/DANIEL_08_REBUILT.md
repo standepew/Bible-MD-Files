@@ -103,6 +103,11 @@ Third, year, reign, king, Belshazzar, vision, appeared, Daniel, appeared, first,
 
 **Vision Cleansing:** evening morning, time appointed, last end, many days
 
+
+*AI Keywords for current event matching:*
+`against` `appointed` `away` `broken` `christs` `cleansed` `cleansing` `countenance` `daily` `days` `desolation` `end` `evening` `fierce` `hand` `himself` `host` `hosts` `last` `magnified` `many` `morning` `place` `prince` `princes` `sacrifice` `sanctuary` `taken` `thousand` `time` `transgression` `trodden` `two` `vision` `without`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

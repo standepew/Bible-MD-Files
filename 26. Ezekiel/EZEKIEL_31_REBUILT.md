@@ -115,6 +115,11 @@ Eleventh, year, third, month, first, day, month, word, Lord, son, man, Pharaoh, 
 
 **Christ's Kingdom:** trees Eden, brought down, nether parts, comforted earth
 
+
+*AI Keywords for current event matching:*
+`assyrian` `branches` `brought` `cedar` `christs` `comforted` `cut` `delivered` `divine` `down` `earth` `eden` `envied` `fair` `fallen` `greatness` `hand` `heart` `heathen` `height` `high` `judgment` `kingdom` `lifted` `majesty` `mighty` `nether` `off` `parts` `pharaoh` `pride` `shot` `stature` `top` `trees`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

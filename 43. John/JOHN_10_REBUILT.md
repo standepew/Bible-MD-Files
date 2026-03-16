@@ -127,6 +127,11 @@ Verily, door, sheepfold, climbeth, thief, robber, door, shepherd, porter, openet
 
 **Beyond Jordan:** feast dedication, Solomon porch, Christ plainly, Father works, not sheep, hear voice, eternal life, never perish, Father one, stones again
 
+
+*AI Keywords for current event matching:*
+`abundantly` `again` `beyond` `calleth` `christ` `commandment` `dedication` `destroy` `devil` `division` `door` `down` `eternal` `father` `feast` `flee` `fleeth` `fold` `follow` `giveth` `goeth` `good` `hear` `hireling` `jews` `jordan` `kill` `lay` `leadeth` `life` `mad` `name` `never` `one` `openeth` `pasture` `perish` `plainly` `porch` `porter` `power` `robber` `robbers` `saved` `sheep` `sheepfold` `shepherd` `solomon` `steal` `stones` `stranger` `take` `thief` `thieves` `voice` `works`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

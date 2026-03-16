@@ -139,6 +139,11 @@ Whither, beloved, gone, fairest, women, whither, beloved, turned, aside, seek, b
 
 **Divine Exaltation:** terrible army banners, company armies, Shulamite return
 
+
+*AI Keywords for current event matching:*
+`armies` `army` `banners` `beautiful` `beauty` `beloved` `christs` `churchs` `clear` `comely` `company` `divine` `dove` `exaltation` `fair` `feed` `garden` `gone` `jerusalem` `lilies` `love` `mine` `moon` `mother` `one` `presence` `return` `shulamite` `spiritual` `sun` `terrible` `undefiled` `unity`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

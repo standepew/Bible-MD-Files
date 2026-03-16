@@ -115,6 +115,11 @@ Behold, days, time, bring, captivity, Judah, Jerusalem, gather, nations, valley,
 
 **Holy Mountain:** dwelling Zion, holy mountain, Jerusalem holy, strangers pass
 
+
+*AI Keywords for current event matching:*
+`captivity` `christs` `day` `decision` `divine` `drop` `dwelling` `final` `flow` `fountain` `full` `great` `harvest` `hills` `holy` `house` `jehoshaphat` `jerusalem` `judah` `judgment` `lord` `milk` `mountain` `mountains` `multitudes` `nations` `near` `pass` `plead` `press` `restoration` `ripe` `strangers` `valley` `wickedness` `wine` `zion`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

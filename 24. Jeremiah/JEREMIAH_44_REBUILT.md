@@ -79,6 +79,11 @@ Word, Jeremiah, Jews, dwell, land, Egypt, Migdol, Tahpanhes, Noph, country, Path
 
 **Christ's Faithfulness:** sworn great name, watch over evil, small number escape, words stand
 
+
+*AI Keywords for current event matching:*
+`brought` `burn` `cakes` `christs` `cut` `desolation` `drink` `escape` `evil` `faithfulness` `fury` `gods` `great` `heaven` `idolatrys` `incense` `jerusalem` `judah` `judgment` `make` `name` `number` `off` `offerings` `plenty` `pour` `poured` `queen` `rebellion` `serve` `small` `stand` `sworn` `victuals` `watch` `words`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

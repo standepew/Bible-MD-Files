@@ -151,6 +151,11 @@ Stand, watch, set, tower, watch, say, answer, reproved, LORD, answered, WRITE, v
 
 **God's Glory:** earth filled, knowledge glory, waters cover, holy temple
 
+
+*AI Keywords for current event matching:*
+`against` `answer` `appointed` `buildeth` `christs` `cover` `coveteth` `drink` `earth` `evil` `faith` `filled` `giveth` `glory` `gods` `graven` `holy` `image` `knowledge` `lifted` `live` `soul` `stand` `suffering` `surely` `temple` `time` `town` `upright` `vision` `wait` `watch` `waters` `wickedness` `woe` `write`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

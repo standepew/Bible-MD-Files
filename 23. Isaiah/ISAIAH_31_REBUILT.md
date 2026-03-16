@@ -127,6 +127,11 @@ Woe, Egypt, help, stay, horses, trust, chariots, many, horsemen, strong, LORD, H
 
 **Christ's Victory:** Assyrian fall sword, mighty man, mean man, fire Zion furnace
 
+
+*AI Keywords for current event matching:*
+`assyrian` `away` `birds` `cast` `christs` `defend` `defense` `deliver` `divine` `fall` `fight` `fire` `flying` `furnace` `hand` `helpeth` `holpen` `holy` `idols` `jerusalem` `lion` `look` `lord` `man` `mean` `mighty` `mount` `one` `preserve` `prey` `protection` `roaring` `seek` `spiritual` `stretch` `sword` `trust` `turn` `victory` `zion`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

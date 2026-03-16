@@ -79,6 +79,11 @@ King sat in house, LORD given rest from enemies. King told Nathan prophet, dwell
 
 **David's Prayer:** words vision Nathan David, king David sat LORD GOD house brought hitherto, small thing sight LORD GOD servant house great manner man GOD, David GOD knowest servant, word sake heart great things servant know, great LORD GOD none like GOD earth ears, nation earth people Israel God redeem people name great terrible land people redeemed Egypt nations gods, confirmed people Israel people forever LORD GOD, LORD GOD word servant house establish forever, name magnified forever LORD hosts God Israel house servant David established, LORD hosts God Israel revealed servant build house servant heart pray, Lord GOD GOD words true promised goodness servant, please bless house servant continue forever Lord GOD spoken blessing house servant blessed forever
 
+
+*AI Keywords for current event matching:*
+`afflict` `appoint` `ark` `away` `beforetime` `bless` `blessed` `blessing` `bowels` `brought` `build` `cedar` `chasten` `children` `commanded` `commit` `confirmed` `continue` `covenant` `curtains` `cut` `david` `davids` `days` `depart` `desire` `dwell` `ears` `earth` `egypt` `enemies` `establish` `established` `eternal` `father` `fathers` `feed` `following` `forever` `fulfilled` `given` `god` `gods` `goodness` `great` `heart` `hitherto` `hosts` `house` `iniquity` `israel` `judges` `king` `kingdom` `know` `knowest` `land` `like` `lord` `magnified` `man` `manner` `men` `mercy` `move` `name` `nathan` `nation` `nations` `night` `none` `people` `place` `places` `plant` `please` `pray` `prayer` `promised` `prophet` `put` `redeem` `redeemed` `response` `rest` `revealed` `rod` `ruler` `sake` `sat` `saul` `seed` `servant` `sheep` `sheepcote` `sight` `sleep` `small` `son` `spoken` `stablish` `stripes` `tabernacle` `tent` `terrible` `thing` `things` `throne` `tribes` `true` `vision` `walked` `wentest` `wickedness` `withersoever` `word` `words`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -63,6 +63,11 @@ God speaks to Moses and Aaron with comprehensive food laws. Land animals: permit
 - **Contamination spreads; holiness does not automatically transfer** → Leviticus 11:32-38 — Haggai 2:12-13
 - **Living water that cannot be defiled** → Leviticus 11:36 — John 4:14
 
+
+*AI Keywords for current event matching:*
+`1144-45` `115-16` `current` `ethics` `events` `holy` `identity-shaped` `leviticus` `matching` `matthew` `peter`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

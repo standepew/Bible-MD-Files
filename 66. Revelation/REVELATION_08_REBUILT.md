@@ -91,6 +91,11 @@ Opened, seventh, seal, silence, heaven, half, hour, seven, angels, stood, God, g
 
 **The Three Woes:** fourth, angel, sounded, third, part, sun, smitten, third, part, moon, third, part, stars, third, part, darkened, day, shone, third, part, night, beheld, angel, flying, midst, heaven, loud, voice, Woe, woe, woe, inhabiters, earth, reason, voices, trumpet, three, angels, sound
 
+
+*AI Keywords for current event matching:*
+`altar` `angel` `angels` `ascended` `beheld` `bitter` `blood` `burning` `burnt` `called` `cast` `censer` `creatures` `darkened` `day` `destroyed` `died` `earth` `earthquake` `fell` `filled` `fire` `first` `flying` `followed` `fountains` `four` `fourth` `given` `god` `golden` `grass` `great` `green` `hail` `half` `hand` `heaven` `hour` `incense` `inhabiters` `lamp` `life` `lightnings` `loud` `made` `men` `midst` `mingled` `moon` `mountain` `name` `night` `offer` `opened` `part` `prayers` `prepared` `reason` `rivers` `saints` `sea` `seal` `second` `seven` `seventh` `ships` `shone` `silence` `smitten` `smoke` `sound` `sounded` `standed` `star` `stars` `stood` `sun` `third` `three` `throne` `thunderings` `trees` `trumpet` `trumpets` `voice` `voices` `waters` `woe` `woes` `wormwood`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -127,6 +127,11 @@ LORD, mercy, Jacob, choose, Israel, set, land, strangers, joined, cleave, house,
 
 **Israel's Restoration:** possess land, rule oppressors, strangers joined, poor trust
 
+
+*AI Keywords for current event matching:*
+`ascend` `bondage` `brought` `ceased` `choose` `christs` `divine` `earth` `fall` `fallen` `fear` `founded` `grave` `hard` `heaven` `hell` `israel` `israels` `jacob` `joined` `land` `lucifer` `mercy` `oppressor` `oppressors` `pomp` `poor` `possess` `rest` `restoration` `rule` `satans` `sorrow` `strangers` `trust` `victory` `zion`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

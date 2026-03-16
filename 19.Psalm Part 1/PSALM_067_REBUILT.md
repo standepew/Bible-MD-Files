@@ -103,6 +103,11 @@ Chief, Musician, Neginoth, Psalm, Song, GOD, merciful, bless, cause, face, shine
 
 **Earth's Increase:** earth yield increase GOD bless, earth yield increase GOD bless, ends earth fear
 
+
+*AI Keywords for current event matching:*
+`bless` `cause` `chief` `divine` `earth` `earths` `ends` `face` `fear` `glad` `god` `gods` `govern` `governance` `increase` `joy` `judge` `merciful` `mercy` `musician` `nations` `neginoth` `people` `praise` `psalm` `righteously` `shine` `sing` `song` `universal` `yield`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

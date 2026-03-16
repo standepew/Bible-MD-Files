@@ -103,6 +103,11 @@ Word, Lord, son, man, vine, tree, tree, branch, trees, forest, wood, work, pin, 
 
 **Christ's Wrath:** inhabitants Jerusalem, go out fire, land desolate, trespass
 
+
+*AI Keywords for current event matching:*
+`another` `burned` `cast` `christs` `desolate` `devour` `divine` `ends` `face` `fire` `fuel` `hang` `inhabitants` `jerusalem` `judgment` `land` `meet` `midst` `pin` `set` `tree` `trespass` `useless` `vine` `wood` `work` `wrath`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -103,6 +103,11 @@ Chief, Musician, Mahalath, Maschil, Psalm, David, fool, said, heart, GOD, corrup
 
 **Israel's Rejoicing:** Jacob rejoice Israel glad, salvation Israel Zion, GOD bring captivity people
 
+
+*AI Keywords for current event matching:*
+`abominable` `altogether` `atheisms` `back` `bones` `bread` `bring` `called` `captivity` `chief` `children` `corrupt` `corruption` `david` `despised` `done` `eat` `encampeth` `fear` `filthy` `folly` `fool` `glad` `god` `gods` `gone` `good` `heart` `heaven` `iniquity` `israel` `israels` `jacob` `knowledge` `looked` `mahalath` `maschil` `men` `musician` `none` `people` `psalm` `put` `rejoice` `rejoicing` `said` `salvation` `scattered` `see` `seek` `shame` `understand` `universal` `workers` `zion`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

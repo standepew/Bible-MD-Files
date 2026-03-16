@@ -127,6 +127,11 @@ Chief, Musician, sons, Korah, clap, hands, people, shout, GOD, voice, triumph, L
 
 **Praise and Worship:** clap hands people shout GOD, sing praises GOD sing praises King sing praises, sing praises understanding, people gathered
 
+
+*AI Keywords for current event matching:*
+`abraham` `belong` `chief` `choose` `clap` `earth` `exalted` `excellency` `feet` `gathered` `god` `gods` `gone` `great` `greatly` `hands` `heathen` `high` `holiness` `inheritance` `jacob` `king` `korah` `lord` `loved` `musician` `nations` `people` `praise` `praises` `princes` `reign` `reigneth` `royal` `shields` `shout` `sing` `sitteth` `sons` `sound` `subdue` `terrible` `throne` `triumph` `trumpet` `understanding` `universal` `voice` `worship`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

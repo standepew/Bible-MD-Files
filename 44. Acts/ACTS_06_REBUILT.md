@@ -77,6 +77,11 @@ Days, number, disciples, multiplied, arose, murmuring, Grecians, Hebrews, widows
 
 **Stephen's Arrest:** arose synagogue, called synagogue, Libertines Cyrenians, Alexandrians Cilicia, Asia disputing, Stephen resist, wisdom spirit, spake suborned, men heard, speak blasphemous, words Moses, God stirred, people elders, scribes came, caught brought, council false, witnesses man, ceaseth speak, blasphemous words, holy place, law heard, say Jesus, Nazareth destroy, place change, customs Moses, delivered sat, council looking, stedfastly face, face angel
 
+
+*AI Keywords for current event matching:*
+`alexandrians` `angel` `antioch` `apostles` `appoint` `appointment` `arose` `arrest` `asia` `blasphemous` `brethren` `brought` `business` `called` `came` `caught` `ceaseth` `change` `chose` `cilicia` `company` `council` `customs` `cyrenians` `daily` `days` `deacons` `delivered` `destroy` `disciples` `disputing` `elders` `face` `faith` `false` `full` `ghost` `give` `god` `great` `greatly` `grecians` `hands` `heard` `hebrews` `holy` `honest` `increased` `jerusalem` `jesus` `laid` `law` `leave` `libertines` `look` `looking` `man` `men` `ministration` `ministry` `miracles` `moses` `multiplied` `multitude` `murmuring` `nazareth` `neglected` `nicanor` `nicolas` `number` `obedient` `parmenas` `people` `philip` `place` `pleased` `power` `prayed` `prayer` `priests` `prochorus` `proselyte` `reason` `report` `resist` `sat` `say` `saying` `scribes` `serve` `set` `seven` `spake` `speak` `spirit` `stedfastly` `stephen` `stephens` `stirred` `suborned` `synagogue` `tables` `timon` `twelve` `widows` `wisdom` `witnesses` `wonders` `word` `words`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

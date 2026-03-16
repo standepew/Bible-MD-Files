@@ -103,6 +103,11 @@ LORD, reigneth, clothed, majesty, LORD, clothed, strength, girded, world, stabli
 
 **God's Power:** floods lift voice waves, mighty waves sea, LORD high mightier noise many waters
 
+
+*AI Keywords for current event matching:*
+`clothed` `divine` `established` `eternal` `everlasting` `floods` `girded` `gods` `high` `lift` `lord` `majesty` `many` `mightier` `mighty` `moved` `noise` `old` `power` `reign` `reigneth` `sea` `stablished` `strength` `sure` `testimonies` `throne` `voice` `waters` `waves` `world`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

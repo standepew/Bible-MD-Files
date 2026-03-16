@@ -115,6 +115,11 @@ Arise, shine, light, come, glory, LORD, risen, darkness, cover, earth, gross, da
 
 **Christ's Eternal Light:** sun no more light, moon brightness, LORD everlasting light, days mourning ended
 
+
+*AI Keywords for current event matching:*
+`abundance` `arise` `brightness` `christs` `come` `converted` `days` `divine` `ended` `eternal` `everlasting` `forces` `gentiles` `glorify` `glory` `gold` `house` `incense` `light` `lord` `moon` `mourning` `prosperity` `risen` `rising` `sea` `seen` `shine` `silver` `spiritual` `sun`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

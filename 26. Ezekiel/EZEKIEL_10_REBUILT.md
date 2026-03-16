@@ -115,6 +115,11 @@ Looked, firmament, head, cherubims, appeared, sapphire, stone, appearance, liken
 
 **Christ's Presence:** living creature, river Chebar, spirit creature, straight forward
 
+
+*AI Keywords for current event matching:*
+`brightness` `chariot` `chebar` `cherubims` `christs` `court` `creature` `departed` `departure` `divine` `east` `eyes` `faces` `forward` `four` `full` `gate` `glory` `house` `inner` `living` `presence` `river` `sapphire` `spirit` `straight` `temple` `threshold` `throne` `went` `wheel` `wheels`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

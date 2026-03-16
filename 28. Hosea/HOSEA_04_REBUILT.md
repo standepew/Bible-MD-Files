@@ -103,6 +103,11 @@ Hear, word, LORD, children, Israel, LORD, controversy, inhabitants, land, truth,
 
 **Divine Judgment:** controversy LORD, land mourn, destroy mother, fall day
 
+
+*AI Keywords for current event matching:*
+`christs` `controversy` `day` `destroy` `divine` `doings` `failure` `fall` `forgotten` `god` `ignorance` `judgment` `knowledge` `lack` `land` `law` `like` `lord` `mercy` `mother` `mourn` `priest` `priestly` `punish` `rejected` `reward` `spirit` `spiritual` `truth` `ways` `whoredoms`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

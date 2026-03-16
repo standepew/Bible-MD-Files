@@ -157,6 +157,11 @@ Looked, rich, men, casting, gifts, treasury, poor, widow, casting, thither, two,
 
 **Watch and Pray:** words pass, overcharged surfeiting, day unawares, watch pray, stand Son man
 
+
+*AI Keywords for current event matching:*
+`abundance` `believers` `betrayed` `christ` `cloud` `coming` `commotions` `compassed` `day` `days` `deceived` `destruction` `distress` `end` `fig` `flee` `generation` `god` `goodly` `great` `hands` `heaven` `jerusalem` `judæa` `kingdom` `lay` `living` `man` `men` `mites` `moon` `mouth` `nation` `nigh` `offering` `offerings` `overcharged` `parable` `parents` `pass` `penury` `people` `persecute` `persecution` `poor` `power` `pray` `rich` `shoot` `signs` `son` `stand` `stars` `stone` `stones` `summer` `sun` `surfeiting` `synagogues` `testimony` `thrown` `times` `tree` `trees` `two` `unawares` `vengeance` `wars` `watch` `widow` `widows` `wisdom` `words` `wrath`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

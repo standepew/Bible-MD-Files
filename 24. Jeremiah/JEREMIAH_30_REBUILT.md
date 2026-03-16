@@ -103,6 +103,11 @@ Word, Jeremiah, LORD, LORD, God, Israel, saying, Write, words, spoken, book, day
 
 **Divine Presence:** I with thee, save thee, correct measure, my people God
 
+
+*AI Keywords for current event matching:*
+`bring` `bruise` `captivity` `child` `christs` `correct` `day` `divine` `faces` `god` `great` `grievous` `heal` `healing` `health` `incurable` `jacobs` `land` `measure` `none` `paleness` `people` `possess` `presence` `restoration` `restore` `return` `save` `travail` `trouble` `wound` `wounds`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

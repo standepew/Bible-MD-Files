@@ -139,6 +139,11 @@ LORD, reigneth, people, tremble, sitteth, cherubims, earth, moved, LORD, great, 
 
 **Righteous Judgment:** king strength loveth judgment establish equity executest judgment righteousness Jacob, forgavest them tookest vengeance inventions
 
+
+*AI Keywords for current event matching:*
+`aaron` `answered` `call` `called` `cherubims` `cloudy` `divine` `earth` `equity` `establish` `executest` `footstool` `forgavest` `god` `gods` `great` `high` `hill` `holiness` `holy` `intercession` `inventions` `jacob` `judgment` `kept` `king` `lord` `loveth` `moses` `moved` `name` `ordinance` `people` `pillar` `priestly` `priests` `reign` `reigneth` `righteous` `righteousness` `samuel` `sitteth` `spake` `strength` `terrible` `testimonies` `tookest` `tremble` `vengeance` `worship` `zion`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

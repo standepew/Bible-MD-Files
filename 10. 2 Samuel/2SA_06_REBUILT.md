@@ -81,6 +81,11 @@ David gathered chosen men of Israel, thirty thousand. David arose, went with peo
 
 **Michal's Contempt:** ark LORD place tabernacle David pitched David burnt offerings peace offerings LORD, David burnt offerings peace offerings blessed people LORD hosts, David people multitude Israel women men cake bread flesh flagon wine people house, David bless household Michal daughter Saul meet David glorious king Israel uncovered eyes handmaids servants vain fellows shamelessly uncovered, David Michal LORD chose father house appoint ruler people LORD Israel play LORD, vile base sight maidservants spoken honour, Michal daughter Saul child death
 
+
+*AI Keywords for current event matching:*
+`abinadab` `accompanying` `afraid` `ahio` `anger` `appoint` `ark` `arose` `aside` `baale` `base` `bless` `blessed` `blessing` `breach` `bread` `burnt` `cake` `cart` `cherubims` `child` `chose` `chosen` `city` `contempt` `cornets` `cymbals` `danced` `dancing` `daughter` `david` `davids` `day` `death` `despised` `died` `displeased` `drove` `dwelleth` `ephod` `error` `eyes` `father` `fatlings` `fellows` `fir` `flagon` `flesh` `gathered` `gibeah` `girded` `gittite` `gladness` `glorious` `god` `hand` `handmaids` `harps` `heart` `honour` `hosts` `house` `household` `instruments` `israel` `joy` `judah` `king` `leaping` `linen` `lord` `maidservants` `meet` `men` `michal` `michals` `months` `multitude` `nachon` `name` `new` `obed-edom` `obed-edoms` `offerings` `oxen` `paces` `peace` `people` `perez-uzzah` `pertaineth` `pitched` `place` `play` `played` `psalteries` `remove` `ruler` `sacrificed` `saul` `servants` `shamelessly` `shook` `shouting` `sight` `six` `smote` `sons` `sound` `spoken` `tabernacle` `thirty` `thousand` `three` `threshingfloor` `timbrels` `transportation` `trumpet` `uncovered` `uzzah` `uzzahs` `vain` `vile` `window` `wine` `women`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

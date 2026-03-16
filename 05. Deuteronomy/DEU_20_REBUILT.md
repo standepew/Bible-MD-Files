@@ -110,6 +110,11 @@ Moses gives warfare regulations: when facing superior enemy forces with horses a
 
 **Environmental Protection:** Besiege city long time, make war, take it, not destroy trees, forcing axe, eat of them, not cut down, tree field man life, employ siege, trees not meat, destroy cut down, build bulwarks, city war thee, subdued
 
+
+*AI Keywords for current event matching:*
+`abominations` `afraid` `against` `alive` `amorites` `another` `answer` `approach` `armies` `axe` `battle` `besiege` `betrothed` `breatheth` `brethren` `brought` `build` `built` `bulwarks` `canaanite` `canaanites` `captains` `cattle` `chariots` `cities` `city` `come` `commanded` `courage` `cut` `dedicate` `dedicated` `delivered` `destroy` `die` `distant` `divine` `done` `down` `eat` `eaten` `edge` `egypt` `employ` `enemies` `environmental` `every` `exemptions` `faint` `fainthearted` `far` `fear` `fearful` `field` `fight` `forcing` `give` `given` `gods` `hear` `heart` `hearts` `hittites` `hivites` `horses` `house` `inheritance` `israel` `jebusites` `lead` `life` `little` `long` `lord` `make` `male` `man` `meat` `military` `nations` `new` `nigh` `nothing` `off` `officers` `ones` `open` `peace` `people` `perizzites` `planted` `priest` `proclaim` `protection` `protocol` `return` `save` `self` `serve` `siege` `sin` `smite` `speak` `spoil` `subdued` `sword` `take` `taken` `teach` `terrified` `time` `tree` `trees` `tremble` `tributaries` `utterly` `vineyard` `war` `wife` `women` `yet` `you`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

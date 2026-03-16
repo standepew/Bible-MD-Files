@@ -163,6 +163,11 @@ Behold, Lord, LORD, hosts, take, Jerusalem, Judah, stay, staff, whole, stay, bre
 
 **Christ's Restoration:** righteous well, eat fruit doings, LORD plead
 
+
+*AI Keywords for current event matching:*
+`away` `babes` `behave` `chaos` `child` `children` `christs` `collapse` `divine` `doings` `eat` `fruit` `jerusalem` `judgment` `leadership` `lord` `man` `mighty` `oppressed` `people` `plead` `princes` `proudly` `restoration` `righteous` `ruined` `rule` `scab` `smite` `social` `standeth` `take` `taken` `well` `women`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

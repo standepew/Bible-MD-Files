@@ -109,6 +109,11 @@ Charge, God, Lord, Jesus, Christ, judge, quick, dead, appearing, kingdom, Preach
 
 **The Lord's Faithfulness:** answer, stood, forsook, pray, laid, charge, Lord, stood, strengthened, preaching, fully, known, Gentiles, heard, delivered, mouth, lion, deliver, evil, work, preserve, heavenly, kingdom, glory, Salute, Prisca, Aquila, household, Onesiphorus, Erastus, Corinth, Trophimus, Miletum, sick, winter, Eubulus, greet, Pudens, Linus, Claudia, brethren, Lord, Jesus, Christ, spirit, Grace, Amen
 
+
+*AI Keywords for current event matching:*
+`afflictions` `alexander` `amen` `answer` `appearing` `aquila` `books` `brethren` `carpus` `charge` `christ` `claudia` `cloke` `coppersmith` `corinth` `course` `crescens` `crown` `dalmatia` `day` `dead` `deliver` `delivered` `demas` `departed` `departure` `diligence` `doctrine` `ears` `endure` `ephesus` `erastus` `eubulus` `evangelist` `evil` `exhort` `fables` `faith` `faithfulness` `fight` `final` `finished` `forsaken` `forsook` `fought` `full` `fully` `galatia` `gentiles` `give` `glory` `god` `good` `grace` `greatly` `greet` `hand` `heap` `heard` `heavenly` `household` `instant` `itching` `jesus` `judge` `kept` `kingdom` `known` `laid` `linus` `lion` `longsuffering` `lord` `lords` `love` `loved` `luke` `lusts` `mark` `miletum` `ministry` `mouth` `offered` `onesiphorus` `parchments` `pauls` `personal` `pray` `preach` `preaching` `present` `preserve` `prisca` `profitable` `proof` `pudens` `quick` `ready` `rebuke` `rejected` `reprove` `requests` `reward` `righteous` `righteousness` `salute` `season` `sent` `shortly` `sick` `sound` `spirit` `stood` `strengthened` `teachers` `testimony` `thessalonica` `things` `time` `titus` `troas` `trophimus` `truth` `turn` `turned` `tychicus` `ware` `watch` `winter` `withstood` `word` `words` `work` `works` `world`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

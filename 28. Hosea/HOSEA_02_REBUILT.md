@@ -103,6 +103,11 @@ Brethren, Ammi, sisters, Ru, hamah, Plead, mother, plead, wife, husband, whoredo
 
 **Divine Healing:** strip naked, dry land, slay thirst, recover wool flax, heal lewdness
 
+
+*AI Keywords for current event matching:*
+`achor` `allure` `betroth` `betrothal` `christs` `comfortably` `covenant` `divine` `door` `dry` `experience` `faithfulness` `find` `first` `flax` `forever` `heal` `healing` `hedge` `hope` `husband` `judgment` `land` `lewdness` `lovingkindness` `make` `mercies` `naked` `paths` `recover` `restoration` `return` `righteousness` `slay` `speak` `strip` `thirst` `thorns` `valley` `wall` `wilderness` `wool`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

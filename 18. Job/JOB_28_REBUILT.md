@@ -127,6 +127,11 @@ Vein, silver, place, gold, fine. Iron, earth, brass, molten, stone. End, darknes
 
 **Fear of the Lord:** price land living depth sea, gotten gold silver weighed price, gold Ophir precious onyx sapphire, gold crystal jewels fine gold
 
+
+*AI Keywords for current event matching:*
+`bindeth` `brass` `bread` `crystal` `cutoff` `darkness` `death` `depth` `divine` `dried` `dust` `earth` `end` `eye` `fear` `fierce` `fine` `fire` `flood` `floods` `foot` `forgotten` `found` `fowl` `gold` `gone` `gotten` `hand` `hid` `human` `inhabitant` `iron` `jewels` `land` `light` `lion` `living` `lord` `mining` `molten` `mountains` `onyx` `ophir` `overflowing` `overturn` `path` `perfection` `place` `precious` `price` `rivers` `rock` `rocks` `roots` `sapphire` `sapphires` `sea` `search` `shadow` `silver` `stone` `stones` `understanding` `vein` `vulture` `waters` `weighed` `whelps` `wisdom` `wisdoms`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

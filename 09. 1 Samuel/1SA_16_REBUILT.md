@@ -85,6 +85,11 @@ The LORD told Samuel how long he'd mourn for Saul since He rejected him from rei
 
 **Musical Healing:** evil spirit God David harp played hand Saul refreshed well evil spirit departed
 
+
+*AI Keywords for current event matching:*
+`abinadab` `anoint` `anointed` `anointing` `appearance` `arise` `armourbearer` `ass` `beautiful` `beth-lehem` `beth-lehemite` `bottle` `bread` `brethren` `bring` `brought` `children` `chosen` `come` `comely` `coming` `command` `countenance` `cunning` `david` `davids` `day` `departed` `divine` `down` `elders` `eliab` `evil` `favour` `fetch` `god` `goodly` `hand` `harp` `healing` `hear` `heart` `heifer` `height` `horn` `israel` `jesse` `kid` `kill` `king` `laden` `looked` `lord` `loved` `man` `matters` `messengers` `mighty` `mourn` `musical` `name` `oil` `outward` `pass` `peaceably` `person` `play` `played` `player` `playing` `provided` `prudent` `ramah` `refreshed` `refused` `reigning` `rejected` `ruddy` `sacrifice` `samuel` `sanctify` `saul` `seek` `seeth` `selection` `sent` `servants` `service` `seven` `shammah` `sheep` `shew` `sight` `sit` `son` `sons` `spirit` `stand` `stature` `stood` `town` `transfer` `trembled` `troubled` `valiant` `war` `well` `wine` `youngest`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -73,6 +73,11 @@ Joseph's inheritance extends from Jordan by Jericho eastward to Jericho waters, 
 
 **Canaanite Problem:** Drave Canaanites dwelt Gezer, Canaanites dwell Ephraimites day, serve tribute
 
+
+*AI Keywords for current event matching:*
+`archi` `ataroth` `ataroth-addar` `beth-el` `beth-horon` `border` `borders` `boundaries` `canaanite` `canaanites` `children` `cities` `coast` `day` `down` `drave` `dwell` `dwelt` `east` `eastward` `ephraim` `ephraimites` `ephraims` `families` `gezer` `goings` `inheritance` `intertribal` `janohah` `japhleti` `jericho` `jordan` `joseph` `josephs` `kanah` `lot` `luz` `manasseh` `michmethah` `mount` `naarath` `nether` `north` `pass` `passed` `problem` `river` `sea` `separate` `serve` `side` `taanath-shiloh` `tappuah` `tribe` `tribute` `upper` `villages` `water` `westward` `wilderness`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

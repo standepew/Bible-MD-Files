@@ -127,6 +127,11 @@ Said, heart, prove, mirth, enjoy, pleasure, behold, vanity, said, laughter, mad,
 
 **Divine Sovereignty:** God giveth wisdom, from hand God, good in his sight
 
+
+*AI Keywords for current event matching:*
+`accumulation` `builded` `cattle` `darkness` `divine` `drink` `eat` `enjoy` `excelleth` `eyes` `folly` `gathered` `giveth` `god` `gold` `good` `great` `hand` `head` `houses` `laughter` `light` `mad` `man` `mirth` `pleasure` `possessions` `prove` `pursuit` `sight` `silver` `sovereignty` `wealth` `wisdom` `wise` `works`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

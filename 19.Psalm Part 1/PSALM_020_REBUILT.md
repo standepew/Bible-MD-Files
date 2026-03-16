@@ -139,6 +139,11 @@ Chief, Musician, Psalm, David, LORD, hear, day, trouble, name, GOD, Jacob, defen
 
 **God's Salvation:** rejoice salvation name GOD set banners, saveth anointed hear holy heaven, remember name LORD GOD
 
+
+*AI Keywords for current event matching:*
+`accept` `anointed` `banners` `brought` `burnt` `call` `chariots` `chief` `counsel` `david` `day` `defend` `divine` `down` `fallen` `fulfil` `god` `gods` `grant` `hand` `hear` `heart` `heaven` `help` `holy` `horses` `human` `jacob` `king` `lord` `musician` `name` `offerings` `petitions` `prayer` `psalm` `rejoice` `remember` `right` `risen` `sacrifice` `salvation` `sanctuary` `save` `saveth` `saving` `selah` `send` `set` `stand` `strength` `strengthen` `trouble` `trust` `upright` `victory` `zion`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

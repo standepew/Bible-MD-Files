@@ -103,6 +103,11 @@ Righteous, LORD, plead, talk, judgments, way, wicked, prosper, happy, deal, trea
 
 **Christ's Restoration:** built midst people, learn ways people, swear LORD liveth, every man land
 
+
+*AI Keywords for current event matching:*
+`again` `art` `beloved` `bring` `built` `christs` `compassion` `divine` `enemies` `every` `far` `forsaken` `given` `happy` `heart` `heritage` `house` `judgments` `knowest` `land` `learn` `liveth` `lord` `man` `midst` `mouth` `near` `people` `planted` `plead` `prosper` `prosperity` `reins` `restoration` `return` `righteous` `righteousness` `root` `swear` `taken` `treacherously` `tried` `ways` `wicked`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

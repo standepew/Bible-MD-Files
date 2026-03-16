@@ -139,6 +139,11 @@ Wise, man, interpretation, thing, man, wisdom, maketh, face, shine, boldness, fa
 
 **Justice and Mercy:** sinner do evil, fear God well, sentence not executed
 
+
+*AI Keywords for current event matching:*
+`authority` `commandment` `day` `death` `discharge` `divine` `every` `evil` `executed` `fear` `find` `god` `human` `interpretation` `judgment` `justice` `keep` `king` `labour` `man` `mercy` `mortality` `power` `purpose` `retain` `seek` `sentence` `sinner` `spirit` `time` `timing` `well` `wisdom` `wise` `word` `work`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

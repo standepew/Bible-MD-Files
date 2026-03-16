@@ -73,6 +73,11 @@ This chapter lists all the kings defeated by Israel, dividing them into those co
 
 **Thirty-One Kings:** King Jericho, king Ai Beth-el, king Jerusalem, king Hebron, king Jarmuth, king Lachish, king Eglon, king Gezer, king Debir, king Geder, king Hormah, king Arad, king Libnah, king Adullam, king Makkedah, king Beth-el, king Tappuah, king Hepher, king Aphek, king Lasharon, king Madon, king Hazor, king Shimron-meron, king Achshaph, king Taanach, king Megiddo, king Kedesh, king Jokneam Carmel, king Dor coast Dor, king nations Gilgal, king Tirzah, kings thirty one
 
+
+*AI Keywords for current event matching:*
+`achshaph` `adullam` `ammon` `amorites` `aphek` `arad` `arnon` `aroer` `ashdoth` `ashtaroth` `baal-gad` `bank` `bashan` `beth` `beth-el` `border` `canaanites` `carmel` `children` `chinneroth` `coast` `conquest` `country` `debir` `divisions` `dor` `dwelt` `east` `edrei` `eglon` `gadites` `gave` `geder` `geshurites` `gezer` `giants` `gilead` `gilgal` `halak` `half` `hazor` `hebron` `hepher` `hermon` `heshbon` `hittites` `hivites` `hormah` `israel` `jabbok` `jarmuth` `jebusites` `jericho` `jerusalem` `jeshimoth` `jokneam` `jordan` `joshua` `kedesh` `king` `kingdom` `kings` `lachish` `land` `lasharon` `lebanon` `libnah` `lord` `maachathites` `madon` `makkedah` `manasseh` `megiddo` `middle` `moses` `mount` `mountains` `nations` `ogs` `one` `perizzites` `pisgah` `plain` `plains` `possessed` `possession` `reigned` `remnant` `reubenites` `rising` `river` `ruled` `salcah` `salt` `sea` `seir` `servant` `shimron-meron` `sihon` `smote` `south` `springs` `sun` `taanach` `tappuah` `thirty` `thirty-one` `tirzah` `tribe` `tribes` `valley` `valleys` `west` `wilderness`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

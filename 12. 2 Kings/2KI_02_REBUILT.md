@@ -87,6 +87,11 @@ LORD take Elijah heaven whirlwind; Elijah Elisha Gilgal. Elijah Elisha, Tarry, L
 
 **Beth-el Judgment:** Beth-el way children city mocked bald head, turned looked cursed LORD she bears wood forty-two children, mount Carmel Samaria
 
+
+*AI Keywords for current event matching:*
+`ascension` `ashamed` `ask` `bald` `bank` `barren` `bears` `beth-el` `carmel` `cast` `chariot` `children` `city` `clothes` `crossing` `cruse` `cursed` `day` `days` `death` `departure` `divided` `double` `dry` `elijah` `elijahs` `elisha` `elishas` `father` `fell` `fifty` `fire` `forty-two` `found` `gilgal` `god` `ground` `hard` `head` `healed` `healing` `heaven` `horsemen` `horses` `israel` `jericho` `jordan` `judgment` `land` `leave` `looked` `lord` `mantle` `master` `men` `mocked` `mount` `mountain` `naught` `new` `parted` `peace` `pieces` `pleasant` `portion` `prophetic` `prophets` `recognition` `rent` `request` `salt` `samaria` `saying` `see` `seek` `send` `servants` `situation` `smitten` `smote` `sons` `sought` `soul` `spirit` `spoke` `spring` `strong` `succession` `take` `taken` `tarry` `thing` `three` `turned` `two` `urged` `valley` `view` `water` `waters` `way` `whirlwind` `wood` `wrapped`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

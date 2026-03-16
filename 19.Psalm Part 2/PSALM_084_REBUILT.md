@@ -139,6 +139,11 @@ Chief, Musician, Gittith, Psalm, sons, Korah, amiable, tabernacles, LORD, hosts,
 
 **Eternal Dwelling:** tabernacles LORD hosts, dwell house praising, Zion appeareth GOD, courts better thousand
 
+
+*AI Keywords for current event matching:*
+`amiable` `appeareth` `baca` `better` `blessed` `blessing` `chief` `courts` `crieth` `day` `divine` `doorkeeper` `dwell` `dwelling` `eternal` `fainteth` `filleth` `flesh` `gittith` `god` `gods` `heart` `hosts` `house` `korah` `living` `longeth` `longing` `lord` `man` `musician` `passing` `pools` `praising` `psalm` `rain` `shield` `sons` `soul` `spiritual` `strength` `sun` `tabernacles` `tents` `thousand` `valley` `ways` `well` `wickedness` `zion`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

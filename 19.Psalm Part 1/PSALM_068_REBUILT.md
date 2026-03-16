@@ -103,6 +103,11 @@ Chief, Musician, Psalm, Song, David, GOD, arise, enemies, scattered, hate, flee,
 
 **Universal Dominion:** kings bring presents temple Jerusalem, princes Egypt Ethiopia stretch hands GOD, Sing kingdoms earth sing praises Lord, rideth heavens heavens old
 
+
+*AI Keywords for current event matching:*
+`angels` `arise` `ascended` `ascension` `away` `bound` `bring` `bringeth` `captive` `captivity` `chains` `chariots` `chief` `david` `divine` `dominion` `driven` `dry` `dwell` `earth` `egypt` `enemies` `ethiopia` `families` `father` `fatherless` `fire` `flee` `gifts` `god` `gods` `habitation` `hands` `hate` `heavens` `high` `holy` `jerusalem` `judge` `kingdoms` `kings` `land` `leadership` `led` `lord` `marched` `melteth` `men` `musician` `old` `people` `perish` `place` `praises` `presence` `presents` `princes` `psalm` `rebellious` `received` `rideth` `scattered` `setteth` `sinai` `sing` `smoke` `solitary` `song` `stretch` `temple` `thousand` `thousands` `twenty` `universal` `victory` `wax` `wentest` `wicked` `widows` `wilderness`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

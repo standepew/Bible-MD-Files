@@ -109,6 +109,11 @@ Moses commands Israel to love the LORD and keep His commandments always, remindi
 
 **Remembering God's Acts:** Seen great acts, Egypt, Pharaoh, Red Sea, wilderness, Dathan and Abiram, earth opened mouth, swallowed them up
 
+
+*AI Keywords for current event matching:*
+`abiram` `acts` `against` `agricultural` `aside` `between` `bind` `blessing` `blessings` `cattle` `children` `choice` `cleave` `commandments` `corn` `curse` `dathan` `deceived` `deception` `disobey` `door` `down` `drive` `due` `earth` `eat` `ebal` `egypt` `euphrates` `eyes` `feet` `first` `frontlets` `full` `gates` `gather` `generation` `gerizim` `gods` `grass` `great` `hand` `heart` `heaven` `keep` `kindled` `land` `latter` `lebanon` `lord` `lords` `love` `lying` `mount` `mouth` `nations` `next` `obedience` `obey` `oil` `opened` `perish` `pharaoh` `possess` `possession` `posts` `quickly` `rain` `red` `remembering` `rising` `sea` `season` `seen` `serve` `set` `shut` `sitting` `soles` `soul` `speak` `stronger` `swallowed` `teach` `teaching` `tread` `turn` `walk` `walking` `warning` `ways` `wilderness` `wine` `worship` `wrath` `you`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

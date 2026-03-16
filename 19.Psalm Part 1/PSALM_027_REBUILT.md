@@ -151,6 +151,11 @@ Psalm, David, LORD, light, salvation, fear, strength, life, afraid, wicked, enem
 
 **Courage in Trouble:** hide face far servant anger help leave forsake GOD salvation, father mother forsake take, teach way lead plain path enemies, wait LORD courage strengthen heart wait
 
+
+*AI Keywords for current event matching:*
+`afraid` `anger` `answer` `beauty` `behold` `came` `confidence` `confident` `courage` `cry` `david` `days` `desire` `desired` `dwell` `eat` `encamp` `enemies` `enquire` `face` `far` `father` `fear` `fell` `flesh` `foes` `forsake` `god` `gods` `head` `hear` `heart` `help` `hide` `host` `house` `joy` `lead` `leave` `life` `lifted` `light` `lord` `mercy` `mother` `offer` `path` `pavilion` `plain` `praises` `presence` `psalm` `rise` `rock` `round` `sacrifices` `said` `salvation` `secret` `seek` `servant` `set` `sing` `strength` `strengthen` `stumbled` `tabernacle` `take` `teach` `temple` `thing` `time` `trouble` `voice` `wait` `war` `way` `wicked`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

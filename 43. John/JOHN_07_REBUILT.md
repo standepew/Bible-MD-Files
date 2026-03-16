@@ -163,6 +163,11 @@ Jesus, walked, Galilee, walk, Jewry, Jews, kill, Jews, feast, tabernacles, hand,
 
 **Officers Return Empty:** division people, Prophet Christ, seed David, Bethlehem David, officers brought, never man spake, Pharisees deceived, Nicodemus night, out Galilee
 
+
+*AI Keywords for current event matching:*
+`among` `believe` `bethlehem` `brethren` `brought` `cannot` `christ` `circumcision` `come` `david` `day` `deceived` `dispersed` `division` `doctrine` `drink` `empty` `feast` `find` `galilee` `gentiles` `glory` `god` `good` `hate` `himself` `hour` `jesus` `judgment` `kill` `last` `law` `learned` `little` `living` `man` `moses` `murmuring` `never` `nicodemus` `night` `officers` `one` `people` `pharisees` `promise` `prophet` `receive` `return` `righteous` `sabbath` `secretly` `seed` `seek` `seeketh` `spake` `speaketh` `spirit` `tabernacles` `thirst` `time` `walked` `water` `whence` `work` `world` `yet`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

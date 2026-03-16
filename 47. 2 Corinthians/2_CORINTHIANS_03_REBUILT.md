@@ -103,6 +103,11 @@ Begin, commend, commend, epistles, commendation, epistles, commendation, epistle
 
 **The Glory of the Lord:** Lord, Spirit, Spirit, Lord, liberty, open, face, beholding, glass, glory, Lord, changed, image, glory, glory, Spirit, Lord
 
+
+*AI Keywords for current event matching:*
+`able` `abolished` `away` `begin` `behold` `beholding` `blinded` `changed` `children` `christ` `commend` `commendation` `condemnation` `countenance` `death` `declared` `done` `engraven` `epistle` `epistles` `exceed` `excellet` `face` `fleshy` `giveth` `glass` `glorious` `glory` `god` `heart` `hearts` `hope` `image` `ink` `israel` `killeth` `known` `letter` `liberty` `life` `living` `lord` `made` `manifestly` `men` `minds` `ministered` `ministers` `ministration` `ministry` `moses` `new` `old` `open` `plainness` `read` `reading` `remaineth` `removed` `respect` `righteousness` `selves` `speech` `spirit` `stedfastly` `stone` `stones` `sufficiency` `sufficient` `tables` `taken` `testament` `trust` `turn` `untaken` `vail` `veil` `ward` `written`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -137,6 +137,11 @@ Abraham, father, pertaining, flesh, found, justified, works, glory, God, scriptu
 
 **Faith Before Circumcision:** law heirs, faith void, promise effect, law worketh, wrath law, transgression faith, grace end, promise sure, seed law, faith Abraham, father us written, father nations, believed God, quickeneth dead, calleth things, hope believed, hope father, nations spoken, seed weak, faith considered, body dead, hundred years, deadness Sara, womb staggered, promise God, unbelief strong, faith giving, glory God, fully persuaded, promised able, perform imputed, righteousness written, sake alone, imputed us, believe raised, Jesus Lord, dead delivered, offences raised, justification
 
+
+*AI Keywords for current event matching:*
+`able` `abraham` `abrahams` `alone` `believe` `believed` `believeth` `blessed` `blessedness` `body` `calleth` `circumcision` `considered` `counted` `covered` `david` `dead` `deadness` `debt` `delivered` `describeth` `effect` `end` `faith` `father` `flesh` `forgiven` `found` `fully` `giving` `glory` `god` `grace` `heir` `heirs` `hope` `hundred` `impute` `imputed` `imputeth` `iniquities` `jesus` `justification` `justified` `justifieth` `law` `lord` `man` `nations` `offences` `perform` `persuaded` `pertaining` `promise` `promised` `quickeneth` `raised` `received` `reckoned` `reward` `righteousness` `sake` `sara` `scripture` `seal` `seed` `sign` `sin` `sins` `spoken` `staggered` `steps` `strong` `sure` `things` `transgression` `unbelief` `uncircumcised` `uncircumcision` `ungodly` `void` `walk` `weak` `womb` `worketh` `works` `world` `wrath` `written` `years`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

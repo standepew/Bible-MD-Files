@@ -103,6 +103,11 @@ Word, LORD, Hosea, son, Beeri, days, Uzziah, Jotham, Ahaz, Hezekiah, kings, Juda
 
 **Covenant Restoration:** sand sea, sons living God, gathered together, great day
 
+
+*AI Keywords for current event matching:*
+`children` `christs` `covenant` `daughter` `day` `departing` `divine` `gathered` `god` `gomer` `great` `harlot` `israel` `jezreel` `judah` `land` `living` `lo-ammi` `lo-ruhamah` `lord` `mercy` `name` `people` `played` `redemption` `restoration` `sand` `save` `sea` `sons` `together` `unfaithful` `whoredom` `whoredoms` `wife`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

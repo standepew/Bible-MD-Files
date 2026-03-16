@@ -165,6 +165,11 @@ Amaziah, twenty, five, years, reigned, twenty, nine, years, Jerusalem, mother, J
 
 **Royal Summary:** acts Amaziah first last book kings Judah Israel, time Amaziah turn away LORD conspiracy Jerusalem fled Lachish sent Lachish slew, horses buried fathers city Judah
 
+
+*AI Keywords for current event matching:*
+`abide` `acts` `advice` `alive` `amaziah` `anger` `army` `away` `battle` `beast` `benjamin` `beth` `boast` `book` `bowed` `brake` `broken` `buried` `burned` `campaign` `captains` `captive` `carry` `cast` `cedar` `children` `choice` `cities` `city` `commanded` `conspiracy` `corner` `counsel` `cubits` `daughter` `death` `decline` `deliver` `destroy` `determined` `die` `divine` `down` `edom` `edomites` `enemies` `enemy` `ephraim` `established` `face` `fall` `father` `fathers` `fifteen` `first` `five` `fled` `forbare` `forbear` `four` `gate` `gathered` `give` `god` `gods` `gold` `hand` `hear` `hearkened` `heart` `help` `hired` `home` `horon` `horses` `hostages` `house` `houses` `hundred` `hundreds` `hurt` `incense` `israel` `jehoaddan` `jehoahaz` `jehu` `jerusalem` `joash` `judah` `judgment` `killed` `kindled` `king` `kingdom` `kings` `lachish` `last` `law` `lebanon` `lift` `lived` `lord` `man` `meddle` `men` `mighty` `military` `moses` `mother` `nine` `numbered` `obed` `obedience` `partial` `people` `perfect` `pieces` `power` `prophet` `reigned` `returned` `right` `rock` `royal` `salt` `samaria` `seir` `sent` `separated` `servants` `shemesh` `shield` `sight` `silver` `sin` `slaughter` `slew` `smitten` `smote` `soldiers` `son` `sought` `spear` `spiritual` `spoil` `strengthened` `strong` `summary` `talents` `ten` `tents` `thistle` `thousand` `thousands` `three` `time` `took` `top` `treasures` `trode` `turn` `twenty` `valley` `valour` `vessels` `wall` `war` `wife` `wild` `worse` `years`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

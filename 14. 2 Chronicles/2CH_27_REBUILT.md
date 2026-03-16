@@ -129,6 +129,11 @@ Jotham, twenty, five, years, reigned, sixteen, years, Jerusalem, mother, Jerusha
 
 **Historical Record:** acts Jotham wars ways book kings Israel Judah
 
+
+*AI Keywords for current event matching:*
+`acts` `ahaz` `ammon` `ammonites` `barley` `book` `building` `built` `buried` `castles` `children` `cities` `city` `corruptly` `daughter` `david` `divine` `entered` `father` `fathers` `five` `forests` `fought` `gate` `god` `high` `historical` `house` `hundred` `israel` `jerusalem` `jerushah` `jotham` `judah` `king` `kings` `lord` `measures` `mighty` `military` `mother` `mountains` `much` `ophel` `people` `preparation` `prepared` `prevailed` `projects` `record` `reigned` `right` `royal` `second` `sight` `silver` `sixteen` `slept` `son` `stead` `succession` `talents` `temple` `ten` `third` `thousand` `towers` `twenty` `uzziah` `victory` `wall` `wars` `ways` `wheat` `year` `years` `zadok`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

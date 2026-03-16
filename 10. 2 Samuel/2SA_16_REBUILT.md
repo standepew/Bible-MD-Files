@@ -81,6 +81,11 @@ David past top of hill, Ziba servant Mephibosheth met, couple asses saddled, two
 
 **Ahithophel's Wicked Counsel:** Absalom Ahithophel counsel, Ahithophel Absalom father concubines house Israel abhorred father hands strong, tent top house Absalom father concubines sight Israel, counsel Ahithophel oracle God counsel Ahithophel David Absalom
 
+
+*AI Keywords for current event matching:*
+`abhorred` `abide` `abishai` `absalom` `affliction` `ahithophel` `ahithophels` `archite` `asses` `bahurim` `belial` `benjamite` `bidden` `blood` `bloody` `bottle` `bowels` `bread` `bunches` `cast` `choose` `come` `concubines` `counsel` `curse` `cursed` `cursing` `david` `davids` `dead` `delivered` `dog` `done` `drink` `dust` `eat` `faint` `family` `father` `friend` `fruit` `fruits` `gera` `god` `good` `grace` `hands` `head` `hill` `house` `household` `hundred` `hushai` `hushais` `israel` `jerusalem` `kindness` `king` `kingdom` `left` `life` `loaves` `lord` `loyalty` `man` `master` `mean` `men` `mephibosheth` `mighty` `mischief` `opportunism` `oracle` `past` `people` `presence` `raisins` `refreshed` `reigned` `requite` `restore` `restraint` `returned` `ride` `right` `saddled` `saul` `save` `servant` `servants` `serve` `shimei` `shimeis` `side` `sight` `son` `sons` `stead` `stones` `strong` `summer` `tent` `top` `two` `way` `weary` `wherefore` `wicked` `wilderness` `wine` `young` `zeruiah` `ziba` `zibas`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

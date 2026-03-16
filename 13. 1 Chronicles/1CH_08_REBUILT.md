@@ -85,6 +85,11 @@ Benjamin, begat, Bela, firstborn, Ashbel, second, Aharah, third, Nohah, fourth, 
 
 **Eshek's Warriors:** sons Eshek brother Ulam firstborn Jehush second Eliphelet third, sons Ulam mighty men valour archers sons sons hundred fifty sons Benjamin
 
+
+*AI Keywords for current event matching:*
+`abdon` `abihud` `abinadab` `abishua` `abitub` `adaiah` `addar` `ader` `aharah` `ahaz` `ahiah` `ahihud` `ahio` `ahoah` `aijalon` `alemeth` `antothijah` `arad` `archers` `ashbel` `athaliah` `away` `azel` `azmaveth` `azrikam` `baal` `baara` `begat` `bela` `benjamin` `benjamins` `beraiah` `beriah` `binea` `bocheru` `brethren` `brother` `built` `chief` `children` `complete` `country` `descendants` `drove` `dwelt` `eber` `ehud` `elam` `eleasah` `eliah` `eliel` `elienai` `eliphelet` `elpaal` `elpaals` `esh-baal` `eshek` `esheks` `family` `father` `fathers` `fifth` `fifty` `firstborn` `fourth` `gath` `geba` `gedor` `genealogy` `generations` `gera` `gibeon` `gibeons` `hanan` `hananiah` `heads` `heber` `hezeki` `hodesh` `hundred` `huram` `hushim` `inhabitants` `iphedeiah` `ishmael` `ishmerai` `ishpan` `ispah` `jakim` `jaresiah` `jehoadah` `jehush` `jeremoth` `jeroham` `jerohams` `jerusalem` `jeuz` `jezliah` `jobab` `joha` `jonathan` `kish` `line` `lod` `maachah` `malcham` `malchi-shua` `manahath` `melech` `men` `merib-baal` `mesha` `meshullam` `micah` `michael` `mighty` `mikloth` `mirma` `misham` `moab` `moza` `naaman` `nadab` `names` `ner` `nohah` `obadiah` `ono` `penuel` `pithon` `rapha` `removed` `royal` `saul` `sauls` `second` `sent` `shachia` `shaharaim` `shaharaims` `shamed` `shamsherai` `shashak` `sheariah` `shehariah` `shema` `shephuphan` `shimeah` `shimhi` `shimrath` `six` `son` `sons` `tarea` `third` `towns` `ulam` `uzza` `valour` `warriors` `wife` `wives` `zabdi` `zacher` `zebadiah` `zibia` `zichri` `zilthai` `zimri` `zur`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

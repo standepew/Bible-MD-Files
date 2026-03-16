@@ -103,6 +103,11 @@ Word, Jeremiah, LORD, Nebuchadnezzar, king, Babylon, army, kingdoms, earth, domi
 
 **Christ's Faithfulness:** covenant fathers Egypt, seven years free, proclaim liberty neighbour, burned odours
 
+
+*AI Keywords for current event matching:*
+`bodies` `broken` `burned` `calf` `caused` `christs` `covenant` `cut` `dead` `divine` `egypt` `faithfulness` `famine` `fathers` `free` `hebrew` `hebrewess` `judgment` `kingdoms` `liberty` `maidservant` `manservant` `meat` `name` `neighbour` `odours` `pestilence` `polluted` `proclaim` `removed` `return` `servants` `seven` `sword` `transgressed` `turned` `twain` `years`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

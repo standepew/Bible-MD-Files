@@ -139,6 +139,11 @@ Song, Psalm, sons, Korah, Great, LORD, greatly, praised, city, GOD, mountain, ho
 
 **Eternal Praise:** thought lovingkindness GOD midst temple, name GOD praise ends earth right hand full righteousness, GOD forever guide death
 
+
+*AI Keywords for current event matching:*
+`assembled` `beautiful` `breakest` `bulwarks` `city` `consider` `daughters` `death` `divine` `earth` `east` `ends` `establish` `eternal` `fear` `following` `forever` `full` `generation` `glad` `glory` `god` `gods` `great` `greatly` `guide` `hand` `hasted` `holiness` `holy` `hosts` `joy` `judah` `judgments` `king` `kings` `known` `korah` `lord` `lovingkindness` `mark` `marvelled` `midst` `mount` `mountain` `name` `north` `pain` `palaces` `passed` `praise` `praised` `protection` `psalm` `refuge` `rejoice` `right` `righteousness` `round` `ships` `sides` `situation` `song` `sons` `tarshish` `tell` `temple` `thought` `took` `towers` `travail` `troubled` `walk` `wind` `zion` `zions`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

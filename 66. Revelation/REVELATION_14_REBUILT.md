@@ -115,6 +115,11 @@ Lamb, stand, mount, Sion, hundred, forty, four, thousand, Father, name, forehead
 
 **The Winepress of God's Wrath:** angel, temple, crying, loud, voice, cloud, Thrust, sickle, reap, time, reap, harvest, earth, ripe, sat, cloud, thrust, sickle, earth, reaped, angel, temple, heaven, sharp, sickle, angel, altar, power, fire, loud, cry, sharp, sickle, Thrust, sharp, sickle, gather, clusters, vine, earth, grapes, fully, ripe, angel, thrust, sickle, earth, gathered, vine, earth, cast, great, winepress, wrath, God, winepress, trodden, city, blood, winepress, horse, bridles, space, thousand, six, hundred, furlongs
 
+
+*AI Keywords for current event matching:*
+`144000` `altar` `angel` `angels` `ascend` `babylon` `beast` `beasts` `blessed` `blood` `bridles` `brimstone` `cast` `city` `cloud` `clusters` `commandments` `crown` `cry` `crying` `cup` `day` `dead` `defiled` `die` `drink` `dwell` `earth` `elders` `everlasting` `faith` `fallen` `father` `fault` `fear` `fire` `firstfruits` `fly` `follow` `forehead` `foreheads` `fornication` `forty` `found` `fountains` `four` `fully` `furlongs` `gather` `gathered` `glory` `god` `gods` `goeth` `golden` `gospel` `grapes` `great` `guile` `hand` `harpers` `harping` `harps` `harvest` `head` `heaven` `henceforth` `holy` `horse` `hour` `hundred` `image` `indignation` `jesus` `judgment` `keep` `kindred` `labours` `lamb` `learn` `looked` `lord` `loud` `made` `man` `mark` `men` `messages` `midst` `mixture` `mount` `mouth` `name` `nation` `nations` `new` `night` `patience` `people` `poured` `power` `preach` `presence` `reap` `reaped` `receive` `receiveth` `redeemed` `rest` `ripe` `saints` `sat` `saying` `sea` `sharp` `sickle` `sion` `six` `smoke` `son` `song` `space` `spirit` `stand` `sung` `temple` `third` `thousand` `three` `throne` `thrust` `thunder` `time` `tongue` `torment` `tormented` `trodden` `vine` `virgins` `voice` `waters` `white` `whithersoever` `whosoever` `wine` `winepress` `women` `works` `worship` `wrath` `write`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

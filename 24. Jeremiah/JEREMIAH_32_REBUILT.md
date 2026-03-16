@@ -91,6 +91,11 @@ Word, Jeremiah, LORD, tenth, year, Zedekiah, king, Judah, eighteenth, year, Nebu
 
 **Christ's Faithfulness:** nothing hard, great power stretched arm, lovingkindness thousands, bring captivity return
 
+
+*AI Keywords for current event matching:*
+`anathoth` `arm` `assuredly` `bring` `buy` `came` `captivity` `christs` `covenant` `divine` `everlasting` `evidence` `faithfulness` `fear` `field` `good` `great` `hanameel` `hard` `hearts` `land` `lord` `lovingkindness` `money` `nothing` `plant` `power` `purchase` `put` `redemption` `return` `right` `sealed` `seventeen` `shekels` `son` `stretched` `subscribed` `thousands` `turn` `uncle` `weighed` `word`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

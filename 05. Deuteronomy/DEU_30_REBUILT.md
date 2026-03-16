@@ -95,6 +95,11 @@ Moses presents the path to restoration: when blessings and curses come upon Isra
 
 **Witness and Choice:** Call heaven earth, record day, set before, life death, blessing cursing, choose life, seed live, love LORD God, obey voice, cleave unto him, life length days, dwell land, LORD sware, fathers, Abraham Isaac Jacob, give them
 
+
+*AI Keywords for current event matching:*
+`above` `abraham` `accessibility` `away` `beyond` `bless` `blessing` `body` `book` `bring` `call` `captivity` `cattle` `children` `choice` `choose` `circumcise` `cleave` `come` `command` `commandment` `commandments` `compassion` `curse` `curses` `cursing` `day` `days` `death` `denounce` `drawn` `driven` `dwell` `earth` `enemies` `evil` `far` `fathers` `fetch` `fruit` `gather` `give` `god` `gods` `good` `hand` `hate` `hear` `hearken` `heart` `heaven` `hidden` `isaac` `jacob` `jordan` `judgments` `keep` `land` `law` `length` `life` `live` `lord` `love` `mind` `mouth` `multiply` `nations` `nigh` `obey` `off` `outmost` `passest` `perish` `persecuted` `plenteous` `possess` `possessed` `prolong` `promise` `prosperity` `put` `record` `rejoice` `rejoiced` `restoration` `return` `say` `scattered` `sea` `seed` `serve` `set` `soul` `spiritual` `statutes` `surely` `sware` `thence` `things` `transformation` `turn` `voice` `walk` `ways` `witness` `word` `work` `worship`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -131,6 +131,11 @@ Moses is tending Jethro's flock at Horeb, the mountain of God, when he sees a bu
 - **Covenant faithfulness** → Exodus 3:6 — God of Abraham, Isaac, and Jacob; still binding
 - **Reparations / taking spoil** → Exodus 3:21-22 — Israel leaves Egypt with Egyptian wealth
 
+
+*AI Keywords for current event matching:*
+`current` `events` `exodus` `god` `heard` `injustice` `know` `matching` `seeing` `seen` `sorrows` `suffering` `surely`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -61,6 +61,11 @@ God addresses the priests through Moses: the ordinary priest may not defile hims
 - **The disabled / those with physical limitations and access to God** → Leviticus 21:22 — blemished priests may eat; God's provision is not withheld
 - **God as the one who sanctifies** → Leviticus 21:8, 15, 23 — 1 Corinthians 1:30; 1 Thessalonians 5:23
 
+
+*AI Keywords for current event matching:*
+`211-12` `accountability` `current` `events` `higher` `james` `leaders` `leviticus` `luke` `matching` `teachers`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS WITH CONTEXTUAL DEFINITIONS

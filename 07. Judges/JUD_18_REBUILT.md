@@ -101,6 +101,11 @@ In those days without a king, the Danites seek an inheritance since they haven't
 
 **Dan's Idolatry:** children Dan graven image, Jonathan son Gershom son Manasseh sons priests tribe Dan day captivity land, Micah graven image made house God Shiloh
 
+
+*AI Keywords for current event matching:*
+`aile` `angry` `appointed` `arise` `ask` `assessment` `away` `behind` `beth-rehob` `brethren` `brought` `built` `burnt` `business` `captivity` `careless` `carriage` `carved` `cattle` `children` `city` `coasts` `company` `confrontation` `conquest` `consider` `counsel` `country` `cried` `dan` `danites` `dans` `day` `days` `deal` `defeat` `deliverer` `departed` `departure` `discovery` `dwell` `dwelt` `earth` `edge` `encouragement` `enter` `entering` `ephod` `ephraim` `eshtaol` `expedition` `faces` `fallen` `false` `family` `far` `father` `fellows` `fetched` `fire` `first` `five` `gate` `gathered` `gershom` `given` `glad` `god` `gods` `gone` `good` `graven` `hand` `hands` `heard` `heart` `hired` `hither` `hold` `house` `household` `houses` `hundred` `idol` `idolatry` `image` `inheritance` `israel` `jonathan` `judah` `king` `kirjath-jearim` `knew` `laish` `land` `large` `levite` `life` `little` `lodged` `lord` `made` `magistrate` `mahaneh-dan` `make` `man` `manasseh` `manner` `men` `micah` `micahs` `midst` `military` `mission` `molten` `mount` `mouth` `name` `ones` `overtook` `peace` `people` `place` `possess` `priest` `priests` `prosperous` `quiet` `renaming` `saluted` `search` `secure` `shame` `shiloh` `six` `slothful` `smote` `son` `sons` `spy` `still` `strong` `sword` `taken` `teraphim` `theft` `thing` `things` `thither` `thitherward` `thus` `transfer` `tribe` `tribes` `turned` `valley` `valour` `voice` `want` `war` `way` `weapons` `young` `zidon` `zidonians` `zorah`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

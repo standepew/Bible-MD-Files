@@ -173,6 +173,11 @@ Rehoboam, Shechem, Israel, make, king. Jeroboam, son, Nebat, Egypt, fled, presen
 
 **Permanent Division:** Israel rebelled house David day
 
+
+*AI Keywords for current event matching:*
+`add` `advice` `ahijah` `answer` `answered` `arrogant` `bade` `brought` `called` `came` `cause` `chariot` `chastise` `chastised` `children` `cities` `come` `counsel` `david` `day` `days` `departed` `died` `divine` `division` `dwelt` `ease` `egypt` `father` `finger` `fled` `flee` `folly` `forever` `forsake` `forsook` `god` `good` `grievous` `hadoram` `hand` `heard` `hearken` `hearkened` `heavy` `house` `inheritance` `israel` `jeroboam` `jerusalem` `jesse` `judah` `judgment` `kind` `king` `kingdom` `lighter` `little` `lived` `loins` `lord` `make` `men` `nebat` `old` `people` `peoples` `perform` `permanent` `please` `portion` `presence` `put` `rebelled` `rebellion` `rehoboam` `reigned` `request` `response` `return` `returned` `roughly` `royal` `saying` `scorpions` `seeking` `sent` `servants` `serve` `servitude` `shechem` `shilonite` `solomon` `somewhat` `son` `spake` `speed` `stoned` `stood` `succession` `tents` `thicker` `third` `three` `tribute` `violence` `whips` `word` `words` `yoke` `young` `youth`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

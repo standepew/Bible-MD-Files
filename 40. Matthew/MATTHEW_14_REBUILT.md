@@ -163,6 +163,11 @@ Herod, tetrarch, heard, fame, Jesus, servants, John, Baptist, risen, dead, might
 
 **Divine Healing:** touch garment, perfectly whole, diseased brought, Gennesaret healed
 
+
+*AI Keywords for current event matching:*
+`baskets` `bid` `blessed` `brake` `brought` `ceased` `christs` `come` `compassion` `desert` `diseased` `divine` `faith` `feeding` `fishes` `five` `followed` `fourth` `garment` `gennesaret` `healed` `healing` `heaven` `little` `loaves` `looking` `moved` `multitude` `multitudes` `perfectly` `place` `sea` `sick` `touch` `twelve` `two` `walking` `watch` `water` `whole` `wind`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

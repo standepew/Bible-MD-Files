@@ -127,6 +127,11 @@ Hear, LORD, saith, Arise, contend, mountains, hills, hear, voice, mountains, LOR
 
 **Justice Required:** do justly, love mercy, walk humbly, rich men violence
 
+
+*AI Keywords for current event matching:*
+`balak` `brought` `burnt` `christs` `contend` `controversy` `divine` `egypt` `faithfulness` `firstborn` `humbly` `israel` `justice` `justly` `love` `men` `mercy` `moses` `mountains` `offerings` `oil` `people` `plead` `rams` `redeemed` `remember` `required` `rich` `rivers` `sent` `servants` `testify` `thousands` `transgression` `true` `violence` `walk` `wearied` `worship`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

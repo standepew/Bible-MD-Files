@@ -66,6 +66,11 @@ In the first month of the second year, God commands Israel to keep the Passover 
 - **Cutting off / excommunication from the covenant community** → Numbers 9:13 — 1 Corinthians 5:13; Hebrews 10:29
 - **Waiting on God / not moving before His time** → Numbers 9:19-23 — Isaiah 40:31; Psalm 27:14
 
+
+*AI Keywords for current event matching:*
+`166-7` `915-23` `acts` `current` `divine` `events` `following` `gods` `guidance` `isaiah` `john` `leading` `matching` `numbers`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS WITH CONTEXTUAL DEFINITIONS

@@ -87,6 +87,11 @@ Three years war Syria Israel. Third year, Jehoshaphat king Judah, king Israel. K
 
 **Ahaziah's Reign:** Ahaziah son Ahab Israel Samaria seventeenth year Jehoshaphat king Judah reigned years Israel, evil sight LORD father mother Jeroboam son Nebat Israel sin, served Baal worshipped provoked anger LORD GOD Israel father
 
+
+*AI Keywords for current event matching:*
+`acts` `adjure` `affliction` `ahab` `ahabs` `ahaziah` `ahaziahs` `amon` `anger` `armour` `asa` `aside` `azubah` `baal` `battle` `besides` `blood` `book` `bow` `bread` `broken` `built` `buried` `burnt` `campaign` `captains` `chamber` `chariot` `chariots` `cheek` `chenaanah` `chronicles` `cities` `city` `consumed` `country` `cried` `daughter` `david` `day` `death` `deliver` `deputy` `died` `disguise` `disguised` `dogs` `driver` `edom` `enquire` `entrance` `evil` `eyes` `ezion-geber` `false` `father` `fathers` `fight` `forbear` `four` `fourth` `gate` `gilead` `god` `gold` `good` `governor` `great` `hand` `harness` `hate` `hearken` `heaven` `hide` `high` `hills` `horns` `horses` `host` `house` `hundred` `imlah` `incense` `inner` `iron` `israel` `ivory` `jehoram` `jehoshaphat` `jehoshaphats` `jeroboam` `jerusalem` `joab` `joints` `judah` `king` `kings` `land` `left` `licked` `liveth` `lord` `lying` `man` `manner` `master` `messenger` `micaiah` `micaiahs` `mother` `mouth` `near` `nebat` `officer` `ophir` `peace` `people` `perceived` `persuade` `place` `places` `pool` `prison` `proclamation` `prophecy` `prophesied` `prophesy` `prophet` `prophets` `prosper` `provoked` `pursuing` `push` `ramoth` `ramoth-gilead` `reign` `reigned` `remnant` `right` `robes` `samaria` `scattered` `servants` `served` `seventeenth` `sheep` `shepherd` `shilhi` `ships` `sight` `sin` `slept` `small` `smote` `sodomites` `son` `speak` `spirit` `spoke` `spoken` `sun` `syria` `syrians` `tharshish` `third` `three` `throne` `thrones` `true` `turned` `venture` `void` `war` `warred` `water` `ways` `word` `worshipped` `wound` `wounded` `year` `years` `zedekiah`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

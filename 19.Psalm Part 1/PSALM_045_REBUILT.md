@@ -151,6 +151,11 @@ Chief, Musician, Shoshannim, sons, Korah, Maschil, Song, loves, heart, inditing,
 
 **Eternal Kingdom:** throne GOD forever sceptre kingdom right sceptre, lovest righteousness hatest wickedness GOD anointed oil gladness fellows, instead fathers children make princes earth, make name remembered generations people praise forever
 
+
+*AI Keywords for current event matching:*
+`anointed` `arrows` `beauty` `blessed` `chief` `children` `clothing` `companions` `consider` `daughter` `daughters` `desire` `ear` `earth` `enemies` `eternal` `fairer` `fall` `father` `fathers` `favour` `fellows` `follow` `forever` `forget` `generations` `gift` `gird` `gladness` `glorious` `glory` `god` `gold` `good` `grace` `greatly` `hand` `hatest` `hearken` `heart` `honourable` `house` `incline` `inditing` `instead` `intreat` `king` `kingdom` `kings` `korah` `lips` `lord` `loves` `lovest` `made` `majesty` `make` `maschil` `matter` `meekness` `men` `mighty` `musician` `name` `needlework` `oil` `ophir` `pen` `people` `poured` `praise` `princes` `prosperously` `queen` `queens` `raiment` `ready` `remembered` `rich` `ride` `right` `righteousness` `royal` `sceptre` `sharp` `shoshannim` `song` `sons` `speak` `stand` `sword` `teach` `terrible` `thigh` `things` `throne` `tongue` `truth` `tyre` `virgins` `wedding` `wickedness` `women` `worship` `writer` `wrought`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

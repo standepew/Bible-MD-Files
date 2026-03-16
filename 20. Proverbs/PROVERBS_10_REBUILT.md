@@ -139,6 +139,11 @@ Proverbs, Solomon, wise, son, glad, father, foolish, son, heaviness, mother, Tre
 
 **Speech and Character:** mouth righteous well life, tongue just choice silver, love covereth sins
 
+
+*AI Keywords for current event matching:*
+`character` `choice` `commandments` `covereth` `death` `deliver` `destruction` `diligence` `diligent` `father` `folly` `found` `glad` `hand` `heart` `life` `love` `maketh` `mouth` `near` `poor` `receive` `rich` `righteous` `rot` `send` `silver` `sins` `slack` `sloth` `sluggard` `son` `speech` `tongue` `understanding` `well` `wicked` `wisdom` `wise`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

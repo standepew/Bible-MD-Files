@@ -157,6 +157,11 @@ Disciples, impossible, offences, woe, millstone, neck, sea, offend, little, ones
 
 **The Day of Revelation:** housetop stuff, Remember Lot, save life, lose life, grinding together
 
+
+*AI Keywords for current event matching:*
+`afar` `ate` `brother` `cleansed` `come` `coming` `commanded` `day` `days` `desire` `drank` `duty` `faith` `forgiveness` `gird` `grain` `grinding` `healed` `healing` `heaven` `here` `housetop` `increase` `jesus` `kingdom` `lepers` `life` `lightning` `little` `lose` `lot` `man` `married` `master` `millstone` `mustard` `neck` `noe` `observation` `offences` `ones` `planted` `plowing` `plucked` `priests` `remember` `revelation` `root` `save` `sea` `see` `servant` `servants` `serve` `seven` `shew` `sodom` `son` `stood` `stuff` `sycamine` `temptations` `ten` `times` `together` `tree` `trespass` `unprofitable` `within` `wives` `you`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

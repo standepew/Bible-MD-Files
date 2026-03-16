@@ -127,6 +127,11 @@ Sing, LORD, new, song, sing, LORD, earth, bless, name, shew, salvation, day, dec
 
 **Righteous Judgment:** judge people righteously, judge world righteousness people truth, cometh judge earth
 
+
+*AI Keywords for current event matching:*
+`beauty` `bless` `cometh` `day` `declare` `divine` `earth` `feared` `give` `glad` `glory` `gods` `great` `greatly` `heathen` `heavens` `holiness` `honour` `judge` `judgment` `kindreds` `lord` `majesty` `name` `new` `people` `praise` `praised` `reigneth` `rejoice` `righteous` `righteously` `righteousness` `roar` `salvation` `sanctuary` `sea` `shew` `sing` `song` `strength` `truth` `universal` `wonders` `world` `worship`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

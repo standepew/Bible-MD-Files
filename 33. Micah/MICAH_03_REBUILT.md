@@ -115,6 +115,11 @@ Hear, heads, Jacob, princes, house, Israel, know, judgment, hate, good, love, ev
 
 **Zion's Destruction:** build Zion blood, Jerusalem iniquity, plowed field, become heaps
 
+
+*AI Keywords for current event matching:*
+`become` `bite` `blood` `build` `christs` `corrupt` `cry` `declare` `destruction` `err` `field` `full` `good` `hate` `heads` `heaps` `iniquity` `israel` `jacob` `jerusalem` `judgment` `know` `leaders` `lord` `peace` `plowed` `power` `prepare` `princes` `prophet` `prophets` `spirit` `teeth` `transgression` `true` `war` `zion` `zions`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

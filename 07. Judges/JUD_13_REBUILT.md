@@ -101,6 +101,11 @@ Israel does evil, and the LORD delivers them to Philistines for forty years. A D
 
 **Spirit's Movement:** Spirit LORD began move times camp Dan Zorah Eshtaol
 
+
+*AI Keywords for current event matching:*
+`altar` `angel` `angelic` `angels` `annunciation` `appear` `appearance` `appeared` `arose` `ascended` `ascension` `asked` `bare` `barren` `bear` `began` `begin` `beware` `birth` `blessed` `born` `bread` `burnt` `called` `came` `camp` `child` `children` `come` `commanded` `conceive` `countenance` `dan` `danites` `day` `death` `deliver` `delivered` `detain` `die` `divine` `drink` `eat` `eshtaol` `evil` `faces` `family` `fear` `fell` `field` `flame` `forty` `god` `grew` `ground` `hand` `hands` `haste` `head` `hearkened` `heaven` `honour` `husband` `identity` `instructions` `intreated` `israel` `kid` `kill` `knew` `looked` `lord` `made` `man` `manoah` `manoahs` `meat` `move` `movement` `name` `nazarite` `observe` `offered` `offering` `oppression` `order` `pass` `philistine` `philistines` `pleased` `prayer` `ran` `razor` `ready` `received` `repeated` `report` `request` `response` `rock` `samson` `samsons` `sat` `sayings` `second` `secret` `seen` `send` `shewed` `sight` `son` `spakest` `spirit` `spirits` `strong` `surely` `teach` `terrible` `things` `time` `times` `told` `unclean` `vine` `voice` `whence` `wife` `wine` `woman` `womans` `womb` `wondrously` `words` `years` `zorah`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

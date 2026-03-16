@@ -115,6 +115,11 @@ Chief, Musician, Maschil, sons, Korah, hart, panteth, water, brooks, panteth, so
 
 **Divine Remembrance:** remember land Jordan Hermonites hill Mizar, deep calleth deep noise waterspouts waves billows gone, rock forgotten mourning oppression enemy
 
+
+*AI Keywords for current event matching:*
+`appear` `billows` `brooks` `calleth` `cast` `chief` `come` `command` `continually` `countenance` `day` `daytime` `deep` `disquieted` `divine` `enemy` `forgotten` `god` `gone` `hart` `health` `help` `hermonites` `hill` `holyday` `hope` `house` `jordan` `joy` `kept` `korah` `land` `life` `living` `longing` `lord` `lovingkindness` `maschil` `meat` `mizar` `mourning` `multitude` `musician` `night` `noise` `oppression` `panteth` `pour` `praise` `prayer` `remember` `remembrance` `rock` `song` `sons` `soul` `souls` `spiritual` `tears` `thirst` `thirsteth` `voice` `water` `waterspouts` `waves` `went` `within`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

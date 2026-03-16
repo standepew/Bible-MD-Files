@@ -115,6 +115,11 @@ Israel, return, LORD, God, fallen, iniquity, words, turn, LORD, away, iniquity, 
 
 **Wise Understanding:** wise understand, prudent know, ways right, just walk
 
+
+*AI Keywords for current event matching:*
+`anger` `backsliding` `branches` `cast` `christs` `corn` `dew` `divine` `freely` `fruitfulness` `grow` `heal` `healing` `israel` `know` `lebanon` `lily` `lord` `love` `olive` `prudent` `restoration` `return` `revive` `right` `roots` `smell` `spiritual` `spread` `tree` `turned` `understand` `understanding` `vine` `walk` `ways` `wise`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

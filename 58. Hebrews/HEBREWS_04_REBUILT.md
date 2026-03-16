@@ -93,6 +93,11 @@ Fear, promise, entering, rest, seem, short, gospel, preached, word, preached, pr
 
 **Bold Approach to Throne:** boldly, throne, grace, obtain, mercy, grace, help, time, need
 
+
+*AI Keywords for current event matching:*
+`again` `another` `approach` `believed` `bold` `boldly` `ceased` `certain` `christ` `creature` `david` `day` `discerner` `dividing` `enter` `entered` `entering` `example` `eyes` `faith` `fall` `fast` `fear` `feeling` `finished` `foundation` `given` `god` `gods` `gospel` `grace` `great` `harden` `hear` `heard` `heart` `hearts` `heavens` `help` `high` `hold` `infirmities` `intents` `jesus` `joints` `labour` `limiteth` `long` `manifest` `marrow` `mercy` `mixed` `naked` `need` `obtain` `opened` `passed` `people` `piercing` `place` `power` `powerful` `preached` `priest` `profession` `profit` `promise` `quick` `remaineth` `rest` `saying` `seem` `seventh` `sharper` `short` `sight` `sin` `son` `soul` `spake` `spirit` `spoken` `sword` `sworn` `tempted` `thoughts` `throne` `time` `touched` `twoedged` `unbelief` `voice` `without` `word` `works` `world` `wrath`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

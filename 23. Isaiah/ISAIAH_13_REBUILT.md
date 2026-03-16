@@ -139,6 +139,11 @@ Burden, Babylon, Isaiah, son, Amoz, Lift, banner, high, mountain, exalt, voice, 
 
 **Christ's Victory:** sanctified ones, mighty ones, precious gold, complete destruction
 
+
+*AI Keywords for current event matching:*
+`almighty` `babylon` `babylons` `beasts` `beauty` `burden` `chaldees` `christs` `complete` `darkened` `day` `destruction` `divine` `faint` `fall` `glory` `gold` `hands` `hearts` `inhabited` `judgment` `kingdoms` `lord` `melt` `mighty` `never` `ones` `pangs` `precious` `punish` `sanctified` `sorrows` `stars` `victory` `wild` `world`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

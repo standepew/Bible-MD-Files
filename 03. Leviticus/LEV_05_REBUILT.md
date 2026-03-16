@@ -77,6 +77,11 @@ Chapter 5 extends the sin offering provisions to specific obligation cases and i
 - **Restitution required with atonement** → Leviticus 5:15-16 — Luke 19:8 (Zacchaeus); Isaiah 53:10
 - **The trespass offering / asham** → Leviticus 5:15-19 — Isaiah 53:10; 2 Corinthians 5:21
 
+
+*AI Keywords for current event matching:*
+`57-11` `current` `events` `forgiven` `isaiah` `leviticus` `luke` `matching` `one` `poor` `revelation` `too`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

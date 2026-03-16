@@ -103,6 +103,11 @@ Came, pass, fourteenth, year, king, Hezekiah, Sennacherib, king, Assyria, defenc
 
 **Christ's Victory:** king's commandment, held peace, answered not, clothes rent
 
+
+*AI Keywords for current event matching:*
+`altar` `answer` `answered` `assyria` `broken` `came` `christs` `cities` `clothes` `commandment` `confidence` `defenced` `deliver` `divine` `egypt` `faithfulness` `god` `held` `king` `kings` `lord` `peace` `rabshakeh` `reed` `rent` `spiritual` `staff` `testing` `trust` `victory` `words` `worship`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

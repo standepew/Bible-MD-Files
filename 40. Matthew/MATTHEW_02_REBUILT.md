@@ -127,6 +127,11 @@ Jesus, born, Bethlehem, Judaea, days, Herod, king, behold, wise, men, east, Jeru
 
 **Herod's Massacre:** Herod troubled, slew children, Rachel weeping, fulfilled Jeremy
 
+
+*AI Keywords for current event matching:*
+`angel` `appeared` `born` `child` `children` `christs` `come` `east` `egypt` `fell` `flee` `flight` `frankincense` `fulfilled` `gold` `great` `herod` `herods` `jeremy` `jews` `joy` `king` `massacre` `men` `mother` `opened` `rachel` `rejoiced` `royal` `slew` `spoken` `star` `take` `treasures` `troubled` `weeping` `wise` `worship` `worshipped`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

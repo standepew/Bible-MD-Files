@@ -115,6 +115,11 @@ Paul, Timotheus, servants, Jesus, Christ, saints, Christ, Jesus, Philippi, bisho
 
 **Living for Christ:** live, Christ, die, gain, live, flesh, fruit, labour, choose, strait, betwixt, desire, depart, Christ, better, abide, flesh, needful, confidence, abide, continue, furtherance, joy, faith, rejoicing, abundant, Jesus, Christ, coming, conversation, becometh, gospel, Christ, come, see, absent, hear, affairs, stand, fast, spirit, mind, striving, faith, gospel, terrified, adversaries, evident, token, perdition, salvation, God, behalf, Christ, believe, suffer, conflict, saw, hear
 
+
+*AI Keywords for current event matching:*
+`abide` `abound` `absent` `abundant` `adversaries` `affairs` `affliction` `approve` `ashamed` `becometh` `begun` `behalf` `believe` `better` `betwixt` `bishops` `body` `bold` `boldness` `bonds` `bowels` `brethren` `choose` `christ` `circumstances` `come` `coming` `confidence` `confident` `confirmation` `conflict` `contention` `continue` `conversation` `day` `deacons` `death` `defence` `depart` `desire` `die` `earnest` `envy` `evident` `excellent` `expectation` `faith` `fast` `father` `fear` `fellowship` `filled` `first` `flesh` `fruit` `fruits` `furtherance` `gain` `glory` `god` `gods` `good` `gospel` `grace` `happened` `hear` `heart` `hope` `jesus` `joy` `judgment` `know` `knowing` `knowledge` `labour` `life` `live` `living` `long` `lord` `love` `magnified` `manifest` `meet` `mind` `needful` `notwithstanding` `offence` `palace` `partakers` `paul` `pauls` `peace` `perdition` `perform` `philippi` `places` `praise` `pray` `prayer` `preach` `preached` `pretence` `record` `rejoice` `rejoicing` `remembrance` `request` `righteousness` `saints` `salvation` `saw` `see` `servants` `set` `sincere` `sincerely` `speak` `spirit` `stand` `strait` `strife` `striving` `suffer` `supply` `supposing` `terrified` `thank` `thanksgiving` `think` `timotheus` `token` `truth` `turn` `understand` `waxing` `without` `word` `work`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

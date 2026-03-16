@@ -101,6 +101,11 @@ Joshua, now old and stricken in years, is told by God that much land remains to 
 
 **Levi's Inheritance:** Tribe Levi inheritance, sacrifices LORD God Israel fire, inheritance, tribe Levi Moses inheritance, LORD God Israel inheritance
 
+
+*AI Keywords for current event matching:*
+`ammon` `amorites` `aphek` `aram` `arnon` `aroer` `ashdoth` `ashdothites` `ashtaroth` `avites` `baal` `baal-gad` `balaam` `bamoth` `bank` `bashan` `beor` `beth` `betonim` `border` `borders` `canaanite` `canaanites` `children` `chinnereth` `cities` `city` `coast` `commanded` `commission` `countries` `country` `debir` `dibon` `distribute` `distribution` `divide` `divine` `drive` `dukes` `dwelling` `eastward` `edge` `edrei` `egypt` `ekron` `ekronites` `entering` `eshkalonites` `evi` `families` `fire` `five` `gad` `gadites` `gads` `gave` `gazathites` `geshuri` `giblites` `gilead` `gittites` `god` `half` `half-manassehs` `hamath` `hermon` `heshbon` `hill` `hur` `inhabitants` `inheritance` `israel` `israelites` `jahazah` `jair` `jazer` `jericho` `jeshimoth` `jordan` `joshua` `joshuas` `kedemoth` `king` `kingdom` `kirjathaim` `land` `lebanon` `levi` `levis` `lord` `lords` `lot` `machir` `mahanaim` `maim` `manasseh` `mearah` `medeba` `meon` `mephaath` `midian` `midst` `misrephoth` `mizpeh` `moab` `moses` `mount` `nimrah` `nine` `northward` `old` `peor` `philistines` `pisgah` `plain` `plains` `possessed` `possession` `princes` `promise` `rabbah` `ramath` `reba` `reigned` `rekem` `remain` `rest` `reuben` `reubenites` `reubens` `river` `sacrifices` `sea` `servant` `shahar` `sibmah` `side` `sidonians` `sihon` `sihor` `slain` `slay` `smote` `son` `soothsayer` `south` `stricken` `succoth` `sunrising` `sword` `threescore` `towns` `tribe` `tribes` `unpossessed` `valley` `villages` `years` `zaphon` `zareth` `zur`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

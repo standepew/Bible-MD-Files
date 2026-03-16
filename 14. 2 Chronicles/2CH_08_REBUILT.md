@@ -179,6 +179,11 @@ End, twenty, years, Solomon, built, house, LORD, house, cities, Huram, restored,
 
 **Economic Prosperity:** Huram sent servants ships servants knowledge sea went servants Solomon Ophir four hundred fifty talents gold brought king Solomon
 
+
+*AI Keywords for current event matching:*
+`altar` `amorites` `appointed` `ark` `baalath` `bars` `beth` `bread` `brought` `build` `building` `built` `burnt` `captains` `caused` `charges` `chariot` `chariots` `chief` `children` `cities` `city` `come` `commanded` `commandment` `completion` `consumed` `courses` `daughter` `david` `day` `departed` `desired` `dominion` `duty` `dwell` `economic` `edom` `eloth` `end` `expansion` `ezion` `father` `feast` `feasts` `fenced` `fifty` `finished` `foreign` `foundation` `four` `gate` `gates` `geber` `god` `gold` `hamath` `hittites` `hivites` `holy` `horon` `horsemen` `house` `hundred` `huram` `israel` `jebusites` `jerusalem` `king` `knowledge` `land` `lebanon` `left` `levites` `lord` `man` `matter` `men` `military` `minister` `moons` `moses` `nether` `new` `offered` `offering` `offerings` `officers` `ophir` `order` `pay` `people` `perfected` `perizzites` `pharaoh` `places` `porch` `porters` `praise` `prepared` `prevailed` `priests` `projects` `prosperity` `rate` `relations` `required` `restored` `rule` `sabbaths` `sea` `sent` `servants` `service` `ships` `side` `solemn` `solomon` `store` `tabernacles` `tadmor` `talents` `temple` `three` `times` `treasures` `tribute` `twenty` `two` `unleavened` `upper` `walls` `war` `weeks` `went` `wife` `wilderness` `work` `year` `years` `zobah`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

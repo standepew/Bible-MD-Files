@@ -115,6 +115,11 @@ Psalm, David, LORD, abide, tabernacle, dwell, holy, hill, walketh, uprightly, wo
 
 **Financial Integrity:** putteth not money usury taketh reward innocent, never moved, sweareth own hurt changed not
 
+
+*AI Keywords for current event matching:*
+`abide` `backbiteth` `changed` `character` `contemned` `david` `dwell` `evil` `fear` `financial` `heart` `hill` `holy` `honoureth` `hurt` `innocent` `integrity` `lord` `money` `moved` `neighbour` `never` `person` `psalm` `putteth` `qualifications` `reproach` `reward` `righteous` `righteousness` `speaketh` `speech` `sweareth` `tabernacle` `taketh` `tongue` `truth` `uprightly` `usury` `vile` `walketh` `worketh` `worship`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

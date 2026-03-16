@@ -89,6 +89,11 @@ God tells Moses He has called Bezaleel by name — from the tribe of Judah — a
 - **Sanctification — who does it** → Exodus 31:13 — "I am the LORD that sanctify you"
 - **The finger of God / divine writing** → Exodus 31:18 — Luke 11:20; 2 Corinthians 3:3
 
+
+*AI Keywords for current event matching:*
+`312-3` `artistry` `calling` `craftsmanship` `creativity` `current` `events` `exodus` `first` `matching` `scripture` `spirit-filled` `spirit-filling`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

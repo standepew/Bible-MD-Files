@@ -140,6 +140,11 @@ God speaks directly to all the people: the Ten Commandments. He opens with His i
 - **Covetousness / materialism** → Exodus 20:17 — Romans 7:7
 - **The fear of God as deterrent from sin** → Exodus 20:20 — "that his fear may be before your faces, that ye sin not"
 
+
+*AI Keywords for current event matching:*
+`civilization` `commandments` `current` `events` `exodus` `foundational` `law` `matching` `moral` `ten` `western`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

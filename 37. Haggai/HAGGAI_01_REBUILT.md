@@ -139,6 +139,11 @@ Second, year, Darius, king, sixth, month, first, day, month, word, LORD, Haggai,
 
 **Spiritual Awakening:** obeyed voice, feared LORD, stirred spirit, work house
 
+
+*AI Keywords for current event matching:*
+`awakening` `bag` `build` `built` `call` `christs` `cieled` `clothe` `consider` `discontent` `divine` `drink` `earneth` `eat` `enough` `feared` `filled` `holes` `house` `houses` `lie` `little` `lord` `material` `much` `obeyed` `pleasure` `priority` `sown` `spirit` `spiritual` `stirred` `take` `time` `voice` `wages` `warm` `waste` `ways` `work`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

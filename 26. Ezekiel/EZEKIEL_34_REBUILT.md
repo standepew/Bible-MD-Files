@@ -103,6 +103,11 @@ Word, Lord, son, man, prophesy, shepherds, Israel, prophesy, Lord, GOD, shepherd
 
 **Christ's Kingdom:** plant renown, safely dwell, no more prey, know Lord
 
+
+*AI Keywords for current event matching:*
+`christs` `clothe` `countries` `covenant` `cruelty` `david` `divine` `dwell` `eat` `false` `fat` `feed` `force` `gather` `good` `high` `kingdom` `know` `lord` `mountains` `one` `pasture` `peace` `plant` `prey` `renown` `restoration` `safely` `search` `seek` `servant` `sheep` `shepherd` `shepherds` `themselves` `wool`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

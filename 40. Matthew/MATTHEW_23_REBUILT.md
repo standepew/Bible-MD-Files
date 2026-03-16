@@ -187,6 +187,11 @@ Jesus, spake, multitude, disciples, saying, scribes, Pharisees, sit, Moses, seat
 
 **Jerusalem Lament:** kill prophets, stonest sent, gather chickens, house desolate
 
+
+*AI Keywords for current event matching:*
+`brethren` `broad` `burdens` `chickens` `christs` `damnation` `desolate` `eight` `exalted` `gather` `generation` `greetings` `heavy` `hell` `house` `humble` `humility` `hypocrisy` `hypocrites` `jerusalem` `kill` `lament` `love` `master` `one` `outward` `phylacteries` `pronouncements` `prophets` `religious` `righteousness` `sent` `servant` `stonest` `true` `vipers` `woe` `woes`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

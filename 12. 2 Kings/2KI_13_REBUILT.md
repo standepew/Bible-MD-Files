@@ -81,6 +81,11 @@ Three twentieth year Joash son Ahaziah king Judah, Jehoahaz son Jehu reigned Isr
 
 **Syrian Oppression:** Hazael king Syria oppressed Israel days Jehoahaz, LORD gracious compassion respect covenant Abraham Isaac Jacob destroy cast presence, Hazael king Syria died Ben-hadad son reigned, Jehoash son Jehoahaz hand Ben-hadad son Hazael cities hand Jehoahaz father war three times Joash beat recovered cities Israel
 
+
+*AI Keywords for current event matching:*
+`abraham` `acts` `ahaziah` `amaziah` `anger` `aphek` `arrow` `arrows` `band` `bands` `beat` `beforetime` `ben-hadad` `besought` `bones` `book` `bow` `buried` `burying` `cast` `chariot` `chariots` `children` `chronicles` `cities` `compassion` `consumed` `covenant` `days` `death` `deliverance` `delivered` `departed` `destroy` `destroyed` `died` `dust` `eastward` `elisha` `elishas` `evil` `face` `fallen` `father` `fathers` `feet` `fifty` `five` `footmen` `fought` `god` `gracious` `ground` `grove` `hand` `hands` `hazael` `hearkened` `horsemen` `house` `invaded` `isaac` `israel` `jacob` `jehoahaz` `jehoahazs` `jehoash` `jehoashs` `jehu` `jeroboam` `joash` `judah` `king` `kings` `land` `lord` `man` `men` `miracle` `moabites` `nebat` `opened` `oppressed` `oppression` `people` `presence` `recovered` `reign` `reigned` `respect` `resurrection` `revived` `samaria` `saviour` `sepulchre` `seventeen` `seventh` `shoot` `shot` `sick` `sickness` `sight` `sin` `sins` `six` `sixteen` `slept` `smite` `smitten` `smote` `son` `stayed` `syria` `syrian` `syrians` `ten` `tents` `thirty` `thousand` `three` `threshing` `thrice` `throne` `times` `touched` `twentieth` `war` `wept` `window` `wroth` `year` `years`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

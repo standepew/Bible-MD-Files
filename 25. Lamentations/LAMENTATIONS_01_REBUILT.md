@@ -91,6 +91,11 @@ Lamentations, Jeremiah, city, sit, solitary, full, people, widow, great, nations
 
 **Christ's Comfort:** comforter far, spreadeth hands, Lord righteous, hear people
 
+
+*AI Keywords for current event matching:*
+`afflicted` `affliction` `beauty` `become` `christs` `city` `comfort` `comforter` `departed` `desolate` `desolation` `divine` `far` `foot` `full` `gates` `hands` `hear` `jerusalems` `judgment` `lord` `many` `multitude` `people` `righteous` `sighs` `sit` `solitary` `sore` `spreadeth` `suffering` `transgressions` `trodden` `weepeth` `widow` `winepress` `yoke`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

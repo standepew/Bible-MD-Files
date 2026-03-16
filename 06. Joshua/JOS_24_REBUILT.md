@@ -91,6 +91,11 @@ Joshua gathers all Israel's tribes to Shechem with their leaders, presenting the
 
 **Eleazar's Death:** Eleazar son Aaron died, buried hill Phinehas son mount Ephraim
 
+
+*AI Keywords for current event matching:*
+`aaron` `abraham` `amorites` `answered` `away` `balaam` `balak` `beor` `blessed` `bondage` `bones` `book` `border` `bought` `bow` `brought` `built` `burial` `buried` `canaan` `canaanites` `challenge` `chariots` `children` `choose` `cities` `consume` `continued` `covenant` `covered` `cried` `curse` `darkness` `day` `days` `death` `delivered` `deny` `depart` `destroyed` `died` `drove` `dwell` `dwelt` `eat` `egypt` `egyptians` `elders` `eleazar` `eleazars` `ephraim` `esau` `establishment` `evil` `faithfulness` `father` `fathers` `fear` `flood` `forgive` `forsake` `fought` `gaash` `gathered` `girgashites` `god` `gods` `good` `great` `ground` `hamor` `hand` `heads` `heard` `hearken` `heart` `hill` `historical` `hittites` `hivites` `holy` `hornet` `horsemen` `house` `hundred` `hurt` `incline` `inheritance` `isaac` `israel` `jacob` `jealous` `jebusites` `jericho` `jordan` `joseph` `josephs` `joshua` `joshuas` `judges` `king` `kings` `known` `labour` `land` `law` `led` `lord` `men` `moab` `moses` `mount` `multiplied` `nachor` `nay` `north` `nun` `oak` `obey` `officers` `old` `oliveyards` `ordinance` `overlived` `parcel` `passed` `people` `peoples` `perizzites` `phinehas` `pieces` `plagued` `planted` `possess` `presented` `preserved` `provision` `pursued` `put` `red` `response` `review` `sanctuary` `sea` `season` `seed` `seir` `serah` `servant` `serve` `served` `shechem` `sight` `signs` `silver` `sincerity` `sins` `son` `sons` `spake` `statute` `stone` `strange` `sword` `ten` `terah` `time` `timnath` `transgressions` `tribes` `truth` `turn` `two` `vineyards` `voice` `warning` `warred` `way` `wilderness` `witness` `witnesses` `words` `works` `wrote` `years` `zippor`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -94,6 +94,11 @@ The LORD commands Joshua to speak to Israel about appointing cities of refuge as
 
 **Universal Application:** cities appointed children Israel, stranger sojourneth, whosoever killeth person unawares flee, die hand avenger blood, stand congregation
 
+
+*AI Keywords for current event matching:*
+`application` `appoint` `appointed` `avenger` `bashan` `beforetime` `bezer` `blood` `cause` `children` `cities` `city` `command` `congregation` `days` `death` `declare` `deliver` `die` `divine` `dwell` `ears` `east` `eastward` `elders` `entering` `ephraim` `fled` `flee` `gad` `galilee` `gate` `gilead` `golan` `hand` `hated` `hebron` `high` `house` `israel` `jericho` `jordan` `joshua` `judah` `judgment` `kedesh` `killeth` `kirjath-arba` `legal` `lord` `manasseh` `moses` `mount` `mountain` `naphtali` `neighbour` `person` `place` `plain` `priest` `procedure` `process` `purpose` `pursue` `ramoth` `refuge` `return` `reuben` `shechem` `slayer` `smote` `sojourneth` `spake` `speak` `stand` `stranger` `take` `tribe` `unawares` `universal` `unwittingly` `west` `whosoever` `wilderness`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

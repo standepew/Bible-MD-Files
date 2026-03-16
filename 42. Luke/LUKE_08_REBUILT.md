@@ -253,6 +253,11 @@ Afterward, city, village, preaching, shewing, glad, tidings, kingdom, God, twelv
 
 **Raising of Jairus' Daughter:** Jairus ruler, daughter dead, believe only, Maid arise
 
+
+*AI Keywords for current event matching:*
+`arise` `believe` `blood` `brethren` `brothers` `calming` `candlestick` `comfort` `commandeth` `daughter` `dead` `demon-possessed` `devils` `faith` `glad` `god` `gone` `good` `great` `ground` `hath` `healing` `hear` `heart` `heed` `issue` `jairus` `jesus` `lake` `lamp` `legion` `maid` `man` `manifest` `mind` `mother` `parable` `press` `raging` `raising` `right` `ruler` `secret` `seed` `ship` `son` `sower` `storm` `take` `things` `tidings` `virtue` `water` `whole` `whosoever` `wind` `winds` `woman` `word`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

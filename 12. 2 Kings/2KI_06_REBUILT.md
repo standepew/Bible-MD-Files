@@ -81,6 +81,11 @@ Sons prophets Elisha, place dwell strait, Jordan, beam, place dwell. Go Jordan, 
 
 **King's Despair:** king words woman rent clothes wall people sackcloth flesh, God murderer Elisha son Shaphat head, Elisha house elders king messenger elders murderer head messenger door hold fast door sound master feet, talked messenger evil LORD wait LORD
 
+
+*AI Keywords for current event matching:*
+`alas` `ass` `ate` `axe` `bands` `barnfloor` `beam` `bedchamber` `ben-hadad` `besieged` `beware` `blindness` `boiled` `borrowed` `bow` `bread` `building` `cab` `camp` `captive` `capture` `cast` `chariots` `city` `clothes` `come` `compassed` `counsel` `cut` `day` `despair` `divine` `door` `dothan` `dove` `drank` `drink` `dung` `dwell` `early` `eat` `elders` `elisha` `evil` `eyes` `famine` `fast` `fear` `feet` `fell` `felling` `fetch` `fire` `flesh` `follow` `fourscore` `fourth` `god` `great` `hand` `head` `help` `hid` `hold` `horses` `host` `house` `iron` `israel` `jordan` `king` `kings` `land` `led` `lord` `man` `master` `men` `messenger` `midst` `morrow` `mountain` `murderer` `night` `once` `open` `opened` `people` `place` `prayed` `project` `prophet` `prophets` `protection` `provision` `rent` `risen` `sackcloth` `samaria` `saved` `see` `seek` `servant` `servants` `shaphat` `siege` `silver` `smite` `smote` `son` `sons` `sound` `spy` `stick` `strait` `swim` `sword` `syria` `syrian` `syrians` `talked` `took` `troubled` `twice` `wait` `wall` `warned` `warred` `water` `way` `went` `winepress` `woman` `wood` `word` `words` `young`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

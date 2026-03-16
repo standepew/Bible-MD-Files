@@ -85,6 +85,11 @@ Samuel told Israel he had hearkened to their voice and made a king over them. Th
 
 **Samuel's Ministry:** Samuel people fear wickedness turn aside follow LORD serve LORD heart, turn aside vain things profit deliver vain, LORD forsake people great name pleased LORD people, Samuel sin LORD cease pray teach good right way, fear LORD serve truth heart great things, wickedly consumed king
 
+
+*AI Keywords for current event matching:*
+`aaron` `acts` `advanced` `ammon` `anointed` `ashtaroth` `aside` `ass` `baalim` `bedan` `blind` `bribe` `captain` `cease` `childhood` `chosen` `commandment` `consumed` `cried` `day` `defrauded` `deliver` `delivered` `desired` `die` `divine` `dwelt` `egypt` `enemies` `evil` `eyes` `fathers` `fear` `feared` `follow` `forgot` `forsake` `forsook` `fought` `god` `good` `grayhead` `great` `hand` `harvest` `hazor` `hearkened` `heart` `historical` `integrity` `israel` `jacob` `jephthah` `jerubbaal` `king` `lord` `ministry` `moab` `moses` `nahash` `name` `obey` `old` `oppressed` `people` `peoples` `perceive` `philistines` `place` `pleased` `pray` `profit` `promise` `rain` `reason` `rebel` `reign` `rejection` `response` `restore` `review` `right` `righteous` `safe` `samuel` `samuels` `sent` `servants` `serve` `served` `sign` `sin` `sinned` `sins` `sisera` `sold` `sons` `stand` `teach` `thing` `things` `thunder` `truth` `turn` `vain` `voice` `walk` `walked` `warning` `way` `wheat` `wickedly` `wickedness` `witness`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

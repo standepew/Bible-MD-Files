@@ -163,6 +163,11 @@ Chief, Musician, Psalm, David, servant, LORD, spake, words, song, day, delivered
 
 **Thanksgiving for Salvation:** LORD liveth blessed rock GOD salvation exalted, give thanks LORD heathen sing praises name, great deliverance king shew mercy anointed David seed forevermore
 
+
+*AI Keywords for current event matching:*
+`anointed` `blessed` `bow` `broken` `buckler` `cherub` `chief` `christs` `consumed` `david` `day` `deliverance` `delivered` `deliverer` `devoured` `divine` `earth` `enemies` `enemy` `exalted` `fallen` `feet` `fire` `fly` `forevermore` `fortress` `foundations` `girdeth` `give` `god` `gods` `great` `hand` `hands` `hated` `head` `heathen` `high` `hills` `hinds` `holden` `horn` `king` `liveth` `lord` `mercy` `mouth` `moved` `musician` `name` `nostrils` `overtaken` `people` `perfect` `places` `power` `praises` `psalm` `pursued` `right` `rock` `rode` `salvation` `saul` `seed` `servant` `shew` `shield` `shook` `sing` `smoke` `song` `spake` `steel` `strength` `strivings` `strong` `thanks` `thanksgiving` `tower` `trembled` `trust` `victory` `war` `way` `wind` `wings` `words`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

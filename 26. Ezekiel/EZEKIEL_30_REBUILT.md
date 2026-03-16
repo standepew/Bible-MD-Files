@@ -115,6 +115,11 @@ Word, Lord, son, man, prophesy, Lord, GOD, Howl, woe, day, day, near, day, Lord,
 
 **Christ's Sword:** draw swords, sword hand, stretch land, scatter nations
 
+
+*AI Keywords for current event matching:*
+`broken` `christs` `cities` `countries` `day` `desolate` `divine` `draw` `egypt` `egypts` `fall` `fill` `fire` `foundations` `fury` `great` `hand` `judgment` `land` `lord` `nations` `pain` `pour` `power` `pride` `scatter` `slain` `stretch` `sword` `swords` `terrible` `wasted` `woe`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

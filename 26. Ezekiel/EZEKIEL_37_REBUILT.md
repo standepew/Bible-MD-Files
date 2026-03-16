@@ -115,6 +115,11 @@ Hand, Lord, spirit, Lord, valley, bones, pass, round, very, many, open, valley, 
 
 **Christ's Kingdom:** David king, covenant peace, sanctuary midst, forevermore
 
+
+*AI Keywords for current event matching:*
+`army` `bones` `breath` `christs` `covenant` `cover` `david` `divine` `dry` `flesh` `forevermore` `four` `graves` `great` `king` `kingdom` `live` `midst` `nation` `one` `open` `peace` `resurrection` `sanctuary` `shepherd` `sinews` `skin` `stick` `unity` `valley` `winds`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

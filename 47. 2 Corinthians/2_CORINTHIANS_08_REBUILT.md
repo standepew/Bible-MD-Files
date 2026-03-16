@@ -127,6 +127,11 @@ Brethren, grace, God, bestowed, churches, Macedonia, great, trial, affliction, a
 
 **The Equality of Giving:** perform, doing, readiness, willing, performance, willing, mind, accepted, man, hath, hath, eased, burdened, equality, abundance, supply, want, abundance, supply, want, equality, written, gathered, much, gathered, little, thanks, God, earnest, care, heart, Titus, accepted, exhortation, forward, accord, sent, brother, praise, gospel, churches, chosen, churches, travel, grace, administered, glory, Lord, declaration, ready, mind, abundance, administered, blame, providing, honest, things, sight, Lord, sight, men, sent, brother, proved, diligent, things, diligent, confidence, enquire, Titus, partner, fellowhelper, brethren, enquired, messengers, churches, glory, Christ, shew, churches, proof, love, boasting, behalf
 
+
+*AI Keywords for current event matching:*
+`abound` `abounded` `abundance` `accepted` `accord` `administered` `advice` `affliction` `bear` `begun` `behalf` `bestowed` `beyond` `blame` `boasting` `brethren` `brother` `burdened` `care` `chosen` `christ` `christs` `churches` `commandment` `confidence` `declaration` `deep` `desired` `diligence` `diligent` `doing` `earnest` `eased` `enquire` `enquired` `equality` `example` `exhortation` `expedient` `faith` `fellowhelper` `fellowship` `finish` `forward` `forwardness` `gathered` `gave` `gift` `giving` `glory` `god` `gospel` `grace` `great` `hath` `heart` `honest` `hoped` `intreaty` `jesus` `joy` `knowledge` `liberality` `little` `lord` `love` `macedonia` `macedonian` `man` `men` `messengers` `mind` `ministering` `much` `occasion` `others` `partner` `perform` `performance` `poor` `poverty` `power` `praise` `praying` `proof` `prove` `proved` `providing` `readiness` `ready` `receive` `record` `rich` `riches` `saints` `sakes` `selves` `sent` `shew` `sight` `sincerity` `supply` `thanks` `things` `titus` `travel` `trial` `utterance` `want` `willing` `written` `year`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

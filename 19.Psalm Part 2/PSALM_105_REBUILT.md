@@ -151,6 +151,11 @@ Give, thanks, LORD, call, name, make, known, deeds, people, Sing, psalms, talk, 
 
 **Israel's History:** Abraham Isaac Jacob Joseph Egypt, Moses Aaron plagues, wilderness journey, promised land
 
+
+*AI Keywords for current event matching:*
+`aaron` `abraham` `anointed` `children` `chosen` `cloud` `commanded` `confirmed` `covenant` `covering` `divine` `egypt` `everlasting` `faithfulness` `fire` `generations` `harm` `historical` `history` `holy` `isaac` `israel` `israels` `jacob` `joseph` `journey` `judgments` `keep` `kings` `land` `law` `laws` `light` `man` `marvellous` `moses` `mouth` `night` `oath` `observe` `plagues` `promise` `promised` `prophets` `protection` `recounting` `remember` `remembered` `reproved` `sakes` `seed` `sent` `servant` `spread` `statutes` `suffered` `thousand` `touch` `wilderness` `wonders` `word` `works` `wrong`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

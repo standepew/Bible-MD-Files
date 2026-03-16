@@ -107,6 +107,11 @@ Divisions, porters, Korhites, Meshelemiah, son, Kore, sons, Asaph. Sons, Meshele
 
 **Military Leadership:** Izharites Chenaniah sons outward business Israel officers judges, Hebronites Hashabiah brethren men valour thousand seven hundred officers Israel side Jordan westward business LORD service king, Hebronites Jerijah chief Hebronites generations fathers, fortieth year reign David sought found mighty men valour Jazer Gilead, brethren men valour two thousand seven hundred chief fathers king David rulers Reubenites Gadites half tribe Manasseh matter pertaining God affairs king
 
+
+*AI Keywords for current event matching:*
+`able` `affairs` `ahijah` `ammiel` `amramites` `asaph` `assignments` `asuppim` `blessed` `born` `brethren` `business` `captains` `cast` `causeway` `chenaniah` `chief` `children` `counsel` `david` `day` `dedicated` `divisions` `eastward` `eighth` `eightteen` `elam` `eliezer` `elihu` `elioenai` `elzabad` `every` `family` `father` `fathers` `fifth` `firstborn` `fortieth` `found` `four` `fourth` `gadites` `gate` `generations` `gershom` `gershonite` `gilead` `god` `going` `great` `half` `hashabiah` `hebronites` `hilkiah` `hosah` `host` `house` `hundred` `hundreds` `israel` `issachar` `izharites` `jathniel` `jazer` `jediael` `jehieli` `jehohanan` `jehozabad` `jerijah` `jeshaiah` `joah` `joel` `joram` `jordan` `judges` `king` `kore` `korhites` `laadan` `leadership` `levites` `lord` `lot` `lots` `management` `manasseh` `matter` `men` `merari` `meshelemiah` `mighty` `military` `minister` `moses` `nethaneel` `northward` `obed` `obed-edom` `officers` `othni` `outward` `parbar` `pertaining` `peulthai` `porters` `rehabiah` `reign` `repheal` `reubenites` `ruled` `ruler` `rulers` `sacar` `scholar` `second` `semachiah` `service` `seven` `seventh` `shallecheth` `shebuel` `shelemiah` `shelomith` `shemaiah` `shuppim` `side` `simri` `six` `sixth` `small` `son` `sons` `sought` `southward` `strength` `strong` `teacher` `tebaliah` `temple` `things` `third` `thirteen` `thousand` `thousands` `threescore` `treasures` `tribe` `two` `uzzielites` `valour` `ward` `wards` `westward` `wise` `year` `zebadiah` `zechariah` `zetham` `zichri`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -127,6 +127,11 @@ Job, answered, helped, without, power, saved, arm, strength. Counselled, wisdom,
 
 **Divine Mystery:** pillars heaven tremble astonished reproof, divideth sea power understanding smiteth proud, spirit garnished heavens hand formed crooked serpent
 
+
+*AI Keywords for current event matching:*
+`answered` `arm` `astonished` `bindeth` `bounds` `cloud` `clouds` `compassed` `counselled` `covering` `creations` `crooked` `day` `dead` `declared` `destruction` `divideth` `divine` `earth` `empty` `end` `face` `formed` `garnished` `gods` `hand` `hangeth` `heaven` `heavens` `hell` `helped` `holdeth` `inhabitants` `job` `jobs` `mystery` `naked` `night` `north` `nothing` `order` `pillars` `place` `plentifully` `power` `proud` `rent` `reproof` `response` `saved` `sea` `serpent` `smiteth` `spirit` `spreadeth` `strength` `stretcheth` `thick` `thing` `things` `throne` `tremble` `understanding` `uttered` `waters` `wisdom` `without` `words`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

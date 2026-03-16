@@ -83,6 +83,11 @@ They told David Philistines fought against Keilah and robbed threshingfloors. Da
 
 **Divine Rescue:** Ziph Saul David men wilderness Maon plain south Jeshimon, Saul men seek David rock wilderness Maon Saul pursued David wilderness Maon, Saul mountain David men mountain David haste fear Saul Saul men compassed David men, messenger Saul Haste Philistines invaded land, Saul returned pursuing David Philistines called place Sela-hammahlekoth, David strong holds En-gedi
 
+
+*AI Keywords for current event matching:*
+`abiathar` `afraid` `ahimelech` `arise` `armies` `arose` `bars` `besiege` `betrayal` `called` `cattle` `certainty` `city` `come` `compassed` `compassion` `covenant` `david` `day` `dealeth` `deliver` `delivered` `departed` `desire` `destroy` `divine` `down` `en-gedi` `encouragement` `enquired` `ephod` `escaped` `father` `fear` `fight` `find` `fled` `forbare` `gates` `gibeah` `god` `guidance` `hachilah` `hand` `haste` `haunt` `heard` `hideth` `hill` `holds` `house` `hundred` `inhabitants` `invaded` `israel` `jeshimon` `jonathan` `jonathans` `judah` `keilah` `king` `knew` `know` `land` `life` `lord` `lurking` `maon` `men` `messenger` `mischief` `mountain` `next` `people` `philistines` `place` `places` `plain` `prepare` `priest` `pursued` `pursuing` `pursuit` `rescue` `returned` `rob` `rock` `sake` `saul` `sauls` `save` `saved` `search` `seek` `seen` `sela-hammahlekoth` `servant` `shut` `six` `slaughter` `smite` `son` `sought` `soul` `south` `strengthened` `strong` `subtilly` `thousands` `threshingfloors` `town` `victory` `war` `whithersoever` `wilderness` `wood` `ziph` `ziphites`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -103,6 +103,11 @@ Sing, barren, bear, break, singing, cry, aloud, travail, child, children, desola
 
 **Spiritual Protection:** no weapon prosper, tongue rise judgment, condemn heritage, righteousness LORD
 
+
+*AI Keywords for current event matching:*
+`christs` `cities` `condemn` `covenant` `curtains` `depart` `desolate` `divine` `enlarge` `eternal` `everlasting` `gather` `gentiles` `great` `heritage` `holy` `husband` `inhabited` `inherit` `israel` `judgment` `kindness` `lord` `maker` `mercies` `mercy` `one` `peace` `prosper` `protection` `redeemer` `restoration` `righteousness` `rise` `servants` `spiritual` `stretch` `tent` `tongue` `weapon`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

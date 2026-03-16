@@ -79,6 +79,11 @@ Song, degrees, David, good, pleasant, brethren, dwell, unity, precious, ointment
 
 **Eternal Life:** life forevermore, commanded blessing, dew of youth
 
+
+*AI Keywords for current event matching:*
+`aarons` `anointed` `beard` `blessing` `brethren` `commanded` `descended` `dew` `divine` `dwell` `eternal` `favor` `forevermore` `garments` `good` `head` `hermon` `life` `lord` `mountains` `ointment` `pleasant` `precious` `skirts` `together` `unity` `youth` `zion`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

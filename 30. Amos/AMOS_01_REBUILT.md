@@ -103,6 +103,11 @@ Words, Amos, herdmen, Tekoa, saw, Israel, days, Uzziah, king, Judah, days, Jerob
 
 **Fire of Judgment:** fire house Hazael, fire wall Gaza, fire wall Tyrus, fire Teman
 
+
+*AI Keywords for current event matching:*
+`captive` `carmel` `christs` `covenant` `damascus` `devour` `divine` `edom` `fire` `four` `gaza` `habitations` `hazael` `house` `judgment` `lord` `mourn` `nations` `punishment` `pursued` `roar` `send` `teman` `three` `threshed` `top` `transgressions` `turn` `tyrus` `utter` `voice` `wall` `wither`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

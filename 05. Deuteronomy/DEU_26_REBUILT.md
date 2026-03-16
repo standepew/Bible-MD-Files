@@ -106,6 +106,11 @@ Moses gives instructions for offerings in the promised land: (1) Firstfruits—w
 
 **Covenant Declaration:** LORD commanded statutes judgments, keep do heart soul, avouched LORD day, God, walk ways, keep statutes commandments judgments, hearken voice, LORD avouched day, peculiar people, promised, keep commandments, make high nations, praise name honour, holy people LORD
 
+
+*AI Keywords for current event matching:*
+`afflicted` `affliction` `altar` `arm` `avouched` `basket` `became` `bless` `blessing` `bondage` `bring` `brought` `choose` `come` `commanded` `commandments` `country` `covenant` `cried` `day` `days` `dead` `declaration` `divine` `done` `down` `dwell` `earth` `eat` `eaten` `egypt` `egyptians` `entreated` `evil` `father` `fatherless` `fathers` `few` `filled` `first` `firstfruits` `forgotten` `fruit` `gates` `give` `given` `giveth` `god` `good` `great` `habitation` `hallowed` `hand` `hard` `heard` `hearken` `hearkened` `heart` `heaven` `high` `holy` `honey` `honour` `house` `inheritance` `israel` `judgments` `keep` `labour` `land` `levite` `look` `looked` `lord` `make` `mighty` `milk` `mourning` `name` `nation` `nations` `offering` `oppression` `outstretched` `peculiar` `people` `perish` `place` `populous` `possess` `praise` `priest` `profess` `promised` `put` `rejoice` `say` `set` `signs` `sojourned` `soul` `speak` `statutes` `stranger` `sware` `swarest` `syrian` `take` `terribleness` `therein` `thing` `things` `third` `third-year` `tithe` `tithes` `tithing` `transgressed` `unclean` `use` `voice` `walk` `ways` `went` `widow` `wonders` `worship` `year`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

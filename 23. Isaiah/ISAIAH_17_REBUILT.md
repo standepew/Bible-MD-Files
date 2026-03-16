@@ -139,6 +139,11 @@ Burden, Damascus, Behold, Damascus, taken, city, ruinous, heap, cities, Aroer, f
 
 **True Worship:** forgotten God salvation, mindful rock strength, plant pleasant plants, strange slips
 
+
+*AI Keywords for current event matching:*
+`altars` `berries` `burden` `christs` `damascus` `divine` `forgotten` `gathereth` `gleaning` `glory` `god` `grapes` `harvest` `harvestman` `heap` `holy` `images` `jacob` `judgment` `left` `look` `maker` `mindful` `olive` `one` `plant` `plants` `pleasant` `respect` `rock` `ruinous` `salvation` `slips` `spiritual` `strange` `strength` `thin` `tree` `true` `worship`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -115,6 +115,11 @@ Days, John, Baptist, preaching, wilderness, Judaea, saying, Repent, kingdom, hea
 
 **Divine Sonship:** beloved Son, well pleased, voice heaven, Spirit descended
 
+
+*AI Keywords for current event matching:*
+`baptism` `baptist` `baptize` `baptized` `beloved` `christs` `crying` `descended` `descending` `divine` `dove` `fire` `fulfill` `generation` `ghost` `god` `heaven` `heavens` `holy` `jesus` `john` `lighting` `like` `opened` `pleased` `prepare` `righteousness` `son` `sonship` `spirit` `vipers` `voice` `water` `way` `well`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

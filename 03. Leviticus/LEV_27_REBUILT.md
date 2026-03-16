@@ -65,6 +65,11 @@ The closing chapter of Leviticus concerns the administration of vows and dedicat
 - **Devoted things / holy unto the LORD** → Leviticus 27:28-29 — Joshua 6-7; 1 Samuel 15
 - **Redemption / buying back** → Leviticus 27:15-20 — the fifth-part premium as the cost of retrieving what was consecrated
 
+
+*AI Keywords for current event matching:*
+`2730-33` `38-10` `current` `events` `genesis` `giving` `god` `leviticus` `malachi` `matching` `matthew` `storehouse` `tithing`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS WITH CONTEXTUAL DEFINITIONS

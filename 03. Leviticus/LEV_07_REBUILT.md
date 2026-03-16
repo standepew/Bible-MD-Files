@@ -89,6 +89,11 @@ Chapter 7 closes the first major section of Leviticus. The trespass offering: mo
 - **The complete sacrificial system** → Leviticus 7:37-38 — Hebrews 10:1, 12-14
 - **Cut off from the people** → Leviticus 7:20-27 — the covenant consequence for treating holy things as common
 
+
+*AI Keywords for current event matching:*
+`current` `events` `hebrews` `leviticus` `matching` `praise` `psalm` `sacrifice` `thanksgiving`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

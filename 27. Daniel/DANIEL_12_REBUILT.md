@@ -103,6 +103,11 @@ Time, Michael, stand, great, prince, standeth, children, people, time, trouble, 
 
 **Book of Life:** written book, seal book, shut words, knowledge increased
 
+
+*AI Keywords for current event matching:*
+`awake` `blessed` `book` `christs` `contempt` `dust` `ever` `everlasting` `forever` `holy` `increased` `knowledge` `life` `lot` `nation` `never` `people` `resurrection` `seal` `shame` `shut` `sleep` `stand` `time` `times` `trouble` `waiteth` `words` `written`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

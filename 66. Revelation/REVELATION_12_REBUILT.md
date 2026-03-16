@@ -126,6 +126,11 @@ Great, wonder, heaven, woman, clothed, sun, moon, feet, crown, twelve, stars, ch
 
 **The Woman in the Wilderness:** dragon, cast, earth, persecuted, woman, brought, man, child, woman, two, wings, great, eagle, fly, wilderness, place, nourished, time, times, half, time, face, serpent, serpent, cast, mouth, water, flood, woman, carried, flood, earth, helped, woman, earth, opened, mouth, swallowed, flood, dragon, cast, mouth, dragon, wroth, woman, war, remnant, seed, keep, commandments, God, testimony, Jesus, Christ
 
+
+*AI Keywords for current event matching:*
+`accused` `accuser` `angels` `birth` `blood` `born` `brethren` `brought` `carried` `cast` `caught` `child` `christ` `clothed` `commandments` `cried` `crown` `crowns` `day` `days` `death` `deceiveth` `delivered` `devil` `devour` `dragon` `drew` `dwell` `eagle` `earth` `face` `feed` `feet` `fled` `flood` `fly` `fought` `found` `god` `great` `half` `heads` `heaven` `heavens` `helped` `horns` `hundred` `inhabiters` `iron` `jesus` `keep` `kingdom` `lamb` `lives` `loud` `loved` `male` `man` `michael` `moon` `mouth` `nations` `night` `nourished` `old` `opened` `overcame` `pained` `part` `persecuted` `place` `power` `prepared` `prevailed` `ready` `red` `rejoice` `remnant` `rod` `rule` `salvation` `satan` `sea` `seed` `serpent` `seven` `short` `stars` `stood` `strength` `sun` `swallowed` `tail` `ten` `testimony` `third` `thousand` `threescore` `throne` `time` `times` `travailing` `twelve` `two` `voice` `war` `water` `whole` `wilderness` `wings` `woman` `wonder` `word` `world` `wrath` `wroth`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

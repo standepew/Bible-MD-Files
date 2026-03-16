@@ -91,6 +91,11 @@ Israel, empty, vine, bringeth, fruit, multitude, fruit, increased, altars, goodn
 
 **Righteous Plowing:** sow righteousness, reap mercy, break fallow ground, seek LORD
 
+
+*AI Keywords for current event matching:*
+`altars` `break` `bringeth` `christs` `covenant` `cut` `divided` `empty` `fallow` `falsely` `faulty` `found` `fruit` `goodly` `ground` `heart` `images` `increased` `judgment` `lord` `making` `mercy` `off` `plowing` `reap` `righteous` `righteousness` `seek` `sow` `spoil` `swearing` `vine`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

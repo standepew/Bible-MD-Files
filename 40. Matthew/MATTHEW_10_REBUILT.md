@@ -163,6 +163,11 @@ Called, disciples, given, power, unclean, spirits, cast, heal, sickness, disease
 
 **Divine Reward:** confess me, deny me, take cross, lose life find
 
+
+*AI Keywords for current event matching:*
+`andrew` `apostles` `brother` `christs` `commission` `confess` `councils` `cross` `deny` `disciples` `divine` `endure` `find` `forth` `given` `hated` `james` `john` `kingdom` `life` `lose` `men` `names` `persecution` `peter` `power` `preach` `promise` `reward` `saved` `scourge` `sent` `sheep` `simon` `take` `twelve` `wolves`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

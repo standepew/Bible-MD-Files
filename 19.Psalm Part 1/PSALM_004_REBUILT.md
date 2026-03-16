@@ -139,6 +139,11 @@ Chief, Musician, Neginoth, Psalm, David, hear, call, GOD, righteousness, enlarge
 
 **Peaceful Sleep:** hear call GOD righteousness enlarged distress, LORD set apart godly hear call, lay peace sleep LORD dwell safety
 
+
+*AI Keywords for current event matching:*
+`apart` `awe` `bed` `call` `chief` `commune` `corn` `countenance` `david` `distress` `divine` `dwell` `enlarged` `evening` `gladness` `glory` `god` `godly` `good` `hear` `heart` `increased` `lay` `leasing` `light` `long` `lord` `love` `many` `men` `mercy` `musician` `neginoth` `offer` `peace` `peaceful` `prayer` `psalm` `put` `righteous` `righteousness` `sacrifice` `sacrifices` `safety` `seek` `selah` `set` `shame` `shew` `sin` `sleep` `sons` `stand` `still` `time` `trust` `turn` `vanity` `wine`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

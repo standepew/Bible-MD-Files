@@ -103,6 +103,11 @@ Psalm, David, LORD, shepherd, want, green, pastures, still, waters, restore, sou
 
 **Eternal Security:** valley shadow death fear evil, goodness mercy follow days life, dwell house LORD forever
 
+
+*AI Keywords for current event matching:*
+`anoint` `beside` `christ` `comfort` `cup` `david` `days` `death` `divine` `dwell` `enemies` `eternal` `evil` `fear` `follow` `forever` `goodness` `green` `guidance` `head` `house` `leadeth` `life` `lord` `mercy` `name` `oil` `pastures` `paths` `prepare` `provision` `psalm` `restore` `righteousness` `rod` `runneth` `sake` `security` `shadow` `shepherd` `soul` `spiritual` `staff` `still` `table` `valley` `want` `waters`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

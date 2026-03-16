@@ -103,6 +103,11 @@ Hear, word, LORD, speaketh, house, Israel, LORD, Learn, way, heathen, dismayed, 
 
 **Christ's Correction:** correct me judgment, not thine anger, pour fury heathen, way man himself
 
+
+*AI Keywords for current event matching:*
+`abide` `anger` `christs` `correct` `correction` `customs` `cutteth` `deck` `divine` `earth` `errors` `everlasting` `forest` `fury` `futility` `god` `gold` `heathen` `heavens` `himself` `idolatrys` `indignation` `judgment` `king` `lightnings` `living` `made` `man` `nations` `people` `pour` `power` `rain` `silver` `sovereignty` `stretched` `tree` `tremble` `true` `uttereth` `vain` `vanity` `voice` `waters` `way` `work` `wrath`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

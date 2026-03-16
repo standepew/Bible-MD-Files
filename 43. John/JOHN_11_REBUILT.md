@@ -175,6 +175,11 @@ Certain, man, sick, Lazarus, Bethany, town, Mary, sister, Martha, Mary, anointed
 
 **The Council Against Jesus:** Jews believed, Pharisees told, chief priests, council miracles, let alone, Romans place, Caiaphas priest, die people, nation perish, children God, scattered abroad
 
+
+*AI Keywords for current event matching:*
+`abroad` `against` `alone` `arose` `ask` `believe` `believed` `believeth` `bethany` `bound` `brother` `caiaphas` `chief` `children` `come` `comfort` `council` `day` `days` `dead` `death` `die` `died` `father` `feet` `fell` `fifteen` `four` `friend` `furlongs` `glory` `god` `grave` `graveclothes` `here` `hours` `jesus` `jews` `lazarus` `let` `life` `lord` `lovest` `martha` `mary` `master` `miracles` `nation` `people` `perish` `pharisees` `place` `plainly` `priest` `priests` `quickly` `raising` `resurrection` `rise` `romans` `scattered` `sick` `sleepeth` `stinketh` `stone` `thank` `thomas` `told` `town` `twelve` `walk` `weep` `wept`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

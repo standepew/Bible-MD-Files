@@ -115,6 +115,11 @@ LORD, house, king, Judah, speak, word, Hear, word, LORD, king, Judah, sittest, t
 
 **Christ's Rejection:** pluck thee thence, cast mother bare, despised broken idol, childless prosper not
 
+
+*AI Keywords for current event matching:*
+`bare` `broken` `buildeth` `building` `cast` `chambers` `childless` `christs` `covetousness` `david` `deliver` `despised` `execute` `hand` `house` `idol` `judged` `judgment` `kings` `know` `large` `lord` `mother` `needy` `oppressor` `pluck` `poor` `prosper` `rejection` `right` `righteous` `righteousness` `ruling` `signet` `sitting` `spoiled` `thence` `throne` `unrighteous` `unrighteousness` `violence` `wide` `wrong`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

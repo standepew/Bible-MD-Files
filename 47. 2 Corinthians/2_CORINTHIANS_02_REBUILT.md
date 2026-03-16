@@ -103,6 +103,11 @@ Determined, come, heaviness, make, sorry, glad, sorry, wrote, sorrow, rejoice, c
 
 **The Sweet Savour of Christ:** sweet, savour, Christ, saved, perish, savour, death, death, savour, life, life, sufficient, corrupt, word, God, sincerity, sight, God, speak, Christ
 
+
+*AI Keywords for current event matching:*
+`abundantly` `advantage` `affliction` `anguish` `beseech` `brother` `caused` `causeth` `change` `christ` `come` `comfort` `confidence` `confirm` `contrariwise` `corrupt` `death` `determined` `devices` `door` `forgive` `forgiveness` `found` `glad` `god` `gospel` `grief` `grieved` `heart` `heaviness` `ignorant` `inflicted` `joy` `know` `knowledge` `leave` `life` `lord` `love` `macedonia` `make` `manifest` `obedient` `opened` `overcharge` `overmuch` `part` `pauls` `perish` `person` `place` `plans` `preach` `proof` `punishment` `rejoice` `rest` `sakes` `satan` `saved` `savour` `sight` `sincerity` `sorrow` `sorry` `speak` `spirit` `sufficient` `swallowed` `sweet` `tears` `thanks` `thence` `titus` `triumph` `troas` `word` `wrote`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

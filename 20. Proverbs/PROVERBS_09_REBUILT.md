@@ -127,6 +127,11 @@ Wisdom, builded, house, hewn, seven, pillars, killed, beasts, mingled, wine, fur
 
 **Life vs. Death:** forsake foolish live, knowledge holy understanding, depths hell
 
+
+*AI Keywords for current event matching:*
+`beasts` `bread` `builded` `clamorous` `come` `dead` `death` `depths` `eat` `fear` `feast` `follys` `foolish` `forsake` `hell` `holy` `house` `killed` `knowledge` `life` `live` `lord` `love` `man` `pillars` `rebuke` `reproveth` `scorn` `scorner` `shame` `stolen` `sweet` `trap` `understanding` `waters` `wine` `wisdom` `wisdoms` `wise` `woman`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

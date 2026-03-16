@@ -103,6 +103,11 @@ Woe, devise, iniquity, work, evil, beds, morning, light, practise, power, hand, 
 
 **Remnant Gathering:** assemble Jacob, gather remnant, sheep Bozrah, breaker come
 
+
+*AI Keywords for current event matching:*
+`assemble` `bozrah` `breaker` `cast` `christs` `come` `covet` `devise` `evil` `false` `falsehood` `fields` `gather` `gathering` `heritage` `house` `iniquity` `injustice` `jacob` `judgment` `man` `oppress` `oppressors` `prophesy` `prophet` `prophets` `remnant` `sheep` `social` `spirit` `straitened` `take` `violence` `walking` `wine` `women` `work`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

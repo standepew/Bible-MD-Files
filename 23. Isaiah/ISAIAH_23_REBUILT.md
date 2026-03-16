@@ -103,6 +103,11 @@ Burden, Tyre, Howl, ships, Tarshish, laid, waste, house, entering, land, Chittim
 
 **Christ's Holiness:** merchandise holiness, dwell before LORD, eat sufficiently, durable clothing
 
+
+*AI Keywords for current event matching:*
+`burden` `christs` `clothing` `commerce` `durable` `dwell` `eat` `fall` `forgotten` `hire` `holiness` `honourable` `house` `howl` `inhabitants` `judgment` `laid` `lord` `mart` `merchandise` `merchants` `nations` `pride` `princes` `purposed` `seventy` `ships` `spiritual` `stain` `strength` `sufficiently` `tarshish` `traffickers` `tyre` `tyres` `waste` `years`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

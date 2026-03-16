@@ -103,6 +103,11 @@ Word, Jeremiah, LORD, saying, Hear, words, covenant, speak, men, Judah, inhabita
 
 **Christ's Persecution:** lamb brought slaughter, devised devices, seek thy life, die hand
 
+
+*AI Keywords for current event matching:*
+`breaking` `bring` `broken` `brought` `christs` `conspiracy` `covenant` `cry` `devices` `devised` `die` `divine` `escape` `evil` `flowing` `found` `god` `gods` `hand` `hearken` `honey` `iniquities` `lamb` `land` `life` `milk` `obey` `people` `persecution` `punish` `seek` `slaughter` `turned` `vengeance` `visitation` `voice` `went` `words` `year`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

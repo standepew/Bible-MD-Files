@@ -223,6 +223,11 @@ Ended, sayings, audience, people, entered, Capernaum, centurion, servant, dear, 
 
 **Anointing of Jesus' Feet:** wisdom justified, creditor debtors, forgive most, sins forgiven
 
+
+*AI Keywords for current event matching:*
+`anointing` `arise` `baptist` `blind` `centurion` `centurions` `come` `compassion` `creditor` `debtors` `faith` `feet` `forgive` `forgiven` `great` `greater` `healing` `jesus` `john` `justified` `man` `most` `prophet` `raising` `reed` `roof` `see` `servant` `shaken` `sins` `son` `whole` `widow` `widows` `wisdom` `worthy` `young`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

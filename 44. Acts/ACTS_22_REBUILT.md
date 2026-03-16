@@ -137,6 +137,11 @@ Men, brethren, fathers, defence, Hebrew, tongue, silence, Jew, born, Tarsus, Cil
 
 **Paul's Roman Citizenship:** Depart send, Gentiles audience, lifted voices, Away fellow, earth live, cried cast, clothes threw, dust chief, captain castle, examined scourging, cried bound, thongs centurion, lawful scourge, Roman uncondemned, centurion heard, chief captain, Take heed, Roman chief, captain Roman, great freedom, Paul free, born departed, examined chief, captain afraid, Roman bound, morrow certainty, accused Jews, loosed bands, commanded chief, priests council, appear brought, Paul set
 
+
+*AI Keywords for current event matching:*
+`accused` `afraid` `ananias` `answered` `appear` `appointed` `arise` `audience` `away` `bands` `baptized` `bear` `beat` `believed` `binding` `blood` `born` `bound` `brethren` `brother` `brought` `calling` `captain` `cast` `castle` `centurion` `certainty` `chief` `chosen` `cilicia` `citizenship` `city` `clothes` `commanded` `consenting` `conversion` `council` `cried` `damascus` `death` `defence` `defense` `delivering` `depart` `departed` `devout` `dust` `dwelt` `earth` `elders` `estate` `examined` `fathers` `feet` `fell` `fellow` `free` `freedom` `gamaliel` `gentiles` `god` `good` `great` `ground` `hand` `haste` `hear` `heard` `heaven` `hebrew` `heed` `high` `hour` `imprisoned` `jerusalem` `jesus` `jew` `jews` `journey` `kept` `know` `law` `lawful` `led` `letters` `lifted` `light` `live` `looked` `loosed` `lord` `make` `manner` `martyr` `men` `morrow` `mouth` `nazareth` `nigh` `noon` `one` `paul` `pauls` `perfect` `persecuted` `persecutest` `prayed` `priest` `priests` `prisons` `punished` `quickly` `raiment` `receive` `report` `roman` `round` `saul` `saying` `scourge` `scourging` `seen` `send` `set` `shed` `shone` `sight` `silence` `sins` `slew` `spake` `standing` `stephen` `stood` `story` `synagogue` `take` `tarry` `tarsus` `taught` `temple` `testimony` `thongs` `threw` `tongue` `trance` `uncondemned` `voice` `voices` `wash` `witness` `women` `zealous`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

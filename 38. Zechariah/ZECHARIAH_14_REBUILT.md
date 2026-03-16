@@ -115,6 +115,11 @@ Behold, day, LORD, cometh, spoil, divided, midst, gather, nations, Jerusalem, ba
 
 **Universal Worship:** feast tabernacles, worship King, holiness LORD, no Canaanite
 
+
+*AI Keywords for current event matching:*
+`canaanite` `christs` `city` `cleave` `day` `earth` `earthquake` `feast` `feet` `fight` `final` `flee` `gather` `great` `holiness` `king` `living` `lord` `midst` `mount` `nations` `olives` `one` `stand` `tabernacles` `taken` `universal` `valley` `victory` `waters` `worship`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

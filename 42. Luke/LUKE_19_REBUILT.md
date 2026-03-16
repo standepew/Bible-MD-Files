@@ -167,6 +167,11 @@ Jesus, entered, passed, Jericho, man, Zacchæus, chief, publicans, rich, sought,
 
 **Cleansing the Temple:** cast out sold, house prayer, den thieves, taught daily, sought destroy
 
+
+*AI Keywords for current event matching:*
+`abide` `beheld` `blessed` `cast` `chief` `city` `cleansing` `climbs` `clothes` `colt` `come` `comes` `daily` `den` `destroy` `enemies` `entry` `faithful` `fourfold` `goods` `half` `haste` `house` `jerusalem` `jesus` `joyfully` `king` `kingdom` `little` `lord` `make` `mount` `murmured` `need` `nobleman` `occupy` `olives` `parable` `peace` `pounds` `prayer` `publicans` `received` `restore` `salvation` `servant` `servants` `sinner` `sold` `sought` `spread` `stature` `sycomore` `taught` `temple` `ten` `thieves` `things` `tied` `time` `tree` `trench` `triumphal` `visitation` `weeps` `wept` `zacchaeus`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

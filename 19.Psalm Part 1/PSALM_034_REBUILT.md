@@ -151,6 +151,11 @@ Psalm, David, changed, behaviour, Abimelech, drove, departed, bless, LORD, times
 
 **Righteous Living:** keep tongue evil lips speaking guile depart evil good seek peace pursue, eyes LORD righteous ears open cry, face LORD evil cut remembrance earth, righteous cry LORD heareth delivered troubles
 
+
+*AI Keywords for current event matching:*
+`angel` `angelic` `ashamed` `bless` `blessed` `boast` `children` `continually` `cried` `cry` `cut` `david` `days` `deliverance` `delivered` `delivereth` `depart` `desireth` `ears` `earth` `encampeth` `evil` `exalt` `eyes` `face` `faces` `fear` `fears` `glad` `gods` `good` `guile` `heard` `heareth` `hearken` `humble` `hunger` `keep` `lack` `life` `lightened` `lions` `lips` `living` `looked` `lord` `love` `magnify` `man` `mouth` `name` `open` `peace` `poor` `praise` `protection` `psalm` `pursue` `remembrance` `righteous` `saints` `saved` `see` `seek` `sought` `soul` `speaking` `suffer` `taste` `teach` `times` `tongue` `troubles` `trusteth` `want` `young`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

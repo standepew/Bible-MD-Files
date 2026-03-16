@@ -165,6 +165,11 @@ People, pressed, hear, word, God, lake, Gennesaret, ships, lake, fishermen, gone
 
 **Fasting:** bridegroom taken, new garment, new wine, old bottles
 
+
+*AI Keywords for current event matching:*
+`abroad` `bottles` `bridegroom` `calling` `catch` `disciples` `fame` `fasting` `feast` `first` `followed` `forgiven` `forsook` `full` `garment` `gennesaret` `glorifying` `god` `great` `healing` `lake` `left` `leper` `leprosy` `levi` `man` `matthew` `men` `multitude` `new` `old` `paralytic` `prayed` `publican` `repentance` `sinners` `sins` `son` `strange` `taken` `testimony` `things` `wilderness` `wine`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

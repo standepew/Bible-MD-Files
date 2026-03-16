@@ -117,6 +117,11 @@ Reed, rod, angel, stand, saying, Rise, measure, temple, God, altar, worship, cou
 
 **The Kingdoms of This World:** kingdoms, world, kingdoms, Lord, Christ, reign, forever, four, twenty, elders, sat, God, seats, fell, faces, worshipped, God, give, thanks, Lord, God, Almighty, reign, taken, great, power, reigned, nations, angry, wrath, time, dead, judged, reward, servants, prophets, saints, fear, name, small, great, destroy, destroy, earth, temple, God, opened, heaven, seen, temple, ark, testament, lightnings, voices, thunderings, earthquake, great, hail
 
+
+*AI Keywords for current event matching:*
+`affrighted` `almighty` `altar` `angel` `angry` `ark` `ascended` `ascendeth` `beast` `beheld` `blood` `bodies` `bottomless` `candlesticks` `christ` `city` `clothed` `cloud` `come` `court` `crucified` `days` `dead` `death` `destroy` `devoureth` `dwell` `dwelt` `earth` `earthquake` `egypt` `elders` `enemies` `entered` `faces` `fear` `feet` `fell` `finished` `fire` `foot` `forever` `forty` `four` `gentiles` `gifts` `give` `glory` `god` `graves` `great` `hail` `half` `heaven` `holy` `hour` `hundred` `hurt` `judged` `kill` `killed` `kindreds` `kingdoms` `life` `lightnings` `lord` `make` `measure` `measuring` `merry` `months` `mouth` `name` `nations` `olive` `opened` `overcome` `part` `people` `pit` `plagues` `power` `proceedeth` `prophecy` `prophesy` `prophets` `rain` `reed` `reign` `reigned` `rejoice` `remnant` `resurrection` `reward` `rise` `rod` `sackcloth` `saints` `sat` `saw` `saying` `seats` `second` `seen` `send` `servants` `seven` `seventh` `shut` `slain` `small` `smite` `sodom` `sounded` `spirit` `spiritually` `stand` `standing` `stood` `street` `suffer` `taken` `temple` `tenth` `testament` `testimony` `thanks` `third` `thousand` `three` `threescore` `thunderings` `time` `tongues` `tormented` `tread` `trees` `trumpet` `turn` `twenty` `two` `voice` `voices` `war` `waters` `without` `witnesses` `woe` `world` `worship` `worshipped` `wrath`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

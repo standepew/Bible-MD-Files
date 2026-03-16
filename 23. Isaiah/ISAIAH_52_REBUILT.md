@@ -127,6 +127,11 @@ Awake, awake, strength, Zion, beautiful, garments, Jerusalem, holy, city, hencef
 
 **Christ's Suffering:** visage marred man, form sons men, astonied thee, sprinkle nations
 
+
+*AI Keywords for current event matching:*
+`arise` `arm` `astonied` `bands` `beautiful` `captive` `christs` `city` `daughter` `depart` `divine` `dust` `exalted` `extolled` `eyes` `form` `freedom` `garments` `glory` `god` `high` `holy` `jerusalem` `kings` `loose` `man` `marred` `men` `money` `mouths` `nations` `neck` `nought` `redeemed` `redemption` `salvation` `shake` `shut` `sold` `sons` `spiritual` `sprinkle` `suffering` `touch` `unclean` `visage` `without` `yourselves` `zion`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

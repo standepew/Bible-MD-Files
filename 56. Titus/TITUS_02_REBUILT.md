@@ -95,6 +95,11 @@ Speak, things, sound, doctrine, aged, men, sober, grave, temperate, sound, faith
 
 **Christ's Redemptive Work:** gave, redeem, iniquity, purify, peculiar, people, zealous, good, works, speak, exhort, rebuke, authority, despise
 
+
+*AI Keywords for current event matching:*
+`accusers` `adorn` `aged` `answering` `appeared` `appearing` `ashamed` `authority` `becometh` `behaviour` `blasphemed` `blessed` `bringeth` `charity` `chaste` `children` `christ` `christs` `condemned` `contrary` `denying` `despise` `different` `discreett` `doctrine` `evil` `exhort` `faith` `false` `fidelity` `gave` `glorious` `god` `godly` `good` `grace` `grave` `gravity` `great` `groups` `holiness` `home` `hope` `husbands` `iniquity` `jesus` `keepers` `live` `looking` `love` `lusts` `masters` `men` `minded` `obedient` `part` `patience` `pattern` `peculiar` `people` `please` `present` `purify` `purloining` `rebuke` `redeem` `redemptive` `righteously` `salvation` `saviour` `say` `servants` `shewing` `sincerity` `sober` `soberly` `sound` `speak` `speech` `teach` `teachers` `temperate` `things` `uncorruptness` `ungodliness` `wine` `women` `word` `work` `works` `world` `worldly` `young` `zealous`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

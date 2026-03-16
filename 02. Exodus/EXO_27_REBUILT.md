@@ -77,6 +77,11 @@ The Altar of Burnt Offering: shittim wood overlaid with brass, five cubits squar
 - **The perpetual lamp / God's never-failing presence** → Exodus 27:20-21 — Matthew 28:20
 - **Sanctuary / sacred space** → Exodus 27 — the court as the boundary between the world and God's dwelling
 
+
+*AI Keywords for current event matching:*
+`271-8` `altar` `cross` `current` `events` `exodus` `hebrews` `john` `matching`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

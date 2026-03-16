@@ -115,6 +115,11 @@ Tenth, year, tenth, month, twelfth, day, month, word, Lord, son, man, face, Phar
 
 **Christ's Restoration:** end forty years, bring captivity, base kingdom, horn bud
 
+
+*AI Keywords for current event matching:*
+`base` `beasts` `break` `bring` `bud` `captivity` `christs` `divine` `dragon` `egyptian` `end` `face` `fall` `fields` `forty` `great` `hooks` `horn` `humiliation` `jaws` `judgment` `kingdom` `made` `meat` `mine` `myself` `pharaoh` `pride` `reed` `rend` `restoration` `river` `staff` `sword` `thrown` `wilderness` `years`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

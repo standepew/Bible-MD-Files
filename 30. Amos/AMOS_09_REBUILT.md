@@ -103,6 +103,11 @@ Lord, standing, altar, smite, lintel, door, posts, shake, cut, head, slay, last,
 
 **Messianic Kingdom:** plowman overtake, mountains drop wine, bring captivity, plant land
 
+
+*AI Keywords for current event matching:*
+`bottom` `breaches` `bring` `build` `captivity` `carmel` `christs` `climb` `close` `cut` `davids` `days` `dig` `divine` `drop` `final` `head` `heaven` `hell` `hide` `judgment` `kingdom` `land` `last` `lintel` `lord` `messianic` `mountains` `overtake` `plant` `plowman` `raise` `restoration` `ruins` `sea` `slay` `smite` `sovereignty` `standing` `sword` `tabernacle` `wine`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

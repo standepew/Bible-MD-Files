@@ -103,6 +103,11 @@ Fifth, angel, sounded, star, fall, heaven, earth, given, key, bottomless, pit, o
 
 **The Impenitence of Mankind:** rest, men, killed, plagues, repented, works, hands, worship, devils, idols, gold, silver, brass, stone, wood, neither, see, hear, walk, repented, murders, sorceries, fornication, thefts
 
+
+*AI Keywords for current event matching:*
+`abaddon` `air` `altar` `angel` `angels` `apollyon` `army` `arose` `battle` `bottomless` `bound` `brass` `breastplates` `brimstone` `chariots` `commanded` `crowns` `darkened` `day` `days` `death` `desire` `devils` `die` `earth` `euphrates` `faces` `fall` `fifth` `find` `fire` `five` `flee` `foreheads` `fornication` `four` `furnace` `given` `god` `gold` `golden` `grass` `great` `greek` `green` `hair` `hands` `heads` `hear` `heaven` `hebrew` `horns` `horsemen` `horses` `hour` `hundred` `hurt` `idols` `impenitence` `iron` `issued` `jacinth` `key` `kill` `killed` `king` `lions` `locusts` `loose` `loosed` `man` `mankind` `men` `month` `months` `mouth` `mouths` `murders` `name` `neither` `number` `opened` `part` `past` `pit` `plagues` `power` `prepared` `repented` `rest` `river` `running` `sat` `scorpion` `scorpions` `seal` `see` `seek` `serpents` `shapes` `silver` `sixth` `slay` `smoke` `sorceries` `sound` `sounded` `star` `stings` `stone` `striketh` `sun` `tails` `teeth` `thefts` `thing` `third` `thousand` `three` `torment` `tormented` `tree` `trumpet` `two` `vision` `voice` `walk` `wings` `woe` `woes` `women` `wood` `works` `worship` `year`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

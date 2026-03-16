@@ -97,6 +97,11 @@ Moses commands Israel to keep all God's commandments when they cross Jordan into
 
 **Twelve Curses:** Cursed man, graven molten image, abomination LORD, hands craftsman, secret place, people answer Amen, Cursed setteth light, father mother, people say Amen, Cursed removeth landmark, people say Amen, Cursed maketh blind wander, people say Amen, Cursed perverteth judgment, stranger fatherless widow, people say Amen, Cursed lieth father wife, uncovereth father skirt, people say Amen, Cursed lieth beast, people say Amen, Cursed lieth sister, daughter father, daughter mother, people say Amen, Cursed lieth mother law, people say Amen, Cursed smiteth neighbour secretly, people say Amen, Cursed taketh reward, slay innocent, people say Amen, Cursed confirmeth not words law, do them, people say Amen
 
+
+*AI Keywords for current event matching:*
+`abomination` `altar` `amen` `answer` `asher` `assignment` `beast` `become` `benjamin` `bless` `blind` `build` `burnt` `charged` `come` `command` `commanded` `commandments` `commands` `confirmeth` `construction` `covenant` `craftsman` `curse` `cursed` `curses` `dan` `daughter` `day` `declaration` `eat` `ebal` `elders` `father` `fatherless` `fathers` `gad` `gerizim` `giveth` `god` `gone` `graven` `great` `hands` `hearken` `honey` `image` `innocent` `iron` `israel` `issachar` `jordan` `joseph` `judah` `judgment` `keep` `land` `landmark` `law` `levi` `levites` `levitical` `lieth` `lift` `light` `lord` `loud` `maketh` `man` `memorial` `men` `milk` `molten` `moses` `mother` `mount` `naphtali` `neighbour` `obey` `offer` `offerings` `pass` `passed` `peace` `people` `perverteth` `place` `plainly` `plaister` `priests` `promised` `pronouncements` `rejoice` `removeth` `reuben` `reward` `say` `secret` `secretly` `set` `setteth` `simeon` `sister` `skirt` `slay` `smiteth` `spake` `speak` `stand` `statutes` `stones` `stranger` `take` `taketh` `tool` `tribal` `twelve` `uncovereth` `voice` `wander` `whole` `widow` `wife` `words` `write` `zebulun`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

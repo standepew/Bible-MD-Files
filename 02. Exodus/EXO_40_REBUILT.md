@@ -81,6 +81,11 @@ God commands Moses: on the first day of the first month of the second year, erec
 - **"It is finished" / completed work** → Exodus 40:33 — Genesis 2:2; John 19:30
 - **Access to God through Christ** → Exodus 40:35 — Moses cannot enter; Hebrews 10:19-22 — we can
 
+
+*AI Keywords for current event matching:*
+`among` `current` `dwell` `events` `exodus` `gods` `john` `matching` `purpose` `revelation`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -75,6 +75,11 @@ Miriam and Aaron speak against Moses because he married an Ethiopian (Cushite) w
 - **Intercession for enemies** → Numbers 12:13 — Matthew 5:44; Luke 23:34
 - **Consequences of presumption against God's anointed** → Numbers 12:10 — Miriam's leprosy; Psalm 105:15
 
+
+*AI Keywords for current event matching:*
+`authority` `challenging` `current` `defence` `direct` `established` `events` `gods` `matching` `numbers` `response` `servant` `spiritual` `swift` `unambiguous`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS WITH CONTEXTUAL DEFINITIONS

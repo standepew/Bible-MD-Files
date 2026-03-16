@@ -115,6 +115,11 @@ Behold, servant, uphold, elect, soul, delighteth, put, spirit, bring, judgment, 
 
 **Christ's Covenant:** covenant people, hold hand keep, new song praise, former things pass
 
+
+*AI Keywords for current event matching:*
+`blind` `bring` `christs` `covenant` `darkness` `divine` `earth` `elect` `eyes` `former` `gentiles` `hand` `hold` `isles` `judgment` `justice` `keep` `law` `light` `magnify` `new` `open` `pass` `people` `praise` `prison` `prisoners` `put` `servant` `set` `song` `spirit` `spiritual` `things` `truth` `uphold` `wait`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

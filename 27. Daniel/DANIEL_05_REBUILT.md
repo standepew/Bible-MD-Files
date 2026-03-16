@@ -115,6 +115,11 @@ Belshazzar, king, great, feast, thousand, lords, drank, wine, thousand, Belshazz
 
 **Christ's Wisdom:** spirit holy gods, excellent wisdom, interpreting dreams, dissolve doubts
 
+
+*AI Keywords for current event matching:*
+`appointeth` `christs` `dissolve` `divided` `divine` `doubts` `dreams` `excellent` `fingers` `finished` `god` `gods` `hand` `high` `holy` `interpretation` `interpreting` `judgment` `kingdom` `mene` `numbered` `plaister` `ruled` `sovereignty` `spirit` `tekel` `wanting` `weighed` `whomsoever` `wisdom` `writing` `written` `wrote`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

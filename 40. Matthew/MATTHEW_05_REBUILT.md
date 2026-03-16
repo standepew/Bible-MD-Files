@@ -139,6 +139,11 @@ Seeing, multitudes, went, mountain, set, disciples, came, opened, mouth, taught,
 
 **Perfect Righteousness:** exceed righteousness, fulfill law, heart obedience, perfect Father
 
+
+*AI Keywords for current event matching:*
+`anger` `beatitudes` `blessed` `brother` `christs` `comforted` `earth` `enemies` `ethics` `exceed` `father` `fulfill` `heart` `inherit` `kingdom` `law` `let` `light` `love` `lust` `meek` `mount` `mourn` `obedience` `perfect` `poor` `pure` `righteousness` `salt` `sermon` `shine` `spirit` `world`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

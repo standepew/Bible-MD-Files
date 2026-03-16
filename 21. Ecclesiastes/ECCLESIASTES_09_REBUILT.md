@@ -175,6 +175,11 @@ Considered, heart, declare, righteous, wise, works, hand, God, man, knoweth, lov
 
 **Life's Opportunities:** hand findeth do, eat bread joy, garments always white
 
+
+*AI Keywords for current event matching:*
+`accept` `alike` `always` `anything` `better` `bread` `chance` `city` `dead` `death` `delivered` `destiny` `divine` `dog` `eat` `findeth` `folly` `garments` `god` `hand` `happeneth` `heard` `joy` `know` `lifes` `lion` `living` `man` `men` `opportunities` `poor` `righteous` `sovereignty` `strength` `things` `time` `white` `wisdom` `wise` `words` `works`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

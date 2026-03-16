@@ -91,6 +91,11 @@ Psalm, praise, joyful, noise, LORD, lands, Serve, LORD, gladness, come, presence
 
 **Everlasting Mercy:** mercy everlasting, truth endure generations
 
+
+*AI Keywords for current event matching:*
+`come` `creator` `divine` `endure` `everlasting` `generations` `gladness` `god` `good` `joyful` `know` `lands` `lord` `made` `mercy` `noise` `ourselves` `pasture` `people` `praise` `presence` `psalm` `relationship` `serve` `service` `sheep` `shepherd` `singing` `truth`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

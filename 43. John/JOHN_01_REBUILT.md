@@ -175,6 +175,11 @@ Beginning, Word, God, Word, with, Word, God, beginning, God, things, made, witho
 
 **Nathanael's Declaration:** Moses law, prophets write, Nazareth, Israelite guile, fig tree, Son God, King Israel, heaven open
 
+
+*AI Keywords for current event matching:*
+`andrew` `baptists` `baptize` `bear` `became` `beginning` `behold` `called` `cephas` `come` `crying` `declaration` `descending` `disciples` `fig` `first` `flesh` `follow` `followed` `found` `god` `grace` `guile` `heaven` `israel` `israelite` `jesus` `john` `king` `lamb` `law` `life` `light` `made` `man` `messias` `moses` `nathanaels` `nazareth` `open` `philip` `prophets` `see` `sent` `simon` `son` `spirit` `testimony` `things` `tree` `true` `truth` `voice` `water` `witness` `word` `write`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

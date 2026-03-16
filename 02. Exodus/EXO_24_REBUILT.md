@@ -92,6 +92,11 @@ God calls Moses, Aaron, Nadab, Abihu, and seventy elders to come up — but only
 - **40 days / preparation / testing** → Exodus 24:18 — Matthew 4:2; Deuteronomy 9:9
 - **Stone tablets / the written word of God** → Exodus 24:12 — 2 Corinthians 3:3 — written on hearts
 
+
+*AI Keywords for current event matching:*
+`918-22` `blood` `covenant` `current` `events` `exodus` `hebrews` `matching` `matthew` `new`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

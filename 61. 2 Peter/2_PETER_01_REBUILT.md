@@ -105,6 +105,11 @@ Simon, Peter, servant, apostle, Jesus, Christ, obtained, precious, faith, righte
 
 **Authority of Scripture:** sure, word, prophecy, heed, light, shineth, dark, place, day, dawn, day, star, arise, hearts, knowing, prophecy, scripture, private, interpretation, prophecy, old, time, will, man, holy, men, God, spake, moved, Holy, Ghost
 
+
+*AI Keywords for current event matching:*
+`abundantly` `afar` `apostle` `arise` `assurance` `authority` `barren` `beloved` `blind` `brotherly` `called` `calling` `charity` `christ` `christian` `coming` `corruption` `cunningly` `dark` `dawn` `day` `decease` `devised` `diligence` `divine` `election` `entrance` `escaped` `established` `everlasting` `exceeding` `excellent` `eyewitness` `eyewitnesses` `fables` `faith` `fall` `father` `followed` `forgotten` `ghost` `glory` `god` `godliness` `grace` `great` `hearts` `heaven` `heed` `holy` `honour` `interpretation` `jesus` `kindness` `kingdom` `knowing` `knowledge` `life` `light` `lord` `lust` `majesty` `man` `men` `ministered` `mount` `moved` `multiplied` `nature` `negligent` `obtained` `old` `partakers` `patience` `peace` `peter` `place` `pleased` `power` `precious` `present` `private` `promises` `prophecy` `purged` `put` `received` `remembrance` `righteousness` `salvation` `saviour` `scripture` `servant` `shewed` `shineth` `shortly` `simon` `sins` `son` `spake` `star` `stir` `sure` `tabernacle` `temperance` `testimony` `time` `truth` `unfruitful` `virtue` `virtues` `voice` `word` `world`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

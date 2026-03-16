@@ -127,6 +127,11 @@ Wicked, flee, pursueth, righteous, bold, lion, transgression, land, many, prince
 
 **Pride and Humility:** rich man wise conceit, proud heart strife, trust heart fool
 
+
+*AI Keywords for current event matching:*
+`bold` `conceit` `contend` `ear` `flee` `fool` `forsake` `giveth` `hearing` `heart` `hide` `humility` `justice` `keep` `lack` `law` `lion` `man` `oppresseth` `poor` `poverty` `praise` `pride` `proud` `pursueth` `rich` `righteous` `righteousness` `rise` `strife` `trust` `turneth` `uprightness` `walketh` `wealth` `wicked` `wickedness` `wise`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

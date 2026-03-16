@@ -199,6 +199,11 @@ Jesus, departed, temple, disciples, buildings, temple, Jesus, things, stone, thr
 
 **Second Coming:** sun darkened, sign Son, clouds heaven, gather elect
 
+
+*AI Keywords for current event matching:*
+`abomination` `christs` `clouds` `coming` `darkened` `deceive` `desolation` `destruction` `east` `elect` `end` `false` `famines` `flee` `gather` `great` `heaven` `lightning` `many` `mount` `mountains` `olives` `olivet` `pestilences` `prophecy` `rumours` `second` `sign` `signs` `son` `stone` `sun` `temple` `thrown` `times` `tribulation` `wars` `world`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

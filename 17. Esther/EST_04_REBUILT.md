@@ -127,6 +127,11 @@ Mordecai, perceived, done, rent, clothes, sackcloth, ashes, midst, city, cried, 
 
 **Courageous Faith:** Mordecai commanded answer Esther escape king house Jews, altogether holdest peace time enlargement deliverance Jews place father house destroyed know come kingdom time, Esther bade return Mordecai answer, gather Jews Shushan fast neither eat drink three days night day maidens fast king law perish perish, Mordecai way Esther commanded
 
+
+*AI Keywords for current event matching:*
+`altogether` `answer` `ashes` `attended` `bade` `bitter` `called` `chamberlains` `charge` `city` `clothe` `clothed` `clothes` `come` `commanded` `commandment` `copy` `courageous` `court` `cried` `cry` `day` `days` `death` `declare` `decree` `deliverance` `destroy` `destroyed` `divine` `done` `drink` `eat` `enlargement` `enter` `escape` `esther` `esthers` `faith` `fast` `fasting` `father` `gate` `gather` `golden` `great` `grieved` `haman` `happened` `hatach` `hold` `holdest` `house` `inner` `jews` `king` `kingdom` `know` `law` `lay` `live` `loud` `maidens` `maids` `man` `midst` `money` `mordecai` `mordecais` `mourning` `neither` `night` `peace` `people` `perceived` `perish` `place` `promised` `providence` `province` `provinces` `put` `queen` `raiment` `received` `rent` `request` `response` `return` `sackcloth` `sceptre` `sent` `servants` `shushan` `street` `supplication` `thirty` `three` `time` `told` `treasuries` `wailing` `way` `weeping` `woman` `words` `writing`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

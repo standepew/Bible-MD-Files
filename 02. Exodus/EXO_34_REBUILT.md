@@ -87,6 +87,11 @@ God tells Moses to hew two stone tablets — Moses supplies the stone, God suppl
 - **The veil / spiritual blindness** → Exodus 34:33-35 — 2 Corinthians 3:15-16 — the veil on the heart
 - **Grace after great failure** → Exodus 34:1-4 — the second tablets; Lamentations 3:22-23
 
+
+*AI Keywords for current event matching:*
+`346-7` `attributes` `character` `current` `events` `exodus` `god` `john` `matching` `most-quoted` `passage`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

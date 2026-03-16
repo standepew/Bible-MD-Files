@@ -103,6 +103,11 @@ Third, year, Cyrus, king, Persia, thing, revealed, Daniel, Belteshazzar, thing, 
 
 **Divine Strength:** no strength, strengthened me, be strong, strengthened
 
+
+*AI Keywords for current event matching:*
+`angelic` `appearance` `beings` `certain` `chief` `christs` `clothed` `divine` `fight` `linen` `man` `michael` `noted` `persia` `prince` `princes` `revealed` `revelation` `scripture` `spiritual` `strength` `strengthened` `strong` `thing` `truth` `understanding` `vision` `warfare` `withstood`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

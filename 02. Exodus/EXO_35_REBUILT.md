@@ -65,6 +65,11 @@ Moses assembles the entire congregation. He opens with the Sabbath command — n
 - **The Sabbath before the work** → Exodus 35:1-3 — rest ordered before labor begins
 - **Teaching as a spiritual gift** → Exodus 35:34 — 2 Timothy 2:2; Ephesians 4:11
 
+
+*AI Keywords for current event matching:*
+`3521-29` `chronicles` `corinthians` `current` `events` `exodus` `freewill` `generous` `giving` `matching` `offering`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

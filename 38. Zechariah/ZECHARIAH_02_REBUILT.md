@@ -127,6 +127,11 @@ Lifted, eyes, man, measuring, line, hand, Whither, goth, measure, Jerusalem, bre
 
 **Gathering of Nations:** nations joined, many nations, my people, know LORD sent
 
+
+*AI Keywords for current event matching:*
+`abroad` `apple` `cattle` `christs` `come` `divine` `dwell` `expansion` `eye` `fire` `four` `gathering` `glory` `gods` `habitation` `hand` `holy` `jerusalems` `joined` `know` `lord` `many` `men` `midst` `multitude` `nations` `people` `presence` `protection` `raised` `round` `sent` `shake` `spread` `towns` `wall` `walls` `winds` `without`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

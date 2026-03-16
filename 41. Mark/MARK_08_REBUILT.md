@@ -213,6 +213,11 @@ Multitude, great, nothing, eat, Jesus, disciples, compassion, multitude, three, 
 
 **Christ's Suffering:** deny cross, lose life, world soul, ashamed generation
 
+
+*AI Keywords for current event matching:*
+`ashamed` `baskets` `bethsaida` `blind` `christ` `christs` `clearly` `compassion` `confession` `cross` `deny` `feeding` `four` `generation` `healing` `heaven` `house` `life` `loaves` `lose` `man` `multitude` `peter` `peters` `pharisees` `question` `rebuke` `restored` `satan` `seek` `sent` `seven` `sighed` `sign` `son` `soul` `spirit` `suffer` `suffering` `tell` `thousand` `trees` `walking` `world`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

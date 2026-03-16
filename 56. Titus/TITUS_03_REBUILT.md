@@ -93,6 +93,11 @@ Put, mind, subject, principalities, powers, obey, magistrates, ready, good, work
 
 **Final Instructions:** heretick, first, second, admonition, reject, knowing, subverted, sinned, condemned, send, Artemas, Tychicus, diligent, Nicopolis, determined, winter, Zenas, lawyer, Apollos, journey, diligently, wanting, learn, maintain, good, works, necessary, uses, unfruitful, salute, thee, greet, love, faith, Grace, Amen
 
+
+*AI Keywords for current event matching:*
+`abundantly` `admonition` `affirm` `amen` `apollos` `appeared` `artemas` `authorities` `avoid` `believed` `brawlers` `careful` `christ` `christian` `condemned` `conduct` `constantly` `contentions` `deceived` `determined` `diligent` `diligently` `disobedient` `divers` `envy` `eternal` `evil` `faith` `faithful` `final` `first` `foolish` `genealogies` `gentle` `ghost` `god` `good` `grace` `greet` `hateful` `hating` `heirs` `heretick` `holy` `hope` `instructions` `jesus` `journey` `justified` `kindness` `knowing` `law` `lawyer` `learn` `life` `living` `love` `lusts` `magistrates` `maintain` `maintaining` `malice` `man` `meekness` `men` `mercy` `mind` `necessary` `nicopolis` `obey` `ourselves` `pleasures` `powers` `principalities` `profitable` `put` `questions` `ready` `regeneration` `reject` `renewing` `righteousness` `salute` `salvation` `saved` `saviour` `saying` `second` `send` `serving` `shed` `shewing` `sinned` `speak` `strivings` `subject` `submission` `subverted` `tychicus` `unfruitful` `unprofitable` `uses` `vain` `wanting` `washing` `winter` `work` `works` `zenas`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

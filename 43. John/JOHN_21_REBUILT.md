@@ -103,6 +103,11 @@ Things, Jesus, shewed, disciples, sea, Tiberias, wise, shewed, Simon, Peter, Tho
 
 **The Purpose of the Gospel:** abroad brethren, disciple die, Jesus die, disciple testifieth, wrote testimony, true things Jesus, books world, contain books
 
+
+*AI Keywords for current event matching:*
+`abroad` `appears` `ask` `betrayeth` `books` `bread` `breast` `brethren` `bring` `broken` `cana` `carry` `cast` `catch` `caught` `children` `coals` `coat` `come` `contain` `dead` `didymus` `die` `dine` `dined` `disciple` `disciples` `dragging` `durst` `feed` `fifty` `fire` `fish` `fishes` `fishing` `follow` `gird` `girded` `girt` `giveth` `glory` `god` `gospel` `grieved` `hands` `hundred` `immediately` `jesus` `jonas` `knowest` `knowing` `lambs` `land` `lord` `love` `loved` `lovest` `man` `meat` `miraculous` `morning` `multitude` `nathanael` `net` `night` `old` `peter` `purpose` `right` `risen` `saying` `sea` `second` `seven` `sheep` `ship` `shore` `simon` `sons` `stretch` `supper` `testifieth` `testimony` `things` `third` `thomas` `three` `tiberias` `time` `true` `walked` `world` `wouldest` `wrote` `young` `zebedee`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

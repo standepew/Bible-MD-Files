@@ -163,6 +163,11 @@ Chief, Musician, Muthlabben, Psalm, David, praise, LORD, whole, heart, shew, mar
 
 **Refuge for Oppressed:** refuge oppressed trouble, know name trust forsaken seek, mercy trouble hate liftest gates death, needy forgotten expectation poor perish
 
+
+*AI Keywords for current event matching:*
+`arise` `back` `cause` `chief` `david` `death` `destroyed` `divine` `endure` `enemies` `eternal` `executeth` `expectation` `fall` `fear` `forever` `forgotten` `forsaken` `gates` `glad` `gods` `hate` `heart` `heathen` `high` `judge` `judged` `judging` `judgment` `know` `known` `liftest` `lord` `maintained` `man` `marvellous` `men` `mercy` `minister` `musician` `muthlabben` `name` `nations` `needy` `oppressed` `people` `perish` `poor` `praise` `prepared` `presence` `prevail` `psalm` `rebuked` `refuge` `rejoice` `right` `righteousness` `satest` `seek` `selah` `shew` `sight` `sing` `thanksgiving` `throne` `trouble` `trust` `turned` `uprightness` `victory` `whole` `wicked` `works` `world`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

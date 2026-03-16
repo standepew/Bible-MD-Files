@@ -140,6 +140,11 @@ Blessed, undefiled, walk, law, LORD, keep, testimonies, seek, whole, heart, iniq
 
 **Obedient Living:** walk law, keep commandments, observe commandments, run way commandments
 
+
+*AI Keywords for current event matching:*
+`behold` `christ` `commandments` `continually` `delight` `divine` `dwell` `eyes` `forever` `god` `heart` `hid` `judgments` `keep` `law` `living` `lord` `mediate` `meditate` `meditation` `obedient` `observe` `open` `precepts` `respect` `richly` `run` `sin` `spiritual` `statutes` `testimonies` `things` `walk` `way` `ways` `wondrous` `word`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

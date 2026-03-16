@@ -151,6 +151,11 @@ Word, Isaiah, son, Amoz, saw, concerning, Judah, Jerusalem, come, pass, last, da
 
 **Idol Destruction:** full idols, worship work hands, idols utterly abolish
 
+
+*AI Keywords for current event matching:*
+`abolish` `christs` `day` `days` `destruction` `divine` `earth` `exalted` `flow` `full` `hands` `hosts` `house` `humbled` `idol` `idols` `jerusalem` `judgment` `kingdom` `last` `law` `learn` `lofty` `looks` `lord` `mountain` `nations` `peace` `plowshares` `pruninghooks` `spears` `swords` `utterly` `war` `word` `work` `worship`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

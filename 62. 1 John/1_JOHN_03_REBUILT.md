@@ -117,6 +117,11 @@ Behold, manner, love, Father, bestowed, called, sons, God, world, knoweth, knew,
 
 **Practical Love and Assurance:** hateth, brother, murderer, murderer, eternal, life, abiding, perceive, love, God, laid, life, lay, lives, brethren, world, good, seeth, brother, need, shutteth, bowels, compassion, dwelleth, love, God, love, word, tongue, deed, truth, know, truth, assure, heart, condemn, God, greater, heart, knoweth, condemn, confidence, God, ask, receive, keep, commandments, pleasing, sight, commandment, believe, name, Son, Jesus, Christ, love, commandment, keepeth, commandments, dwelleth, abideth, Spirit, given
 
+
+*AI Keywords for current event matching:*
+`abideth` `abiding` `another` `appear` `ask` `assurance` `assure` `beginning` `behold` `believe` `bestowed` `born` `bowels` `brethren` `brother` `cain` `called` `children` `christ` `commandment` `commandments` `commit` `committeth` `compassion` `condemn` `confidence` `death` `deceive` `deed` `destroy` `devil` `doeth` `dwelleth` `eternal` `evil` `father` `future` `given` `glory` `god` `good` `greater` `hate` `hateth` `heard` `heart` `hope` `jesus` `keep` `keepeth` `knew` `know` `knoweth` `known` `laid` `law` `lay` `life` `like` `lives` `love` `loveth` `manifest` `manifested` `manner` `marvel` `message` `murderer` `name` `need` `one` `passed` `perceive` `pleasing` `practical` `pure` `purifieth` `purpose` `receive` `remaineth` `righteous` `righteousness` `seed` `seen` `seeth` `shutteth` `sight` `sin` `sinneth` `sins` `slew` `son` `sons` `spirit` `take` `tongue` `transgresseth` `transgression` `truth` `wicked` `word` `works` `world`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

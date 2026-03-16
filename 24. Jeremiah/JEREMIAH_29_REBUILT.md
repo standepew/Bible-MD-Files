@@ -103,6 +103,11 @@ Words, letter, Jeremiah, prophet, Jerusalem, residue, elders, carried, captives,
 
 **Christ's Thoughts:** thoughts peace evil, seek find heart, found captivity, expected end
 
+
+*AI Keywords for current event matching:*
+`accomplished` `away` `build` `captivity` `christs` `city` `dwell` `eat` `end` `evil` `expected` `find` `found` `gardens` `gather` `good` `heart` `hope` `houses` `jeremiah` `letter` `nations` `peace` `perform` `place` `plant` `return` `seek` `sent` `seventy` `thoughts` `toward` `turn` `visit` `word` `years`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -115,6 +115,11 @@ Burden, word, LORD, land, Hadrach, Damascus, rest, eyes, man, tribes, Israel, LO
 
 **Prisoners of Hope:** prisoners hope, strong hold, render double, blood covenant
 
+
+*AI Keywords for current event matching:*
+`ass` `blood` `chariot` `christs` `colt` `cometh` `covenant` `cut` `daughter` `dominion` `double` `earth` `ends` `entry` `foal` `greatly` `heathen` `hold` `hope` `humble` `king` `lowly` `peace` `prisoners` `rejoice` `render` `riding` `salvation` `sea` `shout` `speak` `strong` `triumphal` `universal` `zion`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

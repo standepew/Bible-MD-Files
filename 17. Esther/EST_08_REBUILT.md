@@ -139,6 +139,11 @@ Day, king, Ahasuerus, house, Haman, Jews, enemy, Esther, queen. Mordecai, king, 
 
 **Jews' Victory:** wrote king Ahasuerus name sealed king ring sent letters posts horseback riders mules camels young dromedaries, king granted Jews city gather stand life destroy slay perish power people province assault little ones women take spoil prey, day provinces king Ahasuerus thirteenth day twelfth month month Adar, copy writing commandment province published people Jews ready day avenge enemies, posts mules camels hastened pressed king commandment decree Shushan palace, Mordecai presence king royal apparel blue white great crown gold garment fine linen purple city Shushan rejoiced glad, Jews light gladness joy honour, province city king commandment decree Jews joy gladness feast good day people land Jews fear Jews
 
+
+*AI Keywords for current event matching:*
+`adar` `agagite` `ahasuerus` `apparel` `arose` `assault` `avenge` `besought` `blue` `camels` `city` `commanded` `commandment` `copy` `crown` `day` `decree` `deputies` `destroy` `destruction` `device` `devised` `dromedaries` `endure` `enemies` `enemy` `estate` `esther` `ethiopia` `evil` `eyes` `favour` `fear` `feast` `feet` `fell` `fine` `gallows` `garment` `gather` `gave` `given` `glad` `gladness` `gold` `golden` `good` `granted` `great` `haman` `hamans` `hammedatha` `hand` `hanged` `hastened` `held` `honour` `horseback` `house` `hundred` `india` `issued` `jew` `jews` `joy` `kindred` `king` `laid` `land` `language` `letters` `lieutenants` `life` `light` `liketh` `linen` `little` `man` `mischief` `month` `mordecai` `mules` `name` `new` `ones` `palace` `people` `perish` `please` `pleasing` `posts` `power` `presence` `pressed` `prey` `promoted` `province` `provinces` `published` `purple` `queen` `ready` `rejoiced` `reverse` `riders` `right` `ring` `royal` `rulers` `sceptre` `scribes` `seal` `sealed` `see` `sent` `seven` `shushan` `sight` `sivan` `slay` `son` `spake` `spoil` `stand` `stood` `take` `tears` `thing` `third` `thirteenth` `three` `told` `twelfth` `twentieth` `twenty` `victory` `white` `women` `write` `writing` `written` `wrote` `young`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

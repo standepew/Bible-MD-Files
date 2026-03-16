@@ -127,6 +127,11 @@ Chief, Musician, Song, Psalm, Make, joyful, noise, GOD, lands, Sing, honour, nam
 
 **Grateful Worship:** house burnt offerings pay vows lips uttered mouth spoken trouble offer burnt sacrifices fatlings incense rams offer bullocks goats, bless GOD turned away prayer mercy
 
+
+*AI Keywords for current event matching:*
+`affliction` `away` `behold` `bless` `brought` `bullocks` `burnt` `caused` `chief` `divine` `dry` `earth` `enemies` `eyes` `fatlings` `fire` `flood` `foot` `forever` `glorious` `goats` `god` `gods` `grateful` `greatness` `heads` `honour` `house` `incense` `joyful` `laid` `land` `lands` `lips` `loins` `make` `men` `mercy` `mouth` `musician` `name` `nations` `net` `noise` `offer` `offerings` `pay` `place` `power` `praise` `prayer` `proved` `psalm` `rams` `rejoined` `ride` `ruleth` `sacrifices` `sea` `silver` `sing` `song` `spoken` `submit` `terrible` `testing` `tried` `trouble` `turned` `uttered` `vows` `water` `wealthy` `went` `works` `worship`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

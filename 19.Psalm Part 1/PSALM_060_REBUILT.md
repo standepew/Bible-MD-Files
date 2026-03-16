@@ -115,6 +115,11 @@ Chief, Musician, Shushan, eduth, Michtam, David, teach, strove, Aram, naharaim, 
 
 **God's Sovereignty:** GOD spoken holiness, Moab washpot cast shoe Edom Philistia triumph, strong city lead Edom, GOD valiantly tread enemies
 
+
+*AI Keywords for current event matching:*
+`aram` `banner` `beloved` `breaches` `broken` `cast` `chief` `city` `david` `delivered` `displayed` `displeased` `displeasure` `divide` `divine` `earth` `edom` `eduth` `enemies` `ephraim` `fear` `gilead` `god` `gods` `hand` `head` `heal` `hear` `holiness` `joab` `judah` `lawgiver` `lead` `manasseh` `mete` `michtam` `military` `moab` `musician` `naharaim` `philistia` `rejoice` `restoration` `returned` `right` `salt` `save` `scattered` `shaketh` `shechem` `shoe` `shushan` `smote` `sovereignty` `spoken` `strength` `strong` `strove` `succoth` `teach` `thousand` `thyself` `tread` `tremble` `triumph` `truth` `turn` `twelve` `valiantly` `valley` `victory` `washpot` `zobah`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -80,6 +80,11 @@ This is the most important single verse in Leviticus for understanding why the s
 - **The blood prohibition retained in the New Covenant** → Leviticus 17:10-14 — Acts 15:20, 29
 - **All life belongs to God** → Leviticus 17:13 — Genesis 4:10; Deuteronomy 12:16
 
+
+*AI Keywords for current event matching:*
+`atonement` `blood` `current` `events` `foundation` `hebrews` `john` `leviticus` `life` `matching` `revelation`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

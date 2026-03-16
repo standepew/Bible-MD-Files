@@ -83,6 +83,11 @@ Philistines gathered all armies to Aphek; Israelites pitched by fountain in Jezr
 
 **David's Departure:** David men early depart morning Philistines Jezreel
 
+
+*AI Keywords for current event matching:*
+`achish` `achishs` `adversary` `angel` `aphek` `appointed` `armies` `assembly` `battle` `coming` `dances` `david` `davids` `day` `days` `decision` `defense` `depart` `departure` `displease` `early` `enemies` `evil` `fault` `favour` `fell` `fellow` `fight` `fountain` `gathered` `god` `going` `good` `heads` `hebrews` `host` `hundreds` `israel` `israelites` `jezreel` `king` `light` `liveth` `lord` `lords` `master` `men` `morning` `passed` `peace` `philistine` `philistines` `pitched` `place` `princes` `question` `reconcile` `rereward` `return` `rise` `sang` `saul` `servant` `servants` `sight` `suspicion` `ten` `thousands` `upright` `wroth` `years`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

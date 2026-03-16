@@ -67,6 +67,11 @@ Spoken to Moses in mount Sinai. The land shall keep a Sabbath to the LORD every 
 - **Kinsman-redeemer / redemption / buying back** → Leviticus 25:25-28 — Ruth 3-4; Galatians 4:4-5; Hebrews 2:14-17
 - **Economic inequality / oppression of the poor** → Leviticus 25:35-38 — Amos 8:4-6; James 5:1-6
 
+
+*AI Keywords for current event matching:*
+`2510-13` `418-21` `611-2` `cancellation` `current` `debt` `economic` `events` `isaiah` `leviticus` `luke` `matching` `release` `reset` `year`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS WITH CONTEXTUAL DEFINITIONS

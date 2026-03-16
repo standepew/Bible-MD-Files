@@ -139,6 +139,11 @@ Soft, answer, turneth, away, wrath, grievous, words, stir, anger, tongue, wise, 
 
 **Wisdom and Humility:** fear LORD instruction wisdom, before honour humility, slow anger appeaseth strife
 
+
+*AI Keywords for current event matching:*
+`abomination` `anger` `answer` `appeaseth` `beholding` `delight` `destruction` `divine` `every` `evil` `eyes` `fear` `gentle` `good` `grievous` `hell` `honour` `humility` `instruction` `life` `lord` `omniscience` `place` `prayer` `righteous` `sacrifice` `slow` `soft` `speech` `stir` `strife` `tongue` `tree` `turneth` `upright` `way` `wholesome` `wicked` `wisdom` `words` `wrath`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

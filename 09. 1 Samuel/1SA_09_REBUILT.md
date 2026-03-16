@@ -87,6 +87,11 @@ Kish, a Benjaminite mighty man of power (son of Abiel, son of Zeror, son of Bech
 
 **Divine Communication:** high place city Samuel communed top house, arose early spring day Samuel Saul top house send Saul arose Samuel abroad, end city Samuel Saul servant pass still word God
 
+
+*AI Keywords for current event matching:*
+`abiel` `abroad` `anoint` `aphiah` `appointment` `arise` `arose` `asses` `ate` `background` `bechorath` `benjamin` `benjamite` `benjamites` `bidden` `bless` `bread` `captain` `caring` `chiefest` `choice` `city` `cometh` `communed` `communication` `cook` `cry` `day` `days` `desire` `divine` `draw` `ear` `early` `eat` `end` `enquire` `ephraim` `families` `family` `father` `found` `fourth` `gate` `god` `goodlier` `goodly` `heart` `high` `hill` `honourable` `house` `humility` `israel` `journey` `kept` `kish` `land` `least` `left` `looked` `lord` `lost` `maidens` `man` `meeting` `mighty` `morrow` `mount` `parlour` `pass` `passed` `people` `person` `persons` `philistines` `place` `portion` `power` `present` `prophet` `reign` `return` `royal` `sacrifice` `saith` `samuel` `saul` `sauls` `save` `seek` `seeking` `seer` `send` `servant` `set` `shalim` `shalisha` `shekel` `shoulder` `shoulders` `silver` `sit` `smallest` `son` `spake` `spent` `spring` `still` `thirty` `thought` `three` `time` `told` `tomorrow` `top` `treatment` `tribe` `tribes` `upward` `vessels` `water` `way` `word` `young` `zeror` `zuph`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

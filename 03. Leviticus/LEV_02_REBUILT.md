@@ -93,6 +93,11 @@ The grain offering (minchah = tribute, gift) is the non-animal offering: fine fl
 - **Christ's perfect humanity** → Leviticus 2 — Hebrews 4:15; Luke 1:35; John 6:35
 - **The fruit of human labor consecrated** → Leviticus 2:1 — Psalm 96:8; Colossians 3:23
 
+
+*AI Keywords for current event matching:*
+`56-8` `community` `corinthians` `corruption` `current` `events` `leaven` `leviticus` `matching` `matthew`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

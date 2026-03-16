@@ -103,6 +103,11 @@ LORD, shewed, baskets, figs, set, temple, LORD, Nebuchadrezzar, king, Babylon, c
 
 **Christ's Restoration:** bring again land, heart know LORD, people God, return whole heart
 
+
+*AI Keywords for current event matching:*
+`acknowledge` `again` `baskets` `bring` `build` `captive` `captives` `carried` `chaldeans` `christs` `deliver` `eaten` `egypt` `evil` `eyes` `figs` `first` `god` `good` `heart` `kingdoms` `know` `land` `lord` `naughty` `people` `plant` `princes` `proverb` `remain` `remnant` `removed` `reproach` `residue` `restoration` `return` `ripe` `sent` `set` `two` `whole` `zedekiah`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

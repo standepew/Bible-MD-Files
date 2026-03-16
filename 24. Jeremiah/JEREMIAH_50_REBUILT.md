@@ -79,6 +79,11 @@ Word, LORD, Babylon, land, Chaldeans, Jeremiah, prophet, declare, nations, publi
 
 **Divine Vengeance:** proud stumble, fire cities, sword Chaldeans, Redeemer strong
 
+
+*AI Keywords for current event matching:*
+`babylon` `babylons` `bel` `broken` `carmel` `chaldeans` `christs` `cities` `confounded` `covenant` `desolate` `divine` `fall` `fallen` `feed` `fire` `foundations` `idols` `israels` `land` `lord` `lost` `merodach` `perpetual` `proud` `redeemer` `restoration` `seek` `sheep` `strong` `stumble` `sword` `taken` `thrown` `vengeance` `victory` `walls`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS
