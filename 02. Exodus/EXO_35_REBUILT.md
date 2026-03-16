@@ -132,10 +132,65 @@ Moses assembles the entire congregation. He opens with the Sabbath command — n
 
 ## COMMONLY MISQUOTED PASSAGES
 
-*No passages in this chapter are commonly misquoted or frequently taken out of context in a way that distorts the chapter's meaning.*
+### Exodus 35:2 — "Whosoever Doeth Work Therein Shall Be Put to Death" — The Sabbath Re-Given Before Tabernacle Construction
+
+**Verse 2** — "Six days shall work be done, but on the seventh day there shall be to you an holy day, a sabbath of rest to the LORD: whosoever doeth work therein shall be put to death."
+
+**How it is misused:** The deliberate placement of the Sabbath command immediately before the Tabernacle construction is missed, and the Sabbath here is treated as if it were simply a standalone legal reminder. The result is that the theological purpose of this positioning — that even the building of God's house does not override the Sabbath — is lost.
+
+**What the text actually says:**
+- **Exodus 31:12-18** — The Sabbath command is also given immediately before God hands Moses the instructions for the Tabernacle — the Sabbath bookends the Tabernacle project on both sides
+- **Exodus 35:1-3** — Before Moses announces the freewill offering and calls for craftsmen, he first gives the Sabbath command — the work of building God's dwelling begins with the principle of rest
+- **Nehemiah 13:15-21** — Nehemiah enforces the Sabbath in the post-exilic community; even essential commerce was prohibited
+- **Matthew 12:5** — Jesus notes: "Or have ye not read in the law, how that on the sabbath days the priests in the temple profane the sabbath, and are blameless?" — even temple service on the Sabbath is a special exception requiring justification
+- **Mark 2:27** — "The sabbath was made for man, and not man for the sabbath" — the Sabbath is for human benefit; its restriction even applies during holy construction work
+
+*Correction:* The placement of the Sabbath command before the Tabernacle construction is a deliberate theological statement: even the building of God's own house does not suspend the Sabbath. God's dwelling is not built by Sabbath-breaking zeal but by rested, consecrated labor. The Sabbath brackets the Tabernacle project (Exodus 31:12-17 before the instructions; Exodus 35:1-3 before the construction) to make this unmistakable. The principle: the manner of doing God's work matters as much as the doing of it. Frantic, rest-less building of God's house violates the very principle God embedded in creation and in the covenant.
+
+---
+
+### Exodus 35:21-22 — The Freewill Offering — Misread as a Model for Compelled Giving Campaigns
+
+**Verses 21-22** — "And they came, every one whose heart stirred him up, and every one whom his spirit made willing, and they brought the LORD's offering... And they came, both men and women, as many as were willing hearted"
+
+**How it is misused:** The spectacular generosity of Exodus 35 is used as a model to pressure church giving — the Tabernacle offering is described as the goal, but the congregational pressure used to reach it contradicts the freewill nature of the offering itself. The result is people are made to feel obligated to replicate the outcome without understanding that the outcome was produced only by Spirit-stirred willing hearts.
+
+**What the text actually says:**
+- **Exodus 35:21** — "every one whose heart stirred him up, and every one whom his spirit made willing" — the motivation is entirely internal, Spirit-produced; no mention of guilt, peer pressure, or leadership compelling
+- **Exodus 36:6** — "Moses gave commandment, and they caused it to be proclaimed throughout the camp, saying, Let neither man nor woman make any more work for the offering of the sanctuary. So the people were restrained from bringing" — the problem was too much giving, requiring Moses to stop them
+- **2 Corinthians 9:7** — "Every man according as he purposeth in his heart, so let him give; not grudgingly, or of necessity: for God loveth a cheerful giver"
+- **1 Chronicles 29:9** — David's Temple offering: "Then the people rejoiced, for that they offered willingly, because with perfect heart they offered willingly to the LORD: and David the king also rejoiced with great joy"
+
+*Correction:* The Tabernacle offering is a result of genuine repentance and Spirit-stirring — not of clever fundraising. The same people who six weeks earlier gave gold for the calf under Aaron's social pressure now give from willing, stirred hearts. The difference is the heart, not the technique. 2 Corinthians 9:7 establishes that this willing-heart principle is the New Covenant standard. The Exodus 35 model does not justify compelled giving campaigns; it shows what happens when God's Spirit moves in a repentant community.
 
 ---
 
 ## SYMBOLIC THREADS
 
-*No distinct symbolic threads requiring cross-reference definition in this chapter. See cross-references above for scripture-interpreting-scripture connections.*
+**The Willing Heart / Spirit-Stirred Giving:**
+- First appears: Exodus 25:2 — "of every man that giveth it willingly with his heart ye shall take my offering"
+- Exodus 35:21 — "every one whose heart stirred him up, and every one whom his spirit made willing"
+- Exodus 35:29 — "The children of Israel brought a willing offering unto the LORD, every man and woman, whose heart made them willing"
+- 1 Chronicles 29:5, 9 — David's Temple offering: "who then is willing to consecrate his service this day unto the LORD?... they offered willingly, because with perfect heart they offered willingly to the LORD"
+- 2 Corinthians 9:7 — "Every man according as he purposeth in his heart, so let him give; not grudgingly, or of necessity: for God loveth a cheerful giver"
+- *Pattern:* Willing-heart giving is the Bible's consistent standard for offerings that build God's dwelling. The word nadav (willing, voluntary, generous) appears at the Tabernacle (Exodus 25:2; 35:21, 29), at David's Temple preparation (1 Chronicles 29:5, 9), and at the post-exilic return (Ezra 1:6; 2:68). God's house is always built by willing hearts — never by compulsion or guilt. 2 Corinthians 9:7 carries the principle forward unchanged into the New Covenant. The pattern: when God's Spirit moves, people give more than is needed (Exodus 36:5-7); when Spirit-stirring is absent, pressure alone produces resentment, not sanctuary.
+
+---
+
+**Fine Linen (Shesh / Byssus):**
+- First appears in the Tabernacle: Exodus 25:4 — "fine linen" listed among the materials
+- Exodus 35:25 — "all the women that were wise hearted did spin with their hands, and brought that which they had spun, both of blue, and of purple, and of scarlet, and of fine linen"
+- Exodus 36:8 — "ten curtains of fine twined linen" — the innermost layer of the Tabernacle, directly visible inside the Holy Place
+- Revelation 19:8 — "And to her was granted that she should be arrayed in fine linen, clean and white: for the fine linen is the righteousness of saints"
+- Revelation 19:14 — "And the armies which were in heaven followed him upon white horses, clothed in fine linen, white and clean"
+- *Pattern:* Fine linen in the Tabernacle is the innermost covering — what the priests see when they are inside, doing God's work. It is the most intimate layer, closest to the holy furniture. Revelation 19:8 is the Spirit's definition: "the fine linen IS the righteousness of saints." The Tabernacle's inner linen was the covering of God's dwelling; the church's fine linen (Revelation 19:8) is the righteousness of Christ covering the bride. What covered the interior of the earthly Tabernacle is the garment of the heavenly bride at the marriage supper of the Lamb.
+
+---
+
+**Goats' Hair:**
+- First appears: Exodus 25:4 — among the Tabernacle materials
+- Exodus 35:26 — "all the women whose heart stirred them up in wisdom spun goats' hair" — spun at home; the everyday material covering the sanctuary
+- Exodus 36:14 — "he made curtains of goats' hair for the tent over the tabernacle: eleven curtains" — the second layer of covering, directly over the inner fine linen curtains
+- Leviticus 16:5, 15, 22 — the goat of the sin offering on the Day of Atonement; one goat slaughtered, one sent into the wilderness bearing Israel's sins
+- John 10:11 — "I am the good shepherd: the good shepherd giveth his life for the sheep" — the same animals
+- *Pattern:* The goats' hair forms the outer covering of the sanctuary's inner tent — a covering of the sin-bearing animal over the dwelling place of God's glory. The goat is the sin offering animal par excellence (Leviticus 16). The sanctuary covered with goats' hair is covered with the symbol of sin-bearing. Hebrews 9:12 confirms the antitype: "Neither by the blood of goats and calves, but by his own blood he entered in once into the holy place, having obtained eternal redemption." The goats' hair covering over God's house is the sacrificial covering that makes God's presence among sinful people possible.

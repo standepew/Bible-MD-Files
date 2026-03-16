@@ -125,10 +125,46 @@ Bezaleel, Aholiab, and all the wise-hearted begin the work of the sanctuary acco
 
 ## COMMONLY MISQUOTED PASSAGES
 
-*No passages in this chapter are commonly misquoted or frequently taken out of context in a way that distorts the chapter's meaning.*
+### Exodus 36:6-7 — "The People Were Restrained from Bringing" — Used to Excuse Insufficiency
+
+**Verses 6-7** — "Moses gave commandment, and they caused it to be proclaimed throughout the camp, saying, Let neither man nor woman make any more work for the offering of the sanctuary. So the people were restrained from bringing. For the stuff they had was sufficient for all the work to make it, and too much."
+
+**How it is misused:** This unique moment in Scripture — where Moses must restrain the people from giving — is sometimes minimized or ignored, while the far more common problem of insufficient giving is treated as the normal and expected default. The reverse is also sometimes encountered: this verse is cited as evidence that churches should never ask for additional funding once a baseline is met, even when genuine need exists.
+
+**What the text actually says:**
+- **Exodus 35:21** — The giving was "every one whose heart stirred him up, and every one whom his spirit made willing" — the surplus was the product of Spirit-stirred willing hearts after genuine repentance, not a permanent or repeatable organizational outcome
+- **2 Corinthians 8:1-4** — The Macedonian churches "in a great trial of affliction the abundance of their joy and their deep poverty abounded unto the riches of their liberality... praying us with much intreaty that we would receive the gift" — New Testament surplus giving also comes from Spirit-stirred joy, not from wealth
+- **Malachi 3:10** — "Bring ye all the tithes into the storehouse... and prove me now herewith, saith the LORD of hosts, if I will not open you the windows of heaven, and pour you out a blessing, that there shall not be room enough to receive it" — the "too much to contain" blessing is God's stated purpose, not an anomaly
+- **Proverbs 11:24** — "There is that scattereth, and yet increaseth; and there is that withholdeth more than is meet, but it tendeth to poverty"
+
+*Correction:* Exodus 36:6-7 is not presented as a fluke or an embarrassment — it is the Spirit's record of what Spirit-stirred, repentance-produced generosity looks like. The Macedonian churches in 2 Corinthians 8 reproduce the same pattern: abundance flowing from joy, not from wealth. Malachi 3:10 promises it as a covenantal possibility. The lesson of Exodus 36 is not "restrain giving after a goal is met" — it is "this is what genuine revival generosity looks like, and it will exceed the need."
 
 ---
 
 ## SYMBOLIC THREADS
 
-*No distinct symbolic threads requiring cross-reference definition in this chapter. See cross-references above for scripture-interpreting-scripture connections.*
+**The Fifty Gold Clasps — Unity from Many:**
+- First appears: Exodus 36:13 — "And he made fifty taches of gold, and coupled the curtains one unto another with the taches: so it became one tabernacle"
+- Exodus 36:18 — "And he made fifty taches of brass to couple the tent together, that it might be one"
+- John 17:21-23 — "That they all may be one; as thou, Father, art in me, and I in thee, that they also may be one in us... that they may be made perfect in one"
+- Ephesians 4:3-4 — "Endeavouring to keep the unity of the Spirit in the bond of peace. There is one body, and one Spirit"
+- *Pattern:* The gold clasps couple ten separate curtains into one tabernacle; the bronze clasps couple eleven goat-hair curtains into one tent. Separate pieces become one unified covering through the fastening at the joining. The number fifty is the Jubilee/Pentecost number — the number of the Spirit's fullness. John 17:21 is Christ's prayer for the same unity: many who become one. Ephesians 4:3 identifies the "bond" as the Spirit. The gold clasps joining the inner curtains into one tabernacle are the type of the Spirit joining many believers into one body.
+
+---
+
+**The Silver Sockets (Foundations of Redemption):**
+- First appears in construction: Exodus 36:24 — "And forty sockets of silver he made under the twenty boards; two sockets under one board for his two tenons"
+- Exodus 38:25-27 — The silver came from the half-shekel ransom money of 603,550 men; a talent per socket; 100 sockets total
+- 1 Corinthians 3:11 — "For other foundation can no man lay than that is laid, which is Jesus Christ"
+- 1 Peter 1:18-19 — "ye were not redeemed with corruptible things, as silver and gold... But with the precious blood of Christ"
+- *Pattern:* Every board of the Tabernacle rests in two silver sockets. The silver comes from one source: the ransom payment of every man's life (Exodus 30:12-16). The Tabernacle literally rests on ransom money — its foundation is atonement silver. 1 Corinthians 3:11 names the New Covenant foundation: Jesus Christ. 1 Peter 1:18-19 shows that the silver sockets' ransom principle points forward — the true foundation is not silver but the blood of Christ. What holds the boards of God's dwelling upright is redemption, not human achievement.
+
+---
+
+**The Veil with Cherubim:**
+- First appears: Exodus 26:31 — "And thou shalt make a vail of blue, and purple, and scarlet, and fine twined linen of cunning work: with cherubims shall it be made"
+- Exodus 36:35 — "And he made a vail of blue, and purple, and scarlet, and fine twined linen: with cherubims made he it of cunning work"
+- Leviticus 16:2 — "And the LORD said unto Moses, Speak unto Aaron thy brother, that he come not at all times into the holy place within the vail before the mercy seat, which is upon the ark; that he die not"
+- Matthew 27:51 — "And, behold, the veil of the temple was rent in twain from the top to the bottom; and the earth did quake"
+- Hebrews 10:19-20 — "Having therefore, brethren, boldness to enter into the holiest by the blood of Jesus, By a new and living way, which he hath consecrated for us, through the veil, that is to say, his flesh"
+- *Pattern:* The veil embroidered with cherubim is the barrier between the Holy Place and the Most Holy Place — between the place of daily priestly service and the place of God's direct presence. The cherubim on the veil remind the entering priest that only on the Day of Atonement may he pass (the cherubim at Eden's gate — Genesis 3:24 — guarded the way back to God's presence). Matthew 27:51 is the climax: the veil tears from top to bottom at Christ's death — torn by God from above, not cut by man from below. Hebrews 10:19-20 is the interpretation: the way into the holiest is now open through Christ's flesh, which was the veil — His body torn so the way could be permanently opened.

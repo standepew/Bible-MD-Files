@@ -197,10 +197,60 @@ The rock struck in Exodus 17 (Meribah/Massah — struck once, water flowed) and 
 
 ## COMMONLY MISQUOTED PASSAGES
 
-*No passages in this chapter are commonly misquoted or frequently taken out of context in a way that distorts the chapter's meaning.*
+### Deuteronomy 8:3 — "Man Shall Not Live by Bread Alone" — Misunderstood as Spiritualizing Physical Need
+
+**Verse 3** — "And he humbled thee, and suffered thee to hunger, and fed thee with manna, which thou knewest not, neither did thy fathers know; that he might make thee know that man doth not live by bread only, but by every word that proceedeth out of the mouth of the LORD doth man live."
+
+**How it is misused:** This verse is commonly quoted as a vague spiritual sentiment meaning "there is more to life than material things" — stripped of its specific meaning and its grounding in the manna event. It is also misused in asceticism to argue that physical food and material provision are spiritually inferior concerns. Conversely, some take the verse's quotation by Jesus in Matthew 4:4 to mean Jesus was only asserting His own spiritual discipline, not making a doctrinal statement.
+
+**What the text actually says:**
+- **Deuteronomy 8:2-3** — The context is explicit: God deliberately caused Israel to hunger, then fed them with manna — a food that required complete dependence on His daily provision. The purpose: "that he might make thee know" — the hunger was purposeful, the manna was the lesson, and the lesson is that God's spoken word is the actual source of life.
+- **Matthew 4:2-4** — Jesus has fasted forty days and is physically hungry. Satan says turn stones to bread. Jesus quotes Deuteronomy 8:3 — He does not say physical bread is unimportant; He says that the word of God is the superior and sufficient ground of life. He is not spiritualizing physical need; He is identifying its proper subordination to God's word.
+- **John 6:48-51** — "I am that bread of life. Your fathers did eat manna in the wilderness, and are dead. This is the bread which cometh down from heaven, that a man may eat thereof, and not die. I am the living bread which came down from heaven: if any man eat of this bread, he shall live for ever." — Jesus identifies Himself as the fulfillment of the manna that the verse is about. The verse is not about general spiritual priorities; it is pointing to Christ as the bread of life.
+- **Deuteronomy 8:16** — "Who fed thee in the wilderness with manna, which thy fathers knew not, that he might humble thee, and that he might prove thee, to do thee good at thy latter end." — the manna is both the instrument of testing and the provision of grace; it simultaneously humbles (you depend on Me entirely) and sustains (and I provide entirely).
+- **John 4:34** — "Jesus saith unto them, My meat is to do the will of him that sent me, and to finish his work." — Jesus lives by the Father's word in the sense of complete dependence on and alignment with the Father's will, exactly as the verse teaches.
+
+*Correction:* Deuteronomy 8:3 does not diminish the importance of physical food — God provided manna, which is real physical food, to teach the lesson. The verse teaches that physical provision (bread) is itself sustained by God's word — He speaks, and bread comes. It is His word that keeps creation producing food, that sustained Israel in a desert where no natural food existed, and that ultimately sent the living bread (Christ) down from heaven. When Jesus quotes it in Matthew 4:4, He is not being vague; He is declaring that His life is sustained by the Father's word at a level deeper than physical food, and that this is the pattern for all human life in relationship with God.
+
+---
+
+### Deuteronomy 8:18 — "It Is He That Giveth Thee Power to Get Wealth" — Misused to Guarantee Material Prosperity
+
+**Verse 18** — "But thou shalt remember the LORD thy God: for it is he that giveth thee power to get wealth, that he may establish his covenant which he sware unto thy fathers, as it is this day."
+
+**How it is misused:** This verse is a primary proof-text in prosperity theology — used to claim that God has promised to make believers wealthy, that poverty is a sign of lacking faith, and that expecting material wealth is the proper posture of a covenant child of God. The second half of the verse ("that he may establish his covenant") is almost always ignored.
+
+**What the text actually says:**
+- **Deuteronomy 8:17** — "And thou say in thine heart, My power and the might of mine hand hath gotten me this wealth." — the verse is preceded by a warning against the specific sin of attributing prosperity to oneself. The point is not to claim wealth as a covenant right but to avoid pride when wealth comes.
+- **Deuteronomy 8:19-20** — "And it shall be, if thou do at all forget the LORD thy God, and walk after other gods... I testify against you this day that ye shall surely perish. As the nations which the LORD destroyeth before your face, so shall ye perish." — two verses after the wealth verse is a warning that forgetting God in prosperity leads to perishing. This cannot coexist with a prosperity promise.
+- **1 Corinthians 4:7** — "For who maketh thee to differ from another? and what hast thou that thou didst not receive? now if thou didst receive it, why dost thou glory, as if thou hadst not received it?" — the entire capacity to acquire is itself a gift; there is no ground for self-congratulation.
+- **Proverbs 30:8-9** — "Feed me with food convenient for me: Lest I be full, and deny thee, and say, Who is the LORD? or lest I be poor, and steal, and take the name of my God in vain." — a godly man's prayer asks for neither too much nor too little, recognizing that both extremes carry spiritual danger.
+- **Philippians 4:11-12** — "I have learned, in whatsoever state I am, therewith to be content. I know both how to be abased, and I know how to abound: every where and in all things I am instructed both to be full and to be hungry, both to abound and to suffer need." — Paul's testimony encompasses both poverty and abundance as contexts for contentment, not as indicators of covenant standing.
+
+*Correction:* Deuteronomy 8:18 is a statement about the source of the capacity to create wealth (God, not self) and the purpose of that capacity (to establish His covenant). It is an anti-pride verse, not a prosperity promise. The wealth in view is in the specific covenant context of Israel settling Canaan — a land whose abundance God had prepared. The verse's purpose is to redirect Israel's heart away from self-sufficiency back to grateful dependence. Detached from the warning of verse 17 and the judgment threat of verses 19-20, it is radically distorted.
 
 ---
 
 ## SYMBOLIC THREADS
 
-*No distinct symbolic threads requiring cross-reference definition in this chapter. See cross-references above for scripture-interpreting-scripture connections.*
+**Manna — The Bread from Heaven:**
+- First appears: **Exodus 16:4** — "Then said the LORD unto Moses, Behold, I will rain bread from heaven for you; and the people shall go out and gather a certain rate every day, that I may prove them, whether they will walk in my law, or no."
+- **Deuteronomy 8:3** — "he humbled thee, and suffered thee to hunger, and fed thee with manna, which thou knewest not, neither did thy fathers know." — the manna's defining character: unknown, supernatural, a divine provision for a situation where human resources are insufficient.
+- **Deuteronomy 8:16** — "Who fed thee in the wilderness with manna, which thy fathers knew not, that he might humble thee, and that he might prove thee." — the manna is simultaneously a grace and a test: receiving it daily requires daily trust.
+- **Exodus 16:14-15** — "And when the dew that lay was gone up, behold, upon the face of the wilderness there lay a small round thing... And when the children of Israel saw it, they said one to another, It is manna: for they wist not what it was." — the manna's literal character: small, round, on the ground each morning, gathered by hand.
+- **Exodus 16:20** — "Notwithstanding they hearkened not unto Moses; but some of them left of it until the morning, and it bred worms, and stank." — manna kept overnight (except before the Sabbath) rotted; it could not be hoarded, only trusted for daily from the LORD.
+- **John 6:31-35, 48-51** — Jesus interprets the manna as a type of Himself: "I am that bread of life... This is the bread which cometh down from heaven... if any man eat of this bread, he shall live for ever." — the true manna is Christ; the wilderness manna sustained physical life temporarily; Christ sustains eternal life.
+- **Revelation 2:17** — "To him that overcometh will I give to eat of the hidden manna." — the manna reappears in the new Jerusalem as the overcomer's reward; Christ Himself is the eternal bread.
+- *Pattern:* Manna is Scripture's symbol of supernatural, daily, grace-based provision that cannot be hoarded, stored, or earned — it must be received fresh from God each day. Its purpose in Deuteronomy 8 is to teach total dependence on God's word. John 6 definitively interprets it: Christ is the true manna, come down from heaven, providing eternal sustenance. The daily dependence the manna taught Israel is the same daily dependence on Christ that characterizes genuine faith.
+
+---
+
+**The Water from the Rock — Christ as the Spiritual Rock:**
+- First appears: **Exodus 17:6** — "Behold, I will stand before thee there upon the rock in Horeb; and thou shalt smite the rock, and there shall come water out of it, that the people may drink." — the rock struck once, water flows.
+- **Deuteronomy 8:15** — "who brought thee forth water out of the rock of flint." — Moses rehearses this miracle as part of God's wilderness provision.
+- **Numbers 20:8-11** — At Meribah (second occasion): God commands Moses to speak to the rock; Moses strikes it twice. Water comes, but Moses' act dishonored God's specific word. "Because ye believed me not, to sanctify me in the eyes of the children of Israel, therefore ye shall not bring this congregation into the land."
+- **Psalm 78:15-16** — "He clave the rocks in the wilderness, and gave them drink as out of the great depths. He brought streams also out of the rock, and caused waters to run down like rivers." — the rock-water provision is celebrated as one of God's great wilderness acts.
+- **1 Corinthians 10:4** — "And did all drink the same spiritual drink: for they drank of that spiritual Rock that followed them: and that Rock was Christ." — Paul gives the definitive biblical interpretation: the rock in the wilderness was Christ. The water that came from it is the spiritual drink He provides.
+- **John 7:37-38** — "If any man thirst, let him come unto me, and drink. He that believeth on me, as the scripture hath said, out of his belly shall flow rivers of living water." — Jesus claims to be the source of the living water that the rock typified.
+- **John 19:34** — "But one of the soldiers with a spear pierced his side, and forthwith came there out blood and water." — Christ is struck (as the rock was struck at Horeb), and living water flows. He cannot be struck again (Hebrews 9:28 — "offered once").
+- *Pattern:* The rock struck once yielding water is one of Scripture's clearest types of Christ. 1 Corinthians 10:4 makes the interpretation explicit: the spiritual Rock that followed Israel was Christ Himself — the pre-incarnate Word, present in the wilderness. Moses' error at Meribah (striking twice) was serious precisely because the type was exact: the Rock is struck once; striking it again implies the atonement is insufficient or repeatable. Christ was offered once; His side was pierced once; living water and blood flowed once. He who is smitten once is the eternal source of the living water that quenches spiritual thirst forever.

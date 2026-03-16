@@ -185,10 +185,54 @@ Six weeks after the Exodus, the whole congregation murmurs against Moses and Aar
 
 ## COMMONLY MISQUOTED PASSAGES
 
-*No passages in this chapter are commonly misquoted or frequently taken out of context in a way that distorts the chapter's meaning.*
+### Exodus 16:3 — "Would We Had Died in Egypt" Used to Romanticize Bondage
+
+**Verse 3** — "And the children of Israel said unto them, Would to God we had died by the hand of the LORD in the land of Egypt, when we sat by the flesh pots, and when we did eat bread to the full; for ye have brought us forth into this wilderness, to kill this whole assembly with hunger."
+
+**How it is misused:** Israel's words here are sometimes used to argue that the bondage in Egypt was preferable to the uncertainty of freedom — and the verse is employed to suggest that returning to a previous bondage (a relationship, a lifestyle, an addictive pattern) is a rational response to the hardships of change. The "flesh pots of Egypt" become a symbol of comfort that justified retreat.
+
+**What the text actually says:** The complaint is immediately shown to be based on a false view of both Egypt and God's provision:
+- **Verse 4** — "Then said the LORD unto Moses, Behold, I will rain bread from heaven for you" — God does not validate their complaint; He responds with provision that answers the stated lack (hunger) and simultaneously proves their assessment of the situation was wrong
+- **Verse 8** — "your murmurings are not against us, but against the LORD" — Moses identifies the complaint as not merely dissatisfaction with the wilderness, but as a charge against God's character and capacity
+- **Psalm 78:18-19** — "And they tempted God in their heart by asking meat for their lust. Yea, they spake against God; they said, Can God furnish a table in the wilderness?" — the Psalmist characterizes their complaint as speaking against God; the "flesh pots" memory was the grounds of their accusation that God could not provide
+- **Numbers 11:5** — The same complaint develops further: they remember "the fish, which we did eat in Egypt freely; the cucumbers, and the melons, and the leeks, and the onions, and the garlick" — selective memory of slavery, forgetting the whips, the drowning of children, the crushed spirits (Exodus 6:9)
+
+*Correction:* The "flesh pots of Egypt" were the table of slaves whose sons were drowned in the Nile. Israel's memory was selective and distorted by present hunger. The text does not validate the longing for Egypt — it presents it as a form of speaking against God and immediately responds with provision that disproves the complaint. The pattern: difficulty in the wilderness causes God's people to romanticize the bondage they were delivered from, forgetting its actual cost.
+
+---
+
+### Exodus 16:29 — "Abide Ye Every Man in His Place" Used to Prohibit Any Sabbath Activity
+
+**Verse 29** — "See, for that the LORD hath given you the sabbath, therefore he giveth you on the sixth day the bread of two days; abide ye every man in his place, let no man go out of his place on the seventh day."
+
+**How it is misused:** This verse is extracted to argue that any movement, activity, or work on the Sabbath — including acts of mercy, emergency response, or travel to worship — is a violation of the Sabbath command. The phrase "abide in his place" is treated as an absolute confinement.
+
+**What the text actually says:** The specific context is the gathering of manna — the command is about going out to gather food in the field on the Sabbath:
+- **Verse 27** — "And it came to pass, that there went out some of the people on the seventh day for to gather" — the violation being corrected is specifically going out to gather manna; the command "abide in his place" is the answer to this specific act
+- **Verse 26** — "Six days ye shall gather it; but on the seventh day, which is the sabbath, in it there shall be none" — the reason to abide is that there is no manna to gather; the command is not a general prohibition on all movement
+- **Matthew 12:1-8** — The Pharisees charge the disciples with Sabbath violation for plucking grain; Jesus responds: "The Son of man is Lord even of the sabbath" and "The sabbath was made for man, and not man for the sabbath" (Mark 2:27-28) — the Pharisaical hyper-restriction was not the intent of the Sabbath
+- **Matthew 12:11-12** — Jesus: "What man shall there be among you, that shall have one sheep, and if it fall into a pit on the sabbath day, will he not lay hold on it, and lift it out? How much then is a man better than a sheep? Wherefore it is lawful to do well on the sabbath days" — acts of mercy are lawful on the Sabbath
+
+*Correction:* The "abide in his place" command in Exodus 16:29 addresses the specific action of going out to gather manna — a labor-for-food activity that the double provision on the sixth day made unnecessary. Jesus' own teaching is the inspired correction of over-application: the Sabbath was made for man's benefit; acts of mercy and necessity are lawful; the Son of Man is Lord of the Sabbath. The principle is rest from ordinary labor, not absolute physical confinement.
 
 ---
 
 ## SYMBOLIC THREADS
 
-*No distinct symbolic threads requiring cross-reference definition in this chapter. See cross-references above for scripture-interpreting-scripture connections.*
+**Manna — Bread from Heaven:**
+- First appears: Exodus 16:14-15 — "upon the face of the wilderness there lay a small round thing, as small as the hoar frost on the ground... It is manna: for they wist not what it was"
+- Exodus 16:31 — "like coriander seed, white; and the taste of it was like wafers made with honey" — white (purity), sweet (delight), small (humble), given with the dew (Spirit)
+- Exodus 16:35 — "the children of Israel did eat manna forty years, until they came to a land inhabited" — sustains through the entire wilderness; never fails, never runs out
+- Deuteronomy 8:3 — "man doth not live by bread only, but by every word that proceedeth out of the mouth of God" — Moses interprets the manna spiritually: it teaches dependence on God's word, not on natural provision
+- Psalm 78:24-25 — "rained down manna upon them... Man did eat angels' food" — the manna is the food of the heavenly realm given to earthly people
+- John 6:32-35 — Jesus: "Moses gave you not that bread from heaven; but my Father giveth you the true bread from heaven... I am the bread of life: he that cometh to me shall never hunger" — Jesus identifies Himself as the true Manna; the Exodus manna was the type
+- Revelation 2:17 — "To him that overcometh will I give to eat of the hidden manna" — the pot of manna kept "before the Testimony" (Exodus 16:33-34) is the hidden manna given to overcomers; Christ is the hidden, preserved Bread
+- *Pattern:* Manna comes from heaven, is given freely, received daily, cannot be stored (except on the Sabbath), is pure and sweet, and sustains life through the entire wilderness. Those who ate it in the Exodus still died (John 6:49). Christ is the true Manna: received by faith daily, sustaining eternal life, given from heaven, and inexhaustible. The hidden manna of Revelation 2:17 is Christ Himself given in the fullness of the coming age to those who overcame.
+
+**The Sabbath Rest:**
+- First established at creation: Genesis 2:2-3 — "God rested on the seventh day from all his work which he had made. And God blessed the seventh day, and sanctified it" — the Sabbath is built into creation before any Law
+- Exodus 16:23-30 — the Sabbath practiced through the manna before Sinai; God uses manna to teach it before commanding it
+- Exodus 20:8-11 — "Remember the sabbath day" — the command uses "remember," not "observe for the first time," pointing back to creation
+- Hebrews 4:9-10 — "There remaineth therefore a rest (sabbatismos) to the people of God. For he that is entered into his rest, he also hath ceased from his own works, as God did from his" — the Sabbath's ultimate meaning is the rest of faith in Christ's finished work
+- Revelation 14:13 — "Blessed are the dead which die in the Lord from henceforth: Yea, saith the Spirit, that they may rest from their labours; and their works do follow them" — the eternal Sabbath of those who die in Christ
+- *Pattern:* The Sabbath in Scripture moves from creation rest (Genesis 2) through wilderness practice (Exodus 16) through Sinai command (Exodus 20) to the rest of faith (Hebrews 4) to the eternal rest (Revelation 14). Each stage is a deeper unfolding of the same truth: God finishes His work; those who belong to Him enter His rest and cease from their own works. The weekly Sabbath was always pointing toward the Person in whom all labor finds its completion.

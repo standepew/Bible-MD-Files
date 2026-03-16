@@ -177,7 +177,39 @@ Israel encamps at Rephidim — no water. The people quarrel (chide) with Moses: 
 
 ## COMMONLY MISQUOTED PASSAGES
 
-*No passages in this chapter are commonly misquoted or frequently taken out of context in a way that distorts the chapter's meaning.*
+### Exodus 17:6 — "The Rock Was Smitten" Used to Argue Christ Can Be Repeatedly Crucified
+
+**Verse 6** — "Behold, I will stand before thee there upon the rock in Horeb; and thou shalt smite the rock, and there shall come water out of it, that the people may drink."
+
+**How it is misused:** Some approaches to the Lord's Supper, prayers for the dead, or certain penitential systems imply that Christ's sacrifice can be repeated or re-presented, and the repeated smiting of the rock is occasionally offered as a type of this. This confuses the type-antitype relationship.
+
+**What the text actually says:** The typological pattern embedded in the two rock incidents (Exodus 17 and Numbers 20) explicitly guards against the idea of a repeated sacrifice:
+- **Exodus 17:6** — the rock is struck once; water flows; the people drink — the single smiting is sufficient
+- **Numbers 20:8** — at Kadesh, God tells Moses: "speak ye unto the rock before their eyes; and it shall give forth his water" — the second time, God specifically commands speaking to the rock, not striking it; the rock is not to be struck again
+- **Numbers 20:11** — Moses strikes the rock twice anyway; this is identified as Moses' sin and costs him entry to Canaan
+- **Hebrews 9:28** — "So Christ was once offered to bear the sins of many" — once; the Greek word hapax (once for all) is the New Testament's interpretive key
+- **Hebrews 10:10** — "By the which will we are sanctified through the offering of the body of Jesus Christ once for all"
+- **1 Corinthians 10:4** — "that spiritual Rock that followed them: and that Rock was Christ" — Paul's inspired identification of the rock as Christ makes the typological lesson clear: Christ struck once (crucified once); thereafter proclaimed and spoken to, not re-struck
+
+*Correction:* The two-rock narrative of Exodus 17 and Numbers 20 is not incidental — it encodes the most important theological truth about the atonement: Christ was crucified once. Moses' sin of striking the rock the second time violated the type, and God treated it with great seriousness. Hebrews 9:28 and 10:10 are the Spirit's interpretation: the rock is struck once; water flows for all time; thereafter the gospel is the proclamation of the once-crucified Lord, not a repeated offering.
+
+---
+
+### Exodus 17:11 — "When Moses Held Up His Hand, Israel Prevailed" Used to Teach Prayer as Spiritual Leverage
+
+**Verse 11** — "And it came to pass, when Moses held up his hand, that Israel prevailed: and when he let down his hand, Amalek prevailed."
+
+**How it is misused:** This verse is sometimes used to argue that the effectiveness of prayer is purely mechanical — that as long as hands are raised in prayer, God is obligated to act, and that the quantity or posture of prayer determines God's response. It leads to the idea that prayer is a technique of spiritual leverage rather than communion with a sovereign Person.
+
+**What the text actually says:** The passage does not present the upraised hands as a mechanical spiritual formula — it presents them as a God-given means of intercessory connection whose effect is entirely dependent on the One to whom Moses prays:
+- **Verse 9** — "Moses said unto Joshua, Choose us out men, and go out, fight with Amalek: to morrow I will stand on the top of the hill with the rod of God in mine hand" — Moses holds the rod of God; the connection to God's authority is what matters; the rod is not a magic instrument but the sign of divine commission
+- **Verse 12** — "But Moses' hands were heavy; and they took a stone, and put it under him, and he sat thereon; and Aaron and Hur stayed up his hands" — the community support is required; this is not a solo technique but communal intercession
+- **Hebrews 7:25** — "He ever liveth to make intercession for them" — the ultimate fulfillment is Christ's intercession, which is unceasing and unfailing; Christ's hands do not grow heavy; He does not need an Aaron and Hur; the type reveals the limitation of the human intercessor and points to the perfect Intercessor
+- **Romans 8:26** — "The Spirit also helpeth our infirmities: for we know not what we should pray for as we ought: but the Spirit itself maketh intercession for us" — the Spirit's intercession is the New Testament equivalent of Aaron and Hur supporting Moses' hands
+
+*Correction:* Exodus 17:11 teaches the necessity and power of intercessory prayer — but not as a mechanical formula. The hands raised toward God represent the intercessor's complete dependence on and alignment with God's purpose. The community bears the intercession together because no single person can sustain it alone. The type is fulfilled in Christ's perpetual intercession (Hebrews 7:25), which never fails because His hands never grow heavy. Human intercession participates in what Christ is always already doing at God's right hand.
+
+---
 
 ---
 
