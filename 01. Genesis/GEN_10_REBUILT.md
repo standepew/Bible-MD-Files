@@ -1,3 +1,42 @@
+---
+chronology:
+  chapter_type: table_of_nations
+  period: post_flood_dispersion
+  calendar: anno_mundi
+  note: "Genesis 10 does not give exact birth/death ages. It maps the 70 nations from Noah's three sons. Chronological anchor: Peleg ('earth divided') born ~AM 1757."
+  flood_anchor_am: 1656
+  nations_count: 70
+  lineages:
+    - son: Japheth
+      nations: 14
+      descendants: [Gomer, Magog, Madai, Javan, Tubal, Meshech, Tiras, Ashkenaz, Riphath, Togarmah, Elishah, Tarshish, Kittim, Dodanim]
+      region: "Indo-European coastlands and northern peoples (Gentile nations)"
+      prophetic_note: "Magog, Meshech, Tubal → Ezekiel 38–39 end-time coalition (Gog of Magog)"
+    - son: Ham
+      nations: 30
+      key_descendants: [Cush, Mizraim, Phut, Canaan, Nimrod]
+      region: "Africa, Canaan, Mesopotamia"
+      prophetic_note: "Nimrod = first post-flood kingdom-builder; Babel system archetype. Canaan = land promised to Abraham."
+      nimrod:
+        born_from: Cush
+        title: "gibbor — mighty hunter before (liphnei) the LORD"
+        kingdom_cities: [Babel, Erech, Accad, Calneh, Nineveh, Rehoboth, Calah, Resen]
+        note: "Nimrod is the type of the Antichrist — the first man-made empire-builder post-flood, headquartered at Babel"
+    - son: Shem
+      nations: 26
+      key_descendants: [Elam, Asshur, Arphaxad, Lud, Aram, Eber, Peleg, Joktan]
+      region: "Middle East — Semitic peoples"
+      note: "Shem is 'father of all children of Eber' (Hebrews). The messianic line runs through Shem → Arphaxad → Salah → Eber → Peleg → … → Abraham."
+  anchor_events:
+    - event: "Birth of Peleg ('earth divided' — likely refers to the division at Babel)"
+      anno_mundi: 1757
+      source_verse: "Gen 10:25"
+    - event: "Tower of Babel / Language Confusion / Nation Scattering"
+      anno_mundi: ~1757
+      note: "Genesis 10 lists the nations after the division; Genesis 11:1-9 records how the division happened."
+      source_verse: "Gen 10:25; Gen 11:1-9"
+---
+
 # Genesis 10
 
 ---

@@ -1,3 +1,106 @@
+---
+chronology:
+  chapter_type: genealogy
+  period: post_flood_to_abram
+  calendar: anno_mundi
+  note: "Ages from Masoretic Text / KJV. Post-Flood line: Shem → Arphaxad → … → Abram. LXX adds Cainan between Arphaxad and Salah (Luke 3:36), which is absent from MT/KJV."
+  flood_anchor_am: 1656
+  patriarchs:
+    - name: Shem
+      note: "100 years old, 2 years after the Flood → Arphaxad born AM 1658"
+      age_at_named_son: 100
+      named_son: Arphaxad
+      years_after: 500
+      total_years: 600
+      source_verse: "Gen 11:10-11"
+    - name: Arphaxad
+      born_am: 1658
+      age_at_named_son: 35
+      named_son: Salah
+      years_after: 403
+      total_years: 438
+      source_verse: "Gen 11:12-13"
+    - name: Salah
+      born_am: 1693
+      age_at_named_son: 30
+      named_son: Eber
+      years_after: 403
+      total_years: 433
+      source_verse: "Gen 11:14-15"
+    - name: Eber
+      born_am: 1723
+      age_at_named_son: 34
+      named_son: Peleg
+      years_after: 430
+      total_years: 464
+      note: "Father of the Hebrews (ivri). Eber outlived 5 generations after him — including Peleg through Terah."
+      source_verse: "Gen 11:16-17"
+    - name: Peleg
+      born_am: 1757
+      age_at_named_son: 30
+      named_son: Reu
+      years_after: 209
+      total_years: 239
+      note: "Name means 'division' — in his days the earth was divided (Babel, Gen 11:8-9)"
+      source_verse: "Gen 11:18-19"
+    - name: Reu
+      born_am: 1787
+      age_at_named_son: 32
+      named_son: Serug
+      years_after: 207
+      total_years: 239
+      source_verse: "Gen 11:20-21"
+    - name: Serug
+      born_am: 1819
+      age_at_named_son: 30
+      named_son: Nahor
+      years_after: 200
+      total_years: 230
+      source_verse: "Gen 11:22-23"
+    - name: Nahor
+      born_am: 1849
+      age_at_named_son: 29
+      named_son: Terah
+      years_after: 119
+      total_years: 148
+      source_verse: "Gen 11:24-25"
+    - name: Terah
+      born_am: 1878
+      age_at_named_son: 70
+      named_son: Abram
+      total_years: 205
+      died_am: 2083
+      note: "Died in Haran — the incomplete journey. Called from Ur of the Chaldees (moon-worship center)."
+      source_verse: "Gen 11:26-32"
+    - name: Abram
+      born_am: 1948
+      note: "AM 1948 mirrors Israel's 1948 AD rebirth as a nation — both are covenant-initiation events. Called out of paganism to covenant promise."
+      source_verse: "Gen 11:26"
+  anchor_events:
+    - event: "The Great Flood begins"
+      anno_mundi: 1656
+      source_verse: "Gen 7:6"
+    - event: "Birth of Arphaxad (2 years post-flood)"
+      anno_mundi: 1658
+      duration_to_next: 35
+      source_verse: "Gen 11:10"
+    - event: "Tower of Babel / Language Confusion (Peleg's era)"
+      anno_mundi: ~1757
+      source_verse: "Gen 10:25; Gen 11:1-9"
+    - event: "Birth of Abram"
+      anno_mundi: 1948
+      duration_to_next: 75
+      note: "75 years later, God calls Abram in Genesis 12 (AM 2023)"
+      source_verse: "Gen 11:26"
+    - event: "Death of Terah in Haran"
+      anno_mundi: 2083
+      source_verse: "Gen 11:32"
+  declining_lifespans:
+    note: "Post-flood patriarchs show a rapid decline: Shem 600 → Arphaxad 438 → Eber 464 → Peleg 239 → Nahor 148. Death's dominion expanding."
+    pre_flood_avg_years: 912
+    post_flood_avg_years: 317
+---
+
 # Genesis 11
 
 ---
