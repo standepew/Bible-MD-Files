@@ -180,7 +180,38 @@ Moses and Israel sing the Song of Moses — the first great hymn of Scripture �
 
 ## COMMONLY MISQUOTED PASSAGES
 
-*No passages in this chapter are commonly misquoted or frequently taken out of context in a way that distorts the chapter's meaning.*
+### Exodus 15:3 — "The LORD Is a Man of War" Used to Claim God Endorses All Human Warfare
+
+**Verse 3** — "The LORD is a man of war: the LORD is his name."
+
+**How it is misused:** This verse is cited to argue that because God is described as a man of war, any war undertaken by those who invoke His name is divinely sanctioned. It is used to justify military ventures by claiming that God's warrior nature approves of human violence broadly.
+
+**What the text actually says:** The verse is a declaration of who God is — not a blank endorsement of all human conflict. The specific context defines what God's warfare means:
+- **Verse 1** — "I will sing unto the LORD, for he hath triumphed gloriously: the horse and his rider hath he thrown into the sea" — God's warfare here is His own action, not delegated violence; "he hath triumphed" — He did this, not Israel; Israel did not fight in this battle
+- **Exodus 14:14** — "The LORD shall fight for you, and ye shall hold your peace" — in the immediate context, Israel is explicitly told not to fight; God's warrior role is distinct from human combat
+- **Isaiah 42:13** — "The LORD shall go forth as a mighty man, he shall stir up jealousy like a man of war: he shall cry, yea, roar; he shall prevail against his enemies" — Isaiah uses this title in the context of God's own redemptive actions
+- **Revelation 19:11** — "And in righteousness he doth judge and make war" — Christ as the Divine Warrior; His warfare is "in righteousness" — a moral qualifier that no human war automatically meets
+
+*Correction:* "The LORD is a man of war" declares God's nature as the One who fights for His covenant people — it describes His character, not a general endorsement of all warfare. In the Exodus 14-15 context, Israel did not fight; God fought. The verse is a declaration of divine action, not a template for human military campaigns. Where God authorizes specific warfare in Scripture, that authorization is explicit and bounded. The title "man of war" belongs to God's own actions; it is not a blank draft that any human conflict can claim.
+
+---
+
+### Exodus 15:26 — "None of These Diseases" Used as an Absolute Promise of Physical Health for All Believers
+
+**Verse 26** — "If thou wilt diligently hearken to the voice of the LORD thy God, and wilt do that which is right in his sight, and wilt give ear to his commandments, and keep all his statutes, I will put none of these diseases upon thee, which I have brought upon the Egyptians: for I am the LORD that healeth thee."
+
+**How it is misused:** This verse is extracted from its context and used to argue that all physical sickness in a believer's life is the result of sin or disobedience, and that complete physical health is an unconditional promise for all who obey God. Conversely, any illness is interpreted as evidence of covenant failure.
+
+**What the text actually says:** The promise is covenantal and conditional, given to the nation of Israel at a specific moment in a specific context:
+- **Verse 25** — "there he made for them a statute and an ordinance, and there he proved them" — the promise is given in the context of testing and the establishment of a statute; it is a covenant framework, not an unconditional guarantee
+- **Verse 26** — "If thou wilt diligently hearken... I will put none of these diseases" — the conditional "if" governs the entire promise; the promise is conditional on the covenant relationship
+- **Job 2:7** — Job was afflicted with grievous boils "without cause" (Job 2:3 — "still he holdeth fast his integrity, although thou movedst me against him, without cause") — Job's suffering is explicitly not the result of sin or disobedience
+- **John 9:3** — A man born blind: "Jesus answered, Neither hath this man sinned, nor his parents: but that the works of God should be made manifest in him" — Jesus explicitly rejects the equation of physical suffering with personal sin
+- **2 Corinthians 12:7-9** — Paul's thorn in the flesh was not removed despite three prayers; God's answer: "my grace is sufficient for thee: for my strength is made perfect in weakness"
+
+*Correction:* Exodus 15:26 is a covenant promise to the nation of Israel under the Mosaic covenant regarding the plagues of Egypt specifically. The New Testament is clear that physical suffering is not always evidence of sin, and that God's covenant with believers under Christ does not guarantee perfect physical health in this age. Job, Paul, and Jesus Himself (John 11:35 — Jesus wept at Lazarus' tomb) demonstrate that suffering is not incompatible with covenant faithfulness. Jehovah Rapha promises healing that encompasses the whole person; it operates according to God's sovereign will and timing, not as a mechanism triggered by sufficient obedience.
+
+---
 
 ---
 
