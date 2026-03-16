@@ -219,7 +219,7 @@ First, day, week, Mary, Magdalene, early, dark, sepulchre, seeth, stone, taken, 
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Empty Tomb as Type of Christ's Resurrection
 - **Physical empty:** Stone taken (John 20:3)

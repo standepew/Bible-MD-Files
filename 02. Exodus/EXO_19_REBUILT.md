@@ -172,6 +172,12 @@ The Exodus 19 theophany is the LAW covenant — its unapproachability is the nat
 
 ---
 
+## COMMONLY MISQUOTED PASSAGES
+
+*No passages in this chapter are commonly misquoted or frequently taken out of context in a way that distorts the chapter's meaning.*
+
+---
+
 ## SYMBOLIC THREADS
 
 ### The Trumpet of God — Eschatological Pattern

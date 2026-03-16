@@ -329,7 +329,7 @@ Certain, man, sick, Lazarus, Bethany, town, Mary, sister, Martha, Mary, anointed
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Death of Lazarus as Type of Christ's Victory
 - **Physical death:** Lazarus sick (John 11:3)

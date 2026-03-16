@@ -387,7 +387,7 @@ Praying, place, ceased, disciple, Lord, teach, pray, John, taught, disciples, pr
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Lord's Prayer as Type of Christ's Intercession
 - **Physical prayer:** Father heaven (Luke 11:4)

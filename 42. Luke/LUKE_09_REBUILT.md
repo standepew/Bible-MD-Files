@@ -411,7 +411,7 @@ Called, twelve, disciples, gave, power, authority, devils, cure, diseases, sent,
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Mission of the Twelve as Type of Christ's Church
 - **Physical mission:** Twelve disciples (Luke 9:3)

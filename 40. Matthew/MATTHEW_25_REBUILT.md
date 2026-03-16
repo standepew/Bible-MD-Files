@@ -331,7 +331,7 @@ Kingdom, heaven, virgins, lamps, bridegroom, wise, foolish, foolish, lamps, oil,
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Christ's Ten Virgins as Type of Christ's Bride
 - **Physical virgins:** Ten virgins (Matthew 25:3)

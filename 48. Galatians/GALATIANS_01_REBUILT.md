@@ -191,7 +191,7 @@ Paul, apostle, men, man, Jesus, Christ, God, Father, raised, dead, brethren, chu
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Paul's Apostleship as Type of Christ's Commission
 - **Physical commission:** Raised dead (Galatians 1:3)

@@ -265,7 +265,7 @@ Fifteenth, year, reign, Tiberius, Cæsar, Pontius, Pilate, governor, Judæa, Her
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Ministry of John the Baptist as Type of Christ's Preparation
 - **Physical ministry:** Word God (Luke 3:4)

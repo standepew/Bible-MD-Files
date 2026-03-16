@@ -157,6 +157,12 @@ God commands Moses: on the first day of the first month of the second year, erec
 
 ---
 
+## COMMONLY MISQUOTED PASSAGES
+
+*No passages in this chapter are commonly misquoted or frequently taken out of context in a way that distorts the chapter's meaning.*
+
+---
+
 ## SYMBOLIC THREADS
 
 ### "Throughout All Their Journeys" — The Last Words of Exodus

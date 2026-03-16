@@ -187,7 +187,7 @@ Beloved, believe, spirit, spirits, whether, God, false, prophets, gone, world, k
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Testing the Spirits as Type of Christ's Discernment
 - **Physical discernment:** Try spirits (1 John 4:2)

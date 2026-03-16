@@ -273,7 +273,7 @@ Jesus, passed, blind, birth, disciples, Master, sin, parents, born, blind, Jesus
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Healing the Man Born Blind as Type of Christ's Salvation
 - **Physical healing:** Blind birth (John 9:5)

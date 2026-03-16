@@ -191,7 +191,7 @@ Therefore, brethren, dearly, beloved, longed, joy, crown, stand, fast, Lord, dea
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Standing Fast in the Lord as Type of Christ's Steadfastness
 - **Physical steadfastness:** Stand fast (Philippians 4:2)

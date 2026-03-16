@@ -273,7 +273,7 @@ Apollos, Corinth, Paul, passed, upper, coasts, Ephesus, finding, disciples, rece
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Paul in Ephesus as Type of Christ's Ministry
 - **Physical ministry:** Holy Ghost (Acts 19:8)

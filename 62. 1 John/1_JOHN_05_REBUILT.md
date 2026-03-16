@@ -189,7 +189,7 @@ Whosoever, believeth, Jesus, Christ, born, God, loveth, begat, loveth, begotten,
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Faith in Christ as Son of God as Type of Christ's Saving Power
 - **Physical saving:** Born God (1 John 5:2)

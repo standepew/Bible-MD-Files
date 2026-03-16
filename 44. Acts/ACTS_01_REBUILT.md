@@ -205,7 +205,7 @@ Former, treatise, Theophilus, Jesus, began, teach, day, taken, Holy, Ghost, comm
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Ascension of Jesus as Type of Christ's Glorification
 - **Physical ascension:** Taken up (Acts 1:11)

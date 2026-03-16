@@ -139,7 +139,7 @@ Paul, Silvanus, Timotheus, church, Thessalonians, God, Father, Lord, Jesus, Chri
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Thanksgiving for the Thessalonians as Type of Christ's Joy
 - **Physical joy:** Thanks God (1 Thessalonians 1:4)

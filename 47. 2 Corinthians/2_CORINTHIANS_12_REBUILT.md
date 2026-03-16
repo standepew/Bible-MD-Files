@@ -197,7 +197,7 @@ Expedient, glory, visions, revelations, Lord, knew, man, Christ, fourteen, years
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Paul's Revelations as Type of Christ's Glory
 - **Physical glory:** Third heaven (2 Corinthians 12:3)

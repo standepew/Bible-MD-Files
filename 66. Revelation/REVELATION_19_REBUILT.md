@@ -199,7 +199,7 @@ Great, voice, people, heaven, Alleluia, Salvation, glory, honour, power, Lord, G
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Hallelujah Chorus as Type of Christ's Final Worship
 - **Physical final worship:** Alleluia salvation (Revelation 19:2)

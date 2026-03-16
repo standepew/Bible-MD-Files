@@ -187,7 +187,7 @@ Promises, dearly, beloved, cleanse, filthiness, flesh, spirit, perfecting, holin
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Perfecting Holiness as Type of Christ's Sanctification
 - **Physical sanctification:** Perfecting holiness (2 Corinthians 7:3)

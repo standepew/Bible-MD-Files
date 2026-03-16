@@ -213,7 +213,7 @@ Continue, sin, grace, abound, God, forbid, dead, sin, live, baptized, Jesus, Chr
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Dead to Sin as Type of Christ's Death
 - **Physical death:** Dead sin (Romans 6:4)

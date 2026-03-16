@@ -207,7 +207,7 @@ Risen, Christ, seek, things, above, Christ, sitteth, right, hand, God, affection
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Seek Things Above as Type of Christ's Ascension
 - **Physical ascension:** Seek things above (Colossians 3:2)

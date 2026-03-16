@@ -233,7 +233,7 @@ Commend, Phebe, sister, servant, church, Cenchrea, receive, Lord, becometh, sain
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Personal Greetings as Type of Christ's Fellowship
 - **Physical fellowship:** Holy kiss (Romans 16:16)

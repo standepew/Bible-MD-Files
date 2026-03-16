@@ -155,7 +155,7 @@ Paul, Silvanus, Timotheus, church, Thessalonians, God, Father, Lord, Jesus, Chri
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Thanksgiving for Growing Faith as Type of Christ's Joy
 - **Physical joy:** Faith groweth (2 Thessalonians 1:4)

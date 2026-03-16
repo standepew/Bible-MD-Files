@@ -2,7 +2,7 @@
 
 ---
 
-## 1. CHAPTER METADATA
+## CHAPTER METADATA
 
 **Book:** Leviticus
 **Chapter:** 24
@@ -13,13 +13,13 @@
 
 ---
 
-## 2. CHAPTER SUMMARY
+## CHAPTER SUMMARY
 
 God commands that pure beaten olive oil be brought for the lampstand, which Aaron must tend from evening to morning before the LORD continually — a perpetual statute. The twelve showbread loaves (two tenth deals of fine flour each) are set on the pure gold table in two rows of six, with pure frankincense upon each row as a memorial offering to the LORD. Every Sabbath the bread is refreshed and eaten by Aaron and his sons in the holy place — it is most holy, a perpetual covenant. Then the narrative: a man of mixed parentage (Israelite mother, Egyptian father) comes out among Israel, strives with an Israelite man, and blasphemes the Name with a curse. He is held in custody until God's mind is declared. God decrees death by stoning — all who heard him lay hands on his head; the whole congregation stones him. God then articulates the governing principles: whoever kills a man shall be put to death; whoever kills a beast shall restore it; if a man causes a blemish in his neighbour, the same shall be done to him — breach for breach, eye for eye, tooth for tooth. One manner of law for stranger and native alike: for I am the LORD your God.
 
 ---
 
-## 3. CROSS-REFERENCES (Scripture Interpreting Scripture)
+## CROSS-REFERENCES (Scripture Interpreting Scripture) (Scripture Interpreting Scripture)
 
 ### The Lampstand — Light Before the LORD Continually
 
@@ -55,7 +55,7 @@ God commands that pure beaten olive oil be brought for the lampstand, which Aaro
 
 ---
 
-## 4. KEYWORD INDEX
+## KEYWORD INDEX
 
 **For Current Events Matching:**
 - **Blasphemy / hate speech against God** → Leviticus 24:11-16 — the Name blasphemed; community accountability for the response
@@ -67,7 +67,7 @@ God commands that pure beaten olive oil be brought for the lampstand, which Aaro
 
 ---
 
-## 5. KEY TERMS WITH CONTEXTUAL DEFINITIONS
+## KEY TERMS WITH CONTEXTUAL DEFINITIONS WITH CONTEXTUAL DEFINITIONS
 
 ### THE NAME (Hebrew: HaShem / Shem YHWH)
 - **Leviticus 24:11, 16** — "blasphemed the name of the LORD, and cursed"
@@ -79,7 +79,7 @@ God commands that pure beaten olive oil be brought for the lampstand, which Aaro
 
 ---
 
-## 6. THE ACTUAL VERSES — LEVITICUS 24 (KJV)
+## THE ACTUAL VERSES (KJV) — LEVITICUS 24 (KJV)
 
 **1** And the LORD spake unto Moses, saying,
 **2** Command the children of Israel, that they bring unto thee pure oil olive beaten for the light, to cause the lamps to burn continually.
@@ -107,7 +107,7 @@ God commands that pure beaten olive oil be brought for the lampstand, which Aaro
 
 ---
 
-## 7. PROPHETIC/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS/TYPOLOGICAL CONNECTIONS
 
 ### The Blasphemer Outside the Camp — A Type Reversed at Calvary
 
@@ -119,7 +119,7 @@ At Calvary the pattern is exactly reversed: the one taken outside the camp to be
 
 ---
 
-## 8. COMMONLY MISQUOTED PASSAGES
+## COMMONLY MISQUOTED PASSAGES PASSAGES
 
 ### Matthew 5:38-39 — "Eye for Eye" Abolished?
 
@@ -134,7 +134,7 @@ At Calvary the pattern is exactly reversed: the one taken outside the camp to be
 
 ---
 
-## 9. SYMBOLIC THREADS
+## SYMBOLIC THREADS
 
 ### The Twelve Loaves — Twelve Tribes Before God Always
 

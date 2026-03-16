@@ -299,7 +299,7 @@ Entered, synagogue, withered, hand, watched, heal, sabbath, accuse, man, withere
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Christ's Healing Power as Type of Christ's Restoration
 - **Physical healing:** Withered hand (Mark 3:3)

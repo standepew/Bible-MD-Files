@@ -353,7 +353,7 @@ Verily, stand, taste, death, kingdom, power, six, days, Jesus, Peter, James, Joh
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Christ's Transfiguration as Type of Christ's Glory
 - **Physical transfiguration:** Transfigured white (Mark 9:4)

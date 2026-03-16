@@ -2,7 +2,7 @@
 
 ---
 
-## 1. CHAPTER METADATA
+## CHAPTER METADATA
 
 **Book:** Numbers
 **Chapter:** 29
@@ -13,13 +13,13 @@
 
 ---
 
-## 2. CHAPTER SUMMARY
+## CHAPTER SUMMARY
 
 The seventh month contains three great sacred times. First day: a holy convocation — the day of blowing trumpets; no servile work; one bull, one ram, seven lambs, one sin-offering goat — beside the monthly and daily offerings. Tenth day: a holy convocation — afflict your souls; no work; one bull, one ram, seven lambs, one goat for sin — beside the atonement sin offering and the continual. The fifteenth day opens seven days of holy convocation and feasting. The offering count for the seven days of Tabernacles: Day 1 — thirteen bulls, two rams, fourteen lambs, one goat; Day 2 — twelve bulls, two rams, fourteen lambs, one goat; Day 3 — eleven bulls; Day 4 — ten; Day 5 — nine; Day 6 — eight; Day 7 — seven. Each day: two rams, fourteen lambs, one goat; proportional flour and oil; all beside the continual. Day 8: solemn assembly; no servile work; one bull, one ram, seven lambs, one goat — the smallest offering day closing the largest feast season. These things shall ye do for your set feasts, beside your vows and your freewill offerings. Moses told the children of Israel according to all the LORD commanded.
 
 ---
 
-## 3. CROSS-REFERENCES (Scripture Interpreting Scripture)
+## CROSS-REFERENCES (Scripture Interpreting Scripture) (Scripture Interpreting Scripture)
 
 ### The Trumpets — The Alarm of God
 
@@ -58,7 +58,7 @@ The seventh month contains three great sacred times. First day: a holy convocati
 
 ---
 
-## 4. KEYWORD INDEX
+## KEYWORD INDEX
 
 **For Current Events Matching:**
 - **Trumpets / announcement of divine intervention** → Numbers 29:1 — 1 Corinthians 15:52; 1 Thessalonians 4:16; Matthew 24:31
@@ -69,7 +69,7 @@ The seventh month contains three great sacred times. First day: a holy convocati
 
 ---
 
-## 5. KEY TERMS WITH CONTEXTUAL DEFINITIONS
+## KEY TERMS WITH CONTEXTUAL DEFINITIONS WITH CONTEXTUAL DEFINITIONS
 
 ### SOLEMN ASSEMBLY / ATSERET (Hebrew: atseret — restraint, holding back, assembly)
 - **Numbers 29:35** — "On the eighth day ye shall have a solemn assembly"
@@ -81,7 +81,7 @@ The seventh month contains three great sacred times. First day: a holy convocati
 
 ---
 
-## 6. THE ACTUAL VERSES — NUMBERS 29 (KJV)
+## THE ACTUAL VERSES (KJV) — NUMBERS 29 (KJV)
 
 **1** And in the seventh month, on the first day of the month, ye shall have an holy convocation; ye shall do no servile work: it is a day of blowing the trumpets unto you.
 **2** And ye shall offer a burnt offering for a sweet savour unto the LORD; one young bullock, one ram, and seven lambs of the first year without blemish:
@@ -126,7 +126,7 @@ The seventh month contains three great sacred times. First day: a holy convocati
 
 ---
 
-## 7. PROPHETIC/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS/TYPOLOGICAL CONNECTIONS
 
 ### The Eighth Day — After Completion, One More Day
 
@@ -140,7 +140,7 @@ The eighth day of Tabernacles is the final and smallest offering day — one bul
 
 ---
 
-## 8. COMMONLY MISQUOTED PASSAGES
+## COMMONLY MISQUOTED PASSAGES PASSAGES
 
 ### Numbers 29:7 — "Afflict Your Souls" Interpreted as All-Day Suffering as Spiritual Merit
 
@@ -150,7 +150,7 @@ The eighth day of Tabernacles is the final and smallest offering day — one bul
 
 ---
 
-## 9. SYMBOLIC THREADS
+## SYMBOLIC THREADS
 
 ### The Descending Bulls — Seventy Nations, Seven Days, One Goal
 

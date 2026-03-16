@@ -2,7 +2,7 @@
 
 ---
 
-## 1. CHAPTER METADATA
+## CHAPTER METADATA
 
 **Book:** Numbers
 **Chapter:** 15
@@ -13,13 +13,13 @@
 
 ---
 
-## 2. CHAPTER SUMMARY
+## CHAPTER SUMMARY
 
 Immediately after the judgment of chapter 14, God instructs Moses about offering laws for when Israel arrives in the land — affirming the covenant continues. The proportional offering system is detailed: with a lamb, one-tenth flour + one-quarter hin oil + one-quarter hin wine; with a ram, two-tenths flour + one-third hin oil + one-third hin wine; with a bullock, three-tenths flour + half hin oil + half hin wine. One ordinance for stranger and native — stated twice. The first portion of dough is to be given to the LORD as a heave offering. Then the law of ignorant sin: if the congregation errs unknowingly, one bullock for burnt offering plus one goat for sin offering — the priest makes atonement, it is forgiven. If an individual errs unknowingly, a yearling she-goat — atoned and forgiven. But the soul that sins presumptuously — whether native or stranger — reproaches the LORD; that soul is cut off; his iniquity is upon him. Then immediately: a man is found gathering sticks on the Sabbath. He is held while Moses inquires of the LORD. God's verdict: death by stoning outside the camp. All Israel stones him. Then God commands the fringes — on every garment's borders, a blue cord on each fringe — to look upon and remember all the commandments, and not go after their own heart and eyes. "I am the LORD your God, which brought you out of the land of Egypt, to be your God: I am the LORD your God."
 
 ---
 
-## 3. CROSS-REFERENCES (Scripture Interpreting Scripture)
+## CROSS-REFERENCES (Scripture Interpreting Scripture) (Scripture Interpreting Scripture)
 
 ### Ignorance vs. High-Handed Sin — The Critical Distinction
 
@@ -57,7 +57,7 @@ This narrative sits immediately after the high-handed principle (vv.30-31) to il
 
 ---
 
-## 4. KEYWORD INDEX
+## KEYWORD INDEX
 
 **For Current Events Matching:**
 - **God's covenant continuing through judgment** → Numbers 15:1-2 — "when ye come into the land"; the promise is not cancelled by the generation's failure
@@ -68,7 +68,7 @@ This narrative sits immediately after the high-handed principle (vv.30-31) to il
 
 ---
 
-## 5. KEY TERMS WITH CONTEXTUAL DEFINITIONS
+## KEY TERMS WITH CONTEXTUAL DEFINITIONS WITH CONTEXTUAL DEFINITIONS
 
 ### PRESUMPTUOUSLY / HIGH-HANDEDLY (Hebrew: beyad ramah — with a high hand, with an uplifted arm)
 - **Numbers 15:30** — "the soul that doeth ought presumptuously... reproacheth the LORD"
@@ -80,7 +80,7 @@ This narrative sits immediately after the high-handed principle (vv.30-31) to il
 
 ---
 
-## 6. THE ACTUAL VERSES — NUMBERS 15 (KJV)
+## THE ACTUAL VERSES (KJV) — NUMBERS 15 (KJV)
 
 **1** And the LORD spake unto Moses, saying,
 **2** Speak unto the children of Israel, and say unto them, When ye be come into the land of your habitations, which I give unto you,
@@ -126,7 +126,7 @@ This narrative sits immediately after the high-handed principle (vv.30-31) to il
 
 ---
 
-## 7. PROPHETIC/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS/TYPOLOGICAL CONNECTIONS
 
 ### "When Ye Come into the Land" — The Covenant Over the Grave of the Fallen Generation
 
@@ -137,7 +137,7 @@ Numbers 15 opens with "When ye be come into the land of your habitations, which 
 
 ---
 
-## 8. COMMONLY MISQUOTED PASSAGES
+## COMMONLY MISQUOTED PASSAGES PASSAGES
 
 ### Numbers 15:38-39 — The Blue Thread Used to Sell Prayer Shawls as Spiritually Efficacious Objects
 
@@ -151,7 +151,7 @@ Numbers 15 opens with "When ye be come into the land of your habitations, which 
 
 ---
 
-## 9. SYMBOLIC THREADS
+## SYMBOLIC THREADS
 
 ### The First of Your Dough — The Firstfruits Thread Applied to Daily Bread
 

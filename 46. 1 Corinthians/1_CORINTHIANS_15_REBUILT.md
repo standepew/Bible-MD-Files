@@ -307,7 +307,7 @@ Declare, gospel, preached, received, stand, saved, keep, memory, preached, belie
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Resurrection of Christ as Type of Christ's Victory
 - **Physical victory:** Christ died (1 Corinthians 15:5)

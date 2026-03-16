@@ -355,7 +355,7 @@ Church, Antioch, prophets, teachers, Barnabas, Simeon, Niger, Lucius, Cyrene, Ma
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Paul and Barnabas Sent as Type of Christ's Commission
 - **Physical commission:** Holy Ghost said (Acts 13:4)

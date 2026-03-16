@@ -195,7 +195,7 @@ Reed, rod, angel, stand, saying, Rise, measure, temple, God, altar, worship, cou
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Measuring the Temple as Type of Christ's Divine Protection
 - **Physical protection:** Measure temple (Revelation 11:2)

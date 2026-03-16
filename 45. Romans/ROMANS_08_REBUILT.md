@@ -295,7 +295,7 @@ Condemnation, Christ, Jesus, walk, flesh, Spirit, law, Spirit, life, Christ, Jes
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### No Condemnation as Type of Christ's Salvation
 - **Physical salvation:** No condemnation (Romans 8:3)

@@ -195,7 +195,7 @@ Lamb, stand, mount, Sion, hundred, forty, four, thousand, Father, name, forehead
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Lamb and the 144,000 as Type of Christ's Redeemed People
 - **Physical redeemed people:** Mount Sion (Revelation 14:2)

@@ -161,3 +161,15 @@ God commands garments for Aaron "for glory and for beauty," made by those filled
 ---
 
 **End of Exodus Chapter 28**
+
+---
+
+## COMMONLY MISQUOTED PASSAGES
+
+*No passages in this chapter are commonly misquoted or frequently taken out of context in a way that distorts the chapter's meaning.*
+
+---
+
+## SYMBOLIC THREADS
+
+*No distinct symbolic threads requiring cross-reference definition in this chapter. See cross-references above for scripture-interpreting-scripture connections.*

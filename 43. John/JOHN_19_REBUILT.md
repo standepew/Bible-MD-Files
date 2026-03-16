@@ -275,7 +275,7 @@ Pilate, scourged, Jesus, soldiers, platted, crown, thorns, head, purple, robe, H
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Scourging and Mocking as Type of Christ's Suffering
 - **Physical scourging:** Scourged Jesus (John 19:3)

@@ -2,7 +2,7 @@
 
 ---
 
-## 1. CHAPTER METADATA
+## CHAPTER METADATA
 
 **Book:** Numbers
 **Chapter:** 14
@@ -13,13 +13,13 @@
 
 ---
 
-## 2. CHAPTER SUMMARY
+## CHAPTER SUMMARY
 
 The people weep all night, murmur against Moses and Aaron, wish they had died in Egypt or the wilderness, and propose choosing a new captain to return to Egypt. Moses and Aaron fall on their faces. Joshua and Caleb tear their clothes and plead: the land is exceedingly good; if the LORD delights in us He will give it; their defence is departed from them; do not rebel; do not fear. The congregation moves to stone them — and the glory of the LORD appears. God tells Moses He will strike them with pestilence, disinherit them, and make a greater nation from Moses. Moses intercedes — not for Israel's sake but for God's reputation among the nations, and by the character God Himself revealed: longsuffering, great mercy, forgiving iniquity and transgression. God pardons — "according to thy word" — but declares: none who have seen His glory and miracles and tempted Him these ten times will see the land. Their carcases will fall in the wilderness. Their children — whom they said would be a prey — will inherit it. Forty years wandering, one year per spy-day. Caleb and Joshua alone of the spies will live and see the land. The ten who brought the evil report die immediately by plague before the LORD. Moses tells the people; they mourn greatly, then presumptuously attempt to march up — without the ark, without Moses, without God's command. They are routed to Hormah.
 
 ---
 
-## 3. CROSS-REFERENCES (Scripture Interpreting Scripture)
+## CROSS-REFERENCES (Scripture Interpreting Scripture) (Scripture Interpreting Scripture)
 
 ### Moses Intercedes by God's Own Revealed Character
 
@@ -55,7 +55,7 @@ The people weep all night, murmur against Moses and Aaron, wish they had died in
 
 ---
 
-## 4. KEYWORD INDEX
+## KEYWORD INDEX
 
 **For Current Events Matching:**
 - **Mass unbelief / institutional rejection of God's promise** → Numbers 14:1-4 — the whole congregation; Hebrews 3:12-19
@@ -66,7 +66,7 @@ The people weep all night, murmur against Moses and Aaron, wish they had died in
 
 ---
 
-## 5. KEY TERMS WITH CONTEXTUAL DEFINITIONS
+## KEY TERMS WITH CONTEXTUAL DEFINITIONS WITH CONTEXTUAL DEFINITIONS
 
 ### TEN TIMES (Numbers 14:22)
 - **Numbers 14:22** — "and have tempted me now these ten times, and have not hearkened to my voice"
@@ -78,7 +78,7 @@ The people weep all night, murmur against Moses and Aaron, wish they had died in
 
 ---
 
-## 6. THE ACTUAL VERSES — NUMBERS 14 (KJV)
+## THE ACTUAL VERSES (KJV) — NUMBERS 14 (KJV)
 
 **1** And all the congregation lifted up their voice, and cried; and the people wept that night.
 **2** And all the children of Israel murmured against Moses and against Aaron: and the whole congregation said unto them, Would God that we had died in the land of Egypt! or would God we had died in this wilderness!
@@ -128,7 +128,7 @@ The people weep all night, murmur against Moses and Aaron, wish they had died in
 
 ---
 
-## 7. PROPHETIC/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS/TYPOLOGICAL CONNECTIONS
 
 ### "I Have Pardoned According to Thy Word" — Intercession That Works
 
@@ -144,7 +144,7 @@ This is one of the most remarkable moments in the Torah — God explicitly grant
 
 ---
 
-## 8. COMMONLY MISQUOTED PASSAGES
+## COMMONLY MISQUOTED PASSAGES PASSAGES
 
 ### Numbers 14:18 — "Visiting the Iniquity of the Fathers Upon the Children" — Used to Support Generational Curse Doctrines
 
@@ -159,7 +159,7 @@ This is one of the most remarkable moments in the Torah — God explicitly grant
 
 ---
 
-## 9. SYMBOLIC THREADS
+## SYMBOLIC THREADS
 
 ### "As Ye Have Spoken in Mine Ears, So Will I Do" — The Words You Speak Become Your Sentence
 

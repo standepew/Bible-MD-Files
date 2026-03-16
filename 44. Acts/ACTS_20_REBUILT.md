@@ -265,7 +265,7 @@ Uproar, ceased, Paul, called, disciples, embraced, departed, Macedonia, given, e
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Paul Travels Through Macedonia and Greece as Type of Christ's Journey
 - **Physical journey:** Laid wait (Acts 20:5)

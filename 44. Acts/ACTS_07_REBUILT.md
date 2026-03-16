@@ -347,7 +347,7 @@ High, priest, things, Men, brethren, fathers, hearken, God, glory, appeared, fat
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Stephen's Defense as Type of Christ's Testimony
 - **Physical defense:** Stephen defense (Acts 7:4)

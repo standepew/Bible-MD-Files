@@ -311,7 +311,7 @@ Cornelius, centurion, band, Italian, band, devout, feared, God, house, alms, peo
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Cornelius's Vision as Type of Christ's Revelation
 - **Physical vision:** Angel God (Acts 10:5)

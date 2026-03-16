@@ -197,7 +197,7 @@ Rebuke, elder, intreat, father, younger, men, brethren, elder, women, mothers, y
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Treatment of Elders as Type of Christ's Honor
 - **Physical honor:** Honour widows (1 Timothy 5:2)

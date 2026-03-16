@@ -197,7 +197,7 @@ Earthly, house, tabernacle, dissolved, building, God, house, hands, eternal, hea
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Earthly and Heavenly House as Type of Christ's Resurrection
 - **Physical resurrection:** Earthly house (2 Corinthians 5:3)

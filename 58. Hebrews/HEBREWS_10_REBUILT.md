@@ -259,7 +259,7 @@ Law, shadow, good, things, image, sacrifices, offered, year, year, continually, 
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Insufficiency of the Law as Type of Christ's Perfect Sacrifice
 - **Physical sacrifice:** Shadow good (Hebrews 10:2)

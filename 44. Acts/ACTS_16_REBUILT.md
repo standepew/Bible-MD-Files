@@ -283,7 +283,7 @@ Derbe, Lystra, disciple, Timotheus, son, woman, Jewess, believed, father, Greek,
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Timothy Joins Paul and Silas as Type of Christ's Calling
 - **Physical discipleship:** Disciple Timotheus (Acts 16:3)

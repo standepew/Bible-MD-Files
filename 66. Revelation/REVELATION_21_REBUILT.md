@@ -247,7 +247,7 @@ New, heaven, new, earth, first, heaven, first, earth, passed, sea, John, holy, c
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The New Heaven and New Earth as Type of Christ's Complete Renewal
 - **Physical complete renewal:** New heaven (Revelation 21:2)

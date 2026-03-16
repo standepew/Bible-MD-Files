@@ -2,7 +2,7 @@
 
 ---
 
-## 1. CHAPTER METADATA
+## CHAPTER METADATA
 
 **Book:** Numbers
 **Chapter:** 9
@@ -13,13 +13,13 @@
 
 ---
 
-## 2. CHAPTER SUMMARY
+## CHAPTER SUMMARY
 
 In the first month of the second year, God commands Israel to keep the Passover at its appointed time — the fourteenth day at evening. They do so exactly, in the wilderness of Sinai. But certain men who are defiled by a dead body come to Moses: they cannot keep the Passover that day — what should they do? Moses says: stand still, I will hear what the LORD commands. God's answer: those unclean by a dead body or on a distant journey shall keep the Passover one month later — on the fourteenth day of the second month, with unleavened bread and bitter herbs, leaving nothing till morning, breaking no bone. All the Passover ordinances apply. The man who is clean, not on a journey, and still refuses to keep the Passover is cut off from his people — he bears his own sin. The sojourning stranger may keep it under the same ordinances — one law for stranger and native. Then the cloud: from the day the Tabernacle was erected, the cloud covered the Tabernacle by day; fire by night. When the cloud lifted, Israel journeyed; when it settled, Israel pitched. Whether the cloud stayed two days, a month, or a year — they stayed. When it moved, they moved. Entirely at the LORD's command.
 
 ---
 
-## 3. CROSS-REFERENCES (Scripture Interpreting Scripture)
+## CROSS-REFERENCES (Scripture Interpreting Scripture) (Scripture Interpreting Scripture)
 
 ### The Make-Up Passover — God Makes a Way
 
@@ -56,7 +56,7 @@ In the first month of the second year, God commands Israel to keep the Passover 
 
 ---
 
-## 4. KEYWORD INDEX
+## KEYWORD INDEX
 
 **For Current Events Matching:**
 - **Divine guidance / following God's leading** → Numbers 9:15-23 — John 16:13; Acts 16:6-7; Isaiah 30:21
@@ -68,7 +68,7 @@ In the first month of the second year, God commands Israel to keep the Passover 
 
 ---
 
-## 5. KEY TERMS WITH CONTEXTUAL DEFINITIONS
+## KEY TERMS WITH CONTEXTUAL DEFINITIONS WITH CONTEXTUAL DEFINITIONS
 
 ### APPOINTED SEASON / APPOINTED TIME (Hebrew: moed)
 - **Numbers 9:2, 3, 7, 13** — the Passover kept "at his appointed season"
@@ -80,7 +80,7 @@ In the first month of the second year, God commands Israel to keep the Passover 
 
 ---
 
-## 6. THE ACTUAL VERSES — NUMBERS 9 (KJV)
+## THE ACTUAL VERSES (KJV) — NUMBERS 9 (KJV)
 
 **1** And the LORD spake unto Moses in the wilderness of Sinai, in the first month of the second year after they were come out of the land of Egypt, saying,
 **2** Let the children of Israel also keep the passover at his appointed season.
@@ -108,7 +108,7 @@ In the first month of the second year, God commands Israel to keep the Passover 
 
 ---
 
-## 7. PROPHETIC/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS/TYPOLOGICAL CONNECTIONS
 
 ### "Break No Bone of It" — The Passover Lamb's Unbroken Bone
 
@@ -122,7 +122,7 @@ The unbroken bone of the Passover lamb is one of the most precisely fulfilled ty
 
 ---
 
-## 8. COMMONLY MISQUOTED PASSAGES
+## COMMONLY MISQUOTED PASSAGES PASSAGES
 
 ### Numbers 9:8 — "Stand Still, and I Will Hear What the LORD Will Command"
 
@@ -137,7 +137,7 @@ The unbroken bone of the Passover lamb is one of the most precisely fulfilled ty
 
 ---
 
-## 9. SYMBOLIC THREADS
+## SYMBOLIC THREADS
 
 ### "At the Commandment of the LORD" — Five Times
 

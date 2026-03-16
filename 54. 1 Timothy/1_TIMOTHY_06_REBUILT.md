@@ -189,7 +189,7 @@ Servants, yoke, count, masters, worthy, honour, name, God, doctrine, blasphemed,
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Servants and Masters as Type of Christ's Service
 - **Physical service:** Masters worthy (1 Timothy 6:2)

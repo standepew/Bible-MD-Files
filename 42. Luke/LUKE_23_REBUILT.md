@@ -345,7 +345,7 @@ Multitude, arose, led, Pilate, accuse, found, fellow, perverting, nation, forbid
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Jesus Before Pilate as Type of Christ's Judgment
 - **Physical judgment:** Multitude Pilate (Luke 23:4)

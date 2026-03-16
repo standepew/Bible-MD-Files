@@ -189,7 +189,7 @@ Paul, apostle, Jesus, Christ, will, God, saints, Ephesus, faithful, Christ, Jesu
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Spiritual Blessings as Type of Christ's Grace
 - **Physical grace:** Spiritual blessings (Ephesians 1:3)

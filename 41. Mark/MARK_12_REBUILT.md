@@ -307,7 +307,7 @@ Began, speak, parables, man, planted, vineyard, hedge, digged, winefat, built, t
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Parable of Wicked Husbandmen as Type of Christ's Rejection
 - **Physical parable:** Vineyard planted (Mark 12:3)

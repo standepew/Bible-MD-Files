@@ -315,7 +315,7 @@ Days, taught, people, temple, preached, gospel, chief, priests, scribes, elders,
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Question of Authority as Type of Christ's Wisdom
 - **Physical authority:** Authority heaven (Luke 20:4)

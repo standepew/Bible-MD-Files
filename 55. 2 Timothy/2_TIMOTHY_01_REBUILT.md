@@ -197,7 +197,7 @@ Paul, apostle, Jesus, Christ, will, God, promise, life, Christ, Jesus, Timothy, 
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Paul's Greeting and Thanksgiving as Type of Christ's Commission
 - **Physical commission:** Promise life (2 Timothy 1:2)

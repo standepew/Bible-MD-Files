@@ -155,7 +155,7 @@ Mighty, angel, heaven, clothed, cloud, rainbow, head, face, sun, feet, pillars, 
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Mighty Angel with the Little Book as Type of Christ's Divine Authority
 - **Physical authority:** Mighty angel (Revelation 10:2)

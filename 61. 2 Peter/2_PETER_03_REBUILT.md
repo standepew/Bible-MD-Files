@@ -181,7 +181,7 @@ Second, epistle, beloved, write, stir, pure, minds, remembrance, mindful, words,
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Last Days and Scoffers as Type of Christ's Return Opposition
 - **Physical opposition:** Last days (2 Peter 3:2)

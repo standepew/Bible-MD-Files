@@ -413,7 +413,7 @@ Afterward, city, village, preaching, shewing, glad, tidings, kingdom, God, twelv
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Parable of the Sower as Type of Christ's Teaching
 - **Physical parable:** Sower seed (Luke 8:7)

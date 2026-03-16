@@ -157,7 +157,7 @@ Touching, things, offered, idols, knowledge, knowledge, puffeth, charity, edifie
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Knowledge and Love as Type of Christ's Wisdom
 - **Physical wisdom:** Charity edifieth (1 Corinthians 8:3)

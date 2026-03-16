@@ -363,7 +363,7 @@ Ended, sayings, audience, people, entered, Capernaum, centurion, servant, dear, 
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Healing of the Centurion's Servant as Type of Christ's Authority
 - **Physical healing:** Centurion servant (Luke 7:4)

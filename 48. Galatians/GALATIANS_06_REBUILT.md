@@ -167,7 +167,7 @@ Brethren, man, overtaken, fault, spiritual, restore, spirit, meekness, consideri
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Restoring the Fallen as Type of Christ's Healing
 - **Physical healing:** Restore spirit (Galatians 6:3)

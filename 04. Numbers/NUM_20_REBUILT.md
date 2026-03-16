@@ -2,7 +2,7 @@
 
 ---
 
-## 1. CHAPTER METADATA
+## CHAPTER METADATA
 
 **Book:** Numbers
 **Chapter:** 20
@@ -13,13 +13,13 @@
 
 ---
 
-## 2. CHAPTER SUMMARY
+## CHAPTER SUMMARY
 
 The congregation comes to the wilderness of Zin in the first month — the fortieth year. Miriam dies and is buried at Kadesh. Immediately the people strive against Moses for water: the same complaint as the wilderness of Rephidim (Exodus 17), nearly word for word. Moses and Aaron go to the Tabernacle door and fall on their faces; the glory of the LORD appears. God's command: take the rod, gather the congregation, and speak to the rock before their eyes — it will give water. Moses takes the rod. He addresses the congregation: "Hear now, ye rebels; must we fetch you water out of this rock?" He lifts his hand and strikes the rock twice. Water flows abundantly. God's verdict: "Because ye believed me not, to sanctify me in the eyes of the children of Israel, therefore ye shall not bring this congregation into the land." This place is called Meribah (striving). Moses sends to the king of Edom — a detailed appeal: we are your brother Israel; we have suffered in Egypt; the LORD brought us out; let us pass through your land on the king's highway, touching nothing. Edom says no; threatens to come out with the sword. Israel offers to pay for any water — Edom still refuses, comes out in force. Israel turns away from them. They come to Mount Hor at the edge of Edom. God tells Moses: Aaron is to be gathered to his people; he shall not enter the land because of the Meribah rebellion. Take Aaron and Eleazar up the mountain; strip Aaron of his garments and put them on Eleazar. Aaron dies on the top of Mount Hor. Moses and Eleazar come down. All Israel mourns Aaron thirty days.
 
 ---
 
-## 3. CROSS-REFERENCES (Scripture Interpreting Scripture)
+## CROSS-REFERENCES (Scripture Interpreting Scripture) (Scripture Interpreting Scripture)
 
 ### Moses Strikes the Rock — The One Act That Bars Him from the Land
 
@@ -58,7 +58,7 @@ The congregation comes to the wilderness of Zin in the first month — the forti
 
 ---
 
-## 4. KEYWORD INDEX
+## KEYWORD INDEX
 
 **For Current Events Matching:**
 - **Leaders paying the cost of momentary failure** → Numbers 20:12 — Moses barred from the land; the accountability of leadership
@@ -69,7 +69,7 @@ The congregation comes to the wilderness of Zin in the first month — the forti
 
 ---
 
-## 5. KEY TERMS WITH CONTEXTUAL DEFINITIONS
+## KEY TERMS WITH CONTEXTUAL DEFINITIONS WITH CONTEXTUAL DEFINITIONS
 
 ### SANCTIFY ME (Hebrew: qadash — to set apart, to declare holy)
 - **Numbers 20:12** — "Because ye believed me not, to sanctify me in the eyes of the children of Israel"
@@ -81,7 +81,7 @@ The congregation comes to the wilderness of Zin in the first month — the forti
 
 ---
 
-## 6. THE ACTUAL VERSES — NUMBERS 20 (KJV)
+## THE ACTUAL VERSES (KJV) — NUMBERS 20 (KJV)
 
 **1** Then came the children of Israel, even the whole congregation, into the desert of Zin in the first month: and the people abode in Kadesh; and Miriam died there, and was buried there.
 **2** And there was no water for the congregation: and they gathered themselves together against Moses and against Aaron.
@@ -115,7 +115,7 @@ The congregation comes to the wilderness of Zin in the first month — the forti
 
 ---
 
-## 7. PROPHETIC/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS/TYPOLOGICAL CONNECTIONS
 
 ### The Rock Struck Once, Spoken to Thereafter — Christ's Once-for-All Sacrifice
 
@@ -133,7 +133,7 @@ The rock struck once → water that sustained Israel for forty years → spoken 
 
 ---
 
-## 8. COMMONLY MISQUOTED PASSAGES
+## COMMONLY MISQUOTED PASSAGES PASSAGES
 
 ### Numbers 20:12 — "Ye Believed Me Not" — The Nature of Moses' Sin Debated
 
@@ -147,7 +147,7 @@ The rock struck once → water that sustained Israel for forty years → spoken 
 
 ---
 
-## 9. SYMBOLIC THREADS
+## SYMBOLIC THREADS
 
 ### The Mountain Deaths — Moses, Aaron, Miriam — The Wilderness Generation Passes
 

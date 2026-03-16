@@ -2,7 +2,7 @@
 
 ---
 
-## 1. CHAPTER METADATA
+## CHAPTER METADATA
 
 **Book:** Numbers
 **Chapter:** 34
@@ -13,13 +13,13 @@
 
 ---
 
-## 2. CHAPTER SUMMARY
+## CHAPTER SUMMARY
 
 God commands Moses to define the land of Canaan for Israel's inheritance. The south border runs from the wilderness of Zin along Edom's coast, east of the Salt Sea — through Kadesh-barnea, Hazar-addar, Azmon, and along the River of Egypt to the sea. The western border is simply the Great Sea (Mediterranean). The north border runs from the Great Sea to Mount Hor (a different peak from Aaron's burial site), then to the entrance of Hamath, through Zedad, Ziphron, to Hazar-enan. The east border goes from Hazar-enan south through Shepham to Riblah on the east side of Ain, down to the eastern shore of the Sea of Chinnereth, then along the Jordan to the Salt Sea. This is the land of Canaan by its borders. Moses tells Israel: this land will be divided by lot among nine tribes and the half tribe of Manasseh — for Reuben, Gad, and the other half of Manasseh have already received their inheritance east of Jordan. God names the division commission: Eleazar the priest and Joshua son of Nun will administer the division. One prince per tribe: for Judah — Caleb son of Jephunneh. For Simeon — Shemuel. Benjamin — Elidad. Dan — Bukki. Manasseh — Hanniel. Ephraim — Kemuel. Zebulun — Elizaphan. Issachar — Paltiel. Asher — Ahihud. Naphtali — Pedahel. These are whom the LORD commanded to divide the inheritance in Canaan.
 
 ---
 
-## 3. CROSS-REFERENCES (Scripture Interpreting Scripture)
+## CROSS-REFERENCES (Scripture Interpreting Scripture) (Scripture Interpreting Scripture)
 
 ### The Defined Borders — The Exact Land of Promise
 
@@ -42,7 +42,7 @@ God commands Moses to define the land of Canaan for Israel's inheritance. The so
 
 ---
 
-## 4. KEYWORD INDEX
+## KEYWORD INDEX
 
 **For Current Events Matching:**
 - **Defined territorial boundaries / land by God's specification** → Numbers 34:2-12 — Genesis 15:18; Deuteronomy 11:24; the specific promise of land
@@ -52,7 +52,7 @@ God commands Moses to define the land of Canaan for Israel's inheritance. The so
 
 ---
 
-## 5. KEY TERMS WITH CONTEXTUAL DEFINITIONS
+## KEY TERMS WITH CONTEXTUAL DEFINITIONS WITH CONTEXTUAL DEFINITIONS
 
 ### RIVER OF EGYPT (Hebrew: Nachal Mitzraim — wadi/stream of Egypt)
 - **Numbers 34:5** — the southwestern border landmark
@@ -63,7 +63,7 @@ God commands Moses to define the land of Canaan for Israel's inheritance. The so
 
 ---
 
-## 6. THE ACTUAL VERSES — NUMBERS 34 (KJV)
+## THE ACTUAL VERSES (KJV) — NUMBERS 34 (KJV)
 
 **1** And the LORD spake unto Moses, saying,
 **2** Command the children of Israel, and say unto them, When ye come into the land of Canaan; (this is the land that shall fall unto you for an inheritance, even the land of Canaan with the coasts thereof:)
@@ -97,7 +97,7 @@ God commands Moses to define the land of Canaan for Israel's inheritance. The so
 
 ---
 
-## 7. PROPHETIC/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS/TYPOLOGICAL CONNECTIONS
 
 ### Eleazar and Joshua — Priest and Commander Together
 
@@ -108,7 +108,7 @@ God commands Moses to define the land of Canaan for Israel's inheritance. The so
 
 ---
 
-## 8. COMMONLY MISQUOTED PASSAGES
+## COMMONLY MISQUOTED PASSAGES PASSAGES
 
 ### Numbers 34:2-12 — The Borders Used to Define Modern Israeli Political Claims
 
@@ -118,7 +118,7 @@ God commands Moses to define the land of Canaan for Israel's inheritance. The so
 
 ---
 
-## 9. SYMBOLIC THREADS
+## SYMBOLIC THREADS
 
 ### The Land Defined Before It Is Entered — The Inheritance Precedes the Possession
 

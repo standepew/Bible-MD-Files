@@ -341,7 +341,7 @@ Jesus, departed, temple, disciples, buildings, temple, Jesus, things, stone, thr
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Christ's Olivet Prophecy as Type of Christ's Revelation
 - **Physical prophecy:** Mount Olives (Matthew 24:5)

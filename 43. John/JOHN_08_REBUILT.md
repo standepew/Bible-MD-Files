@@ -345,7 +345,7 @@ Jesus, mount, Olives, early, morning, temple, people, sat, taught, scribes, Phar
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Woman Caught in Adultery as Type of Christ's Mercy
 - **Physical woman:** Woman adultery (John 8:5)

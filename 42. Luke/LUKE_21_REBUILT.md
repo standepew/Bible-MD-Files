@@ -273,7 +273,7 @@ Looked, rich, men, casting, gifts, treasury, poor, widow, casting, thither, two,
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Widow's Offering as Type of Christ's Sacrifice
 - **Physical offering:** Poor widow (Luke 21:3)

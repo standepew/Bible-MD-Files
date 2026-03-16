@@ -193,7 +193,7 @@ Third, day, marriage, Cana, Galilee, mother, Jesus, called, disciples, marriage,
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Wedding at Cana as Type of Christ's Joy
 - **Physical wedding:** Marriage Cana (John 2:3)

@@ -201,6 +201,12 @@ Moses is born to a Levite couple. His mother hides him three months, then places
 
 ---
 
+## COMMONLY MISQUOTED PASSAGES
+
+*No passages in this chapter are commonly misquoted or frequently taken out of context in a way that distorts the chapter's meaning.*
+
+---
+
 ## SYMBOLIC THREADS
 
 ### The Ark (Tebah) — Preservation Through Judgment Waters

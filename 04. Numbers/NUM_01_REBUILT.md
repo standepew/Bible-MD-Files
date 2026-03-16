@@ -2,7 +2,7 @@
 
 ---
 
-## 1. CHAPTER METADATA
+## CHAPTER METADATA
 
 **Book:** Numbers (The Fourth Book of Moses)
 **Chapter:** 1
@@ -13,13 +13,13 @@
 
 ---
 
-## 2. CHAPTER SUMMARY
+## CHAPTER SUMMARY
 
 One year and one month after the Exodus from Egypt, God commands Moses to number Israel — every male twenty years old and upward who is able to go to war. Twelve tribal leaders assist, one per tribe. The census proceeds family by family, father's house by father's house, counting each man by name. The totals are recorded tribe by tribe: Reuben 46,500; Simeon 59,300; Gad 45,650; Judah 74,600; Issachar 54,400; Zebulun 57,400; Ephraim 40,500; Manasseh 32,200; Benjamin 35,400; Dan 62,700; Asher 41,500; Naphtali 53,400. Grand total: 603,550. The Levites are explicitly excluded from the military count — instead they are appointed over the Tabernacle: to bear it, dismantle it, erect it, and encamp around it as a living barrier. Any unauthorized person who approaches dies. The Levites encircle the Tabernacle so that no divine wrath falls on the congregation.
 
 ---
 
-## 3. CROSS-REFERENCES (Scripture Interpreting Scripture)
+## CROSS-REFERENCES (Scripture Interpreting Scripture) (Scripture Interpreting Scripture)
 
 ### "Number the Children of Israel" — God Counts His People
 
@@ -55,7 +55,7 @@ One year and one month after the Exodus from Egypt, God commands Moses to number
 
 ---
 
-## 4. KEYWORD INDEX
+## KEYWORD INDEX
 
 **For Current Events Matching:**
 - **Census / population count / national register** → Numbers 1:2-3 — Luke 2:1-3; God's census vs. Caesar's census
@@ -66,7 +66,7 @@ One year and one month after the Exodus from Egypt, God commands Moses to number
 
 ---
 
-## 5. KEY TERMS WITH CONTEXTUAL DEFINITIONS
+## KEY TERMS WITH CONTEXTUAL DEFINITIONS WITH CONTEXTUAL DEFINITIONS
 
 ### POLL (Hebrew: gulgoleth — skull)
 - **Numbers 1:2, 18, 20, 22** — "by their polls" = by their heads, individually, each man counted one by one
@@ -82,7 +82,7 @@ One year and one month after the Exodus from Egypt, God commands Moses to number
 
 ---
 
-## 6. THE ACTUAL VERSES — NUMBERS 1 (KJV)
+## THE ACTUAL VERSES (KJV) — NUMBERS 1 (KJV)
 
 **1** And the LORD spake unto Moses in the wilderness of Sinai, in the tabernacle of the congregation, on the first day of the second month, in the second year after they were come out of the land of Egypt, saying,
 **2** Take ye the sum of all the congregation of the children of Israel, after their families, by the house of their fathers, with the number of their names, every male by their polls;
@@ -141,7 +141,7 @@ One year and one month after the Exodus from Egypt, God commands Moses to number
 
 ---
 
-## 7. PROPHETIC/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS/TYPOLOGICAL CONNECTIONS
 
 ### The 603,550 and Revelation 7 — Two Numberings of Israel
 
@@ -155,7 +155,7 @@ Both censuses share the same structure: God numbering a specific group from the 
 
 ---
 
-## 8. COMMONLY MISQUOTED PASSAGES
+## COMMONLY MISQUOTED PASSAGES PASSAGES
 
 ### Numbers 1:51 — "The Stranger That Cometh Nigh Shall Be Put to Death" — Used to Justify Exclusion
 
@@ -170,7 +170,7 @@ Both censuses share the same structure: God numbering a specific group from the 
 
 ---
 
-## 9. SYMBOLIC THREADS
+## SYMBOLIC THREADS
 
 ### The Tribe of Judah Leads — The Lion's Primacy Established in the March
 

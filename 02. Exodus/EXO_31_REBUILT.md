@@ -140,3 +140,15 @@ God tells Moses He has called Bezaleel by name — from the tribe of Judah — a
 ---
 
 **End of Exodus Chapter 31**
+
+---
+
+## COMMONLY MISQUOTED PASSAGES
+
+*No passages in this chapter are commonly misquoted or frequently taken out of context in a way that distorts the chapter's meaning.*
+
+---
+
+## SYMBOLIC THREADS
+
+*No distinct symbolic threads requiring cross-reference definition in this chapter. See cross-references above for scripture-interpreting-scripture connections.*

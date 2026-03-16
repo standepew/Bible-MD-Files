@@ -219,7 +219,7 @@ Laying, aside, malice, guile, hypocrisies, envies, evil, speakings, newborn, bab
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Living Stones and Spiritual House as Type of Christ's Temple
 - **Physical temple:** Spiritual house (1 Peter 2:5)

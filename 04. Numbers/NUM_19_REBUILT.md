@@ -2,7 +2,7 @@
 
 ---
 
-## 1. CHAPTER METADATA
+## CHAPTER METADATA
 
 **Book:** Numbers
 **Chapter:** 19
@@ -13,13 +13,13 @@
 
 ---
 
-## 2. CHAPTER SUMMARY
+## CHAPTER SUMMARY
 
 God gives Moses and Aaron the ordinance of the red heifer — called "the ordinance of the law" (chukkat ha-Torah), meaning the statute beyond human reasoning, accepted by faith. A red cow without blemish, never yoked, is given to Eleazar (not Aaron, to preserve Aaron's continual service). She is slaughtered outside the camp before Eleazar; he sprinkles her blood seven times toward the Tabernacle door. She is burned completely — skin, flesh, blood, dung. Eleazar casts cedar wood, hyssop, and scarlet into the burning. He washes his clothes and bathes; he is unclean until evening. A clean man gathers the ashes and stores them outside the camp in a clean place. He also becomes unclean until evening. The ashes are kept as the water of separation — mixed with running water and sprinkled on the defiled. Any contact with a corpse, a bone, a grave, a person slain with a sword, or the open tent of a dead man makes a person unclean seven days. The water of separation is sprinkled on the third day and the seventh day — without both applications, the person is not clean. If a person remains unclean and does not purify himself, he defiles the Tabernacle; he is cut off. Every open vessel with no covering bound upon it in a tent where someone died is also unclean. The sprinkler becomes unclean until evening. Whoever touches the water becomes unclean until evening. Whatever the unclean person touches is unclean.
 
 ---
 
-## 3. CROSS-REFERENCES (Scripture Interpreting Scripture)
+## CROSS-REFERENCES (Scripture Interpreting Scripture) (Scripture Interpreting Scripture)
 
 ### The Red Heifer as the Type of Christ's Purifying Death
 
@@ -63,7 +63,7 @@ God gives Moses and Aaron the ordinance of the red heifer — called "the ordina
 
 ---
 
-## 4. KEYWORD INDEX
+## KEYWORD INDEX
 
 **For Current Events Matching:**
 - **Death and its spiritual/ceremonial contagion** → Numbers 19:11-16 — contact with death makes one unclean; the entire chapter is about death's communicable impurity
@@ -74,7 +74,7 @@ God gives Moses and Aaron the ordinance of the red heifer — called "the ordina
 
 ---
 
-## 5. KEY TERMS WITH CONTEXTUAL DEFINITIONS
+## KEY TERMS WITH CONTEXTUAL DEFINITIONS WITH CONTEXTUAL DEFINITIONS
 
 ### CHUKKAT HA-TORAH (the ordinance of the law / the statute of the law)
 - **Numbers 19:2** — "This is the ordinance of the law [chukkat ha-Torah]"
@@ -86,7 +86,7 @@ God gives Moses and Aaron the ordinance of the red heifer — called "the ordina
 
 ---
 
-## 6. THE ACTUAL VERSES — NUMBERS 19 (KJV)
+## THE ACTUAL VERSES (KJV) — NUMBERS 19 (KJV)
 
 **1** And the LORD spake unto Moses and unto Aaron, saying,
 **2** This is the ordinance of the law which the LORD hath commanded, saying, Speak unto the children of Israel, that they bring thee a red heifer without spot, wherein is no blemish, and upon which never came yoke:
@@ -113,7 +113,7 @@ God gives Moses and Aaron the ordinance of the red heifer — called "the ordina
 
 ---
 
-## 7. PROPHETIC/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS/TYPOLOGICAL CONNECTIONS
 
 ### Cedar, Hyssop, and Scarlet — The Leper's Cleansing Trio Applied to Death
 
@@ -131,7 +131,7 @@ The same trio at the leper's healing, the defiled house's cleansing, the red hei
 
 ---
 
-## 8. COMMONLY MISQUOTED PASSAGES
+## COMMONLY MISQUOTED PASSAGES PASSAGES
 
 ### Numbers 19:11 — "He That Toucheth the Dead Body of Any Man Shall Be Unclean" — Used to Limit Compassionate Ministry
 
@@ -146,7 +146,7 @@ The same trio at the leper's healing, the defiled house's cleansing, the red hei
 
 ---
 
-## 9. SYMBOLIC THREADS
+## SYMBOLIC THREADS
 
 ### The Open Vessel With No Covering — Unprotected Exposure to Death
 

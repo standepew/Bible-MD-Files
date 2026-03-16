@@ -2,7 +2,7 @@
 
 ---
 
-## 1. CHAPTER METADATA
+## CHAPTER METADATA
 
 **Book:** Numbers
 **Chapter:** 6
@@ -13,13 +13,13 @@
 
 ---
 
-## 2. CHAPTER SUMMARY
+## CHAPTER SUMMARY
 
 God gives Moses the law of the Nazirite — available to any Israelite man or woman who vows a vow of separation unto the LORD. Three prohibitions define the vow: (1) no wine, strong drink, vinegar of wine, grape liquor, moist or dried grapes, grape kernels, or grape husks — total abstinence from the vine; (2) no razor on the head — the hair grows as the visible sign of consecration; (3) no contact with any dead body — not even for parents, siblings, or children; the consecration of God is upon his head and takes precedence over all natural bonds. If someone dies suddenly beside him, he shaves his head on the seventh day, brings two birds on the eighth day (one sin offering, one burnt offering), then brings a lamb for a trespass offering — and the prior days of the vow are lost; he must begin again. When the full days of separation are completed, he comes to the Tabernacle and brings: one lamb for burnt offering, one ewe lamb for sin offering, one ram for peace offering, a basket of unleavened bread and wafers, and drink offerings. After the priest performs the sin and burnt offerings, the Nazirite shaves his consecrated head at the door of the Tabernacle and puts the hair in the fire under the peace offering. The priest waves the shoulder with cake and wafer as a wave offering. After this — and not before — the Nazirite may drink wine. Then the Aaronic Benediction: God commands Aaron and his sons to bless Israel with six specific phrases, and declares: "they shall put my name upon the children of Israel; and I will bless them."
 
 ---
 
-## 3. CROSS-REFERENCES (Scripture Interpreting Scripture)
+## CROSS-REFERENCES (Scripture Interpreting Scripture) (Scripture Interpreting Scripture)
 
 ### The Nazirites of Scripture — Samson, Samuel, John the Baptist
 
@@ -62,7 +62,7 @@ Line 3: "The LORD lift up his countenance upon thee and give thee peace" — fav
 
 ---
 
-## 4. KEYWORD INDEX
+## KEYWORD INDEX
 
 **For Current Events Matching:**
 - **Voluntary consecration / radical commitment** → Numbers 6:2 — the Nazirite vow as a model of going beyond the minimum
@@ -73,7 +73,7 @@ Line 3: "The LORD lift up his countenance upon thee and give thee peace" — fav
 
 ---
 
-## 5. KEY TERMS WITH CONTEXTUAL DEFINITIONS
+## KEY TERMS WITH CONTEXTUAL DEFINITIONS WITH CONTEXTUAL DEFINITIONS
 
 ### NAZIRITE (Hebrew: nazir — separated, consecrated)
 - **Numbers 6:2, 13, 18, 19, 20, 21** — one who has separated themselves by vow unto the LORD
@@ -85,7 +85,7 @@ Line 3: "The LORD lift up his countenance upon thee and give thee peace" — fav
 
 ---
 
-## 6. THE ACTUAL VERSES — NUMBERS 6 (KJV)
+## THE ACTUAL VERSES (KJV) — NUMBERS 6 (KJV)
 
 **1** And the LORD spake unto Moses, saying,
 **2** Speak unto the children of Israel, and say unto them, When either man or woman shall separate themselves to vow a vow of a Nazarite, to separate themselves unto the LORD:
@@ -117,7 +117,7 @@ Line 3: "The LORD lift up his countenance upon thee and give thee peace" — fav
 
 ---
 
-## 7. PROPHETIC/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS/TYPOLOGICAL CONNECTIONS
 
 ### Jesus' Matthew 26:29 Vow — The Nazirite Consecration to the Kingdom Banquet
 
@@ -131,7 +131,7 @@ Jesus speaks these words at the Last Supper — the Passover meal — immediatel
 
 ---
 
-## 8. COMMONLY MISQUOTED PASSAGES
+## COMMONLY MISQUOTED PASSAGES PASSAGES
 
 ### Numbers 6:24-26 — The Aaronic Benediction Used as a Mere Closing Formula
 
@@ -145,7 +145,7 @@ Jesus speaks these words at the Last Supper — the Passover meal — immediatel
 
 ---
 
-## 9. SYMBOLIC THREADS
+## SYMBOLIC THREADS
 
 ### "The LORD Bless Thee" — The Name of God as the Benediction's Content
 

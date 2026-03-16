@@ -185,7 +185,7 @@ Fifth, angel, sounded, star, fall, heaven, earth, given, key, bottomless, pit, o
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Fifth Trumpet (Locusts from the Pit) as Type of Christ's Spiritual Torment
 - **Physical torment:** Locusts earth (Revelation 9:4)

@@ -175,7 +175,7 @@ Quickened, dead, trespasses, sins, walked, course, world, prince, power, air, sp
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Made Alive in Christ as Type of Christ's Resurrection
 - **Physical resurrection:** Quickened dead (Ephesians 2:3)

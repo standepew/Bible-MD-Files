@@ -193,7 +193,7 @@ Things, Jesus, shewed, disciples, sea, Tiberias, wise, shewed, Simon, Peter, Tho
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Jesus Appears to Seven Disciples as Type of Christ's Presence
 - **Physical appearance:** Jesus shore (John 21:6)

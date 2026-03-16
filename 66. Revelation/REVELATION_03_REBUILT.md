@@ -209,7 +209,7 @@ Angel, church, Sardis, write, seven, Spirits, God, seven, stars, know, works, na
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Message to Sardis (Spiritual Death) as Type of Christ's Resurrection Power
 - **Physical resurrection:** Livest dead (Revelation 3:2)

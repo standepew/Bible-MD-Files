@@ -237,7 +237,7 @@ Paul, departed, Athens, Corinth, Jew, Aquila, born, Pontus, lately, Italy, wife,
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Paul in Corinth as Type of Christ's Fellowship
 - **Physical fellowship:** Tentmakers (Acts 18:5)

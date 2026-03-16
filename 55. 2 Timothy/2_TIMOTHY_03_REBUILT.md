@@ -171,7 +171,7 @@ Know, last, days, perilous, times, men, lovers, selves, covetous, boasters, prou
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Perilous Times as Type of Christ's Warning
 - **Physical warning:** Perilous times (2 Timothy 3:2)

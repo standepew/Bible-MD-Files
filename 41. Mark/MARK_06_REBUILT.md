@@ -389,7 +389,7 @@ Went, country, disciples, sabbath, teach, synagogue, hearing, astonished, man, t
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Christ's Rejection as Type of Christ's Suffering
 - **Physical rejection:** Carpenter son (Mark 6:5)

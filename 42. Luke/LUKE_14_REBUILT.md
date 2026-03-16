@@ -263,7 +263,7 @@ House, chief, Pharisees, eat, bread, sabbath, watched, man, dropsy, Jesus, answe
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Healing on the Sabbath as Type of Christ's Authority
 - **Physical healing:** Dropsy healed (Luke 14:4)

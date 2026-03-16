@@ -225,7 +225,7 @@ Weak, faith, receive, doubtful, disputations, believeth, eat, things, weak, eate
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Weak and Strong Faith as Type of Christ's Patience
 - **Physical patience:** Weak faith (Romans 14:3)

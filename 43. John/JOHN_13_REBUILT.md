@@ -255,7 +255,7 @@ Feast, passover, Jesus, hour, depart, world, Father, loved, own, world, loved, e
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Washing the Disciples' Feet as Type of Christ's Service
 - **Physical washing:** Wash feet (John 13:6)

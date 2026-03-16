@@ -281,7 +281,7 @@ Strong, bear, infirmities, weak, please, ourselves, please, neighbour, good, edi
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Bearing with the Weak as Type of Christ's Compassion
 - **Physical compassion:** Bear infirmities (Romans 15:3)

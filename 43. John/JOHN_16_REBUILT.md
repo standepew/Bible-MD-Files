@@ -233,7 +233,7 @@ Spoken, offended, synagogues, time, cometh, killeth, God, service, known, Father
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Work of the Holy Spirit as Type of Christ's Guidance
 - **Physical guidance:** Spirit truth (John 16:14)

@@ -215,7 +215,7 @@ Consolation, Christ, comfort, love, fellowship, Spirit, bowels, mercies, fulfil,
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Mind of Christ as Type of Christ's Humility
 - **Physical humility:** Likeminded love (Philippians 2:3)

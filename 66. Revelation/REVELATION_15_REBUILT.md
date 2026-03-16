@@ -137,7 +137,7 @@ Sign, heaven, great, marvellous, seven, angels, seven, last, plagues, filled, wr
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Seven Last Plagues as Type of Christ's Complete Judgment
 - **Physical complete judgment:** Seven last plagues (Revelation 15:2)

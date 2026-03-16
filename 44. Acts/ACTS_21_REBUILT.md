@@ -297,7 +297,7 @@ Gotten, launched, straight, course, Coos, Rhodes, Patara, finding, ship, sailing
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Paul's Journey to Jerusalem as Type of Christ's Journey
 - **Physical journey:** Left hand (Acts 21:5)

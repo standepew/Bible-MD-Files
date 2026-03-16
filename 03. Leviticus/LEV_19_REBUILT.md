@@ -2,7 +2,7 @@
 
 ---
 
-## 1. CHAPTER METADATA
+## CHAPTER METADATA
 
 **Book:** Leviticus
 **Chapter:** 19
@@ -13,13 +13,13 @@
 
 ---
 
-## 2. CHAPTER SUMMARY
+## CHAPTER SUMMARY
 
 God commands Moses to speak to the entire congregation — not just the priests — and declare the holiness standard for daily life. "I am the LORD your God" appears as the anchoring refrain throughout, grounding each command in the character and authority of God. The commands span the full range of life: reverence for parents and the Sabbath, no idols, proper handling of the peace offering before it spoils, leaving the corners and gleanings of fields for the poor and the stranger, no stealing or lying or false swearing, prompt payment of wages, no cursing the deaf or tripping the blind, impartial judgment in courts, no talebearing, no standing against a neighbour's blood, no hating a brother in the heart but instead rebuking him openly, no vengeance or grudge-bearing, love your neighbour as yourself. Further laws: no mixing of livestock kinds, no mixed seed, no mixed-fabric garments, the uncircumcised fruit trees (first three years unconsecrated, fourth year holy, fifth year freely eaten), no blood with food, no enchantment, no bodily marks for the dead, no pimping daughters, respect for the aged, equal treatment of the stranger, just balances and measures.
 
 ---
 
-## 3. CROSS-REFERENCES (Scripture Interpreting Scripture)
+## CROSS-REFERENCES (Scripture Interpreting Scripture) (Scripture Interpreting Scripture)
 
 ### "Ye Shall Be Holy: For I the LORD Your God Am Holy"
 
@@ -79,7 +79,7 @@ God commands Moses to speak to the entire congregation — not just the priests 
 
 ---
 
-## 4. KEYWORD INDEX
+## KEYWORD INDEX
 
 **For Current Events Matching:**
 - **Social justice / treatment of the poor** → Leviticus 19:9-10 — Ruth 2:2; Matthew 25:35-40
@@ -94,7 +94,7 @@ God commands Moses to speak to the entire congregation — not just the priests 
 
 ---
 
-## 5. KEY TERMS WITH CONTEXTUAL DEFINITIONS
+## KEY TERMS WITH CONTEXTUAL DEFINITIONS WITH CONTEXTUAL DEFINITIONS
 
 ### HOLY (Hebrew: qadosh)
 - **Leviticus 19:2** — "Ye shall be holy (qedoshim): for I the LORD your God am holy (qadosh)"
@@ -110,7 +110,7 @@ God commands Moses to speak to the entire congregation — not just the priests 
 
 ---
 
-## 6. THE ACTUAL VERSES — LEVITICUS 19 (KJV)
+## THE ACTUAL VERSES (KJV) — LEVITICUS 19 (KJV)
 
 **1** And the LORD spake unto Moses, saying,
 **2** Speak unto all the congregation of the children of Israel, and say unto them, Ye shall be holy: for I the LORD your God am holy.
@@ -152,7 +152,7 @@ God commands Moses to speak to the entire congregation — not just the priests 
 
 ---
 
-## 7. PROPHETIC/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS/TYPOLOGICAL CONNECTIONS
 
 ### "I Am the LORD" — Repeated 16 Times: The Pattern of Authority
 
@@ -176,7 +176,7 @@ This typological chain: Leviticus 19 (the law) → Ruth 2 (the law lived) → Bo
 
 ---
 
-## 8. COMMONLY MISQUOTED PASSAGES
+## COMMONLY MISQUOTED PASSAGES PASSAGES
 
 ### Leviticus 19:18 — "Love Your Neighbour" Used to Silence All Other Commands
 
@@ -205,7 +205,7 @@ This typological chain: Leviticus 19 (the law) → Ruth 2 (the law lived) → Bo
 
 ---
 
-## 9. SYMBOLIC THREADS
+## SYMBOLIC THREADS
 
 ### The Corner of the Field — Provision at the Margins as a Symbolic Thread
 

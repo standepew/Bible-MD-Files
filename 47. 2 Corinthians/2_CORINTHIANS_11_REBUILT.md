@@ -233,7 +233,7 @@ Bear, folly, jealous, godly, jealousy, espoused, husband, chaste, virgin, Christ
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Paul's Defense as Type of Christ's Protection
 - **Physical protection:** Simplicity Christ (2 Corinthians 11:4)

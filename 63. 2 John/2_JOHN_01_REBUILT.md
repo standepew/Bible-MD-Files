@@ -147,7 +147,7 @@ Elder, elect, lady, children, love, truth, known, truth, truth, sake, dwelleth, 
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Walking in Truth and Love as Type of Christ's Perfect Walk
 - **Physical walk:** Walking truth (2 John 1:5)

@@ -211,7 +211,7 @@ First, covenant, ordinances, divine, service, worldly, sanctuary, tabernacle, ca
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Earthly Tabernacle as Type of Christ's Heavenly Sanctuary
 - **Physical sanctuary:** Worldly sanctuary (Hebrews 9:2)

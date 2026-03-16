@@ -259,7 +259,7 @@ Man, named, Ananias, Sapphira, wife, sold, possession, kept, back, price, wife, 
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Ananias and Sapphira as Type of Christ's Judgment
 - **Physical judgment:** Gave ghost (Acts 5:7)

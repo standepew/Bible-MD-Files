@@ -149,7 +149,7 @@ Elders, exhort, elder, witness, sufferings, Christ, partaker, glory, revealed, F
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Leadership and Humility as Type of Christ's Shepherd Leadership
 - **Physical leadership:** Feed flock (1 Peter 5:3)

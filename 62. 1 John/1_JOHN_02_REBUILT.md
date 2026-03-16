@@ -217,7 +217,7 @@ Little, children, write, sin, advocate, Father, Jesus, Christ, righteous, propit
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Christ Our Advocate as Type of Christ's Intercessory Ministry
 - **Physical intercession:** Advocate Father (1 John 2:2)

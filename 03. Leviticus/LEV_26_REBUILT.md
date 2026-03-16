@@ -2,7 +2,7 @@
 
 ---
 
-## 1. CHAPTER METADATA
+## CHAPTER METADATA
 
 **Book:** Leviticus
 **Chapter:** 26
@@ -13,13 +13,13 @@
 
 ---
 
-## 2. CHAPTER SUMMARY
+## CHAPTER SUMMARY
 
 God opens with three prohibitions: no idols, no graven image, no image of stone; keep My sabbaths; reverence My sanctuary. Then the blessing structure: if you walk in My statutes and keep My commandments — rain in due season, abundant harvests, peace, no evil beasts, no sword through the land, enemies fleeing, fruitfulness, multiplying, the covenant established, eating old provision, God's tabernacle among them, God walking among them, God their God, them His people — grounded in the Exodus. Then the curse structure, building in four waves, each introduced by "if ye will not yet hearken unto me": (1) Terror, consumption, burning fever, seed sown in vain, enemies eating it, fleeing when none pursues, defeat, (2) Pride of power broken, heaven as iron, earth as brass, strength spent in vain, no fruit, no increase, wild beasts among them devouring children and cattle, highways desolate, (3) Sword avengeing the covenant's quarrel, pestilence, being delivered to enemies, staff of bread broken, eating and not satisfied, (4) Walking in fury: cannibalism, high places destroyed, carcases on carcases of idols, cities waste, sanctuaries desolate, scatter among the heathen with drawn sword. Then: the land enjoys her sabbaths as long as it lies desolate — the land gets what it was never given. Those left will pine away in their iniquity. But: if they confess their iniquity and their fathers' iniquity, and their uncircumcised hearts are humbled, and they accept the punishment of their iniquity — then God will remember His covenant with Jacob, Isaac, and Abraham; He will remember the land. He will not cast them away or abhor them to destroy them utterly; He will not break His covenant with them; He will remember them.
 
 ---
 
-## 3. CROSS-REFERENCES (Scripture Interpreting Scripture)
+## CROSS-REFERENCES (Scripture Interpreting Scripture) (Scripture Interpreting Scripture)
 
 ### The Covenant Structure — Blessings and Curses
 
@@ -67,7 +67,7 @@ The Hebrew prophets operate as the announced implementation of this passage:
 
 ---
 
-## 4. KEYWORD INDEX
+## KEYWORD INDEX
 
 **For Current Events Matching:**
 - **National judgment / blessings and curses on nations** → Leviticus 26 — Deuteronomy 28; Proverbs 14:34
@@ -81,7 +81,7 @@ The Hebrew prophets operate as the announced implementation of this passage:
 
 ---
 
-## 5. KEY TERMS WITH CONTEXTUAL DEFINITIONS
+## KEY TERMS WITH CONTEXTUAL DEFINITIONS WITH CONTEXTUAL DEFINITIONS
 
 ### "SEVEN TIMES MORE" (Hebrew: sheva — seven)
 - **Leviticus 26:18, 21, 24, 28** — "I will punish you seven times more for your sins"
@@ -93,7 +93,7 @@ The Hebrew prophets operate as the announced implementation of this passage:
 
 ---
 
-## 6. THE ACTUAL VERSES — LEVITICUS 26 (KJV)
+## THE ACTUAL VERSES (KJV) — LEVITICUS 26 (KJV)
 
 **1** Ye shall make you no idols nor graven image, neither rear you up a standing image, neither shall ye set up any image of stone in your land, to bow down unto it: for I am the LORD your God.
 **2** Ye shall keep my sabbaths, and reverence my sanctuary: I am the LORD.
@@ -144,7 +144,7 @@ The Hebrew prophets operate as the announced implementation of this passage:
 
 ---
 
-## 7. PROPHETIC/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS/TYPOLOGICAL CONNECTIONS
 
 ### Leviticus 26 as the Skeleton of All Prophetic History
 
@@ -158,7 +158,7 @@ Leviticus 26 is not prediction — it is covenant mechanism. The prophets are no
 
 ---
 
-## 8. COMMONLY MISQUOTED PASSAGES
+## COMMONLY MISQUOTED PASSAGES PASSAGES
 
 ### Leviticus 26:1 — "No Images of Stone" Used Against All Art
 
@@ -174,7 +174,7 @@ Leviticus 26 is not prediction — it is covenant mechanism. The prophets are no
 
 ---
 
-## 9. SYMBOLIC THREADS
+## SYMBOLIC THREADS
 
 ### Heaven as Iron, Earth as Brass — The Closed-Heaven Symbol
 

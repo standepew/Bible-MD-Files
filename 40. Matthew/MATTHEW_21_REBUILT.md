@@ -283,7 +283,7 @@ Drew, nigh, Jerusalem, Bethphage, mount, Olives, Jesus, disciples, village, ass,
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Christ's Triumphant Entry as Type of Christ's Kingship
 - **Physical entry:** Mount Olives (Matthew 21:3)

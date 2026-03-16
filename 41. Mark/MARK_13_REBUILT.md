@@ -303,7 +303,7 @@ Went, temple, disciple, Master, stones, buildings, Jesus, answering, buildings, 
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Christ's Olivet Discourse as Type of Christ's Prophecy
 - **Physical discourse:** Stones buildings (Mark 13:4)

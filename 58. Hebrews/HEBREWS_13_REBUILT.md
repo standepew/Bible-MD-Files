@@ -217,7 +217,7 @@ Brotherly, love, continue, forgetful, entertain, strangers, entertained, angels,
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Practical Christian Living as Type of Christ's Loving Service
 - **Physical service:** Entertained angels (Hebrews 13:2)

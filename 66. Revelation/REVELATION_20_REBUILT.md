@@ -175,7 +175,7 @@ Angel, heaven, key, bottomless, pit, great, chain, hand, laid, hold, dragon, old
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Thousand-Year Reign as Type of Christ's Millennial Kingdom
 - **Physical millennial kingdom:** Thousand years (Revelation 20:3)

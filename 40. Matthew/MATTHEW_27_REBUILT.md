@@ -443,7 +443,7 @@ Morning, chief, priests, elders, counsel, Jesus, death, bound, led, delivered, P
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Christ's Crucifixion as Type of Christ's Atonement
 - **Physical crucifixion:** Pontius Pilate (Matthew 27:4)

@@ -313,7 +313,7 @@ Came, sea, country, Gadarenes, ship, unclean, spirit, dwelling, tombs, man, bind
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Christ's Power Over Demons as Type of Christ's Victory
 - **Physical demons:** Unclean spirit (Mark 5:4)

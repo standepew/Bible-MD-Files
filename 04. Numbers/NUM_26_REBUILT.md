@@ -2,7 +2,7 @@
 
 ---
 
-## 1. CHAPTER METADATA
+## CHAPTER METADATA
 
 **Book:** Numbers
 **Chapter:** 26
@@ -13,13 +13,13 @@
 
 ---
 
-## 2. CHAPTER SUMMARY
+## CHAPTER SUMMARY
 
 After the Baal-Peor plague, God tells Moses and Eleazar to take a new census — all males twenty and upward, able to go to war. The tribes are enumerated with their family clans. Notable insertions: the account of Korah, Dathan, and Abiram is recalled — and the note that "the children of Korah died not." Zelophehad of Manasseh had no sons, only five daughters (setting up the Numbers 27 case). The totals: Reuben 43,730; Simeon 22,200 (down sharply from 59,300 — the Zimri-Baal-Peor consequences visible); Gad 40,500; Judah 76,500 (largest); Issachar 64,300; Zebulun 60,500; Manasseh 52,700; Ephraim 32,500; Benjamin 45,600; Dan 64,400; Asher 53,400; Naphtali 45,400. Total: 601,730. The land is to be divided by lot — the lot determines which portion; the size of the tribe determines how much. The Levites are numbered from one month old: Gershon, Kohath, Merari — 23,000 males. Moses and Aaron's lineage briefly recorded: Jochebed the daughter of Levi; Aaron's sons — Nadab and Abihu died offering strange fire; Eleazar and Ithamar remain. Closing declaration: among those numbered, not one was among those numbered by Moses and Aaron at Sinai — for the LORD had said they would surely die in the wilderness. And so they had. None remained except Caleb son of Jephunneh and Joshua son of Nun.
 
 ---
 
-## 3. CROSS-REFERENCES (Scripture Interpreting Scripture)
+## CROSS-REFERENCES (Scripture Interpreting Scripture) (Scripture Interpreting Scripture)
 
 ### The Sentence Fulfilled — Not One Remained
 
@@ -53,7 +53,7 @@ After the Baal-Peor plague, God tells Moses and Eleazar to take a new census —
 
 ---
 
-## 4. KEYWORD INDEX
+## KEYWORD INDEX
 
 **For Current Events Matching:**
 - **Census / counting the people** → Numbers 26:2 — 2 Samuel 24:1-3 (David's forbidden census); Luke 2:1-3
@@ -64,7 +64,7 @@ After the Baal-Peor plague, God tells Moses and Eleazar to take a new census —
 
 ---
 
-## 5. KEY TERMS WITH CONTEXTUAL DEFINITIONS
+## KEY TERMS WITH CONTEXTUAL DEFINITIONS WITH CONTEXTUAL DEFINITIONS
 
 ### THEY BECAME A SIGN (Hebrew: nes — banner, sign, pole)
 - **Numbers 26:10** — "they became a sign" — speaking of Korah, Dathan, and Abiram
@@ -72,7 +72,7 @@ After the Baal-Peor plague, God tells Moses and Eleazar to take a new census —
 
 ---
 
-## 6. THE ACTUAL VERSES — NUMBERS 26 (KJV)
+## THE ACTUAL VERSES (KJV) — NUMBERS 26 (KJV)
 
 **1** And it came to pass after the plague, that the LORD spake unto Moses and unto Eleazar the son of Aaron the priest, saying,
 **2** Take the sum of all the congregation of the children of Israel, from twenty years old and upward, throughout their fathers' house, all that are able to go to war in Israel.
@@ -142,7 +142,7 @@ After the Baal-Peor plague, God tells Moses and Eleazar to take a new census —
 
 ---
 
-## 7. PROPHETIC/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS/TYPOLOGICAL CONNECTIONS
 
 ### The Census at the End — A New Creation After Judgment
 
@@ -153,7 +153,7 @@ The first census (Numbers 1) numbered Israel at the beginning of the wilderness 
 
 ---
 
-## 8. COMMONLY MISQUOTED PASSAGES
+## COMMONLY MISQUOTED PASSAGES PASSAGES
 
 ### Numbers 26:54-56 — "The Land by Lot" Used to Argue That Luck Governs Outcomes
 
@@ -163,7 +163,7 @@ The first census (Numbers 1) numbered Israel at the beginning of the wilderness 
 
 ---
 
-## 9. SYMBOLIC THREADS
+## SYMBOLIC THREADS
 
 ### The Simeon Thread — The Tribe That Disappears
 

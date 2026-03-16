@@ -225,7 +225,7 @@ Apostles, brethren, Judaea, heard, Gentiles, received, word, God, Peter, Jerusal
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Peter Reports to Jerusalem as Type of Christ's Testimony
 - **Physical report:** Peter rehearsed (Acts 11:7)

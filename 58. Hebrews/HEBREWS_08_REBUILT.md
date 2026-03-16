@@ -157,7 +157,7 @@ Sum, high, priest, set, right, hand, throne, Majesty, heavens, minister, sanctua
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Christ's Heavenly Ministry as Type of Christ's Exaltation
 - **Physical exaltation:** Right hand (Hebrews 8:2)

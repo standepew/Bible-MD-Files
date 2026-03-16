@@ -189,7 +189,7 @@ Lamb, opened, seals, noise, thunder, four, beasts, Come, white, horse, sat, bow,
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The First Six Seals as Type of Christ's Progressive Judgment
 - **Physical judgment:** White horse (Revelation 6:2)

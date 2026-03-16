@@ -183,7 +183,7 @@ Paul, prisoner, Jesus, Christ, Timothy, brother, Philemon, dearly, beloved, fell
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Paul's Greeting as Type of Christ's Commission
 - **Physical commission:** Prisoner Christ (Philemon 1:2)

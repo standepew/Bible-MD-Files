@@ -341,7 +341,7 @@ Second, sabbath, corn, fields, disciples, plucked, ears, corn, eat, rubbing, han
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Lord of the Sabbath as Type of Christ's Authority
 - **Physical sabbath:** Corn fields (Luke 6:4)

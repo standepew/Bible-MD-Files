@@ -215,7 +215,7 @@ Brethren, grace, God, bestowed, churches, Macedonia, great, trial, affliction, a
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Grace of Giving as Type of Christ's Generosity
 - **Physical generosity:** Riches liberality (2 Corinthians 8:4)

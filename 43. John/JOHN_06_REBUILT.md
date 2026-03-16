@@ -369,7 +369,7 @@ Jesus, sea, Galilee, sea, Tiberias, great, multitude, followed, miracles, diseas
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Feeding the Five Thousand as Type of Christ's Provision
 - **Physical feeding:** Five thousand (John 6:10)

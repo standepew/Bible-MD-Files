@@ -281,7 +281,7 @@ Truth, Christ, lie, conscience, bearing, witness, Holy, Ghost, great, heaviness,
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Paul's Sorrow for Israel as Type of Christ's Compassion
 - **Physical compassion:** Great heaviness (Romans 9:4)

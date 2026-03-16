@@ -283,7 +283,7 @@ Jesus, answered, parables, kingdom, heaven, king, marriage, son, sent, servants,
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Christ's Wedding Feast as Type of Christ's Salvation
 - **Physical feast:** Marriage son (Matthew 22:4)

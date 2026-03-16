@@ -303,7 +303,7 @@ Jesus, entered, passed, Jericho, man, Zacchæus, chief, publicans, rich, sought,
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Zacchaeus Climbs the Tree as Type of Christ's Seeking
 - **Physical tree:** Sycomore tree (Luke 19:4)

@@ -251,7 +251,7 @@ Man, Pharisees, Nicodemus, ruler, Jews, Jesus, night, Rabbi, know, teacher, God,
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Nicodemus and the New Birth as Type of Christ's Salvation
 - **Physical birth:** Born again (John 3:5)

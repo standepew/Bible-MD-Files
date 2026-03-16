@@ -211,7 +211,7 @@ Shewed, pure, river, water, life, clear, crystal, proceeding, throne, God, Lamb,
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The River of Life as Type of Christ's Eternal Provision
 - **Physical eternal provision:** River water (Revelation 22:2)

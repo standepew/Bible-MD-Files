@@ -313,7 +313,7 @@ End, sabbath, dawn, first, day, week, Mary, Magdalene, Mary, sepulchre, earthqua
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Christ's Resurrection as Type of Christ's Victory
 - **Physical resurrection:** First day (Matthew 28:3)

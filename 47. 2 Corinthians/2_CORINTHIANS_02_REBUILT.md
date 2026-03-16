@@ -177,7 +177,7 @@ Determined, come, heaviness, make, sorry, glad, sorry, wrote, sorrow, rejoice, c
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Paul's Change of Plans as Type of Christ's Compassion
 - **Physical compassion:** Love abundantly (2 Corinthians 2:6)

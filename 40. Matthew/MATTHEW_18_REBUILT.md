@@ -249,7 +249,7 @@ Disciples, Jesus, greatest, kingdom, heaven, Jesus, called, child, midst, Verily
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Christ's Childlike Humility as Type of Christ's Meekness
 - **Physical humility:** Little children (Matthew 18:4)

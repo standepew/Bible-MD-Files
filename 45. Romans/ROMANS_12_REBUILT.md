@@ -197,7 +197,7 @@ Beseech, brethren, mercies, God, present, bodies, living, sacrifice, holy, accep
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Living Sacrifices as Type of Christ's Sacrifice
 - **Physical sacrifice:** Living sacrifice (Romans 12:3)

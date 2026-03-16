@@ -177,7 +177,7 @@ Four, angels, standing, four, corners, earth, holding, four, winds, earth, wind,
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The 144,000 Sealed as Type of Christ's Protected People
 - **Physical protection:** Four winds (Revelation 7:2)

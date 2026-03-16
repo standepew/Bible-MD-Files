@@ -229,7 +229,7 @@ Heart, troubled, believe, God, believe, Father, house, mansions, told, prepare, 
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Way, the Truth, and the Life as Type of Christ's Exclusivity
 - **Physical way:** Way truth life (John 14:8)

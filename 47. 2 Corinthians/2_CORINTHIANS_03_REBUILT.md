@@ -179,7 +179,7 @@ Begin, commend, commend, epistles, commendation, epistles, commendation, epistle
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Epistle of Christ as Type of Christ's Message
 - **Physical message:** Epistle Christ (2 Corinthians 3:4)

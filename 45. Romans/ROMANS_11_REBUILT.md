@@ -287,7 +287,7 @@ God, cast, people, God, forbid, Israelite, seed, Abraham, tribe, Benjamin, God, 
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### God Has Not Cast Away Israel as Type of Christ's Faithfulness
 - **Physical faithfulness:** Cast away (Romans 11:3)

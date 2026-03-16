@@ -219,7 +219,7 @@ Peter, apostle, Jesus, Christ, strangers, scattered, Pontus, Galatia, Cappadocia
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Living Hope Through Resurrection as Type of Christ's Resurrection Hope
 - **Physical hope:** Lively hope (1 Peter 1:4)

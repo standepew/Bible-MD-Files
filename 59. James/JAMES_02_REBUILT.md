@@ -207,7 +207,7 @@ Brethren, faith, Lord, Jesus, Christ, Lord, glory, respect, persons, assembly, m
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### No Respect of Persons as Type of Christ's Impartial Ministry
 - **Physical ministry:** Respect persons (James 2:2)

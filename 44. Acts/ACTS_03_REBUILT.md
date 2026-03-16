@@ -195,7 +195,7 @@ Peter, John, temple, hour, prayer, ninth, hour, man, lame, mother, womb, carried
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Healing of the Lame Man as Type of Christ's Restoration
 - **Physical healing:** Rise walk (Acts 3:8)

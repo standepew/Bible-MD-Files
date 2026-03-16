@@ -176,3 +176,9 @@ While Moses is 40 days on the mountain, the people demand gods from Aaron. Aaron
 ---
 
 **End of Exodus Chapter 32**
+
+---
+
+## SYMBOLIC THREADS
+
+*No distinct symbolic threads requiring cross-reference definition in this chapter. See cross-references above for scripture-interpreting-scripture connections.*

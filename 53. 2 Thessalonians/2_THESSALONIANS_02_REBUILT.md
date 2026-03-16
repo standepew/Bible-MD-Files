@@ -169,7 +169,7 @@ Beseech, brethren, coming, Lord, Jesus, Christ, gathering, shaken, mind, trouble
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Day of Christ as Type of Christ's Return
 - **Physical return:** Day Christ (2 Thessalonians 2:2)

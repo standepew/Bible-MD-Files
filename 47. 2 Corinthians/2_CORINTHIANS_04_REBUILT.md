@@ -191,7 +191,7 @@ Ministry, received, mercy, faint, renounced, hidden, things, dishonesty, walking
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Ministry of Reconciliation as Type of Christ's Ambassadorship
 - **Physical ambassadorship:** Manifestation truth (2 Corinthians 4:3)

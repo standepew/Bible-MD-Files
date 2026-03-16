@@ -265,7 +265,7 @@ Spake, people, priests, captain, temple, Sadducees, grieved, taught, people, pre
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Peter and John Before the Council as Type of Christ's Persecution
 - **Physical persecution:** Council gathered (Acts 4:7)

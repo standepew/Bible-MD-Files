@@ -193,7 +193,7 @@ Seven, angels, seven, vials, talked, saying, Come, shew, judgment, great, whore,
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Great Whore as Type of Christ's Spiritual Corruption
 - **Physical spiritual corruption:** Great whore (Revelation 17:2)

@@ -403,7 +403,7 @@ Multitude, trode, disciples, Beware, leaven, Pharisees, hypocrisy, covered, reve
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Warning Against Hypocrisy as Type of Christ's Judgment
 - **Physical warning:** Leaven hypocrisy (Luke 12:4)

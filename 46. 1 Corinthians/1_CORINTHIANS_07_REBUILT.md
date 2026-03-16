@@ -295,7 +295,7 @@ Concerning, wrote, man, touch, woman, avoid, fornication, man, wife, woman, husb
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Marriage and Singleness as Type of Christ's Relationship
 - **Physical relationship:** Touch woman (1 Corinthians 7:3)

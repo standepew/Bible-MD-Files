@@ -201,7 +201,7 @@ Brethren, speak, spiritual, carnal, babes, Christ, fed, milk, meat, bear, carnal
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Carnal Christians as Type of Christ's Patience
 - **Physical patience:** Babes Christ (1 Corinthians 3:3)

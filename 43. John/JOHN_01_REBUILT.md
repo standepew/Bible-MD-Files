@@ -317,7 +317,7 @@ Beginning, Word, God, Word, with, Word, God, beginning, God, things, made, witho
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Word Became Flesh as Type of Christ's Incarnation
 - **Physical Word:** Beginning Word (John 1:3)

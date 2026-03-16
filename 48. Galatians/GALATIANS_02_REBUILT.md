@@ -197,7 +197,7 @@ Fourteen, years, Jerusalem, Barnabas, Titus, revelation, communicated, gospel, p
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Jerusalem Council as Type of Christ's Authority
 - **Physical authority:** Liberty Christ (Galatians 2:4)

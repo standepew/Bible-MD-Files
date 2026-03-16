@@ -253,7 +253,7 @@ Spiritual, gifts, brethren, ignorant, Gentiles, carried, dumb, idols, led, under
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Spiritual Gifts as Type of Christ's Power
 - **Physical power:** Working miracles (1 Corinthians 12:9)

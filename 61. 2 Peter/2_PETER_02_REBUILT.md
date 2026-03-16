@@ -189,7 +189,7 @@ False, prophets, people, false, teachers, privily, damnable, heresies, denying, 
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### False Teachers and Their Destruction as Type of Christ's Victory Over Error
 - **Physical victory:** Swift destruction (2 Peter 2:2)

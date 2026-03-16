@@ -193,7 +193,7 @@ Stood, sand, sea, beast, rise, sea, seven, heads, ten, horns, horns, ten, crowns
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Beast from the Sea as Type of Christ's Spiritual Opposition
 - **Physical spiritual opposition:** Beast rise (Revelation 13:2)

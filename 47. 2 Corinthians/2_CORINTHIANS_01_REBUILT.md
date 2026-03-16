@@ -215,7 +215,7 @@ Paul, apostle, Jesus, Christ, will, God, Timothy, brother, church, God, Corinth,
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Comfort in Tribulation as Type of Christ's Compassion
 - **Physical compassion:** God comfort (2 Corinthians 1:4)

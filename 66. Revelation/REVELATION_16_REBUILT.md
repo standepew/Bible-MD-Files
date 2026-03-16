@@ -199,7 +199,7 @@ Great, voice, temple, seven, angels, ways, pour, vials, wrath, God, earth, first
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Seven Vials of Wrath as Type of Christ's Complete Judgment
 - **Physical complete judgment:** Vials wrath (Revelation 16:2)

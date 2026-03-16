@@ -231,7 +231,7 @@ Five, days, Ananias, high, priest, descended, elders, orator, Tertullus, informe
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Paul Before Felix as Type of Christ's Trial
 - **Physical trial:** Worthy deeds (Acts 24:5)

@@ -277,7 +277,7 @@ Paul, servant, Jesus, Christ, called, apostle, separated, gospel, God, promised,
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Paul's Introduction as Type of Christ's Commission
 - **Physical commission:** Seed David (Romans 1:5)

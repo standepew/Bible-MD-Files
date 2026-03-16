@@ -129,3 +129,15 @@ Bezaleel himself makes the Ark of shittim wood — 2.5 by 1.5 by 1.5 cubits — 
 ---
 
 **End of Exodus Chapter 37**
+
+---
+
+## COMMONLY MISQUOTED PASSAGES
+
+*No passages in this chapter are commonly misquoted or frequently taken out of context in a way that distorts the chapter's meaning.*
+
+---
+
+## SYMBOLIC THREADS
+
+*No distinct symbolic threads requiring cross-reference definition in this chapter. See cross-references above for scripture-interpreting-scripture connections.*

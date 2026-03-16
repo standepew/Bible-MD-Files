@@ -157,7 +157,7 @@ Forbear, thought, good, left, Athens, alone, sent, Timotheus, brother, minister,
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Timothy Sent to Thessalonica as Type of Christ's Mission
 - **Physical mission:** Establish faith (1 Thessalonians 3:4)

@@ -217,7 +217,7 @@ Son, strong, grace, Christ, Jesus, things, heard, many, witnesses, commit, faith
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Be Strong in Grace as Type of Christ's Power
 - **Physical power:** Strong grace (2 Timothy 2:2)

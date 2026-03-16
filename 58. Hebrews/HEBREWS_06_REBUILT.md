@@ -185,7 +185,7 @@ Leaving, principles, doctrine, Christ, perfection, foundation, repentance, dead,
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Going on to Perfection as Type of Christ's Maturity
 - **Physical maturity:** Perfection (Hebrews 6:2)

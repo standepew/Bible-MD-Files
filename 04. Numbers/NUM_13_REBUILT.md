@@ -2,7 +2,7 @@
 
 ---
 
-## 1. CHAPTER METADATA
+## CHAPTER METADATA
 
 **Book:** Numbers
 **Chapter:** 13
@@ -13,13 +13,13 @@
 
 ---
 
-## 2. CHAPTER SUMMARY
+## CHAPTER SUMMARY
 
 God commands Moses to send men to search out Canaan — one ruler per tribe. Twelve named men are sent from the wilderness of Paran, including Caleb of Judah and Oshea (Joshua) of Ephraim, whose name Moses changes to Jehoshua. They are instructed to go up through the south into the mountain, to observe the land, the people, the cities, the soil, and to bring back fruit — it is the time of the first ripe grapes. They search from the wilderness of Zin to Rehob by Hamath. They reach Hebron where the children of Anak dwell. At the brook Eshcol they cut a single cluster of grapes requiring two men and a staff to carry it, plus pomegranates and figs. After forty days they return to Kadesh. Their report to Moses, Aaron, and all the congregation: the land indeed flows with milk and honey — here is the fruit. But — the people are strong, the cities walled and great, the children of Anak are there, Amalekites in the south, Hittites/Jebusites/Amorites in the mountains, Canaanites by the sea and Jordan. Caleb alone speaks up: "Let us go up at once, and possess it; for we are well able to overcome it." The other ten immediately disagree: "We be not able to go up against the people; for they are stronger than we." They bring an evil report: the land devours its inhabitants; all the people are men of great stature; there we saw the giants, the sons of Anak — and we were in our own sight as grasshoppers, and so we were in their sight.
 
 ---
 
-## 3. CROSS-REFERENCES (Scripture Interpreting Scripture)
+## CROSS-REFERENCES (Scripture Interpreting Scripture) (Scripture Interpreting Scripture)
 
 ### Caleb's Spirit — "Another Spirit"
 
@@ -56,7 +56,7 @@ The ten spies define the problem precisely. They did not report what God said ab
 
 ---
 
-## 4. KEYWORD INDEX
+## KEYWORD INDEX
 
 **For Current Events Matching:**
 - **Spy reports / intelligence gathering** → Numbers 13:17-20 — Moses' briefing; assess the land, the people, the defences, the fruit
@@ -67,7 +67,7 @@ The ten spies define the problem precisely. They did not report what God said ab
 
 ---
 
-## 5. KEY TERMS WITH CONTEXTUAL DEFINITIONS
+## KEY TERMS WITH CONTEXTUAL DEFINITIONS WITH CONTEXTUAL DEFINITIONS
 
 ### EVIL REPORT (Hebrew: dibbah — slander, whispering, defamation)
 - **Numbers 13:32** — "they brought up an evil report of the land"
@@ -79,7 +79,7 @@ The ten spies define the problem precisely. They did not report what God said ab
 
 ---
 
-## 6. THE ACTUAL VERSES — NUMBERS 13 (KJV)
+## THE ACTUAL VERSES (KJV) — NUMBERS 13 (KJV)
 
 **1** And the LORD spake unto Moses, saying,
 **2** Send thou men, that they may search the land of Canaan, which I give unto the children of Israel: of every tribe of their fathers shall ye send a man, every one a ruler among them.
@@ -117,7 +117,7 @@ The ten spies define the problem precisely. They did not report what God said ab
 
 ---
 
-## 7. PROPHETIC/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS/TYPOLOGICAL CONNECTIONS
 
 ### The Cluster of Grapes on a Staff — Two Men, One Burden
 
@@ -134,7 +134,7 @@ The Eshcol cluster, requiring two carriers on a staff, is the only individual pi
 
 ---
 
-## 8. COMMONLY MISQUOTED PASSAGES
+## COMMONLY MISQUOTED PASSAGES PASSAGES
 
 ### Numbers 13:27 — "It Floweth with Milk and Honey" Used in Isolation
 
@@ -148,7 +148,7 @@ The Eshcol cluster, requiring two carriers on a staff, is the only individual pi
 
 ---
 
-## 9. SYMBOLIC THREADS
+## SYMBOLIC THREADS
 
 ### Forty Days — The Testing Number
 

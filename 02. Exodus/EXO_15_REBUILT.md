@@ -178,6 +178,12 @@ Moses and Israel sing the Song of Moses — the first great hymn of Scripture �
 
 ---
 
+## COMMONLY MISQUOTED PASSAGES
+
+*No passages in this chapter are commonly misquoted or frequently taken out of context in a way that distorts the chapter's meaning.*
+
+---
+
 ## SYMBOLIC THREADS
 
 ### Three Days Without Water → Provision — The Resurrection Pattern

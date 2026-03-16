@@ -283,7 +283,7 @@ People, pressed, hear, word, God, lake, Gennesaret, ships, lake, fishermen, gone
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Calling of the First Disciples as Type of Christ's Mission
 - **Physical calling:** Lake Gennesaret (Luke 5:4)

@@ -2,7 +2,7 @@
 
 ---
 
-## 1. CHAPTER METADATA
+## CHAPTER METADATA
 
 **Book:** Numbers
 **Chapter:** 17
@@ -13,13 +13,13 @@
 
 ---
 
-## 2. CHAPTER SUMMARY
+## CHAPTER SUMMARY
 
 Following the Korah rebellion and the 14,700-plague, God commands Moses to collect twelve rods — one per tribe, each prince's name inscribed on his rod, Aaron's name on Levi's rod. All twelve are placed overnight in the Tabernacle before the Testimony. God's declared sign: "the man's rod, whom I shall choose, shall blossom." In the morning Moses brings out all twelve. Aaron's rod alone has budded, bloomed blossoms, and yielded ripe almonds — all three stages of life simultaneously on dead wood. Moses shows all twelve rods to all the princes; each takes back his dead rod. God commands: return Aaron's rod before the Testimony to be kept as a token against the rebels — to end the murmuring so Israel does not die. Moses does exactly as commanded. The people respond: "Behold, we die, we perish, we all perish. Whosoever cometh any thing near unto the tabernacle of the LORD shall die: shall we be consumed with dying?"
 
 ---
 
-## 3. CROSS-REFERENCES (Scripture Interpreting Scripture)
+## CROSS-REFERENCES (Scripture Interpreting Scripture) (Scripture Interpreting Scripture)
 
 ### Dead Wood Brought to Life — The Resurrection Argument for Divine Appointment
 
@@ -56,7 +56,7 @@ The irony is complete: the sign designed to end the murmuring (v.5) produces a n
 
 ---
 
-## 4. KEYWORD INDEX
+## KEYWORD INDEX
 
 **For Current Events Matching:**
 - **Authority validated by supernatural signs** → Numbers 17:8 — Romans 1:4; Acts 2:22; Hebrews 5:4-5
@@ -67,7 +67,7 @@ The irony is complete: the sign designed to end the murmuring (v.5) produces a n
 
 ---
 
-## 5. KEY TERMS WITH CONTEXTUAL DEFINITIONS
+## KEY TERMS WITH CONTEXTUAL DEFINITIONS WITH CONTEXTUAL DEFINITIONS
 
 ### ALMOND / SHAQED (Hebrew: shaqed — almond; from shaqad — to watch, to wake)
 - **Numbers 17:8** — "yielded almonds"
@@ -79,7 +79,7 @@ The irony is complete: the sign designed to end the murmuring (v.5) produces a n
 
 ---
 
-## 6. THE ACTUAL VERSES — NUMBERS 17 (KJV)
+## THE ACTUAL VERSES (KJV) — NUMBERS 17 (KJV)
 
 **1** And the LORD spake unto Moses, saying,
 **2** Speak unto the children of Israel, and take of every one of them a rod according to the house of their fathers, of all their princes according to the house of their fathers twelve rods: write thou every man's name upon his rod.
@@ -97,7 +97,7 @@ The irony is complete: the sign designed to end the murmuring (v.5) produces a n
 
 ---
 
-## 7. PROPHETIC/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS/TYPOLOGICAL CONNECTIONS
 
 ### The Three Objects Before the Testimony — Law, Manna, Rod
 
@@ -115,7 +115,7 @@ These three together constitute the permanent testimony in the holy of holies: G
 
 ---
 
-## 8. COMMONLY MISQUOTED PASSAGES
+## COMMONLY MISQUOTED PASSAGES PASSAGES
 
 ### Numbers 17:12-13 — "We Shall All Perish" Used to Argue That Drawing Near to God Is Dangerous for New Covenant Believers
 
@@ -131,7 +131,7 @@ These three together constitute the permanent testimony in the holy of holies: G
 
 ---
 
-## 9. SYMBOLIC THREADS
+## SYMBOLIC THREADS
 
 ### The Rod Thread — From Dead Wood to Ruling Sceptre
 

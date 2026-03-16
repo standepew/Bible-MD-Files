@@ -243,7 +243,7 @@ Six, days, Jesus, taketh, Peter, James, John, brother, bringeth, high, mountain,
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Christ's Transfiguration as Type of Christ's Glory
 - **Physical transfiguration:** Transfigured face (Matthew 17:4)

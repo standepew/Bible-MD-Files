@@ -277,7 +277,7 @@ Pharisees, scribes, Jerusalem, disciples, eat, bread, defiled, unwashen, hands, 
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Christ's Teaching on Tradition as Type of Christ's Authority
 - **Physical teaching:** Unwashen hands (Mark 7:4)

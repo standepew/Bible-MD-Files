@@ -259,7 +259,7 @@ Paul, earnestly, beholding, council, Men, brethren, lived, conscience, God, day,
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Paul Before the Council as Type of Christ's Trial
 - **Physical trial:** Whited wall (Acts 23:5)

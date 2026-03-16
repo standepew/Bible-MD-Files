@@ -277,7 +277,7 @@ Agrippa, Paul, permitted, speak, stretched, hand, answered, happy, king, Agrippa
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Paul's Defense Before Agrippa as Type of Christ's Testimony
 - **Physical testimony:** Stretched hand (Acts 26:4)

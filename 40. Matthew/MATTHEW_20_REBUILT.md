@@ -259,7 +259,7 @@ Kingdom, heaven, householder, early, morning, hire, labourers, vineyard, agreed,
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Christ's Laborers Parable as Type of Christ's Grace
 - **Physical parable:** Householder vineyard (Matthew 20:3)

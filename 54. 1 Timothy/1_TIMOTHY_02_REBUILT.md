@@ -149,7 +149,7 @@ Exhort, supplications, prayers, intercessions, giving, thanks, men, kings, autho
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Prayer for All Men as Type of Christ's Intercession
 - **Physical intercession:** Knowledge truth (1 Timothy 2:3)

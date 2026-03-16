@@ -199,7 +199,7 @@ Melchisedec, king, Salem, priest, high, God, met, Abraham, returning, slaughter,
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Melchizedek's Priesthood as Type of Christ's Eternal Priesthood
 - **Physical priesthood:** King Salem (Hebrews 7:2)

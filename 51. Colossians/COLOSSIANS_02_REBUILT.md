@@ -201,7 +201,7 @@ Great, conflict, Laodicea, seen, face, flesh, hearts, comforted, knit, love, ric
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Paul's Conflict as Type of Christ's Warfare
 - **Physical warfare:** Great conflict (Colossians 2:3)

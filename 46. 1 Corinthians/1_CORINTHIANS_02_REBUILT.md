@@ -175,7 +175,7 @@ Brethren, came, excellency, speech, wisdom, declaring, testimony, God, determine
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Christ Crucified as Type of Christ's Sacrifice
 - **Physical sacrifice:** Christ crucified (1 Corinthians 2:4)

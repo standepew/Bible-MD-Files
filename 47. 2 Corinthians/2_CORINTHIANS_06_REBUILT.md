@@ -179,7 +179,7 @@ Workers, together, beseech, receive, grace, God, vain, heard, time, accepted, da
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Workers Together with God as Type of Christ's Cooperation
 - **Physical cooperation:** Day salvation (2 Corinthians 6:3)

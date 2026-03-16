@@ -387,7 +387,7 @@ Two, days, feast, passover, unleavened, bread, chief, priests, scribes, craft, d
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Christ's Anointing as Type of Christ's Burial
 - **Physical anointing:** Alabaster box (Mark 14:5)

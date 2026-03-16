@@ -169,7 +169,7 @@ Speak, tongues, men, angels, charity, sounding, brass, tinkling, cymbal, gift, p
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Excellence of Charity as Type of Christ's Love
 - **Physical love:** Sounding brass (1 Corinthians 13:3)

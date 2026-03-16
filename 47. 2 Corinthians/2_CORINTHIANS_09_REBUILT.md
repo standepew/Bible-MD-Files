@@ -161,7 +161,7 @@ Touching, ministering, saints, superfluous, write, forwardness, mind, boast, Mac
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Principles of Giving as Type of Christ's Service
 - **Physical service:** Forwardness mind (2 Corinthians 9:3)

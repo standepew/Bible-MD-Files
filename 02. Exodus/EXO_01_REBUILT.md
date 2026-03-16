@@ -197,6 +197,12 @@ Exodus opens where Genesis closed — with Israel in Egypt. The seventy souls wh
 
 ---
 
+## COMMONLY MISQUOTED PASSAGES
+
+*No passages in this chapter are commonly misquoted or frequently taken out of context in a way that distorts the chapter's meaning.*
+
+---
+
 ## SYMBOLIC THREADS
 
 ### The River (Nile) — Judgment and Salvation

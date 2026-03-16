@@ -2,7 +2,7 @@
 
 ---
 
-## 1. CHAPTER METADATA
+## CHAPTER METADATA
 
 **Book:** Leviticus
 **Chapter:** 25
@@ -13,13 +13,13 @@
 
 ---
 
-## 2. CHAPTER SUMMARY
+## CHAPTER SUMMARY
 
 Spoken to Moses in mount Sinai. The land shall keep a Sabbath to the LORD every seventh year — no sowing, pruning, or reaping; whatever grows of itself is for all (the owner, servants, stranger, cattle, and wild beasts). After seven sabbaths of years (49 years), on the Day of Atonement of the fiftieth year, the trumpet of Jubilee sounds throughout the land. The fiftieth year is the Jubilee: liberty proclaimed to all inhabitants; every man returns to his possession and his family; no sowing or reaping; eat what grows of itself. All land-sale in Israel is actually a lease on the number of harvests remaining until the Jubilee — prices must be calculated accordingly. No oppression of one another; fear God. God promises: if you keep the Sabbath year He will bless the sixth year with a three-year harvest. The land cannot be sold permanently — it belongs to the LORD; Israel are sojourners on His land. All land reverts to its original family at Jubilee. The kinsman-redeemer may buy back land sold by a poor brother. A poor brother's debts must be aided without usury — "that thy brother may live with thee." If a brother sells himself into debt-slavery to a fellow Israelite, he serves as a hired servant until Jubilee, then goes free with his children. No ruler with rigour over a fellow Israelite. Foreign servants may be purchased and kept as permanent bondmen. An Israelite who sells himself to a wealthy foreign sojourner in the land may be redeemed by a kinsman; his price is calculated by the years remaining to Jubilee. If not redeemed, he goes free at Jubilee regardless. "For unto me the children of Israel are servants; they are my servants whom I brought forth out of the land of Egypt: I am the LORD your God."
 
 ---
 
-## 3. CROSS-REFERENCES (Scripture Interpreting Scripture)
+## CROSS-REFERENCES (Scripture Interpreting Scripture) (Scripture Interpreting Scripture)
 
 ### "Proclaim Liberty Throughout All the Land" — Isaiah and Luke 4
 
@@ -57,7 +57,7 @@ Spoken to Moses in mount Sinai. The land shall keep a Sabbath to the LORD every 
 
 ---
 
-## 4. KEYWORD INDEX
+## KEYWORD INDEX
 
 **For Current Events Matching:**
 - **Debt cancellation / year of release / economic reset** → Leviticus 25:10-13 — Isaiah 61:1-2; Luke 4:18-21
@@ -69,7 +69,7 @@ Spoken to Moses in mount Sinai. The land shall keep a Sabbath to the LORD every 
 
 ---
 
-## 5. KEY TERMS WITH CONTEXTUAL DEFINITIONS
+## KEY TERMS WITH CONTEXTUAL DEFINITIONS WITH CONTEXTUAL DEFINITIONS
 
 ### JUBILEE (Hebrew: yovel)
 - **Leviticus 25:10-13** — yovel = the ram's horn; the trumpet signal of the year; by extension the year itself
@@ -85,7 +85,7 @@ Spoken to Moses in mount Sinai. The land shall keep a Sabbath to the LORD every 
 
 ---
 
-## 6. THE ACTUAL VERSES — LEVITICUS 25 (KJV)
+## THE ACTUAL VERSES (KJV) — LEVITICUS 25 (KJV)
 
 **1** And the LORD spake unto Moses in mount Sinai, saying,
 **2** Speak unto the children of Israel, and say unto them, When ye come into the land which I give you, then shall the land keep a sabbath unto the LORD.
@@ -145,7 +145,7 @@ Spoken to Moses in mount Sinai. The land shall keep a Sabbath to the LORD every 
 
 ---
 
-## 7. PROPHETIC/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS/TYPOLOGICAL CONNECTIONS
 
 ### Day of Atonement Triggers the Jubilee — The Atonement Precedes the Liberty
 
@@ -161,7 +161,7 @@ The Jubilee is announced on Yom Kippur. This sequence is not accidental:
 
 ---
 
-## 8. COMMONLY MISQUOTED PASSAGES
+## COMMONLY MISQUOTED PASSAGES PASSAGES
 
 ### Leviticus 25:44-46 — Used to Justify Chattel Slavery
 
@@ -176,7 +176,7 @@ The Jubilee is announced on Yom Kippur. This sequence is not accidental:
 
 ---
 
-## 9. SYMBOLIC THREADS
+## SYMBOLIC THREADS
 
 ### The Jubilee — The Bible's Great Reset Symbol
 

@@ -173,7 +173,7 @@ Cause, Paul, prisoner, Jesus, Christ, Gentiles, heard, dispensation, grace, God,
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Mystery of Christ as Type of Christ's Revelation
 - **Physical revelation:** Mystery Christ (Ephesians 3:4)

@@ -215,7 +215,7 @@ Collection, saints, order, churches, Galatia, first, day, week, lay, store, God,
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Collection for Saints as Type of Christ's Provision
 - **Physical provision:** Collection saints (1 Corinthians 16:3)

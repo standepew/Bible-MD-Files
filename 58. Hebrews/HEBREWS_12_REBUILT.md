@@ -239,7 +239,7 @@ Cloud, witnesses, lay, aside, weight, sin, beset, run, patience, race, set, look
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Race of Faith as Type of Christ's Perfect Race
 - **Physical race:** Race set (Hebrews 12:2)

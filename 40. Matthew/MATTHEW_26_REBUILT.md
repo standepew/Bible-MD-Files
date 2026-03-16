@@ -389,7 +389,7 @@ Jesus, finished, sayings, disciples, feast, passover, Son, man, betrayed, crucif
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Christ's Passion Begins as Type of Christ's Sacrifice
 - **Physical passion:** Betrayed crucified (Matthew 26:4)

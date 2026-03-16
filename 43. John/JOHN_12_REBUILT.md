@@ -305,7 +305,7 @@ Jesus, six, days, passover, Bethany, Lazarus, dead, raised, supper, Martha, serv
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Mary Anoints Jesus as Type of Christ's Preparation
 - **Physical anointing:** Mary anointed (John 12:3)

@@ -197,7 +197,7 @@ Sabbath, past, Mary, Magdalene, mother, James, Salome, bought, sweet, spices, an
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Christ's Resurrection as Type of Christ's Victory
 - **Physical resurrection:** Risen not (Mark 16:8)

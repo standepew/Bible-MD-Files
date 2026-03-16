@@ -259,7 +259,7 @@ Inexcusable, man, judgest, judgest, condemnest, judgest, things, judgment, God, 
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### God's Righteous Judgment as Type of Christ's Judgment
 - **Physical judgment:** Inexcusable man (Romans 2:3)

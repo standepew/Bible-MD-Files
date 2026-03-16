@@ -259,7 +259,7 @@ Saul, consenting, death, great, persecution, church, Jerusalem, scattered, abroa
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Persecution Scatters the Church as Type of Christ's Suffering
 - **Physical persecution:** Great persecution (Acts 8:3)

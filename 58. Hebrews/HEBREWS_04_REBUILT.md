@@ -165,7 +165,7 @@ Fear, promise, entering, rest, seem, short, gospel, preached, word, preached, pr
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Promise of Rest as Type of Christ's Salvation
 - **Physical salvation:** Promise rest (Hebrews 4:2)

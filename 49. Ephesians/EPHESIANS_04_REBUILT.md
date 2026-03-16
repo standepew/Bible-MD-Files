@@ -231,7 +231,7 @@ Prisoner, Lord, beseech, walk, worthy, vocation, called, lowliness, meekness, lo
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Unity of the Spirit as Type of Christ's Body
 - **Physical body:** Unity Spirit (Ephesians 4:3)

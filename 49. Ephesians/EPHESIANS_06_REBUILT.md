@@ -191,7 +191,7 @@ Children, obey, parents, Lord, right, Honour, father, mother, commandment, promi
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Family Relationships as Type of Christ's Household
 - **Physical household:** In the Lord (Ephesians 6:3)

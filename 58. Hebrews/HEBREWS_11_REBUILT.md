@@ -235,7 +235,7 @@ Faith, substance, things, hoped, evidence, things, seen, elders, obtained, good,
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Definition of Faith as Type of Christ's Perfect Faith
 - **Physical faith:** Substance hoped (Hebrews 11:2)

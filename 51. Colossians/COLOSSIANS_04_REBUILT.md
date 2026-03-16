@@ -167,7 +167,7 @@ Masters, servants, just, equal, knowing, Master, heaven, Continue, prayer, watch
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Masters and Servants as Type of Christ's Lordship
 - **Physical lordship:** Master heaven (Colossians 4:2)

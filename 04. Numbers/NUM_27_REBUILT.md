@@ -2,7 +2,7 @@
 
 ---
 
-## 1. CHAPTER METADATA
+## CHAPTER METADATA
 
 **Book:** Numbers
 **Chapter:** 27
@@ -13,13 +13,13 @@
 
 ---
 
-## 2. CHAPTER SUMMARY
+## CHAPTER SUMMARY
 
 Five daughters of Zelophehad of Manasseh — Mahlah, Noah, Hoglah, Milcah, Tirzah — stand before Moses, Eleazar, the princes, and the whole congregation at the Tabernacle door. Their case: their father died in the wilderness in his own sin (not Korah's rebellion) and had no sons. Why should his name be erased from his family because he had no son? Give us a possession among our father's brothers. Moses brings the case before the LORD. God: the daughters speak right — give them their father's inheritance. And establish as law: if a man dies without a son, his inheritance passes to his daughter; if no daughter, to his brothers; if no brothers, to his father's brothers; if none, to the nearest kinsman. Then God tells Moses: go up Mount Abarim and see the land I am giving Israel — then you will be gathered to your people as Aaron was, because you both rebelled at the waters of Meribah. Moses' response — not protest, not grief for himself, but immediate prayer: Let the LORD, the God of the spirits of all flesh, set a man over the congregation who will go out before them and come in before them, that the congregation of the LORD not be as sheep without a shepherd. God designates Joshua son of Nun — a man in whom is the spirit — and commands Moses to lay his hand on him before Eleazar and all the congregation, give him a charge, and put some of Moses' honour upon him. Joshua will stand before Eleazar the priest and inquire by the Urim before the LORD; at the LORD's word he and all Israel will go out and come in. Moses does exactly as commanded — lays hands on Joshua, gives him a charge.
 
 ---
 
-## 3. CROSS-REFERENCES (Scripture Interpreting Scripture)
+## CROSS-REFERENCES (Scripture Interpreting Scripture) (Scripture Interpreting Scripture)
 
 ### "The Daughters of Zelophehad Speak Right"
 
@@ -55,7 +55,7 @@ Five daughters of Zelophehad of Manasseh — Mahlah, Noah, Hoglah, Milcah, Tirza
 
 ---
 
-## 4. KEYWORD INDEX
+## KEYWORD INDEX
 
 **For Current Events Matching:**
 - **Women's inheritance rights / legal standing** → Numbers 27:1-11 — a case that becomes law; the daughters who changed the inheritance statute
@@ -66,7 +66,7 @@ Five daughters of Zelophehad of Manasseh — Mahlah, Noah, Hoglah, Milcah, Tirza
 
 ---
 
-## 5. KEY TERMS WITH CONTEXTUAL DEFINITIONS
+## KEY TERMS WITH CONTEXTUAL DEFINITIONS WITH CONTEXTUAL DEFINITIONS
 
 ### URIM (Hebrew: urim — lights; part of the Urim and Thummim)
 - **Numbers 27:21** — "he shall ask counsel for him after the judgment of Urim before the LORD"
@@ -78,7 +78,7 @@ Five daughters of Zelophehad of Manasseh — Mahlah, Noah, Hoglah, Milcah, Tirza
 
 ---
 
-## 6. THE ACTUAL VERSES — NUMBERS 27 (KJV)
+## THE ACTUAL VERSES (KJV) — NUMBERS 27 (KJV)
 
 **1** Then came the daughters of Zelophehad, the son of Hepher, the son of Gilead, the son of Machir, the son of Manasseh, of the families of Manasseh the son of Joseph: and these are the names of his daughters; Mahlah, Noah, and Hoglah, and Milcah, and Tirzah.
 **2** And they stood before Moses, and before Eleazar the priest, and before the princes and all the congregation, by the door of the tabernacle of the congregation, saying,
@@ -106,7 +106,7 @@ Five daughters of Zelophehad of Manasseh — Mahlah, Noah, Hoglah, Milcah, Tirza
 
 ---
 
-## 7. PROPHETIC/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS/TYPOLOGICAL CONNECTIONS
 
 ### Joshua Commissioned — Moses' Hands on Joshua; Christ's Commission of the Disciples
 
@@ -117,7 +117,7 @@ Five daughters of Zelophehad of Manasseh — Mahlah, Noah, Hoglah, Milcah, Tirza
 
 ---
 
-## 8. COMMONLY MISQUOTED PASSAGES
+## COMMONLY MISQUOTED PASSAGES PASSAGES
 
 ### Numbers 27:16 — "The God of the Spirits of All Flesh" Used to Argue That All People Have God as Father
 
@@ -127,7 +127,7 @@ Five daughters of Zelophehad of Manasseh — Mahlah, Noah, Hoglah, Milcah, Tirza
 
 ---
 
-## 9. SYMBOLIC THREADS
+## SYMBOLIC THREADS
 
 ### The Transfer of Authority — Moses to Joshua to Christ
 

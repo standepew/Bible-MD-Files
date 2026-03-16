@@ -161,7 +161,7 @@ Right, hand, throne, book, written, backside, sealed, seven, seals, strong, ange
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Book with Seven Seals as Type of Christ's Complete Revelation
 - **Physical revelation:** Seven seals (Revelation 5:2)

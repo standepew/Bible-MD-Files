@@ -159,7 +159,7 @@ Reported, fornication, fornication, named, Gentiles, father, wife, puffed, mourn
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Church Discipline as Type of Christ's Purity
 - **Physical purity:** Father wife (1 Corinthians 5:3)

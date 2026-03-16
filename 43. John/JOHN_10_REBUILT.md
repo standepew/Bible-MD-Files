@@ -251,7 +251,7 @@ Verily, door, sheepfold, climbeth, thief, robber, door, shepherd, porter, openet
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Good Shepherd as Type of Christ's Care
 - **Physical shepherd:** Good shepherd (John 10:14)

@@ -235,7 +235,7 @@ James, servant, God, Lord, Jesus, Christ, twelve, tribes, scattered, abroad, gre
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Joy in Trials as Type of Christ's Suffering Joy
 - **Physical joy:** Count joy (James 1:2)

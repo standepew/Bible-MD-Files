@@ -159,7 +159,7 @@ Third, time, coming, mouth, witnesses, word, established, told, foretell, presen
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Final Warning as Type of Christ's Judgment
 - **Physical judgment:** Witnesses established (2 Corinthians 13:3)

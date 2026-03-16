@@ -173,6 +173,12 @@ God instructs Israel to camp at Pi-hahiroth by the sea, a position that looks li
 
 ---
 
+## COMMONLY MISQUOTED PASSAGES
+
+*No passages in this chapter are commonly misquoted or frequently taken out of context in a way that distorts the chapter's meaning.*
+
+---
+
 ## SYMBOLIC THREADS
 
 ### The East Wind — The Breath of God in Judgment and Salvation

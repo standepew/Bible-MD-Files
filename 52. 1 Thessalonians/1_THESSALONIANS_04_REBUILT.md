@@ -167,7 +167,7 @@ Beseech, brethren, exhort, Lord, Jesus, received, walk, please, God, abound, com
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Sanctification and Purity as Type of Christ's Holiness
 - **Physical holiness:** Sanctification honour (1 Thessalonians 4:2)

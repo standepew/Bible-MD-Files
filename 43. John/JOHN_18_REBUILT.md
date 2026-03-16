@@ -259,7 +259,7 @@ Spoken, words, disciples, brook, Cedron, garden, disciples, Judas, betrayed, kne
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Betrayal and Arrest of Jesus as Type of Christ's Suffering
 - **Physical betrayal:** Betrayed garden (John 18:3)

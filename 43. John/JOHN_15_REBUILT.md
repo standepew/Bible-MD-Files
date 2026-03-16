@@ -209,7 +209,7 @@ True, vine, Father, husbandman, branch, beareth, fruit, taketh, branch, beareth,
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The True Vine as Type of Christ's Provision
 - **Physical vine:** True vine (John 15:3)

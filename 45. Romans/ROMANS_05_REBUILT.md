@@ -209,7 +209,7 @@ Justified, faith, peace, God, Lord, Jesus, Christ, access, faith, grace, stand, 
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Peace with God as Type of Christ's Reconciliation
 - **Physical reconciliation:** Peace God (Romans 5:3)

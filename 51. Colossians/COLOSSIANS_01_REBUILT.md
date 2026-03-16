@@ -225,7 +225,7 @@ Paul, apostle, Jesus, Christ, will, God, Timotheus, brother, saints, faithful, b
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Thanksgiving and Prayer as Type of Christ's Intercession
 - **Physical intercession:** Thanksgiving prayer (Colossians 1:5)

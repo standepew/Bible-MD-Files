@@ -191,7 +191,7 @@ Paul, beseech, meekness, gentleness, Christ, presence, base, absent, bold, confi
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Spiritual Warfare as Type of Christ's Victory
 - **Physical victory:** Weapons warfare (2 Corinthians 10:5)

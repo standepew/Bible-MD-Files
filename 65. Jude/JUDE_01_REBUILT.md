@@ -219,7 +219,7 @@ Jude, servant, Jesus, Christ, brother, James, sanctified, God, Father, preserved
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Contending for the Faith as Type of Christ's Spiritual Warfare
 - **Physical warfare:** Earnestly contend (Jude 1:4)

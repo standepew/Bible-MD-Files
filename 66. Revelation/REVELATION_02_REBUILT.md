@@ -225,7 +225,7 @@ Angel, church, Ephesus, write, holdeth, seven, stars, right, hand, walketh, mids
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Message to Ephesus (Lost First Love) as Type of Christ's Restoration
 - **Physical restoration:** First love (Revelation 2:3)

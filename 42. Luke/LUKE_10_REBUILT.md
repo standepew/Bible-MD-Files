@@ -341,7 +341,7 @@ Lord, appointed, seventy, sent, two, face, city, place, come, harvest, great, la
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Mission of the Seventy as Type of Christ's Church
 - **Physical mission:** Labourers harvest (Luke 10:4)

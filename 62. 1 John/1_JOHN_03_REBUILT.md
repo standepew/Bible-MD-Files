@@ -205,7 +205,7 @@ Behold, manner, love, Father, bestowed, called, sons, God, world, knoweth, knew,
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Sons of God and Future Glory as Type of Christ's Glorification
 - **Physical glorification:** Appear like (1 John 3:3)

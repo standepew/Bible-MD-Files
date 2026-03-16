@@ -195,7 +195,7 @@ Rich, men, weep, howl, miseries, come, riches, corrupted, garments, motheaten, g
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Warning to the Rich as Type of Christ's Judgment on Worldliness
 - **Physical judgment:** Rich men (James 5:2)

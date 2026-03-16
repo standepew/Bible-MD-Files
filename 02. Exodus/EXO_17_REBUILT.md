@@ -175,6 +175,12 @@ Israel encamps at Rephidim — no water. The people quarrel (chide) with Moses: 
 
 ---
 
+## COMMONLY MISQUOTED PASSAGES
+
+*No passages in this chapter are commonly misquoted or frequently taken out of context in a way that distorts the chapter's meaning.*
+
+---
+
 ## SYMBOLIC THREADS
 
 ### The Rod of God — The Instrument of Both Judgment and Grace

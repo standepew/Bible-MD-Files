@@ -257,7 +257,7 @@ Nigh, Jerusalem, Bethphage, Bethany, mount, Olives, sendeth, disciples, way, vil
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Christ's Triumphant Entry as Type of Christ's Kingship
 - **Physical entry:** Mount Olives (Mark 11:4)

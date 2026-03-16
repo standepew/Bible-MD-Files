@@ -305,7 +305,7 @@ Came, pass, days, decree, Cæsar, Augustus, world, taxed, taxing, first, Cyreniu
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Birth of Jesus as Type of Christ's Humiliation
 - **Physical birth:** Firstborn son (Luke 2:9)

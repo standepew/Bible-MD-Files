@@ -165,7 +165,7 @@ Spirit, speaketh, expressly, latter, times, depart, faith, heeding, seducing, sp
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Spirit Speaks of Apostasy as Type of Christ's Warning
 - **Physical warning:** Depart faith (1 Timothy 4:2)

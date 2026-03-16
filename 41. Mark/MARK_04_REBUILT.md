@@ -633,7 +633,7 @@ Teach, sea, side, gathered, multitude, ship, sea, multitude, sea, land, taught, 
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Christ's Parabolic Teaching as Type of Christ's Revelation
 - **Physical teaching:** Parables doctrine (Mark 4:5)

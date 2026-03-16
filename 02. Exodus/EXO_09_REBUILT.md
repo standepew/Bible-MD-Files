@@ -189,6 +189,12 @@ Three more plagues. Plague 5 (murrain): all Egyptian livestock in the field die;
 
 ---
 
+## COMMONLY MISQUOTED PASSAGES
+
+*No passages in this chapter are commonly misquoted or frequently taken out of context in a way that distorts the chapter's meaning.*
+
+---
+
 ## SYMBOLIC THREADS
 
 ### Hail and Fire Together — Unprecedented Compound Judgment

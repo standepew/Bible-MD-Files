@@ -191,7 +191,7 @@ Great, wonder, heaven, woman, clothed, sun, moon, feet, crown, twelve, stars, ch
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Woman and the Dragon as Type of Christ's Church and Satan
 - **Physical church and Satan:** Great wonder (Revelation 12:2)

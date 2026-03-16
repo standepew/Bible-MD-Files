@@ -2,7 +2,7 @@
 
 ---
 
-## 1. CHAPTER METADATA
+## CHAPTER METADATA
 
 **Book:** Numbers
 **Chapter:** 5
@@ -13,13 +13,13 @@
 
 ---
 
-## 2. CHAPTER SUMMARY
+## CHAPTER SUMMARY
 
 Three distinct laws. First: all lepers, all with a bodily issue, and all defiled by a dead body are put outside the camp — because God dwells in the midst. Second: when a man or woman commits a trespass against the LORD (sinning against a person), they must confess, make full restitution plus a fifth to the wronged party. If the wronged person has no kinsman to receive it, the payment goes to the priest plus an atonement ram. Third: the law of jealousy. If a husband suspects his wife of adultery but has no witness, he brings her to the priest with a barley meal offering (no oil, no frankincense — it is an offering of memorial, bringing iniquity to remembrance). The priest takes holy water in an earthen vessel, mixes in dust from the Tabernacle floor, uncovers the woman's head, puts the offering in her hands, and holds the bitter water. He charges her by oath: if innocent, be free; if guilty, may the LORD make your thigh to rot and your belly to swell. The woman says amen, amen. The priest writes the curses in a book, blots them into the bitter water, waves the barley offering on the altar, then makes the woman drink. If guilty, the physical signs of corruption appear; if innocent, she is free and shall conceive. The man is guiltless; the woman bears her own iniquity.
 
 ---
 
-## 3. CROSS-REFERENCES (Scripture Interpreting Scripture)
+## CROSS-REFERENCES (Scripture Interpreting Scripture) (Scripture Interpreting Scripture)
 
 ### "In the Midst Whereof I Dwell" — Holiness Required by Presence
 
@@ -55,7 +55,7 @@ Three distinct laws. First: all lepers, all with a bodily issue, and all defiled
 
 ---
 
-## 4. KEYWORD INDEX
+## KEYWORD INDEX
 
 **For Current Events Matching:**
 - **Camp/community purity standards** → Numbers 5:1-4 — 2 Corinthians 6:16-7:1; 1 Corinthians 5:1-5
@@ -66,7 +66,7 @@ Three distinct laws. First: all lepers, all with a bodily issue, and all defiled
 
 ---
 
-## 5. KEY TERMS WITH CONTEXTUAL DEFINITIONS
+## KEY TERMS WITH CONTEXTUAL DEFINITIONS WITH CONTEXTUAL DEFINITIONS
 
 ### SPIRIT OF JEALOUSY (Hebrew: ruach qin'ah)
 - **Numbers 5:14, 30** — the jealous spirit that comes upon a husband when he suspects unfaithfulness
@@ -78,7 +78,7 @@ Three distinct laws. First: all lepers, all with a bodily issue, and all defiled
 
 ---
 
-## 6. THE ACTUAL VERSES — NUMBERS 5 (KJV)
+## THE ACTUAL VERSES (KJV) — NUMBERS 5 (KJV)
 
 **1** And the LORD spake unto Moses, saying,
 **2** Command the children of Israel, that they put out of the camp every leper, and every one that hath an issue, and whosoever is defiled by the dead:
@@ -114,7 +114,7 @@ Three distinct laws. First: all lepers, all with a bodily issue, and all defiled
 
 ---
 
-## 7. PROPHETIC/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS/TYPOLOGICAL CONNECTIONS
 
 ### Israel as the Unfaithful Wife — The Ordeal Applied to the Nation
 
@@ -129,7 +129,7 @@ The bitter-water ordeal is the prophetic template for what God does with Israel 
 
 ---
 
-## 8. COMMONLY MISQUOTED PASSAGES
+## COMMONLY MISQUOTED PASSAGES PASSAGES
 
 ### Numbers 5:27-28 — The Ordeal Used to Argue God Punishes by Miraculous Illness
 
@@ -143,7 +143,7 @@ The bitter-water ordeal is the prophetic template for what God does with Israel 
 
 ---
 
-## 9. SYMBOLIC THREADS
+## SYMBOLIC THREADS
 
 ### Writing Curses and Blotting Them Out — The Forgiveness Thread
 

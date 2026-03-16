@@ -301,7 +301,7 @@ Saul, breathing, threatenings, slaughter, disciples, Lord, high, priest, desired
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Conversion of Saul as Type of Christ's Transformation
 - **Physical conversion:** Light heaven (Acts 9:5)

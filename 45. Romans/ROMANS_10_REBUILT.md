@@ -197,7 +197,7 @@ Brethren, heart, desire, prayer, God, Israel, saved, bear, record, zeal, God, kn
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Israel's Salvation as Type of Christ's Salvation
 - **Physical salvation:** Israel saved (Romans 10:3)

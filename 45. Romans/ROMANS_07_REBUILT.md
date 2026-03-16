@@ -241,7 +241,7 @@ Know, brethren, speak, law, law, dominion, man, liveth, woman, husband, bound, l
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Dead to the Law as Type of Christ's Death
 - **Physical death:** Dead law (Romans 7:3)

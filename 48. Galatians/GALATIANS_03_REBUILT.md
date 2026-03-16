@@ -225,7 +225,7 @@ Foolish, Galatians, bewitched, obey, truth, eyes, Jesus, Christ, evidently, cruc
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Faith versus Works as Type of Christ's Salvation
 - **Physical salvation:** Hearing faith (Galatians 3:3)

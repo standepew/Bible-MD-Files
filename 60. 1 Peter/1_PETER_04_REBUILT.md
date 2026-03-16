@@ -183,7 +183,7 @@ Christ, suffered, flesh, arm, mind, suffered, flesh, ceased, sin, longer, live, 
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Living for God's Will as Type of Christ's Obedient Life
 - **Physical obedience:** Ceased sin (1 Peter 4:2)

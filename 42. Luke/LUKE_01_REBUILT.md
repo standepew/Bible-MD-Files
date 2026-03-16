@@ -487,7 +487,7 @@ Forasmuch, many, taken, hand, order, declaration, things, surely, believed, deli
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Birth of John the Baptist Foretold as Type of Christ's Forerunner
 - **Physical foretelling:** Prayer heard (Luke 1:13)

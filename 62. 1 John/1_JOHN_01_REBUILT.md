@@ -129,7 +129,7 @@ Beginning, heard, seen, eyes, looked, hands, handled, Word, life, life, manifest
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Word of Life Manifested as Type of Christ's Incarnation
 - **Physical incarnation:** Word life (1 John 1:2)

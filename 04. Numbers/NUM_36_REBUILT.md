@@ -2,7 +2,7 @@
 
 ---
 
-## 1. CHAPTER METADATA
+## CHAPTER METADATA
 
 **Book:** Numbers
 **Chapter:** 36
@@ -13,13 +13,13 @@
 
 ---
 
-## 2. CHAPTER SUMMARY
+## CHAPTER SUMMARY
 
 The chief fathers of the families of Gilead son of Machir son of Manasseh come before Moses and the princes. They raise the problem created by Numbers 27's ruling: the LORD commanded the daughters of Zelophehad to receive their father's inheritance. But if they marry men of other tribes, their inheritance will pass to that tribe's possession. And in the Year of Jubilee — when all property returns to its original tribal allotment — the land will stay with the husband's tribe, not return to Manasseh. The tribal inheritance will be permanently diminished. Moses presents the LORD's response: the tribe of Joseph has said well. The command: the daughters of Zelophehad shall marry whomever they think best — but they must marry within the family of their father's tribe. No inheritance of Israel shall be transferred from tribe to tribe — every Israelite shall keep to the inheritance of the tribe of their fathers. Every daughter in Israel who possesses an inheritance must marry within her father's tribe. The daughters obey: Mahlah, Tirzah, Hoglah, Milcah, and Noah — all five — marry their father's brothers' sons; they marry within Manasseh. Their inheritance remains in their father's tribe. Final verse: these are the commandments and judgments which the LORD commanded by the hand of Moses to the children of Israel in the plains of Moab by Jordan near Jericho.
 
 ---
 
-## 3. CROSS-REFERENCES (Scripture Interpreting Scripture)
+## CROSS-REFERENCES (Scripture Interpreting Scripture) (Scripture Interpreting Scripture)
 
 ### The Inheritance That Must Not Transfer — Tribal Integrity and Jubilee
 
@@ -53,7 +53,7 @@ The chief fathers of the families of Gilead son of Machir son of Manasseh come b
 
 ---
 
-## 4. KEYWORD INDEX
+## KEYWORD INDEX
 
 **For Current Events Matching:**
 - **Inheritance rights and tribal/family boundaries** → Numbers 36:7-9 — the principle that inheritance must not be permanently transferred from its covenant community
@@ -64,7 +64,7 @@ The chief fathers of the families of Gilead son of Machir son of Manasseh come b
 
 ---
 
-## 5. KEY TERMS WITH CONTEXTUAL DEFINITIONS
+## KEY TERMS WITH CONTEXTUAL DEFINITIONS WITH CONTEXTUAL DEFINITIONS
 
 ### JUBILE / JUBILEE (Hebrew: yovel — ram's horn; year of the ram's horn blast)
 - **Numbers 36:4** — the Jubilee year referenced as the point when a tribal transfer would become permanent
@@ -72,7 +72,7 @@ The chief fathers of the families of Gilead son of Machir son of Manasseh come b
 
 ---
 
-## 6. THE ACTUAL VERSES — NUMBERS 36 (KJV)
+## THE ACTUAL VERSES (KJV) — NUMBERS 36 (KJV)
 
 **1** And the chief fathers of the families of the children of Gilead, the son of Machir, the son of Manasseh, of the families of the sons of Joseph, came near, and spake before Moses, and before the princes, the chief fathers of the children of Israel:
 **2** And they said, The LORD commanded my lord to give the land for an inheritance by lot to the children of Israel: and my lord was commanded by the LORD to give the inheritance of Zelophehad our brother unto his daughters.
@@ -90,7 +90,7 @@ The chief fathers of the families of Gilead son of Machir son of Manasseh come b
 
 ---
 
-## 7. PROPHETIC/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS/TYPOLOGICAL CONNECTIONS
 
 ### "Their Inheritance Remained" — The Preserved Inheritance
 
@@ -104,7 +104,7 @@ The closing image of Numbers is an inheritance that remained — that was not lo
 
 ---
 
-## 8. COMMONLY MISQUOTED PASSAGES
+## COMMONLY MISQUOTED PASSAGES PASSAGES
 
 ### Numbers 36:6 — Used to Restrict Marriage to Literal Family Members
 
@@ -114,7 +114,7 @@ The closing image of Numbers is an inheritance that remained — that was not lo
 
 ---
 
-## 9. SYMBOLIC THREADS
+## SYMBOLIC THREADS
 
 ### The Bookends of Numbers — Two Censuses; One Inheritance
 

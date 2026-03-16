@@ -147,7 +147,7 @@ Days, number, disciples, multiplied, arose, murmuring, Grecians, Hebrews, widows
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Appointment of Seven Deacons as Type of Christ's Service
 - **Physical appointment:** Seven men (Acts 6:5)

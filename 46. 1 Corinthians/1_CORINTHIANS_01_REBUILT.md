@@ -241,7 +241,7 @@ Paul, called, apostle, Jesus, Christ, will, God, Sosthenes, brother, church, God
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Paul's Greeting as Type of Christ's Commission
 - **Physical commission:** Called apostle (1 Corinthians 1:3)

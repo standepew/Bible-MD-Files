@@ -239,7 +239,7 @@ Jesus, finished, sayings, departed, Galilee, coasts, Judaea, beyond, Jordan, mul
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Christ's Marriage Teaching as Type of Christ's Covenant
 - **Physical marriage:** Male female (Matthew 19:6)

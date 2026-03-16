@@ -163,7 +163,7 @@ Put, mind, subject, principalities, powers, obey, magistrates, ready, good, work
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Submission to Authorities as Type of Christ's Obedience
 - **Physical obedience:** Subject principalities (Titus 3:2)

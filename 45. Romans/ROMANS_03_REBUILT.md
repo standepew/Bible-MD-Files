@@ -251,7 +251,7 @@ Advantage, Jew, profit, circumcision, oracles, God, believe, unbelief, faith, Go
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Advantage of the Jews as Type of Christ's Covenant
 - **Physical covenant:** Oracles God (Romans 3:4)

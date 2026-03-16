@@ -299,7 +299,7 @@ Men, Judaea, taught, brethren, circumcised, manner, Moses, saved, Paul, Barnabas
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Jerusalem Council as Type of Christ's Wisdom
 - **Physical council:** Apostles elders (Acts 15:7)

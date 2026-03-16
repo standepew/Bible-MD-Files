@@ -295,7 +295,7 @@ Follow, charity, desire, spiritual, gifts, prophesy, speak, unknown, tongue, spe
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Prophecy and Tongues as Type of Christ's Revelation
 - **Physical revelation:** Edification exhortation (1 Corinthians 14:4)

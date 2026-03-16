@@ -253,7 +253,7 @@ Disciples, rich, man, steward, accused, wasted, goods, called, account, stewards
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Parable of the Unjust Steward as Type of Christ's Wisdom
 - **Physical parable:** Unjust steward (Luke 16:3)

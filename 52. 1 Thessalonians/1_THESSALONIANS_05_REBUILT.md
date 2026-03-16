@@ -199,7 +199,7 @@ Times, seasons, brethren, write, know, perfectly, day, Lord, cometh, thief, nigh
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Day of the Lord as Type of Christ's Judgment
 - **Physical judgment:** Thief night (1 Thessalonians 5:3)

@@ -181,7 +181,7 @@ Finally, brethren, pray, word, Lord, free, course, glorified, delivered, unreaso
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Prayer for the Ministry as Type of Christ's Intercession
 - **Physical intercession:** Free course (2 Thessalonians 3:2)

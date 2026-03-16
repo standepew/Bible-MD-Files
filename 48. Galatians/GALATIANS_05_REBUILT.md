@@ -195,7 +195,7 @@ Stand, fast, liberty, Christ, made, free, entangled, yoke, bondage, Behold, Paul
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Liberty in Christ as Type of Christ's Freedom
 - **Physical freedom:** Liberty Christ (Galatians 5:3)

@@ -146,6 +146,18 @@ The civil code continues. Theft laws: fivefold restitution for a stolen and slau
 
 ---
 
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
+
+The civil and moral laws of Exodus 22 are foundational to the covenant structure that points forward to Christ as the fulfillment of the Law. The restitution principle (an eye for an eye, fourfold/fivefold repayment) foreshadows Christ bearing full restitution for sin — not merely equal, but exceeding — paying the debt man could not pay. The protection of the widow, stranger, and fatherless prefigures the Gospel extending to the outcast and Gentile. The prohibition of usury toward the poor reflects the grace of God who does not charge interest on His mercy.
+
+---
+
+## COMMONLY MISQUOTED PASSAGES
+
+*No passages in this chapter are commonly misquoted or frequently taken out of context in a way that distorts the chapter's meaning.*
+
+---
+
 ## SYMBOLIC THREADS
 
 ### The Garment as Pledge — The Most Intimate Security

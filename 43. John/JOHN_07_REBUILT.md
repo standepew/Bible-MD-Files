@@ -309,7 +309,7 @@ Jesus, walked, Galilee, walk, Jewry, Jews, kill, Jews, feast, tabernacles, hand,
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Jesus at the Feast of Tabernacles as Type of Christ's Presence
 - **Physical feast:** Feast tabernacles (John 7:4)

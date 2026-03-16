@@ -205,7 +205,7 @@ Angel, heaven, great, power, earth, lightened, glory, cried, mightily, strong, v
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Fall of Babylon as Type of Christ's Complete Victory
 - **Physical complete victory:** Babylon fallen (Revelation 18:3)

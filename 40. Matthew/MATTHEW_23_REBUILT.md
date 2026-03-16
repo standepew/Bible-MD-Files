@@ -305,7 +305,7 @@ Jesus, spake, multitude, disciples, saying, scribes, Pharisees, sit, Moses, seat
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Christ's Woe Pronouncements as Type of Christ's Judgment
 - **Physical woes:** Eight woes (Matthew 23:15)

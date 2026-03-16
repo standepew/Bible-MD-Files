@@ -419,7 +419,7 @@ Feast, unleavened, bread, drew, nigh, Passover, chief, priests, scribes, sought,
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Plot to Kill Jesus as Type of Christ's Rejection
 - **Physical plot:** Chief priests (Luke 22:4)

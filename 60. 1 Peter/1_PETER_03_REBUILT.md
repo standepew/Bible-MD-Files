@@ -199,7 +199,7 @@ Wives, subjection, husbands, obey, word, won, conversation, wives, behold, chast
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Christian Marriage Relationships as Type of Christ and the Church
 - **Physical marriage:** Subjection husbands (1 Peter 3:2)

@@ -149,7 +149,7 @@ Elder, wellbeloved, Gaius, love, truth, Beloved, wish, prosper, health, soul, pr
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Walking in Truth as Type of Christ's Perfect Walk
 - **Physical walk:** Walkest truth (3 John 1:4)

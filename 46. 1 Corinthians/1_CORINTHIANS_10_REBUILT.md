@@ -245,7 +245,7 @@ Brethren, ignorant, fathers, cloud, passed, sea, baptized, Moses, cloud, sea, sp
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Israel's Example as Type of Christ's Warning
 - **Physical warning:** Overthrown wilderness (1 Corinthians 10:5)

@@ -297,7 +297,7 @@ Feast, Jews, Jesus, Jerusalem, Jerusalem, sheep, market, pool, Hebrew, Bethesda,
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Healing at Bethesda as Type of Christ's Salvation
 - **Physical healing:** Bethesda pool (John 5:4)

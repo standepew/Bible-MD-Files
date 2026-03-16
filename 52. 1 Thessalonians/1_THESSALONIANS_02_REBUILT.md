@@ -183,7 +183,7 @@ Entrance, vain, suffered, shamefully, entreated, Philippi, bold, God, speak, gos
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Paul's Ministry Conduct as Type of Christ's Service
 - **Physical service:** Bold God (1 Thessalonians 2:3)

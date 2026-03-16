@@ -215,7 +215,7 @@ Herod, king, stretched, hands, vex, church, killed, James, brother, John, sword,
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Herod Persecutes the Church as Type of Christ's Suffering
 - **Physical persecution:** Vex church (Acts 12:3)

@@ -169,7 +169,7 @@ Holy, brethren, partakers, heavenly, calling, consider, Apostle, High, Priest, p
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Christ Superior to Moses as Type of Christ's Preeminence
 - **Physical preeminence:** Apostle priest (Hebrews 3:2)

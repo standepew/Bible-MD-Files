@@ -161,7 +161,7 @@ True, saying, man, desire, office, bishop, good, work, bishop, blameless, husban
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Qualifications for Bishops as Type of Christ's Shepherding
 - **Physical shepherding:** Bishop blameless (1 Timothy 3:2)

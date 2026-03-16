@@ -257,7 +257,7 @@ Drew, near, publicans, sinners, hear, Pharisees, scribes, murmured, receiveth, s
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Parable of the Lost Sheep as Type of Christ's Salvation
 - **Physical parable:** Lost sheep (Luke 15:5)

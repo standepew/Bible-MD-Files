@@ -171,7 +171,7 @@ Soul, subject, higher, powers, power, God, powers, ordained, God, resisteth, pow
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Submission to Authorities as Type of Christ's Lordship
 - **Physical lordship:** Higher powers (Romans 13:3)

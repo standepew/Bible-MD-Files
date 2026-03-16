@@ -243,7 +243,7 @@ Festus, province, three, days, ascended, Caesarea, Jerusalem, high, priest, chie
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Paul Before Festus as Type of Christ's Trial
 - **Physical trial:** Laying wait (Acts 25:5)

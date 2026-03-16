@@ -305,7 +305,7 @@ Entered, Capernaum, days, noised, house, straightway, gathered, room, receive, d
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Christ's Forgiveness Power as Type of Christ's Authority
 - **Physical forgiveness:** Sins forgiven (Mark 2:7)

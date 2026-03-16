@@ -315,7 +315,7 @@ Jesus, full, Holy, Ghost, returned, Jordan, led, Spirit, wilderness, forty, days
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Temptation of Jesus as Type of Christ's Victory
 - **Physical temptation:** Son God (Luke 4:5)

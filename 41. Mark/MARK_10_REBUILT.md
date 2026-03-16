@@ -333,7 +333,7 @@ Arose, coasts, Judæa, farther, Jordan, people, resort, wont, taught, Pharisees,
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Christ's Teaching on Marriage as Type of Christ's Covenant
 - **Physical marriage:** One flesh (Mark 10:8)

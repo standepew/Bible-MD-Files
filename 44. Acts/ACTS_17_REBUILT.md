@@ -283,7 +283,7 @@ Amphipolis, Apollonia, Thessalonica, synagogue, Jews, Paul, manner, sabbath, day
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Preaching in Thessalonica as Type of Christ's Proclamation
 - **Physical proclamation:** Christ suffered (Acts 17:5)

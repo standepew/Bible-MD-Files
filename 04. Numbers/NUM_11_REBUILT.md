@@ -2,7 +2,7 @@
 
 ---
 
-## 1. CHAPTER METADATA
+## CHAPTER METADATA
 
 **Book:** Numbers
 **Chapter:** 11
@@ -13,13 +13,13 @@
 
 ---
 
-## 2. CHAPTER SUMMARY
+## CHAPTER SUMMARY
 
 Three days into the march from Sinai (Numbers 10:33), the people begin complaining. God's fire burns the outer edges of the camp. The people cry to Moses; Moses prays; the fire is quenched. The place is named Taberah (burning). Then the mixed multitude lusts for flesh, and all Israel weeps at their tent doors remembering Egypt's food — fish, cucumbers, melons, leeks, onions, garlic — while despising the manna. The LORD is greatly angered; Moses is displeased. Moses reaches his breaking point: he cannot carry this people alone; he cries out to God — have I conceived them? Am I their nursing father? If this is how You treat me, kill me now. God gives two answers. First, for the burden: gather seventy elders — God will take of the spirit on Moses and put it on them. Second, for the lust: tell the people to sanctify themselves; they will eat flesh for a whole month until it comes out their nostrils and becomes loathsome — because they have despised the LORD. Moses doubts: six hundred thousand footmen — where will the flesh come from? God answers: "Is the LORD's hand waxed short?" The seventy elders gather; God distributes the spirit; they all prophesy. Two — Eldad and Medad — remain in the camp and also prophesy. Joshua urges Moses to forbid them. Moses refuses: "Would God that all the LORD's people were prophets." Wind brings quails from the sea, two cubits deep around the camp. The people gather all day and night — the least gathered ten homers. While the flesh is still between their teeth, the LORD's wrath strikes them with a great plague. The place is named Kibroth-hattaavah: the graves of lust.
 
 ---
 
-## 3. CROSS-REFERENCES (Scripture Interpreting Scripture)
+## CROSS-REFERENCES (Scripture Interpreting Scripture) (Scripture Interpreting Scripture)
 
 ### The Manna Despised — Heaven's Bread Rejected
 
@@ -68,7 +68,7 @@ Three days into the march from Sinai (Numbers 10:33), the people begin complaini
 
 ---
 
-## 4. KEYWORD INDEX
+## KEYWORD INDEX
 
 **For Current Events Matching:**
 - **Complaining / murmuring against leadership** → Numbers 11:1 — fire of the LORD; the pattern: complaint → consequence
@@ -80,7 +80,7 @@ Three days into the march from Sinai (Numbers 10:33), the people begin complaini
 
 ---
 
-## 5. KEY TERMS WITH CONTEXTUAL DEFINITIONS
+## KEY TERMS WITH CONTEXTUAL DEFINITIONS WITH CONTEXTUAL DEFINITIONS
 
 ### MIXED MULTITUDE (Hebrew: asafsuf — a rabble, a gathering of various peoples)
 - **Numbers 11:4** — "the mixt multitude that was among them fell a lusting"
@@ -92,7 +92,7 @@ Three days into the march from Sinai (Numbers 10:33), the people begin complaini
 
 ---
 
-## 6. THE ACTUAL VERSES — NUMBERS 11 (KJV)
+## THE ACTUAL VERSES (KJV) — NUMBERS 11 (KJV)
 
 **1** And when the people complained, it displeased the LORD: and the LORD heard it; and his anger was kindled; and the fire of the LORD burnt among them, and consumed them that were in the uttermost parts of the camp.
 **2** And the people cried unto Moses; and when Moses prayed unto the LORD, the fire was quenched.
@@ -132,7 +132,7 @@ Three days into the march from Sinai (Numbers 10:33), the people begin complaini
 
 ---
 
-## 7. PROPHETIC/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS/TYPOLOGICAL CONNECTIONS
 
 ### Numbers 11:29 — The Prophetic Longing Fulfilled at Pentecost
 
@@ -146,7 +146,7 @@ The seventy elders prophesying (and ceasing) is the limited, provisional form. T
 
 ---
 
-## 8. COMMONLY MISQUOTED PASSAGES
+## COMMONLY MISQUOTED PASSAGES PASSAGES
 
 ### Numbers 11:5 — "We Remember the Fish Which We Did Eat in Egypt Freely" — Nostalgia for Egypt Used to Validate Nostalgia for Sin
 
@@ -160,7 +160,7 @@ The seventy elders prophesying (and ceasing) is the limited, provisional form. T
 
 ---
 
-## 9. SYMBOLIC THREADS
+## SYMBOLIC THREADS
 
 ### The Flesh-Between-the-Teeth Thread — Getting What You Demanded as Judgment
 

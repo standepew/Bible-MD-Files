@@ -157,7 +157,7 @@ Opened, seventh, seal, silence, heaven, half, hour, seven, angels, stood, God, g
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Seventh Seal and Silence as Type of Christ's Solemn Preparation
 - **Physical preparation:** Seventh seal (Revelation 8:2)

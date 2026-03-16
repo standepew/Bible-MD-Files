@@ -215,7 +215,7 @@ Paul, Timotheus, servants, Jesus, Christ, saints, Christ, Jesus, Philippi, bisho
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Thanksgiving and Prayer as Type of Christ's Intercession
 - **Physical intercession:** Thanksgiving prayer (Philippians 1:4)

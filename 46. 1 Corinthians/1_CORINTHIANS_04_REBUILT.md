@@ -209,7 +209,7 @@ Account, ministers, Christ, stewards, mysteries, God, required, stewards, faithf
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Ministers of Christ as Type of Christ's Service
 - **Physical service:** Ministers Christ (1 Corinthians 4:3)

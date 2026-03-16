@@ -177,6 +177,12 @@ Each plague targets a specific Egyptian deity — God is dismantling the religio
 
 ---
 
+## COMMONLY MISQUOTED PASSAGES
+
+*No passages in this chapter are commonly misquoted or frequently taken out of context in a way that distorts the chapter's meaning.*
+
+---
+
 ## SYMBOLIC THREADS
 
 ### Blood — Life, Death, and Judgment

@@ -271,7 +271,7 @@ Disciples, impossible, offences, woe, millstone, neck, sea, offend, little, ones
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Temptations and Forgiveness as Type of Christ's Grace
 - **Physical forgiveness:** Brother trespass (Luke 17:3)

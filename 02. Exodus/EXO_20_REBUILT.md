@@ -223,3 +223,9 @@ God speaks directly to all the people: the Ten Commandments. He opens with His i
 ---
 
 **End of Exodus Chapter 20**
+
+---
+
+## SYMBOLIC THREADS
+
+*No distinct symbolic threads requiring cross-reference definition in this chapter. See cross-references above for scripture-interpreting-scripture connections.*

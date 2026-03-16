@@ -221,7 +221,7 @@ Followers, God, dear, children, walk, love, Christ, loved, given, offering, sacr
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Walk in Love as Type of Christ's Sacrifice
 - **Physical sacrifice:** Sweetsmelling savour (Ephesians 5:3)

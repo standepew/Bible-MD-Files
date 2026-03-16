@@ -195,7 +195,7 @@ Dare, matter, unjust, saints, know, saints, judge, world, judge, world, unworthy
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Lawsuits Among Believers as Type of Christ's Authority
 - **Physical authority:** Judge angels (1 Corinthians 6:3)

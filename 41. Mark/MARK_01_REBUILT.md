@@ -329,7 +329,7 @@ Beginning, gospel, Jesus, Christ, Son, God, written, prophets, messenger, face, 
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Christ's Ministry Begins as Type of Christ's Proclamation
 - **Physical ministry:** Beginning gospel (Mark 1:3)

@@ -179,7 +179,7 @@ Brethren, masters, knowing, receive, greater, condemnation, offend, word, perfec
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Taming the Tongue as Type of Christ's Perfect Speech
 - **Physical speech:** Bridle body (James 3:3)

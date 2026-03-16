@@ -295,7 +295,7 @@ Straightway, morning, chief, priests, consultation, elders, scribes, council, bo
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Christ Before Pilate as Type of Christ's Innocence
 - **Physical trial:** King Jews (Mark 15:4)

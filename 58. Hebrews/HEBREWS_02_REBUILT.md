@@ -181,7 +181,7 @@ Earnest, heard, slip, word, spoken, angels, stedfast, transgression, disobedienc
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Warning Against Neglect as Type of Christ's Warning
 - **Physical warning:** Earnest heed (Hebrews 2:2)

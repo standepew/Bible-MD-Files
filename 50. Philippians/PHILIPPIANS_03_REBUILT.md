@@ -185,7 +185,7 @@ Finally, brethren, rejoice, Lord, write, things, grievous, safe, beware, dogs, e
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Rejoicing in the Lord as Type of Christ's Joy
 - **Physical joy:** Rejoice Lord (Philippians 3:2)

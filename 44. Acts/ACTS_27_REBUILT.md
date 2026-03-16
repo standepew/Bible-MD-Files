@@ -339,7 +339,7 @@ Determined, sail, Italy, delivered, Paul, prisoners, Julius, centurion, Augustus
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Paul's Voyage to Rome as Type of Christ's Mission
 - **Physical mission:** Augustus band (Acts 27:3)

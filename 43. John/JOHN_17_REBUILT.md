@@ -205,7 +205,7 @@ Words, spake, Jesus, lifted, eyes, heaven, Father, hour, glorify, Son, glorify, 
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Jesus Prays for Himself as Type of Christ's Exaltation
 - **Physical prayer:** Hour come (John 17:3)

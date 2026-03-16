@@ -147,7 +147,7 @@ High, priest, taken, men, ordained, men, things, pertaining, God, offer, gifts, 
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Qualifications of High Priests as Type of Christ's Qualifications
 - **Physical qualifications:** High priest (Hebrews 5:2)

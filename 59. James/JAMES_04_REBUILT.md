@@ -179,7 +179,7 @@ Wars, fightings, lusts, war, members, lust, kill, desire, obtain, fight, war, as
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Source of Conflicts as Type of Christ's Spiritual Warfare
 - **Physical warfare:** Lusts war (James 4:2)

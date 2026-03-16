@@ -2,7 +2,7 @@
 
 ---
 
-## 1. CHAPTER METADATA
+## CHAPTER METADATA
 
 **Book:** Numbers
 **Chapter:** 16
@@ -13,13 +13,13 @@
 
 ---
 
-## 2. CHAPTER SUMMARY
+## CHAPTER SUMMARY
 
 Korah the Kohathite, with Dathan, Abiram, and On (Reubenites), gathers 250 renowned princes against Moses and Aaron: "all the congregation are holy — why do you lift yourselves above the LORD's congregation?" Moses falls on his face, then proposes a censer test: tomorrow, each man brings his censer with fire and incense before the LORD — the one He chooses is holy. He rebukes Korah: is it too small a thing that you serve the Tabernacle — do you seek the priesthood also? He sends for Dathan and Abiram, who refuse to come up, accuse Moses of failing to bring them to a land of milk and honey, and call him a self-made prince. Moses is angry, asks God not to respect their offering. Next day: all 250 at the Tabernacle door with censers; the glory appears. God tells Moses and Aaron to separate from the congregation so He can consume them all in a moment. They fall on their faces: "O God, shall one man sin and You be wroth with all?" God limits the judgment: get away from the tents of Korah, Dathan, and Abiram. Moses announces the sign: if these men die as all men die, the LORD has not sent him; but if the LORD makes a new thing and the earth swallows them alive, then they provoked the LORD. The earth opens; Korah, Dathan, Abiram, their households, and all their goods go down alive. All Israel flees at their cry. Then fire from the LORD consumes the 250. Eleazar collects the bronze censers and hammers them into plates covering the altar — a permanent memorial: no stranger shall offer incense. The next day the whole congregation accuses Moses and Aaron of killing the LORD's people. A plague breaks out. God: "Get away that I may consume them." Moses and Aaron fall on their faces. Moses tells Aaron: take a censer, put fire from the altar, put on incense, go quickly — there is wrath gone out. Aaron runs into the midst of the congregation. He stands between the dead and the living. The plague is stayed. 14,700 dead, plus those who died in the Korah affair.
 
 ---
 
-## 3. CROSS-REFERENCES (Scripture Interpreting Scripture)
+## CROSS-REFERENCES (Scripture Interpreting Scripture) (Scripture Interpreting Scripture)
 
 ### Korah's Charge — "All the Congregation Are Holy" — The Rebellion Against Appointed Authority
 
@@ -57,7 +57,7 @@ This is the climax of the chapter and one of the most vivid typological moments 
 
 ---
 
-## 4. KEYWORD INDEX
+## KEYWORD INDEX
 
 **For Current Events Matching:**
 - **Rebellion against divinely appointed leadership** → Numbers 16:2-3 — Jude 11; Romans 13:1-2
@@ -68,7 +68,7 @@ This is the climax of the chapter and one of the most vivid typological moments 
 
 ---
 
-## 5. KEY TERMS WITH CONTEXTUAL DEFINITIONS
+## KEY TERMS WITH CONTEXTUAL DEFINITIONS WITH CONTEXTUAL DEFINITIONS
 
 ### GAINSAYING OF CORE (Greek: antilogia Kore — Jude 11)
 - **Jude 11** — "the gainsaying of Core [Korah]" — the opposing/contradicting rebellion of Korah
@@ -80,7 +80,7 @@ This is the climax of the chapter and one of the most vivid typological moments 
 
 ---
 
-## 6. THE ACTUAL VERSES — NUMBERS 16 (KJV)
+## THE ACTUAL VERSES (KJV) — NUMBERS 16 (KJV)
 
 **1** Now Korah, the son of Izhar, the son of Kohath, the son of Levi, and Dathan and Abiram, the sons of Eliab, and On, the son of Peleth, sons of Reuben, took men:
 **2** And they rose up before Moses, with certain of the children of Israel, two hundred and fifty princes of the assembly, famous in the congregation, men of renown:
@@ -135,7 +135,7 @@ This is the climax of the chapter and one of the most vivid typological moments 
 
 ---
 
-## 7. PROPHETIC/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS/TYPOLOGICAL CONNECTIONS
 
 ### The Censer Fire from the Altar — Judgment Turned to Intercession
 
@@ -149,7 +149,7 @@ Aaron takes fire from the bronze altar — the same fire used for sacrifices, th
 
 ---
 
-## 8. COMMONLY MISQUOTED PASSAGES
+## COMMONLY MISQUOTED PASSAGES PASSAGES
 
 ### Numbers 16:3 — "All the Congregation Are Holy" — Used to Abolish Ordained Ministry
 
@@ -163,7 +163,7 @@ Aaron takes fire from the bronze altar — the same fire used for sacrifices, th
 
 ---
 
-## 9. SYMBOLIC THREADS
+## SYMBOLIC THREADS
 
 ### The Earth Opening Her Mouth — The Land That Devours
 

@@ -217,7 +217,7 @@ Heir, child, differ, servant, lord, tutors, governors, time, appointed, father, 
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Heir and Child as Type of Christ's Maturity
 - **Physical maturity:** Heir child (Galatians 4:3)

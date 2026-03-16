@@ -335,7 +335,7 @@ Multitude, great, nothing, eat, Jesus, disciples, compassion, multitude, three, 
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Feeding Four Thousand as Type of Christ's Provision
 - **Physical feeding:** Compassion multitude (Mark 8:4)

@@ -313,7 +313,7 @@ Lord, knew, Pharisees, Jesus, made, baptized, disciples, Jesus, disciples, left,
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Woman at the Well as Type of Christ's Salvation
 - **Physical woman:** Woman Samaria (John 4:9)

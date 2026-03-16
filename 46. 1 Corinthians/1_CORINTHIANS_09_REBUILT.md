@@ -233,7 +233,7 @@ Apostle, free, seen, Jesus, Christ, Lord, work, Lord, apostle, others, seal, apo
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Paul's Apostleship as Type of Christ's Commission
 - **Physical commission:** Seal apostleship (1 Corinthians 9:4)

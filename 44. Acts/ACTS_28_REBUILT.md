@@ -291,7 +291,7 @@ Escaped, island, Melita, barbarous, people, kindness, kindled, fire, received, p
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Paul on Malta as Type of Christ's Ministry
 - **Physical ministry:** Barbarous people (Acts 28:4)

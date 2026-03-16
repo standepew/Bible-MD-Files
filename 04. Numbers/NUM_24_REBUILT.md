@@ -2,7 +2,7 @@
 
 ---
 
-## 1. CHAPTER METADATA
+## CHAPTER METADATA
 
 **Book:** Numbers
 **Chapter:** 24
@@ -13,13 +13,13 @@
 
 ---
 
-## 2. CHAPTER SUMMARY
+## CHAPTER SUMMARY
 
 At the top of Peor, Balaam sees it is the LORD's pleasure to bless Israel. He abandons his enchantment-seeking and sets his face toward the wilderness — toward Israel's camp. He sees Israel in their tribal order. The Spirit of God comes upon him. Oracle 3: The man whose eyes are open has said — who hears God's words, sees the vision of the Almighty, falling in a trance but with eyes open: How goodly are thy tents, O Jacob, thy tabernacles, O Israel! As spreading valleys, as riverside gardens, as the LORD-planted aloes, as cedars by waters — He shall pour water from his buckets, his seed in many waters, his king higher than Agag, his kingdom exalted. God brought him out of Egypt like a unicorn — he devours enemy nations, breaks bones, pierces through. He crouches as a lion — who dares stir him? Blessed is he that blesses you; cursed is he that curses you. Balak erupts and claps his hands: I called you to curse three times and you blessed! Flee to your place — the LORD kept you from honour. Balaam: did I not warn your messengers — if Balak gave me a house full of silver and gold I cannot go beyond the LORD's command? He then volunteers a final oracle about the latter days. Oracle 4: I shall see him but not now; not near: there shall come a **Star out of Jacob** and a **Sceptre out of Israel** — He shall strike Moab's corners and destroy the children of Sheth. Edom shall be possessed; Seir also. Israel shall do valiantly. Out of Jacob shall come he that has dominion. Amalek was first among nations — its latter end: perish forever. The Kenite strong in its rock-nest — wasted till Asshur carries it captive. Ships from Chittim shall afflict Asshur and Eber; both shall perish. Balaam goes home; Balak goes his way.
 
 ---
 
-## 3. CROSS-REFERENCES (Scripture Interpreting Scripture)
+## CROSS-REFERENCES (Scripture Interpreting Scripture) (Scripture Interpreting Scripture)
 
 ### "How Goodly Are Thy Tents, O Jacob"
 
@@ -53,7 +53,7 @@ At the top of Peor, Balaam sees it is the LORD's pleasure to bless Israel. He ab
 
 ---
 
-## 4. KEYWORD INDEX
+## KEYWORD INDEX
 
 **For Current Events Matching:**
 - **The Star out of Jacob / messianic expectation** → Numbers 24:17 — Matthew 2:2; Revelation 22:16
@@ -64,7 +64,7 @@ At the top of Peor, Balaam sees it is the LORD's pleasure to bless Israel. He ab
 
 ---
 
-## 5. KEY TERMS WITH CONTEXTUAL DEFINITIONS
+## KEY TERMS WITH CONTEXTUAL DEFINITIONS WITH CONTEXTUAL DEFINITIONS
 
 ### STAR (Hebrew: kokhav — star, prominent person)
 - **Numbers 24:17** — "there shall come a Star out of Jacob"
@@ -75,7 +75,7 @@ At the top of Peor, Balaam sees it is the LORD's pleasure to bless Israel. He ab
 
 ---
 
-## 6. THE ACTUAL VERSES — NUMBERS 24 (KJV)
+## THE ACTUAL VERSES (KJV) — NUMBERS 24 (KJV)
 
 **1** And when Balaam saw that it pleased the LORD to bless Israel, he went not, as at other times, to seek for enchantments, but he set his face toward the wilderness.
 **2** And Balaam lifted up his eyes, and he saw Israel abiding in his tents according to their tribes; and the spirit of God came upon him.
@@ -105,7 +105,7 @@ At the top of Peor, Balaam sees it is the LORD's pleasure to bless Israel. He ab
 
 ---
 
-## 7. PROPHETIC/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS/TYPOLOGICAL CONNECTIONS
 
 ### "I Shall See Him, but Not Now" — The Prophet Who Sees What He Will Never Reach
 
@@ -118,7 +118,7 @@ This is one of Scripture's most poignant prophetic statements. Balaam glimpses t
 
 ---
 
-## 8. COMMONLY MISQUOTED PASSAGES
+## COMMONLY MISQUOTED PASSAGES PASSAGES
 
 ### Numbers 24:17 — The Star Used to Validate Various Modern Claimants
 
@@ -128,7 +128,7 @@ This is one of Scripture's most poignant prophetic statements. Balaam glimpses t
 
 ---
 
-## 9. SYMBOLIC THREADS
+## SYMBOLIC THREADS
 
 ### The Tent Thread — From Goodly Tents to the Tabernacle of God with Men
 

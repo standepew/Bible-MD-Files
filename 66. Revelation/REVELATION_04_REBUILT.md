@@ -153,7 +153,7 @@ Door, opened, heaven, voice, trumpet, talking, Come, shew, things, hereafter, im
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Heavenly Throne Room as Type of Christ's Heavenly Reign
 - **Physical reign:** Throne heaven (Revelation 4:3)

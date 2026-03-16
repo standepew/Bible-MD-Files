@@ -235,7 +235,7 @@ Iconium, synagogue, Jews, spake, great, multitude, Jews, Greeks, believed, unbel
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Ministry in Iconium as Type of Christ's Perseverance
 - **Physical ministry:** Speaking boldly (Acts 14:5)

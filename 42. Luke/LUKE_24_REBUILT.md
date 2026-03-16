@@ -325,7 +325,7 @@ First, day, week, early, morning, came, sepulchre, spices, prepared, found, ston
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Resurrection as Type of Christ's Victory
 - **Physical resurrection:** Stone rolled (Luke 24:4)

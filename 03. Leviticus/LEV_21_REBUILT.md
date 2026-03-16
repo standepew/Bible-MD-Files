@@ -2,7 +2,7 @@
 
 ---
 
-## 1. CHAPTER METADATA
+## CHAPTER METADATA
 
 **Book:** Leviticus
 **Chapter:** 21
@@ -13,13 +13,13 @@
 
 ---
 
-## 2. CHAPTER SUMMARY
+## CHAPTER SUMMARY
 
 God addresses the priests through Moses: the ordinary priest may not defile himself by contact with a dead person except for the closest family (mother, father, son, daughter, brother, unmarried sister). He must not adopt pagan mourning rites (baldness, beard-shaving, body-cutting). He must not marry a prostitute, a profane woman, or a divorcée — because he is holy and offers the bread of God. His daughter who profanes herself is burned. The high priest exceeds all: he cannot uncover his head, rend his clothes, or enter any house where there is a dead person — not even for his own father or mother; he cannot go out of the sanctuary during the mourning period; he must marry only a virgin of his own people. Then the blemish law: any descendant of Aaron with a physical blemish — blind, lame, flat-nosed, limb deformity, broken foot or hand, hunchback, dwarf, eye blemish, scurvy, scabbed, broken testicle — cannot approach the altar to offer. But he may eat the bread of God, both the most holy and the holy things. He simply may not serve at the altar or go within the veil.
 
 ---
 
-## 3. CROSS-REFERENCES (Scripture Interpreting Scripture)
+## CROSS-REFERENCES (Scripture Interpreting Scripture) (Scripture Interpreting Scripture)
 
 ### The Higher Standard for Those Who Draw Near
 
@@ -53,7 +53,7 @@ God addresses the priests through Moses: the ordinary priest may not defile hims
 
 ---
 
-## 4. KEYWORD INDEX
+## KEYWORD INDEX
 
 **For Current Events Matching:**
 - **Higher accountability for leaders / teachers** → Leviticus 21:1-12 — Luke 12:48; James 3:1
@@ -63,7 +63,7 @@ God addresses the priests through Moses: the ordinary priest may not defile hims
 
 ---
 
-## 5. KEY TERMS WITH CONTEXTUAL DEFINITIONS
+## KEY TERMS WITH CONTEXTUAL DEFINITIONS WITH CONTEXTUAL DEFINITIONS
 
 ### BLEMISH (Hebrew: mum)
 - **Leviticus 21:17-23** — a physical defect or deformity; the twelve listed conditions cover visual, skeletal, skin, and reproductive impairment
@@ -75,7 +75,7 @@ God addresses the priests through Moses: the ordinary priest may not defile hims
 
 ---
 
-## 6. THE ACTUAL VERSES — LEVITICUS 21 (KJV)
+## THE ACTUAL VERSES (KJV) — LEVITICUS 21 (KJV)
 
 **1** And the LORD said unto Moses, Speak unto the priests the sons of Aaron, and say unto them, There shall none be defiled for the dead among his people:
 **2** But for his kin, that is near unto him, that is, for his mother, and for his father, and for his son, and for his daughter, and for his brother,
@@ -104,7 +104,7 @@ God addresses the priests through Moses: the ordinary priest may not defile hims
 
 ---
 
-## 7. PROPHETIC/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS/TYPOLOGICAL CONNECTIONS
 
 ### The Unblemished Priest — The Complete Fulfillment
 
@@ -118,7 +118,7 @@ The twelve conditions listed in Leviticus 21:18-20 were never meant to exclude t
 
 ---
 
-## 8. COMMONLY MISQUOTED PASSAGES
+## COMMONLY MISQUOTED PASSAGES PASSAGES
 
 ### Leviticus 21:17-23 — Used to Exclude Disabled People from Ministry
 
@@ -133,7 +133,7 @@ The twelve conditions listed in Leviticus 21:18-20 were never meant to exclude t
 
 ---
 
-## 9. SYMBOLIC THREADS
+## SYMBOLIC THREADS
 
 ### The High Priest Who Cannot Mourn — A Thread to Gethsemane
 

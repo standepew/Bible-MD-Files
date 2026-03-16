@@ -159,7 +159,7 @@ God, sundry, times, divers, manners, spake, time, past, fathers, prophets, last,
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### God's Final Revelation in Christ as Type of Christ's Manifestation
 - **Physical manifestation:** Last days spoken (Hebrews 1:2)

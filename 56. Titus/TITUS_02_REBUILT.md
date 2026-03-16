@@ -165,7 +165,7 @@ Speak, things, sound, doctrine, aged, men, sober, grave, temperate, sound, faith
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Sound Doctrine for Different Groups as Type of Christ's Teaching
 - **Physical teaching:** Sound doctrine (Titus 2:2)

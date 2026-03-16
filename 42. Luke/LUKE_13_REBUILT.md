@@ -277,7 +277,7 @@ Present, season, told, Galilæans, blood, Pilate, mingled, sacrifices, Jesus, an
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Repent or Perish as Type of Christ's Judgment
 - **Physical repentance:** Galilæans blood (Luke 13:4)

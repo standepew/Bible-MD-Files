@@ -165,7 +165,7 @@ Paul, servant, God, apostle, Jesus, Christ, faith, God, elect, acknowledging, tr
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Paul's Greeting and Purpose as Type of Christ's Commission
 - **Physical commission:** Faith elect (Titus 1:2)

@@ -185,7 +185,7 @@ Paul, apostle, Jesus, Christ, commandment, God, Saviour, Lord, Jesus, Christ, ho
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Paul's Greeting and Charge as Type of Christ's Commission
 - **Physical commission:** Charge doctrine (1 Timothy 1:4)

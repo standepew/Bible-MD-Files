@@ -209,7 +209,7 @@ Revelation, Jesus, Christ, God, servants, shortly, pass, sent, signified, angel,
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Revelation of Jesus Christ as Type of Christ's Complete Disclosure
 - **Physical disclosure:** Revelation Jesus (Revelation 1:2)

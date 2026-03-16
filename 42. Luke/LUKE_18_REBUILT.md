@@ -283,7 +283,7 @@ Parable, men, ought, pray, faint, judge, feared, God, regarded, man, widow, city
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Parable of the Persistent Widow as Type of Christ's Intercession
 - **Physical parable:** Persistent widow (Luke 18:4)

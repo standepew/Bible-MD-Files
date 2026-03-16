@@ -275,7 +275,7 @@ Day, Pentecost, fully, come, accord, place, suddenly, sound, heaven, rushing, mi
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Day of Pentecost as Type of Christ's Provision
 - **Physical Pentecost:** Day Pentecost (Acts 2:3)

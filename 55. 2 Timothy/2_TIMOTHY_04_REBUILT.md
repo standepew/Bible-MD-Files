@@ -193,7 +193,7 @@ Charge, God, Lord, Jesus, Christ, judge, quick, dead, appearing, kingdom, Preach
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Paul's Final Charge as Type of Christ's Commission
 - **Physical commission:** Preach word (2 Timothy 4:2)

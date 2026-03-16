@@ -194,6 +194,12 @@ The seven covenant pledges of Exodus 6:6-8 map directly onto the New Testament g
 
 ---
 
+## COMMONLY MISQUOTED PASSAGES
+
+*No passages in this chapter are commonly misquoted or frequently taken out of context in a way that distorts the chapter's meaning.*
+
+---
+
 ## SYMBOLIC THREADS
 
 ### "Stretched Out Arm" — The Arm of the LORD

@@ -259,7 +259,7 @@ Followers, Christ, praise, brethren, remember, things, keep, ordinances, deliver
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Head Coverings as Type of Christ's Authority
 - **Physical authority:** Head Christ (1 Corinthians 11:3)

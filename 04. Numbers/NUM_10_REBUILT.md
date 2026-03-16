@@ -2,7 +2,7 @@
 
 ---
 
-## 1. CHAPTER METADATA
+## CHAPTER METADATA
 
 **Book:** Numbers
 **Chapter:** 10
@@ -13,13 +13,13 @@
 
 ---
 
-## 2. CHAPTER SUMMARY
+## CHAPTER SUMMARY
 
 God commands Moses to make two silver trumpets from a single piece of metal — for calling the assembly and for journeying. Both trumpets blown: the whole assembly gathers at the Tabernacle door. One trumpet: only the princes/heads of thousands gather. An alarm (terua — a broken, staccato blast): the east camp moves first. A second alarm: the south camp moves. The alarm signals journey; the full, sustained blast signals assembly. The sons of Aaron blow the trumpets — an ordinance forever through their generations. In war, the trumpet alarm signals God to remember Israel; He will save them from their enemies. At feasts, new moons, and offerings the trumpets sound — a memorial before God. On the twentieth day of the second month, second year, the cloud lifts from the Tabernacle. Israel marches from the wilderness of Sinai to the wilderness of Paran. Judah goes first, then the Gershonites and Merarites carrying the Tabernacle structure, then Reuben's camp, then the Kohathites bearing the holy things (the Tabernacle is set up for them when they arrive), then Ephraim's camp, then Dan's camp as rearguard. Moses invites his father-in-law Hobab (Raguel the Midianite) to join them — "thou mayest be to us instead of eyes." Hobab initially declines; Moses urges him again with a promise of shared blessing. They depart from the mount of the LORD three days' journey, the ark going before to search out a resting place. The cloud is over them by day. When the ark sets forward: "Rise up, LORD, and let thine enemies be scattered; and let them that hate thee flee before thee." When it rests: "Return, O LORD, unto the many thousands of Israel."
 
 ---
 
-## 3. CROSS-REFERENCES (Scripture Interpreting Scripture)
+## CROSS-REFERENCES (Scripture Interpreting Scripture)
 
 ### The Two Silver Trumpets — God's Communication to His People
 
@@ -59,7 +59,7 @@ God commands Moses to make two silver trumpets from a single piece of metal — 
 
 ---
 
-## 4. KEYWORD INDEX
+## KEYWORD INDEX
 
 **For Current Events Matching:**
 - **Communication systems / signals / government announcements** → Numbers 10:2-8 — the trumpet as God's communication infrastructure; different signals for different situations
@@ -71,7 +71,7 @@ God commands Moses to make two silver trumpets from a single piece of metal — 
 
 ---
 
-## 5. KEY TERMS WITH CONTEXTUAL DEFINITIONS
+## KEY TERMS WITH CONTEXTUAL DEFINITIONS
 
 ### ALARM (Hebrew: terua — a blast, a shout, a clamour)
 - **Numbers 10:5, 6, 7, 9** — the terua is a broken, staccato blast on the trumpet; the teki'ah is the sustained note
@@ -87,7 +87,7 @@ God commands Moses to make two silver trumpets from a single piece of metal — 
 
 ---
 
-## 6. THE ACTUAL VERSES — NUMBERS 10 (KJV)
+## THE ACTUAL VERSES (KJV)
 
 **1** And the LORD spake unto Moses, saying,
 **2** Make thee two trumpets of silver; of a whole piece shalt thou make them: that thou mayest use them for the calling of the assembly, and for the journeying of the camps.
@@ -128,7 +128,7 @@ God commands Moses to make two silver trumpets from a single piece of metal — 
 
 ---
 
-## 7. PROPHETIC/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### The Departure from Sinai — Leaving the Mountain of Law for the Journey of Faith
 
@@ -142,7 +142,7 @@ Sinai is where the Law was given. The departure from Sinai begins the journey th
 
 ---
 
-## 8. COMMONLY MISQUOTED PASSAGES
+## COMMONLY MISQUOTED PASSAGES
 
 ### Numbers 10:29-32 — Hobab and "Human Guidance vs. Divine Guidance"
 
@@ -157,7 +157,7 @@ Sinai is where the Law was given. The departure from Sinai begins the journey th
 
 ---
 
-## 9. SYMBOLIC THREADS
+## SYMBOLIC THREADS
 
 ### Three Days' Journey — The Resurrection Pattern
 

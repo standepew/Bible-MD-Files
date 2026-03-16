@@ -187,7 +187,7 @@ Simon, Peter, servant, apostle, Jesus, Christ, obtained, precious, faith, righte
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Divine Power and Precious Promises as Type of Christ's Divine Provision
 - **Physical provision:** Divine power (2 Peter 1:4)

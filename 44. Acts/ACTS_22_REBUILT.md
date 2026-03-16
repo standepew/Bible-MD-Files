@@ -237,7 +237,7 @@ Men, brethren, fathers, defence, Hebrew, tongue, silence, Jew, born, Tarsus, Cil
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Paul's Defense Before the Jews as Type of Christ's Testimony
 - **Physical testimony:** Perfect manner (Acts 22:6)

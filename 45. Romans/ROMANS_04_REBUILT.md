@@ -227,7 +227,7 @@ Abraham, father, pertaining, flesh, found, justified, works, glory, God, scriptu
 
 ---
 
-## PROPHETICAL/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
 
 ### Abraham's Justification by Faith as Type of Christ's Justification
 - **Physical justification:** Counted righteousness (Romans 4:4)

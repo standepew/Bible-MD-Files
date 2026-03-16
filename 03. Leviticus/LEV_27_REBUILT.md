@@ -2,7 +2,7 @@
 
 ---
 
-## 1. CHAPTER METADATA
+## CHAPTER METADATA
 
 **Book:** Leviticus
 **Chapter:** 27
@@ -13,13 +13,13 @@
 
 ---
 
-## 2. CHAPTER SUMMARY
+## CHAPTER SUMMARY
 
 The closing chapter of Leviticus concerns the administration of vows and dedications. When a person makes a singular vow to dedicate a person to the LORD, the priest assigns a silver valuation by age and sex (male 20-60: fifty shekels; female 20-60: thirty shekels; male 5-20: twenty shekels; female 5-20: ten shekels; male 1 month-5 years: five shekels; female: three shekels; male 60+: fifteen shekels; female 60+: ten shekels). If too poor for the set valuation, the priest assesses according to ability. An animal dedicated to the LORD: if it is an animal that can be offered (clean), it is holy and cannot be exchanged; if exchanged, both become holy. An unclean animal is brought before the priest, valued, and can be redeemed by adding a fifth. A dedicated house is valued by the priest; the owner may redeem it by adding a fifth. A dedicated field is valued by seed-capacity (an homer of barley seed = fifty shekels); if dedicated from the Jubilee year, that is its value; if after the Jubilee, proportional to remaining years. If the owner redeems it, he adds a fifth; if not redeemed, or if sold to another, the field becomes holy to the LORD in the Jubilee — it passes to the priest. A purchased field (not ancestral) is valued to the Jubilee and given to the LORD. All valuations are by the shekel of the sanctuary (twenty gerahs to the shekel). Firstlings of clean beasts cannot be dedicated — they already belong to the LORD. Unclean firstlings may be redeemed at valuation plus a fifth, or sold if not redeemed. Devoted things (cherem): what a man utterly devotes to the LORD — person, beast, or field — cannot be sold or redeemed; it is most holy. A devoted person shall be put to death. The tithe of the land — seed and fruit — belongs to the LORD; it is holy. If someone redeems any of his tithe, he adds a fifth. The cattle tithe: the tenth animal that passes under the shepherd's rod is the LORD's — holy; it cannot be examined for quality or exchanged; if exchanged, both are holy and neither can be redeemed. These are the commandments the LORD commanded Moses for Israel at Sinai.
 
 ---
 
-## 3. CROSS-REFERENCES (Scripture Interpreting Scripture)
+## CROSS-REFERENCES (Scripture Interpreting Scripture) (Scripture Interpreting Scripture)
 
 ### Vows Must Be Paid — The Bible's Warning on Vowing
 
@@ -56,7 +56,7 @@ The closing chapter of Leviticus concerns the administration of vows and dedicat
 
 ---
 
-## 4. KEYWORD INDEX
+## KEYWORD INDEX
 
 **For Current Events Matching:**
 - **Tithing / giving to God / storehouse** → Leviticus 27:30-33 — Malachi 3:8-10; Matthew 23:23; Genesis 14:20
@@ -67,7 +67,7 @@ The closing chapter of Leviticus concerns the administration of vows and dedicat
 
 ---
 
-## 5. KEY TERMS WITH CONTEXTUAL DEFINITIONS
+## KEY TERMS WITH CONTEXTUAL DEFINITIONS WITH CONTEXTUAL DEFINITIONS
 
 ### DEVOTED / CHEREM (Hebrew: cherem)
 - **Leviticus 27:28-29** — something placed under total dedication to the LORD; irrevocable, cannot be sold or redeemed
@@ -79,7 +79,7 @@ The closing chapter of Leviticus concerns the administration of vows and dedicat
 
 ---
 
-## 6. THE ACTUAL VERSES — LEVITICUS 27 (KJV)
+## THE ACTUAL VERSES (KJV) — LEVITICUS 27 (KJV)
 
 **1** And the LORD spake unto Moses, saying,
 **2** Speak unto the children of Israel, and say unto them, When a man shall make a singular vow, the persons shall be for the LORD by thy estimation.
@@ -118,7 +118,7 @@ The closing chapter of Leviticus concerns the administration of vows and dedicat
 
 ---
 
-## 7. PROPHETIC/TYPOLOGICAL CONNECTIONS
+## PROPHETIC/TYPOLOGICAL CONNECTIONS/TYPOLOGICAL CONNECTIONS
 
 ### The Valuation System and Matthew 26:15 — Thirty Pieces of Silver
 
@@ -132,7 +132,7 @@ The Son of God, the eternal priest of the order of Melchizedek, is assigned by t
 
 ---
 
-## 8. COMMONLY MISQUOTED PASSAGES
+## COMMONLY MISQUOTED PASSAGES PASSAGES
 
 ### Malachi 3:10 — "Bring All the Tithes into the Storehouse"
 
@@ -146,7 +146,7 @@ The Son of God, the eternal priest of the order of Melchizedek, is assigned by t
 
 ---
 
-## 9. SYMBOLIC THREADS
+## SYMBOLIC THREADS
 
 ### The Fifth-Part Addition — The Cost of Retrieving the Consecrated
 
