@@ -184,10 +184,67 @@ The path through the Tabernacle is the gospel: Cross → Cleansing → Bread/Lig
 
 ## COMMONLY MISQUOTED PASSAGES
 
-*No passages in this chapter are commonly misquoted or frequently taken out of context in a way that distorts the chapter's meaning.*
+### Exodus 30:15 — "The Rich Shall Not Give More, and the Poor Shall Not Give Less" — Misread as Flat-Rate Tithing
+
+**Verse 15** — "The rich shall not give more, and the poor shall not give less than half a shekel, when they give an offering unto the LORD, to make an atonement for your souls."
+
+**How it is misused:** This verse is cited to argue for a strict flat-rate giving system in the church — every person gives exactly the same amount regardless of income, because "God treats everyone equally." It is also sometimes inverted to argue against proportional giving (percentage-based tithes) on the grounds that Exodus 30 shows God requires the same amount from all.
+
+**What the text actually says:**
+- **Exodus 30:12-16** — The half-shekel is specifically a ransom/atonement payment at the time of a census — not a general giving principle; it is a one-time redemption payment, not a recurring tithe
+- **Leviticus 27:8** — "But if he be poorer than thy estimation, then he shall present himself before the priest, and the priest shall value him; according to his ability that vowed shall the priest value him" — other offerings are explicitly adjusted for the person's means
+- **2 Corinthians 8:12** — "For if there be first a willing mind, it is accepted according to that a man hath, and not according to that he hath not" — proportional giving is the New Covenant standard
+- **Luke 21:3-4** — Jesus says the widow gave more than all the rich — "for all these have of their abundance cast in unto the offerings of God: but she of her penury hath cast in all the living that she had" — proportionality, not flat rate, measures true giving
+
+*Correction:* The half-shekel equality in Exodus 30 makes one specific theological point: every soul has equal worth before God — no life is worth more ransom than another in God's accounting. It is an equality-of-persons declaration, not a general tithing principle. Leviticus 27:8 shows that other covenant payments were adjusted for means. 2 Corinthians 8:12 and Luke 21:3-4 confirm that New Covenant giving is measured proportionally — by what a person has, not by a fixed sum.
+
+---
+
+### Exodus 30:9 — "Ye Shall Offer No Strange Incense Thereon" — Misapplied to All Worship Innovation
+
+**Verse 9** — "Ye shall offer no strange incense thereon, nor burnt sacrifice, nor meat offering; neither shall ye pour drink offering thereon."
+
+**How it is misused:** This command is sometimes applied broadly to argue that any innovation in worship expression is "strange incense" — that only exact replication of specific ancient forms is acceptable to God, making it a proof text for extreme liturgical rigidity.
+
+**What the text actually says:**
+- **Exodus 30:7-8** — The context: the altar of incense is reserved for the specifically compounded holy incense (Exodus 30:34-35); only the prescribed incense is to burn on this altar — this is about the specific compound, not a general prohibition on variety in worship
+- **Leviticus 10:1-2** — Nadab and Abihu "offered strange fire before the LORD, which he commanded them not" — the "strange" fire is fire not taken from the altar as commanded; it is an unauthorized source, not merely an unusual form
+- **John 4:23-24** — "But the hour cometh, and now is, when the true worshippers shall worship the Father in spirit and in truth: for the Father seeketh such to worship him. God is a Spirit: and they that worship him must worship him in spirit and in truth"
+- **Psalm 33:3** — "Sing unto him a new song; play skilfully with a loud noise" — God commands new songs
+
+*Correction:* "Strange incense" in Exodus 30:9 means any substance other than the specifically prescribed compound of Exodus 30:34-35, offered on the specific altar designated for that incense alone. The prohibition is against unauthorized substitutes on a sacred instrument, not against all new expression in worship. Nadab and Abihu's "strange fire" (Leviticus 10) was fire from an unauthorized source — the issue is the source and authorization, not novelty per se. Psalm 33:3 explicitly commands new songs; John 4:23-24 defines true worship as in spirit and truth, not in fixed ancient forms alone.
 
 ---
 
 ## SYMBOLIC THREADS
 
-*No distinct symbolic threads requiring cross-reference definition in this chapter. See cross-references above for scripture-interpreting-scripture connections.*
+**Incense:**
+- First appears: Exodus 30:7 — "Aaron shall burn thereon sweet incense every morning"
+- Leviticus 16:12-13 — On the Day of Atonement, the high priest burns incense before the mercy seat so the cloud of incense covers it — the incense creates the covering cloud in the Most Holy Place
+- Psalm 141:2 — "Let my prayer be set forth before thee as incense; and the lifting up of my hands as the evening sacrifice"
+- Luke 1:9-10 — Zacharias burns incense in the temple; the whole multitude prays outside at the hour of incense — prayer and incense are inseparable in New Testament temple practice
+- Revelation 5:8 — "golden vials full of odours, which are the odours of the prayers of saints"
+- Revelation 8:3-4 — "the smoke of the incense, which came with the prayers of the saints, ascended up before God out of the angel's hand"
+- *Pattern:* Incense is the Bible's established symbol for prayer. Psalm 141:2 states it as a simile; Revelation 5:8 and 8:3-4 state it as the literal heavenly reality — the golden vials full of the prayers of the saints ARE the incense. The earthly altar of incense (Exodus 30) is a copy of the heavenly altar of Revelation 8:3. Every prayer offered by a believer ascends before God as incense — not metaphorically but in the actual heavenly reality revealed in Revelation.
+
+---
+
+**The Laver (Basin of Water):**
+- First appears: Exodus 30:18 — "Thou shalt also make a laver of brass, and his foot also of brass, to wash withal"
+- Exodus 40:31-32 — "And Moses and Aaron and his sons washed their hands and their feet thereat: When they went into the tent of the congregation, and when they came near unto the altar, they washed"
+- John 13:10 — "He that is washed needeth not save to wash his feet, but is clean every whit" — Jesus distinguishes the initial full wash (salvation) from the ongoing feet-washing (daily sanctification)
+- Ephesians 5:26 — "That he might sanctify and cleanse it with the washing of water by the word"
+- Titus 3:5 — "the washing of regeneration, and renewing of the Holy Ghost"
+- 1 John 1:9 — "If we confess our sins, he is faithful and just to forgive us our sins, and to cleanse us from all unrighteousness"
+- *Pattern:* The laver stands between the altar of burnt offering (where sin is atoned for — justification) and the entrance to the tabernacle (ongoing ministry). Its position is the key: justification happens at the altar; ongoing sanctification happens at the laver. John 13:10 makes exactly this distinction: the full bath (the altar — justification, unrepeatable) versus the feet-washing (the laver — daily cleansing as one walks in the world). 1 John 1:9 is the New Covenant laver: the ongoing confession and cleansing of the believer who is already saved.
+
+---
+
+**Silver:**
+- First appears in Tabernacle significance: Exodus 26:19 — silver sockets as the foundation of the Tabernacle boards
+- Exodus 30:13-16 — the half-shekel ransom money is silver; it funds the Tabernacle's silver foundation sockets
+- Exodus 38:27 — "of the hundred talents of silver were cast the sockets of the sanctuary" — every board of the Tabernacle rests on silver sockets cast from ransom money
+- Psalm 12:6 — "The words of the LORD are pure words: as silver tried in a furnace of earth, purified seven times"
+- Zechariah 11:12-13 — thirty pieces of silver — the Lord's price paid and cast to the potter
+- 1 Peter 1:18-19 — "ye were not redeemed with corruptible things, as silver and gold... But with the precious blood of Christ"
+- *Pattern:* Silver in the Tabernacle is consistently the metal of redemption and covenant standing. The entire Tabernacle structure rests on silver sockets cast from ransom money — every board stands on atonement silver. Zechariah 11 and Matthew 26:15 use silver for the betrayal price of Christ. 1 Peter 1:18-19 explicitly contrasts the inadequacy of silver as a ransom with Christ's blood as the true ransom. Silver points to redemption but acknowledges its own inadequacy — the true ransom price is blood, not metal.

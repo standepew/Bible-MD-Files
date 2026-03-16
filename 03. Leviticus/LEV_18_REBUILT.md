@@ -158,10 +158,69 @@ The same sequence is embedded in Leviticus 18: the Canaanites had God's general 
 
 ## COMMONLY MISQUOTED PASSAGES
 
-*No passages in this chapter are commonly misquoted or frequently taken out of context in a way that distorts the chapter's meaning.*
+### Leviticus 18:22 — "Thou Shalt Not Lie with Mankind" — Its Scope and Standing Disputed
+
+**Verse 22** — "Thou shalt not lie with mankind, as with womankind: it is abomination."
+
+**How it is misused in two opposite directions:** (1) Some argue this verse is purely a Mosaic ceremonial law tied to the same code as pork prohibitions and therefore abolished in the New Covenant along with food laws. (2) Others cite it in isolation without the New Testament cross-references that show whether and how the prohibition carries forward.
+
+**What the text actually says:**
+- **Romans 1:26-27** — "For this cause God gave them up unto vile affections: for even their women did change the natural use into that which is against nature: And likewise also the men, leaving the natural use of the woman, burned in their lust one toward another; men with men working that which is unseemly, and receiving in themselves that recompence of their error which was meet." — Paul identifies this behavior as a sign of suppressed knowledge of God, not as a cultural relic.
+- **1 Corinthians 6:9-11** — "Know ye not that the unrighteous shall not inherit the kingdom of God? Be not deceived: neither fornicators, nor idolaters, nor adulterers, nor effeminate, nor abusers of themselves with mankind... And such were some of you: but ye are washed, but ye are sanctified, but ye are justified in the name of the Lord Jesus."
+- **1 Timothy 1:10** — "for them that defile themselves with mankind" listed among those for whom the law was made.
+
+*Correction:* Leviticus 18:22 is not in the category of food laws (ceremonial distinctions between Israel and the nations) — it is catalogued alongside adultery, incest, and child sacrifice, all of which the New Testament re-states as binding (Romans 1:26-27; 1 Corinthians 6:9; 1 Timothy 1:10). The distinction the New Testament itself maintains is between the Mosaic food and purity laws (Colossians 2:16-17; Acts 10:15) and the moral prohibitions of the Holiness Code, which the New Testament re-states in its own terms. The "abomination" (toevah) category is the moral toevah, not the ritual sheqetz of the food laws. 1 Corinthians 6:11 ("such were some of you... but ye are washed") is the New Covenant answer: the prohibition stands; the gospel transforms.
+
+---
+
+### Leviticus 18:5 — "He Shall Live in Them" Used to Argue the Law Gives Life to Obedient People
+
+**Verse 5** — "Ye shall therefore keep my statutes, and my judgments: which if a man do, he shall live in them: I am the LORD."
+
+**How it is misused:** This verse is sometimes cited to argue that obedience to God's law is itself the path to spiritual life — that faithful keeping of the commandments produces the life promised here — and therefore that law-keeping is the proper means of justification or sanctification.
+
+**What the text actually says:**
+- **Romans 10:5-9** — "For Moses describeth the righteousness which is of the law, That the man which doeth those things shall live by them. But the righteousness which is of faith speaketh on this wise... That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved."
+- **Galatians 3:10-12** — "For as many as are of the works of the law are under the curse... And the law is not of faith: but, The man that doeth them shall live in them."
+- **Galatians 3:21** — "for if there had been a law given which could have given life, verily righteousness should have been by the law."
+- **Romans 8:3** — "For what the law could not do, in that it was weak through the flesh, God sending his own Son."
+
+*Correction:* Paul quotes Leviticus 18:5 twice (Romans 10:5; Galatians 3:12) — not to condemn it but to show what it requires and what no human being fully delivers. The promise is real: perfect obedience produces the life God attached to the statutes. The problem is not the promise but the obedience — "as many as are of the works of the law are under the curse" because none has done them all (Galatians 3:10). Christ lived in the statutes perfectly, received the life they promised, and offers that life to those who receive His righteousness by faith (Romans 10:6-9). Leviticus 18:5 is fulfilled, not bypassed.
+
+---
+
+### Leviticus 18:21 — "Passing Through Fire to Molech" Applied Only to Ancient Child Sacrifice with No Current Relevance
+
+**Verse 21** — "And thou shalt not let any of thy seed pass through the fire to Molech, neither shalt thou profane the name of thy God: I am the LORD."
+
+**How it is misused:** This verse is treated as a purely historical prohibition addressed to Canaanite-era religious practices with no conceptual connection to the present — used to avoid any contemporary application of the principle that God's people must not sacrifice children to the demands of surrounding culture.
+
+**What the text actually says:**
+- **2 Kings 23:10** — "And he defiled Topheth, which is in the valley of the children of Hinnom, that no man might make his son or his daughter to pass through the fire to Molech." — Josiah's reform recognized Israel had adopted the practice; it was a real historical violation within the covenant people.
+- **Jeremiah 32:35** — "And they built the high places of Baal, which are in the valley of the son of Hinnom, to cause their sons and their daughters to pass through the fire unto Molech; which I commanded them not, neither came it into my mind, that they should do this abomination."
+- **Psalm 106:37-38** — "Yea, they sacrificed their sons and their daughters unto devils... And shed innocent blood, even the blood of their sons and of their daughters."
+- **Proverbs 6:17** — "hands that shed innocent blood" listed among what the LORD hates as toevah.
+
+*Correction:* Leviticus 18:21 is not culturally exotic — it is God's prohibition on sacrificing children to satisfy the demands of a surrounding culture's dominant system of worship. 2 Kings 23:10 and Jeremiah 32:35 show that the covenant people violated it in real history, and God identified it as the profaning of His name. Psalm 106:37 identifies Molech-sacrifice as sacrifice to devils. The category — using children as the price of cultural or religious accommodation — is the principle Scripture preserves, not merely the specific ancient rite.
 
 ---
 
 ## SYMBOLIC THREADS
 
-*No distinct symbolic threads requiring cross-reference definition in this chapter. See cross-references above for scripture-interpreting-scripture connections.*
+**"I Am the LORD Your God" (The Authority Ground for Ethics):**
+- First used as an ethical ground: Exodus 20:2 — "I am the LORD thy God, which have brought thee out of the land of Egypt, out of the house of bondage." — The Decalogue opens not with commands but with identity.
+- Leviticus 18:2, 4, 30 — "I am the LORD your God" opens, pivots, and closes the sexual ethics chapter.
+- Leviticus 19:2, 3, 4 (and throughout) — "I am the LORD" repeated as the authority for each command in the Holiness Code.
+- Romans 1:18-21 — Paul grounds the moral disorder of Gentiles in their suppression of the knowledge of God — the same pattern as Leviticus 18: when the identity of God is not the ground, the ethics collapse.
+- 1 Corinthians 6:13-20 — Paul grounds sexual ethics in "your body is the temple of the Holy Ghost" — not social utility or natural law, but the indwelling presence of God.
+- *Pattern:* Leviticus 18 establishes that God's ethics are grounded in His identity, not in cultural consensus or social utility. The repetition of "I am the LORD your God" is the anchor. The New Testament maintains this pattern: Romans 1 shows what happens when God's identity is suppressed; 1 Corinthians 6 shows how the indwelling Spirit replaces the external Tabernacle as the ground of sexual ethics. The source does not change — only the location of the divine presence.
+
+**The Land Defiled and Vomiting Out Its Inhabitants:**
+- First principle: Genesis 4:10-12 — "the voice of thy brother's blood crieth unto me from the ground... a fugitive and a vagabond shalt thou be in the earth" — the land responds to blood shed on it.
+- Genesis 6:11-13 — "The earth also was corrupt before God, and the earth was filled with violence... for the earth is filled with violence through them."
+- Leviticus 18:25, 28 — "the land itself vomiteth out her inhabitants... That the land spue not you out also."
+- Numbers 35:33-34 — "So ye shall not pollute the land wherein ye are: for blood it defileth the land... for I the LORD dwell among the children of Israel."
+- Isaiah 24:5-6 — "The earth also is defiled under the inhabitants thereof; because they have transgressed the laws, changed the ordinance... Therefore hath the curse devoured the earth."
+- Romans 8:22 — "For we know that the whole creation groaneth and travaileth in pain together until now."
+- Revelation 11:18 — "shouldest destroy them which destroy the earth."
+- *Pattern:* Creation in Scripture is not a neutral backdrop to human sin. From Abel's blood (Genesis 4) to the Flood (Genesis 6) to Canaan's expulsion (Leviticus 18) to Isaiah's cosmic defilement (Isaiah 24) to the creation's groan (Romans 8) to the final judgment of earth's destroyers (Revelation 11:18): the land has a moral responsiveness to human rebellion. Leviticus 18:25-28 is not poetic metaphor — it is the Mosaic statement of a principle that Genesis, the prophets, Paul, and Revelation all confirm.
