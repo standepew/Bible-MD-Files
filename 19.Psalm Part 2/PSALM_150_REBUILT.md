@@ -103,6 +103,11 @@ Praise, LORD, Praise, God, sanctuary, praise, firmament, power, praise, mighty, 
 
 **Breath Praise:** every thing breath, praise LORD, universal worship
 
+
+*AI Keywords for current event matching:*
+`acts` `breath` `dance` `divine` `every` `excellent` `firmament` `greatness` `harp` `instrumental` `instruments` `lord` `mighty` `organs` `power` `praise` `psaltery` `sanctuary` `sound` `stringed` `thing` `timbrel` `trumpet` `universal` `worship`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -83,6 +83,11 @@ Samuel's word came to all Israel. Israel went against the Philistines to battle,
 
 **Ichabod's Birth:** daughter law Phinehas wife child delivered tidings ark God taken father law husband dead bowed travailed pains, death women son born answered regarded, child I-chabod glory departed Israel ark God taken father law husband, glory departed Israel ark God taken
 
+
+*AI Keywords for current event matching:*
+`afraid` `answered` `aphek` `ark` `army` `array` `backward` `battle` `benjamin` `birth` `born` `bowed` `broke` `camp` `cherubims` `child` `city` `clothes` `confidence` `covenant` `cried` `crying` `daughter` `day` `dead` `death` `defeat` `deliver` `delivered` `departed` `died` `dim` `done` `dwelleth` `earth` `eben-ezer` `egyptians` `elders` `eli` `elis` `enemies` `eyes` `false` `father` `fell` `fetch` `field` `fight` `fled` `footmen` `forty` `fought` `four` `gate` `glory` `god` `gods` `great` `greater` `hastily` `head` `heard` `heart` `heavy` `hebrews` `heretofore` `hophni` `hosts` `husband` `i-chabod` `ichabods` `israel` `joined` `judged` `law` `lord` `man` `men` `messenger` `mighty` `neck` `ninety-eight` `noise` `old` `pains` `people` `philistines` `phinehas` `pitched` `plagues` `quit` `rang` `regarded` `rent` `samuel` `save` `seat` `see` `servants` `shiloh` `shout` `shouted` `slain` `slaughter` `slew` `smitten` `smote` `solution` `son` `sons` `strong` `superstitious` `taken` `tents` `thing` `thirty` `thousand` `tidings` `told` `travailed` `trembled` `tumult` `two` `understood` `watching` `wayside` `wife` `wilderness` `woe` `women` `word` `years`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

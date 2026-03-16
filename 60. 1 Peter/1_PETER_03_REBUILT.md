@@ -115,6 +115,11 @@ Wives, subjection, husbands, obey, word, won, conversation, wives, behold, chast
 
 **Christ's Victory and Baptism:** Christ, suffered, sins, just, unjust, bring, God, put, death, flesh, quickened, Spirit, preached, spirits, prison, disobedient, longsuffering, God, waited, days, Noah, ark, preparing, souls, saved, water, figure, baptism, save, putting, filth, flesh, answer, good, conscience, God, resurrection, Jesus, Christ, gone, heaven, right, hand, God, angels, authorities, powers, subject
 
+
+*AI Keywords for current event matching:*
+`abraham` `accuse` `adorning` `afraid` `amazement` `among` `angels` `answer` `apparel` `ark` `ashamed` `authorities` `baptism` `behold` `believers` `better` `blessing` `brethren` `bring` `called` `calling` `chaste` `christ` `christian` `christs` `compassion` `conscience` `conversation` `corruptible` `courteous` `daughters` `days` `death` `disobedient` `doing` `dwell` `ears` `ensue` `eschew` `evil` `evildoers` `eyes` `face` `falsely` `fear` `figure` `filth` `flesh` `followers` `god` `gold` `gone` `good` `grace` `guile` `hair` `hand` `happy` `harm` `heart` `hearts` `heaven` `heirs` `hidden` `hindered` `holy` `honour` `hope` `husbands` `inherit` `jesus` `knowledge` `life` `lips` `longsuffering` `lord` `love` `man` `marriage` `meek` `meekness` `mind` `noah` `obey` `obeyed` `ornament` `outward` `peace` `pitiful` `plaiting` `powers` `prayers` `preached` `preparing` `price` `prison` `put` `putting` `quickened` `quiet` `railing` `ready` `reason` `refrain` `relationships` `rendering` `resurrection` `right` `righteous` `righteousness` `sanctify` `sara` `save` `saved` `seek` `sight` `sins` `souls` `speak` `spirit` `spirits` `subject` `subjection` `suffer` `suffered` `suffering` `terror` `tongue` `troubled` `trusted` `unity` `unjust` `vessel` `victory` `waited` `water` `weaker` `wearing` `well` `wife` `wives` `women` `won` `word`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

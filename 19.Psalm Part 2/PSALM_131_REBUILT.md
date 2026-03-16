@@ -67,6 +67,11 @@ Song, degrees, David, heart, haughty, eyes, lofty, exercise, great, matters, thi
 
 **Hope in the LORD:** Israel hope LORD, henceforth forever
 
+
+*AI Keywords for current event matching:*
+`behaved` `child` `childlike` `exercise` `eyes` `forever` `great` `haughty` `heart` `henceforth` `high` `hope` `humble` `israel` `lofty` `lord` `matters` `mother` `myself` `quieted` `simplicity` `soul` `spiritual` `things` `too` `trust` `weaned`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

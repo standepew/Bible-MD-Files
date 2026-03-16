@@ -127,6 +127,11 @@ Sittest, eat, ruler, consider, diligently, knife, throat, man, given, appetite, 
 
 **Avoiding Evil:** whore deep ditch, strange woman narrow pit, wine biteth serpent
 
+
+*AI Keywords for current event matching:*
+`apply` `avoiding` `begat` `biteth` `buy` `cease` `consider` `correction` `deep` `diligently` `ditch` `evil` `father` `greatly` `hearken` `heart` `instruction` `knife` `labour` `look` `narrow` `parental` `pit` `rejoice` `rich` `righteous` `self-control` `sell` `serpent` `strange` `throat` `truth` `wealth` `whore` `wine` `wisdom` `withhold` `woman`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -81,6 +81,11 @@ Elders, exhort, elder, witness, sufferings, Christ, partaker, glory, revealed, F
 
 **Final Greetings:** Silvanus, faithful, brother, written, briefly, exhorting, testifying, true, grace, God, stand, church, Babylon, elected, saluteth, Marcus, son, Greet, charity, peace, Christ, Jesus
 
+
+*AI Keywords for current event matching:*
+`accomplished` `adversary` `afflictions` `against` `appear` `babylon` `brethren` `briefly` `brother` `called` `care` `careth` `casting` `charity` `chief` `christ` `church` `clothed` `constraint` `crown` `devil` `devour` `dominion` `due` `elder` `elders` `elected` `ensamples` `eternal` `exalt` `exhort` `exhorting` `fadeth` `faith` `faithful` `feed` `filthy` `final` `flock` `giveth` `glory` `god` `gods` `grace` `greet` `greetings` `hand` `heritage` `humble` `humility` `jesus` `leadership` `lion` `lords` `lucre` `marcus` `mighty` `mind` `oversight` `partaker` `peace` `perfect` `proud` `ready` `resist` `resistance` `resisteth` `revealed` `roaring` `saluteth` `settle` `shepherd` `silvanus` `sober` `son` `stablish` `stand` `stedfast` `strengthen` `subject` `submit` `suffered` `suffering` `sufferings` `testifying` `time` `true` `vigilant` `walketh` `willingly` `witness` `world` `written` `younger`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

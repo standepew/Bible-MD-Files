@@ -115,6 +115,11 @@ Words, king, Lemuel, prophecy, mother, taught, son, son, womb, son, vows, streng
 
 **Divine Praise:** woman feareth LORD praised, fruit hands works praise, children arise call blessed
 
+
+*AI Keywords for current event matching:*
+`arise` `blessed` `call` `cause` `children` `divine` `dumb` `feareth` `flax` `forget` `fruit` `hand` `hands` `heart` `husband` `judge` `judgment` `justice` `king` `law` `lemuel` `lord` `mercy` `mouth` `needy` `open` `pervert` `plead` `poor` `praise` `praised` `price` `prophecy` `righteously` `royal` `rubies` `safely` `seeketh` `stretcheth` `trust` `virtuous` `wisdom` `woman` `wool` `works`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

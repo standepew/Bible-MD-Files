@@ -127,6 +127,11 @@ Snow, summer, rain, harvest, honour, seemly, fool, bird, wandering, swallow, fly
 
 **Strife and Peace:** talebearer strife ceaseth, contentious man kindle strife, meddleth strife belonging
 
+
+*AI Keywords for current event matching:*
+`afflicted` `answer` `bed` `believe` `belonging` `ceaseth` `conceit` `contentious` `covered` `deceit` `deception` `diligence` `dog` `fair` `folly` `fool` `hateth` `hatred` `honour` `kindle` `lion` `lying` `man` `meddleth` `peace` `returneth` `seemly` `sloth` `slothful` `speaketh` `strife` `talebearer` `tongue` `truth` `vomit` `wisdom` `wiser`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

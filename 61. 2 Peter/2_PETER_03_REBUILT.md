@@ -105,6 +105,11 @@ Second, epistle, beloved, write, stir, pure, minds, remembrance, mindful, words,
 
 **Final Exhortation:** beloved, look, diligent, found, peace, spot, blameless, account, longsuffering, Lord, salvation, beloved, brother, Paul, wisdom, epistles, speaking, things, hard, understood, unlearned, unstable, wrest, other, scriptures, destruction, know, things, beware, led, away, error, wicked, fall, stedfastness, grow, grace, knowledge, Lord, Saviour, Jesus, Christ, glory
 
+
+*AI Keywords for current event matching:*
+`account` `apostles` `asleep` `away` `beginning` `beloved` `beware` `blameless` `brother` `burned` `christ` `coming` `commandment` `conversation` `creation` `day` `days` `destruction` `diligent` `dissolved` `dwelleth` `earth` `elements` `epistle` `epistles` `error` `exhortation` `fall` `fathers` `fell` `fervent` `final` `fire` `flood` `found` `glory` `god` `godliness` `grace` `great` `grow` `hard` `hasting` `heat` `heavens` `holy` `ignorant` `jesus` `judgment` `kept` `know` `knowing` `knowledge` `last` `led` `longsuffering` `look` `looking` `lord` `lusts` `melt` `men` `mindful` `minds` `new` `night` `noise` `overflowed` `pass` `paul` `peace` `perdition` `perish` `perished` `promise` `prophets` `pure` `remembrance` `repentance` `reserved` `righteousness` `salvation` `saviour` `saying` `scoffers` `scriptures` `second` `slack` `slackness` `speaking` `spoken` `spot` `standing` `stedfastness` `stir` `store` `thief` `things` `thousand` `understood` `ungodly` `unlearned` `unstable` `walking` `water` `wicked` `willing` `willingly` `wisdom` `word` `words` `world` `wrest` `write` `years`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -115,6 +115,11 @@ Returned, considered, oppressions, done, sun, behold, tears, oppressed, comforte
 
 **Life and Death:** praised dead already, living yet alive, untimely birth better
 
+
+*AI Keywords for current event matching:*
+`alive` `alone` `already` `better` `birth` `broken` `child` `comfort` `comforter` `companionship` `cord` `dead` `death` `done` `falleth` `foldeth` `folly` `fool` `foolish` `hands` `help` `isolation` `king` `life` `living` `old` `one` `oppressed` `oppression` `oppressions` `poor` `praised` `sun` `tears` `threefold` `two` `untimely` `wisdom` `wise` `yet`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

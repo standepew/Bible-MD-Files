@@ -66,6 +66,11 @@ This narrative sits immediately after the high-handed principle (vv.30-31) to il
 - **Capital punishment for Sabbath violation** → Numbers 15:32-36 — Exodus 31:14-15; the theocratic covenant context
 - **Visual reminders of commitment** → Numbers 15:38-40 — the fringes; Matthew 9:20; Deuteronomy 6:8-9
 
+
+*AI Keywords for current event matching:*
+`151-2` `cancelled` `come` `continuing` `covenant` `current` `events` `failure` `generations` `gods` `judgment` `land` `matching` `numbers` `promise`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS WITH CONTEXTUAL DEFINITIONS

@@ -139,6 +139,11 @@ Psalm, Asaph, GOD, heathen, thine, inheritance, holy, temple, defiled, laid, Jer
 
 **Vindication:** heathen reproached LORD foolish people blasphemed name, known heathen sight revenging blood servants shed, render neighbours sevenfold bosom reproach
 
+
+*AI Keywords for current event matching:*
+`anger` `angry` `asaph` `beasts` `blasphemed` `blood` `bodies` `bosom` `brought` `burn` `call` `dead` `defiled` `deliver` `disaster` `divine` `earth` `fire` `flesh` `foolish` `forever` `former` `fowls` `glory` `god` `heaps` `heathen` `heaven` `help` `holy` `inheritance` `iniquities` `jealousy` `jerusalem` `known` `laid` `long` `lord` `low` `meat` `mercies` `mercy` `name` `national` `neighbours` `people` `plea` `pour` `prevent` `psalm` `purge` `remember` `render` `reproach` `reproached` `revenging` `saints` `sake` `salvation` `servants` `sevenfold` `shed` `sight` `sins` `speedily` `temple` `tender` `vindication` `wrath`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

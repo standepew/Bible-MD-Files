@@ -151,6 +151,11 @@ Psalm, Song, sabbath, day, good, thing, give, thanks, LORD, sing, praises, name,
 
 **God's Uprightness:** LORD upright rock unrighteousness, brutish man know fool understand, wicked spring grass workers iniquity flourish destroyed
 
+
+*AI Keywords for current event matching:*
+`age` `bring` `brutish` `cedar` `courts` `day` `deep` `destroyed` `divine` `faithfulness` `fat` `flourish` `flourishing` `fool` `forth` `fruit` `give` `glad` `god` `gods` `good` `grass` `great` `grow` `hands` `harp` `high` `house` `iniquity` `instrument` `know` `lebanon` `lord` `lovingkindness` `made` `man` `morning` `name` `night` `old` `palm` `planted` `praises` `psalm` `psaltery` `righteous` `rock` `sabbath` `shew` `sing` `solemn` `song` `sound` `spring` `strings` `ten` `thanks` `thing` `thoughts` `tree` `triumph` `understand` `unrighteousness` `upright` `uprightness` `wicked` `work` `workers` `works` `worship`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

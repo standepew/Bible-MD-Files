@@ -163,6 +163,11 @@ Vision, Isaiah, son, Amoz, saw, concerning, Judah, Jerusalem, days, Uzziah, Joth
 
 **Christ's Redemption:** sins scarlet white snow, Zion redeemed, converts righteousness
 
+
+*AI Keywords for current event matching:*
+`call` `cease` `christs` `clean` `converts` `country` `desolate` `divine` `evil` `head` `hear` `heavens` `holy` `israel` `judgment` `knoweth` `learn` `nation` `one` `owner` `provoked` `reason` `rebellion` `redeemed` `redemption` `repentance` `righteousness` `scarlet` `sick` `sinful` `sins` `snow` `spiritual` `together` `wash` `well` `white` `whole` `zion`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

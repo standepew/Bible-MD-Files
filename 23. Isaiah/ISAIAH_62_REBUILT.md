@@ -127,6 +127,11 @@ Zion, sake, hold, peace, Jerusalem, sake, rest, righteousness, brightness, salva
 
 **Christ's Marriage:** bridegroom rejoiceth, God rejoice, sons marry, land married
 
+
+*AI Keywords for current event matching:*
+`arm` `beulah` `bridegroom` `christs` `crown` `diadem` `divine` `glory` `god` `hand` `hephzi-bah` `hold` `keep` `land` `marriage` `married` `marry` `name` `never` `new` `peace` `protection` `rejoice` `rejoiceth` `restoration` `right` `royal` `sake` `set` `silence` `sons` `spiritual` `strength` `sworn` `termed` `walls` `watchfulness` `watchmen` `zion`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -103,6 +103,11 @@ King, Zedekiah, son, Josiah, reigned, Coniah, son, Jehoiakim, Nebuchadrezzar, ki
 
 **Christ's Suffering:** princes wroth smote, Jeremiah false, delivered hand Babylon, die there
 
+
+*AI Keywords for current event matching:*
+`army` `babylon` `burn` `cabins` `chaldeans` `christs` `city` `come` `court` `days` `deceive` `delivered` `depart` `die` `divine` `dungeon` `egypt` `false` `fight` `fire` `hand` `help` `hope` `imprisonment` `jeremiah` `many` `pharaoh` `princes` `prison` `put` `remained` `return` `rise` `smote` `suffering` `tent` `there` `warning` `wroth` `yourselves`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

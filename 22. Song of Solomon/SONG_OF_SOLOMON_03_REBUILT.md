@@ -151,6 +151,11 @@ Night, bed, sought, soul, loveth, sought, found, rise, city, streets, broad, way
 
 **Royal Procession:** king Solomon crown, daughters Zion behold, day espousals
 
+
+*AI Keywords for current event matching:*
+`bed` `behold` `chariot` `christs` `city` `coming` `crown` `daughters` `day` `divine` `espousals` `found` `frankincense` `king` `lebanon` `loveth` `men` `myrrh` `perfumed` `pillars` `procession` `protection` `rise` `royal` `seek` `seeking` `smoke` `solomon` `sought` `soul` `spiritual` `swords` `valiant` `watchmen` `wilderness` `zion`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -163,6 +163,11 @@ Praise, LORD, Praise, LORD, heavens, praise, heights, angels, hosts, sun, moon, 
 
 **Human Praise:** kings earth people, princes judges, young men maidens, old men children
 
+
+*AI Keywords for current event matching:*
+`angelic` `angels` `beasts` `cattle` `children` `commanded` `created` `creation` `decree` `earth` `fulfilling` `heavens` `heights` `hills` `hosts` `human` `judges` `kings` `lord` `maidens` `men` `moon` `mountains` `old` `pass` `people` `praise` `princes` `stars` `stormy` `sun` `universal` `waters` `wind` `worship` `young`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

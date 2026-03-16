@@ -124,6 +124,11 @@ Moses blesses Israel before his death, describing God's revelation at Sinai, Sei
 
 **Israel's Security:** Israel dwell safety alone, fountain Jacob, land corn wine, heavens drop dew, happy Israel, like thee people saved LORD, shield help, sword excellency, enemies liars, tread high places
 
+
+*AI Keywords for current event matching:*
+`abundance` `accept` `acceptable` `acknowledged` `again` `against` `alone` `altar` `ancient` `arm` `arms` `asher` `bashan` `beloved` `beneath` `benjamin` `bless` `blessed` `blessing` `brass` `brethren` `bring` `bullock` `burnt` `bush` `call` `came` `chief` `children` `commanded` `congregation` `corn` `coucheth` `covenant` `cover` `crown` `dan` `day` `days` `death` `deep` `destroy` `dew` `die` `dip` `divine` `drop` `dwell` `dwelleth` `dwelt` `earth` `ends` `enemies` `enemy` `enlargeth` `ephraim` `eternal` `everlasting` `excellency` `executed` `father` `favour` `feet` `few` `fiery` `first` `firstling` `foot` `fountain` `fruits` `full` `fulness` `gad` `gathered` `glory` `god` `going` `good` `hand` `hands` `happy` `hate` `head` `heads` `hear` `heaven` `heavens` `help` `hid` `high` `hills` `holy` `horns` `incense` `inheritance` `iron` `israel` `israels` `issachar` `jacob` `jeshurun` `joseph` `judah` `judgments` `justice` `kept` `king` `knew` `land` `lasting` `law` `lawgiver` `leap` `levi` `liars` `like` `lion` `live` `loins` `long` `lord` `loved` `man` `manasseh` `massah` `men` `meribah` `moon` `moses` `mother` `mount` `mountain` `mountains` `naphtali` `none` `observed` `offer` `oil` `one` `paran` `part` `people` `places` `portion` `possess` `precious` `protection` `proved` `provided` `push` `receive` `refuge` `rejoice` `reuben` `revelation` `rideth` `right` `righteousness` `rise` `rose` `sacrifice` `sacrifices` `safety` `saints` `sand` `sat` `satisfied` `saved` `seas` `seated` `security` `seen` `seir` `separated` `shield` `shined` `shoes` `shoulders` `sinai` `sky` `smite` `south` `strength` `strove` `substance` `suck` `sufficient` `sun` `sword` `teach` `teareth` `ten` `tents` `things` `thousands` `thrust` `thummim` `together` `top` `tread` `treasures` `tribes` `underneath` `unicorns` `urim` `voice` `waters` `west` `whelp` `whole` `wine` `word` `words` `work` `zebulun`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

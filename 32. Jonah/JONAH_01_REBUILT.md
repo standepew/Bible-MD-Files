@@ -103,6 +103,11 @@ Word, LORD, Jonah, son, Amittai, Arise, Nineveh, great, city, cry, wickedness, c
 
 **Great Fish:** prepared fish, swallow Jonah, belly fish, three days nights
 
+
+*AI Keywords for current event matching:*
+`against` `arise` `belly` `broken` `call` `cast` `christs` `come` `cried` `cry` `days` `discipline` `divine` `fell` `fish` `flee` `great` `jonah` `lord` `lot` `lots` `mariners` `mighty` `mission` `nights` `nineveh` `offered` `prepared` `presence` `repentance` `sacrifice` `ship` `swallow` `tempest` `three` `wickedness` `wind` `word`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

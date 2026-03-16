@@ -127,6 +127,11 @@ Wise, woman, buildeth, house, foolish, plucketh, hands, walketh, uprightness, fe
 
 **Fear of the LORD:** walketh uprightness feareth, fear LORD fountain life, fear LORD strong confidence
 
+
+*AI Keywords for current event matching:*
+`backslider` `buildeth` `confidence` `exalteth` `faithful` `false` `fear` `feareth` `filled` `folly` `foolish` `fountain` `great` `hands` `heart` `house` `humility` `lie` `lies` `life` `lips` `lord` `nation` `plucketh` `pride` `righteousness` `rod` `scorner` `seeketh` `slow` `strong` `understanding` `uprightness` `utter` `walketh` `ways` `wickedness` `wisdom` `wise` `witness` `woman` `wrath`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

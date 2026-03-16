@@ -95,6 +95,11 @@ Year expired, time kings go to battle, David sent Joab, servants, Israel; destro
 
 **Marriage and Consequences:** wife Uriah Uriah husband dead mourned husband, mourning David fetched house wife bare son David displeased LORD
 
+
+*AI Keywords for current event matching:*
+`abimelech` `ammon` `approached` `ark` `assigned` `ate` `attempts` `bare` `bath-sheba` `battle` `beautiful` `bed` `besieged` `called` `child` `children` `city` `conceived` `consequences` `cover-up` `daughter` `david` `davids` `day` `dead` `depart` `destroyed` `devoureth` `die` `died` `displease` `displeased` `door` `drank` `drink` `eat` `eliam` `encamped` `encourage` `enquired` `eveningtide` `expired` `feet` `fell` `fetched` `field` `fields` `fight` `forefront` `fought` `gate` `hand` `hittite` `honor` `hottest` `house` `husband` `israel` `jerubbesheth` `jerusalem` `joab` `journey` `judah` `king` `kings` `lay` `letter` `lord` `marriage` `matters` `meat` `men` `mess` `messenger` `messengers` `millstone` `morning` `morrow` `mourned` `mourning` `murderous` `negligence` `observed` `open` `overthrow` `people` `place` `plot` `prevailed` `prospered` `rabbah` `retire` `returned` `roof` `rose` `sent` `servant` `servants` `shoot` `shooters` `sin` `slept` `smitten` `son` `strong` `sword` `tarried` `tarry` `temptation` `tents` `thebez` `told` `took` `uncleanness` `uriah` `uriahs` `valiant` `walked` `wall` `war` `wash` `washing` `wife` `woman` `wrath` `year`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

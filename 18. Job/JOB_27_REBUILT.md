@@ -139,6 +139,11 @@ Job, continued, parable, God, liveth, taken, judgment, Almighty, vexed, soul. Br
 
 **Divine Justice:** children multiplied sword offspring bread, remain buried death widows weep, heap silver dust raiment clay
 
+
+*AI Keywords for current event matching:*
+`almighty` `bread` `breath` `buried` `call` `children` `clay` `conceal` `continued` `cry` `death` `deceit` `delight` `die` `divine` `dust` `enemy` `fate` `forbid` `gained` `god` `hand` `heap` `heart` `heritage` `hold` `hope` `hypocrite` `integrity` `job` `jobs` `judgment` `justice` `justify` `lips` `live` `liveth` `multiplied` `nostrils` `oath` `offspring` `oppressors` `parable` `personal` `portion` `raiment` `remain` `reproach` `righteousness` `riseth` `seen` `silver` `soul` `spirit` `sword` `taken` `taketh` `teach` `tongue` `trouble` `unrighteous` `vain` `vexed` `weep` `wicked` `wickedness` `wickeds` `widows`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

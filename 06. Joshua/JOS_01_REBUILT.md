@@ -114,6 +114,11 @@ After Moses' death, God commissions Joshua as leader, commanding him to cross th
 
 **Obedience and Success:** Answered Joshua, command do, whithersoever send go, hearkened Moses things, hearken thee, LORD God with thee, Moses with thee, rebel commandment, not hearken words, command put death, strong good courage
 
+
+*AI Keywords for current event matching:*
+`according` `answered` `arise` `armed` `book` `brethren` `cattle` `children` `coast` `command` `commanded` `commandment` `courage` `crossing` `day` `days` `dead` `death` `depart` `divide` `divine` `down` `eastern` `euphrates` `fail` `fathers` `foot` `forsake` `gadites` `gave` `give` `given` `giveth` `god` `goest` `good` `great` `half` `hearken` `hearkened` `help` `hittites` `host` `inheritance` `israel` `jordan` `joshua` `land` `law` `leadership` `lebanon` `left` `life` `little` `lord` `make` `man` `manasseh` `meditate` `meditation` `men` `mighty` `minister` `moses` `mouth` `night` `nun` `obedience` `observe` `officers` `ones` `pass` `people` `possess` `prepare` `presence` `promise` `prosper` `prosperous` `put` `rebel` `remain` `remember` `rest` `reubenites` `right` `river` `said` `sea` `send` `servant` `side` `sole` `son` `spake` `stand` `strong` `success` `sun` `sware` `things` `three` `transition` `tread` `tribe` `tribes` `turn` `valour` `victuals` `way` `whithersoever` `wilderness` `wives` `word` `words` `written`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

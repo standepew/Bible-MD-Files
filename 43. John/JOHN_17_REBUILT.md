@@ -115,6 +115,11 @@ Words, spake, Jesus, lifted, eyes, heaven, Father, hour, glorify, Son, glorify, 
 
 **The Glory of Unity:** righteous Father, world known, known sent, declared name, declare love, love loved
 
+
+*AI Keywords for current event matching:*
+`behold` `believe` `believers` `christ` `come` `declare` `declared` `disciples` `earth` `eternal` `evil` `father` `finished` `foundations` `fulfilled` `gavest` `given` `glorified` `glorify` `glory` `god` `hated` `himself` `holy` `hour` `jesus` `joy` `keep` `kept` `know` `known` `life` `lost` `love` `loved` `manifested` `men` `mine` `name` `one` `perdition` `perfect` `power` `pray` `prays` `received` `righteous` `sanctify` `scripture` `sent` `son` `true` `truth` `unity` `word` `words` `work` `world`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

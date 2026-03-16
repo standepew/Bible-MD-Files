@@ -151,6 +151,11 @@ Spiritual, gifts, brethren, ignorant, Gentiles, carried, dumb, idols, led, under
 
 **Church Order:** God, set, church, apostles, prophets, teachers, miracles, gifts, healings, helps, governments, diversities, tongues, apostles, prophets, teachers, workers, miracles, gifts, healing, speak, tongues, interpret, covet, earnestly, best, gifts, shew, excellent, way
 
+
+*AI Keywords for current event matching:*
+`abundant` `accursed` `administrations` `apostles` `baptized` `best` `body` `bond` `brethren` `calleth` `care` `carried` `christ` `church` `comeliness` `comely` `covet` `differences` `discerning` `diversities` `diversity` `dividing` `drink` `dumb` `ear` `earnestly` `excellent` `eye` `faith` `feeble` `feet` `foot` `free` `gentiles` `ghost` `gifts` `god` `governments` `hand` `head` `healing` `healings` `hearing` `helps` `holy` `honour` `honourable` `honoured` `idols` `ignorant` `interpret` `interpretation` `jesus` `jews` `knowledge` `lacked` `led` `less` `lord` `man` `manifestation` `member` `members` `miracles` `necessary` `need` `one` `operations` `order` `particular` `parts` `pleased` `profit` `prophecy` `prophets` `rejoice` `say` `schism` `set` `severally` `shew` `smelling` `speak` `speaking` `spirit` `spirits` `spiritual` `suffer` `teachers` `tempered` `tongues` `uncomely` `understand` `unity` `way` `wisdom` `word` `workers` `worketh` `working`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

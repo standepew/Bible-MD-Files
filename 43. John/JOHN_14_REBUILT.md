@@ -127,6 +127,11 @@ Heart, troubled, believe, God, believe, Father, house, mansions, told, prepare, 
 
 **Peace I Leave With You:** loveth not, keep sayings, Father sent, present with, Holy Ghost, teach all, remembrance, Peace leave, give peace, world giveth, troubled afraid, go away, rejoice Father, greater than, told pass, believe, prince world, nothing in, love Father, commandment, Arise hence
 
+
+*AI Keywords for current event matching:*
+`abide` `abode` `afraid` `arise` `ask` `away` `believe` `comforter` `comfortless` `commandment` `commandments` `dwelleth` `father` `ghost` `give` `giveth` `glorified` `god` `greater` `heart` `hence` `holy` `house` `iscariot` `judas` `keep` `know` `known` `leave` `life` `little` `live` `love` `loveth` `manifest` `mansions` `many` `myself` `name` `nothing` `pass` `peace` `philip` `place` `pray` `prepare` `present` `prince` `promise` `receive` `rejoice` `remembrance` `sayings` `seen` `seeth` `sent` `show` `son` `speak` `spirit` `teach` `thomas` `told` `troubled` `truth` `way` `while` `whither` `words` `works` `world` `you`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

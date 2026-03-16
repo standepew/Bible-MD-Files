@@ -127,6 +127,11 @@ Angel, talked, waked, man, wakened, sleep, seest, looked, candlestick, gold, bow
 
 **Headstone with Grace:** great mountain, become plain, headstone, Grace grace
 
+
+*AI Keywords for current event matching:*
+`become` `bowl` `candlestick` `christs` `gold` `golden` `grace` `great` `headstone` `hosts` `lamps` `left` `lord` `ministry` `mountain` `oil` `olive` `pipes` `plain` `power` `right` `seven` `side` `spirit` `spirit-powered` `top` `trees` `two`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -199,6 +199,11 @@ Song, degrees, remember, David, afflictions, sware, LORD, vowed, mighty, God, Ja
 
 **Eternal Throne:** set throne, children sit throne forevermore, horn David bud, crown flourish
 
+
+*AI Keywords for current event matching:*
+`abundantly` `afflictions` `bless` `body` `bud` `children` `chosen` `covenant` `crown` `david` `davids` `desired` `dwell` `eternal` `flourish` `forever` `forevermore` `fruit` `gods` `habitation` `horn` `keep` `lord` `promise` `provision` `remember` `rest` `set` `sit` `sware` `swore` `sworn` `throne` `truth` `zion` `zions`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

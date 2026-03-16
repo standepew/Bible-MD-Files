@@ -127,6 +127,11 @@ Chief, Musician, Psalm, David, servant, LORD, transgression, wicked, saith, hear
 
 **Fountain of Life:** fountain life light see light, abundantly satisfied fatness house make drink river pleasures, continue lovingkindness know righteousness upright heart
 
+
+*AI Keywords for current event matching:*
+`abundantly` `beast` `chief` `children` `clouds` `continue` `david` `deceit` `deep` `depravity` `divine` `drink` `excellent` `eyes` `faithfulness` `fatness` `fear` `flattereth` `found` `fountain` `god` `gods` `good` `great` `hateful` `heart` `heavens` `house` `iniquity` `judgments` `know` `left` `life` `light` `lord` `lovingkindness` `make` `man` `men` `mercy` `mountains` `mouth` `musician` `pleasures` `preservest` `psalm` `reacheth` `righteousness` `river` `saith` `satisfied` `see` `servant` `shadow` `transgression` `trust` `upright` `wicked` `wickeds` `wings` `wise` `words`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -181,6 +181,11 @@ Days, taught, people, temple, preached, gospel, chief, priests, scribes, elders,
 
 **Warning Against the Scribes:** long robes, greetings markets, highest seats, chief rooms, greater damnation
 
+
+*AI Keywords for current event matching:*
+`against` `angels` `authority` `baptism` `beloved` `brethren` `broken` `builders` `caesar` `chief` `corner` `cornerstone` `craftiness` `cæsar` `cæsars` `damnation` `david` `davids` `dead` `deny` `destroy` `enemies` `equal` `fall` `footstool` `forbid` `god` `greater` `greetings` `grind` `hand` `hands` `heaven` `heir` `held` `highest` `husbandmen` `image` `john` `kill` `lay` `living` `long` `lord` `markets` `marvelled` `men` `parable` `paying` `penny` `powder` `psalms` `question` `rejected` `resurrection` `right` `robes` `rooms` `sadducees` `scribes` `seats` `seven` `son` `stone` `taxes` `tell` `tempt` `things` `tribute` `vineyard` `warning` `wicked`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

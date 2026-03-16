@@ -127,6 +127,11 @@ Vision, Obadiah, Lord, GOD, concerning, Edom, heard, rumour, LORD, ambassador, h
 
 **Zion's Deliverance:** mount Zion deliverance, holiness, possess possessions, kingdom LORD
 
+
+*AI Keywords for current event matching:*
+`bring` `brother` `christs` `clefts` `cut` `deceived` `deliverance` `despised` `divine` `done` `down` `eagle` `edom` `exalt` `forever` `greatly` `heart` `holiness` `humiliation` `judgment` `justice` `kingdom` `lord` `made` `mount` `nest` `off` `possess` `possessions` `pride` `return` `reward` `rock` `small` `stars` `violence` `zion` `zions`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

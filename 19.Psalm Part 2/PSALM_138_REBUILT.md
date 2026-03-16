@@ -127,6 +127,11 @@ Psalm, David, praise, whole, heart, gods, sing, praise, worship, holy, temple, p
 
 **Kings' Praise:** kings earth praise, hear words mouth, great glory LORD
 
+
+*AI Keywords for current event matching:*
+`answer` `answered` `cried` `divine` `earth` `glory` `gods` `great` `hear` `heart` `holy` `kings` `lord` `lovingkindness` `magnified` `midst` `mouth` `name` `praise` `revive` `sing` `strength` `strengthened` `temple` `trouble` `truth` `whole` `word` `words` `worship`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

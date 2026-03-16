@@ -163,6 +163,11 @@ Came, pass, days, decree, Cæsar, Augustus, world, taxed, taxing, first, Cyreniu
 
 **Jesus at Twelve Years Old:** twelve years, temple doctors, Father business, increased wisdom, favour God
 
+
+*AI Keywords for current event matching:*
+`angels` `bethlehem` `birth` `business` `child` `christ` `circumcising` `clothes` `decree` `doctors` `father` `favour` `firstborn` `gentiles` `glory` `god` `good` `great` `heavenly` `host` `increased` `jesus` `joy` `law` `light` `lord` `manger` `old` `peace` `presentation` `prophetess` `purification` `redemption` `shepherds` `simeon` `son` `swaddling` `taxed` `temple` `tidings` `twelve` `wisdom` `years`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

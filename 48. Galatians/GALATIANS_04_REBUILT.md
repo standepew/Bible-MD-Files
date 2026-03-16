@@ -115,6 +115,11 @@ Heir, child, differ, servant, lord, tutors, governors, time, appointed, father, 
 
 **Two Covenants:** desire, law, hear, law, written, Abraham, sons, bondmaid, freewoman, bondwoman, flesh, freewoman, promise, allegory, covenants, covenant, mount, Sinai, gendereth, bondage, Agar, Agar, mount, Sinai, Arabia, answereth, Jerusalem, bondage, children, Jerusalem, free, mother, Rejoice, barren, bearest, break, cry, travailest, desolate, children, husband, Isaac, children, promise, born, flesh, persecuted, born, Spirit, now, scripture, Cast, bondwoman, son, bondwoman, heir, freewoman, son, bondwoman, free
 
+
+*AI Keywords for current event matching:*
+`abba` `abraham` `adoption` `affect` `affected` `afraid` `agar` `allegory` `angel` `answereth` `appointed` `arabia` `barren` `bearest` `beggarly` `beseech` `bestowed` `birth` `blessed` `bondage` `bondmaid` `bondwoman` `born` `break` `brethren` `care` `cast` `change` `child` `children` `christ` `covenant` `covenants` `cry` `crying` `days` `desire` `desolate` `despised` `differ` `doubt` `elements` `enemy` `exclude` `eyes` `father` `first` `flesh` `formed` `free` `freewoman` `fulness` `gendereth` `given` `god` `good` `gospel` `governors` `hear` `hearts` `heir` `husband` `injured` `isaac` `jerusalem` `jesus` `known` `labour` `law` `little` `lord` `made` `months` `mother` `mount` `now` `observe` `pastoral` `pauls` `persecuted` `plucked` `possible` `preached` `present` `promise` `receive` `received` `record` `redeem` `rejected` `rejoice` `scripture` `sent` `servant` `sinai` `son` `sons` `spake` `spirit` `stand` `temptation` `time` `times` `travail` `travailest` `truth` `tutors` `two` `vain` `voice` `weak` `well` `woman` `world` `written` `years` `zealously`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

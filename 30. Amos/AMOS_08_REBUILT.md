@@ -103,6 +103,11 @@ Lord, GOD, shewed, basket, summer, fruit, Amos, seest, basket, summer, fruit, LO
 
 **Solar Eclipse:** sun noon, darken earth, clear day, cosmic signs
 
+
+*AI Keywords for current event matching:*
+`basket` `bodies` `christs` `clear` `come` `cosmic` `darken` `day` `dead` `earth` `eclipse` `end` `faint` `famine` `final` `find` `fruit` `fulfilled` `gods` `hearing` `howlings` `judgment` `many` `noon` `pass` `ripe` `seek` `signs` `solar` `songs` `summer` `sun` `thirst` `time` `word`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -127,6 +127,11 @@ Zophar, Naamathite, answered, thoughts, haste, check, reproach, spirit, understa
 
 **Complete Ruin:** rivers floods brooks honey butter, laboured restore swallow substance restitution rejoice, oppressed forsaken poor violently house builded, quietness belly save desired
 
+
+*AI Keywords for current event matching:*
+`answered` `asps` `behold` `belly` `bones` `bowels` `brooks` `builded` `butter` `cast` `check` `children` `clouds` `complete` `desired` `divine` `dream` `dung` `dust` `excellency` `eye` `floods` `forsake` `forsaken` `gall` `god` `goods` `hands` `haste` `head` `heavens` `honey` `house` `hypocrite` `joy` `judgment` `keep` `laboured` `meat` `moment` `mouth` `naamathite` `night` `oppressed` `perish` `place` `please` `poison` `poor` `quietness` `rejoice` `reproach` `restitution` `restore` `riches` `rivers` `ruin` `save` `second` `see` `short` `sin` `slay` `spare` `speech` `spirit` `substance` `suck` `swallow` `swallowed` `sweet` `thoughts` `tongue` `triumph` `triumphing` `understanding` `violently` `viper` `vision` `vomit` `wicked` `wickedness` `wickeds` `youth` `zophar` `zophars`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

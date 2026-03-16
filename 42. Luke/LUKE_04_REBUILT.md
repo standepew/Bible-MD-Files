@@ -185,6 +185,11 @@ Jesus, full, Holy, Ghost, returned, Jordan, led, Spirit, wilderness, forty, days
 
 **Healing Ministry:** great fever, Christ Son, kingdom God, synagogues Galilee
 
+
+*AI Keywords for current event matching:*
+`accepted` `angels` `authority` `charge` `christ` `fever` `fulfilled` `galilee` `god` `great` `healing` `holy` `jesus` `kingdom` `lord` `ministry` `naaman` `nazareth` `one` `power` `prophet` `rejection` `scripture` `son` `spirit` `synagogues` `syrian` `temptation` `word` `worship`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -97,6 +97,11 @@ God commissions Moses and Aaron with clarified roles: Moses is as a god to Phara
 - **Religious/governmental systems judged** → Exodus 7 — judgment on the Nile = judgment on Egypt's god
 - **Deceptive leaders and false wonders** → Exodus 7:11 — Pharaoh's magicians; 2 Thessalonians 2:9
 
+
+*AI Keywords for current event matching:*
+`711-12` `counterfeit` `current` `events` `exodus` `false` `genuine` `magicians` `matching` `miracles` `replicate` `signs` `swallows`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

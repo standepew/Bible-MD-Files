@@ -87,6 +87,11 @@ A man named Micah from mount Ephraim tells his mother he took the eleven hundred
 
 **Priestly Consecration:** Micah consecrated Levite, young man priest house Micah, Micah LORD good Levite priest
 
+
+*AI Keywords for current event matching:*
+`anarchy` `apparel` `arrangement` `beth-lehem` `blessed` `city` `comest` `confession` `consecrated` `consecration` `content` `creation` `cursed` `days` `dedicated` `departed` `dwell` `ears` `eleven` `employment` `ephod` `ephraim` `eyes` `false` `family` `father` `founder` `gods` `good` `graven` `hand` `house` `hundred` `idol` `image` `israel` `journey` `judah` `king` `levite` `levites` `lord` `man` `micah` `micahs` `molten` `money` `mother` `mount` `place` `priest` `priestly` `restoration` `restore` `restored` `right` `shekels` `silver` `sojourn` `sojourned` `son` `sons` `spiritual` `spoken` `suit` `taken` `ten` `teraphim` `took` `two` `victuals` `whence` `wholly` `worship` `year` `young`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

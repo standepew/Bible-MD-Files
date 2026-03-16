@@ -115,6 +115,11 @@ Song, degrees, distress, cried, LORD, heard, Deliver, soul, LORD, lying, lips, d
 
 **Peace Amidst War:** hated peace, for peace speak war, seek peace pursue
 
+
+*AI Keywords for current event matching:*
+`amidst` `arrows` `coals` `cried` `deceitful` `deliver` `deliverance` `deviseth` `distress` `divine` `earth` `false` `hated` `heard` `heaven` `help` `juniper` `lips` `lord` `lying` `made` `mighty` `mischiefs` `name` `peace` `prayer` `pursue` `seek` `sharp` `soul` `speak` `tongue` `tongues` `war`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

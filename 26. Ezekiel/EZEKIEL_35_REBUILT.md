@@ -103,6 +103,11 @@ Word, Lord, son, man, face, mount, Seir, prophesy, Lord, GOD, mount, Seir, stret
 
 **Christ's Vengeance:** prepare blood, blood pursue, according anger, make known
 
+
+*AI Keywords for current event matching:*
+`according` `anger` `blood` `calamity` `christs` `cities` `cut` `desolate` `desolation` `desolations` `divine` `edoms` `face` `fill` `force` `hand` `hatred` `judgment` `known` `make` `men` `mountains` `off` `perpetual` `prepare` `pursue` `set` `shed` `slain` `stretch` `sword` `time` `vengeance` `waste`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

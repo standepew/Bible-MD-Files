@@ -141,6 +141,11 @@ Judge, judged, judgment, judge, measured, mete, measured, beholdest, mote, broth
 
 **Wise Foundation:** wise man, house rock, foolish man, house sand
 
+
+*AI Keywords for current event matching:*
+`ask` `beam` `beware` `broad` `cast` `christs` `clothing` `false` `father` `foolish` `foundation` `fruits` `gate` `give` `golden` `house` `hypocrite` `judge` `judgment` `knock` `know` `law` `man` `measured` `mete` `mote` `narrow` `opened` `prophets` `ravening` `rock` `rule` `sand` `seek` `sheep` `strait` `way` `wide` `wise` `wolves`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

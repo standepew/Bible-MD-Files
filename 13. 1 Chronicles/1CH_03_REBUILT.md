@@ -91,6 +91,11 @@ Sons, David, Hebron, Amnon, Ahinoam, Jezreelitess, Daniel, Abigail, Carmelitess,
 
 **Elioenai's Sons:** sons Elioenai Hodaiah Eliashib Pelaiah Akkub Johanan Dalaiah Anani
 
+
+*AI Keywords for current event matching:*
+`abia` `abigail` `abital` `absalom` `adonijah` `ahaz` `ahaziah` `ahinoam` `akkub` `amaziah` `ammiel` `amnon` `amon` `anani` `arnan` `asa` `assir` `azariah` `azrikam` `bariah` `bath-shua` `berechiah` `carmelitess` `concubines` `dalaiah` `daniel` `david` `davids` `descendants` `eglah` `eliada` `eliashib` `elioenai` `elioenais` `eliphelet` `elishama` `geshur` `haggith` `hananiah` `hananiahs` `hasadiah` `hashubah` `hattush` `hebron` `hezekiah` `hodaiah` `hoshama` `ibhar` `igeal` `ithream` `japhia` `jecamiah` `jeconiah` `jeconiahs` `jehoiakim` `jehoiakims` `jehoshaphat` `jerusalem` `jesaiah` `jezreelitess` `joash` `johanan` `joram` `josiah` `josiahs` `jotham` `jushab-hesed` `king` `line` `lineage` `maachah` `malchiram` `manasseh` `meshullam` `nathan` `neariah` `neariahs` `nedabiah` `nepheg` `nogah` `obadiah` `ohel` `pedaiah` `pedaiahs` `pelaiah` `pelatiah` `rehoboam` `rephaiah` `salathiel` `shallum` `shaphat` `shechaniah` `shechaniahs` `shelomith` `shemaiah` `shenazar` `shephatiah` `shimea` `shimei` `shobab` `sister` `solomon` `solomons` `son` `sons` `talmai` `tamar` `wife` `zedekiah` `zerubbabel`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

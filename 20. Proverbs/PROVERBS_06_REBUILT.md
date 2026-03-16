@@ -139,6 +139,11 @@ Son, surety, friend, stricken, hand, stranger, snared, words, mouth, taken, word
 
 **Sexual Purity:** keep evil woman, commandment lamp, committeth adultery understanding
 
+
+*AI Keywords for current event matching:*
+`abominations` `adultery` `ant` `blood` `commandment` `committeth` `consider` `diligence` `evil` `eyes` `false` `financial` `friend` `give` `hands` `humble` `keep` `lamp` `look` `lying` `make` `poverty` `proud` `purity` `responsibility` `seven` `sexual` `shed` `sleep` `sloth` `sluggard` `sure` `surety` `tongue` `travelleth` `understanding` `ways` `wise` `witness` `woman`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

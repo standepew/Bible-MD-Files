@@ -93,6 +93,11 @@ Paul, servant, God, apostle, Jesus, Christ, faith, God, elect, acknowledging, tr
 
 **Pure and Defiled:** pure, defiled, unbelieving, mind, conscience, defiled, profess, know, God, works, deny, abominable, disobedient, good, work, reprobate
 
+
+*AI Keywords for current event matching:*
+`able` `abominable` `accused` `acknowledging` `angry` `apostle` `appointed` `beasts` `began` `bellies` `bishop` `blameless` `cause` `children` `christ` `circumcision` `city` `commandment` `commandments` `common` `conscience` `convince` `crete` `cretians` `deceivers` `defiled` `deny` `disobedient` `doctrine` `elders` `elect` `eternal` `evil` `exhort` `fables` `faith` `faithful` `false` `father` `filthy` `gainsayers` `god` `godliness` `good` `grace` `greeting` `heeding` `holding` `holy` `hope` `hospitality` `houses` `husband` `jesus` `jewish` `know` `left` `liars` `lie` `life` `lord` `lover` `lucre` `manifested` `men` `mercy` `mind` `mouths` `ordain` `order` `paul` `pauls` `peace` `preaching` `profess` `promised` `prophet` `pure` `purpose` `qualifications` `rebuke` `reprobate` `riot` `saviour` `selfwilled` `servant` `set` `sharply` `slow` `sober` `son` `sound` `steward` `stopped` `striker` `subvert` `talkers` `taught` `teachers` `teaching` `temperate` `things` `times` `titus` `true` `truth` `turn` `unbelieving` `unruly` `vain` `wanting` `wife` `wine` `witness` `word` `work` `works` `world`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

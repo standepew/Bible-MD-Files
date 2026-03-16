@@ -85,6 +85,11 @@ Second year Joash son Jehoahaz king Israel, Amaziah son Joash king Judah. Twenty
 
 **Jeroboam's Reign:** fifteenth year Amaziah son Joash king Judah Jeroboam son Joash king Israel reigned Samaria forty-one years, evil sight LORD sins Jeroboam son Nebat Israel sin, restored coast Israel entering Hamath sea plain word LORD GOD Israel servant Jonah son Amittai prophet Gath-hepher, LORD affliction Israel bitter shut left helper Israel, LORD blot name Israel heaven hand Jeroboam son Joash, acts Jeroboam might warred recovered Damascus Hamath Judah Israel book chronicles kings Israel, Jeroboam slept fathers kings Israel Zachariah son reigned
 
+
+*AI Keywords for current event matching:*
+`acts` `affliction` `ahaziah` `amaziah` `amaziahs` `amittai` `away` `azariah` `azariahs` `beast` `beth-shemesh` `bitter` `blot` `book` `brake` `built` `buried` `burnt` `cedar` `children` `chronicles` `city` `coast` `confirmed` `conspiracy` `corner` `cubits` `damascus` `daughter` `david` `day` `death` `defeat` `edom` `edomite` `elath` `entering` `ephraim` `evil` `face` `fall` `father` `fathers` `fifteen` `fifteenth` `fled` `forty-one` `fought` `four` `gate` `gath-hepher` `glory` `god` `gold` `hamath` `hand` `hear` `heart` `heaven` `helper` `high` `home` `horses` `hostages` `house` `hundred` `hurt` `incense` `israel` `israels` `jehoaddan` `jehoahaz` `jehoash` `jehu` `jeroboam` `jeroboams` `jerusalem` `joash` `joktheel` `jonah` `judah` `justice` `king` `kingdom` `kings` `lachish` `law` `lebanon` `left` `lifted` `lived` `lord` `man` `meddle` `messengers` `moses` `mother` `murderers` `name` `nebat` `people` `places` `plain` `prophet` `recovered` `reign` `reigned` `restored` `right` `sacrificed` `salt` `samaria` `sea` `second` `selah` `sent` `servant` `servants` `shut` `sight` `silver` `sin` `sins` `sixteen` `slain` `slept` `slew` `smitten` `son` `succession` `taken` `tarry` `ten` `tents` `thistle` `thousand` `treasures` `twenty-five` `twenty-nine` `valley` `vessels` `victory` `wall` `war` `warred` `wife` `wild` `word` `worse` `year` `years` `zachariah`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

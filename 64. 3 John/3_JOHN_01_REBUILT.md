@@ -81,6 +81,11 @@ Elder, wellbeloved, Gaius, love, truth, Beloved, wish, prosper, health, soul, pr
 
 **Good vs Evil:** Demetrius, good, report, men, truth, bear, record, know, record, true, write, ink, pen, trust, shortly, see, speak, face, face, Peace, friends, salute, greet, friends, name
 
+
+*AI Keywords for current event matching:*
+`bear` `beloved` `borne` `brethren` `bring` `came` `casteth` `charity` `children` `church` `come` `content` `deeds` `demetrius` `diotrephes` `doest` `doeth` `elder` `evil` `face` `faithful` `faithfully` `fellowhelpers` `follow` `forbiddeth` `forth` `forward` `friends` `gaius` `gentiles` `god` `godly` `good` `greater` `greatly` `greet` `health` `hear` `ink` `journey` `joy` `know` `love` `loveth` `malicious` `men` `missionaries` `name` `opposition` `peace` `pen` `prating` `preeminence` `prosper` `prospereth` `receive` `receiveth` `record` `rejoiced` `remember` `report` `sake` `salute` `see` `seen` `service` `shortly` `sort` `soul` `speak` `strangers` `supporting` `taking` `testified` `true` `trust` `truth` `walk` `walkest` `walking` `wellbeloved` `went` `wish` `witness` `words` `write` `wrote`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -149,6 +149,11 @@ Advantage, Jew, profit, circumcision, oracles, God, believe, unbelief, faith, Go
 
 **Justification by Faith:** deeds law, justified sight, law knowledge, sin righteousness, God without, law manifested, witnessed law, prophets righteousness, God faith, Jesus Christ, believe difference, sinned glory, God justified, freely grace, redemption Christ, Jesus God, set propitiation, faith blood, declare righteousness, remission sins, past forbearance, God declare, time righteousness, just justifier, believeth Jesus, boasting excluded, law works, law faith, conclude man, justified faith, deeds law, God Jews, Gentiles God, justify circumcision, faith uncircumcision, faith void, law faith, God forbid, establish law
 
+
+*AI Keywords for current event matching:*
+`abounded` `advantage` `affirm` `asps` `believe` `believeth` `better` `bitterness` `blood` `boasting` `christ` `circumcision` `come` `commend` `conclude` `cursing` `damnation` `deceit` `declare` `deeds` `destruction` `difference` `effect` `establish` `evil` `excluded` `eyes` `faith` `fear` `feet` `forbearance` `forbid` `freely` `gentiles` `glory` `god` `gone` `good` `grace` `guilty` `jesus` `jew` `jews` `judge` `judged` `justification` `justified` `justifier` `justify` `know` `knowledge` `law` `liar` `lie` `lips` `man` `manifested` `misery` `mouth` `open` `oracles` `overcome` `past` `peace` `poison` `profit` `prophets` `propitiation` `proved` `redemption` `remission` `reported` `righteous` `righteousness` `saith` `say` `sayings` `seek` `sepulchre` `set` `shed` `sight` `sin` `sinned` `sinner` `sins` `slanderously` `speak` `stopped` `swift` `taketh` `throat` `time` `tongues` `true` `truth` `unbelief` `uncircumcision` `understand` `unprofitable` `unrighteous` `unrighteousness` `vengeance` `void` `way` `ways` `without` `witnessed` `works` `world` `written`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

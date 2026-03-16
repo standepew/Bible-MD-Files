@@ -163,6 +163,11 @@ Shiggaion, David, sang, LORD, words, Cush, Benjamite, trust, save, persecute, de
 
 **God's Judgment:** defence GOD saveth upright heart, judgeth righteous angry wicked day, turn whet sword bent bow made ready prepared instruments death ordain arrows persecutors
 
+
+*AI Keywords for current event matching:*
+`anger` `angry` `arise` `arrows` `awake` `benjamite` `bent` `bow` `commanded` `compass` `congregation` `cush` `david` `day` `death` `defence` `deliver` `delivered` `divine` `dust` `earth` `end` `enemies` `enemy` `establish` `evil` `god` `gods` `hands` `heart` `hearts` `high` `honour` `iniquity` `instruments` `integrity` `judge` `judgeth` `judgment` `justice` `lay` `life` `lift` `lion` `lord` `made` `ordain` `peace` `people` `persecute` `persecutors` `pieces` `prayer` `prepared` `rage` `ready` `reins` `rending` `return` `rewarded` `righteous` `righteousness` `sakes` `sang` `save` `saveth` `selah` `self-examination` `shiggaion` `soul` `sword` `take` `tear` `tread` `trieth` `trust` `turn` `upright` `vindication` `whet` `wicked` `wickedness` `words`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

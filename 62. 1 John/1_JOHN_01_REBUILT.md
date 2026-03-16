@@ -69,6 +69,11 @@ Beginning, heard, seen, eyes, looked, hands, handled, Word, life, life, manifest
 
 **Confession and Forgiveness of Sins:** say, no, sin, deceive, truth, confess, sins, faithful, forgive, sins, cleanse, unrighteousness, say, not, sinned, liar, word
 
+
+*AI Keywords for current event matching:*
+`bear` `beginning` `blood` `christ` `cleanse` `cleanseth` `confess` `confession` `darkness` `deceive` `declare` `eternal` `eyes` `faithful` `father` `fellowship` `forgive` `forgiveness` `full` `god` `handled` `hands` `heard` `jesus` `joy` `liar` `lie` `life` `light` `looked` `manifested` `message` `say` `seen` `shew` `sin` `sinned` `sins` `son` `truly` `truth` `unrighteousness` `walk` `walking` `witness` `word` `write`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

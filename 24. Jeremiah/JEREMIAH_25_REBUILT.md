@@ -115,6 +115,11 @@ Word, Jeremiah, people, Judah, fourth, year, Jehoiakim, son, Josiah, king, Judah
 
 **Christ's Judgment:** roar from high, controversy nations, slain LORD day, howl shepherds
 
+
+*AI Keywords for current event matching:*
+`accomplished` `astonishment` `babylon` `christs` `controversy` `cup` `day` `desolations` `destroy` `divine` `drink` `drunken` `families` `fury` `hand` `high` `howl` `judgment` `king` `lord` `nations` `nebuchadrezzar` `north` `perpetual` `punish` `roar` `servant` `serve` `seventy` `shepherds` `slain` `spue` `take` `wine` `years`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

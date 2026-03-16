@@ -103,6 +103,11 @@ Ephraim, feedeth, wind, followeth, east, wind, daily, increaseth, lies, desolati
 
 **Divine Preservation:** brought Egypt, prophet preserved, wait continually, return reproach
 
+
+*AI Keywords for current event matching:*
+`angel` `beth-el` `brought` `christs` `continually` `controversy` `divine` `doings` `egypt` `feedeth` `jacob` `jacobs` `judah` `ministry` `multiplied` `power` `preservation` `preserved` `prevailed` `prophet` `prophetic` `prophets` `punish` `recompense` `reproach` `return` `spake` `spoken` `supplication` `visions` `wait` `wept` `wind` `wrestling`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

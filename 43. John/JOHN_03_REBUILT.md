@@ -139,6 +139,11 @@ Man, Pharisees, Nicodemus, ruler, Jews, Jesus, night, Rabbi, know, teacher, God,
 
 **Eternal Life Through Faith:** believeth Son, everlasting life, believeth not Son, wrath God, testimony seal, words God, Spirit measure, Father loveth
 
+
+*AI Keywords for current event matching:*
+`above` `again` `baptists` `baptized` `baptizing` `begotten` `believeth` `birth` `bloweth` `born` `bride` `bridegroom` `cometh` `condemn` `darkness` `decrease` `disciples` `eternal` `everlasting` `faith` `father` `final` `flesh` `god` `gods` `heaven` `increase` `jesus` `jews` `john` `life` `lifted` `light` `love` `loved` `loveth` `man` `measure` `moses` `mother` `new` `nicodemus` `night` `pharisees` `purifying` `receive` `ruler` `seal` `serpent` `son` `spirit` `testimony` `water` `whosoever` `wind` `womb` `words` `world` `wrath`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

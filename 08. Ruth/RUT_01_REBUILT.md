@@ -79,6 +79,11 @@ In the days when judges ruled, famine struck the land. Elimelech of Bethlehem-ju
 
 **Arrival:** Naomi Ruth Moabitess daughter law country Moab Beth-lehem beginning barley harvest
 
+
+*AI Keywords for current event matching:*
+`afflicted` `almighty` `arose` `arrival` `barley` `bear` `beginning` `beth-lehem` `bethlehem` `bitterly` `bread` `buried` `chilion` `city` `clave` `commitment` `continued` `counsel` `country` `covenant` `daughter` `daughters` `days` `dead` `deal` `death` `deaths` `decision` `died` `dies` `dwelled` `elimelech` `empty` `ephrathites` `family` `famine` `following` `full` `god` `gods` `goest` `gone` `grant` `grieveth` `grown` `hand` `harvest` `historical` `hope` `house` `husband` `husbands` `intreat` `judah` `judges` `kindly` `kissed` `land` `law` `leave` `left` `lifted` `lodge` `lord` `mahlon` `man` `mara` `migration` `minded` `moab` `moabitess` `mother` `moved` `naomi` `naomis` `nay` `night` `old` `orpah` `part` `people` `place` `response` `rest` `return` `ruled` `ruth` `ruths` `setting` `sister` `sojourn` `sons` `speaking` `stay` `steadfastly` `tarry` `ten` `testified` `turn` `two` `visited` `voice` `way` `went` `wept` `whither` `wife` `wives` `woman` `womb` `women` `years`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

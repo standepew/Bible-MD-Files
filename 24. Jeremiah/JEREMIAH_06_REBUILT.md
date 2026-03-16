@@ -115,6 +115,11 @@ Children, Benjamin, gather, flee, midst, Jerusalem, blow, trumpet, Tekoa, set, s
 
 **Christ's Lament:** fury LORD weary, anguish pain woman travail, bitter lamentation
 
+
+*AI Keywords for current event matching:*
+`anguish` `array` `bitter` `blow` `cannot` `christs` `cruel` `deafness` `delight` `destruction` `divine` `ear` `evil` `fire` `forest` `fury` `great` `hearken` `horses` `invasion` `lament` `lamentation` `lion` `lord` `mercy` `north` `pain` `reproach` `ride` `roar` `sea` `set` `sign` `spiritual` `tekoa` `travail` `trumpet` `uncircumcised` `voice` `warning` `weary` `woman` `word`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

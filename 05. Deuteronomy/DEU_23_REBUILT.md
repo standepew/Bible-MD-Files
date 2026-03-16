@@ -135,6 +135,11 @@ Moses lists assembly restrictions: those with wounded genitals or cut off privat
 
 **Gleaning Rights:** Neighbour vineyard, eat grapes fill, pleasure, put vessel, neighbour standing corn, pluck ears hand, not move sickle
 
+
+*AI Keywords for current event matching:*
+`abhor` `abomination` `abroad` `again` `ammonite` `anything` `assembly` `away` `back` `balaam` `bastard` `begotten` `beor` `best` `bless` `blessing` `bread` `brother` `came` `camp` `chanceth` `children` `choose` `clean` `cleanliness` `come` `cometh` `congregation` `corn` `cover` `curse` `cut` `daughters` `days` `deliver` `dig` `dog` `down` `dwell` `ears` `ease` `eat` `economic` `edomite` `egypt` `egyptian` `enemies` `enter` `escaped` `evening` `fill` `forbear` `forever` `forth` `freewill` `gate` `generation` `gleaning` `goeth` `gone` `grapes` `hand` `hearken` `hire` `hired` `historical` `holy` `host` `house` `israel` `keep` `land` `laws` `lend` `liketh` `lips` `lord` `loved` `master` `member` `mesopotamia` `midst` `moabite` `money` `moral` `mouth` `move` `neighbour` `night` `off` `offering` `oppress` `paddle` `pay` `peace` `perform` `pethor` `place` `pleasure` `pluck` `price` `privy` `prohibitions` `promised` `prosperity` `protection` `put` `reasons` `regulations` `require` `restrictions` `rights` `seek` `servant` `set` `sickle` `sin` `slack` `slave` `sodomite` `son` `sons` `standing` `stones` `stranger` `sun` `tenth` `therewith` `thing` `third` `thyself` `turn` `unclean` `uncleanness` `usury` `vessel` `victuals` `vineyard` `vow` `walketh` `wash` `water` `way` `weapon` `whore` `wicked` `within` `without` `wounded`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

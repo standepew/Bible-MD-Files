@@ -115,6 +115,11 @@ Ministry, received, mercy, faint, renounced, hidden, things, dishonesty, walking
 
 **Eternal Glory:** things, sake, abundant, grace, thanksgiving, redound, glory, God, faint, outward, man, perish, inward, man, renewed, day, light, affliction, moment, work, exceeding, eternal, weight, glory, things, seen, things, seen, temporal, things, seen, eternal
 
+
+*AI Keywords for current event matching:*
+`abundant` `affliction` `bearing` `believe` `believed` `blinded` `body` `cast` `christ` `commanded` `commending` `conscience` `craftiness` `darkness` `day` `death` `deceitfully` `delivered` `despair` `destroyed` `dishonesty` `distressed` `dying` `earthen` `eternal` `exceeding` `excellency` `face` `faint` `faith` `flesh` `forsaken` `glorious` `glory` `god` `gospel` `grace` `handling` `hearts` `hid` `hidden` `image` `inward` `jesus` `knowing` `knowledge` `life` `light` `live` `lord` `lost` `man` `manifest` `manifestation` `mercy` `minds` `ministry` `moment` `mortal` `ourselves` `outward` `perish` `perplexed` `persecuted` `power` `preach` `present` `raise` `raised` `received` `reconciliation` `redound` `renewed` `renounced` `rising` `sake` `seen` `servants` `shine` `shined` `side` `sight` `speak` `spirit` `spoken` `temporal` `thanksgiving` `things` `treasure` `treasures` `troubled` `truth` `vessels` `walking` `weight` `word` `work` `world` `written`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

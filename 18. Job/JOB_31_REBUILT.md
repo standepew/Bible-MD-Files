@@ -163,6 +163,11 @@ Covenant, eyes, maid, portion, GOD, inheritance, Almighty. Destruction, wicked, 
 
 **Divine Examination:** despise cause manservant maidservant contended GOD riseth visit answer, womb fashioned withheld poor desire widow eyes fail, morsel fatherless youth father mother womb
 
+
+*AI Keywords for current event matching:*
+`almighty` `another` `answer` `balance` `blot` `bow` `cause` `contended` `count` `covenant` `crime` `deceit` `deceived` `defense` `desire` `despise` `destruction` `divine` `door` `down` `eat` `examination` `eyes` `fail` `fashioned` `father` `fatherless` `final` `fire` `foot` `god` `grind` `hands` `hasted` `heart` `heinous` `increase` `inheritance` `iniquity` `integrity` `jobs` `judges` `justice` `laid` `maid` `maidservant` `manservant` `morsel` `mother` `neighbour` `offspring` `personal` `poor` `portion` `punishment` `riseth` `root` `rooted` `see` `social` `sow` `step` `steps` `strange` `turned` `vanity` `visit` `wait` `walked` `way` `ways` `weighed` `wicked` `widow` `wife` `withheld` `woman` `womb` `workers` `youth`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

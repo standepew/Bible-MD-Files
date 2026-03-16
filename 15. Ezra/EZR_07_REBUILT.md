@@ -139,6 +139,11 @@ Things, reign, Artaxerxes, king, Persia, Ezra, son, Seraiah, son, Azariah, son, 
 
 **Divine Favor:** Blessed LORD GOD fathers thing king heart beautify house LORD Jerusalem, extended mercy king counsellors king mighty princes, strengthened hand LORD GOD gathered Israel chief men
 
+
+*AI Keywords for current event matching:*
+`aaron` `abishua` `ahitub` `altar` `amariah` `artaxerxes` `azariah` `babylon` `banishment` `baths` `beautify` `bestow` `beyond` `blessed` `brethren` `bukki` `bullocks` `buy` `carry` `certify` `chief` `children` `commanded` `commandments` `commission` `confiscation` `copy` `counsellors` `custom` `day` `death` `decree` `diligently` `divine` `drink` `eleazar` `enquire` `extended` `ezra` `ezras` `fathers` `favor` `fifth` `first` `freely` `freewill` `gathered` `god` `gold` `good` `goods` `granted` `habitation` `hand` `heart` `heaven` `hilkiah` `house` `hundred` `imprisonment` `israel` `jerusalem` `judah` `judges` `judgment` `judgments` `king` `kings` `know` `lambs` `law` `lawful` `laws` `letter` `levites` `lord` `magistrates` `measures` `meat` `men` `meraioth` `mercy` `mighty` `ministers` `mission` `money` `month` `moses` `needful` `nethinims` `offer` `offered` `offering` `offerings` `oil` `peace` `people` `perfect` `persia` `phinehas` `porters` `prepared` `prescribing` `priest` `priests` `princes` `province` `rams` `ready` `realm` `reign` `request` `required` `river` `royal` `salt` `scribe` `seek` `sent` `seraiah` `service` `seven` `seventh` `shallum` `silver` `singers` `son` `sons` `speedily` `statutes` `strengthened` `talents` `teach` `teaching` `thing` `things` `time` `toll` `treasure` `treasurers` `tribute` `uzzi` `vessels` `wheat` `whosoever` `willingly` `wine` `wisdom` `words` `wrath` `year` `zadok` `zerahiah`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

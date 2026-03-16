@@ -151,6 +151,11 @@ Chief, Musician, Gittith, Psalm, Asaph, Sing, aloud, GOD, strength, joyful, nois
 
 **Spiritual Blessing:** open mouth wide fill, soon subdued enemies turned hand adversaries, haters LORD submitted time endured, fed finest wheat honey rock satisfied
 
+
+*AI Keywords for current event matching:*
+`adversaries` `aloud` `answered` `appointed` `asaph` `blessing` `blow` `bring` `brought` `burden` `called` `chief` `covenant` `deliverance` `delivered` `divine` `egypt` `endured` `enemies` `faithfulness` `feast` `fed` `fill` `finest` `gittith` `god` `hand` `hands` `harp` `haters` `honey` `israel` `jacob` `joseph` `joyful` `land` `law` `lord` `meribah` `moon` `mouth` `musician` `new` `noise` `open` `ordained` `place` `pleasant` `pots` `proved` `psalm` `psaltery` `removed` `rock` `satisfied` `secret` `shoulder` `sing` `solemn` `soon` `spiritual` `statute` `strange` `strength` `subdued` `submitted` `testimony` `thunder` `timbrel` `time` `trouble` `trumpet` `turned` `waters` `went` `wheat` `wide` `worship`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

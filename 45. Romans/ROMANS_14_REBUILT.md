@@ -139,6 +139,11 @@ Weak, faith, receive, doubtful, disputations, believeth, eat, things, weak, eate
 
 **Stumbling Blocks:** destroy work, God things, pure evil, man eateth, offence eat, flesh drink, wine brother, stumbleth offended, weak faith, God happy, condemneth, alloweth, doubteth, damned, eat faith, sin
 
+
+*AI Keywords for current event matching:*
+`acceptable` `account` `alike` `alloweth` `approved` `believeth` `blocks` `bow` `brother` `charitably` `christ` `condemneth` `confess` `conscience` `damned` `day` `dead` `despiseth` `destroy` `die` `died` `dieth` `disputations` `doubteth` `doubtful` `drink` `eat` `eateth` `edify` `esteemed` `evil` `faith` `fall` `falleth` `flesh` `follow` `ghost` `giveth` `god` `good` `grieved` `happy` `herbs` `holden` `holy` `jesus` `joy` `judge` `judgest` `judgment` `kingdom` `knee` `liberty` `live` `liveth` `living` `lord` `man` `master` `meat` `men` `mind` `nought` `occasion` `offence` `offended` `peace` `persuaded` `pure` `receive` `received` `regardeth` `revived` `righteousness` `rose` `seat` `servant` `serveth` `sin` `spoken` `stand` `standeth` `strong` `stumbleth` `stumbling` `stumblingblock` `thanks` `things` `tongue` `unclean` `walkest` `way` `weak` `wine` `work` `written`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

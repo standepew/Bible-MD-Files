@@ -127,6 +127,11 @@ Preparations, heart, man, answer, tongue, LORD, ways, man, clean, eyes, LORD, we
 
 **Divine Justice:** LORD made wicked day evil, throne established righteousness, just weight balance
 
+
+*AI Keywords for current event matching:*
+`abomination` `balance` `cast` `commit` `day` `destruction` `deviseth` `directeth` `disposing` `divine` `established` `evil` `heart` `human` `humble` `humility` `justice` `lap` `lord` `lot` `lowly` `made` `man` `planning` `preparations` `pride` `proud` `righteousness` `sovereignty` `spirit` `spirits` `steps` `throne` `way` `weigheth` `weight` `wicked` `works`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

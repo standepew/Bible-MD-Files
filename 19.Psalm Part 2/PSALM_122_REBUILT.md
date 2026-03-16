@@ -139,6 +139,11 @@ Song, degrees, David, glad, said, house, LORD, feet, stand, gates, Jerusalem, Je
 
 **Unity of Worship:** brethren companions sake, tribes go up, give thanks name LORD
 
+
+*AI Keywords for current event matching:*
+`brethren` `builded` `city` `compact` `companions` `feet` `gates` `give` `glad` `god` `good` `house` `israel` `jerusalem` `jerusalems` `joy` `lord` `name` `palaces` `peace` `pray` `prosperity` `said` `sake` `seek` `stand` `testimony` `thanks` `tribes` `unity` `walls` `within` `worship`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

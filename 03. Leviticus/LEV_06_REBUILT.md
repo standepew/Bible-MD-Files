@@ -76,6 +76,11 @@ God addresses trespass against a neighbor: fraud with deposits, theft, extortion
 - **The broken vessel / what holds holiness** → Leviticus 6:28 — 2 Corinthians 4:7
 - **Fraud, deception, false oaths** → Leviticus 6:2-4 — Matthew 5:33-37; James 5:12
 
+
+*AI Keywords for current event matching:*
+`523-24` `64-5` `current` `events` `leviticus` `luke` `matching` `matthew` `restitution` `worship`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

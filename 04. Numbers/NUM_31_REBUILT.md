@@ -61,6 +61,11 @@ God tells Moses: avenge Israel of Midian — afterward you will be gathered to y
 - **Purification after contact with death** → Numbers 31:19-24 — Numbers 19; Hebrews 9:13-14
 - **Metals refined by fire** → Numbers 31:22-23 — Malachi 3:2-3; 1 Peter 1:7; Zechariah 13:9
 
+
+*AI Keywords for current event matching:*
+`balaam` `behind` `corruption` `counsel` `current` `doctrine` `events` `hidden` `indirect` `internal` `matching` `numbers` `revelation` `seduction` `strategy` `warfare`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS WITH CONTEXTUAL DEFINITIONS

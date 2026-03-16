@@ -115,6 +115,11 @@ Jesus, led, Spirit, wilderness, tempted, devil, fasted, forty, days, forty, nigh
 
 **Divine Healing:** healing sickness, manner disease, possessed devils, healed multitudes
 
+
+*AI Keywords for current event matching:*
+`alone` `bread` `calling` `christs` `days` `devils` `disciples` `disease` `divine` `fishers` `follow` `followed` `forty` `gospel` `healed` `healing` `immediately` `kingdom` `led` `left` `manner` `men` `ministry` `multitudes` `nets` `possessed` `preaching` `repent` `sickness` `spirit` `synagogues` `teaching` `temptation` `tempted` `wilderness`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

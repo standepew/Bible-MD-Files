@@ -115,6 +115,11 @@ Wilderness, solitary, place, glad, desert, rejoice, blossom, rose, blossom, abun
 
 **Christ's Highway:** highway holiness, wayfaring men fools, redeemed walk, ransomed return Zion
 
+
+*AI Keywords for current event matching:*
+`blind` `blossom` `christs` `deaf` `desert` `divine` `dumb` `ears` `everlasting` `eyes` `flee` `fools` `gladness` `ground` `hart` `healing` `highway` `holiness` `joy` `lame` `land` `leap` `men` `obtain` `opened` `parched` `pool` `ransomed` `redeemed` `rejoice` `restoration` `return` `sighing` `sing` `singing` `sorrow` `spiritual` `springs` `thirsty` `tongue` `unstopped` `walk` `wayfaring` `wilderness` `zion`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

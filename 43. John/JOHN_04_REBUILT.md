@@ -165,6 +165,11 @@ Lord, knew, Pharisees, Jesus, made, baptized, disciples, Jesus, disciples, left,
 
 **Healing the Nobleman's Son:** nobleman son, point death, signs wonders, thy son liveth, believed word, seventh hour, whole house believed
 
+
+*AI Keywords for current event matching:*
+`again` `another` `believed` `cometh` `death` `deep` `drink` `eternal` `everlasting` `father` `finish` `five` `four` `gift` `god` `greater` `harvest` `healing` `hour` `house` `husbands` `jacob` `jerusalem` `jews` `know` `life` `liveth` `living` `meat` `months` `mountain` `never` `nobleman` `noblemans` `one` `point` `reapeth` `salvation` `samaria` `seeketh` `seventh` `signs` `son` `soweth` `spirit` `springing` `thirst` `true` `truth` `wages` `water` `well` `white` `whole` `woman` `wonders` `word` `work` `worship` `worshippers`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

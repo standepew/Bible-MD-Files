@@ -127,6 +127,11 @@ Loveth, instruction, loveth, knowledge, hateth, reproof, brutish, good, man, obt
 
 **Diligence vs. Sloth:** hand diligent bear rule, slothful tribute, substance diligent precious
 
+
+*AI Keywords for current event matching:*
+`bear` `brutish` `counsel` `deception` `diligence` `diligent` `established` `favour` `folly` `good` `hand` `hateth` `hearkeneth` `instruction` `knowledge` `life` `lip` `loveth` `lying` `man` `moment` `moved` `obtain` `precious` `reproof` `righteous` `righteousness` `root` `rule` `sheweth` `sloth` `slothful` `speaketh` `substance` `tongue` `tribute` `truth` `way` `wickedness` `wisdom` `wise`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

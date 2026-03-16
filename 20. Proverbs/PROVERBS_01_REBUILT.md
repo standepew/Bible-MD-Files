@@ -115,6 +115,11 @@ Proverbs, Solomon, son, David, king, Israel, know, wisdom, instruction, perceive
 
 **Avoiding Evil Companions:** sinners entice consent, walk way refrain, feet run evil
 
+
+*AI Keywords for current event matching:*
+`avoiding` `beginning` `call` `companions` `consent` `despise` `entice` `evil` `father` `fear` `feet` `fools` `forsake` `grace` `head` `hear` `instruction` `know` `knowledge` `law` `lord` `mother` `ornament` `parental` `perceive` `receive` `refrain` `run` `sinners` `understanding` `walk` `way` `wisdom` `wisdoms` `words`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -93,6 +93,11 @@ Jethro, Moses' Midianite father-in-law, hears all that God did for Moses and Isr
 - **Separation of powers / judicial structure** → Exodus 18:22 — small matters locally, hard matters to Moses
 - **Counsel from unexpected sources** → Exodus 18 — Jethro is a Gentile; God uses him
 
+
+*AI Keywords for current event matching:*
+`1817-18` `away` `burnout` `current` `events` `exodus` `leadership` `matching` `surely` `systems` `unsustainable` `wear` `wilt`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

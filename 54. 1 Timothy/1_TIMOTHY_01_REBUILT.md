@@ -105,6 +105,11 @@ Paul, apostle, Jesus, Christ, commandment, God, Saviour, Lord, Jesus, Christ, ho
 
 **Charge to Timothy:** charge, commit, son, Timothy, prophecies, war, good, warfare, Holding, faith, good, conscience, put, away, faith, shipwreck, Hymenaeus, Alexander, delivered, Satan, learn, blaspheme
 
+
+*AI Keywords for current event matching:*
+`abide` `abundant` `acceptation` `affirm` `against` `alexander` `apostle` `aside` `away` `believe` `beseech` `blaspheme` `blasphemer` `blessed` `cause` `charge` `charity` `chief` `christ` `commandment` `commit` `committed` `conscience` `contrary` `defile` `delivered` `desiring` `disobedient` `doctrine` `edifying` `enabled` `end` `endless` `ephesus` `eternal` `everlasting` `exceeding` `fables` `faith` `faithful` `false` `father` `fathers` `genealogies` `glorious` `glory` `god` `godly` `good` `gospel` `grace` `greeting` `heart` `heed` `holding` `honour` `hope` `hymenaeus` `ignorantly` `immortal` `injurious` `invisible` `jangling` `jesus` `king` `law` `lawfully` `lawless` `learn` `liars` `life` `longsuffering` `lord` `love` `macedonia` `man` `mankind` `manslayers` `menstealers` `mercy` `minister` `ministry` `mothers` `murderers` `obtained` `pattern` `paul` `pauls` `peace` `perjured` `persecutor` `persons` `profane` `proper` `prophecies` `pure` `put` `questions` `righteous` `satan` `save` `saviour` `saying` `shew` `shipwreck` `sinners` `son` `sound` `swerved` `teach` `teachers` `testimony` `thank` `timothy` `trust` `turned` `unbelief` `understanding` `unfeigned` `ungodly` `unholy` `use` `vain` `war` `warfare` `warning` `whoremongers` `wise` `world`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

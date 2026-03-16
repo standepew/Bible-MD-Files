@@ -127,6 +127,11 @@ Woe, gathered, summer, fruits, grapegatherings, vintage, cluster, eat, soul, des
 
 **God's Mercy and Forgiveness:** pardoneth iniquity, retain anger, delighteth mercy, depths sea
 
+
+*AI Keywords for current event matching:*
+`anger` `arise` `blood` `brother` `christs` `corruption` `delighteth` `depths` `divine` `enemies` `fall` `forgiveness` `friend` `fruits` `gathered` `gods` `good` `hope` `house` `hunt` `iniquity` `lament` `lie` `light` `look` `lord` `man` `men` `mercy` `net` `pardoneth` `perished` `personal` `retain` `salvation` `sea` `social` `summer` `trust` `upright` `wait` `woe`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

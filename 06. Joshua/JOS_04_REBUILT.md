@@ -103,6 +103,11 @@ After Israel crosses Jordan, God commands Joshua to select twelve men (one from 
 
 **Universal Testimony:** Children know, Israel Jordan dry land, LORD God dried waters Jordan, passed over, LORD God Red sea, dried up, gone over, people earth know hand LORD, mighty, fear LORD God forever
 
+
+*AI Keywords for current event matching:*
+`among` `answer` `ark` `armed` `ask` `banks` `bare` `battle` `bear` `border` `called` `came` `carried` `carry` `children` `clean` `come` `command` `commanded` `covenant` `cut` `day` `days` `dried` `dry` `earth` `east` `eastern` `encamped` `encampment` `fathers` `fear` `feared` `feet` `finished` `first` `flowed` `forever` `forty` `gad` `gilgal` `god` `gone` `half` `hand` `hasted` `hence` `israel` `jericho` `jordan` `joshua` `joshuas` `know` `laid` `land` `leadership` `leave` `life` `lifted` `lodge` `lodged` `lodging` `lord` `magnification` `magnified` `man` `manasseh` `mean` `memorial` `men` `midst` `mighty` `month` `moses` `night` `number` `off` `pass` `passed` `people` `pitch` `place` `placement` `plains` `prepared` `presence` `priestly` `priests` `purpose` `red` `restoration` `returned` `reuben` `sea` `selection` `set` `shoulder` `sight` `sign` `soles` `spake` `speak` `stone` `stones` `stood` `take` `tenth` `testimony` `there` `thousand` `time` `tribe` `tribes` `twelve` `universal` `war` `waters`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

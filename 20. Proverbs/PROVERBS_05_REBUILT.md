@@ -115,6 +115,11 @@ Son, attend, wisdom, bow, ear, understanding, regard, discretion, lips, keep, kn
 
 **Consequences of Sin:** feet go death, iniquities take wicked, die without instruction
 
+
+*AI Keywords for current event matching:*
+`adultery` `attend` `avoiding` `bitter` `blessed` `bow` `consequences` `death` `die` `discretion` `ear` `end` `faithfulness` `far` `feet` `fountain` `give` `hind` `honeycomb` `honour` `iniquities` `instruction` `lips` `loving` `marital` `others` `pleasant` `regard` `rejoice` `remove` `roe` `sin` `strange` `take` `warning` `way` `wicked` `wife` `wisdom` `wisdoms` `without` `woman` `wormwood` `youth`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

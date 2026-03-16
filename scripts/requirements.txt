@@ -11,6 +11,13 @@ pyyaml>=6.0.1
 # For the Gantt CSV / timeline
 # (csv is stdlib — no extra install needed)
 
+# For news_prophecy_mapper.py (all stdlib except below)
+# urllib, xml.etree, re, json — all stdlib, no install needed
+
+# For bible_qa.py — requires Ollama running locally
+# Ollama install: https://ollama.ai
+# Pull a model: ollama pull llama3
+
 # Optional: for building a local API / web UI on top of semantic search
 # fastapi>=0.110.0
 # uvicorn>=0.29.0

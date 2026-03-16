@@ -103,6 +103,11 @@ Fourth, year, Jehoiakim, son, Josiah, king, Judah, word, Jeremiah, LORD, roll, b
 
 **Christ's Preservation:** LORD hid them, another roll, many like words, not afraid
 
+
+*AI Keywords for current event matching:*
+`afraid` `another` `baruch` `body` `book` `burned` `cast` `christs` `consumed` `david` `dead` `divine` `fire` `hearth` `hid` `ink` `judgment` `like` `lord` `many` `preservation` `read` `roll` `scroll` `spoken` `throne` `word` `words` `write` `written` `wrote`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

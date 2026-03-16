@@ -103,6 +103,11 @@ Word, LORD, saying, take, wife, sons, daughters, place, LORD, sons, daughters, b
 
 **Christ's Refuge:** strength fortress refuge, day affliction, Gentiles ends earth, name LORD
 
+
+*AI Keywords for current event matching:*
+`affliction` `buried` `cease` `celibacy` `christs` `daughters` `day` `deaths` `divine` `dung` `earth` `ends` `face` `feasting` `fish` `fishers` `fishing` `fortress` `gentiles` `grievous` `holes` `house` `hunt` `hunters` `judgment` `lamented` `lord` `mirth` `mourning` `name` `refuge` `rocks` `send` `sons` `spiritual` `strength` `take` `voice` `wife`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

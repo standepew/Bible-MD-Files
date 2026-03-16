@@ -91,6 +91,11 @@ Beseech, brethren, exhort, Lord, Jesus, received, walk, please, God, abound, com
 
 **The Coming of the Lord:** ignorant, brethren, asleep, sorrow, others, hope, believe, Jesus, died, rose, sleep, Jesus, God, bring, word, Lord, alive, remain, coming, Lord, prevent, asleep, Lord, descend, heaven, shout, voice, archangel, trump, God, dead, Christ, rise, alive, remain, caught, clouds, meet, Lord, air, ever, Lord, comfort, words
 
+
+*AI Keywords for current event matching:*
+`abound` `abstain` `air` `alive` `archangel` `asleep` `avenger` `believe` `beseech` `beyond` `brethren` `bring` `brother` `brotherly` `business` `called` `caught` `christ` `clouds` `comfort` `coming` `commanded` `commandments` `concupiscence` `dead` `defraud` `descend` `despiseth` `died` `ever` `exhort` `forewarned` `fornication` `gentiles` `given` `god` `hands` `heaven` `holiness` `holy` `honestly` `honour` `hope` `ignorant` `increase` `jesus` `know` `lack` `lord` `love` `lust` `macedonia` `man` `matter` `meet` `others` `please` `possess` `prevent` `purity` `quiet` `quietly` `received` `remain` `rise` `rose` `sanctification` `shout` `sleep` `sorrow` `spirit` `study` `taught` `testified` `touching` `trump` `uncleanness` `vessel` `voice` `walk` `without` `word` `words` `working` `write`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

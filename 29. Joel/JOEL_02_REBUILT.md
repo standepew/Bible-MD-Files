@@ -103,6 +103,11 @@ Blow, trumpet, Zion, sound, alarm, holy, mountain, inhabitants, land, tremble, d
 
 **Restoration Promise:** restore years, corn wine oil, floors full wheat, never ashamed
 
+
+*AI Keywords for current event matching:*
+`ashamed` `blood` `christs` `cometh` `corn` `darkness` `daughters` `day` `divine` `dreams` `fasting` `flesh` `floors` `full` `gracious` `great` `heart` `lord` `men` `merciful` `moon` `never` `oil` `old` `outpouring` `pour` `promise` `prophesy` `rend` `repentance` `restoration` `restore` `sons` `spirit` `sun` `terrible` `turn` `weeping` `wheat` `wine` `years`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

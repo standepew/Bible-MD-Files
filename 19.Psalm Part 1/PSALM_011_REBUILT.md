@@ -115,6 +115,11 @@ Chief, Musician, Psalm, David, LORD, trust, soul, flee, bird, mountain, wicked, 
 
 **Righteous vs. Wicked:** upright heart, trieth righteous, wicked loveth violence, righteous LORD loveth righteousness, upright
 
+
+*AI Keywords for current event matching:*
+`arrow` `behold` `bend` `bird` `bow` `brimstone` `chief` `countenance` `cup` `david` `destroyed` `divine` `eyes` `fire` `flee` `foundations` `god` `gods` `hateth` `heart` `heaven` `holy` `horrible` `judgment` `lord` `loveth` `mountain` `musician` `portion` `privily` `protection` `psalm` `rain` `ready` `righteous` `righteousness` `shoot` `snares` `soul` `string` `tempest` `temple` `throne` `trieth` `trust` `upright` `violence` `wicked`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

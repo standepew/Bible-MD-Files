@@ -103,6 +103,11 @@ Word, LORD, Jeremiah, second, time, shut, court, prison, LORD, maker, LORD, form
 
 **Christ's Covenant:** covenant day night, ordinances heaven earth, multiply seed David, cause captivity return
 
+
+*AI Keywords for current event matching:*
+`branch` `bring` `build` `burnt` `captivity` `cause` `christs` `covenant` `cure` `david` `davids` `day` `dwell` `earth` `execute` `first` `health` `heaven` `house` `israel` `jerusalem` `judah` `judgment` `levites` `man` `multiply` `night` `offerings` `ordinances` `peace` `priests` `restoration` `return` `reveal` `righteous` `righteousness` `saved` `seed` `sit` `throne` `truth` `want`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

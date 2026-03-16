@@ -175,6 +175,11 @@ Things, done, princes, came, people, Israel, priests, Levites, separated, people
 
 **Divine Mercy:** little space grace LORD GOD remnant escape nail holy place GOD lighten eyes little reviving bondage, bondmen GOD forsaken bondage extended mercy sight kings Persia reviving set house GOD repair desolations wall Judah Jerusalem, GOD forsaken commandments, commanded servants prophets land possess unclean land filthiness people lands abominations filled uncleanness, give daughters sons take daughters sons seek peace wealth strong eat good land inheritance children, come evil deeds great trespass GOD punished less iniquities deserve deliverance, break commandments join affinity people abominations angry consumed remnant escaping, LORD GOD Israel righteous remain escaped trespasses stand
 
+
+*AI Keywords for current event matching:*
+`abominations` `affinity` `ammonites` `amorites` `angry` `arose` `ashamed` `assembled` `astonied` `beard` `blush` `bondage` `bondmen` `break` `came` `canaanites` `captivity` `carried` `chief` `children` `come` `commanded` `commandments` `confession` `confusion` `consumed` `daughters` `day` `days` `deeds` `deliverance` `delivered` `deserve` `desolations` `divine` `done` `eat` `egyptians` `escape` `escaped` `escaping` `evening` `evil` `extended` `eyes` `ezras` `face` `fathers` `fell` `filled` `filthiness` `forsaken` `garment` `give` `god` `good` `grace` `great` `grown` `hair` `hand` `hands` `head` `heard` `heavens` `heaviness` `hittites` `holy` `house` `increased` `inheritance` `iniquities` `israel` `jebusites` `jerusalem` `join` `judah` `kings` `knees` `lament` `land` `lands` `less` `levites` `lift` `lighten` `little` `lord` `mantle` `marriages` `mercy` `mingled` `mixed` `moabites` `nail` `peace` `people` `perizzites` `persia` `place` `plucked` `possess` `priests` `princes` `prophets` `punished` `remain` `remnant` `rent` `repair` `reviving` `righteous` `rulers` `sacrifice` `sat` `seed` `seek` `separated` `servants` `set` `sight` `sin` `sons` `space` `spoil` `spread` `stand` `strong` `sword` `take` `taken` `thing` `things` `transgression` `trembled` `trespass` `trespasses` `unclean` `uncleanness` `wall` `wealth` `words`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -203,6 +203,11 @@ Second, sabbath, corn, fields, disciples, plucked, ears, corn, eat, rubbing, han
 
 **Wise and Foolish Builders:** good measure, blind lead, beam eye, foundation rock
 
+
+*AI Keywords for current event matching:*
+`apostles` `beam` `beatitudes` `bless` `blessed` `blind` `builders` `children` `choosing` `communed` `corn` `curse` `day` `enemies` `evil` `eye` `fields` `filled` `foolish` `foundation` `good` `hand` `healing` `highest` `hunger` `iscariot` `judas` `laugh` `lead` `life` `likewise` `lord` `love` `madness` `measure` `mountain` `peter` `poor` `pray` `restored` `rich` `rock` `sabbath` `save` `shewbread` `simon` `twelve` `weep` `whole` `wise` `withered` `woe` `woes`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

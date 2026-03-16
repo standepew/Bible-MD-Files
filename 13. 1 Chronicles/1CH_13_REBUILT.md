@@ -119,6 +119,11 @@ David, consulted, captains, thousands, hundreds, every, leader. David, congregat
 
 **Obed-edom's Blessing:** ark God remained family Obed-edom house three months, LORD blessed house Obed-edom all he had
 
+
+*AI Keywords for current event matching:*
+`abinadab` `abroad` `afraid` `ahio` `anger` `ark` `arks` `aside` `baalah` `belonged` `blessed` `blessing` `breached` `brethren` `bring` `brought` `called` `captains` `carried` `cart` `cherubims` `chidon` `cities` `city` `congregation` `consultation` `consulted` `cymbals` `david` `davids` `day` `days` `death` `died` `displeased` `drave` `dwelleth` `egypt` `enquired` `entering` `every` `eyes` `family` `fear` `gather` `gathered` `gittite` `god` `good` `hand` `harps` `hemath` `hold` `home` `house` `hundreds` `israel` `journey` `joyful` `judah` `kindled` `kirjath-jearim` `land` `leader` `levites` `lord` `months` `new` `obed-edom` `obed-edoms` `oxen` `people` `perez-uzza` `place` `played` `priests` `psalteries` `remained` `right` `saul` `send` `shihor` `singing` `smote` `stumbled` `suburbs` `thing` `thousands` `three` `threshingfloor` `timbrels` `trumpets` `uzza` `uzzahs` `worship`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

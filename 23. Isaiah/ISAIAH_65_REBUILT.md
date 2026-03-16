@@ -91,6 +91,11 @@ Sought, asked, found, sought, Behold, behold, nation, called, name, spread, hand
 
 **Eternal Kingdom:** elect inherit, long enjoy work hands, build houses inhabit, hurt destroy holy mountain
 
+
+*AI Keywords for current event matching:*
+`anger` `asked` `bow` `build` `christs` `cluster` `continually` `create` `creation` `destroy` `divine` `earth` `elect` `enjoy` `eternal` `feed` `former` `found` `hands` `heavens` `holy` `houses` `hurt` `inhabit` `inherit` `jerusalem` `judgment` `kingdom` `lamb` `long` `mountain` `new` `number` `people` `provoketh` `rebellious` `rejoicing` `remembered` `sakes` `salvation` `servants` `sought` `sword` `wine` `wolf` `work`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

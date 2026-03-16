@@ -115,6 +115,11 @@ Sin, Judah, written, pen, iron, point, diamond, graven, table, heart, horns, alt
 
 **Christ's Healing:** heal me saved, fountain living waters, praise, hope day evil
 
+
+*AI Keywords for current event matching:*
+`arm` `blessed` `christs` `cursed` `day` `deceitful` `departs` `desert` `evil` `flesh` `fountain` `graven` `green` `heal` `healing` `heart` `heath` `hope` `leaf` `living` `lord` `man` `planted` `praise` `saved` `search` `sin` `table` `tree` `trust` `trusteth` `waters` `written`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

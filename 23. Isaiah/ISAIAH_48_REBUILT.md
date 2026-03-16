@@ -139,6 +139,11 @@ Hear, house, Jacob, called, name, Israel, come, waters, Judah, swear, name, LORD
 
 **Christ's Salvation:** go forth Babylon, redeemed servant Jacob, waters flow rock, peace river righteousness waves
 
+
+*AI Keywords for current event matching:*
+`affliction` `babylon` `called` `calling` `chosen` `christs` `come` `divine` `first` `flow` `forth` `furnace` `iron` `israel` `jacob` `judah` `last` `name` `neck` `obstinate` `peace` `redeemed` `refined` `refinement` `righteousness` `river` `rock` `salvation` `servant` `silver` `sinew` `spiritual` `transgressor` `waters` `waves` `womb`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

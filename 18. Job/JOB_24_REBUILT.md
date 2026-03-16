@@ -139,6 +139,11 @@ Times, hidden, Almighty, know, days. Landmarks, flocks, feed. Ass, fatherless, w
 
 **Final Judgment:** men groan city wounded cry folly, rebel light ways paths, murderer light poor needy night thief, adulterer twilight eye disguise face
 
+
+*AI Keywords for current event matching:*
+`adulterer` `almighty` `ass` `asses` `betimes` `breast` `children` `city` `clothing` `cold` `corn` `covering` `cry` `days` `desert` `disguise` `divine` `earth` `embrace` `eye` `face` `fatherless` `feed` `field` `final` `flocks` `folly` `food` `gather` `groan` `hidden` `hiddenness` `hide` `hungry` `jobs` `judgment` `know` `landmarks` `light` `lodge` `men` `mountains` `murderer` `naked` `needy` `night` `oil` `oppression` `paths` `pledge` `poor` `prey` `reap` `rebel` `response` `rock` `sheaf` `shelter` `showers` `thief` `thirst` `times` `twilight` `vintage` `walls` `way` `ways` `wicked` `wickeds` `widow` `wild` `wilderness` `winepresses` `work` `wounded`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -114,6 +114,11 @@ When Canaanite kings hear that God dried up Jordan for Israel, their hearts melt
 
 **Divine Commander:** Joshua Jericho, lifted eyes looked, man against, sword drawn hand, Joshua man, Art us adversaries, captain host LORD, Joshua fell face earth, worship, saith lord servant, captain LORD host Joshua, Loose shoe foot, place standest holy, Joshua
 
+
+*AI Keywords for current event matching:*
+`abode` `adversaries` `against` `amorites` `art` `ate` `away` `born` `cakes` `came` `camp` `canaan` `canaanite` `canaanites` `captain` `cause` `ceased` `celebration` `children` `circumcise` `circumcised` `circumcising` `circumcision` `commander` `consumed` `corn` `day` `died` `divine` `drawn` `dried` `earth` `egypt` `encamped` `eyes` `face` `fathers` `fear` `fell` `foot` `foreskins` `forth` `forty` `fourteenth` `fruit` `generation` `gilgal` `give` `hand` `heard` `heart` `hill` `holy` `honey` `host` `israel` `jericho` `jordan` `joshua` `kept` `kings` `knives` `land` `lifted` `looked` `loose` `lord` `make` `males` `man` `manna` `melted` `men` `milk` `month` `morrow` `name` `new` `obeyed` `old` `parched` `passed` `passover` `people` `place` `places` `plains` `provision` `raised` `reproach` `rolled` `saith` `sea` `second` `selfsame` `servant` `sharp` `shew` `shoe` `significance` `spirit` `standest` `stead` `sware` `sword` `time` `transition` `uncircumcised` `unleavened` `voice` `walked` `war` `waters` `way` `westward` `whole` `wilderness` `worship` `year` `years`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

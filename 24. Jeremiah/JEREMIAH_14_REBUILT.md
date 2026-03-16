@@ -91,6 +91,11 @@ Word, LORD, Jeremiah, dearth, Judah, mourneth, gates, languish, black, ground, c
 
 **Christ's Mercy:** hope Israel saviour, wait upon thee, remember covenant, not abhor us
 
+
+*AI Keywords for current event matching:*
+`abhor` `asses` `calved` `chapt` `christs` `consumed` `covenant` `divination` `drought` `earth` `empty` `fail` `false` `famine` `field` `gates` `ground` `hind` `hope` `israel` `judah` `languish` `lies` `little` `mercy` `mourneth` `name` `ones` `prophesy` `prophets` `rain` `remember` `saviour` `spiritual` `sword` `thirst` `vessels` `vision` `wait` `waters` `wild`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -127,6 +127,11 @@ Burden, Nineveh, book, vision, Nahum, Elkoshite, God, jealous, LORD, revengeth, 
 
 **Nineveh's Destruction:** burden Nineveh, overrunning flood, utter end, wicked cut
 
+
+*AI Keywords for current event matching:*
+`anger` `burden` `christs` `cut` `day` `destruction` `divine` `end` `fire` `flood` `fury` `god` `gods` `good` `great` `hold` `jealous` `knoweth` `lord` `nineveh` `ninevehs` `overrunning` `poured` `power` `protection` `reserveth` `revengeth` `righteous` `slow` `storm` `strong` `take` `trouble` `trust` `utter` `vengeance` `whirlwind` `wicked` `wrath`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

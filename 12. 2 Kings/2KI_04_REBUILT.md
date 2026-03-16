@@ -83,6 +83,11 @@ Woman wives sons prophets Elisha, servant husband dead, fear LORD, creditor sons
 
 **Feeding Miracle:** man Baal-shalisha man GOD bread firstfruits loaves barley ears corn husk people eat, servitor hundred men people eat LORD leave, people ate left word LORD
 
+
+*AI Keywords for current event matching:*
+`answer` `arose` `aside` `ass` `ate` `awaked` `baal-shalisha` `barley` `bed` `bondmen` `bread` `candlestick` `captain` `careful` `carmel` `chamber` `child` `children` `conceived` `corn` `creditor` `cried` `dead` `dearth` `death` `debt` `deceive` `died` `door` `ears` `eat` `elisha` `embrace` `empty` `eyes` `father` `fear` `feeding` `feet` `field` `firstfruits` `flesh` `followed` `fro` `full` `gehazi` `gilgal` `god` `gourds` `great` `ground` `grown` `hand` `handmaid` `hands` `harm` `head` `hearing` `herbs` `hid` `holy` `host` `house` `hundred` `husband` `husk` `king` `knees` `knew` `lad` `land` `lap` `leave` `left` `life` `live` `loaves` `loins` `lord` `man` `meal` `meet` `men` `miracle` `mother` `mouth` `neighbours` `noon` `oil` `old` `pay` `people` `poisonous` `pot` `pottage` `prayed` `prophets` `reapers` `resurrection` `salute` `season` `sell` `servant` `servitor` `set` `seven` `shunammite` `shunem` `shut` `sneezed` `son` `sons` `soul` `staff` `stayed` `stew` `stool` `stretched` `table` `thrust` `time` `times` `vessel` `vessels` `vexed` `vine` `voice` `wall` `warm` `well` `widows` `wild` `wives` `woman` `word` `young`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

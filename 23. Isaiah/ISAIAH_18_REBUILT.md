@@ -115,6 +115,11 @@ Woe, land, shadowing, wings, beyond, rivers, Ethiopia, send, ambassadors, sea, v
 
 **Christ's Glory:** present brought, LORD hosts, mount Zion, people scattered peeled
 
+
+*AI Keywords for current event matching:*
+`afore` `bloweth` `brought` `bud` `christs` `clear` `cloud` `consider` `cut` `dew` `divine` `dwellers` `dwelling` `earth` `ensign` `glory` `grape` `harvest` `heat` `herbs` `hosts` `inhabitants` `lifteth` `lord` `mount` `peeled` `people` `perfect` `present` `pruning` `rest` `ripening` `scattered` `sour` `spiritual` `sprigs` `take` `trumpet` `world` `zion`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

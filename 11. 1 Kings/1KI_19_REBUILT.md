@@ -83,6 +83,11 @@ Ahab Jezebel Elijah slain prophets sword. Jezebel messenger Elijah, gods, life, 
 
 **Elisha's Call:** departed found Elisha son Shaphat plowing twelve yoke oxen twelfth Elijah passed cast mantle, left oxen ran Elijah kiss father mother follow Go back done, returned yoke oxen slew boiled flesh instruments oxen people ate arose Elijah ministered
 
+
+*AI Keywords for current event matching:*
+`abel-meholah` `ahab` `altars` `angel` `anoint` `arise` `arose` `ate` `baal` `back` `baken` `beer-sheba` `boiled` `bowed` `brake` `cake` `call` `came` `cast` `cave` `children` `coals` `commission` `covenant` `cruse` `damascus` `day` `days` `departed` `die` `divine` `doest` `done` `drink` `earthquake` `eat` `elijah` `elijahs` `elisha` `elishas` `encounter` `enough` `entering` `escapeth` `face` `father` `fathers` `fire` `flesh` `flight` `follow` `forsaken` `forty` `found` `god` `gods` `great` `hazael` `head` `heard` `horeb` `hosts` `instruments` `israel` `jealous` `jehu` `jezebel` `jezebels` `journey` `judah` `juniper` `king` `kiss` `kissed` `knees` `laid` `left` `life` `lodged` `lord` `mantle` `meat` `messenger` `ministered` `mother` `mount` `mountains` `mouth` `nights` `nimshi` `oxen` `passed` `people` `plowing` `prophet` `prophets` `ran` `rent` `requested` `return` `returned` `rocks` `room` `sat` `second` `seek` `servant` `seven` `shaphat` `slain` `slay` `slept` `slew` `small` `son` `stand` `still` `strength` `strong` `sustenance` `sword` `syria` `take` `thousand` `threat` `thrown` `time` `tomorrow` `touched` `tree` `twelfth` `twelve` `voice` `water` `went` `wilderness` `wind` `word` `wrapped` `yoke`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

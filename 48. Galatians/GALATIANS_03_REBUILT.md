@@ -127,6 +127,11 @@ Foolish, Galatians, bewitched, obey, truth, eyes, Jesus, Christ, evidently, cruc
 
 **Unity in Christ:** children, God, faith, Christ, Jesus, baptized, Christ, put, Christ, Jew, Greek, bond, free, male, female, Christ, Christ, Abraham, seed, heirs, promise
 
+
+*AI Keywords for current event matching:*
+`abraham` `accounted` `addeth` `angels` `baptized` `begun` `believe` `believed` `bewitched` `blessed` `blessing` `bond` `book` `brethren` `children` `christ` `come` `concluded` `confirmed` `continueth` `covenant` `crucified` `curse` `cursed` `disannul` `disannulleth` `doeth` `effect` `evident` `evidently` `eyes` `faith` `faithful` `female` `flesh` `foolish` `forbid` `foreseeing` `four` `free` `galatians` `gentiles` `given` `god` `gospel` `greek` `hand` `hangeth` `hearing` `heathen` `heirs` `hundred` `inheritance` `jesus` `jew` `justified` `justify` `kept` `know` `law` `learn` `life` `live` `made` `male` `man` `manner` `mediator` `men` `ministereth` `miracles` `nations` `obey` `perfect` `preached` `promise` `promises` `purpose` `put` `receive` `received` `redeemed` `revealed` `righteous` `righteousness` `schoolmaster` `scripture` `seed` `seeds` `serveth` `shut` `sight` `sin` `speak` `spirit` `suffered` `thirty` `transgressions` `tree` `truth` `unity` `vain` `versus` `worketh` `works` `written` `years`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

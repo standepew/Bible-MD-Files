@@ -139,6 +139,11 @@ Disciples, Jesus, greatest, kingdom, heaven, Jesus, called, child, midst, Verily
 
 **Lost Sheep Restoration:** hundred sheep, one astray, seek lost, save lost
 
+
+*AI Keywords for current event matching:*
+`astray` `bind` `brother` `child` `childlike` `children` `christs` `church` `discipline` `earth` `forgive` `forgiveness` `gained` `greatest` `hearts` `humble` `humility` `hundred` `kingdom` `little` `lost` `one` `pence` `principle` `receive` `restoration` `save` `seek` `seven` `seventy` `sheep` `tell` `ten` `thousand` `two` `witnesses`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

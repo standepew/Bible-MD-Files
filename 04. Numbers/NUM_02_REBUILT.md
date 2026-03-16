@@ -62,6 +62,11 @@ God commands the arrangement of Israel's camp. The Tabernacle sits at the centre
 - **Military organization / disciplined community** → Numbers 2 — the march order, the camp positions, each man in his place
 - **Identity and belonging** → Numbers 2:2 — "every man by his own standard, with the ensign of their father's house"
 
+
+*AI Keywords for current event matching:*
+`community` `current` `events` `every` `formless` `mass` `matching` `numbers` `order` `ordered` `person` `place` `social` `standard` `structure` `tribe`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS WITH CONTEXTUAL DEFINITIONS

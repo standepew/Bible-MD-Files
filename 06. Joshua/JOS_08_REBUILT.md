@@ -120,6 +120,11 @@ God commands Joshua not to fear but to take all warriors to Ai, promising victor
 
 **Law Reading:** Read words law, blessings cursings, book law Moses commanded, Joshua read congregation Israel, women little ones, strangers conversant
 
+
+*AI Keywords for current event matching:*
+`abode` `against` `alive` `altar` `ambush` `among` `appointed` `approach` `arise` `ark` `arose` `ascended` `back` `bare` `battle` `beaten` `behind` `beth` `bless` `blessings` `book` `born` `brought` `built` `burnt` `called` `carcass` `cast` `cattle` `chased` `children` `city` `come` `command` `commanded` `commandment` `complete` `congregation` `conquest` `consumed` `conversant` `copy` `covenant` `cursings` `day` `deliver` `desolation` `destroyed` `destruction` `dismayed` `divine` `down` `drawn` `drew` `early` `ebal` `edge` `elders` `end` `entered` `entering` `escape` `eventide` `fallen` `far` `fear` `feigned` `fell` `field` `fire` `first` `five` `fled` `flee` `forever` `gate` `gerizim` `give` `given` `god` `great` `half` `hand` `hanged` `hasted` `heap` `heaven` `host` `inhabitants` `iron` `israel` `israelites` `issued` `jericho` `joshua` `judges` `king` `land` `law` `left` `levites` `lie` `liers` `lift` `little` `lodged` `looked` `lord` `man` `men` `midst` `mighty` `military` `morning` `moses` `mount` `night` `north` `numbered` `offerings` `officers` `ones` `open` `peace` `people` `place` `plain` `power` `preparation` `presence` `prey` `priests` `pursue` `pursued` `pursuers` `quickly` `raise` `ran` `read` `reading` `ready` `remain` `renewal` `retreat` `returned` `rise` `rose` `saw` `seize` `sent` `servant` `set` `side` `signal` `slaying` `slew` `smoke` `smote` `spear` `spoil` `stones` `stranger` `strangers` `strategy` `stretch` `stretched` `sun` `sword` `take` `taken` `thirty` `thousand` `together` `took` `tree` `turned` `twelve` `utterly` `valley` `victory` `wait` `war` `way` `went` `west` `whole` `wilderness` `women` `word` `words` `writing` `wrote`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

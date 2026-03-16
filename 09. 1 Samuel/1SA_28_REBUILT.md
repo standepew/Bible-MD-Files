@@ -85,6 +85,11 @@ Philistines gathered armies for warfare to fight Israel. Achish told David assur
 
 **Saul's Judgment:** Saul earth afraid words Samuel strength eaten bread day night, woman Saul troubled handmaid obeyed voice life hand hearkened words, hearken handmaid morsel bread strength way, refused eat servants woman compelled hearkened voice earth bed, woman fat calf house hastened killed flour kneaded baked unleavened bread, brought Saul servants ate rose away night
 
+
+*AI Keywords for current event matching:*
+`achish` `afraid` `amalek` `armies` `assuredly` `ate` `away` `baked` `battle` `bed` `bowed` `bread` `bring` `brought` `buried` `calf` `called` `city` `compelled` `david` `day` `dead` `deceived` `deliver` `departed` `die` `disguised` `disquieted` `distressed` `divine` `dreams` `earth` `eat` `eaten` `endor` `enemy` `enquire` `enquired` `face` `familiar` `fat` `fear` `fight` `flour` `forbidden` `forever` `form` `gathered` `gilboa` `god` `gods` `ground` `hand` `handmaid` `hastened` `head` `hearken` `hearkened` `heart` `host` `house` `israel` `judgment` `keeper` `killed` `king` `kingdom` `kneaded` `known` `lamented` `land` `life` `lord` `loud` `make` `man` `mantle` `men` `message` `morrow` `morsel` `named` `neighbour` `night` `obeyed` `old` `perceived` `philistine` `philistines` `pitched` `practice` `prophets` `punishment` `raiment` `ramah` `refused` `rent` `rose` `samuel` `samuels` `saul` `sauls` `sawest` `servant` `servants` `shunem` `silence` `snare` `sons` `sore` `spirit` `spirits` `spoke` `stooped` `strength` `sware` `trembled` `troubled` `unleavened` `urim` `voice` `war` `warfare` `way` `witch` `wizards` `woman` `words` `wrath`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

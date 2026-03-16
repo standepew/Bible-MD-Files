@@ -203,6 +203,11 @@ Two, days, feast, passover, unleavened, bread, chief, priests, scribes, craft, d
 
 **Trial Before Sanhedrin:** high priest, Son Blessed, blasphemy death, condemned guilty
 
+
+*AI Keywords for current event matching:*
+`abba` `alabaster` `anointing` `betray` `betrayal` `blasphemy` `blessed` `blood` `body` `box` `christs` `cock` `condemned` `crew` `death` `denial` `denied` `father` `fire` `fled` `flesh` `forsook` `fulfilled` `galilaean` `gethsemane` `guilty` `high` `hour` `judas` `kiss` `know` `last` `memorial` `new` `ointment` `pass` `passover` `peters` `pray` `precious` `prepare` `priest` `sanhedrin` `scattered` `scriptures` `shepherd` `son` `speech` `spirit` `staves` `supper` `swords` `testament` `token` `trial` `warming`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

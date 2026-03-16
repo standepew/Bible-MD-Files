@@ -127,6 +127,11 @@ Prophets, Haggai, prophet, Zechariah, son, Iddo, prophesied, Jews, Judah, Jerusa
 
 **Royal Investigation:** returned answer servants GOD heaven earth build house builded years great king Israel builded set, fathers provoked GOD heaven wrath hand Nebuchadnezzar king Babylon Chaldean destroyed house carried people Babylon, first year Cyrus king Babylon king Cyrus decree build house GOD, vessels gold silver house GOD Nebuchadnezzar temple Jerusalem temple Babylon Cyrus king temple Babylon delivered Sheshbazzar governor, Sheshbazzar vessels temple Jerusalem house GOD builded place, Sheshbazzar laid foundation house GOD Jerusalem time building finished, good king search king treasure house Babylon decree Cyrus king build house GOD Jerusalem king pleasure matter
 
+
+*AI Keywords for current event matching:*
+`answer` `apharsachites` `asked` `babylon` `began` `boznai` `build` `builded` `building` `carried` `cause` `cease` `certify` `chaldean` `chief` `commanded` `companions` `copy` `cyrus` `darius` `decree` `delivered` `destroyed` `divine` `earth` `elders` `encouragement` `eye` `fast` `fathers` `finished` `first` `foundation` `god` `gold` `good` `governor` `great` `haggai` `hand` `hands` `heaven` `helping` `house` `iddo` `investigation` `israel` `jerusalem` `jeshua` `jews` `jozadak` `judah` `judea` `king` `laid` `letter` `matter` `men` `name` `names` `nebuchadnezzar` `peace` `people` `place` `pleasure` `prophesied` `prophet` `prophetic` `prophets` `prospered` `protection` `province` `provoked` `resumed` `returned` `river` `rose` `royal` `search` `servants` `set` `shealtiel` `sheshbazzar` `shethar` `side` `silver` `son` `stones` `tatnai` `temple` `timber` `time` `treasure` `vessels` `wall` `walls` `work` `wrath` `write` `year` `years` `zechariah` `zerubbabel`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

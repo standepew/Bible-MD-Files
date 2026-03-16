@@ -91,6 +91,11 @@ Brought, utter, court, way, north, chamber, separate, place, building, north, le
 
 **Christ's Sanctuary:** most holy things, meat offering, sin offering, trespass offering
 
+
+*AI Keywords for current event matching:*
+`approach` `chambers` `christs` `court` `divine` `eat` `five` `gallery` `garments` `holy` `hundred` `lord` `meat` `minister` `most` `offering` `place` `priests` `profane` `reeds` `round` `sanctuary` `separate` `separation` `sin` `stories` `things` `trespass` `utter` `wall`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

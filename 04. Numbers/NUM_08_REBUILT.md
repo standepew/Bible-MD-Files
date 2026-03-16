@@ -69,6 +69,11 @@ This is the reverse of the normal hand-laying pattern. Normally the individual l
 - **Retirement with continued service** → Numbers 8:25-26 — the 50-year transition from heavy to light duty; no complete retirement from the community of service
 - **Light / lampstand / church as witness** → Numbers 8:2-4 — Revelation 1:20; Matthew 5:14-16
 
+
+*AI Keywords for current event matching:*
+`85-22` `acts` `apart` `consecration` `current` `events` `matching` `numbers` `ordination` `service` `setting` `timothy`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS WITH CONTEXTUAL DEFINITIONS

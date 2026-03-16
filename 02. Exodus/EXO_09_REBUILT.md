@@ -106,6 +106,11 @@ Three more plagues. Plague 5 (murrain): all Egyptian livestock in the field die;
 - **Boils / disease outbreaks** → Exodus 9:9-11
 - **Warning before judgment** → Exodus 9:19-21 — God warns before the hail; those who believe act
 
+
+*AI Keywords for current event matching:*
+`cause` `current` `divine` `events` `exodus` `matching` `raised` `romans` `rulers` `sovereignty`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

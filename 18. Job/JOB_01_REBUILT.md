@@ -115,6 +115,11 @@ Man, land, Uz, name, Job, perfect, upright, feared, GOD, eschewed, evil. Seven, 
 
 **Catastrophic Loss:** hedge house hands blessed work hands substance increased land, put hand touch curse face, LORD Satan hand power hand Satan LORD, day sons daughters eating drinking wine eldest brother house, messenger Job oxen plowing asses feeding, Sabeans servants sword escaped tell, speaking messenger fire GOD heaven burned sheep servants consumed escaped tell, speaking messenger Chaldeans three bands camels carried servants sword escaped tell, speaking messenger sons daughters eating drinking wine eldest brother house, great wind wilderness smote four corners house fell young men dead escaped tell, Job arose rent mantle shaved head fell ground worshipped, Naked mother womb naked return LORD gave LORD blessed name LORD, Job sinned charged GOD foolishly
 
+
+*AI Keywords for current event matching:*
+`arose` `asses` `bands` `blessed` `brother` `burned` `burnt` `called` `camels` `carried` `catastrophic` `chaldeans` `challenge` `charged` `comest` `considered` `consumed` `continually` `corners` `council` `curse` `cursed` `daughters` `day` `days` `dead` `drink` `drinking` `earth` `east` `eat` `eating` `eldest` `escaped` `eschewed` `evil` `face` `fear` `feared` `feasted` `feasting` `feeding` `fell` `fire` `five` `foolishly` `four` `gave` `god` `going` `great` `greatest` `ground` `hand` `hands` `head` `hearts` `heaven` `heavenly` `hedge` `house` `household` `houses` `hundred` `increased` `job` `jobs` `land` `lord` `loss` `man` `mantle` `men` `messenger` `morning` `mother` `naked` `name` `nought` `number` `offered` `offerings` `oxen` `perfect` `plowing` `power` `present` `put` `rent` `return` `righteousness` `rose` `sabeans` `sanctified` `satan` `satans` `servant` `servants` `seven` `shaved` `sheep` `sinned` `sisters` `smote` `sons` `speaking` `substance` `sword` `tell` `thousand` `three` `touch` `upright` `walking` `whence` `wilderness` `wind` `wine` `womb` `work` `worshipped` `yoke` `young`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

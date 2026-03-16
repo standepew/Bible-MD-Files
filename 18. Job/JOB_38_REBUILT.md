@@ -139,6 +139,11 @@ LORD, answered, Job, whirlwind, darkeneth, counsel, words, knowledge, gird, loin
 
 **Natural Order:** breadth earth light dwelleth darkness place bound paths house born days great treasures snow hail reserved time trouble battle war
 
+
+*AI Keywords for current event matching:*
+`answer` `answered` `arm` `bars` `battle` `born` `bound` `brake` `breadth` `broken` `clay` `cloud` `commanded` `corner` `counsel` `creation` `darkeneth` `darkness` `days` `dayspring` `death` `decreed` `demand` `depth` `divine` `doors` `dwelleth` `earth` `ends` `fastened` `first` `foundations` `garment` `gates` `gird` `god` `gods` `great` `hail` `high` `house` `human` `job` `joy` `knowledge` `light` `limitation` `line` `loins` `lord` `man` `measures` `morning` `natural` `order` `paths` `place` `proud` `reserved` `sang` `sea` `seal` `shadow` `shaken` `shouted` `shut` `snow` `sons` `speech` `springs` `stars` `stayed` `stone` `stretched` `swaddlingband` `thick` `time` `treasures` `trouble` `walked` `war` `waves` `whirlwind` `wicked` `withholden` `womb` `words`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

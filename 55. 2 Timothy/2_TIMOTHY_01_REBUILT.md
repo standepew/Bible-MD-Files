@@ -121,6 +121,11 @@ Paul, apostle, Jesus, Christ, will, God, promise, life, Christ, Jesus, Timothy, 
 
 **Hold Fast Sound Words:** appointed, preacher, apostle, teacher, Gentiles, suffer, things, ashamed, know, believed, persuaded, able, keep, committed, day, Hold, fast, form, sound, words, heard, faith, love, Christ, Jesus, good, thing, committed, keep, Holy, Ghost, dwelleth, turned, Asia, Phygellus, Hermogenes
 
+
+*AI Keywords for current event matching:*
+`able` `abolished` `afflictions` `apostle` `appearing` `appointed` `ashamed` `asia` `began` `believed` `beloved` `brought` `called` `calling` `ceasing` `christ` `committed` `conscience` `day` `dearly` `death` `desiring` `dwelleth` `dwelt` `eunice` `faith` `fast` `father` `fear` `filled` `forefathers` `form` `gentiles` `ghost` `gift` `god` `gods` `good` `gospel` `grace` `grandmother` `greatly` `greeting` `hands` `heard` `hermogenes` `hold` `holy` `immortality` `jesus` `joy` `keep` `know` `life` `light` `lois` `lord` `love` `manifest` `mercy` `mind` `mindful` `mother` `night` `partaker` `paul` `pauls` `peace` `persuaded` `phygellus` `power` `prayers` `preacher` `prisoner` `promise` `pure` `purpose` `putting` `remembrance` `saved` `saviour` `see` `serve` `son` `sound` `spirit` `stir` `suffer` `teacher` `tears` `testimony` `thank` `thanksgiving` `thing` `things` `timothy` `timothys` `turned` `unfeigned` `words` `works` `world`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

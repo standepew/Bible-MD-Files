@@ -151,6 +151,11 @@ Pilate, scourged, Jesus, soldiers, platted, crown, thorns, head, purple, robe, H
 
 **The Burial of Jesus:** Joseph Arimathaea, disciple secretly, fear Jews, besought Pilate, body Jesus, Pilate leave, Nicodemus night, mixture myrrh, aloes, hundred pound, body Jesus, linen clothes, spices, manner Jews, bury, crucified garden, new sepulchre, man laid, Jews preparation, sepulchre hand
 
+
+*AI Keywords for current event matching:*
+`above` `accomplished` `afraid` `aloes` `already` `answer` `arimathaea` `art` `away` `bearing` `behold` `believe` `besought` `blood` `bodies` `body` `bone` `bowed` `brake` `broken` `burial` `bury` `cast` `chief` `cleophas` `clothes` `coat` `cross` `crown` `crucified` `crucifixion` `crucify` `cæsar` `dead` `death` `delivered` `disciple` `fault` `fear` `finished` `four` `friend` `fulfilled` `gabbatha` `garden` `garments` `gave` `ghost` `given` `god` `golgotha` `greater` `greek` `hail` `hall` `hand` `hands` `head` `hebrew` `high` `home` `hour` `hundred` `hyssop` `jesus` `jews` `joseph` `judgment` `king` `knowing` `laid` `latin` `law` `leave` `legs` `linen` `lots` `magdalene` `man` `manner` `mary` `midst` `mixture` `mocking` `mother` `myrrh` `nazareth` `new` `nicodemus` `night` `parted` `parts` `passover` `pavement` `pierced` `pilate` `place` `platted` `pound` `power` `preparation` `priests` `purple` `raiment` `read` `received` `record` `release` `rend` `robe` `sabbath` `saw` `scourged` `scourging` `scripture` `seam` `seat` `secretly` `sepulchre` `side` `sin` `sister` `sixth` `skull` `smote` `soldiers` `son` `spear` `spices` `sponge` `thirst` `thorns` `title` `top` `true` `vessel` `vesture` `vinegar` `water` `whence` `without` `woven` `write`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

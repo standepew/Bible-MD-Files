@@ -103,6 +103,11 @@ Word, Jeremiah, LORD, king, Zedekiah, sent, Pashur, son, Melchiah, Zephaniah, so
 
 **Christ's Judgment:** punish fruit doings, kindle fire forest, devour round, execute judgment
 
+
+*AI Keywords for current event matching:*
+`abideth` `arm` `chaldeans` `choice` `choose` `christs` `city` `death` `devour` `die` `divine` `doings` `execute` `fight` `fire` `forest` `fruit` `goeth` `great` `hand` `inhabitants` `judgment` `kindle` `life` `live` `outstretched` `prey` `punish` `round` `set` `smite` `strong` `turn` `war` `way` `weapons` `wrath`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

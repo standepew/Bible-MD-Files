@@ -127,6 +127,11 @@ Maschil, Asaph, GOD, cast, forever, anger, smoke, sheep, pasture, Remember, cong
 
 **Plea for Restoration:** Remember enemy reproached LORD foolish people blasphemed name, deliver soul turtledove multitude wicked, Arise GOD plead cause remember foolish man reproacheth daily
 
+
+*AI Keywords for current event matching:*
+`anger` `arise` `asaph` `axes` `blasphemed` `brake` `break` `carved` `cast` `casting` `cause` `congregations` `daily` `defiled` `deliver` `desolations` `destruction` `divided` `divine` `dragons` `dwelling` `earth` `enemies` `enemy` `ensigns` `feet` `fire` `foolish` `forever` `gave` `god` `gods` `ground` `hammers` `heads` `inhabiting` `king` `leviathan` `lift` `lord` `man` `maschil` `meat` `midst` `multitude` `name` `past` `pasture` `people` `perpetual` `pieces` `place` `plea` `plead` `remember` `reproached` `reproacheth` `restoration` `roar` `salvation` `sanctuary` `sea` `set` `sheep` `signs` `smoke` `soul` `strength` `temple` `turtledove` `waters` `wicked` `wickedly` `wilderness` `work` `working` `works`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -139,6 +139,11 @@ Chief, Musician, Psalm, David, Hear, voice, GOD, prayer, preserve, life, fear, e
 
 **Righteous Trust:** righteous glad LORD trust upright heart glory, upright heart glory
 
+
+*AI Keywords for current event matching:*
+`arrow` `arrows` `bend` `bitter` `bows` `chief` `commune` `counsel` `david` `declare` `divine` `encourage` `enemy` `evil` `fall` `fear` `flee` `glad` `glory` `god` `gods` `hear` `heart` `hide` `iniquity` `insurrection` `judgment` `laying` `life` `lord` `matter` `men` `musician` `perfect` `prayer` `preserve` `privily` `psalm` `retribution` `righteous` `secret` `see` `shoot` `snares` `suddenly` `sword` `themselves` `tongue` `trust` `upright` `voice` `wicked` `wickeds` `words` `work` `workers` `wounded`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

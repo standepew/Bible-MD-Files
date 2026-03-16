@@ -139,6 +139,11 @@ Jesus, finished, sayings, departed, Galilee, coasts, Judaea, beyond, Jordan, mul
 
 **Eternal Reward:** treasure heaven, everlasting life, regeneration throne, twelve thrones
 
+
+*AI Keywords for current event matching:*
+`camel` `christs` `commandments` `cost` `discipleship` `eternal` `everlasting` `exception` `female` `flesh` `fornication` `forsaken` `god` `good` `great` `hast` `heaven` `hundredfold` `impossible` `joined` `keep` `life` `male` `marriage` `master` `needle` `one` `possessions` `regeneration` `reward` `rich` `ruler` `sell` `teaching` `throne` `thrones` `treasure` `twelve` `young`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

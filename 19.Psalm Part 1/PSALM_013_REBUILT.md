@@ -115,6 +115,11 @@ Chief, Musician, Psalm, David, long, forget, LORD, forever, hide, face, soul, co
 
 **Joyful Thanksgiving:** sing LORD dealt bountifully, heart rejoice salvation, trusted mercy
 
+
+*AI Keywords for current event matching:*
+`bountifully` `chief` `consider` `counsel` `daily` `david` `dealt` `death` `deliverance` `divine` `enemy` `exalted` `eyes` `face` `forever` `forget` `god` `hear` `heart` `hiddenness` `hide` `joyful` `lest` `lighten` `long` `lord` `mercy` `moved` `musician` `prayer` `prevailed` `psalm` `questions` `rejoice` `salvation` `say` `sing` `sleep` `sorrow` `soul` `thanksgiving` `trouble` `trust` `trusted`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

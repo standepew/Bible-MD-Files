@@ -63,6 +63,11 @@ God speaks to Moses: command Israel to observe the offering calendar — my offe
 - **Pentecost / Feast of Firstfruits and Weeks** → Numbers 28:26 — Acts 2:1-4; Romans 8:23
 - **Precision in worship / exact measures** → Numbers 28:5, 7, 14 — the specific amounts of flour, oil, wine
 
+
+*AI Keywords for current event matching:*
+`283-8` `811-13` `continual` `current` `daniel` `events` `matching` `numbers` `offering` `prayer` `thessalonians` `unceasing`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS WITH CONTEXTUAL DEFINITIONS

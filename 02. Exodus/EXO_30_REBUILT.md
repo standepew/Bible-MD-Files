@@ -94,6 +94,11 @@ God commands: (1) The Altar of Incense — shittim wood overlaid with gold, posi
 - **The fragrance of Christ** → Exodus 30:34-38 — 2 Corinthians 2:14-15
 - **Sacred vs. common / holiness** → Exodus 30:32-38 — what is holy cannot be replicated; the Spirit is not common
 
+
+*AI Keywords for current event matching:*
+`307-8` `83-4` `current` `events` `exodus` `incense` `intercession` `matching` `prayer` `prayers` `psalm` `revelation`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

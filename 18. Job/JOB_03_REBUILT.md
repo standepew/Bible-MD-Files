@@ -115,6 +115,11 @@ Job, opened, mouth, cursed, day. Job, spake, day, perish, born, night, man, chil
 
 **Questioning Suffering:** wicked cease troubling weary rest, prisoners rest voice oppressor, small great servant free master, light misery life bitter soul, long death dig hid treasures, rejoice glad grave, light man way hid God hedged, sighing eat roarings waters, feared come afraid come, safety rest quiet trouble
 
+
+*AI Keywords for current event matching:*
+`afraid` `belly` `birth` `bitter` `blackness` `born` `breasts` `built` `cease` `child` `cloud` `come` `conceived` `counsellors` `curse` `cursed` `cursing` `dark` `darkness` `dawning` `day` `days` `death` `desired` `desolate` `die` `dig` `doors` `dwell` `earth` `eat` `eyes` `feared` `filled` `free` `ghost` `glad` `god` `gold` `grave` `great` `hedged` `hid` `hidden` `houses` `infants` `job` `jobs` `joined` `joyful` `kings` `knees` `lain` `lament` `life` `light` `long` `look` `man` `master` `misery` `months` `mother` `mourning` `mouth` `night` `number` `opened` `oppressor` `perish` `places` `prevent` `princes` `prisoners` `questioning` `quiet` `regard` `rejoice` `rest` `roarings` `safety` `seize` `servant` `shadow` `shine` `shut` `sighing` `silver` `slept` `small` `solitary` `sorrow` `soul` `spake` `stain` `stars` `suck` `suffering` `terrify` `treasures` `trouble` `troubling` `twilight` `untimely` `voice` `waters` `way` `weary` `wicked` `womb` `year`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

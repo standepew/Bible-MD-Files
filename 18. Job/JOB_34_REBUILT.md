@@ -163,6 +163,11 @@ Elihu, answered, hear, words, wise, men, give, ear, knowledge, ear, trieth, word
 
 **Human Accountability:** king wicked princes ungodly accept persons princes regard rich poor work hands die people midnight mighty hand, eyes ways man seeth goings darkness shadow death workers iniquity hide
 
+
+*AI Keywords for current event matching:*
+`accept` `accountability` `almighty` `answered` `breath` `charge` `choose` `company` `condemn` `darkness` `death` `delight` `die` `disposed` `divine` `drinketh` `dust` `ear` `earth` `elihu` `elihus` `eyes` `flesh` `give` `god` `gods` `goings` `good` `govern` `hand` `hands` `hate` `hear` `heart` `hide` `human` `incurable` `iniquity` `job` `judgment` `justice` `king` `know` `knowledge` `lie` `man` `meat` `men` `midnight` `mighty` `mouth` `people` `perish` `persons` `pervert` `poor` `princes` `regard` `render` `rich` `right` `righteous` `scorning` `second` `seeth` `shadow` `sovereignty` `speech` `spirit` `taken` `tasteth` `transgression` `trieth` `understanding` `ungodly` `voice` `walketh` `water` `ways` `wicked` `wickedly` `wickedness` `wise` `words` `work` `workers` `world` `wound`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

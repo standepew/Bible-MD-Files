@@ -127,6 +127,11 @@ Behold, king, reign, righteousness, princes, rule, judgment, man, hiding, place,
 
 **Christ's Peace:** work righteousness peace, quietness assurance, peaceable habitation, quiet resting places
 
+
+*AI Keywords for current event matching:*
+`assurance` `christs` `covert` `divine` `field` `fruitful` `great` `habitation` `hiding` `high` `judgment` `king` `peace` `peaceable` `place` `places` `poured` `princes` `protection` `quiet` `quietness` `reign` `resting` `righteous` `righteousness` `rivers` `rock` `rule` `shadow` `spirit` `spiritual` `tempest` `transformation` `water` `wilderness` `wind` `work`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -115,6 +115,11 @@ Come, near, nations, hear, hearken, people, earth, hear, therein, world, things,
 
 **Christ's Justice:** book LORD read, fail want mate, mouth commanded, spirit gathered
 
+
+*AI Keywords for current event matching:*
+`armies` `bathed` `book` `brimstone` `burning` `christs` `commanded` `controversy` `day` `delivered` `destroyed` `destruction` `divine` `dust` `edoms` `fail` `fury` `gathered` `generation` `indignation` `judgment` `justice` `lord` `mate` `mouth` `pitch` `read` `recompences` `slaughter` `smoke` `spirit` `streams` `sword` `utterly` `vengeance` `want` `year` `zion`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -175,6 +175,11 @@ God, cast, people, God, forbid, Israelite, seed, Abraham, tribe, Benjamin, God, 
 
 **All Israel Shall Be Saved:** brethren ignorant, mystery wise, conceits blindness, Israel fulness, Gentiles come, Israel saved, written Sion, Deliverer turn, ungodliness, Jacob covenant, take sins, gospel enemies, sakes election, beloved fathers, gifts calling, God repentance, past believed, God obtained, mercy unbelief, believed mercy, obtain mercy, God concluded, unbelief mercy, depth riches, wisdom knowledge, God unsearchable, judgments ways, finding known, mind Lord, counsellor first, given recompensed, through things, glory forever
 
+
+*AI Keywords for current event matching:*
+`abide` `abraham` `alone` `altars` `among` `answer` `apostle` `away` `baal` `back` `believed` `beloved` `benjamin` `blinded` `blindness` `boast` `bow` `bowed` `branches` `brethren` `broken` `calling` `cast` `casting` `come` `conceits` `concluded` `continue` `counsellor` `covenant` `cut` `darkened` `david` `day` `dead` `deliverer` `depth` `digged` `diminishing` `down` `ears` `election` `elias` `emulation` `enemies` `eyes` `faith` `fall` `fathers` `fatness` `fear` `fell` `finding` `first` `firstfruit` `flesh` `forbid` `foreknew` `forever` `fulness` `gentiles` `gifts` `given` `glory` `god` `good` `goodness` `gospel` `grace` `graffed` `hear` `highminded` `holy` `ignorant` `image` `intercession` `israel` `israelite` `jacob` `jealousy` `judgments` `killed` `knee` `knowledge` `known` `left` `life` `lord` `lump` `magnify` `maketh` `mercy` `mind` `mystery` `natural` `nature` `obtain` `obtained` `off` `office` `olive` `partakest` `past` `people` `present` `prophets` `provoke` `receiving` `recompence` `recompensed` `reconciling` `remnant` `repentance` `reserved` `rest` `riches` `root` `sakes` `salvation` `save` `saved` `scripture` `see` `seed` `seek` `seeketh` `seven` `severity` `sins` `sion` `slumber` `snares` `spare` `spared` `spirit` `stand` `stumbled` `stumblingblock` `table` `take` `things` `thousand` `time` `trap` `tree` `tribe` `turn` `unbelief` `ungodliness` `unsearchable` `ways` `well` `wild` `wisdom` `wise` `works` `world` `written`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

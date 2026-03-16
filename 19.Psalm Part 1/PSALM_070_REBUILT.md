@@ -91,6 +91,11 @@ Chief, Musician, Psalm, David, bring, remembrance, haste, GOD, deliver, haste, h
 
 **God's Help:** help deliverer, poor needy, help and deliverer
 
+
+*AI Keywords for current event matching:*
+`aha` `ashamed` `backward` `bring` `chief` `confounded` `confusion` `david` `deliver` `deliverer` `desire` `divine` `enemys` `god` `gods` `haste` `help` `hurt` `lord` `make` `musician` `needy` `poor` `prayer` `psalm` `put` `remembrance` `reward` `say` `seek` `shame` `soul` `tarrying` `turned` `urgent`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

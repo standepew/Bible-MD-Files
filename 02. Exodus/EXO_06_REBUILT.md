@@ -109,6 +109,11 @@ God answers Moses' lament (Exodus 5:22-23) with the fullest covenant declaration
 - **Covenant faithfulness across generations** → Exodus 6:4-5 — covenant with Abraham remembered
 - **The inadequate messenger** → Exodus 6:12, 30 — "uncircumcised lips"
 
+
+*AI Keywords for current event matching:*
+`66-8` `covenant` `current` `divine` `events` `exodus` `gods` `guarantees` `matching` `pledges` `promises` `seven`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

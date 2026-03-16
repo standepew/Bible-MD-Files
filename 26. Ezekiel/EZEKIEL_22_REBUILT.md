@@ -127,6 +127,11 @@ Word, Lord, son, man, judge, bloody, city, shew, abominations, Lord, GOD, city, 
 
 **Divine Wrath:** smitten hand, scatter heathen, consume filthiness, poured indignation
 
+
+*AI Keywords for current event matching:*
+`abominations` `blood` `bloody` `christs` `city` `consume` `corrupt` `countries` `days` `defiled` `divine` `draw` `fatherless` `filthiness` `guilty` `hand` `heathen` `idols` `indignation` `israel` `judge` `judgment` `leaders` `light` `mocking` `oppression` `poured` `princes` `reproach` `scatter` `set` `sheddeth` `shew` `smitten` `stranger` `vexed` `wrath`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

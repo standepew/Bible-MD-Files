@@ -127,6 +127,11 @@ Chief, Musician, Psalm, David, fool, heart, God, corrupt, abominable, works, goo
 
 **Salvation from Zion:** salvation Israel Zion LORD bring captivity people Jacob rejoice Israel glad, LORD refuge poor, Deliverer Sion
 
+
+*AI Keywords for current event matching:*
+`abominable` `aside` `atheisms` `become` `bread` `bring` `call` `captivity` `chief` `children` `come` `corrupt` `david` `deliverer` `eat` `eyes` `filthy` `folly` `fool` `generation` `glad` `glory` `god` `gods` `gone` `good` `heart` `heaven` `iniquity` `israel` `jacob` `knowledge` `looked` `lord` `men` `musician` `naked` `one` `opened` `people` `poor` `psalm` `refuge` `rejoice` `righteous` `salvation` `seek` `short` `sinfulness` `sinned` `sion` `things` `together` `understand` `universal` `workers` `works` `zion`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

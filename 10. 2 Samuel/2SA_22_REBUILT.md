@@ -91,6 +91,11 @@ David spoke to LORD words of song day LORD delivered from enemies, Saul. Said, L
 
 **Eternal Praise:** LORD liveth blessed rock exalted God rock salvation, God avengeth bring people delivered enemies lifted high rose violent, thanks LORD heathen sing praises name, tower salvation king mercy anointed David seed forever
 
+
+*AI Keywords for current event matching:*
+`above` `afflicted` `afraid` `anointed` `answered` `arise` `arms` `arrows` `avengeth` `battle` `beat` `blast` `blessed` `bow` `bowed` `breath` `brightness` `bring` `broken` `brought` `buckler` `calamity` `call` `channels` `character` `cherub` `cleanness` `close` `clouds` `coals` `consumed` `dark` `darkness` `david` `delighted` `deliverance` `delivered` `deliverer` `departed` `destroy` `destroyed` `devoured` `discomfited` `discovered` `divine` `down` `drew` `dust` `earth` `enablement` `enemies` `enemy` `enlarged` `eternal` `exalted` `eyes` `fade` `fallen` `feet` `fire` `fly` `forever` `fortress` `foundations` `froward` `gentleness` `girded` `god` `great` `guidance` `hands` `hate` `hated` `haughty` `head` `hear` `heathen` `heaven` `heavens` `high` `hinds` `honor` `horn` `iniquity` `judgments` `kept` `kindled` `king` `knew` `lamp` `large` `leaped` `lifted` `lighten` `lightning` `liveth` `looked` `lord` `merciful` `mercy` `military` `mire` `mouth` `moved` `name` `necks` `nostrils` `obedient` `pavilions` `people` `perfect` `personal` `place` `places` `power` `praise` `praised` `praises` `prevented` `protection` `pure` `pursued` `rebuking` `recompensed` `refuge` `rewarded` `righteousness` `rock` `rode` `rose` `royal` `salvation` `save` `saved` `saviour` `scattered` `sea` `seed` `sent` `serve` `shield` `shook` `sight` `sing` `skies` `slip` `small` `smoke` `spread` `stamp` `statutes` `stay` `steel` `steps` `strangers` `street` `strength` `strivings` `strong` `subdued` `submit` `teach` `thanks` `thick` `thundered` `took` `tower` `trembled` `tried` `troop` `trust` `turned` `unsavoury` `upright` `uttered` `victory` `violence` `violent` `voice` `wall` `war` `waters` `way` `ways` `wickedly` `wind` `wings` `word` `world` `wounded` `wroth`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

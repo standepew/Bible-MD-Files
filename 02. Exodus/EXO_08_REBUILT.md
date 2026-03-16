@@ -89,6 +89,11 @@ Three more plagues strike Egypt. Plague 2: Frogs cover all of Egypt; even the ma
 - **Praying for enemies** → Exodus 8:12, 30 — Moses intercedes for Pharaoh
 - **False repentance / temporary humility** → Exodus 8:15, 32 — Pharaoh softens, then hardens when pressure lifts
 
+
+*AI Keywords for current event matching:*
+`activity` `current` `divine` `events` `exodus` `finger` `god` `matching` `recognition` `secularpagan`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

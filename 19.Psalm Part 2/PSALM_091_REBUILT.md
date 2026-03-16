@@ -163,6 +163,11 @@ Dwelleth, secret, place, High, abide, shadow, Almighty, say, LORD, refuge, fortr
 
 **Eternal Salvation:** long life satisfy, shew salvation, deliver, honour
 
+
+*AI Keywords for current event matching:*
+`abide` `adder` `almighty` `angelic` `angels` `answer` `bear` `call` `charge` `dash` `deliver` `divine` `dragon` `dwelleth` `eternal` `faithful` `feet` `foot` `fortress` `fowler` `give` `god` `guardianship` `hands` `high` `honour` `keep` `known` `life` `lion` `long` `lord` `love` `name` `noisome` `pestilence` `place` `protection` `refuge` `salvation` `satisfy` `say` `secret` `set` `shadow` `shew` `snare` `stone` `trample` `tread` `trust` `ways` `young`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

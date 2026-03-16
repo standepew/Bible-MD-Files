@@ -89,6 +89,11 @@ The eighth day after the seven days of consecration. Moses calls Aaron, his sons
 - **Fire as divine acceptance** → Leviticus 9:24 — 1 Kings 18:38; 2 Chronicles 7:1; Acts 2:3
 - **The right response to glory** → Leviticus 9:24 — Isaiah 6:1-5; Revelation 5:13-14
 
+
+*AI Keywords for current event matching:*
+`211-12` `colossians` `creation` `current` `day` `eighth` `events` `john` `leviticus` `matching` `new` `resurrection`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

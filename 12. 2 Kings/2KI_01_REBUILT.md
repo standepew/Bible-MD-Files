@@ -83,6 +83,11 @@ Moab rebelled Israel death Ahab. Ahaziah fell lattice upper chamber Samaria, sic
 
 **Final Judgment:** LORD messengers Baal-zebub god Ekron God Israel word bed die, died word LORD Elijah spoke Jehoram reigned second year Jehoram son Jehoshaphat king Judah son, acts Ahaziah book chronicles kings Israel
 
+
+*AI Keywords for current event matching:*
+`acts` `afraid` `ahab` `ahaziah` `ahaziahs` `angel` `arise` `arose` `baal-zebub` `back` `bed` `besought` `book` `burnt` `captain` `captains` `chamber` `chronicles` `come` `confrontation` `consume` `consumed` `death` `departed` `die` `died` `disease` `divine` `down` `ekron` `elijah` `enquire` `fell` `fifties` `fifty` `final` `fire` `girdle` `god` `hairy` `heaven` `hill` `humility` `israel` `jehoram` `jehoshaphat` `judah` `judgment` `king` `kings` `knees` `lattice` `leather` `life` `loins` `lord` `man` `manner` `meet` `messengers` `moab` `precious` `quickly` `rebelled` `rebellion` `recover` `reigned` `report` `samaria` `second` `servants` `sick` `son` `spoke` `third` `tishbite` `turn` `turned` `upper` `word` `words` `year`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

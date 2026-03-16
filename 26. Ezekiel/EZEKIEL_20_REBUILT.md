@@ -127,6 +127,11 @@ Seventh, year, fifth, month, tenth, day, month, elders, Israel, enquire, Lord, s
 
 **Christ's Restoration:** mighty hand, stretched arm, wilderness people, bond covenant
 
+
+*AI Keywords for current event matching:*
+`abominations` `accomplish` `anger` `arm` `bond` `cast` `chose` `christs` `covenant` `divine` `egypt` `fire` `forsake` `fury` `hand` `hearken` `heathen` `holiness` `idols` `israel` `israels` `judgment` `kindle` `known` `lifted` `mighty` `people` `polluted` `pour` `rebelled` `rebellion` `restoration` `sabbaths` `scatter` `sign` `stretched` `wilderness`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

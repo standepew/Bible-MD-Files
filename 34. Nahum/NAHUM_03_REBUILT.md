@@ -115,6 +115,11 @@ Woe, bloody, city, full, lies, robbery, prey, departeth, noise, whip, noise, rat
 
 **Complete Ruin:** strong holds fig trees, crowned locusts, shepherds slumber, wound grievous
 
+
+*AI Keywords for current event matching:*
+`abominable` `bloody` `cast` `christs` `city` `complete` `crowned` `discover` `divine` `fig` `filth` `flee` `full` `gazing` `grievous` `harlot` `healing` `holds` `humiliation` `judgment` `laid` `lies` `locusts` `make` `nakedness` `ninevehs` `prey` `robbery` `ruin` `shame` `shepherds` `skirts` `slumber` `stock` `strong` `trees` `vile` `waste` `wellfavoured` `wickedness` `wound`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

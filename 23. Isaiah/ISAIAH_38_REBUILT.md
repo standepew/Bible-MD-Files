@@ -115,6 +115,11 @@ Days, Hezekiah, sick, death, Isaiah, prophet, son, Amoz, came, saying, LORD, hou
 
 **Christ's Life:** things men live, life spirit, recover make live, living living praise
 
+
+*AI Keywords for current event matching:*
+`add` `back` `boil` `cast` `children` `christs` `city` `days` `death` `defend` `deliver` `divine` `father` `fifteen` `healing` `heard` `hezekiah` `house` `instruments` `known` `life` `live` `living` `lord` `make` `men` `mercy` `order` `praise` `prayer` `recover` `restoration` `seen` `sick` `sing` `sins` `songs` `spirit` `spiritual` `stringed` `tears` `things` `truth` `years`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

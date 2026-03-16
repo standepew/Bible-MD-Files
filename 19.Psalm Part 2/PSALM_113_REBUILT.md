@@ -139,6 +139,11 @@ Praise, LORD, servants, LORD, praise, name, LORD, Blessed, name, LORD, time, for
 
 **Lifting the Lowly:** raiseth poor dust, lifteth needy dunghill, set princes princes people, maketh barren woman keep house joyful mother children
 
+
+*AI Keywords for current event matching:*
+`barren` `behold` `blessed` `children` `divine` `dunghill` `dust` `dwelleth` `earth` `exaltation` `forevermore` `forth` `glory` `god` `gods` `going` `heaven` `heavens` `high` `house` `humbleth` `humility` `joyful` `keep` `lifteth` `lifting` `like` `lord` `lowly` `maketh` `mother` `name` `nations` `needy` `people` `poor` `praise` `praised` `princes` `raiseth` `rising` `servants` `set` `sun` `things` `time` `universal` `woman`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -151,6 +151,11 @@ LORD, reigneth, earth, rejoice, multitude, isles, glad, clouds, darkness, round,
 
 **Zion's Joy:** Zion heard glad daughters Judah rejoiced judgments LORD, Light sown righteous gladness upright heart, Rejoice LORD righteous give thanks remembrance holiness
 
+
+*AI Keywords for current event matching:*
+`boast` `burnen` `clouds` `condemnation` `confounded` `darkness` `daughters` `divine` `earth` `enemies` `enlightened` `fire` `give` `glad` `gladness` `gods` `goeth` `gold` `graven` `habitation` `hands` `heard` `heart` `hills` `holiness` `idolatry` `idols` `images` `isles` `joy` `judah` `judgment` `judgments` `light` `lightnings` `lord` `melted` `men` `multitude` `presence` `reign` `reigneth` `rejoice` `rejoiced` `remembrance` `righteous` `righteousness` `round` `saw` `serve` `silver` `sown` `thanks` `throne` `trembled` `upright` `wax` `work` `world` `worship` `zion` `zions`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

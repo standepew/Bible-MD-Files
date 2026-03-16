@@ -151,6 +151,11 @@ Declare, gospel, preached, received, stand, saved, keep, memory, preached, belie
 
 **Victory Over Death:** death, sting, grave, victory, sting, death, strength, death, law, thanks, God, victory, Lord, Jesus, Christ, beloved, brethren, stedfast, unmoveable, abounding, work, Lord, labour, vain, Lord
 
+
+*AI Keywords for current event matching:*
+`abounding` `abundantly` `according` `adam` `advantageth` `alive` `apostle` `apostles` `asleep` `authority` `awake` `baptized` `bare` `bear` `beasts` `believed` `beloved` `bestowed` `birds` `blood` `bodies` `body` `born` `borne` `brethren` `brought` `buried` `celestial` `cephas` `changed` `christ` `church` `coming` `communications` `corrupt` `corruptible` `corruption` `daily` `day` `dead` `death` `deceived` `declare` `delivered` `destroyed` `die` `died` `differ` `dishonour` `drink` `due` `earth` `earthy` `eat` `end` `enemies` `enemy` `ephesus` `evil` `excepted` `eye` `faith` `fallen` `false` `father` `feet` `first` `firstfruits` `fishes` `five` `flesh` `fought` `found` `glory` `god` `gospel` `grace` `grain` `grave` `greater` `heaven` `heavenly` `hope` `hour` `hundred` `image` `immortality` `incorruptible` `incorruption` `inherit` `james` `jeopardy` `jesus` `keep` `kingdom` `knowledge` `labour` `laboured` `last` `law` `life` `living` `lord` `man` `manifest` `manner` `manners` `meet` `memory` `men` `miserable` `moment` `moon` `morrow` `mortal` `mystery` `natural` `once` `order` `part` `passing` `perished` `persecute` `pleased` `power` `preach` `preached` `preaching` `present` `protest` `put` `quickened` `quickening` `raised` `received` `reign` `rejoicing` `resurrection` `righteousness` `rise` `risen` `rose` `rule` `saved` `saying` `scriptures` `second` `seed` `seen` `shame` `shew` `sin` `sins` `sleep` `slept` `son` `soul` `sound` `sown` `spirit` `spiritual` `stand` `star` `stars` `stedfast` `sting` `strength` `subdued` `subject` `sun` `swallowed` `terrestrial` `testified` `thanks` `things` `third` `time` `trump` `trumpet` `twelve` `twinkling` `unmoveable` `vain` `victory` `weakness` `wheat` `witnesses` `work` `written`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -151,6 +151,11 @@ David, sat, house, Nathan, prophet, dwell, house, cedars, ark, covenant, LORD, r
 
 **God's Greatness:** Who am I LORD God what house brought hitherto, LORD hosts God Israel revealed servant saying build house, great while coming tent tabernacle going place place, since coming Egypt Israel commanded build tabernacle chosen place, walked Israel tent tabernacle going place place
 
+
+*AI Keywords for current event matching:*
+`according` `appointed` `ark` `away` `blessing` `brought` `build` `building` `built` `calling` `canaan` `cedars` `children` `choose` `chosen` `coming` `commanded` `covenant` `curtains` `david` `davids` `day` `desire` `divine` `dwell` `dwelt` `earth` `egypt` `enemies` `establish` `eternal` `faithfulness` `father` `father-son` `feed` `following` `forever` `given` `god` `gods` `going` `great` `greatness` `heart` `heaven` `heritage` `hitherto` `hosts` `house` `humility` `iniquity` `israel` `judges` `king` `kingdom` `land` `like` `lord` `made` `man` `men` `mercy` `messianic` `name` `nathan` `never` `night` `people` `place` `planted` `promise` `prophet` `protection` `redeemed` `relationship` `remain` `revealed` `ruler` `safety` `said` `sat` `saying` `servant` `shalt` `sheep` `sheepcote` `since` `son` `spake` `subdue` `subdued` `tabernacle` `take` `tell` `temple` `tent` `throne` `told` `took` `tribe` `truth` `vision` `visions` `walked` `waste` `while` `wickedness` `word` `words`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

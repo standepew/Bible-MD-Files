@@ -127,6 +127,11 @@ Paul, apostle, Jesus, Christ, will, God, Timothy, brother, church, God, Corinth,
 
 **The Promises of God:** Son, God, Jesus, Christ, preached, Silvanus, Timotheus, yea, yea, promises, God, yea, Amen, glory, God, stablisheth, Christ, anointed, sealed, earnest, Spirit, hearts, record, soul, spare, Corinth, dominion, faith, helpers, joy, faith, stand
 
+
+*AI Keywords for current event matching:*
+`able` `abound` `abundantly` `acknowledge` `acknowledged` `afflicted` `amen` `anointed` `asia` `benefit` `bestowed` `blessed` `christ` `comfort` `comforted` `comforteth` `confidence` `conscience` `consolation` `conversation` `corinth` `day` `dead` `death` `deliver` `delivered` `despaired` `dominion` `earnest` `effectual` `enduring` `faith` `faithfulness` `father` `flesh` `fleshly` `gift` `glory` `god` `godly` `gods` `grace` `hearts` `helpers` `helping` `hope` `ignorant` `integrity` `jesus` `joy` `judaea` `life` `lightness` `lord` `macedonia` `many` `measure` `mercies` `minded` `nay` `ourselves` `part` `partakers` `pass` `pauls` `persons` `prayer` `preached` `pressed` `promises` `purpose` `raiseth` `read` `record` `rejoicing` `salvation` `sealed` `sentence` `silvanus` `simplicity` `sincerity` `son` `soul` `spare` `spirit` `stablisheth` `stand` `strength` `suffer` `sufferings` `testimony` `thanks` `things` `timotheus` `tribulation` `trouble` `true` `trust` `ward` `wisdom` `word` `world` `write` `yea`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

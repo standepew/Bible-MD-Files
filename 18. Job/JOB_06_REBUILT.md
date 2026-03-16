@@ -127,6 +127,11 @@ Job, answered, grief, weighed, calamity, balances. Heavier, sand, sea, words, sw
 
 **Friends' Failure:** help wisdom driven, afflicted pity friend forsake fear Almighty, brethren deceitfully brook stream brooks pass, blackish ice snow hid
 
+
+*AI Keywords for current event matching:*
+`afflicted` `almighty` `answered` `array` `arrows` `ass` `balances` `blackish` `brass` `bray` `brethren` `brook` `brooks` `calamity` `comfort` `concealed` `cut` `death` `deceitfully` `desire` `destroy` `driven` `eaten` `egg` `end` `failure` `fear` `flesh` `fodder` `forsake` `friend` `friends` `god` `grant` `grass` `grief` `hand` `harden` `heavier` `help` `hid` `holy` `hope` `ice` `job` `jobs` `life` `long` `loweth` `meat` `one` `pass` `pity` `poison` `prolong` `refused` `request` `response` `salt` `sand` `sea` `snow` `sorrow` `sorrowful` `soul` `spare` `spirit` `stones` `stream` `strength` `swallowed` `taste` `terrors` `unsavoury` `weighed` `weight` `white` `wild` `wisdom` `words`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

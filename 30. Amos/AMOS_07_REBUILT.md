@@ -91,6 +91,11 @@ Lord, GOD, shewed, formed, grasshoppers, beginning, shooting, latter, growth, la
 
 **Prophetic Opposition:** conspired against, land bear words, prophesy not, king chapel
 
+
+*AI Keywords for current event matching:*
+`against` `arise` `bear` `beseech` `cease` `chapel` `christs` `conspired` `desolate` `divine` `forgive` `hand` `high` `intercession` `jacob` `judgment` `king` `land` `lord` `mercy` `opposition` `pass` `places` `plumbline` `prophesy` `prophetic` `repented` `sanctuaries` `set` `small` `waste` `words`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

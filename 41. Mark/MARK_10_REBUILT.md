@@ -189,6 +189,11 @@ Arose, coasts, Judæa, farther, Jordan, people, resort, wont, taught, Pharisees,
 
 **Healing of Blind Bartimæus:** Son David, faith whole, receive sight, followed Jesus
 
+
+*AI Keywords for current event matching:*
+`adultery` `baptized` `bartimæus` `bill` `blessing` `blind` `camel` `chiefest` `children` `christs` `committeth` `cup` `david` `divorcement` `faith` `flesh` `followed` `god` `good` `greatness` `hardness` `healing` `heart` `heaven` `hundredfold` `jesus` `kingdom` `little` `many` `marriage` `master` `minister` `needle` `one` `ransom` `receive` `rich` `ruler` `servant` `sight` `son` `teaching` `treasure` `true` `whole` `young`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

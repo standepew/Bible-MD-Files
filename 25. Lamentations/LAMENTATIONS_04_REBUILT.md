@@ -103,6 +103,11 @@ Gold, dim, fine, gold, changed, stones, sanctuary, poured, top, street, precious
 
 **Christ's Vengeance:** persecutors swifter, breath nostrils taken, rejoice Edom, cup pass
 
+
+*AI Keywords for current event matching:*
+`accomplished` `anger` `blacker` `breath` `christs` `cleaveth` `corruption` `cup` `devoured` `dim` `divine` `earthen` `edom` `fierce` `fire` `foundations` `fury` `gold` `greater` `iniquity` `jerusalems` `judgment` `kindled` `nazarites` `nostrils` `pass` `persecutors` `pitchers` `poured` `precious` `punishment` `rejoice` `sanctuary` `skin` `sodom` `sons` `stones` `swifter` `taken` `vengeance`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

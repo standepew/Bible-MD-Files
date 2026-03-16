@@ -93,6 +93,11 @@ All Israel gathers as one man from Dan to Beer-sheba with Gilead, coming to the 
 
 **Survivors and Aftermath:** turned fled wilderness rock Rimmon, gleaned highways five thousand men pursued Gidom slew two thousand men, fell day Benjamin twenty-five thousand men drew sword valour, six hundred men turned fled wilderness rock Rimmon abode rock Rimmon four months, men Israel turned children Benjamin smote edge sword men city beast hand set fire cities
 
+
+*AI Keywords for current event matching:*
+`aaron` `abode` `advice` `aftermath` `amazed` `answered` `appointed` `arise` `ark` `arose` `array` `ascended` `assembly` `baal-tamar` `backs` `battle` `beast` `beer-sheba` `behind` `belial` `benjamin` `benjamins` `benjamites` `beset` `breadth` `brethren` `brother` `burnt` `came` `cease` `chased` `chief` `children` `chosen` `cities` `city` `come` `committed` `concubine` `congregation` `counsel` `country` `covenant` `cut` `dan` `day` `days` `dead` `death` `defeat` `defiance` `deliver` `destroyed` `done` `draw` `drawn` `drew` `ease` `edge` `eighteen` `eleazar` `encamped` `enclosed` `encouraged` `enquired` `evil` `execution` `fasted` `fell` `fetch` `field` `fire` `first` `five` `flame` `fled` `flee` `folly` `footmen` `forced` `forces` `four` `gathered` `gibeah` `gidom` `gilead` `gleaned` `god` `gone` `great` `ground` `hair` `hand` `hasted` `heard` `hearken` `heaven` `highways` `house` `hundred` `husband` `inhabitants` `inheritance` `israel` `israelites` `judah` `kill` `knit` `land` `lefthanded` `levite` `levites` `lewdness` `liers` `lodge` `looked` `lord` `lot` `man` `meadows` `men` `midst` `military` `miss` `mizpeh` `months` `morning` `national` `near` `night` `numbered` `offerings` `one` `overtook` `peace` `people` `persons` `phinehas` `pieces` `pillar` `place` `places` `preparation` `pursued` `resolve` `retired` `rimmon` `rock` `rose` `round` `rushed` `sat` `second` `sent` `set` `seven` `sign` `six` `slain` `slew` `sling` `smite` `smitten` `smoke` `smote` `son` `sore` `stones` `stood` `sunrising` `survivors` `sword` `ten` `tent` `testimony` `third` `thirty` `thousand` `times` `tomorrow` `tribe` `tribes` `trode` `trusted` `turned` `twenty-five` `twenty-six` `twenty-two` `two` `valour` `victual` `voice` `wait` `war` `way` `went` `wept` `wickedness` `wilderness` `woman` `wrought`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

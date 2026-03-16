@@ -139,6 +139,11 @@ Take, heed, alms, men, seen, reward, Father, heaven, alms, trumpet, hypocrites, 
 
 **Divine Provision:** take no thought, fowls air, lilies field, Father knoweth
 
+
+*AI Keywords for current event matching:*
+`air` `alms` `christs` `closet` `come` `devotion` `divine` `fast` `father` `field` `forgive` `fowls` `hallowed` `heart` `heaven` `heavenly` `kingdom` `knoweth` `life` `lilies` `moth` `name` `pray` `prayer` `provision` `reward` `rust` `secret` `steal` `take` `thieves` `thought` `treasure` `treasures` `trespasses`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

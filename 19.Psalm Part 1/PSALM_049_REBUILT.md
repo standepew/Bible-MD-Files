@@ -163,6 +163,11 @@ Chief, Musician, sons, Korah, Hear, people, inhabitants, world, low, high, rich,
 
 **Wisdom and Understanding:** mouth speak wisdom meditation heart understanding, incline ear parable open dark saying harp, way folly posterity approve sayings, upright dominion morning
 
+
+*AI Keywords for current event matching:*
+`abide` `afraid` `approve` `beasts` `boast` `brother` `brutish` `call` `carry` `ceaseth` `chief` `compass` `continue` `corruption` `dark` `days` `death` `descend` `die` `dieth` `dominion` `dwelling` `ear` `evil` `fathers` `fear` `feed` `folly` `fool` `forever` `generation` `generations` `glory` `god` `gods` `grave` `harp` `hear` `heart` `heels` `high` `honour` `house` `houses` `incline` `increased` `inhabitants` `iniquity` `inward` `korah` `laid` `lands` `leave` `light` `live` `low` `made` `man` `meditation` `morning` `mouth` `multitude` `musician` `names` `never` `nothing` `open` `parable` `people` `perish` `places` `poor` `posterity` `power` `precious` `ransom` `receive` `redeem` `redemption` `rich` `riches` `saying` `sayings` `sheep` `sons` `soul` `speak` `thought` `trust` `understandeth` `understanding` `upright` `way` `wealth` `wisdom` `world`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

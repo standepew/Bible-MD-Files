@@ -94,6 +94,11 @@ The Day of Atonement is instituted immediately after the deaths of Nadab and Abi
 - **Afflicting the soul / the posture before God** → Leviticus 16:29-31 — Joel 2:12-13; Luke 18:14
 - **Hebrews 9-10 as the full NT commentary on this chapter** → Leviticus 16 — Hebrews 9:1-28; 10:1-22
 
+
+*AI Keywords for current event matching:*
+`168-10` `21-22` `atonements` `current` `double` `events` `goats` `isaiah` `leviticus` `matching` `psalm` `romans` `two` `work`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

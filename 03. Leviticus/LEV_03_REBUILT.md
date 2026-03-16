@@ -85,6 +85,11 @@ The peace offering (shelem = wholeness, completeness, peace/shalom) may be from 
 - **The Lord's Supper** → Leviticus 3 — 1 Corinthians 10:16; Revelation 19:9
 - **Shalom / wholeness through sacrifice** → Leviticus 3:1 — Isaiah 53:5; Ephesians 2:14
 
+
+*AI Keywords for current event matching:*
+`colossians` `current` `ephesians` `events` `god` `leviticus` `matching` `peace` `reconciliation` `romans`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

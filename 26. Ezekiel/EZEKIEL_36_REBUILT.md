@@ -115,6 +115,11 @@ Son, man, prophesy, mountains, Israel, mountains, Israel, word, Lord, Lord, GOD,
 
 **Christ's Spirit:** put spirit, walk statutes, keep judgments, holy flock
 
+
+*AI Keywords for current event matching:*
+`beginnings` `better` `branches` `builded` `christs` `cities` `clean` `cleanse` `cleansing` `divine` `estates` `filthiness` `flock` `fruit` `heart` `holy` `inhabited` `israels` `judgments` `keep` `men` `multiply` `new` `put` `renewal` `restoration` `settle` `shoot` `sown` `spirit` `statutes` `tilled` `walk` `wastes` `water` `yield`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

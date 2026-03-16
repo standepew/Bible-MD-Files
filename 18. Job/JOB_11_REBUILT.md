@@ -127,6 +127,11 @@ Zophar, Naamathite, answered, multitude, words, justified. Lies, hold, peace, mo
 
 **Promise of Restoration:** prepare heart stretch hands, iniquity hand wickedness tabernacles, lift face spot stedfast fear
 
+
+*AI Keywords for current event matching:*
+`almighty` `answered` `ashamed` `ass` `broader` `clean` `colt` `consider` `cut` `deeper` `divine` `doctrine` `double` `earth` `eyes` `face` `fear` `gather` `god` `hand` `hands` `heart` `heaven` `hell` `high` `hinder` `hold` `human` `iniquity` `justified` `lies` `lift` `limitation` `lips` `longer` `measure` `men` `mockest` `multitude` `naamathite` `open` `peace` `perfection` `prepare` `promise` `pure` `restoration` `sea` `searching` `secrets` `shut` `speak` `speech` `spot` `stedfast` `stretch` `tabernacles` `vain` `wickedness` `wild` `wisdom` `wise` `words` `zophar` `zophars`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

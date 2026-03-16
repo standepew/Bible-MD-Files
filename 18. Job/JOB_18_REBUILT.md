@@ -127,6 +127,11 @@ Bildad, Shuhite, answered, end, words, mark, speak. Beasts, vile, sight. Teareth
 
 **Complete Ruin:** strength hungerbitten destruction side, devour strength skin firstborn death devour strength, confidence rooted tabernacle king terrors
 
+
+*AI Keywords for current event matching:*
+`afraid` `anger` `answered` `beasts` `bildad` `bildads` `candle` `cast` `complete` `confidence` `counsel` `dark` `death` `destruction` `devour` `down` `drive` `earth` `end` `feet` `fire` `firstborn` `forsaken` `gin` `ground` `heel` `hungerbitten` `king` `light` `loss` `mark` `net` `place` `prevail` `put` `robber` `rock` `rooted` `ruin` `second` `shine` `shuhite` `side` `sight` `skin` `snare` `spark` `speak` `speech` `steps` `straitened` `strength` `tabernacle` `teareth` `terrors` `trap` `vile` `walk` `way` `wicked` `wickeds` `words`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

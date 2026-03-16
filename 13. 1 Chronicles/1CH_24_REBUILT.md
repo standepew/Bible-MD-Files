@@ -93,6 +93,11 @@ Divisions, sons, Aaron, sons, Aaron, Nadab, Abihu, Eleazar, Ithamar. Nadab, Abih
 
 **Service Structure:** sons Levi house fathers chief fathers counted number names polls work service house LORD age twenty years upward
 
+
+*AI Keywords for current event matching:*
+`aaron` `abihu` `age` `ahimelech` `amariah` `amram` `brethren` `chief` `children` `come` `commanded` `counted` `dalaiah` `david` `davids` `died` `distributed` `divided` `divisions` `eder` `eight` `eighth` `eleazar` `eleventh` `executed` `families` `father` `fathers` `fifth` `first` `fourth` `gamul` `god` `governors` `hakkoz` `harim` `hebron` `house` `israel` `isshiah` `ithamar` `izharites` `jachin` `jahath` `jahaziel` `jedaiah` `jehdeiah` `jehoiarib` `jekameam` `jeriah` `jerimoth` `jeshibab` `jeshua` `jesiah` `kish` `levi` `levitical` `lord` `lot` `maaziah` `mahli` `malchijah` `manner` `men` `merarites` `michah` `mijamin` `mushi` `nadab` `names` `ninth` `number` `office` `offices` `order` `orderings` `organization` `polls` `priest` `priestly` `rehabiah` `rest` `sanctuary` `second` `seorim` `service` `seventh` `shelomith` `shubael` `sixteen` `sixth` `sons` `sort` `structure` `tenth` `third` `took` `twentieth` `twenty` `upward` `uzzielites` `work` `years` `zadok`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

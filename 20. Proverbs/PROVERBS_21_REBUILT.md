@@ -139,6 +139,11 @@ King, heart, hand, LORD, rivers, water, turneth, whithersoever, way, man, right,
 
 **Wisdom and Understanding:** scorner punished simple wise, wise instructed receive knowledge, wisdom understanding counsel
 
+
+*AI Keywords for current event matching:*
+`acceptable` `against` `counsel` `destroy` `divine` `followeth` `hand` `haughty` `heart` `high` `human` `instructed` `judgment` `justice` `king` `knowledge` `look` `lord` `mercy` `plowing` `pride` `proud` `punished` `receive` `righteousness` `robbery` `scorner` `simple` `sovereignty` `turneth` `understanding` `whithersoever` `wicked` `wisdom` `wise`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

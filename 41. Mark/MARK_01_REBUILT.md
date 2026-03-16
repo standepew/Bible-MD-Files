@@ -199,6 +199,11 @@ Beginning, gospel, Jesus, Christ, Son, God, written, prophets, messenger, face, 
 
 **Early Miracles:** fishers men, authority scribes, Holy One, moved compassion
 
+
+*AI Keywords for current event matching:*
+`authority` `baptism` `baptist` `beginning` `begins` `beloved` `christs` `compassion` `crying` `dove` `driveth` `early` `face` `fishers` `fulfilled` `god` `gospel` `hand` `heavens` `holy` `jesus` `john` `kingdom` `men` `messenger` `ministry` `miracles` `moved` `one` `opened` `paths` `repentance` `scribes` `son` `spirit` `straight` `time` `wilderness`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

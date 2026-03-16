@@ -139,6 +139,11 @@ Rose, Sharon, lily, valleys, lily, thorns, love, daughters, apple, tree, trees, 
 
 **Spring Resurrection:** winter past, flowers appear, singing birds
 
+
+*AI Keywords for current event matching:*
+`among` `appear` `banner` `banqueting` `beauty` `beloved` `birds` `christs` `delight` `divine` `embrace` `flowers` `fruit` `hand` `house` `left` `lily` `love` `past` `protection` `refreshment` `resurrection` `right` `rose` `sat` `shadow` `sharon` `singing` `sons` `spiritual` `spring` `sweet` `taste` `valleys` `winter`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

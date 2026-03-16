@@ -115,6 +115,11 @@ Behold, LORD, hand, shortened, save, ear, heavy, hear, iniquities, separated, Go
 
 **Christ's Redemption:** put on righteousness, sustained righteousness, turn transgression, covenant spirit
 
+
+*AI Keywords for current event matching:*
+`arm` `breastplate` `brought` `christs` `clad` `cloke` `come` `covenant` `divine` `enemy` `flood` `garments` `hand` `head` `helmet` `intercessor` `intervention` `lord` `mouth` `put` `redeemer` `redemption` `righteousness` `salvation` `save` `shortened` `spirit` `spiritual` `standard` `sustained` `transgression` `turn` `vengeance` `warfare` `zeal` `zion`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

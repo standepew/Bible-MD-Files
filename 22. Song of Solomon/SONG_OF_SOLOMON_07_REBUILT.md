@@ -187,6 +187,11 @@ Beautiful, feet, shoes, prince, daughter, joints, thighs, jewels, hands, cunning
 
 **Divine Intimacy:** come field, lodge villages, give loves, pleasant fruits
 
+
+*AI Keywords for current event matching:*
+`beautiful` `beloved` `bud` `christs` `churchs` `clusters` `come` `delight` `desire` `divine` `fair` `feet` `field` `flourish` `fruitfulness` `fruits` `galleries` `give` `goblet` `grape` `grapes` `held` `intimacy` `ivory` `king` `lodge` `love` `loves` `navel` `palm` `perfection` `pleasant` `pomegranates` `spiritual` `stature` `tender` `tower` `villages` `vine`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -167,6 +167,11 @@ Present, season, told, Galilæans, blood, Pilate, mingled, sacrifices, Jesus, an
 
 **Lament over Jerusalem:** fox Herod, day morrow, Jerusalem prophets, hen gather, house left
 
+
+*AI Keywords for current event matching:*
+`above` `abraham` `air` `barren` `blood` `bowed` `cut` `daughter` `day` `dig` `door` `down` `dresser` `dung` `eighteen` `fig` `fowls` `fox` `galilæans` `gate` `gather` `grain` `great` `healing` `hen` `herod` `house` `infirmity` `iniquity` `jerusalem` `knock` `lament` `leaven` `leavened` `left` `likewise` `loosed` `master` `meal` `morrow` `mustard` `narrow` `parable` `parables` `perish` `prophets` `repent` `sabbath` `seed` `shut` `siloam` `sinners` `spirit` `strait` `three` `together` `tower` `tree` `vineyard` `whole` `workers` `years`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

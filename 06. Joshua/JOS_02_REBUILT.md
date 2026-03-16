@@ -101,6 +101,11 @@ Joshua sends two spies from Shittim to secretly scout Jericho. They lodge at Rah
 
 **Mission Completion:** According words, sent away, departed, bound scarlet window, went mountain, abode three days, pursuers returned, pursuers sought way, found not, two men returned, descended mountain, passed over, came Joshua son Nun, told befell, truly LORD delivered hands, land, inhabitants country faint
 
+
+*AI Keywords for current event matching:*
+`abode` `according` `agreement` `alive` `amorites` `answered` `away` `befell` `beneath` `bind` `blood` `bound` `brethren` `bring` `brought` `business` `came` `children` `come` `completion` `cord` `country` `courage` `covenant` `dark` `days` `deal` `death` `deception` `deliver` `delivered` `departed` `descended` `destroyed` `doors` `down` `dried` `dwelt` `earth` `egypt` `entered` `escape` `faint` `faith` `fallen` `father` `flax` `fords` `forth` `found` `gate` `given` `god` `gone` `guiltless` `hand` `hands` `harlot` `head` `heard` `hearts` `heaven` `hid` `hide` `hither` `home` `house` `household` `inhabitants` `israel` `jericho` `jordan` `joshua` `kindly` `kindness` `king` `kings` `laid` `land` `let` `life` `lives` `lodged` `lord` `meet` `melt` `men` `mission` `mother` `mountain` `night` `nun` `oath` `order` `overtake` `passed` `pray` `protection` `pursue` `pursued` `pursuers` `pursuit` `quickly` `quit` `rahab` `rahabs` `red` `remain` `returned` `roof` `royal` `save` `scarlet` `sea` `search` `secretly` `sent` `shew` `shewed` `shittim` `shut` `shutting` `side` `sihon` `sisters` `son` `sought` `spies` `spy` `stalks` `street` `swear` `terms` `terror` `there` `things` `thread` `three` `time` `token` `told` `took` `town` `true` `truly` `two` `utter` `utterly` `view` `wall` `water` `way` `went` `whence` `window` `wist` `woman` `words` `wot` `yours`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -125,6 +125,11 @@ Herod, king, stretched, hands, vex, church, killed, James, brother, John, sword,
 
 **Herod's Death:** day small, stir soldiers, become Peter, Herod sought, found examined, keepers commanded, put death, Judaea Caesarea, abode Herod, displeased Tyre, Sidon accord, Blastus king, chamberlain friend, desired peace, country nourished, king country, set day, Herod arrayed, royal apparel, sat throne, oration people, shout voice, god man, angel Lord, smote gave, God glory, eaten worms, gave ghost, word God, grew multiplied, Barnabas Saul, returned Jerusalem, fulfilled ministry, John surname, Mark
 
+
+*AI Keywords for current event matching:*
+`abode` `accord` `affirmed` `angel` `apparel` `apprehended` `arise` `arrayed` `astonished` `barnabas` `beckoning` `become` `behold` `bind` `blastus` `bound` `bread` `brethren` `bring` `brother` `brought` `caesarea` `ceasing` `chains` `chamberlain` `church` `city` `come` `commanded` `considered` `constantly` `continued` `country` `damsel` `day` `days` `death` `declared` `delivered` `departed` `desired` `displeased` `door` `easter` `eaten` `escape` `examined` `expectation` `fell` `first` `follow` `followed` `forthwith` `found` `four` `friend` `fulfilled` `garment` `gate` `gathered` `gave` `ghost` `gird` `gladness` `glory` `god` `grew` `hand` `hands` `hearken` `herod` `herods` `house` `intending` `iron` `james` `jerusalem` `jews` `john` `judaea` `keep` `keepers` `kept` `killed` `king` `knew` `knocked` `knocking` `know` `leads` `light` `lord` `mad` `man` `mark` `mary` `ministry` `miraculous` `mother` `multiplied` `named` `night` `nourished` `opened` `oration` `passed` `past` `peace` `people` `persecutes` `peter` `peters` `place` `pleased` `prayer` `praying` `prison` `proceeded` `put` `quaternions` `quickly` `raised` `ran` `returned` `rhoda` `royal` `sandals` `sat` `saul` `saw` `second` `sent` `set` `shew` `shined` `shout` `side` `sidon` `sleeping` `small` `smote` `soldiers` `sought` `stir` `stood` `street` `stretched` `surety` `surname` `sword` `take` `thought` `throne` `told` `true` `tyre` `unleavened` `vex` `vision` `voice` `ward` `went` `wist` `word` `worms`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

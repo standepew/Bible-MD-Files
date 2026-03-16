@@ -113,6 +113,11 @@ David, made, houses, city, David, prepared, place, ark, God, pitched, tent. Davi
 
 **Michal's Contempt:** ark covenant LORD came city David Michal daughter Saul looking window king David dancing playing despised heart
 
+
+*AI Keywords for current event matching:*
+`aaron` `abiathar` `alamoth` `amasai` `amminadab` `appoint` `appointed` `appointment` `ark` `arks` `asaiah` `asaph` `assembled` `azaziah` `aziel` `bare` `ben` `benaiah` `berechiah` `blew` `brass` `breach` `brethren` `bring` `brought` `bullocks` `called` `came` `captains` `carry` `celebration` `chenaniah` `chief` `children` `chosen` `city` `clothed` `commanded` `contempt` `cornet` `covenant` `cymbals` `dancing` `daughter` `david` `degree` `despised` `doorkeepers` `due` `elders` `eliab` `eliel` `eliezer` `elipheleh` `elizaphan` `elkanah` `ephod` `ethan` `ever` `excel` `fathers` `fine` `first` `fourscore` `gathered` `gershom` `god` `harps` `heart` `hebron` `helped` `heman` `house` `houses` `hundred` `instructed` `instruments` `israel` `jaaziel` `jehiah` `jehiel` `jehoshaphat` `jeiel` `jerusalem` `joal` `joy` `joyful` `king` `kohath` `kushaiah` `leadership` `levites` `levitical` `lifting` `linen` `looking` `lord` `maaseiah` `made` `master` `mattithiah` `merari` `michal` `michals` `mikneiah` `minister` `moses` `musical` `musick` `nethaneel` `noise` `obed-edom` `offered` `order` `organization` `pitched` `place` `playing` `porters` `preparation` `prepared` `priestly` `priests` `psalteries` `rams` `robe` `said` `sanctified` `sanctify` `saul` `second` `service` `seven` `shebaniah` `shemaiah` `sheminith` `shemiramoth` `shoulders` `shouting` `singers` `skilful` `son` `song` `sons` `sought` `sound` `sounding` `spake` `staves` `temple` `tent` `thirty` `thousands` `transport` `trumpets` `twelve` `twenty` `two` `unni` `uriel` `uzziel` `voice` `window` `word` `worship` `zadok` `zechariah`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

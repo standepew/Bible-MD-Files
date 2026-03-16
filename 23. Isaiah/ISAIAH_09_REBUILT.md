@@ -139,6 +139,11 @@ Dimness, vexation, first, lightly, afflicted, land, Zebulun, land, Naphtali, aft
 
 **Divine Judgment:** cut head tail, leaders err, wickedness burneth, land darkened
 
+
+*AI Keywords for current event matching:*
+`birth` `born` `burneth` `child` `christs` `counsellor` `cut` `darkened` `darkness` `david` `death` `divine` `err` `given` `god` `government` `great` `head` `increase` `judgment` `justice` `kingdom` `land` `leaders` `light` `mighty` `peace` `shadow` `shined` `shoulder` `son` `tail` `throne` `walked` `wickedness` `wonderful`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

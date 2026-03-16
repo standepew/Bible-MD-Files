@@ -69,6 +69,11 @@ God commands Moses to make two silver trumpets from a single piece of metal — 
 - **Invitation of the outsider to share in blessing** → Numbers 10:29-32 — Moses to Hobab: "come thou with us... what goodness the LORD shall do unto us, the same will we do unto thee"
 - **Departure / leaving the familiar / beginning the journey** → Numbers 10:11-12 — the departure from Sinai; the wilderness of Paran ahead
 
+
+*AI Keywords for current event matching:*
+`102-8` `announcements` `communication` `current` `different` `events` `gods` `government` `infrastructure` `matching` `numbers` `signals` `situations` `systems` `trumpet`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

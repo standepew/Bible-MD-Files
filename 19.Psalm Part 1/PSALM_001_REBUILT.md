@@ -115,6 +115,11 @@ Blessed, man, walketh, counsel, ungodly, standeth, way, sinners, sitteth, seat, 
 
 **Divine Judgment:** ungodly judgment congregation righteous, LORD knoweth way righteous ungodly perish, blessed man walketh not counsel ungodly
 
+
+*AI Keywords for current event matching:*
+`away` `blessed` `chaff` `congregation` `counsel` `day` `delight` `divine` `driveth` `fruit` `judgment` `knoweth` `law` `leaf` `lord` `man` `meditate` `night` `perish` `planted` `prosper` `righteous` `rivers` `scornful` `season` `seat` `sinners` `sitteth` `standeth` `tree` `two` `ungodly` `walketh` `water` `way` `ways` `wind` `wither`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

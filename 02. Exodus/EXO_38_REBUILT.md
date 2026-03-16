@@ -67,6 +67,11 @@ The Altar of Burnt Offering: shittim wood, five cubits square, three cubits high
 - **Ongoing cleansing / sanctification** → Exodus 38:8 — the laver; John 13:10; 1 John 1:9
 - **Accounting / stewardship** → Exodus 38:21-31 — full transparency of all materials used; Ithamar's audit
 
+
+*AI Keywords for current event matching:*
+`118-19` `corinthians` `current` `events` `exodus` `foundation` `matching` `money` `peter` `ransom` `redemption` `silver` `sockets`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

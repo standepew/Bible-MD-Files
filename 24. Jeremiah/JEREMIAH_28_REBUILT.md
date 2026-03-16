@@ -103,6 +103,11 @@ Year, beginning, reign, Zedekiah, king, Judah, fourth, year, fifth, month, Hanan
 
 **Christ's Truth:** prophet known truly sent, word prophet come pass, LORD hath not sent, cast earth
 
+
+*AI Keywords for current event matching:*
+`babylon` `beasts` `break` `bring` `broken` `cast` `christs` `come` `earth` `false` `field` `hananiah` `hath` `iron` `king` `known` `lie` `lord` `makest` `nebuchadnezzar` `neck` `pass` `people` `place` `prophecy` `prophet` `rebellion` `sent` `serve` `speaketh` `taught` `truly` `trust` `truth` `two` `vessels` `wood` `word` `years` `yoke` `yokes`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

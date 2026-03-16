@@ -115,6 +115,11 @@ Turned, lifted, eyes, looked, flying, roll, seest, answered, flying, roll, lengt
 
 **Removal of Wickedness:** two women, wings stork, land Shinar, established base
 
+
+*AI Keywords for current event matching:*
+`base` `christs` `consume` `curse` `cut` `earth` `ephah` `established` `flying` `goeth` `house` `judgment` `land` `lead` `off` `removal` `roll` `shinar` `sin` `sitteth` `stealeth` `stones` `stork` `sweareth` `talent` `timber` `two` `weight` `whole` `wickedness` `wings` `woman` `women`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

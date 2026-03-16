@@ -103,6 +103,11 @@ Hear, word, lamentation, house, Israel, virgin, Israel, fallen, rise, forsaken, 
 
 **True Worship:** despise feast days, not accept offerings, judgment waters, righteousness stream
 
+
+*AI Keywords for current event matching:*
+`accept` `bear` `call` `christs` `darkness` `day` `days` `desire` `despise` `fallen` `feast` `flee` `forsaken` `god` `good` `israel` `judgment` `lamentation` `land` `light` `lion` `live` `lord` `maketh` `offerings` `righteousness` `seek` `stream` `streets` `true` `virgin` `wailing` `waters` `worship`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

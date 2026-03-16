@@ -139,6 +139,11 @@ Son, man, take, tile, lay, pourtray, city, Jerusalem, lay, siege, build, fort, c
 
 **Divine Punishment:** eat weight, drink measure, defiled bread, consume away
 
+
+*AI Keywords for current event matching:*
+`away` `barley` `beans` `bear` `bread` `cakes` `christs` `consume` `days` `defiled` `divine` `drink` `dung` `eat` `fitches` `fort` `forty` `hundred` `iniquity` `iron` `jerusalem` `jerusalems` `judgment` `left` `lentiles` `measure` `millet` `ninety` `pan` `prophetic` `punishment` `side` `siege` `staff` `symbolism` `three` `tile` `weight` `wheat`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

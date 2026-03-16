@@ -75,6 +75,11 @@ The cleansing of the healed leper is a two-stage rite spread over eight days. St
 - **Sin infecting the household / purging the dwelling** → Leviticus 14:34 — Joshua 7; 1 Corinthians 5:7
 - **The graduated rite / no one excluded from cleansing by poverty** → Leviticus 14:21-32
 
+
+*AI Keywords for current event matching:*
+`144-7` `atonements` `current` `death` `double` `events` `leviticus` `matching` `release` `romans` `work`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -103,6 +103,11 @@ Captains, forces, Johanan, son, Kareah, Jezaniah, son, Hoshaiah, people, least, 
 
 **Christ's Warning:** die sword famine pestilence, fury poured, execration astonishment, curse reproach
 
+
+*AI Keywords for current event matching:*
+`abide` `accepted` `answer` `astonishment` `bread` `build` `christs` `counsel` `curse` `declare` `die` `direction` `divine` `egypt` `egypts` `evil` `execration` `famine` `fury` `hunger` `land` `lord` `pestilence` `plant` `poured` `pray` `repent` `reproach` `shew` `supplication` `sword` `temptation` `trumpet` `war` `warning` `way` `you`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

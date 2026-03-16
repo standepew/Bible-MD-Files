@@ -115,6 +115,11 @@ Gather, together, gather, together, nation, desired, decree, bring, forth, day, 
 
 **Restoration of Judah:** feed houses, lie evening, turn away captivity, coast remnant
 
+
+*AI Keywords for current event matching:*
+`ashkelon` `away` `call` `captivity` `christs` `coast` `day` `desolation` `evening` `feed` `forsaken` `gather` `gaza` `gods` `hid` `houses` `judah` `judgment` `lie` `lord` `meekness` `moab` `nations` `nineveh` `possess` `protection` `remnant` `repentance` `restoration` `righteousness` `seek` `sodom` `together` `turn` `visit`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

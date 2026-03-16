@@ -139,6 +139,11 @@ Prayer, David, Bow, ear, LORD, hear, poor, needy, Preserve, soul, holy, GOD, sav
 
 **Compassionate God:** GOD compassion gracious longsuffering plenteous mercy truth, turn mercy give strength servant save son handmaid, holpen comforted
 
+
+*AI Keywords for current event matching:*
+`alone` `attend` `bow` `call` `come` `comforted` `compassion` `compassionate` `cry` `daily` `david` `divine` `ear` `forgive` `give` `glorify` `god` `gods` `good` `gracious` `great` `handmaid` `hear` `holpen` `holy` `like` `longsuffering` `lord` `made` `merciful` `mercy` `name` `nations` `needy` `personal` `plenteous` `poor` `prayer` `preserve` `ready` `save` `servant` `son` `soul` `strength` `supplications` `things` `trusteth` `truth` `turn` `uniqueness` `voice` `wondrous` `works` `worship`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

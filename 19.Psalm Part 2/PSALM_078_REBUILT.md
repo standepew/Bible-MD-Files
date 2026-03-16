@@ -127,6 +127,11 @@ Maschil, Asaph, Give, ear, people, law, incline, ears, words, mouth, open, mouth
 
 **David's Leadership:** chose tribe Judah mount Zion loved, chose David servant took sheepfolds, fed accordance integrity heart guided skilfulness hands
 
+
+*AI Keywords for current event matching:*
+`accordance` `anger` `aright` `armed` `asaph` `away` `battle` `bows` `carrying` `children` `chose` `compassion` `covenant` `dark` `david` `davids` `day` `destroyed` `ear` `ears` `ephraim` `fathers` `fed` `flesh` `forgive` `generation` `give` `god` `gods` `guided` `hands` `heard` `heart` `historical` `incline` `iniquity` `instruction` `integrity` `israels` `judah` `kept` `known` `law` `leadership` `loved` `maschil` `mount` `mouth` `oft` `open` `parable` `passeth` `patience` `people` `rebellion` `rebellious` `refused` `remembered` `sayings` `servant` `set` `sheepfolds` `skilfulness` `spirit` `stedfast` `stir` `stubborn` `told` `took` `tribe` `turned` `utter` `walk` `wind` `words` `wrath` `zion`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -127,6 +127,11 @@ Brotherly, love, continue, forgetful, entertain, strangers, entertained, angels,
 
 **Final Benediction:** obey, rule, submit, watch, souls, must, give, account, joy, grief, unprofitable, pray, trust, good, conscience, willing, live, honestly, beseech, rather, restored, sooner, God, peace, brought, dead, Lord, Jesus, great, shepherd, sheep, blood, everlasting, covenant, make, perfect, good, work, will, working, wellpleasing, sight, Jesus, Christ, glory, ever, beseech, brethren, suffer, word, exhortation, written, letter, few, words, brother, Timothy, set, liberty, shortly, see, salute, rule, saints, Italy, salute, grace
 
+
+*AI Keywords for current event matching:*
+`account` `adulterers` `adversity` `altar` `angels` `bearing` `beasts` `bed` `benediction` `beseech` `blood` `bodies` `body` `boldly` `bonds` `bound` `brethren` `brother` `brotherly` `brought` `burned` `camp` `carried` `christ` `christian` `christs` `city` `communicate` `conscience` `considering` `content` `continually` `continue` `continuing` `conversation` `covenant` `covetousness` `day` `dead` `divers` `doctrines` `eat` `end` `entertain` `entertained` `established` `ever` `everlasting` `exhortation` `faith` `fear` `few` `final` `follow` `forget` `forgetful` `forsake` `forth` `fruit` `gate` `give` `giving` `glory` `god` `good` `grace` `great` `grief` `hath` `heart` `helper` `high` `honestly` `honourable` `italy` `jesus` `joy` `judge` `leave` `letter` `liberty` `lips` `live` `living` `lord` `love` `make` `man` `marriage` `meats` `must` `name` `nature` `never` `obey` `occupied` `offer` `one` `peace` `people` `perfect` `pleased` `practical` `praise` `pray` `priest` `rather` `remember` `reproach` `restored` `right` `rule` `sacrifice` `sacrifices` `said` `saints` `salute` `sanctify` `sanctuary` `say` `see` `seek` `serve` `set` `sheep` `shepherd` `shortly` `sight` `sin` `sooner` `souls` `spoken` `strange` `strangers` `submit` `suffer` `suffered` `tabernacle` `thanks` `things` `timothy` `trust` `unawares` `unchangeable` `undefiled` `unprofitable` `watch` `well` `wellpleasing` `whoremongers` `willing` `without` `word` `words` `work` `working` `works` `written` `yesterday`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

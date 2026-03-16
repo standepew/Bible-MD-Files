@@ -100,6 +100,11 @@ While Moses is 40 days on the mountain, the people demand gods from Aaron. Aaron
 - **"Who is on the LORD's side?"** → Exodus 32:26 — the call for covenant loyalty
 - **God relenting / the mechanics of prayer** → Exodus 32:14 — Jeremiah 18:7-8
 
+
+*AI Keywords for current event matching:*
+`apostasy` `church` `corinthians` `current` `events` `exodus` `idol` `matching` `warning` `worship`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

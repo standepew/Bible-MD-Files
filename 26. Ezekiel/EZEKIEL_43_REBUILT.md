@@ -103,6 +103,11 @@ Brought, gate, gate, looketh, east, glory, God, Israel, way, east, voice, noise,
 
 **Christ's Acceptance:** eighth day, burnt offerings, peace offerings, accept Lord
 
+
+*AI Keywords for current event matching:*
+`accept` `acceptance` `burnt` `christs` `day` `divine` `dwell` `earth` `east` `eighth` `feet` `filled` `forever` `form` `glory` `holy` `house` `law` `laws` `lord` `measure` `midst` `name` `offerings` `ordinances` `pattern` `peace` `presence` `shined` `temple` `throne` `voice` `waters`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

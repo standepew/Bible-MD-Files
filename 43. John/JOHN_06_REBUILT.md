@@ -187,6 +187,11 @@ Jesus, sea, Galilee, sea, Tiberias, great, multitude, followed, miracles, diseas
 
 **Many Disciples Depart:** murmured Jews, bread heaven, murmur not, Father draw, taught God, living bread, flesh blood, hard saying, spirit quickeneth
 
+
+*AI Keywords for current event matching:*
+`arose` `barley` `baskets` `believe` `blood` `bread` `capernaum` `come` `depart` `disciples` `discourse` `draw` `drawing` `father` `fathers` `feeding` `fishes` `five` `flesh` `galilee` `given` `god` `great` `hard` `heaven` `hunger` `immediately` `jews` `king` `labour` `land` `life` `living` `loaves` `make` `manna` `many` `meat` `multitude` `murmur` `murmured` `never` `prophet` `quickeneth` `saying` `sea` `sent` `ship` `small` `spirit` `taught` `thanks` `thirst` `thousand` `twelve` `two` `walking` `water` `whither` `wind` `work` `world`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

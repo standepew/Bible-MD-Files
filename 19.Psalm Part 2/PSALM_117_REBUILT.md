@@ -55,6 +55,11 @@ Praise, LORD, nations, praise, people, merciful, kindness, great, truth, LORD, e
 
 **Global Worship:** praise LORD nations praise people
 
+
+*AI Keywords for current event matching:*
+`endureth` `eternal` `global` `gods` `great` `kindness` `lord` `merciful` `mercy` `nations` `people` `praise` `truth` `universal` `worship`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

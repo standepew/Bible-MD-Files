@@ -139,6 +139,11 @@ Iconium, synagogue, Jews, spake, great, multitude, Jews, Greeks, believed, unbel
 
 **Return to Antioch:** passed Pisidia, Pamphylia preached, word Perga, Attalia thence, sailed Antioch, recommended grace, God work, fulfilled gathered, church rehearsed, God opened, door faith, Gentiles abode, disciples
 
+
+*AI Keywords for current event matching:*
+`abode` `affected` `antioch` `apostles` `assault` `attalia` `barnabas` `beholding` `believed` `boldly` `brethren` `brought` `called` `chief` `church` `cities` `city` `clothes` `commended` `confirming` `continue` `cripple` `crying` `day` `dead` `departed` `derbe` `despitefully` `disciples` `divided` `door` `drew` `earth` `elders` `evil` `exhorting` `faith` `fasting` `feet` `filling` `fled` `food` `fruitful` `fulfilled` `garlands` `gates` `gathered` `gave` `gentiles` `gladness` `god` `gods` `good` `gospel` `grace` `granted` `great` `greeks` `hands` `healed` `healing` `heard` `hearts` `heaven` `held` `iconium` `impotent` `jews` `jupiter` `kingdom` `leaped` `left` `lifted` `like` `likeness` `living` `long` `lord` `loud` `lycaonia` `lystra` `made` `man` `men` `mercurius` `minds` `ministry` `mother` `multitude` `nations` `opened` `ordained` `oxen` `pamphylia` `passed` `passions` `paul` `people` `perceiving` `perga` `persuaded` `pisidia` `prayed` `preach` `preached` `priest` `rain` `ran` `recommended` `region` `rehearsed` `rent` `restrained` `return` `returned` `rose` `rulers` `sacrifice` `sailed` `saw` `sayings` `scarce` `sea` `seasons` `signs` `sirs` `souls` `spake` `speak` `speaker` `speaking` `speech` `stand` `stedfastly` `stirred` `stone` `stoned` `stood` `suffered` `supposing` `synagogue` `taught` `testimony` `thence` `therein` `things` `time` `times` `tribulation` `turn` `unbelieving` `upright` `vanities` `voice` `voices` `walk` `walked` `ways` `witness` `womb` `wonders` `word` `work`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

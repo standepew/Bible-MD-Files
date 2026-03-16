@@ -151,6 +151,11 @@ Praise, LORD, good, sing, praises, God, pleasant, praise, comely, LORD, build, J
 
 **Word Power:** sendeth word melteth, word ruinneth swiftly, sheweth word Jacob
 
+
+*AI Keywords for current event matching:*
+`bars` `beast` `bindeth` `broken` `clouds` `covereth` `creation` `divine` `fillest` `finest` `food` `gates` `giveth` `gods` `grass` `grow` `healeth` `healing` `heart` `heaven` `jacob` `lift` `maketh` `meek` `melteth` `number` `power` `providence` `ruinneth` `sendeth` `sheweth` `stars` `strengthen` `swiftly` `telleth` `wheat` `wonder` `word` `wounds`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

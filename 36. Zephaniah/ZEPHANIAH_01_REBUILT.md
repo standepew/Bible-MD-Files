@@ -127,6 +127,11 @@ Word, LORD, Zephaniah, son, Cushi, son, Gedaliah, son, Amariah, son, Hizkiah, da
 
 **Complete Consumption:** silver gold deliver, devoured fire, speedy riddance, dwell land
 
+
+*AI Keywords for current event matching:*
+`alarm` `baal` `beast` `christs` `complete` `consume` `consumption` `cut` `darkness` `day` `deliver` `devoured` `distress` `divine` `dwell` `final` `fire` `gloominess` `gold` `great` `hand` `jealousy` `judgment` `land` `lord` `man` `near` `prepared` `remnant` `riddance` `sacrifice` `silver` `speedy` `stretch` `trouble` `trumpet` `utterly` `wrath`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

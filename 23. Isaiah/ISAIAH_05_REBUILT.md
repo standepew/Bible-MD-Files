@@ -115,6 +115,11 @@ Sing, wellbeloved, song, beloved, touching, vineyard, wellbeloved, vineyard, fru
 
 **Christ's Return:** lift ensign, nations far, come speed swiftly, roaring lion
 
+
+*AI Keywords for current event matching:*
+`bitter` `break` `call` `choicest` `christs` `come` `corruption` `darkness` `divine` `ensign` `evil` `eyes` `far` `fire` `fruitful` `good` `grapes` `hedge` `hill` `judgment` `lay` `lift` `light` `lion` `moral` `nations` `plant` `pleasant` `return` `roaring` `speed` `stubble` `sweet` `swiftly` `take` `vine` `vineyard` `wall` `waste` `wild` `wise`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

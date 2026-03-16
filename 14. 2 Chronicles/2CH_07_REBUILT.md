@@ -165,6 +165,11 @@ Solomon, praying, fire, heaven, consumed, burnt, offering, sacrifices, glory, LO
 
 **National Judgment:** pluck roots land given house sanctified name cast sight proverb byword nations, house high astonishment passeth say LORD land house, answered forsake LORD God fathers brought land Egypt laid hold gods worshipped served brought evil
 
+
+*AI Keywords for current event matching:*
+`altar` `answered` `appeared` `assembly` `astonishment` `attent` `away` `bowed` `brasen` `brought` `burnt` `byword` `called` `cast` `celebration` `children` `chosen` `command` `commanded` `commandments` `completion` `conditions` `congregation` `consumed` `court` `courtyard` `covenant` `covenanted` `david` `davidic` `day` `days` `dedicated` `dedication` `devour` `divine` `ears` `effected` `egypt` `eighth` `endureth` `enter` `entering` `establish` `evil` `eyes` `face` `faces` `fail` `fat` `father` `fathers` `feast` `filled` `finished` `fire` `forever` `forgive` `forsake` `given` `glad` `glory` `god` `gods` `good` `goodness` `great` `ground` `hallowed` `hamath` `heal` `hear` `heard` `heart` `heaven` `high` `hold` `house` `humble` `hundred` `instruments` `israel` `judgment` `judgments` `kept` `king` `kingdom` `laid` `land` `levites` `locusts` `lord` `make` `man` `meat` `mercy` `merry` `middle` `ministry` `month` `musick` `name` `national` `nations` `night` `observe` `offered` `offering` `offerings` `offices` `open` `oxen` `passeth` `pavement` `peace` `people` `perpetually` `pestilence` `place` `pluck` `praise` `praised` `pray` `prayer` `praying` `priests` `prosperously` `proverb` `rain` `receive` `response` `river` `roots` `ruler` `sacrifice` `sacrifices` `sanctified` `say` `seek` `send` `sent` `serve` `served` `set` `seven` `seventh` `sheep` `shewed` `shut` `sight` `sin` `solemn` `solomon` `sounded` `statutes` `stood` `temple` `tents` `thousand` `three` `throne` `trumpets` `turn` `twentieth` `twenty` `two` `waited` `walk` `walked` `warning` `ways` `wicked` `worship` `worshipped`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

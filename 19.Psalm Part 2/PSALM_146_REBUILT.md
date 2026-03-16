@@ -151,6 +151,11 @@ Praise, LORD, Praise, LORD, soul, live, praise, LORD, sing, praises, GOD, being,
 
 **Compassionate Justice:** loosen prisoners, openeth eyes blind, preserveth strangers
 
+
+*AI Keywords for current event matching:*
+`blind` `compassionate` `creation` `divine` `earth` `eternal` `executeth` `eyes` `god` `happy` `heaven` `help` `hope` `jacob` `judgment` `justice` `keepeth` `live` `loosen` `lord` `made` `openeth` `power` `praise` `praises` `preserveth` `prisoners` `sing` `soul` `strangers` `trust` `truth` `while`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

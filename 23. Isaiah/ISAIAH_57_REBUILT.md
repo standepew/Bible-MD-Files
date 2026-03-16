@@ -103,6 +103,11 @@ Righteous, perisheth, man, heart, merciful, men, taken, considering, righteous, 
 
 **Christ's Peace:** enter peace rest beds, peace peace far near, troubled sea, peace wicked
 
+
+*AI Keywords for current event matching:*
+`adulterer` `beds` `children` `christs` `create` `declare` `divine` `enflaming` `enter` `far` `fruit` `heal` `healing` `humble` `idolatry` `idols` `lead` `lips` `men` `merciful` `near` `peace` `perisheth` `rest` `restore` `revive` `righteous` `righteousness` `sea` `seed` `slaying` `sons` `sorceress` `spirit` `spiritual` `taken` `troubled` `uprightness` `walking` `whore` `wicked`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -103,6 +103,11 @@ Word, Lord, son, man, Jerusalem, abominations, Lord, GOD, Jerusalem, birth, nati
 
 **Christ's Covenant:** remember covenant, everlasting covenant, establish covenant, know LORD
 
+
+*AI Keywords for current event matching:*
+`beauty` `became` `christs` `committed` `covenant` `covered` `delivered` `diminished` `divine` `entered` `establish` `everlasting` `food` `fornications` `hand` `harlot` `hate` `jerusalems` `judgment` `know` `lord` `love` `mine` `nakedness` `played` `poured` `remember` `skirt` `spread` `stone` `stretched` `swords` `trusted` `unfaithfulness` `whoredom`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

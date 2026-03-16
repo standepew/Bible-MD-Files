@@ -211,6 +211,11 @@ Verily, stand, taste, death, kingdom, power, six, days, Jesus, Peter, James, Joh
 
 **Warning Against Sin:** offend cut, fire quenched, worm die, peace one
 
+
+*AI Keywords for current event matching:*
+`against` `believe` `beloved` `boy` `children` `christs` `cut` `deaf` `demon-possessed` `die` `dumb` `elias` `fasting` `fire` `forbid` `greatness` `healing` `kingdom` `moses` `offend` `one` `peace` `power` `prayer` `quenched` `receive` `salt` `salted` `servant` `sin` `son` `spirit` `teaching` `transfiguration` `transfigured` `unbelief` `warning` `white` `worm`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

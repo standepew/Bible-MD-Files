@@ -119,6 +119,11 @@ Little, children, write, sin, advocate, Father, Jesus, Christ, righteous, propit
 
 **Antichrists and the Anointing:** last, time, antichrist, antichrists, last, time, went, not, continued, manifest, unction, Holy, know, things, truth, lie, truth, liar, denying, Jesus, Christ, antichrist, denying, Father, Son, denying, Son, Father, acknowledging, Son, Father, abide, heard, beginning, remain, continue, Son, Father, promise, eternal, life, written, seduce, anointing, received, teach, anointing, teacheth, truth, lie, taught, abide, appear, confidence, ashamed, coming, righteous, doeth, righteousness, born
 
+
+*AI Keywords for current event matching:*
+`abide` `abideth` `acknowledging` `advocate` `anointing` `antichrist` `antichrists` `appear` `ashamed` `beginning` `blinded` `born` `brethren` `brother` `children` `christ` `coming` `commandment` `commandments` `confidence` `continue` `continued` `darkness` `denying` `doeth` `eternal` `eyes` `father` `fathers` `flesh` `forgiven` `god` `goeth` `growth` `hate` `hateth` `heard` `holy` `jesus` `keepeth` `keeping` `know` `knoweth` `known` `last` `liar` `lie` `life` `light` `little` `love` `loveth` `lust` `manifest` `men` `name` `new` `old` `one` `overcome` `passeth` `past` `perfected` `pride` `promise` `propitiation` `received` `remain` `righteous` `righteousness` `sake` `seduce` `shineth` `sin` `sins` `son` `spiritual` `stages` `strong` `stumbling` `taught` `teach` `teacheth` `things` `three` `time` `true` `truth` `unction` `walk` `walked` `walketh` `went` `whither` `whole` `wicked` `word` `world` `write` `written` `young`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

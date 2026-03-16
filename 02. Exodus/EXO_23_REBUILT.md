@@ -109,6 +109,11 @@ The civil code concludes. Justice laws: no false witness; do not follow a crowd 
 - **Sabbath year / land rest / economic reset** → Exodus 23:10-11 — Leviticus 25 (Jubilee)
 - **Helping your enemy** → Exodus 23:4-5 — Matthew 5:44; Romans 12:20
 
+
+*AI Keywords for current event matching:*
+`crowd` `current` `events` `exodus` `following` `matching` `matthew` `mentality` `mob` `romans`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

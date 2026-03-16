@@ -83,6 +83,11 @@ Saul spoke to Jonathan his son and all servants that they should kill David. But
 
 **Divine Protection:** Saul messengers David prophets prophesying Samuel appointed Spirit God messengers prophesied, Saul messengers prophesied messengers prophesied, Ramah well Sechu Samuel David Naioth Ramah, Naioth Ramah Spirit God prophesied Naioth Ramah, stripped clothes prophesied Samuel lay naked day night Saul prophets
 
+
+*AI Keywords for current event matching:*
+`against` `appointed` `bed` `blood` `bolster` `called` `cause` `cloth` `clothes` `commune` `covered` `david` `davids` `day` `deceived` `defense` `delighted` `divine` `dwelt` `enemy` `escape` `escaped` `evil` `father` `field` `fled` `fought` `goats` `god` `good` `hair` `hand` `hearkened` `hide` `house` `image` `innocent` `israel` `javelin` `jonathan` `jonathans` `kill` `king` `lay` `life` `liveth` `lord` `messengers` `michal` `michals` `morning` `naioth` `naked` `night` `past` `philistine` `philistines` `pillow` `place` `played` `plot` `presence` `prophesied` `prophesying` `prophets` `protection` `ramah` `rejoice` `salvation` `samuel` `saul` `sauls` `save` `saw` `sechu` `secret` `sent` `servant` `servants` `sick` `sin` `sinned` `slain` `slay` `slew` `slipped` `smite` `spirit` `spoke` `stand` `stripped` `sware` `take` `tell` `things` `times` `victory` `wall` `war` `watch` `well` `wife` `window` `without` `works` `wrought`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -115,6 +115,11 @@ Paul, beseech, meekness, gentleness, Christ, presence, base, absent, bold, confi
 
 **The Righteous Boast:** glorieth, Lord, commendeth, approved, Lord, commendeth
 
+
+*AI Keywords for current event matching:*
+`absent` `abundantly` `again` `appearance` `approved` `ashamed` `authority` `base` `beseech` `beyond` `boast` `boasting` `bodily` `bold` `bringing` `captivity` `carnal` `casting` `christ` `commend` `commendeth` `compare` `comparing` `confidence` `contemptible` `dare` `deed` `destruction` `disobedience` `distributed` `divine` `edification` `enlarged` `exalteth` `faith` `flesh` `fulfilled` `gentleness` `glorieth` `god` `gospel` `hand` `high` `holds` `hope` `imaginations` `increased` `knowledge` `labours` `letters` `line` `look` `lord` `measure` `measuring` `meekness` `men` `mighty` `number` `obedience` `outward` `paul` `pauls` `powerful` `preach` `preaching` `presence` `present` `pulling` `reach` `reached` `readiness` `ready` `regions` `revenge` `righteous` `rule` `speech` `spiritual` `stretch` `strong` `terrify` `thing` `things` `thought` `trust` `walk` `walked` `war` `warfare` `weak` `weapons` `weighty` `wise`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

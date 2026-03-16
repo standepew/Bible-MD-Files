@@ -103,6 +103,11 @@ First, year, Darius, Mede, stood, confirm, strengthen, shew, truth, three, kings
 
 **Holy Covenant:** holy covenant, daily sacrifice, abomination desolate, know God
 
+
+*AI Keywords for current event matching:*
+`abomination` `appointed` `army` `chariots` `christs` `covenant` `daily` `daughter` `desolate` `dominion` `fortress` `glorious` `god` `great` `holy` `king` `kingdom` `kings` `know` `land` `north` `sacrifice` `south` `time` `whirlwind`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

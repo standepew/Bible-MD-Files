@@ -139,6 +139,11 @@ LORD, cry, make, haste, give, ear, voice, cry, prayer, set, forth, incense, lift
 
 **Divine Trust:** eyes unto GOD, trust leave soul destitute, escape wicked nets
 
+
+*AI Keywords for current event matching:*
+`cry` `destitute` `divine` `door` `ear` `escape` `evil` `excellent` `eyes` `forth` `give` `god` `guard` `haste` `heart` `incense` `incline` `judges` `keep` `kindness` `leave` `lips` `lord` `make` `mouth` `nets` `oil` `overthrown` `personal` `prayer` `reproof` `reprove` `righteous` `set` `smite` `soul` `spiritual` `trust` `voice` `watch` `wicked`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

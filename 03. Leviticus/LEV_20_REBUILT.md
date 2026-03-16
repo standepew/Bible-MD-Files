@@ -65,6 +65,11 @@ Leviticus 20 attaches penalties to the prohibitions of Leviticus 18. Molech wors
 - **Occult / witchcraft / familiar spirits** → Leviticus 20:27 — Deuteronomy 18:10-12; 1 Samuel 28; Isaiah 8:19-20
 - **Holiness as separation / being set apart** → Leviticus 20:24-26 — 1 Peter 2:9; Titus 2:14; 2 Corinthians 6:17
 
+
+*AI Keywords for current event matching:*
+`202-5` `abortion` `child` `current` `events` `ezekiel` `jeremiah` `kings` `leviticus` `matching` `molech` `sacrifice` `worship`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS WITH CONTEXTUAL DEFINITIONS

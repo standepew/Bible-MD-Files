@@ -127,6 +127,11 @@ Jesus, sabbath, corn, disciples, hungred, pluck, ears, corn, eat, Pharisees, dis
 
 **Spiritual Family:** mother brethren, will Father, brother sister, spiritual family
 
+
+*AI Keywords for current event matching:*
+`authority` `brethren` `brother` `christs` `come` `divided` `family` `father` `god` `greater` `hand` `heal` `healing` `kingdom` `lawful` `lord` `lordship` `man` `mercy` `mother` `power` `restored` `sabbath` `sacrifice` `sister` `spirit` `spiritual` `stretch` `strong` `temple` `whole` `withered`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

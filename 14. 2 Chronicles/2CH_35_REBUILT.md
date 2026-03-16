@@ -127,6 +127,11 @@ Josiah, passover, LORD, Jerusalem, killed, passover, fourteenth, day, first, mon
 
 **Royal Summary:** acts Josiah goodness written law LORD, deeds first last book kings Israel Judah
 
+
+*AI Keywords for current event matching:*
+`aaron` `acts` `altar` `ambassadors` `archers` `ark` `asaph` `blood` `book` `bread` `brethren` `brought` `build` `bullocks` `burden` `buried` `burnt` `busied` `caldrons` `carchemish` `cattle` `celebration` `charges` `chariot` `chief` `children` `commanded` `commandment` `conaniah` `courses` `david` `day` `days` `death` `deeds` `depart` `destroy` `died` `disguised` `divided` `division` `divisions` `egypt` `eighteenth` `encouraged` `euphrates` `face` `families` `fat` `fathers` `feast` `fight` `fire` `first` `five` `flayed` `flock` `fourteenth` `gate` `gave` `god` `goodness` `hand` `hands` `hashabiah` `haste` `hearkened` `heman` `hilkiah` `holy` `house` `houses` `hundred` `inhabitants` `israel` `jeduthun` `jehiel` `jeiel` `jeremiah` `jerusalem` `josiah` `jozabad` `judah` `kept` `kids` `kill` `killed` `king` `kings` `lambs` `lamentations` `lamented` `last` `law` `levites` `lord` `made` `meddle` `megiddo` `men` `month` `moses` `mourned` `mourning` `mouth` `national` `necho` `nethaneel` `night` `number` `offer` `offerings` `ordinance` `oxen` `pans` `passover` `people` `place` `porters` `pots` `prepare` `prepared` `present` `priests` `princes` `prophet` `reign` `removed` `roasted` `royal` `rulers` `samuel` `sanctify` `second` `seer` `sepulchres` `servants` `serve` `service` `set` `seven` `shemaiah` `shot` `shoulders` `singers` `singing` `six` `small` `solomon` `son` `sons` `sore` `speedily` `spoke` `sprinkled` `stand` `substance` `summary` `taught` `temple` `thirty` `thousand` `three` `tragic` `turn` `two` `unleavened` `valley` `war` `willingly` `women` `word` `words` `wounded` `writing` `written` `year` `zechariah`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -65,6 +65,11 @@ God commands that pure beaten olive oil be brought for the lampstand, which Aaro
 - **Perpetual light / the church as lampstand** → Leviticus 24:2-4 — Revelation 1:20; Matthew 5:14-16
 - **Bread of the Presence / Christ as bread of life** → Leviticus 24:5-9 — John 6:35; 1 Samuel 21:6; Matthew 12:3-4
 
+
+*AI Keywords for current event matching:*
+`2411-16` `accountability` `against` `blasphemed` `blasphemy` `community` `current` `events` `god` `hate` `leviticus` `matching` `name` `response` `speech`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS WITH CONTEXTUAL DEFINITIONS

@@ -127,6 +127,11 @@ Psalm, Asaph, GOD, standeth, congregation, mighty, judgeth, gods, long, judge, u
 
 **Earthly Authority:** congregation mighty, gods, children High, princes
 
+
+*AI Keywords for current event matching:*
+`accept` `afflicted` `arise` `asaph` `authority` `children` `congregation` `course` `darkness` `defend` `die` `divine` `earth` `earthly` `fall` `fatherless` `foundations` `god` `gods` `high` `inherit` `judge` `judges` `judgeth` `judgment` `justice` `know` `long` `men` `mighty` `nations` `needy` `persons` `poor` `princes` `psalm` `standeth` `understand` `unjust` `unjustly` `walk` `wicked`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

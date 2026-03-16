@@ -103,6 +103,11 @@ Stand, fast, liberty, Christ, made, free, entangled, yoke, bondage, Behold, Paul
 
 **Fruit of the Spirit:** works, flesh, manifest, Adultery, fornication, uncleanness, lasciviousness, Idolatry, witchcraft, hatred, variance, emulations, wrath, strife, seditions, heresies, Envyings, murders, drunkenness, revellings, inherit, kingdom, God, fruit, Spirit, love, joy, peace, longsuffering, gentleness, goodness, faith, Meekness, temperance, law, Christ, crucified, flesh, affections, lusts, live, Spirit, walk, Spirit, desirous, vain, glory, provoking, envying
 
+
+*AI Keywords for current event matching:*
+`adultery` `affections` `availeth` `behold` `bite` `bondage` `called` `calleth` `ceased` `christ` `circumcised` `circumcision` `confidence` `consumed` `contrary` `cross` `crucified` `cut` `debtor` `desirous` `devour` `drunkenness` `effect` `emulations` `entangled` `envying` `envyings` `faith` `fallen` `fast` `flesh` `fornication` `free` `fruit` `fulfil` `fulfilled` `gentleness` `glory` `god` `goodness` `grace` `hatred` `heresies` `hope` `idolatry` `inherit` `jesus` `joy` `judgment` `justified` `kingdom` `lasciviousness` `law` `leaven` `leaveneth` `led` `liberty` `live` `longsuffering` `lord` `love` `lump` `lust` `lusteth` `lusts` `made` `manifest` `meekness` `minded` `murders` `neighbour` `obey` `occasion` `off` `offence` `paul` `peace` `persecution` `persuasion` `preach` `profit` `provoking` `revellings` `righteousness` `run` `seditions` `serve` `spirit` `stand` `strife` `temperance` `testify` `trouble` `troubleth` `truth` `uncircumcision` `uncleanness` `use` `vain` `variance` `wait` `walk` `walking` `whole` `witchcraft` `word` `worketh` `working` `works` `wrath` `yoke`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

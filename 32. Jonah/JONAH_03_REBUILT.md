@@ -103,6 +103,11 @@ Word, LORD, Jonah, second, time, Arise, Nineveh, great, city, preach, preaching,
 
 **God's Relenting:** God saw works, turned evil way, God repented evil, did it not
 
+
+*AI Keywords for current event matching:*
+`anger` `arise` `arose` `believed` `bid` `call` `christs` `cry` `divine` `evil` `fast` `fierce` `god` `gods` `greatest` `king` `lord` `mercy` `mightily` `nineveh` `ninevehs` `people` `perish` `preach` `preaching` `proclaimed` `relenting` `repentance` `repented` `sackcloth` `saw` `second` `time` `turn` `turned` `way` `word` `works`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

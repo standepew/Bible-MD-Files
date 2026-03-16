@@ -107,6 +107,11 @@ Moses is born to a Levite couple. His mother hides him three months, then places
 - **Prayer reaching God** → Exodus 2:23 — "their cry came up unto God by reason of the bondage"
 - **Covenant faithfulness** → Exodus 2:24 — God remembered His covenant with Abraham, Isaac, and Jacob
 
+
+*AI Keywords for current event matching:*
+`asylum` `current` `events` `exodus` `fled` `fugitive` `matching` `moses` `pharaoh` `refugees` `safety` `seekers` `seeking`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

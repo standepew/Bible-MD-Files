@@ -163,6 +163,11 @@ Brother, sucked, breasts, mother, find, without, kiss, despised, lead, bring, mo
 
 **Perfect Union:** beloved mine, vineyard mine, make haste beloved
 
+
+*AI Keywords for current event matching:*
+`arm` `beloved` `breasts` `death` `divine` `drown` `eternal` `favour` `floods` `found` `haste` `heart` `love` `make` `mine` `perfect` `quench` `seal` `sealed` `security` `set` `spirit` `spiritual` `strong` `towers` `union` `vineyard` `wall` `waters`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -115,6 +115,11 @@ Hearken, follow, righteousness, seek, LORD, rock, hewn, hole, pit, digged, Look,
 
 **Christ's Deliverance:** awake arm LORD, cut Rahab wounded dragon, dried sea waters, redeemed singing Zion
 
+
+*AI Keywords for current event matching:*
+`abolished` `afflicted` `arm` `arms` `awake` `christs` `comfort` `cut` `deliverance` `desert` `divine` `dragon` `dried` `eat` `eden` `eternal` `forever` `garden` `garment` `generation` `gone` `isles` `judge` `lord` `moth` `near` `people` `places` `rahab` `redeemed` `return` `righteousness` `salvation` `sea` `singing` `wait` `waste` `waters` `wilderness` `wounded` `zion`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

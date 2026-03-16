@@ -103,6 +103,11 @@ Finally, brethren, rejoice, Lord, write, things, grievous, safe, beware, dogs, e
 
 **Pressing Toward the Goal:** brethren, followers, mark, walk, ensample, walk, enemies, cross, Christ, end, destruction, God, belly, glory, shame, earthly, things, conversation, heaven, look, Saviour, Lord, Jesus, Christ, change, vile, body, fashioned, glorious, body, working, able, subdue, things
 
+
+*AI Keywords for current event matching:*
+`able` `apprehend` `apprehended` `attain` `attained` `behind` `belly` `benjamin` `beware` `blameless` `body` `brethren` `calling` `change` `christ` `church` `circumcised` `circumcision` `concision` `confidence` `conformable` `conversation` `count` `counted` `cross` `day` `dead` `death` `destruction` `dogs` `doubtless` `dung` `earthly` `eighth` `end` `enemies` `ensample` `evil` `excellency` `faith` `fashioned` `fellowship` `finally` `flesh` `follow` `followers` `forget` `found` `gain` `glorious` `glory` `goal` `god` `grievous` `heaven` `hebrew` `hebrews` `high` `israel` `jesus` `know` `knowing` `knowledge` `law` `look` `lord` `loss` `mark` `mind` `minded` `otherwise` `perfect` `persecuting` `pharisee` `power` `press` `pressing` `prize` `reaching` `rejoice` `rejoicing` `resurrection` `reveal` `righteousness` `rule` `safe` `saviour` `shame` `spirit` `stock` `subdue` `suffered` `sufferings` `things` `toward` `tribe` `trust` `vile` `walk` `win` `workers` `working` `worship` `write` `zeal`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

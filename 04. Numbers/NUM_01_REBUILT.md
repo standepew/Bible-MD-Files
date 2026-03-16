@@ -64,6 +64,11 @@ One year and one month after the Exodus from Egypt, God commands Moses to number
 - **Separation of roles / not everyone does the same service** → Numbers 1:47-54 — Levites ≠ warriors; distinct callings within one people
 - **God's protection through intermediaries** → Numbers 1:53 — the Levites as the wrath-buffer; intercession as a structural concept
 
+
+*AI Keywords for current event matching:*
+`12-3` `21-3` `caesars` `census` `count` `current` `events` `gods` `luke` `matching` `national` `numbers` `population` `register`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS WITH CONTEXTUAL DEFINITIONS

@@ -103,6 +103,11 @@ Word, LORD, cry, ears, Jerusalem, remember, kindness, youth, love, espousals, we
 
 **Christ's Redemption:** planted noble vine, firstfruits increase, living waters, correction
 
+
+*AI Keywords for current event matching:*
+`apostasy` `astonish` `broken` `changed` `christs` `cisterns` `come` `correction` `devoured` `divine` `espousals` `evil` `faithfulness` `firstfruits` `forsaken` `fountain` `glory` `heavens` `increase` `judgment` `kindness` `land` `lions` `living` `love` `noble` `planted` `profit` `prophets` `redemption` `remember` `roared` `sown` `spiritual` `strange` `sword` `vanity` `vine` `waters` `wilderness` `young` `youth`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

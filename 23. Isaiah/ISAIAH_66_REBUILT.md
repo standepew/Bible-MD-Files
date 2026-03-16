@@ -103,6 +103,11 @@ LORD, heaven, throne, earth, footstool, house, build, rest, habitation, holiness
 
 **Christ's Kingdom:** extend peace river, glory Gentiles stream, new heavens earth, seed name remain
 
+
+*AI Keywords for current event matching:*
+`anger` `build` `chariots` `christs` `contrite` `die` `divine` `earth` `eternal` `extend` `fire` `flesh` `footstool` `fury` `gentiles` `glory` `habitation` `heaven` `heavens` `holiness` `house` `judgment` `kingdom` `levites` `lord` `moon` `name` `new` `peace` `priests` `remain` `render` `river` `sabbath` `seed` `slain` `spirit` `stream` `throne` `whirlwind` `worm` `worship`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

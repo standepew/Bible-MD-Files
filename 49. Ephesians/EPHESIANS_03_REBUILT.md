@@ -91,6 +91,11 @@ Cause, Paul, prisoner, Jesus, Christ, Gentiles, heard, dispensation, grace, God,
 
 **Strengthened in the Inner Man:** bow, knees, Father, Lord, Jesus, Christ, family, heaven, earth, named, grant, riches, glory, strengthened, might, Spirit, inner, man, Christ, dwell, hearts, faith, rooted, grounded, love, comprehend, saints, breadth, length, depth, height, know, love, Christ, passeth, knowledge, filled, fulness, God, able, exceeding, abundantly, ask, think, power, worketh, glory, church, Christ, Jesus, ages, world, end, Amen
 
+
+*AI Keywords for current event matching:*
+`able` `abundantly` `access` `ages` `amen` `apostles` `ask` `beginning` `body` `boldness` `bow` `breadth` `cause` `christ` `church` `comprehend` `confidence` `created` `depth` `desire` `dispensation` `dwell` `earth` `effectual` `end` `eternal` `exceeding` `faint` `faith` `family` `father` `fellowheirs` `fellowship` `filled` `fulness` `gentiles` `gift` `glory` `god` `gospel` `grace` `grant` `grounded` `heard` `hearts` `heaven` `heavenly` `height` `hid` `holy` `inner` `intent` `jesus` `knees` `know` `knowledge` `known` `least` `length` `less` `lord` `love` `man` `manifold` `men` `minister` `ministry` `mystery` `named` `partakers` `passeth` `paul` `pauls` `places` `power` `powers` `preach` `principalities` `prisoner` `promise` `prophets` `purpose` `purposed` `read` `revealed` `revelation` `riches` `rooted` `saints` `sons` `spirit` `strengthened` `things` `think` `tribulations` `understand` `unsearchable` `wisdom` `words` `worketh` `working` `world` `wrote`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

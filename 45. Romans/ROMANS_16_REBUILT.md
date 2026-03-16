@@ -139,6 +139,11 @@ Commend, Phebe, sister, servant, church, Cenchrea, receive, Lord, becometh, sain
 
 **Doxology:** power, stablish, gospel, preaching, Jesus, Christ, revelation, mystery, secret, world, began, manifest, scriptures, prophets, commandment, everlasting, God, known, nations, obedience, faith, God, wise, glory, Jesus, Christ, forever
 
+
+*AI Keywords for current event matching:*
+`abroad` `achaia` `against` `amplias` `andronicus` `apelles` `apostles` `approved` `aquila` `aristobulus` `assist` `asyncritus` `avoid` `becometh` `began` `behalf` `belly` `beloved` `benediction` `beseech` `bestowed` `brethren` `brother` `bruise` `business` `cenchrea` `chamberlain` `chosen` `christ` `church` `churches` `city` `commandment` `commend` `deceive` `division` `divisions` `doctrine` `doxology` `epaenetus` `epistle` `erastus` `everlasting` `evil` `fair` `faith` `feet` `fellowprisoners` `final` `firstfruits` `forever` `gaius` `gentiles` `glad` `glory` `god` `good` `gospel` `grace` `greetings` `hearts` `helper` `helpers` `hermas` `hermes` `herodion` `holy` `host` `house` `household` `jason` `jesus` `julia` `junia` `kinsman` `kinsmen` `kiss` `known` `labour` `laboured` `laid` `learned` `life` `lord` `lucius` `manifest` `many` `mark` `mary` `men` `mine` `mother` `mystery` `narcissus` `nations` `neck` `need` `nereus` `note` `obedience` `offences` `olympas` `patrobas` `peace` `persis` `personal` `phebe` `philologus` `phlegon` `power` `preaching` `priscilla` `prophets` `quartus` `receive` `revelation` `rufus` `saints` `salute` `saluteth` `satan` `scriptures` `secret` `servant` `serve` `shortly` `simple` `sister` `sosipater` `speeches` `stablish` `stachys` `succourer` `tertius` `timotheus` `tryphena` `tryphosa` `urbane` `warning` `wise` `words` `workfellow` `world` `wrote`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

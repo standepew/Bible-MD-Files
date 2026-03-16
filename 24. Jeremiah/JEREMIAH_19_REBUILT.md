@@ -103,6 +103,11 @@ LORD, potter, earthen, bottle, ancients, people, ancients, priests, valley, son,
 
 **Christ's Brokenness:** break potter vessel, cannot made whole, break this people, hardened necks
 
+
+*AI Keywords for current event matching:*
+`blood` `bottle` `break` `brokenness` `bury` `cannot` `christs` `divine` `ears` `earthen` `eat` `enemies` `evil` `fall` `filled` `flesh` `hardened` `hinnom` `innocents` `judgment` `made` `necks` `people` `place` `potter` `sight` `slaughter` `son` `sons` `sword` `tingle` `tophet` `valley` `vessel` `whole`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

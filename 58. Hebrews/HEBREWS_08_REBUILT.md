@@ -91,6 +91,11 @@ Sum, high, priest, set, right, hand, throne, Majesty, heavens, minister, sanctua
 
 **The New Covenant Promises:** covenant, fathers, day, hand, lead, land, Egypt, continued, covenant, regarded, Lord, covenant, house, Israel, days, Lord, put, laws, mind, write, hearts, God, people, teach, man, neighbour, brother, Know, Lord, know, least, greatest, merciful, unrighteousness, sins, iniquities, remember, new, covenant, first, old, decayeth, waxeth, old, ready, vanish
 
+
+*AI Keywords for current event matching:*
+`admonished` `better` `brother` `christs` `continued` `covenant` `day` `days` `decayeth` `earth` `egypt` `established` `example` `excellent` `fathers` `fault` `faultless` `finding` `first` `gifts` `god` `greatest` `hand` `hearts` `heavenly` `heavens` `high` `house` `iniquities` `israel` `judah` `know` `land` `law` `laws` `lead` `least` `lord` `majesty` `make` `man` `mediator` `merciful` `mind` `minister` `ministry` `moses` `mount` `necessity` `neighbour` `new` `offer` `old` `ordained` `pattern` `people` `pitched` `place` `priest` `priests` `promises` `put` `ready` `regarded` `remember` `right` `sacrifices` `sanctuary` `second` `serve` `set` `shadow` `shewed` `sins` `sought` `sum` `tabernacle` `teach` `things` `throne` `true` `unrighteousness` `vanish` `waxeth` `write`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

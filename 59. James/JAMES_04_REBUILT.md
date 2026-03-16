@@ -105,6 +105,11 @@ Wars, fightings, lusts, war, members, lust, kill, desire, obtain, fight, war, as
 
 **Humility Before God:** city, continue, year, buy, sell, gain, morrow, life, vapour, appeareth, little, time, vanish, ought, say, Lord, live, boastings, rejoicing, evil, knoweth, do, good, doeth, sin
 
+
+*AI Keywords for current event matching:*
+`adulterers` `adulteresses` `afflicted` `amiss` `appeareth` `ask` `boastings` `brethren` `brother` `buy` `city` `cleanse` `conflicts` `consume` `continue` `desire` `destroy` `devil` `doer` `doeth` `double` `draw` `dwelleth` `enemy` `enmity` `envy` `evil` `fight` `fightings` `flee` `friend` `friendship` `gain` `giveth` `god` `good` `grace` `hands` `hearts` `heaviness` `humble` `humility` `joy` `judge` `judgeth` `judging` `kill` `knoweth` `laughter` `law` `lawgiver` `life` `lift` `little` `live` `lord` `lust` `lusteth` `lusts` `members` `minded` `morrow` `mourn` `mourning` `nigh` `obtain` `others` `ought` `proud` `purify` `receive` `rejoicing` `resist` `resisteth` `save` `say` `scripture` `sell` `sight` `sin` `sinners` `source` `speak` `speaketh` `spirit` `submit` `submitting` `time` `turned` `vanish` `vapour` `war` `wars` `weep` `world` `year`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

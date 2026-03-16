@@ -91,6 +91,11 @@ Touching, ministering, saints, superfluous, write, forwardness, mind, boast, Mac
 
 **God's Abundant Grace:** administration, service, supplieth, want, saints, abundant, thanksgivings, God, experiment, ministration, glorify, God, professed, subjection, gospel, Christ, liberal, distribution, men, prayer, exceeding, grace, God, thanks, God, unspeakable, gift
 
+
+*AI Keywords for current event matching:*
+`able` `abound` `abundant` `achaia` `administration` `ashamed` `behalf` `boast` `boasting` `bountifully` `bountifulness` `bounty` `bread` `brethren` `causeth` `cheerful` `christ` `confident` `covetousness` `dispersed` `distribution` `enriched` `exceeding` `exhort` `experiment` `find` `food` `forever` `forwardness` `fruits` `gift` `give` `given` `giver` `giving` `glorify` `god` `gods` `good` `gospel` `grace` `grudgingly` `heart` `increase` `liberal` `loveth` `macedonia` `matter` `men` `mind` `minister` `ministereth` `ministering` `ministration` `multiply` `necessary` `necessity` `notice` `poor` `prayer` `principles` `professed` `provoked` `purposeth` `ready` `reap` `reaping` `remaineth` `righteousness` `saints` `seed` `sent` `service` `sower` `soweth` `sowing` `sown` `sparingly` `subjection` `sufficiency` `superfluous` `supplieth` `thanks` `thanksgiving` `thanksgivings` `thing` `things` `touching` `unprepared` `unspeakable` `vain` `want` `work` `write` `written` `year` `zeal`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

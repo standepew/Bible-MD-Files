@@ -83,6 +83,11 @@ David smote Philistines, subdued them; took Metheg-ammah from Philistines. Smote
 
 **David's Administration:** David reigned Israel David executed judgment justice people, Joab son Zeruiah host Jehoshaphat son Ahilud recorder, Zadok son Ahitub Ahimelech son Abiathar priests Seraiah scribe, Benaiah son Jehoiada Cherethites Pelethites David sons chief rulers
 
+
+*AI Keywords for current event matching:*
+`abiathar` `administration` `ahilud` `ahimelech` `ahitub` `alive` `amalek` `ammon` `benaiah` `berothai` `betah` `bless` `border` `brass` `brought` `campaign` `casting` `chariot` `chariots` `cherethites` `chief` `children` `cities` `conquest` `damascus` `david` `davids` `death` `dedicate` `dedicated` `edom` `edomite` `eighteen` `euphrates` `exceeding` `executed` `footmen` `fought` `full` `garrisons` `gifts` `gold` `ground` `hadadezer` `hadadzer` `hamath` `hand` `heard` `horsemen` `horses` `host` `houghed` `hundred` `israel` `jehoiada` `jehoshaphat` `jerusalem` `joab` `joram` `judgment` `justice` `keep` `king` `line` `lines` `lord` `measured` `men` `metheg-ammah` `moab` `moabite` `moabites` `name` `nations` `one` `pelethites` `people` `philistine` `philistines` `preserved` `priests` `recorder` `recover` `rehob` `reigned` `reserved` `returned` `river` `rulers` `salt` `salute` `scribe` `seraiah` `servants` `seven` `shields` `silver` `slew` `smite` `smitten` `smote` `son` `sons` `spoil` `spoils` `subdued` `subjugation` `succour` `syria` `syrian` `syrians` `thousand` `toi` `tribute` `twenty` `two` `valley` `vessels` `victory` `wars` `whithersoever` `zadok` `zeruiah` `zobah`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

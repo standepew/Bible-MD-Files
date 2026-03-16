@@ -85,6 +85,11 @@ A long time after God gave Israel rest from enemies, Joshua, now old and stricke
 
 **Covenant Consequences:** Transgressed covenant LORD God commanded, served gods bowed gods, anger LORD kindled, perish quickly good land given
 
+
+*AI Keywords for current event matching:*
+`against` `age` `anger` `aside` `back` `book` `bow` `bowed` `called` `chase` `cleave` `come` `commanded` `consequences` `courageous` `covenant` `cut` `day` `destroyed` `divided` `divine` `drive` `driven` `earth` `elders` `enemies` `evil` `expel` `eyes` `failed` `faithfulness` `farewell` `fight` `fought` `given` `god` `gods` `going` `good` `great` `heads` `hearts` `heed` `idolatry` `inheritance` `israel` `jordan` `joshua` `joshuas` `judges` `keep` `kindled` `land` `law` `left` `long` `lord` `lot` `love` `man` `marriages` `mention` `moses` `name` `nations` `officers` `old` `pass` `perish` `possess` `promised` `quickly` `remain` `remnant` `rest` `right` `scourges` `sea` `seen` `serve` `served` `sides` `sight` `snares` `souls` `spoke` `stand` `stricken` `strong` `swear` `thing` `things` `thorns` `thousand` `time` `transgressed` `traps` `tribes` `turn` `victory` `warning` `waxed` `way` `westward`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

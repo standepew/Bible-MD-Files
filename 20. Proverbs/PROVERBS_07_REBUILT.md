@@ -115,6 +115,11 @@ Son, keep, words, lay, commandments, keep, commandments, live, law, apple, eye, 
 
 **Wisdom's Protection:** keep words commandments, wisdom sister understanding, heart decline ways
 
+
+*AI Keywords for current event matching:*
+`adultery` `against` `attire` `commandments` `consequences` `dart` `deception` `decline` `fair` `fatal` `flattereth` `flattering` `forced` `harlot` `heart` `hell` `house` `keep` `lips` `liver` `protection` `seductive` `sister` `slaughter` `speech` `strange` `strike` `subtil` `understanding` `warning` `way` `ways` `wisdom` `wisdoms` `woman` `words`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

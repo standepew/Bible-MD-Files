@@ -115,6 +115,11 @@ Breath, corrupt, days, extinct, graves, ready. Mockers, provocation. Surety, str
 
 **Hope in Death:** wait grave house bed darkness, corruption father worm mother sister, hope bars pit rest dust
 
+
+*AI Keywords for current event matching:*
+`astonished` `bars` `bed` `breath` `broken` `byword` `change` `children` `clean` `corrupt` `corruption` `darkness` `day` `days` `death` `despair` `dim` `dust` `exalt` `extinct` `eye` `fail` `failure` `father` `flattery` `friends` `grave` `graves` `hands` `heart` `hid` `hold` `hope` `house` `hypocrite` `innocent` `jobs` `light` `loss` `man` `members` `mockers` `mother` `night` `past` `people` `pit` `provocation` `purposes` `ready` `rest` `return` `righteous` `shadow` `short` `sister` `sorrow` `stir` `strike` `stronger` `surety` `tabret` `thoughts` `understanding` `upright` `wait` `way` `wise` `worm`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

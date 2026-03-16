@@ -139,6 +139,11 @@ Praise, LORD, praise, name, LORD, praise, servants, LORD, stand, house, LORD, co
 
 **Judgment of Idols:** idols heathen silver gold, work hands, mouths speak not, make them like
 
+
+*AI Keywords for current event matching:*
+`above` `ascend` `bringeth` `causeth` `chosen` `creations` `divine` `earth` `gods` `gold` `great` `hands` `heathen` `heaven` `idols` `jacob` `judgment` `lightnings` `like` `lord` `make` `maketh` `mouths` `name` `pleasant` `pleased` `power` `praise` `praises` `rain` `silver` `sing` `sovereignty` `speak` `treasuries` `vapours` `wind` `work`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

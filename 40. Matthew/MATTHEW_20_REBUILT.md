@@ -151,6 +151,11 @@ Kingdom, heaven, householder, early, morning, hire, labourers, vineyard, agreed,
 
 **Servant Leadership:** minister servant, cup baptism, ransom many, compassion touched
 
+
+*AI Keywords for current event matching:*
+`baptism` `betrayed` `called` `chosen` `christs` `compassion` `cup` `death` `eleventh` `evil` `eye` `few` `first` `friend` `generosity` `hour` `householder` `jerusalem` `kingdom` `laborers` `last` `leadership` `many` `mine` `minister` `mock` `parable` `penny` `prediction` `priests` `ransom` `rise` `scourge` `servant` `suffering` `third` `touched` `vineyard` `wage` `wrong`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -139,6 +139,11 @@ Reproved, hardeneth, neck, suddenly, destroyed, remedy, righteous, authority, pe
 
 **Divine Sovereignty:** put trust LORD safe, man judgment LORD, no vision people perish
 
+
+*AI Keywords for current event matching:*
+`authority` `away` `bring` `city` `divine` `establish` `faithfully` `father` `fear` `folly` `humble` `humility` `judgeth` `judgment` `justice` `king` `land` `lord` `loveth` `low` `man` `men` `people` `perish` `poor` `pride` `put` `rejoice` `rejoiceth` `righteous` `safe` `scornful` `snare` `sovereignty` `spirit` `trust` `turn` `uphold` `vision` `wisdom` `wise` `wrath`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

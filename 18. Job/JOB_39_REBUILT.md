@@ -139,6 +139,11 @@ Wild, goats, rock, bring, hinds, calve, number, months, fulfil, bow, themselves,
 
 **Human Ignorance:** peacocks wings feathers ostrich leaveth eggs earth warmeth dust forget foot crush wild beast break hardened young ones labour vain fear
 
+
+*AI Keywords for current event matching:*
+`abide` `animal` `ass` `band` `bands` `barn` `barren` `beast` `believe` `bind` `bow` `break` `bring` `calve` `cast` `city` `corn` `crib` `crush` `crying` `divine` `driver` `dust` `dwellings` `earth` `eggs` `fear` `feathers` `foot` `forget` `free` `fulfil` `furrow` `gather` `goats` `gods` `good` `great` `green` `grow` `hardened` `harrow` `hinds` `human` `ignorance` `kingdom` `labour` `land` `leaveth` `liking` `loosed` `months` `mountains` `multitude` `number` `ones` `ostrich` `pasture` `peacocks` `providence` `range` `regardeth` `return` `rock` `scorneth` `searcheth` `second` `seed` `serve` `sorrows` `speech` `strength` `themselves` `trust` `unicorn` `vain` `valleys` `warmeth` `wild` `wilderness` `willing` `wings` `young`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -91,6 +91,11 @@ Paul, Silvanus, Timotheus, church, Thessalonians, God, Father, Lord, Jesus, Chri
 
 **Glorification of Saints:** come, glorified, saints, admired, believe, testimony, believed, day, pray, always, God, count, worthy, calling, fulfil, good, pleasure, goodness, work, faith, power, name, Lord, Jesus, Christ, glorified, grace, God, Lord, Jesus, Christ
 
+
+*AI Keywords for current event matching:*
+`aboundeth` `admired` `always` `angels` `believe` `believed` `bound` `brethren` `calling` `charity` `christ` `christs` `church` `churches` `come` `count` `counted` `day` `destruction` `endure` `everlasting` `exceedingly` `faith` `father` `fire` `flaming` `fulfil` `glorification` `glorified` `glory` `god` `gods` `good` `goodness` `gospel` `grace` `groweth` `growing` `heaven` `jesus` `judgment` `kingdom` `know` `lord` `manifest` `meet` `mighty` `name` `obey` `patience` `paul` `peace` `persecution` `persecutions` `pleasure` `power` `pray` `presence` `punished` `recompense` `rest` `revealed` `revelation` `righteous` `saints` `silvanus` `suffer` `testimony` `thank` `thanksgiving` `thessalonians` `timotheus` `token` `toward` `tribulation` `tribulations` `trouble` `troubled` `vengeance` `work` `worthy`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -115,6 +115,11 @@ Head, waters, eyes, fountain, tears, weep, day, night, slain, daughter, people, 
 
 **Christ's Knowledge:** understand know me, exercise lovingkindness, judgment righteousness, circumcision heart
 
+
+*AI Keywords for current event matching:*
+`assembly` `bend` `bow` `christs` `circumcision` `daughter` `day` `deceit` `deception` `divine` `exercise` `fountain` `glory` `head` `heart` `judgment` `know` `knowledge` `lament` `lies` `lovingkindness` `night` `people` `riches` `righteousness` `slain` `speaketh` `spiritual` `taught` `tears` `tongue` `tongues` `treacherous` `understand` `waters` `weep` `wisdom`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

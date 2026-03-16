@@ -139,6 +139,11 @@ Chief, Musician, Al, taschith, Michtam, David, Saul, sent, watched, house, kill,
 
 **Divine Power:** LORD GOD hosts Israel awake visit heathen, consume wrath consume, sing power sing aloud mercy morning, strength wait GOD
 
+
+*AI Keywords for current event matching:*
+`against` `aloud` `awake` `belch` `bloody` `chief` `city` `consume` `cursing` `david` `defence` `defend` `defense` `deliver` `deliverance` `derision` `divine` `dog` `enemies` `evening` `gathered` `god` `gods` `hear` `heathen` `hosts` `house` `iniquity` `israel` `kill` `laugh` `lie` `lips` `lord` `lying` `make` `men` `mercy` `michtam` `mighty` `morning` `mouth` `musician` `noise` `power` `pride` `refuge` `return` `rise` `round` `saul` `save` `sent` `shield` `sin` `sing` `soul` `speak` `strength` `swords` `taken` `taschith` `transgression` `visit` `wait` `watched` `wickeds` `workers` `wrath`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

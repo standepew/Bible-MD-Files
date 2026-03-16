@@ -83,6 +83,11 @@ In days without a king, a Levite sojourning in mount Ephraim takes a concubine f
 
 **Horrible Aftermath:** house knife laid hold concubine divided bones twelve pieces sent coasts Israel, deed seen day children Israel Egypt consider advice speak minds
 
+
+*AI Keywords for current event matching:*
+`abode` `abused` `advice` `aftermath` `afternoon` `answered` `arose` `aside` `ass` `asses` `ate` `away` `beat` `belial` `benjamin` `benjamites` `beset` `bethlehem` `bethlehem-judah` `bones` `bread` `brethren` `bring` `brought` `children` `city` `coasts` `come` `comest` `comfort` `concubine` `concubines` `consider` `content` `couple` `crime` `damsel` `daughter` `dawning` `day` `days` `deed` `delayed` `depart` `divided` `door` `doors` `down` `draw` `drink` `early` `eat` `egypt` `end` `ephraim` `eveninging` `eyes` `fallen` `father` `father-in-law` `feet` `fell` `field` `fifth` `folly` `four` `fourth` `friendly` `gibeah` `goest` `going` `good` `handmaid` `hands` `hearken` `heart` `hearts` `hold` `home` `horrible` `hospitality` `house` `humble` `husband` `israel` `jebus` `jebusites` `jerusalem` `journey` `king` `knew` `knife` `know` `laid` `let` `levite` `lifted` `light` `lodge` `lodged` `lodging` `lord` `maiden` `man` `master` `meet` `men` `merry` `minds` `months` `morning` `morrow` `morsel` `mount` `nay` `night` `none` `old` `opened` `pass` `passed` `passing` `peace` `pieces` `place` `places` `played` `provender` `ramah` `receiveth` `rejoiced` `retained` `rose` `saddled` `sat` `seen` `sent` `servant` `servants` `sojourned` `sojourning` `sons` `speak` `spent` `spoke` `stay` `stranger` `straw` `street` `sun` `tarried` `tarry` `thence` `thing` `three` `threshold` `turn` `turned` `twelve` `unfaithfulness` `urged` `want` `wants` `washed` `way` `wayfaring` `whence` `whither` `whore` `wickedly` `wine` `woman` `work` `young`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

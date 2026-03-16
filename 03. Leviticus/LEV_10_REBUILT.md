@@ -94,6 +94,11 @@ Immediately after the glory falls and the people shout and prostrate themselves,
 - **Leadership sobriety / clear discernment required** → Leviticus 10:9-11 — 1 Timothy 3:2-3; Ephesians 5:18
 - **Spirit over the letter / Moses content with Aaron's reasoning** → Leviticus 10:19-20 — Hosea 6:6; Matthew 12:3-4
 
+
+*AI Keywords for current event matching:*
+`722-23` `command` `current` `deuteronomy` `events` `god` `leviticus` `matching` `matthew` `unauthorized` `worship`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

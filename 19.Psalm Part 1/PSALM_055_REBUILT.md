@@ -103,6 +103,11 @@ Chief, Musician, Neginoth, Maschil, Psalm, David, Give, ear, prayer, GOD, hide, 
 
 **Trust in God:** Cast burden LORD sustain righteous moved, trust, GOD bring pit destruction bloody deceitful men live half days trust
 
+
+*AI Keywords for current event matching:*
+`abideth` `acquaintance` `afflict` `against` `aloud` `attend` `battle` `betrayal` `bloody` `borne` `bring` `burden` `butter` `call` `cast` `chief` `company` `complaint` `counsel` `cry` `david` `days` `death` `deceitful` `deliverance` `delivered` `destruction` `distress` `divine` `drawn` `ear` `enemy` `equal` `evening` `fallen` `fearfulness` `friends` `give` `god` `guide` `half` `hated` `hear` `heart` `hid` `hide` `horror` `house` `live` `lord` `magnify` `man` `maschil` `men` `mine` `morning` `mourn` `mouth` `moved` `musician` `neginoth` `noise` `noon` `oil` `old` `overwhelmed` `pained` `peace` `pit` `pray` `prayer` `psalm` `reproached` `righteous` `save` `smoother` `softer` `sore` `soul` `supplication` `sustain` `sweet` `swords` `terrors` `took` `trembling` `trust` `voice` `walked` `war` `words`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -115,6 +115,11 @@ Job, answered, hear, diligently, speech, consolations. Suffer, speak, mock, comp
 
 **False Comfort:** good hand counsel wicked, candle wicked destruction sorrows anger, stubble wind chaff storm, iniquity children reward know
 
+
+*AI Keywords for current event matching:*
+`afraid` `almighty` `anger` `answered` `astonished` `bull` `calf` `calveth` `candle` `chaff` `children` `comfort` `complaint` `consolations` `counsel` `cow` `dance` `days` `deaths` `depart` `destruction` `diligently` `equality` `established` `faileth` `false` `fear` `flesh` `flock` `gendereth` `god` `good` `grave` `hand` `harp` `hear` `houses` `iniquity` `job` `jobs` `know` `knowledge` `little` `live` `man` `mighty` `mock` `moment` `mouth` `offspring` `ones` `organ` `power` `pray` `profit` `prosperity` `rejoice` `remember` `response` `reward` `rod` `safe` `seed` `serve` `sorrows` `speak` `speech` `spend` `spirit` `storm` `stubble` `suffer` `timbrel` `trembling` `troubled` `ways` `wealth` `wicked` `wickeds` `wind`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

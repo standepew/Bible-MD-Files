@@ -139,6 +139,11 @@ Paul, called, apostle, Jesus, Christ, will, God, Sosthenes, brother, church, God
 
 **The Wisdom of the Cross:** preaching, cross, perish, foolishness, saved, power, God, written, destroy, wisdom, wise, nothing, understanding, prudent, wise, scribe, disputer, world, God, foolish, wisdom, world, wisdom, knew, God, pleased, God, foolishness, preaching, save, believe, Jews, require, sign, Greeks, seek, wisdom, preach, Christ, crucified, Jews, stumblingblock, Greeks, foolishness, called, Jews, Greeks, Christ, power, God, wisdom, God, foolishness, God, wiser, men, weakness, God, stronger, men, calling, wise, men, flesh, mighty, noble, called, God, chosen, foolish, things, world, confound, wise, God, chosen, weak, things, world, confound, mighty, base, things, world, despised, God, chosen, things, nought, flesh, glory, Christ, Jesus, God, wisdom, righteousness, sanctification, redemption, written, glory, Lord
 
+
+*AI Keywords for current event matching:*
+`apollos` `apostle` `baptize` `baptized` `base` `believe` `beseech` `blameless` `brethren` `brother` `call` `called` `calling` `cephas` `chloe` `chosen` `christ` `church` `coming` `confirm` `confirmed` `confound` `contentions` `corinth` `crispus` `cross` `crucified` `day` `declared` `despised` `destroy` `disputer` `divided` `divisions` `effect` `enriched` `faithful` `father` `fellowship` `flesh` `foolish` `foolishness` `gaius` `gift` `glory` `god` `gospel` `grace` `greeks` `greeting` `house` `household` `jesus` `jews` `joined` `judgment` `knew` `knowledge` `lord` `men` `mighty` `mind` `mine` `name` `noble` `nothing` `nought` `paul` `pauls` `peace` `perfectly` `perish` `place` `pleased` `power` `preach` `preaching` `prudent` `redemption` `require` `righteousness` `saints` `saith` `sanctification` `sanctified` `save` `saved` `scribe` `seek` `sent` `sign` `son` `sosthenes` `speak` `stephanas` `stronger` `stumblingblock` `testimony` `thank` `thanksgiving` `thing` `things` `understanding` `unity` `utterance` `waiting` `weak` `weakness` `wisdom` `wise` `wiser` `words` `world` `written`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

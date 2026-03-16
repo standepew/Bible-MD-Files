@@ -163,6 +163,11 @@ Psalm, David, Maschil, blessed, transgression, forgiven, sin, covered, blessed, 
 
 **Joy of Salvation:** glad LORD rejoice righteous shout joy upright heart, mercy compass, songs deliverance
 
+
+*AI Keywords for current event matching:*
+`acknowledged` `blessed` `bones` `come` `compass` `confess` `confession` `covered` `david` `day` `deliverance` `drought` `eye` `floods` `forgavest` `forgiven` `forgiveness` `found` `glad` `godly` `gods` `great` `guide` `guile` `hand` `heart` `heavy` `hid` `hiding` `imputeth` `iniquity` `instruct` `joy` `kept` `lord` `man` `maschil` `mercy` `moisture` `nigh` `place` `pray` `preserve` `protection` `psalm` `rejoice` `righteous` `roaming` `salvation` `shout` `silence` `sin` `songs` `spirit` `summer` `teach` `time` `transgression` `transgressions` `trouble` `turned` `upright` `waters` `waxed` `way`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

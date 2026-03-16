@@ -103,6 +103,11 @@ Woe, pastors, destroy, scatter, sheep, pasture, LORD, LORD, God, Israel, pastors
 
 **Christ's Word:** word like fire, hammer break rock, speak word faithfully, chaff to wheat
 
+
+*AI Keywords for current event matching:*
+`branch` `break` `chaff` `christs` `david` `destroy` `dreams` `execute` `faithfully` `false` `fear` `feed` `fire` `flock` `gather` `hammer` `heart` `judgment` `justice` `king` `lies` `like` `lord` `make` `name` `pastors` `prophesy` `prophets` `prosper` `raise` `reign` `remnant` `righteous` `righteousness` `rock` `scatter` `set` `shepherd` `shepherds` `speak` `vain` `vision` `wheat` `word`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

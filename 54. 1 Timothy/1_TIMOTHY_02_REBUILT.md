@@ -79,6 +79,11 @@ Exhort, supplications, prayers, intercessions, giving, thanks, men, kings, autho
 
 **Instructions for Men and Women:** women, adorn, modest, apparel, shamefacedness, sobriety, broided, hair, gold, pearls, costly, array, becometh, women, professing, godliness, good, works, woman, learn, silence, subjection, suffer, woman, teach, usurp, authority, man, silence, Adam, formed, Eve, Adam, deceived, woman, deceived, transgression, saved, childbearing, continue, faith, charity, holiness, sobriety
 
+
+*AI Keywords for current event matching:*
+`acceptable` `adam` `adorn` `apostle` `apparel` `array` `authority` `becometh` `broided` `charity` `childbearing` `christ` `continue` `costly` `deceived` `desire` `doubting` `due` `eve` `exhort` `faith` `formed` `gave` `gentiles` `giving` `god` `godliness` `gods` `gold` `good` `hair` `hands` `holiness` `holy` `honesty` `instructions` `intercessions` `jesus` `kings` `knowledge` `learn` `lie` `life` `lifting` `man` `mediator` `men` `modest` `one` `ordained` `peaceable` `pearls` `pray` `prayer` `prayers` `preacher` `professing` `quiet` `ransom` `salvation` `saved` `saviour` `shamefacedness` `sight` `silence` `sobriety` `speak` `subjection` `suffer` `supplications` `teach` `teacher` `testified` `thanks` `time` `transgression` `truth` `usurp` `verity` `woman` `women` `works` `wrath`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

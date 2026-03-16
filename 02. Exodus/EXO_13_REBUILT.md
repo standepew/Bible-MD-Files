@@ -104,6 +104,11 @@ God commands the consecration of every firstborn — human and animal — as bel
 - **Fulfillment of prophecy to exact detail** → Exodus 13:19 — Joseph's bones; pakod yifkod
 - **Warfare readiness / spiritual preparation** → Exodus 13:17-18 — not yet ready for war
 
+
+*AI Keywords for current event matching:*
+`abortion` `belong` `current` `events` `exodus` `firstborn` `god` `life` `matching` `sanctity`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

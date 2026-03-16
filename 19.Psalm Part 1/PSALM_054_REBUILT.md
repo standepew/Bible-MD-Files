@@ -103,6 +103,11 @@ Chief, Musician, Neginoth, Maschil, Psalm, David, Ziphims, came, Saul, David, hi
 
 **Sacrifice and Praise:** freely sacrifice praise name LORD good, sacrifice praise name LORD good, praise name LORD good
 
+
+*AI Keywords for current event matching:*
+`behold` `came` `chief` `cut` `david` `deliverance` `delivered` `desire` `divine` `ear` `enemies` `enemys` `eye` `freely` `give` `god` `good` `hear` `help` `helper` `hide` `judge` `lord` `maschil` `mouth` `musician` `name` `neginoth` `opposition` `oppressors` `praise` `prayer` `psalm` `reward` `risen` `sacrifice` `saul` `save` `seek` `set` `soul` `strangers` `strength` `trouble` `truth` `uphold` `words` `ziphims`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

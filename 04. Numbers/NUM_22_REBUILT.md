@@ -62,6 +62,11 @@ Israel camps in the plains of Moab. Balak son of Zippor, king of Moab, sees what
 - **The way that seems permitted but is spiritually perverse** → Numbers 22:20-22 — God permits, then is angry; Psalm 106:15
 - **Spiritual blindness in the religiously credentialed** → Numbers 22:23-31 — 2 Peter 2:16
 
+
+*AI Keywords for current event matching:*
+`current` `events` `hired` `jude` `matching` `micah` `numbers` `peter` `profit` `prophecy` `prophets`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS WITH CONTEXTUAL DEFINITIONS

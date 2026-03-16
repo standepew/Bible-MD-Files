@@ -91,6 +91,11 @@ Levitical heads approach Eleazar, Joshua, and tribal heads at Shiloh, requesting
 
 **Summary:** Cities Levites possession children Israel forty eight cities suburbs, cities suburbs round, LORD Israel land sware give fathers, possessed dwelt, LORD rest round, sware fathers, stood man enemies, LORD delivered enemies hand, failed ought good thing LORD spoken house Israel, came pass
 
+
+*AI Keywords for current event matching:*
+`aaron` `aarons` `abdon` `aijalon` `ain` `almon` `anak` `anathoth` `arba` `asher` `bashan` `beesh-terah` `benjamin` `beth-horon` `beth-shemesh` `bezer` `caleb` `came` `canaan` `cattle` `children` `cities` `city` `commanded` `commandment` `country` `dabareh` `dan` `debir` `delivered` `dimnah` `distribution` `dwell` `dwelt` `eight` `eleazar` `eltekeh` `en-gannim` `enemies` `ephraim` `eshtemoa` `failed` `families` `father` `fathers` `fields` `first` `forty` `four` `gad` `galilee` `gath-rimmon` `geba` `gershon` `gershonites` `gezer` `gibbethon` `gibeon` `gilead` `give` `golan` `good` `half` `hammoth-dor` `hand` `heads` `hebron` `helkath` `heshbon` `hill` `holon` `house` `inheritance` `israel` `israels` `issachar` `jahazah` `jarmuth` `jattir` `jazer` `jephunneh` `jokneam` `joshua` `judah` `juttah` `kartah` `kartan` `kedemoth` `kedesh` `kibzaim` `kishon` `kohath` `kohathites` `land` `levi` `levites` `levitical` `libnah` `lord` `lot` `mahanaim` `man` `manasseh` `mentioned` `mephaath` `merari` `merarites` `mishal` `moses` `mount` `nahalal` `name` `naphtali` `nine` `nun` `ought` `pass` `possessed` `possession` `priest` `priests` `ramoth` `refuge` `rehob` `remained` `remaining` `request` `response` `rest` `reuben` `round` `shechem` `shiloh` `simeon` `slayer` `son` `spake` `spoken` `stood` `suburbs` `summary` `sware` `tanach` `ten` `thing` `thirteen` `three` `tribe` `tribes` `twelve` `two` `villages` `zebulun`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

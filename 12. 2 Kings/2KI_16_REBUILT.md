@@ -83,6 +83,11 @@ Seventeenth year Pekah son Remaliah, Ahaz son Jotham king Judah reign. Twenty ye
 
 **Ahaz's Death:** acts Ahaz book chronicles kings Judah, Ahaz slept fathers buried fathers city David Hezekiah son reigned
 
+
+*AI Keywords for current event matching:*
+`abominations` `acts` `ahaz` `ahazs` `alliance` `altar` `approached` `assyria` `assyrian` `bases` `besieged` `blood` `book` `borders` `brasen` `built` `buried` `burnt` `captive` `carried` `cast` `children` `chronicles` `city` `commanded` `corruption` `covert` `damascus` `david` `death` `desecration` `drink` `drove` `dwelt` `elath` `enquire` `entry` `evening` `fashion` `father` `fathers` `fire` `forefront` `god` `gold` `great` `green` `hand` `hearkened` `heathen` `hezekiah` `high` `hills` `house` `incense` `israel` `jerusalem` `jews` `jotham` `judah` `king` `kings` `kir` `land` `laver` `lord` `meat` `meet` `messengers` `morning` `north` `offered` `offering` `offerings` `overcome` `oxen` `pattern` `pavement` `peace` `pekah` `people` `places` `present` `priest` `recovered` `reign` `reigned` `remaliah` `rezin` `right` `rise` `sabbath` `sacrifice` `sacrificed` `save` `servant` `seventeenth` `side` `sight` `silver` `sixteen` `slept` `slew` `son` `stones` `syria` `syrian` `syrians` `temple` `tiglath-pileser` `treasures` `tree` `tribute` `twenty` `urijah` `war` `way` `wickedness` `workmanship` `year` `years`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

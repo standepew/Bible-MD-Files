@@ -101,6 +101,11 @@ Naomi had a kinsman of her husband's, Boaz, a mighty man of wealth from Elimelec
 
 **Faithful Service:** kept fast maidens Boaz glean end barley harvest wheat harvest dwelt mother law
 
+
+*AI Keywords for current event matching:*
+`abide` `abundant` `answered` `arrival` `ate` `barley` `beat` `bethlehem` `bless` `blessed` `blessing` `boaz` `boazs` `bowed` `bread` `charged` `city` `comforted` `commanded` `continued` `corn` `country` `damsel` `daughter` `dead` `death` `drew` `drink` `dwelt` `ears` `elimelech` `end` `ended` `ephah` `eyes` `face` `faithful` `fall` `family` `fast` `father` `favour` `fell` `field` `friendly` `full` `gather` `glean` `gleaned` `god` `grace` `ground` `handfuls` `handmaid` `handmaidens` `hap` `harvest` `house` `humility` `husband` `identity` `initiative` `introduction` `israel` `keep` `kept` `kin` `kindness` `kindred` `kinsman` `kinsmen` `knewest` `knowledge` `land` `law` `left` `light` `living` `lord` `maidens` `man` `mealtime` `meet` `men` `mighty` `moab` `moabitess` `moabitish` `morning` `mother` `mother-in-law` `naomi` `naomis` `nativity` `near` `next` `parched` `people` `protection` `provision` `purpose` `reap` `reapers` `rebuke` `recompense` `reproach` `reserved` `response` `revelation` `reward` `risen` `ruth` `ruths` `sat` `servant` `service` `sheaves` `shewed` `sight` `stranger` `sufficed` `tarried` `thirst` `took` `touch` `trust` `vessels` `vinegar` `wealth` `wheat` `wings` `work` `wrought` `young`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

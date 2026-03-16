@@ -85,6 +85,11 @@ LORD sent Nathan to David. Nathan came, said two men in one city; one rich, one 
 
 **Rabbah's Victory:** Joab Rabbah children Ammon royal city, Joab messengers David Rabbah city waters, gather people encamp city take city name, David people Rabbah took city, king crown head talent gold precious stones David head spoil city abundance, people saws harrows iron axes iron brickkiln cities children Ammon David people Jerusalem
 
+
+*AI Keywords for current event matching:*
+`abundance` `alive` `ammon` `anger` `anointed` `apparel` `axes` `back` `bath-sheba` `besought` `birth` `blaspheme` `bosom` `bought` `bread` `brickkiln` `bring` `changed` `child` `children` `childs` `cities` `city` `comforted` `commandment` `confession` `confrontation` `crown` `cup` `daughter` `david` `davids` `day` `dead` `death` `deed` `delivered` `depart` `despised` `die` `died` `divine` `earth` `elders` `encamp` `enemies` `evil` `ewe` `eyes` `fast` `fasted` `flock` `flocks` `fourfold` `gather` `given` `god` `gold` `gracious` `harrows` `head` `herd` `herds` `hittite` `house` `iron` `israel` `jedidiah` `jerusalem` `joab` `judah` `judgment` `killed` `king` `lamb` `lay` `lie` `little` `live` `lord` `loved` `man` `master` `meat` `men` `messengers` `name` `nathan` `nathans` `neighbour` `night` `nourished` `parable` `people` `perceived` `pity` `poor` `precious` `prophet` `rabbah` `rabbahs` `raise` `restore` `return` `rich` `rose` `royal` `saul` `saws` `secretly` `sent` `servants` `seventh` `sick` `sight` `sin` `sinned` `solomon` `solomons` `son` `spared` `spoil` `stones` `struck` `sun` `sword` `take` `talent` `told` `took` `traveler` `two` `uriah` `vex` `victory` `voice` `washed` `waters` `wayfaring` `weep` `wept` `whispered` `wife` `wives` `worshipped`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

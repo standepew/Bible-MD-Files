@@ -103,6 +103,11 @@ Words, Preacher, son, David, king, Jerusalem, vanity, vanities, Preacher, vanity
 
 **Search for Meaning:** no new thing under sun, no remembrance former things, crooked cannot straight
 
+
+*AI Keywords for current event matching:*
+`ariseth` `cannot` `circuits` `crooked` `cycles` `former` `generation` `goeth` `grief` `human` `increaseth` `knowledge` `labor` `labour` `limitations` `man` `meaning` `much` `nature` `new` `passeth` `profit` `remembrance` `rivers` `run` `sea` `search` `seek` `sorrow` `straight` `sun` `thing` `things` `vanities` `vanity` `wind` `wisdom`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

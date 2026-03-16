@@ -91,6 +91,11 @@ Judge, GOD, plead, cause, ungodly, nation, deliver, deceitful, unjust, man, GOD,
 
 **Hope in God:** cast soul disquieted within hope GOD praise health countenance GOD
 
+
+*AI Keywords for current event matching:*
+`altar` `bring` `cast` `cause` `countenance` `deceitful` `deliver` `disquieted` `divine` `enemy` `exceeding` `god` `gods` `harp` `health` `hill` `holy` `hope` `joy` `judge` `justice` `lead` `light` `man` `mourning` `nation` `oppression` `plead` `praise` `send` `soul` `strength` `tabernacles` `truth` `ungodly` `unjust` `within` `worship`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

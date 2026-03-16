@@ -187,6 +187,11 @@ Dead, flies, cause, ointment, apothecary, send, stinking, savour, little, folly,
 
 **Speech and Silence:** words wise man, fool full words, curse not king
 
+
+*AI Keywords for current event matching:*
+`authority` `blunt` `building` `child` `curse` `dead` `dignity` `diligence` `flies` `folly` `fool` `full` `great` `hands` `heart` `idleness` `iron` `king` `leadership` `man` `nobles` `ointment` `ruler` `silence` `sloth` `slothfulness` `son` `speech` `spirit` `wisdom` `wise` `words`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

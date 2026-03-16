@@ -163,6 +163,11 @@ Twenty, fourth, day, month, children, Israel, assembled, fasting, sackclothes, e
 
 **Covenant Renewal:** divide sea midst sea dry land persecutors deeps stone mighty waters, led day cloudy pillar night pillar fire light way, mount Sinai spake heaven right judgments true laws good statutes commandments, holy sabbath commanded precepts statutes laws hand Moses servant, bread heaven hunger water rock thirst promised land sworn give
 
+
+*AI Keywords for current event matching:*
+`abraham` `abram` `affliction` `alone` `amorites` `assembled` `bani` `bless` `blessed` `blessing` `book` `bread` `brought` `bunni` `canaanites` `chaldees` `chenani` `children` `choose` `cloudy` `commanded` `commandments` `confessed` `confession` `covenant` `cried` `cry` `day` `dealt` `deeps` `divide` `dry` `earth` `egypt` `exalted` `faithful` `faithfulness` `fasting` `fathers` `fire` `forever` `found` `fourth` `gave` `girgashites` `give` `glorious` `god` `gods` `good` `hand` `hashabniah` `heard` `heart` `heaven` `heavens` `hittites` `hodijah` `holy` `host` `hunger` `iniquities` `israel` `israels` `jebusites` `jeshua` `judgments` `kadmiel` `knew` `land` `law` `laws` `led` `levites` `light` `lord` `loud` `made` `midst` `mighty` `month` `moses` `mount` `name` `national` `night` `part` `people` `performed` `perizzites` `persecutors` `pethahiah` `pharaoh` `pillar` `place` `praise` `precepts` `preservest` `promised` `proudly` `read` `rebellion` `red` `renewal` `right` `righteous` `rock` `sabbath` `sackclothes` `sea` `seas` `seed` `separated` `servant` `servants` `shebaniah` `sherebiah` `signs` `sinai` `sins` `spake` `stairs` `stand` `statutes` `stone` `stood` `strangers` `sworn` `therein` `things` `thirst` `true` `twenty` `voice` `water` `waters` `way` `wonders` `words` `worshipped`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

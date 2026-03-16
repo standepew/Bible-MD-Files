@@ -127,6 +127,11 @@ Poor, walketh, integrity, perverse, lips, fool, soul, without, knowledge, good, 
 
 **Discipline and Instruction:** chasten son hope, keepeth commandment keepeth soul, discretion deferreth anger
 
+
+*AI Keywords for current event matching:*
+`anger` `chasten` `commandment` `counsel` `deferreth` `discipline` `discretion` `escape` `false` `find` `friends` `getteth` `good` `hear` `hope` `instruction` `integrity` `judgments` `justice` `keepeth` `lies` `loveth` `maketh` `mercy` `neighbour` `poor` `poverty` `prepared` `receive` `scorners` `separated` `son` `soul` `speaketh` `understanding` `unpunished` `walketh` `wealth` `wisdom` `witness`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

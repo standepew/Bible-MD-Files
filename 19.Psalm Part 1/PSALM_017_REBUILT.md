@@ -127,6 +127,11 @@ Prayer, David, hear, right, LORD, attend, cry, ear, prayer, feigned, lips, sente
 
 **Vision of God:** behold face righteousness satisfied awake likeness, sentence presence eyes behold equal, hear right LORD attend cry
 
+
+*AI Keywords for current event matching:*
+`against` `apple` `arise` `attend` `awake` `behold` `cast` `cry` `david` `deliver` `deliverance` `disappoint` `divine` `ear` `equal` `eye` `eyes` `face` `feigned` `footsteps` `god` `gods` `goings` `hand` `hear` `heart` `hide` `hold` `keep` `likeness` `lips` `lord` `lovingkindness` `marvellous` `night` `nothing` `paths` `prayer` `presence` `protection` `proved` `right` `righteousness` `rise` `satisfied` `satisfy` `savest` `sentence` `shadow` `shew` `slip` `soul` `tried` `trust` `vision` `visited` `wicked` `wings`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

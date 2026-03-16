@@ -87,6 +87,11 @@ Elisha, LORD, word, LORD, morrow, measure fine flour, shekel, two measures barle
 
 **Skeptic's Judgment:** man GOD king two measures barley shekel measure fine flour shekel morrow gate Samaria, lord man GOD LORD windows heaven thing eyes eat, people trode gate died
 
+
+*AI Keywords for current event matching:*
+`abandonment` `alive` `asses` `ate` `barley` `camp` `carried` `catch` `charge` `chariot` `chariots` `city` `consumed` `day` `die` `died` `divine` `drank` `eat` `egyptians` `elisha` `entering` `eyes` `famine` `field` `fine` `fled` `flour` `fulfillment` `garments` `gate` `god` `gold` `good` `great` `haste` `heaven` `hid` `hired` `hittites` `horses` `host` `house` `household` `hungry` `initiative` `intervention` `investigation` `israel` `israelites` `jordan` `judgment` `kill` `king` `kings` `leaned` `leprous` `life` `live` `lord` `man` `measure` `measures` `men` `messengers` `mischief` `morning` `morrow` `multitude` `news` `night` `noise` `peace` `people` `porter` `porters` `promise` `prophetic` `raiment` `report` `samaria` `save` `servant` `servants` `shekel` `silver` `skeptics` `spoke` `syria` `syrian` `syrians` `tent` `tents` `thing` `tidings` `tied` `trode` `twilight` `two` `uttermost` `vessels` `voice` `way` `well` `windows` `word`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

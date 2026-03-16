@@ -139,6 +139,11 @@ Apostle, free, seen, Jesus, Christ, Lord, work, Lord, apostle, others, seal, apo
 
 **Self-Discipline:** run, race, prize, run, obtain, striveth, mastery, temperate, things, obtain, corruptible, crown, incorruptible, run, uncertainly, fight, beateth, air, keep, body, subjection, preach, others, castaway
 
+
+*AI Keywords for current event matching:*
+`abuse` `air` `altar` `answer` `apostle` `apostles` `apostleship` `barnabas` `beateth` `body` `brethren` `care` `carnal` `castaway` `cephas` `charge` `charges` `christ` `corn` `corruptible` `crown` `die` `dispensation` `done` `drink` `eat` `eateth` `examine` `feedeth` `fight` `flock` `forbear` `free` `fruit` `gain` `glory` `glorying` `god` `gospel` `gospels` `hinder` `holy` `hope` `incorruptible` `jesus` `jew` `jews` `keep` `law` `lead` `live` `lord` `make` `man` `mastery` `means` `men` `milk` `minister` `ministers` `moses` `mouth` `muzzle` `necessity` `obtain` `ordained` `others` `oxen` `partaker` `partakers` `pauls` `planteth` `ploweth` `power` `preach` `prize` `race` `reap` `reward` `rights` `run` `saith` `sake` `sakes` `save` `seal` `seen` `self-discipline` `servant` `sister` `sown` `spiritual` `striveth` `subjection` `suffer` `temperate` `temple` `thing` `things` `thresheth` `treadeth` `uncertainly` `used` `vineyard` `void` `wait` `warfare` `weak` `wife` `willingly` `without` `woe` `work` `working` `written`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

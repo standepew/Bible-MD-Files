@@ -115,6 +115,11 @@ Word, Lord, son, man, proverb, land, Israel, fathers, eaten, sour, grapes, child
 
 **Christ's Salvation:** new heart, new spirit, turn live, cast transgressions
 
+
+*AI Keywords for current event matching:*
+`bear` `cast` `christs` `die` `divine` `heart` `iniquity` `justice` `keep` `kept` `lawful` `live` `man` `mercy` `mine` `new` `personal` `pleasure` `responsibility` `right` `righteous` `righteousness` `salvation` `sinneth` `soul` `souls` `spirit` `statutes` `surely` `transgressions` `turn` `wicked` `wickedness`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

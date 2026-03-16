@@ -91,6 +91,11 @@ Psalm, Song, sons, Korah, foundation, holy, mountains, LORD, loveth, gates, Zion
 
 **Eternal City:** city GOD, Zion, springs, singers players instruments
 
+
+*AI Keywords for current event matching:*
+`babylon` `behold` `born` `builder` `city` `divine` `dwellings` `establish` `eternal` `ethiopia` `foundation` `gates` `glorious` `glory` `god` `highest` `holy` `instruments` `jacob` `know` `korah` `lord` `loveth` `maker` `man` `mention` `mountains` `philistia` `players` `psalm` `rahab` `recognition` `singers` `song` `sons` `spoken` `springs` `things` `tyre` `universal` `zion` `zions`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

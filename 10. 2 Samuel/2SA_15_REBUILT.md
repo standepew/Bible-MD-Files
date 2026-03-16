@@ -87,6 +87,11 @@ Absalom prepared chariots, horses, fifty men to run before. Rose early, stood by
 
 **Countermeasures:** David Ahithophel conspirators Absalom David LORD pray counsel Ahithophel foolishness, David top mount worshipped God Hushai Archite coat rent earth head, David passest burden, return city Absalom servant king father servant servant defeat counsel Ahithophel, Zadok Abiathar priests king house Zadok Abiathar priests, two sons Ahimaaz Zadok son Jonathan Abiathar son send, Hushai David friend city Absalom Jerusalem
 
+
+*AI Keywords for current event matching:*
+`abiathar` `absalom` `absaloms` `ahimaaz` `ahithophel` `appoint` `archite` `arise` `ark` `arose` `ascent` `barefoot` `behold` `brethren` `bring` `brook` `burden` `called` `cause` `certify` `chariots` `cherethites` `city` `coat` `concubines` `conspiracy` `conspirators` `controversy` `counsel` `counsellor` `countermeasures` `country` `covenant` `covered` `david` `davids` `day` `death` `deceptive` `defeat` `delight` `depart` `deputed` `down` `early` `earth` `escape` `evil` `exile` `eyes` `far` `father` `favour` `fifty` `flee` `flight` `foolishness` `forty` `friend` `gate` `gath` `geshur` `giloh` `gilonite` `gittite` `gittites` `god` `good` `habitation` `hand` `head` `hear` `hearts` `hebron` `horses` `house` `household` `hundred` `hushai` `israel` `ittai` `ittais` `jerusalem` `jonathan` `judge` `judgment` `justice` `keep` `kidron` `king` `kissed` `knew` `lament` `land` `levites` `life` `little` `lord` `loud` `loyalty` `man` `matters` `men` `mercy` `messenger` `mount` `obeisance` `olivet` `ones` `overtake` `pass` `passed` `passest` `passing` `pay` `peace` `pelethites` `people` `place` `plain` `pray` `preparation` `prepared` `priest` `priests` `ready` `reigneth` `rent` `return` `right` `rose` `run` `sacrifices` `seer` `send` `servant` `servants` `serve` `simplicity` `six` `son` `sons` `speed` `spies` `spreads` `stole` `stood` `stranger` `strategic` `strong` `suit` `sword` `syria` `tarried` `tarry` `ten` `took` `top` `tribes` `trumpet` `truth` `two` `voice` `vow` `vowed` `way` `wept` `whither` `wilderness` `withdrawal` `women` `word` `worshipped` `years` `yesterday` `zadok`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

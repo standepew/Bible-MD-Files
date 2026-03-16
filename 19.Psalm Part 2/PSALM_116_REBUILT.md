@@ -184,6 +184,11 @@ Love, LORD, heard, voice, supplications, inclined, ear, call, long, live, sorrow
 
 **Death of Saints:** precious sight LORD death saints, truly servant son handmaid, loosed bonds, courts LORD house Jerusalem
 
+
+*AI Keywords for current event matching:*
+`afflicted` `believed` `benefits` `bonds` `brought` `call` `called` `compassed` `courts` `cup` `death` `deliver` `deliverance` `delivered` `divine` `eyes` `falling` `feet` `greatly` `handmaid` `heard` `hell` `helped` `house` `jerusalem` `land` `living` `loosed` `lord` `love` `low` `name` `pains` `pay` `people` `personal` `precious` `presence` `preserved` `render` `sacrifice` `saints` `salvation` `servant` `sight` `simple` `son` `sorrows` `soul` `spoken` `supplications` `tears` `testimony` `thanksgiving` `truly` `voice` `vows` `walk`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

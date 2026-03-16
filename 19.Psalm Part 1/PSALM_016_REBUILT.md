@@ -139,6 +139,11 @@ Michtam, David, preserve, GOD, trust, soul, LORD, Lord, goodness, extend, saints
 
 **Divine Inheritance:** LORD portion inheritance cup maintainest lot, lines fallen pleasant places goodly heritage, saints earth excellent delight
 
+
+*AI Keywords for current event matching:*
+`always` `bless` `christs` `corruption` `counsel` `cup` `david` `delight` `divine` `earth` `eternal` `excellent` `extend` `fallen` `flesh` `forevermore` `fulness` `given` `glad` `glory` `god` `goodly` `goodness` `hand` `heart` `hell` `heritage` `holy` `hope` `inheritance` `instruct` `joy` `leave` `life` `lines` `lord` `lot` `maintainest` `michtam` `moved` `night` `one` `path` `places` `pleasant` `pleasures` `portion` `presence` `preserve` `reins` `rejoiceth` `rest` `resurrection` `right` `saints` `seasons` `set` `shew` `soul` `suffer` `trust`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

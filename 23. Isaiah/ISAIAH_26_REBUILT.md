@@ -115,6 +115,11 @@ Day, song, sung, land, Judah, strong, city, salvation, God, appoint, walls, bulw
 
 **Resurrection Hope:** dead men live, arise awake, dew herbs, cast out dead
 
+
+*AI Keywords for current event matching:*
+`arise` `awake` `bring` `cast` `christs` `city` `dead` `desire` `dew` `divine` `dwell` `early` `ever` `everlasting` `foot` `herbs` `high` `hope` `inhabitants` `judgment` `lay` `live` `lord` `low` `men` `mind` `ordain` `peace` `perfect` `poor` `punish` `resurrection` `seek` `soul` `stayed` `strength` `tread` `trust`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

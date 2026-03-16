@@ -139,6 +139,11 @@ Word, LORD, Micah, Morasthite, days, Jotham, Ahaz, Hezekiah, kings, Judah, conce
 
 **Jerusalem's Invasion:** wound incurable, gate people, daughter Zion, gone captivity
 
+
+*AI Keywords for current event matching:*
+`captivity` `christs` `cleft` `cometh` `coming` `daughter` `discover` `divine` `earth` `fall` `field` `foundations` `gate` `god` `gone` `heap` `hear` `hearken` `high` `holy` `incurable` `invasion` `jerusalems` `judgment` `lord` `molten` `mountains` `people` `places` `plantings` `pour` `samarias` `stones` `temple` `tread` `valleys` `vineyard` `witness` `wound` `zion`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

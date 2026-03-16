@@ -175,6 +175,11 @@ Heart, trembleth, moved, place, hear, attentively, noise, voice, sound, mouth, d
 
 **Divine Majesty:** disposed light cloud shine balancings clouds wondrous works perfect knowledge garments warm quieteth earth south wind, spread sky strong molten looking glass teach speech darkness swallowed up
 
+
+*AI Keywords for current event matching:*
+`attentively` `balancings` `beasts` `breath` `bright` `cloud` `clouds` `cold` `commandeth` `comprehend` `correction` `counsels` `darkness` `dens` `directeth` `disposed` `divine` `earth` `elihus` `excellency` `face` `fifth` `frost` `garments` `glass` `god` `gods` `great` `hand` `hear` `heard` `hearken` `heart` `heaven` `job` `know` `knowledge` `land` `light` `lightning` `looking` `majesty` `man` `marvellously` `mercy` `molten` `mouth` `moved` `natural` `noise` `north` `perfect` `phenomena` `place` `places` `quieteth` `rain` `roareth` `scattereth` `sealeth` `shine` `sky` `small` `snow` `sound` `south` `speech` `spread` `stand` `stay` `still` `straitened` `strength` `strong` `swallowed` `teach` `thick` `thundereth` `trembleth` `turned` `voice` `warm` `watering` `waters` `wearieth` `whirlwind` `wind` `wondrous` `work` `works` `world`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

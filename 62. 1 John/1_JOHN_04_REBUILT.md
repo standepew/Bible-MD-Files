@@ -105,6 +105,11 @@ Beloved, believe, spirit, spirits, whether, God, false, prophets, gone, world, k
 
 **Boldness in Judgment:** loved, first, loved, commandment, loveth, God, love, brother
 
+
+*AI Keywords for current event matching:*
+`among` `another` `antichrist` `begotten` `believe` `believed` `beloved` `boldness` `born` `brother` `casteth` `children` `christ` `christs` `come` `coming` `commandment` `confess` `confesseth` `dwell` `dwelleth` `error` `false` `father` `fear` `feareth` `first` `flesh` `given` `god` `gone` `greater` `heard` `heareth` `herein` `jesus` `judgment` `know` `knoweth` `known` `live` `love` `loved` `loveth` `manifested` `overcome` `perfect` `perfected` `prophets` `propitiation` `saviour` `seen` `sent` `sins` `son` `speak` `spirit` `spirits` `testify` `testing` `torment` `truth` `whether` `world`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

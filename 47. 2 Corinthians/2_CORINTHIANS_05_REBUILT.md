@@ -115,6 +115,11 @@ Earthly, house, tabernacle, dissolved, building, God, house, hands, eternal, hea
 
 **New Creation in Christ:** ambassadors, Christ, beseech, pray, Christ, stead, reconciled, God, sin, knew, sin, righteousness, God
 
+
+*AI Keywords for current event matching:*
+`absent` `accepted` `according` `again` `ambassadors` `answer` `appear` `appearance` `bad` `become` `behalf` `behold` `beseech` `beside` `body` `building` `burdened` `cause` `christ` `clothed` `commend` `committed` `confident` `consciences` `constraineth` `creation` `creature` `dead` `desiring` `died` `dissolved` `earnest` `earnestly` `earthly` `eternal` `faith` `flesh` `found` `given` `glory` `god` `good` `groan` `hands` `heart` `heaven` `heavenly` `heavens` `henceforth` `home` `house` `imputing` `jesus` `judge` `judgment` `knew` `know` `knowing` `labour` `life` `live` `lord` `love` `man` `manifest` `men` `ministry` `mortality` `naked` `new` `occasion` `old` `passed` `persuade` `pray` `present` `receive` `reconciled` `reconciliation` `reconciling` `righteousness` `rose` `seat` `selfsame` `sight` `sin` `sober` `spirit` `stead` `swallowed` `tabernacle` `terror` `themselves` `things` `trespasses` `trust` `unclothed` `walk` `willing` `word` `world` `wrought`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

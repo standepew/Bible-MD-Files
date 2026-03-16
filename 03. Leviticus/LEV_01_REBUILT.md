@@ -91,6 +91,11 @@ Leviticus opens with God speaking to Moses from inside the completed Tabernacle.
 - **Total consecration / wholly burned** → Leviticus 1:9 — Romans 12:1
 - **God accepting the sacrifice** → Leviticus 1:9 — Ephesians 5:2; Genesis 8:21
 
+
+*AI Keywords for current event matching:*
+`anothers` `bearing` `corinthians` `current` `events` `guilt` `isaiah` `leviticus` `matching` `substitution`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

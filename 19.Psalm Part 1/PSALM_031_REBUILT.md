@@ -127,6 +127,11 @@ Chief, Musician, Psalm, David, trust, LORD, ashamed, deliver, righteousness, bow
 
 **Courage for the Faithful:** good courage strengthen heart hope LORD, love LORD saints LORD preserveth faithful plentifully rewardeth proud doer, blessed LORD shewed marvellous kindness
 
+
+*AI Keywords for current event matching:*
+`ashamed` `blessed` `chief` `commit` `commitment` `courage` `david` `defence` `deliver` `doer` `enemies` `face` `faithful` `god` `gods` `good` `hand` `hated` `heart` `hide` `hope` `house` `keep` `kindness` `laid` `lord` `love` `lying` `make` `man` `marvellous` `mercies` `musician` `net` `pavilion` `persecute` `plentifully` `presence` `preserveth` `pride` `privily` `protection` `proud` `psalm` `pull` `redeemed` `regard` `rewardeth` `righteousness` `rock` `said` `saints` `sake` `save` `secret` `secretly` `servant` `shewed` `shine` `spirit` `strength` `strengthen` `strife` `strong` `times` `tongues` `trust` `trusted` `truth` `vanities`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

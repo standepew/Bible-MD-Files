@@ -139,6 +139,11 @@ Jesus, scribes, Pharisees, Jerusalem, disciples, transgress, tradition, elders, 
 
 **Feeding Four Thousand:** seven loaves, few fishes, seven baskets, four thousand
 
+
+*AI Keywords for current event matching:*
+`baskets` `canaan` `canaanite` `christs` `commandment` `daughter` `defileth` `elders` `esaias` `evil` `faith` `far` `father` `feeding` `few` `fishes` `four` `god` `great` `heart` `honour` `hypocrites` `loaves` `lord` `man` `mercy` `proceed` `purity` `seven` `thoughts` `thousand` `tradition` `whole` `woman`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

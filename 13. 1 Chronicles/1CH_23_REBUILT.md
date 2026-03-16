@@ -117,6 +117,11 @@ David, old, full, days, Solomon, son, king, Israel. David, gathered, princes, Is
 
 **Worship Service:** office wait sons Aaron service house LORD courts chambers purifying holy things work service house LORD, shewbread fine flour meat offering unleavened cakes baked pan fried manner measure size, stand morning thank praise LORD evening, offer burnt sacrifices LORD sabbaths new moons set feasts number commanded LORD continually LORD, keep charge tabernacle congregation holy place charge sons Aaron brethren service house LORD
 
+
+*AI Keywords for current event matching:*
+`aaron` `above` `age` `amariah` `amram` `anointing` `baked` `beriah` `bless` `brethren` `burn` `burnt` `cakes` `carry` `chambers` `charge` `chief` `commanded` `congregation` `continually` `counted` `courses` `courts` `david` `days` `died` `divided` `dwell` `eder` `eight` `eleazar` `eliezer` `evening` `ever` `father` `fathers` `feasts` `fine` `first` `flour` `forward` `four` `fourth` `fried` `full` `gathered` `gershom` `gershomites` `gershon` `gershonites` `given` `god` `haran` `haziel` `hebron` `hebronites` `holy` `house` `incense` `instruments` `israel` `izhar` `izharites` `jahath` `jahaziel` `jehiel` `jekameam` `jeremoth` `jeriah` `jerusalem` `jesiah` `jeush` `joel` `judges` `keep` `king` `kish` `kohath` `kohathites` `laadan` `last` `levi` `levites` `levitical` `lord` `made` `mahli` `man` `manner` `many` `measure` `meat` `merari` `merarites` `michah` `minister` `moons` `morning` `moses` `mushi` `name` `names` `new` `number` `numbered` `offer` `offering` `office` `officers` `old` `one` `organization` `pan` `people` `place` `polls` `porters` `praise` `praised` `priests` `princes` `purifying` `reckoning` `rehabiah` `rest` `sabbaths` `sacrifices` `sanctify` `second` `separated` `service` `set` `shebuel` `shelomith` `shewbread` `shimei` `six` `size` `solomon` `solomons` `son` `sons` `stand` `tabernacle` `temple` `thank` `thereof` `therewith` `things` `third` `thirty` `thousand` `three` `took` `tribe` `twenty` `unleavened` `upward` `uzziel` `uzzielites` `vessels` `wait` `words` `work` `worship` `years` `zetham` `zina` `zizah`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

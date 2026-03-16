@@ -81,6 +81,11 @@ Hezekiah sick, death, prophet Isaiah, son Amoz, LORD, house, die, live. Face, wa
 
 **Hezekiah's Death:** acts Hezekiah might pool conduit water city book chronicles kings Judah, Hezekiah slept fathers Manasseh son reigned
 
+
+*AI Keywords for current event matching:*
+`acts` `add` `ahaz` `amoz` `armour` `assyria` `babylon` `babylonian` `back` `backward` `baladan` `beget` `berodach-baladan` `boil` `book` `captain` `chronicles` `city` `conduit` `country` `court` `david` `day` `days` `death` `defend` `degrees` `deliver` `dial` `die` `dominion` `embassy` `eunuchs` `exile` `face` `father` `fathers` `fifteen` `figs` `forward` `god` `gold` `good` `hand` `heal` `heard` `heart` `hezekiah` `hezekiahs` `house` `isaiah` `issue` `judah` `king` `kings` `left` `letters` `light` `live` `lord` `lump` `manasseh` `men` `middle` `ointment` `palace` `peace` `people` `perfect` `pool` `prayed` `prayer` `precious` `present` `prophecy` `prophet` `recovered` `reigned` `sake` `servant` `shadow` `shewed` `sick` `sickness` `sight` `sign` `silver` `slept` `son` `sons` `spices` `spoken` `store` `tears` `ten` `third` `treasures` `truth` `turn` `walked` `wall` `water` `wept` `word` `years`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

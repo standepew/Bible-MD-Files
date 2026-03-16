@@ -175,6 +175,11 @@ Standest, afar, LORD, hidest, times, trouble, wicked, pride, persecute, poor, ta
 
 **Prayer for Justice:** arise LORD GOD lift hand forget humble, break arm wicked evil man seek wickedness find none, LORD King heathen perished land
 
+
+*AI Keywords for current event matching:*
+`abhorreth` `adversity` `afar` `arise` `arm` `blesseth` `boasteth` `break` `contemn` `countenance` `covetous` `cursing` `deceit` `desire` `devices` `enemies` `evil` `find` `forget` `fraud` `god` `gods` `grievous` `hand` `heart` `heathen` `hiddenness` `hidest` `humble` `imagined` `innocent` `judgments` `justice` `king` `land` `lift` `lord` `lurking` `man` `mischief` `mouth` `moved` `murder` `none` `perished` `persecute` `places` `poor` `prayer` `pride` `problem` `puffeth` `require` `secret` `seek` `sight` `sitteth` `standest` `taken` `thoughts` `times` `tongue` `trouble` `vanity` `villages` `ways` `wicked` `wickedness` `wickeds`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

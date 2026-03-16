@@ -245,6 +245,11 @@ Multitude, trode, disciples, Beware, leaven, Pharisees, hypocrisy, covered, reve
 
 **Settle with Adversary:** adversary magistrate, judge officer, prison, last mite, depart thence
 
+
+*AI Keywords for current event matching:*
+`abundance` `adversary` `against` `baptism` `baptized` `body` `burning` `cast` `cloud` `confess` `covered` `covetousness` `cubit` `darkness` `daughter` `depart` `discern` `division` `doubtful` `earth` `faith` `farthings` `father` `fear` `fire` `flock` `fool` `girded` `god` `gods` `goodman` `grow` `hairs` `heart` `heavens` `hell` `house` `housetops` `hypocrisy` `interpreting` `judge` `kill` `kingdom` `last` `leaven` `lights` `lilies` `little` `loins` `magistrate` `man` `men` `mind` `mite` `mother` `numbered` `officer` `possesseth` `prison` `proclaimed` `ravens` `ready` `required` `return` `revealed` `rich` `right` `rise` `second` `seek` `servants` `settle` `sky` `son` `soul` `south` `sow` `sparrows` `spoken` `stature` `thence` `time` `times` `treasure` `warning` `watch` `watchful` `wedding` `wind` `worry`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

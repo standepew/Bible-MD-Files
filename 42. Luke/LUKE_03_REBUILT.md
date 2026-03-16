@@ -149,6 +149,11 @@ Fifteenth, year, reign, Tiberius, Cæsar, Pontius, Pilate, governor, Judæa, Her
 
 **Genealogy of Jesus:** thirty years, son Joseph, son Heli, son David, son Abraham, son Adam, son God
 
+
+*AI Keywords for current event matching:*
+`abraham` `adam` `baptism` `baptist` `beloved` `bodily` `chaff` `content` `david` `fire` `fruit` `genealogy` `generation` `ghost` `god` `good` `heaven` `heli` `holy` `jesus` `john` `joseph` `ministry` `opened` `repentance` `shape` `son` `thirty` `vipers` `wages` `word` `years`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

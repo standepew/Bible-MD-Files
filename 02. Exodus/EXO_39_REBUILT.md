@@ -78,6 +78,11 @@ The priestly garments are made exactly as commanded: the ephod of gold wire wove
 - **Total obedience / executing the pattern** → Exodus 39 — "as the LORD commanded Moses" ×7
 - **Holiness spread to all** → Exodus 39:30 — Zechariah 14:20-21; Revelation 22:4
 
+
+*AI Keywords for current event matching:*
+`current` `events` `exodus` `holiness` `lord` `matching` `priest` `revelation` `zechariah`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

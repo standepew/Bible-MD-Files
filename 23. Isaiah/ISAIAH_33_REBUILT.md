@@ -151,6 +151,11 @@ Woe, spoilest, spoiled, dealest, treacherously, dealt, treacherously, cease, spo
 
 **Christ's Kingdom:** Zion judgment righteousness, Jerusalem quiet habitation, tabernacle taken down, broad rivers streams
 
+
+*AI Keywords for current event matching:*
+`arm` `bribes` `broad` `christs` `despiseth` `divine` `down` `dwelleth` `every` `exaltation` `exalted` `gain` `gracious` `habitation` `hands` `high` `jerusalem` `judgment` `kingdom` `lift` `living` `lord` `morning` `oppressions` `quiet` `righteous` `righteously` `righteousness` `rise` `rivers` `salvation` `save` `shake` `speak` `streams` `tabernacle` `taken` `time` `trouble` `uprightly` `walk` `zion`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

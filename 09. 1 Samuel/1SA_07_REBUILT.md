@@ -85,6 +85,11 @@ Kirjath-jearim men fetched the ark, bringing it to Abinadab's house on the hill,
 
 **Samuel's Leadership:** Philistines subjected coast Israel hand LORD Philistines days Samuel, cities Philistines Israel Ekron Gath coasts Israel deliver Philistines peace Israel Amorites, Samuel judged Israel days life, year circuit Beth-el Gilgal Mizpeh judged Israel places, return Ramah house judged Israel built altar LORD
 
+
+*AI Keywords for current event matching:*
+`abinadab` `abode` `afraid` `altar` `amorites` `ark` `ashtaroth` `assembly` `attack` `baalim` `battle` `beth-car` `beth-el` `built` `burnt` `call` `cease` `children` `circuit` `cities` `coast` `coasts` `cried` `cry` `day` `days` `deliver` `discomfited` `divine` `drew` `eben-ezer` `ekron` `eleazar` `fasted` `fetched` `gath` `gather` `gathered` `gilgal` `god` `gods` `great` `hand` `heard` `hearts` `helped` `hill` `house` `israel` `judged` `keep` `kirjath-jearim` `lamb` `lamented` `leadership` `life` `long` `lord` `lords` `memorial` `men` `mizpeh` `offering` `peace` `philistine` `philistines` `places` `poured` `pray` `prepare` `pursued` `ramah` `return` `revival` `samuel` `samuels` `sanctified` `save` `serve` `served` `shen` `sinned` `smitten` `smote` `son` `spake` `stone` `strange` `subjected` `sucking` `thunder` `thundered` `time` `twenty` `victory` `water` `year` `years`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

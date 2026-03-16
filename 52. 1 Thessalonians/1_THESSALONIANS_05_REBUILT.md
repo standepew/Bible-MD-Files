@@ -103,6 +103,11 @@ Times, seasons, brethren, write, know, perfectly, day, Lord, cometh, thief, nigh
 
 **Complete Sanctification:** God, peace, sanctify, wholly, pray, God, whole, spirit, soul, body, preserved, blameless, coming, Lord, Jesus, Christ, Faithful, calleth, pray, brethren, greet, brethren, holy, kiss, charge, Lord, epistle, read, holy, brethren, grace, Lord, Jesus, Christ, Amen
 
+
+*AI Keywords for current event matching:*
+`abstain` `admonish` `amen` `appearance` `appointed` `beseech` `blameless` `body` `breastplate` `brethren` `calleth` `ceasing` `charge` `child` `children` `christ` `cometh` `comfort` `coming` `complete` `concerning` `darkness` `day` `despise` `destruction` `died` `drunken` `edify` `epistle` `escape` `esteemed` `evermore` `evil` `exhort` `faith` `faithful` `fast` `feebleminded` `final` `follow` `give` `god` `good` `grace` `greet` `helmet` `highly` `hold` `holy` `hope` `instructions` `jesus` `kiss` `know` `labour` `light` `live` `lord` `love` `men` `night` `obtain` `others` `overtake` `patient` `peace` `perfectly` `pray` `preserved` `prophesyings` `prove` `putting` `quench` `read` `rejoice` `render` `safety` `sake` `salvation` `sanctification` `sanctify` `seasons` `sleep` `sober` `soul` `spirit` `sudden` `support` `thanks` `thief` `thing` `things` `times` `travail` `unruly` `wake` `watch` `weak` `whole` `wholly` `woman` `work` `wrath` `write`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

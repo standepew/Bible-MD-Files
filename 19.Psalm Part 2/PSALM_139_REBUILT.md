@@ -151,6 +151,11 @@ LORD, searched, known, downsitting, uprising, understood, thought, afar, compass
 
 **Separation from Evil:** slay wicked, depart bloody men, perfect hatred, search know heart
 
+
+*AI Keywords for current event matching:*
+`ascend` `bed` `bloody` `book` `creation` `depart` `divine` `downsitting` `evil` `fearfully` `flee` `gods` `hatred` `heart` `heaven` `hell` `know` `known` `made` `members` `men` `mother` `omniscience` `perfect` `presence` `search` `searched` `separation` `slay` `spirit` `substance` `thought` `tongue` `understood` `unperfect` `uprising` `whither` `wicked` `womb` `wonder` `wonderfully` `word` `written`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

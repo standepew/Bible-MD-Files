@@ -91,6 +91,11 @@ Bildad, Shuhite, answered, dominion, fear, peace, high, places. Armies, number, 
 
 **Divine Majesty:** man justified GOD clean woman, moon shineth stars pure sight
 
+
+*AI Keywords for current event matching:*
+`answered` `arise` `armies` `bildad` `bildads` `clean` `divine` `dominion` `fear` `god` `gods` `high` `human` `justified` `light` `majesty` `man` `moon` `number` `peace` `places` `pure` `shineth` `shuhite` `sight` `son` `speech` `stars` `third` `unworthiness` `woman` `worm`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

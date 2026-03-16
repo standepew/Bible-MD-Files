@@ -91,6 +91,11 @@ Word, LORD, Jeremiah, prophet, Gentiles, Egypt, army, Pharaoh, neccho, king, Egy
 
 **Christ's Preservation:** fear not Jacob, save afar off, Jacob return, not leave unpunished
 
+
+*AI Keywords for current event matching:*
+`adversaries` `afar` `beaten` `christs` `day` `defeat` `deliver` `devour` `dismayed` `divine` `egypts` `end` `fall` `fear` `fled` `hand` `jacob` `judgment` `leave` `make` `multitude` `nations` `noise` `north` `off` `passed` `preservation` `punish` `return` `sacrifice` `save` `stumble` `sword` `turned` `unpunished` `vengeance` `victory`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

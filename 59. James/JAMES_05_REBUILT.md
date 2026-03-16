@@ -115,6 +115,11 @@ Rich, men, weep, howl, miseries, come, riches, corrupted, garments, motheaten, g
 
 **Restoring the Wanderer:** prayed, heaven, gave, rain, earth, brought, fruit, brethren, err, truth, convert, know, convert, sinner, error, way, save, soul, death, hide, multitude, sins
 
+
+*AI Keywords for current event matching:*
+`afflicted` `affliction` `availeth` `brethren` `brought` `cankered` `church` `come` `coming` `committed` `condemnation` `condemned` `confess` `convert` `corrupted` `count` `cries` `crieth` `day` `days` `death` `door` `draweth` `early` `earnestly` `ears` `earth` `eat` `effectual` `elders` `elias` `end` `endure` `err` `error` `example` `faith` `faults` `fervent` `fields` `fire` `flesh` `forgiven` `fraud` `fruit` `garments` `gave` `gold` `grudge` `happy` `healed` `heaped` `hearts` `heaven` `hide` `hire` `howl` `husbandman` `job` `judge` `kept` `killed` `know` `labourers` `last` `latter` `lived` `long` `lord` `lords` `man` `men` `mercy` `merry` `miseries` `months` `motheaten` `multitude` `name` `nay` `nigh` `nourished` `oath` `oil` `passions` `patience` `patient` `pitiful` `pleasure` `power` `pray` `prayed` `prayer` `precious` `prophets` `psalms` `rain` `rained` `raise` `reaped` `receive` `resist` `restoring` `rich` `riches` `righteous` `rust` `sabaoth` `save` `sick` `silver` `sing` `sinner` `sins` `six` `slaughter` `soul` `space` `spoken` `stablish` `standeth` `suffering` `swear` `tender` `three` `treasure` `truth` `wait` `wanderer` `wanton` `warning` `way` `weep` `witness` `yea` `years`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -85,6 +85,11 @@ David departed, escaped to cave Adullam; when his brethren and father's house he
 
 **Abiathar's Escape:** sons Ahimelech Ahitub Abiathar escaped fled David, Abiathar David Saul slew LORD priests, David Abiathar knew Doeg Edomite Saul occasioned death father house, Abiathar fear not seeketh life seeketh life safeguard
 
+
+*AI Keywords for current event matching:*
+`abiathar` `abiathars` `accusation` `adullam` `ahimelech` `ahitub` `asses` `begin` `benjamites` `bidding` `bread` `brethren` `call` `captain` `captains` `cave` `children` `city` `conspired` `david` `davids` `death` `debt` `defense` `depart` `departed` `die` `direction` `discontented` `discovered` `distress` `divine` `doeg` `doegs` `dwelt` `edomite` `enquire` `enquired` `ephod` `escape` `escaped` `faithful` `father` `fear` `fields` `five` `fled` `footmen` `forest` `four` `fourscore` `gad` `gathered` `gibeah` `god` `goliath` `hand` `hareth` `heard` `hold` `honourable` `house` `hundred` `hundreds` `impute` `jesse` `jonathan` `judah` `king` `knew` `know` `land` `law` `league` `lie` `life` `linen` `lord` `massacre` `men` `mizpeh` `moab` `mother` `nob` `occasioned` `oxen` `paranoia` `philistine` `priest` `priestly` `priests` `prophet` `ramah` `refuge` `rise` `safeguard` `saul` `sauls` `seeketh` `servant` `servants` `sheep` `shew` `slay` `slew` `son` `sons` `sorry` `spear` `standing` `stirred` `sucklings` `sword` `thousands` `tree` `victuals` `vineyards` `wait` `went` `women`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

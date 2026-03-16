@@ -127,6 +127,11 @@ Word, Lord, son, man, face, Gog, land, Magog, chief, prince, Meshech, Tubal, pro
 
 **Christ's Glory:** magnify sanctify, known eyes, many nations, know Lord
 
+
+*AI Keywords for current event matching:*
+`army` `back` `blood` `bring` `chief` `christs` `company` `divine` `eyes` `face` `forth` `fury` `glory` `gog` `great` `judgment` `know` `known` `latter` `lord` `magnify` `magog` `many` `meshech` `mighty` `mountains` `nations` `pestilence` `prince` `sanctify` `set` `shaking` `sword` `tubal` `turn` `victory` `years`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

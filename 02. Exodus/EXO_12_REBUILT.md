@@ -117,6 +117,11 @@ God institutes the Passover — the defining redemptive event of the Old Testame
 - **Memorial / remembrance** → Exodus 12:14 — observe this day; Lord's Supper as memorial
 - **Haste / urgency** → Exodus 12:11 — eat in haste; loins girded; readiness
 
+
+*AI Keywords for current event matching:*
+`communion` `corinthians` `current` `events` `exodus` `foundational` `institution` `lords` `matching` `passover` `supper`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -163,6 +163,11 @@ Elihu, proceeded, suffer, shew, GOD, behalf, fetch, knowledge, ascribe, righteou
 
 **Natural Wonders:** delivereth poor affliction open ears oppression removed strait broad place straitness table full fatness fulfilled judgment wicked justice wrath stroke ransom deliver
 
+
+*AI Keywords for current event matching:*
+`affliction` `ascribe` `behalf` `bindeth` `bound` `broad` `cords` `cry` `days` `deliver` `delivereth` `despiseth` `die` `discipline` `divine` `ear` `ears` `elihu` `elihus` `exalted` `eyes` `false` `fatness` `fetch` `fetters` `fourth` `fulfilled` `full` `giveth` `god` `gods` `heap` `heart` `holden` `hypocrites` `iniquity` `judgment` `justice` `kings` `knowledge` `life` `maker` `mighty` `natural` `obey` `open` `oppression` `perfect` `perish` `place` `pleasures` `poor` `power` `preserveth` `proceeded` `prosperity` `ransom` `removed` `return` `right` `righteous` `righteousness` `serve` `shew` `sheweth` `speech` `strait` `straitness` `strength` `stroke` `suffer` `sword` `table` `throne` `transgressions` `unclean` `wicked` `wisdom` `withdraw` `wonders` `words` `work` `wrath` `years` `youth`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

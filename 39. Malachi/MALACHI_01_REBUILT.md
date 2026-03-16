@@ -127,6 +127,11 @@ Burden, word, LORD, Israel, Malachi, loved, LORD, Wherein, loved, Esau, Jacob, b
 
 **Universal Worship:** rising sun, great Gentiles, pure offering, great King
 
+
+*AI Keywords for current event matching:*
+`accept` `blind` `bread` `christs` `contemptible` `despise` `divine` `esau` `failure` `fear` `gentiles` `great` `hated` `honour` `jacob` `king` `laid` `lame` `love` `loved` `mountains` `name` `offering` `polluted` `priestly` `pure` `rising` `sacrifice` `sick` `sun` `table` `universal` `waste` `worship` `you`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

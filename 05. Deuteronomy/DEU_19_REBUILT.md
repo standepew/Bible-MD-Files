@@ -117,6 +117,11 @@ Moses commands establishing three cities of refuge in Canaan for accidental mans
 
 **Deterrent Effect:** Remain hear fear, commit no more evil, eye not pity, life for life, eye for eye, tooth for tooth, hand for hand, foot for foot
 
+
+*AI Keywords for current event matching:*
+`accidental` `add` `against` `avenger` `away` `axe` `blood` `case` `cities` `coast` `coasts` `commandments` `commit` `cut` `death` `deliver` `deterrent` `die` `diligent` `divide` `done` `effect` `elders` `enlarge` `established` `ever` `every` `evil` `expansion` `eye` `false` `fathers` `fear` `fetch` `flee` `foot` `give` `guilt` `hand` `hate` `hated` `head` `hear` `heart` `hew` `hot` `ignorantly` `inheritance` `innocent` `inquisition` `intentional` `judges` `keep` `kill` `killing` `land` `landmark` `lie` `life` `light` `live` `long` `lord` `love` `matter` `midst` `mortally` `murder` `nations` `neighbour` `off` `old` `one` `overtake` `parts` `past` `pity` `possess` `prepare` `priests` `property` `protection` `punishment` `pursue` `put` `refuge` `remain` `remove` `requirements` `rise` `send` `separate` `set` `shed` `slayer` `slip` `smite` `stand` `sworn` `territorial` `testified` `testify` `there` `thither` `thought` `three` `time` `tooth` `two` `wait` `walk` `way` `ways` `well` `witness` `witnesses` `wood` `worthy` `wrong`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

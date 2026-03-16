@@ -157,6 +157,11 @@ Parable, men, ought, pray, faint, judge, feared, God, regarded, man, widow, city
 
 **Healing of the Blind Man:** Jericho, blind man, way side, Son of David, receive sight, faith saved
 
+
+*AI Keywords for current event matching:*
+`accomplished` `adversary` `always` `avenge` `blind` `camel` `children` `coming` `commandments` `continual` `cost` `david` `day` `death` `delivered` `discipleship` `eternal` `exalted` `extortioners` `faith` `gentiles` `god` `good` `healing` `humbleth` `impossible` `infants` `jericho` `jerusalem` `jesus` `judge` `kept` `kingdom` `left` `life` `little` `man` `manifold` `master` `men` `merciful` `mocked` `needle` `parable` `persistent` `pharisee` `possible` `pray` `predicts` `prophets` `publican` `receive` `rich` `righteous` `ruler` `saved` `sell` `side` `sight` `sinner` `son` `sorrowful` `speedily` `spitted` `temple` `third` `touch` `trusted` `unjust` `way` `widow` `young`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -103,6 +103,11 @@ Paul, apostle, Jesus, Christ, will, God, saints, Ephesus, faithful, Christ, Jesu
 
 **Sealed with the Spirit:** heard, faith, Lord, Jesus, love, saints, cease, thanks, prayers, mention, God, Lord, Jesus, Christ, Father, glory, spirit, wisdom, revelation, knowledge, eyes, understanding, enlightened, hope, calling, riches, glory, inheritance, saints, exceeding, greatness, power, believe, working, mighty, power, wrought, Christ, raised, dead, set, right, hand, heavenly, places, principality, power, might, dominion, name, named, world, put, things, feet, gave, head, things, church, body, fulness, filleth
 
+
+*AI Keywords for current event matching:*
+`abounded` `accepted` `adoption` `apostle` `believe` `believed` `beloved` `blame` `blessed` `blessings` `blood` `body` `calling` `cease` `children` `chosen` `christ` `church` `counsel` `dead` `dispensation` `divine` `dominion` `earnest` `earth` `election` `enlightened` `ephesus` `exceeding` `eyes` `faith` `faithful` `father` `feet` `filleth` `forgiveness` `foundation` `fulness` `gather` `gave` `glory` `god` `good` `gospel` `grace` `greatness` `hand` `head` `heard` `heaven` `heavenly` `holy` `hope` `inheritance` `jesus` `knowledge` `lord` `love` `mention` `mighty` `mystery` `name` `named` `paul` `peace` `places` `pleasure` `possession` `power` `praise` `prayers` `predestinated` `principality` `promise` `prudence` `purchased` `purpose` `purposed` `put` `raised` `redemption` `revelation` `riches` `right` `saints` `salvation` `sealed` `set` `sins` `spirit` `spiritual` `thanks` `things` `times` `trusted` `truth` `understanding` `wisdom` `without` `word` `worketh` `working` `world` `wrought`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

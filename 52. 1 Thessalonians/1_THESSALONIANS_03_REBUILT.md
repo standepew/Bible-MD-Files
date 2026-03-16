@@ -91,6 +91,11 @@ Forbear, thought, good, left, Athens, alone, sent, Timotheus, brother, minister,
 
 **Established in Holiness:** end, stablish, hearts, unblameable, holiness, God, Father, coming, Lord, Jesus, Christ, saints
 
+
+*AI Keywords for current event matching:*
+`abound` `affliction` `afflictions` `alone` `appointed` `athens` `brother` `brought` `came` `charity` `christ` `comfort` `comforted` `coming` `concern` `day` `desiring` `direct` `distress` `end` `establish` `established` `exceedingly` `face` `faith` `fast` `father` `fellowlabourer` `forbear` `god` `good` `gospel` `greatly` `hearts` `holiness` `increase` `jesus` `joy` `know` `labour` `lacking` `left` `live` `lord` `love` `men` `minister` `moved` `night` `pass` `pauls` `perfect` `prayer` `praying` `remembrance` `render` `saints` `sakes` `sent` `stablish` `stand` `suffer` `tempted` `tempter` `thanks` `thessalonians` `thessalonica` `thought` `tidings` `timotheus` `timothy` `toward` `tribulation` `unblameable` `vain` `way`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -103,6 +103,11 @@ Day, say, LORD, praise, angry, anger, turned, away, comforted, Behold, God, salv
 
 **God's Strength:** LORD JEHOVAH strength, strength song, not afraid, Holy One Israel
 
+
+*AI Keywords for current event matching:*
+`afraid` `become` `call` `christs` `cry` `declare` `divine` `doings` `draw` `exalted` `excellent` `god` `gods` `holy` `israel` `jehovah` `joy` `lord` `name` `one` `praise` `salvation` `shout` `song` `spiritual` `strength` `things` `trust` `water` `wells`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

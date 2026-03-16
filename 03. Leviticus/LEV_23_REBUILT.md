@@ -83,6 +83,11 @@ God gives Moses the complete calendar of His appointed times. The weekly Sabbath
 - **Feast of Tabernacles / booths / Sukkot** → Leviticus 23:34-43 — Revelation 21:3; John 7:37-38
 - **Gleaning / care for the poor amid celebration** → Leviticus 23:22 — Ruth 2; James 2:14-17
 
+
+*AI Keywords for current event matching:*
+`216-17` `appointed` `calendar` `colossians` `current` `events` `feasts` `gods` `leviticus` `lords` `matching` `prophetic` `timeline` `times`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS WITH CONTEXTUAL DEFINITIONS

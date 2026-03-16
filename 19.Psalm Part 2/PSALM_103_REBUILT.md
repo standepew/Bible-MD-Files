@@ -211,6 +211,11 @@ Psalm, David, bless, LORD, soul, bless, holy, name, bless, LORD, soul, forget, b
 
 **God's Mercy:** LORD merciful gracious slow anger plenteous mercy, heaven high earth great mercy, mercy everlasting, father pitieth children
 
+
+*AI Keywords for current event matching:*
+`angels` `anger` `benefits` `bless` `blessing` `children` `david` `dealt` `diseases` `divine` `dominion` `eagle` `earth` `east` `everlasting` `father` `forget` `forgiveness` `forgiveth` `gods` `good` `gracious` `great` `healeth` `healing` `heaven` `high` `holy` `hosts` `iniquities` `lord` `merciful` `mercy` `mouth` `name` `pitieth` `places` `plenteous` `power` `psalm` `removed` `renewed` `rewarded` `satisfieth` `sins` `slow` `soul` `things` `transgressions` `west` `works` `youth`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

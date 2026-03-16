@@ -107,6 +107,11 @@ Ephraim's men complain sharply that Gideon didn't call them to fight Midianites.
 
 **Posthumous Apostasy:** Gideon dead children Israel turned whoring Baalim, Baal-berith god, remembered LORD God delivered hands enemies side, kindness house Jerubbaal Gideon goodness Israel
 
+
+*AI Keywords for current event matching:*
+`abated` `abi-ezer` `abi-ezrites` `abimelech` `able` `age` `alive` `anger` `answered` `apostasy` `army` `arose` `baal-berith` `baalim` `bare` `battle` `beat` `begotten` `behold` `body` `bread` `break` `brethren` `briers` `buried` `called` `camels` `cast` `caught` `chains` `chide` `children` `city` `collars` `come` `comparison` `complaint` `concubine` `crossing` `days` `dead` `death` `delivered` `described` `destruction` `died` `discomfited` `divine` `drew` `dwelt` `earrings` `east` `elders` `enemies` `enemy` `enquired` `ephod` `ephraim` `ephraims` `faint` `fall` `family` `father` `feared` `fifteen` `fight` `final` `firstborn` `fled` `flesh` `forty` `garment` `gideon` `gideons` `give` `god` `gold` `golden` `good` `goodness` `grapes` `hand` `hands` `heads` `host` `hosts` `house` `hundred` `idolatry` `ishmaelites` `israel` `jerubbaal` `jether` `joash` `jogbehah` `jordan` `karkor` `kindness` `king` `kings` `kingship` `left` `lifted` `likewise` `liveth` `loaves` `lord` `man` `many` `men` `midian` `midianites` `mother` `necks` `nobah` `offered` `old` `ophrah` `oreb` `ornaments` `passed` `peace` `penuel` `penuels` `people` `period` `posthumous` `prey` `princes` `punishment` `purple` `pursued` `pursuing` `quietness` `raiment` `refusal` `rejection` `remembered` `request` `resembled` `return` `returned` `rise` `rule` `saved` `saying` `secure` `sepulchre` `served` `seven` `seventeen` `sharply` `shechem` `shekels` `side` `slay` `slew` `smote` `snare` `son` `sons` `spake` `spread` `strength` `subdued` `succoth` `succoths` `sun` `sword` `tabor` `taught` `tear` `ten` `tents` `thorns` `thousand` `three` `threescore` `took` `tower` `turned` `twenty` `upbraid` `victory` `vintage` `weary` `weight` `whoring` `wilderness` `willingly` `wives` `years` `young` `youth` `zalmunna` `zebah` `zeeb`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -127,6 +127,11 @@ Psalm, David, fled, Absalom, son, LORD, trouble, increased, rise, against, soul,
 
 **Victory Over Enemies:** broken teeth ungodly, salvation LORD blessing people Selah, LORD trouble increased rise against
 
+
+*AI Keywords for current event matching:*
+`absalom` `afraid` `against` `arise` `awaked` `blessing` `bone` `broken` `cheek` `cried` `david` `divine` `enemies` `fled` `glory` `god` `head` `heard` `help` `hill` `holy` `increased` `laid` `lifter` `lord` `many` `morning` `people` `prayer` `protection` `psalm` `rise` `round` `salvation` `save` `say` `selah` `set` `shield` `slept` `smitten` `son` `soul` `sustained` `teeth` `ten` `there` `thousands` `trouble` `trust` `ungodly` `victory` `voice`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

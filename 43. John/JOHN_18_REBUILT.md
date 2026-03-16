@@ -139,6 +139,11 @@ Spoken, words, disciples, brook, Cedron, garden, disciples, Judas, betrayed, kne
 
 **Jesus Before Pilate:** Pilate hall, King Jews, thing thyself, tellers Pilate, Jew nation, chief priests, delivered done, kingdom world, servants fight, kingdom hence, king born, bear witness, truth heareth, What truth, no fault, custom release, passover release, King Jews, cried Barabbas, robber
 
+
+*AI Keywords for current event matching:*
+`accusation` `again` `annas` `another` `arrest` `ask` `asked` `backward` `band` `barabbas` `bear` `betrayal` `betrayed` `born` `bound` `brook` `caiaphas` `cedron` `chief` `coals` `cock` `crew` `cried` `cup` `custom` `cut` `damsel` `death` `defiled` `delivered` `denials` `denied` `disciple` `disciples` `doctrine` `done` `door` `ear` `early` `evil` `father` `fault` `fell` `fight` `fire` `fulfilled` `garden` `ground` `hall` `heard` `heareth` `hence` `high` `himself` `jesus` `jew` `jews` `judas` `judge` `judgment` `king` `kingdom` `kinsman` `knew` `knowing` `known` `lanterns` `law` `lawful` `led` `let` `lost` `malchus` `malefactor` `men` `morning` `nation` `nazareth` `none` `nothing` `openly` `palace` `passover` `peter` `peters` `pilate` `place` `priest` `priests` `release` `robber` `saying` `secret` `seek` `servant` `servants` `simon` `struck` `sword` `synagogue` `tellers` `temple` `thing` `things` `thyself` `torches` `truth` `warmed` `weapons` `went` `witness` `world` `year`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -151,6 +151,11 @@ Psalm, David, remembrance, LORD, rebuke, wrath, chasten, hot, displeasure, arrow
 
 **Prayer for Help:** Lord desire groaning hidden heart panteth strength faileth light eyes gone, seek life lay snares seek hurt speak mischievous imagine deceits day long, forsake LORD GOD far make haste help Lord salvation
 
+
+*AI Keywords for current event matching:*
+`afar` `aloof` `anger` `arrows` `bones` `bowed` `broken` `burden` `chasten` `chastening` `confession` `corrupt` `david` `day` `deaf` `deceits` `declare` `desire` `disease` `displeasure` `disquietness` `divine` `dumb` `eyes` `faileth` `far` `feeble` `filled` `flesh` `foolishness` `forsake` `friends` `god` `gone` `groaning` `hand` `haste` `head` `hear` `heart` `heavy` `help` `hidden` `hope` `hot` `hurt` `imagine` `iniquities` `iniquity` `kinsmen` `lay` `life` `light` `loathsome` `loins` `long` `lord` `lovers` `make` `mischievous` `mourning` `mouth` `open` `panteth` `prayer` `presseth` `psalm` `rebuke` `remembrance` `reproofs` `rest` `roared` `salvation` `seek` `sin` `snares` `sore` `sorry` `soundness` `speak` `stand` `stick` `stink` `strength` `suffering` `troubled` `wounds` `wrath`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -127,6 +127,11 @@ Son, man, prophesy, Gog, Lord, GOD, Gog, chief, prince, Meshech, Tubal, turn, si
 
 **Christ's Spirit:** poured spirit, hide face, holy name, sanctified nations
 
+
+*AI Keywords for current event matching:*
+`back` `birds` `bow` `burn` `bury` `christs` `cleanse` `defeat` `divine` `face` `fall` `field` `fire` `gog` `gogs` `hide` `holy` `know` `land` `lord` `magog` `mountains` `name` `nations` `part` `poured` `prophesy` `ravenous` `restoration` `sanctified` `sixth` `smite` `spirit` `turn` `victory` `weapons`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

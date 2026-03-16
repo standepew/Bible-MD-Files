@@ -127,6 +127,11 @@ Psalm, Song, dedication, house, David, extol, LORD, lifted, foes, rejoice, LORD,
 
 **Dancing for Gladness:** mourning dancing sackcloth gladness, sing LORD saints give thanks remembrance holiness, give thanks forever
 
+
+*AI Keywords for current event matching:*
+`alive` `anger` `brought` `cried` `dancing` `david` `dedication` `endure` `extol` `face` `favor` `favour` `foes` `forever` `girded` `give` `gladness` `glory` `god` `gods` `grave` `healed` `healing` `hide` `holiness` `house` `joy` `kept` `life` `lifted` `lord` `moment` `morning` `mountain` `mourning` `moved` `never` `night` `pit` `praise` `prosperity` `psalm` `put` `rejoice` `remembrance` `sackcloth` `saints` `silent` `sing` `song` `soul` `stand` `strong` `thanks` `thanksgiving` `troubled` `turned` `weeping`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -99,6 +99,11 @@ The whole Israel congregation assembles at Shiloh and sets up the tabernacle the
 
 **Benjamin's Cities:** Cities tribe children Benjamin families, Jericho Beth-hoglah valley Keziz, Beth-arabah Zemaraim Beth-el, Avim Parah Ophrah, Chephar-haammonai Ophni Gaba, twelve cities villages, Gibeon Ramah Beeroth, Mizpeh Chephirah Mozah, Rekem Irpeel Taralah, Zelah Eleph Jebusi Jerusalem Gibeath Kirjath, fourteen cities villages, inheritance children Benjamin families
 
+
+*AI Keywords for current event matching:*
+`abide` `adummim` `arabah` `arose` `assembled` `assembly` `ataroth-adar` `avim` `bay` `beeroth` `benjamin` `benjamins` `beth-arabah` `beth-aven` `beth-el` `beth-hoglah` `beth-horon` `bohan` `book` `border` `boundaries` `cast` `charged` `chephar-haammonai` `chephirah` `children` `cities` `city` `coast` `coasts` `compassed` `completion` `congregation` `corner` `descended` `describe` `described` `description` `divide` `divided` `divisions` `drawn` `east` `eleph` `en-rogel` `en-shemesh` `end` `families` `fathers` `fourteen` `gaba` `gad` `gave` `geliloth` `giants` `gibeath` `gibeon` `given` `god` `going` `goings` `half` `hill` `hinnom` `host` `house` `inheritance` `instructions` `irpeel` `israel` `jebusi` `jericho` `jerusalem` `jordan` `joseph` `joshua` `judah` `keziz` `kirjath` `kirjath-baal` `kirjath-jearim` `land` `levites` `lord` `lot` `lots` `luz` `manasseh` `men` `mizpeh` `moses` `mountain` `mountains` `mozah` `nephtoah` `nether` `north` `northward` `ophni` `ophrah` `outgoings` `parah` `part` `parts` `passed` `possess` `priesthood` `quarter` `ramah` `received` `rekem` `remained` `reuben` `rise` `salt` `sea` `send` `servant` `set` `seven` `shiloh` `side` `slack` `son` `south` `southward` `stone` `subdued` `survey` `tabernacle` `taralah` `three` `tribe` `tribes` `twelve` `unpossessed` `valley` `villages` `walk` `waters` `well` `went` `west` `westward` `wilderness` `zelah` `zemaraim`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

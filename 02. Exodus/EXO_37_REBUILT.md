@@ -67,6 +67,11 @@ Bezaleel himself makes the Ark of shittim wood — 2.5 by 1.5 by 1.5 cubits — 
 - **Angelic witness to redemption** → Exodus 37:7-9 — cherubim facing the mercy seat; 1 Peter 1:12
 - **Intercession / the incense altar** → Exodus 37:25-29 — Revelation 8:3-4
 
+
+*AI Keywords for current event matching:*
+`atonement` `christ` `current` `events` `exodus` `john` `matching` `mercy` `propitiation` `romans` `seat`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

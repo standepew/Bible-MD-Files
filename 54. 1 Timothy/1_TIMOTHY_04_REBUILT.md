@@ -93,6 +93,11 @@ Spirit, speaketh, expressly, latter, times, depart, faith, heeding, seducing, sp
 
 **Timothy's Example and Gift:** neglect, gift, prophecy, laying, hands, presbytery, meditate, things, wholly, profiting, appear, heed, doctrine, continue, save, thyself, hear
 
+
+*AI Keywords for current event matching:*
+`abstain` `acceptation` `apostasy` `appear` `attained` `attendance` `believe` `believers` `bodily` `brethren` `charity` `christ` `command` `commanding` `conscience` `continue` `conversation` `created` `creature` `depart` `despise` `devils` `doctrine` `doctrines` `example` `exercise` `exhortation` `expressly` `fables` `faith` `faithful` `false` `forbidding` `gift` `god` `godliness` `good` `hands` `hear` `heed` `heeding` `hot` `hypocrisy` `iron` `jesus` `know` `labour` `latter` `laying` `lies` `life` `little` `living` `marry` `meats` `meditate` `men` `minister` `neglect` `nourished` `prayer` `presbytery` `profane` `profitable` `profiteth` `profiting` `promise` `prophecy` `purity` `reading` `received` `refuse` `refused` `remembrance` `reproach` `sanctified` `save` `saviour` `saying` `seared` `seducing` `speaketh` `speaks` `specially` `spirit` `spirits` `suffer` `teach` `teachings` `thanksgiving` `things` `thyself` `times` `timothys` `trust` `truth` `wholly` `wives` `word` `words` `youth`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

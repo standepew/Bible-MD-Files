@@ -127,6 +127,11 @@ Prisoner, Lord, beseech, walk, worthy, vocation, called, lowliness, meekness, lo
 
 **Christian Conduct:** putting, lying, speak, truth, neighbour, members, angry, sin, sun, wrath, place, devil, stole, steal, labour, hands, good, needeth, corrupt, communication, mouth, edifying, minister, grace, hearers, grieve, holy, Spirit, God, sealed, redemption, bitterness, wrath, anger, clamour, evil, speaking, malice, kind, tenderhearted, forgiving, God, Christ, forgiven
 
+
+*AI Keywords for current event matching:*
+`alienated` `anger` `angry` `apostles` `ascended` `baptism` `beseech` `bitterness` `blindness` `body` `bond` `called` `calling` `captive` `captivity` `carried` `children` `christ` `christian` `clamour` `communication` `compacted` `conduct` `conversation` `corrupt` `craftiness` `created` `cunning` `darkened` `deceitful` `deceive` `descended` `devil` `doctrine` `earth` `edifying` `effectual` `endeavouring` `evangelists` `evil` `faith` `father` `feeling` `fill` `fitly` `forbearing` `forgiven` `forgiving` `former` `fulness` `gave` `gentiles` `gift` `gifts` `god` `good` `grace` `greediness` `grieve` `grow` `hands` `head` `heard` `hearers` `heart` `heavens` `high` `holiness` `holy` `hope` `ignorance` `increase` `jesus` `joined` `joint` `kind` `knowledge` `labour` `lasciviousness` `learned` `led` `life` `longsuffering` `lord` `love` `lower` `lowliness` `lusts` `lying` `malice` `man` `measure` `meekness` `members` `men` `mind` `minister` `ministry` `mouth` `needeth` `neighbour` `new` `old` `part` `parts` `pastors` `peace` `perfect` `perfecting` `place` `prisoner` `prophets` `put` `putting` `redemption` `renewed` `righteousness` `saints` `sealed` `sin` `sleight` `son` `speak` `speaking` `spirit` `stature` `steal` `stole` `sun` `supplieth` `taught` `teachers` `tenderhearted` `testify` `things` `tossed` `truth` `uncleanness` `understanding` `unity` `vanity` `vocation` `wait` `walk` `wind` `work` `working` `worthy` `wrath`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

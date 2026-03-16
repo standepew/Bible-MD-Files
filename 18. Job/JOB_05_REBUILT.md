@@ -139,6 +139,11 @@ Call, answer, saints, turn. Wrath, killeth, foolish, envy, slay, silly. Foolish,
 
 **Chastening and Healing:** wise craftiness counsel froward headlong, darkness daytime grope noonday night, saveth poor sword mouth mighty, poor hope iniquity mouth
 
+
+*AI Keywords for current event matching:*
+`affliction` `answer` `born` `call` `cause` `chastening` `children` `commit` `counsel` `craftiness` `crafty` `crushed` `cursed` `darkness` `daytime` `deliver` `devices` `disappoints` `divine` `dust` `earth` `enterprise` `envy` `exalted` `far` `fields` `folly` `fool` `foolish` `froward` `gate` `god` `great` `grope` `ground` `habitation` `hands` `harvest` `headlong` `healing` `high` `hope` `hungry` `iniquity` `killeth` `low` `man` `marvellous` `mighty` `mourn` `mouth` `night` `noonday` `number` `poor` `providence` `rain` `robber` `root` `safety` `saints` `saveth` `seek` `set` `silly` `slay` `sparks` `substance` `sword` `thorns` `trouble` `turn` `unsearchable` `upward` `waters` `wise` `wrath`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

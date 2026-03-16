@@ -151,6 +151,11 @@ Disciples, rich, man, steward, accused, wasted, goods, called, account, stewards
 
 **The Rich Man and Lazarus:** purple linen, sumptuously, beggar Lazarus, Abraham bosom, great gulf
 
+
+*AI Keywords for current event matching:*
+`abraham` `account` `beggar` `bosom` `esteemed` `faithful` `faithfulness` `god` `goods` `great` `gulf` `highly` `hundred` `justify` `lazarus` `least` `linen` `little` `mammon` `man` `masters` `measures` `much` `parable` `purple` `rich` `riches` `serve` `serving` `steward` `stewardship` `sumptuously` `things` `true` `two` `unjust` `wasted` `yourselves`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

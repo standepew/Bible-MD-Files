@@ -87,6 +87,11 @@ Samuel told Saul the LORD sent him to anoint Saul king over Israel, so hearken t
 
 **Final Separation:** Samuel Ramah Saul house Gibeah Saul, Samuel Saul death day mourned Saul LORD repented Saul king Israel
 
+
+*AI Keywords for current event matching:*
+`agag` `agags` `alive` `amalek` `amalekites` `anointed` `ass` `best` `better` `bitterness` `bleating` `blessed` `burnt` `camel` `campaign` `carmel` `chief` `childless` `children` `city` `command` `commandment` `commandments` `consumed` `cried` `day` `death` `delicately` `depart` `departed` `destroy` `destroyed` `disobedience` `ears` `edge` `egypt` `elders` `evil` `excuse` `execution` `fat` `fatlings` `feared` `fight` `final` `flew` `following` `footmen` `gathered` `gibeah` `gilgal` `god` `good` `grieved` `havilah` `head` `heard` `hearken` `hewed` `honour` `hosts` `house` `hundred` `idolatry` `infant` `iniquity` `israel` `journey` `judah` `kenites` `kindness` `king` `kingdom` `laid` `lambs` `lie` `little` `lord` `lowing` `man` `mantle` `men` `morning` `mother` `mourned` `neighbour` `night` `numbered` `obey` `obeyed` `obeying` `offerings` `oxen` `pardon` `passed` `past` `people` `performed` `pieces` `place` `pray` `ramah` `rams` `rebellion` `rebuke` `refuse` `rejected` `rejection` `remember` `rent` `repent` `repented` `rest` `return` `rose` `sacrifice` `sacrifices` `samuel` `samuels` `saul` `sauls` `sent` `separation` `set` `sheep` `shur` `sight` `sin` `sinned` `sinning` `skirt` `slay` `smite` `smote` `spare` `spared` `spoil` `stay` `strength` `stubbornness` `suckling` `sword` `telaim` `tell` `ten` `things` `thousand` `transgressed` `tribes` `turn` `turned` `two` `utterly` `valley` `vile` `voice` `wait` `way` `witchcraft` `woman` `women` `word` `words` `worship` `worshipped`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

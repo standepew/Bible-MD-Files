@@ -108,6 +108,11 @@ God instructs Moses to take a freewill offering from every willing heart: gold, 
 - **The Light of the World / the church as lampstand** → Exodus 25:37 — John 8:12; Revelation 1:20
 - **Freewill giving / generous offering** → Exodus 25:2 — "every man that giveth it willingly with his heart"
 
+
+*AI Keywords for current event matching:*
+`covenant` `current` `dwelling` `events` `exodus` `god` `john` `man` `matching` `purpose` `revelation` `ultimate`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

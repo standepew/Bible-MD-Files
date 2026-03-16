@@ -127,6 +127,11 @@ Burden, Habakkuk, prophet, O, LORD, long, cry, hear, cry, violence, save, shew, 
 
 **God's Sovereignty:** everlasting LORD, purer eyes, ordained judgment, fishes sea
 
+
+*AI Keywords for current event matching:*
+`behold` `bitter` `captivity` `chaldean` `christs` `compass` `cry` `divine` `dreadful` `everlasting` `eyes` `fishes` `gather` `gods` `grievance` `hasty` `hear` `horses` `iniquity` `judgment` `justice` `law` `long` `lord` `never` `ordained` `purer` `question` `save` `sea` `shew` `slacked` `sovereignty` `suffering` `swifter` `terrible` `wicked` `wrong`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

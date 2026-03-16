@@ -115,6 +115,11 @@ Followers, God, dear, children, walk, love, Christ, loved, given, offering, sacr
 
 **Marriage and Christ:** Wives, submit, husbands, Lord, husband, head, wife, Christ, head, church, saviour, body, church, subject, Christ, wives, husbands, Husbands, love, wives, Christ, loved, church, gave, sanctify, cleanse, washing, water, word, present, glorious, church, spot, wrinkle, holy, blemish, love, wives, bodies, loveth, wife, hated, flesh, nourish, cherish, Lord, church, members, body, flesh, bones, cause, leave, father, mother, joined, wife, flesh, mystery, speak, Christ, church, love, wife, reverence, husband
 
+
+*AI Keywords for current event matching:*
+`acceptable` `arise` `awake` `blemish` `bodies` `body` `bones` `cause` `cherish` `children` `christ` `church` `circumspectly` `cleanse` `convenient` `covetous` `covetousness` `darkness` `days` `dead` `dear` `deceive` `disobedience` `drunk` `evil` `excess` `father` `fear` `fellowship` `filled` `filthiness` `flesh` `followers` `foolish` `fools` `fornication` `fruit` `gave` `give` `given` `giving` `glorious` `god` `goodness` `hated` `head` `heart` `holy` `husband` `husbands` `hymns` `idolater` `inheritance` `jesting` `jesus` `joined` `kingdom` `know` `leave` `light` `living` `lord` `love` `loved` `loveth` `man` `manifest` `marriage` `melody` `members` `mother` `mystery` `name` `named` `nourish` `offering` `partakers` `person` `present` `proving` `psalms` `redeeming` `reprove` `reproved` `reverence` `righteousness` `sacrifice` `saints` `saith` `sanctify` `saviour` `savour` `secret` `shame` `singing` `sleepest` `songs` `speak` `speaking` `spirit` `spiritual` `spot` `subject` `submit` `submitting` `sweetsmelling` `talking` `thanks` `things` `time` `truth` `unclean` `uncleanness` `understanding` `unfruitful` `unwise` `vain` `walk` `washing` `water` `whoremonger` `wife` `wine` `wise` `wives` `word` `words` `works` `wrath` `wrinkle`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

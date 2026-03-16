@@ -127,6 +127,11 @@ Last, days, pass, mountain, house, LORD, established, top, mountains, exalted, h
 
 **Gentile Nations:** many nations, come mountain, judge many people, consecrate gain
 
+
+*AI Keywords for current event matching:*
+`assemble` `beat` `christs` `come` `consecrate` `days` `driven` `established` `exaltation` `exalted` `fig` `flock` `gain` `gather` `gentile` `halteth` `hills` `house` `judge` `kingdom` `last` `learn` `lord` `many` `millennial` `mount` `mountain` `nations` `peace` `people` `plowshares` `pruninghooks` `reign` `spears` `swords` `top` `tower` `tree` `universal` `vine` `war` `zion` `zions`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

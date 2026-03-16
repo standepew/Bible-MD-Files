@@ -127,6 +127,11 @@ Continue, sin, grace, abound, God, forbid, dead, sin, live, baptized, Jesus, Chr
 
 **Servants of Righteousness:** yield members, instruments, unrighteousness, sin yield, God alive, dead members, instruments, righteousness, God dominion, law grace, sin law, grace God, forbid yield, servants obey, servants obey, sin death, obedience, righteousness, God thanked, servants sin, obeyed heart, form doctrine, delivered made, free sin, servants, righteousness, speak manner, men infirmity, flesh yielded, members servants, uncleanness, iniquity, iniquity, yield members, servants, righteousness, holiness, servants sin, free, righteousness, fruit ashamed, end death, made free, sin servants, God fruit, holiness, end everlasting, life wages, sin death, gift God, eternal, life Jesus, Christ, Lord
 
+
+*AI Keywords for current event matching:*
+`abound` `alive` `ashamed` `baptism` `baptized` `body` `buried` `christ` `continue` `crucified` `dead` `death` `delivered` `destroyed` `died` `dieth` `doctrine` `dominion` `end` `eternal` `everlasting` `father` `flesh` `forbid` `form` `free` `freed` `fruit` `gift` `glory` `god` `grace` `heart` `holiness` `infirmity` `iniquity` `instruments` `jesus` `knowing` `law` `life` `likeness` `live` `liveth` `lord` `lusts` `made` `manner` `members` `men` `mortal` `newness` `obedience` `obey` `obeyed` `old` `planted` `raised` `reckon` `reign` `resurrection` `righteousness` `servants` `serve` `sin` `speak` `thanked` `uncleanness` `unrighteousness` `wages` `walk` `yield` `yielded`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

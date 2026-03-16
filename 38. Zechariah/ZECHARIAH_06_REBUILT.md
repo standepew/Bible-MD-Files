@@ -103,6 +103,11 @@ Turned, lifted, eyes, looked, four, chariots, two, mountains, mountains, brass, 
 
 **Priest-King Messiah:** priest throne, rule throne, counsel peace, far off build
 
+
+*AI Keywords for current event matching:*
+`bay` `bear` `black` `branch` `brass` `build` `chariots` `christs` `counsel` `crowned` `divine` `far` `four` `glory` `grisled` `grow` `horses` `judgment` `messiah` `mountains` `name` `off` `peace` `place` `priest` `priest-king` `quieted` `red` `rule` `spirit` `spirits` `temple` `throne` `white`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

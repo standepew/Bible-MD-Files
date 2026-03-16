@@ -163,6 +163,11 @@ Days, Ahasuerus, reigned, India, Ethiopia, hundred, seven, twenty, provinces. Ki
 
 **Male Authority:** Carshena Shethar Admatha Tarshish Meres Marsena Memucan seven princes Persia Media king face first kingdom, queen Vashti law performed commandment king Ahasuerus chamberlains, Memucan answered king princes queen Vashti wrong king princes people provinces king Ahasuerus, deed queen abroad women despise husbands eyes reported king Ahasuerus commanded Vashti queen came, ladies Persia Media day king princes heard deed queen arise contempt wrath, please king royal commandment written laws Persians Medes altered Vashti king Ahasuerus king royal estate better, king decree published empire great wives husbands honour great small, saying pleased king princes king word Memucan, sent letters king provinces province writing people language man rule house published language people
 
+
+*AI Keywords for current event matching:*
+`abagtha` `abroad` `abundance` `admatha` `ahasuerus` `altered` `anger` `answered` `appointed` `arise` `authority` `beauty` `beds` `better` `bigtha` `biztha` `black` `blue` `bring` `burned` `came` `carcas` `carshena` `chamberlains` `commanded` `commandment` `compel` `contempt` `cords` `court` `crown` `day` `days` `decree` `deed` `defiance` `despise` `diverse` `drink` `drinking` `empire` `estate` `ethiopia` `excellent` `expired` `eyes` `face` `fair` `fastened` `feast` `fine` `first` `fourscore` `garden` `glorious` `gold` `great` `green` `hangings` `harbona` `heard` `heart` `honour` `house` `hundred` `husbands` `india` `judgment` `king` `kingdom` `knew` `ladies` `language` `law` `laws` `letters` `linen` `look` `majesty` `male` `man` `manner` `marble` `marsena` `medes` `media` `mehuman` `memucan` `men` `meres` `merry` `nobles` `none` `officers` `palace` `pavement` `people` `performed` `persia` `persians` `pillars` `please` `pleased` `pleasure` `power` `princes` `province` `provinces` `published` `purple` `queen` `queens` `red` `refused` `reign` `reigned` `reported` `riches` `rings` `royal` `rule` `saying` `sent` `servants` `served` `seven` `seventh` `shethar` `shewed` `shushan` `silver` `small` `state` `tarshish` `third` `throne` `times` `twenty` `vashti` `vessels` `white` `wine` `wise` `wives` `women` `word` `wrath` `writing` `written` `wrong` `wroth` `year` `zethar`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -179,6 +179,11 @@ First, day, week, early, morning, came, sepulchre, spices, prepared, found, ston
 
 **The Ascension:** tarry Jerusalem, endued power, led Bethany, lifted hands, carried heaven, praising God
 
+
+*AI Keywords for current event matching:*
+`appears` `ascension` `bethany` `body` `bones` `bread` `breaking` `broiled` `burn` `carried` `clothes` `commission` `communed` `day` `dead` `disciples` `early` `emmaus` `empty` `endued` `eyes` `father` `first` `fish` `flesh` `found` `galilee` `garments` `god` `great` `hands` `heart` `heaven` `holden` `idle` `indeed` `jerusalem` `jesus` `law` `led` `lifted` `linen` `living` `morning` `moses` `nations` `nazareth` `peace` `power` `praising` `preached` `promise` `prophets` `psalms` `reasoned` `remembered` `remission` `repentance` `resurrection` `risen` `road` `rolled` `sepulchre` `shining` `spices` `stone` `tales` `tarry` `things` `third` `thoughts` `tomb` `troubled` `village` `witnesses` `words`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

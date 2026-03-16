@@ -127,6 +127,11 @@ Believed, report, arm, LORD, revealed, grow, tender, plant, root, dry, ground, f
 
 **Christ's Sacrifice:** soul offering sin, poured soul death, bare sin, intercession transgressors
 
+
+*AI Keywords for current event matching:*
+`acquainted` `afflicted` `astray` `atonement` `bare` `bruised` `chastisement` `christs` `death` `despised` `divine` `gone` `grief` `healed` `healing` `iniquities` `iniquity` `intercession` `justify` `laid` `man` `many` `men` `offering` `oppressed` `peace` `poured` `rejected` `sacrifice` `sheep` `sin` `sorrows` `soul` `spiritual` `stripes` `suffering` `transgressions` `transgressors` `wounded`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

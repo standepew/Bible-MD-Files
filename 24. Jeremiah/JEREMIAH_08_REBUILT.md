@@ -103,6 +103,11 @@ Time, LORD, bones, kings, Judah, bones, princes, bones, priests, bones, prophets
 
 **Christ's Healing:** balm Gilead, physician there, health recovered, hurt daughter people
 
+
+*AI Keywords for current event matching:*
+`astonishment` `backsliding` `balm` `black` `blindness` `bones` `chosen` `christs` `consume` `daughter` `death` `deceit` `divine` `dung` `earth` `face` `faint` `fast` `gilead` `graves` `healing` `health` `heart` `hold` `hurt` `judgment` `know` `law` `life` `people` `perpetual` `physician` `recovered` `sorrow` `spiritual` `taken` `there` `vain`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

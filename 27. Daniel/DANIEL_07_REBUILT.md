@@ -103,6 +103,11 @@ First, year, Belshazzar, king, Babylon, Daniel, dream, visions, head, bed, wrote
 
 **Saints' Victory:** saints Highest, take kingdom, possess kingdom, judgment saints
 
+
+*AI Keywords for current event matching:*
+`ancient` `burning` `christs` `clouds` `days` `destroyed` `dominion` `everlasting` `fiery` `garment` `glory` `hair` `heaven` `highest` `judgment` `kingdom` `man` `obey` `possess` `pure` `saints` `serve` `son` `take` `throne` `victory` `wheels` `white` `wool`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -151,6 +151,11 @@ Praise, LORD, Blessed, man, feareth, LORD, delighteth, commandments, seed, might
 
 **Eternal Security:** not moved forever, righteous everlasting remembrance, heart fixed trusting LORD
 
+
+*AI Keywords for current event matching:*
+`arises` `blessed` `blessing` `character` `commandments` `compassion` `darkness` `delighteth` `earth` `endureth` `eternal` `everlasting` `favour` `feareth` `fixed` `forever` `full` `generation` `generational` `good` `gracious` `heart` `lendeth` `light` `lord` `man` `mighty` `moved` `remembrance` `righteous` `righteousness` `security` `seed` `sheweth` `trusting` `upright`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

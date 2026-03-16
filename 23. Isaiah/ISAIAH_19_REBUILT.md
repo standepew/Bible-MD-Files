@@ -127,6 +127,11 @@ Burden, Egypt, Behold, LORD, rideth, swift, cloud, come, Egypt, idols, Egypt, mo
 
 **Christ's Healing:** smite heal, return LORD, intreated heal, highway Egypt Assyria
 
+
+*AI Keywords for current event matching:*
+`altar` `assyria` `border` `burden` `christs` `cruel` `egypt` `egypts` `fail` `fall` `fierce` `fishers` `heal` `healing` `heart` `highway` `idols` `intreated` `judgment` `king` `known` `lord` `melt` `mourn` `moved` `pillar` `reeds` `return` `sign` `smite` `spirit` `spiritual` `transformation` `waters` `wither` `witness`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

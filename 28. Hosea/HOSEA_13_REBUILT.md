@@ -103,6 +103,11 @@ Ephraim, spake, trembling, exalted, Israel, offended, Baal, died, sin, molten, i
 
 **Final Destruction:** east wind, spring dry, fountain dried, Samaria desolate
 
+
+*AI Keywords for current event matching:*
+`bear` `chaff` `chimney` `christs` `cloud` `death` `deaths` `desolate` `destruction` `divine` `dried` `drought` `dry` `east` `final` `fountain` `god` `grave` `judgment` `know` `lord` `morning` `plagues` `ransom` `redeem` `samaria` `saviour` `smoke` `sovereignty` `spring` `whelps` `whirlwind` `wilderness` `wind`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

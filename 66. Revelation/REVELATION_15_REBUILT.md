@@ -81,6 +81,11 @@ Sign, heaven, great, marvellous, seven, angels, seven, last, plagues, filled, wr
 
 **The Seven Angels with Vials:** four, beasts, gave, seven, angels, seven, golden, vials, full, wrath, God, liveth, temple, filled, smoke, glory, God, power, enter, temple, seven, plagues, seven, angels, fulfilled
 
+
+*AI Keywords for current event matching:*
+`almighty` `angels` `beast` `beasts` `breasts` `clothed` `enter` `fear` `filled` `fire` `four` `fulfilled` `full` `gave` `girded` `girdles` `glass` `glorify` `glory` `god` `golden` `gotten` `great` `harps` `heaven` `holy` `image` `judgments` `king` `lamb` `last` `linen` `liveth` `looked` `lord` `manifest` `mark` `marvellous` `mingled` `moses` `name` `nations` `number` `opened` `plagues` `power` `pure` `saints` `sea` `servant` `seven` `sign` `sing` `smoke` `song` `stand` `tabernacle` `temple` `testimony` `true` `vials` `victory` `ways` `white` `works` `worship` `wrath`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

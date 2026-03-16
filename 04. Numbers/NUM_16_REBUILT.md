@@ -66,6 +66,11 @@ This is the climax of the chapter and one of the most vivid typological moments 
 - **Plague / judgment on the congregation** → Numbers 16:46-49 — 1 Corinthians 10:10; Numbers 8:19
 - **Making oneself a leader without divine appointment** → Numbers 16:13 — Acts 5:36-39; 1 Samuel 15:17
 
+
+*AI Keywords for current event matching:*
+`131-2` `162-3` `against` `appointed` `current` `divinely` `events` `jude` `leadership` `matching` `numbers` `rebellion` `romans`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS WITH CONTEXTUAL DEFINITIONS

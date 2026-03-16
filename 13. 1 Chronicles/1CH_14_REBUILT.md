@@ -117,6 +117,11 @@ Hiram, king, Tyre, sent, messengers, David, timber, cedars, masons, carpenters, 
 
 **Universal Fame:** fame David lands LORD brought fear nations
 
+
+*AI Keywords for current event matching:*
+`abroad` `again` `anointed` `away` `baal-perazim` `battle` `beeliada` `begat` `breaking` `broken` `brought` `build` `burned` `called` `came` `carpenters` `cedars` `children` `come` `commanded` `commandment` `confirmed` `conflicts` `daughters` `david` `davids` `deliver` `divine` `eliphalet` `elishama` `elishua` `elpalet` `enemies` `enquired` `fame` `family` `fear` `fire` `gazer` `gibeon` `god` `gods` `going` `gone` `hand` `hear` `heard` `high` `hiram` `host` `house` `ibhar` `international` `israel` `japhia` `jerusalem` `king` `kingdom` `lands` `left` `lifted` `lord` `masons` `messengers` `military` `mulberry` `names` `nathan` `nations` `nepheg` `nogah` `people` `perceived` `philistine` `philistines` `place` `recognition` `rephaim` `said` `seek` `sent` `shammua` `shobab` `smite` `smote` `solomon` `sons` `sound` `spread` `strategy` `timber` `told` `took` `tops` `trees` `turn` `tyre` `universal` `valley` `waters` `went` `wives`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

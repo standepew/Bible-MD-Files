@@ -175,6 +175,11 @@ Entered, Capernaum, days, noised, house, straightway, gathered, room, receive, d
 
 **Sabbath Authority:** bridegroom fast, new cloth, new wine, Lord sabbath
 
+
+*AI Keywords for current event matching:*
+`amazed` `arise` `authority` `bed` `bridegroom` `calling` `christs` `cloth` `custom` `earth` `faith` `fashion` `fast` `follow` `forgiven` `forgiveness` `glorified` `god` `healing` `levi` `lord` `man` `new` `palsy` `power` `publicans` `receipt` `righteous` `sabbath` `sick` `sinners` `sins` `son` `wine`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

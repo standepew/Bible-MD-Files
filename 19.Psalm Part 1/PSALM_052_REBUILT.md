@@ -103,6 +103,11 @@ Chief, Musician, Maschil, Psalm, David, Doeg, Edomite, came, told, Saul, David, 
 
 **Righteous Trust:** green olive tree house GOD trust mercy GOD forever, praise forever done wait name good saints, I trust mercy GOD forever
 
+
+*AI Keywords for current event matching:*
+`abundance` `ahimelech` `boastest` `boasting` `came` `chief` `continually` `david` `deceitful` `deceitfully` `destroy` `deviseth` `devouring` `doeg` `done` `dwelling` `edomite` `endure` `evil` `fear` `forever` `god` `gods` `good` `goodness` `green` `house` `judgment` `land` `laugh` `living` `lovest` `lying` `made` `man` `maschil` `mercy` `mighty` `mischief` `musician` `name` `olive` `place` `pluck` `praise` `psalm` `razor` `riches` `righteous` `righteousness` `root` `saints` `saul` `see` `sharp` `speak` `strength` `strengthened` `take` `told` `tongue` `tree` `trust` `trusted` `wait` `wickedness` `wickeds` `words` `working`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

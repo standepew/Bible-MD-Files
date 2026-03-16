@@ -153,6 +153,11 @@ Manasseh, twelve, years, reigned, fifty, five, years, Jerusalem, evil, sight, LO
 
 **Royal Summary:** acts Manasseh prayer GOD seers spake name LORD GOD Israel book kings Israel, prayer GOD intreated sin trespass high places groves graven images humbled sayings seers, Manasseh slept fathers buried house Amon son reigned stead
 
+
+*AI Keywords for current event matching:*
+`abominations` `acts` `affliction` `altar` `altars` `amon` `amons` `anger` `appointed` `assyria` `baalim` `babylon` `besought` `book` `broken` `brought` `buried` `captains` `carved` `cast` `children` `chosen` `cities` `city` `commanded` `conspired` `courts` `david` `destroyed` `divine` `enchantments` `entering` `err` `evil` `familiar` `father` `fathers` `fenced` `fetters` `fifty` `fire` `fish` `five` `foot` `forever` `gate` `gihon` `god` `gods` `graven` `great` `greatly` `groves` `hand` `heard` `hearken` `heathen` `heaven` `heed` `height` `hezekiah` `high` `hinnom` `host` `house` `humbled` `idol` `image` `images` `inhabitants` `intreated` `israel` `jerusalem` `josiah` `judah` `judgment` `king` `kingdom` `kings` `knew` `land` `law` `lord` `manasseh` `moses` `mount` `name` `observed` `offerings` `ophel` `ordinances` `peace` `people` `places` `prayed` `prayer` `provoke` `reign` `reigned` `remove` `repaired` `repentance` `restoration` `royal` `sacrifice` `sacrificed` `sayings` `seers` `servants` `serve` `served` `side` `sight` `sin` `slept` `slew` `solomon` `son` `spake` `spirit` `statutes` `stead` `strange` `summary` `supplication` `thank` `thorns` `times` `trespass` `trespassed` `tribes` `twelve` `twenty` `two` `valley` `wall` `war` `west` `wicked` `witchcraft` `wizards` `worse` `worshipped` `wrought` `years`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

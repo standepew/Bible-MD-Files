@@ -100,6 +100,11 @@ Moses commands Israel to completely destroy all pagan worship sites—high place
 
 **People Involved:** Sons, daughters, menservants, maidservants, Levite within gates, no part nor inheritance
 
+
+*AI Keywords for current event matching:*
+`abominations` `add` `altars` `blood` `bring` `burnt` `centralized` `child` `choice` `chooses` `clean` `corn` `daughters` `destroy` `diminish` `earth` `eat` `eating` `enquire` `eyes` `firstlings` `flesh` `following` `freewill` `gates` `god` `gods` `graven` `green` `groves` `habitation` `heave` `high` `hills` `holy` `images` `inheritance` `involved` `levite` `life` `lord` `lusteth` `maidservants` `menservants` `name` `names` `nor` `offering` `offerings` `oil` `pagan` `part` `people` `pillars` `place` `places` `pour` `put` `regulations` `rejoice` `right` `sacrifice` `sacrifices` `seek` `snared` `sons` `soul` `there` `things` `thither` `tithes` `trees` `unclean` `vows` `warnings` `wine` `within` `worship`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

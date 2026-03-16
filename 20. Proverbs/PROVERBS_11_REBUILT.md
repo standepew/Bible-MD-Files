@@ -115,6 +115,11 @@ False, balance, abomination, LORD, just, weight, delight, pride, shame, lowly, w
 
 **True vs. False:** just weight delight, faithful spirit concealeth, false witness speaketh lies
 
+
+*AI Keywords for current event matching:*
+`abomination` `balance` `concealeth` `corn` `curse` `death` `delight` `deliver` `earth` `faithful` `fall` `false` `fat` `froward` `generosity` `guide` `heart` `increaseth` `integrity` `liberal` `lies` `made` `people` `perverseness` `recompensed` `righteous` `righteousness` `scattereth` `soul` `speaketh` `spirit` `stinginess` `true` `upright` `weight` `wicked` `wickedness` `withhold` `witness`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

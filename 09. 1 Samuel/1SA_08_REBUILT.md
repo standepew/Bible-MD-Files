@@ -84,6 +84,11 @@ When Samuel was old, he made his sons judges over Israel. His firstborn Joel and
 
 **God's Grant:** LORD Samuel voice king Samuel men Israel city
 
+
+*AI Keywords for current event matching:*
+`abiah` `asses` `bakers` `battles` `beer-sheba` `best` `bribes` `brought` `captains` `chariots` `chosen` `city` `confectionaries` `cooks` `cry` `daughters` `day` `displeased` `ear` `ears` `egypt` `elders` `explanation` `fields` `fifties` `firstborn` `forsaken` `gathered` `gods` `goodliest` `grant` `ground` `harvest` `hear` `heard` `hearken` `horsemen` `instruments` `israel` `joel` `judge` `judges` `judgment` `king` `kings` `lord` `lucre` `maidservants` `manner` `men` `menservants` `nations` `nay` `obey` `officers` `old` `oliveyards` `people` `peoples` `perverted` `prayed` `protest` `ramah` `reap` `refusal` `refused` `rehearsed` `reign` `rejected` `request` `rights` `run` `samuel` `samuels` `second` `seed` `servants` `served` `sheep` `solemnly` `sons` `take` `tenth` `thousands` `turned` `vineyards` `voice` `walk` `walked` `war` `ways` `words` `work` `works` `young`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -93,6 +93,11 @@ Beseech, brethren, coming, Lord, Jesus, Christ, gathering, shaken, mind, trouble
 
 **Salvation of the Elect:** called, gospel, obtaining, glory, Lord, Jesus, Christ, stand, fast, hold, traditions, taught, word, epistle, Lord, Jesus, Christ, God, Father, loved, given, everlasting, consolation, good, hope, grace, Comfort, hearts, stablish, good, word, work
 
+
+*AI Keywords for current event matching:*
+`away` `beginning` `belief` `believe` `believed` `beloved` `beseech` `bound` `brethren` `brightness` `called` `chosen` `christ` `comfort` `coming` `consolation` `consume` `damned` `day` `deceivableness` `deceive` `deception` `delusion` `destroy` `elect` `epistle` `everlasting` `exalteth` `falling` `fast` `father` `gathering` `given` `glory` `god` `good` `gospel` `grace` `hand` `hearts` `hold` `hope` `iniquity` `jesus` `letter` `letteth` `lie` `lord` `love` `loved` `lying` `man` `mind` `mouth` `mystery` `obtaining` `opposeth` `perdition` `perish` `pleasure` `power` `received` `remember` `restrainer` `revealed` `salvation` `sanctification` `satan` `saved` `send` `shaken` `shewing` `signs` `sin` `sitteth` `son` `spirit` `stablish` `stand` `strong` `taken` `taught` `temple` `thanks` `time` `told` `traditions` `troubled` `truth` `unrighteousness` `way` `wicked` `withholdeth` `wonders` `word` `work` `working` `worshipped`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

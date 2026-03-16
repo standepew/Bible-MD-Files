@@ -107,6 +107,11 @@ Servants, yoke, count, masters, worthy, honour, name, God, doctrine, blasphemed,
 
 **Final Charge to Timothy:** Timothy, keep, committed, trust, avoiding, profane, vain, babblings, oppositions, science, falsely, called, professing, erred, faith, Grace, Amen
 
+
+*AI Keywords for current event matching:*
+`amen` `appearing` `approach` `avoiding` `babblings` `believing` `beloved` `benefit` `blasphemed` `blessed` `brethren` `brought` `called` `carry` `charge` `christ` `commandment` `committed` `communicate` `confession` `consent` `content` `contentment` `corrupt` `count` `coveted` `despise` `destitute` `destruction` `disputings` `distribute` `doctrine` `doting` `drown` `dwelling` `enjoy` `envy` `erred` `eternal` `everlasting` `evil` `exhort` `faith` `faithful` `fall` `false` `falsely` `fight` `final` `flee` `follow` `food` `foolish` `foundation` `gain` `giveth` `god` `godliness` `good` `grace` `great` `highminded` `hold` `honour` `hurtful` `immortality` `jesus` `keep` `king` `kings` `knowing` `lay` `laying` `life` `light` `living` `lord` `lords` `love` `lusts` `man` `masters` `meekness` `minds` `money` `name` `oppositions` `otherwise` `partakers` `patience` `perdition` `perverse` `pierced` `pilate` `pontius` `potentate` `power` `profane` `professed` `professing` `profession` `proud` `questions` `quickeneth` `railings` `raiment` `ready` `rich` `riches` `richly` `righteousness` `root` `science` `seen` `servants` `service` `shew` `sight` `snare` `sorrows` `spot` `store` `strife` `strifes` `supposing` `surmisings` `teach` `teachers` `temptation` `things` `time` `times` `timothy` `trust` `truth` `uncertain` `unrebukeable` `vain` `wholesome` `willing` `withdraw` `witnessed` `witnesses` `words` `works` `world` `worthy` `yoke`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -103,6 +103,11 @@ Word, Lord, son, man, face, Ammonites, prophesy, Ammonites, word, Lord, GOD, Aha
 
 **Divine Justice:** taking vengeance, despiteful heart, furious rebukes, know LORD
 
+
+*AI Keywords for current event matching:*
+`ammonite` `camels` `christs` `cities` `clapped` `condemnation` `cut` `deliver` `despiteful` `divine` `east` `execute` `frontiers` `furious` `hand` `hands` `heart` `judgment` `justice` `know` `lord` `men` `moab` `open` `people` `rebukes` `rejoiced` `remembered` `side` `spoil` `stable` `stretch` `taking` `vengeance`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

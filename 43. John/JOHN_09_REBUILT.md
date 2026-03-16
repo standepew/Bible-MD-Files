@@ -151,6 +151,11 @@ Jesus, passed, blind, birth, disciples, Master, sin, parents, born, blind, Jesus
 
 **True Sight:** whence he is, God heareth, worshipper God, world begin, born blind, cast him out, believe Son God, seen him, worship him, judgment world, sin remaineth
 
+
+*AI Keywords for current event matching:*
+`among` `anointed` `begged` `begin` `believe` `birth` `blind` `blindness` `born` `cast` `christ` `clay` `confess` `controversy` `day` `disciple` `disciples` `division` `eyes` `feared` `give` `god` `healing` `heareth` `jews` `judgment` `keepeth` `light` `man` `miracles` `moses` `neighbours` `now` `opened` `pool` `praise` `prophet` `put` `remaineth` `sabbath` `see` `seeing` `seen` `sight` `siloam` `sin` `sinner` `son` `spiritual` `spit` `synagogue` `true` `washed` `whence` `works` `world` `worship` `worshipper`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

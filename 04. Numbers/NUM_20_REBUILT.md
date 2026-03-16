@@ -67,6 +67,11 @@ The congregation comes to the wilderness of Zin in the first month — the forti
 - **Transition of leadership / passing the mantle** → Numbers 20:25-28 — Aaron to Eleazar; Elijah to Elisha (2 Kings 2:13-14)
 - **Mourning the dead / thirty days of mourning** → Numbers 20:29 — the community's grief; cf. thirty days for Moses (Deuteronomy 34:8)
 
+
+*AI Keywords for current event matching:*
+`accountability` `barred` `cost` `current` `events` `failure` `land` `leaders` `leadership` `matching` `momentary` `moses` `numbers` `paying`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS WITH CONTEXTUAL DEFINITIONS

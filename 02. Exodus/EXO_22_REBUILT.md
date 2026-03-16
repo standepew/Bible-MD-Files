@@ -94,6 +94,11 @@ The civil code continues. Theft laws: fivefold restitution for a stolen and slau
 - **Cursing rulers / government speech** → Exodus 22:28 — Acts 23:5; Romans 13:1
 - **Firstfruits / tithes** → Exodus 22:29-30 — firstborn and firstfruits belong to God
 
+
+*AI Keywords for current event matching:*
+`221-4` `current` `events` `exodus` `luke` `matching` `proportional` `reparations` `restitution` `theft` `zacchaeus`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

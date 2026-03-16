@@ -103,6 +103,11 @@ Burden, Moab, night, Ar, Moab, laid, waste, brought, silence, night, Kir, Moab, 
 
 **Christ's Justice:** night judgment, complete destruction, lions upon remnant
 
+
+*AI Keywords for current event matching:*
+`abundantly` `baldness` `beard` `blood` `brought` `burden` `christs` `complete` `cry` `desolate` `destruction` `divine` `flee` `fugitives` `heart` `high` `howl` `judgment` `justice` `laid` `lions` `moab` `moabs` `mourning` `night` `places` `remnant` `sackcloth` `silence` `spiritual` `waste` `waters` `weep` `weeping`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

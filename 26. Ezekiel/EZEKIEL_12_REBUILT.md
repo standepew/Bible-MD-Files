@@ -127,6 +127,11 @@ Word, Lord, son, man, dwellest, midst, rebellious, house, eyes, see, see, ears, 
 
 **Christ's Word:** days prolonged, vision faileth, word come pass, no more prolonged
 
+
+*AI Keywords for current event matching:*
+`babylon` `captivity` `chaldeans` `christs` `come` `cover` `days` `dig` `divine` `doest` `ears` `eyes` `face` `faileth` `hear` `house` `nations` `net` `pass` `prolonged` `rebellious` `removing` `scatter` `see` `signs` `spread` `stuff` `twilight` `vision` `wall` `word`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -89,6 +89,11 @@ Six weeks after the Exodus, the whole congregation murmurs against Moses and Aar
 - **Daily bread** → Exodus 16 — Matthew 6:11 "Give us this day our daily bread" — the Lord's Prayer echoes the manna pattern
 - **Testing obedience through provision** → Exodus 16:4 — "that I may prove them"
 
+
+*AI Keywords for current event matching:*
+`bread` `current` `events` `exodus` `heaven` `jesus` `john` `life` `matching` `miraculous` `provision`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

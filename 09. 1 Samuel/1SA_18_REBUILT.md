@@ -83,6 +83,11 @@ When he finished speaking to Saul, Jonathan's soul was knit with David's soul, a
 
 **Continued Opposition:** Saul knew LORD David Michal Saul daughter loved David, Saul afraid David enemy continually, princes Philistines went David behaved wisely Saul servants name set, Saul knew LORD David Michal Saul daughter loved David
 
+
+*AI Keywords for current event matching:*
+`accepted` `adriel` `afraid` `answered` `arose` `ascribed` `avenged` `avoided` `battles` `behaved` `bow` `came` `captain` `cities` `commanded` `commune` `continually` `continued` `covenant` `dancing` `daughter` `david` `davids` `delights` `departed` `displeased` `dowry` `ears` `elder` `enemies` `enemy` `esteemed` `evil` `eyed` `fall` `family` `father` `fight` `foreskins` `forward` `friendship` `full` `garments` `gave` `girdle` `given` `god` `hand` `home` `house` `hundred` `instruments` `israel` `javelin` `jealousy` `jonathan` `joy` `judah` `king` `kingdom` `knew` `knit` `law` `life` `light` `lightly` `lord` `love` `loved` `man` `marriage` `meet` `mehohathite` `men` `merab` `michal` `musick` `name` `opposition` `people` `philistine` `philistines` `played` `pleased` `plot` `poor` `presence` `princes` `prophesied` `removed` `returned` `robe` `saul` `sauls` `saw` `secretly` `sent` `servants` `set` `sight` `singing` `slaughter` `slew` `smite` `snare` `son` `soul` `spirit` `stripped` `success` `sword` `tabrets` `tale` `ten` `thing` `thought` `thousand` `thousands` `told` `twice` `two` `valiant` `wall` `war` `ways` `went` `wife` `wisdom` `wisely` `women` `words` `wroth`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

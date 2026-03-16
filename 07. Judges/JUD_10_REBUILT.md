@@ -91,6 +91,11 @@ After Abimelech, Tola son of Puah (son of Dodo), an Issachar man, arises to defe
 
 **Military Preparations:** children Ammon gathered encamped Gilead, children Israel assembled encamped Mizpeh, people princes Gilead man begin fight children Ammon, head inhabitants Gilead
 
+
+*AI Keywords for current event matching:*
+`abimelech` `amalekites` `ammon` `ammonite` `amorites` `anger` `arose` `ashtaroth` `ass` `assembled` `away` `baalim` `begin` `benjamin` `buried` `camon` `children` `chosen` `cities` `colts` `complete` `cried` `day` `defend` `deliver` `delivered` `died` `distressed` `divine` `dodo` `dwelt` `egyptians` `eighteen` `encamped` `ephraim` `evil` `fight` `forsaken` `forsook` `gathered` `gilead` `gileadite` `god` `gods` `good` `grieved` `hand` `hands` `havoth-jair` `head` `hot` `house` `idolatry` `inhabitants` `initial` `israel` `issachar` `jair` `jairs` `jordan` `judah` `judged` `judgeship` `land` `leadership` `lord` `man` `maonites` `military` `misery` `mizpeh` `moab` `mount` `oppressed` `oppression` `passed` `people` `philistines` `preparations` `princes` `puah` `put` `refusal` `reminder` `repentance` `rode` `served` `shamir` `side` `sight` `sinned` `sold` `son` `sons` `sore` `soul` `strange` `syria` `thirty` `tola` `tolas` `tribulation` `twenty-three` `twenty-two` `vexed` `widespread` `year` `years` `zidon` `zidonians`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

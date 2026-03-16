@@ -103,6 +103,11 @@ Come, sit, dust, virgin, daughter, Babylon, sit, ground, throne, daughter, Chald
 
 **Christ's Justice:** trusted wickedness said seeth, wisdom knowledge perverted, astrologers stargazers stubble fire
 
+
+*AI Keywords for current event matching:*
+`astrologers` `babylon` `babylons` `children` `christs` `come` `daughter` `desolation` `divine` `down` `dust` `evil` `fall` `fire` `forever` `judgment` `justice` `kingdoms` `knowledge` `lady` `loss` `man` `meet` `mischief` `nakedness` `perverted` `said` `seen` `seeth` `shame` `sit` `stargazers` `stubble` `suddenly` `take` `throne` `trusted` `uncovered` `vengeance` `virgin` `wickedness` `widowhood` `wisdom`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

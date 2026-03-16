@@ -103,6 +103,11 @@ Saith, LORD, transgressions, Moab, four, turn, punishment, burned, bones, king, 
 
 **Nazarite Vows:** raised prophets, young men Nazarites, gave wine, commanded prophets
 
+
+*AI Keywords for current event matching:*
+`amorite` `aside` `christs` `commanded` `destroyed` `divine` `dust` `egypt` `forty` `gave` `holy` `injustice` `israel` `judgment` `land` `meek` `men` `nazarite` `nazarites` `pant` `poor` `possess` `privilege` `profane` `prophesy` `prophets` `raised` `righteous` `shoes` `social` `sold` `vows` `way` `wine` `years` `young`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -116,6 +116,11 @@ Moses reminds Israel they are children and holy people of God, chosen to be pecu
 
 **Three-Year Tithe:** End of three years, bring forth tithe, lay up within gates, Levite, stranger, fatherless, widow, eat satisfied, bless work of hand
 
+
+*AI Keywords for current event matching:*
+`abominable` `above` `alien` `animals` `baldness` `bat` `between` `birds` `bless` `bring` `buy` `camel` `chamois` `chew` `children` `chooses` `chosen` `clean` `coney` `cormorant` `creatures` `cuckow` `cud` `cut` `dead` `deer` `die` `divide` `divides` `doesnt` `dont` `eagle` `eat` `end` `eyes` `fallow` `fatherless` `fins` `food` `forbidden` `forsake` `forth` `gates` `general` `gier` `give` `glede` `goat` `god` `great` `hand` `hare` `hart` `hawk` `heron` `holy` `hoof` `household` `identity` `increase` `itself` `kid` `kite` `land` `lapwing` `lay` `levite` `little` `longfar` `lord` `lusts` `milk` `money` `mothers` `nations` `night` `ospray` `ossifrage` `owl` `peculiar` `pelican` `people` `permission` `place` `practices` `pygarg` `raven` `regulations` `rejoice` `roebuck` `satisfied` `scales` `seethe` `sell` `sheep` `soul` `stork` `stranger` `swan` `swine` `system` `thing` `three` `three-year` `tithe` `tithing` `too` `turn` `unclean` `vulture` `water` `widow` `wild` `within` `work` `years` `yourselves`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

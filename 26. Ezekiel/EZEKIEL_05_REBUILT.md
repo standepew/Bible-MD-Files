@@ -127,6 +127,11 @@ Son, man, sharp, knife, barber, razor, pass, head, beard, balances, weigh, divid
 
 **Christ's Anger:** evil arrows, evil beasts, pestilence blood, bring sword
 
+
+*AI Keywords for current event matching:*
+`accomplished` `against` `anger` `arrows` `beasts` `blood` `bring` `burn` `christs` `destruction` `divine` `done` `eat` `evil` `execute` `eye` `fathers` `fire` `fury` `god` `jerusalems` `judgment` `judgments` `knife` `like` `lord` `part` `pestilence` `reproach` `rest` `scatter` `sharp` `sons` `spare` `sword` `third` `waste` `wind`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

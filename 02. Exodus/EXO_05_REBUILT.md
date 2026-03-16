@@ -83,6 +83,11 @@ Moses and Aaron confront Pharaoh: "Thus saith the LORD God of Israel, Let my peo
 - **Government using religion as an excuse for laziness** → Exodus 5:8 — Pharaoh calls Israel "idle" for wanting to worship
 - **Persecution of religious observance** → Exodus 5:17 — "ye are idle... therefore ye say, Let us go and do sacrifice"
 
+
+*AI Keywords for current event matching:*
+`answered` `atheism` `current` `declaration` `defiance` `entire` `events` `exodus` `god` `lord` `matching` `pharaohs`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

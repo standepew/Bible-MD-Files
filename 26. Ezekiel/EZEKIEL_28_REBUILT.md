@@ -103,6 +103,11 @@ Word, Lord, son, man, prince, Tyrus, Lord, GOD, heart, lifted, God, seat, God, m
 
 **Divine Restoration:** gathered Israel, sanctified heathen, dwell land, build houses
 
+
+*AI Keywords for current event matching:*
+`anointed` `brightness` `bring` `build` `cherub` `christs` `daniel` `defile` `divine` `draw` `dwell` `eden` `fire` `garden` `gathered` `god` `gotten` `heart` `heathen` `houses` `increased` `israel` `judgment` `land` `lifted` `precious` `pride` `restoration` `riches` `sanctified` `stones` `strangers` `swords` `tyrus` `wiser`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

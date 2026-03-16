@@ -115,6 +115,11 @@ Great, conflict, Laodicea, seen, face, flesh, hearts, comforted, knit, love, ric
 
 **Freedom from Legalism:** judge, meat, drink, respect, holyday, new, moon, sabbath, shadow, things, body, Christ, beguile, reward, voluntary, humility, worshipping, angels, intruding, seen, vainly, puffed, fleshly, mind, holding, Head, body, joints, bands, nourishment, ministered, knit, increaseth, increase, God, dead, Christ, rudiments, world, living, world, subject, ordinances, Touch, taste, handle, perish, using, commandments, doctrines, men, shew, wisdom, will, worship, humility, neglecting, body, honour, satisfying, flesh
 
+
+*AI Keywords for current event matching:*
+`abounding` `absent` `acknowledgement` `against` `angels` `assurance` `bands` `baptism` `beguile` `beholding` `beware` `blotting` `bodily` `body` `built` `buried` `christ` `christs` `circumcised` `circumcision` `comforted` `commandments` `complete` `conflict` `contrary` `cross` `dead` `deceit` `doctrines` `drink` `dwelleth` `enticing` `face` `faith` `false` `father` `flesh` `fleshly` `forgiven` `freedom` `full` `fullness` `fulness` `god` `godhead` `great` `handle` `hands` `handwriting` `head` `hearts` `hid` `holding` `holyday` `honour` `humility` `increase` `increaseth` `intruding` `jesus` `joints` `joying` `judge` `knit` `knowledge` `laodicea` `legalism` `living` `lord` `love` `meat` `men` `mind` `ministered` `moon` `mystery` `nailing` `neglecting` `new` `nourishment` `openly` `operation` `order` `ordinances` `pauls` `perish` `philosophy` `power` `powers` `principalities` `principality` `puffed` `putting` `quicken` `raised` `received` `respect` `reward` `riches` `risen` `rooted` `rudiments` `sabbath` `satisfying` `seen` `shadow` `shew` `sins` `spirit` `spoil` `spoiled` `stablished` `stedfastness` `subject` `taste` `taught` `thanksgiving` `things` `took` `touch` `tradition` `treasures` `trespasses` `triumphing` `uncircumcision` `understanding` `using` `vain` `vainly` `voluntary` `walk` `warning` `way` `wisdom` `without` `words` `world` `worship` `worshipping`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

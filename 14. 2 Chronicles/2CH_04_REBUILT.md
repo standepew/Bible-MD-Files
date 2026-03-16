@@ -149,6 +149,11 @@ Altar, brass, twenty, cubits, length, twenty, cubits, breadth, ten, cubits, heig
 
 **Golden Vessels:** Solomon vessels great abundance weight brass found, vessels house Golden altar tables shewbread set, candlesticks lamps burn manner oracle pure gold, flowers lamps tongs gold perfect gold, snuffers basons spoons censers pure gold entry house inner doors holy place doors house temple gold
 
+
+*AI Keywords for current event matching:*
+`abundance` `altar` `bases` `basons` `baths` `brass` `breadth` `bright` `brim` `burn` `burnt` `candlesticks` `cast` `censers` `chapiters` `clay` `compass` `compassing` `court` `cover` `craftsmanship` `cubit` `cubits` `cup` `doors` `east` `end` `entry` `father` `finished` `five` `fleshhooks` `flowers` `form` `found` `four` `god` `gold` `golden` `great` `ground` `hand` `handbreadth` `height` `held` `hinder` `holy` `house` `hundred` `huram` `hurams` `inner` `instruments` `inward` `jordan` `king` `lamps` `lavers` `left` `length` `lilies` `line` `looking` `lord` `manner` `molten` `north` `offering` `one` `oracle` `overlaid` `oxen` `parts` `perfect` `pillars` `place` `plain` `pomegranates` `pommels` `pots` `priests` `pure` `received` `right` `round` `rows` `sea` `set` `shewbread` `shovels` `side` `similitude` `snuffers` `solomon` `south` `spoons` `stood` `succoth` `support` `tables` `temple` `ten` `thickness` `thirty` `thousand` `three` `tongs` `top` `twelve` `twenty` `two` `vessels` `wash` `washed` `washing` `weight` `west` `work` `wreath` `wreaths` `zeredathah`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

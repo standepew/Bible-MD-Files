@@ -63,6 +63,11 @@ The contrast with every previous water narrative is striking: at Marah, they mur
 - **First military victories after years of wilderness** → Numbers 21:21-35 — Sihon, Og; the transition from wandering to conquering
 - **"Fear him not; I have delivered him"** → Numbers 21:34 — God's pre-battle assurance; Joshua 1:9; 1 Samuel 17:47
 
+
+*AI Keywords for current event matching:*
+`218-9` `314-15` `christ` `current` `events` `faith` `formula` `heals` `john` `live` `look` `looking` `matching` `merit` `numbers` `simple`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS WITH CONTEXTUAL DEFINITIONS

@@ -125,6 +125,11 @@ David, king, congregation, Solomon, son, chosen, God, young, tender, work, great
 
 **Historical Record:** LORD magnified Solomon exceedingly royal majesty king Israel David son Jesse reigned Israel, reigned Israel forty years seven years Hebron thirty three years Jerusalem, died good old age full days riches honour, Solomon son reigned stead David son Jesse, acts David king first last behold written book Samuel seer book Nathan prophet book Gad seer, reign might times went king Israel kingdoms countries people
 
+
+*AI Keywords for current event matching:*
+`abiding` `above` `abraham` `abundance` `acts` `affection` `age` `anointed` `artificers` `ate` `behold` `bless` `blessed` `blessing` `book` `bowed` `brass` `build` `bullocks` `captains` `charge` `chief` `chosen` `colours` `commandments` `commission` `congregation` `countries` `david` `davids` `days` `died` `divers` `divine` `drams` `drink` `earth` `eighteen` `ever` `exalted` `exceedingly` `father` `fathers` `final` `first` `five` `forty` `full` `gad` `gershonite` `give` `gladness` `glistering` `glory` `god` `gold` `good` `governor` `great` `greatness` `hand` `hands` `head` `heads` `heart` `heaven` `hebron` `historical` `holy` `honour` `house` `houses` `hundred` `hundreds` `imagination` `iron` `isaac` `israel` `jehiel` `jerusalem` `jesse` `joy` `king` `kingdom` `kingdoms` `lambs` `last` `lord` `made` `magnified` `majesty` `make` `man` `manner` `marble` `men` `mighty` `morrow` `nathan` `none` `offered` `offerer` `offering` `offerings` `old` `onyx` `ophir` `overlay` `palace` `people` `peoples` `perfect` `power` `precious` `prepare` `prepared` `present` `priest` `princes` `promise` `prophet` `provision` `rams` `record` `refined` `reign` `reigned` `rejoiced` `resources` `response` `riches` `royal` `rulers` `sacrifaces` `sacrifices` `samuel` `second` `seer` `service` `set` `seven` `shadow` `silver` `sojourners` `solomon` `solomons` `son` `sons` `statutes` `stead` `stones` `strangers` `strength` `submitted` `talents` `temple` `ten` `tender` `testimonies` `things` `thirty` `thoughts` `thousand` `thousands` `three` `time` `times` `transition` `treasure` `tribes` `uprightness` `victory` `walls` `went` `willing` `willingly` `wood` `work` `worshipped` `written` `years` `young` `zadok`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

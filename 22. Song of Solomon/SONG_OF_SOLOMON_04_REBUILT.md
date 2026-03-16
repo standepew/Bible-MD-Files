@@ -187,6 +187,11 @@ Fair, love, doves, eyes, locks, hair, flock, goats, appear, mount, Gilead, teeth
 
 **Divine Intimacy:** lips honeycomb, milk tongue, beloved garden eat
 
+
+*AI Keywords for current event matching:*
+`beauty` `beloved` `better` `christs` `churchs` `david` `divine` `doves` `eat` `eyes` `fair` `fountain` `garden` `heart` `honeycomb` `inclosed` `intimacy` `lips` `love` `milk` `orchard` `plants` `praise` `ravished` `sealed` `spiritual` `spot` `tongue` `tower` `wine`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

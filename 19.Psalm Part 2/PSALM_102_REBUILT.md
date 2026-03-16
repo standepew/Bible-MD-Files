@@ -163,6 +163,11 @@ Prayer, afflicted, overwhelmed, poureth, complaint, LORD, Hear, prayer, LORD, cr
 
 **Zion's Restoration:** arise mercy Zion time favour set time, build Zion appear glory, declare name LORD Zion praise Jerusalem, people gathered kingdoms serve LORD
 
+
+*AI Keywords for current event matching:*
+`afflicted` `answer` `appear` `arise` `bones` `bread` `build` `burned` `call` `change` `changed` `cleave` `come` `complaint` `consumed` `cry` `day` `days` `declare` `divine` `ear` `earth` `eat` `end` `endure` `eternity` `face` `favour` `forget` `foundation` `frailty` `garment` `gathered` `generations` `glory` `grass` `groaning` `hands` `hear` `heart` `hearth` `heavens` `hide` `human` `incline` `jerusalem` `kingdoms` `laid` `lord` `mercy` `name` `old` `overwhelmed` `people` `perish` `poureth` `praise` `prayer` `reason` `remembrance` `restoration` `serve` `set` `skin` `smitten` `smoke` `speedily` `time` `trouble` `vesture` `voice` `wax` `withered` `work` `years` `zion` `zions`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

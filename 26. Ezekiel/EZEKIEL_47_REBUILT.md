@@ -103,6 +103,11 @@ Brought, door, house, waters, issued, threshold, house, eastward, forefront, hou
 
 **Christ's Inheritance:** twelve tribes, Joseph portions, strangers inheritance, tribes Israel
 
+
+*AI Keywords for current event matching:*
+`ankles` `christs` `consumed` `cubits` `divine` `fish` `fruit` `healed` `healing` `house` `inheritance` `israel` `issued` `joseph` `knees` `leaf` `living` `loins` `medicine` `portions` `right` `river` `sanctuary` `side` `strangers` `swim` `thousand` `threshold` `trees` `tribes` `twelve` `waters`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -103,6 +103,11 @@ Beginning, reign, Jehoiakim, son, Josiah, king, Judah, word, Jeremiah, LORD, say
 
 **Christ's Vessels:** vessels LORD house, carried Babylon, day visit, restore place
 
+
+*AI Keywords for current event matching:*
+`arm` `babylon` `bonds` `bring` `carried` `christs` `day` `divine` `diviners` `dreamers` `enchanters` `false` `given` `hand` `hearken` `house` `lands` `lie` `lord` `nations` `nebuchadnezzar` `neck` `necks` `outstretched` `place` `prophesy` `prophets` `put` `restore` `sent` `servant` `servanthood` `serve` `sorcerers` `vessels` `visit` `yoke` `yokes`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

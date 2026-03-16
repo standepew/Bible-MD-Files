@@ -127,6 +127,11 @@ Moses concludes miscellaneous laws: (1) Judicial justice—judges must justify t
 
 **Amalek's Destruction:** Remember Amalek, way Egypt, met way, smote hindmost, feeble behind, faint weary, feared not God, LORD given rest, enemies round about, land inheritance, possess it, blot out remembrance, Amalek, under heaven, not forget
 
+
+*AI Keywords for current event matching:*
+`abomination` `according` `amalek` `amaleks` `animal` `answer` `assaulting` `bag` `bear` `beaten` `behind` `blot` `brethren` `brother` `brothers` `build` `call` `called` `cause` `certain` `child` `city` `come` `commerce` `condemn` `controversy` `corn` `cut` `days` `dead` `deliver` `destruction` `die` `divers` `done` `down` `draweth` `duty` `dwell` `egypt` `elders` `enemies` `exceed` `eye` `face` `faint` `fault` `feared` `feeble` `firstborn` `foot` `forget` `forth` `forty` `gate` `given` `giveth` `god` `great` `hand` `heaven` `hindmost` `honest` `house` `husband` `husbands` `inheritance` `israel` `judge` `judges` `judgment` `judicial` `justice` `justify` `land` `lengthened` `levirate` `lie` `like` `loose` `loosed` `lord` `man` `many` `marriage` `marry` `measure` `measures` `men` `met` `muzzle` `name` `near` `number` `off` `one` `perfect` `perform` `pity` `possess` `presence` `procedure` `put` `raise` `refusal` `refuseth` `remember` `remembrance` `rest` `righteous` `rights` `round` `say` `secrets` `seem` `shoe` `small` `smiteth` `smote` `speak` `spit` `stand` `stranger` `stripes` `strive` `succeed` `take` `together` `treadeth` `unrighteously` `vile` `way` `weary` `weight` `weights` `wicked` `wife` `without` `woman` `worthy`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

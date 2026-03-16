@@ -127,6 +127,11 @@ Chief, Musician, Psalm, David, blessed, considereth, poor, LORD, deliver, time, 
 
 **God's Favor:** favourest enemy triumph, upholdest integrity settest face forever, blessed LORD GOD Israel everlasting
 
+
+*AI Keywords for current event matching:*
+`abroad` `against` `alive` `ate` `bed` `betrayal` `blessed` `bread` `caring` `chief` `cleaveth` `come` `considereth` `david` `deliver` `devise` `die` `disease` `divine` `earth` `enemies` `enemy` `everlasting` `evil` `face` `familiar` `fast` `favor` `favourest` `forever` `friend` `friends` `gathereth` `god` `gods` `goeth` `hate` `heal` `healing` `heart` `heel` `hurt` `iniquity` `integrity` `israel` `keep` `languishing` `lieth` `lifted` `lord` `make` `merciful` `musician` `name` `perish` `poor` `preserve` `psalm` `raise` `requite` `rise` `see` `settest` `sickness` `sinned` `soul` `speak` `strengthen` `telleth` `time` `triumph` `trouble` `trusted` `upholdest` `vanity` `whisper`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -103,6 +103,11 @@ Seventh, month, Ishmael, son, Nethaniah, son, Elishama, seed, royal, princes, ki
 
 **Christ's Protection:** recovered remnant, mighty men war, women children, dwelt Chimham
 
+
+*AI Keywords for current event matching:*
+`arose` `ate` `betrayal` `bread` `cast` `chaldeans` `children` `chimham` `christs` `divine` `dwelt` `fight` `found` `fourscore` `gedaliah` `glad` `governor` `great` `ishmael` `ishmaels` `jews` `johanan` `justice` `men` `mighty` `people` `pit` `protection` `recovered` `remnant` `returned` `slew` `smote` `together` `treachery` `war` `waters` `went` `women`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

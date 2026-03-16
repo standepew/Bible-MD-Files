@@ -115,6 +115,11 @@ Woe, rebellious, children, LORD, take, counsel, cover, covering, spirit, add, si
 
 **Christ's Healing:** bind breach, heal stroke, light sevenfold, rain seed
 
+
+*AI Keywords for current event matching:*
+`answer` `behind` `bind` `blessed` `breach` `christs` `confidence` `divine` `exalted` `give` `gracious` `guidance` `heal` `healing` `hear` `left` `light` `mercy` `quietness` `rain` `rest` `returning` `right` `see` `seed` `sevenfold` `spiritual` `stroke` `teachers` `turn` `voice` `wait` `walk` `way` `word`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

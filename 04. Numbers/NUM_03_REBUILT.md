@@ -65,6 +65,11 @@ The chapter opens with the generations of Aaron and Moses, noting the death of N
 - **The firstborn and God's claim** → Numbers 3:13 — Exodus 13:2; Hebrews 12:23; Colossians 1:15, 18
 - **Death for unauthorized approach to the sacred** → Numbers 3:10, 38 — the boundary enforced; Hebrews 9:8
 
+
+*AI Keywords for current event matching:*
+`anothers` `christ` `current` `events` `firstborn` `instead` `levites` `matching` `numbers` `place` `someone` `substitute` `substitution` `taking` `typology`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS WITH CONTEXTUAL DEFINITIONS

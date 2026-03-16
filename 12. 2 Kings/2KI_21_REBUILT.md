@@ -83,6 +83,11 @@ Manasseh twelve years, reigned fifty-five years Jerusalem, mother Hephzi-bah. Ev
 
 **Amon's Death:** servants Amon conspired slew king house, people land slew conspired king Amon people land Josiah son king, acts Amon book chronicles kings Judah, buried sepulchre garden Uzza Josiah son reigned
 
+
+*AI Keywords for current event matching:*
+`abominations` `acts` `ahab` `altars` `amon` `amons` `amorites` `anger` `baal` `blood` `book` `buried` `cast` `children` `chronicles` `commanded` `conspired` `corruption` `courts` `daughter` `david` `day` `death` `deliver` `destroyed` `dish` `divine` `down` `ears` `egypt` `enchantments` `end` `enemies` `evil` `familiar` `father` `fathers` `feet` `fifty-five` `filled` `fire` `forsake` `garden` `god` `graven` `grove` `hand` `haruz` `hearthened` `heathen` `heaven` `hephzi-bah` `hezekiah` `high` `host` `house` `idols` `image` `inheritance` `innocent` `israel` `jerusalem` `josiah` `jotbah` `judah` `judgment` `king` `kings` `land` `law` `line` `lord` `manasseh` `manassehs` `meshullemeth` `moses` `mother` `name` `nations` `observe` `observed` `people` `places` `plummet` `prey` `prophets` `provoke` `provoked` `reign` `reigned` `remnant` `samaria` `sepulchre` `servants` `served` `sight` `sin` `sinned` `slept` `slew` `solomon` `son` `spake` `spirits` `spoil` `suced` `temple` `times` `tingle` `tribes` `turning` `twelve` `twenty-two` `two` `upside` `uzza` `walked` `way` `wickedly` `wickedness` `wip` `wipe` `wizards` `worshipped` `years`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

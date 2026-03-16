@@ -139,6 +139,11 @@ Year, king, Uzziah, died, Lord, sitting, throne, lifted, train, filled, temple, 
 
 **Divine Call:** hear understand, see perceive, holy seed, tenth return
 
+
+*AI Keywords for current event matching:*
+`away` `call` `christs` `cleansing` `coal` `commission` `divine` `filled` `glory` `hear` `here` `holy` `iniquity` `isaiahs` `lifted` `lips` `live` `perceive` `purged` `return` `see` `seed` `send` `seraphims` `sin` `spiritual` `taken` `temple` `tenth` `throne` `touched` `train` `unclean` `understand` `undone` `woe`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

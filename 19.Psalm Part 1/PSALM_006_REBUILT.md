@@ -139,6 +139,11 @@ Chief, Musician, Neginoth, Sheminith, Psalm, David, LORD, rebuke, anger, chasten
 
 **Victory Over Enemies:** eye consumed grief waxeth old enemies, depart workers iniquity LORD heard weeping, enemies ashamed sore vexed return ashamed suddenly
 
+
+*AI Keywords for current event matching:*
+`anger` `ashamed` `bed` `bones` `chasten` `chief` `consumed` `couch` `david` `death` `deliver` `depart` `displeasure` `divine` `enemies` `eye` `grave` `grief` `groaning` `heal` `healing` `heard` `hot` `iniquity` `let` `long` `lord` `mercies` `mercy` `musician` `neginoth` `night` `old` `penitential` `prayer` `psalm` `rebuke` `receive` `remembrance` `return` `sake` `save` `sheminith` `sickness` `sore` `soul` `suddenly` `supplication` `swim` `tears` `thanks` `vexed` `victory` `water` `waxeth` `weak` `weary` `weeping` `workers`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

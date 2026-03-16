@@ -115,6 +115,11 @@ Cry, aloud, spare, trumpet, shew, people, transgression, house, Jacob, sins, see
 
 **Christ's Blessing:** light break morning, health spring, righteousness go before, glory LORD rereward
 
+
+*AI Keywords for current event matching:*
+`acceptable` `afflict` `aloud` `bands` `blessing` `bread` `break` `bring` `burdens` `chosen` `christs` `cover` `cry` `day` `deal` `divine` `fast` `flesh` `free` `glory` `health` `heavy` `hide` `house` `hungry` `justice` `light` `loose` `lord` `morning` `naked` `oppressed` `poor` `rereward` `righteousness` `service` `soul` `spiritual` `spring` `trumpet` `undo` `wickedness` `yoke`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

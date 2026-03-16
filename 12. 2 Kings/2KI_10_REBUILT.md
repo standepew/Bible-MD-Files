@@ -85,6 +85,11 @@ Ahab seventy sons Samaria. Jehu letters, Samaria, rulers Jezreel, elders, brough
 
 **Jehu's Reign:** acts Jehu might book chronicles kings Israel, Jehu slept fathers buried Samaria Jehoahaz son reigned, time Jehu reigned Israel Samaria twenty-eight years
 
+
+*AI Keywords for current event matching:*
+`acts` `afraid` `ahab` `ahabs` `ahaziah` `ahaziahs` `alive` `alliance` `armour` `arnon` `aroer` `assembly` `baal` `bashan` `baskets` `best` `beth-el` `bid` `book` `brethren` `bringers` `brought` `buried` `burned` `burnt` `calves` `captains` `chariot` `chariots` `children` `chronicles` `city` `coasts` `conquests` `conspired` `dan` `day` `departed` `destroy` `destroyed` `draught` `earth` `eastward` `elders` `elijah` `entering` `escape` `executing` `eyes` `father` `fathers` `fenced` `fight` `forty` `fourscore` `fourth` `full` `gadites` `gate` `generation` `gilead` `god` `golden` `good` `great` `guard` `hand` `hazael` `hazaels` `heads` `heaps` `heart` `horses` `house` `image` `images` `israel` `jehoahaz` `jehonadab` `jehonadabs` `jehu` `jehus` `jeroboam` `jezreel` `jordan` `judah` `killed` `king` `kings` `kinsfolks` `land` `law` `left` `letter` `letters` `life` `little` `lord` `man` `manassites` `master` `meetest` `men` `messenger` `morning` `morrow` `much` `nebat` `obedience` `offering` `offerings` `partial` `people` `persons` `pit` `priests` `proclaimed` `prophets` `queen` `rechab` `reign` `reigned` `remained` `remaining` `reubenites` `right` `righteous` `river` `rulers` `sacrifice` `sacrifices` `salute` `samaria` `saying` `second` `servant` `servants` `served` `seventy` `shearing` `short` `sin` `sins` `slay` `slept` `slew` `smote` `solemn` `son` `sons` `stand` `subtilty` `sword` `throne` `time` `twenty-eight` `two` `vestments` `vestry` `voices` `wanting` `way` `word` `worship` `worshippers` `years` `zeal`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -91,6 +91,11 @@ Quickened, dead, trespasses, sins, walked, course, world, prince, power, air, sp
 
 **The Household of God:** access, Spirit, Father, strangers, foreigners, fellowcitizens, saints, household, God, built, foundation, apostles, prophets, Jesus, Christ, chief, corner, stone, building, fitly, framed, holy, temple, Lord, builded, habitation, God, Spirit
 
+
+*AI Keywords for current event matching:*
+`abolished` `access` `afar` `ages` `air` `aliens` `alive` `apostles` `blood` `boast` `body` `broken` `builded` `building` `built` `called` `chief` `children` `christ` `circumcision` `commandments` `commonwealth` `conversation` `corner` `course` `covenants` `created` `cross` `dead` `desires` `disobedience` `enmity` `exceeding` `faith` `far` `father` `fellowcitizens` `fitly` `flesh` `foreigners` `foundation` `framed` `fulfilling` `gentiles` `gift` `god` `good` `grace` `great` `habitation` `hands` `heavenly` `holy` `hope` `household` `israel` `jesus` `kindness` `law` `lord` `love` `loved` `lusts` `made` `man` `mercy` `middle` `mind` `nature` `new` `nigh` `one` `ordained` `ordinances` `others` `partition` `peace` `places` `power` `preached` `prince` `promise` `prophets` `quicken` `quickened` `raised` `reconcile` `remember` `rich` `riches` `saints` `saved` `shew` `sins` `sit` `slain` `spirit` `stone` `strangers` `temple` `trespasses` `twain` `uncircumcision` `walk` `walked` `wall` `worketh` `workmanship` `works` `world` `wrath` `yourselves`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

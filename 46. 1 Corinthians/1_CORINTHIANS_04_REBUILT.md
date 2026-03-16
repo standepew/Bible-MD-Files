@@ -127,6 +127,11 @@ Account, ministers, Christ, stewards, mysteries, God, required, stewards, faithf
 
 **Kingdom of God:** Timotheus, beloved, son, faithful, Lord, bring, remembrance, ways, Christ, teach, church, puffed, come, shortly, Lord, speech, puffed, power, kingdom, God, word, power, rod, love, spirit, meekness
 
+
+*AI Keywords for current event matching:*
+`account` `angels` `apollos` `apostles` `apostolic` `appointed` `begotten` `beloved` `beseech` `bless` `brethren` `bring` `buffeted` `certain` `christ` `church` `come` `counsels` `darkness` `death` `defamed` `despised` `differ` `dwellingplace` `faithful` `fathers` `figure` `filth` `followers` `fools` `full` `glory` `god` `gospel` `hands` `hearts` `hidden` `honourable` `hunger` `instructors` `intreat` `jesus` `judge` `judged` `judgeth` `judgment` `justified` `kingdom` `kings` `labour` `learn` `light` `lord` `love` `maketh` `man` `manifest` `meekness` `men` `ministers` `mysteries` `naked` `offscouring` `persecuted` `power` `praise` `puffed` `receive` `received` `reign` `reigned` `remembrance` `required` `reviled` `rich` `rod` `sake` `sakes` `shame` `shortly` `son` `sons` `spectacle` `speech` `spirit` `stewards` `strong` `suffer` `suffering` `teach` `ten` `things` `think` `thirst` `thousand` `time` `timotheus` `transferred` `warn` `ways` `weak` `wise` `word` `working` `world` `written`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

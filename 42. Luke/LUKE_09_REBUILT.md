@@ -245,6 +245,11 @@ Called, twelve, disciples, gave, power, authority, devils, cure, diseases, sent,
 
 **Cost of Discipleship:** against us, fire heaven, lay head, dead bury
 
+
+*AI Keywords for current event matching:*
+`against` `appeared` `ashamed` `authority` `baskets` `beheaded` `beloved` `blessed` `boy` `brake` `bury` `child` `christ` `confession` `cost` `cross` `days` `dead` `death` `delivered` `demon` `disciples` `discipleship` `dust` `eight` `elias` `father` `feeding` `fire` `five` `gain` `glory` `god` `great` `greatest` `hands` `head` `healing` `heaven` `herods` `john` `kingdom` `lay` `least` `life` `loaves` `looking` `lose` `man` `mighty` `mission` `moses` `mountain` `perplexity` `peters` `power` `pray` `preach` `prediction` `prophets` `reasoning` `receive` `risen` `sent` `shake` `son` `suffer` `take` `tell` `thousand` `transfiguration` `twelve` `words` `world`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

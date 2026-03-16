@@ -85,6 +85,11 @@ King David old, stricken years, covered clothes, no heat. Servants said seek you
 
 **Adonijah's Submission:** guests Adonijah afraid rose way, Adonijah feared Solomon rose horns altar, Solomon worthy hair earth wickedness die, Solomon altar bowed king Solomon house
 
+
+*AI Keywords for current event matching:*
+`abiathar` `abishag` `absalom` `adonijah` `adonijahs` `afraid` `altar` `anoint` `anointed` `anointing` `bath-sheba` `bed` `benaiah` `bless` `bosom` `bowed` `brethren` `brother` `cattle` `certainly` `chamber` `chariots` `cherethites` `cherish` `cherished` `city` `clothes` `coasts` `conferred` `confirmation` `counsel` `covered` `damsel` `david` `davids` `day` `decline` `die` `displeased` `distress` `divine` `earth` `eating` `en-rogel` `exalted` `eyes` `face` `fair` `fat` `father` `fear` `feared` `fifty` `following` `found` `gihon` `god` `good` `goodly` `great` `greater` `guests` `haggith` `hair` `handmaid` `heat` `helped` `horn` `horns` `horsemen` `house` `intervention` `israel` `jehoiada` `joab` `jonathan` `joy` `judah` `king` `kingdom` `kings` `knew` `knows` `life` `live` `lord` `men` `mighty` `ministered` `mother` `mule` `name` `nathan` `noise` `obeisance` `oil` `old` `oxen` `pelethites` `people` `priest` `prophet` `rang` `rebellion` `redeemed` `rei` `reign` `reigns` `rejoiced` `rejoicing` `rent` `reverence` `rose` `ruler` `save` `seeing` `sent` `servants` `sheep` `shimei` `shunammite` `solomon` `solomons` `son` `sons` `soul` `sound` `stand` `stead` `stone` `stricken` `submission` `swear` `swore` `sworn` `tabernacle` `talking` `throne` `tidings` `trumpet` `uproar` `valiant` `virgin` `way` `wickedness` `worthy` `years` `young` `zadok` `zeruiah` `zoheleth`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

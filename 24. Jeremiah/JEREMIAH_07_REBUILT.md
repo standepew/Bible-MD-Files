@@ -103,6 +103,11 @@ Word, Jeremiah, LORD, saying, Stand, gate, LORD, house, proclaim, word, Hear, wo
 
 **Christ's Judgment:** anger fury poured, valley slaughter, carcases meat, land desolate
 
+
+*AI Keywords for current event matching:*
+`abominations` `anger` `called` `carcases` `cast` `cease` `christs` `den` `desolate` `divine` `forsaken` `fury` `gate` `generation` `house` `hypocrisy` `judgment` `land` `lord` `lying` `meat` `mirth` `name` `poured` `prayer` `rejected` `rejection` `robbers` `sight` `slaughter` `spiritual` `temple` `trust` `valley` `words` `wrath`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

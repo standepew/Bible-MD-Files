@@ -103,6 +103,11 @@ LORD, covered, daughter, Zion, cloud, anger, cast, heaven, earth, beauty, Israel
 
 **Christ's Lament:** eyes fail tears, bowels troubled, liver poured, heart cried LORD
 
+
+*AI Keywords for current event matching:*
+`altar` `anger` `bent` `bow` `bowels` `burned` `cast` `christs` `cloud` `covered` `cried` `day` `destroyed` `destruction` `divine` `enemy` `eyes` `fail` `fierce` `fire` `flaming` `fury` `habitations` `heart` `holds` `indignation` `killed` `kingdom` `lament` `liver` `lord` `pity` `polluted` `poured` `slain` `strong` `swallowed` `tears` `troubled` `wrath` `zions`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

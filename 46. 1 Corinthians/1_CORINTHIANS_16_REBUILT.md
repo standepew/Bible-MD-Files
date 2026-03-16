@@ -127,6 +127,11 @@ Collection, saints, order, churches, Galatia, first, day, week, lay, store, God,
 
 **Christian Greetings:** churches, Asia, salute, Aquila, Priscilla, salute, Lord, church, house, brethren, greet, holy, kiss, salutation, Paul, hand, love, Lord, Jesus, Christ, Anathema, Maranatha, grace, Lord, Jesus, Christ, love, Christ, Jesus, Amen
 
+
+*AI Keywords for current event matching:*
+`abide` `achaia` `achaicus` `acknowledge` `addicted` `adversaries` `amen` `anathema` `apollos` `approve` `aquila` `asia` `beseech` `brethren` `brothers` `charity` `christ` `christian` `church` `churches` `collection` `come` `coming` `conduct` `convenient` `day` `despise` `door` `effectual` `ephesus` `exhortations` `faith` `fear` `final` `first` `firstfruits` `fortunatus` `galatia` `gatherings` `glad` `god` `grace` `great` `greet` `greetings` `hand` `helpeth` `holy` `house` `jerusalem` `jesus` `journey` `kiss` `laboured` `lacking` `lay` `letters` `liberality` `lord` `love` `macedonia` `maranatha` `meet` `men` `ministry` `opened` `order` `part` `pass` `paul` `pauls` `peace` `pentecost` `permit` `plans` `priscilla` `prospered` `quit` `refreshed` `saints` `salutation` `salute` `send` `spirit` `stand` `stephanas` `store` `strong` `submit` `supplied` `tarry` `time` `timotheus` `travel` `watch` `way` `week` `while` `whithersoever` `winter` `work` `worketh`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

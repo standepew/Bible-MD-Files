@@ -107,6 +107,11 @@ After Joshua's death, Israel asks the LORD who should fight the Canaanites first
 
 **Dan's Pressure:** Amorites forced children Dan mountain, suffer valley, Amorites dwelt mount Heres Aijalon Shaalbim, hand house Joseph prevailed, tributaries, coast Amorites going up Akrabbim rock upward
 
+
+*AI Keywords for current event matching:*
+`accho` `achsah` `achsahs` `achzib` `adoni-bezek` `afterward` `ahiman` `ahlab` `aijalon` `akrabbim` `alliance` `amorites` `anak` `aphik` `arad` `asher` `asherites` `ashers` `ask` `asked` `askelon` `ass` `benjamin` `benjamins` `beth-anath` `beth-el` `beth-shean` `beth-shemesh` `bezek` `blessing` `brother` `brought` `built` `caleb` `came` `campaign` `canaanites` `caught` `chariots` `children` `cities` `city` `coast` `coastal` `conquest` `cut` `dan` `dans` `daughter` `death` `debir` `delivered` `descry` `destroyed` `died` `dor` `drave` `drive` `dwell` `dwelt` `edge` `ekron` `entrance` `ephraim` `ephraims` `expelled` `failure` `family` `father` `field` `fight` `fire` `first` `fled` `forced` `fought` `found` `gathered` `gave` `gaza` `gezer` `god` `going` `great` `hand` `hebron` `helbah` `heres` `hittites` `hormah` `house` `ibleam` `inhabitants` `iron` `israel` `jebusites` `jerusalem` `joseph` `joshua` `judah` `judah-simeon` `kenaz` `kenite` `kings` `kirjath-arba` `kirjath-sepher` `kitron` `land` `law` `leadership` `lighted` `lord` `lot` `luz` `man` `manasseh` `manassehs` `meat` `megiddo` `men` `mercy` `moses` `mount` `mountain` `moved` `nahalol` `name` `naphtali` `naphtalis` `nether` `off` `othniel` `palm` `partial` `people` `perizzites` `pressure` `prevailed` `pursued` `rehob` `requited` `rock` `said` `set` `settlement` `shaalbim` `sheshai` `simeon` `slew` `smiteth` `smitten` `smote` `son` `sons` `south` `southern` `spies` `springs` `strong` `suffer` `sword` `taanach` `table` `taken` `talmai` `ten` `thousand` `three` `threescore` `thumbs` `toes` `took` `towns` `transition` `trees` `tributaries` `tribute` `upper` `upward` `valley` `victory` `water` `wife` `wilderness` `wilt` `zebulun` `zebuluns` `zephath` `zidon`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

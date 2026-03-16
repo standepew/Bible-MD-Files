@@ -103,6 +103,11 @@ LORD, Moses, Samuel, stood, mind, people, cast, sight, go, forth, go, forth, LOR
 
 **Christ's Protection:** fenced brasen wall, fight not prevail, save deliver, redeem hand
 
+
+*AI Keywords for current event matching:*
+`backward` `brasen` `cast` `christs` `contention` `deliver` `devour` `divine` `dogs` `earth` `fenced` `fight` `four` `fowls` `gone` `hand` `heaven` `incurable` `judgment` `kinds` `man` `mind` `pain` `perpetual` `prevail` `protection` `redeem` `rejection` `repenting` `save` `slay` `strife` `suffering` `sword` `tear` `wall` `weary` `wound`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -103,6 +103,11 @@ Run, streets, Jerusalem, know, seek, broad, places, find, man, executeth, judgme
 
 **Christ's Patience:** not full end, giveth rain, appointed weeks harvest, love to have it so
 
+
+*AI Keywords for current event matching:*
+`appointed` `cause` `christs` `correction` `corruption` `devour` `divine` `end` `executeth` `falsely` `fire` `full` `giveth` `harder` `harvest` `judge` `judgment` `justice` `leopard` `lion` `love` `pardon` `patience` `prophesy` `rain` `refused` `rock` `seeketh` `slay` `spiritual` `spoil` `swear` `truth` `watch` `weeks` `wolf` `wood`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

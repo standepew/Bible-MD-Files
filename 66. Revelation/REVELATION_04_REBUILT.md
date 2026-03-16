@@ -91,6 +91,11 @@ Door, opened, heaven, voice, trumpet, talking, Come, shew, things, hereafter, im
 
 **Worship Around the Throne:** beasts, glory, honour, thanks, sat, throne, liveth, elders, fall, sat, throne, worship, liveth, cast, crowns, throne, worthy, Lord, receive, glory, honour, power, created, pleasure, created
 
+
+*AI Keywords for current event matching:*
+`almighty` `around` `beast` `beasts` `burning` `calf` `cast` `clothed` `come` `created` `creatures` `crowns` `crystal` `day` `door` `eagle` `elders` `emerald` `eyes` `face` `fall` `fire` `first` `flying` `four` `fourth` `full` `glass` `glory` `god` `gold` `heads` `heaven` `heavenly` `hereafter` `holy` `honour` `immediately` `jasper` `lamps` `lightnings` `lion` `liveth` `living` `lord` `man` `midst` `night` `opened` `pleasure` `power` `proceeded` `raiment` `rainbow` `receive` `rest` `room` `round` `sardine` `sat` `sea` `seats` `second` `set` `seven` `shew` `sitting` `six` `spirit` `spirits` `stone` `talking` `thanks` `things` `third` `throne` `thunderings` `trumpet` `twenty` `voice` `voices` `white` `wings` `worship` `worthy`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

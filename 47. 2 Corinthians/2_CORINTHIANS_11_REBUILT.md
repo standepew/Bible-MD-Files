@@ -127,6 +127,11 @@ Bear, folly, jealous, godly, jealousy, espoused, husband, chaste, virgin, Christ
 
 **The Fool's Boasting:** weak, weak, offended, burn, glory, infirmities, God, Father, Lord, Jesus, Christ, blessed, lie, Damascus, governor, Aretas, king, city, Damascenes, garrison, apprehend, window, basket, wall, escaped, hands
 
+
+*AI Keywords for current event matching:*
+`abasing` `abraham` `abundant` `accepted` `achaia` `angel` `another` `apostles` `apprehend` `aretas` `basket` `bear` `beaten` `beguiled` `behind` `blessed` `boasting` `bold` `bondage` `brethren` `burdensome` `burn` `care` `chargeable` `chaste` `chiefest` `christ` `churches` `city` `cold` `cometh` `committed` `confidence` `corrupted` `countrymen` `cut` `daily` `damascenes` `damascus` `deaths` `deceitful` `deep` `defense` `desire` `devour` `escaped` `espoused` `eve` `exalt` `exalted` `face` `false` `fasting` `father` `fear` `five` `flesh` `folly` `fool` `fools` `forty` `found` `freely` `frequent` `garrison` `gladly` `glory` `god` `godly` `gospel` `governor` `hands` `heathen` `hebrews` `hunger` `husband` `infirmities` `israelites` `jealous` `jealousy` `jesus` `jews` `journeyings` `kept` `king` `knoweth` `knowledge` `labours` `lacking` `lie` `light` `lord` `love` `macedonia` `manifest` `marvel` `measure` `minds` `ministers` `nakedness` `night` `occasion` `off` `offence` `offended` `painfulness` `pauls` `perils` `preach` `preached` `present` `prisons` `receive` `received` `regions` `reproach` `righteousness` `robbed` `robbers` `rods` `rude` `satan` `save` `sea` `seed` `serpent` `service` `shipwreck` `simplicity` `smite` `speech` `spirit` `stoned` `stripes` `subtlety` `suffer` `sufferings` `supplied` `things` `thirst` `thrice` `times` `transformed` `transforming` `truth` `virgin` `wages` `wall` `wanted` `watchings` `waters` `weak` `weariness` `wilderness` `window` `wise` `without` `workers` `works`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

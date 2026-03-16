@@ -115,6 +115,11 @@ Brethren, faith, Lord, Jesus, Christ, Lord, glory, respect, persons, assembly, m
 
 **Examples of Living Faith:** Abraham, father, justified, works, offered, Isaac, son, altar, seest, faith, wrought, works, works, faith, perfect, scripture, fulfilled, Abraham, believed, God, imputed, righteousness, called, Friend, God, works, justified, faith, Rahab, harlot, justified, works, received, messengers, sent, body, spirit, dead, faith, works, dead
 
+
+*AI Keywords for current event matching:*
+`abraham` `adultery` `alone` `altar` `apparel` `assembly` `believe` `believed` `believest` `beloved` `blaspheme` `body` `brethren` `brother` `called` `chosen` `christ` `clothing` `commit` `convinced` `daily` `dead` `depart` `despised` `destitute` `devils` `evil` `examples` `faith` `father` `filled` `food` `footstool` `friend` `fulfil` `fulfilled` `gay` `glory` `god` `gold` `good` `goodly` `guilty` `harlot` `heirs` `imputed` `isaac` `jesus` `judged` `judges` `judgment` `justified` `keep` `kill` `kingdom` `law` `liberty` `living` `lord` `love` `man` `men` `mercy` `messengers` `naked` `name` `needful` `neighbour` `offend` `offered` `one` `oppress` `partial` `peace` `perfect` `persons` `place` `point` `poor` `profit` `promised` `rahab` `raiment` `received` `rejoiceth` `respect` `rich` `righteousness` `ring` `royal` `save` `scripture` `seats` `seest` `sent` `shew` `shewed` `sin` `sister` `sit` `son` `speak` `spirit` `stand` `thoughts` `transgressor` `transgressors` `tremble` `vain` `vile` `warmed` `well` `whole` `works` `world` `worthy` `wrought`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

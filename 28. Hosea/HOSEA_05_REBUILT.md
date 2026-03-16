@@ -103,6 +103,11 @@ Hear, priests, hearken, house, Israel, ear, house, king, judgment, snare, Mizpah
 
 **Christ's Return:** return place, seek face, affliction seek, return my place
 
+
+*AI Keywords for current event matching:*
+`acknowledge` `affliction` `away` `christs` `discipline` `divine` `early` `face` `fall` `iniquity` `israel` `judgment` `mizpah` `moth` `net` `offence` `place` `pour` `pride` `return` `rottenness` `seek` `snare` `spiritual` `spread` `tear` `testify` `toward` `walked` `willingly` `wrath`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

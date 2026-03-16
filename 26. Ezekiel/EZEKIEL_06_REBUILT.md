@@ -127,6 +127,11 @@ Word, LORD, saying, son, man, face, mountains, Israel, prophesy, mountains, hill
 
 **Christ's Glory:** remnant escape, remember me, know LORD, broken heart
 
+
+*AI Keywords for current event matching:*
+`accomplish` `altars` `bones` `bring` `broken` `carcases` `christs` `consequences` `dead` `desolate` `destroy` `divine` `escape` `face` `fall` `fury` `glory` `hand` `heart` `high` `idolatrys` `images` `judgment` `know` `land` `lord` `places` `remember` `remnant` `scattered` `set` `slain` `stretch` `sword`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

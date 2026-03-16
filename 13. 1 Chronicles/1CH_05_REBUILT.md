@@ -85,6 +85,11 @@ Sons, Reuben, firstborn, Israel, firstborn, defiled, father, bed, birthright, so
 
 **Assyrian Captivity:** God Israel stirred spirit Pul king Assyria spirit Tilgath-pilneser king Assyria carried Reubenites Gadites half tribe Manasseh Halah Habor Hara river Gozan day
 
+
+*AI Keywords for current event matching:*
+`abdiel` `abihail` `able` `against` `ahi` `aroer` `asses` `assyria` `assyrian` `azaz` `azriel` `baal` `baal-hermon` `baal-meon` `bashan` `battle` `bear` `bed` `beerah` `bela` `birthright` `borders` `bow` `brethren` `buckler` `buz` `camels` `captive` `captivity` `carmi` `carried` `cattle` `chief` `children` `cried` `day` `days` `defiled` `delivered` `descendants` `destroyed` `dwelt` `east` `eastward` `eliel` `entering` `epher` `euphrates` `expansion` `families` `famous` `father` `fathers` `fell` `fifty` `firstborn` `forty` `four` `gad` `gadites` `gads` `genealogies` `genealogy` `generations` `gilead` `god` `gods` `gog` `gozan` `guni` `habor` `hagarites` `halah` `half` `hand` `hanoch` `hara` `heads` `heber` `helped` `hermon` `hezron` `hodaviah` `house` `hundred` `huri` `increased` `inhabited` `intreated` `ishi` `israel` `jaanai` `jachan` `jahdiel` `jahdo` `jaroah` `jeiel` `jeremiah` `jeroboam` `jeshishai` `jetur` `joel` `jorai` `joseph` `jotham` `judah` `king` `land` `lost` `manasseh` `manassehs` `men` `meshullam` `micah` `michael` `mighty` `military` `mount` `multiplied` `nebo` `nephish` `next` `nodab` `pallu` `people` `prevailed` `prince` `pul` `reaia` `reckoned` `reuben` `reubenites` `reubens` `river` `ruler` `salchah` `saul` `senir` `seven` `shapham` `shaphat` `sharon` `sheba` `sheep` `shema` `shemaiah` `shimei` `shoot` `skilful` `slain` `son` `sons` `spirit` `steads` `stirred` `suburbs` `sword` `tents` `thousand` `threescore` `tilgath-pilneser` `took` `towns` `transgressed` `transgression` `tribal` `tribe` `trust` `two` `valiant` `valour` `victory` `war` `whoring` `wilderness` `zechariah` `zia`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -69,6 +69,11 @@ Sons, Israel, Reuben, Simeon, Levi, Judah, Issachar, Zebulun. Sons, Judah, Er, O
 
 **Military Campaigns:** Philistines Gath Keilah Ekron died Jerusalemites David reigned Judah Mahanai Mahanai Gedor Asahel Joab Abner son Ner commander Joab Abner commander Ish-bosheth Saul slew Philistines Jezreel Amalek Philistines Jezreel died Jerusalemites David reigned Judah Jerusalem
 
+
+*AI Keywords for current event matching:*
+`abdiel` `abinadab` `abner` `amalek` `aminadab` `anointed` `anointing` `asahel` `asshur` `baara` `beth-lehem` `brothers` `campaigns` `carmi` `citadel` `commander` `david` `davids` `died` `ekron` `eldest` `family` `followed` `gath` `gedor` `gera` `hebron` `hezron` `ish-bosheth` `israel` `israels` `issachar` `jerusalem` `jerusalemites` `jesse` `jezreel` `joab` `judah` `judahs` `keilah` `king` `levi` `lineage` `mahanai` `mareshah` `micah` `military` `months` `ner` `onan` `philistine` `philistines` `reigned` `reuben` `samariah` `saul` `second` `seven` `shelah` `simeon` `six` `slew` `son` `sons` `tribes` `war` `years` `zebulun`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

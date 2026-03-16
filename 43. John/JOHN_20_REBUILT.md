@@ -115,6 +115,11 @@ First, day, week, Mary, Magdalene, early, dark, sepulchre, seeth, stone, taken, 
 
 **Jesus and Thomas:** Thomas Didymus, disciples Jesus, disciples Lord, seen Lord, Except I see, hands nails, finger nails, hand side, not believe, eight days, disciples within, Thomas doors, shut midst, Peace Thomas, finger behold, hands hand, side faithless, believing, Thomas Lord, God Thomas seen, believed blessed, believed signs Jesus, disciples written, book written, believe Christ, Son God, believing life, name
 
+
+*AI Keywords for current event matching:*
+`again` `angels` `appears` `ascend` `ascended` `back` `behold` `believe` `believed` `believing` `blessed` `body` `book` `borne` `breathed` `brethren` `christ` `clothes` `dark` `day` `days` `didymus` `disciple` `disciples` `doors` `early` `eight` `empty` `evening` `except` `faithless` `father` `feared` `feet` `finger` `first` `gardener` `ghost` `glad` `god` `hand` `hands` `head` `hence` `holy` `home` `jesus` `jews` `knew` `laid` `lain` `lie` `life` `linen` `looking` `lord` `loved` `magdalene` `mary` `master` `midst` `nails` `name` `napkin` `outrun` `peace` `peter` `place` `rabboni` `ran` `remit` `remitted` `retain` `retained` `rise` `runneth` `scripture` `see` `seeketh` `seen` `send` `sent` `sepulchre` `shewed` `shut` `side` `signs` `simon` `sins` `sitting` `son` `spoken` `standing` `stone` `stooped` `stooping` `take` `taken` `tell` `thomas` `together` `tomb` `touch` `turned` `two` `week` `weepest` `weeping` `went` `white` `within` `woman` `wrapped` `written` `you`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

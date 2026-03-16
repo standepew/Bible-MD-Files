@@ -115,6 +115,11 @@ First, year, Cyrus, king, Persia, word, LORD, mouth, Jeremiah, fulfilled, LORD, 
 
 **Return from Exile:** rose chief fathers Judah Benjamin priests Levites spirit God raised build house LORD Jerusalem, Sheshbazzar captivity Babylon Jerusalem
 
+
+*AI Keywords for current event matching:*
+`babylon` `basons` `beasts` `benjamin` `brought` `build` `captivity` `charged` `chargers` `chief` `cyrus` `divine` `earth` `exile` `fathers` `first` `five` `four` `freewill` `fulfilled` `fulfillment` `given` `god` `gods` `gold` `goods` `hand` `hands` `heaven` `house` `hundred` `israel` `jeremiah` `jerusalem` `judah` `king` `kingdom` `kingdoms` `knives` `levites` `lord` `men` `mithredath` `mouth` `nebuchadnezzar` `nine` `number` `numbered` `offered` `offering` `people` `persia` `place` `precious` `priests` `prince` `proclamation` `prophetic` `raised` `remain` `restoration` `return` `rose` `saying` `sheshbazzar` `silver` `sojourn` `sovereignty` `spirit` `stirred` `strengthened` `temple` `ten` `things` `thirty` `thousand` `treasurer` `twenty` `vessels` `willingly` `word` `writing` `year`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

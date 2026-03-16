@@ -115,6 +115,11 @@ Shewed, Joshua, high, priest, standing, angel, LORD, Satan, standing, right, han
 
 **Stone with Seven Eyes:** stone laid Joshua, seven eyes, engrave graving, seven Spirits
 
+
+*AI Keywords for current event matching:*
+`branch` `brand` `bring` `caused` `change` `christs` `cleansing` `day` `divine` `engrave` `eyes` `fair` `fellows` `filthy` `forgiveness` `forth` `garments` `graving` `high` `iniquity` `joshua` `laid` `men` `mitre` `one` `pass` `plucked` `priest` `protest` `raiment` `remove` `servant` `seven` `sit` `spirits` `stone` `wondered`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

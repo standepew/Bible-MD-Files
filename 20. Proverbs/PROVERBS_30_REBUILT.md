@@ -115,6 +115,11 @@ Words, Agur, son, Jakeh, prophecy, man, spake, Ithiel, Ithiel, Ucal, brutish, ma
 
 **Natural Wisdom:** four things little earth, ants prepare meat, conies houses rocks
 
+
+*AI Keywords for current event matching:*
+`ants` `ascended` `conies` `corruption` `curse` `descended` `divine` `earth` `ends` `established` `eyes` `father` `fists` `four` `gathered` `generation` `god` `gods` `heaven` `houses` `human` `limitation` `little` `lofty` `meat` `moral` `name` `natural` `prepare` `pure` `rocks` `shield` `sovereignty` `things` `trust` `wind` `wisdom` `word`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

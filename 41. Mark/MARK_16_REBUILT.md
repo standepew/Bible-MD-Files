@@ -115,6 +115,11 @@ Sabbath, past, Mary, Magdalene, mother, James, Salome, bought, sweet, spices, an
 
 **Ascension:** received heaven, right hand, Lord working, confirming word
 
+
+*AI Keywords for current event matching:*
+`appearances` `ascension` `baptized` `believe` `believed` `cast` `christs` `commission` `confirming` `devils` `eleven` `follow` `galilee` `gospel` `great` `hand` `hardness` `heaven` `lord` `magdalene` `mary` `meat` `preach` `received` `resurrection` `right` `risen` `rising` `rolled` `see` `sepulchre` `signs` `stone` `unbelief` `word` `working`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

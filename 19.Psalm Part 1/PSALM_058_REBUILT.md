@@ -127,6 +127,11 @@ Chief, Musician, Al, taschith, Michtam, David, ye, indeed, speak, righteousness,
 
 **God's Justice:** man reward righteous GOD judgeth earth, reward righteous, GOD judgeth earth
 
+
+*AI Keywords for current event matching:*
+`arrows` `astray` `bend` `birth` `blood` `born` `bow` `break` `chief` `congregation` `continually` `cut` `david` `deception` `divine` `earth` `estranged` `feel` `feet` `god` `gods` `great` `hands` `heart` `judge` `judgeth` `judgment` `justice` `lies` `lions` `living` `lord` `man` `melt` `men` `michtam` `mouth` `musician` `pass` `pieces` `pots` `rejoice` `reward` `righteous` `righteousness` `run` `see` `shoot` `snailed` `sons` `speak` `speaking` `sun` `taschith` `teeth` `thorns` `untimely` `uprightly` `vengeance` `violence` `wash` `waters` `weigh` `whirlwind` `wicked` `wickedness` `wickeds` `woman` `womb` `work` `wrath` `young`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -91,6 +91,11 @@ Touching, things, offered, idols, knowledge, knowledge, puffeth, charity, edifie
 
 **Stumbling Blocks:** sin, brethren, wound, weak, conscience, sin, Christ, meat, brother, offend, eat, flesh, world, standeth, brother, offend
 
+
+*AI Keywords for current event matching:*
+`better` `blocks` `brethren` `brother` `called` `charity` `christ` `commendeth` `conscience` `defiled` `died` `earth` `eat` `eating` `edifieth` `emboldened` `father` `flesh` `god` `gods` `heaven` `hour` `idol` `idols` `jesus` `know` `knoweth` `knowledge` `known` `liberty` `lord` `lords` `love` `many` `meat` `none` `nothing` `offend` `offered` `ought` `perish` `puffeth` `sacrifice` `sin` `sit` `standeth` `stumbling` `stumblingblock` `temple` `thing` `things` `think` `touching` `true` `weak` `world` `worse` `wound`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

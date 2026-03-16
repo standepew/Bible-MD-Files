@@ -85,6 +85,11 @@ Joshua calls Reubenites, Gadites, and half-Manasseh, commending their obedience 
 
 **Resolution:** Phinehas priest princes congregation heads thousands Israel, heard words children Reuben children Gad children Manasseh, pleased, Phinehas son Eleazar priest, perceive LORD among, committed trespass LORD, delivered children Israel hand LORD, Phinehas son Eleazar priest princes returned children Reuben children Gad land Gilead land Canaan children Israel, brought word, pleased children Israel, children Israel blessed God, intend war battle, destroy land children Reuben Gad dwelt, children Reuben children Gad called altar Ed, witness LORD God
 
+
+*AI Keywords for current event matching:*
+`accursed` `accusation` `achan` `altar` `among` `answered` `away` `bashan` `battle` `blessed` `blessing` `border` `borders` `brass` `brethren` `brought` `build` `built` `burnt` `called` `came` `canaan` `cattle` `cease` `charge` `charged` `children` `cleansed` `cleave` `commanded` `commandment` `commandments` `committed` `concern` `congregation` `construction` `country` `day` `defense` `delivered` `departed` `destroy` `diligent` `dismissal` `divide` `dwelleth` `dwelt` `eastern` `eleazar` `enemies` `fathers` `fear` `fearing` `following` `forbid` `gad` `gadites` `gathered` `generations` `gilead` `god` `gods` `gold` `great` `half` `hand` `head` `heads` `heard` `heart` `heed` `house` `iniquity` `intend` `iron` `israel` `israels` `jordan` `joshua` `keep` `kept` `know` `knoweth` `land` `law` `lord` `love` `made` `man` `manasseh` `meat` `moses` `much` `obeyed` `offering` `offerings` `part` `pass` `passage` `pattern` `peace` `peor` `perceive` `perished` `phinehas` `plague` `pleased` `possessed` `possession` `prepare` `priest` `princes` `promised` `raiment` `rebel` `rebellion` `require` `resolution` `rest` `return` `returned` `reuben` `reubenites` `riches` `sacrifice` `sacrifices` `save` `say` `see` `sent` `servant` `serve` `service` `shiloh` `silver` `son` `soul` `speak` `spoil` `tabernacle` `ten` `tents` `thing` `thousands` `time` `transgression` `trespass` `tribe` `tribes` `turn` `unclean` `voice` `walk` `war` `ways` `westward` `whole` `witness` `word` `words` `wrath` `zerah`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

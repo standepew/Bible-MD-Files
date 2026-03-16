@@ -89,6 +89,11 @@ True, saying, man, desire, office, bishop, good, work, bishop, blameless, husban
 
 **The Mystery of Godliness:** write, hoping, come, shortly, tarry, know, behave, house, God, church, living, God, pillar, ground, truth, without, controversy, great, mystery, godliness, God, manifest, flesh, justified, Spirit, seen, angels, preached, Gentiles, believed, world, received, glory
 
+
+*AI Keywords for current event matching:*
+`angels` `apt` `behave` `behaviour` `believed` `bishop` `bishops` `blameless` `boldness` `brawler` `care` `children` `christ` `church` `come` `condemnation` `conscience` `controversy` `covetous` `deacon` `deacons` `degree` `desire` `devil` `doubletongued` `faith` `faithful` `filthy` `flesh` `gentiles` `glory` `god` `godliness` `good` `grave` `gravity` `great` `greedy` `ground` `holding` `hoping` `hospitality` `house` `houses` `husband` `husbands` `jesus` `justified` `know` `lifted` `living` `lucre` `man` `manifest` `mystery` `novice` `office` `one` `patient` `pillar` `preached` `pride` `proved` `purchase` `pure` `qualifications` `received` `report` `reproach` `rule` `ruleth` `ruling` `saying` `seen` `shortly` `slanderers` `snare` `sober` `spirit` `striker` `subjection` `tarry` `teach` `true` `truth` `used` `vigilant` `well` `wife` `wine` `without` `wives` `work` `world` `write`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

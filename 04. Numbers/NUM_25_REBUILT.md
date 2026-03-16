@@ -61,6 +61,11 @@ Israel camps at Shittim. The people begin committing whoredom with Moabite women
 - **One act of faithfulness covering the community** → Numbers 25:8, 13 — atonement through decisive action; Romans 5:19
 - **Reward of the everlasting covenant for faithfulness** → Numbers 25:12-13 — Malachi 2:4-5
 
+
+*AI Keywords for current event matching:*
+`251-3` `balaams` `counsel` `current` `enemys` `events` `immorality` `indirect` `matching` `numbers` `revelation` `seduction` `sexual` `spiritual` `strategy`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS WITH CONTEXTUAL DEFINITIONS

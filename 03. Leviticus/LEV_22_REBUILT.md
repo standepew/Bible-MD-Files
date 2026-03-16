@@ -63,6 +63,11 @@ God commands that the priests handle the holy things only when ceremonially clea
 - **Who has access to sacred things** → Leviticus 22:10-16 — the boundary between insider and outsider defined by covenant relationship
 - **Quality of what we bring to God** → Leviticus 22:19-25 — 2 Samuel 24:24; Romans 12:1
 
+
+*AI Keywords for current event matching:*
+`2220-25` `current` `events` `giving` `god` `leftovers` `leviticus` `malachi` `matching` `nominal` `religion` `romans`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS WITH CONTEXTUAL DEFINITIONS

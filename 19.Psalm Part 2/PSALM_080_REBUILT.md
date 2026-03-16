@@ -103,6 +103,11 @@ Chief, Musician, Shoshannim, eduth, Psalm, Asaph, Give, ear, Shepherd, Israel, l
 
 **God's Presence:** dwellest cherubims shine, cause face shine, look heaven behold visit, quicken call name
 
+
+*AI Keywords for current event matching:*
+`asaph` `behold` `beseech` `boughs` `brought` `call` `cast` `cause` `caused` `cedars` `cherubims` `chief` `covered` `deep` `divine` `dwellest` `ear` `eduth` `egypt` `face` `filled` `flock` `give` `god` `gods` `goodly` `heathen` `heaven` `hills` `hosts` `israel` `israels` `joseph` `land` `leadest` `like` `look` `musician` `name` `planted` `plea` `prepared` `presence` `psalm` `quicken` `restoration` `return` `room` `root` `saved` `shadow` `shepherd` `shine` `shoshannim` `turn` `vine` `visit`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

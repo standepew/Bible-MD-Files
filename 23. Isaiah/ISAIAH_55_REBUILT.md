@@ -127,6 +127,11 @@ Thirsteth, waters, money, buy, eat, buy, wine, milk, without, money, price, spen
 
 **Eternal Covenant:** everlasting covenant, word accomplish void, fir tree myrtle, everlasting sign
 
+
+*AI Keywords for current event matching:*
+`abundantly` `accomplish` `buy` `christs` `come` `covenant` `david` `divine` `ear` `eat` `eternal` `everlasting` `fatness` `fir` `forsake` `found` `good` `incline` `invitation` `live` `lord` `mercies` `mercy` `milk` `money` `myrtle` `pardon` `price` `provision` `return` `salvation` `seek` `sign` `soul` `spiritual` `sure` `thirsteth` `tree` `void` `waters` `way` `wicked` `wine` `without` `word`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -148,6 +148,11 @@ Moses gives miscellaneous laws covering various aspects of life: (1) Property re
 
 **Incest Prohibition:** Take father wife, discover father skirt
 
+
+*AI Keywords for current event matching:*
+`abomination` `accusation` `again` `agricultural` `amerce` `ass` `astray` `away` `battlement` `betrothed` `bird` `blood` `both` `bring` `brother` `build` `chastise` `city` `cloth` `clothing` `coverest` `cried` `dam` `damsel` `daughter` `days` `death` `defiled` `die` `discover` `divers` `door` `eggs` `elders` `environmental` `evil` `fall` `false` `father` `field` `fifty` `find` `folly` `force` `found` `four` `fringes` `fruit` `garment` `gate` `gave` `give` `ground` `hate` `hateth` `help` `hide` `hold` `house` `humbled` `hundred` `husband` `incest` `israel` `know` `laws` `lay` `let` `lie` `lift` `like` `likewise` `linen` `lord` `lost` `lying` `maid` `man` `manner` `marriage` `married` `mayest` `men` `moral` `mother` `name` `neighbour` `nest` `new` `nigh` `none` `nothing` `occasions` `offenses` `ones` `pertaineth` `play` `plow` `prohibition` `prohibitions` `prolong` `property` `protection` `put` `quarters` `raiment` `regulations` `requirements` `responsibility` `restore` `riseth` `roof` `safety` `save` `say` `seeds` `seek` `self` `sexual` `sheep` `shekels` `silver` `sin` `sitting` `skirt` `slay` `sorts` `sow` `speech` `spread` `stone` `surely` `take` `thing` `thyself` `tokens` `tree` `true` `until` `vesture` `vineyard` `virgin` `virginity` `way` `wear` `well` `whore` `wife` `woman` `woollen` `worthy` `wrought` `young`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

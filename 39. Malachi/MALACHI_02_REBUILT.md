@@ -139,6 +139,11 @@ Priests, commandment, hear, lay, heart, glory, name, LORD, hosts, send, curse, c
 
 **God's Justice:** curse blessings, contemptible base, cut man, hateth putting
 
+
+*AI Keywords for current event matching:*
+`base` `blessings` `christs` `contemptible` `corrupt` `corrupted` `corruption` `covenant` `curse` `cut` `deal` `departed` `dung` `faithfulness` `father` `fear` `god` `gods` `hateth` `justice` `law` `levi` `life` `man` `marriage` `name` `one` `peace` `priestly` `putting` `seed` `spread` `strange` `treacherously` `truth` `way` `wife`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

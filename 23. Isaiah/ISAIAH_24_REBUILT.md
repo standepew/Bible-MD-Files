@@ -115,6 +115,11 @@ Behold, LORD, maketh, earth, empty, maketh, waste, turn, upside, scatter, abroad
 
 **Christ's Glory:** glorify LORD fires, name LORD God Israel, songs glory righteous, reign Zion
 
+
+*AI Keywords for current event matching:*
+`ancients` `burned` `christs` `confounded` `curse` `devoured` `divine` `earth` `earths` `empty` `few` `fires` `gathered` `glorify` `gloriously` `glory` `god` `high` `israel` `jerusalem` `judgment` `kingdom` `kings` `left` `lord` `majesty` `men` `moon` `mount` `name` `ones` `pit` `prisoners` `punish` `reign` `righteous` `songs` `waste` `zion`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -65,6 +65,11 @@ After bearing a son, the mother is unclean seven days (as in her monthly separat
 - **The eighth day circumcision** → Leviticus 12:3 — Genesis 17:12; Colossians 2:11-12
 - **Provision for the poor built into atonement** → Leviticus 12:8 — Isaiah 55:1; Revelation 22:17
 
+
+*AI Keywords for current event matching:*
+`222-24` `brought` `current` `events` `lamb` `leviticus` `luke` `marys` `matching` `offering` `poor`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

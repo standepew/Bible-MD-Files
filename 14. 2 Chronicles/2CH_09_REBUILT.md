@@ -177,6 +177,11 @@ Queen, Sheba, heard, fame, Solomon, prove, Solomon, hard, questions, Jerusalem, 
 
 **Historical Record:** acts Solomon first last book Nathan prophet prophecy Ahijah Shilonite visions Iddo seer Jeroboam son Nebat, Solomon reigned Jerusalem Israel forty years, Solomon slept fathers buried city David father Rehoboam son reigned stead
 
+
+*AI Keywords for current event matching:*
+`abundance` `accounted` `acts` `ahijah` `algum` `amazement` `apes` `apparel` `arabia` `ascent` `asked` `attendance` `bare` `beaten` `believed` `bestowed` `blessed` `book` `border` `bring` `brought` `built` `buried` `came` `camels` `cedar` `chapmen` `chariot` `chariots` `cities` `city` `come` `communed` `company` `country` `cupbearers` `david` `days` `delighted` `desire` `drinking` `earth` `egypt` `equipment` `establish` `exceed` `extent` `eyes` `fame` `fastened` `father` `fathers` `first` `footstool` `forest` `forever` `forty` `four` `gave` `gifts` `god` `gold` `governors` `great` `greatness` `half` `happy` `hard` `harness` `harps` `hear` `heard` `heart` `hid` `historical` `horsemen` `horses` `house` `hundred` `huram` `iddo` `israel` `ivory` `jeroboam` `jerusalem` `judah` `judgment` `justice` `king` `kingdom` `kings` `land` `lands` `last` `lebanon` `like` `lions` `lord` `loved` `low` `luxury` `made` `meat` `men` `merchants` `military` `ministers` `mules` `nathan` `nebat` `nothing` `ophir` `overlaid` `palace` `passed` `peacocks` `philistines` `place` `plains` `precious` `presence` `present` `prophecy` `prophet` `prove` `psalteries` `pure` `queen` `queens` `questions` `raiment` `rate` `record` `rehoboam` `reigned` `report` `riches` `river` `royal` `seen` `seer` `servants` `set` `sheba` `shekels` `shield` `shields` `shilonite` `ships` `side` `silver` `singers` `sitting` `six` `slept` `solomon` `solomons` `son` `sought` `spice` `spices` `spirit` `stalls` `stand` `standing` `stays` `stead` `steps` `stones` `strength` `supremacy` `sycamore` `table` `talents` `target` `targets` `tarshish` `terraces` `territorial` `thousand` `three` `threescore` `throne` `told` `trees` `true` `turned` `twelve` `twenty` `two` `vessels` `visions` `visit` `wealth` `weight` `wisdom` `words` `year` `years`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

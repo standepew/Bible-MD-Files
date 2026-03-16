@@ -87,6 +87,11 @@ Word LORD Elijah third year, Go, Ahab, send rain earth. Elijah Ahab, sore famine
 
 **Rain Returns:** Elijah Ahab eat drink sound abundance rain, Ahab eat drink Elijah top Carmel cast earth face knees, servant sea looked nothing seven times, seventh time cloud sea hand Ahab chariot rain stop, heaven black clouds wind great rain Ahab rode Jezreel, hand LORD Elijah girded loins ran Ahab entrance Jezreel
 
+
+*AI Keywords for current event matching:*
+`abraham` `abundance` `ahab` `alive` `aloud` `altar` `answer` `answered` `awaked` `baal` `baalim` `barrels` `beasts` `black` `blood` `bread` `broken` `brook` `brooks` `built` `bullock` `bullocks` `burnt` `call` `called` `carmel` `carry` `cast` `cave` `chariot` `choose` `cloud` `clouds` `come` `commandments` `confrontation` `consumed` `contest` `cried` `cry` `cut` `day` `deliver` `divided` `divine` `dress` `dressed` `drink` `dust` `earth` `eat` `elijah` `elijahs` `entrance` `escape` `evening` `face` `faces` `faith` `famine` `fear` `feared` `fed` `fell` `fifty` `filled` `find` `fire` `follow` `followed` `forsaken` `found` `fountains` `four` `gather` `girded` `god` `gods` `gone` `governor` `grass` `great` `greatly` `groves` `gushed` `halt` `hand` `hear` `heart` `heaven` `hid` `horses` `hosts` `house` `hundred` `isaac` `israel` `jacob` `jezebel` `jezreel` `journey` `kingdom` `kishon` `knees` `knives` `know` `known` `lancets` `land` `leaped` `licked` `liveth` `loins` `long` `looked` `lord` `lose` `measures` `meet` `meeting` `met` `midday` `mocked` `morning` `mount` `mules` `name` `nation` `near` `noon` `nothing` `number` `oath` `obadiah` `obadiahs` `offering` `opinions` `order` `pass` `people` `peradventure` `pieces` `preparation` `prophesied` `prophet` `prophets` `pursuing` `rain` `ran` `regarded` `repaired` `return` `returns` `rode` `round` `sacrifice` `samaria` `save` `sea` `second` `seed` `seek` `send` `sent` `servant` `seven` `seventh` `shew` `sinned` `slay` `sleepeth` `slew` `sons` `sore` `sound` `spirit` `spoken` `stand` `stones` `stop` `table` `talking` `tell` `third` `time` `times` `told` `top` `trench` `tribes` `troubled` `troubleth` `turned` `twelve` `two` `victory` `voice` `water` `way` `whither` `wind` `wood` `word` `year` `youth`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

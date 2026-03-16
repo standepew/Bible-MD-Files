@@ -151,6 +151,11 @@ Song, Psalm, sons, Korah, chief, Musician, Mahalath, Leannoth, Maschil, Heman, E
 
 **Cry for Help:** cried day night, called daily stretched hands, cried LORD morning prayer prevent
 
+
+*AI Keywords for current event matching:*
+`afflicted` `called` `cast` `chief` `come` `counted` `cried` `cry` `daily` `dark` `darkness` `day` `deep` `deeps` `divine` `ear` `ezrahite` `face` `forgetfulness` `god` `grave` `hands` `hard` `help` `heman` `hidest` `incline` `korah` `land` `leannoth` `lieth` `life` `lord` `lowest` `mahalath` `man` `maschil` `morning` `musician` `nigh` `night` `pit` `prayer` `prevent` `psalm` `righteousness` `salvation` `silence` `song` `sons` `soul` `spiritual` `strength` `stretched` `suffering` `troubles` `waves` `wonders` `wrath`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

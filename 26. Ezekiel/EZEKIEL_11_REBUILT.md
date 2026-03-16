@@ -115,6 +115,11 @@ Spirit, lifted, east, gate, Lord, house, eastward, door, gate, five, twenty, men
 
 **Christ's Heart:** new spirit, stony heart, heart flesh, walk statutes
 
+
+*AI Keywords for current event matching:*
+`caldron` `christs` `city` `counsel` `counselors` `devise` `divine` `execute` `fall` `five` `flesh` `gather` `heart` `israel` `judgment` `judgments` `land` `little` `men` `mischief` `near` `new` `one` `people` `princes` `restoration` `sanctuary` `spirit` `statutes` `stony` `sword` `twenty` `walk` `wicked`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -104,6 +104,11 @@ Moses raises three objections to his commissioning: the people won't believe, he
 - **Leprosy / defilement / cleansing** → Exodus 4:6-7 — judgment and healing by the same hand
 - **Worship / revival** → Exodus 4:31 — people believed and worshipped
 
+
+*AI Keywords for current event matching:*
+`41-9` `authenticating` `current` `events` `exodus` `given` `matching` `messenger` `miracles` `signs` `validate`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

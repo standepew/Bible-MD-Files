@@ -187,6 +187,11 @@ Came, sea, country, Gadarenes, ship, unclean, spirit, dwelling, tombs, man, bind
 
 **Raising of Jairus' Daughter:** Jairus daughter, Talitha cumi, twelve years, great astonishment
 
+
+*AI Keywords for current event matching:*
+`astonishment` `blood` `broken` `chains` `christs` `clothes` `compassion` `cumi` `daughter` `decapolis` `demoniac` `demons` `dwelling` `faith` `gone` `great` `healing` `herd` `issue` `jairus` `legion` `lord` `many` `mind` `power` `publish` `raising` `right` `spirit` `swine` `talitha` `tombs` `touch` `twelve` `unclean` `virtue` `whole` `woman` `years`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

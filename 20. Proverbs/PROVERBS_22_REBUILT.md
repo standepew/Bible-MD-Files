@@ -127,6 +127,11 @@ Good, name, chosen, great, riches, loving, favour, silver, gold, rich, poor, mee
 
 **Justice and Mercy:** oppress poor increase riches, LORD plead cause, remove ancient landmark
 
+
+*AI Keywords for current event matching:*
+`ancient` `bow` `cause` `child` `chosen` `counsels` `creation` `depart` `divine` `ear` `excellent` `eyes` `favour` `gold` `good` `great` `hear` `increase` `instruction` `justice` `knowledge` `landmark` `lord` `loving` `maker` `meet` `mercy` `name` `old` `oppress` `plead` `poor` `preserve` `remove` `rich` `riches` `silver` `things` `train` `way` `wisdom` `wise` `words`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

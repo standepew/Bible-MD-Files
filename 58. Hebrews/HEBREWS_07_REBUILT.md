@@ -103,6 +103,11 @@ Melchisedec, king, Salem, priest, high, God, met, Abraham, returning, slaughter,
 
 **Christ's Unchangeable Priesthood:** made, law, carnal, commandment, power, endless, life, testifieth, priest, order, Melchisedec, disannulling, commandment, weakness, unprofitableness, law, perfect, bringing, better, hope, draw, nigh, God, oath, priest, priests, oath, oath, Lord, sware, repent, priest, order, Melchisedec, Jesus, surety, better, testament, priests, continue, death, continues, unchangeable, priesthood, able, save, uttermost, come, God, lives, intercession, high, priest, holy, harmless, undefiled, separate, sinners, higher, heavens, needeth, daily, high, priests, offer, sacrifice, sins, people, offered, law, priests, infirmity, oath, law, consecrated, forevermore
 
+
+*AI Keywords for current event matching:*
+`aaron` `able` `abraham` `altar` `arises` `attendance` `beginning` `better` `blessed` `brethren` `bringing` `called` `carnal` `change` `changed` `christs` `come` `commandment` `consecrated` `consider` `continually` `continue` `continues` `contradiction` `counted` `daily` `days` `death` `descent` `die` `disannulling` `draw` `end` `endless` `evident` `father` `forevermore` `god` `great` `harmless` `heavens` `high` `higher` `holy` `hope` `infirmity` `intercession` `interpretation` `jesus` `juda` `king` `kings` `law` `less` `levi` `levitical` `life` `like` `lives` `liveth` `loins` `lord` `made` `man` `melchisedec` `melchizedeks` `met` `moses` `mother` `needeth` `nigh` `oath` `offer` `offered` `office` `order` `part` `patriarch` `payed` `peace` `people` `perfect` `perfection` `pertaineth` `power` `priest` `priesthood` `priests` `promises` `receive` `received` `receiveth` `repent` `returning` `righteousness` `rise` `sacrifice` `salem` `save` `separate` `similitude` `sinners` `sins` `slaughter` `son` `sons` `spoils` `spoke` `spoken` `sprang` `superior` `surety` `sware` `tenth` `testament` `testifieth` `tithes` `tribe` `unchangeable` `undefiled` `unprofitableness` `uttermost` `weakness` `witnessed`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

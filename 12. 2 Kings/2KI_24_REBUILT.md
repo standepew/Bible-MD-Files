@@ -83,6 +83,11 @@ Days, Nebuchadnezzar, king, Babylon, Jehoiakim, servant, three years, turned, re
 
 **Zedekiah's Reign:** king Babylon Mattaniah father brother king stead changed name Zedekiah, Zedekiah twenty-one years reigned eleven years Jerusalem mother Hamutal daughter Jeremiah Libnah, evil sight LORD Jehoiakim, anger LORD Jerusalem Judah cast presence Zedekiah rebelled king Babylon
 
+
+*AI Keywords for current event matching:*
+`acts` `ammon` `anger` `apt` `babylon` `babylonian` `bands` `besieged` `blood` `book` `brother` `captive` `captives` `captivity` `carried` `cast` `chaldees` `changed` `children` `chronicles` `city` `commandment` `conquest` `craftsmen` `cut` `daughter` `days` `destroy` `egypt` `eighteen` `eighth` `eleven` `elnathan` `euphrates` `evil` `exile` `father` `fathers` `filled` `gold` `hamutal` `house` `innocent` `israel` `jehoiachin` `jehoiakim` `jehoiakims` `jeremiah` `jerusalem` `jerusalems` `judah` `king` `kings` `land` `libnah` `lord` `manasseh` `mattaniah` `men` `mighty` `moabites` `months` `mother` `name` `nebuchadnezzar` `nehushta` `officers` `pardon` `people` `pertained` `pieces` `poorest` `presence` `princes` `prophets` `rebelled` `rebellion` `reign` `reigned` `remove` `river` `said` `sent` `servant` `servants` `servents` `seven` `siege` `sight` `sins` `slept` `smiths` `solomon` `son` `spake` `stead` `strong` `syrians` `taken` `temple` `ten` `thousand` `three` `took` `treasures` `turned` `twenty-one` `valour` `vessels` `war` `wives` `word` `year` `years` `zedekiah` `zedekiahs`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

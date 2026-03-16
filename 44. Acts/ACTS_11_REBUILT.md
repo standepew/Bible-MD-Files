@@ -125,6 +125,11 @@ Apostles, brethren, Judaea, heard, Gentiles, received, word, God, Peter, Jerusal
 
 **The First Christians:** days prophets, Jerusalem Antioch, stood Agabus, signified Spirit, great dearth, world days, Claudius Caesar, disciples ability, determined relief, brethren dwelt, Judaea sent, elders hands, Barnabas Saul
 
+
+*AI Keywords for current event matching:*
+`ability` `abroad` `accompanied` `added` `agabus` `air` `angel` `answered` `antioch` `apostles` `arise` `arose` `assembled` `bade` `baptized` `barnabas` `beasts` `began` `beginning` `behold` `believed` `brethren` `brought` `caesar` `caesarea` `call` `called` `came` `christ` `christians` `church` `circumcision` `city` `claudius` `cleansed` `cleave` `common` `considered` `contended` `corners` `creeping` `cyprus` `cyrene` `days` `dearth` `departed` `descend` `determined` `didst` `disciples` `doubting` `drawn` `dwelt` `ears` `earth` `eat` `elders` `entered` `exhorted` `expounded` `eyes` `faith` `fastened` `fell` `first` `found` `four` `fourfooted` `fowls` `full` `gentiles` `ghost` `gift` `glad` `glorified` `god` `good` `grace` `granted` `great` `grecians` `hand` `hands` `heard` `heart` `heaven` `held` `holy` `house` `jerusalem` `jesus` `jews` `john` `joppa` `judaea` `life` `lord` `man` `matter` `men` `mouth` `much` `number` `order` `peace` `people` `persecution` `peter` `phenice` `praying` `preaching` `prophets` `purpose` `received` `rehearsed` `relief` `remembered` `repentance` `reports` `saul` `saved` `scattered` `seek` `seen` `send` `sent` `sheet` `shewed` `signified` `simon` `six` `slay` `speak` `spirit` `spoke` `stephen` `stood` `surname` `tarsus` `taught` `things` `three` `tidings` `times` `trance` `travelled` `turned` `uncircumcised` `unclean` `vessel` `vision` `voice` `water` `wentest` `whole` `wild` `withstand` `word` `words` `world` `year`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

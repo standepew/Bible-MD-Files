@@ -103,6 +103,11 @@ Gate, inner, court, looketh, east, shut, working, days, sabbath, opened, day, ne
 
 **Christ's Sanctification:** boil trespass, sin offering, bake meat, sanctify people
 
+
+*AI Keywords for current event matching:*
+`bake` `boil` `burnt` `christs` `day` `days` `divine` `gate` `hin` `meat` `moon` `new` `observance` `offering` `offerings` `oil` `opened` `peace` `people` `prince` `sabbath` `sanctification` `sanctify` `sin` `six` `threshold` `trespass` `working` `worship`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

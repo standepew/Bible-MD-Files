@@ -151,6 +151,11 @@ Younger, derision, fathers, disdained, dogs, flock. Strength, hands, profit, old
 
 **Divine Silence:** mar path set forward calamity helper, breaking waters desolation rolled terrors pursue soul wind welfare cloud, soul poured affliction bones pierced night season sinews rest
 
+
+*AI Keywords for current event matching:*
+`abhor` `afflicted` `affliction` `age` `base` `bones` `brayed` `breaking` `bridle` `bushes` `byword` `calamity` `caves` `children` `clifts` `cloud` `cord` `derision` `desolate` `desolation` `destruction` `disdained` `divine` `dogs` `driven` `earth` `face` `famine` `fathers` `feet` `flee` `flock` `fools` `forward` `gathered` `hand` `hands` `helper` `jobs` `juniper` `loose` `loosed` `mallows` `mar` `meat` `men` `nettles` `night` `old` `pain` `path` `perished` `physical` `pierced` `poured` `present` `profit` `pursue` `push` `raise` `rejection` `rest` `right` `rocks` `rolled` `roots` `season` `set` `silence` `sinews` `social` `solitary` `song` `soul` `spit` `strength` `suffering` `terrors` `thief` `valleys` `viler` `want` `waste` `waters` `welfare` `wilderness` `wind` `younger` `youth`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

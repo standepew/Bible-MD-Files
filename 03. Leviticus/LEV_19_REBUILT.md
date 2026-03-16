@@ -92,6 +92,11 @@ God commands Moses to speak to the entire congregation — not just the priests 
 - **Honour the elderly** → Leviticus 19:32 — Proverbs 16:31; 1 Timothy 5:1
 - **Talebearing / gossip / slander** → Leviticus 19:16 — Proverbs 11:13; 18:8; Matthew 18:15
 
+
+*AI Keywords for current event matching:*
+`199-10` `2535-40` `current` `events` `justice` `leviticus` `matching` `matthew` `poor` `ruth` `social` `treatment`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS WITH CONTEXTUAL DEFINITIONS

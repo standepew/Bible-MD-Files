@@ -105,6 +105,11 @@ Angel, heaven, key, bottomless, pit, great, chain, hand, laid, hold, dragon, old
 
 **The Second Death:** death, hell, cast, lake, fire, second, death, whosoever, found, book, life, cast, lake, fire
 
+
+*AI Keywords for current event matching:*
+`angel` `battle` `beast` `beheaded` `beloved` `blessed` `book` `books` `bottomless` `bound` `breadth` `brimstone` `camp` `cast` `chain` `christ` `city` `compassed` `day` `dead` `death` `deceive` `deceived` `delivered` `devil` `devoured` `dragon` `earth` `expired` `face` `false` `final` `finished` `fire` `first` `fled` `foreheads` `forever` `found` `four` `fulfilled` `gather` `god` `gog` `great` `hand` `hands` `heaven` `hell` `hold` `holy` `image` `jesus` `judged` `judgment` `key` `laid` `lake` `life` `little` `lived` `loosed` `magog` `mark` `nations` `night` `number` `old` `opened` `pit` `place` `power` `priests` `prison` `prophet` `quarters` `rebellion` `received` `reign` `reigned` `rest` `resurrection` `saints` `sand` `sat` `satan` `satans` `sea` `seal` `season` `second` `serpent` `shut` `small` `souls` `stand` `thousand` `thousand-year` `throne` `thrones` `tormented` `white` `whosoever` `witness` `word` `works` `worshipped` `years`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -139,6 +139,11 @@ Day, sons, GOD, present, LORD, Satan, present, LORD. LORD, Satan, whence, comest
 
 **Friends' Arrival:** Job three friends evil place Eliphaz Temanite Bildad Shuhite Zophar Naamathite appointment mourn comfort, lifted eyes knew not lifted voice wept rent mantle sprinkled dust heads heaven, sat ground seven days nights spake word grief great
 
+
+*AI Keywords for current event matching:*
+`appointment` `arrival` `ashes` `bildad` `boils` `bone` `cause` `comest` `comfort` `considered` `council` `crown` `curse` `day` `days` `destroy` `die` `dust` `earth` `eliphaz` `eschewed` `evil` `eyes` `face` `feared` `flesh` `foolish` `foot` `friends` `god` `going` `good` `great` `grief` `ground` `hand` `heads` `heaven` `heavenly` `holdeth` `integrity` `job` `knew` `life` `lifted` `lips` `lord` `man` `mantle` `mourn` `moved` `naamathite` `nights` `perfect` `physical` `place` `potsherd` `present` `put` `rent` `sat` `satan` `save` `scrape` `second` `servant` `seven` `shuhite` `sin` `skin` `smote` `sons` `sore` `spake` `speak` `sprinkled` `suffering` `temanite` `temptation` `three` `touch` `upright` `voice` `walking` `wept` `whence` `wife` `wifes` `women` `word` `zophar`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

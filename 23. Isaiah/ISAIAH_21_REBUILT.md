@@ -127,6 +127,11 @@ Burden, desert, sea, whirlwinds, south, pass, terrible, land, grievous, vision, 
 
 **Christ's Return:** morning cometh, night, prepare table, eat drink, anoint shield
 
+
+*AI Keywords for current event matching:*
+`affrighted` `anoint` `babylon` `babylons` `broken` `christs` `cometh` `continually` `corn` `daytime` `dealer` `declare` `declared` `divine` `drink` `eat` `fall` `fallen` `fearfulness` `floor` `graven` `grievous` `heart` `images` `loins` `morning` `night` `nights` `pain` `panted` `prepare` `return` `seeth` `set` `shield` `stand` `table` `threshing` `treacherous` `vision` `ward` `watchman` `watchtower` `whole` `you`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

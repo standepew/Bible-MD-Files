@@ -115,6 +115,11 @@ Beseech, brethren, mercies, God, present, bodies, living, sacrifice, holy, accep
 
 **Overcoming Evil:** mind high, things condescend, men estate, wise conceits, recompense, evil evil, provide honest, sight men, possible lieth, live peaceably, men dearly, beloved avenge, yourselves place, wrath written, Vengeance repay, Lord enemy, hunger feed, thirst give, drink heap, coals fire, head overcome, evil overcome, evil good
 
+
+*AI Keywords for current event matching:*
+`abhor` `acceptable` `action` `affectioned` `avenge` `beloved` `beseech` `bless` `bodies` `body` `brethren` `brotherly` `business` `cheerfulness` `christ` `cleave` `coals` `conceits` `condescend` `conformed` `continuing` `curse` `dealt` `dearly` `differing` `diligence` `dissimulation` `distributing` `drink` `enemy` `estate` `evil` `exhortation` `exhorteth` `faith` `feed` `fervent` `fire` `gifts` `give` `given` `giveth` `god` `good` `grace` `head` `heap` `high` `highly` `holy` `honest` `honour` `hope` `hospitality` `hunger` `instant` `kindly` `lieth` `live` `living` `lord` `love` `man` `many` `measure` `members` `men` `mercies` `mercy` `mind` `ministering` `ministry` `necessity` `office` `one` `overcome` `overcoming` `patient` `peaceably` `perfect` `persecute` `place` `possible` `prayer` `preferring` `present` `prophecy` `prophesy` `proportion` `prove` `provide` `reasonable` `recompense` `rejoice` `rejoicing` `renewing` `repay` `ruleth` `sacrifice` `sacrifices` `saints` `service` `serving` `sheweth` `sight` `simplicity` `slothful` `soberly` `spirit` `spiritual` `teacheth` `teaching` `things` `think` `thirst` `transformed` `tribulation` `vengeance` `wait` `weep` `wise` `world` `wrath` `written` `yourselves`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

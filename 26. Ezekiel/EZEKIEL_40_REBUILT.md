@@ -103,6 +103,11 @@ Five, twentieth, year, captivity, beginning, year, tenth, day, month, fourteenth
 
 **Christ's Presence:** sons Zadok, near Lord, minister, foursquare altar
 
+
+*AI Keywords for current event matching:*
+`altar` `architecture` `behold` `brass` `chambers` `christs` `declare` `divine` `ears` `eyes` `foursquare` `god` `hear` `heart` `high` `holy` `little` `lord` `man` `measuring` `minister` `mountain` `near` `palm` `presence` `reed` `round` `seest` `set` `sons` `temple` `trees` `vision` `visions` `wall` `zadok`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

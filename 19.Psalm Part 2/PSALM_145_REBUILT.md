@@ -115,6 +115,11 @@ David, Psalm, praise, extol, God, king, bless, name, forever, day, bless, praise
 
 **Compassionate Character:** gracious full compassion, slow anger great mercy, tender mercies works
 
+
+*AI Keywords for current event matching:*
+`anger` `bless` `character` `compassion` `compassionate` `divine` `dominion` `endureth` `everlasting` `extol` `forever` `full` `generation` `generations` `glorious` `glory` `god` `gods` `gracious` `great` `greatly` `greatness` `honour` `king` `kingdom` `lord` `majesty` `mercies` `mercy` `name` `praise` `praised` `slow` `tender` `unsearchable` `works`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -151,6 +151,11 @@ Chief, Musician, Jeduthun, Psalm, Asaph, cried, GOD, voice, GOD, voice, gave, ea
 
 **Redemptive Memory:** remember works LORD remember wonders, meditate work talk doings, arm redeemed people sons Jacob Joseph, led people flock hand Moses Aaron
 
+
+*AI Keywords for current event matching:*
+`aaron` `abroad` `afraid` `ancient` `arm` `arrows` `asaph` `call` `ceased` `chief` `clouds` `comforted` `commune` `complained` `considered` `cried` `day` `days` `declared` `depths` `diligent` `distress` `divine` `doings` `ear` `flock` `gave` `god` `gods` `great` `hand` `heart` `jacob` `jeduthun` `joseph` `led` `lord` `meditate` `memory` `moses` `musician` `night` `old` `overwhelmed` `past` `people` `poured` `power` `psalm` `ran` `redeemed` `redemptive` `refused` `remember` `remembered` `remembrance` `sanctuary` `saw` `search` `skies` `song` `sons` `sore` `sought` `soul` `sound` `spirit` `spiritual` `strength` `talk` `times` `trouble` `troubled` `voice` `water` `waters` `way` `went` `wonders` `work` `works` `years`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

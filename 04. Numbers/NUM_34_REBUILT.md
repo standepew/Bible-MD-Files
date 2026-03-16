@@ -50,6 +50,11 @@ God commands Moses to define the land of Canaan for Israel's inheritance. The so
 - **Long-term faithfulness rewarded** → Caleb in Numbers 34:19 — Joshua 14:10-12; the forty-year wait for what was promised
 - **Inheritance vs. conquest** → Numbers 34 — received before crossing; Joshua 1:3
 
+
+*AI Keywords for current event matching:*
+`342-12` `boundaries` `current` `defined` `deuteronomy` `events` `genesis` `gods` `land` `matching` `numbers` `promise` `specific` `specification` `territorial`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS WITH CONTEXTUAL DEFINITIONS

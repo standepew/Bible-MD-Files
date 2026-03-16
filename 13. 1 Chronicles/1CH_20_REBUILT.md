@@ -87,6 +87,11 @@ Year, expired, time, kings, battle, Joab, led, forth, power, army, wasted, count
 
 **Giant Defeats:** war Gezer Philistines Sibbechai Hushathite slew Sippai children giant subdued, war Philistines Elhanan son Jair slew Lahmi brother Goliath Gittite spear staff weaver beam, war Gath man great stature fingers toes four twenty six hand six foot son giant, defied Israel Jonathan son Shimea David brother slew, born giant Gath fell hand David hand servants
 
+
+*AI Keywords for current event matching:*
+`ammon` `ammonite` `army` `axes` `battle` `beam` `besieged` `born` `brother` `brought` `campaign` `children` `cities` `city` `country` `crown` `david` `dealt` `defeats` `defied` `destroyed` `elhanan` `exceeding` `expired` `fell` `fingers` `foot` `forth` `four` `gath` `gezer` `giant` `gittite` `gold` `goliath` `great` `hand` `harrows` `head` `hushathite` `iron` `israel` `jair` `jerusalem` `joab` `jonathan` `king` `kings` `lahmi` `led` `man` `much` `people` `philistines` `power` `precious` `rabbah` `returned` `saws` `servants` `set` `shimea` `sibbechai` `sippai` `six` `slew` `smote` `son` `spear` `spoil` `staff` `stature` `stones` `subdued` `talent` `tarried` `toes` `took` `twenty` `war` `wasted` `weaver` `weigh` `year`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

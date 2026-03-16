@@ -127,6 +127,11 @@ Chief, Musician, sons, Korah, Song, Alamoth, GOD, refuge, strength, present, hel
 
 **Peace and Stillness:** maketh wars cease end earth breaketh bow cut spear sunder burneth chariot fire, still know exalted heathen exalted earth, behold works LORD desolations earth
 
+
+*AI Keywords for current event matching:*
+`alamoth` `behold` `bow` `breaketh` `burneth` `carried` `cease` `chariot` `chief` `city` `cut` `desolations` `divine` `early` `earth` `end` `exalted` `fear` `fire` `glad` `god` `heathen` `help` `high` `holy` `hosts` `jacob` `kingdoms` `know` `korah` `lord` `make` `maketh` `melted` `midst` `mountains` `moved` `musician` `peace` `place` `presence` `present` `raged` `refuge` `removed` `river` `roar` `sea` `shake` `song` `sons` `spear` `still` `stillness` `streams` `strength` `sunder` `swelling` `tabernacles` `trouble` `troubled` `uttered` `voice` `wars` `waters` `works`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

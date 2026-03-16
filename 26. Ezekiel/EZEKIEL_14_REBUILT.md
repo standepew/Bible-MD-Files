@@ -103,6 +103,11 @@ Elders, Israel, sat, word, Lord, son, men, set, idols, heart, stumblingblock, in
 
 **Christ's Remnant:** left remnant, brought forth, sons daughters, comforted
 
+
+*AI Keywords for current event matching:*
+`bear` `brought` `christs` `comforted` `cut` `daniel` `daughters` `deliver` `destroy` `divine` `estranged` `face` `forth` `hand` `heart` `hearts` `idolatrous` `idols` `job` `judgment` `left` `midst` `noah` `off` `punishment` `remnant` `righteousness` `separate` `set` `sons` `souls` `stretch` `stumblingblock`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

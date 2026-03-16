@@ -85,6 +85,11 @@ Jehoram son Ahab reigned Israel Samaria eighteenth year Jehoshaphat king Judah, 
 
 **Human Sacrifice:** king Moab battle sore seven hundred drew swords break king Edom, eldest son reigned burnt offering wall indignation Israel departed land
 
+
+*AI Keywords for current event matching:*
+`able` `ahab` `alliance` `armour` `baal` `battle` `beasts` `beat` `blood` `border` `break` `burnt` `called` `camp` `cattle` `choice` `cities` `city` `cleave` `compass` `country` `days` `dead` `deliver` `departed` `ditches` `drew` `edom` `eighteenth` `eldest` `elijah` `elisha` `elishas` `enquire` `evil` `father` `felled` `fenced` `fight` `filled` `fled` `good` `hand` `hands` `horses` `host` `hosts` `human` `hundred` `image` `indignation` `intervention` `israel` `israelites` `jehoram` `jehorams` `jehoshaphat` `jeroboam` `judah` `king` `kings` `kir-haraseth` `lambs` `land` `light` `liveth` `look` `lord` `made` `meat` `mesha` `minstrel` `miracle` `moab` `moabites` `moabs` `morning` `mother` `nebat` `numbered` `offering` `people` `played` `poured` `presence` `prophet` `prophets` `rain` `rams` `rebelled` `rebellion` `red` `regard` `reign` `reigned` `rendered` `sacrifice` `samaria` `see` `servants` `seven` `shaphat` `sheepmaster` `sight` `sin` `sins` `slain` `slingers` `smitten` `smote` `son` `sore` `spoil` `stone` `stones` `stopped` `sun` `swords` `thousand` `three` `tree` `trees` `upward` `valley` `victory` `wall` `water` `way` `wells` `wilderness` `wind` `wool` `wrought` `year` `years`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

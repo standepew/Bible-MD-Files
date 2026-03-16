@@ -103,6 +103,11 @@ Rejoice, Israel, joy, people, whoring, God, loved, reward, cornfloor, floor, win
 
 **Divine Abandonment:** depart from them, love them no more, drive them out, wanderers nations
 
+
+*AI Keywords for current event matching:*
+`abandonment` `away` `barrenness` `breasts` `cast` `christs` `days` `depart` `divine` `drive` `dry` `ephraim` `fail` `failure` `floor` `fool` `fowler` `judgment` `love` `mad` `man` `miscarrying` `nations` `new` `prophet` `prophetic` `recompence` `rejoice` `snare` `spiritual` `visitation` `wanderers` `watchman` `wine` `winepress` `womb`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

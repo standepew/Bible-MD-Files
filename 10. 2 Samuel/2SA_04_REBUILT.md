@@ -83,6 +83,11 @@ Saul's son heard Abner dead in Hebron, hands feeble, Israelites troubled. Saul's
 
 **David's Justice:** David answered Rechab Baanah brother sons Rimmon Beerothite LORD liveth redeemed soul adversity, told Saul dead good tidings held slew Ziklag reward tidings, wicked men slain righteous person house bed require blood hand earth, David young men slew cut hands feet hanged pool Hebron head Ish-bosheth buried sepulchre Abner Hebron
 
+
+*AI Keywords for current event matching:*
+`abner` `adversity` `answered` `avenged` `baanah` `bands` `bed` `bedchamber` `beeroth` `beerothite` `beerothites` `beheaded` `benjamin` `blood` `brother` `buried` `captains` `children` `cut` `david` `davids` `day` `dead` `earth` `enemy` `escaped` `fear` `feeble` `feet` `fell` `fetched` `fifth` `five` `fled` `gittaim` `good` `hand` `hands` `hanged` `haste` `head` `heard` `heat` `hebron` `held` `house` `ish-bosheth` `ish-bosheths` `israelites` `jezreel` `jonathan` `justice` `king` `lame` `life` `liveth` `lord` `men` `mephibosheth` `mephibosheths` `midst` `murder` `night` `noon` `nurse` `person` `plain` `pool` `presentation` `rechab` `reckoned` `redeemed` `require` `reward` `rib` `righteous` `rimmon` `saul` `seed` `sepulchre` `slain` `slew` `smote` `sojourners` `son` `sons` `sought` `soul` `story` `tidings` `told` `treachery` `troubled` `two` `wheat` `wicked` `years` `young` `ziklag`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

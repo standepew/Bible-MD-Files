@@ -103,6 +103,11 @@ Wouldest, rend, heavens, wouldest, come, mountains, flow, presence, melting, fir
 
 **Christ's Creation:** clay potter, work hand, holy cities, beautiful house
 
+
+*AI Keywords for current event matching:*
+`beautiful` `boil` `christs` `cities` `clay` `come` `coming` `creation` `divine` `down` `fade` `filthy` `fire` `flow` `hand` `heavens` `holy` `house` `humility` `iniquities` `known` `leaf` `melting` `mountains` `name` `nations` `potter` `power` `presence` `rags` `rend` `spiritual` `terrible` `thing` `things` `tremble` `unclean` `waters` `wind` `work`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

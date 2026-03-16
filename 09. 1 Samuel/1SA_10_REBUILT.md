@@ -83,6 +83,11 @@ Samuel took a vial of oil, poured it on Saul's head, kissed him, and said the LO
 
 **Kingdom Established:** Samuel people manner kingdom book LORD, people house men, Saul home Gibeah band men hearts God touched, children Belial save despised presents held peace
 
+
+*AI Keywords for current event matching:*
+`adversities` `anointed` `anointing` `asses` `back` `band` `belial` `benjamin` `beth-el` `book` `border` `bottle` `bread` `burnt` `captain` `care` `children` `chosen` `city` `come` `company` `day` `days` `departed` `despised` `divine` `egypt` `egyptians` `established` `families` `family` `father` `fetched` `found` `garrison` `gibeah` `gilgal` `god` `hands` `harp` `head` `heart` `hearts` `held` `hid` `high` `hill` `home` `house` `inheritance` `interaction` `israel` `kids` `king` `kingdom` `kingdoms` `kish` `kissed` `knew` `left` `loaves` `lord` `man` `manner` `matri` `men` `mizpeh` `nowhere` `occasion` `offerings` `oil` `oppressed` `peace` `people` `philistines` `pipe` `place` `plain` `poured` `presents` `prophesied` `prophesy` `prophesying` `prophetic` `prophets` `proverb` `psaltery` `public` `rachel` `receive` `rejected` `royal` `sacrifices` `salute` `samuel` `saul` `save` `saved` `seek` `selection` `sepulchre` `servant` `serve` `seven` `shew` `shoulders` `shouted` `signs` `son` `sorrowed` `sought` `spirit` `stood` `stuff` `tabor` `tabret` `tarry` `thousands` `three` `told` `touched` `transformation` `tribe` `tribes` `tribulations` `turned` `two` `uncle` `upward` `vial` `whither` `wine` `zelzah`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

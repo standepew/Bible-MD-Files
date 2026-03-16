@@ -92,6 +92,11 @@ God instructs Israel to camp at Pi-hahiroth by the sea, a position that looks li
 - **Faith as response to God's acts** → Exodus 14:31 — feared and believed
 - **God turning the enemy's plan against them** → Exodus 14:17 — "I will be honoured upon Pharaoh"
 
+
+*AI Keywords for current event matching:*
+`command` `current` `events` `exodus` `fear` `gods` `impossible` `matching` `situations` `stand` `still`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

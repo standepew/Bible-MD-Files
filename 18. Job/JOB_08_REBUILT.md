@@ -115,6 +115,11 @@ Bildad, Shuhite, answered, long, speak, strong, wind. God, pervert, judgment, Al
 
 **Hope for Restoration:** greenness cut wither herb, paths forget GOD hypocrite hope perish, hope cut spider web, lean house stand hold fast endure
 
+
+*AI Keywords for current event matching:*
+`age` `almighty` `answered` `awake` `beginning` `betimes` `bildad` `bildads` `cast` `children` `cut` `days` `divine` `earth` `end` `endure` `enquire` `fast` `fathers` `flag` `forget` `former` `god` `greenness` `habitation` `heart` `herb` `hold` `hope` `house` `hypocrite` `increase` `judgment` `justice` `know` `lean` `long` `mire` `nothing` `paths` `perish` `pervert` `prosperous` `pure` `restoration` `righteousness` `rush` `search` `seek` `shadow` `shuhite` `sinned` `small` `speak` `speech` `spider` `stand` `strong` `supplication` `teach` `traditional` `transgression` `upright` `water` `web` `wind` `wisdom` `wither` `yesterday`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

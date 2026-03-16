@@ -103,6 +103,11 @@ Third, day, marriage, Cana, Galilee, mother, Jesus, called, disciples, marriage,
 
 **Sign of the Resurrection:** destroy temple, three days raise, temple body, risen dead, believed scripture, knew men, testify man
 
+
+*AI Keywords for current event matching:*
+`apiece` `beginning` `believed` `body` `bridegroom` `cana` `changers` `cleansing` `cords` `day` `days` `dead` `destroy` `disciples` `drove` `father` `feast` `fill` `firkins` `first` `glory` `good` `governor` `hour` `house` `jerusalem` `jews` `knew` `made` `man` `manifested` `marriage` `men` `merchandise` `mine` `miracle` `miracles` `money` `oxen` `passover` `raise` `resurrection` `risen` `saith` `scourge` `scripture` `servants` `sign` `sold` `stone` `temple` `testify` `third` `three` `wanted` `water` `waterpots` `wedding` `whatsoever` `wine`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

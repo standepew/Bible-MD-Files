@@ -115,6 +115,11 @@ Maschil, David, Prayer, cave, cried, LORD, voice, voice, LORD, supplication, pou
 
 **Deliverance from Persecutors:** deliver persecutors stronger, bring soul prison, righteous compass
 
+
+*AI Keywords for current event matching:*
+`attend` `bring` `brought` `cared` `cave` `compass` `complaint` `cried` `cry` `deliver` `deliverance` `despair` `divine` `failed` `land` `living` `lord` `low` `man` `overwhelmed` `persecutors` `portion` `poured` `prayer` `prison` `refuge` `righteous` `soul` `spirit` `spiritual` `stronger` `voice`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

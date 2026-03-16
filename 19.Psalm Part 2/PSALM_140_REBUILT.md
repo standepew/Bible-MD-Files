@@ -127,6 +127,11 @@ Deliver, LORD, evil, man, preserve, violent, man, imagine, mischiefs, heart, con
 
 **Righteous Victory:** righteous give thanks, upright dwell presence, maintain cause afflicted
 
+
+*AI Keywords for current event matching:*
+`afflicted` `burning` `cause` `coals` `cords` `deliver` `deliverance` `divine` `dwell` `evil` `fall` `give` `hands` `heart` `hid` `imagine` `keep` `lord` `maintain` `man` `mischiefs` `presence` `preserve` `protection` `righteous` `salvation` `serpent` `sharpened` `snare` `snares` `strength` `thanks` `tongues` `upright` `victory` `violent` `wicked`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

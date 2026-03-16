@@ -87,6 +87,11 @@ Solomon affinity Pharaoh king Egypt, Pharaoh's daughter, city David, building ho
 
 **Solomon's Wisdom:** king sword, king divide living child two half half, woman living child king bowels yearned son lord living child slay woman divide, king living child slay mother, Israel judgment king judged feared king wisdom God judgment
 
+
+*AI Keywords for current event matching:*
+`affinity` `alliance` `altar` `appearance` `appeared` `ark` `ask` `asked` `awoke` `bad` `bear` `bosom` `bowels` `building` `built` `burnt` `case` `child` `chosen` `city` `come` `commandments` `considered` `covenant` `daughter` `david` `day` `days` `dead` `delivered` `died` `discern` `divide` `divine` `dream` `egypt` `enemies` `father` `feared` `feast` `fulfillment` `gibeon` `give` `god` `good` `great` `half` `handmaid` `harlots` `heart` `high` `honour` `house` `improper` `incense` `israel` `jerusalem` `judge` `judged` `judgment` `keep` `kept` `kindness` `king` `kings` `know` `lengthen` `life` `like` `little` `living` `long` `lord` `loved` `mercy` `midnight` `midst` `morning` `mother` `multitude` `name` `night` `numbered` `offerings` `overlaid` `peace` `people` `pharaoh` `place` `places` `pleased` `political` `prayer` `response` `riches` `righteousness` `sacrifice` `sacrificed` `save` `servant` `servants` `shewed` `slay` `slept` `solomon` `solomons` `son` `speech` `spoke` `statutes` `stranger` `suck` `sword` `third` `thousand` `throne` `together` `truth` `two` `understanding` `uprightness` `walk` `walked` `walking` `wall` `ways` `wisdom` `wise` `woman` `womans` `women` `words` `worship` `yearned`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

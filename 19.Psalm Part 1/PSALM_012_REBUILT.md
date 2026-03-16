@@ -127,6 +127,11 @@ Chief, Musician, Sheminith, Psalm, David, Help, LORD, godly, ceaseth, faithful, 
 
 **Divine Protection:** keep preserve generation, words LORD pure words silver furnace earth purified seven times, set safety puffeth
 
+
+*AI Keywords for current event matching:*
+`arise` `ceaseth` `chief` `children` `cut` `david` `decline` `divine` `double` `earth` `exalted` `fail` `faithful` `flattering` `furnace` `generation` `god` `godliness` `godly` `heart` `help` `keep` `lips` `lord` `men` `musician` `needy` `neighbour` `oppression` `poor` `preservation` `preserve` `prevail` `protection` `proud` `psalm` `puffeth` `pure` `purified` `safety` `saith` `set` `seven` `sheminith` `side` `sighing` `silver` `speak` `times` `tongue` `vanity` `vilest` `walk` `wicked` `words`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

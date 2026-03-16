@@ -237,6 +237,11 @@ Feast, unleavened, bread, drew, nigh, Passover, chief, priests, scribes, sought,
 
 **Jesus Before the Council:** mocked smote, blindfolded struck, prophesy smote, blasphemously spake, Son of God
 
+
+*AI Keywords for current event matching:*
+`afar` `agony` `agrees` `arrest` `authority` `beheld` `benefactors` `betray` `betrayal` `betrayed` `betrayest` `betrayeth` `bitterly` `blasphemously` `blindfolded` `blood` `body` `bread` `captains` `cast` `chief` `cock` `communed` `converted` `council` `covenanted` `crew` `cup` `cut` `day` `denial` `denied` `deny` `desire` `determined` `divide` `drops` `ear` `eat` `enquire` `faith` `feared` `feast` `fire` `followed` `fulfilled` `garden` `gentiles` `given` `god` `greatest` `greatness` `guestchamber` `healed` `jesus` `judas` `kill` `kindled` `kingdom` `kings` `kiss` `kneeled` `know` `last` `lordship` `maid` `man` `mocked` `money` `mount` `multitude` `olives` `opportunity` `passover` `people` `peter` `peters` `pitcher` `plot` `pray` `prayed` `predicted` `predicts` `preparations` `priests` `prison` `promised` `prophesy` `ready` `remembrance` `remove` `room` `satan` `sent` `serveth` `sift` `smite` `smote` `son` `sought` `spake` `stone` `strengthen` `strife` `struck` `supper` `sword` `swords` `table` `temptation` `thief` `thrice` `took` `unleavened` `upper` `water` `wept` `younger`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -115,6 +115,11 @@ LORD, created, Jacob, formed, Israel, Fear, redeemed, called, name, mine, passes
 
 **Christ's Creation:** created Jacob formed Israel, new thing wilderness, created glory formed made, beast field honour
 
+
+*AI Keywords for current event matching:*
+`beast` `blot` `bring` `burned` `called` `christs` `created` `creation` `daughters` `divine` `east` `egypt` `fear` `field` `fire` `formed` `gather` `gave` `glory` `hand` `hold` `holy` `honour` `israel` `jacob` `keep` `made` `name` `new` `one` `overflow` `presence` `protection` `ransom` `redeemed` `redemption` `rivers` `saviour` `seed` `sons` `spiritual` `thing` `transgressions` `waters` `west` `wilderness`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

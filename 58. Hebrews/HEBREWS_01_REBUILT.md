@@ -91,6 +91,11 @@ God, sundry, times, divers, manners, spake, time, past, fathers, prophets, last,
 
 **Angels as Ministering Spirits:** angels, time, right, hand, enemies, footstool, ministering, spirits, sent, minister, heirs, salvation
 
+
+*AI Keywords for current event matching:*
+`angels` `anointed` `appointed` `beginning` `begotten` `better` `brightness` `changed` `christ` `christs` `days` `divers` `earth` `enemies` `eternal` `excellent` `express` `fail` `father` `fathers` `fellows` `final` `fire` `firstbegotten` `flame` `fold` `footstool` `foundation` `garment` `gladness` `glory` `god` `gods` `hand` `hands` `hated` `heavens` `heir` `heirs` `high` `image` `inheritance` `iniquity` `kingdom` `last` `lord` `loved` `majesty` `manners` `minister` `ministering` `ministers` `name` `old` `past` `perish` `person` `power` `prophets` `purged` `remainest` `revelation` `right` `righteousness` `salvation` `sceptre` `sent` `sins` `son` `spake` `spirits` `spoken` `sundry` `superiority` `things` `throne` `time` `times` `upholding` `vesture` `wax` `word` `works` `world` `worlds` `worship` `years`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

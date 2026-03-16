@@ -187,6 +187,11 @@ Jesus, mount, Olives, early, morning, temple, people, sat, taught, scribes, Phar
 
 **Before Abraham Was I Am:** Abraham children, works Abraham, father devil, murderer beginning, hear God, Samaritan devil, never see death, Father honoureth, Abraham rejoiced, Before Abraham
 
+
+*AI Keywords for current event matching:*
+`abraham` `accuse` `adultery` `beginning` `bondage` `came` `cast` `caught` `children` `condemn` `conscience` `continue` `convicted` `darkness` `death` `devil` `disciples` `early` `father` `flesh` `followeth` `free` `god` `hear` `honoureth` `indeed` `judge` `judgment` `law` `life` `lifted` `light` `make` `man` `men` `morning` `moses` `mount` `murderer` `never` `olives` `please` `record` `rejoiced` `samaritan` `see` `seed` `sent` `servant` `sin` `son` `stone` `stoned` `taught` `temple` `tempting` `testimony` `thyself` `true` `truth` `two` `whence` `whither` `without` `woman` `word` `works` `world` `you`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

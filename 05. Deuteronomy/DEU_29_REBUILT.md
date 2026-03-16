@@ -116,6 +116,11 @@ Moses renews the covenant in Moab, distinct from the Horeb covenant. He reviews 
 
 **Divine Sovereignty:** Secret things, LORD God, revealed things, us children, do words law
 
+
+*AI Keywords for current event matching:*
+`abominations` `abraham` `add` `admah` `among` `anger` `another` `bashan` `battle` `bear` `beareth` `beside` `blesseth` `blot` `book` `bread` `brimstone` `bring` `brought` `burning` `called` `came` `camp` `captains` `cast` `children` `clothes` `come` `commanded` `covenant` `curse` `curses` `day` `deception` `desolation` `divine` `done` `drawer` `drink` `drunk` `drunkenness` `dwelt` `ears` `eaten` `egypt` `elders` `enter` `establish` `evil` `eyes` `family` `far` `fathers` `forsaken` `forth` `forty` `gadites` `gall` `generation` `given` `god` `gods` `gold` `gomorrah` `grass` `great` `groweth` `half` `hear` `heart` `heat` `heaven` `here` `heshbon` `hewer` `himself` `historical` `horeb` `idolatry` `idols` `imagination` `inclusion` `indignation` `inheritance` `isaac` `israel` `jacob` `jealousy` `keep` `kindled` `king` `knew` `know` `laid` `land` `law` `led` `lie` `little` `lord` `made` `make` `man` `manasseh` `men` `miracles` `moab` `moses` `name` `national` `nations` `oath` `officers` `ones` `overthrew` `overthrow` `passed` `peace` `people` `perceive` `pharaoh` `place` `plagues` `prosper` `renewal` `reubenites` `revealed` `review` `rise` `root` `rooted` `said` `salt` `say` `secret` `see` `seen` `separate` `servants` `serve` `served` `shoe` `sicknesses` `signs` `sihon` `silver` `smoke` `smote` `sodom` `sovereignty` `sown` `spare` `spiritual` `stand` `stone` `stranger` `strong` `sworn` `temptations` `testimony` `things` `thirst` `took` `tribe` `tribes` `turneth` `violation` `walk` `warning` `water` `waxen` `went` `whole` `wilderness` `wine` `wives` `woman` `wood` `words` `wormwood` `worshipped` `wrath` `written` `years` `zeboim`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

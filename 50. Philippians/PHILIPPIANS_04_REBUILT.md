@@ -105,6 +105,11 @@ Therefore, brethren, dearly, beloved, longed, joy, crown, stand, fast, Lord, dea
 
 **God's Provision:** Philippians, know, beginning, gospel, departed, Macedonia, church, communicated, giving, receiving, sent, necessity, desire, gift, desire, fruit, abound, account, abound, full, received, Epaphroditus, sent, odour, sweet, smell, sacrifice, acceptable, wellpleasing, God, God, supply, need, riches, glory, Christ, Jesus, God, Father, glory, forever, Salute, saint, Christ, Jesus, brethren, greet, saints, salute, chiefly, Caesar, household, grace, Lord, Jesus, Christ, Amen
 
+
+*AI Keywords for current event matching:*
+`abased` `abound` `acceptable` `account` `affliction` `alway` `always` `amen` `beginning` `beloved` `beseech` `book` `brethren` `caesar` `care` `careful` `chiefly` `christ` `church` `circumstances` `clement` `communicated` `content` `contentment` `crown` `dearly` `departed` `desire` `epaphroditus` `euodias` `fast` `father` `fellowlabourers` `flourished` `forever` `fruit` `full` `gift` `giving` `glory` `god` `gods` `good` `gospel` `grace` `greatly` `greet` `hand` `heard` `hearts` `help` `honest` `household` `hungry` `instructed` `intreat` `jesus` `joy` `keep` `know` `known` `laboured` `lacked` `learned` `life` `longed` `lord` `lovely` `macedonia` `men` `mind` `minds` `moderation` `names` `necessity` `need` `nothing` `notwithstanding` `odour` `opportunity` `passeth` `peace` `philippians` `praise` `prayer` `provision` `pure` `received` `receiving` `rejoice` `rejoiced` `rejoicing` `report` `requests` `respect` `riches` `sacrifice` `saint` `saints` `salute` `seen` `sent` `smell` `stand` `standing` `state` `strengtheneth` `suffer` `supplication` `supply` `sweet` `syntyche` `thanksgiving` `therefore` `things` `think` `true` `understanding` `virtue` `want` `well` `wellpleasing` `women` `yokefellow`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

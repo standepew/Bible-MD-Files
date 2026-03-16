@@ -151,6 +151,11 @@ Know, brethren, speak, law, law, dominion, man, liveth, woman, husband, bound, l
 
 **Delivered by Christ:** delight law, God inward, man law, members, warring law, mind, bringing captivity, law sin, members wretched, man deliver, body death, thank God, Jesus Christ, Lord mind, serve law, God flesh, law sin
 
+
+*AI Keywords for current event matching:*
+`adulteress` `alive` `allow` `appear` `body` `bound` `brethren` `bringing` `captivity` `carnal` `christ` `commandment` `concupiscence` `consent` `dead` `death` `deceived` `delight` `deliver` `delivered` `died` `dominion` `dwell` `evil` `exceeding` `flesh` `forbid` `free` `fruit` `god` `good` `hate` `held` `holy` `husband` `inward` `jesus` `know` `known` `law` `letter` `life` `liveth` `loosed` `lord` `lust` `made` `man` `married` `members` `mind` `motions` `newness` `occasion` `oldness` `ordained` `perform` `present` `raised` `revived` `serve` `sin` `sinful` `sins` `slew` `sold` `speak` `spirit` `spiritual` `struggle` `thank` `warring` `without` `woman` `work` `working` `wretched` `wrought`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

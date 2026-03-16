@@ -115,6 +115,11 @@ Former, treatise, Theophilus, Jesus, began, teach, day, taken, Holy, Ghost, comm
 
 **Matthias Chosen:** gave lots, lot Matthias, numbered eleven, apostles
 
+
+*AI Keywords for current event matching:*
+`abode` `accord` `aceldama` `alive` `alphaeus` `andrew` `apostles` `apostleship` `apparel` `appointed` `ascension` `asked` `assembled` `baptism` `baptized` `barsabas` `bartholomew` `began` `beheld` `bishoprick` `blood` `bowels` `brethren` `burst` `chosen` `cloud` `come` `commanded` `commandments` `companied` `continued` `david` `day` `days` `depart` `desolate` `disciples` `dwell` `dwellers` `earth` `eleven` `falling` `father` `field` `former` `forty` `fulfilled` `galilee` `gave` `gazing` `ghost` `guide` `gushed` `habitation` `headlong` `heard` `hearts` `heaven` `holy` `hundred` `infallible` `iniquity` `israel` `james` `jerusalem` `jesus` `john` `joseph` `journey` `judaea` `judas` `justus` `kingdom` `knowest` `known` `looked` `lord` `lot` `lots` `manner` `mary` `matthew` `matthias` `men` `midst` `ministry` `mother` `mount` `mouth` `names` `numbered` `obtained` `olivet` `ordained` `passion` `peter` `philip` `place` `power` `prayed` `prayer` `promise` `proofs` `proper` `psalms` `purchased` `receive` `received` `restore` `resurrection` `returned` `reward` `room` `sabbath` `samaria` `scripture` `seasons` `seen` `shewed` `shewn` `sight` `simon` `speaking` `spirit` `spoken` `stedfastly` `supplication` `surnamed` `taken` `teach` `theophilus` `thomas` `time` `times` `together` `tongue` `transgression` `treatise` `twenty` `upper` `uttermost` `wait` `water` `white` `witness` `witnesses` `women` `written` `zelotes`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

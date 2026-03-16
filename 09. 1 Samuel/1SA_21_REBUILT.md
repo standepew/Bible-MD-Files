@@ -81,6 +81,11 @@ David came to Nob to Ahimelech the priest; Ahimelech was afraid at meeting David
 
 **David at Gath:** changed behaviour feigned mad hands scrabbled doors gate spittle beard, Achish servants mad brought Achish, mad men play mad man presence fellow house
 
+
+*AI Keywords for current event matching:*
+`achish` `afraid` `ahimelech` `alone` `arose` `beard` `behaviour` `bread` `brought` `business` `changed` `chiefest` `cloth` `commanded` `common` `dances` `david` `day` `days` `detained` `doeg` `doegs` `doors` `edomite` `elah` `ephod` `fear` `feigned` `fellow` `five` `fled` `gate` `gath` `goliath` `goliaths` `hallowed` `hand` `hands` `haste` `heart` `herdmen` `holy` `hot` `house` `kept` `king` `know` `land` `loaves` `lord` `mad` `man` `meeting` `men` `nob` `philistine` `place` `play` `presence` `present` `priest` `sanctified` `saul` `scrabbled` `servants` `shewbread` `sing` `slew` `sore` `spear` `spittle` `sword` `taken` `ten` `thousands` `three` `truth` `valley` `vessel` `vessels` `weapons` `women` `words` `wrapped` `young`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

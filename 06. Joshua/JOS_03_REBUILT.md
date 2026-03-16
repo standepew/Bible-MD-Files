@@ -108,6 +108,11 @@ Joshua leads Israel from Shittim to Jordan, where they lodge before crossing. Af
 
 **Jordan Miracle:** Take twelve men, tribes Israel, every tribe man, soles feet priests, bear ark LORD, Lord earth, rest waters Jordan, waters Jordan cut off, waters above, stand heap, people removed tents, pass Jordan, priests bearing ark covenant people, bare ark came Jordan, feet priests bear ark, dipped brim water, Jordan overfloweth banks, harvest time, waters above stood, rose heap, city Adam, beside Zaretan, waters down sea plain, salt sea, failed cut off, people passed right Jericho, priests bare ark covenant LORD, stood firm dry ground, midst Jordan, Israelites passed dry ground, people passed clean Jordan
 
+
+*AI Keywords for current event matching:*
+`above` `adam` `amorites` `ark` `banks` `bare` `bear` `bearing` `beside` `brim` `brink` `came` `canaanites` `children` `city` `clean` `come` `command` `commanded` `commission` `covenant` `cubits` `cut` `day` `days` `declaration` `dipped` `divine` `down` `drive` `dry` `early` `earth` `every` `failed` `feet` `firm` `girgashites` `god` `ground` `harvest` `heap` `hear` `heretofore` `hither` `hittites` `hivites` `host` `israel` `israelites` `jebusites` `jericho` `jordan` `joshua` `know` `leadership` `levites` `living` `lodged` `lord` `magnify` `man` `measure` `men` `midst` `miracle` `morning` `moses` `near` `off` `officers` `overfloweth` `pass` `passed` `passeth` `people` `perizzites` `place` `plain` `preparation` `priests` `remove` `removed` `rest` `right` `rose` `salt` `sanctify` `sea` `shittim` `sight` `soles` `space` `spake` `stand` `still` `stood` `take` `tents` `thousand` `three` `time` `tomorrow` `took` `tribe` `tribes` `twelve` `two` `water` `waters` `way` `went` `wonders` `words` `yourselves` `zaretan`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

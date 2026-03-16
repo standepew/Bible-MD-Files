@@ -103,6 +103,11 @@ Hear, word, LORD, spoken, children, Israel, whole, family, brought, land, Egypt,
 
 **Israel's Judgment:** visit transgressions, altars Beth, horns altar cut, houses ivory perish
 
+
+*AI Keywords for current event matching:*
+`altar` `altars` `authority` `beth` `christs` `cut` `divine` `done` `families` `fear` `formeth` `god` `horns` `houses` `iniquities` `israels` `ivory` `judgment` `known` `lion` `lord` `mountains` `palaces` `perish` `prophesy` `prophetic` `prophets` `publish` `punish` `revealeth` `revelation` `roared` `secret` `servants` `sovereignty` `spoken` `transgressions` `visit`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

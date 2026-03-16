@@ -97,6 +97,11 @@ An angel of the LORD comes from Gilgal to Bochim, reminding Israel that God brou
 
 **Divine Strategy:** LORD left nations, driving hastily, delivered hand Joshua
 
+
+*AI Keywords for current event matching:*
+`altars` `angel` `anger` `arose` `ashtaroth` `baal` `baalim` `begins` `bochim` `border` `bow` `bowed` `break` `brought` `buried` `called` `ceased` `children` `command` `commanded` `commandments` `consequence` `corrupted` `covenant` `cycle` `days` `dead` `death` `declared` `delivered` `died` `disobeyed` `distressed` `divine` `doings` `down` `drive` `driving` `egypt` `elders` `enemies` `ephraim` `era` `evil` `fathers` `followed` `following` `forsook` `gaash` `gathered` `generation` `generational` `gilgal` `god` `gods` `great` `greatly` `groanings` `hand` `hastily` `hearken` `hearkened` `hill` `hot` `hundred` `idolatry` `inhabitants` `inheritance` `israel` `israels` `joshua` `joshuas` `judge` `judges` `judgment` `keep` `knew` `land` `league` `left` `let` `lifted` `lord` `made` `ministry` `mount` `nations` `never` `north` `nun` `obeyed` `oppressed` `outlived` `pattern` `people` `place` `possess` `prove` `provoked` `purpose` `quickly` `raised` `repented` `response` `returned` `round` `sacrificed` `said` `seen` `servant` `serve` `served` `sides` `sight` `snares` `sold` `son` `spoilers` `spoke` `stand` `strategy` `stubborn` `sware` `sworn` `ten` `testing` `thorns` `throw` `timnath-heres` `transgressed` `transition` `turned` `vexed` `voice` `way` `wept` `whoring` `words` `works` `years`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

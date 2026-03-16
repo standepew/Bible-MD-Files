@@ -127,6 +127,11 @@ Send, lamb, ruler, land, Sela, wilderness, mount, daughter, Zion, wandering, bir
 
 **Christ's Throne:** throne established, tabernacle David, judging seeking, hasting righteousness
 
+
+*AI Keywords for current event matching:*
+`bird` `christs` `consumed` `covert` `david` `divine` `dwell` `end` `established` `extortioner` `hasting` `haughtiness` `hide` `judging` `lamb` `lies` `mine` `moab` `moabs` `night` `oppressors` `outcasts` `pride` `protection` `proud` `refuge` `righteousness` `ruler` `seeking` `shadow` `spoiler` `tabernacle` `throne` `wandering`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

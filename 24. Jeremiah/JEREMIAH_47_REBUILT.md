@@ -79,6 +79,11 @@ Word, LORD, Jeremiah, prophet, Philistines, Pharaoh, smote, Gaza, LORD, waters, 
 
 **Christ's Sword:** sword quiet, scabbard rest, charge Ashkelon, sea shore
 
+
+*AI Keywords for current event matching:*
+`ashkelon` `baldness` `charge` `chariots` `christs` `cry` `cut` `defeat` `divine` `feebleness` `flood` `gaza` `hands` `hoofs` `howl` `judgment` `land` `overflow` `overflowing` `philistines` `quiet` `rest` `rise` `rumbling` `rushing` `scabbard` `sea` `shore` `spoil` `stamping` `sword` `waters` `wheels`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

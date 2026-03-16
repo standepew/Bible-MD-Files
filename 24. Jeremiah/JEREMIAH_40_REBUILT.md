@@ -91,6 +91,11 @@ Word, Jeremiah, LORD, Nebuzar, adan, captain, guard, let, Ramah, bound, chains, 
 
 **Christ's Warning:** Baalis king Ammonites, sent Ishmael slay, scatter Jews, remnant perish
 
+
+*AI Keywords for current event matching:*
+`ammonites` `baalis` `babylon` `chains` `chaldeans` `christs` `cities` `divine` `dwell` `freedom` `fruits` `gather` `gathered` `gedaliahs` `good` `governance` `governor` `ishmael` `jews` `king` `land` `left` `let` `loose` `mercy` `people` `perish` `remnant` `returned` `scatter` `seem` `sent` `serve` `slay` `summer` `taken` `warning` `wine`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

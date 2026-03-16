@@ -111,6 +111,11 @@ Moses provides regulations for various situations: (1) Unsolved murder—if a sl
 
 **Hanging Regulations:** Sin worthy death, put to death, hang tree, body not remain, all night tree, bury day, accursed God, land not defiled, inheritance
 
+
+*AI Keywords for current event matching:*
+`accursed` `acknowledge` `another` `answer` `away` `beautiful` `beginning` `beheaded` `beloved` `bewail` `bless` `blood` `body` `born` `bring` `bury` `captive` `captives` `captivity` `charge` `chastened` `children` `chosen` `cities` `city` `come` `controversy` `day` `death` `defiled` `delight` `delivered` `desire` `die` `double` `drawn` `drunkard` `eared` `elders` `enemies` `evil` `eyes` `father` `fear` `field` `firstborn` `forgiven` `forth` `found` `full` `gate` `giveth` `glutton` `god` `guilt` `hands` `hang` `hanging` `hated` `head` `hear` `hearken` `heifer` `hold` `home` `house` `humbled` `husband` `inherit` `inheritance` `innocent` `israel` `judges` `known` `land` `lay` `let` `levi` `lord` `lying` `make` `marriage` `measure` `men` `merchandise` `merciful` `minister` `money` `month` `mother` `murder` `nails` `name` `near` `neck` `neither` `next` `night` `obey` `off` `one` `pare` `people` `place` `portion` `priests` `put` `raiment` `rebellious` `redeemed` `regulations` `remain` `right` `rights` `rough` `round` `say` `seen` `seest` `sell` `shave` `shed` `sight` `sin` `slain` `son` `sons` `sown` `stone` `strength` `strike` `stroke` `stubborn` `take` `taken` `tree` `tried` `two` `unsolved` `valley` `voice` `war` `wash` `whither` `wife` `wives` `woman` `word` `worthy` `wrought` `yoke`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

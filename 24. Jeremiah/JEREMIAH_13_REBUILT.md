@@ -103,6 +103,11 @@ LORD, linen, girdle, loins, water, girdle, word, LORD, loins, word, LORD, second
 
 **Christ's Humiliation:** skirts discovered, heels bare, shame appear, adulteries neighings
 
+
+*AI Keywords for current event matching:*
+`adulteries` `appear` `bare` `christs` `crown` `dash` `discovered` `divine` `drunkenness` `evil` `fathers` `fill` `girdle` `glory` `great` `hear` `heels` `humiliation` `jerusalem` `judah` `marred` `mercy` `neighings` `nothing` `people` `pity` `pride` `principalities` `profitable` `proud` `refuse` `ruin` `shame` `skirts` `sons` `spare` `spiritual` `words`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

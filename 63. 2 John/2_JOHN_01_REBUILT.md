@@ -81,6 +81,11 @@ Elder, elect, lady, children, love, truth, known, truth, truth, sake, dwelleth, 
 
 **Hospitality and Separation:** biddeth, God, speed, partaker, evil, deeds, write, paper, ink, trust, come, speak, face, face, joy, full, children, elect, sister, greet
 
+
+*AI Keywords for current event matching:*
+`abideth` `against` `another` `antichrist` `antichrists` `beginning` `beseech` `bid` `biddeth` `children` `christ` `come` `commandment` `commandments` `confess` `deceiver` `deceivers` `deeds` `doctrine` `dwelleth` `elder` `elect` `entered` `evil` `face` `father` `flesh` `forever` `found` `full` `god` `grace` `greatly` `greet` `heard` `hospitality` `house` `ink` `jesus` `joy` `known` `lady` `lord` `lose` `love` `mercy` `new` `one` `paper` `partaker` `peace` `receive` `received` `rejoiced` `reward` `sake` `separation` `sister` `son` `speak` `speed` `transgresseth` `trust` `truth` `walk` `walking` `warning` `world` `write` `wrought`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

@@ -87,6 +87,11 @@ Four hundred eightieth year children Israel land Egypt, fourth year Solomon reig
 
 **Court and Timeline:** inner court three rows hewed stone row cedar beams, fourth year foundation house LORD month Zif, eleventh year month Bul eighth month house finished parts fashion seven years building
 
+
+*AI Keywords for current event matching:*
+`altar` `ark` `axe` `beams` `began` `boards` `breadth` `broad` `brought` `building` `built` `bul` `carved` `cedar` `ceiling` `chains` `chamber` `chambers` `cherub` `cherubims` `children` `commandments` `construction` `court` `covenant` `covered` `cubits` `david` `decoration` `decorations` `design` `divine` `door` `doors` `dwell` `egypt` `eighth` `eightieth` `eleventh` `entering` `execute` `fashion` `fastened` `father` `fifth` `figures` `finished` `fir` `fitted` `five` `floor` `flowers` `folding` `forepart` `forsake` `forty` `foundation` `four` `fourth` `gold` `hammer` `height` `hewed` `high` `holy` `house` `hundred` `inner` `interior` `iron` `israel` `judgments` `keep` `king` `knops` `land` `leaves` `length` `lights` `lintel` `long` `lord` `materials` `measure` `middle` `midst` `month` `narrow` `narrowed` `nethermost` `olive` `open` `oracle` `overlaid` `palm` `part` `partition` `parts` `people` `perform` `place` `planks` `porch` `posts` `pure` `ready` `reign` `rested` `rests` `right` `round` `row` `rows` `second` `seen` `set` `seven` `side` `sides` `six` `size` `solomon` `spread` `stairs` `statutes` `stone` `stretched` `temple` `ten` `third` `thirty` `three` `threescore` `timber` `timeline` `tool` `tree` `trees` `twenty` `uttermost` `walk` `wall` `walls` `winding` `windows` `wing` `wings` `without` `wood` `word` `work` `year` `years` `zif`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

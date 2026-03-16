@@ -91,6 +91,11 @@ Nebuchadnezzar, king, image, gold, height, threescore, cubits, breadth, six, cub
 
 **Christ's Presence:** fourth like Son, walking midst fire, no hurt, form like Son
 
+
+*AI Keywords for current event matching:*
+`able` `angel` `answer` `burning` `careful` `cast` `christs` `deliver` `deliverance` `delivered` `divine` `faithfulness` `fiery` `fire` `flame` `form` `fourth` `furnace` `god` `gods` `heated` `hurt` `image` `like` `men` `midst` `presence` `regard` `sent` `serve` `seven` `slew` `son` `times` `trial` `trusted` `walking` `worship`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS

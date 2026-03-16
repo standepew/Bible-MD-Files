@@ -115,6 +115,11 @@ Chief, Musician, Gittith, Psalm, David, LORD, Lord, excellent, name, earth, glor
 
 **Christ's Prefiguration:** son man visit, lower angels crowned glory honour, dominion works hands things feet, babes sucklings ordained strength
 
+
+*AI Keywords for current event matching:*
+`air` `angels` `avenger` `babes` `beasts` `chief` `christs` `consider` `creations` `crowned` `david` `dignity` `dominion` `earth` `enemies` `enemy` `excellent` `feet` `field` `fingers` `fish` `fowl` `gittith` `glory` `gods` `hands` `heavens` `honour` `human` `lord` `lower` `madest` `man` `mindful` `moon` `musician` `name` `ordained` `oxen` `passeth` `paths` `prefiguration` `psalm` `sea` `seas` `sheep` `son` `stars` `still` `strength` `sucklings` `things` `visit` `wonder` `work` `works`
+
+
 ---
 
 ## KEY TERMS WITH CONTEXTUAL DEFINITIONS
