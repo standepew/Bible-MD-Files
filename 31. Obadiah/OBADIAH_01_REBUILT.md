@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Judgment on Edom, Divine Justice, Pride and Humiliation, Zion's Deliverance
 
-**Tags:** #vision-Obadiah-Lord-GOD-concerning-Edom-heard-rumour-LORD-ambassador-heathen-Arise-rise-battle-made-small-heathen-greatly-despised-pride-heart-deceived-dwellest-clefts-rock-habitation-high-heart-bring-ground-exalt-eagle-set-nest-stars-bring-LORD-thieves-robbers-night-cut-stolen-grapegatherers-grapes-things-Esau-searched-hidden-sought-men-confederacy-border-peace-deceived-prevailed-eat-bread-laid-wound-understanding-day-LORD-destroy-wise-men-Edom-understanding-mount-Esau-mighty-men-Teman-dismayed-mount-Esau-cut-slaughter-violence-brother-Jacob-shame-cover-cut-violence-strangers-carried-captive-forces-foreigners-gates-cast-lots-Jerusalem-one-looked-day-brother-stranger-rejoiced-children-Judah-destruction-spoken-proudly-day-distress-entered-gate-people-calamity-looked-affliction-calamity-laid-hands-substance-calamity-stood-crossway-cut-escape-delivered-remain-day-distress-day-LORD-heathen-done-reward-return-head-drunk-holy-mountain-heathen-drink-continually-drink-swallow-mount-Zion-deliverance-holiness-house-Jacob-possess-possessions-house-Jacob-fire-house-Joseph-flame-house-Esau-stubble-kindle-devour-remaining-house-Esau-LORD-spoken-south-possess-mount-Esau-plain-Philistines-possess-fields-Ephraim-fields-Samaria-Benjamin-possess-Gilead-captivity-host-children-Israel-possess-Canaanites-Zarephath-captivity-Jerusalem-Sepharad-possess-cities-south-saviours-mount-Zion-judge-mount-Esau-kingdom-LORD
+**Tags:** #christ #divine-justice #pride-and-humiliation #zion
 
 ---
 

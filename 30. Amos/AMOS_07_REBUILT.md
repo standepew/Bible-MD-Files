@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Intercession, Divine Mercy, Plumbline Judgment, Prophetic Opposition
 
-**Tags:** #Lord-GOD-shewed-formed-grasshoppers-beginning-shooting-latter-growth-latter-growth-king-mowings-end-eating-grass-land-O-Lord-GOD-forgive-beseech-Jacob-arise-small-LORD-repented-shall-Lord-GOD-shewed-Lord-GOD-called-contend-fire-devoured-great-deep-ate-part-said-O-Lord-GOD-cease-beseech-Jacob-arise-small-LORD-repented-shall-Lord-GOD-shewed-Lord-stood-wall-plumbline-plumbline-hand-LORD-Amos-seest-plumbline-Lord-set-plumbline-midst-people-Israel-pass-high-places-Isaac-desolate-sanctuaries-Israel-laid-waste-rise-house-Jeroboam-sword-Amaziah-priest-Beth-el-sent-Jeroboam-king-Israel-Amos-conspired-midst-house-Israel-land-bear-words-Amos-Jeroboam-die-sword-Israel-led-captive-land-Amaziah-Amos-seer-go-flee-land-Judah-bread-prophesy-prophesy-Beth-el-king-chapel-king-court-answered-Amaziah-prophet-prophet-son-herdman-gatherer-sycomore-fruit-LORD-took-followed-flock-LORD-prophesy-people-Israel-hear-word-LORD-Prophesy-Israel-drop-word-house-Isaac-LORD-wife-harlot-city-sons-daughters-fall-sword-land-divided-line-die-polluted-land-Israel-captivity-land
+**Tags:** #christ #divine-mercy #plumbline-judgment #prophetic-opposition
 
 ---
 

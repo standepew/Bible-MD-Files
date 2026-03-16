@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Christ's Divine Identity, Peter's Confession, Church Foundation, Cross Discipleship
 
-**Tags:** #Pharisees-Sadducees-tempting-shew-sign-heaven-answered-evening-fair-weather-sky-red-morning-foul-weather-sky-red-lowering-hypocrites-discern-face-sky-discern-signs-times-wicked-adulterous-generation-sign-prophet-Jonas-left-departed-disciples-forgotten-bread-Jesus-take-heed-beware-leaven-Pharisees-Sadducees-reasoned-bread-Jesus-perceived-faith-reason-bread-understand-remember-loaves-five-thousand-baskets-seven-loaves-four-thousand-baskets-understand-spake-bread-beware-leaven-Pharisees-Sadducees-understood-beware-leaven-bread-doctrine-Pharisees-Sadducees-Jesus-coasts-Caesarea-Philippi-disciples-men-Son-man-John-Baptist-Elias-Jeremias-prophets-But-say-Christ-Son-living-God-Peter-answered-Christ-Son-living-God-Jesus-answered-Blessed-Simon-Bar-jona-flesh-blood-revealed-heavenly-Father-say-Peter-rock-build-church-gates-hell-prevail-keys-kingdom-heaven-bind-earth-bound-heaven-loose-earth-loose-heaven-charged-disciples-tell-Jesus-Christ-began-shew-disciples-Jerusalem-suffer-elders-chief-priests-scribes-killed-raised-third-Peter-rebuke-Lord-far-thee-shall-Peter-turned-Satan-offence-savour-things-God-men-Jesus-disciples-man-deny-cross-follow-save-life-lose-life-lose-life-sake-find-life-profited-world-lose-soul-exchange-soul-Son-man-glory-Father-angels-reward-works-Verily-standing-taste-death-Son-man-coming-kingdom
+**Tags:** #christ #peter #church-foundation #cross-discipleship
 
 ---
 

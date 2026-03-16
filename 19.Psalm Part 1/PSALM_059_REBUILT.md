@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Deliverance from Enemies, God's Defense, Wicked's Pride, Divine Power
 
-**Tags:** #chief-Musician-Al-taschith-Michtam-David-Saul-sent-watched-house-kill-Deliver-enemies-GOD-defend-rise-against-Deliver-workers-iniquity-save-bloody-men-lie-wait-soul-mighty-gathered-transgression-sin-LORD-run-prepare-fault-awake-help-behold-LORD-GOD-hosts-Israel-awake-visit-heathen-merciful-wicked-transgressors-Selah-return-evening-make-noise-dog-round-city-belch-mouth-swords-lips-hear-LORD-laugh-heathen-derision-strength-wait-GOD-defence-mercy-prevent-see-desire-enemies-Slay-not-people-forget-scatter-power-bring-Lord-shield-sin-mouth-words-lips-taken-pride-cursing-lying-speak-Consume-wrath-Consume-know-GOD-ruleth-Jacob-ends-earth-Selah-return-evening-make-noise-dog-round-city-wander-meat-grudge-satisfied-sing-power-sing-aloud-mercy-morning-defence-refuge-day-trouble-strength-sing-defence-mercy
+**Tags:** #deliverance-from-enemies #god #wicked #divine-power
 
 ---
 

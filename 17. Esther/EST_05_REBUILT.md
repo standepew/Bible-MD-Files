@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Esther's Boldness, Royal Favor, Banquet Invitation, Haman's Pride
 
-**Tags:** #third-day-Esther-royal-apparel-stood-inner-court-king-house-king-house-king-sat-royal-throne-royal-house-gate-house #king-Esther-queen-standing-court-obtained-favour-sight-king-held-Esther-golden-sceptre-hand-Esther-drew-touched-sceptre #king-queen-Esther-request-given-half-kingdom #Esther-answered-king-Haman-banquet-prepared #king-Haman-haste-Esther-said-king-Haman-banquet-Esther-prepared #king-Esther-banquet-wine-petition-granted-request-half-kingdom-performed #Esther-answered-petition-request #found-favour-sight-king-please-king-grant-petition-perform-request-king-Haman-banquet-prepare-tomorrow-king-said #Haman-forth-day-joyful-glad-heart-Haman-Mordecai-king-gate-stood-moved-indignation-Mordecai #Haman-refrained-home-sent-called-friends-Zeresh-wife #Haman-glory-riches-multitude-children-king-promoted-advanced-princes-servants-king #Haman-Esther-queen-man-king-banquet-prepared-tomorrow-invited-king #availeth-Mordecai-Jew-sitting-king-gate #Zeresh-wife-friends-gallows-fifty-cubits-tomorrow-king-Mordecai-hanged-merrily-king-banquet-pleased-Haman-caused-gallows
+**Tags:** #Esther-answered-petition-request #esther #royal-favor #banquet-invitation #haman
 
 ---
 

@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Restoring the Fallen, Bearing Burdens, Sowing and Reaping, The Cross of Christ
 
-**Tags:** #Brethren-man-overtaken-fault-spiritual-restore-spirit-meekness-considering-tempted-Bear-burdens-fulfil-law-Christ-man-think-something-nothing-deceiveth-prove-work-rejoicing-man-bear-burden-taught-word-communicate-teacheth-good-deceived-God-mocked-soweth-reap-soweth-flesh-reap-corruption-soweth-Spirit-reap-life-everlasting-weary-doing-due-season-reap-faint-opportunity-good-specially-household-faith-large-letter-own-hand-desire-fair-shew-flesh-constrain-circumcised-lest-suffer-persecution-cross-Christ-circumcised-keep-law-desire-circumcised-glory-flesh-God-forbid-glory-cross-Lord-Jesus-Christ-world-crucified-world-crucified-Christ-Jesus-circumcision-availeth-uncircumcision-new-creature-walk-rule-peace-mercy-Israel-God-trouble-body-marks-Lord-Jesus-grace-Lord-Jesus-Christ-spirit-Amen
+**Tags:** #restoring-the-fallen #bearing-burdens #sowing-and-reaping #the-cross-of-christ
 
 ---
 

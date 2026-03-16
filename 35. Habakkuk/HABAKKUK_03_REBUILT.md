@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Divine Glory, God's Power and Salvation, Trust in Troubles, Joy in the Lord
 
-**Tags:** #prayer-Habakkuk-prophet-Shigionoth-LORD-heard-speech-afraid-LORD-revive-work-midst-years-midst-years-make-known-wrath-remember-mercy-God-Teman-Holy-One-mount-Paran-Selah-glory-covered-heavens-earth-full-praise-brightness-light-horns-hand-hiding-power-pestilence-burning-coals-feet-stood-measured-earth-beheld-drove-asunder-nations-everlasting-mountains-scattered-perpetual-hills-bow-everlasting-tents-Cushan-affliction-curtains-land-Midian-tremble-LORD-displeased-rivers-anger-rivers-wrath-sea-ride-horses-chariots-salvation-bow-made-naked-oaths-tribes-word-Selah-cleave-earth-rivers-mountains-trembled-overflowing-water-passed-deep-uttered-voice-lifted-hands-sun-moon-still-habitation-light-arrows-went-shining-glittering-spear-march-land-indignation-thresh-heathen-anger-went-salvation-people-salvation-anointed-wounded-head-house-wicked-discovering-foundation-neck-Selah-strike-staves-head-villages-whirlwind-scatter-rejoicing-devour-poor-secretly-walk-sea-horses-heap-great-waters-heard-belly-trembled-lips-quivered-voice-rottenness-entered-bones-trembled-rest-trouble-cometh-people-invade-troops-fig-tree-blossom-fruit-vines-labour-olive-fail-fields-yield-meat-flock-cut-fold-herd-stalls-rejoice-LORD-joy-God-salvation-LORD-God-strength-feet-hinds-feet-walk-high-places-chief-singer-stringed-instruments
+**Tags:** #christ #god #trust-in-troubles #joy-in-the-lord
 
 ---
 

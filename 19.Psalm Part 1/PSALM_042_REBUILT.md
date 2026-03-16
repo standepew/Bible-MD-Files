@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Spiritual Thirst, Soul's Longing, Hope in God, Divine Remembrance
 
-**Tags:** #chief-Musician-Maschil-sons-Korah-hart-panteth-water-brooks-panteth-soul-GOD-soul-thirsteth-living-GOD-come-appear-GOD-tears-meat-day-night-continually-remember-pour-soul-multitude-went-house-GOD-voice-joy-praise-multitude-kept-holyday-cast-soul-disquieted-hope-GOD-praise-help-countenance-GOD-soul-cast-within-remember-land-Jordan-Hermonites-hill-Mizar-deep-calleth-deep-noise-waterspouts-waves-billows-gone-LORD-command-lovingkindness-daytime-night-song-prayer-GOD-life #rock-forgotten-mourning-oppression-enemy-sword-bones-enemies-reproach-daily-Where-GOD-cast-soul-disquieted-within-hope-GOD-praise-health-countenance-GOD
+**Tags:** #spiritual-thirst #soul #hope-in-god #divine-remembrance
 
 ---
 

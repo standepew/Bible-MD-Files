@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Coming, Divine Power, Spiritual Humility, Christ's Creation
 
-**Tags:** #wouldest-rend-heavens-wouldest-come-mountains-flow-presence-melting-fire-burneth-fire-causeth-waters-boil-name-known-adversaries-nations-tremble-presence-terrible-things-look-came-mountains-flowed-presence-beginning-world-men-heard-perceived-ear-eye-seen-God-beside-prepared-waiteth-meet-rejoiceth-worketh-righteousness-remember-ways-behold-wroth-sinned-continuance-saved-unclean-righteousnesses-filthy-rags-fade-leaf-iniquities-wind-taken-none-calleth-name-stirreth-himself-take-hold-hid-face-consumed-iniquities-LORD-father-clay-potter-work-hand-wroth-sore-remember-iniquity-behold-see-beseech-people-holy-cities-wilderness-Zion-wilderness-Jerusalem-desolation-holy-beautiful-house-fathers-praised-burned-fire-pleasant-things-laid-waste-refrain-hold-peace-afflict-sore
+**Tags:** #christ #divine-power #spiritual-humility
 
 ---
 

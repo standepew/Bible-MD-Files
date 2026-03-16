@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** The Epistle of Christ, The New Testament Ministry, The Veil Removed, The Glory of the Lord
 
-**Tags:** #begin-commend-commend-epistles-commendation-epistles-commendation-epistle-written-hearts-known-read-men-manifestly-declared-epistle-Christ-ministered-written-ink-Spirit-living-God-tables-stone-fleshy-tables-heart-trust-Christ-God-ward-sufficient-selves-sufficiency-God-able-ministers-new-testament-letter-spirit-letter-killeth-spirit-giveth-life-ministration-death-written-engraven-stones-glorious-children-Israel-stedfastly-behold-face-Moses-glory-countenance-glory-done-ministration-spirit-glorious-ministration-condemnation-glory-ministration-righteousness-exceed-glory-made-glorious-glory-respect-glory-excelleth-done-away-glorious-remaineth-glorious-hope-plainness-speech-Moses-vail-face-children-Israel-stedfastly-abolished-minds-blinded-remaineth-vail-untaken-reading-old-testament-vail-done-away-Christ-Moses-read-vail-heart-turn-Lord-vail-taken-Lord-Spirit-Spirit-Lord-liberty-open-face-beholding-glass-glory-Lord-changed-image-glory-glory-Spirit-Lord
+**Tags:** #the-epistle-of-christ #the-new-testament-ministry #the-veil-removed #the-glory-of-the-lord
 
 ---
 

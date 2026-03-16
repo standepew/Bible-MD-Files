@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Integrity and Poverty, Wisdom and Understanding, Justice and Mercy, Discipline and Instruction
 
-**Tags:** #poor-walketh-integrity-perverse-lips-fool-soul-without-knowledge-good-hasteth-feet-sinneth-foolishness-man-perverteth-way-heart-fretteth-LORD-Wealth-maketh-friends-poor-separated-neighbour-false-witness-unpunished-speaketh-lies-escape-intreat-favour-prince-friend-giveth-gifts-brethren-poor-hate-friends-far-pursueth-words-wanting-getteth-wisdom-loveth-soul-keepeth-understanding-find-good-false-witness-unpunished-speaketh-lies-perish-Delight-seemly-fool-servant-rule-princes-discretion-man-deferreth-anger-glory-pass-transgression-king-wrath-roaring-lion-favour-dew-grass-foolish-son-calamity-father-contentions-wife-continual-dropping-House-riches-inheritance-fathers-prudent-wife-LORD-Slothfulness-casteth-deep-sleep-idle-soul-suffer-hunger-keepeth-commandment-keepeth-soul-despiseth-ways-die-pity-poor-lendeth-LORD-given-pay-again-Chasten-son-hope-soul-spare-crying-man-great-wrath-suffer-punishment-deliver-must-again-Hear-counsel-receive-instruction-wise-latter-devices-heart-nevertheless-counsel-LORD-stand-desire-man-kindness-poor-man-better-liar-fear-LORD-tendeth-life-abide-satisfied-visited-evil-slothful-man-hideth-hand-bosom-bring-mouth-Smite-scorner-simple-beware-reprove-understanding-understand-knowledge-wasteth-father-chaseth-mother-son-causeth-shame-bringeth-reproach-Cease-son-hear-instruction-causeth-err-words-knowledge-ungodly-witness-scorneth-judgment-mouth-wicked-devoureth-iniquity-Judgments-prepared-scorners-stripes-back-fools
+**Tags:** #integrity-and-poverty #wisdom-and-understanding #justice-and-mercy #discipline-and-instruction
 
 ---
 

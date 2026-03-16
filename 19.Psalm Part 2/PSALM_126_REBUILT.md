@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Divine Restoration, Joyful Harvest, Sowing in Tears, Reaping in Joy
 
-**Tags:** #Song-degrees-LORD-turned-captivity-Zion-dream-mouth-filled-laughter-tongue-singing-heathen-LORD-great-things-LORD-great-things-glad-Turn-again-captivity-LORD-streams-south-sow-tears-reap-joy-goeth-forth-weepeth-bearing-precious-seed-doubtless-rejoicing-bringing-sheaves
+**Tags:** #divine-restoration #joyful-harvest #sowing-in-tears #reaping-in-joy
 
 ---
 

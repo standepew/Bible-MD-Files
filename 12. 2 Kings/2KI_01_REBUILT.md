@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Ahaziah's Idolatry, Elijah's Confrontation, Divine Fire, Prophetic Authority, Judgment
 
-**Tags:** #Moab-rebelled-Israel-death-Ahab #Ahaziah-fell-lattice-upper-chamber-Samaria-sick-messengers-enquire-Baal-zebub-god-Ekron-recover-disease #angel-LORD-Elijah-Tishbite-Arise-meet-messengers-king-Samaria-God-Israel-enquire-Baal-zebub-god-Ekron #LORD-bed-die-Elijah-departed #messengers-turned-back-turned-back #man-meet-turn-king-LORD-God-Israel-Baal-zebub-god-Ekron-bed-die #manner-man-meet-words #hairy-man-girdle-leather-loins-Elijah-Tishbite #king-captain-fifty-fifty-hill-man-GOD-king-Come-down #Elijah-captain-fifty-man-GOD-fire-heaven-consume-fifty-fire-heaven-consumed-fifty #captain-fifty-fifty-man-GOD-king-Come-down-quickly #Elijah-fifty-man-GOD-fire-heaven-consume-fifty-fire-GOD-heaven-consumed-fifty #captain-third-fifty-fifty-third-captain-fifty-knees-Elijah-besought-man-GOD-life-fifty-servants-precious #fire-heaven-burnt-captains-fifties-fifties-life-precious #angel-LORD-Elijah-down-afraid-arose-down-king #LORD-messengers-Baal-zebub-god-Ekron-God-Israel-word-bed-die #died-word-LORD-Elijah-spoke-Jehoram-reigned-second-year-Jehoram-son-Jehoshaphat-king-Judah-son #acts-Ahaziah-book-chronicles-kings-Israel
+**Tags:** #Moab-rebelled-Israel-death-Ahab #LORD-bed-die-Elijah-departed #messengers-turned-back-turned-back #manner-man-meet-words #ahaziah #elijah #divine-fire #prophetic-authority #judgment
 
 ---
 

@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Walking in Truth, Faithful Service to Brethren, Supporting Missionaries, Opposition from Diotrephes, Good vs Evil, Commendation of Demetrius
 
-**Tags:** #elder-wellbeloved-Gaius-love-truth-Beloved-wish-prosper-health-soul-prospereth-rejoiced-greatly-brethren-came-testified-truth-walkest-truth-greater-joy-hear-children-walk-truth-Beloved-doest-faithfully-brethren-strangers-borne-witness-charity-church-bring-forward-journey-godly-sort-name-sake-went-forth-taking-Gentiles-receive-fellowhelpers-truth-wrote-church-Diotrephes-loveth-preeminence-receiveth-come-remember-deeds-prating-malicious-words-content-receive-brethren-forbiddeth-casteth-church-Beloved-follow-evil-good-doeth-good-God-doeth-evil-seen-God-Demetrius-good-report-men-truth-bear-record-know-record-true-write-ink-pen-trust-shortly-see-speak-face-face-Peace-friends-salute-greet-friends-name
+**Tags:** #walking-in-truth #faithful-service-to-brethren #supporting-missionaries #opposition-from-diotrephes #good-vs-evil #commendation-of-demetrius
 
 ---
 

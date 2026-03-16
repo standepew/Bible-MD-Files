@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Job's Former Glory, Divine Favor, Social Honor, Past Prosperity
 
-**Tags:** #Job-continued-parable-months-past-days-GOD-preserved #candle-shined-head-light-walked-darkness #youth-secret-GOD-tabernacle-Almighty-children-butter-steps-rock-oil #gate-city-prepared-seat-street #young-men-hid-aged-arose-stood #princes-refrained-talking-hand-mouth #nobles-peace-tongue-cleaved-roof-mouth #ear-blessed-eye-witness-delivered-poor-fatherless-help #blessing-perish-widow-joy #righteousness-clothed-judgment-robe-diadem #eyes-blind-feet-lame #father-poor-cause-searched #jaws-wicked-spoil-teeth #die-nest-multiply-days-sand #root-waters-dew-branch #glory-fresh-bow-renewed-hand #men-ear-waited-silence-counsel #words-speech-dropped-rain-mouth-latter-rain #laughed-believed-light-countenance-cast-down #chose-way-sat-chief-dwelt-king-army-comforted-mourners
+**Tags:** #gate-city-prepared-seat-street #princes-refrained-talking-hand-mouth #blessing-perish-widow-joy #righteousness-clothed-judgment-robe-diadem #eyes-blind-feet-lame #father-poor-cause-searched #jaws-wicked-spoil-teeth #die-nest-multiply-days-sand #root-waters-dew-branch #glory-fresh-bow-renewed-hand #men-ear-waited-silence-counsel #job #divine-favor #social-honor #past-prosperity
 
 ---
 

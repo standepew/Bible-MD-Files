@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Jesus Prays for Himself, Jesus Prays for His Disciples, Jesus Prays for All Believers, The Glory of Unity
 
-**Tags:** #words-spake-Jesus-lifted-eyes-heaven-Father-hour-glorify-Son-glorify-given-power-flesh-eternal-life-life-eternal-know-only-true-God-Jesus-Christ-sent-glorified-earth-finished-work-gavest-glorify-world-glorified-manifested-name-men-given-world-thine-gavest-kept-word-known-given-words-gavest-received-known-came-sent-believe-pray-world-given-thine-mine-thine-mine-glorified-world-world-Father-keep-name-given-world-kept-world-lost-son-perdition-scripture-fulfilled-come-world-joy-fulfilled-given-word-hated-world-not-world-pray-world-keep-evil-world-world-sanctify-truth-word-truth-sent-world-sent-world-sanctify-truth-believe-word-may-one-Father-may-one-believe-sent-glory-gavest-given-one-one-one-perfect-know-sent-loved-foundations-righteous-Father-known-declared-name-declare-love-loved
+**Tags:** #jesus-prays-for-himself #jesus-prays-for-his-disciples #jesus-prays-for-all-believers #the-glory-of-unity
 
 ---
 

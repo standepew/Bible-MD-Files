@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Divine Providence, Royal Insomnia, Honor Reversed, Irony of Fate
 
-**Tags:** #night-king-sleep-commanded-book-records-chronicles-read-king #found-written-Mordecai-told-Bigthana-Teresh-king-chamberlains-keepers-door-sought-lay-hand-king-Ahasuerus #king-honour-dignity-Mordecai-king-servants-ministered-nothing #king-court-Haman-outward-court-king-house-speak-king-hang-Mordecai-gallows-prepared #king-servants-Haman-court-king-Haman #Haman-king-man-king-delight-honour-Haman-heart-king-delight-honour #Haman-answered-king-man-king-delight-honour #royal-apparel-king-useth-wear-horse-king-rideth-crown-royal-head #apparel-horse-delivered-hand-king-noble-princes-array-man-king-delight-honour-horseback-street-city-proclaim-man-king-delight-honour #king-Haman-haste-apparel-horse-Mordecai-Jew-sits-king-gate-fail-spoken #Haman-apparel-horse-arrayed-Mordecai-horseback-street-city-proclaimed-man-king-delight-honour #Mordecai-king-gate-Haman-house-mourning-head-covered #Haman-Zeresh-wife-friends-befallen-wise-men-Zeresh-wife-Mordecai-seed-Jews-begun-fall-prevail-fall #talking-king-chamberlains-hasted-Haman-banquet-Esther-prepared
+**Tags:** #divine-providence #royal-insomnia #honor-reversed #irony-of-fate
 
 ---
 

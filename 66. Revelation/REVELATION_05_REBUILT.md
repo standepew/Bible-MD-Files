@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** The Book with Seven Seals, The Lion of Judah and the Lamb, The Worthiness of the Lamb, Worship of the Lamb, Universal Worship
 
-**Tags:** #right-hand-throne-book-written-backside-sealed-seven-seals-strong-angel-proclaiming-loud-voice-worthy-open-book-loose-seals-man-heaven-earth-under-earth-able-open-book-look-wept-man-found-worthy-open-read-book-look-elder-Weep-behold-Lion-tribe-Juda-Root-David-prevailed-open-book-loose-seven-seals-beheld-midst-throne-four-beasts-midst-elders-stood-Lamb-slain-seven-horns-seven-eyes-seven-Spirits-God-sent-earth-came-book-right-hand-throne-took-book-four-beasts-four-twenty-elders-fell-Lamb-harps-golden-vials-odours-prayers-saints-sung-new-song-worthy-take-book-open-seals-slain-redeemed-God-blood-kindred-tongue-people-nation-kings-priests-reign-earth-beheld-voice-angels-round-throne-beasts-elders-number-ten-thousand-ten-thousand-thousands-thousands-loud-voice-worthy-Lamb-slain-receive-power-riches-wisdom-strength-honour-glory-blessing-creature-heaven-earth-under-earth-sea-heard-Blessing-honour-glory-power-throne-Lamb-beasts-Amen-elders-fell-worshipped-liveth
+**Tags:** #the-book-with-seven-seals #the-lion-of-judah-and-the #the-worthiness-of-the-lamb #worship-of-the-lamb #universal-worship
 
 ---
 

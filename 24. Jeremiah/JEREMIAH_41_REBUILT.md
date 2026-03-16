@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Betrayal, Ishmael's Treachery, Divine Justice, Christ's Protection
 
-**Tags:** #seventh-month-Ishmael-son-Nethaniah-son-Elishama-seed-royal-princes-king-ten-men-Gedaliah-son-Ahikam-Mizpah-bread-Mizpah-arose-Ishmael-son-Nethaniah-ten-men-smote-Gedaliah-son-Ahikam-son-Shaphan-sword-slew-king-Babylon-governor-land-Ishmael-slew-Jews-Gedaliah-Mizpah-Chaldeans-men-war-day-slain-Gedaliah-man-knew-Shechem-Shiloh-Samaria-fourscore-men-beards-shaven-clothes-rent-cut-offerings-incense-hand-house-LORD-Ishmael-son-Nethaniah-Mizpah-meet-weeping-met-Come-Gedaliah-son-Ahikam-midst-city-Ishmael-son-Nethaniah-slew-midst-pit-men-ten-men-Slay-treasures-field-wheat-barley-oil-honey-forbare-slew-brethren-pit-Ishmael-dead-bodies-slain-Gedaliah-Asa-king-fear-Baasha-king-Israel-Ishmael-son-Nethaniah-filled-slain-carried-captive-residue-people-Mizpah-king-daughters-people-Mizpah-Nebuzar-adan-captain-guard-committed-Gedaliah-son-Ahikam-Ishmael-son-Nethaniah-carried-captive-departed-Ammonites-Johanan-son-Kareah-captains-forces-evil-Ishmael-son-Nethaniah-took-men-fight-Ishmael-son-Nethaniah-great-waters-Gibeon-people-Ishmael-Johanan-son-Kareah-captains-forces-people-Ishmael-carried-captive-Mizpah-cast-returned-Johanan-son-Kareah-Ishmael-son-Nethaniah-escaped-Johanan-eight-men-Ammonites-Johanan-son-Kareah-captains-forces-remnant-people-recovered-Ishmael-son-Nethaniah-Mizpah-slain-Gedaliah-son-Ahikam-mighty-men-war-women-children-eunuchs-brought-Gibeon-departed-dwelt-habitation-Chimham-Beth-lehem-Egypt-Chaldeans-afraid-Ishmael-son-Nethaniah-slew-Gedaliah-son-Ahikam-king-Babylon-governor-land
+**Tags:** #christ #ishmael #divine-justice
 
 ---
 

@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Wisdom and Instruction, Speech and Life, Diligence and Poverty, Truth and Deception
 
-**Tags:** #wise-son-heareth-father-instruction-scorner-heareth-rebuke-man-eat-good-fruit-mouth-soul-transgressors-eat-violence-keepeth-mouth-keepeth-life-openeth-wide-lips-destruction-soul-sluggard-desireth-nothing-soul-diligent-made-fat-righteous-man-hateth-lying-wicked-man-loathsome-shame-Righteousness-keepeth-upright-way-wickedness-overthroweth-sinner-maketh-rich-yet-nothing-maketh-poor-great-riches-ransom-life-riches-poor-heareth-rebuke-light-righteous-rejoiceth-lamp-wicked-put-pride-contention-well-advised-wisdom-Wealth-gotten-vanity-diminished-gathereth-labour-increase-Hope-deferred-heart-sick-desire-tree-life-despiseth-word-destroyed-feareth-commandment-rewarded-law-wise-fountain-life-depart-snares-death-Good-understanding-favour-way-transgressors-hard-prudent-man-dealeth-knowledge-fool-layeth-folly-wicked-messenger-falleth-mischief-faithful-ambassador-health-Poverty-shame-refuseth-instruction-regardeth-reproof-honoured-desire-accomplished-sweet-soul-abomination-fools-depart-evil-walketh-wise-men-wise-companion-fools-destroyed-Evil-pursueth-sinners-righteous-repaid-good-man-leaveth-inheritance-children-children-wealth-sinner-laid-just-Much-food-tillage-poor-destroyed-want-judgment-spareth-rod-hateth-son-loveth-chasteneth-betimes-righteous-eateth-satisfying-soul-belly-wicked
+**Tags:** #wisdom-and-instruction #speech-and-life #diligence-and-poverty #truth-and-deception
 
 ---
 

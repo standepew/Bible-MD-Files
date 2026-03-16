@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Comfort, Baruch's Sorrow, Divine Sovereignty, Christ's Preservation
 
-**Tags:** #word-Jeremiah-prophet-Baruch-son-Neriah-written-words-book-mouth-Jeremiah-fourth-year-Jehoiakim-son-Josiah-king-Judah-LORD-God-Israel-Baruch-grief-sorrow-fainted-sighing-rest-LORD-built-break-planted-pluck-land-seek-great-seek-bring-evil-flesh-LORD-life-prey-places
+**Tags:** #christ #baruch #divine-sovereignty
 
 ---
 

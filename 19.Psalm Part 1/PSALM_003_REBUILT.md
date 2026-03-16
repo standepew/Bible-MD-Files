@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Morning Prayer, Divine Protection, Trust in God, Victory Over Enemies
 
-**Tags:** #Psalm-David-fled-Absalom-son-LORD-trouble-increased-rise-against-soul-help-God-Selah-shield-glory-lifter-head-cried-voice-heard-holy-hill #laid-slept-awaked-sustained-afraid-ten-thousands-people-set-against-round-arise-save-GOD-smitten-enemies-cheek-bone-broken-teeth-ungodly #salvation-LORD-blessing-people-Selah
+**Tags:** #salvation-LORD-blessing-people-Selah #morning-prayer #divine-protection #trust-in-god #victory-over-enemies
 
 ---
 

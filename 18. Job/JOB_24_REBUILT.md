@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Job's Response, Wicked's Oppression, Divine Hiddenness, Final Judgment
 
-**Tags:** #times-hidden-Almighty-know-days #landmarks-flocks-feed #ass-fatherless-widow-ox-pledge #needy-way-poor-earth-hide #wild-asses-desert-work-betimes-prey-wilderness-food-children #reap-corn-field-gather-vintage-wicked #naked-lodge-clothing-covering-cold #showers-mountains-embrace-rock-shelter #fatherless-breast-pledge-poor-naked-clothing-sheaf-hungry #oil-walls-winepresses-thirst #men-groan-city-wounded-cry-folly #rebel-light-ways-paths #murderer-light-poor-needy-night-thief #adulterer-twilight-eye-disguise-face #dark-houses-daytime-light-morning-shadow-death-terrors-shadow-death #swift-waters-portion-cursed-earth-vineyards #drought-heat-snow-waters-grave-sinned #womb-forget-worm-feed-sweet-remembered-wickedness-broken-tree #evil-entreateth-barren-widow-good #mighty-power-riseth-sure-life #safety-rest-eyes-ways #exalted-little-while-gone-brought-low-way-corn-ears #liar-speech-worth
+**Tags:** #times-hidden-Almighty-know-days #landmarks-flocks-feed #ass-fatherless-widow-ox-pledge #needy-way-poor-earth-hide #naked-lodge-clothing-covering-cold #showers-mountains-embrace-rock-shelter #oil-walls-winepresses-thirst #rebel-light-ways-paths #adulterer-twilight-eye-disguise-face #evil-entreateth-barren-widow-good #mighty-power-riseth-sure-life #safety-rest-eyes-ways #liar-speech-worth #job #wicked #divine-hiddenness #final-judgment
 
 ---
 

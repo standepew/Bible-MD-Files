@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Job's Lament, Cursing Birth, Death Desired, Questioning Suffering
 
-**Tags:** #Job-opened-mouth-cursed-day #Job-spake-day-perish-born-night-man-child-conceived #day-darkness-God-regard-light-shine #darkness-shadow-death-stain-cloud-dwell-blackness-day-terrify #night-darkness-seize-joined-days-year-number-months #night-solitary-joyful-voice #curse-day-curse-mourning #stars-twilight-dark-look-light-dawning-day #shut-doors-mother-womb-hid-sorrow-eyes #die-womb-ghost-belly #knees-prevent-breasts-suck #lain-quiet-slept-rest #kings-counsellors-earth-built-desolate-places #princes-gold-filled-houses-silver #hidden-untimely-birth-infants-light #wicked-cease-troubling-weary-rest #prisoners-rest-voice-oppressor #small-great-servant-free-master #light-misery-life-bitter-soul #long-death-dig-hid-treasures #rejoice-glad-grave #light-man-way-hid-GOD-hedged #sighing-eat-roarings-waters #feared-come-afraid-come #safety-rest-quiet-trouble
+**Tags:** #Job-opened-mouth-cursed-day #night-solitary-joyful-voice #curse-day-curse-mourning #die-womb-ghost-belly #knees-prevent-breasts-suck #lain-quiet-slept-rest #princes-gold-filled-houses-silver #hidden-untimely-birth-infants-light #wicked-cease-troubling-weary-rest #prisoners-rest-voice-oppressor #small-great-servant-free-master #light-misery-life-bitter-soul #long-death-dig-hid-treasures #rejoice-glad-grave #sighing-eat-roarings-waters #feared-come-afraid-come #safety-rest-quiet-trouble #job #cursing-birth #death-desired #questioning-suffering
 
 ---
 

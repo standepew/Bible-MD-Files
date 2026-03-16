@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Wisdom and Authority, Divine Timing, Human Mortality, Justice and Mercy
 
-**Tags:** #wise-man-interpretation-thing-man-wisdom-maketh-face-shine-boldness-face-changed-counsel-keep-king-commandment-regard-oath-God-hasty-go-sight-stand-evil-thing-doeth-pleaseth-word-king-power-say-What-doest-keep-commandment-feel-evil-thing-wise-man-heart-discern-time-judgment-purpose-time-judgment-misery-man-great-know-shall-tell-man-power-spirit-retain-spirit-power-day-death-discharge-war-wickedness-deliver-given-applied-heart-work-done-sun-time-man-ruleth-hurt-wicked-buried-come-gone-place-holy-forgotten-city-done-vanity-sentence-evil-work-executed-speedily-heart-sons-men-fully-set-evil-sinner-do-evil-hundred-times-days-prolonged-shall-well-fear-God-fear-well-wicked-prolong-days-shadow-feareth-God-vanity-earth-just-men-happeneth-work-wicked-wicked-men-happeneth-work-righteous-vanity-commended-mirth-man-better-thing-sun-eat-drink-merry-abide-labour-days-life-God-giveth-sun-applied-heart-know-wisdom-business-done-earth-neither-day-night-seeth-sleep-eyes-beheld-work-God-man-find-work-done-sun-labour-seek-find-shall-find-wise-man-think-know-able-find
+**Tags:** #wisdom-and-authority #divine-timing #human-mortality #justice-and-mercy
 
 ---
 

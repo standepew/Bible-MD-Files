@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Compassion, God's Mercy on Gentiles, Divine Object Lesson, Universal Salvation
 
-**Tags:** #displeased-Jonah-exceedingly-angry-prayed-LORD-pray-LORD-saying-country-fled-Tarshish-knew-gracious-God-merciful-slow-anger-great-kindness-repentest-evil-LORD-life-better-die-live-LORD-angry-Jonah-city-east-side-city-booth-sat-shadow-might-become-city-LORD-God-prepared-gourd-come-Jonah-shadow-head-deliver-grief-Jonah-exceeding-glad-gourd-God-prepared-worm-morning-rose-next-day-smote-gourd-withered-sun-arise-God-prepared-vehement-east-wind-sun-beat-head-Jonah-fainted-wished-die-said-better-die-live-God-Jonah-angry-gourd-angry-death-LORD-pity-gourd-laboured-madest-grow-came-night-perished-night-spare-Nineveh-great-city-sixscore-thousand-persons-discern-right-hand-left-hand-cattle
+**Tags:** #christ #god #divine-object-lesson #universal-salvation
 
 ---
 

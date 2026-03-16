@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Job's Present Suffering, Social Rejection, Physical Pain, Divine Silence
 
-**Tags:** #younger-derision-fathers-disdained-dogs-flock #strength-hands-profit-old-age-perished #want-famine-solitary-wilderness-desolate-waste #mallows-bushes-juniper-roots-meat #driven-men-thief-clifts-valleys-caves-rocks #bushes-brayed-nettles-gathered-children-fools-base-men-viler-earth #song-byword-abhor-flee-spit-face #loosed-cord-afflicted-loose-bridle #right-hand-youth-push-feet-raise-destruction #mar-path-set-forward-calamity-helper #breaking-waters-desolation-rolled-terrors-pursue-soul-wind-welfare-cloud #soul-poured-affliction-bones-pierced-night-season-sinews-rest #force-disease-garment-collar-coat #cast-mire-dust-ashes #cry-hear-stand-regard #cruel-strong-hand-oppose-liftest-wind-ride-dissolvest-substance #bring-death-house-appointed-living #stretch-hand-grave-destruction #weep-trouble-soul-grieved-poor #looked-good-evil-waited-light-darkness #bowels-boiled-rested-affliction-prevented #mourning-sun-congregation-cry-brother-dragons-companions-owls #skin-black-bones-burned-heat #harp-mourning-organ-weep
+**Tags:** #mallows-bushes-juniper-roots-meat #loosed-cord-afflicted-loose-bridle #force-disease-garment-collar-coat #cast-mire-dust-ashes #cry-hear-stand-regard #bring-death-house-appointed-living #stretch-hand-grave-destruction #weep-trouble-soul-grieved-poor #bowels-boiled-rested-affliction-prevented #skin-black-bones-burned-heat #harp-mourning-organ-weep #job #social-rejection #physical-pain #divine-silence
 
 ---
 

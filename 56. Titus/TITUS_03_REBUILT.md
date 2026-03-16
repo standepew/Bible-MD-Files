@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Submission to Authorities, Christian Conduct, Salvation by Grace, Maintaining Good Works, Final Instructions
 
-**Tags:** #Put-mind-subject-principalities-powers-obey-magistrates-ready-good-work-speak-evil-man-brawlers-gentle-shewing-meekness-men-ourselves-foolish-disobedient-deceived-serving-divers-lusts-pleasures-living-malice-envy-hateful-hating-kindness-love-God-Saviour-man-appeared-works-righteousness-mercy-saved-washing-regeneration-renewing-Holy-Ghost-shed-abundantly-Jesus-Christ-Saviour-justified-grace-heirs-hope-eternal-life-faithful-saying-affirm-constantly-believed-God-careful-maintain-good-works-profitable-men-avoid-foolish-questions-genealogies-contentions-strivings-law-unprofitable-vain-heretick-first-second-admonition-reject-knowing-subverted-sinned-condemned-send-Artemas-Tychicus-diligent-Nicopolis-determined-winter-Zenas-lawyer-Apollos-journey-diligently-wanting-learn-maintain-good-works-necessary-uses-unfruitful-salute-thee-greet-love-faith-Grace-Amen
+**Tags:** #submission-to-authorities #christian-conduct #salvation-by-grace #maintaining-good-works #final-instructions
 
 ---
 

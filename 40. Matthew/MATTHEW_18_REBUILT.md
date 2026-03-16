@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Christ's Childlike Humility, Church Discipline, Forgiveness Principle, Lost Sheep Restoration
 
-**Tags:** #disciples-Jesus-greatest-kingdom-heaven-Jesus-called-child-midst-Verily-converted-children-kingdom-heaven-humble-child-greatest-kingdom-heaven-receive-child-name-receive-offend-children-millstone-neck-drowned-depth-sea-offences-world-offences-come-woe-man-offence-hand-foot-offend-cut-cast-life-halt-maimed-hands-feet-cast-everlasting-fire-eye-offend-pluck-cast-life-one-eye-two-eyes-cast-hell-fire-despise-little-ones-heaven-angels-behold-face-Father-heaven-Son-man-save-lost-hundred-sheep-one-astray-ninety-nine-mountains-seek-astray-find-rejoiceth-sheep-ninety-nine-astray-will-Father-heaven-little-ones-perish-brother-trespass-tell-fault-alone-hear-gained-brother-hear-one-two-witnesses-mouth-two-three-witnesses-word-established-neglect-hear-church-neglect-hear-church-heathen-publican-bind-earth-bound-heaven-loose-earth-loose-heaven-two-agree-earth-ask-Father-heaven-two-three-gathered-name-midst-Peter-forgive-brother-sin-seven-times-Jesus-seven-times-seventy-seven-kingdom-heaven-king-take-account-servants-begun-reckon-brought-ten-thousand-talents-not-pay-lord-commanded-sold-wife-children-payment-servant-fell-worshipped-Lord-patience-pay-lord-compassion-loosed-forgave-debt-servant-fellowservants-hundred-pence-hands-throat-pay-owest-fell-feet-besought-patience-pay-went-cast-prison-pay-debt-fellowservants-sorry-told-lord-wicked-servant-forgave-debt-desiredst-compassion-fellowservants-pity-lord-wroth-tormentors-pay-due-heavenly-Father-hearts-forgive-brother-trespasses
+**Tags:** #christ #church-discipline #forgiveness-principle #lost-sheep-restoration
 
 ---
 

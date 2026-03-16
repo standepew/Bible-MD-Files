@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Vanity of Human Labor, Cycles of Nature, Limitations of Wisdom, Search for Meaning
 
-**Tags:** #words-Preacher-son-David-king-Jerusalem-vanity-vanities-Preacher-vanity-vanities-vanity-profit-man-labour-taketh-sun-generation-passeth-another-generation-cometh-earth-abideth-sun-ariseth-sun-goeth-hasteth-place-arose-wind-goeth-south-turneth-north-whirleth-continually-wind-returneth-circuits-rivers-run-sea-sea-full-place-whence-rivers-come-thither-return-things-full-labour-man-utter-eye-satisfied-seeing-ear-filled-hearing-thing-hath-shall-shall-done-done-no-new-thing-sun-thing-may-said-new-already-old-time-us-no-remembrance-former-things-remembrance-things-come-shall-come-Preacher-king-Israel-Jerusalem-gave-heart-seek-search-wisdom-concerning-things-done-heaven-sore-travail-God-given-sons-man-exercised-seen-works-done-sun-behold-vanity-vexation-spirit-crooked-straight-wanting-numbered-communed-heart-come-great-estate-gotten-wisdom-Jerusalem-heart-great-experience-wisdom-knowledge-gave-heart-know-wisdom-know-madness-folly-perceived-vexation-spirit-much-wisdom-grief-increaseth-knowledge-increaseth-sorrow
+**Tags:** #vanity-of-human-labor #cycles-of-nature #limitations-of-wisdom #search-for-meaning
 
 ---
 

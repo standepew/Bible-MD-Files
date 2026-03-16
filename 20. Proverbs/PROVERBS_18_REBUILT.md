@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Speech and Power, Friendship and Isolation, Pride and Humility, Divine Protection
 
-**Tags:** #desire-man-separated-seeketh-intermeddleth-wisdom-fool-delight-understanding-heart-discover-wicked-cometh-contempt-ignominy-reproach-words-man-mouth-deep-waters-wellspring-wisdom-flowing-brook-good-accept-person-wicked-overthrow-righteous-judgment-fool-lips-enter-contention-mouth-calleth-strokes-fool-mouth-destruction-lips-snare-soul-words-talebearer-wounds-innermost-parts-belly-slothful-work-brother-great-waster-name-LORD-strong-tower-righteous-runneth-safe-rich-man-wealth-strong-city-high-wall-conceit-destruction-heart-man-haughty-honour-humility-answereth-matter-heareth-folly-shame-spirit-man-sustain-infirmity-wounded-spirit-bear-heart-prudent-getteth-knowledge-ear-wise-seek-knowledge-man-gift-maketh-room-bringeth-great-men-first-cause-seemeth-just-neighbour-cometh-searcheth-lot-causeth-contentions-cease-parteth-mighty-brother-offended-harder-strong-city-contentions-bars-castle-man-belly-satisfied-fruit-mouth-increase-lips-filled-Death-life-power-tongue-love-fruit-whoso-findeth-wife-findeth-good-thing-obtain-favour-LORD-poor-useth-intreaties-rich-answereth-roughly-man-friends-friendly-friend-sticketh-closer-brother
+**Tags:** #speech-and-power #friendship-and-isolation #pride-and-humility #divine-protection
 
 ---
 

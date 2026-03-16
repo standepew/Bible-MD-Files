@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Thanksgiving for Healing, God's Anger and Favor, Morning Joy, Dancing for Gladness
 
-**Tags:** #Psalm-Song-dedication-house-David-extol-LORD-lifted-foes-rejoice-LORD-GOD-cried-healed-brought-soul-grave-kept-alive-pit-sing-LORD-saints-give-thanks-remembrance-holiness-anger-endure-moment-favour-life-weeping-night-joy-morning #prosperity-never-moved-LORD-favour-mountain-stand-strong-hide-face-troubled-cried-LORD-supplication-profit-blood-pit-dust-praise-declare-truth-hear-LORD-mercy-helper-turned-mourning-dancing-put-sackcloth-girded-gladness #glory-sing-praise-silent-LORD-GOD-give-thanks-forever
+**Tags:** #thanksgiving-for-healing #god #morning-joy #dancing-for-gladness
 
 ---
 

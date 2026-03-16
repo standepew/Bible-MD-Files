@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Birth in Bethlehem, Messianic Ruler, Peace and Deliverance, Remnant's Victory
 
-**Tags:** #gather-troops-daughter-troops-laid-siege-smite-judge-Israel-rod-cheek-Beth-lehem-Ephratah-little-thousands-Judah-come-ruler-Israel-goings-old-everlasting-give-time-travaileth-brought-remnant-brethren-return-children-Israel-stand-feed-strength-LORD-majesty-name-LORD-God-abide-great-ends-earth-man-peace-Assyrian-land-tread-palaces-raise-seven-shepherds-eight-principal-men-waste-land-Assyria-sword-land-Nimrod-entrances-deliver-Assyrian-land-tread-borders-remnant-Jacob-midst-many-people-dew-LORD-showers-grass-tarrieth-man-waiteth-sons-men-remnant-Jacob-Gentiles-midst-many-people-lion-beasts-forest-young-lion-flocks-sheep-go-through-tread-tear-pieces-deliver-hand-lifted-adversaries-enemies-cut-day-LORD-cut-horses-midst-destroy-chariots-cut-cities-land-throw-strong-holds-cut-witchcrafts-hand-soothsayers-graven-images-cut-standing-images-midst-worship-work-hands-pluck-groves-midst-destroy-cities-execute-vengeance-anger-fury-heathen-heard
+**Tags:** #christ #messianic-ruler #peace-and-deliverance #remnant
 
 ---
 

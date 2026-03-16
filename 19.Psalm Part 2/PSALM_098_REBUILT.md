@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** New Song Victory, Divine Salvation, Universal Praise, Righteous Judgment
 
-**Tags:** #Psalm-sing-LORD-new-song-marvellous-things-right-hand-holy-arm-gotten-victory-LORD-made-known-salvation-righteousness-openly-shewed-sight-heathen-remembered-mercy-truth-house-Israel-ends-earth-seen-salvation-GOD-joyful-noise-LORD-earth-loud-noise-rejoice-sing-praise-sing-LORD-harp-voice-psalm-trumpets-sound-cornet-joyful-noise-LORD-King-sea-roar-fulness-world-dwell-floods-clap-hands-hills-joyful-LORD-cometh-judge-earth-righteousness-judge-world-people-equity
+**Tags:** #new-song-victory #divine-salvation #universal-praise #righteous-judgment
 
 ---
 

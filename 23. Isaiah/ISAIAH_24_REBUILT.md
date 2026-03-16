@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Kingdom, Earth's Judgment, Divine Reign, Christ's Glory
 
-**Tags:** #Behold-LORD-maketh-earth-empty-maketh-waste-turn-upside-scatter-abroad-inhabitants-people-priest-servant-master-maid-mistress-buyer-seller-lender-borrower-taker-usury-giver-usury-land-utterly-emptied-utterly-spoiled-LORD-spoken-word-earth-mourneth-fadeth-world-languisheth-fadeth-haughty-people-earth-languish-earth-defiled-inhabitants-transgressed-laws-changed-ordinance-broken-everlasting-covenant-curse-devoured-earth-dwell-desolate-inhabitants-earth-burned-few-men-left-new-wine-mourneth-vine-languisheth-merryhearted-sigh-mirth-tabrets-ceaseth-noise-rejoice-endeth-joy-harp-ceaseth-drink-wine-song-strong-drink-bitter-drink-city-confusion-broken-house-shut-man-may-come-crying-wine-streets-joy-darkened-mirth-land-city-left-desolation-gate-smitten-destruction-midst-land-people-shaking-olive-tree-gleaning-grapes-vintage-done-lift-voice-sing-majesty-LORD-cry-aloud-sea-glorify-LORD-fires-name-LORD-God-Israel-isles-sea-uttermost-part-earth-heard-songs-glory-righteous-leanness-woe-treacherous-dealers-dealt-treacherously-treacherous-dealers-dealt-very-treacherously-fear-pit-snarer-inhabitant-earth-flee-noise-fear-fall-pit-cometh-midst-pit-taken-snarre-windows-high-open-foundations-earth-shake-earth-utterly-broken-clean-dissolved-moved-exceedingly-earth-reel-fro-like-drunken-removed-like-cottage-transgression-heavy-fall-rise-again-day-LORD-punish-host-high-ones-high-kings-earth-earth-gathered-prisoners-gathered-pit-shut-prison-many-days-visited-moon-confounded-sun-ashamed-LORD-hosts-reign-mount-Zion-Jerusalem-ancients-gloriously
+**Tags:** #christ #earth #divine-reign
 
 ---
 

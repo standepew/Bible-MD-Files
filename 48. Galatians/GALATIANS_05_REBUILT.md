@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Liberty in Christ, Faith Working by Love, Walking in the Spirit, Fruit of the Spirit
 
-**Tags:** #Stand-fast-liberty-Christ-made-free-entangled-yoke-bondage-Behold-Paul-circumcised-Christ-profit-testify-circumcised-debtor-whole-law-Christ-effect-justified-law-fallen-grace-Spirit-wait-hope-righteousness-faith-Jesus-Christ-circumcision-availeth-uncircumcision-faith-worketh-love-run-obey-truth-persuasion-calleth-leaven-leaveneth-lump-confidence-Lord-minded-troubleth-judgment-persecution-preach-circumcision-offence-cross-ceased-cut-off-trouble-called-liberty-use-liberty-occasion-flesh-love-serve-law-fulfilled-word-love-neighbour-bite-devour-consumed-Walk-Spirit-fulfil-lust-flesh-flesh-lusteth-Spirit-Spirit-flesh-contrary-led-Spirit-law-works-flesh-manifest-Adultery-fornation-uncleanness-lasciviousness-Idolatry-witchcraft-hatred-variance-emulations-wrath-strife-seditions-heresies-Envyings-murders-drunkenness-revellings-inherit-kingdom-God-fruit-Spirit-love-joy-peace-longsuffering-gentleness-goodness-faith-Meekness-temperance-law-Christ-crucified-flesh-affections-lusts-live-Spirit-walk-Spirit-desirous-vain-glory-provoking-envying
+**Tags:** #liberty-in-christ #faith-working-by-love #walking-in-the-spirit #fruit-of-the-spirit
 
 ---
 

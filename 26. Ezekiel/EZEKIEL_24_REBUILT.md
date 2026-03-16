@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Judgment, Bloody City, Divine Sign, Christ's Silence
 
-**Tags:** #ninth-year-tenth-month-tenth-day-month-word-LORD-son-man-write-name-day-king-Babylon-set-Jerusalem-day-parable-rebellious-house-Lord-GOD-set-pot-pour-water-gather-pieces-good-piece-thigh-shoulder-fill-choice-bones-choice-flock-burn-bones-boil-seethe-bones-Lord-GOD-woe-bloody-city-pot-scum-scum-gone-bring-piece-lot-fall-blood-midst-set-top-rock-poured-ground-cover-dust-fury-vengeance-set-blood-top-rock-covered-Lord-GOD-woe-bloody-city-pile-fire-heap-wood-kindle-fire-consume-flesh-spice-bones-burned-set-empty-coals-brass-hot-burn-filthiness-molten-scum-consumed-wearied-lies-great-scum-scum-fire-filthiness-lewdness-purged-purged-filthiness-caused-fury-rest-Lord-GOD-spoken-come-pass-back-spare-repent-ways-doings-judge-Lord-GOD-word-LORD-son-man-desire-eyes-stroke-mourn-weep-tears-run-forbear-cry-mourning-dead-bind-tire-head-shoes-feet-cover-lips-bread-men-spoke-people-morning-even-wife-died-morning-commanded-people-tell-things-people-word-LORD-son-man-house-Israel-Lord-GOD-profane-sanctuary-excellency-strength-desire-eyes-soul-pitieth-sons-daughters-left-fall-sword-people-cover-lips-bread-men-tires-heads-shoes-feet-mourn-weep-pine-iniquities-mourn-Ezekiel-sign-according-son-man-strength-joy-glory-desire-eyes-minds-sons-daughters-escapeth-day-cause-hear-ears-day-mouth-opened-escaped-speak-dumb-sign-know-Lord-GOD
+**Tags:** #christ #bloody-city #divine-sign
 
 ---
 

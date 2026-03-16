@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Calling, Divine Refinement, Spiritual Affliction, Christ's Salvation
 
-**Tags:** #Hear-house-Jacob-called-name-Israel-come-waters-Judah-swear-name-LORD-mention-God-Israel-truth-righteousness-call-holy-city-stay-God-Israel-LORD-hosts-name-declared-former-things-beginning-went-mouth-shewed-suddenly-came-pass-knew-obstinate-neck-iron-sinew-brow-brass-beginning-declared-came-pass-shewed-lest-say-idol-graven-image-molten-image-commanded-heard-shew-new-things-time-hidden-things-knew-created-beginning-day-heardest-not-knew-ear-opened-knew-deal-treacherously-called-transgressor-womb-name-sake-defer-anger-praise-refrain-cut-refined-silver-chosen-furnace-affliction-sake-sake-polluted-name-give-glory-another-Hearken-Jacob-Israel-called-I-first-last-laid-foundation-earth-right-hand-spanned-heavens-call-stand-assemble-hear-declared-things-LORD-loved-pleasure-Babylon-arm-Chaldeans-spoken-called-brought-make-way-prosperous-Come-near-hear-spoken-secret-beginning-time-Lord-GOD-Spirit-sent-LORD-Redeemer-Holy-One-Israel-LORD-God-teacheth-profit-lead-way-shouldest-hearkened-commandments-peace-river-righteousness-waves-seed-sand-offspring-bowels-gravel-name-cut-destroyed-Go-forth-Babylon-flee-Chaldeans-voice-singing-declare-utter-end-earth-say-LORD-redeemed-servant-Jacob-thirsted-led-deserts-waters-flow-rock-clave-rock-waters-gushed-peace-wicked
+**Tags:** #christ #divine-refinement #spiritual-affliction
 
 ---
 

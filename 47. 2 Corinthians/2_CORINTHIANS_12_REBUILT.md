@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Paul's Revelations, The Thorn in the Flesh, Divine Grace, The Signs of an Apostle
 
-**Tags:** #expedient-glory-visions-revelations-Lord-knew-man-Christ-fourteen-years-body-tell-body-tell-God-knoweth-caught-third-heaven-caught-paradise-heard-unspeakable-words-lawful-utter-glory-infirmities-desire-glory-fool-say-truth-forbear-think-seeth-heareth-abundance-revelations-thorn-flesh-messenger-Satan-buffet-exalted-besought-Lord-thrice-depart-said-grace-sufficient-strength-made-perfect-weakness-glady-glory-infirmities-power-Christ-rest-pleasure-infirmities-reproaches-necessities-persecutions-distresses-Christ-sake-weak-strong-fool-glorying-compelled-commended-behind-chiefest-apostles-nothing-signs-apostle-wrought-patience-signs-wonders-mighty-deeds-inferior-churches-burdensome-forgive-wrong-third-time-ready-burdensome-seek-yours-children-lay-parents-parents-children-gladly-spend-spent-abundantly-love-loved-crafty-caught-guile-gain-sent-Titus-brother-Titus-gain-same-spirit-same-steps-excuse-speak-God-Christ-things-edifying-fear-find-would-found-would-debates-envyings-wraths-strifes-backbitings-whisperings-swellings-tumults-humble-bewail-sinned-repented-uncleanness-fornication-lasciviousness-committed
+**Tags:** #paul #the-thorn-in-the-flesh #divine-grace #the-signs-of-an-apostle
 
 ---
 

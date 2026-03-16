@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Eliphaz's Counsel, Retribution Principle, Divine Vision, Human Frailty
 
-**Tags:** #Eliphaz-Temanite-answered-commune-grieved-withhold-speaking #instructed-strengthened-weak-hands #words-upheld-falling-strengthened-feeble-knees #come-faint-troubled #fear-confidence-hope-uprightness-ways #remember-perished-innocent-righteous-cut-off #plow-iniquity-sow-wickedness-reap #blast-GOD-perish-breath-nostrils-consumed #roaring-lion-voice-fierce-lion-teeth-young-lions-broken #old-lion-perish-lack-prey-stout-lion-whelps-scattered #thing-secretly-ear-received #thoughts-visions-night-deep-sleep-fallen-men #Fear-trembling-bones-shake #spirit-passed-face-hair-flesh-stood #stood-discern-form-image-eyes-silence-voice #mortal-man-just-GOD-man-pure-maker #trust-servants-angels-charged-folly #dwell-houses-clay-foundation-dust-crushed-moth #destroyed-morning-evening-perish-regarding #excellency-die-wisdom
+**Tags:** #instructed-strengthened-weak-hands #come-faint-troubled #fear-confidence-hope-uprightness-ways #plow-iniquity-sow-wickedness-reap #thing-secretly-ear-received #Fear-trembling-bones-shake #trust-servants-angels-charged-folly #destroyed-morning-evening-perish-regarding #excellency-die-wisdom #eliphaz #retribution-principle #divine-vision #human-frailty
 
 ---
 

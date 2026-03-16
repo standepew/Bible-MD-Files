@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Joyful Praise, God's Works, Divine Testing, Grateful Worship
 
-**Tags:** #chief-Musician-Song-Psalm-Make-joyful-noise-GOD-lands-Sing-honour-name-make-praise-glorious-GOD-terrible-works-greatness-power-enemies-submit-earth-worship-sing-name-Selah-Come-works-GOD-terrible-doing-children-men-turned-sea-dry-land-went-flood-foot-rejoined-ruleth-power-forever-eyes-behold-nations-rebellious-exalt-bless-GOD-people-voice-praise-heard-holdeth-soul-life-suffered-feet-moved-GOD-proved-tried-silver-brought-net-laid-affliction-loins-caused-men-ride-heads-went-fire-water-brought-wealthy-place-house-burnt-offerings-pay-vows-lips-uttered-mouth-spoken-trouble-offer-burnt-sacrifices-fatlings-incense-rams-offer-bullocks-goats-Selah-Come-hear-fear-GOD-declare-soul-cried-mouth-extolled-tongue-regard-iniquity-heart-LORD-hear-verily-GOD-heard-attended-voice-prayer-Blessed-GOD-turned-away-prayer-mercy
+**Tags:** #joyful-praise #god #divine-testing #grateful-worship
 
 ---
 

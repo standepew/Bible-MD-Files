@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Royal Wisdom, Virtuous Woman, Justice and Mercy, Divine Praise
 
-**Tags:** #words-king-Lemuel-prophecy-mother-taught-son-son-womb-son-vows-strength-women-ways-destroy-kings-kings-Lemuel-kings-drink-wine-princes-strong-drink-Lest-drink-forget-law-pervert-judgment-afflicted-strong-drink-ready-perish-wine-heavy-hearts-drink-forget-poverty-remember-misery-Open-mouth-dumb-cause-appointed-destruction-Open-mouth-judge-righteously-plead-cause-poor-needy-virtuous-woman-price-far-rubies-heart-husband-safely-trust-need-spoil-good-evil-days-life-seeketh-wool-flax-worketh-willingly-hands-like-merchants-ships-bring-food-afar-riseth-night-giveth-meat-household-portion-maidens-considereth-field-buyeth-fruit-hands-planteth-vineyard-girdeth-loins-strength-strengtheneth-arms-perceiveth-merchandise-good-candle-night-layeth-hands-spindle-hands-hold-distaff-stretcheth-hand-poor-reacheth-needy-afraid-snow-household-household-clothed-scarlet-maketh-coverings-tapestry-clothing-silk-purple-husband-known-gates-sitteth-elders-land-maketh-fine-linen-selleth-delivereth-girdles-merchant-Strength-honour-clothing-rejoice-time-open-mouth-wisdom-tongue-law-kindness-look-well-ways-household-eat-bread-idleness-children-arise-call-blessed-husband-praiseth-daughters-done-virtuously-excellest-favour-deceitful-beauty-vain-woman-feareth-LORD-praised-fruit-hands-works-praise-gates
+**Tags:** #royal-wisdom #virtuous-woman #justice-and-mercy #divine-praise
 
 ---
 

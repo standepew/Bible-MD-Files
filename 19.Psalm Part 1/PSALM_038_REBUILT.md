@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Suffering for Sin, Divine Chastening, Confession, Prayer for Help
 
-**Tags:** #Psalm-David-remembrance-LORD-rebuke-wrath-chasten-hot-displeasure-arrows-stick-hand-presseth-sore-soundness-flesh-anger-rest-bones-sin-iniquities-gone-head-heavy-burden-wounds-stink-corrupt-foolishness-troubled-bowed-mourning-day-loins-filled-loathsome-disease-soundness-flesh-feeble-sore-broken-roared-disquietness-heart #Lord-desire-groaning-hidden-heart-panteth-strength-faileth-light-eyes-gone-lovers-friends-stand-aloof-sore-kinsmen-stand-afar-seek-life-lay-snares-seek-hurt-speak-mischievous-imagine-deceits-day-long-deaf-dumb-mouth-open-reproofs-man-heareth-mouth-reproofs-hope-LORD-hear-Lord-GOD-said-Hear-rejoice-foot-slippeth-magnify-ready-halt-sorrow-continually #declare-iniquity-sorry-sin-enemies-lively-strong-hate-wrongfully-multiplied-render-evil-good-adversaries-follow-good-forsake-LORD-GOD-far-make-haste-help-Lord-salvation
+**Tags:** #suffering-for-sin #divine-chastening #confession #prayer-for-help
 
 ---
 

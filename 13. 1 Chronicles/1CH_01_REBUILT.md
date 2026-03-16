@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Genealogies from Adam to Abraham, Descendants of Noah, Descendants of Shem, Descendants of Ham, Descendants of Japheth, Table of Nations
 
-**Tags:** #Adam-Sheth-Enosh-Kenan-Mahalaleel-Jared-Enoch-Methuselah-Lamech-Noah #Shem-Ham-Japheth #sons-Japheth-Gomer-Magog-Madai-Javan-Tubal-Meshech-Tiras #sons-Ham-Cush-Mizraim-Phut-Canaan #Cush-Seba-Havilah-Sabtah-Raamah-Sabtecah-Nimrod #Mizraim-Ludim-Anamim-Lehabim-Naphtuhim #Phut-Canaan-Sidon-Heth-Amorite-Arkite-Hamathite-Zemarite-Hamathite #sons-Canaan-Zidon-Heth-Jebusite-Amorite-Girgashite-Hivite-Arkite-Sinite-Arvadite-Zemarite-Hamathite #sons-Shem-Elam-Asshur-Arphaxad-Lud-Aram-Uz-Hul-Gether-Meshech #Arphaxad-Shelah-Eber-Peleg-Reu-Serug-Nahor-Terah #Abraham-Nahor-Haran #sons-Abraham-Ishmael-Jokshan-Medan-Midian-Ishbak-Shuah #sons-Midian-Ephah-Epher-Hanoch-Abida-Elda-Elu-Ephah #sons-Keturah-Abram-Abraham #sons-Abraham-Isaac-Ishmael-Jokshan-Medan-Midian-Ishbak-Shuah #sons-Keturah-Abram-Abraham
+**Tags:** #Shem-Ham-Japheth #Mizraim-Ludim-Anamim-Lehabim-Naphtuhim #Abraham-Nahor-Haran #sons-Keturah-Abram-Abraham #genealogies-from-adam-to-abraham #descendants-of-noah #descendants-of-shem #descendants-of-ham #descendants-of-japheth #table-of-nations
 
 ---
 

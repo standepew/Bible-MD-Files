@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** King's Victory, God's Blessings, Eternal Life, Judgment on Enemies
 
-**Tags:** #chief-Musician-Psalm-David-king-joy-strength-LORD-salvation-greatly-rejoice-given-heart-desire-withholden-request-lips-Selah-preventest-blessings-goodness-set-crown-pure-gold-head-asked-life-gavest-length-days-forever #glory-great-salvation-honour-majesty-laid-blessed-forever-exceeding-glad-countenance-king-trusteth-LORD-mercy-Highest-moved-hand-find-enemies-right-hand-hate-fiery-oven-time-anger-LORD-swallow-wrath-fire-devour #fruit-destroy-earth-seed-children-men-intended-evil-imagined-mischievous-device-perform-turn-back-ready-arrows-strings-face-exalted-LORD-strength-sing-praise-power
+**Tags:** #king #god #eternal-life #judgment-on-enemies
 
 ---
 

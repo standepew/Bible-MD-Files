@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Death and Destiny, Wisdom and Folly, Divine Sovereignty, Life's Opportunities
 
-**Tags:** #considered-heart-declare-righteous-wise-works-hand-God-man-knoweth-love-hatred-things-come-alike-righteous-wicked-good-clean-unclean-sacrificeth-sacrificeth-good-sinner-sweareth-feareth-oath-evil-things-done-sun-event-righteous-wicked-good-clean-unclean-sacrificeth-sacrificeth-good-sinner-sweareth-feareth-oath-evil-things-done-sun-event-righteous-wicked-heart-sons-men-full-evil-madness-heart-live-dead-know-thing-reward-memory-forgotten-love-hatred-envy-perished-portion-forever-thing-done-sun-joined-living-hope-living-dog-better-dead-lion-living-know-die-dead-know-thing-reward-memory-forgotten-love-hatred-envy-perished-portion-forever-thing-done-sun-way-eat-bread-joy-drink-wine-merry-heart-God-accept-works-garments-always-white-head-lack-ointment-Live-joyfully-wife-lovest-days-life-vanity-given-sun-days-life-vanity-portion-life-labour-takest-sun-hand-find-might-grave-whither-goest-returned-saw-race-swift-battle-strong-bread-wise-riches-men-understanding-favour-men-skill-time-chance-happeneth-know-time-fishes-evil-net-birds-caught-snare-sons-men-snared-evil-time-falleth-suddenly-wisdom-seen-sun-seemed-great-little-city-few-men-within-great-king-against-besieged-built-great-bulwarks-found-poor-wise-man-wisdom-delivered-city-man-remembered-poor-man-Wisdom-better-strength-poor-man-wisdom-despised-words-heard-quiet-cry-ruler-fools-Words-wise-men-heard-quiet-cry-ruler-fools-Wisdom-better-weapons-war-sinner-destroy-much-good
+**Tags:** #death-and-destiny #wisdom-and-folly #divine-sovereignty #life
 
 ---
 

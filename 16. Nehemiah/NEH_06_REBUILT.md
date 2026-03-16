@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Wall Completed, Final Opposition, False Prophets, Internal Compromise
 
-**Tags:** #Sanballat-Tobiah-Geshem-Arabian-enemies-heard-builded-wall-breach-left-doors-gates #Sanballat-Geshem-messengers-meet-villages-plain-Ono-mischief #messengers-great-work-come-cease-work-come-down #four-times-manner #Sanballat-servant-fifth-time-open-letter #written-reported-heathen-Gashmu-Jews-rebel-build-wall-king #appointed-prophets-preach-Jerusalem-king-Judah-reported-king-counsel #sent-things-feignest-heart #afraid-hands-weakened-work-done-GOD-strengthen-hands #house-Shemaiah-son-Delaiah-son-Mehetabeel-shut-house-GOD-temple-shut-doors-temple-slay-night-slay #flee-man-temple-save-life #perceived-GOD-sent-pronounced-prophecy-Tobiah-Sanballat-hired #hired-afraid-sin-matter-evil-report-reproach #God-think-Tobiah-Sanballat-works-prophetess-Noadiah-prophets-fear #wall-finished-twenty-fifth-day-month-Elul-fifty-two-days #enemies-heard-heathen-cast-eyes-perceived-work-wrought-GOD #nobles-Judah-letters-Tobiah-letters-Tobiah #Judah-sworn-son-in-law-Shechaniah-son-Arah-son-Johanan-daughter-Meshullam-son-Berechiah #reported-good-deeds-uttered-words-Tobiah-letters-fear
+**Tags:** #four-times-manner #sent-things-feignest-heart #flee-man-temple-save-life #wall-completed #final-opposition #false-prophets #internal-compromise
 
 ---
 

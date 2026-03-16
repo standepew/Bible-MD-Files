@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** The Day of Christ, The Man of Sin, The Restrainer, The Deception of the Wicked, Salvation of the Elect
 
-**Tags:** #beseech-brethren-coming-Lord-Jesus-Christ-gathering-shaken-mind-troubled-spirit-word-letter-day-Christ-hand-deceive-coming-falling-away-man-sin-revealed-son-perdition-opposeth-exalteth-called-God-worshipped-sitteth-temple-God-shewing-God-remember-told-withholdeth-revealed-time-mystery-iniquity-work-letteth-taken-way-Wicked-revealed-Lord-consume-spirit-mouth-destroy-brightness-coming-working-Satan-power-signs-lying-wonders-deceivableness-unrighteousness-perish-received-love-truth-saved-God-send-strong-delusion-believe-lie-damned-believed-truth-pleasure-unrighteousness-bound-thanks-God-brethren-beloved-Lord-God-beginning-chosen-salvation-sanctification-Spirit-belief-truth-called-gospel-obtaining-glory-Lord-Jesus-Christ-stand-fast-hold-traditions-taught-word-epistle-Lord-Jesus-Christ-God-Father-loved-given-everlasting-consolation-good-hope-grace-Comfort-hearts-stablish-good-word-work
+**Tags:** #the-day-of-christ #the-man-of-sin #the-restrainer #the-deception-of-the-wicked #salvation-of-the-elect
 
 ---
 

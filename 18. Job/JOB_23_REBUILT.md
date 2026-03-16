@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Job's Response, Desire for God, Divine Hiddenness, Faithful Obedience
 
-**Tags:** #Job-answered-complaint-bitter-stroke-heavier-groaning #knew-find-seat-order-cause-mouth-arguments #know-words-answer-understand-say #plead-great-power-strength-delivered-judge #forward-backward-perceive-left-hand-work-behold-right-hand-hideth #knoweth-way-tried-gold-foot-held-steps-way-kept-declined #gone-back-commandment-lips-esteemed-words-mouth-necessary-food #mind-turn-soul-desireth-performeth-appointed-troubleth-presence-afraid #God-heart-soft-Almighty-troubleth-cut-off-darkness-covered-face
+**Tags:** #know-words-answer-understand-say #job #desire-for-god #divine-hiddenness #faithful-obedience
 
 ---
 

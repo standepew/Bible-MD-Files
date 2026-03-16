@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Divine Wisdom and Human Limitation, God's Sovereignty, Moral Corruption, Natural Wisdom
 
-**Tags:** #words-Agur-son-Jakeh-prophecy-man-spake-Ithiel-Ithiel-Ucal-brutish-man-understanding-man-learned-wisdom-knowledge-holy-ascended-heaven-descended-gathered-wind-fists-bound-waters-garment-established-ends-earth-name-son-name-tell-word-God-pure-shield-trust-Add-words-reprove-found-liar-things-required-deny-die-Remove-far-vanity-lies-give-poverty-riches-feed-food-convenient-Lest-full-deny-say-Who-LORD-poor-steal-name-God-vain-Accuse-servant-master-curse-guilty-generation-curse-father-bless-mother-generation-pure-eyes-washed-filthiness-generation-lofty-eyes-eyelids-lifted-generation-teeth-swords-jaw-teeth-knives-devour-poor-earth-needy-men-horseleach-daughters-crying-Give-things-satisfied-four-say-grave-barren-womb-earth-filled-water-fire-say-mocketh-father-despiseth-obey-mother-ravens-valley-pick-eagles-eat-three-things-too-wonderful-four-know-way-eagle-air-serpent-rock-ship-midst-sea-man-maid-way-adulterous-woman-eat-wipeth-mouth-done-wickedness-three-things-earth-disquieted-four-bear-servant-reigns-fool-filled-meat-odious-woman-married-handmaid-heir-mistress-four-things-little-earth-exceeding-wise-ants-people-strong-prepare-meat-summer-conies-feeble-folk-houses-rocks-locusts-king-bands-spider-hands-kings-palaces-three-things-go-well-four-comely-going-lion-strongest-beasts-turn-rising-greyhound-he-goat-king-rising-lifted-thyself-foolishly-lifting-hand-mouth-churning-milk-butter-wringing-nose-blood-forcing-wrath-strife
+**Tags:** #divine-wisdom-and-human-limitation #god #moral-corruption #natural-wisdom
 
 ---
 

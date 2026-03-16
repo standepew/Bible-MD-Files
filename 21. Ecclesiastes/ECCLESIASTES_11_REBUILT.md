@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Generosity and Investment, Divine Sovereignty, Human Limitations, Life and Light
 
-**Tags:** #Cast-bread-waters-find-days-Give-portion-seven-eight-knowest-evil-earth-clouds-full-rain-empty-earth-tree-fall-south-north-place-tree-falleth-observeth-wind-sow-regardeth-clouds-reap-knowest-way-spirit-bones-grow-womb-child-even-knowest-works-God-maketh-morning-sow-seed-evening-withhold-hand-knowest-prosper-alike-good-Truly-light-sweet-pleasant-thing-eyes-behold-sun-man-live-years-rejoice-remember-days-darkness-many-cometh-vanity-Rejoice-young-man-youth-heart-cheer-days-youth-walk-ways-heart-sight-eyes-know-things-God-bring-judgment-remove-sorrow-heart-put-evil-flesh-childhood-youth-vanity
+**Tags:** #generosity-and-investment #divine-sovereignty #human-limitations #life-and-light
 
 ---
 

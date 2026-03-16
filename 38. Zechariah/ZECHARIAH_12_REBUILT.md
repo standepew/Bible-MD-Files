@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Divine Protection, Jerusalem's Defense, Pierced Savior, Great Mourning
 
-**Tags:** #burden-word-LORD-Israel-LORD-stretcheth-heavens-layeth-foundation-earth-formeth-spirit-man-within-Behold-Jerusalem-cup-trembling-people-round-siege-Judah-Jerusalem-day-Jerusalem-burdensome-stone-people-burden-cut-pieces-people-earth-gathered-day-LORD-smite-horse-astonishment-rider-madness-open-eyes-house-Judah-smite-horse-people-blindness-governors-Judah-heart-inhabitants-Jerusalem-strength-LORD-hosts-God-day-governors-Judah-hearth-fire-wood-torch-fire-sheaf-devour-people-round-right-left-Jerusalem-inhabited-place-Jerusalem-LORD-save-tents-Judah-glory-house-David-glory-inhabitants-Jerusalem-magnify-Judah-day-LORD-defend-inhabitants-Jerusalem-feeble-day-David-house-David-God-angel-LORD-day-seek-destroy-nations-Jerusalem-pour-house-David-inhabitants-Jerusalem-spirit-grace-supplications-look-pierced-mourn-only-son-bitterness-firstborn-day-great-mourning-Jerusalem-mourning-Hadadrimmon-valley-Megiddon-land-mourn-family-apart-family-house-David-apart-wives-apart-family-house-Nathan-apart-wives-apart-family-house-Levi-apart-wives-apart-family-Shimei-apart-wives-apart-families-remain-family-apart-wives-apart
+**Tags:** #christ #jerusalem #pierced-savior #great-mourning
 
 ---
 

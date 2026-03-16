@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Ensign, Divine Harvest, Spiritual Rest, Christ's Glory
 
-**Tags:** #Woe-land-shadowing-wings-beyond-rivers-Ethiopia-send-ambassadors-sea-vessels-bulrushes-waters-saying-swift-messengers-nation-scattered-peeled-people-terrible-beginning-hitherto-nation-meted-trodden-land-rivers-spoiled-inhabitants-world-dwellers-earth-see-lifteth-ensign-mountains-bloweth-trumpet-hear-LORD-rest-consider-dwelling-place-clear-heat-herbs-cloud-dew-heat-harvest-afore-harvest-bud-perfect-sour-grape-ripening-flower-cut-sprigs-pruning-hooks-take-cut-branches-left-fowls-mountains-beasts-earth-fowls-summer-beasts-earth-winter-time-present-brought-LORD-hosts-people-scattered-peeled-people-terrible-beginning-hitherto-nation-meted-trodden-foot-land-rivers-spoiled-place-name-LORD-hosts-mount-Zion
+**Tags:** #christ #divine-harvest #spiritual-rest
 
 ---
 

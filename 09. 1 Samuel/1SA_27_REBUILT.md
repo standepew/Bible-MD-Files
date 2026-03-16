@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** David Flees to Philistines, Life with Achish, Ziklag Given, Deceptive Raids, Achish's Trust
 
-**Tags:** #David-heart-perish-day-hand-Saul-escape-land-Philistines-Saul-despair-seek-coast-Israel-escape-hand #David-arose-six-hundred-men-Achish-son-Maoch-king-Gath #David-dwelt-Achish-Gath-men-household-David-two-wives-Ahinoam-Jezreelitess-Abigail-Carmelitess-Nabal-wife #Saul-David-fled-Gath-sought #David-Achish-grace-eyes-place-town-country-dwell-royal-city #Achish-Ziklag-day-Ziklag-pertaineth-kings-Judah-day #time-David-dwelt-country-Philistines-full-year-four-months #David-men-invaded-Geshurites-Gezrites-Amalekites-nations-inhabitants-land-Shur-land-Egypt #David-smote-land-left-man-woman-alive-sheep-oxen-asses-camels-apparel-returned-Achish #Achish-road-David-south-Judah-south-Jerahmeelites-south-Kenites #David-saved-man-woman-alive-tidings-Gath-tell-David-manner-dwelt-country-Philistines #Achish-believed-David-people-Israel-utterly-abhor-servant-forever
+**Tags:** #Saul-David-fled-Gath-sought #david-flees-to-philistines #life-with-achish #ziklag-given #deceptive-raids #achish
 
 ---
 

@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Wisdom's Feast, Folly's Trap, Understanding vs. Scorn, Life vs. Death
 
-**Tags:** #Wisdom-builded-house-hewn-seven-pillars-killed-beasts-mingled-wine-furnished-table-sent-forth-maidens-crieth-highest-places-city-simple-turn-hither-wanteth-understanding-saith-Come-eat-bread-drink-wine-mingled-Forsake-foolish-live-way-understanding-reproveth-scorner-getteth-shame-rebuketh-wicked-man-getteth-blot-reprove-scorner-hate-rebuke-wise-man-love-instruction-wise-man-wiser-teach-just-man-increase-learning-fear-LORD-beginning-wisdom-knowledge-holy-understanding-days-multiplied-years-life-increased-wise-wise-scornest-alone-bear-foolish-woman-clamorous-simple-knoweth-sitteth-door-house-seat-high-places-city-call-passengers-right-ways-simple-turn-hither-wanteth-understanding-saith-Stolen-waters-sweet-bread-eaten-secret-pleasant-knoweth-dead-guests-depths-hell
+**Tags:** #wisdom #folly #understanding-vs-scorn #life-vs-death
 
 ---
 

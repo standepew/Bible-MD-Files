@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Elijah's Despair, Divine Encouragement, Horeb Encounter, Still Small Voice, Elisha's Call
 
-**Tags:** #Ahab-Jezebel-Elijah-slain-prophets-sword #Jezebel-messenger-Elijah-gods-life-life-tomorrow #life-went-life-Beer-sheba-Judah-servant #day-journey-wilderness-sat-juniper-tree-requested-die-enough-LORD-life-fathers #slept-juniper-tree-angel-touched-Arise-eat #cake-baken-coals-cruse-water-head-ate-drink-laid #angel-LORD-second-time-touched-Arise-eat-journey-great #arose-ate-drink-strength-meat-forty-days-forty-nights-Horeb-mount-God #cave-lodged-word-LORD-came-What-doest-Elijah #jealous-LORD-GOD-hosts-children-Israel-forsaken-covenant-thrown-altars-slain-prophets-sword-left-seek-life-take #Go-stand-mount-LORD-passed-great-strong-wind-rent-mountains-brake-rocks-LORD-wind-earthquake-LORD-earthquake-fire-LORD-fire-still-small-voice #heard-wrapped-face-mantle-stand-entering-cave-voice-What-doest-Elijah #jealous-LORD-GOD-hosts-children-Israel-forsaken-covenant-thrown-altars-slain-prophets-sword-left-seek-life-take #LORD-return-wilderness-Damascus-anoint-Hazael-king-Syria #Jehu-son-Nimshi-anoint-king-Israel-Elisha-son-Shaphat-Abel-meholah-anoint-prophet-room #escapeth-sword-Hazael-Jehu-slay-escapeth-sword-Jehu-Elisha-slay #left-seven-thousand-Israel-knees-bowed-Baal-mouth-kissed #departed-found-Elisha-son-Shaphat-plowing-twelve-yoke-oxen-twelfth-Elijah-passed-cast-mantle #left-oxen-ran-Elijah-kiss-father-mother-follow-Go-back-done #returned-yoke-oxen-slew-boiled-flesh-instruments-oxen-people-ate-arose-Elijah-ministered
+**Tags:** #elijah #divine-encouragement #horeb-encounter #still-small-voice #elisha
 
 ---
 

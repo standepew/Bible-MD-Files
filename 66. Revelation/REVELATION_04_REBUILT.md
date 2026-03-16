@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** The Heavenly Throne Room, The Four and Twenty Elders, The Four Living Creatures, Worship Around the Throne
 
-**Tags:** #door-opened-heaven-voice-trumpet-talking-Come-shew-things-hereafter-immediately-spirit-throne-set-heaven-sat-throne-sat-jasper-sardine-stone-rainbow-round-throne-emerald-round-throne-four-twenty-seats-four-twenty-elders-sitting-clothed-white-raiment-heads-crowns-gold-throne-proceeded-lightnings-thunderings-voices-seven-lamps-fire-burning-throne-seven-Spirits-God-throne-sea-glass-crystal-midst-throne-round-throne-four-beasts-full-eyes-first-beast-lion-second-beast-calf-third-beast-face-man-fourth-beast-flying-eagle-beasts-six-wings-full-eyes-rest-day-night-Holy-holy-holy-Lord-God-Almighty-liveth-beasts-glory-honour-thanks-sat-throne-liveth-elders-fall-sat-throne-worship-liveth-cast-crowns-throne-worthy-Lord-receive-glory-honour-power-created-pleasure-created
+**Tags:** #the-heavenly-throne-room #the-four-and-twenty-elders #the-four-living-creatures #worship-around-the-throne
 
 ---
 

@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Messiah's Reign, Nations' Rebellion, Divine Decree, Son's Dominion
 
-**Tags:** #heathen-rage-people-imagine-vain-kings-earth-set-rulers-counsel-together-LORD-anointed-break-bands-cast-cords-heavens-laugh-derision-wrath-displeasure #set-king-holy-hill-Zion-declare-decree-LORD-Son-begotten-ask-heathen-inheritance-uttermost-earth-possession-break-rod-iron-dash-pieces-potter-vessel #wise-kings-instructed-judges-earth-serve-LORD-fear-rejoice-trembling-kiss-Son-angry-perish-way-wrath-kindled-blessed-trust
+**Tags:** #messiah #nations #divine-decree #son
 
 ---
 

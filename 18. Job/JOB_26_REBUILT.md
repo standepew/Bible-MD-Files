@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Job's Response, God's Power, Creation's Order, Divine Mystery
 
-**Tags:** #Job-answered-helped-without-power-saved-arm-strength #counselled-wisdom-plentifully-declared-thing-uttered-words-spirit #dead-things-formed-waters-inhabitants #hell-naked-destruction-covering #stretcheth-north-empty-place-hangeth-earth-nothing #bindeth-waters-thick-clouds-rent #holdeth-face-throne-spreadeth-cloud #compassed-waters-bounds-day-night-end #pillars-heaven-tremble-astonished-reproof #divideth-sea-power-understanding-smiteth-proud #spirit-garnished-heavens-hand-formed-crooked-serpent #parts-ways-little-portion-heard-thunder-power-understand
+**Tags:** #dead-things-formed-waters-inhabitants #hell-naked-destruction-covering #bindeth-waters-thick-clouds-rent #holdeth-face-throne-spreadeth-cloud #pillars-heaven-tremble-astonished-reproof #job #god #creation #divine-mystery
 
 ---
 

@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Immanuel, Divine Protection, Faith vs. Fear, Spiritual Testimony
 
-**Tags:** #LORD-great-roll-write-man-pen-concerning-Maher-shalal-hash-baz-faithful-witnesses-record-Uriah-priest-Zechariah-son-Jeberechiah-prophetess-conceived-bare-son-LORD-Call-Maher-shalal-hash-baz-child-knowledge-cry-father-mother-riches-Damascus-spoil-Samaria-taken-king-Assyria-LORD-spake-people-refuseth-waters-Shiloah-softly-rejoice-Rezin-Remaliah-son-behold-Lord-bringeth-waters-river-strong-king-Assyria-glory-come-channels-banks-pass-Judah-overflow-reach-neck-stretching-wings-fill-breadth-land-Immanuel-Associate-people-broken-pieces-give-ear-far-countries-gird-broken-pieces-counsel-together-nought-speak-word-stand-God-LORD-spake-strong-hand-instructed-walk-way-people-saying-confederacy-people-confederacy-fear-fear-afraid-Sanctify-LORD-hosts-fear-dread-sanctuary-stone-stumbling-rock-offence-houses-Israel-gin-snare-inhabitants-Jerusalem-stumble-fall-broken-snared-taken-bind-testimony-seal-law-disciples-wait-LORD-hideth-face-house-Jacob-children-LORD-signs-wonders-Israel-LORD-hosts-dwelleth-mount-Zion-Say-familiar-spirits-wizards-peep-mutter-people-seek-God-living-dead-law-testimony-speak-word-light-pass-hungry-fret-curse-king-God-look-earth-trouble-darkness-dimness-anguish-driven-darkness
+**Tags:** #christ #divine-protection #faith-vs-fear #spiritual-testimony
 
 ---
 

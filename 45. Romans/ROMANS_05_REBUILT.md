@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Peace with God, Joy in Tribulation, Adam and Christ, Grace Abounds
 
-**Tags:** #justified-faith-peace-God-Lord-Jesus-Christ-access-faith-grace-stand-rejoice-hope-glory-God-glory-tribulations-tribulation-worketh-patience-patience-experience-experience-hope-hope-ashamed-love-God-shed-abroad-hearts-Holy-Ghost-given-without-strength-time-Christ-died-ungodly-righteous-die-good-dare-die-commendeth-love-sinners-Christ-died-justified-blood-saved-wrath-enemies-reconciled-God-death-Son-reconciled-saved-life-joy-God-Lord-Jesus-Christ-received-atonement-man-sin-entered-world-death-sin-death-passed-men-sinned-law-sin-world-sin-imputed-law-death-reigned-Adam-Moses-sinned-similitude-Adam-transgression-figure-offence-free-gift-offence-dead-grace-God-gift-grace-man-Jesus-Christ-abounded-sinned-gift-judgment-condemnation-free-gift-offences-justification-man-offence-death-reigned-receive-abundance-grace-gift-righteousness-reign-life-Jesus-Christ-offence-judgment-men-condemnation-righteousness-free-gift-men-justification-life-disobedience-sinners-obedience-righteous-law-entered-offence-abound-sin-abounded-grace-abounded-sin-reigned-death-grace-reign-righteousness-eternal-life-Jesus-Christ-Lord
+**Tags:** #peace-with-god #joy-in-tribulation #adam-and-christ #grace-abounds
 
 ---
 

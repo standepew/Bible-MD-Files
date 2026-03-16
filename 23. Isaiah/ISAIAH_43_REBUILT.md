@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Redemption, Divine Presence, Spiritual Protection, Christ's Creation
 
-**Tags:** #LORD-created-Jacob-formed-Israel-Fear-redeemed-called-name-mine-passest-waters-rivers-overflow-walkest-fire-burned-flame-kindle-LORD-God-Holy-One-Israel-Saviour-gave-Egypt-ransom-Ethiopia-Seba-precious-sight-honourable-loved-give-men-people-life-Fear-bring-seed-east-gather-west-say-north-Give-south-Keep-back-bring-sons-far-daughters-ends-earth-called-name-created-glory-formed-made-Bring-blind-people-eyes-deaf-ears-nations-gathered-people-assembled-declare-shew-former-things-witnesses-justify-hear-truth-witnesses-LORD-servant-chosen-know-believe-understand-formed-God-formed-saviour-beside-saviour-declared-saved-shewed-strange-god-witnesses-God-day-LORD-saviour-deliver-hand-LORD-redeemer-Holy-One-Israel-sake-sent-Babylon-brought-nobles-Chaldeans-cry-ships-LORD-Holy-One-creator-Israel-King-LORD-way-sea-path-mighty-waters-bring-chariot-horse-army-power-lie-rise-extinguished-towed-Remember-former-things-consider-old-new-thing-spring-forth-know-way-wilderness-rivers-desert-beast-field-honour-dragons-owls-give-waters-wilderness-rivers-desert-drink-people-chosen-formed-shew-praise-called-mine-servant-chosen-cast-not-called-upon-Jacob-weary-Israel-brought-small-cattle-burnt-offerings-honoured-sacrifices-caused-serve-offering-wearied-incense-bought-sweet-cane-money-filled-fat-sacrifices-made-serve-sins-wearied-iniquities-blot-transgressions-sake-remember-sins-remembrance-plead-together-declare-justified-first-father-sinned-teachers-transgressed-profaned-princes-sanctuary-given-Jacob-curse-Israel-reproaches
+**Tags:** #christ #divine-presence #spiritual-protection
 
 ---
 

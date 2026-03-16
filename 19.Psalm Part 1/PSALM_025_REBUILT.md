@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Prayer for Guidance, Divine Mercy, Sin Confession, Trust in God
 
-**Tags:** #Psalm-David-lift-soul-LORD-trust-ashamed-enemies-triumph-wait-ashamed-transgress-cause-shew-ways-teach-paths-lead-truth-teach-GOD-salvation-wait-day-remember-tender-mercies-lovingkindnesses-old #sins-youth-transgressions-mercy-remember-goodness-good-upright-teach-sinners-way-meek-guide-judgment-teach-way-paths-mercy-truth-keep-covenant-testimonies-name-sake-pardon-iniquity-great-man-feareth-teach-way-choose #soul-dwell-ease-seed-inherit-earth-secret-LORD-fear-shew-covenant-eyes-toward-LORD-pluck-feet-net-turn-mercy-desolate-afflicted-troubles-heart-enlarged-bring-distresses-affliction-pain-forgive-sins-enemies-many-hate-cruel-hatred #keep-soul-deliver-ashamed-trust-integrity-uprightness-preserve-wait-redeem-Israel-troubles
+**Tags:** #prayer-for-guidance #divine-mercy #sin-confession #trust-in-god
 
 ---
 

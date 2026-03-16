@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Temple Furnishings, Sacred Vessels, Divine Craftsmanship, Holy Instruments
 
-**Tags:** #altar-brass-twenty-cubits-length-twenty-cubits-breadth-ten-cubits-height #molten-sea-ten-cubits-brim-brim-round-compass-five-cubits-height-line-thirty-cubits-compass-round-about #similitude-oxen-compass-round-ten-cubit-compassing-sea-round-rows-oxen-cast-cast #stood-twelve-oxen-three-looking-north-three-looking-west-three-looking-south-three-looking-east-sea-set-hinder-parts-inward #thickness-handbreadth-brim-work-brim-cup-flowers-lilies-received-held-three-thousand-baths #ten-lavers-five-right-hand-five-left-wash-burnt-offering-washed-sea-priests-wash #ten-candlesticks-gold-form-temple-five-right-hand-five-left #ten-tables-temple-five-right-side-five-left-hundred-basons-gold #court-priests-great-court-doors-court-overlaid-doors-brass #sea-right-side-east-end-south #Huram-pots-shovels-basons-Huram-finished-work-king-Solomon-house-God #pillars-pommels-chapiters-top-two-pillars-two-wreaths-cover-two-pommels-chapiters-top-pillars #four-hundred-pomegranates-two-wreaths-two-rows-pomegranates-wreath-cover-two-pommels-chapiters-pillars #bases-lavers-bases-one-sea-twelve-oxen #pots-shovels-fleshhooks-instruments-Huram-father-king-Solomon-house-LORD-bright-brass #plain-Jordan-king-cast-clay-ground-Succoth-Zeredathah #Solomon-vessels-great-abundance-weight-brass-found #vessels-house-Golden-altar-tables-shewbread-set #candlesticks-lamps-burn-manner-oracle-pure-gold #flowers-lamps-tongs-gold-perfect-gold #snuffers-basons-spoons-censers-pure-gold-entry-house-inner-doors-holy-place-doors-house-temple-gold
+**Tags:** #temple-furnishings #sacred-vessels #divine-craftsmanship #holy-instruments
 
 ---
 

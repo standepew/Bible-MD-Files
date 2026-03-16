@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Branch, Spirit's Anointing, Millennial Peace, Remnant Restoration
 
-**Tags:** #come-rod-stem-Jesse-Branch-grow-roots-spirit-LORD-rest-spirit-wisdom-understanding-spirit-counsel-might-spirit-knowledge-fear-LORD-make-quick-understanding-fear-LORD-judge-sight-eyes-reprove-hearing-ears-righteousness-judge-poor-equity-meek-earth-smite-earth-rod-mouth-breath-lips-slay-wicked-righteousness-girdle-loins-faithfulness-girdle-reins-wolf-dwell-lamb-leopard-lie-kid-calf-young-lion-fatling-little-child-lead-cow-bear-feed-young-lie-lion-eat-straw-ox-sucking-child-play-hole-asp-weaned-child-hand-cockatrice-den-hurt-destroy-holy-mountain-earth-full-knowledge-LORD-waters-cover-sea-root-Jesse-stand-ensign-people-Gentiles-rest-glorious-day-LORD-set-hand-second-time-recover-remnant-people-left-Assyria-Egypt-Pathros-Cush-Elam-Shinar-Hamath-islands-sea-set-ensign-nations-assemble-outcasts-Israel-gather-dispersed-Judah-four-corners-earth-envy-Ephraim-depart-adversaries-Judah-cut-Ephraim-envy-Judah-vex-Ephraim-fly-shoulders-Philistines-west-spoil-east-lay-hand-Edom-Moab-children-Ammon-obey-LORD-utterly-destroy-tongue-Egyptian-sea-mighty-wind-shake-hand-river-smite-seven-streams-men-dryshod-highway-remnant-people-left-Assyria-Israel-day-land-Egypt
+**Tags:** #christ #spirit #millennial-peace #remnant-restoration
 
 ---
 

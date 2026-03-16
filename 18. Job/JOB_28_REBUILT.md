@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Wisdom's Search, Human Mining, Divine Wisdom, Fear of the Lord
 
-**Tags:** #vein-silver-place-gold-fine #iron-earth-brass-molten-stone #end-darkness-perfection-stones-darkness-shadow-death #flood-inhabitant-waters-forgotten-foot-dried-gone #earth-bread-fire-stones-sapphires-dust-gold #path-fowl-vulture-lion-whelps-fierce-lion #hand-rock-overturn-mountains-roots #cutteth-rivers-rocks-eye-precious #bindeth-floods-overflowing-hid-light #wisdom-found-place-understanding #price-land-living-depth-sea #gotten-gold-silver-weighed-price #gold-Ophir-precious-onyx-sapphire #gold-crystal-jewels-fine-gold #coral-pearls-price-rubies-topaz-Ethiopia-pure-gold #whence-wisdom-place-understanding #hid-eyes-living-fowls-air #destruction-death-fame-ears #God-understandeth-way-place-looketh-ends-earth-seeth-heaven #weight-winds-weigheth-waters-measure #decree-rain-way-lightning-thunder #declare-prepared-searched #fear-Lord-wisdom-depart-evil-understanding
+**Tags:** #vein-silver-place-gold-fine #iron-earth-brass-molten-stone #hand-rock-overturn-mountains-roots #cutteth-rivers-rocks-eye-precious #bindeth-floods-overflowing-hid-light #wisdom-found-place-understanding #price-land-living-depth-sea #gotten-gold-silver-weighed-price #gold-Ophir-precious-onyx-sapphire #gold-crystal-jewels-fine-gold #whence-wisdom-place-understanding #hid-eyes-living-fowls-air #destruction-death-fame-ears #weight-winds-weigheth-waters-measure #decree-rain-way-lightning-thunder #declare-prepared-searched #wisdom #human-mining #divine-wisdom #fear-of-the-lord
 
 ---
 

@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** David's Covenant, God's Promise, Zion's Rest, Eternal Throne
 
-**Tags:** #Song-degrees-remember-David-afflictions-sware-LORD-vowed-mighty-God-Jacob-come-tabernacle-house-bed-give-sleep-eyes-slumber-eyelids-find-place-LORD-habitation-mighty-God-Jacob-heard-Ephratah-found-fields-wood-go-tabernacles-worship-footstool-Arise-LORD-rest-ark-strength-priests-clothed-righteousness-saints-shout-joy-servant-David-sake-turn-face-anointed-LORD-sworn-truth-David-turn-fruit-body-set-throne-children-keep-covenant-testimony-teach-children-sit-throne-forever-LORD-chosen-Zion-desired-habitation-rest-forever-dwell-desired-abundantly-bless-provision-satisfy-poor-bread-clothe-priests-salvation-saints-shout-aloud-joy-make-horn-David-bud-ordained-lamp-anointed-enemies-cloth-shame-crown-flourish
+**Tags:** #david #god #zion #eternal-throne
 
 ---
 

@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Crucifixion, Abandonment, Suffering, Universal Worship
 
-**Tags:** #chief-Musician-Aijeleth-Shahar-Psalm-David-GOD-forsaken-help-roaring-cry-daytime-hearest-night-season-silent-holy-inhabitest-praises-Israel-fathers-trusted-delivered-cried-confounded-worm-reproach-despised-laugh-scorn-shoot-lip-shake-head-trusted-LORD-deliver-delighted #womb-hope-mother-breasts-cast-womb-mother-belly-trouble-near-help-bulls-compassed-strong-bulls-Bashan-beset-gaped-mouths-ravening-roaring-lion-poured-water-bones-joint-heart-wax-melted-bowels-strength-potsherd-tongue-jaws-dust-death #dogs-compassed-assembly-wicked-inclosed-pierced-hands-feet-tell-bones-look-stare-part-garments-cast-lots-vesture-far-LORD-strength-haste-deliver-soul-sword-darling-power-dog-lion-mouth-heard-horns-unicorns #declare-name-brethren-congregation-praise-fear-LORD-praise-seed-Jacob-glorify-fear-seed-Israel-despised-abhorred-affliction-afflicted-hid-face-cried-heard-praise-great-congregation-pay-vows-fear-meek-eat-satisfied-praise-seek-heart-live #ends-world-remember-turn-LORD-kindreds-nations-worship-kingdom-LORD-governor-nations-fat-earth-worship-dust-bow-keep-alive-soul-seed-serve-accounted-LORD-generation-come-declare-righteousness-people-born
+**Tags:** #christ #abandonment #suffering #universal-worship
 
 ---
 

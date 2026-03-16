@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Comfort in Tribulation, God's Faithfulness, Paul's Integrity, The Promises of God
 
-**Tags:** #Paul-apostle-Jesus-Christ-will-God-Timothy-brother-church-God-Corinth-saints-Achaia-grace-peace-God-Father-Lord-Jesus-Christ-blessed-God-Father-Lord-Jesus-Christ-Father-mercies-God-comfort-comforteth-tribulation-able-comfort-trouble-comfort-comforted-God-sufferings-Christ-abound-consolation-abound-Christ-afflicted-consolation-salvation-effectual-enduring-sufferings-suffer-comforted-consolation-salvation-hope-partakers-sufferings-consolation-ignorant-trouble-Asia-pressed-measure-strength-despaired-life-sentence-death-trust-ourselves-God-raiseth-dead-delivered-delivered-death-deliver-trust-deliver-helping-prayer-gift-bestowed-many-persons-thanks-rejoicing-testimony-conscience-simplicity-godly-sincerity-fleshly-wisdom-grace-God-conversation-world-abundantly-ward-write-things-read-acknowledge-trust-acknowledge-acknowledged-part-rejoicing-day-Lord-Jesus-confidence-minded-benefit-pass-Macedonia-Macedonia-Judaea-minded-lightness-purpose-purpose-flesh-yea-yea-nay-nay-God-true-word-yea-nay-Son-God-Jesus-Christ-preached-Silvanus-Timotheus-yea-yea-promises-God-yea-Amen-glory-God-stablisheth-Christ-anointed-sealed-earnest-Spirit-hearts-record-soul-spare-Corinth-dominion-faith-helpers-joy-faith-stand
+**Tags:** #comfort-in-tribulation #god #paul #the-promises-of-god
 
 ---
 

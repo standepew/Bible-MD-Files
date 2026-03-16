@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Prosperity of Wicked, Spiritual Envy, Divine Sanctuary, Eternal Perspective
 
-**Tags:** #Psalm-Asaph-Truly-GOD-good-Israel-clean-heart-feet-gone-steps-slipped-envious-foolish-prosperity-wicked-bands-death-strength-firm-trouble-plagued-pride-compasseth-chain-violence-covereth-garment-eyes-stand-fatness-heart-wish-corrupt-speak-wickedly-oppression-speak-loftily-set-mouth-heavens-tongue-walk-earth-people-return-hither-waters-full-cup-wrought-say-GOD-knowledge-High-behold-ungodly-prosper-world-increase-riches-cleansed-heart-vain-washed-hands-innocency-day-long-plagued-chastened-morning-offend-generation-children-thought-know-painful-went-sanctuary-GOD-understood-end-set-slippery-places-casted-destruction-brought-desolation-moment-consumed-terrors-dream-awaketh-LORD-awakest-despise-image-heart-grieved-pricked-reins-foolish-ignorant-beast-continually-holden-right-hand-guide-counsel-afterward-receive-glory-heaven-desire-beside-earth-flesh-heart-faileth-GOD-strength-heart-portion-far-perish-destroyed-whoring-draw-near-GOD-trust-Lord-GOD-declare-works
+**Tags:** #prosperity-of-wicked #spiritual-envy #divine-sanctuary #eternal-perspective
 
 ---
 

@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Church's Perfection, Christ's Delight, Spiritual Fruitfulness, Divine Intimacy
 
-**Tags:** #beautiful-feet-shoes-prince-daughter-joints-thighs-jewels-hands-cunning-workman-navel-round-goblet-wanteth-liquor-belly-heap-wheat-set-lilies-breasts-young-roes-twins-neck-tower-ivory-eyes-fishpools-Heshbon-gate-Bath-rabbim-nose-tower-Lebanon-looketh-Damascus-head-Carmel-hair-purple-king-galleries-fair-pleasant-love-delights-stature-palm-tree-breasts-clusters-grapes-go-palm-tree-hold-boughs-breasts-clusters-vine-smell-nose-apples-roof-mouth-best-wine-beloved-goeth-sweetly-causing-lips-asleep-speak-beloved-desire-Come-beloved-field-lodge-villages-early-vineyards-vine-flourish-tender-grape-appear-pomegranates-bud-give-loves-mandrakes-smell-gates-manner-pleasant-fruits-laid-beloved
+**Tags:** #church #christ #spiritual-fruitfulness #divine-intimacy
 
 ---
 

@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** God's Holy City, Zion's Glory, Divine Protection, Eternal Praise
 
-**Tags:** #Song-Psalm-sons-Korah-Great-LORD-greatly-praised-city-GOD-mountain-holiness-beautiful-situation-joy-earth-mount-Zion-sides-north-city-great-King-GOD-known-palaces-refuge-kings-assembled-passed-marvelled-troubled-hasted-fear-took-pain-travail-breakest-ships-Tarshish-east-wind-heard-seen-city-LORD-hosts-city-GOD-GOD-establish-forever-Selah-thought-lovingkindness-GOD-midst-temple-name-GOD-praise-ends-earth-right-hand-full-righteousness #mount-Zion-rejoice-daughters-Judah-glad-judgments-walk-Zion-round-towers-mark-bulwarks-consider-palaces-tell-generation-following-GOD-forever-guide-death
+**Tags:** #god #zion #divine-protection #eternal-praise
 
 ---
 

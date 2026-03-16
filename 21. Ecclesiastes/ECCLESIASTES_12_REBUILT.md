@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Remember Creator, Aging and Death, Divine Judgment, Wisdom's Conclusion
 
-**Tags:** #Remember-Creator-days-youth-evil-days-come-years-draw-nigh-pleasure-sun-light-moon-stars-darkened-clouds-return-rain-day-keepers-house-tremble-strong-men-bow-grinders-cease-few-look-windows-darkened-doors-shut-streets-sound-grinding-low-rise-voice-bird-daughters-musick-brought-low-afraid-high-fears-way-almond-tree-flourish-grasshopper-burden-desire-fail-man-goeth-long-home-mourners-streets-silver-cord-loosed-golden-bowl-broken-pitcher-broken-fountain-wheel-broken-cistern-dust-return-earth-spirit-return-God-gave-Vanity-vanities-preacher-vanity-preacher-wise-taught-people-knowledge-good-heed-sought-order-proverbs-preacher-sought-acceptable-words-written-upright-words-truth-words-wise-goads-nails-fastened-masters-assemblies-given-shepherd-son-admonished-making-books-end-study-weariness-flesh-hear-conclusion-matter-Fear-God-commandments-duty-man-God-bring-work-judgment-secret-thing-good-evil
+**Tags:** #remember-creator #aging-and-death #divine-judgment #wisdom
 
 ---
 

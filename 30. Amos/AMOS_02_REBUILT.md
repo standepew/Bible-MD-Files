@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Judgment on Israel, Social Injustice, Divine Privilege, Nazarite Vows
 
-**Tags:** #saith-LORD-transgressions-Moab-four-turn-punishment-burned-bones-king-Edom-lime-send-fire-Moab-devour-palaces-Kerioth-Moab-die-tumult-shouting-sound-trumpet-cut-judge-midst-slay-princes-LORD-transgressions-Judah-four-turn-punishment-despised-law-LORD-kept-commandments-lies-err-fathers-walked-send-fire-Judah-devour-palaces-Jerusalem-transgressions-Israel-four-turn-punishment-sold-righteous-silver-poor-pair-shoes-pant-dust-earth-head-poor-aside-way-meek-man-father-maid-profane-holy-lame-clothes-pledge-altar-drink-wine-condemned-house-god-destroyed-Amorite-height-cedars-strong-oaks-destroyed-fruit-roots-beneath-land-Egypt-led-forty-years-wilderness-possess-land-Amorite-raised-sons-prophets-young-men-Nazarites-children-Israel-LORD-gave-Nazarites-wine-drink-commanded-prophets-Prophesy-pressed-cart-full-sheaves-flight-perish-swift-strong-strengthen-force-mighty-deliver-stand-handle-bow-swift-foot-deliver-rideth-horse-deliver-courageous-mighty-flee-naked-day-LORD
+**Tags:** #christ #social-injustice #divine-privilege #nazarite-vows
 
 ---
 

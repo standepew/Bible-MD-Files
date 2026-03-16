@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** God as Refuge, No Fear, Divine Presence, Peace and Stillness
 
-**Tags:** #chief-Musician-sons-Korah-Song-Alamoth-GOD-refuge-strength-present-help-trouble-fear-earth-removed-mountains-carried-midst-sea-waters-roar-troubled-mountains-shake-swelling-Selah-river-streams-make-glad-city-GOD-holy-place-tabernacles-High-midst-moved-help-early-heathen-raged-kingdoms-moved-uttered-voice-earth-melted-LORD-hosts-GOD-Jacob-refuge-Selah-behold-works-LORD-desolations-earth-maketh-wars-cease-end-earth-breaketh-bow-cut-spear-sunder-burneth-chariot-fire-still-know-exalted-heathen-exalted-earth #LORD-hosts-GOD-Jacob-refuge-Selah
+**Tags:** #god-as-refuge #no-fear #divine-presence #peace-and-stillness
 
 ---
 

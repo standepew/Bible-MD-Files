@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Prayer for Vindication, Divine Justice, Self-Examination, God's Judgment
 
-**Tags:** #Shiggaion-David-sang-LORD-words-Cush-Benjamite-trust-save-persecute-deliver-tear-soul-lion-rending-pieces-deliver-hands-iniquity-rewarded-evil-peace-delivered-enemy #persecute-soul-take-tread-life-earth-lay-honour-dust-Selah-arise-LORD-anger-lift-rage-enemies-awake-judgment-commanded-congregation-people-compass-sakes-return-high #LORD-judge-people-judge-righteousness-integrity-wickedness-wicked-end-establish-just-righteous-GOD-trieth-hearts-reins-defence-GOD-saveth-upright-heart #judgeth-righteous-angry-wicked-day-turn-whet-sword-bent-bow-made-ready-prepared-instruments-death-ordain-arrows-persecutors-travaileth-iniquity-conceived-mischief-brought-forth-falsehood #pit-digged-fallen-ditch-made-mischief-return-head-violent-dealing-pate-praise-LORD-righteousness-sing-praise-name-LORD-high
+**Tags:** #prayer-for-vindication #divine-justice #selfexamination #god
 
 ---
 

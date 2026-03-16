@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Thirst for God, God's Lovingkindness, Spiritual Satisfaction, Divine Protection
 
-**Tags:** #Psalm-David-wilderness-Judah-GOD-GOD-early-seek-soul-thirsteth-flesh-longeth-dry-thirsty-land-water-see-power-glory-seen-sanctuary-lovingkindness-better-life-lips-praise-bless-live-lift-hands-name-soul-satisfied-marrow-fatness-mouth-praise-joyful-lips-remember-bed-meditate-night-watches-help-shadow-wings-rejoice-soul-followeth-hard-right-hand-upholdeth-seek-soul-destroy-lower-parts-earth-fall-sword-portion-foxes-king-rejoice-GOD-everyone-sweareth-glory-mouth-speak-lies-stopped
+**Tags:** #thirst-for-god #god #spiritual-satisfaction #divine-protection
 
 ---
 

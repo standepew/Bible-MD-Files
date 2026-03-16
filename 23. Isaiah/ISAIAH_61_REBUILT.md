@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Anointing, Divine Commission, Spiritual Restoration, Christ's Joy
 
-**Tags:** #Spirit-Lord-GOD-anointed-preach-good-tidings-meek-sent-bind-brokenhearted-proclaim-liberty-captives-opening-prison-bound-proclaim-acceptable-year-LORD-day-vengeance-God-comfort-mourn-appoint-mourn-Zion-Beauty-ashes-oil-joy-mourning-garment-praise-spirit-heaviness-called-trees-righteousness-planting-LORD-glorified-build-old-wastes-raise-former-desolations-repair-waste-cities-desolations-generations-strangers-stand-feed-flocks-sons-alien-plowmen-vinedressers-named-Priests-LORD-Ministers-God-eat-riches-Gentiles-glory-boast-shame-double-confusion-rejoice-portion-land-possess-double-everlasting-joy-LORD-love-judgment-hate-robbery-burnt-offering-direct-work-truth-everlasting-covenant-seed-known-Gentiles-offspring-people-acknowledge-seed-LORD-blessed-greatly-rejoice-LORD-soul-joyful-God-clothed-garments-salvation-covered-robe-righteousness-bridegroom-decketh-ornaments-bride-adorn-herself-jewels-earth-bring-bud-garden-causeth-things-sown-spring-Lord-GOD-righteousness-praise-spring-nations
+**Tags:** #christ #divine-commission #spiritual-restoration
 
 ---
 

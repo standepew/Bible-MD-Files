@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Israel's Salvation, Christ the End of the Law, The Word of Faith, Salvation for All
 
-**Tags:** #Brethren-heart-desire-prayer-God-Israel-saved-bear-record-zeal-God-knowledge-ignorant-God-righteousness-establish-righteousness-submitted-righteousness-God-Christ-end-law-righteousness-believeth-Moses-describeth-righteousness-law-man-doeth-live-righteousness-faith-speak-wise-heart-ascend-heaven-bring-Christ-above-descend-deep-bring-Christ-dead-saith-word-nigh-mouth-heart-word-faith-preach-confess-mouth-Lord-Jesus-believe-heart-God-raised-dead-saved-heart-believeth-righteousness-mouth-confession-salvation-scripture-believeth-ashamed-difference-Jew-Greek-Lord-rich-call-Lord-saved-call-believed-believe-heard-hear-preacher-preach-sent-written-beautiful-feet-preach-gospel-peace-bring-glad-tidings-obeyed-gospel-Esaias-Lord-believed-report-faith-hearing-hearing-word-God-heard-sound-earth-words-world-Israel-know-Moses-provoke-jealousy-people-foolish-nation-anger-Esaias-bold-found-sought-made-manifest-asked-Israel-stretched-hands-disobedient-gainsaying-people
+**Tags:** #israel #christ-the-end-of-the-law #the-word-of-faith #salvation-for-all
 
 ---
 

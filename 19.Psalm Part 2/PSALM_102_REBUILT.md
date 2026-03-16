@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Afflicted Prayer, Human Frailty, Divine Eternity, Zion's Restoration
 
-**Tags:** #Prayer-afflicted-overwhelmed-poureth-complaint-LORD-Hear-prayer-LORD-cry-come-Hide-face-trouble-incline-ear-day-call-answer-speedily-days-consumed-smoke-bones-burned-hearth-heart-smitten-withered-grass-forget-eat-bread-reason-voice-groaning-bones-cleave-skin-pelican-wilderness-owl-desert-watch-sparrow-alone-house-top-enemies-reproach-day-mad-sworn-eaten-ashes-bread-mingled-drink-weeping-indignation-wrath-lifted-cast-days-shadow-declineth-withered-grass-LORD-endure-remembrance-generations-arise-mercy-Zion-time-favour-set-time-servants-take-pleasure-stones-favour-dust-heathen-fear-name-LORD-kings-earth-glory-LORD-build-Zion-appear-glory-regard-prayer-destitute-despise-prayer-written-generation-people-created-praise-LORD-looked-height-sanctuary-heaven-beheld-earth-hear-groaning-prisoner-loose-appointed-death-declare-name-LORD-Zion-praise-Jerusalem-people-gathered-kingdoms-serve-LORD-weakened-strength-way-shortened-days-said-GOD-take-midst-days-years-generations-laid-foundation-earth-heavens-work-hands-perish-endure-wax-old-garment-vesture-change-changed-same-years-end-children-servants-continue-seed-established
+**Tags:** #afflicted-prayer #human-frailty #divine-eternity #zion
 
 ---
 

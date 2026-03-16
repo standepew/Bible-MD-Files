@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Personal Prayer, Divine Mercy, God's Uniqueness, Compassionate God
 
-**Tags:** #Prayer-David-Bow-ear-LORD-hear-poor-needy-Preserve-soul-holy-GOD-save-servant-trusteth-merciful-Lord-cry-daily-Rejoice-soul-servant-LORD-lift-soul-LORD-good-ready-forgive-plenteous-mercy-call-Give-ear-LORD-prayer-attend-voice-supplications-day-trouble-call-answer-gods-like-LORD-works-like-works-nations-made-come-worship-LORD-glorify-name-great-wondrous-things-GOD-alone-Teach-way-LORD-walk-truth-unite-heart-fear-name-praise-LORD-GOD-heart-glorify-name-forever-great-mercy-delivered-soul-lowest-hell-GOD-proud-risen-assemblies-violent-men-sought-soul-set-GOD-LORD-GOD-compassion-gracious-longsuffering-plenteous-mercy-truth-turn-mercy-give-strength-servant-save-son-handmaid-Shew-token-good-hate-ashamed-LORD-holpen-comforted
+**Tags:** #personal-prayer #divine-mercy #god #compassionate-god
 
 ---
 

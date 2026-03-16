@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Universal Praise, God's Exaltation, Divine Humility, Lifting the Lowly
 
-**Tags:** #Praise-LORD-servants-LORD-praise-name-LORD-Blessed-name-LORD-time-forth-forevermore-rising-sun-going-same-LORD-name-praised-LORD-high-nations-glory-heavens-like-LORD-GOD-dwelleth-high-humbleth-behold-things-heaven-earth-raiseth-poor-dust-lifteth-needy-dunghill-set-princes-princes-people-maketh-barren-woman-keep-house-joyful-mother-children-Praise-LORD
+**Tags:** #universal-praise #god #divine-humility #lifting-the-lowly
 
 ---
 

@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Distress Prayer, False Tongues, Divine Deliverance, Peace Amidst War
 
-**Tags:** #Song-degrees-distress-cried-LORD-heard-Deliver-soul-LORD-lying-lips-deceitful-tongue-given-false-tongue-sharp-arrows-mighty-coals-juniper-Woe-sojourn-Mesech-dwell-tents-Kedar-soul-dwelt-hated-peace-peace-speak-war
+**Tags:** #distress-prayer #false-tongues #divine-deliverance #peace-amidst-war
 
 ---
 

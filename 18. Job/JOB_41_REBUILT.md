@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** God's Final Challenge, Leviathan, Divine Power, Human Helplessness
 
-**Tags:** #draw-leviathan-hook-tongue-cord-hook-nose-bore-jaw-thorn-supplications-soft-words-covenant-servant-bird-maidens #companions-banquet-merchants-barbed-irons-fish-spears-hand-battle-hope-vain-cast-down-sight-fierce-stir-stand-prevented-repay-heaven-mine #conceal-parts-power-comely-proportion-face-garment-double-bridle-doors-face-teeth-terrible-scales-pride-close-seal-joined-stick-sundered #neesings-light-shine-eyes-eyelids-morning-burning-lamps-sparks-fire-nostrils-smoke-seething-pot-caldron-breath-kindleth-coals-flame-mouth #neck-strength-sorrow-joy-flakes-flesh-joined-firm-moved-heart-stone-nether-millstone-raiseth-mighty-afraid-breakings-purify-sword-spear-dart-habergeon #iron-straw-brass-rotten-wood-arrow-flee-slingstones-stubble-darts-stubble-laugheth-shaking-spear-sharp-stones-mire-deep-boil-pot-sea-pot-ointment #path-shine-deep-hoary-earth-like-made-without-fear-beholdeth-high-things-king-children-pride
+**Tags:** #god #leviathan #divine-power #human-helplessness
 
 ---
 

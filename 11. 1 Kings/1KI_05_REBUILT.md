@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Temple Preparation, Hiram's Alliance, Cedar Timber, Labor Organization, Divine Promise
 
-**Tags:** #Hiram-king-Tyre-servants-Solomon-anointed-king-room-father-lover-David #Solomon-Hiram-David-father-house-LORD-GOD-wars-LORD-soles-feet #LORD-GOD-rest-adversary-evil-occurrent #purpose-house-LORD-GOD-LORD-spoke-David-father-son-throne-room-house-name #command-hew-cedar-Lebanon-servants-servants-hire-servants-appoint-skill-hew-timber-Sidonians #Hiram-words-Solomon-rejoiced-Blessed-LORD-day-David-wise-son-people #Hiram-Solomon-considered-desire-timber-cedar-timber-fir #servants-Lebanon-sea-floats-sea-place-appoint-discharged-receive-accomplish-desire-food-household #Hiram-Solomon-cedar-trees-fir-trees-desire #Solomon-Hiram-twenty-thousand-measures-wheat-food-household-twenty-measures-pure-oil-Solomon-Hiram-year-year #LORD-Solomon-wisdom-promised-peace-Hiram-Solomon-league #Solomon-levy-Israel-levy-thirty-thousand-men #Lebanon-ten-thousand-month-courses-month-Lebanon-two-months-home-Adoniram-levy #Solomon-threescore-ten-thousand-bare-burdens-fourscore-thousand-hewers-mountains #chief-Solomon-officers-work-three-thousand-three-hundred-ruled-people-wrought-work #king-commanded-great-stones-costly-stones-hewed-stones-foundation-house #Solomon-builders-Hiram-builders-hew-stonesquarers-prepared-timber-stones-build-house
+**Tags:** #temple-preparation #hiram #cedar-timber #labor-organization #divine-promise
 
 ---
 

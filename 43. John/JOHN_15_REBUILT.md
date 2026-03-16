@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** The True Vine, Abiding in Christ, The Commandment to Love, The World's Hatred
 
-**Tags:** #true-vine-Father-husbandman-branch-beareth-fruit-taketh-branch-beareth-fruit-purgeth-bring-forth-fruit-clean-word-spoken-Abide-branch-bear-fruit-abide-vine-branch-bear-fruit-vine-branches-abideth-bringeth-fruit-without-abide-cast-branch-withered-gather-fire-burned-abide-words-abide-ask-done-Father-glorified-bear-fruit-disciples-Father-loved-loved-continue-love-keep-commandments-abide-love-kept-Father-commandments-abide-love-spoken-joy-remain-joy-full-commandment-love-loved-Greater-love-lay-life-friends-friends-command-servants-servants-knoweth-lord-friends-heard-Father-known-chosen-ordinated-bring-fruit-fruit-remain-ask-Father-give-command-love-world-hate-hated-world-love-chosen-world-hate-remember-servant-greater-lord-persecuted-persecute-kept-saying-kept-name-sake-know-sent-spoken-sin-cloke-sin-hateth-Father-works-works-seen-hated-Father-word-fulfilled-law-hated-Comforter-send-Father-Spirit-truth-proceedeth-Father-testify-witness-beginning
+**Tags:** #the-true-vine #abiding-in-christ #the-commandment-to-love #the-world
 
 ---
 

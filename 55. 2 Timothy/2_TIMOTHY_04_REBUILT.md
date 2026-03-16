@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Paul's Final Charge, Preach the Word, Sound Doctrine Rejected, Paul's Testimony, Crown of Righteousness, Personal Requests, The Lord's Faithfulness
 
-**Tags:** #charge-God-Lord-Jesus-Christ-judge-quick-dead-appearing-kingdom-Preach-word-instant-season-reprove-rebuke-exhort-longsuffering-doctrine-time-endure-sound-doctrine-lusts-heap-teachers-itching-ears-turn-ears-truth-turned-fables-watch-things-endure-afflictions-work-evangelist-full-proof-ministry-ready-offered-departure-hand-fought-good-fight-finished-course-kept-faith-laid-crown-righteousness-Lord-righteous-judge-give-day-love-appearing-diligence-shortly-Demas-forsaken-loved-present-world-departed-Thessalonica-Crescens-Galatia-Titus-Dalmatia-Luke-Mark-profitable-ministry-Tychicus-sent-Ephesus-cloke-Troas-Carpus-books-parchments-Alexander-coppersmith-evil-Lord-reward-works-ware-greatly-withstood-words-answer-stood-forsook-pray-laid-charge-Lord-stood-strengthened-preaching-fully-known-Gentiles-heard-delivered-mouth-lion-deliver-evil-work-preserve-heavenly-kingdom-glory-Salute-Prisca-Aquila-household-Onesiphorus-Erastus-Corinth-Trophimus-Miletum-sick-winter-Eubulus-greet-Pudens-Linus-Claudia-brethren-Lord-Jesus-Christ-spirit-Grace-Amen
+**Tags:** #paul #preach-the-word #sound-doctrine-rejected #crown-of-righteousness #personal-requests #the-lord
 
 ---
 

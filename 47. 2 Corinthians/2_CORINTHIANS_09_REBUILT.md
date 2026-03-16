@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** The Principles of Giving, Sowing and Reaping, Cheerful Giving, God's Abundant Grace
 
-**Tags:** #touching-ministering-saints-superfluous-write-forwardness-mind-boast-Macedonia-Achaia-ready-year-zeal-provoked-sent-brethren-boasting-vain-behalf-ready-Macedonia-find-unprepared-ashamed-confident-boasting-necessary-exhort-brethren-before-bounty-notice-ready-matter-bounty-covetousness-soweth-sparingly-reap-sparingly-soweth-bountifully-reap-bountifully-purposeth-heart-give-grudgingly-necessity-God-loveth-cheerful-giver-God-able-grace-abound-sufficiency-things-abound-good-work-written-dispersed-given-poor-righteousness-remaineth-forever-ministereth-seed-sower-minister-bread-food-multiply-seed-sown-increase-fruits-righteousness-enriched-thing-bountifulness-causeth-thanksgiving-God-administration-service-supplieth-want-saints-abundant-thanksgivings-God-experiment-ministration-glorify-God-professed-subjection-gospel-Christ-liberal-distribution-men-prayer-exceeding-grace-God-thanks-God-unspeakable-gift
+**Tags:** #the-principles-of-giving #sowing-and-reaping #cheerful-giving #god
 
 ---
 

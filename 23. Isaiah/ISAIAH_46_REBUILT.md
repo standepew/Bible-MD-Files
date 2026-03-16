@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Supremacy, Divine Carriage, Spiritual Idols, Christ's Salvation
 
-**Tags:** #Bel-boweth-Nebo-stoopeth-idols-beasts-cattle-carriages-heavy-loaden-burden-weary-beast-stoop-bow-deliver-burden-gone-captivity-Hearken-house-Jacob-remnant-house-Israel-borne-belly-carried-womb-old-age-hoar-hairs-carry-made-bear-carry-deliver-liken-equal-compare-lavish-gold-bag-weigh-silver-balance-hire-goldsmith-maketh-god-fall-worship-bear-shoulder-carry-set-place-stand-place-remove-cry-answer-save-trouble-Remember-shew-men-mind-transgressors-Remember-former-things-old-God-none-else-God-like-Declaring-end-beginning-ancient-times-things-done-counsel-stand-pleasure-Calling-ravenous-bird-east-man-executeth-counsel-far-country-spoken-bring-pass-purposed-Hearken-stouthearted-far-righteousness-bring-near-righteousness-far-salvation-tarry-place-salvation-Zion-Israel-glory
+**Tags:** #christ #divine-carriage #spiritual-idols
 
 ---
 

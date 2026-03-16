@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Cyrus Decree, Divine Sovereignty, Temple Restoration, Return from Exile
 
-**Tags:** #first-year-Cyrus-king-Persia-word-LORD-mouth-Jeremiah-fulfilled-LORD-stirred-spirit-Cyrus-king-Persia-proclamation-kingdom-writing-saying #Cyrus-king-Persia-LORD-God-heaven-given-kingdoms-earth-charged-build-house-Jerusalem-Judah #people-God-Jerusalem-build-house-LORD-God-Israel-God-Jerusalem #remain-place-sojourn-men-place-silver-gold-goods-beasts-freewill-offering-house-God-Jerusalem #rose-chief-fathers-Judah-Benjamin-priests-Levites-spirit-God-raised-build-house-LORD-Jerusalem #strengthened-hands-vessels-silver-gold-goods-beasts-precious-things-willingly-offered #Cyrus-king-brought-vessels-house-LORD-Nebuchadnezzar-brought-Jerusalem-house-gods #Cyrus-king-Persia-brought-hand-Mithredath-treasurer-numbered-Sheshbazzar-prince-Judah #number-thirty-chargers-gold-thousand-chargers-silver-nine-twenty-knives #thirty-basons-gold-silver-basons-four-hundred-ten-vessels-thousand #vessels-gold-silver-five-thousand-four-hundred-Sheshbazzar-captivity-Babylon-Jerusalem
+**Tags:** #cyrus-decree #divine-sovereignty #temple-restoration #return-from-exile
 
 ---
 

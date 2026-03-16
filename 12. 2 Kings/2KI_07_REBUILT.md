@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Famine Prophecy, Syrian Flight, Leprous Discovery, Prophetic Fulfillment, Skeptic's Judgment
 
-**Tags:** #Elisha-LORD-word-LORD-morrow-measure-fine-flour-shekel-two-measures-barley-shekel-gate-Samaria #lord-king-leaned-man-GOD-LORD-windows-heaven-thing-eyes-eat #leprous-men-entering-gate-die-city-famine-die-host-Syrians-save-live-kill-die #twilight-host-Syrians-uttermost-camp-Syria-man #LORD-host-Syrians-noise-chariots-noise-horses-noise-great-host-king-Israel-hired-kings-Hittites-kings-Egyptians #twilight-fled-tents-horses-asses-camp-life #leprous-men-uttermost-camp-tent-ate-drank-carried-silver-gold-raiment-hid-tent-carried-hid #well-day-good-tidings-peace-morning-mischief-king-household #porter-city-camp-Syrians-man-voice-horses-tied-asses-tents-porters-king-house #king-night-servants-Syrians-hungry-camp-field-city-catch-alive-city #servant-horses-city-multitude-Israel-multitude-Israelites-consumed-chariot-horses-host-Syrians-Jordan-way-garments-vessels-Syrians-haste-messengers-king #people-tents-Syrians-measure-fine-flour-shekel-two-measures-barley-shekel-word-LORD #king-lord-leaned-charge-gate-people-trode-gate-died-man-GOD-spoke-king #man-GOD-king-two-measures-barley-shekel-measure-fine-flour-shekel-morrow-gate-Samaria #lord-man-GOD-LORD-windows-heaven-thing-eyes-eat #people-trode-gate-died
+**Tags:** #people-trode-gate-died #famine-prophecy #syrian-flight #leprous-discovery #prophetic-fulfillment #skeptic
 
 ---
 

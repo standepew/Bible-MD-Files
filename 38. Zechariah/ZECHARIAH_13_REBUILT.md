@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Cleansing Fountain, False Prophets, Wounded Shepherd, Refined Remnant
 
-**Tags:** #day-fountain-opened-house-David-inhabitants-Jerusalem-sin-uncleanness-day-LORD-hosts-cut-names-idols-land-remembered-cause-prophets-unclean-spirit-pass-land-prophesy-father-mother-begat-shall-live-speakest-lies-name-LORD-father-mother-begat-thrust-prophesieth-day-prophets-ashamed-vision-prophesied-wear-rough-garment-deceive-prophet-husbandman-man-taught-keep-cattle-youth-wounds-hands-answered-wounded-house-friends-Awake-sword-shepherd-man-fellow-LORD-hosts-smite-shepherd-sheep-scattered-turn-hand-little-ones-land-LORD-parts-cut-die-third-left-third-fire-refine-silver-refined-try-gold-tried-call-name-hear-people-LORD-God
+**Tags:** #christ #false-prophets #wounded-shepherd #refined-remnant
 
 ---
 

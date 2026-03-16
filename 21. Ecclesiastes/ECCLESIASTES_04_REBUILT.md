@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Oppression and Comfort, Companionship and Isolation, Wisdom and Folly, Life and Death
 
-**Tags:** #returned-considered-oppressions-done-sun-behold-tears-oppressed-comforter-side-oppressors-power-comforter-praised-dead-already-dead-living-alive-better-not-yet-evil-work-done-sun-considered-travail-right-work-man-envied-neighbour-vanity-vexation-spirit-fool-foldeth-hands-eateth-flesh-handful-quietness-hands-full-travail-vexation-spirit-returned-saw-vanity-sun-alone-second-child-brother-end-labour-eye-satisfied-riches-saith-labour-bereave-soul-good-vanity-sore-travail-Two-better-one-good-reward-labour-fall-lift-fellow-woe-alone-falleth-help-warm-alone-prevail-withstand-threefold-cord-quickly-broken-Better-poor-wise-child-old-foolish-king-admonished-prison-reign-born-kingdom-poor-considered-living-walk-sun-second-child-stand-stead-end-people-been-before-coming-shall-rejoice-vanity-vexation-spirit
+**Tags:** #oppression-and-comfort #companionship-and-isolation #wisdom-and-folly #life-and-death
 
 ---
 

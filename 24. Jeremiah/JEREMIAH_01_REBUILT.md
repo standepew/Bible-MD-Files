@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Calling, Divine Commission, Spiritual Authority, Christ's Protection
 
-**Tags:** #words-Jeremiah-son-Hilkiah-priests-Anathoth-land-Benjamin-word-LORD-days-Josiah-son-Amon-king-Judah-thirteenth-year-reign-days-Jehoiakim-son-Josiah-king-Judah-end-eleventh-year-Zedekiah-son-Josiah-king-Judah-carrying-Jerusalem-captive-fifth-month-word-LORD-came-saying-formed-belly-knew-camest-womb-sanctified-ordained-prophet-nations-LORD-GOD-behold-speak-child-LORD-said-child-shalt-go-send-command-speak-afraid-faces-deliver-LORD-LORD-put-hand-touched-mouth-LORD-put-words-mouth-set-nations-kingdoms-root-pull-down-destroy-throw-build-plant-word-LORD-Jeremiah-seest-rod-almond-tree-LORD-well-seen-hasten-word-perform-word-LORD-time-seest-seething-pot-face-north-LORD-north-evil-break-forth-inhabitants-land-call-families-kingdoms-north-thrones-entering-gates-Jerusalem-walls-round-cities-Judah-utter-judgments-wickedness-forsaken-burned-incense-gods-worshipped-works-hands-gird-loins-arise-speak-command-dismayed-faces-confound-made-defenced-city-iron-pillar-brasen-whole-land-kings-Judah-princes-priests-people-land-fight-prevail-deliver-LORD
+**Tags:** #christ #divine-commission #spiritual-authority
 
 ---
 

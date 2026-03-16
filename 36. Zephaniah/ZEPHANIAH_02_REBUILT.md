@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Call to Repentance, Judgment on Nations, God's Protection, Restoration of Judah
 
-**Tags:** #Gather-together-gather-together-nation-desired-decree-bring-forth-day-pass-chaff-fierce-anger-LORD-day-LORD-anger-come-Seek-LORD-meek-earth-wrought-judgment-Seek-righteousness-Seek-meekness-hid-day-LORD-anger-Gaza-forsaken-Ashkelon-desolation-drive-Ashdod-noon-day-Ekron-rooted-woe-inhabitants-sea-coast-nation-Cherethites-word-LORD-Canaan-land-Philistines-destroy-inhabitant-sea-coast-dwellings-cottages-shepherds-flocks-folds-coast-remnant-house-Judah-feed-houses-Ashkelon-lie-evening-LORD-God-visit-turn-away-captivity-heard-reproach-Moab-reviling-children-Ammon-reproached-people-magnified-border-live-LORD-hosts-God-Israel-Moab-Sodom-children-Ammon-Gomorrah-breeding-nettles-saltpits-perpetual-desolation-residue-people-spoil-remnant-people-possess-pride-reproached-magnified-people-LORD-hosts-LORD-terrible-famish-gods-earth-men-worship-place-isles-heathen-Ethiopians-slain-sword-stretch-hand-north-destroy-Assyria-Nineveh-desolation-wilderness-flocks-lie-midst-beasts-nations-cormorant-bittern-lodge-upper-lintels-voice-sing-windows-desolation-thresholds-uncover-cedar-work-rejoicing-city-dwelt-carelessly-heart-none-beside-desolation-place-beasts-lie-pass-hiss-wag-hand
+**Tags:** #christ #judgment-on-nations #god #restoration-of-judah
 
 ---
 

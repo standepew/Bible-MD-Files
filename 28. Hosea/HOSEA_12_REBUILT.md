@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Controversy, Jacob's Wrestling, Prophetic Ministry, Divine Preservation
 
-**Tags:** #Ephraim-feedeth-wind-followeth-east-wind-daily-increaseth-lies-desolation-covenant-Assyrians-oil-carried-Egypt-LORD-controversy-Judah-punish-Jacob-ways-doings-recompense-brother-heel-womb-strength-power-God-power-angel-prevailed-wept-supplication-Beth-el-spake-LORD-God-hosts-LORD-memorial-turn-God-keep-mercy-judgment-wait-God-continually-merchant-balances-deceit-hand-loves-oppress-Ephraim-become-rich-found-substance-labours-find-iniquity-sin-LORD-God-land-Egypt-dwell-tabernacles-days-solemn-feast-spoken-prophets-multiplied-visions-similitudes-ministry-prophets-iniquity-Gilead-vanity-sacrifice-bullocks-Gilgal-altars-heaps-furrows-fields-Jacob-fled-country-Syria-Israel-served-wife-wife-kept-sheep-prophet-LORD-brought-Israel-Egypt-prophet-preserved-Ephraim-provoked-anger-bitterly-leave-blood-reproach-Lord-return
+**Tags:** #christ #jacob #prophetic-ministry #divine-preservation
 
 ---
 

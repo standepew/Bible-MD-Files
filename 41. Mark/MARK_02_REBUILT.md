@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Christ's Forgiveness Power, Healing of Palsy, Calling of Levi, Sabbath Authority
 
-**Tags:** #entered-Capernaum-days-noised-house-straightway-gathered-room-receive-door-preached-word-come-sick-palsy-borne-four-could-nigh-uncovered-roof-broken-bed-sick-palsy-lay-Jesus-faith-sick-palsy-Son-sins-forgiven-scribes-sitting-reasoning-hearts-speak-blasphemies-forgive-sins-God-immediately-Jesus-perceived-spirit-reasoned-hearts-reason-hearts-easier-sick-palsy-sins-forgiven-Arise-bed-walk-know-Son-man-power-earth-forgive-sins-sick-palsy-Arise-bed-way-house-immediately-arose-bed-forth-amazed-glorified-God-fashion-sea-side-multitude-resorted-taught-passed-Levi-Alphæus-sitting-receipt-custom-Follow-arose-followed-Jesus-meat-house-publicans-sinners-Jesus-disciples-many-followed-scribes-Pharisees-ate-publicans-sinners-disciples-eat-drink-publicans-sinners-Jesus-whole-physician-sick-I-came-righteous-sinners-repentance-disciples-John-Pharisees-used-fast-come-fast-disciples-John-Pharisees-fast-disciples-fast-Jesus-bridegroom-fast-bridegroom-bridegroom-fast-days-bridegroom-taken-away-fast-days-sew-piece-new-cloth-old-garment-new-piece-filled-old-rent-worse-new-wine-old-bottles-new-wine-burst-bottles-wine-spilled-bottles-marred-new-wine-new-bottles-corn-fields-sabbath-disciples-pluck-ears-corn-Pharisees-sabbath-not-lawful-Jesus-read-David-need-hungred-house-God-days-Abiathar-high-priest-shewbread-lawful-priests-gave-sabbath-man-sabbath-Son-man-Lord-sabbath
+**Tags:** #christ #healing-of-palsy #calling-of-levi #sabbath-authority
 
 ---
 

@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Sons of Israel, Judah's Lineage, David's Anointing, David's Reign Begins
 
-**Tags:** #sons-Israel-Reuben-Simeon-Levi-Judah-Issachar-Zebulun #sons-Judah-Er-Onan-Shelah-Hezron-Carmi-Aminadab-Asshur-Abdiel-Gera-Mareshah-Baara-Micah #sons-David-Jesse-Bethlehem-seven-brothers-eldest-Abinadab-second-Jesse-son-Samariah-Philistine-war-David-anointed-king-Hebron-reigned-seven-years-six-months #Judah-citizens-David-anointed-king-Hebron-Judah-followed-David-Philistines-Gath-Keilah-Ekron-died-Jerusalem-Mahanai-Mahanai-Gedor-Asahel-Joab-Abner-son-Ner-commander-Joab-Abner-commander-Ish-bosheth-Saul-slew-Philistines-Jezreel-Amalek-Philistines-Jezreel-died-Jerusalem-David-reigned-Judah
+**Tags:** #sons-of-israel #judah #david
 
 ---
 

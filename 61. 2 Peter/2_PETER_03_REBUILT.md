@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** The Last Days and Scoffers, Creation and the Flood, The Day of the Lord, New Heavens and New Earth, Final Exhortation
 
-**Tags:** #second-epistle-beloved-write-stir-pure-minds-remembrance-mindful-words-spoken-holy-prophets-commandment-apostles-Lord-Saviour-knowing-last-days-scoffers-walking-lusts-saying-promise-coming-fathers-fell-asleep-beginning-creation-willingly-ignorant-word-God-heavens-earth-standing-water-water-world-overflowed-water-perished-heavens-earth-word-kept-store-reserved-fire-day-judgment-perdition-ungodly-men-beloved-ignorant-day-Lord-thousand-years-thousand-years-day-Lord-slack-promise-slackness-longsuffering-willing-perish-repentance-day-Lord-thief-night-heavens-pass-great-noise-elements-melt-fervent-heat-earth-burned-dissolved-holy-conversation-godliness-looking-hasting-coming-day-God-heavens-fire-dissolved-elements-melt-fervent-heat-promise-heavens-earth-dwelleth-righteousness-beloved-look-diligent-found-peace-spot-blameless-account-longsuffering-Lord-salvation-beloved-brother-Paul-wisdom-epistles-speaking-things-hard-understood-unlearned-unstable-wrest-other-scriptures-destruction-know-things-beware-led-away-error-wicked-fall-stedfastness-grow-grace-knowledge-Lord-Saviour-Jesus-Christ-glory
+**Tags:** #the-last-days-and-scoffers #creation-and-the-flood #the-day-of-the-lord #new-heavens-and-new-earth #final-exhortation
 
 ---
 

@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Judgment, Locust Plague, Divine Call to Repentance, Day of the LORD
 
-**Tags:** #word-LORD-Joel-son-Pethuel-Hear-old-men-ear-inhabitants-land-days-fathers-Tell-children-children-children-generation-palmerworm-left-locust-eaten-locust-left-cankerworm-eaten-cankerworm-left-caterpiller-eaten-Awake-drunkards-weep-howl-drinkers-wine-new-wine-cut-mouth-nation-land-strong-number-teeth-lion-cheeth-great-lion-laid-vine-waste-barked-fig-tree-clean-bare-cast-branches-white-Lament-virgin-girded-sackcloth-husband-youth-meat-offering-drink-offering-cut-house-LORD-priests-LORD-ministers-mourn-field-wasted-land-mourneth-corn-wasted-new-wine-dried-oil-languisheth-ashamed-husbandmen-howl-vinedressers-wheat-barley-harvest-field-perished-vine-dried-fig-tree-languisheth-pomegranate-tree-palm-tree-apple-tree-trees-field-withered-joy-withered-sons-men-Gird-lament-priests-howl-ministers-altar-lie-night-sackcloth-ministers-God-meat-offering-drink-offering-withholden-house-God-Sanctify-fast-call-solemn-assembly-gather-elders-inhabitants-land-house-LORD-God-cry-LORD-Alas-day-day-LORD-hand-destruction-Almighty-meat-cut-eyes-joy-gladness-house-God-seed-rotten-clods-garners-laid-desolate-barns-broken-corn-withered-beasts-groan-herds-cattle-perplexed-pasture-flocks-sheep-desolate-LORD-cry-fire-devoured-pastures-wilderness-flame-burned-trees-field-beasts-field-cry-rivers-waters-dried-fire-devoured-pastures-wilderness
+**Tags:** #christ #locust-plague #divine-call-to-repentance #day-of-the-lord
 
 ---
 

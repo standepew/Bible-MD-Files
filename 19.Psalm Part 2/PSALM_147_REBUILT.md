@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Divine Healing, Creation Wonder, God's Providence, Word Power
 
-**Tags:** #Praise-LORD-good-sing-praises-God-pleasant-praise-comely-LORD-build-Jerusalem-gather-together-outcasts-Israel-healeth-broken-heart-bindeth-wounds-telleth-number-stars-calleth-names-Great-LORD-great-power-understanding-infinite-LORD-lift-meek-casteth-wicked-ground-Sing-LORD-thanksgiving-sing-praise-harp-God-covereth-heaven-clouds-prepareth-rain-earth-maketh-grass-grow-mountains-giveth-beast-food-young-ravens-cry-delighteth-strength-horse-pleasure-legs-man-LORD-taketh-pleasure-fear-hope-mercy-Praise-LORD-Jerusalem-praise-God-Zion-strengthened-bars-gates-blessed-children-within-maketh-peace-borders-fillest-finest-wheat-sendeth-commandment-earth-word-ruinneth-very-swiftly-giveth-snow-wool-scatter-hoarfrost-ashes-casteth-ice-morsels-stand-cold-sendeth-word-melteth-causeth-wind-blow-waters-flow-sheweth-word-Jacob-statutes-judgments-Israel-dealt-nation-judgments-known-Praise-LORD
+**Tags:** #divine-healing #creation-wonder #god #word-power
 
 ---
 

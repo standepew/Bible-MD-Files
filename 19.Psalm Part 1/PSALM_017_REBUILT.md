@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Prayer for Protection, Divine Deliverance, God's Lovingkindness, Vision of God
 
-**Tags:** #Prayer-David-hear-right-LORD-attend-cry-ear-prayer-feigned-lips-sentence-presence-eyes-behold-equal-proved-heart-visited-night-tried-nothing-purposed-mouth-transgress #works-men-word-lips-kept-paths-destroyer-hold-goings-paths-footsteps-slip-called-hear-GOD-incline-ear-hear-speech-shew-marvellous-lovingkindness-savest-right-hand-trust-rise-against #keep-apple-eye-hide-shadow-wings-wicked-oppress-deadly-enemies-compass-inclosed-fat-mouth-proudly-compassed-steps-eyes-bowing-earth-lion-greedy-prey-young-lion-lurking-secret #arise-LORD-disappoint-cast-deliver-soul-wicked-sword-men-hand-LORD-men-world-portion-life-belly-fillest-hid-treasure-full-children-leave-rest-substance-babes-behold-face-righteousness-satisfied-awake-likeness
+**Tags:** #prayer-for-protection #divine-deliverance #god #vision-of-god
 
 ---
 

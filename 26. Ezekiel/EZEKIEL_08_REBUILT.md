@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Vision, Temple Abominations, Idolatry's Exposure, Divine Fury
 
-**Tags:** #sixth-year-sixth-month-fifth-day-month-sat-house-elders-Judah-sat-hand-Lord-GOD-fell-beheld-likeness-appearance-fire-appearance-loins-downward-fire-loins-upward-appearance-brightness-colour-amber-form-hand-lock-head-spirit-lifted-earth-heaven-brought-visions-God-Jerusalem-door-inner-gate-north-seat-image-jealousy-provoketh-jealousy-glory-God-Israel-vision-plain-son-man-lift-eyes-north-lifted-eyes-north-gate-altar-image-jealousy-entry-furthermore-son-man-seest-great-abominations-house-Israel-committeth-far-sanctuary-turn-greater-abominations-brought-door-court-looked-hole-wall-son-man-dig-wall-digged-wall-door-son-man-wicked-abominations-went-saw-form-creeping-things-abominable-beasts-idols-house-Israel-pourtrayed-wall-round-ancients-house-Israel-midst-Jaazaniah-son-Shaphan-censer-hand-thick-cloud-incense-son-man-ancients-house-Israel-dark-chambers-imagery-LORD-seeth-LORD-forsaken-earth-greater-abominations-brought-door-gate-LORD-house-north-women-weeping-Tammuz-son-man-greater-abominations-brought-inner-court-LORD-house-door-temple-LORD-porch-altar-five-twenty-men-backs-temple-LORD-faces-east-worshipped-sun-east-son-man-light-thing-house-Judah-commit-abominations-committed-filled-land-violence-returned-provoke-anger-branch-nose-deal-fury-eye-spare-pity-cry-ears-loud-voice-hear
+**Tags:** #christ #temple-abominations #idolatry #divine-fury
 
 ---
 

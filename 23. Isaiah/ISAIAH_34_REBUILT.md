@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Judgment, Divine Vengeance, Edom's Destruction, Christ's Justice
 
-**Tags:** #Come-near-nations-hear-hearken-people-earth-hear-therein-world-things-forth-indignation-LORD-nations-fury-armies-destroyed-delivered-slaughter-slain-cast-stink-come-carcases-mountains-melted-blood-host-heaven-dissolved-heavens-rolled-scroll-host-fall-leaf-falleth-vine-falling-fig-fig-tree-sword-bathed-heaven-come-Idumea-people-curse-judgment-sword-LORD-filled-blood-fat-blood-lambs-goats-fat-kidneys-rams-LORD-sacrifice-Bozrah-great-slaughter-land-Idumea-unicorns-bullocks-bulls-land-soaked-blood-dust-fat-fatness-day-LORD-vengeance-year-recompences-controversy-Zion-streams-turned-pitch-dust-brimstone-land-burning-pitch-quenched-night-day-smoke-generation-generation-waste-pass-therein-cormorant-bittern-possess-owl-raven-dwell-stretch-line-confusion-stones-emptiness-call-nobles-kingdom-princes-nothing-thorns-palaces-nettles-brambles-fortresses-habitation-dragons-court-owls-wild-beasts-desert-meet-wild-beasts-island-satyr-cry-fellow-screech-owl-rest-place-rest-great-owl-nest-lay-hatch-gather-shadow-vultures-gathered-mate-Seek-book-LORD-read-fail-want-mate-mouth-commanded-spirit-gathered-cast-lot-hand-divided-line-possess-forever-generation-generation-dwell
+**Tags:** #christ #divine-vengeance #edom
 
 ---
 

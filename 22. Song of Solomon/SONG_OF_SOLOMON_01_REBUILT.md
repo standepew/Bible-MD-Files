@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Divine Love, Christ and the Church, Spiritual Intimacy, Bride's Devotion
 
-**Tags:** #song-songs-Solomon-kiss-kisses-mouth-love-better-wine-savour-good-ointments-name-ointment-poured-virgins-love-draw-run-king-brought-chambers-glad-rejoice-remember-love-wine-upright-love-black-comely-daughters-Jerusalem-tents-Kedar-curtains-Solomon-look-black-sun-looked-mother-children-angry-made-keeper-vineyards-own-vineyard-kept-Tell-soul-loveth-feedest-makest-flock-rest-noon-aside-flocks-companions-knowest-fairest-women-way-footsteps-flock-feed-kids-shepherds-tents-compared-love-company-horses-Pharaoh-chariots-cheeks-comely-rows-jewels-neck-chains-gold-borders-gold-studs-silver-king-sitteth-table-spikenard-sendeth-smell-bundle-myrrh-wellbeloved-night-betwixt-breasts-beloved-cluster-camphire-vineyards-En-gedi-fair-love-fair-doves-eyes-fair-beloved-pleasant-bed-green-beams-house-cedar-rafters-fir
+**Tags:** #divine-love #christ-and-the-church #spiritual-intimacy #bride
 
 ---
 

@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Divine Strength, Human Frailty, God's Victory, National Blessing
 
-**Tags:** #Psalm-David-Blessed-LORD-strength-teacheth-hands-war-fingers-fight-goodness-fortress-high-tower-deliverer-shield-trust-subdueth-people-LORD-man-takest-knowledge-son-man-makest-account-man-like-vanity-days-shadow-passeth-Bow-heavens-come-touch-mountains-smoke-Cast-lightning-scatter-shoot-arrows-destroy-Send-hand-above-rid-deliver-great-waters-hand-strange-children-mouth-speak-vanity-right-hand-falsehood-sing-new-song-God-psaltery-instrument-strings-sing-praises-giveth-salvation-kings-deliver-David-servant-hurtful-sword-rid-deliver-hand-strange-children-mouth-speak-vanity-right-hand-falsehood-sons-plants-grown-youth-daughters-corner-stones-polished-similitude-palace-garners-full-affording-manner-store-sheep-bring-thousands-ten-thousands-streets-oxen-strong-labour-breaking-going-complaining-streets-Happy-people-case-happy-people-GOD-LORD
+**Tags:** #divine-strength #human-frailty #god #national-blessing
 
 ---
 

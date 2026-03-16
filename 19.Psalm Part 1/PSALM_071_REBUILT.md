@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Lifelong Trust, Divine Protection, Old Age Faithfulness, Eternal Praise
 
-**Tags:** #LORD-trust-never-confusion-Deliver-righteousness-escape-incline-ear-save-strong-habitation-continually-resort-commandment-save-rock-fortress-Deliver-hand-wicked-hand-unrighteous-cruel-man-hope-Lord-GOD-trust-youth-holden-womb-took-mother-bowels-praise-continually-wonder-many-strong-refuge-mouth-filled-praise-honour-day-Cast-off-time-old-age-forsake-strength-faileth-enemies-speak-lay-wait-soul-counsel-together-GOD-forsaken-persecute-deliver-none-O-GOD-far-haste-help-confounded-consumed-adversaries-soul-covered-reproach-dishonour-seek-hurt-hope-continually-praise-mouth-shew-righteousness-salvation-day-know-numbers-strength-Lord-GOD-make-mention-righteousness-taught-youth-declared-wondrous-works-grayheaded-forsake-shewed-strength-generation-power-everyone-coming-righteousness-high-great-things-GOD-like-unto-shewed-great-sore-troubles-quicken-again-bring-depths-earth-increase-greatness-comfort-side-praise-psaltery-truth-GOD-sing-harp-Holy-One-Israel-lips-greatly-rejoice-sing-soul-redeemed-tongue-talk-righteousness-day-long-confounded-brought-shame-seek-hurt
+**Tags:** #lifelong-trust #divine-protection #old-age-faithfulness #eternal-praise
 
 ---
 

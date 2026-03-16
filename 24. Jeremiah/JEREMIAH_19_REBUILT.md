@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Bottle, Divine Judgment, Valley Slaughter, Christ's Brokenness
 
-**Tags:** #LORD-potter-earthen-bottle-ancients-people-ancients-priests-valley-son-Hinnom-entry-east-gate-proclaim-words-tell-Hear-word-LORD-kings-Judah-inhabitants-Jerusalem-LORD-hosts-God-Israel-evil-place-heareth-ears-tingle-forsaken-estranged-place-burned-incense-gods-fathers-kings-Judah-filled-place-blood-innocents-built-high-places-Baal-burn-sons-fire-burnt-offerings-Baal-commanded-spake-mind-days-LORD-place-called-Tophet-valley-son-Hinnom-valley-slaughter-void-counsel-Judah-Jerusalem-place-fall-sword-enemies-hands-seek-lives-carcases-meat-fowls-heaven-beasts-earth-city-desolate-hissing-passeth-astonished-plagues-eat-flesh-sons-flesh-daughters-eat-flesh-friend-siege-straitness-enemies-seek-lives-straiten-break-bottle-sight-men-break-potter-vessel-whole-bury-Tophet-place-bury-place-inhabitants-city-Tophet-houses-Jerusalem-houses-kings-Judah-defiled-place-Tophet-houses-roofs-burned-incense-host-heaven-poured-drink-offerings-gods-Jeremiah-Tophet-LORD-prophesy-stood-court-LORD-house-people-LORD-hosts-God-Israel-evil-city-towns-pronounced-hardened-necks-hear-words
+**Tags:** #christ #divine-judgment #valley-slaughter
 
 ---
 

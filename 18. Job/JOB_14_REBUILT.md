@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Human Frailty, Life's Brevity, Hope of Resurrection, Divine Judgment
 
-**Tags:** #man-born-woman-days-trouble #flower-cut-shadow-continueth #open-eyes-judgment #clean-unclean #days-determined-months-bounds-pass #turn-rest-accomplish-hireling-day #hope-tree-cut-sprout-tender-branch-cease #root-old-earth-stock-ground-die #scent-water-bud-boughs-plant #man-dieth-wasteth-ghost #waters-fail-sea-flood-decay-drieth #lieth-down-riseth-heavens-awake-sleep #hide-grave-secret-wrath-past-set-time-remember #die-live-again-appointed-time-wait-change #call-answer-desire-work-hands #number-steps-watch-sin #transgression-sealed-bag-sewed-iniquity #mountain-falling-nought-rock-place #waters-wear-stones-dust-earth-destroy-hope-man #prevailest-passeth-changest-countenance-send #sons-honour-know-brought-low-perceiveth #flesh-pain-soul-mourn
+**Tags:** #man-born-woman-days-trouble #flower-cut-shadow-continueth #open-eyes-judgment #clean-unclean #days-determined-months-bounds-pass #turn-rest-accomplish-hireling-day #scent-water-bud-boughs-plant #man-dieth-wasteth-ghost #call-answer-desire-work-hands #number-steps-watch-sin #transgression-sealed-bag-sewed-iniquity #mountain-falling-nought-rock-place #prevailest-passeth-changest-countenance-send #flesh-pain-soul-mourn #human-frailty #life #hope-of-resurrection #divine-judgment
 
 ---
 

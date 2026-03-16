@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Christ's Baptism, John the Baptist, Holy Spirit, Divine Sonship
 
-**Tags:** #days-John-Baptist-preaching-wilderness-Judaea-saying-Repent-kingdom-heaven-hand-spoken-prophet-Esaias-voice-crying-wilderness-Prepare-way-Lord-paths-straight-John-raiment-camel-hair-leathern-girdle-loins-meat-locusts-wild-honey-went-Jerusalem-Judaea-region-Jordan-baptized-Jordan-confessing-sins-Pharisees-Sadducees-baptism-generation-vipers-warned-flee-wrath-Bring-fruits-meet-repentance-think-say-Abraham-father-God-stones-raise-children-Abraham-axe-laid-root-trees-tree-bringeth-good-fruit-hewn-cast-fire-baptize-water-repentance-cometh-mightier-shoes-worthy-bear-baptize-Holy-Ghost-fan-hand-throughly-purge-floor-gather-wheat-garner-burn-chaff-unquenchable-fire-cometh-Jesus-Galilee-Jordan-John-baptized-John-forbad-need-baptized-comest-Jesus-answering-Suffer-fulfil-righteousness-suffered-Jesus-baptized-water-heavens-opened-Spirit-God-descending-dove-lighting-voice-heaven-beloved-Son-pleased
+**Tags:** #christ #john-the-baptist #holy-spirit #divine-sonship
 
 ---
 

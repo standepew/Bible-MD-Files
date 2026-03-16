@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Glory, Divine Light, Spiritual Prosperity, Christ's Eternal Light
 
-**Tags:** #Arise-shine-light-come-glory-LORD-risen-darkness-cover-earth-gross-darkness-people-LORD-arise-glory-seen-Gentiles-light-kings-brightness-rising-Lift-eyes-round-see-gather-come-sons-far-daughters-nursed-side-flow-heart-fear-enlarged-abundance-sea-converted-forces-Gentiles-multitude-camels-cover-dromedaries-Midian-Ephah-Sheba-gold-incense-shew-praises-LORD-flocks-Kedar-gathered-rams-Nebaioth-minister-acceptance-altar-glorify-house-glory-fly-cloud-doves-windows-isles-wait-ships-Tarshish-bring-sons-far-silver-gold-LORD-God-Holy-One-Israel-glorified-sons-strangers-build-walls-kings-minister-wrath-smote-favour-mercy-gates-open-shut-day-night-men-bring-forces-Gentiles-kings-brought-nation-kingdom-serve-perish-nations-wasted-glory-Lebanon-fir-tree-pine-tree-box-beautify-place-sanctuary-place-feet-glorious-sons-afflicted-bending-despised-bow-soles-feet-call-city-LORD-Zion-Holy-One-Israel-forsaken-hated-man-went-eternal-excellency-joy-generations-suck-milk-Gentiles-suck-breast-kings-know-LORD-Saviour-Redeemer-mighty-Jacob-brass-gold-iron-silver-wood-brass-stones-iron-officers-peace-exactors-righteousness-Violence-heard-land-wasting-destruction-borders-call-walls-Salvation-gates-Praise-sun-light-day-moon-brightness-LORD-everlasting-light-God-glory-sun-moon-withdraw-LORD-everlasting-light-days-mourning-ended-people-righteous-inherit-land-branch-planting-work-hands-glorified-little-thousand-small-strong-nation-LORD-hasten-time
+**Tags:** #christ #divine-light #spiritual-prosperity
 
 ---
 

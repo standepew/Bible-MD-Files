@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Presence, Church's Beauty, Spiritual Unity, Divine Exaltation
 
-**Tags:** #whither-beloved-gone-fairest-women-whither-beloved-turned-aside-seek-beloved-garden-beds-spices-feed-gardens-gather-lilies-beloved-mine-beloved-mine-feedeth-lilies-beautiful-love-Tirzah-comely-Jerusalem-terrible-army-banners-Turn-away-eyes-overcome-hair-flock-goats-appear-Gilead-teeth-flock-sheep-washing-every-bear-twins-barren-piece-pomegranate-temples-locks-threescore-queens-fourscore-concubines-virgins-number-dove-undefiled-mother-choice-bare-daughters-saw-blessed-queens-concubines-praised-looketh-morning-fair-moon-clear-sun-terrible-army-banners-went-garden-nuts-fruits-valley-vine-flourished-pomegranates-budded-aware-soul-chariots-Amminadib-Return-Shulamite-look-Shulamite-company-armies
+**Tags:** #christ #church #spiritual-unity #divine-exaltation
 
 ---
 

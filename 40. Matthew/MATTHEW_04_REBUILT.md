@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Christ's Temptation, Kingdom Ministry, Calling Disciples, Divine Healing
 
-**Tags:** #Jesus-led-Spirit-wilderness-tempted-devil-fasted-forty-days-forty-nights-afterward-hungred-tempter-come-Son-God-command-stones-bread-answered-written-Man-live-bread-alone-word-proceedeth-mouth-God-devil-taketh-holy-city-set-pinnacle-temple-Son-God-cast-down-written-angels-charge-thee-hands-bear-thee-dash-foot-stone-Jesus-written-tempt-Lord-God-devil-taketh-exceeding-high-mountain-shewed-kingdoms-world-glory-All-things-give-fall-worship-Jesus-said-Get-thee-Satan-written-worship-Lord-God-serve-devil-leaveth-behold-angels-came-ministered-Jesus-heard-John-cast-prison-departed-Galilee-leaving-Nazareth-dwelt-Capernaum-sea-coast-borders-Zabulon-Nephthalim-fulfilled-spoken-Esaias-prophet-land-Zabulon-land-Nephthalim-way-sea-beyond-Jordan-Galilee-Gentiles-people-sat-darkness-saw-great-light-sat-region-shadow-death-light-sprung-time-Jesus-began-preach-saying-Repent-kingdom-heaven-hand-walking-sea-Galilee-brethren-Simon-called-Peter-Andrew-brother-casting-net-sea-fishers-said-Follow-make-fishers-men-straightway-left-nets-followed-going-thence-brethren-James-son-Zebedee-John-brother-ship-Zebedee-father-mending-nets-called-immediately-left-ship-father-followed-Jesus-Galilee-teaching-synagogues-preaching-gospel-kingdom-healing-manner-sickness-manner-disease-people-fame-Syria-brought-sick-people-taken-divers-diseases-torments-possessed-devils-lunatick-palsy-healed-followed-multitudes-people-Galilee-Decapolis-Jerusalem-Judaea-beyond-Jordan
+**Tags:** #christ #kingdom-ministry #calling-disciples #divine-healing
 
 ---
 

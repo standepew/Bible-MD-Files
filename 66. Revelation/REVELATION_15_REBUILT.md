@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** The Seven Last Plagues, The Sea of Glass, The Song of Moses and the Lamb, The Temple Opened, The Seven Angels with Vials
 
-**Tags:** #sign-heaven-great-marvellous-seven-angels-seven-last-plagues-filled-wrath-God-sea-glass-mingled-fire-gotten-victory-beast-image-mark-number-name-stand-sea-glass-harps-God-sing-song-Moses-servant-God-song-Lamb-Great-marvellous-works-Lord-God-Almighty-true-ways-King-saints-fear-glorify-name-holy-nations-worship-judgments-manifest-looked-temple-tabernacle-testimony-heaven-opened-seven-angels-temple-seven-plagues-clothed-pure-white-linen-breasts-girded-golden-girdles-four-beasts-gave-seven-angels-seven-golden-vials-full-wrath-God-liveth-temple-filled-smoke-glory-God-power-enter-temple-seven-plagues-seven-angels-fulfilled
+**Tags:** #the-seven-last-plagues #the-sea-of-glass #the-song-of-moses-and-the #the-temple-opened #the-seven-angels-with-vials
 
 ---
 

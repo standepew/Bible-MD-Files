@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Perfecting Holiness, Godly Sorrow, Paul's Comfort, Confidence in the Corinthians
 
-**Tags:** #promises-dearly-beloved-cleanse-filthiness-flesh-spirit-perfecting-holiness-fear-God-receive-wronged-corrupted-defrauded-condemn-hearts-die-live-boldness-speech-glorying-filled-comfort-exceeding-joyful-tribulation-Macedonia-flesh-rest-troubled-side-without-fightings-within-fears-God-comforteth-cast-comforted-coming-Titus-coming-consolation-comforted-told-earnest-desire-mourning-fervent-mind-rejoiced-sorry-letter-repent-perceive-epistle-sorry-season-rejoice-sorry-sorrowed-repentance-sorry-godly-manner-receive-damage-godly-sorrow-worketh-repentance-salvation-repented-sorrow-world-worketh-death-behold-selfsame-sorrowed-godly-sort-carefulness-wrought-clearing-indignation-fear-vehement-desire-zeal-revenge-approved-clear-matter-wrote-cause-done-wrong-cause-suffered-wrong-care-sight-God-appear-comforted-comfort-exceedingly-joyed-joy-Titus-spirit-refreshed-boasted-ashamed-spake-truth-boasting-found-truth-inward-affection-abundant-remembereth-obedience-fear-trembling-received-confidence
+**Tags:** #perfecting-holiness #godly-sorrow #paul #confidence-in-the-corinthians
 
 ---
 

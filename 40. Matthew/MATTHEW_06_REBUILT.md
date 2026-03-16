@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Christ's Prayer Life, Secret Devotion, Heavenly Treasures, Divine Provision
 
-**Tags:** #Take-heed-alms-men-seen-reward-Father-heaven-alms-trumpet-hypocrites-synagogues-streets-glory-men-reward-alms-left-hand-right-hand-secret-alms-secret-Father-reward-openly-pray-hypocrites-synagogues-corners-streets-seen-men-reward-pray-closet-shut-door-pray-Father-secret-Father-reward-openly-pray-vain-repetitions-heathen-much-speaking-heard-Father-knoweth-need-ask-manner-pray-Father-heaven-Hallowed-name-kingdom-come-will-earth-heaven-daily-bread-forgive-debts-forgive-debtors-lead-temptation-deliver-evil-kingdom-power-glory-forever-Amen-forgive-trespasses-heavenly-Father-forgive-forgive-trespasses-fasting-hypocrites-sad-countenance-disfigure-faces-appear-men-fast-reward-anoint-head-wash-face-appear-men-fast-Father-secret-reward-openly-treasures-earth-moth-rust-corrupt-thieves-break-steal-treasures-heaven-moth-rust-corrupt-thieves-break-steal-treasure-heart-light-body-eye-single-body-full-light-eye-evil-body-full-darkness-light-darkness-great-darkness-serve-masters-hate-love-despise-serve-God-mammon-thought-life-eat-drink-body-raiment-life-meat-body-raiment-fowls-air-sow-reap-gather-barns-heavenly-Father-feedeth-better-taking-thought-add-cubit-stature-raiment-lilies-field-grow-toil-spin-Solomon-glory-arrayed-clothe-grass-field-today-tomorrow-oven-clothe-little-faith-thought-eat-drink-raiment-Gentiles-seek-heavenly-Father-know-need-seek-kingdom-God-righteousness-added-take-thought-morrow-take-thought-morrow-sufficient-evil
+**Tags:** #christ #secret-devotion #heavenly-treasures #divine-provision
 
 ---
 

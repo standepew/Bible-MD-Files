@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Temple Construction, Divine Pattern, Holy Place, Cherubim Design
 
-**Tags:** #Solomon-began-build-house-LORD-Jerusalem-mount-Moriah-Lord-appeared-David-father-threshingfloor-Ornan-Jebusite #Solomon-began-build-second-day-second-month-fourth-year-reign #Solomon-instructed-building-house-God-length-cubits-first-measure-threescore-cubits-breadth-twenty-cubits #porch-front-house-length-breadth-house-twenty-cubits-height-hundred-twenty-cubits-overlaid-pure-gold #greater-house-cieled-fir-tree-overlaid-fine-gold-palm-trees-chains #garnished-house-precious-stones-beauty-gold-gold-Parvaim #overlaid-house-beams-posts-walls-doors-gold-graved-cherubims-walls #most-holy-house-length-breadth-house-twenty-cubits-breadth-twenty-cubits-overlaid-fine-gold-six-hundred-talents #weight-nails-fifty-shekels-gold-overlaid-upper-chambers-gold #most-holy-house-two-cherubims-image-work-overlaid-gold #wings-cherubims-twenty-cubits-long-wing-cherub-five-cubits-reaching-wall-house-wing-cherub-five-cubits-reaching-wing-cherub #wing-cherub-five-cubits-reaching-wall-house-wing-five-cubits-joining-wing-cherub #wings-cherubims-spread-twenty-cubits-stood-feet-faces-inward #vail-blue-purple-crimson-fine-linen-wrought-cherubims #house-two-pillars-thirty-five-cubits-high-chapiter-top-five-cubits #chains-oracle-heads-pillars-hundred-pomegranates-chains #reared-pillars-temple-right-hand-left-hand-called-name-right-hand-Jachin-name-left-Boaz
+**Tags:** #temple-construction #divine-pattern #holy-place #cherubim-design
 
 ---
 

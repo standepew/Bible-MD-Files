@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** General Revelation, Special Revelation, God's Law, Human Depravity
 
-**Tags:** #chief-Musician-Psalm-David-heavens-declare-glory-GOD-firmament-sheweth-handywork-day-uttereth-speech-night-sheweth-knowledge-speech-language-voice-heard-line-earth-words-world-tabernacle-sun #bridegroom-chamber-rejoiceth-strong-man-run-race-going-forth-heaven-circuit-ends-heat-LORD-law-perfect-converting-soul-testimony-sure-wise-simple-statutes-right-rejoicing-heart-commandment-pure-enlightening-eyes #fear-clean-enduring-judgments-true-righteous-desired-gold-fine-gold-sweeter-honey-honeycomb-servant-warned-keeping-reward-understand-errors-cleanse-secret-faults-keep-back-servant-presumptuous-sins-dominion-upright-innocent-great-transgression #words-mouth-meditation-heart-acceptable-sight-LORD-strength-redeemer
+**Tags:** #general-revelation #special-revelation #god #human-depravity
 
 ---
 

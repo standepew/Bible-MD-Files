@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Job's Righteousness, Heavenly Council, Satan's Challenge, Catastrophic Loss
 
-**Tags:** #man-land-Uz-name-Job-perfect-upright-feared-GOD-eschewed-evil #seven-sons-three-daughters #substance-seven-thousand-sheep-three-thousand-camels-five-hundred-yoke-oxen-five-hundred-she-asses-great-household-greatest-men-east #sons-feasted-houses-day-called-sisters-eat-drink #days-feasting-Job-sanctified-rose-morning-offered-burnt-offerings-number-sons-sinned-cursed-GOD-hearts-continually #day-sons-GOD-present-LORD-Satan #LORD-Satan-whence-comest-Satan-LORD-going-earth-walking #LORD-Satan-considered-servant-Job-earth-perfect-upright-feared-GOD-eschewed-evil #Satan-LORD-Job-fear-GOD-nought #hedge-house-hands-blessed-work-hands-substance-increased-land #put-hand-touch-curse-face #LORD-Satan-hand-power-hand-Satan-LORD #day-sons-daughters-eating-drinking-wine-eldest-brother-house #messenger-Job-oxen-plowing-asses-feeding #Sabeans-servants-sword-escaped-tell #speaking-messenger-fire-GOD-heaven-burned-sheep-servants-consumed-escaped-tell #speaking-messenger-Chaldeans-three-bands-camels-carried-servants-sword-escaped-tell #speaking-messenger-sons-daughters-eating-drinking-wine-eldest-brother-house #great-wind-wilderness-smote-four-corners-house-fell-young-men-dead-escaped-tell #Job-arose-rent-mantle-shaved-head-fell-ground-worshipped #Naked-mother-womb-naked-return-LORD-gave-LORD-blessed-name-LORD #Job-sinned-charged-GOD-foolishly
+**Tags:** #seven-sons-three-daughters #put-hand-touch-curse-face #Sabeans-servants-sword-escaped-tell #Job-sinned-charged-GOD-foolishly #job #heavenly-council #satan #catastrophic-loss
 
 ---
 

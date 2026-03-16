@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Thanksgiving for Growing Faith, Persecution and God's Judgment, Christ's Revelation, Glorification of Saints
 
-**Tags:** #Paul-Silvanus-Timotheus-church-Thessalonians-God-Father-Lord-Jesus-Christ-grace-peace-God-Father-Lord-Jesus-Christ-bound-thank-God-brethren-meet-faith-groweth-exceedingly-charity-toward-aboundeth-glory-churches-God-patience-faith-persecutions-tribulations-endure-manifest-token-righteous-judgment-God-counted-worthy-kingdom-God-suffer-righteous-God-recompense-tribulation-trouble-troubled-rest-Lord-Jesus-revealed-heaven-mighty-angels-flaming-fire-vengeance-know-God-obey-gospel-Lord-Jesus-Christ-punished-everlasting-destruction-presence-Lord-glory-power-come-glorified-saints-admired-believe-testimony-believed-day-pray-always-God-count-worthy-calling-fulfil-good-pleasure-goodness-work-faith-power-name-Lord-Jesus-Christ-glorified-grace-God-Lord-Jesus-Christ
+**Tags:** #thanksgiving-for-growing-faith #persecution-and-god #christ #glorification-of-saints
 
 ---
 

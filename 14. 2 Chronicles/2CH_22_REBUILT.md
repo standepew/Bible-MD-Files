@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Wicked Succession, Divine Judgment, Royal Preservation, Athaliah's Usurpation
 
-**Tags:** #inhabitants-Jerusalem-Ahaziah-youngest-son-king-band-men-Arabians-camp-slain-eldest-Ahaziah-son-Jehoram-king-Judah-reigned #forty-two-years-Ahaziah-reigned-year-Jerusalem-mother-Athaliah-daughter-Omri #walked-ways-house-Ahab-mother-counsellor-wickedly #evil-sight-LORD-house-Ahab-counsellors-death-father-destruction #walked-counsel-Jehoram-son-Ahab-king-Israel-war-Hazael-king-Syria-Ramoth-gilead-Syrians-smote-Joram #returned-healed-Jezreel-wounds-Ramah-fought-Hazael-king-Syria-Azariah-son-Jehoram-king-Judah-Jehoram-son-Ahab-Jezreel-sick #destruction-Ahaziah-God-Jehoram-Jehu-son-Nimshi-LORD-anointed-cut-house-Ahab #Jehu-executing-judgment-house-Ahab-princes-Judah-sons-brethren-Ahaziah-ministered-Ahaziah-slew #sought-Ahaziah-caught-hid-Samaria-brought-Jehu-slain-buried-son-Jehoshaphat-sought-LORD-heart-house-Ahaziah-power-keep-kingdom #Athaliah-mother-Ahaziah-son-dead-arose-destroyed-seed-royal-house-Judah #Jehoshabeath-daughter-king-Joash-son-Ahaziah-stole-king-sons-slain-bedchamber-Jehoshabeath-daughter-king-Jehoram-wife-Jehoiada-priest-sister-Ahaziah-hid-Athaliah-slew #hid-house-God-six-years-Athaliah-reigned-land
+**Tags:** #wicked-succession #divine-judgment #royal-preservation #athaliah
 
 ---
 

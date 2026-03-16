@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Divine Justice, God's Light and Truth, Worship in Joy, Hope in God
 
-**Tags:** #Judge-GOD-plead-cause-ungodly-nation-deliver-deceitful-unjust-man-GOD-strength-cast-mourning-oppression-enemy-send-light-truth-lead-bring-holy-hill-tabernacles-altar-GOD-exceeding-joy-harp-praise-GOD-cast-soul-disquieted-within-hope-GOD-praise-health-countenance-GOD
+**Tags:** #divine-justice #god #worship-in-joy #hope-in-god
 
 ---
 

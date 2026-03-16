@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** David Spares Saul, Respect for God's Anointed, Cave Encounter, David's Integrity, Saul's Confession, Covenant of Mercy
 
-**Tags:** #Saul-returned-Philistines-David-wilderness-En-gedi #Saul-three-thousand-chosen-Israel-David-men-rocks-wild-goats #sheepcotes-way-cave-Saul-cover-feet-David-men-sides-cave #men-David-LORD-deliver-enemy-hand-seem-good-David-arose-cut-skirt-Saul-robe-privily #David-heart-smote-cut-skirt-Saul #David-men-LORD-thing-master-LORD-anointed-hand-anointed-LORD #David-stayed-servants-words-rise-Saul-Saul-cave-way #David-arose-cave-cried-Saul-lord-king-Saul-looked-David-stooped-face-earth-bowed #David-Saul-hearest-men-words-David-seeketh-hurt #eyes-LORD-delivered-hand-cave-bade-kill-spared-hand-lord-LORD-anointed #father-skirt-robe-hand-cut-skirt-robe-killed-know-evil-transgression-hand-sinned-huntest-soul #LORD-judge-LORD-avenge-hand #proverb-ancients-wickedness-wicked-hand #king-Israel-pursue-dead-dog-flea #LORD-judge-judge-plead-cause-deliver-hand #David-words-Saul-voice-son-David-Saul-voice-wept #Saul-David-righteous-rewarded-good-rewarded-evil #shewed-dealt-well-LORD-delivered-hand-killed #enemy-well-LORD-reward #know-king-kingdom-Israel-hand #Swear-LORD-cut-seed-destroy-name-father-house #David-sware-Saul-Saul-home-David-men-hold
+**Tags:** #LORD-judge-LORD-avenge-hand #proverb-ancients-wickedness-wicked-hand #enemy-well-LORD-reward #know-king-kingdom-Israel-hand #david-spares-saul #respect-for-god #cave-encounter #david #saul #covenant-of-mercy
 
 ---
 

@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Be Strong in Grace, Commit to Faithful Men, The Good Soldier, The Athlete, The Farmer, Christ's Resurrection, Faithful Saying, Approved Workman, Vessels of Honor
 
-**Tags:** #son-strong-grace-Christ-Jesus-things-heard-many-witnesses-commit-faithful-men-able-teach-endure-hardness-good-soldier-Jesus-Christ-warreth-entangle-affairs-life-please-chosen-soldier-strive-masteries-crowned-strive-lawfully-husbandman-laboureth-first-partaker-fruits-Consider-Lord-understanding-remember-Jesus-Christ-seed-David-raised-dead-gospel-suffer-trouble-evil-doer-bonds-word-God-bound-endure-things-elect-sakes-obtain-salvation-Christ-Jesus-eternal-glory-faithful-saying-dead-live-suffer-reign-deny-deny-believe-not-abideth-faithful-cannot-deny-remembrance-charging-Lord-strive-words-profit-subverting-hearers-Study-approved-God-workman-ashamed-rightly-dividing-word-truth-shun-profane-vain-babblings-increase-ungodliness-word-eat-canker-Hymenaeus-Philetus-truth-erred-resurrection-past-overthrow-faith-foundation-God-standeth-sure-seal-Lord-knoweth-nameth-name-Christ-depart-iniquity-great-house-vessels-gold-silver-wood-earth-honour-dishonour-purge-vessel-honour-sanctified-meet-master-use-prepared-good-work-Flee-youthful-lusts-follow-righteousness-faith-charity-peace-call-Lord-pure-heart-foolish-unlearned-questions-avoid-gender-strifes-servant-Lord-strive-gentle-men-apt-teach-patient-meekness-instructing-oppose-God-peradventure-give-repentance-acknowledging-truth-recover-snares-devil-taken-captive-will
+**Tags:** #be-strong-in-grace #commit-to-faithful-men #the-good-soldier #the-athlete #the-farmer #christ #faithful-saying #approved-workman #vessels-of-honor
 
 ---
 

@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Melchizedek's Priesthood, Christ's Superior Priesthood, Change of Law and Priesthood, Christ's Unchangeable Priesthood
 
-**Tags:** #Melchisedec-king-Salem-priest-high-God-met-Abraham-returning-slaughter-kings-blessed-Abraham-tenth-part-interpretation-King-righteousness-King-Salem-King-peace-father-mother-descent-beginning-days-end-life-like-Son-God-priest-continually-consider-great-man-patriarch-Abraham-tenth-spoils-sons-Levi-receive-office-priesthood-commandment-tithes-people-law-brethren-loins-Abraham-descent-counted-tithes-Abraham-blessed-promises-contradiction-less-blessed-better-die-receive-tithes-receiveth-witnessed-liveth-Levi-receiveth-tithes-payed-tithes-Abraham-loins-father-Melchisedec-perfection-Levitical-priesthood-law-people-received-law-priest-rise-order-Melchisedec-called-order-Aaron-priesthood-changed-change-law-spoken-pertaineth-tribe-attendance-altar-evident-Lord-sprang-Juda-tribe-Moses-spoke-priesthood-evident-similitude-Melchisedec-arises-priest-made-law-carnal-commandment-power-endless-life-testifieth-priest-order-Melchisedec-disannulling-commandment-weakness-unprofitableness-law-perfect-bringing-better-hope-draw-nigh-God-oath-priest-priests-oath-oath-Lord-sware-repent-priest-order-Melchisedec-Jesus-surety-better-testament-priests-continue-death-continues-unchangeable-priesthood-able-save-uttermost-come-God-lives-intercession-high-priest-holy-harmless-undefiled-separate-sinners-higher-heavens-needeth-daily-high-priests-offer-sacrifice-sins-people-offered-law-priests-infirmity-oath-law-consecrated-forevermore
+**Tags:** #melchizedek #christ #change-of-law-and-priesthood
 
 ---
 

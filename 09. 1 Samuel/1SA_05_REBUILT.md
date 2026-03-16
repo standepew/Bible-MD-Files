@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Ark in Philistia, Dagon Fallen, Dagon Destroyed, Ashdod Plagued, Ark to Gath, Gath Plagued, Ark to Ekron, Ekron Plagued, Ark Returned
 
-**Tags:** #Philistines-ark-God-Eben-ezer-Ashdod #Philistines-ark-God-house-Dagon-set-Dagon #Ashdod-early-morrow-Dagon-fallen-face-earth-ark-LORD #Dagon-place #early-morrow-morning-Dagon-fallen-face-ground-ark-LORD #head-Dagon-palms-hands-cut-threshold-stump-Dagon-left #priests-Dagon-Dagon-house-tread-threshold-Dagon-Ashdod-day #hand-LORD-heavy-Ashdod-destroyed-smote-emerods-Ashdod-coasts #men-Ashdod-ark-God-Israel-abide-hand-sore-Dagon-god #sent-gathered-lords-Philistines-ark-God-Israel #ark-God-Israel-carried-Gath-carried-ark-God-Israel-thither #carried-hand-LORD-city-great-destruction-smote-men-city-small-great-emerods-secret-parts #ark-God-Ekron-ark-God-Ekron-Ekronites-cried-ark-God-Israel-slay-people #sent-gathered-lords-Philistines-away-ark-God-Israel-place-slay-people #dead-destruction-city-hand-God-heavy #died-smote-emerods-cry-city-heaven
+**Tags:** #Dagon-place #ark-in-philistia #dagon-fallen #dagon-destroyed #ashdod-plagued #ark-to-gath #gath-plagued #ark-to-ekron #ekron-plagued #ark-returned
 
 ---
 

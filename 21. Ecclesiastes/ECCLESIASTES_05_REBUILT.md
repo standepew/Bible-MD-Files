@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Worship and Reverence, Vows and Promises, Wealth and Contentment, Divine Justice
 
-**Tags:** #Keep-foot-goest-house-God-ready-hear-give-sacrifice-fools-consider-evil-rash-mouth-heart-hasty-utter-thing-God-God-heaven-therefore-words-few-dream-cometh-multitude-business-fool-voice-multitude-words-vowest-vow-God-defer-pay-pleasure-fools-pay-vowed-Better-vow-vow-pay-Suffer-mouth-cause-flesh-sin-say-angel-error-wherefore-God-angry-voice-destroy-work-hands-multitude-dreams-many-words-divers-vanities-fear-God-seest-oppression-poor-violent-perverting-judgment-justice-province-marvel-matter-higher-highest-regard-higher-profit-earth-king-served-field-loveth-silver-satisfied-silver-loveth-abundance-increase-vanity-goods-increased-increased-eat-owners-beholding-eyes-sleep-labouring-man-sweet-eat-much-abundance-rich-suffer-sleep-sore-evil-seen-sun-riches-kept-owners-hurt-riches-perish-evil-travail-begetteth-son-nothing-hand-came-mother-womb-naked-return-naked-take-labour-carry-hand-sore-evil-points-came-shall-go-profit-laboured-wind-eat-days-darkness-much-sorrow-wrath-sickness-behold-seen-good-comely-eat-drink-enjoy-good-labour-taketh-sun-days-life-God-giveth-portion-man-God-given-riches-wealth-given-power-eat-portion-rejoice-labour-gift-God-remember-days-life-God-answereth-joy-heart
+**Tags:** #worship-and-reverence #vows-and-promises #wealth-and-contentment #divine-justice
 
 ---
 

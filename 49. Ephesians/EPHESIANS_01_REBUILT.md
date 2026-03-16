@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Spiritual Blessings, Divine Election, Redemption in Christ, Sealed with the Spirit
 
-**Tags:** #Paul-apostle-Jesus-Christ-will-God-saints-Ephesus-faithful-Christ-Jesus-grace-peace-God-Father-Lord-Jesus-Christ-Blessed-God-Father-Lord-Jesus-Christ-blessed-spiritual-blessings-heavenly-places-Christ-chosen-foundation-world-holy-without-blame-love-predestinated-adoption-children-Jesus-Christ-good-pleasure-will-praise-glory-grace-accepted-beloved-redemption-blood-forgiveness-sins-riches-grace-abounded-wisdom-prudence-mystery-will-good-pleasure-purposed-dispensation-fulness-times-gather-Christ-heaven-earth-inheritance-predestinated-purpose-worketh-things-counsel-praise-glory-trusted-Christ-heard-word-truth-gospel-salvation-believed-sealed-holy-Spirit-promise-earnest-inheritance-redemption-purchased-possession-praise-glory-heard-faith-Lord-Jesus-love-saints-cease-thanks-prayers-mention-God-Lord-Jesus-Christ-Father-glory-spirit-wisdom-revelation-knowledge-eyes-understanding-enlightened-hope-calling-riches-glory-inheritance-saints-exceeding-greatness-power-believe-working-mighty-power-wrought-Christ-raised-dead-set-right-hand-heavenly-places-principality-power-might-dominion-name-named-world-put-things-feet-gave-head-things-church-body-fulness-filleth
+**Tags:** #spiritual-blessings #divine-election #redemption-in-christ #sealed-with-the-spirit
 
 ---
 

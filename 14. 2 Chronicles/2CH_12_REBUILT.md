@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Divine Judgment, Egyptian Invasion, Humble Repentance, Partial Restoration
 
-**Tags:** #Rehoboam-established-kingdom-strengthened-forsake-law-LORD-Israel #fifth-year-king-Rehoboam-Shishak-king-Egypt-Jerusalem-transgressed-LORD #twelve-hundred-chariots-threescore-thousand-horsemen-people-number-Egypt-Lubims-Sukkiims-Ethiopians #took-fenced-cities-Judah-Jerusalem #Shemaiah-prophet-Rehoboam-princes-Judah-gathered-Jerusalem-Shishak-LORD-forsaken-left-hand-Shishak #princes-Israel-king-humbled-LORD-righteous #LORD-humbled-word-LORD-Shemaiah-humbled-destroy-grant-deliverance-wrath-poured-Jerusalem-hand-Shishak #servants-service-service-kingdoms-countries #Shishak-king-Egypt-Jerusalem-treasures-house-LORD-treasures-king-house-shields-gold-Solomon-made #king-Rehoboam-shields-brass-chief-guard-entrance-king-house #king-entered-house-LORD-guard-fetched-guard-chamber #humbled-wrath-LORD-turned-destroy-altogether-Judah-well #king-Rehoboam-strengthened-Jerusalem-reigned-forty-years-reigned-seventeen-years-Jerusalem-city-LORD-chosen-tribes-Israel-name-mother-Naamah-Ammonitess #evil-prepared-heart-seek-LORD #acts-Rehoboam-first-last-book-Shemaiah-prophet-Iddo-seer-genealogies-wars-Rehoboam-Jeroboam-continually #Rehoboam-slept-fathers-buried-city-David-Abijah-son-reigned-stead
+**Tags:** #took-fenced-cities-Judah-Jerusalem #servants-service-service-kingdoms-countries #evil-prepared-heart-seek-LORD #divine-judgment #egyptian-invasion #humble-repentance #partial-restoration
 
 ---
 

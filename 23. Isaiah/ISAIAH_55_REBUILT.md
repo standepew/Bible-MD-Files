@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Invitation, Divine Provision, Spiritual Salvation, Eternal Covenant
 
-**Tags:** #thirsteth-waters-money-buy-eat-buy-wine-milk-without-money-price-spend-money-bread-labour-satisfieth-hearken-diligently-eat-good-soul-delight-fatness-Incline-ear-come-hear-soul-live-everlasting-covenant-sure-mercies-David-witness-people-leader-commander-people-Behold-call-nation-knowest-nations-knew-run-LORD-God-Holy-One-Israel-glorified-Seek-LORD-found-call-near-wicked-forsake-way-unrighteous-thoughts-return-LORD-mercy-God-abundantly-pardon-thoughts-ways-LORD-heavens-higher-earth-ways-higher-thoughts-rain-snow-heaven-return-thither-watereth-earth-bring-bud-seed-sower-bread-eater-word-mouth-return-void-accomplish-please-prosper-thing-sent-joy-peace-mountains-hills-break-singing-trees-field-clap-hands-thorn-fir-tree-brier-myrtle-tree-LORD-name-everlasting-sign-cut
+**Tags:** #christ #divine-provision #spiritual-salvation #eternal-covenant
 
 ---
 

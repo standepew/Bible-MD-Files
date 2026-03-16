@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Feeding Four Thousand, Sign of Heaven, Healing of Blind Man, Peter's Confession, Christ's Suffering
 
-**Tags:** #multitude-great-nothing-eat-Jesus-disciples-compassion-multitude-three-days-nothing-eat-send-fasting-houses-faint-way-far-disciples-answered-satisfy-bread-wilderness-loaves-commanded-people-ground-loaves-given-thanks-brake-disciples-set-people-small-fishes-blessed-commanded-ate-filled-broken-meat-left-seven-baskets-eaten-four-thousand-sent-ship-disciples-parts-Dalmanutha-Pharisees-question-sign-heaven-tempting-sighed-spirit-generation-seek-sign-verily-sign-generation-left-ship-departed-side-disciples-forgotten-bread-ship-loaf-charged-Take-heed-beware-leaven-Pharisees-leaven-Herod-reasoned-bread-Jesus-knew-reason-bread-perceive-understand-heart-hardened-eyes-see-ears-hear-remember-brake-loaves-five-thousand-baskets-fragments-Twelve-four-thousand-baskets-fragments-Seven-understand-Bethsaida-blind-man-touch-blind-man-hand-led-town-spit-eyes-hands-ask-saw-looked-men-trees-walking-hands-eyes-look-restored-saw-man-clearly-sent-house-town-town-Jesus-disciples-towns-Cæsarea-Philippi-way-disciples-men-say-John-Baptist-Elias-prophets-Christ-tell-man-teach-Son-man-suffer-things-rejected-elders-chief-priests-scribes-killed-three-days-rise-saying-openly-Peter-rebuke-turned-disciples-rebuked-Peter-Satan-savourest-God-men-people-disciples-come-deny-cross-follow-save-life-lose-life-lose-life-gospel-save-life-profit-world-lose-soul-exchange-soul-ashamed-words-adulterous-sinful-generation-Son-man-ashamed-glory-Father-holy-angels
+**Tags:** #feeding-four-thousand #sign-of-heaven #healing-of-blind-man #peter #christ
 
 ---
 

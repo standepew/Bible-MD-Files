@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Contentment and Strife, Wisdom and Folly, Friendship and Loyalty, Justice and Mercy
 
-**Tags:** #dry-morsel-quietness-house-full-sacrifices-strife-wise-servant-rule-son-causeth-shame-part-inheritance-brethren-fining-pot-silver-furnace-gold-LORD-trieth-hearts-wicked-doer-giveth-heed-false-lips-liar-giveth-ear-naughty-tongue-mocketh-poor-reproacheth-Maker-glad-calamities-punished-Children-children-crown-old-men-glory-children-fathers-Excellent-speech-becometh-fool-lying-lips-prince-gift-precious-stone-eyes-hath-wheresoever-turneth-prospereth-covereth-transgression-seeketh-love-repeateth-matter-separateth-friends-reproof-enter-wise-man-hundred-stripes-fool-evil-man-seeketh-rebellion-cruel-messenger-sent-bear-robbed-whelps-meet-man-rather-fool-folly-rewardeth-evil-good-evil-depart-house-beginning-strife-water-meddled-contention-leaveth-meddled-strife-justifieth-wicked-condemneth-just-abomination-LORD-price-hand-fool-wisdom-heart-friend-loveth-times-brother-born-adversity-man-void-understanding-striketh-hands-becometh-surety-presence-friend-loveth-transgression-loveth-strife-exalteth-gate-seeketh-destruction-froward-heart-find-good-perverse-tongue-falleth-mischief-begetteth-fool-sorrow-father-fool-joy-merry-heart-medicine-broken-spirit-drieth-bones-wicked-man-taketh-gift-bosom-pervert-ways-judgment-Wisdom-understanding-eyes-fool-ends-earth-foolish-son-grief-father-bitterness-bare-punish-just-good-strike-princes-equity-knowledge-spareth-words-man-understanding-excellent-spirit-fool-holdeth-peace-counted-wise-shutteth-lips-esteemed-man-understanding
+**Tags:** #contentment-and-strife #wisdom-and-folly #friendship-and-loyalty #justice-and-mercy
 
 ---
 

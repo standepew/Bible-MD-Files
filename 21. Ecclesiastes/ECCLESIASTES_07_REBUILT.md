@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Wisdom and Mortality, Sorrow and Joy, Divine Providence, Human Limitations
 
-**Tags:** #good-name-better-precious-ointment-day-death-day-birth-house-mourning-house-feasting-end-men-living-heart-sorrow-better-laughter-sadness-countenance-heart-made-better-heart-wise-house-mourning-heart-fools-house-mirth-hear-rebuke-wise-man-hear-song-fools-crackling-thorns-pot-laughter-fool-vanity-oppression-maketh-wise-man-mad-gift-destroy-heart-end-thing-beginning-patient-spirit-proud-spirit-hasty-spirit-angry-anger-resteth-bosom-fools-cause-former-days-better-enquire-wisely-concerning-wisdom-good-inheritance-profit-see-sun-wisdom-defence-money-defence-excellency-knowledge-wisdom-giveth-life-Consider-work-God-straight-made-crooked-day-prosperity-joyful-day-adversity-consider-God-set-against-should-find-nothing-days-vanity-just-man-perisheth-righteousness-wicked-man-prolongeth-life-wickedness-righteous-much-destroy-righteous-over-much-wise-destroy-over-much-wicked-foolish-die-time-good-take-hold-withdraw-hand-feareth-God-come-forth-Wisdom-strengtheneth-wise-mighty-men-city-just-man-earth-good-sinneth-take-heed-words-spoken-hear-servant-curse-oftentimes-heart-knoweth-cursed-others-proved-wisdom-wisdom-far-applied-heart-know-search-seek-wisdom-reason-things-know-wickedness-folly-foolishness-madness-find-bitter-death-woman-heart-snares-nets-hands-bands-pleaseth-God-escape-sinner-taken-found-preacher-counting-account-soul-seek-find-one-man-thousand-found-woman-found-God-made-man-upright-sought-inventions
+**Tags:** #wisdom-and-mortality #sorrow-and-joy #divine-providence #human-limitations
 
 ---
 

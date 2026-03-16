@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Warning, Divine Judgment, Babylonian Exile, Christ's Sovereignty
 
-**Tags:** #time-Merodach-baladan-son-Baladan-king-Babylon-sent-letters-present-Hezekiah-heard-sick-recovered-Hezekiah-glad-shewed-house-precious-things-silver-gold-spices-precious-ointment-house-armour-found-treasures-house-dominion-Hezekiah-shewed-Isaiah-prophet-king-Hezekiah-saying-Hezekiah-saying-came-country-Babylon-saying-Hezekiah-answered-house-seen-nothing-treasures-shewed-Isaiah-Hezekiah-Hear-word-LORD-hosts-days-come-house-fathers-laid-store-day-carried-Babylon-left-LORD-sons-issue-begat-take-eunuchs-palace-king-Babylon-Hezekiah-Isaiah-good-word-LORD-spoken-peace-truth-days
+**Tags:** #christ #divine-judgment #babylonian-exile
 
 ---
 

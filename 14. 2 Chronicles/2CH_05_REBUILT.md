@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Temple Dedication, Ark Installation, Divine Glory, Worship Celebration
 
-**Tags:** #work-Solomon-house-LORD-finished-Solomon-brought-things-David-father-dedicated-silver-gold-instruments-treasures-house-God #Solomon-assembled-elders-Israel-heads-tribes-chief-fathers-children-Israel-Jerusalem-bring-ark-covenant-LORD-city-David-Zion #men-Israel-assembled-king-feast-seventh-month #elders-Israel-came-Levites-took-ark #brought-ark-tabernacle-congregation-holy-vessels-tabernacle-priests-Levites-brought #king-Solomon-congregation-Israel-assembled-ark-sacrificed-sheep-oxen-told-numbered-multitude #priests-brought-ark-covenant-LORD-place-oracle-house-holy-place-wings-cherubims #cherubims-spread-wings-place-ark-cherubims-covered-ark-staves-above #drew-staves-ark-ends-staves-seen-ark-oracle-seen-without-day #nothing-ark-save-two-tables-Moses-put-Horeb-LORD-covenant-children-Israel-Egypt #priests-come-holy-place-priests-present-sanctified-wait-course #Levites-singers-Asaph-Heman-Jeduthun-sons-brethren-arrayed-white-linen-cymbals-psalteries-harps-east-end-altar-hundred-twenty-priests-sounding-trumpets #trumpeters-singers-one-sound-heard-praising-thanking-LORD-lifted-voice-trumpets-cymbals-instruments-musick-praised-LORD-good-mercy-endureth-forever-house-filled-cloud-house-LORD #priests-stand-minister-reason-cloud-glory-LORD-filled-house-God
+**Tags:** #temple-dedication #ark-installation #divine-glory #worship-celebration
 
 ---
 

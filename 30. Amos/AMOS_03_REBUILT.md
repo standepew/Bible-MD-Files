@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Sovereignty, Divine Revelation, Prophetic Authority, Israel's Judgment
 
-**Tags:** #Hear-word-LORD-spoken-children-Israel-whole-family-brought-land-Egypt-saying-known-families-earth-punish-iniquities-walk-agreed-lion-roar-forest-prey-lion-cry-den-taken-bird-fall-snare-earth-gin-take-snare-earth-taken-trumpet-blown-city-people-afraid-evil-city-LORD-done-Surely-Lord-GOD-nothing-revealeth-secret-servants-prophets-lion-roared-fear-Lord-GOD-spoken-prophesy-Publish-palaces-Ashdod-palaces-land-Egypt-Assemble-mountains-Samaria-behold-great-tumults-midst-oppressed-midst-know-right-LORD-store-violence-robbery-palaces-saith-Lord-GOD-adversary-round-land-bring-strength-palaces-spoiled-saith-LORD-shepherd-taketh-mouth-lion-two-legs-piece-ear-children-Israel-taken-dwell-Samaria-corner-bed-Damascus-couch-Hear-testify-house-Jacob-Lord-GOD-GOD-hosts-day-visit-transgressions-Israel-visit-altars-Beth-el-horns-altar-cut-fall-ground-smite-winter-house-summer-house-houses-ivory-perish-great-houses-end-LORD
+**Tags:** #christ #divine-revelation #prophetic-authority #israel
 
 ---
 

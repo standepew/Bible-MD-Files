@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Divine Shepherd, Israel's Vine, Plea for Restoration, God's Presence
 
-**Tags:** #chief-Musician-Shoshannim-eduth-Psalm-Asaph-Give-ear-Shepherd-Israel-leadest-Joseph-flock-dwellest-cherubims-shine-Ephraim-Benjamin-Manasseh-stir-strength-come-save-Turn-GOD-cause-face-shine-saved-LORD-GOD-hosts-long-angry-prayer-people-feedest-bread-tears-givest-tears-drink-great-measure-makest-strife-neighbours-enemies-laugh-Turn-GOD-hosts-cause-face-shine-saved-brought-vine-Egypt-cast-heathen-planted-prepared-room-caused-deep-root-filled-land-hills-covered-shadow-boughs-like-goodly-cedars-sent-boughs-sea-branches-river-broken-hedges-pass-way-pluck-boar-wood-wastes-wild-beast-field-devours-Return-beseech-GOD-hosts-look-heaven-behold-visit-vine-vineyard-right-hand-planted-branch-madest-strong-burned-fire-cut-perish-rebuke-countenance-hand-man-right-hand-son-man-madest-strong-quicken-call-name-Turn-LORD-GOD-hosts-cause-face-shine-saved
+**Tags:** #divine-shepherd #israel #plea-for-restoration #god
 
 ---
 

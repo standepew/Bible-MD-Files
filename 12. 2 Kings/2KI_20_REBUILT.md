@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Hezekiah's Healing, Shadow Sign, Babylonian Embassy, Exile Prophecy, Hezekiah's Death
 
-**Tags:** #Hezekiah-sick-death-prophet-Isaiah-son-Amoz-LORD-house-die-live #face-wall-prayed-LORD-walked-truth-perfect-heart-good-sight-Hezekiah-wept #Isaiah-middle-court-word-LORD-Turn-Hezekiah-captain-people-LORD-GOD-David-father-heard-prayer-tears-heal-third-day-house-LORD #add-days-fifteen-years-deliver-city-hand-king-Assyria-defend-city-sake-servant-David #Isaiah-lump-figs-boil-recovered #sign-LORD-heal-third-day-house-LORD-Isaiah-sign-LORD-shadow-forward-ten-degrees-back-ten-degrees #Hezekiah-light-shadow-ten-degrees-shadow-backward-ten-degrees #Isaiah-prophet-LORD-shadow-ten-degrees-backward-dial-Ahaz #Berodach-baladan-son-Baladan-king-Babylon-letters-present-Hezekiah-sick #Hezekiah-house-precious-silver-gold-spices-precious-ointment-house-armour-treasures-house-dominion-Hezekiah #Isaiah-prophet-king-Hezekiah-men-country-Babylon-house-house-treasures-shewed #Isaiah-Hezekiah-LORD-days-house-fathers-store-Babylon-left-LORD #sons-issue-begat-eunuchs-palace-king-Babylon #Hezekiah-Isaiah-word-LORD-spoken-good-peace-truth-days #acts-Hezekiah-might-pool-conduit-water-city-book-chronicles-kings-Judah #Hezekiah-slept-fathers-Manasseh-son-reigned
+**Tags:** #Isaiah-lump-figs-boil-recovered #hezekiah #shadow-sign #babylonian-embassy #exile-prophecy
 
 ---
 

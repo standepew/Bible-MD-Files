@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Judgment, Idolatry's Consequences, Divine Fury, Christ's Glory
 
-**Tags:** #word-LORD-saying-son-man-face-mountains-Israel-prophesy-mountains-hills-rivers-valleys-Lord-GOD-mountains-hills-rivers-valleys-bring-sword-destroy-high-places-altars-desolate-images-broken-cast-slain-men-idols-dead-carcases-children-Israel-idols-scatter-bones-altars-dwellingplaces-cities-laid-waste-high-places-desolate-altars-waste-desolate-idols-broken-cease-images-cut-works-abolished-slain-fall-midst-know-LORD-leave-remnant-escape-sword-nations-scattered-countries-escape-remember-nations-carried-captives-broken-whorish-heart-departed-eyes-whoring-idols-lothe-evils-committed-abominations-know-LORD-said-vain-evil-Lord-GOD-smite-hand-stamp-foot-Alas-evil-abominations-house-Israel-fall-sword-famine-pestilence-far-die-pestilence-near-fall-sword-remain-besieged-die-famine-accomplish-fury-know-LORD-slain-men-idols-altars-high-hill-tops-mountains-green-tree-thick-oak-place-offer-sweet-savour-idols-stretch-hand-land-desolate-wilderness-Diblath-habitations-know-LORD
+**Tags:** #christ #idolatry #divine-fury
 
 ---
 

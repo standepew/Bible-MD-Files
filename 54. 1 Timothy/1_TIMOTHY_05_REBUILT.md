@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Treatment of Elders, Honor Widows, Support of Family, Qualifications for Widows, Honor for Elders, Church Discipline
 
-**Tags:** #Rebuke-elder-intreat-father-younger-men-brethren-elder-women-mothers-younger-sisters-purity-Honour-widows-widows-children-nephews-learn-shew-piety-home-requite-parents-good-acceptable-God-widow-desolate-trust-God-continueth-supplications-prayers-night-day-liveth-pleasure-dead-liveth-charge-blameless-provide-own-specially-house-denied-faith-worse-infidel-widow-taken-number-threescore-years-wife-man-reported-good-works-brought-children-lodged-strangers-washed-saints-feet-relieved-afflicted-diligently-followed-good-work-younger-widows-refuse-wanton-Christ-marry-damnation-cast-first-faith-learn-idle-wandering-house-house-idle-tattlers-busybodies-speaking-ought-younger-women-marry-bear-children-guide-house-occasion-adversary-reproachfully-turned-aside-Satan-man-woman-believeth-widows-relieve-church-charged-relieve-widows-elders-rule-counted-worthy-double-honour-labour-word-doctrine-scripture-muzzle-ox-tread-corn-labourer-worthy-reward-elder-receive-accusation-two-three-witnesses-sin-rebuke-others-fear-charge-God-Lord-Jesus-Christ-elect-angels-observe-preferring-partiality-Lay-hands-suddenly-partaker-sins-keep-pure-Drink-water-wine-stomach-sake-infirmities-sins-open-beforehand-judgment-follow-good-works-manifest-beforehand-hidden
+**Tags:** #treatment-of-elders #honor-widows #support-of-family #qualifications-for-widows #honor-for-elders #church-discipline
 
 ---
 

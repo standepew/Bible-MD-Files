@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Leadership and Humility, Humility Under God's Hand, Resistance Against the Devil, Suffering and God's Grace, Final Greetings
 
-**Tags:** #elders-exhort-elder-witness-sufferings-Christ-partaker-glory-revealed-Feed-flock-God-oversight-constraint-willingly-filthy-lucre-ready-mind-lords-God-heritage-ensamples-flock-chief-Shepherd-appear-crown-glory-fadeth-younger-submit-elder-subject-clothed-humility-God-resisteth-proud-giveth-grace-humble-Humble-mighty-hand-God-exalt-due-time-casting-care-careth-sober-vigilant-adversary-devil-roaring-lion-walketh-devour-resist-stedfast-faith-afflictions-accomplished-brethren-world-God-grace-called-eternal-glory-Christ-Jesus-suffered-perfect-stablish-strengthen-settle-glory-dominion-Silvanus-faithful-brother-written-briefly-exhorting-testifying-true-grace-God-stand-church-Babylon-elected-saluteth-Marcus-son-Greet-charity-peace-Christ-Jesus
+**Tags:** #leadership-and-humility #humility-under-god #resistance-against-the-devil #suffering-and-god #final-greetings
 
 ---
 

@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Haman's Promotion, Mordecai's Defiance, Plot Against Jews, Royal Decree
 
-**Tags:** #king-Ahasuerus-promote-Haman-son-Hammedatha-Agagite-advanced-seat-princes #king-servants-king-gate-bowed-reverenced-Haman-king-commanded-Mordecai-bowed-reverence #king-servants-king-gate-Mordecai-transgress-king-commandment #spake-daily-hearkened-told-Haman-Mordecai-matters-stand-told-Jew #Haman-Mordecai-bowed-reverence-Haman-wrath #scorn-lay-hands-Mordecai-shewed-people-Mordecai-Haman-destroy-Jews-kingdom-Ahasuerus-people-Mordecai #first-month-month-Nisan-twelfth-year-king-Ahasuerus-cast-Pur-lot-Haman-day-day-month-month-twelfth-month-month-Adar #Haman-king-Ahasuerus-people-scattered-dispersed-people-provinces-kingdom-laws-diverse-people-keep-king-laws-king-profit-suffer #please-king-written-destroy-pay-ten-thousand-talents-silver-hands-charge-business-king-treasuries #king-ring-hand-gave-Haman-son-Hammedatha-Agagite-Jews-enemy #king-Haman-silver-people-seemeth-good #king-scribes-thirteenth-day-first-month-written-Haman-commanded-king-lieutenants-governors-provinces-rulers-people-provinces-writing-people-language-name-king-Ahasuerus-written-sealed-king-ring #letters-posts-king-provinces-destroy-kill-perish-Jews-young-old-children-women-day-thirteenth-day-twelfth-month-month-Adar-take-spoil-prey #copy-writing-commandment-province-published-people-ready-day #posts-hastened-king-commandment-decree-Shushan-palace-king-Haman-sat-drink-city-Shushan-perplexed
+**Tags:** #haman #mordecai #plot-against-jews #royal-decree
 
 ---
 

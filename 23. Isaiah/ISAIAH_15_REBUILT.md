@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Divine Judgment, Moab's Destruction, Spiritual Mourning, Christ's Justice
 
-**Tags:** #burden-Moab-night-Ar-Moab-laid-waste-brought-silence-night-Kir-Moab-laid-waste-brought-silence-gone-Bajith-Dibon-high-places-weep-Moab-howl-Nebo-Medeba-heads-baldness-beard-cut-streets-gird-sackcloth-tops-houses-streets-howl-weeping-abundantly-Heshbon-cry-Elealeh-voice-heard-Jahaz-armed-soldiers-Moab-cry-life-grievous-heart-cry-Moab-fugitives-flee-Zoar-heifer-three-years-mounting-Luhith-weeping-way-Horonaim-raise-cry-destruction-waters-Nimrim-desolate-hay-withered-grass-faileth-green-thing-abundance-gotten-laid-carry-brook-willows-cry-round-borders-Moab-howling-Eglaim-howling-Beer-elim-waters-Dimon-full-blood-bring-Dimon-lions-escapeth-Moab-remnant-land
+**Tags:** #divine-judgment #moab #spiritual-mourning #christ
 
 ---
 

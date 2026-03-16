@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Celibacy, Divine Judgment, Spiritual Fishing, Christ's Refuge
 
-**Tags:** #word-LORD-saying-take-wife-sons-daughters-place-LORD-sons-daughters-born-place-mothers-bare-fathers-begat-land-die-grievous-deaths-lamented-buried-dung-face-earth-consumed-sword-famine-carcases-meat-fowls-heaven-beasts-earth-LORD-house-mourning-lament-bemoan-taken-peace-people-LORD-lovingkindness-mercies-great-small-die-land-buried-lament-cut-bald-tear-mourning-comfort-dead-cup-consolation-drink-father-mother-house-feasting-sit-eat-drink-LORD-hosts-God-Israel-cause-cease-place-eyes-days-voice-mirth-voice-gladness-voice-bridegroom-voice-bride-shew-people-words-LORD-pronounced-great-evil-iniquity-sin-committed-LORD-God-fathers-forsaken-LORD-walked-gods-served-worshipped-forsaken-kept-law-worse-fathers-walk-imagination-evil-heart-hearken-cast-land-know-fathers-serve-gods-day-night-shew-favour-days-LORD-said-LORD-brought-children-Israel-land-Egypt-LORD-brought-children-Israel-land-north-lands-driven-bring-land-fathers-send-fishers-LORD-fish-send-hunters-hunt-mountain-hill-holes-rocks-eyes-ways-hid-face-iniquity-hid-eyes-recompense-iniquity-sin-double-defiled-land-filled-inheritance-carcases-detestable-abominable-LORD-strength-fortress-refuge-day-affliction-Gentiles-ends-earth-fathers-inherited-lies-vanity-profit-man-gods-gods-know-hand-might-name-LORD
+**Tags:** #christ #divine-judgment #spiritual-fishing
 
 ---
 

@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Exodus Miracle, Creation's Response, Divine Power, God's Presence
 
-**Tags:** #Israel-Egypt-house-Jacob-people-strange-language-Judah-sanctuary-Israel-dominion-sea-fled-Jordan-driven-mountains-skipped-rams-little-hills-lambs-ailed-sea-fled-Jordan-driven-mountains-skipped-rams-little-hills-lambs-Tremble-earth-presence-Lord-presence-God-Jacob-turned-rock-standing-water-flint-fountain-waters
+**Tags:** #exodus-miracle #creation #divine-power #god
 
 ---
 

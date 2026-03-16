@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Personal Lament, Social Corruption, Divine Hope, God's Mercy and Forgiveness
 
-**Tags:** #Woe-gathered-summer-fruits-grapegatherings-vintage-cluster-eat-soul-desired-firstripe-fruit-good-man-perished-earth-upright-men-lie-wait-blood-hunt-brother-net-evil-hands-earnestly-prince-asketh-judge-reward-great-man-uttereth-mischievous-desire-wrap-best-brier-upright-sharper-thorn-hedge-day-watchmen-visitation-cometh-perplexity-Trust-friend-confidence-guide-keep-doors-mouth-lieth-bosom-son-dishonoureth-father-daughter-riseth-mother-daughter-law-mother-law-man-enemies-men-house-look-LORD-wait-God-salvation-God-hear-Rejoice-enemy-fall-arise-sit-darkness-LORD-light-bear-indignation-LORD-sinned-plead-cause-execute-judgment-bring-light-behold-righteousness-enemy-shame-cover-LORD-God-behold-trodden-mire-streets-day-walls-built-decree-far-removed-come-Assyria-fortified-cities-fortress-river-sea-sea-mountain-mountain-land-desolate-dwell-fruit-doings-Feed-people-rod-flock-heritage-dwell-solitarily-wood-midst-Carmel-feed-Bashan-Gilead-days-coming-land-Egypt-shew-marvellous-nations-confounded-might-hand-mouth-ears-deaf-lick-dust-serpent-move-holes-worms-earth-afraid-LORD-God-fear-God-pardoneth-iniquity-passeth-transgression-remnant-heritage-retain-anger-delighteth-mercy-turn-compassion-subdue-iniquities-cast-sins-depths-sea-perform-truth-Jacob-mercy-Abraham-sworn-fathers-days
+**Tags:** #christ #social-corruption #divine-hope #god
 
 ---
 

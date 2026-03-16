@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Head Coverings, The Lord's Supper, Self-Examination, Divine Order
 
-**Tags:** #followers-Christ-praise-brethren-remember-things-keep-ordinances-delivered-head-man-Christ-head-woman-man-head-Christ-God-man-praying-prophesying-head-covered-dishonoureth-head-woman-prayeth-prophesieth-head-uncovered-dishonoureth-head-shaven-covered-shorn-shame-shorn-shaven-covered-cover-head-image-glory-God-woman-glory-man-man-woman-woman-man-man-created-woman-woman-man-cause-woman-power-head-angels-man-without-woman-woman-without-man-Lord-woman-man-man-woman-things-God-judge-comely-woman-pray-God-uncovered-nature-teach-man-long-hair-shame-man-woman-long-hair-glory-hair-covering-contentious-custom-churches-God-declare-praise-come-together-better-worse-church-divisions-believe-heresies-approved-manifest-place-eat-Lord-supper-eating-taketh-supper-hungry-drunken-houses-eat-drink-despise-church-God-shame-praise-Lord-received-Lord-delivered-Lord-Jesus-night-betrayed-bread-given-thanks-brake-Take-eat-body-broken-remembrance-manner-cup-supper-cup-testament-blood-oft-drink-remembrance-often-eat-bread-drink-cup-shew-Lord-death-come-whosoever-eat-bread-drink-cup-Lord-unworthily-guilty-body-blood-Lord-examine-eat-bread-drink-cup-eat-drink-unworthily-damnation-discerning-Lord-body-weak-sickly-sleep-judge-judge-judged-chastened-Lord-condemned-world-brethren-tarry-hunger-eat-home-condemnation-rest-order-come
+**Tags:** #head-coverings #the-lord #selfexamination #divine-order
 
 ---
 

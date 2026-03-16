@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Calling, Prophetic Mission, Christ's Commission, Divine Authority
 
-**Tags:** #said-stand-feet-speak-spirit-entered-spake-set-feet-heard-spake-son-man-send-children-Israel-rebellious-nation-rebelled-fathers-transgressed-impudent-children-stiffhearted-send-say-Lord-GOD-hear-forbear-rebellious-house-prophet-afraid-words-briers-thorns-dwell-scorpions-afraid-words-dismayed-looks-rebellious-house-speak-words-hear-forbear-rebellious-son-man-hear-say-rebellious-rebellious-house-open-mouth-eat-hand-sent-roll-book-spread-written-without-written-lamentations-mourning-woe
+**Tags:** #christ #prophetic-mission #divine-authority
 
 ---
 

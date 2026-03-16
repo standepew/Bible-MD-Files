@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Christ's Laborers Parable, Kingdom Generosity, Suffering Prediction, Servant Leadership
 
-**Tags:** #kingdom-heaven-householder-early-morning-hire-labourers-vineyard-agreed-labourers-penny-day-sent-vineyard-third-hour-standing-idle-marketplace-said-vineyard-right-give-sixth-ninth-hour-did-eleventh-hour-found-idle-stand-day-idle-hired-right-receive-even-lord-vineyard-steward-call-labourers-hire-beginning-last-first-eleventh-received-penny-first-received-murmured-goodman-house-last-wrought-hour-equal-burden-heat-day-answered-wrong-agree-penny-thine-way-last-equal-lawful-mine-eye-evil-good-last-first-first-last-called-chosen-Jesus-Jerusalem-disciples-apart-Jerusalem-Son-man-betrayed-chief-priests-scribes-condemn-death-deliver-Gentiles-mock-scourge-crucify-third-day-rise-Zebedee-children-worshipping-desiring-Grant-right-hand-left-kingdom-answered-know-ask-able-cup-baptism-baptized-We-able-shall-drink-baptized-baptized-right-hand-left-give-prepared-Father-heard-indignation-brethren-Jesus-princes-Gentiles-exercise-dominion-great-exercise-authority-not-great-minister-chief-servant-Son-man-ministered-minister-give-life-ransom-departed-Jericho-multitude-followed-blind-men-way-side-heard-Jesus-passed-cried-mercy-Lord-Son-David-multitude-rebuked-peace-cried-mercy-Lord-Son-David-stood-called-compassion-touched-eyes-immediately-eyes-sight-followed
+**Tags:** #christ #kingdom-generosity #suffering-prediction #servant-leadership
 
 ---
 

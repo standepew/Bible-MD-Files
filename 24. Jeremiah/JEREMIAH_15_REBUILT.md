@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Rejection, Divine Judgment, Christ's Suffering, Christ's Protection
 
-**Tags:** #LORD-Moses-Samuel-stood-mind-people-cast-sight-go-forth-go-forth-LORD-death-death-sword-sword-famine-famine-captivity-captivity-appoint-four-kinds-LORD-sword-slay-dogs-tear-fowls-heaven-beasts-earth-devour-destroy-removed-kingdoms-earth-Manasseh-son-Hezekiah-king-Judah-Jerusalem-pity-bemoan-aside-forsaken-LORD-gone-backward-stretch-hand-destroy-weary-repenting-fan-gates-land-bereave-children-destroy-people-return-ways-widows-sand-seas-mother-young-men-spoiler-noonday-fall-suddenly-terrors-city-borne-seven-languisheth-given-ghost-sun-day-ashamed-confounded-residue-sword-enemies-LORD-mother-borne-man-strife-man-contention-earth-lent-usury-men-lent-usury-curse-LORD-remnant-enemy-entreat-evil-affliction-iron-break-northern-iron-steel-substance-treasures-spoil-price-sins-borders-pass-enemies-land-knowest-fire-kindled-anger-burn-LORD-knowest-remember-visit-revenge-persecutors-take-longsuffering-sake-suffered-rebuke-words-found-eat-word-joy-rejoicing-heart-called-name-LORD-God-hosts-sat-assembly-mockers-rejoiced-sat-alone-hand-filled-indignation-pain-perpetual-wound-incurable-refuseth-healed-liar-waters-fail-LORD-return-bring-stand-take-precious-vile-mouth-return-return-fenced-brasen-wall-fight-prevail-save-deliver-LORD-deliver-hand-wicked-redeem-hand-terrible
+**Tags:** #christ #divine-judgment
 
 ---
 

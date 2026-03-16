@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Knowledge and Love, Liberty and Conscience, Idols and the True God, Stumbling Blocks
 
-**Tags:** #touching-things-offered-idols-knowledge-knowledge-puffeth-charity-edifieth-think-knoweth-knoweth-ought-know-love-God-known-God-eating-things-offered-sacrifice-idols-know-idol-nothing-world-none-God-called-gods-heaven-earth-gods-many-lords-many-God-Father-things-God-Lord-Jesus-Christ-things-God-knowledge-conscience-idol-hour-thing-offered-idol-conscience-weak-defiled-meat-commendeth-God-eat-better-eat-worse-liberty-stumblingblock-weak-knowledge-sit-meat-idol-temple-conscience-weak-emboldened-eat-things-offered-idols-knowledge-weak-brother-perish-Christ-died-sin-brethren-wound-weak-conscience-sin-Christ-meat-brother-offend-eat-flesh-world-standeth-brother-offend
+**Tags:** #knowledge-and-love #liberty-and-conscience #idols-and-the-true-god #stumbling-blocks
 
 ---
 

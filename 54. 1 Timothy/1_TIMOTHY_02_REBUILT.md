@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Prayer for All Men, God's Desire for Salvation, Christ the One Mediator, Instructions for Men and Women
 
-**Tags:** #exhort-supplications-prayers-intercessions-giving-thanks-men-kings-authority-quiet-peaceable-life-godliness-honesty-good-acceptable-sight-God-Saviour-men-saved-knowledge-truth-one-God-mediator-God-men-man-Christ-Jesus-gave-ransom-testified-due-time-ordained-preacher-apostle-speak-truth-Christ-lie-teacher-Gentiles-faith-verity-men-pray-lifting-holy-hands-wrath-doubting-women-adorn-modest-apparel-shamefacedness-sobriety-broided-hair-gold-pearls-costly-array-becometh-women-professing-godliness-good-works-woman-learn-silence-subjection-suffer-woman-teach-usurp-authority-man-silence-Adam-formed-Eve-Adam-deceived-woman-deceived-transgression-saved-childbearing-continue-faith-charity-holiness-sobriety
+**Tags:** #prayer-for-all-men #god #christ-the-one-mediator #instructions-for-men-and-women
 
 ---
 

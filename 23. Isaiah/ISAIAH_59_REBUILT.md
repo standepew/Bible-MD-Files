@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Salvation, Divine Intervention, Spiritual Warfare, Christ's Redemption
 
-**Tags:** #Behold-LORD-hand-shortened-save-ear-heavy-hear-iniquities-separated-God-sins-hid-face-hear-hands-defiled-blood-fingers-iniquity-lips-spoken-lies-tongue-muttered-perverseness-None-calleth-justice-pleadeth-truth-trust-vanity-speak-lies-conceive-mischief-bring-iniquity-hatch-cockatrice-eggs-weave-spider-web-eateth-eggs-dieth-crushed-breaketh-viper-webs-become-garments-cover-works-works-iniquity-act-violence-hands-feet-run-evil-haste-shed-innocent-blood-thoughts-iniquity-wasting-destruction-paths-way-peace-know-judgment-goings-crooked-paths-goeth-peace-Therefore-judgment-justice-overtake-wait-light-behold-obscurity-brightness-walk-darkness-grope-wall-blind-grope-eyes-stumble-noonday-night-desolate-places-dead-roar-bears-mourn-doves-look-judgment-salvation-far-transgressions-multiplied-sins-testify-transgressions-iniquities-know-transgressing-lying-departing-God-speaking-oppression-revolt-conceiving-uttering-heart-words-falsehood-judgment-turned-backward-justice-afar-truth-fallen-street-equity-enter-truth-faileth-depart-evil-prey-LORD-displeased-judgment-man-intercessor-arm-brought-salvation-righteousness-sustained-put-righteousness-breastplate-helmet-salvation-head-garments-vengeance-clothing-clad-zeal-cloke-According-deeds-repay-fury-adversaries-recompence-enemies-islands-repay-recompence-fear-name-LORD-west-glory-rising-sun-enemy-flood-Spirit-LORD-lift-standard-Redeemer-Zion-turn-transgression-Jacob-covenant-spirit-mouth-words-mouth-depart-mouth-seed-mouth-seed-seed-LORD-henceforth-forever
+**Tags:** #christ #divine-intervention #spiritual-warfare
 
 ---
 

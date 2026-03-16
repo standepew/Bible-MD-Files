@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Saul's Defeat and Death, Jonathan's Death, Saul's Suicide, Philistine Victory, Israel's Flight, Saul's Body Desecrated, Jabesh-Gilead's Loyalty
 
-**Tags:** #Philistines-fought-Israel-men-Israel-fled-Philistines-fell-slain-mount-Gilboa #Philistines-followed-hard-Saul-sons-Philistines-slew-Jonathan-Abinadab-Malchi-shua-Saul-sons #battle-sore-Saul-archers-hit-sore-wounded-archers #Saul-armourbearer-sword-thrust-uncircumcised-thrust-abuse-armourbearer-sore-afraid-Saul-sword-fell #armourbearer-Saul-dead-sword-died #Saul-died-three-sons-armourbearer-men-day #men-Israel-side-valley-side-Jordan-fled-Israel-fled-Saul-sons-dead-forsook-cities-fled-Philistines-dwelt #morrow-Philistines-strip-slain-Saul-three-sons-fallen-mount-Gilboa #cut-head-stripped-armour-land-Philistines-house-idols-people #armour-house-Ashtaroth-body-wall-Beth-shan #inhabitants-Jabesh-gilead-Philistines-Saul #valiant-men-arose-night-body-Saul-bodies-sons-wall-Beth-shan-Jabesh-burned #bones-buried-tree-Jabesh-fasted-seven-days
+**Tags:** #armourbearer-Saul-dead-sword-died #inhabitants-Jabesh-gilead-Philistines-Saul #saul #jonathan #philistine-victory #israel #jabeshgilead
 
 ---
 

@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** The Day of the Lord, Children of Light, Final Instructions, Complete Sanctification
 
-**Tags:** #times-seasons-brethren-write-know-perfectly-day-Lord-cometh-thief-night-Peace-safety-sudden-destruction-travail-woman-child-escape-darkness-day-overtake-thief-children-light-children-day-night-darkness-sleep-others-watch-sober-sleep-sleep-night-drunken-drunken-night-day-sober-putting-breastplate-faith-love-helmet-hope-salvation-God-appointed-wrath-obtain-salvation-Lord-Jesus-Christ-died-wake-sleep-live-comfort-edify-beseech-know-labour-Lord-admonish-esteemed-highly-love-work-sake-peace-exhort-unruly-comfort-feebleminded-support-weak-patient-men-render-evil-evil-follow-good-rejoice-evermore-pray-ceasing-thing-give-thanks-will-God-Christ-Jesus-concerning-Quench-Spirit-Despise-prophesyings-Prove-things-hold-fast-good-Abstain-appearance-evil-God-peace-sanctify-wholly-pray-God-whole-spirit-soul-body-preserved-blameless-coming-Lord-Jesus-Christ-Faithful-calleth-pray-brethren-greet-brethren-holy-kiss-charge-Lord-epistle-read-holy-brethren-grace-Lord-Jesus-Christ-Amen
+**Tags:** #the-day-of-the-lord #children-of-light #final-instructions #complete-sanctification
 
 ---
 

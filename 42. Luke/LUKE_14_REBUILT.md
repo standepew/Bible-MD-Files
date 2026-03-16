@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Healing on the Sabbath, Parable of the Wedding Feast, Parable of the Great Supper, The Cost of Discipleship, The Salt of the Earth
 
-**Tags:** #house-chief-Pharisees-eat-bread-sabbath-watched-man-dropsy-Jesus-answering-lawyers-Pharisees-lawful-heal-sabbath-held-peace-took-healed-answered-ass-ox-fallen-pit-pull-sabbath-answer-parable-bidden-marked-chose-chief-rooms-bidden-wedding-sit-highest-room-honourable-bidden-Give-place-shame-lowest-room-bidden-sit-lowest-room-bidden-Friend-higher-worship-presence-sit-meat-exalteth-abased-humbleth-exalted-dinner-supper-friends-brethren-kinsmen-rich-neighbours-recompence-feast-poor-maimed-lame-blind-blessed-recompense-resurrection-just-meat-Blessed-kingdom-God-great-supper-bade-sent-servant-supper-time-bidden-ready-consent-excuse-bought-ground-excused-bought-yoke-oxen-prove-excused-married-wife-servant-shewed-lord-master-house-angry-servant-streets-lanes-city-bring-poor-maimed-halt-blind-Lord-commanded-room-lord-servant-highways-hedges-compel-house-filled-bidden-taste-supper-multitudes-hate-father-mother-wife-children-brethren-sisters-life-disciple-bear-cross-disciple-build-tower-count-cost-sufficient-finish-laid-foundation-finish-mock-build-finish-king-war-king-consult-ten-thousand-twenty-thousand-great-way-ambassage-conditions-peace-forsaketh-disciple-salt-good-lost-savour-seasoned-fit-land-dunghill-cast-ears-hear
+**Tags:** #healing-on-the-sabbath #parable-of-the-wedding-feast #parable-of-the-great-supper #the-cost-of-discipleship #the-salt-of-the-earth
 
 ---
 

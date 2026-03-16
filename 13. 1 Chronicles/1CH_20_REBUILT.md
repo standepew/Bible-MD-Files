@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Ammonite Victory, Giant Defeats, David's Military Leadership, Divine Deliverance
 
-**Tags:** #year-expired-kings-battle-Joab-led-forth-power-army-wasted-country-Ammon-sieged-Rabbah-David-tarried-Jerusalem-Joab-smote-Rabbah-destroyed #David-took-crown-king-head-weigh-talent-gold-precious-stones-set-David-head-brought-exceeding-much-spoil-city #brought-people-saws-harrows-iron-axes-David-dealt-cities-Ammon-David-people-returned-Jerusalem #war-Gezer-Philistines-Sibbechai-Hushathite-slew-Sippai-children-giant-subdued #war-Philistines-Elhanan-son-Jair-slew-Lahmi-brother-Goliath-Gittite-spear-staff-weaver-beam #war-Gath-man-great-stature-fingers-toes-four-twenty-six-hand-six-foot-son-giant #defied-Israel-Jonathan-son-Shimea-David-brother-slew #born-giant-Gath-fell-hand-David-hand-servants
+**Tags:** #ammonite-victory #giant-defeats #david #divine-deliverance
 
 ---
 

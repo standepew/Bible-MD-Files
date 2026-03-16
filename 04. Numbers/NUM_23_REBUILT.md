@@ -9,7 +9,7 @@
 **Testament:** Old Testament
 **Key Themes:** Two oracles forced out of Balaam across two locations — each attempt to curse produces blessing, Oracle 1: "How shall I curse, whom God hath not cursed?" — Israel dwells alone, uncountable, the death of the righteous coveted, Oracle 2: "God is not a man that He should lie" — the immutability of divine blessing declared; no enchantment against Jacob; "What hath God wrought!", Balak's mounting frustration: each relocation produces a new blessing from the man hired to curse, Balaam's powerlessness: "Must I not take heed to speak that which the LORD hath put in my mouth?"
 
-**Tags:** #seven-altars #seven-oxen-seven-rams #God-puts-word-in-Balaam's-mouth #how-shall-I-curse-whom-God-hath-not-cursed #people-shall-dwell-alone #not-reckoned-among-nations #who-can-count-the-dust-of-Jacob #let-me-die-the-death-of-the-righteous #Balak-furious #field-of-Zophim #Pisgah #God-is-not-a-man #hath-he-said-shall-he-not-do-it #I-cannot-reverse-it #no-iniquity-beheld-in-Jacob #shout-of-a-king #no-enchantment-against-Jacob #what-hath-God-wrought #rise-as-a-great-lion #neither-curse-nor-bless #top-of-Peor
+**Tags:** #seven-altars #seven-oxen-seven-rams #God-puts-word-in-Balaam #people-shall-dwell-alone #not-reckoned-among-nations #Balak-furious #field-of-Zophim #Pisgah #God-is-not-a-man #I-cannot-reverse-it #no-iniquity-beheld-in-Jacob #shout-of-a-king #no-enchantment-against-Jacob #what-hath-God-wrought #rise-as-a-great-lion #neither-curse-nor-bless #top-of-Peor #two-oracles-forced-out-of-balaam #oracle-1 #oracle-2 #no-enchantment-against-jacob #what-hath-god-wrought #balak #balaam
 
 ---
 

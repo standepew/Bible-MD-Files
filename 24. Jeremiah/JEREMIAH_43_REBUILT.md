@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Disobedience, Egypt's Folly, Divine Judgment, Christ's Prophecy
 
-**Tags:** #Jeremiah-speaking-people-words-LORD-God-sent-words-Azariah-son-Hoshaiah-Johanan-son-Kareah-proud-men-Jeremiah-speakest-falsely-LORD-God-sent-Egypt-sojourn-Baruch-son-Neriah-setteth-deliver-Chaldeans-death-carry-captives-Babylon-Johanan-son-Kareah-captains-forces-people-obeyed-voice-LORD-dwell-land-Judah-Johanan-son-Kareah-captains-forces-remnant-Judah-returned-nations-driven-dwell-land-Judah-men-women-children-king-daughters-person-Nebuzar-adan-captain-guard-left-Gedaliah-son-Ahikam-son-Shaphan-Jeremiah-prophet-Baruch-son-Neriah-land-Egypt-obeyed-voice-LORD-Tahpanhes-word-LORD-Jeremiah-Tahpanhes-great-stones-hand-hide-clay-brickkiln-entry-Pharaoh-house-Tahpanhes-sight-men-Judah-LORD-hosts-God-Israel-send-Nebuchadrezzar-king-Babylon-servant-set-throne-stones-hide-spread-royal-pavilion-cometh-smite-land-Egypt-deliver-death-death-captivity-captivity-sword-sword-kindle-fire-houses-gods-Egypt-burn-carry-captives-array-land-Egypt-shepherd-garment-peace-break-images-Beth-shemesh-land-Egypt-houses-gods-Egyptians-burn-fire
+**Tags:** #christ #egypt #divine-judgment
 
 ---
 

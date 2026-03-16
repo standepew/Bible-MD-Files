@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Judgment on Wickedness, Nineveh's Shame, Divine Humiliation, Complete Ruin
 
-**Tags:** #Woe-bloody-city-full-lies-robbery-prey-departeth-noise-whip-noise-rattling-wheels-pransing-horses-jumping-chariots-horseman-lifteth-bright-sword-glittering-spear-multitude-slain-great-number-carcasses-end-corpses-stumble-corpses-multitude-whoredoms-wellfavoured-harlot-mistress-witchcrafts-selleth-nations-whoredoms-families-witchcrafts-behold-against-LORD-hosts-discover-skirts-face-shew-nations-nakedness-kingdoms-shame-cast-abominable-filth-make-vile-gazing-stock-look-flee-Nineveh-laid-waste-bemoan-seek-comforters-better-populous-situate-rivers-waters-round-rampart-sea-wall-sea-Ethiopia-Egypt-strength-infinite-Put-Lubim-helpers-carried-captivity-young-children-dashed-pieces-streets-cast-lots-honourable-men-great-men-bound-chains-drunken-hid-seek-strength-enemy-strong-holds-fig-trees-firstripe-figs-shaken-fall-mouth-eater-people-midst-women-gates-land-wide-open-enemies-fire-devour-bars-draw-waters-siege-fortify-strong-holds-clay-tread-morter-strong-brickkiln-fire-devour-sword-cut-eat-cankerworm-many-cankerworm-many-locusts-multiplied-merchants-stars-heaven-cankerworm-spoileth-flieth-crowned-locusts-captains-grasshoppers-camp-hedges-cold-sun-ariseth-flee-place-known-shepherds-slumber-king-Assyria-nobles-dwell-dust-people-scattered-mountains-man-gathereth-healing-bruise-wound-grievous-hear-bruit-clap-hands-wickedness-passed
+**Tags:** #christ #nineveh #divine-humiliation #complete-ruin
 
 ---
 

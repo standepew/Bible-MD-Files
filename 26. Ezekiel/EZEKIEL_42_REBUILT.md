@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Chambers, Holy Priests, Divine Separation, Christ's Sanctuary
 
-**Tags:** #brought-utter-court-way-north-chamber-separate-place-building-north-length-hundred-cubits-north-door-breadth-fifty-cubits-cubits-inner-court-pavement-utter-court-gallery-gallery-three-stories-chambers-walk-ten-cubits-breadth-inward-way-cubit-doors-north-upper-chambers-shorter-galleries-higher-lower-middlemost-building-three-stories-pillars-pillars-courts-building-straitened-lowest-middlemost-ground-wall-chambers-utter-court-forepart-chambers-length-fifty-cubits-length-chambers-utter-court-fifty-cubits-temple-hundred-cubits-chambers-thickness-wall-court-east-separate-place-building-way-chambers-appearance-chambers-north-long-broad-goings-fashions-doors-doors-chambers-south-door-head-way-directly-wall-east-entereth-north-chambers-south-chambers-separate-place-holy-chambers-priests-approach-LORD-eat-holy-things-lay-holy-things-meat-offering-sin-offering-trespass-offering-place-holy-priests-enter-holy-place-utter-court-lay-garments-minister-holy-put-garments-approach-people-end-measuring-inner-house-brought-gate-prospect-east-measured-measured-east-side-measuring-reed-five-hundred-reeds-measuring-reed-measured-north-side-five-hundred-reeds-measuring-reed-measured-south-side-five-hundred-reeds-measuring-reed-turned-west-side-measured-five-hundred-reeds-measuring-reed-measured-four-sides-wall-round-five-hundred-reeds-five-hundred-broad-separation-sanctuary-profane-place
+**Tags:** #christ #holy-priests #divine-separation
 
 ---
 

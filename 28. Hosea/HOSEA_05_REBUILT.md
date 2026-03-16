@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Judgment, Spiritual Pride, Divine Discipline, Christ's Return
 
-**Tags:** #Hear-priests-hearken-house-Israel-ear-house-king-judgment-snare-Mizpah-net-spread-Tabor-revolters-profound-slaughter-rebuker-know-Ephraim-Israel-hid-committed-whoredom-Israel-defiled-frame-doings-turn-God-spirit-whoredoms-midst-known-LORD-pride-Israel-testify-face-Israel-Ephraim-fall-iniquity-Judah-fall-flocks-herds-seek-LORD-find-withdrawn-dealt-treacherously-LORD-begotten-strange-children-month-devour-portions-blow-cornet-Gibeah-trumpet-Ramah-cry-aloud-Beth-aven-Benjamin-Ephraim-desolate-day-rebuke-tribes-Israel-known-surely-princes-Judah-remove-bound-pour-wrath-water-Ephraim-oppressed-broken-judgment-willingly-walked-commandment-Ephraim-moth-house-Judah-rottenness-Ephraim-sickness-Judah-wound-Ephraim-Assyrian-sent-king-Jareb-heal-cure-wound-Ephraim-lion-young-lion-house-Judah-tear-rescue-return-place-acknowledge-offence-seek-face-affliction-seek-early
+**Tags:** #christ #spiritual-pride #divine-discipline
 
 ---
 

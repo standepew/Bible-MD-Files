@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** God's Creative Word, Divine Providence, Human Helplessness, Trust in God
 
-**Tags:** #rejoice-LORD-righteous-praise-comely-upright-praise-LORD-harp-sing-psaltery-instrument-ten-strings-sing-new-song-play-skilfully-loud-noise-word-LORD-right-works-truth-loveth-righteousness-judgment-earth-goodness-LORD-word-LORD-heavens-made-host-breath-mouth #gathereth-waters-sea-heap-layeth-depth-storehouses-earth-fear-LORD-inhabitants-world-stand-awe-spake-done-commanded-stood-fast-LORD-bringeth-counsel-heathen-nought-maketh-devices-people-effect-counsel-LORD-standeth-forever-thoughts-heart-generations #blessed-nation-GOD-LORD-people-chosen-inheritance-LORD-looketh-heaven-behold-sons-men-place-habitation-looketh-inhabitants-earth-fashioneth-hearts-alike-consider-works-king-saved-multitude-host-mighty-man-delivered-strength-horse-vain-safety-deliver-strength #eye-LORD-fear-hope-mercy-deliver-soul-death-keep-alive-famine-soul-wait-LORD-help-shield-heart-rejoice-trusted-holy-name-mercy-LORD-hope
+**Tags:** #god #divine-providence #human-helplessness #trust-in-god
 
 ---
 

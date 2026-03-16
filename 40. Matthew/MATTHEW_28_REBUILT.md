@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Christ's Resurrection, Angel's Proclamation, Great Commission, Christ's Authority
 
-**Tags:** #end-sabbath-dawn-first-day-week-Mary-Magdalene-Mary-sepulchre-earthquake-angel-Lord-descended-heaven-rolled-stone-door-sat-countenance-lightning-raiment-white-snow-fear-keepers-shake-dead-men-angel-answered-women-Fear-ye-seek-Jesus-crucified-risen-said-Come-place-Lord-lay-quickly-tell-disciples-risen-dead-behold-Galilee-see-lo-told-departed-sepulchre-fear-great-joy-run-disciples-word-went-tell-disciples-Jesus-met-saying-All-hail-came-held-feet-worshipped-Jesus-afraid-tell-brethren-Galilee-see-going-watch-city-shewed-chief-priests-things-assembled-elders-counsel-large-money-soldiers-disciples-night-stole-slept-come-governor-ears-persuade-secure-took-money-as-taught-saying-reported-Jews-day-assembly-disciples-mountain-Jesus-appointed-worshipped-doubted-Jesus-saying-All-power-heaven-earth-teach-nations-baptizing-name-Father-Son-Holy-Ghost-teaching-observe-commanded-lo-alway-end-world-Amen
+**Tags:** #christ #angel #great-commission
 
 ---
 

@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Joyful Service, Divine Creator, Shepherd Relationship, Everlasting Mercy
 
-**Tags:** #Psalm-praise-joyful-noise-LORD-lands-Serve-LORD-gladness-come-presence-singing-Know-LORD-GOD-made-us-not-ourselves-people-sheep-pasture-Enter-gates-thanksgiving-courts-praise-thankful-bless-name-LORD-good-mercy-everlasting-truth-endure-generations
+**Tags:** #joyful-service #divine-creator #shepherd-relationship #everlasting-mercy
 
 ---
 

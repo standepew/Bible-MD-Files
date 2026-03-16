@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Prayer from Distance, God as Rock, Eternal Protection, Royal Blessing
 
-**Tags:** #chief-Musician-Neginah-Psalm-David-Hear-cry-GOD-attend-prayer-end-earth-cry-heart-overwhelmed-lead-rock-higher-shelter-strong-tower-enemy-abide-tabernacle-forever-trust-covert-wings-Selah-GOD-heard-vows-given-heritage-fear-name-prolong-king-life-years-generations-abide-GOD-forever-prepare-mercy-truth-preserve-sing-praise-name-forever-daily-perform-vows
+**Tags:** #prayer-from-distance #god-as-rock #eternal-protection #royal-blessing
 
 ---
 

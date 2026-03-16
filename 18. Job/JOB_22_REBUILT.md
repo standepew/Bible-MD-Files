@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Eliphaz's Third Speech, Job's Alleged Sins, Call to Repentance, Promise of Restoration
 
-**Tags:** #Eliphaz-Temanite-answered-profitable-man-wise-God #pleasure-Almighty-righteous-gain-perfect-ways #reprove-fear-judgment-wickedness-iniquities-infinite #pledge-brother-nought-stripped-naked-clothing #water-weary-drink-bread-hungry #mighty-man-earth-honourable-dwelt #widows-empty-arms-fatherless-broken #snares-sudden-fear-darkness-waters-cover #God-height-heaven-height-stars-high #God-know-judge-dark-cloud #thick-clouds-covering-circuit-heaven #old-way-wicked-trodden-cut-time-foundation-flood #God-depart-Almighty-filled-houses-good-counsel-wicked #righteous-glad-innocent-scoff-substance-cut-fire-consumeth #acquaint-peace-good-law-mouth-heart #return-Almighty-built-iniquity-tabernacles #gold-dust-Ophir-stones-brooks #Almighty-defence-silver-delight-Almighty-face-GOD #prayer-hear-vows-decree-established-light-ways #cast-down-lifting-up-save-humble #deliver-island-innocent-pureness-hands
+**Tags:** #water-weary-drink-bread-hungry #mighty-man-earth-honourable-dwelt #widows-empty-arms-fatherless-broken #God-know-judge-dark-cloud #thick-clouds-covering-circuit-heaven #return-Almighty-built-iniquity-tabernacles #gold-dust-Ophir-stones-brooks #deliver-island-innocent-pureness-hands #eliphaz #job #call-to-repentance #promise-of-restoration
 
 ---
 

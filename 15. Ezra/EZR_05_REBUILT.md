@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Prophetic Encouragement, Temple Resumed, Divine Protection, Royal Investigation
 
-**Tags:** #prophets-Haggai-prophet-Zechariah-son-Iddo-prophesied-Jews-Judah-Jerusalem-name-God-Israel #rose-Zerubbabel-son-Shealtiel-Jeshua-son-Jozadak-began-build-house-GOD-Jerusalem-prophets-GOD-helping #Tatnai-governor-side-river-Shethar-boznai-companions-commanded-build-house-wall #names-men-building #eye-GOD-elders-Jews-cause-cease-matter-Darius-returned-answer-letter-matter #copy-letter-Tatnai-governor-side-river-Shethar-boznai-companions-Apharsachites-side-river-Darius-king #letter-Darius-king-peace #province-Judea-house-great-GOD-builded-great-stones-timber-laid-walls-work-fast-prospered-hands #asked-elders-commanded-build-house-walls #asked-names-certify-write-names-men-chief #returned-answer-servants-GOD-heaven-earth-build-house-builded-years-great-king-Israel-builded-set #fathers-provoked-GOD-heaven-wrath-hand-Nebuchadnezzar-king-Babylon-Chaldean-destroyed-house-carried-people-Babylon #first-year-Cyrus-king-Babylon-king-Cyrus-decree-build-house-GOD #vessels-gold-silver-house-GOD-Nebuchadnezzar-temple-Jerusalem-temple-Babylon-Cyrus-king-temple-Babylon-delivered-Sheshbazzar-governor #Sheshbazzar-vessels-temple-Jerusalem-house-GOD-builded-place #Sheshbazzar-laid-foundation-house-GOD-Jerusalem-time-building-finished #good-king-search-king-treasure-house-Babylon-decree-Cyrus-king-build-house-GOD-Jerusalem-king-pleasure-matter
+**Tags:** #names-men-building #letter-Darius-king-peace #prophetic-encouragement #temple-resumed #divine-protection #royal-investigation
 
 ---
 

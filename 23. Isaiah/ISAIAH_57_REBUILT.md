@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Righteousness, Spiritual Idolatry, Divine Healing, Christ's Peace
 
-**Tags:** #righteous-perisheth-man-heart-merciful-men-taken-considering-righteous-taken-evil-peace-rest-beds-walking-uprightness-draw-near-hither-sons-sorceress-seed-adulterer-whore-sport-yourselves-wide-mouth-draw-tongue-children-transgression-seed-falsehood-enflaming-idols-green-tree-slaying-children-valleys-clifts-rocks-smooth-stones-stream-portion-lot-poured-drink-offering-meat-offering-receive-comfort-lofty-high-mountain-set-bed-thither-sacrifice-behind-doors-posts-set-remembrance-discovered-another-gone-enlarged-bed-covenant-loved-bed-saw-king-ointment-increase-perfumes-messengers-far-debase-hell-wearied-greatness-way-said-hope-found-life-hand-grieved-afraid-feared-lied-remember-laid-heart-not-held-peace-feared-not-declare-righteousness-works-profit-cry-companies-deliver-wind-carry-vanity-take-trust-possess-land-inherit-holy-mountain-say-Cast-prepare-way-stumblingblock-way-people-high-lofty-One-inhabit-eternity-name-Holy-dwell-high-holy-place-contrite-humble-spirit-revive-spirit-humble-revive-heart-contrite-contend-forever-wroth-spirit-fail-souls-made-iniquity-covetousness-wroth-smote-hid-wroth-frowardly-heart-seen-ways-heal-lead-restore-comforts-mourners-create-fruit-lips-Peace-peace-far-here-near-LORD-heal-wicked-troubled-sea-rest-waters-cast-mire-dirt-peace-God-wicked
+**Tags:** #christ #spiritual-idolatry #divine-healing
 
 ---
 

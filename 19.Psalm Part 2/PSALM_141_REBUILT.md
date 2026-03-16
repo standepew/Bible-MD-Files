@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Personal Prayer, Spiritual Guard, Righteous Reproof, Divine Trust
 
-**Tags:** #Psalm-David-LORD-cry-make-haste-give-ear-voice-cry-prayer-set-forth-incense-lifting-hands-evening-sacrifice-watch-LORD-mouth-keep-door-lips-Incline-heart-evil-practise-wicked-works-men-work-iniquity-eat-dainties-righteous-smite-kindness-reprove-excellent-oil-break-head-prayer-calamities-judges-overthrown-stony-places-hear-words-sweet-bones-scattered-grave-mouth-cutteth-cleaveth-wood-earth-eyes-GOD-Lord-trust-leave-soul-destitute-Keep-snares-laid-gins-workers-iniquity-wicked-fall-nets-whilstal-escape
+**Tags:** #personal-prayer #spiritual-guard #righteous-reproof #divine-trust
 
 ---
 

@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Fast, Divine Justice, Spiritual Service, Christ's Blessing
 
-**Tags:** #Cry-aloud-spare-trumpet-shew-people-transgression-house-Jacob-sins-seek-daily-delight-know-ways-nation-righteousness-forsake-ordinance-God-ask-ordinances-justice-delight-approaching-God-fasted-seest-afflicted-soul-take-knowledge-day-fast-pleasure-exact-labours-fast-strife-debate-smite-fist-wickedness-voice-heard-high-chosen-fast-afflict-soul-bulrush-spread-sackcloth-ashes-fast-acceptable-day-LORD-chosen-fast-loose-bands-wickedness-undo-heavy-burdens-oppressed-free-break-yoke-deal-bread-hungry-bring-poor-cast-house-seest-naked-cover-hide-flesh-light-break-morning-health-spring-righteousness-glory-LORD-rereward-call-LORD-answer-cry-Here-take-away-midst-yoke-putting-finger-speaking-vanity-draw-soul-hungry-satisfy-afflicted-light-rise-obscurity-darkness-noonday-LORD-guide-continually-satisfy-soul-drought-make-fat-bones-watered-garden-spring-waters-fail-build-old-waste-places-raise-foundations-generations-called-repairer-breach-restorer-paths-dwell-turn-foot-sabbath-doing-pleasure-holy-day-delight-holy-LORD-honourable-honour-doing-ways-pleasure-speaking-words-delight-LORD-cause-ride-high-places-earth-feed-heritage-Jacob-father-mouth-LORD-spoken
+**Tags:** #christ #divine-justice #spiritual-service
 
 ---
 

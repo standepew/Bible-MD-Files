@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Righteousness and Wickedness, Law and Justice, Wealth and Poverty, Pride and Humility
 
-**Tags:** #wicked-flee-pursueth-righteous-bold-lion-transgression-land-many-princes-man-understanding-knowledge-state-prolonged-poor-oppresseth-poor-sweeping-rain-leaveth-food-forsake-law-praise-wicked-keep-law-contend-Evil-men-understand-judgment-seek-LORD-understand-Better-poor-walketh-uprightness-perverse-ways-rich-Whoso-keep-law-wise-son-companion-riotous-men-shameth-father-usury-unjust-gain-increaseth-substance-gather-pity-poor-turneth-ear-hearing-law-prayer-abomination-causeth-righteous-astray-evil-way-fall-pit-upright-good-things-possession-rich-man-wise-conceit-poor-understanding-searcheth-righteous-men-rejoice-great-glory-wicked-rise-man-hidden-covereth-sins-prosper-confesseth-forsaketh-mercy-Happy-feareth-alway-hardeneth-heart-fall-mischief-roaring-lion-ranging-bear-wicked-ruler-poor-people-prince-wanteth-understanding-great-oppressor-hateth-covetousness-prolong-days-violence-blood-person-flee-pit-stay-walketh-uprightly-saved-perverse-ways-fall-till-land-plenty-bread-followeth-vain-persons-poverty-faithful-man-abound-blessings-haste-rich-innocent-respect-persons-good-piece-bread-transgress-haste-rich-evil-eye-consider-poverty-rebuketh-man-afterwards-favour-flattereth-tongue-robbeth-father-mother-transgression-companion-destroyer-proud-heart-strife-put-trust-LORD-made-fat-trust-heart-fool-walketh-wisely-delivered-giveth-poor-lack-hideth-eyes-curse-wicked-rise-hide-perish-righteous-increase
+**Tags:** #righteousness-and-wickedness #law-and-justice #wealth-and-poverty #pride-and-humility
 
 ---
 

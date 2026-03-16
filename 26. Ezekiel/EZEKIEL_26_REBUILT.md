@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Judgment, Tyrus Pride, Divine Destruction, Christ's Glory
 
-**Tags:** #eleventh-year-first-day-month-word-LORD-son-man-Tyrus-Jerusalem-Aha-broken-gates-people-turned-replenished-laid-waste-Lord-GOD-Tyrus-nations-sea-waves-destroy-walls-Tyrus-break-towers-scrape-dust-rock-place-spreading-nets-midst-sea-Lord-GOD-spoken-spoil-nations-daughters-field-slain-sword-know-Lord-Lord-GOD-Tyrus-Nebuchadrezzar-king-Babylon-king-kings-north-horses-chariots-horsemen-companies-people-slay-sword-daughters-field-fort-cast-mount-lift-buckler-set-engines-war-walls-axes-break-towers-abundance-horses-dust-cover-walls-shake-noise-horsemen-wheels-chariots-enter-gates-men-enter-city-breach-hoofs-horses-tread-streets-slay-people-sword-strong-garrisons-ground-spoil-riches-prey-merchandise-break-walls-destroy-pleasant-houses-lay-stones-timber-dust-midst-water-cause-noise-songs-cease-sound-harps-heard-rock-place-spread-nets-built-Lord-spoken-Lord-GOD-Tyrus-isles-shake-sound-fall-wounded-cry-slaughter-midst-princes-sea-thrones-robes-broidered-garments-clothe-trembling-sit-ground-tremble-moment-astonished-lamentation-destroyed-inhabited-seafaring-renowned-city-strong-sea-inhabitants-cause-terror-haunt-isles-tremble-day-fall-isles-sea-troubled-departure-Lord-GOD-desolate-city-cities-inhabited-deep-great-waters-cover-bring-descend-pit-people-time-set-low-parts-earth-places-desolate-go-pit-inhabited-set-glory-land-living-terror-sought-never-found-Lord-GOD
+**Tags:** #christ #tyrus-pride #divine-destruction
 
 ---
 

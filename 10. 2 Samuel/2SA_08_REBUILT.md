@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** David's Military Victories, Subjugation of Enemies, Administrative Organization, Divine Preservation
 
-**Tags:** #David-smote-Philistines-subdued-David-Metheg-ammah-hand-Philistines #smote-Moab-measured-line-casting-ground-two-lines-measured-death-one-full-line-keep-alive-Moabites-servants-brought-gifts #David-smote-Hadadezer-son-Rehob-king-Zobah-recover-border-river-Euphrates #David-chariots-seven-hundred-horsemen-twenty-thousand-footmen-David-houghed-chariot-horses-reserved-hundred-chariots #Syrians-Damascus-succour-Hadadezer-king-Zobah-David-slew-Syrians-two-twenty-thousand-men #David-garrisons-Syria-Damascus-Syrians-servants-David-brought-gifts-LORD-preserved-David-whithersoever #David-shields-gold-servants-Hadadezer-Jerusalem #Betah-Berothai-cities-Hadadezer-king-David-exceeding-brass #Toi-king-Hamath-heard-David-smote-host-Hadadezer #Toi-Joram-son-king-David-salute-bless-fought-Hadadezer-smitten-Hadadezer-wars-Toi-Joram-vessels-silver-vessels-gold-vessels-brass #king-David-dedicate-LORD-silver-gold-dedicated-nations-subdued #Syria-Moab-children-Ammon-Philistines-Amalek-spoil-Hadadezer-son-Rehob-king-Zobah #David-name-returned-smite-Syrians-valley-salt-eighteen-thousand-men #garrisons-Edom-Edom-garrisons-Edom-David-servants-LORD-preserved-David-whithersoever #David-reigned-Israel-David-executed-judgment-justice-people #Joab-son-Zeruiah-host-Jehoshaphat-son-Ahilud-recorder #Zadok-son-Ahitub-Ahimelech-son-Abiathar-priests-Seraiah-scribe #Benaiah-son-Jehoiada-Cherethites-Pelethites-David-sons-chief-rulers
+**Tags:** #david #subjugation-of-enemies #administrative-organization #divine-preservation
 
 ---
 

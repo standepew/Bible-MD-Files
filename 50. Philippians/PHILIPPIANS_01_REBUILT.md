@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Thanksgiving and Prayer, Confidence in God's Work, Paul's Circumstances, Living for Christ
 
-**Tags:** #Paul-Timotheus-servants-Jesus-Christ-saints-Christ-Jesus-Philippi-bishops-deacons-grace-peace-God-Father-Lord-Jesus-Christ-thank-God-remembrance-prayer-request-joy-fellowship-gospel-first-day-confident-begun-good-work-perform-day-Jesus-Christ-meet-think-heart-bonds-defence-confirmation-gospel-partakers-grace-God-record-long-bowels-Jesus-Christ-pray-love-abound-knowledge-judgment-approve-excellent-sincere-without-offence-day-Christ-filled-fruits-righteousness-Jesus-Christ-glory-praise-God-understand-brethren-happened-furtherance-gospel-bonds-Christ-manifest-palace-places-brethren-Lord-waxing-confident-bonds-bold-speak-word-fear-preach-Christ-envy-strife-good-will-preach-Christ-contention-sincerely-supposing-affliction-bonds-love-knowing-set-defence-gospel-notwithstanding-pretence-truth-Christ-preached-rejoice-rejoice-know-turn-salvation-prayer-supply-Spirit-Jesus-Christ-earnest-expectation-hope-ashamed-boldness-Christ-magnified-body-life-death-live-Christ-die-gain-live-flesh-fruit-labour-choose-strait-betwixt-desire-depart-Christ-better-abide-flesh-needful-confidence-abide-continue-furtherance-joy-faith-rejoicing-abundant-Jesus-Christ-coming-conversation-becometh-gospel-Christ-come-see-absent-hear-affairs-stand-fast-spirit-mind-striving-faith-gospel-terrified-adversaries-evident-token-perdition-salvation-God-behalf-Christ-believe-suffer-conflict-saw-hear
+**Tags:** #thanksgiving-and-prayer #confidence-in-god #paul #living-for-christ
 
 ---
 

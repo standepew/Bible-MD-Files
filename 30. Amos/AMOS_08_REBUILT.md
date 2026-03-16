@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Final Judgment, Basket of Summer Fruit, Famine of God's Word, Solar Eclipse
 
-**Tags:** #Lord-GOD-shewed-basket-summer-fruit-Amos-seest-basket-summer-fruit-LORD-end-people-Israel-pass-songs-temple-howlings-day-Lord-GOD-many-dead-bodies-place-cast-silence-Hear-swallow-needy-make-poor-land-fail-new-moon-gone-sell-corn-sabbath-set-wheat-ephah-small-shekel-great-falsifying-balances-deceit-buy-poor-silver-needy-pair-shoes-sell-refuse-wheat-LORD-sworn-excellency-Jacob-forget-works-land-tremble-dwell-mourn-rise-wholly-flood-cast-drowned-flood-Egypt-day-Lord-GOD-sun-noon-darken-earth-clear-day-turn-feasts-mourning-songs-lamentation-bring-sackcloth-loins-baldness-head-mourning-son-end-bitter-day-days-come-Lord-GOD-send-famine-land-famine-bread-thirst-water-hearing-words-LORD-wander-sea-sea-north-east-run-seek-word-LORD-find-fair-virgins-young-men-faint-thirst-swear-sin-Samaria-god-Dan-liveth-manner-Beer-sheba-liveth-fall-rise
+**Tags:** #christ #basket-of-summer-fruit #famine-of-god #solar-eclipse
 
 ---
 

@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Restoration, Jacob's Trouble, Christ's Healing, Divine Presence
 
-**Tags:** #word-Jeremiah-LORD-LORD-God-Israel-saying-Write-words-spoken-book-days-LORD-bring-captivity-people-Israel-Judah-LORD-cause-return-land-gave-fathers-possess-words-LORD-spake-Israel-Judah-LORD-heard-voice-trembling-fear-peace-ask-man-travail-child-hands-loins-woman-travail-faces-paleness-Alas-day-great-Jacob-trouble-saved-day-LORD-hosts-break-yoke-neck-burst-bonds-strangers-serve-serve-LORD-God-David-king-raise-fear-servant-Jacob-LORD-dismayed-Israel-afar-seed-land-captivity-Jacob-return-rest-quiet-afraid-LORD-save-end-nations-scattered-end-correct-measure-leave-altogether-unpunished-LORD-bruise-incurable-wound-grievous-plead-cause-bound-healing-medicines-lovers-forgotten-wounded-wound-enemy-chastisement-cruel-multitude-iniquity-sins-increased-criest-affliction-sorrow-incurable-multitude-iniquity-sins-increased-devour-devoured-adversaries-captivity-spoil-spoil-prey-prey-restore-health-heal-wounds-LORD-called-Outcast-Zion-seeketh-LORD-bring-captivity-Jacob-tents-mercy-dwellingplaces-city-builded-heap-palace-manner-thanksgiving-voice-merry-multiply-few-glorify-small-children-aforetime-congregation-established-punish-oppress-nobles-governor-midst-cause-draw-near-approach-engaged-heart-approach-LORD-people-God-whirlwind-LORD-fury-continuing-whirlwind-pain-head-wicked-fierce-anger-LORD-return-performed-intents-heart-latter-days-consider
+**Tags:** #christ #jacob #divine-presence
 
 ---
 

@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Forgiveness of Sin, Confession, God's Protection, Joy of Salvation
 
-**Tags:** #Psalm-David-Maschil-blessed-transgression-forgiven-sin-covered-blessed-man-LORD-imputeth-iniquity-spirit-guile-kept-silence-bones-waxed-roaming-day-hand-heavy-moisture-turned-drought-summer-Selah-acknowledged-sin-iniquity-hid-confess-transgressions-LORD-forgavest-iniquity-sin-Selah #godly-pray-time-found-floods-great-waters-come-nigh-hiding-place-preserve-trouble-compass-songs-deliverance-Selah-instruct-teach-way-go-guide-eye-horse-mule-understanding-mouth-held-bit-bridle-come-near-sorrows-wicked-trusteth-LORD-mercy-compass #glad-LORD-rejoice-righteous-shout-joy-upright-heart
+**Tags:** #forgiveness-of-sin #confession #god #joy-of-salvation
 
 ---
 

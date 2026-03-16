@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Wicked's Depravity, God's Mercy, Divine Righteousness, Fountain of Life
 
-**Tags:** #chief-Musician-Psalm-David-servant-LORD-transgression-wicked-saith-heart-fear-GOD-eyes-flattereth-eyes-iniquity-found-hateful-words-mouth-iniquity-deceit-left-wise-good-deviseth-mischief-bed-setteth-way-good-abhorreth-evil-mercy-LORD-heavens-faithfulness-reacheth-clouds-righteousness-great-mountains-judgments-great-deep-LORD-preservest-man-beast #excellent-lovingkindness-GOD-children-men-trust-shadow-wings-abundantly-satisfied-fatness-house-make-drink-river-pleasures-fountain-life-light-see-light-continue-lovingkindness-know-righteousness-upright-heart-foot-pride-hand-wicked-remove-workers-iniquity-fallen-cast-able-rise
+**Tags:** #wicked #god #divine-righteousness #fountain-of-life
 
 ---
 

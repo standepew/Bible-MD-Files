@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Patient Waiting, Divine Deliverance, New Song, Christ's Coming
 
-**Tags:** #chief-Musician-Psalm-David-waited-patiently-LORD-inclined-heard-cry-brought-horrible-pit-miry-clay-set-feet-rock-established-goings-put-new-song-mouth-praise-GOD-many-see-fear-trust-LORD-blessed-man-maketh-LORD-trust-respecteth-proud-turn-aside-lies-many-LORD-GOD-wonderful-works-done-thoughts-ward-reckoned-order-declare-speak-numbered #sacrifice-offering-desire-ears-opened-burnt-offering-sin-offering-required-come-volume-book-written-delight-will-GOD-law-heart-preached-righteousness-great-congregation-refrained-lips-LORD-knowest-hid-righteousness-heart-declared-faithfulness-salvation-concealed-lovingkindness-truth-great-congregation-withhold-tender-mercies-LORD-lovingkindness-truth-continually-preserve #innumerable-evils-compassed-iniquities-taken-hold-able-look-hairs-head-heart-faileth-pleased-LORD-deliver-LORD-make-haste-help-ashamed-confounded-seek-soul-destroy-driven-backward-put-shame-wish-evil-desolate-reward-shame-say-Aha-seek-rejoice-glad-love-salvation-continually-LORD-magnified-poor-needy-Lord-thinketh-help-deliverer-make-tarrying-GOD
+**Tags:** #patient-waiting #divine-deliverance #new-song #christ
 
 ---
 

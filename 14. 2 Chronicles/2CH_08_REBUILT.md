@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Solomon's Building Projects, Military Expansion, Temple Service, Foreign Relations
 
-**Tags:** #end-twenty-years-Solomon-built-house-LORD-house-cities-Huram-restored-Solomon-built-caused-children-Israel-dwell #Solomon-Hamath-zobah-prevailed #built-Tadmor-wilderness-store-cities-built-Hamath #built-Beth-horon-upper-Beth-horon-nether-fenced-cities-walls-gates-bars #Baalath-store-cities-Solomon-chariot-cities-cities-horsemen-Solomon-desired-build-Jerusalem-Lebanon-land-dominion #people-left-Hittites-Amorites-Perizzites-Hivites-Jebusites-Israel #children-left-land-children-Israel-consumed-Solomon-pay-tribute-day #children-Israel-Solomon-servants-work-men-war-chief-captains-captains-chariots-horsemen #chief-king-Solomon-officers-two-hundred-fifty-rule-people #Solomon-brought-daughter-Pharaoh-city-David-house-built-wife-dwell-house-David-king-Israel-places-holy-ark-LORD-come #Solomon-offered-burnt-offerings-LORD-altar-LORD-built-porch #rate-day-offering-commandment-Moses-sabbaths-new-moons-solemn-feasts-three-times-year-feast-unleavened-bread-feast-weeks-feast-tabernacles #appointed-order-David-father-courses-priests-service-Levites-charges-praise-minister-priests-duty-day-required-porters-courses-gate-David-man-God-commanded #departed-commandment-king-priests-Levites-matter-treasures #work-Solomon-prepared-day-foundation-house-LORD-finished-house-LORD-perfected #Solomon-Ezion-geber-Eloth-sea-side-land-Edom #Huram-sent-servants-ships-servants-knowledge-sea-went-servants-Solomon-Ophir-four-hundred-fifty-talents-gold-brought-king-Solomon
+**Tags:** #Solomon-Hamath-zobah-prevailed #solomon #military-expansion #temple-service #foreign-relations
 
 ---
 

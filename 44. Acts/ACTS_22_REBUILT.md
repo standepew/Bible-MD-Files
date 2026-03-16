@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Paul's Defense Before the Jews, His Conversion Story, Paul's Roman Citizenship
 
-**Tags:** #Men-brethren-fathers-defence-Hebrew-tongue-silence-Jew-born-Tarsus-Cilicia-brought-city-feet-Gamaliel-taught-perfect-manner-law-fathers-zealous-God-persecuted-death-binding-delivering-prisons-men-women-high-priest-bear-witness-estate-elders-letters-brethren-Damascus-bound-Jerusalem-punished-journey-nigh-Damascus-noon-shone-heaven-light-round-fell-ground-heard-voice-Saul-persecutest-answered-Lord-Jesus-Nazareth-persecutest-light-afraid-voice-spake-Lord-Arise-Damascus-appointed-led-hand-Damascus-Ananias-devout-law-good-report-Jews-dwelt-stood-Brother-Saul-receive-sight-hour-looked-God-fathers-chosen-know-will-Just-One-hear-voice-mouth-witness-men-seen-heard-tarry-Arise-baptized-wash-sins-calling-Lord-Jerusalem-prayed-temple-trance-saying-Make-haste-quickly-Jerusalem-testimony-Lord-imprisoned-beat-synagogue-believed-blood-martyr-Stephen-shed-standing-consenting-death-kept-raiment-slew-Depart-send-Gentiles-audience-lifted-voices-Away-fellow-earth-live-cried-cast-clothes-threw-dust-chief-captain-castle-examined-scourging-cried-bound-thongs-centurion-lawful-scourge-Roman-uncondemned-centurion-heard-chief-captain-Take heed-Roman-chief-captain-Roman-great-freedom-Paul-free-born-departed-examined-chief-captain-afraid-Roman-bound-morrow-certainty-accused-Jews-loosed-bands-commanded-chief-priests-council-appear-brought-Paul-set
+**Tags:** #paul #his-conversion-story
 
 ---
 

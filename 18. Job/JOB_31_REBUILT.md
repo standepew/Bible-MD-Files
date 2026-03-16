@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Job's Final Defense, Personal Integrity, Social Justice, Divine Examination
 
-**Tags:** #covenant-eyes-maid-portion-GOD-inheritance-Almighty #destruction-wicked-strange-punishment-workers-iniquity-see-ways-count-steps #walked-vanity-foot-hasted-deceit-weighed-balance-integrity #step-turned-way-heart-eyes-blot-hands #sow-eat-offspring-rooted #heart-deceived-woman-laid-wait-neighbour-door #wife-grind-another-bow-down #heinous-crime-iniquity-judges-fire-destruction-root-increase #despise-cause-manservant-maidservant-contended-GOD-riseth-visit-answer #womb-fashioned-withheld-poor-desire-widow-eyes-fail #morsel-fatherless-youth-father-mother-womb #perish-clothing-poor-covering #loins-blessed-warmed-fleece-sheep #lifted-hand-fatherless-help-gate-arm-fall-shoulder-blade-broken #destruction-GOD-terror-highness-endure #gold-hope-fine-gold-confidence-rejoiced-wealth-hand-gotten #sun-shined-moon-brightness-heart-enticed-mouth-kissed-hand #iniquity-judge-denied-GOD-rejoiced-destruction-hated-lifted-evil-found #mouth-sin-curse-soul-tabernacle-flesh-satisfied-stranger-lodged-street-doors-traveller #transgressions-Adam-iniquity-bosom-fear-multitude-contempt-families-terrify-silence-door #hear-desire-Almighty-answer-adversary-book-shoulder-crown-declare-steps-prince #land-cry-furrows-complain-ate-fruits-money-owners-life #thistles-wheat-cockle-barley-words-ended
+**Tags:** #sow-eat-offspring-rooted #wife-grind-another-bow-down #perish-clothing-poor-covering #loins-blessed-warmed-fleece-sheep #destruction-GOD-terror-highness-endure #job #personal-integrity #social-justice #divine-examination
 
 ---
 

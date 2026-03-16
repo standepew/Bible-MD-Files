@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Self-Control, Wealth and Wisdom, Parental Instruction, Avoiding Evil
 
-**Tags:** #sittest-eat-ruler-consider-diligently-knife-throat-man-given-appetite-desirous-dainties-deceitful-meat-Labour-rich-cease-wisdom-set-eyes-not-riches-certainly-wings-fly-eagle-heaven-Eat-bread-evil-eye-desire-dainty-meats-thinketh-heart-Eat-drink-heart-not-morsel-eaten-vomit-sweet-words-Speak-ears-fool-despise-wisdom-words-Remove-old-landmark-enter-fields-fatherless-redeemer-mighty-plead-cause-Apply-heart-instruction-ears-words-knowledge-Withhold-correction-child-beatest-rod-die-beat-rod-deliver-soul-hell-son-heart-wise-heart-rejoice-reins-rejoice-lips-speak-right-envy-sinners-fear-LORD-day-long-surely-end-expectation-cut-Hear-son-wise-guide-heart-way-among-winebibbers-riotous-eaters-flesh-drunkard-glutton-poverty-drowsiness-clothe-rags-Hearken-father-begat-despise-mother-old-Buy-truth-sell-wisdom-instruction-understanding-father-righteous-greatly-rejoice-begetteth-wise-child-joy-father-mother-glad-bare-rejoice-son-give-heart-eyes-observe-ways-whore-deep-ditch-strange-woman-narrow-pit-lieth-wait-prey-increaseth-transgressors-men-woe-sorrow-contentions-babbling-wounds-cause-redness-eyes-tarry-long-wine-seek-mixed-wine-look-wine-red-colour-cup-moveth-aright-last-biteth-serpent-stingeth-adder-eyes-behold-strange-women-heart-utter-perverse-things-lieth-midst-sea-lieth-top-mast-stricken-sick-not-beaten-awake-seek-again
+**Tags:** #selfcontrol #wealth-and-wisdom #parental-instruction #avoiding-evil
 
 ---
 

@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Asa's Reform, Religious Purification, Divine Rest, Military Victory
 
-**Tags:** #Abijah-slept-fathers-buried-city-David-Asa-son-reigned-stead-land-quiet-ten-years #Asa-good-right-eyes-LORD-God #took-altars-strange-gods-high-places-brake-images-cut-groves #commanded-Judah-seek-LORD-God-fathers-law-commandment #took-cities-Judah-high-places-images-kingdom-quiet #built-fenced-cities-Judah-land-rest-no-war-years-LORD-given-rest #Judah-build-cities-walls-towers-gates-bars-land-seek-LORD-God-seek-LORD-given-rest-side-built-prospered #Asa-army-men-targets-spears-Judah-three-hundred-thousand-Benjamin-shields-drew-bows-two-hundred-fourscore-thousand-mighty-men-valour #Zerah-Ethiopian-host-thousand-thousand-three-hundred-chariots-Mareshah #Asa-battle-array-valley-Zephathah-Mareshah #Asa-cried-LORD-God-LORD-help-many-power-help-LORD-God-rest-LORD-name-multitude-LORD-God-man-prevail #LORD-smote-Ethiopians-Asa-Judah-Ethiopians-fled #Asa-people-pursued-Gerar-Ethiopians-overthrown-recover-destroyed-LORD-host-carried-spoil #smote-cities-Gerar-fear-LORD-spoiled-cities-exceeding-spoil #smote-tents-cattle-carried-sheep-camels-abundance-returned-Jerusalem
+**Tags:** #asa #religious-purification #divine-rest #military-victory
 
 ---
 

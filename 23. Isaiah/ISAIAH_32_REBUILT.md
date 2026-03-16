@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Righteous Rule, Divine Protection, Spiritual Transformation, Christ's Peace
 
-**Tags:** #Behold-king-reign-righteousness-princes-rule-judgment-man-hiding-place-wind-covert-tempest-rivers-water-dry-place-shadow-great-rock-weary-land-eyes-see-dim-ears-hear-hearken-heart-rash-understand-knowledge-tongue-stammerers-ready-speak-plainly-vile-person-liberal-churl-bountiful-vile-person-liberal-villany-heart-work-iniquity-practise-hypocrisy-utter-error-LORD-empty-soul-hungry-cause-drink-thirsty-fail-instruments-churl-evil-deviseth-wicked-devices-destroy-poor-lying-words-needy-speaketh-right-liberal-deviseth-liberal-liberal-things-liberal-things-stand-Rise-women-ease-hear-voice-careless-daughters-give-ear-speech-Many-days-years-troubled-careless-women-vintage-fail-gathering-come-Tremble-women-ease-troubled-careless-ones-strip-bare-gird-sackcloth-loins-lament-teats-pleasant-fields-fruitful-vine-land-people-thorns-briers-joyous-city-joyous-palaces-forsaken-multitude-city-left-forts-towers-dens-joy-wild-asses-pasture-flocks-spirit-poured-high-wilderness-fruitful-field-fruitful-field-counted-forest-judgment-dwell-wilderness-righteousness-remain-fruitful-field-work-righteousness-peace-effect-righteousness-quietness-assurance-people-dwell-peaceable-habitation-sure-dwellings-quiet-resting-places-hail-coming-forest-city-low-low-place-Blessed-sow-beside-waters-send-thither-feet-ox-ass
+**Tags:** #christ #divine-protection #spiritual-transformation
 
 ---
 

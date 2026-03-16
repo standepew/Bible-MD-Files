@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Father's Instruction, Pursuit of Wisdom, Path of Righteousness, Heart Guard
 
-**Tags:** #Hear-children-instruction-father-attend-know-understanding-give-good-doctrine-forsake-law-father-son-tender-beloved-sight-mother-taught-said-keep-words-commandments-live-Get-wisdom-understanding-forget-decline-words-mouth-Forsake-preserve-love-keep-Wisdom-principal-thing-therefore-get-wisdom-getting-understanding-Exalt-promote-bring-honour-embrace-give-head-ornament-grace-crown-glory-deliver-Hear-son-receive-sayings-years-life-many-taught-way-wisdom-led-right-paths-goest-steps-straitened-runnest-stumble-Take-fast-hold-instruction-let-life-Enter-path-wicked-way-evil-men-Avoid-pass-turn-pass-away-sleep-except-done-mischief-sleep-taken-away-cause-fall-eat-bread-wickedness-drink-wine-violence-path-just-shining-light-shineth-perfect-day-way-wicked-darkness-know-stumble-son-attend-words-incline-ear-sayings-depart-eyes-keep-midst-heart-life-find-health-flesh-Keep-heart-diligence-issues-life-away-froward-mouth-perverse-lips-eyes-look-eyelids-look-straight-Ponder-path-feet-ways-established-Turn-right-left-remove-foot-evil
+**Tags:** #father #pursuit-of-wisdom #path-of-righteousness #heart-guard
 
 ---
 

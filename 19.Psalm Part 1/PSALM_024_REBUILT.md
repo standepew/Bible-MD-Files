@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** God's Ownership, Worship Requirements, King of Glory, Christ's Ascension
 
-**Tags:** #Psalm-David-earth-LORD-fulness-world-dwell-founded-seas-established-floods-ascend-hill-LORD-stand-holy-place-clean-hands-pure-heart-lifted-soul-vanity-sworn-deceitfully-receive-blessing-LORD-righteousness-GOD-salvation #generation-seek-face-Jacob-Selah-lift-heads-gates-lift-everlasting-doors-King-glory-come-strong-mighty-battle-lift-heads-gates-lift-everlasting-doors-King-glory-come-LORD-hosts-King-glory-Selah
+**Tags:** #god #worship-requirements #king-of-glory #christ
 
 ---
 

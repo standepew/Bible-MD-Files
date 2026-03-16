@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Call to Build, Divine Priority, Material Discontent, Spiritual Awakening
 
-**Tags:** #second-year-Darius-king-sixth-month-first-day-month-word-LORD-Haggai-prophet-Zerubbabel-son-Shealtiel-governor-Judah-Joshua-son-Josedech-high-priest-speaketh-LORD-hosts-people-time-LORD-house-built-came-word-LORD-Haggai-prophet-time-dwell-cieled-houses-house-lie-waste-LORD-hosts-Consider-ways-sown-much-bring-little-eat-enough-drink-filled-drink-clothe-warm-earneth-wages-bag-holes-LORD-hosts-Consider-ways-mountain-bring-wood-build-house-pleasure-glorified-LORD-looked-much-came-little-brought-home-blow-Why-LORD-hosts-house-waste-run-house-heaven-over-stayed-dew-earth-stayed-fruit-called-drought-land-mountains-corn-new-wine-oil-ground-bringeth-men-cattle-labour-hands-Zerubbabel-son-Shealtiel-Joshua-son-Josedech-high-priest-remnant-people-obeyed-voice-LORD-God-words-Haggai-prophet-LORD-GOD-sent-people-fear-LORD-spake-Haggai-LORD-messenger-LORD-message-people-LORD-LORD-stirred-spirit-Zerubbabel-son-Shealtiel-governor-Judah-spirit-Joshua-son-Josedech-high-priest-spirit-remnant-people-came-work-house-LORD-hosts-God-four-twentieth-day-sixth-month-second-year-Darius-king
+**Tags:** #christ #divine-priority #material-discontent #spiritual-awakening
 
 ---
 

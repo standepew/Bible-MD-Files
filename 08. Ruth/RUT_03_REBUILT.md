@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Naomi's Plan, Threshingfloor Strategy, Ruth's Obedience, Midnight Encounter, Kinsman Proposal, Boaz's Integrity, Cloak Request, Six Measures Barley, Morning Departure
 
-**Tags:** #Naomi-mother-law-daughter-seek-rest-well #Boaz-kindred-maidens-wast-winnoweth-barley-night-threshingfloor #Wash-anoint-raiment-floor-known-man-eating-drinking #mark-place-lie-uncover-feet-lay-tell #said-All-bade #floor-mother-law-bade #Boaz-ate-drank-heart-merry-lie-heap-corn #softly-uncovered-feet-laid #midnight-afraid-turned-woman-feet #Who-thou-Ruth-handmaid-skirt-handmaid-near-kinsman #Blessed-LORD-daughter-kindness-latter-beginning-followed-young-men-poor-rich #daughter-fear-require-city-people-virtuous-woman #kinsman-nearer-kinsman #Tarry-night-morning-perform-kinsman-well-kinsman-part #perform-kinsman-LORD-lie-morning #lay-feet-morning-rose-one-know #known-woman-floor #vail-hold-measured-six-measures-barley-laid-city #mother-law-daughter-man #six-measures-barley-empty-mother-law #Sit-still-daughter-matter-fall-man-rest-finished-thing-day
+**Tags:** #said-All-bade #floor-mother-law-bade #softly-uncovered-feet-laid #midnight-afraid-turned-woman-feet #kinsman-nearer-kinsman #perform-kinsman-LORD-lie-morning #known-woman-floor #mother-law-daughter-man #naomi #threshingfloor-strategy #ruth #midnight-encounter #kinsman-proposal #boaz #cloak-request #six-measures-barley #morning-departure
 
 ---
 

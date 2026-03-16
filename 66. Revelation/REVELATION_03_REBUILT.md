@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Message to Sardis (Spiritual Death), Message to Philadelphia (Faithful Little Flock), Message to Laodicea (Lukewarm Complacency)
 
-**Tags:** #angel-church-Sardis-write-seven-Spirits-God-seven-stars-know-works-name-livest-dead-watchful-strengthen-things-remain-ready-die-found-works-perfect-God-Remember-received-heard-hold-fast-repent-watch-thief-know-hour-come-names-defiled-garments-walk-white-worthy-overcometh-clothed-white-raiment-blot-name-book-life-confess-name-Father-angels-ear-hear-Spirit-saith-churches-angel-church-Philadelphia-write-holy-true-key-David-openeth-shutteth-openeth-shutteth-know-works-set-open-door-shut-little-strength-kept-word-denied-name-synagogue-Satan-Jews-lie-worship-feet-know-loved-kept-word-patience-keep-hour-temptation-world-try-dwell-earth-come-quickly-hold-fast-crown-overcometh-pillar-temple-God-go-write-name-God-city-God-new-Jerusalem-cometh-heaven-God-write-new-name-ear-hear-Spirit-saith-churches-angel-church-Laodiceans-write-Amen-faithful-true-witness-beginning-creation-God-know-works-cold-hot-lukewarm-cold-hot-spue-mouth-sayest-rich-increased-goods-need-knowest-wretched-miserable-poor-blind-naked-counsel-buy-gold-tried-fire-rich-white-raiment-clothed-shame-nakedness-anoint-eyes-eyesalve-love-rebuke-chasten-zealous-repent-stand-door-knock-hear-voice-open-door-come-sup-overcometh-grant-sit-throne-overcame-set-Father-throne-ear-hear-Spirit-saith-churches
+**Tags:** #message-to-sardis #message-to-philadelphia #message-to-laodicea
 
 ---
 

@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Coming Messenger, Refiner's Fire, Tithes and Offerings, Book of Remembrance
 
-**Tags:** #send-messenger-prepare-way-Lord-seek-suddenly-come-temple-messenger-covenant-delight-behold-come-LORD-hosts-abide-day-coming-stand-appeareth-refiner-fire-fullers-soap-sit-refiner-purifier-silver-purify-sons-Levi-purge-gold-silver-offer-LORD-offering-righteousness-offering-Judah-Jerusalem-pleasant-LORD-days-old-former-years-come-judgment-swift-witness-sorcerers-adulterers-false-swearers-oppress-hireling-wages-widow-fatherless-turn-aside-stranger-right-fear-LORD-hosts-LORD-change-sons-Jacob-consumed-days-fathers-gone-ordinances-kept-Return-LORD-return-LORD-hosts-return-Wherein-return-man-rob-God-robbed-Wherein-robbed-tithes-offerings-cursed-curse-robbed-whole-nation-tithes-storehouse-meat-house-prove-LORD-hosts-open-windows-heaven-pour-blessing-room-receive-rebuke-devourer-sake-destroy-fruits-ground-vine-cast-fruit-time-field-LORD-hosts-nations-blessed-delightsome-land-LORD-hosts-words-stout-LORD-spoken-much-against-vain-serve-God-profit-kept-ordinance-walked-mournfully-LORD-hosts-call-proud-happy-work-wickedness-set-tempt-God-delivered-feared-LORD-spake-often-LORD-hearkened-heard-book-remembrance-written-feared-LORD-thought-name-LORD-hosts-day-make-jewels-spare-man-son-served-return-discern-righteous-wicked-served-God-served
+**Tags:** #christ #refiner #tithes-and-offerings #book-of-remembrance
 
 ---
 

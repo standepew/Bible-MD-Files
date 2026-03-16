@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** The River of Life, The Tree of Life, The Final Promise, The Final Warning, The Final Invitation
 
-**Tags:** #shewed-pure-river-water-life-clear-crystal-proceeding-throne-God-Lamb-midst-street-either-side-river-tree-life-bare-twelve-manner-fruits-yielded-fruit-month-leaves-tree-healing-nations-no-more-curse-throne-God-Lamb-servants-serve-face-name-foreheads-no-night-need-candle-light-sun-Lord-God-light-reign-forever-sayings-faithful-true-Lord-God-holy-prophets-sent-angel-shew-servants-things-shortly-Behold-quickly-blessed-keepeth-sayings-prophecy-book-John-heard-fell-worship-feet-angel-shewed-fellowservant-brethren-prophets-keep-sayings-book-worship-God-Seal-sayings-prophecy-book-time-hand-unjust-unjust-filthy-filthy-righteous-righteous-holy-holy-behold-quickly-reward-work-Alpha-Omega-beginning-end-first-last-Blessed-commandments-right-tree-life-enter-gates-city-dogs-sorcerers-whoremongers-murderers-idolaters-whosoever-loveth-maketh-lie-Jesus-sent-angel-testify-churches-root-offspring-David-bright-morning-star-Spirit-bride-Come-heareth-Come-athirst-whosoever-water-life-freely-testify-man-heareth-words-prophecy-book-add-things-God-add-plagues-take-away-words-book-prophecy-take-part-book-life-holy-city-things-book-testifieth-surely-quickly-Amen-Lord-Jesus-grace-Lord-Jesus-Christ-Amen
+**Tags:** #the-river-of-life #the-tree-of-life #the-final-promise #the-final-warning #the-final-invitation
 
 ---
 

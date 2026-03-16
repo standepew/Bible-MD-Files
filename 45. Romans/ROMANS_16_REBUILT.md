@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Personal Greetings, Warning Against Division, Final Benediction, Doxology
 
-**Tags:** #commend-Phebe-sister-servant-church-Cenchrea-receive-Lord-becometh-saints-assist-business-need-succourer-many-helper-Christ-Jesus-Priscilla-Aquila-helpers-laid-neck-life-Gentiles-church-house-Epaenetus-firstfruits-Achaia-Christ-Mary-bestowed-labour-Andronicus-Junia-kinsmen-fellowprisoners-note-apostles-Christ-Amplias-beloved-Lord-Urbane-helper-Christ-Stachys-beloved-Apelles-approved-Christ-Aristobulus-household-Herodion-kinsman-household-Narcissus-Lord-Tryphena-Tryphosa-labour-Lord-beloved-Persis-laboured-Lord-Rufus-chosen-Lord-mother-mine-Asyncritus-Phlegon-Hermas-Patrobas-Hermes-brethren-Philologus-Julia-Nereus-sister-Olympas-saints-holy-kiss-churches-Christ-salute-beseech-brethren-mark-divisions-offences-doctrine-learned-avoid-serve-Lord-Jesus-Christ-belly-good-words-fair-speeches-deceive-hearts-simple-obedience-abroad-men-glad-behalf-wise-good-simple-evil-God-peace-bruise-Satan-feet-shortly-grace-Lord-Jesus-Christ-Timotheus-workfellow-Lucius-Jason-Sosipater-kinsmen-salute-Tertius-wrote-epistle-salute-Lord-Gaius-host-church-saluteth-Erastus-chamberlain-city-saluteth-Quartus-brother-grace-Lord-Jesus-Christ-power-stablish-gospel-preaching-Jesus-Christ-revelation-mystery-secret-world-began-manifest-scriptures-prophets-commandment-everlasting-God-known-nations-obedience-faith-God-wise-glory-Jesus-Christ-forever
+**Tags:** #personal-greetings #warning-against-division #final-benediction #doxology
 
 ---
 

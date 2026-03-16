@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Justice, Divine Inclusion, Spiritual Sabbath, Christ's House
 
-**Tags:** #LORD-Keep-judgment-do-justice-salvation-near-righteousness-revealed-Blessed-man-doeth-son-man-layeth-hold-keepeth-sabbath-polluting-keepeth-hand-doing-evil-Neither-son-stranger-joined-LORD-speak-LORD-utterly-separated-people-eunuch-dry-tree-LORD-eunuchs-keep-sabbaths-choose-please-take-hold-covenant-give-house-walls-place-name-better-sons-daughters-give-everlasting-name-cut-sons-stranger-join-LORD-serve-love-name-LORD-servants-keepeth-sabbath-polluting-taketh-hold-covenant-bring-holy-mountain-joyful-house-prayer-burnt-offerings-sacrifices-accepted-altar-house-called-house-prayer-people-Lord-GOD-gathereth-outcasts-Israel-gather-others-beside-gathered-beasts-field-devour-beasts-forest-watchmen-blind-ignorant-dumb-dogs-bark-sleeping-lying-loving-slumber-greedy-dogs-enough-shepherds-understand-look-way-quarter-gain-fetch-wine-fill-strong-drink-tomorrow-day-much-abundant
+**Tags:** #christ #divine-inclusion #spiritual-sabbath
 
 ---
 

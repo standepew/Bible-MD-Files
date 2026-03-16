@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Saul's Defeat and Death, Philistine Victory, Jabesh-gilead's Loyalty, David's Rise to Kingship
 
-**Tags:** #Philistines-fought-Israel-men-Israel-fled-Philistines-fell-slain-mount-Gilboa #Philistines-followed-hard-Saul-sons-Philistines-slew-Jonathan-Abinadab-Malchi-shua-sons-Saul #battle-sore-Saul-archers-hit-wounded-archers #Saul-armourbearer-draw-sword-thrust-uncircumcised-come-abuse-armourbearer-afraid-Saul-sword-fell #armourbearer-saw-Saul-dead-fell-sword-died #Saul-died-three-sons-house-died #men-Israel-valley-saw-fled-Saul-sons-dead-forsook-cities-fled-Philistines-came-dwelt #morrow-Philistines-come-strip-slain-found-Saul-sons-fallen-mount-Gilboa #stripped-took-head-armour-sent-land-Philistines-round-carry-tidings-idols-people #put-armour-house-gods-fastened-head-temple-Dagon #Jabesh-gilead-heard-Philistines-Saul #arose-valiant-men-took-body-Saul-bodies-sons-brought-Jabesh-buried-bones-oak-Jabesh-fasted-seven-days #Saul-died-transgression-committed-LORD-word-LORD-kept-asking-counsel-familiar-spirit-enquire #enquired-LORD-slew-turned-kingdom-David-son-Jesse
+**Tags:** #Jabesh-gilead-heard-Philistines-Saul #saul #philistine-victory #jabeshgilead #david
 
 ---
 

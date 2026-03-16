@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Thanksgiving for Mercy, Divine Help, Christ the Cornerstone, Eternal Salvation
 
-**Tags:** #give-thanks-LORD-good-mercy-endureth-Israel-say-mercy-endureth-house-Aaron-say-mercy-endureth-fear-LORD-say-mercy-endureth-called-LORD-distress-LORD-answered-set-large-place-LORD-side-fear-man-LORD-taketh-part-help-desire-hate-trust-LORD-confidence-man-trust-LORD-confidence-princes-nations-compassed-name-LORD-destroy-compassed-destroy-compassed-bees-quenched-fire-thorns-name-LORD-destroy-thrust-sore-fall-LORD-helped-LORD-strength-song-salvation-voice-rejoicing-salvation-tabernacles-righteous-right-hand-LORD-valiantly-right-hand-LORD-exalted-right-hand-LORD-valiantly-die-live-declare-works-LORD-chastened-sore-given-death-Open-gates-righteousness-gate-LORD-righteous-enter-praise-LORD-heard-become-salvation-stone-builders-refused-head-stone-corner-LORD-doing-marvellous-eyes-day-LORD-made-rejoice-glad-Save-beseech-LORD-send-prosperity-Blessed-cometh-name-LORD-blessed-house-LORD-shewed-light-bind-sacrifice-cords-horns-altar-GOD-praise-exalt-GOD-give-thanks-LORD-good-mercy-endureth
+**Tags:** #thanksgiving-for-mercy #divine-help #christ-the-cornerstone #eternal-salvation
 
 ---
 

@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Exile Lament, Captivity Sorrow, Jerusalem Longing, Divine Justice
 
-**Tags:** #rivers-Babylon-sat-wept-remembered-Zion-hanged-harps-willows-midst-carried-away-captive-required-song-wasted-required-mirth-singing-songs-Zion-sing-LORD-song-strange-land-forget-Jerusalem-right-hand-forget-cunning-remember-Jerusalem-tongue-cleave-roof-mouth-prefer-Jerusalem-chief-joy-remember-LORD-children-Edom-day-Jerusalem-Rase-foundation-daughter-Babylon-destroyed-happy-rewardeth-served-happy-taketh-dasheth-little-ones-stones
+**Tags:** #exile-lament #captivity-sorrow #jerusalem-longing #divine-justice
 
 ---
 

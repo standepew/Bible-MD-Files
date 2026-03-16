@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Divine Deliverance, Protection from Evil, Wicked Snares, Righteous Victory
 
-**Tags:** #chief-Musician-Psalm-David-Deliver-LORD-evil-man-preserve-violent-man-imagine-mischiefs-heart-continually-gathered-war-sharpened-tongues-serpent-adders-poison-lips-Keep-LORD-hands-wicked-preserve-violent-man-purposed-overthrow-goings-proud-hid-snares-cords-spread-net-wayside-set-gins-LORD-Thou-God-hear-voice-supplications-LORD-GOD-Lord-strength-salvation-covered-head-day-battle-Grant-LORD-desires-wicked-further-wicked-device-exalt-Selah-head-compass-mischief-lips-cover-burning-coals-fall-cast-fire-deep-pits-rise-evil-speaker-established-earth-evil-hunt-violent-overthrow-know-LORD-maintain-cause-afflicted-right-poor-righteous-give-thanks-name-upright-dwell-presence
+**Tags:** #divine-deliverance #protection-from-evil #wicked-snares #righteous-victory
 
 ---
 

@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** God's Reign, Divine Holiness, Priestly Intercession, Righteous Judgment
 
-**Tags:** #LORD-reigneth-people-tremble-sitteth-cherubims-earth-moved-LORD-great-Zion-high-people-praise-great-terrible-name-holy-king-strength-loveth-judgment-establish-equity-executest-judgment-righteousness-Jacob-Exalt-LORD-GOD-worship-footstool-holy-Moses-Aaron-priests-Samuel-call-name-called-LORD-answered-spake-cloudy-pillar-kept-testimonies-ordinance-gave-answeredst-LORD-GOD-forgavest-tookest-vengeance-inventions-Exalt-LORD-GOD-worship-holy-hill-LORD-GOD-holy
+**Tags:** #god #divine-holiness #priestly-intercession #righteous-judgment
 
 ---
 

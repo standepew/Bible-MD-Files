@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Urgent Prayer, Divine Haste, Enemy's Confusion, God's Help
 
-**Tags:** #chief-Musician-Psalm-David-bring-remembrance-haste-GOD-deliver-haste-help-LORD-ashamed-confounded-seek-soul-turned-backward-put-confusion-desire-hurt-turned-backward-reward-shame-say-Aha-aha-seek-rejoice-glad-love-salvation-continually-magnified-poor-needy-haste-GOD-help-deliverer-LORD-tarrying
+**Tags:** #urgent-prayer #divine-haste #enemy #god
 
 ---
 

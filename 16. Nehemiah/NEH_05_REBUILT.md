@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Economic Oppression, Nehemiah's Anger, Usury Reform, Personal Sacrifice
 
-**Tags:** #great-cry-people-wives-brethren-Jews #sons-daughters-corn-eat-live #mortgaged-lands-vineyards-houses-corn-dearth #borrowed-money-king-tribute-lands-vineyards #flesh-brethren-children-children-bondage-sons-daughters-servants-daughters-bondage-redeem-men-lands-vineyards #angry-heard-cry-words #consulted-rebuked-nobles-rulers-exact-usury-brother-great-assembly #ability-redeemed-brethren-Jews-sold-heathen-sell-brethren-sold-held-peace-answer #good-walk-fear-GOD-reproach-heathen-enemies #brethren-servants-exact-money-corn-usury #restore-day-lands-vineyards-oliveyards-houses-hundredth-money-corn-wine-oil-exact #restore-require-promise-priests-oath-promise #shook-lap-GOD-shake-house-labour-perform-promise-shaken-emptied-congregation-Amen-praised-LORD-people-promise #appointed-governor-land-Judah-twentieth-year-two-thirtieth-year-Artaxerxes-king-twelve-years-brothers-bread-governor #former-governors-chargeable-people-bread-wine-forty-shekels-silver-servants-bare-rule-people-fear-GOD #continued-work-wall-bought-land-servants-gathered-work #table-hundred-fifty-Jews-rulers-heathen #prepared-daily-ox-six-choice-sheep-fowls-ten-days-wine-required-bread-governor-bondage-heavy-people #think-GOD-good-people
+**Tags:** #sons-daughters-corn-eat-live #angry-heard-cry-words #think-GOD-good-people #economic-oppression #nehemiah #usury-reform #personal-sacrifice
 
 ---
 

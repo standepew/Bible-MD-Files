@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Judgment on Leaders, Corrupt Prophets, True Prophet, Zion's Destruction
 
-**Tags:** #Hear-heads-Jacob-princes-house-Israel-know-judgment-hate-good-love-evil-pluck-skin-flesh-bones-eat-flesh-people-flay-skin-break-bones-chop-pieces-pot-flesh-caldron-cry-LORD-hear-hide-face-behaved-ill-doings-LORD-prophets-make-people-err-bite-teeth-cry-Peace-putteth-mouths-prepare-war-night-vision-dark-divine-sun-prophets-day-dark-seers-ashamed-diviners-confounded-cover-lips-answer-God-truly-full-power-spirit-LORD-judgment-might-declare-Jacob-transgression-Israel-sin-Hear-heads-house-Jacob-princes-house-Israel-abhor-judgment-pervert-equity-build-Zion-blood-Jerusalem-iniquity-heads-judge-reward-priests-teach-hire-prophets-divine-money-lean-LORD-LORD-none-evil-Zion-plowed-field-Jerusalem-heaps-mountain-house-high-places-forest
+**Tags:** #christ #corrupt-prophets #true-prophet #zion
 
 ---
 

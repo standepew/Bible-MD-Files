@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Divine Protection, Angelic Guardianship, Faithful Trust, Eternal Salvation
 
-**Tags:** #dwelleth-secret-place-High-abide-shadow-Almighty-say-LORD-refuge-fortress-GOD-trust-shall-deliver-snare-fowler-noisome-pestilence-cover-feathers-wings-shall-truth-shield-buckler-afraid-terror-night-arrow-flieth-day-pestilence-walk-darkness-destruction-wasteth-noonday-thousand-fall-side-ten-thousand-right-hand-nigh-eyes-behold-reward-wicked-made-LORD-refuge-High-habitation-evil-befall-plague-nigh-dwelling-give-angels-charge-keep-ways-bear-hands-dash-foot-stone-tread-lion-adder-young-lion-dragon-trample-feet-set-love-deliver-set-high-known-name-call-answer-trouble-deliver-honour-long-life-satisfy-shew-salvation
+**Tags:** #divine-protection #angelic-guardianship #faithful-trust #eternal-salvation
 
 ---
 

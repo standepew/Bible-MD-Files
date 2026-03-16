@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Royal Wedding, King's Glory, Queen's Beauty, Eternal Kingdom
 
-**Tags:** #chief-Musician-Shoshannim-sons-Korah-Maschil-Song-loves-heart-inditing-good-matter-speak-things-made-king-tongue-pen-ready-writer-fairer-children-men-grace-poured-lips-GOD-blessed-forever-gird-sword-thigh-mighty-glory-majesty-majesty-ride-prosperously-truth-meekness-righteousness-right-hand-teach-terrible-things-arrows-sharp-heart-king-enemies-people-fall-throne-GOD-forever-sceptre-kingdom-right-sceptre #lovest-righteousness-hatest-wickedness-GOD-anointed-oil-gladness-fellows-garments-smell-myrrh-aloes-cassia-ivory-palaces-made-glad-kings-daughters-honourable-women-right-hand-stand-queen-gold-Ophir-hearken-daughter-consider-incline-ear-forget-people-father-house-king-greatly-desire-beauty-Lord-worship-daughter-Tyre-gift-rich-people-intreat-favour-king-daughter-glorious-clothing-wrought-gold-brought-king-raiment-needlework-virgins-companions-follow-brought-gladness-rejoicing-brought-enter-king-palace #instead-fathers-children-make-princes-earth-make-name-remembered-generations-people-praise-forever
+**Tags:** #royal-wedding #king #queen #eternal-kingdom
 
 ---
 

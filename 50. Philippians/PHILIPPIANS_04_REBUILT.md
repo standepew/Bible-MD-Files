@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Standing Fast in the Lord, Rejoicing Always, Prayer and Peace, Contentment in All Circumstances, God's Provision
 
-**Tags:** #Therefore-brethren-dearly-beloved-longed-joy-crown-stand-fast-Lord-dearly-beloved-beseech-Euodias-beseech-Syntyche-mind-Lord-intreat-true-yokefellow-help-women-laboured-gospel-Clement-fellowlabourers-names-book-life-Rejoice-Lord-alway-Rejoice-moderation-known-men-Lord-hand-careful-nothing-prayer-supplication-thanksgiving-requests-known-God-peace-God-passeth-understanding-keep-hearts-minds-Christ-Jesus-true-honest-just-pure-lovely-good-report-virtue-praise-think-things-learned-received-heard-seen-God-peace-rejoiced-Lord-greatly-care-flourished-careful-lacked-opportunity-respect-want-learned-state-content-abased-abound-instructed-full-hungry-abound-suffer-need-things-Christ-strengtheneth-notwithstanding-well-communicated-affliction-Philippians-know-beginning-gospel-departed-Macedonia-church-communicated-giving-receiving-sent-necessity-desire-gift-desire-fruit-abound-account-abound-full-received-Epaphroditus-sent-odour-sweet-smell-sacrifice-acceptable-wellpleasing-God-God-supply-need-riches-glory-Christ-Jesus-God-Father-glory-forever-Salute-saint-Christ-Jesus-brethren-greet-saints-salute-chiefly-Caesar-household-grace-Lord-Jesus-Christ-Amen
+**Tags:** #standing-fast-in-the-lord #rejoicing-always #prayer-and-peace #contentment-in-all-circumstances #god
 
 ---
 

@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Samuel's Ministry, No Open Vision, God's Call, Samuel's Response, Eli's Perception, God's Message, Eli's Judgment, Samuel's Fear, Samuel's Honesty, Prophet Established
 
-**Tags:** #child-Samuel-ministered-LORD-Eli-word-LORD-precious-days-open-vision #Eli-laid-place-eyes-began-wax-dim-see #lamp-God-went-temple-LORD-ark-God-Samuel-laid-sleep #LORD-called-Samuel-answered #ran-Eli-calledst-lie-down #LORD-called-Samuel-arose-Eli-calledst-lie-down #Samuel-knew-LORD-word-LORD-revealed #LORD-called-Samuel-third-time-arose-Eli-calledst #Eli-perceived-LORD-called-child #Eli-Samuel-lie-down-call-Speak-LORD-servant-heareth #Samuel-lay-place-LORD-stood-called-times-Samuel-Samuel-Samuel-answered-Speak-servant-heareth #LORD-Samuel-thing-Israel-ears-tingle #day-perform-Eli-things-spoken-house-begin-end #judge-house-forever-iniquity-knew-sons-vile-restrained #sworn-house-Eli-iniquity-Eli-house-purged-sacrifice-offering-forever #Samuel-morning-opened-doors-house-LORD-feared-shew-Eli-vision #Eli-called-Samuel-son-answered #thing-LORD-said-hide-God-hide-things-said #Samuel-told-whit-hid-LORD-good #Samuel-grew-LORD-words-fall-ground #Israel-Dan-Beer-sheba-knew-Samuel-established-prophet-LORD #LORD-appeared-Shiloh-LORD-revealed-Samuel-Shiloh-word-LORD
+**Tags:** #LORD-called-Samuel-answered #ran-Eli-calledst-lie-down #Eli-perceived-LORD-called-child #Eli-called-Samuel-son-answered #samuel #no-open-vision #god #eli #prophet-established
 
 ---
 

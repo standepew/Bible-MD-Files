@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** The Excellence of Charity, The Permanence of Love, The Perfect to Come, Faith, Hope, and Love
 
-**Tags:** #speak-tongues-men-angels-charity-sounding-brass-tinkling-cymbal-gift-prophecy-understand-mysteries-knowledge-faith-remove-mountains-charity-nothing-bestow-goods-feed-poor-give-body-burned-charity-profiteth-charity-suffereth-long-kind-envieth-vaunteth-puffed-behave-unseemly-seek-easily-provoked-thinketh-evil-rejoiceth-iniquity-rejoiceth-truth-beareth-things-believeth-things-hopeth-things-endureth-things-charity-faileth-prophecies-fail-tongues-cease-knowledge-vanish-part-prophesy-part-perfect-part-done-away-child-spake-child-understood-child-thought-child-became-man-put-childish-things-glass-darkly-face-face-part-perfect-is-come-part-shall-done-away-see-glass-darkly-face-face-know-part-know-known-abideth-faith-hope-charity-greatest-charity
+**Tags:** #the-excellence-of-charity #the-permanence-of-love #the-perfect-to-come #faith #hope-and-love
 
 ---
 

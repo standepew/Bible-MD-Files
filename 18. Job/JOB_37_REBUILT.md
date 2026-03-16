@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Elihu's Fifth Speech, God's Voice, Natural Phenomena, Divine Majesty
 
-**Tags:** #heart-trembleth-moved-place-hear-attentively-noise-voice-sound-mouth-directeth-heaven-lightning-earth #roareth-thundereth-excellency-stay-voice-heard-thundereth-marvellously-voice-great-comprehend #snow-earth-small-rain-great-rain-strength-sealeth-hand-man-know-work-beasts-dens-places #south-whirlwind-cold-north-breath-GOD-frost-waters-straitened-watering-wearieth-thick-cloud-scattereth-bright-cloud #turned-counsels-commandeth-face-world-earth-correction-land-mercy-hearken-Job-stand-still-wondrous-works #disposed-light-cloud-shine-balancings-clouds-wondrous-works-perfect-knowledge-garments-warm-quieteth-earth-south-wind #spread-sky-strong-molten-looking-glass-teach-speech-darkness-swallowed-up-men-see-bright-light-clouds-wind-passeth-cleanseth #fair-weather-north-GOD-terrible-majesty-Almighty-excellent-power-judgment-plenty-justice-afflict-men-fear-respect-wise-heart
+**Tags:** #elihu #god #natural-phenomena #divine-majesty
 
 ---
 

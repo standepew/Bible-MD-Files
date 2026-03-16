@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** The Grace of Giving, The Macedonian Example, Christ's Poverty, The Equality of Giving
 
-**Tags:** #brethren-grace-God-bestowed-churches-Macedonia-great-trial-affliction-abundance-joy-deep-poverty-abounded-riches-liberality-power-bear-record-beyond-power-willing-praying-intreaty-receive-gift-fellowship-ministering-saints-hoped-gave-own-selves-Lord-will-God-desired-Titus-begun-finish-grace-abound-faith-utterance-knowledge-diligence-love-abound-grace-commandment-occasion-forwardness-others-prove-sincerity-love-grace-Lord-Jesus-Christ-rich-poor-sakes-poverty-rich-advice-expedient-begun-forward-year-perform-doing-readiness-willing-performance-willing-mind-accepted-man-hath-hath-eased-burdened-equality-abundance-supply-want-abundance-supply-want-equality-written-gathered-much-gathered-little-thanks-God-earnest-care-heart-Titus-accepted-exhortation-forward-accord-sent-brother-praise-gospel-churches-chosen-churches-travel-grace-administered-glory-Lord-declaration-ready-mind-abundance-administered-blame-providing-honest-things-sight-Lord-sight-men-sent-brother-proved-diligent-things-diligent-confidence-enquire-Titus-partner-fellowhelper-brethren-enquired-messengers-churches-glory-Christ-shew-churches-proof-love-boasting-behalf
+**Tags:** #the-grace-of-giving #the-macedonian-example #christ #the-equality-of-giving
 
 ---
 

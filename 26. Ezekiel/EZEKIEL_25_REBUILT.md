@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Vengeance, Ammonite Judgment, Moab Condemnation, Divine Justice
 
-**Tags:** #word-LORD-son-man-face-Ammonites-prophesy-Ammonites-word-Lord-GOD-Aha-sanctuary-profaned-land-Israel-desolate-house-Judah-captivity-Lord-GOD-deliver-men-east-possession-palaces-dwellings-eat-fruit-drink-milk-Rabbah-stable-camels-Ammonites-couchingplace-flocks-know-Lord-Lord-GOD-clapped-hands-stamped-feet-rejoiced-heart-despite-land-Israel-Lord-GOD-stretch-hand-deliver-spoil-heathen-cut-people-perish-countries-destroy-know-Lord-Lord-GOD-Moab-Seir-house-Judah-heathen-Lord-GOD-open-side-Moab-cities-frontiers-glory-country-Beth-jeshimoth-Baal-meon-Kiriathaim-men-east-Ammonites-possession-Ammonites-remembered-nations-execute-judgments-Moab-know-Lord-Lord-GOD-Edom-dealt-house-Judah-taking-vengeance-greatly-offended-revenged-Lord-GOD-stretch-hand-Edom-cut-man-beast-desolate-Teman-Dedan-fall-sword-lay-vengeance-Edom-hand-people-Israel-Edom-anger-fury-know-vengeance-Lord-GOD-Philistines-dealt-revenge-vengeance-despiteful-heart-destroy-old-hatred-Lord-GOD-stretch-hand-Philistines-cut-Cherethims-destroy-remnant-sea-coast-execute-great-vengeance-furious-rebukes-know-Lord-lay-vengeance
+**Tags:** #christ #ammonite-judgment #moab-condemnation #divine-justice
 
 ---
 

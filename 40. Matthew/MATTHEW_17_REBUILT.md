@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Christ's Transfiguration, Divine Glory, Faith Requirement, Suffering Revelation
 
-**Tags:** #six-days-Jesus-taketh-Peter-James-John-brother-bringeth-high-mountain-apart-transfigured-face-shine-sun-raiment-white-light-behold-appeared-Moses-Elias-talking-Peter-answered-Jesus-Lord-good-tabernacles-Moses-Elias-spake-bright-cloud-overshadowed-behold-voice-cloud-beloved-Son-pleased-hear-disciples-heard-fell-face-sore-afraid-Jesus-touched-Arise-afraid-lifted-eyes-saw-Jesus-came-mountain-charged-disciples-vision-man-Son-man-risen-dead-disciples-asked-scribes-Elias-come-Jesus-answered-Elias-come-restore-things-Elias-come-knew-listed-Son-man-suffer-disciples-understood-John-Baptist-multitude-man-kneeling-Lord-mercy-son-lunatick-sore-vexed-fall-fire-water-brought-disciples-cure-Jesus-answered-faithless-perverse-generation-suffer-bring-Jesus-rebuked-devil-departed-child-cured-disciples-Jesus-could-cast-Jesus-unbelief-faith-grain-mustard-seed-mountain-remove-yonder-place-remove-impossible-kind-prayer-fasting-abode-Galilee-Jesus-Son-man-betrayed-hands-men-kill-third-day-raised-sorry-Capernaum-tribute-money-Peter-master-pay-tribute-house-Jesus-prevented-Simon-kings-earth-custom-tribute-children-strangers-Peter-strangers-Jesus-children-free-offend-sea-cast-hook-fish-cometh-open-mouth-piece-money-take-give
+**Tags:** #christ #divine-glory #faith-requirement #suffering-revelation
 
 ---
 

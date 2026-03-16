@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Second Heavenly Council, Physical Suffering, Wife's Temptation, Friends' Arrival
 
-**Tags:** #day-sons-GOD-present-LORD-Satan-present-LORD #LORD-Satan-whence-comest-Satan-LORD-going-earth-walking #LORD-Satan-considered-servant-Job-earth-perfect-upright-feared-GOD-eschewed-evil-holdeth-integrity-moved-destroy-cause #Satan-LORD-skin-skin-man-life #put-hand-touch-bone-flesh-curse-face #LORD-Satan-hand-save-life #Satan-LORD-smote-Job-sore-boils-foot-crown #potsherd-scrape-sat-ashes #wife-integrity-curse-GOD-die #foolish-women-speak-good-GOD-evil-Job-sin-lips #Job-three-friends-evil-place-Eliphaz-Temanite-Bildad-Shuhite-Zophar-Naamathite-appointment-mourn-comfort #lifted-eyes-knew-not-lifted-voice-wept-rent-mantle-sprinkled-dust-heads-heaven #sat-ground-seven-days-nights-spake-word-grief-great
+**Tags:** #LORD-Satan-hand-save-life #potsherd-scrape-sat-ashes #wife-integrity-curse-GOD-die #second-heavenly-council #physical-suffering #wife #friends
 
 ---
 

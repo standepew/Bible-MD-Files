@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Final Judgment, Divine Sovereignty, David's Tabernacle Restoration, Messianic Kingdom
 
-**Tags:** #Lord-standing-altar-smite-lintel-door-posts-shake-cut-head-slay-last-sword-flee-flee-escapeth-delivered-dig-hell-hand-take-climb-heaven-bring-hide-top-Carmel-search-take-hid-sight-bottom-sea-command-serpent-bite-captivity-enemies-command-sword-slay-set-eyes-evil-good-Lord-GOD-hosts-touch-land-melt-dwell-mourn-rise-wholly-flood-drowned-flood-Egypt-buildeth-stories-heaven-founded-troop-earth-calleth-waters-sea-poureth-face-earth-LORD-name-children-Ethiopians-children-Israel-LORD-brought-Israel-land-Egypt-Philistines-Caphtor-Syrians-Kir-behold-eyes-Lord-GOD-sinful-kingdom-destroy-face-earth-saving-utterly-destroy-house-Jacob-LORD-command-sift-house-Israel-nations-corn-sifted-sieve-least-grain-fall-earth-sinners-people-die-sword-evil-overtake-prevent-day-raise-tabernacle-David-fallen-close-breaches-raise-ruins-build-days-possess-remnant-Edom-heathen-called-name-LORD-doeth-behold-days-LORD-plowman-overtake-reaper-treader-grapes-sow-seed-mountains-drop-sweet-wine-hills-melt-bring-captivity-people-Israel-build-waste-cities-inhabit-plant-vineyards-drink-wine-make-gardens-eat-fruit-plant-land-pulled-land-given-LORD-God
+**Tags:** #christ #divine-sovereignty #david #messianic-kingdom
 
 ---
 

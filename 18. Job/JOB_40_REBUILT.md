@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** God's Challenge, Job's Humility, Divine Power, Behemoth
 
-**Tags:** #LORD-answered-Job-contendeth-Almighty-instruct-reproveth-GOD-answer-Job-vile-lay-hand-mouth-spoken-proceed-whirlwind-demand-declare #disannul-judgment-condemn-righteous-arm-GOD-thunder-voice-deck-majesty-excellency-array-glory-beauty-cast-abroad-rage-wrath-proud-abase #bring-low-tread-wicked-place-hide-dust-bind-faces-secret-confess-right-hand-save-behold-behemoth-made-eateth-grass-ox-strength-loins-force-navel-belly #moveth-tail-cedar-sinews-stones-wrapped-bones-strong-pieces-brass-bars-iron-chief-ways-GOD-made-sword-approach-mountains-food-beasts-field-play #shady-trees-covert-reed-fens-shadow-willows-brook-drinketh-river-hasteth-trust-draw-Jordan-mouth-taketh-eyes-nose-pierceth-snares
+**Tags:** #god #job #divine-power #behemoth
 
 ---
 

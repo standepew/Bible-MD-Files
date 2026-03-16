@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Paul's Sorrow for Israel, God's Sovereign Choice, Vessels of Mercy, Israel's Rejection
 
-**Tags:** #truth-Christ-lie-conscience-bearing-witness-Holy-Ghost-great-heaviness-continual-sorrow-heart-wish-accursed-Christ-brethren-kinsmen-flesh-Israelites-pertaineth-adoption-glory-covenants-giving-law-service-God-promises-fathers-flesh-Christ-over-God-blessed-word-God-taken-effect-Israel-Israel-seed-Abraham-children-Isaac-seed-called-children-flesh-children-God-children-promise-counted-seed-word-promise-time-Sara-son-Rebecca-conceived-father-Isaac-children-born-good-evil-purpose-God-election-stand-works-calleth-elder-serve-younger-written-Jacob-loved-Esau-hated-unrighteousness-God-God-forbid-Moses-mercy-mercy-compassion-compassion-willeth-runneth-God-sheweth-mercy-scripture-Pharaoh-purpose-raised-shew-power-declared-earth-mercy-harden-find-fault-resisted-formed-formed-potter-power-clay-lump-vessel-honour-vessel-dishonour-God-willing-shew-wrath-power-known-endured-longsuffering-vessels-wrath-fitted-destruction-make-known-riches-glory-vessels-mercy-afore-prepared-glory-called-Jews-Gentiles-Osee-people-people-beloved-beloved-place-people-children-living-God-Esaias-crieth-Israel-number-children-Israel-sand-sea-remnant-saved-finish-work-short-righteousness-short-work-Lord-earth-Esaias-Lord-Sabaoth-left-seed-Sodoma-Gomorrha-Gentiles-followed-righteousness-attained-righteousness-righteousness-faith-Israel-followed-law-righteousness-attained-law-righteousness-sought-faith-works-law-stumbled-stumblingstone-written-Sion-stumblingstone-rock-offence-believeth-ashamed
+**Tags:** #paul #god #vessels-of-mercy #israel
 
 ---
 

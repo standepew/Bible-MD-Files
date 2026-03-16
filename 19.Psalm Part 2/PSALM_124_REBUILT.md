@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Divine Deliverance, God's Help, Escape from Danger, Trust in the LORD
 
-**Tags:** #Song-degrees-David-LORD-side-Israel-say-LORD-side-men-rose-swallowed-quick-wrath-kindled-waters-overwhelmed-stream-soul-proud-waters-soul-Blessed-LORD-given-prey-teeth-soul-escaped-bird-snares-fowlers-snares-broken-escaped-help-name-LORD-made-heaven-earth
+**Tags:** #divine-deliverance #god #escape-from-danger #trust-in-the-lord
 
 ---
 

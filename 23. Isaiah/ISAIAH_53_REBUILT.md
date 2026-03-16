@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Atonement, Divine Suffering, Spiritual Healing, Christ's Sacrifice
 
-**Tags:** #believed-report-arm-LORD-revealed-grow-tender-plant-root-dry-ground-form-comeliness-beauty-desire-despised-rejected-men-sorrows-acquainted-grief-hid-faces-esteemed-stricken-smitten-God-afflicted-borne-griefs-carried-sorrows-esteemed-wounded-transgressions-bruised-iniquities-chastisement-peace-stripes-healed-sheep-gone-astray-turned-way-laid-iniquity-oppressed-afflicted-opened-mouth-lamb-slaughter-sheep-shearers-dumb-open-mouth-taken-prison-judgment-declare-generation-cut-land-living-transgression-people-stricken-grave-wicked-rich-death-violence-deceit-mouth-pleased-LORD-bruise-grief-soul-offering-sin-seed-prolong-days-pleasure-LORD-prosper-hand-travail-soul-satisfied-knowledge-righteous-servant-justify-many-bear-iniquities-divide-portion-great-divide-spoil-strong-poured-soul-death-numbered-transgressors-bare-sin-intercession-transgressors
+**Tags:** #christ #divine-suffering #spiritual-healing
 
 ---
 

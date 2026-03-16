@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Paul's Ministry Conduct, The Thessalonians' Reception, Persecution by Jews, Paul's Desire to Return
 
-**Tags:** #entrance-vain-suffered-shamefully-entreated-Philippi-bold-God-speak-gospel-God-contention-exhortation-deceit-uncleanness-guile-allowed-God-trust-gospel-please-men-God-trieth-hearts-flattering-words-cloke-covetousness-God-witness-men-sought-glory-burdensome-apostles-Christ-gentle-nurse-cherisheth-children-affectionately-desirous-imparted-gospel-God-own-souls-dear-remember-labour-travail-labouring-night-day-chargeable-preached-gospel-God-witnesses-God-holily-justly-unblameably-behaved-believe-exhorted-comforted-charged-father-children-walk-worthy-God-called-kingdom-glory-thank-God-ceasing-received-word-God-heard-word-men-truth-word-God-effectually-worketh-believe-followers-churches-God-Judaea-Christ-Jesus-suffered-countrymen-Jews-killed-Lord-Jesus-prophets-persecuted-please-God-contrary-men-Forbidding-speak-Gentiles-saved-fill-sins-alway-wrath-uttermost-brethren-taken-short-time-presence-heart-endeavoured-abundantly-face-desire-come-Paul-once-again-Satan-hindered-hope-joy-crown-rejoicing-presence-Lord-Jesus-Christ-coming-glory-joy
+**Tags:** #paul #the-thessalonians #persecution-by-jews
 
 ---
 

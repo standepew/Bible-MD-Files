@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Drought, Spiritual Thirst, False Prophets, Christ's Mercy
 
-**Tags:** #word-LORD-Jeremiah-dearth-Judah-mourneth-gates-languish-black-ground-cry-Jerusalem-nobles-sent-little-ones-waters-came-pits-water-returned-vessels-empty-ashamed-confounded-covered-heads-ground-chapt-rain-earth-plowmen-ashamed-covered-heads-hind-calved-field-forsaken-grass-wild-asses-stand-high-places-snuffed-wind-dragons-eyes-fail-grass-LORD-iniquities-testify-name-sake-backslidings-many-sinned-hope-Israel-saviour-time-trouble-stranger-land-wayfaring-man-turneth-aside-tarry-night-man-astonied-mighty-man-save-LORD-midst-called-name-leave-LORD-people-loved-wander-refrained-feet-LORD-accept-remember-iniquity-visit-sins-LORD-pray-people-good-fast-hear-cry-offer-burnt-offering-oblation-accept-consume-sword-famine-pestilence-Lord-GOD-prophets-sword-famine-assured-peace-place-LORD-prophets-prophesy-lies-name-sent-commanded-spake-prophesy-false-vision-divination-thing-nought-deceit-heart-LORD-prophets-prophesy-name-sent-sword-famine-land-sword-famine-prophets-consumed-people-prophesy-cast-streets-Jerusalem-famine-sword-bury-wives-sons-daughters-pour-wickedness-eyes-tears-night-day-cease-virgin-daughter-people-broken-great-breach-grievous-blow-field-slain-sword-city-sick-famine-prophet-priest-land-know-utterly-rejected-Judah-soul-lothed-Zion-smitten-healing-looked-peace-good-time-healing-trouble-acknowledge-LORD-wickedness-iniquity-fathers-sinned-abhor-name-sake-disgrace-throne-glory-remember-break-covenant-vanities-Gentiles-cause-rain-heavens-showers-LORD-God-wait-made
+**Tags:** #christ #spiritual-thirst #false-prophets
 
 ---
 

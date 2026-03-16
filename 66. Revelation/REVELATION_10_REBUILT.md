@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** The Mighty Angel with the Little Book, The Seven Thunders, The Oath of the Angel, The Sweet and Bitter Book, The Command to Prophesy
 
-**Tags:** #mighty-angel-heaven-clothed-cloud-rainbow-head-face-sun-feet-pillars-fire-hand-little-book-open-right-foot-sea-left-foot-earth-cried-loud-voice-lion-roareth-seven-thunders-uttered-voices-seven-thunders-uttered-voices-write-voice-heaven-Seal-seven-thunders-uttered-write-angel-stand-sea-earth-lifted-hand-heaven-sware-liveth-created-heaven-things-earth-things-sea-things-time-longer-days-voice-seventh-angel-sound-mystery-God-finished-declared-servants-prophets-voice-heaven-spake-Go-take-little-book-open-hand-angel-standeth-sea-earth-angel-Give-little-book-Take-eat-belly-bitter-mouth-sweet-honey-took-little-book-angel-hand-ate-mouth-sweet-honey-eaten-belly-bitter-prophesy-peoples-nations-tongues-kings
+**Tags:** #the-mighty-angel-with-the-little #the-seven-thunders #the-oath-of-the-angel #the-sweet-and-bitter-book #the-command-to-prophesy
 
 ---
 

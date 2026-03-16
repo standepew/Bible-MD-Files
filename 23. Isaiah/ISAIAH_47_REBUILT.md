@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Judgment, Babylon's Fall, Divine Vengeance, Christ's Justice
 
-**Tags:** #Come-sit-dust-virgin-daughter-Babylon-sit-ground-throne-daughter-Chaldeans-called-tender-delicate-Take-millstones-grind-meal-uncover-locks-bare-leg-uncover-thigh-pass-rivers-nakedness-uncovered-shame-seen-take-vengeance-meet-man-sit-silent-darkness-daughter-Chaldeans-called-lady-kingdoms-wroth-people-polluted-inheritance-given-hand-shew-mercy-ancient-heavily-laid-yoke-said-lady-forever-lay-heart-remember-latter-hear-given-pleasures-dwellest-carelessly-said-heart-none-else-sit-widow-know-loss-children-things-come-moment-day-loss-children-widowhood-perfection-multitude-sorceries-great-abundance-enchantments-trusted-wickedness-said-seeth-wisdom-knowledge-perverted-said-heart-none-else-evil-come-know-riseth-mischief-fall-able-put-desolation-come-suddenly-know-stand-enchantments-multitude-sorceries-laboured-youth-able-profit-prevail-wearied-multitude-counsels-astrologers-stargazers-monthly-prognosticators-stand-save-things-shall-stubble-fire-burn-deliver-power-flame-coal-warm-fire-sit-merchants-youth-wander-quarter-save
+**Tags:** #christ #babylon #divine-vengeance
 
 ---
 

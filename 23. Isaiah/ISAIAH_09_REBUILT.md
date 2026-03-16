@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Light, Christ's Birth, Christ's Kingdom, Divine Judgment
 
-**Tags:** #dimness-vexation-first-lightly-afflicted-land-Zebulun-land-Naphtali-afterward-grievously-afflict-way-sea-beyond-Jordan-Galilee-nations-people-walked-darkness-seen-great-light-dwell-land-shadow-death-light-shined-multiplied-nation-increased-joy-joy-thee-according-joy-harvest-men-rejoice-divide-spoil-broken-yoke-burden-staff-shoulder-rod-oppressor-day-Midian-battle-warrior-confused-noise-garments-rolled-blood-burning-fuel-fire-child-born-son-given-government-shoulder-called-Wonderful-Counsellor-mighty-God-everlasting-Father-Prince-Peace-increase-government-peace-end-throne-David-kingdom-order-establish-judgment-justice-henceforth-ever-zeal-LORD-hosts-perform-Lord-sent-word-Jacob-lighted-Israel-people-know-Ephraim-inhabitant-Samaria-pride-stoutness-heart-bricks-fallen-build-hewn-stones-sycomores-cut-change-cedars-LORD-set-adversaries-Rezin-join-enemies-Syrians-Philistines-behind-devour-Israel-open-mouth-anger-turned-away-hand-stretched-people-turneth-smite-seek-LORD-hosts-LORD-cut-Israel-head-tail-branch-rush-day-ancient-honourable-head-prophet-teacheth-lies-tail-leaders-people-cause-err-led-destroyed-LORD-joy-young-men-mercy-fatherless-widows-hypocrite-evildoer-mouth-speak-folly-anger-turned-away-hand-stretched-wickedness-burneth-fire-devour-briers-thorns-kindle-thickets-forest-mount-smoke-lifting-wrath-LORD-hosts-land-darkened-people-fuel-fire-man-spare-brother-snatch-right-hand-hungry-eat-left-hand-satisfied-eat-man-flesh-arm-Manasseh-Ephraim-Ephraim-Manasseh-together-Judah-anger-turned-away-hand-stretched
+**Tags:** #christ #divine-judgment
 
 ---
 

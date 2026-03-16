@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Healing, Divine Mercy, Spiritual Restoration, Christ's Life
 
-**Tags:** #days-Hezekiah-sick-death-Isaiah-prophet-son-Amoz-came-saying-LORD-house-order-die-live-Hezekiah-turned-face-wall-prayed-LORD-saying-Remember-LORD-beseech-walked-truth-perfect-heart-done-good-sight-Hezekiah-wept-sore-word-LORD-Isaiah-saying-Hezekiah-LORD-God-David-father-heard-prayer-seen-tears-add-days-fifteen-years-deliver-city-hand-king-Assyria-defend-city-sign-LORD-LORD-thing-spoken-bring-shadow-degrees-sun-dial-Ahaz-ten-degrees-backward-sun-returned-ten-degrees-degrees-writing-Hezekiah-king-Judah-sick-recovered-sickness-said-cutting-days-gates-grave-deprived-residue-years-said-see-LORD-LORD-land-living-behold-man-inhabitants-world-age-departed-removed-shepherd-tent-cut-weaver-life-cut-pining-sickness-day-night-end-reckoned-morning-lion-break-bones-day-night-end-crane-swallower-chatter-mourned-dove-eyes-fail-looking-upward-LORD-oppressed-undertake-spoken-done-go-softly-years-bitterness-soul-Lord-things-men-live-things-life-spirit-recover-make-live-peace-great-bitterness-love-soul-delivered-pit-corruption-cast-sins-back-grave-praise-death-celebrate-go-down-pit-hope-truth-living-living-praise-day-father-children-make-known-truth-LORD-ready-save-sing-songs-stringed-instruments-days-life-house-LORD-Isaiah-lump-figs-plaister-boil-recover-Hezekiah-sign-house-LORD
+**Tags:** #christ #divine-mercy #spiritual-restoration
 
 ---
 

@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Key, Divine Judgment, Prophetic Rejection, Christ's Authority
 
-**Tags:** #burden-valley-vision-aileth-wholly-gone-housetops-full-stirs-tumultuous-city-joyous-city-slain-men-slain-sword-dead-battle-rulers-fled-bound-archers-found-bound-fled-afar-Look-weep-bitterly-labour-comfort-spoiling-daughter-people-trouble-treading-perplexity-Lord-GOD-hosts-valley-vision-breaking-walls-crying-mountains-Elam-bare-quiver-chariots-men-horsemen-Kir-uncovered-shield-choicest-valleys-full-chariots-horsemen-array-gate-discovered-covering-Judah-look-day-armour-house-forest-breaches-city-David-gathered-waters-lower-pool-numbered-houses-Jerusalem-broken-fortify-wall-ditch-two-walls-water-old-pool-looked-maker-respect-fashioned-day-Lord-GOD-hosts-call-weeping-mourning-baldness-girding-sackcloth-behold-joy-gladness-slaying-oxen-killing-sheep-eating-flesh-drinking-wine-eat-drink-tomorrow-die-revealed-ears-LORD-hosts-iniquity-purged-die-Lord-GOD-hosts-Lord-GOD-hosts-treasurer-Shebna-house-what-hast-whom-hast-hewed-sephulchre-hewed-sephulchre-high-graveth-habitation-rock-Behold-LORD-carry-mighty-captivity-surely-cover-violently-turn-toss-ball-large-country-die-chariots-glory-shame-lord-house-drive-station-state-pull-day-call-servant-Eliakim-son-Hilkiah-clothe-robe-strengthen-girdle-commit-government-hand-father-inhabitants-Jerusalem-house-Judah-key-house-David-lay-shoulder-open-shut-shut-open-fasten-nail-sure-place-glorious-throne-father-house-hang-glory-father-house-offspring-issue-vessels-small-quantity-vessels-cups-vessels-flagons-day-LORD-hosts-nail-fastened-sure-place-removed-cut-fall-burden-cut-LORD-spoken
+**Tags:** #christ #divine-judgment #prophetic-rejection
 
 ---
 

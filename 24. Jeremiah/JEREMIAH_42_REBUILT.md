@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Counsel, Divine Direction, Egypt's Temptation, Christ's Warning
 
-**Tags:** #captains-forces-Johanan-son-Kareah-Jezaniah-son-Hoshaiah-people-least-greatest-came-Jeremiah-prophet-supplication-accepted-pray-LORD-God-remnant-left-few-many-eyes-behold-LORD-God-shew-way-walk-thing-Jeremiah-prophet-heard-pray-LORD-God-words-thing-LORD-answer-declare-keep-back-Jeremiah-LORD-true-faithful-witness-things-LORD-God-send-good-evil-obey-voice-LORD-God-send-well-obey-voice-LORD-God-days-word-LORD-Jeremiah-called-Johanan-son-Kareah-captains-forces-people-least-greatest-LORD-God-Israel-sent-present-supplication-abide-land-build-pull-down-plant-pluck-repent-evil-done-afraid-king-Babylon-afraid-LORD-save-deliver-hand-shew-mercies-mercy-return-land-dwell-land-obey-voice-LORD-God-say-dwell-land-obey-voice-LORD-God-land-Egypt-war-trumpet-hunger-bread-dwell-LORD-remnant-Judah-LORD-hosts-God-Israel-wholly-faces-enter-Egypt-sojourn-sword-feared-overtake-Egypt-famine-afraid-follow-close-Egypt-die-men-set-faces-enter-Egypt-sojourn-die-sword-famine-pestilence-remain-escape-evil-LORD-hosts-God-Israel-anger-fury-poured-inhabitants-Jerusalem-fury-poured-enter-Egypt-execration-astonishment-curse-reproach-place-LORD-remnant-Judah-Egypt-know-admonished-day-dissembled-hearts-sent-LORD-God-Pray-LORD-God-LORD-God-declare-declare-LORD-God-declared-obeyed-voice-LORD-God-thing-sent-die-sword-famine-pestilence-place-desire-sojourn
+**Tags:** #christ #divine-direction #egypt
 
 ---
 

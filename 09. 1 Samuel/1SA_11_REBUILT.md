@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Ammonite Threat, Jabesh-gilead Siege, Cruel Terms, Seven Days Respite, Messengers to Saul, Spirit Comes Upon Saul, Oxen Cut Up, Army Gathered, Victory, Kingdom Renewed
 
-**Tags:** #Nahash-Ammonite-encamped-Jabesh-gilead-men-Jabesh-Nahash-covenant-serve #Nahash-Ammonite-covenant-thrust-right-eyes-reproach-Israel #elders-Jabesh-seven-days-respite-messengers-coasts-Israel-man-save #messengers-Gibeah-Saul-tidings-people-people-voices-wept #Saul-herd-field-Saul-people-weep-tidings-Jabesh #Spirit-God-Saul-tidings-anger-kindled #yoke-oxen-hewed-pieces-coasts-Israel-messengers-Saul-Samuel-oxen #fear-LORD-people-consent #numbered-Bezek-children-Israel-three-hundred-thousand-men-Judah-thirty-thousand #messengers-morrow-sun-hot-help-messengers-Jabesh-glad #morrow-Jabesh-good #Saul-three-companies-midst-host-morning-watch-slew-Ammonites-heat-day-remained-scattered-two-left #people-Samuel-Saul-reign-men-death #Saul-man-death-LORD-wrought-salvation-Israel #Samuel-people-Gilgal-renew-kingdom #people-Gilgal-Saul-king-LORD-Gilgal-sacrifices-peace-offerings-LORD-Saul-men-Israel-rejoiced
+**Tags:** #fear-LORD-people-consent #morrow-Jabesh-good #Samuel-people-Gilgal-renew-kingdom #ammonite-threat #jabeshgilead-siege #cruel-terms #seven-days-respite #messengers-to-saul #spirit-comes-upon-saul #oxen-cut-up #army-gathered #victory #kingdom-renewed
 
 ---
 

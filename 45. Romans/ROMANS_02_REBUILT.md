@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** God's Righteous Judgment, The Jews and the Law, True Circumcision
 
-**Tags:** #inexcusable-man-judgest-judgest-condemnest-judgest-things-judgment-God-truth-commit-things-escape-judgment-God-despisest-riches-goodness-forbearance-longsuffering-knowing-goodness-leadeth-repentance-hardness-impenitent-heart-treasurest-wrath-day-wrath-revelation-righteous-judgment-God-render-man-deeds-patient-continuance-well-seeking-glory-honour-immortality-eternal-life-contentious-obey-truth-obey-unrighteousness-indignation-wrath-tribulation-anguish-soul-man-evil-Jew-Gentile-glory-honour-peace-worketh-good-Jew-Gentile-respect-persons-God-sinned-without-law-perish-without-law-sinned-law-judged-law-hearers-law-just-God-doers-law-justified-Gentiles-law-nature-things-contained-law-law-themselves-shew-work-law-written-hearts-conscience-bearing-witness-thoughts-accusing-excusing-day-God-judge-secrets-men-Jesus-Christ-gospel-called-Jew-rest-law-makest-boast-God-knowest-will-approvest-things-excellent-instructed-law-confident-guide-blind-light-darkness-instructor-foolish-teacher-babes-form-knowledge-truth-law-teachest-teachest-preachest-man-steal-steal-sayest-man-commit-adultery-commit-adultery-abhorrest-idols-commit-sacrilege-boast-law-breaking-law-dishonourest-God-name-God-blasphemed-Gentiles-written-circumcision-profiteth-keep-law-breaker-law-circumcision-uncircumcision-uncircumcision-keep-righteousness-law-uncircumcision-counted-circumcision-uncircumcision-nature-fulfil-law-judge-letter-circumcision-transgress-law-Jew-outwardly-circumcision-outward-flesh-Jew-inwardly-circumcision-heart-spirit-letter-praise-men-God
+**Tags:** #god #the-jews-and-the-law #true-circumcision
 
 ---
 

@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Decline of Godliness, Pure Words of God, Preservation of Faithful, Divine Protection
 
-**Tags:** #chief-Musician-Sheminith-Psalm-David-Help-LORD-godly-ceaseth-faithful-fail-children-men-speak-vanity-neighbour-flattering-lips-double-heart-cut-flattering-lips-tongue-speak-proud #tongue-prevail-lips-lord-oppression-poor-sighing-needy-arise-saith-LORD-set-safety-puffeth-words-LORD-pure-words-silver-furnace-earth-purified-seven-times-keep-preserve-generation #wicked-walk-side-vilest-men-exalted
+**Tags:** #decline-of-godliness #pure-words-of-god #preservation-of-faithful #divine-protection
 
 ---
 

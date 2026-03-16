@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Penitential Prayer, Divine Mercy, Healing from Sickness, Victory Over Enemies
 
-**Tags:** #chief-Musician-Neginoth-Sheminith-Psalm-David-LORD-rebuke-anger-chasten-hot-displeasure-mercy-weak-heal-bones-vexed-soul-sore-vexed-long #return-deliver-soul-save-mercies-sake-death-remembrance-grave-thanks-weary-groaning-night-bed-swim-water-couch-tears-eye-consumed-grief-waxeth-old-enemies #depart-workers-iniquity-LORD-heard-weeping-supplication-receive-prayer-enemies-ashamed-sore-vexed-return-ashamed-suddenly
+**Tags:** #penitential-prayer #divine-mercy #healing-from-sickness #victory-over-enemies
 
 ---
 

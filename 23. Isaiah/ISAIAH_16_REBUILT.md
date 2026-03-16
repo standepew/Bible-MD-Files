@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Refuge, Divine Protection, Moab's Pride, Christ's Throne
 
-**Tags:** #Send-lamb-ruler-land-Sela-wilderness-mount-daughter-Zion-wandering-bird-cast-nest-daughters-Moab-fords-Arnon-Take-counsel-execute-judgment-shadow-night-midst-noonday-hide-outcasts-bewray-wandereth-mine-outcasts-dwell-Moab-covert-face-spoiler-extortioner-spoiler-ceaseth-oppressors-consumed-land-mercy-throne-established-sit-truth-tabernacle-David-judging-seeking-judgment-hasting-righteousness-heard-pride-Moab-proud-haughtiness-pride-wrath-lies-Moab-howl-Moab-howl-foundations-Kir-hareseth-mourn-stricken-fields-Heshbon-languish-vine-Sibmah-lords-heathen-broken-principal-plants-come-Jazer-wandered-wilderness-branches-stretched-gone-sea-bewail-weeping-Jazer-vine-Sibmah-water-tears-Heshbon-Elealeh-shouting-summer-fruits-harvest-fallen-gladness-taken-joy-plentiful-field-vineyards-singing-shouting-treaders-tread-wine-presses-made-vintage-shouting-cease-bowels-sound-harp-Moab-inward-parts-Kir-haresh-seen-Moab-weary-high-place-come-sanctuary-pray-prevail-word-LORD-spoken-Moab-time-LORD-spoken-three-years-years-hireling-glory-Moab-contemned-multitude-remnant-small-feeble
+**Tags:** #christ #divine-protection #moab
 
 ---
 

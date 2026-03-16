@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Atheism's Folly, Universal Corruption, God's Salvation, Israel's Rejoicing
 
-**Tags:** #chief-Musician-Mahalath-Maschil-Psalm-David-fool-said-heart-GOD-corrupt-done-abominable-iniquity-none-good-GOD-looked-heaven-children-men-see-understand-seek-GOD-gone-back-altogether-filthy-none-good-not-workers-iniquity-knowledge-eat-people-bread-called-GOD-fear-encampeth-GOD-scattered-bones-put-shame-despised-salvation-Israel-Zion-GOD-bring-captivity-people-Jacob-rejoice-Israel-glad
+**Tags:** #atheism #universal-corruption #god #israel
 
 ---
 

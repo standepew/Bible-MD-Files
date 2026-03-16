@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Messianic King, Righteous Judgment, Universal Dominion, Eternal Blessing
 
-**Tags:** #Psalm-Solomon-Give-king-judgments-GOD-righteousness-king-son-judge-people-righteousness-poor-judgment-mountains-bring-peace-people-little-hills-righteousness-judge-poor-people-save-children-needy-break-pieces-oppressor-fear-sun-moon-endure-generations-come-rain-mown-grass-showers-water-earth-days-righteous-flourish-abundance-peace-moon-endure-dominion-sea-sea-river-ends-earth-dwell-wilderness-bow-enemies-lick-dust-kings-Tarshish-isles-bring-presents-kings-Sheba-Seba-offer-gifts-kings-fall-nations-serve-shall-deliver-needy-crieth-poor-helper-shall-spare-poor-needy-save-souls-needy-redeem-soul-deceit-violence-precious-blood-sight-live-given-gold-Sheba-prayer-continually-daily-praised-handful-corn-earth-top-mountains-fruit-shake-Lebanon-city-flourish-grass-earth-name-endure-sun-continued-sun-blessed-men-blessed-nations-call-blessed-Blessed-LORD-GOD-Israel-wondrous-things-blessed-glorious-name-forever-earth-filled-glory-Amen-prayers-David-son-Jesse-ended
+**Tags:** #messianic-king #righteous-judgment #universal-dominion #eternal-blessing
 
 ---
 

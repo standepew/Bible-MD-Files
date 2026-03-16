@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Healing Rejected, Spiritual Adultery, Divine Deception, Christ's Net
 
-**Tags:** #healed-Israel-iniquity-Ephraim-discovered-wickedness-Samaria-commit-falsehood-thief-cometh-troop-robbers-spoile-without-consider-hearts-remember-wickedness-doings-beset-face-make-king-glad-wickedness-princes-lies-adulterers-oven-heated-baker-ceaseth-raising-kneaded-dough-leavened-day-king-princes-sick-bottles-wine-stretched-hand-scorners-ready-heart-oven-lie-wait-baker-sleeps-night-morning-burneth-flaming-fire-hot-oven-devoured-judges-kings-fallen-calleth-Ephraim-mixed-people-cake-turned-strangers-devoured-strength-knoweth-gray-hairs-face-knoweth-pride-Israel-testify-face-return-LORD-God-seek-silly-dove-heart-call-Egypt-Assyria-spread-net-fowls-heaven-chastise-congregation-heard-fled-destruction-transgressed-redeemed-spoken-lies-cried-heart-howled-beds-assemble-corn-wine-rebel-bound-strengthened-arms-imagine-mischief-return-High-deceitful-bow-princes-fall-sword-rage-tongue-derision-land-Egypt
+**Tags:** #christ #spiritual-adultery #divine-deception
 
 ---
 

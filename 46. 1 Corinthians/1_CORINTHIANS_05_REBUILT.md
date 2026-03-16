@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Church Discipline, The Leaven of Sin, Christ Our Passover, Judgment Within
 
-**Tags:** #reported-fornication-fornication-named-Gentiles-father-wife-puffed-mourned-deed-taken-away-absent-body-present-spirit-judged-present-concerning-deed-name-Lord-Jesus-Christ-gathered-spirit-power-Lord-Jesus-Christ-deliver-Satan-destruction-flesh-spirit-saved-day-Lord-Jesus-Christ-glorying-good-leaven-leaveneth-whole-lump-purge-old-leaven-new-lump-unleavened-Christ-passover-sacrified-feast-old-leaven-leaven-malice-wickedness-unleavened-bread-sincerity-truth-epistle-company-fornicators-altogether-fornicators-world-covetous-extortioners-idolaters-needs-world-written-company-man-called-brother-fornicator-covetous-idolater-railer-drunkard-extortioner-eat-judge-without-judge-within-without-God-judgeth-put-away-wicked-person
+**Tags:** #church-discipline #the-leaven-of-sin #christ-our-passover #judgment-within
 
 ---
 

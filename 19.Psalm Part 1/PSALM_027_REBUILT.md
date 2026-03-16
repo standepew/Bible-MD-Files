@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** God as Light and Salvation, Confidence in God, Desire for God's Presence, Courage in Trouble
 
-**Tags:** #Psalm-David-LORD-light-salvation-fear-strength-life-afraid-wicked-enemies-foes-came-eat-flesh-stumbled-fell-host-encamp-heart-fear-war-rise-confident-thing-desired-seek-dwell-house-days-life-behold-beauty-LORD-enquire-temple #time-trouble-hide-pavilion-secret-tabernacle-set-rock-head-lifted-enemies-round-offer-tabernacle-sacrifices-joy-sing-praises-LORD-hear-cry-voice-mercy-answer-said-seek-face-heart-face-seek-hide-face-far-servant-anger-help-leave-forsake-GOD-salvation #father-mother-forsake-take-teach-way-lead-plain-path-enemies-deliver-will-enemies-false-witnesses-breathed-cruelty-fainted-believed-goodness-land-living-wait-LORD-courage-strengthen-heart-wait
+**Tags:** #god-as-light-and-salvation #confidence-in-god #desire-for-god #courage-in-trouble
 
 ---
 

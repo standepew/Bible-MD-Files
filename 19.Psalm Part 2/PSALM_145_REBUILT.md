@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Divine Praise, God's Greatness, Kingdom Glory, Compassionate Character
 
-**Tags:** #David-Psalm-praise-extol-God-king-bless-name-forever-day-bless-praise-name-forever-great-LORD-greatly-praised-greatness-unsearchable-generation-praise-works-declare-mighty-acts-speak-glorious-honour-majesty-wondrous-works-men-speak-mighty-terrible-acts-declare-greatness-abundantly-utter-memory-great-goodness-sing-righteousness-LORD-gracious-full-compassion-slow-anger-great-mercy-LORD-good-tender-mercies-works-praise-LORD-saints-bless-speak-glory-kingdom-talk-power-make-known-sons-men-mighty-acts-glorious-majesty-kingdom-everlasting-kingdom-dominion-endureth-generations-LORD-uphold-fall-raiseth-bowed-eyes-wait-giveth-meat-season-openest-hand-satisfiest-desire-living-LORD-righteous-ways-holy-works-LORD-nigh-call-upon-truth-fulfil-desire-fear-hear-cry-save-LORD-preserveth-love-wicked-destroy-mouth-speak-praise-LORD-flesh-bless-holy-name-forever
+**Tags:** #divine-praise #god #kingdom-glory #compassionate-character
 
 ---
 

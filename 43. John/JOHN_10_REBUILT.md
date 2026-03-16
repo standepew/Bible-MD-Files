@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** The Good Shepherd, The Door of the Sheep, I and the Father Are One, Beyond Jordan
 
-**Tags:** #Verily-door-sheepfold-climbeth-thief-robber-door-shepherd-porter-openeth-sheep-hear-voice-calleth-sheep-name-leadeth-putteth-sheep-goeth-sheep-follow-voice-stranger-flee-strangers-voice-parable-Jesus-understood-Jesus-door-sheep-thieves-robbers-sheep-hear-door-sheep-saved-pasture-thief-steal-kill-destroy-life-abundantly-good-shepherd-life-sheep-hireling-shepherd-wolf-leaveth-sheep-fleeth-wolf-catcheth-scattereth-hireling-fleeth-hireling-careth-good-shepherd-know-sheep-known-Father-knoweth-Father-lay-life-sheep-other-sheep-fold-bring-voice-fold-shepherd-Father-love-lay-life-take-power-lay-power-take-commandment-Father-division-Jews-sayings-devil-mad-devil-words-devil-open-eyes-blind-Jerusalem-feast-dedication-winter-Jesus-temple-Solomon-porch-Jews-round-doubt-Christ-plainly-Jesus-answered-believed-works-Father-bear-witness-believe-not-sheep-sheep-hear-voice-know-follow-eternal-life-perish-pluck-hand-Father-gave-greater-pluck-Father-hand-Father-one-Jews-stones-Jesus-answered-good-works-Father-works-stone-Jews-answered-good-works-blasphemy-man-God-Jesus-answered-law-gods-word-God-scripture-broken-Father-sanctified-world-blasphemest-Son-God-works-Father-believe-not-works-believe-works-know-believe-Father-escaped-hand-Jordan-place-John-baptized-abode-resorted-John-miracle-John-spake-true-believed
+**Tags:** #the-good-shepherd #the-door-of-the-sheep #i-and-the-father-are-one #beyond-jordan
 
 ---
 

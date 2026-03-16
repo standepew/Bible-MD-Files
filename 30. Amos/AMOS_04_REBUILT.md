@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Call to Repentance, Divine Discipline, God's Creation, Prepare to Meet God
 
-**Tags:** #Hear-word-kine-Bashan-mountain-Samaria-oppress-poor-crush-needy-masters-Bring-drink-Lord-GOD-sworn-holiness-days-take-hooks-posterity-fishhooks-breaches-cow-cast-palace-LORD-Come-Beth-el-transgress-Gilgal-multiply-transgression-bring-sacrifices-morning-tithes-three-years-offer-sacrifice-thanksgiving-leaven-proclaim-publish-free-offerings-liketh-children-Israel-Lord-GOD-given-cleanness-teeth-cities-want-bread-places-returned-LORD-withholden-rain-three-months-harvest-rain-city-rained-city-rained-piece-rained-piece-rained-not-withered-two-three-cities-wandered-city-drink-water-satisfied-returned-LORD-smitten-blasting-mildew-gardens-vineyards-fig-trees-olive-trees-increased-palmerworm-devoured-returned-LORD-sent-pestilence-manner-Egypt-young-men-slain-sword-taken-horses-stink-camps-nostrils-returned-LORD-overthrown-God-overthrew-Sodom-Gomorrah-firebrand-plucked-burning-returned-LORD-Israel-meet-God-Israel-formeth-mountains-createth-wind-declare-man-thought-maketh-morning-darkness-treadeth-high-places-earth-Lord-GOD-hosts-name
+**Tags:** #christ #divine-discipline #god #prepare-to-meet-god
 
 ---
 

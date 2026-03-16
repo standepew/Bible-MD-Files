@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Family Relationships, Spiritual Warfare, The Armor of God, Final Benediction
 
-**Tags:** #Children-obey-parents-Lord-right-Honour-father-mother-commandment-promise-well-live-long-earth-fathers-provoke-children-wrath-nurture-admonition-Lord-Servants-obedient-masters-flesh-fear-trembling-singleness-heart-Christ-eyeservice-menpleasers-servants-Christ-will-God-heart-good-will-service-Lord-men-knowing-good-thing-receive-Lord-bond-free-masters-forbearing-threatening-Master-heaven-respect-persons-brethren-strong-Lord-power-might-armour-God-stand-wiles-devil-wrestle-flesh-blood-principalities-powers-rulers-darkness-world-spiritual-wickedness-high-places-whole-armour-God-withstand-evil-day-having-done-stand-loins-girt-truth-breastplate-righteousness-feet-shod-preparation-gospel-peace-shield-faith-quench-fiery-darts-wicked-helmet-salvation-sword-Spirit-word-God-praying-prayer-supplication-Spirit-watching-perseverance-supplication-saints-utterance-mouth-boldly-mystery-gospel-ambassador-bonds-speak-boldly-affairs-know-Tychicus-beloved-brother-faithful-minister-Lord-purpose-know-affairs-comfort-hearts-Peace-brethren-love-faith-God-Father-Lord-Jesus-Christ-Grace-love-Lord-Jesus-Christ-sincerity-Amen
+**Tags:** #family-relationships #spiritual-warfare #the-armor-of-god #final-benediction
 
 ---
 

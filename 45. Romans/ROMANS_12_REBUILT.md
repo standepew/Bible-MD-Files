@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Living Sacrifices, Spiritual Gifts, Love in Action, Overcoming Evil
 
-**Tags:** #beseech-brethren-mercies-God-present-bodies-living-sacrifice-holy-acceptable-God-reasonable-service-conformed-world-transformed-renewing-mind-prove-good-acceptable-perfect-will-God-grace-man-highly-think-soberly-God-dealt-measure-faith-members-body-members-office-many-one-body-Christ-members-gifts-differing-grace-given-prophecy-prophesy-proportion-faith-ministry-wait-ministering-teacheth-teaching-exhorteth-exhortation-giveth-simplicity-ruleth-diligence-sheweth-mercy-cheerfulness-love-dissimulation-abhor-evil-cleave-good-kindly-affectioned-brotherly-love-honour-preferring-slothful-business-fervent-spirit-serving-Lord-rejoicing-hope-patient-tribulation-continuing-instant-prayer-distributing-necessity-saints-hospitality-bless-persecute-bless-curse-rejoice-rejoice-weep-weep-mind-high-things-condescend-men-estate-wise-conceits-recompense-evil-evil-provide-honest-sight-men-possible-lieth-live-peaceably-men-dearly-beloved-avenge-yourselves-place-wrath-written-Vengeance-repay-Lord-enemy-hunger-feed-thirst-give-drink-heap-coals-fire-head-overcome-evil-overcome-evil-good
+**Tags:** #living-sacrifices #spiritual-gifts #love-in-action #overcoming-evil
 
 ---
 

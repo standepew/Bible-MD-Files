@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Humble Heart, Childlike Trust, Spiritual Simplicity, Hope in the LORD
 
-**Tags:** #Song-degrees-David-heart-haughty-eyes-lofty-exercise-great-matters-things-high-behaved-quieted-child-weaned-mother-soul-weaned-child-Israel-hope-LORD-henceforth-forever
+**Tags:** #humble-heart #childlike-trust #spiritual-simplicity #hope-in-the-lord
 
 ---
 

@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Divine Justice, Unjust Judges, God's Judgment, Earthly Authority
 
-**Tags:** #Psalm-Asaph-GOD-standeth-congregation-mighty-judgeth-gods-long-judge-unjustly-accept-persons-wicked-Selah-Defend-poor-fatherless-justice-afflicted-needy-Deliver-poor-needy-rid-hand-wicked-know-will-understand-walk-darkness-foundations-earth-course-Ye-gods-children-High-die-men-fall-princes-Arise-GOD-judge-earth-inherit-nations
+**Tags:** #divine-justice #unjust-judges #god #earthly-authority
 
 ---
 

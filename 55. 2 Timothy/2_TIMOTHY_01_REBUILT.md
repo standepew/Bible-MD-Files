@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Paul's Greeting and Thanksgiving, Timothy's Faith, Stir Up the Gift, God's Spirit, Not Ashamed of the Gospel, Holy Calling and Grace, Hold Fast Sound Words
 
-**Tags:** #Paul-apostle-Jesus-Christ-will-God-promise-life-Christ-Jesus-Timothy-dearly-beloved-son-Grace-mercy-peace-God-Father-Christ-Jesus-Lord-thank-God-serve-forefathers-pure-conscience-ceasing-remembrance-prayers-night-day-Greatly-desiring-see-mindful-tears-filled-joy-remembrance-unfeigned-faith-dwelt-grandmother-Lois-mother-Eunice-persuaded-remembrance-stir-gift-God-putting-hands-God-spirit-fear-power-love-sound-mind-ashamed-testimony-Lord-prisoner-partaker-afflictions-gospel-power-God-saved-called-holy-calling-works-purpose-grace-Christ-Jesus-world-began-manifest-appearing-Saviour-Jesus-Christ-abolished-death-brought-life-immortality-light-gospel-appointed-preacher-apostle-teacher-Gentiles-suffer-things-ashamed-know-believed-persuaded-able-keep-committed-day-Hold-fast-form-sound-words-heard-faith-love-Christ-Jesus-good-thing-committed-keep-Holy-Ghost-dwelleth-turned-Asia-Phygellus-Hermogenes-Lord-mercy-house-Onesiphorus-oft-refreshed-ashamed-chain-Rome-sought-diligently-found-Lord-grant-mercy-Lord-day-ministered-Ephesus-know
+**Tags:** #paul #timothy #stir-up-the-gift #god #not-ashamed-of-the-gospel #holy-calling-and-grace #hold-fast-sound-words
 
 ---
 

@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Divine Mercy, Trust in God's Wings, Exaltation of God, Fixed Heart
 
-**Tags:** #chief-Musician-Al-taschith-Michtam-David-fled-Saul-cave-merciful-GOD-merciful-soul-trusteth-shadow-wings-refuge-calamities-overpast-cry-GOD-high-performeth-send-heaven-save-reproach-swallow-Selah-GOD-send-mercy-truth-soul-lions-lie-fire-sons-men-teeth-spears-arrows-tongue-sharp-sword-exalted-GOD-heavens-glory-earth-prepared-net-steps-bowed-dug-pit-midst-fallen-Selah-heart-fixed-GOD-heart-fixed-sing-give-praise-Awake-glory-awake-psaltery-harp-awake-early-praise-Lord-people-sing-nations-mercy-heavens-truth-clouds-exalted-GOD-heavens-glory-earth
+**Tags:** #divine-mercy #trust-in-god #exaltation-of-god #fixed-heart
 
 ---
 

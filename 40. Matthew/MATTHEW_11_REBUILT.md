@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Christ's Divine Revelation, John's Testimony, Kingdom Violence, Rest for Souls
 
-**Tags:** #Jesus-made-end-commanding-disciples-departed-teach-preach-cities-John-heard-prison-works-Christ-sent-disciples-saying-Art-thou-come-look-another-Jesus-answered-shew-John-hear-see-blind-receive-sight-lame-walk-lepers-cleansed-deaf-hear-dead-raised-poor-gospel-preached-blessed-offended-departed-Jesus-multitudes-John-wilderness-reed-shaken-wind-clothed-soft-raiment-soft-clothing-kings-houses-prophet-prophet-Behold-send-messenger-face-prepare-way-Verily-born-women-greater-John-Baptist-least-kingdom-heaven-greater-John-days-John-Baptist-kingdom-heaven-suffereth-violence-violent-prophets-law-prophesied-John-receive-Elias-come-ears-hear-generation-children-sitting-markets-calling-fellows-piped-danced-mourned-lamented-John-eating-drinking-devil-Son-man-eating-drinking-gluttonous-winebibber-friend-publicans-sinners-wisdom-justified-children-upbraided-cities-mighty-works-repented-Woe-Chorazin-Woe-Bethsaida-mighty-works-Tyre-Sidon-repented-sackcloth-ashes-tolerable-Tyre-Sidon-judgment-exalted-heaven-brought-hell-mighty-works-Sodom-remained-tolerable-land-Sodom-judgment-thank-Father-Lord-heaven-earth-hidden-wise-prudent-revealed-babes-Father-sight-delivered-Father-knoweth-Son-Father-knoweth-Father-Son-reveal-Come-labour-heavy-laden-give-rest-yoke-learn-meek-lowly-heart-rest-souls-yoke-easy-burden-light
+**Tags:** #christ #john #kingdom-violence #rest-for-souls
 
 ---
 

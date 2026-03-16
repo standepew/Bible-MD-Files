@@ -9,7 +9,7 @@
 **Testament:** Old Testament
 **Key Themes:** Miriam dies at Kadesh — no lamentation recorded, no burial detail; the passing of the first generation begins, The people contend for water again — identical complaint to Exodus 17, but this is the second generation at the end of the forty years, God commands Moses to speak to the rock; Moses strikes it twice in anger — the one fatal act that costs him the promised land, "Because ye believed me not, to sanctify me in the eyes of the children of Israel" — Moses' sin is not anger but unbelief that failed to glorify God, Edom refuses Israel passage — the brother nation blocking the brother nation, Aaron dies on Mount Hor — the high priestly garments transferred to Eleazar; Aaron gathered to his people
 
-**Tags:** #Miriam-dies-Kadesh #no-water #strove-with-Moses #glory-of-LORD-appears #speak-to-the-rock #Moses-strikes-twice #water-comes-abundantly #Meribah #believed-me-not #sanctify-me-not #ye-shall-not-bring-congregation-into-the-land #Edom-refuses-passage #mount-Hor #Aaron-gathered-to-his-people #garments-on-Eleazar #Aaron-dies-on-the-mount #thirty-days-mourning
+**Tags:** #Miriam-dies-Kadesh #no-water #strove-with-Moses #glory-of-LORD-appears #speak-to-the-rock #Moses-strikes-twice #water-comes-abundantly #Meribah #believed-me-not #sanctify-me-not #Edom-refuses-passage #mount-Hor #Aaron-gathered-to-his-people #garments-on-Eleazar #Aaron-dies-on-the-mount #thirty-days-mourning #miriam-dies-at-kadesh #the-passing-of-the-first-generation #the-people-contend-for-water-again #god-commands-moses-to-speak-to #moses-strikes-it-twice-in-anger #because-ye-believed-me-not-to #edom-refuses-israel-passage #aaron-dies-on-mount-hor #aaron-gathered-to-his-people
 
 ---
 

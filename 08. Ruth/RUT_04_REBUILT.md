@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Gate Transaction, Ten Elders, Land Redemption, Ruth's Marriage, Shoe Testimony, Witnesses Blessing, Boaz and Ruth's Marriage, Obed's Birth, Davidic Genealogy
 
-**Tags:** #Boaz-gate-sat-kinsman-spake-Ho-turn-aside-sat #ten-men-elders-city-sat #kinsman-Naomi-country-Moab-selleth-parcel-land-brother-Elimelech #advertise-buy-inhabitants-elders-people-redeem-redeem-tell-know-redeem #kinsman-redeem-day-buy-field-hand-Naomi-Ruth-Moabitess-wife-dead-raise-name-dead-inheritance #kinsman-redeem-mar-mine-inheritance-redeem #manner-former-time-Israel-redeeming-changing-confirm-plucked-shoe-neighbour-testimony-Israel #kinsman-Boaz-Buy-shoe-drew #Boaz-elders-people-witnesses-bought-Elimelech-Chilion-Mahlon-hand-Naomi #Ruth-Moabitess-wife-Mahlon-purchased-wife-raise-name-dead-inheritance-name-dead-cut-brethren-gate-place-witnesses #people-gate-elders-witnesses-LORD-woman-house-Rachel-Leah-build-house-Israel #worthily-Ephratah-famous-Beth-lehem #house-Pharez-Tamar-Judah-seed-LORD-young-woman #Boaz-Ruth-wife-went-LORD-conception-bare-son #women-Naomi-Blessed-LORD-kinsman-famous-Israel #restorer-life-nourisher-old-age-daughter-love-seven-sons-born #Naomi-child-bosom-nurse-child #women-neighbours-son-born-Naomi-called-Obed-father-Jesse-father-David #generations-Pharez-Pharez-Hezron-Hezron-Ram-Ram-Amminadab #Amminadab-Nahshon-Nahshon-Salmon-Salmon-Boaz-Boaz-Obed-Obed-Jesse-Jesse-David
+**Tags:** #ten-men-elders-city-sat #kinsman-Boaz-Buy-shoe-drew #worthily-Ephratah-famous-Beth-lehem #Naomi-child-bosom-nurse-child #gate-transaction #ten-elders #land-redemption #ruth #shoe-testimony #witnesses-blessing #boaz-and-ruth #obed #davidic-genealogy
 
 ---
 

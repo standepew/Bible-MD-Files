@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** The Promise of Rest, Entering God's Rest, The Power of God's Word, Christ Our High Priest, Bold Approach to Throne
 
-**Tags:** #fear-promise-entering-rest-seem-short-gospel-preached-word-preached-profit-mixed-faith-heard-believed-enter-rest-sworn-wrath-enter-rest-works-finished-foundation-world-spake-seventh-day-God-rest-seventh-day-works-place-again-enter-rest-remaineth-enter-preached-entered-unbelief-limiteth-certain-day-saying-David-To-day-long-time-hear-voice-harden-hearts-Jesus-given-rest-spoken-another-day-remaineth-rest-people-God-entered-rest-ceased-works-God-works-labour-enter-rest-fall-example-unbelief-word-God-quick-powerful-sharper-twoedged-sword-piercing-dividing-soul-spirit-joints-marrow-discerner-thoughts-intents-heart-creature-manifest-sight-naked-opened-eyes-great-high-priest-passed-heavens-Jesus-Son-God-hold-fast-profession-high-priest-touched-feeling-infirmities-tempted-without-sin-boldly-throne-grace-obtain-mercy-grace-help-time-need
+**Tags:** #the-promise-of-rest #entering-god #the-power-of-god #christ-our-high-priest #bold-approach-to-throne
 
 ---
 

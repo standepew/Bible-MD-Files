@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Joy in Trials, Wisdom from God, Temptation and Sin, Good Gifts from Above, Being Doers of the Word
 
-**Tags:** #James-servant-God-Lord-Jesus-Christ-twelve-tribes-scattered-abroad-greeting-brethren-count-joy-fall-divers-temptations-knowing-trying-faith-worketh-patience-patience-perfect-work-perfect-entire-wanting-lack-wisdom-ask-God-giveth-men-liberally-upbraideth-given-ask-faith-wavering-wavering-wave-sea-driven-wind-tossed-think-receive-thing-Lord-double-minded-man-unstable-ways-brother-low-degree-rejoice-exalted-rich-made-low-flower-grass-pass-away-sun-risen-burning-heat-withereth-grass-flower-falleth-grace-fashion-perisheth-rich-man-fade-ways-blessed-man-endureth-temptation-tried-receive-crown-life-Lord-promised-love-tempted-God-tempted-evil-tempteth-man-tempted-drawn-lust-enticed-lust-conceived-bringeth-sin-finished-bringeth-death-err-beloved-brethren-good-gift-perfect-gift-above-cometh-Father-lights-variableness-shadow-turning-will-begat-word-truth-firstfruits-creatures-beloved-brethren-man-swift-hear-slow-speak-slow-wrath-wrath-worketh-righteousness-God-lay-filthiness-superfluity-naughtiness-receive-meekness-engrafted-word-able-save-souls-doers-word-hearers-deceiving-beholder-natural-face-glass-beholdeth-goeth-straightway-forget-manner-man-looketh-perfect-law-liberty-continueth-forgetful-hearer-doer-work-blessed-deed-religious-bridleth-tongue-deceiveth-heart-religion-vain-pure-religion-undefiled-God-Father-visit-fatherless-widows-affliction-unspotted-world
+**Tags:** #joy-in-trials #wisdom-from-god #temptation-and-sin #good-gifts-from-above #being-doers-of-the-word
 
 ---
 

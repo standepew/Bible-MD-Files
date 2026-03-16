@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Watchfulness, Divine Protection, Spiritual Restoration, Christ's Marriage
 
-**Tags:** #Zion-sake-hold-peace-Jerusalem-sake-rest-righteousness-brightness-salvation-lamp-burneth-Gentiles-righteousness-kings-glory-called-new-name-mouth-LORD-name-crown-glory-hand-LORD-royal-diadem-hand-God-termed-Forsaken-land-termed-Desolate-called-Hephzi-bah-land-Beulah-LORD-delighteth-land-married-young-man-marrieth-virgin-sons-marry-bridegroom-rejoiceth-bride-God-rejoice-set-watchmen-walls-Jerusalem-hold-peace-day-night-mention-LORD-keep-silence-give-rest-establish-Jerusalem-praise-earth-LORD-sworn-right-hand-arm-strength-give-corn-meat-enemies-sons-stranger-drink-wine-laboured-gathered-eat-praise-LORD-brought-drink-courts-holiness-Go-gates-prepare-way-people-cast-highway-gather-stones-lift-standard-people-LORD-proclaimed-end-world-daughter-Zion-behold-salvation-behold-reward-work-behind-called-holy-people-redeemed-LORD-called-Sought-city-forsaken
+**Tags:** #christ #divine-protection #spiritual-restoration
 
 ---
 

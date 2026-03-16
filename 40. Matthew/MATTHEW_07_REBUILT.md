@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Christ's Judgment, Golden Rule, Strait Gate, False Prophets, Wise Foundation
 
-**Tags:** #Judge-judged-judgment-judge-measured-mete-measured-beholdest-mote-brother-eye-considerest-beam-thine-eye-wilt-brother-pull-mote-behold-beam-thine-eye-hypocrite-cast-beam-thine-eye-see-clearly-cast-mote-brother-eye-holy-dogs-pearls-swine-trample-feet-rend-Ask-given-seek-find-knock-opened-asketh-receiveth-seeketh-findeth-knocketh-opened-son-ask-bread-give-stone-ask-fish-give-serpent-evil-know-give-gifts-children-Father-heaven-give-things-ask-therefore-men-should-law-prophets-strait-gate-wide-gate-broad-way-destruction-many-strait-gate-narrow-way-life-few-find-Beware-false-prophets-sheep-clothing-ravening-wolves-fruits-grapes-thorns-figs-thistles-good-tree-good-fruit-corrupt-tree-evil-fruit-good-tree-evil-fruit-corrupt-tree-good-fruit-tree-good-fruit-hewn-fire-fruits-know-Lord-Lord-kingdom-heaven-doeth-will-Father-heaven-prophesied-name-cast-devils-wonderful-works-profess-knew-depart-iniquity-heareth-sayings-doeth-wise-man-house-rock-rain-descended-floods-winds-beat-house-fell-founded-rock-heareth-sayings-doeth-foolish-man-house-sand-rain-descended-floods-winds-beat-house-fell-great-fall-Jesus-ended-sayings-people-astonished-doctrine-taught-authority-scribes
+**Tags:** #christ #golden-rule #strait-gate #false-prophets #wise-foundation
 
 ---
 

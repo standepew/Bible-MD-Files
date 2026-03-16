@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Joyful Worship, Divine Creator, Shepherd Care, Warning Against Hardness
 
-**Tags:** #joyful-noise-LORD-rock-salvation-come-presence-thanksgiving-joyful-noise-psalms-great-GOD-great-King-gods-hand-deep-places-earth-strength-hills-sea-made-hands-formed-dry-land-worship-bow-kneel-LORD-maker-GOD-people-pasture-sheep-hand-day-hear-voice-harden-heart-provocation-day-temptation-wilderness-fathers-tempted-proved-saw-work-forty-years-grieved-generation-people-err-heart-known-ways-sware-wrath-enter-rest
+**Tags:** #joyful-worship #divine-creator #shepherd-care #warning-against-hardness
 
 ---
 

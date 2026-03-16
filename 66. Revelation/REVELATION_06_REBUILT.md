@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** The First Six Seals, The Four Horsemen, The Martyrs Under the Altar, The Great Day of Wrath
 
-**Tags:** #Lamb-opened-seals-noise-thunder-four-beasts-Come-white-horse-sat-bow-crown-conquering-conquer-second-seal-second-beast-red-horse-power-peace-earth-kill-great-sword-third-seal-third-beast-black-horse-pair-balances-hand-voice-four-beasts-measure-wheat-penny-three-measures-barley-penny-hurt-oil-wine-fourth-seal-fourth-beast-pale-horse-name-sat-Death-Hell-followed-power-fourth-part-earth-kill-sword-hunger-death-beasts-earth-fifth-seal-altar-souls-slain-word-God-testimony-held-cried-loud-voice-Lord-holy-true-judge-avenge-blood-dwell-earth-white-robes-rest-little-season-fellowservants-brethren-killed-fulfilled-sixth-seal-great-earthquake-sun-black-sackcloth-hair-moon-blood-stars-heaven-fell-earth-fig-tree-casteth-untimely-figs-shaken-mighty-wind-heaven-departed-scroll-rolled-mountain-island-moved-places-kings-earth-great-men-rich-men-chief-captains-mighty-men-bondman-free-man-hid-dens-rocks-mountains-mountains-rocks-Fall-hide-face-throne-wrath-Lamb-great-day-wrath-stand
+**Tags:** #the-first-six-seals #the-four-horsemen #the-martyrs-under-the-altar #the-great-day-of-wrath
 
 ---
 

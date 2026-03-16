@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Vengeance, Divine Redemption, Spiritual Affliction, Christ's Compassion
 
-**Tags:** #cometh-Edom-dyed-garments-Bozrah-glorious-apparel-travelling-greatness-strength-speak-righteousness-mighty-save-red-apparel-tread-winefat-people-trodden-winepress-anger-trample-fury-blood-sprinkled-garments-stain-raiment-day-vengeance-heart-year-redeemed-looked-help-uphold-arm-brought-salvation-fury-upheld-tread-people-anger-drunk-fury-bring-strength-earth-mention-lovingkindness-LORD-praises-LORD-bestowed-great-goodness-house-Israel-bestowed-mercies-multitude-lovingkindnesses-people-children-lie-Saviour-affliction-afflicted-angel-presence-saved-love-pity-redeemed-bare-carried-days-old-rebelled-vexed-holy-Spirit-turned-enemy-fought-remembered-days-Moses-people-brought-sea-shepherd-flock-holy-Spirit-within-led-right-hand-Moses-glorious-arm-dividing-water-everlasting-name-led-deep-horse-wilderness-stumble-beast-valley-Spirit-LORD-caused-rest-lead-people-glorious-name-look-heaven-behold-habitation-holiness-glory-zeal-strength-sounding-bowels-mercies-restrained-doubtless-father-Abraham-ignorant-Israel-acknowledge-LORD-father-redeemer-name-everlasting-LORD-made-err-ways-hardened-heart-fear-return-servants-tribes-inheritance-people-holiness-possessed-little-adversaries-trodden-sanctuary-thine-bare-rule-not-called-name
+**Tags:** #christ #divine-redemption #spiritual-affliction
 
 ---
 

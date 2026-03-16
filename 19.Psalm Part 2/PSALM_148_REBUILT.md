@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Universal Praise, Creation Worship, Angelic Praise, Human Praise
 
-**Tags:** #Praise-LORD-Praise-LORD-heavens-praise-heights-angels-hosts-sun-moon-stars-light-heavens-heavens-waters-heavens-Lord-commanded-created-stablished-forever-decree-pass-Praise-LORD-earth-dragons-deeps-fire-hail-snow-vapour-stormy-wind-fulfilling-word-Mountains-hills-fruitful-trees-cedars-beasts-cattle-creeping-things-flying-fowl-kings-earth-people-princes-judges-earth-young-men-maidens-old-men-children-Praise-LORD-name-excellent-glory-earth-heaven-exalteth-horn-people-praise-saints-children-Israel-people-near-Praise-LORD
+**Tags:** #universal-praise #creation-worship #angelic-praise #human-praise
 
 ---
 

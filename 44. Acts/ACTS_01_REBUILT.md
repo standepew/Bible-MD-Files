@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** The Ascension of Jesus, The Promise of the Holy Spirit, The Upper Room, Matthias Chosen
 
-**Tags:** #former-treatise-Theophilus-Jesus-began-teach-day-taken-Holy-Ghost-commandments-apostles-chosen-shewed-alive-passion-infallible-proofs-seen-forty-days-speaking-kingdom-God-assembled-commanded-depart-Jerusalem-wait-promise-Father-heard-Jesus-baptized-water-baptized-Holy-Ghost-days-come-together-asked-Lord-restore-kingdom-Israel-times-seasons-Father-power-receive-power-Holy-Ghost-witnesses-Jerusalem-Judaea-Samaria-uttermost-earth-spoken-beheld-taken-cloud-received-sight-looked-stedfastly-heaven-men-white-apparel-Galilee-gazing-heaven-Jesus-taken-heaven-come-manner-returned-Jerusalem-mount-Olivet-sabbath-journey-upper-room-abode-Peter-James-Andrew-Philip-Thomas-Bartholomew-Matthew-Alphaeus-Simon-Zelotes-Judas-James-continued-accord-prayer-supplication-women-Mary-mother-Jesus-brethren-Peter-disciples-names-hundred-twenty-brethren-scripture-fulfilled-Holy-Ghost-mouth-David-Judas-guide-Jesus-numbered-obtained-ministry-purchased-field-reward-iniquity-falling-headlong-burst-midst-bowels-gushed-known-dwellers-Jerusalem-field-proper-tongue-Aceldama-field-blood-written-Psalms-habitation-desolate-dwell-bishoprick-men-companied-time-Lord-Jesus-baptism-John-taken-ordained-witness-resurrection-appointed-Joseph-Barsabas-surnamed-Justus-Matthias-prayed-Lord-knowest-hearts-shewn-chosen-ministry-apostleship-Judas-transgression-place-gave-lots-lot-Matthias-numbered-eleven-apostles
+**Tags:** #the-ascension-of-jesus #the-promise-of-the-holy-spirit #the-upper-room #matthias-chosen
 
 ---
 

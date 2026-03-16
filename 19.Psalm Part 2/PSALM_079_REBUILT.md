@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** National Disaster, Divine Anger, Plea for Mercy, Vindication
 
-**Tags:** #Psalm-Asaph-GOD-heathen-thine-inheritance-holy-temple-defiled-laid-Jerusalem-heaps-dead-bodies-servants-meat-fowls-heaven-flesh-saints-beasts-earth-blood-shed-water-round-Jerusalem-bury-reproach-neighbours-scorn-derision-round-LONG-LORD-angry-forever-jealousy-burn-fire-Pour-wrath-heathen-known-call-name-devoured-Jacob-laid-wasting-place-remember-former-iniquities-tender-mercies-speedily-prevent-brought-low-Help-GOD-salvation-glory-name-deliver-purge-sins-name-sake-heathen-reproached-LORD-foolish-people-blasphemed-name-known-heathen-sight-revenging-blood-servants-shed-sighing-prisoner-according-greatness-power-preserve-appoint-die-render-neighbours-sevenfold-bosom-reproach-reproached-LORD-people-sheep-pasture-give-thanks-forever-shew-praise-generations
+**Tags:** #national-disaster #divine-anger #plea-for-mercy #vindication
 
 ---
 

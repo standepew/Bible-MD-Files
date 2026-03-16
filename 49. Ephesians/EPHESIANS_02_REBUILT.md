@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Made Alive in Christ, Saved by Grace, One in Christ, The Household of God
 
-**Tags:** #quickened-dead-trespasses-sins-walked-course-world-prince-power-air-spirit-worketh-children-disobedience-conversation-lusts-flesh-fulfilling-desires-flesh-mind-nature-children-wrath-others-God-rich-mercy-great-love-loved-dead-sins-quicken-Christ-grace-saved-raised-sit-heavenly-places-Christ-Jesus-ages-shew-exceeding-riches-grace-kindness-Christ-Jesus-grace-saved-faith-yourselves-gift-God-works-boast-workmanship-created-Christ-Jesus-good-works-God-ordained-walk-remember-Gentiles-flesh-called-Uncircumcision-Circumcision-flesh-hands-Christ-aliens-commonwealth-Israel-strangers-covenants-promise-hope-God-world-Christ-Jesus-far-nigh-blood-Christ-peace-broken-middle-wall-partition-abolished-flesh-enmity-law-commandments-ordinances-twain-new-man-peace-reconcile-God-body-cross-slain-enmity-preached-peace-afar-nigh-access-Spirit-Father-strangers-foreigners-fellowcitizens-saints-household-God-built-foundation-apostles-prophets-Jesus-Christ-chief-corner-stone-building-fitly-framed-holy-temple-Lord-builded-habitation-God-Spirit
+**Tags:** #made-alive-in-christ #saved-by-grace #one-in-christ #the-household-of-god
 
 ---
 

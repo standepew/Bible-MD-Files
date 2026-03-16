@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** The Work of the Holy Spirit, Sorrow Turned to Joy, Plain Speaking of the Father, I Have Overcome the World
 
-**Tags:** #spoken-offended-synagogues-time-cometh-killeth-God-service-known-Father-told-time-remember-told-beginning-way-sent-asketh-Whither-sorrow-filled-heart-tell-truth-expedient-go-away-Comforter-come-depart-send-reprove-world-sin-righteousness-judgment-sin-believe-righteousness-Father-seen-judgment-prince-judged-things-bear-Spirit-truth-guide-truth-speak-hear-speak-shew-glorify-receive-shew-Father-mine-shew-little-see-again-little-see-Father-disciples-little-see-little-see-Father-desirous-enquire-little-see-little-see-weep-lament-rejoice-sorrowful-joy-travail-hour-delivered-child-anguish-joy-born-sorrow-again-heart-joy-taketh-ask-nothing-ask-Father-give-asked-name-ask-receive-joy-proverbs-time-proverbs-plainly-Father-plainly-proverb-knowest-things-needest-ask-believe-came-God-believe-now-cometh-scattered-man-leave-alone-alone-Father-spoken-peace-world-tribulation-cheer-overcome-world
+**Tags:** #the-work-of-the-holy-spirit #sorrow-turned-to-joy #plain-speaking-of-the-father #i-have-overcome-the-world
 
 ---
 

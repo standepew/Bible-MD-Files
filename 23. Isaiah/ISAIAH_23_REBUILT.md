@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Judgment, Tyre's Fall, Spiritual Commerce, Christ's Holiness
 
-**Tags:** #burden-Tyre-Howl-ships-Tarshish-laid-waste-house-entering-land-Chittim-revealed-still-inhabitants-isle-merchants-Zidon-pass-sea-replenished-great-waters-seed-Sihor-harvest-river-revenue-mart-nations-ashamed-Zidon-sea-spoken-strength-sea-travail-bring-children-nourish-young-men-bring-virgins-report-Egypt-sorely-pained-report-Tyre-pass-Tarshish-howl-inhabitants-isle-joyous-city-antiquity-ancient-days-feet-carry-afar-off-sojourn-counsel-Tyre-crowning-city-merchants-princes-traffickers-honourable-earth-LORD-hosts-purposed-stain-pride-glory-contempt-honourable-earth-pass-land-river-daughter-Tarshish-strength-stretched-hand-sea-shook-kingdoms-LORD-commandment-merchant-city-destroy-strong-holds-rejoice-oppressed-virgin-daughter-Zidon-arise-pass-Chittim-rest-land-Chaldeans-people-Assyrian-founded-dwell-wilderness-set-towers-raised-palaces-brought-ruin-Howl-ships-Tarshish-strength-laid-waste-day-Tyre-forgotten-seventy-years-days-king-end-seventy-years-Tyre-sing-harlot-harp-city-harlot-forgotten-sweet-melody-sing-songs-remembered-end-seventy-years-LORD-visit-Tyre-turn-hire-commit-fornication-kingdoms-world-face-earth-merchandise-hire-holiness-LORD-treasured-laid-merchandise-dwell-LORD-eat-sufficiently-durable-clothing
+**Tags:** #christ #tyre #spiritual-commerce
 
 ---
 

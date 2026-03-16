@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Philistine Army, David's Position, Philistine Lords' Suspicion, Achish's Defense, David's Dismissal
 
-**Tags:** #Philistines-gathered-armies-Aphek-Israelites-pitched-fountain-Jezreel #lords-Philistines-passed-hundreds-thousands-David-men-rereward-Achish #princes-Philistines-Hebrews-Achish-princes-Philistines-David-servant-Saul-king-Israel-days-years-fault-fell-day #princes-Philistines-wroth-princes-Philistines-fellow-return-place-appointed-battle-adversary-reconcile-master-heads-men #David-dances-sang-thousands-ten-thousands #Achish-David-LORD-liveth-upright-going-coming-host-evil-day-coming-day-lords-favour #return-peace-displease-lords-Philistines #David-Achish-fault-servant-fight-enemies-lord-king #Achish-David-good-sight-angel-God-princes-Philistines-battle #rise-early-morning-master-servants-early-morning-light-depart #David-men-early-depart-morning-Philistines-Jezreel
+**Tags:** #return-peace-displease-lords-Philistines #philistine-army #david #philistine-lords #achish
 
 ---
 

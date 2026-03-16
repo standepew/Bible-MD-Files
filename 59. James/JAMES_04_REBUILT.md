@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Source of Conflicts, Friendship with the World, Submitting to God, Judging Others, Humility Before God
 
-**Tags:** #wars-fightings-lusts-war-members-lust-kill-desire-obtain-fight-war-ask-receive-ask-amiss-consume-lusts-adulterers-adulteresses-friendship-world-enmity-God-friend-world-enemy-God-scripture-spirit-dwelleth-lusteth-envy-giveth-grace-resisteth-proud-giveth-grace-humble-Submit-God-resist-devil-flee-draw-nigh-God-draw-nigh-Cleanse-hands-sinners-purify-hearts-double-minded-afflicted-mourn-weep-laughter-turned-mourning-joy-heaviness-humble-sight-Lord-lift-Speak-evil-brethren-speaketh-evil-brother-judgeth-brother-speaketh-evil-law-judgeth-law-judge-law-doer-law-judge-lawgiver-save-destroy-judgeth-city-continue-year-buy-sell-gain-morrow-life-vapour-appeareth-little-time-vanish-ought-say-Lord-live-boastings-rejoicing-evil-knoweth-do-good-doeth-sin
+**Tags:** #source-of-conflicts #friendship-with-the-world #submitting-to-god #judging-others #humility-before-god
 
 ---
 

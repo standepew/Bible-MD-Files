@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Christ's Olivet Discourse, Signs of the End, Great Tribulation, Second Coming, Watch and Pray
 
-**Tags:** #went-temple-disciple-Master-stones-buildings-Jesus-answering-buildings-stone-thrown-down-sat-mount-Olives-temple-Peter-James-John-Andrew-asked-privately-things-fulfilled-answering-deceive-many-name-Christ-deceive-many-wars-rumours-wars-troubled-needs-end-nation-kingdom-earthquakes-divers-famines-troubles-beginnings-sorrows-take-hearts-councils-synagogues-beaten-rulers-kings-testimony-gospel-nations-lead-deliver-thought-speak-premeditate-given-Holy-ghost-brother-betray-brother-death-father-son-children-parents-put-death-hated-men-name-endure-saved-abomination-desolation-Daniel-prophet-ought-read-understand-Judæa-flee-mountains-housetop-house-enter-house-garment-field-turn-garment-child-suck-days-flight-winter-affliction-beginning-creation-time-creation-Lord-shortened-days-flesh-saved-elect-chosen-shortened-days-Christ-believe-false-Christs-prophets-signs-wonders-seduce-elect-foretold-tribulation-sun-darkened-moon-light-stars-heaven-powers-heaven-shaken-Son-man-clouds-power-glory-angels-elect-four-winds-uttermost-earth-uttermost-heaven-parable-fig-tree-branch-tender-leaves-summer-things-pass-doors-generation-pass-things-done-heaven-earth-pass-words-pass-day-hour-angels-heaven-Father-heed-watch-pray-time-man-journey-house-authority-servants-work-commanded-porter-watch-knoweth-master-house-even-midnight-cockcrowing-morning-suddenly-sleeping-say-watch
+**Tags:** #christ #signs-of-the-end #great-tribulation #second-coming #watch-and-pray
 
 ---
 

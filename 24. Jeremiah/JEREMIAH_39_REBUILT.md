@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Fulfillment, Jerusalem's Fall, Divine Protection, Christ's Reward
 
-**Tags:** #ninth-year-Zedekiah-king-Judah-tenth-month-Nebuchadrezzar-king-Babylon-army-Jerusalem-besieged-eleventh-year-Zedekiah-fourth-month-ninth-day-month-city-broken-princes-king-Babylon-middle-gate-Nergal-sharezer-Samgar-nebo-Sarsechim-Rab-saris-Nergal-sharezer-Rab-mag-residue-princes-king-Babylon-Zedekiah-king-Judah-men-war-fled-city-night-way-king-garden-gate-betwixt-two-walls-way-plain-Chaldeans-army-pursued-overtook-Zedekiah-plains-Jericho-brought-Nebuchadnezzar-king-Babylon-Riblah-land-Hamath-judgment-king-Babylon-slew-sons-Zedekiah-Riblah-eyes-king-Babylon-slew-nobles-Judah-put-Zedekiah-eyes-bound-chains-carry-Babylon-Chaldeans-burned-king-house-houses-people-fire-brake-walls-Jerusalem-Nebuzar-adan-captain-guard-carried-captive-Babylon-remnant-people-remained-city-fell-fell-rest-people-remained-Nebuzar-adan-captain-guard-left-poor-people-nothing-land-Judah-gave-vineyards-fields-time-Nebuchadrezzar-king-Babylon-charge-Jeremiah-Nebuzar-adan-captain-guard-Take-look-well-harm-Jeremiah-saying-Nebuzar-adan-captain-guard-sent-Nebushasban-Rab-saris-Nergal-sharezer-Rab-mag-king-Babylon-princes-sent-Jeremiah-court-prison-committed-Gedaliah-son-Ahikam-son-Shaphan-carry-home-dwelt-people-word-LORD-Jeremiah-shut-court-prison-GO-speak-Ebed-melech-Ethiopian-LORD-hosts-God-Israel-bring-words-city-evil-good-accomplished-day-deliver-day-LORD-given-hand-men-afraid-surely-deliver-fall-sword-life-prey-trust-LORD
+**Tags:** #christ #jerusalem #divine-protection
 
 ---
 

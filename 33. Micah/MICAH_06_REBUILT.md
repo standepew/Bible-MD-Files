@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Controversy with Israel, Divine Faithfulness, True Worship, Justice Required
 
-**Tags:** #Hear-LORD-saith-Arise-contend-mountains-hills-hear-voice-mountains-LORD-controversy-strong-foundations-earth-LORD-controversy-people-plead-Israel-people-wearied-testify-brought-land-Egypt-redeemed-house-servants-sent-Moses-Aaron-Miriam-people-remember-Balak-king-Moab-consulted-Balaam-son-Beor-answered-Shittim-Gilgal-know-righteousness-LORD-Wherewith-come-LORD-bow-high-God-come-burnt-offerings-calves-year-old-LORD-pleased-thousands-rams-ten-thousands-rivers-oil-give-firstborn-transgression-fruit-body-sin-soul-shewed-good-LORD-require-justly-love-mercy-walk-humbly-God-LORD-voice-cry-city-man-wisdom-see-name-hear-rod-appoint-treasures-wickedness-house-wicked-scant-measure-abominable-count-pure-wicked-balances-bag-deceitful-weights-rich-men-full-violence-inhabitants-spoken-lies-tongue-deceitful-mouth-sick-smiting-desolate-sins-eat-satisfied-casting-midst-take-hold-deliver-deliver-sword-sow-reap-tread-olives-anoint-oil-sweet-wine-drink-wine-statutes-Omri-works-house-Ahab-walk-counsels-desolation-inhabitants-hissing-bear-reproach-people
+**Tags:** #christ #divine-faithfulness #true-worship #justice-required
 
 ---
 

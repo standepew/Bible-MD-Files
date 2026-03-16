@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Practical Christian Living, Christ's Unchangeable Nature, Sacrifices of Praise and Good Works, Final Benediction
 
-**Tags:** #brotherly-love-continue-forgetful-entertain-strangers-entertained-angels-unawares-remember-bonds-bound-suffer-adversity-body-marriage-honourable-bed-undefiled-whoremongers-adulterers-God-judge-conversation-without-covetousness-content-things-hath-said-never-leave-forsake-boldly-say-Lord-helper-fear-man-remember-rule-spoken-word-God-faith-follow-considering-end-conversation-Jesus-Christ-yesterday-day-carried-divers-strange-doctrines-heart-established-grace-meats-occupied-altar-right-eat-serve-tabernacle-bodies-beasts-blood-brought-sanctuary-high-priest-sin-burned-without-camp-Jesus-sanctify-people-blood-suffered-without-gate-go-forth-without-camp-bearing-reproach-continuing-city-seek-one-offer-sacrifice-praise-God-continually-fruit-lips-giving-thanks-name-communicate-forget-sacrifices-God-well-pleased-obey-rule-submit-watch-souls-must-give-account-joy-grief-unprofitable-pray-trust-good-conscience-willing-live-honestly-beseech-rather-restored-sooner-God-peace-brought-dead-Lord-Jesus-great-shepherd-sheep-blood-everlasting-covenant-make-perfect-good-work-will-working-wellpleasing-sight-Jesus-Christ-glory-ever-beseech-brethren-suffer-word-exhortation-written-letter-few-words-brother-Timothy-set-liberty-shortly-see-salute-rule-saints-Italy-salute-grace
+**Tags:** #practical-christian-living #christ #sacrifices-of-praise-and-good-works #final-benediction
 
 ---
 

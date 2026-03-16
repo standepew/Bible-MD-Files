@@ -10,7 +10,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Samuel's Sons Corrupt, Elders Request King, Samuel Displeased, God's Explanation, King's Rights Warning, People Refuse Warning, Want to Be Like Nations, God Grants Request
 
-**Tags:** #Samuel-old-sons-judges-Israel #firstborn-Joel-second-Abiah-judges-Beer-sheba #sons-walked-ways-turned-lucre-bribes-perverted-judgment #elders-Israel-gathered-Samuel-Ramah #old-sons-walk-ways-king-judge-nations #displeased-Samuel-king-judge-Samuel-prayed-LORD #LORD-Samuel-voice-people-rejected-rejected-reign #works-day-brought-Egypt-forsaken-served-gods #hearken-voice-protest-solemnly-manner-king-reign #Samuel-words-LORD-people-king #manner-king-reign-take-sons-chariots-horsemen-run-chariots #captains-thousands-captains-fifties-ear-ground-reap-harvest-instruments-war-instruments-chariots #daughters-confectionaries-cooks-bakers #fields-vineyards-oliveyards-best-servants #tenth-seed-vineyards-officers-servants #menservants-maidservants-goodliest-young-men-asses-work #tenth-sheep-servants #cry-day-king-chosen-LORD-hear #people-refused-obey-Samuel-Nay-king #nations-king-judge-battles #Samuel-heard-words-people-rehearsed-ears-LORD #LORD-Samuel-voice-king-Samuel-men-Israel-city
+**Tags:** #Samuel-old-sons-judges-Israel #elders-Israel-gathered-Samuel-Ramah #Samuel-words-LORD-people-king #daughters-confectionaries-cooks-bakers #fields-vineyards-oliveyards-best-servants #tenth-seed-vineyards-officers-servants #tenth-sheep-servants #nations-king-judge-battles #samuel #elders-request-king #samuel-displeased #god #king #people-refuse-warning #want-to-be-like-nations #god-grants-request
 
 ---
 

@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Ish-bosheth's Death, Rechab and Baanah's Treachery, David's Justice, Mephibosheth's Lament
 
-**Tags:** #Saul-son-heard-Abner-dead-Hebron-hands-feeble-Israelites-troubled #Saul-son-two-men-captains-bands-Baanah-Rechab-sons-Rimmon-Beerothite-children-Benjamin-Beeroth-reckoned-Benjamin #Beerothites-fled-Gittaim-sojourners-day #Jonathan-Saul-son-son-lame-feet-five-years-tidings-Saul-Jonathan-Jezreel-nurse-fled-haste-fell-lame-Mephibosheth #sons-Rimmon-Beerothite-Rechab-Baanah-heat-day-house-Ish-bosheth-bed-noon #house-midst-fetched-wheat-smote-fifth-rib-Rechab-Baanah-brother-escaped #house-bed-bedchamber-smote-slew-beheaded-head-plain-night #head-Ish-bosheth-David-Hebron-king-head-Ish-bosheth-son-Saul-enemy-sought-life-LORD-avenged-lord-king-day-Saul-seed #David-answered-Rechab-Baanah-brother-sons-Rimmon-Beerothite-LORD-liveth-redeemed-soul-adversity #told-Saul-dead-good-tidings-held-slew-Ziklag-reward-tidings #wicked-men-slain-righteous-person-house-bed-require-blood-hand-earth #David-young-men-slew-cut-hands-feet-hanged-pool-Hebron-head-Ish-bosheth-buried-sepulchre-Abner-Hebron
+**Tags:** #Beerothites-fled-Gittaim-sojourners-day #ishbosheth #rechab-and-baanah #david #mephibosheth
 
 ---
 

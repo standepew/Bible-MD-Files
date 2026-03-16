@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Christian Marriage Relationships, Unity and Love Among Believers, Suffering for Righteousness, Christ's Victory and Baptism
 
-**Tags:** #wives-subjection-husbands-obey-word-won-conversation-wives-behold-chaste-conversation-fear-adorning-outward-plaiting-hair-wearing-gold-apparel-hidden-man-heart-corruptible-ornament-meek-quiet-spirit-sight-God-price-holy-women-trusted-God-subjection-husbands-Sara-obeyed-Abraham-calling-lord-daughters-well-afraid-amazement-husbands-dwell-knowledge-honour-wife-weaker-vessel-heirs-grace-life-prayers-hindered-mind-compassion-love-brethren-pitiful-courteous-rendering-evil-railing-blessing-called-inherit-blessing-love-life-good-days-refrain-tongue-evil-lips-guile-eschew-good-seek-peace-ensue-eyes-Lord-righteous-ears-prayers-face-Lord-evil-harm-followers-good-suffer-righteousness-happy-afraid-terror-troubled-sanctify-Lord-God-hearts-ready-answer-reason-hope-meekness-fear-good-conscience-speak-evil-evildoers-ashamed-falsely-accuse-conversation-Christ-better-will-God-suffer-well-doing-evil-doing-Christ-suffered-sins-just-unjust-bring-God-put-death-flesh-quickened-Spirit-preached-spirits-prison-disobedient-longsuffering-God-waited-days-Noah-ark-preparing-souls-saved-water-figure-baptism-save-putting-filth-flesh-answer-good-conscience-God-resurrection-Jesus-Christ-gone-heaven-right-hand-God-angels-authorities-powers-subject
+**Tags:** #christian-marriage-relationships #unity-and-love-among-believers #suffering-for-righteousness #christ
 
 ---
 

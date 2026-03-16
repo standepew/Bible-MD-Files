@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Carnal Christians, God's Building, The Foundation Christ, The Temple of God
 
-**Tags:** #brethren-speak-spiritual-carnal-babes-Christ-fed-milk-meat-bear-carnal-envying-strife-divisions-carnal-walk-men-saith-Paul-Apollos-carnal-ministers-believed-Lord-gave-man-planted-Apollos-watered-God-increase-planteth-watereth-God-increase-planteth-watereth-receive-reward-labour-labourers-God-God-husbandry-God-building-grace-God-wise-masterbuilder-laid-foundation-buildeth-takeheed-buildeth-foundation-laid-Jesus-Christ-build-foundation-gold-silver-precious-stones-wood-hay-stubble-work-manifest-day-declare-revealed-fire-work-abide-reward-work-burned-suffer-loss-saved-fire-temple-God-Spirit-God-dwelleth-defile-temple-God-destroy-temple-God-holy-temple-deceive-wise-world-become-fool-wise-wisdom-world-foolishness-God-written-taketh-wise-craftiness-Lord-knoweth-thoughts-wise-vain-glory-men-things-yours-Paul-Apollos-Cephas-world-life-death-things-present-things-yours-Christ-Christ-God
+**Tags:** #carnal-christians #god #the-foundation-christ #the-temple-of-god
 
 ---
 

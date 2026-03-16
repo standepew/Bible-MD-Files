@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Persecution from Youth, Divine Righteousness, Judgment of Enemies, Hope in Zion
 
-**Tags:** #Song-degrees-afflicted-youth-Israel-say-afflicted-youth-prevailed-plowers-plowed-back-made-long-furrows-LORD-righteous-cut-cords-wicked-confounded-turned-hate-Zion-grass-housetops-withereth-grow-mower-filleth-hand-bind-sheaves-bosom-go-blessing-LORD-bless-name-LORD
+**Tags:** #persecution-from-youth #divine-righteousness #judgment-of-enemies #hope-in-zion
 
 ---
 

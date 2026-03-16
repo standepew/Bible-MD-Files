@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Judgment on Oppressors, Social Injustice, False Prophets, Remnant Gathering
 
-**Tags:** #Woe-devise-iniquity-work-evil-beds-morning-light-practise-power-hand-covet-fields-violence-houses-oppress-man-house-man-heritage-LORD-devise-evil-family-remove-necks-haughtily-time-evil-day-parable-doleful-lamentation-utterly-spoiled-changed-portion-people-removed-divided-fields-none-cast-congregation-LORD-Prophesy-prophesy-prophesy-shame-house-Jacob-spirit-LORD-straitened-doings-words-good-walketh-uprightly-people-risen-enemy-pull-robe-garment-pass-securely-averse-war-women-people-cast-pleasant-houses-children-glory-Arise-depart-rest-polluted-destroy-sore-destruction-man-walking-spirit-falsehood-lie-prophesy-wine-strong-drink-prophet-people-surely-assemble-Jacob-gather-remnant-Israel-together-sheep-Bozrah-flock-midst-fold-great-noise-multitude-breaker-broken-passed-gate-king-pass-LORD-head
+**Tags:** #christ #social-injustice #false-prophets #remnant-gathering
 
 ---
 

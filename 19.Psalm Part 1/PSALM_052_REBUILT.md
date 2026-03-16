@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Wicked's Boasting, Deceitful Tongue, God's Judgment, Righteous Trust
 
-**Tags:** #chief-Musician-Maschil-Psalm-David-Doeg-Edomite-came-told-Saul-David-house-Ahimelech-boastest-mischief-mighty-man-goodness-GOD-endure-continually-tongue-deviseth-mischiefs-sharp-razor-working-deceitfully-lovest-evil-good-lying-speak-righteousness-Selah-lovest-devouring-words-deceitful-tongue-GOD-destroy-forever-take-pluck-dwelling-place-root-land-living-Selah-righteous-see-fear-laugh-man-made-GOD-strength-trusted-abundance-riches-strengthened-wickedness-green-olive-tree-house-GOD-trust-mercy-GOD-forever-praise-forever-done-wait-name-good-saints
+**Tags:** #wicked #deceitful-tongue #god #righteous-trust
 
 ---
 

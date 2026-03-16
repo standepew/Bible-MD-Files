@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Righteousness, Prosperity of Wicked, Divine Compassion, Christ's Restoration
 
-**Tags:** #Righteous-LORD-plead-talk-judgments-way-wicked-prosper-happy-deal-treacherously-planted-taken-root-grow-fruit-near-mouth-far-reins-LORD-knowest-seen-tried-heart-pull-sheep-slaughter-prepare-day-slaughter-land-mourn-herbs-field-wither-wickedness-dwell-beasts-consumed-birds-shall-see-last-footmen-weary-contend-horses-land-peace-trusted-weary-swelling-Jordan-brethren-house-father-dealt-treacherously-called-multitude-believe-fair-words-forsaken-house-left-heritage-given-dearly-beloved-soul-hand-enemies-heritage-lion-forest-crieth-hated-speckled-bird-birds-round-assemble-beasts-field-devour-pastors-destroyed-vineyard-trodden-portion-foot-pleasant-portion-desolate-wilderness-desolate-mourneth-land-desolate-man-layeth-heart-spoilers-high-places-wilderness-sword-LORD-devour-end-land-end-land-flesh-peace-sown-wheat-reap-thorns-pain-profit-ashamed-revenues-fierce-anger-LORD-LORD-evil-neighbours-touch-inheritance-people-Israel-inherit-pluck-land-pluck-house-Judah-plucked-return-compassion-bring-man-heritage-man-land-diligently-learn-ways-people-swear-name-LORD-liveth-taught-people-swear-Baal-built-midst-people-obey-utterly-pluck-destroy-nation-LORD
+**Tags:** #christ #prosperity-of-wicked #divine-compassion
 
 ---
 

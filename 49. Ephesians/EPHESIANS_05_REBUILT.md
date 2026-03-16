@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Walk in Love, Children of Light, Wise Living, Marriage and Christ
 
-**Tags:** #followers-God-dear-children-walk-love-Christ-loved-given-offering-sacrifice-God-sweetsmelling-savour-fornication-uncleanness-covetousness-named-saints-filthiness-foolish-talking-jesting-convenient-giving-thanks-know-whoremonger-unclean-person-covetous-man-idolater-inheritance-kingdom-Christ-God-deceive-vain-words-wrath-God-children-disobedience-partakers-darkness-light-Lord-children-light-fruit-Spirit-goodness-righteousness-truth-proving-acceptable-Lord-fellowship-unfruitful-works-darkness-reprove-shame-speak-things-secret-reproved-manifest-light-manifest-light-saith-Awake-sleepest-arise-dead-Christ-give-light-walk-circumspectly-fools-wise-redeeming-time-days-evil-unwise-understanding-will-Lord-drunk-wine-excess-filled-Spirit-speaking-psalms-hymns-spiritual-songs-singing-melody-heart-Lord-giving-thanks-things-God-Father-name-Lord-Jesus-Christ-submitting-fear-God-Wives-submit-husbands-Lord-husband-head-wife-Christ-head-church-saviour-body-church-subject-Christ-wives-husbands-Husbands-love-wives-Christ-loved-church-gave-sanctify-cleanse-washing-water-word-present-glorious-church-spot-wrinkle-holy-blemish-love-wives-bodies-loveth-wife-hated-flesh-nourish-cherish-Lord-church-members-body-flesh-bones-cause-leave-father-mother-joined-wife-flesh-mystery-speak-Christ-church-love-wife-reverence-husband
+**Tags:** #walk-in-love #children-of-light #wise-living #marriage-and-christ
 
 ---
 

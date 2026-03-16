@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Greater Glory, Divine Encouragement, God's Presence, Future Blessing
 
-**Tags:** #seventh-month-twenty-first-day-month-word-LORD-prophet-Haggai-Zerubbabel-son-Shealtiel-governor-Judah-Joshua-son-Josedech-high-priest-residue-people-left-house-first-glory-eyes-comparison-nothing-strong-Zerubbabel-LORD-strong-Joshua-son-Josedech-high-priest-strong-people-land-LORD-work-LORD-covenanted-Egypt-spirit-remain-fear-LORD-hosts-shake-heavens-earth-sea-dry-land-shake-nations-desire-nations-come-fill-house-glory-LORD-hosts-silver-mine-gold-mine-LORD-hosts-glory-latter-house-greater-former-LORD-hosts-place-peace-LORD-hosts-twentieth-day-ninth-month-second-year-Darius-LORD-Haggai-prophet-LORD-hosts-Ask-priests-law-bear-holy-flesh-skirt-garment-skirt-touch-bread-pottage-wine-oil-meat-holy-priests-answered-unclean-Haggai-unclean-dead-body-touch-priests-answered-unclean-Haggai-people-nation-LORD-work-hands-offer-unclean-consider-day-upward-stone-laid-stone-temple-LORD-days-heap-twenty-measures-ten-pressfat-draw-fifty-vessels-press-twenty-smote-blasting-mildew-hail-labours-hands-turned-LORD-consider-day-upward-twentieth-day-ninth-month-four-twentieth-day-foundation-LORD-temple-laid-consider-seed-barn-yet-vine-fig-tree-pomegranate-olive-tree-brought-forth-day-bless-word-LORD-twentieth-day-month-Zerubbabel-governor-Judah-shake-heavens-earth-overthrow-throne-kingdoms-destroy-strength-kingdoms-heathen-overthrow-chariots-ride-horses-riders-sword-brother-day-LORD-hosts-Zerubbabel-servant-son-Shealtiel-LORD-signet-chosen-LORD-hosts
+**Tags:** #christ #divine-encouragement #god #future-blessing
 
 ---
 

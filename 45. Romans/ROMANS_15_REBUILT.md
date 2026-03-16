@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Bearing with the Weak, Christ's Example, Unity in Worship, Paul's Ministry Plans
 
-**Tags:** #strong-bear-infirmities-weak-please-ourselves-please-neighbour-good-edification-Christ-pleased-written-reproaches-reproached-fell-written-aforetime-written-learning-patience-comfort-scriptures-hope-God-patience-consolation-grant-likeminded-Christ-Jesus-mind-mouth-glorify-God-Father-Lord-Jesus-Christ-receive-Christ-received-glory-God-Jesus-Christ-minister-circumcision-truth-God-confirm-promises-fathers-Gentiles-glorify-God-mercy-written-confess-Gentiles-sing-name-Rejoice-Gentiles-people-Praise-Lord-Gentiles-laud-people-Esaias-root-Jesse-rise-reign-Gentiles-Gentiles-trust-God-hope-fill-joy-peace-believing-abound-hope-power-Holy-Ghost-persuaded-brethren-goodness-filled-knowledge-admonish-boldly-written-reminding-grace-God-minister-Jesus-Christ-Gentiles-ministering-gospel-God-offering-Gentiles-acceptable-sanctified-Holy-Ghost-glory-Jesus-Christ-pertain-God-dare-speak-Christ-wrought-Gentiles-obedient-word-deed-mighty-signs-wonders-power-Spirit-God-Jerusalem-round-Illyricum-fully-preached-gospel-Christ-strived-preach-gospel-Christ-named-build-foundation-written-spoken-see-heard-understand-hindered-coming-place-parts-desire-years-journey-Spain-journey-company-Jerusalem-minister-saints-pleased-Macedonia-Achaia-contribution-poor-saints-Jerusalem-pleased-debtors-Gentiles-partakers-spiritual-duty-minister-carnal-performed-sealed-fruit-Spain-fulness-blessing-gospel-Christ-beseech-brethren-Lord-Jesus-Christ-love-Spirit-strive-prayers-God-delivered-believe-Judaea-service-Jerusalem-accepted-saints-joy-will-God-refreshed-God-peace
+**Tags:** #bearing-with-the-weak #christ #unity-in-worship #paul
 
 ---
 

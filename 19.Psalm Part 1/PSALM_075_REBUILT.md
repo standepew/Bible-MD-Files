@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Divine Judgment, God's Sovereignty, Cup of Wrath, Horns of Righteous
 
-**Tags:** #chief-Musician-Al-taschith-Psalm-Song-Asaph-GOD-give-thanks-name-near-wondrous-works-declare-receive-congregation-judge-uprightly-earth-inhabitants-dissolved-bear-pillars-Selah-said-fools-Deal-foolishly-wicked-Lift-horn-Lift-horn-high-speak-stiff-neck-promotion-east-west-south-GOD-judge-putteth-setteth-hand-LORD-cup-wine-red-full-mixture-poureth-dregs-wicked-earth-wring-drink-declare-forever-sing-praises-GOD-Jacob-horns-wicked-cut-horns-righteous-exalted
+**Tags:** #divine-judgment #god #cup-of-wrath #horns-of-righteous
 
 ---
 

@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Divine Favor, Forgiveness, Spiritual Revival, Peace and Righteousness
 
-**Tags:** #chief-Musician-Psalm-sons-Korah-LORD-favourable-land-brought-captivity-Jacob-forgiven-iniquity-people-covered-sin-Selah-taken-wrath-turned-fierceness-anger-Turn-GOD-salvation-cause-anger-cease-angry-forever-draw-anger-generations-revive-people-rejoice-Shew-mercy-LORD-grant-salvation-hear-GOD-LORD-speak-speak-peace-people-saints-turn-folly-salvation-nigh-fear-glory-dwell-land-Mercy-truth-met-righteousness-peace-kissed-Truth-spring-earth-righteousness-look-heaven-LORD-give-good-land-yield-increase-Righteousness-way-steps
+**Tags:** #divine-favor #forgiveness #spiritual-revival #peace-and-righteousness
 
 ---
 

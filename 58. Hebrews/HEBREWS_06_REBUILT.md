@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Going on to Perfection, Warning Against Apostasy, The Example of Abraham, God's Promise and Oath, Hope as Anchor
 
-**Tags:** #leaving-principles-doctrine-Christ-perfection-foundation-repentance-dead-works-faith-God-doctrine-baptisms-laying-hands-resurrection-dead-eternal-judgment-permit-impossible-enlightened-tasted-heavenly-gift-partakers-Holy-Ghost-tasted-good-word-God-powers-world-fall-away-renew-repentance-crucify-Son-God-afresh-open-shame-earth-drinketh-rain-bringeth-herbs-dressed-receiveth-blessing-God-beareth-thorns-briers-rejected-nigh-cursing-end-burned-beloved-persuaded-better-things-accompany-salvation-speak-God-unrighteous-forget-work-labour-love-shewed-name-ministered-saints-minister-desire-diligence-full-assurance-hope-end-slothful-followers-faith-patience-inherit-promises-God-promise-Abraham-swear-greater-sware-himself-blessing-bless-multiplying-multiply-patiently-endured-obtained-promise-men-swear-greater-oath-confirmation-strife-God-willing-abundantly-heirs-promise-immutability-counsel-confirmed-oath-two-immutable-things-impossible-God-lie-strong-consolation-fled-refuge-lay-hold-hope-set-anchor-soul-sure-stedfast-entereth-veil-forerunner-entered-Jesus-high-priest-order-Melchisedec
+**Tags:** #going-on-to-perfection #warning-against-apostasy #the-example-of-abraham #god #hope-as-anchor
 
 ---
 

@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Two Ways, Blessed Man, Tree vs. Chaff, Divine Judgment
 
-**Tags:** #blessed-man-walketh-counsel-ungodly-standeth-way-sinners-sitteth-seat-scornful-delight-law-LORD-meditate-day-night-tree-planted-rivers-water-fruit-season-leaf-wither-prosper #ungodly-chaff-wind-driveth-judgment-congregation-righteous-LORD-knoweth-way-righteous-ungodly-perish
+**Tags:** #two-ways #blessed-man #tree-vs-chaff #divine-judgment
 
 ---
 

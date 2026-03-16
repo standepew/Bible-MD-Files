@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Prophetic Message, National Covenant, Religious Renewal, Divine Peace
 
-**Tags:** #Spirit-God-Azariah-son-Oded #went-meet-Asa-Judah-Benjamin-LORD-seek-found-forsake-forsake #long-season-Israel-true-God-teaching-priest-law #trouble-turn-LORD-God-Israel-sought-found #times-peace-great-vexations-inhabitants-countries #nation-destroyed-nation-city-city-God-vexed-adversity #strong-hands-weak-work-rewarded #Asa-heard-words-prophecy-Oded-prophet-took-courage-abominable-idols-land-Judah-Benjamin-cities-mount-Ephraim-renewed-altar-LORD-porch-LORD #gathered-Judah-Benjamin-strangers-Ephraim-Manasseh-Simeon-fell-Israel-abundance-LORD-God #gathered-Jerusalem-third-month-fifteenth-year-reign-Asa #offered-LORD-spoil-seven-hundred-oxen-seven-thousand-sheep #covenant-seek-LORD-God-fathers-heart-soul #whosoever-seek-LORD-God-Israel-put-death-small-great-man-woman #sware-LORD-loud-voice-shouting-trumpets-cornets #Judah-rejoiced-oath-sworn-heart-sought-whole-desire-found-LORD-gave-rest #Maachah-mother-Asa-king-removed-queen-idol-grove-Asa-cut-idol-stamped-burnt-brook-Kidron #high-places-Israel-heart-Asa-perfect-days #brought-house-God-things-father-dedicated-dedicated-silver-gold-vessels #war-five-thirtieth-year-reign-Asa
+**Tags:** #Spirit-God-Azariah-son-Oded #strong-hands-weak-work-rewarded #prophetic-message #national-covenant #religious-renewal #divine-peace
 
 ---
 

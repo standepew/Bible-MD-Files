@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Conquest of Nineveh, Divine Judgment, Lion's Defeat, Complete Destruction
 
-**Tags:** #dasheth-pieces-face-keep-munition-watch-way-loins-strong-fortify-power-mightily-LORD-turned-excellency-Jacob-excellency-Israel-emptiers-emptied-marred-vine-branches-shield-mighty-men-red-valiant-men-scarlet-chariots-flaming-torches-day-preparation-fir-trees-terribly-shaken-chariots-rage-streets-justle-broad-ways-torches-lightnings-recount-worthies-stumble-walk-haste-wall-defence-prepared-gates-rivers-opened-palace-dissolved-Huzzab-led-captive-brought-maids-lead-voice-doves-tabering-breasts-Nineveh-pool-water-flee-stand-stand-cry-look-spoil-silver-spoil-gold-end-store-glory-pleasant-furniture-empty-void-waste-heart-melteth-knees-smite-pain-loins-faces-gather-blackness-dwelling-lions-feedingplace-young-lions-lion-old-lion-walked-lion-whelp-afraid-lion-tear-pieces-whelps-strangled-lionesses-filled-holes-prey-dens-ravin-behold-LORD-hosts-burn-chariots-smoke-sword-devour-young-lions-cut-prey-earth-voice-messengers-heard
+**Tags:** #christ #divine-judgment #lion #complete-destruction
 
 ---
 

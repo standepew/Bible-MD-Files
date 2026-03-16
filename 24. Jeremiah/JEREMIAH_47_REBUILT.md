@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Judgment, Philistines' Defeat, Divine Overflow, Christ's Sword
 
-**Tags:** #word-LORD-Jeremiah-prophet-Philistines-Pharaoh-smote-Gaza-LORD-waters-rise-north-overflowing-flood-overflow-land-city-dwell-men-cry-inhabitants-land-howl-noise-stamping-hoofs-strong-horses-rushing-chariots-rumbling-wheels-fathers-children-feebleness-hands-day-spoil-Philistines-cut-Tyrus-Zidon-helper-remain-LORD-spoil-Philistines-remnant-country-Caphtor-baldness-Gaza-Ashkelon-cut-remnant-valley-cut-sword-LORD-quiet-scabbard-rest-quiet-seeing-LORD-charge-Ashkelon-sea-shore-appointed
+**Tags:** #christ #philistines #divine-overflow
 
 ---
 

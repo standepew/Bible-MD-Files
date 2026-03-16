@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Eternal Love, Spiritual Security, Divine Seal, Perfect Union
 
-**Tags:** #brother-sucked-breasts-mother-find-without-kiss-despised-lead-bring-mother-house-instruct-drink-spiced-wine-juice-pomegranate-left-hand-head-right-hand-embrace-charge-daughters-Jerusalem-stir-awake-love-please-wilderness-leaning-beloved-raised-apple-tree-mother-brought-forth-brought-bare-Set-seal-heart-seal-arm-love-strong-death-jealousy-cruel-grave-coals-fire-vehement-flame-waters-quench-love-floods-drown-man-give-substance-house-love-utterly-contemned-little-sister-breasts-spoken-wall-build-palace-silver-door-inclose-boards-cedar-wall-breasts-towers-eyes-favour-Solomon-vineyard-Baal-hamon-keepers-fruit-thousand-pieces-silver-vineyard-mine-Solomon-thousand-keepers-fruit-two-hundred-dwellest-gardens-companions-hearken-voice-hear-Make-haste-beloved-roe-young-hart-mountains-spices
+**Tags:** #eternal-love #spiritual-security #divine-seal #perfect-union
 
 ---
 

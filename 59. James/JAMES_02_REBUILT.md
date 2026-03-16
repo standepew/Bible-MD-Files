@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** No Respect of Persons, The Royal Law of Love, Faith and Works, Examples of Living Faith
 
-**Tags:** #brethren-faith-Lord-Jesus-Christ-Lord-glory-respect-persons-assembly-man-gold-ring-goodly-apparel-poor-man-vile-raiment-respect-gay-clothing-sit-good-place-poor-stand-footstool-partial-judges-evil-thoughts-beloved-brethren-God-chosen-poor-world-rich-faith-heirs-kingdom-promised-love-despised-poor-rich-men-oppress-judgment-seats-blaspheme-worthy-name-fulfil-royal-law-scripture-love-neighbour-well-respect-persons-commit-sin-convinced-law-transgressors-keep-whole-law-offend-point-guilty-commit-adultery-kill-transgressor-law-speak-judged-law-liberty-judgment-mercy-shewed-mercy-mercy-rejoiceth-judgment-profit-brethren-faith-works-works-save-brother-sister-naked-destitute-daily-food-depart-peace-warmed-filled-not-needful-body-profit-faith-works-dead-alone-faith-works-shew-faith-works-shew-faith-works-believest-one-God-devils-believe-tremble-vain-man-faith-works-dead-Abraham-father-justified-works-offered-Isaac-son-altar-seest-faith-wrought-works-works-faith-perfect-scripture-fulfilled-Abraham-believed-God-imputed-righteousness-called-Friend-God-works-justified-faith-Rahab-harlot-justified-works-received-messengers-sent-body-spirit-dead-faith-works-dead
+**Tags:** #no-respect-of-persons #the-royal-law-of-love #faith-and-works #examples-of-living-faith
 
 ---
 

@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Judgment, Spiritual Blindness, Divine Sorrow, Christ's Healing
 
-**Tags:** #time-LORD-bones-kings-Judah-bones-princes-bones-priests-bones-prophets-bones-inhabitants-Jerusalem-graves-spread-sun-moon-host-heaven-loved-served-walked-sought-worshipped-gathered-buried-dung-face-earth-death-chosen-life-residue-remain-evil-family-remain-places-driven-LORD-hosts-Shall-fall-arise-turn-return-people-Jerusalem-slidden-perpetual-backsliding-hold-fast-deceit-refuse-return-hearkened-heard-spake-aright-repented-wickedness-turned-course-horse-rusheth-battle-stork-heaven-appointed-times-turtle-crane-swallows-observe-coming-people-judgment-LORD-wise-law-LORD-vain-pen-scribes-vain-wise-men-ashamed-dismayed-taken-rejected-word-LORD-wisdom-give-wives-others-fields-inherit-least-greatest-covetousness-prophet-priest-dealeth-falsely-healed-hurt-daughter-people-slightly-Peace-peace-ashamed-committed-abomination-ashamed-blush-fall-fall-time-visitation-cast-LORD-consume-grapes-vine-figs-fig-tree-leaf-fade-pass-sit-still-assemble-defenced-cities-silent-LORD-God-silence-water-gall-drink-sinned-LORD-looked-peace-good-time-health-trouble-snorting-horses-heard-Dan-land-trembled-sound-neighing-strong-devoured-land-city-dwell-serpents-cockatrices-charmed-bite-LORD-comfort-sorrow-heart-faint-voice-cry-daughter-people-dwell-far-country-LORD-Zion-king-provoked-anger-graven-images-strange-vanities-harvest-past-summer-ended-saved-hurt-daughter-people-hurt-black-astonishment-balm-Gilead-physician-health-daughter-people-recovered
+**Tags:** #christ #spiritual-blindness #divine-sorrow
 
 ---
 

@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Testing the Spirits, God is Love, Christ's Coming in the Flesh, Love Perfected Among Us, Boldness in Judgment
 
-**Tags:** #Beloved-believe-spirit-spirits-whether-God-false-prophets-gone-world-know-Spirit-God-spirit-confesseth-Jesus-Christ-come-flesh-God-spirit-confesseth-Jesus-Christ-come-flesh-God-spirit-antichrist-heard-should-come-world-children-overcome-greater-world-speak-world-world-heareth-God-knoweth-God-heareth-God-heareth-not-know-spirit-truth-spirit-error-love-another-love-God-loveth-born-God-knoweth-God-loveth-knoweth-God-love-manifested-love-God-sent-begotten-Son-world-live-Herein-love-loved-God-loved-Son-propitiation-sins-loved-love-another-seen-God-love-another-God-dwelleth-love-perfected-know-dwell-given-Spirit-seen-testify-Father-sent-Son-Saviour-world-confess-Jesus-Son-God-dwell-known-believed-love-God-love-dwelleth-love-God-love-perfect-boldness-judgment-fear-love-perfect-love-casteth-fear-fear-torment-feareth-perfect-love-loved-first-loved-commandment-loveth-God-love-brother
+**Tags:** #testing-the-spirits #god-is-love #christ #love-perfected-among-us #boldness-in-judgment
 
 ---
 

@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** The Appointment of Seven Deacons, Stephen's Ministry, Stephen's Arrest
 
-**Tags:** #days-number-disciples-multiplied-arose-murmuring-Grecians-Hebrews-widows-neglected-daily-ministration-twelve-called-multitude-disciples-reason-leave-word-God-serve-tables-brethren-look-seven-men-honest-report-full-Holy-Ghost-wisdom-appoint-business-give-prayer-ministry-word-saying-pleased-multitude-chose-Stephen-man-faith-Holy-Ghost-Philip-Prochorus-Nicanor-Timon-Parmenas-Nicolas-proselyte-Antioch-set-apostles-prayed-laid-hands-word-God-increased-number-disciples-multiplied-Jerusalem-greatly-company-priests-obedient-faith-Stephen-faith-power-great-wonders-miracles-people-arose-synagogue-called-synagogue-Libertines-Cyrenians-Alexandrians-Cilicia-Asia-disputing-Stephen-resist-wisdom-spirit-spake-suborned-men-heard-speak-blasphemous-words-Moses-God-stirred-people-elders-scribes-came-caught-brought-council-false-witnesses-man-ceaseth-speak-blasphemous-words-holy-place-law-heard-say-Jesus-Nazareth-destroy-place-change-customs-Moses-delivered-sat-council-looking-stedfastly-face-face-angel
+**Tags:** #the-appointment-of-seven-deacons #stephen
 
 ---
 

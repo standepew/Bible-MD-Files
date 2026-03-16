@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Judgment, Wicked Counselors, Divine Restoration, Christ's Heart
 
-**Tags:** #spirit-lifted-east-gate-LORD-house-eastward-door-gate-five-twenty-men-Jaazaniah-son-Azur-Pelatiah-son-Benaiah-princes-people-devise-mischief-wicked-counsel-city-near-build-houses-city-caldron-flesh-prophesy-son-man-Spirit-LORD-fell-Speak-LORD-house-Israel-know-things-mind-multiplied-slain-city-filled-streets-slain-Lord-GOD-slain-midst-flesh-city-caldron-bring-midst-feared-sword-bring-sword-Lord-GOD-bring-midst-deliver-hands-strangers-execute-judgments-fall-sword-judge-border-Israel-know-LORD-city-caldron-flesh-midst-judge-border-Israel-know-LORD-walked-statutes-executed-judgments-manners-heathen-round-prophesied-Pelatiah-son-Benaiah-died-fell-face-cried-loud-voice-Lord-GOD-full-end-remnant-Israel-word-LORD-son-man-brethren-kindred-house-Israel-wholly-inhabitants-Jerusalem-far-LORD-land-possession-Lord-GOD-cast-heathen-scattered-countries-little-sanctuary-countries-come-Lord-GOD-gather-people-assemble-countries-scattered-land-Israel-thither-take-detestable-things-abominations-thence-heart-new-spirit-stony-heart-flesh-heart-flesh-walk-statutes-keep-ordinances-people-GOD-heart-walk-heart-detestable-things-abominations-recompense-way-heads-Lord-GOD-cherubims-lift-wings-wheels-beside-glory-God-Israel-cherubims-lift-wheels-glory-LORD-midst-city-stood-mountain-east-side-city-spirit-vision-Spirit-God-Chaldea-captivity-vision-seen-went-spake-captivity-things-LORD-shewed
+**Tags:** #christ #wicked-counselors #divine-restoration
 
 ---
 

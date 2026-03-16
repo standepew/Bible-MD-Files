@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Prayer for Deliverance, Divine Hiddenness, Trust in Mercy, Joyful Thanksgiving
 
-**Tags:** #chief-Musician-Psalm-David-long-forget-LORD-forever-hide-face-soul-counsel-sorrow-heart-daily-enemy-exalted-consider-hear-GOD-lighten-eyes-sleep-death #enemy-prevailed-trouble-rejoice-moved-trusted-mercy-heart-rejoice-salvation-sing-LORD-dealt-bountifully
+**Tags:** #prayer-for-deliverance #divine-hiddenness #trust-in-mercy #joyful-thanksgiving
 
 ---
 

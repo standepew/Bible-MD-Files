@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Blessed Man, Generational Blessing, Righteous Character, Eternal Security
 
-**Tags:** #Praise-LORD-Blessed-man-feareth-LORD-delighteth-commandments-seed-mighty-earth-generation-upright-blessed-Wealth-riches-house-righteousness-endureth-forever-upright-arises-light-darkness-gracious-full-compassion-righteous-good-man-sheweth-favour-lendeth-guide-affairs-discretion-moved-forever-righteous-everlasting-remembrance-afraid-evil-tidings-heart-fixed-trusting-LORD-heart-established-afraid-desire-enemies-dispersed-given-poor-righteousness-endureth-horn-exalted-honour-wicked-grieved-gnash-teeth-melt-desire-wicked-perish
+**Tags:** #blessed-man #generational-blessing #righteous-character #eternal-security
 
 ---
 

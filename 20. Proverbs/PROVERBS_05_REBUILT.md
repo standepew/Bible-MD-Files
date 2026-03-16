@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Marital Faithfulness, Avoiding Adultery, Wisdom's Warning, Consequences of Sin
 
-**Tags:** #son-attend-wisdom-bow-ear-understanding-regard-discretion-lips-keep-knowledge-lips-strange-woman-drop-honeycomb-mouth-smoother-oil-end-bitter-wormwood-sharp-twoedged-sword-feet-death-steps-hell-ponder-path-life-ways-moveable-know-Hear-children-depart-words-mouth-Remove-way-far-come-nigh-door-house-Lest-give-honour-others-years-cruel-strangers-filled-wealth-labours-house-stranger-mourn-last-flesh-body-consumed-hated-instruction-heart-despised-reproof-obeyed-voice-teachers-inclined-ear-instructed-almost-evil-midst-congregation-assembly-Drink-waters-cistern-running-waters-well-fountains-dispersed-abroad-rivers-waters-streets-thine-own-strangers-Rejoice-wife-youth-loving-hind-pleasant-roe-breasts-satisfy-times-ravished-love-ravished-strange-woman-embrace-bosom-stranger-ways-man-eyes-LORD-pondereth-goings-iniquities-take-wicked-holden-cords-sins-die-without-instruction-greatness-folly-astray
+**Tags:** #marital-faithfulness #avoiding-adultery #wisdom #consequences-of-sin
 
 ---
 

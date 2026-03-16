@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Trust in God, Fear vs. Faith, Divine Protection, Prayer and Praise
 
-**Tags:** #chief-Musician-Jonath-elem-rechokim-Michtam-David-Philistines-took-Gath-merciful-GOD-man-swallow-fighting-daily-oppresseth-mine-enemies-daily-swallow-fight-High-afraid-trust-GOD-praise-word-GOD-trust-fear-flesh-every-day-wrest-words-thoughts-evil-gather-hide-mark-steps-wait-soul-escape-iniquity-anger-cast-people-GOD-tellest-wanderings-put-tears-bottle-book-cry-enemies-turn-back-know-GOD-praise-word-LORD-praise-word-trust-afraid-man-vows-render-praises-delivered-soul-death-deliver-feet-falling-walk-GOD-light-living
+**Tags:** #trust-in-god #fear-vs-faith #divine-protection #prayer-and-praise
 
 ---
 

@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Covenant with Levi, Priestly Corruption, Marriage Faithfulness, God's Justice
 
-**Tags:** #priests-commandment-hear-lay-heart-glory-name-LORD-hosts-send-curse-curse-blessings-cursed-lay-heart-behold-corrupt-seed-spread-dung-faces-dung-solemn-feasts-take-commandment-covenant-Levi-LORD-hosts-covenant-life-peace-fear-feared-name-law-truth-mouth-iniquity-lips-walked-peace-equity-turn-iniquity-priest-lips-keep-knowledge-seek-law-messenger-LORD-hosts-departed-way-caused-stumble-law-corrupted-covenant-Levi-LORD-hosts-contemptible-base-people-kept-ways-partial-law-father-God-created-deal-treacherously-brother-profaning-covenant-fathers-Judah-dealt-treacherously-abomination-Israel-Jerusalem-Judah-profane-holiness-LORD-loved-married-daughter-strange-god-LORD-cut-man-master-scholar-tabernacles-Jacob-offering-LORD-hosts-again-covering-altar-LORD-tears-weeping-crying-regard-offering-good-will-hand-Wherefore-LORD-witness-wife-youth-dealt-treacherously-companion-wife-covenant-make-one-residue-spirit-wherefore-one-seek-godly-seed-take-heed-spirit-deal-treacherously-wife-youth-LORD-God-Israel-hateth-putting-cover-violence-garment-LORD-hosts-take-heed-spirit-treacherously-wearied-LORD-words-Wherein-wearied-evil-good-sight-LORD-delight-God-judgment
+**Tags:** #christ #priestly-corruption #marriage-faithfulness #god
 
 ---
 

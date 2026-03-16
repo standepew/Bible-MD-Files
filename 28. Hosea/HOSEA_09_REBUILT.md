@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Judgment, Spiritual Barrenness, Prophetic Failure, Divine Abandonment
 
-**Tags:** #Rejoice-Israel-joy-people-whoring-God-loved-reward-cornfloor-floor-winepress-feed-new-wine-fail-dwell-LORD-land-Ephraim-return-Egypt-eat-unclean-Assyria-offer-wine-offerings-LORD-pleasing-sacrifices-bread-mourners-eat-polluted-bread-soul-house-LORD-solemn-day-feast-LORD-gone-destruction-Egypt-gather-Memphis-bury-pleasant-silver-nettles-possess-thorns-tabernacles-days-visitation-days-recompence-Israel-know-prophet-fool-spiritual-man-mad-multitude-iniquity-great-hatred-watchman-Ephraim-God-prophet-snare-fowler-ways-hatred-house-God-deeply-corrupted-days-Gibeah-remember-iniquity-visit-sins-found-Israel-grapes-wilderness-fathers-firstripe-fig-tree-first-time-Baal-peor-separated-shame-abominations-loved-Ephraim-glory-fly-bird-birth-womb-conception-bring-children-bereave-man-left-woe-depart-planted-pleasant-place-bring-children-murderer-LORD-give-miscarrying-womb-dry-breasts-wickedness-Gilgal-hated-wickedness-doings-drive-house-love-princes-revolters-Ephraim-smitten-root-dried-bear-fruit-bring-slay-beloved-fruit-womb-God-cast-hearken-wanderers-nations
+**Tags:** #christ #spiritual-barrenness #prophetic-failure #divine-abandonment
 
 ---
 

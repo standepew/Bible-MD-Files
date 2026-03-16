@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** God's Reign, Divine Majesty, Eternal Throne, God's Power
 
-**Tags:** #LORD-reigneth-clothed-majesty-LORD-clothed-strength-girded-world-stablished-moved-throne-established-old-everlasting-floods-lift-LORD-floods-lift-voice-floods-lift-waves-LORD-high-mightier-noise-many-waters-mighty-waves-sea-testimonies-sure-holiness-becometh-house-LORD-forever
+**Tags:** #god #divine-majesty #eternal-throne
 
 ---
 

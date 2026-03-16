@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Job's Defense, Faith in God, Desire for Dialogue, Self-Examination
 
-**Tags:** #eye-seen-ear-heard-understood #know-inferior-Almighty-reason-GOD #forgers-lies-physicians-value #hold-peace-wisdom #reasoning-pleadings-lips #speak-wickedly-deceitfully #accept-person-contend-GOD #search-mock-reprove-secretly-accept-persons #excellency-afraid-dread #remembrances-ashes-bodies-clay #hold-peace-alone-speak-flesh-teeth-life-hand #slay-trust-maintain-ways-salvation-hypocrite #diligently-speech-declaration-ears #ordered-cause-justified-plead-tongue-ghost #two-things-hide-withdraw-hand-dread-afraid #call-answer-speak-answer #iniquities-sins-transgression-sin #hidest-face-enemy-leaf-stubble #writest-bitter-youth-iniquities-feet-stocks-paths-print-heels #rotten-consumeth-garment-moth-eaten
+**Tags:** #eye-seen-ear-heard-understood #know-inferior-Almighty-reason-GOD #forgers-lies-physicians-value #hold-peace-wisdom #reasoning-pleadings-lips #speak-wickedly-deceitfully #accept-person-contend-GOD #excellency-afraid-dread #remembrances-ashes-bodies-clay #diligently-speech-declaration-ears #call-answer-speak-answer #iniquities-sins-transgression-sin #hidest-face-enemy-leaf-stubble #rotten-consumeth-garment-moth-eaten #job #faith-in-god #desire-for-dialogue #selfexamination
 
 ---
 
