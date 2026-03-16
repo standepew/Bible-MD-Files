@@ -228,4 +228,29 @@ God speaks directly to all the people: the Ten Commandments. He opens with His i
 
 ## SYMBOLIC THREADS
 
-*No distinct symbolic threads requiring cross-reference definition in this chapter. See cross-references above for scripture-interpreting-scripture connections.*
+**The Two Tables / The Two Loves:**
+- First appears: Exodus 20:1-17 — Ten Commandments given in two groups: commandments 1-4 govern the relationship to God; commandments 5-10 govern the relationship to neighbor
+- Deuteronomy 9:10 — "the LORD delivered unto me two tables of stone written with the finger of God" — physically two tablets; the division was not arbitrary
+- Matthew 22:37-40 — Jesus: "Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind. This is the first and great commandment. And the second is like unto it, Thou shalt love thy neighbour as thyself. On these two commandments hang all the law and the prophets" — Jesus reduces ten to two, exactly along the same division
+- Romans 13:9 — "For this, Thou shalt not commit adultery, Thou shalt not kill, Thou shalt not steal, Thou shalt not bear false witness, Thou shalt not covet; and if there be any other commandment, it is briefly comprehended in this saying, namely, Thou shalt love thy neighbour as thyself" — the second table summarized in neighbor-love
+- 1 John 4:20 — "If a man say, I love God, and hateth his brother, he is a liar" — the two tables cannot be separated; love of God and love of neighbor are inseparable in Scripture
+- *Pattern:* The two-table structure of the Decalogue runs through Scripture as the two-love summary. The entire moral law hangs on two loves; to fail in one table is to fail in both. Jesus' summary in Matthew 22 is not a simplification of the Law — it is the revelation of the Law's inner architecture.
+
+**The Name of the LORD:**
+- First established in Exodus 3:14-15 — "I AM THAT I AM... The LORD God of your fathers" — the name is the covenant identity of God
+- Exodus 20:7 — "Thou shalt not take the name of the LORD thy God in vain" — the covenant name is protected by the third commandment; bearing the name carries weight and responsibility
+- Leviticus 24:16 — "he that blasphemeth the name of the LORD, he shall surely be put to death" — the name carried capital weight under the Mosaic covenant
+- Ezekiel 36:21-23 — "I had pity for mine holy name, which the house of Israel had profaned among the heathen... I will sanctify my great name, which was profaned among the heathen... and the heathen shall know that I am the LORD" — Israel carried the name into captivity and profaned it; God acts to vindicate His own name
+- Matthew 6:9 — "Hallowed be thy name" — the Lord's Prayer opens with the request that what the third commandment forbids might be replaced by its positive fulfillment: the name treated as holy
+- John 17:6, 26 — "I have manifested thy name unto the men which thou gavest me... I have declared unto them thy name" — Jesus declares He came to manifest and declare the Father's name; He is the embodiment of what the name means
+- Philippians 2:9-10 — "God also hath highly exalted him, and given him a name which is above every name: That at the name of Jesus every knee should bow" — the name given to Christ is the fullness of what YHWH means; the third commandment finds its ultimate fulfillment in the proper honor given to the name of Jesus
+- *Pattern:* The Name of the LORD is the most repeated theme of the Exodus and the Prophets. God acts "for His name's sake" (Psalm 23:3; Ezekiel 36:22; Isaiah 48:9). The covenant name is carried by God's people — and their conduct either hallows or profanes it. Christ is the Name made flesh; to take His name in vain is the same third-commandment violation in its New Covenant form. The whole of Scripture is the story of God vindicating and hallowing His own name through the history of His people.
+
+**Jealousy / Zeal of God:**
+- Exodus 20:5 — "For I the LORD thy God am a jealous God" — the second commandment declares God's jealousy over His people's exclusive worship; the same Hebrew word (qanna) is used only for God, never for human jealousy in this covenantal sense
+- Exodus 34:14 — "For thou shalt worship no other god: for the LORD, whose name is Jealous, is a jealous God" — jealousy is not merely an attribute; it is embedded in His name
+- Numbers 25:11 — Phinehas "was zealous for my sake among them" — the human zeal of Phinehas mirrors God's own jealousy; he acts as God would act against covenant violation
+- Isaiah 9:7 — "The zeal of the LORD of hosts will perform this" — God's jealous zeal is the engine of the fulfillment of all covenant promises
+- John 2:17 — "The zeal of thine house hath eaten me up" — Jesus' cleansing of the temple; the disciples connect His action to Psalm 69:9; Christ embodies the jealousy of God for pure worship
+- 2 Corinthians 11:2 — "For I am jealous over you with godly jealousy: for I have espoused you to one husband, that I may present you as a chaste virgin to Christ" — Paul mirrors God's covenant jealousy in his apostolic care
+- *Pattern:* God's jealousy is the covenant form of His love — the fierce exclusive claim of a husband over his wife, of the Creator over His creature's worship. It is not insecurity but righteous covenant demand. Every act of idolatry provokes it; every act of genuine worship satisfies it. Christ's zeal for the Father's house (John 2:17) is the incarnate expression of the same jealousy declared in Exodus 20:5. The jealousy of God runs from Sinai to the cross to Revelation 19:2 where God avenges the blood of His servants.
