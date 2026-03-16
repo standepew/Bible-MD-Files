@@ -159,7 +159,51 @@ God commands Moses: on the first day of the first month of the second year, erec
 
 ## COMMONLY MISQUOTED PASSAGES
 
-*No passages in this chapter are commonly misquoted or frequently taken out of context in a way that distorts the chapter's meaning.*
+### Exodus 40:34-35 — "The Glory of the LORD Filled the Tabernacle" — Used to Demand Sensory Manifestations in Worship
+
+**Verses 34-35** — "Then a cloud covered the tent of the congregation, and the glory of the LORD filled the tabernacle. And Moses was not able to enter into the tent of the congregation, because the cloud abode thereon, and the glory of the LORD filled the tabernacle."
+
+**How it is misused:** This passage is used to argue that God's presence in a worship gathering must be confirmed by sensory manifestations — visible cloud, physical prostration, overwhelming phenomena — and that worship without such manifestations lacks genuine divine presence. The absence of visible phenomena is treated as evidence of God's absence.
+
+**What the text actually says:**
+- **1 Kings 8:10-11** — The cloud fills Solomon's Temple: the priests cannot stand to minister — but this is the dedication of a new covenant institution, not a template for every gathering
+- **Hebrews 10:19-22** — "Having therefore, brethren, boldness to enter into the holiest by the blood of Jesus... let us draw near with a true heart in full assurance of faith" — the New Covenant access is through faith, not through visible cloud phenomena; boldness is the promised posture, not prostration
+- **Matthew 18:20** — "For where two or three are gathered together in my name, there am I in the midst of them" — Christ's presence promised by His own word, not conditioned on visible manifestation
+- **John 4:23-24** — "But the hour cometh, and now is, when the true worshippers shall worship the Father in spirit and in truth: for the Father seeketh such to worship him. God is a Spirit: and they that worship him must worship him in spirit and in truth"
+
+*Correction:* The filling of the Tabernacle with glory was God's ratification of a newly constructed covenant institution — a once-at-inauguration event that also occurred at Solomon's Temple (1 Kings 8:10-11). These are decisive historical moments in the unfolding of God's dwelling among His people, not repeatable formulae for every assembly. The New Covenant does not promise visible cloud-phenomena for every gathering; it promises Christ's presence (Matthew 18:20) and the indwelling Spirit (1 Corinthians 6:19). John 4:23-24 establishes the New Covenant mode of genuine presence: in spirit and truth, not in visible phenomena. The absence of a physical cloud does not mean God's absence; it means God's mode of dwelling has changed from external cloud to internal Spirit.
+
+---
+
+### Exodus 40:36-37 — "When the Cloud Was Taken Up… They Journeyed Not" — Misread as Complete Passivity
+
+**Verses 36-37** — "And when the cloud was taken up from over the tabernacle, the children of Israel went onward in all their journeys: But if the cloud were not taken up, then they journeyed not till the day that it was taken up."
+
+**How it is misused:** The cloud-governance principle is used to justify complete inaction in planning — "I'm waiting for the cloud to move" — as a cover for passivity, indecision, or refusal to take responsibility. Every human decision about timing is deferred indefinitely to visible supernatural signs.
+
+**What the text actually says:**
+- **Numbers 9:17-23** — The full governing principle: "whether it were two days, or a month, or a year, that the cloud tarried upon the tabernacle, remaining thereon, the children of Israel abode in their tents, and journeyed not: but when it was taken up, they journeyed" — this is God governing a specific covenant nation's wilderness movements through a unique external sign; they still had to prepare, pack, and move when it lifted
+- **Proverbs 16:9** — "A man's heart deviseth his way: but the LORD directeth his steps" — human planning and divine direction operate together
+- **Acts 16:6-10** — The Spirit forbids Paul from going to Asia, redirects to Macedonia — divine guidance in the New Covenant comes through the Spirit's inner direction, not a visible cloud; Paul and company actively traveled and planned, receiving correction from the Spirit along the way
+- **Romans 8:14** — "For as many as are led by the Spirit of God, they are the sons of God" — led by the Spirit, not paralyzed by waiting for external signs
+
+*Correction:* The cloud-governance of the Tabernacle era was God's specific provision for a covenant nation in the wilderness — a unique external sign for a unique historical situation. The New Covenant equivalent is the indwelling Spirit guiding from within (Romans 8:14; John 16:13). Acts 16 shows what Spirit-led travel looks like in the New Covenant: Paul plans, moves, and receives course corrections from the Spirit as he goes — not passive waiting but active obedience responsive to the Spirit's guidance. Proverbs 16:9 holds both realities: human planning and divine direction are not opposites.
+
+---
+
+### Exodus 40:33 — "So Moses Finished the Work" — Disconnected from the New Creation Pattern
+
+**Verse 33** — "And he reared up the court round about the tabernacle and the altar, and set up the hanging of the court gate. So Moses finished the work."
+
+**How it is misused:** "Moses finished the work" is read as a purely biographical statement — Moses completed his assignment. The theological echo of Genesis 2:2 ("God ended his work") and the anticipation of John 19:30 ("It is finished") are not perceived, and the verse is treated as administrative closure rather than as a stage in the one redemptive narrative.
+
+**What the text actually says:**
+- **Genesis 2:1-2** — "Thus the heavens and the earth were finished... And on the seventh day God ended his work which he had made" — same formula; the Tabernacle completion is a new creation moment
+- **John 17:4** — Jesus prays: "I have finished the work which thou gavest me to do" — the same formula in the high-priestly prayer before the cross
+- **John 19:30** — "When Jesus therefore had received the vinegar, he said, It is finished: and he bowed his head, and gave up the ghost" — the final completion
+- **Hebrews 9:26** — "But now once in the end of the world hath he appeared to put away sin by the sacrifice of himself" — the once-for-all completion of what the Tabernacle's ongoing sacrifices only pointed toward
+
+*Correction:* "Moses finished the work" carries the weight of a carefully chosen phrase. The same word (kalah = to complete, finish) is used for God finishing creation (Genesis 2:2) and for Moses finishing the Tabernacle. Jesus uses the same theological framework for His own work ("I have finished the work" — John 17:4; "It is finished" — John 19:30). The Spirit threads one narrative of divine completion: God finished creating the world; Moses finished building God's earthly dwelling; Christ finished the work of redemption that the dwelling only symbolized. Each completion is real; each is also a stage pointing forward to the next. The Tabernacle's completion opens into Exodus 40:34 — the glory fills it. The cross's completion opens into the resurrection.
 
 ---
 
