@@ -16,6 +16,13 @@
 | III | The End Is The Beginning | [THE_END_IS_THE_BEGINNING.md](THE_END_IS_THE_BEGINNING.md) | Revelation as Genesis restored — one continuous story |
 | IV | The Bible: The Only Way Out | [THE_ONLY_WAY_OUT.md](THE_ONLY_WAY_OUT.md) | Forensic case — locked gears, land records, convergence proof |
 | V | You Can Know The Season | [YOU_CAN_KNOW_THE_SEASON.md](YOU_CAN_KNOW_THE_SEASON.md) | Complete end-times study with prophecy checklist |
+| VI | The Fig Tree and This Generation | [THE_FIG_TREE_AND_THIS_GENERATION.md](THE_FIG_TREE_AND_THIS_GENERATION.md) | Israel's restoration, fig tree symbol, generation measures, 1948 |
+| VII | What Is a Generation? | [WHAT_IS_A_GENERATION.md](WHAT_IS_A_GENERATION.md) | Cross-biblical word study: dor/genea, toledot, all 208 occurrences |
+| VIII | The 2027 Prophetic Framework — Master Q&A | [THE_2027_MASTER_QA.md](THE_2027_MASTER_QA.md) | Complete framework with skeptic Q&A, verified sources, call to action |
+| IX | The 2027 Framework — Concise Edition | [THE_2027_FRAMEWORK_CONCISE.md](THE_2027_FRAMEWORK_CONCISE.md) | 4 Non-Negotiable Facts + systematic methodology, ready for distribution |
+| X | Documented Power Networks | [DOCUMENTED_POWER_NETWORKS.md](DOCUMENTED_POWER_NETWORKS.md) | Verified research: LifeLog/Facebook, Epstein, Maxwell, MKUltra, Big Three |
+| XI | God's Promises to Those Who Endure | [GODS_PROMISES_TO_OVERCOMERS.md](GODS_PROMISES_TO_OVERCOMERS.md) | 35 promises from Genesis to Revelation — the complete inheritance |
+| XII | Revelation Unveiled | [REVELATION_UNVEILED.md](REVELATION_UNVEILED.md) | Complete verse-by-verse Revelation commentary applied to 2026 |
 
 ---
 
