@@ -208,7 +208,7 @@ Beseech, brethren, exhort, Lord, Jesus, received, walk, please, God, abound, com
 
 ### "Then we which are alive and remain shall be caught up together with them in the clouds"
 **Common misinterpretation:* This is about any ascension or spiritual experience
-**Biblical context:** This is about Christ's specific rapture - The caught up represents being gathered to Christ at His return, not general spiritual elevation.
+**Biblical context:** This is about the harpazo (Greek: "caught up") — being gathered to Christ at His return (1 Thess 4:17: "caught up together with them in the clouds"), not general spiritual elevation.
 
 ---
 

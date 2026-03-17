@@ -38,7 +38,7 @@
 | T19 | Brazen serpent | Num 21 | Christ lifted up | John 3:14–15 | Event |
 | T20 | Day of Atonement | Lev 16 | Christ's atoning sacrifice | Heb 9–10 | Event |
 | T21 | Noah's ark | Gen 6–8 | Salvation through Christ | 1 Pet 3:20–21 | Event |
-| T22 | Elijah's translation | 2 Kgs 2 | The rapture | 1 Thess 4:16–17 | Event |
+| T22 | Elijah's translation | 2 Kgs 2 | The catching away (harpazo — 1 Thess 4:17) | 1 Thess 4:16–17 | Event |
 | T23 | Isaac's binding (Akedah) | Gen 22 | The crucifixion | Heb 11:17–19; John 3:16 | Event |
 | T24 | Sabbath rest | Gen 2; Lev 23 | Rest in Christ | Heb 4:9–11; Matt 11:28 | Event |
 | T25 | Year of Jubilee | Lev 25 | Ultimate liberation in Christ | Luke 4:18–21 | Event |
@@ -266,12 +266,12 @@ The Tabernacle is the single richest typological structure in the OT — every e
 
 ---
 
-### T22 — Elijah's Translation → The Rapture
+### T22 — Elijah's Translation → The Catching Away (harpazo)
 
 > *"Elijah went up by a whirlwind into heaven."* — 2 Kings 2:11
 > *"Then we who are alive and remain shall be caught up together with them in the clouds to meet the Lord in the air."* — 1 Thessalonians 4:17
 
-| Dimension | Elijah's Translation (Type) | The Rapture (Antitype) |
+| Dimension | Elijah's Translation (Type) | The Catching Away — harpazo (Antitype) |
 |-----------|-----------------------------|----------------------|
 | Change | Taken without dying | *"We shall not all sleep, but we shall all be changed"* (1 Cor 15:51) |
 | Upward | Taken *up* in a whirlwind | *"Caught up...in the clouds"* (1 Thess 4:17) |
