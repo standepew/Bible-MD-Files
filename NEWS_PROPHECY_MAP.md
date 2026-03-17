@@ -23,7 +23,7 @@
 | Category | Relevant Prophecies | Alert Level |
 |----------|--------------------|-----------|
 | Gog-Magog Coalition (Russia-Iran-Turkey) | P051 | 🔴 Active |
-| Third Temple Preparations in Jerusalem | P048 | 🟡 Developing |
+| Jerusalem Sanctuary / Altar Activity (miqdash) | P048 | 🟡 Developing |
 | Global Digital Currency Infrastructure | P045 | 🟡 Infrastructure |
 | Middle East Peace Framework / Covenant | P043 | 🟡 Precursor |
 | AI Surveillance / Tracking Systems | P045 | 🟡 Infrastructure |

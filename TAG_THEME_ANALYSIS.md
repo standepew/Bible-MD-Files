@@ -29854,7 +29854,7 @@ Use this to instantly find all chapters covering a specific topic.
 
 **#type of new creation** (1) — Genesis 8
 
-**#type of rapture** (1) — Genesis 5
+**#type-of-catching-away** (1) — Genesis 5
 
 **#type of translation** (1) — Genesis 5
 

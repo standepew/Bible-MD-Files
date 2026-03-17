@@ -47,7 +47,7 @@ chronology:
       named_son: Methuselah
       total_years: 365
       translated_am: 987
-      note: "Never died — translated by God. Seventh from Adam. Type of rapture/first-fruits."
+      note: "Never died — translated by God. Seventh from Adam. Type of the catching away (harpazo) / first-fruits."
       source_verse: "Gen 5:21-24"
     - name: Methuselah
       born_am: 687
@@ -76,7 +76,7 @@ chronology:
       anno_mundi: 130
       duration_to_next: 105
       source_verse: "Gen 5:3"
-    - event: "Translation of Enoch (rapture type)"
+    - event: "Translation of Enoch (harpazo type — Gen 5:24; 1 Thess 4:17)"
       anno_mundi: 987
       source_verse: "Gen 5:24"
     - event: "Birth of Noah (the comforter)"
@@ -102,7 +102,7 @@ chronology:
 **Testament:** Old Testament  
 **Key Themes:** The Book of Generations of Adam, God's Exact Timeline from Creation, The Image Passed Down After the Fall, Enoch Walked with God and Was Translated, Methuselah's Prophetic Name, The Gospel Hidden in the Name Meanings, Noah Appointed as Comforter, The Refrain "And He Died"
 
-**Tags:** #genealogy #toledot #book-of-generations #Adam #Seth #Enos-Enosh #Cainan #Mahalaleel #Jared #Enoch #walked-with-God #halak #translated #Methuselah #Lamech-Seth-line #Noah #Noach #comfort-rest #Shem #Ham #Japheth #and-he-died #death-reigns #biblical-chronology #timeline #antediluvian #ages #name-meanings #gospel-in-genealogy #seventh-from-Adam #image-of-God #fallen-image #type-of-rapture #type-of-translation #Elijah-type #longsuffering #judgment-delayed #2-Peter-3-9
+**Tags:** #genealogy #toledot #book-of-generations #Adam #Seth #Enos-Enosh #Cainan #Mahalaleel #Jared #Enoch #walked-with-God #halak #translated #Methuselah #Lamech-Seth-line #Noah #Noach #comfort-rest #Shem #Ham #Japheth #and-he-died #death-reigns #biblical-chronology #timeline #antediluvian #ages #name-meanings #gospel-in-genealogy #seventh-from-Adam #image-of-God #fallen-image #type-of-catching-away #type-of-translation #Elijah-type #longsuffering #judgment-delayed #2-Peter-3-9
 
 ---
 
@@ -204,7 +204,7 @@ chronology:
 
 For AI matching to topics and current events:
 
-`book of generations` `toledot` `Adam` `likeness of God` `image` `Seth` `appointed` `Enos` `Enosh` `mortal` `Cainan` `sorrow` `Mahalaleel` `Blessed God` `Jared` `shall come down` `Enoch` `walked with God` `halak` `translated` `was not` `God took him` `seventh from Adam` `365 years` `Methuselah` `969 years` `longest life` `when he dies it shall come` `prophecy in name` `Lamech` `Noah` `Noach` `comfort` `rest` `cursed ground` `toil` `Shem` `Ham` `Japheth` `and he died` `death reigns` `death refrain` `antediluvian` `pre-flood` `patriarchal ages` `biblical chronology` `creation timeline` `years exact` `genealogy` `gospel in names` `name meanings` `Enoch prophecy` `second coming` `ten thousands of saints` `translation` `rapture type` `Elijah` `longsuffering` `judgment delayed` `God patient`
+`book of generations` `toledot` `Adam` `likeness of God` `image` `Seth` `appointed` `Enos` `Enosh` `mortal` `Cainan` `sorrow` `Mahalaleel` `Blessed God` `Jared` `shall come down` `Enoch` `walked with God` `halak` `translated` `was not` `God took him` `seventh from Adam` `365 years` `Methuselah` `969 years` `longest life` `when he dies it shall come` `prophecy in name` `Lamech` `Noah` `Noach` `comfort` `rest` `cursed ground` `toil` `Shem` `Ham` `Japheth` `and he died` `death reigns` `death refrain` `antediluvian` `pre-flood` `patriarchal ages` `biblical chronology` `creation timeline` `years exact` `genealogy` `gospel in names` `name meanings` `Enoch prophecy` `second coming` `ten thousands of saints` `translation` `catching away` `harpazo type` `Elijah` `longsuffering` `judgment delayed` `God patient`
 
 **Relevance to Current Events:**
 - Biblical chronology vs. evolutionary timeline — Genesis 5 provides exact years from Adam to Noah; this is the Bible's own calendar; no gaps are stated or implied by the text
@@ -212,7 +212,7 @@ For AI matching to topics and current events:
 - Death and mortality — "and he died" is the universal human condition per Scripture; all modern discussions of extending life, defeating aging, and transhumanism are attempts to escape the Genesis 2:17/5 verdict
 - Longevity research — the antediluvian lifespans (up to 969 years) show that human lifespan was originally far longer; the post-flood reduction (Genesis 11) and Psalm 90:10 ("threescore years and ten") show a deliberate reduction
 - God's patience before judgment — Methuselah's 969 years is the biblical model of divine longsuffering; used by Peter in 2 Peter 3:9 for end-times patience questions
-- The rapture / translation debate — Enoch is the key pre-flood type; Elijah the post-flood type; both are translated without dying; both are cited as precedent for believers being taken without dying (1 Thessalonians 4:17; Hebrews 11:5)
+- The catching away (harpazo) / translation pattern — Enoch is the key pre-flood type; Elijah the post-flood type; both are translated without dying; both are cited as precedent for believers being taken without dying (1 Thessalonians 4:17; Hebrews 11:5)
 - Prophecy fulfilled in names — the gospel hidden in the ten names from Adam to Noah is a demonstration that the entire Scripture is one continuous, divinely authored story
 - Genealogy of Jesus — Luke 3:36-38 traces Christ's genealogy through every name in Genesis 5; these are not mythological figures but historical ancestors of the Messiah
 - Family records and lineage — "the book of the generations" as an official written record; God keeps exact records of human history
@@ -534,7 +534,7 @@ For AI matching to topics and current events:
 
 ---
 
-### Translation / Rapture Type — Enoch and Elijah
+### Translation / Catching Away (harpazo) Type — Enoch and Elijah
 
 **Genesis 5:24** — Enoch translated before the flood  
 **2 Kings 2:11** — Elijah taken before Israel's darkest hour

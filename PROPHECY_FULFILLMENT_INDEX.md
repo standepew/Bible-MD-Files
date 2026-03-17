@@ -70,7 +70,7 @@
 | P045 | Tribulation | Rev 13:16–17 | Mark of the beast — economic control | ⏳ | During the Tribulation |
 | P046 | Tribulation | Rev 11:3–12 | Two witnesses minister 3.5 years | ⏳ | First half of Tribulation |
 | P047 | Tribulation | Rev 7:4 | 144,000 servants of Israel sealed | ⏳ | Opening of Tribulation |
-| P048 | Tribulation | Dan 9:27; Rev 11:1 | Third Temple built in Jerusalem | ⏳ | Before Tribulation begins |
+| P048 | Time of the End | Dan 9:27; Dan 8:13; Matt 24:15 | A functioning sanctuary (miqdash) defiled — the Abomination of Desolation | ⏳ | During the Time of the End (Dan 12:11) |
 | P049 | Tribulation | Dan 12:1; Matt 24:21 | Great tribulation — unprecedented suffering | ⏳ | Second half of Tribulation |
 | P050 | Tribulation | Joel 2:31; Rev 6:12 | Sun darkened, moon as blood | ⏳ | Sixth seal / before the Day of the Lord |
 | P051 | Tribulation | Ezek 38–39 | Gog-Magog war — invasion of Israel | ⏳ | Before or during Tribulation |
@@ -168,17 +168,17 @@ The Six-Day War, June 1967: Israel captured Jerusalem for the first time since 5
 
 ---
 
-## Category 3: Tribulation Period Prophecies (P043–P052)
+## Category 3: Time of the End — The Great Distress / Day of the LORD (P043–P052)
 
-> These prophecies have not yet been fulfilled. They describe a 7-year period (Daniel's 70th Week — [[DANIEL_09_REBUILT|Dan 9:24–27]]) that follows the removal of the church from earth.
+> These prophecies have not yet been fulfilled. They concern Daniel's 70th Week — the final 7 years of the 490 years decreed upon Israel (Dan 9:24–27) — and include the "Time of Jacob's Trouble" (Jer 30:7), the "1,260 Days" (Rev 11:3; 12:6), and the "42 Months" (Rev 11:2; 13:5). The text defines the period by its own markers, not by systematic-theological labels.
 
 ### The Temple and the Antichrist (P043–P048)
-**P048 — The Third Temple** | [[DANIEL_09_REBUILT|Dan 9:27]]; [[MATTHEW_24_REBUILT|Matt 24:15]]; [[2_THESSALONIANS_02_REBUILT|2 Thess 2:4]]; [[REVELATION_11_REBUILT|Rev 11:1]]
-For the Abomination of Desolation (P043) to occur, a functioning Temple must exist in Jerusalem. As of 2026, the Temple Mount remains occupied by the Dome of the Rock. The Sanhedrin has been reconstituted; red heifers have been prepared; Temple Institute has built all the vessels. Infrastructure exists — the event has not yet happened.
+**P048 — The Defiled Sanctuary (miqdash)** | [[DANIEL_09_REBUILT|Dan 9:27]]; [[DANIEL_08_REBUILT|Dan 8:13]]; [[MATTHEW_24_REBUILT|Matt 24:15]]; [[2_THESSALONIANS_02_REBUILT|2 Thess 2:4]]
+For the Abomination of Desolation (P043) to occur, a functioning place of sacrifice (miqdash — Dan 8:13) must exist in Jerusalem. The text requires a consecrated location where a sacrifice can be stopped (Dan 9:27: "he shall cause the sacrifice and the offering to cease"), not a specific architectural grade of building. As of 2026, the Temple Mount remains occupied by the Dome of the Rock. NOTE: This sanctuary is distinct from (1) the Ezekiel 40–48 structure (millennial, post-Day of the LORD) and (2) the New Jerusalem (Rev 21:22 — "I saw no temple therein"). These are three separate data points on the scriptural timeline.
 
 **P043 — Abomination of Desolation** | [[DANIEL_09_REBUILT|Dan 9:27]]; [[DANIEL_11_REBUILT|Dan 11:31]]; [[MATTHEW_24_REBUILT|Matt 24:15]] | Status: 🔀 DUAL
 - *Type/Near fulfillment:* Antiochus IV Epiphanes, 168 BC — sacrificed a pig on the altar, erected a statue of Zeus
-- *Antitype/Far fulfillment:* The Antichrist will do this in the rebuilt Third Temple at the midpoint of the Tribulation (2 Thess 2:4)
+- *Antitype/Far fulfillment:* The Man of Sin will do this in the defiled sanctuary at the midpoint of the 70th Week (2 Thess 2:4; Dan 9:27 — "in the midst of the week")
 Jesus (speaking after 168 BC) said this was *still future* — confirming a second, greater fulfillment is coming.
 
 **P044 — The Man of Sin** | [[2_THESSALONIANS_02_REBUILT|2 Thess 2:3–4]]; [[DANIEL_07_REBUILT|Dan 7:25]]; [[REVELATION_13_REBUILT|Rev 13:5–8]]
@@ -190,7 +190,7 @@ Jesus (speaking after 168 BC) said this was *still future* — confirming a seco
 
 ### The Two Witnesses (P046)
 **P046 — Two Witnesses** | [[REVELATION_11_REBUILT|Rev 11:3–12]]; [[ZECHARIAH_04_REBUILT|Zech 4:3–14]]; [[MALACHI_04_REBUILT|Mal 4:5]]
-Two individuals will prophesy in Jerusalem for 1,260 days (first half of Tribulation), performing signs like Moses and Elijah. They are killed, their bodies lie in the streets for 3.5 days, and they are resurrected before the world. Their identity is debated but the Elijah-Moses typology is deliberate.
+Two individuals will prophesy in Jerusalem for 1,260 days (Rev 11:3 — the first half of the 70th Week), performing signs like Moses and Elijah. They are killed, their bodies lie in the streets for 3.5 days, and they are resurrected before the world. Their identity is debated but the Elijah-Moses typology is deliberate.
 
 ### The Gog-Magog War (P051)
 **P051** | [[EZEKIEL_38_REBUILT|Ezek 38]]; [[EZEKIEL_39_REBUILT|Ezek 39]]
@@ -238,7 +238,7 @@ The eternal state: no sea (symbolic of chaos/separation), no sun needed (Christ 
 |---------------|--------------------|-----------|----|
 | Israel-Iran tensions | P051 (Gog-Magog) | 🔴 Elevated | [[EZEKIEL_38_REBUILT\|Ezek 38–39]] |
 | Global digital currency / CBDC | P045 (Mark infrastructure) | 🟡 Developing | [[REVELATION_13_REBUILT\|Rev 13]] |
-| Third Temple movement | P048 (Third Temple) | 🟡 Preparation stage | [[DANIEL_09_REBUILT\|Dan 9]] |
+| Jerusalem sanctuary / altar activity (miqdash) | P048 (Defiled Sanctuary) | 🟡 Preparation stage | [[DANIEL_09_REBUILT\|Dan 9]] |
 | Russia-Turkey-Iran alliance | P051 (Gog coalition) | 🔴 Active coalition | [[EZEKIEL_38_REBUILT\|Ezek 38]] |
 | Global governance push | P044 (Man of sin system) | 🟡 Framework building | [[REVELATION_13_REBUILT\|Rev 13]]; [[DANIEL_07_REBUILT\|Dan 7]] |
 | AI surveillance / tracking | P045 (Mark infrastructure) | 🟡 Infrastructure | [[REVELATION_13_REBUILT\|Rev 13]] |

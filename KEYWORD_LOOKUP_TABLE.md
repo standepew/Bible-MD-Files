@@ -684,7 +684,7 @@ Each topic maps to chapters that cover it, drawn from tags and key themes.
 - **Zechariah:** ch. 14, 8
 - **Zephaniah:** ch. 1, 2
 
-### Rapture (176 chapters)
+### Catching Away / harpazo (176 chapters)
 - **1 Corinthians:** ch. 15, 16, 5
 - **1 Kings:** ch. 16, 17, 9
 - **1 Peter:** ch. 1, 3
@@ -735,7 +735,7 @@ Each topic maps to chapters that cover it, drawn from tags and key themes.
 - **Zechariah:** ch. 14, 2, 8
 - **Zephaniah:** ch. 3
 
-### Tribulation (2 chapters)
+### Great Distress / Time of Jacob's Trouble (2 chapters)
 - **Daniel:** ch. 12
 - **Mark:** ch. 13
 

@@ -171,9 +171,9 @@ Jesus stands on the eighth day — the great day of Tabernacles — and declares
 
 ## COMMONLY MISQUOTED PASSAGES PASSAGES
 
-### Leviticus 23:24 — "Feast of Trumpets" Used to Predict the Rapture Date
+### Leviticus 23:24 — "Feast of Trumpets" Used to Predict a "Catching Away" Date
 
-**The misuse:** The Feast of Trumpets is repeatedly used in popular prophecy as the predicted date for the rapture, often linked to the phrase "no man knows the day or hour" (Matthew 24:36) — the reasoning being that Trumpets is the only feast announced by watching for the new moon (making its exact date uncertain).
+**The misuse:** The Feast of Trumpets is repeatedly used in popular prophecy as the predicted date for the catching away (harpazo), often linked to the phrase "no man knows the day or hour" (Matthew 24:36) — the reasoning being that Trumpets is the only feast announced by watching for the new moon (making its exact date uncertain).
 
 **What the text actually says:** Leviticus 23:24 gives no such interpretive instruction. The text says: "a memorial of blowing of trumpets, an holy convocation." It prescribes what to do, not what it predicts about the timing of a future event.
 

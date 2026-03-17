@@ -17,7 +17,7 @@
 | Figure | Testament | Primary Role | Typological Function | First Appearance |
 |--------|-----------|-------------|---------------------|-----------------|
 | [Adam](#adam) | OT | First man, federal head | Type of Christ (Last Adam) | [[GEN_01_REBUILT\|Gen 1]] |
-| [Enoch](#enoch) | OT | The man who walked with God | Type of the Rapture | [[GEN_05_REBUILT\|Gen 5]] |
+| [Enoch](#enoch) | OT | The man who walked with God | Type of the Catching Away (harpazo) | [[GEN_05_REBUILT\|Gen 5]] |
 | [Noah](#noah) | OT | Preacher of righteousness, builder | Type of salvation through judgment | [[GEN_06_REBUILT\|Gen 6]] |
 | [Abraham](#abraham) | OT | Father of faith, covenant recipient | Father of all believers | [[GEN_12_REBUILT\|Gen 12]] |
 | [Melchizedek](#melchizedek) | OT | Priest-king of Salem | Type of Christ's eternal priesthood | [[GEN_14_REBUILT\|Gen 14]] |
@@ -83,7 +83,7 @@ The pattern of Adam's fall and God's redemptive response in Gen 3 is the *templa
 Seventh from Adam. At age 65, after the birth of Methuselah, *he began to walk with God*. He walked with God for 300 years. At age 365, "he was not, for God took him." Never died. One of only two people in Scripture taken to heaven without dying (the other: Elijah).
 
 **Typological Function:**
-Enoch is the most direct OT type of the rapture — a man taken before divine judgment (Methuselah means "his death shall bring" — the flood came the year Methuselah died). Enoch was removed *before the judgment*; Noah was preserved *through the judgment*. These two patterns correspond to two views of God's preservation of his people: pretribulation removal vs. midtribulation protection.
+Enoch is the most direct OT type of the catching away (harpazo) — a man taken before divine judgment (Methuselah means "his death shall bring" — the flood came the year Methuselah died). Enoch was removed *before the judgment*; Noah was preserved *through the judgment*. These two patterns establish two distinct modes of God's preservation of his people — both recorded in Scripture without theological-system labels.
 
 **What Enoch Prophesied:**
 Jude 14–15 records Enoch's prophecy about the Second Coming: *"Behold, the Lord comes with ten thousands of His saints, to execute judgment on all."* The seventh from Adam spoke of what will happen at the end of history.
@@ -179,7 +179,7 @@ Appears suddenly with no recorded genealogy (typologically significant: like Mel
 
 **Typological Function:**
 - Confrontation of false religion at the national level → anticipates Christ's cleansing of the Temple and ultimate overthrow of the Antichrist's religion
-- Translation without death → type of the rapture (see T22 in [[TYPOLOGY_REGISTER]])
+- Translation without death → type of the catching away (harpazo — see T22 in [[TYPOLOGY_REGISTER]])
 - Calling fire from heaven → the Two Witnesses in Rev 11:5 do the same
 
 ---
@@ -190,14 +190,14 @@ Appears suddenly with no recorded genealogy (typologically significant: like Mel
 **Key Chapters:** [[DANIEL_01_REBUILT|Dan 1]] · [[DANIEL_02_REBUILT|Dan 2]] · [[DANIEL_07_REBUILT|Dan 7]] · [[DANIEL_08_REBUILT|Dan 8]] · [[DANIEL_09_REBUILT|Dan 9]] · [[DANIEL_10_REBUILT|Dan 10]] · [[DANIEL_11_REBUILT|Dan 11]] · [[DANIEL_12_REBUILT|Dan 12]]
 
 **Character Arc:**
-Taken captive to Babylon as a teenager. Resolved not to defile himself. Given wisdom and understanding beyond all others. Interpreted Nebuchadnezzar's dreams (chs. 2 and 4). Survived the fiery furnace (his friends). Survived the lions' den. Received the most comprehensive series of end-times visions in the OT: the four world empires (ch. 2, 7), the 70 Weeks (ch. 9), the kings of the north and south (ch. 11), the Tribulation and resurrection (ch. 12).
+Taken captive to Babylon as a teenager. Resolved not to defile himself. Given wisdom and understanding beyond all others. Interpreted Nebuchadnezzar's dreams (chs. 2 and 4). Survived the fiery furnace (his friends). Survived the lions' den. Received the most comprehensive series of end-times visions in the OT: the four world empires (ch. 2, 7), the 70 Weeks (ch. 9), the kings of the north and south (ch. 11), the Time of the End and resurrection (ch. 12 — "a time of trouble such as never was").
 
 **Daniel's Master Prophetic Calendar (Daniel 9:24–27):**
 The 70 Weeks prophecy:
 - 70 × 7 = 490 years decreed on Israel
 - 69 weeks (483 years) from the decree to restore Jerusalem → to the Messiah being cut off (fulfilled precisely to Passion Week)
-- The 70th week is separated — this is the 7-year Tribulation yet to come
-- The gap between the 69th and 70th week = the Church Age (a mystery hidden in OT)
+- The 70th week is separated — the final 7-year unit of Daniel's 490 years: a "Time of Jacob's Trouble" (Jer 30:7), the "1,260 Days" and "42 Months" (Rev 11–13), the "Time of the End" (Dan 12:9)
+- The gap between the 69th and 70th week = an interval unmarked by Daniel's text, during which Gentiles are included (a mystery hidden in OT)
 
 This is called "the backbone of biblical prophecy" — every NT prophecy about the end times hangs on it. See [[PROPHECY_FULFILLMENT_INDEX]] P043–P052.
 

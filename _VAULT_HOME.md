@@ -71,7 +71,7 @@ Gen 1-2              ↓                                    Rev 21-22
 | Category | Prophecy | Watch Level |
 |----------|----------|------------|
 | Gog-Magog Coalition (Russia-Iran-Turkey) | [[PROPHECY_FULFILLMENT_INDEX#P051\|P051]] | 🔴 Active |
-| Third Temple Preparations | [[PROPHECY_FULFILLMENT_INDEX#P048\|P048]] | 🟡 Stage-Setting |
+| Jerusalem Sanctuary / Altar Activity (miqdash) | [[PROPHECY_FULFILLMENT_INDEX#P048\|P048]] | 🟡 Stage-Setting |
 | Global Digital Currency / Mark Infrastructure | [[PROPHECY_FULFILLMENT_INDEX#P045\|P045]] | 🟡 Infrastructure |
 | Middle East Peace Framework | [[PROPHECY_FULFILLMENT_INDEX#P043\|P043]] | 🟡 Precursor |
 | Israel's Spiritual Awakening | [[PROPHECY_FULFILLMENT_INDEX#P042\|P042]] | ⏳ Future |
