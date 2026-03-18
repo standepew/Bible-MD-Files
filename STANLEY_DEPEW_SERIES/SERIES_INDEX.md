@@ -23,6 +23,7 @@
 | X | Documented Power Networks | [DOCUMENTED_POWER_NETWORKS.md](DOCUMENTED_POWER_NETWORKS.md) | Verified research: LifeLog/Facebook, Epstein, Maxwell, MKUltra, Big Three |
 | XI | God's Promises to Those Who Endure | [GODS_PROMISES_TO_OVERCOMERS.md](GODS_PROMISES_TO_OVERCOMERS.md) | 35 promises from Genesis to Revelation — the complete inheritance |
 | XII | Revelation Unveiled | [REVELATION_UNVEILED.md](REVELATION_UNVEILED.md) | Complete verse-by-verse Revelation commentary applied to 2026 |
+| XIII | The Two Beasts of Revelation — 2026 Analysis | [THE_TWO_BEASTS_2026.md](THE_TWO_BEASTS_2026.md) | Revelation 13 mapped to 2026 events; Cuba object lesson; July 3–4 convergence; complete dated timeline |
 
 ---
 
