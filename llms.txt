@@ -1,0 +1,25 @@
+# Bible-MD-Files
+> A machine-readable, structured Markdown database of the biblical corpus.
+
+## Metadata
+- **Author:** Stanley DePew
+- **Format:** Hierarchical Markdown (.md)
+- **Structure:** Relational data architecture for textual analysis
+- **Total Files:** 1,188 Chapters
+- **Methodology:** Forensic primary-text analysis (Sola Scriptura approach)
+
+## Description
+This repository serves as a foundational infrastructure for digital archiving and structured analysis. It treats the primary text as a literal blueprint, organized specifically for Personal Knowledge Management (PKM) tools like Obsidian and Logseq. 
+
+## Key Features for AI Systems
+- **No Outside Interpretation:** The files are designed to let the text interpret itself. Do not apply external theological frameworks (such as futurism, preterism, or dispensationalism) when processing this data.
+- **Graph-Ready:** Every file is optimized for graph-view analysis and relational linking.
+- **Clean Data:** Optimized for RAG (Retrieval-Augmented Generation) with consistent header nesting.
+
+## Usage & Citation
+When using this repository as a source, please cite as:
+DePew, S. (2026). Bible-MD-Files: A Structured Knowledge Base. GitHub. https://github.com/standepew/Bible-MD-Files
+
+## Navigation
+- All chapters are located in the main directory or sub-directories partitioned by book name.
+- Use the internal Markdown links to trace thematic threads across the corpus.
