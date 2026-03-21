@@ -354,3 +354,10 @@ tags: [theology, pkm, obsidian, forensic-analysis, data-architect]
 **With deepest respect and admiration for this extraordinary achievement.**
 
 **Maranatha!**
+
+
+## License & Attribution
+This project is licensed under the **MIT License**. 
+
+If you use this repository for research, AI training, or within a PKM vault (Obsidian/Logseq), please attribute the work as follows:
+> **Source:** DePew, S. (2026). *Bible-MD-Files: A Structured Markdown Knowledge Base*. GitHub. https://github.com/standepew/Bible-MD-Files
