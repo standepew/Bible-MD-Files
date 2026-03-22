@@ -77,6 +77,12 @@ Every chapter of the Bible has its own file with a consistent 9-part structure:
 | `MASTER_CROSS_REFERENCE_INDEX` | The full chapter-to-chapter network |
 | `PEOPLE_INDEX` | Major figures and their typological roles |
 | `KEYWORD_LOOKUP_TABLE` | Topic → chapter lookup |
+| `TAG_THEME_ANALYSIS` | Tag and theme frequency analysis |
+| `NEWS_PROPHECY_MAP` | Current headlines mapped to Scripture references |
+| `PROPHETIC_SERIES_MAP` | Extended prophetic commentary and series map |
+| `RESEARCH_BIBLE_CONNECTION_MAP` | Research and Bible connection mapping |
+| `CONTENT_GAP_REPORT` | Quality control — chapters needing work |
+| `FINAL_Distribution_Document` | Complete distribution and reference document |
 
 ### Python Tools (Optional)
 
@@ -86,6 +92,10 @@ Every chapter of the Bible has its own file with a consistent 9-part structure:
 | `news_prophecy_mapper.py` | Map current headlines to Scripture references |
 | `bible_qa.py` | Ask questions, get Scripture-based answers (requires Ollama) |
 | `generate_embeddings.py` | One-time setup for semantic search |
+| `generate_hub_chapters.py` | Regenerate hub chapters index |
+| `generate_yaml_chronology.py` | Validate and generate chronology YAML |
+| `audit_chapters.py` | Audit chapter files for structural completeness |
+| `fix_keyword_index.py` | Repair keyword index entries |
 
 ---
 
