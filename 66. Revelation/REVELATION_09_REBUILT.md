@@ -232,30 +232,55 @@ Fifth, angel, sounded, star, fall, heaven, earth, given, key, bottomless, pit, o
 
 ## SYMBOLIC THREADS
 
-### Star as Spiritual Judgment
-- **Physical judgment:** Star fall (Revelation 9:2)
-* **Spiritual judgment:* Spiritual judgment (Isaiah 14:15)
-* **Christ's judgment:* Perfect judgment (Luke 8:31)
-* **Eternal judgment:* Complete justice (Revelation 22)
+### The Bottomless Pit (Abussos) — The Prison of Fallen Angels
 
-### Smoke as Spiritual Darkness
-- **Physical darkness:** Smoke pit (Revelation 9:3)
-* **Spiritual darkness:* Spiritual darkness (Exodus 10:12)
-* **Christ's darkness:* Perfect darkness (Joel 2:25)
-* **Eternal darkness:* Complete blindness (Revelation 22)
+**Revelation 9:1-2** — "And the fifth angel sounded, and I saw a star fall from heaven unto the earth: and to him was given the key of the bottomless pit. And he opened the bottomless pit"
 
-### Iron as Spiritual Protection
-- **Physical protection:** Breastplates iron (Revelation 9:10)
-* **Spiritual protection:* Spiritual protection (Joel 2:4)
-* **Christ's protection:* Perfect protection (Nahum 3:17)
-* **Eternal protection:* Complete defense (Revelation 22)
-
-### Serpents as Spiritual Deception
-- **Physical deception:** Tails serpents (Revelation 9:20)
-* **Spiritual deception:* Spiritual deception (Job 26:6)
-* **Christ's deception:* Perfect deception (Jeremiah 46:10)
-* **Eternal deception:* Complete falsehood (Revelation 22)
+**Thread through Scripture:**
+- **Genesis 1:2** — "The deep" (Hebrew: tehom) — the formless abyss precedes creation; the word anticipates the New Testament abussos as the realm outside ordered creation
+- **Luke 8:31** — The Gadarene demons beg Jesus "that he would not command them to go out into the deep (abussos)" — the demons know the pit as their place of punishment and fear it; Jesus holds the key (v.1)
+- **2 Peter 2:4** — "God spared not the angels that sinned, but cast them down to hell (tartaros), and delivered them into chains of darkness, to be reserved unto judgment" — the imprisoned angels of Revelation 9:14-15 are already bound; their loosing is a judicial event at the appointed hour
+- **Jude 6** — "And the angels which kept not their first estate, but left their own habitation, he hath reserved in everlasting chains under darkness unto the judgment of the great day" — the "four angels... bound in the great river Euphrates" (v.14) belong to this category
+- **Revelation 20:1-3** — After the Second Coming, an angel with the key of the bottomless pit chains Satan there for a thousand years — the same pit that disgorges judgment in chapter 9 is the prison for Satan in chapter 20; the key passes from judgment to imprisonment
+- **Revelation 20:10** — Satan cast into the lake of fire — the pit is not the final state; it is the penultimate confinement before the final judgment
+- *Interpretation:* The bottomless pit is the prison-realm of judgment. Its opening in Revelation 9 is not chaos but precision — a key is given (v.1), a time is appointed (v.15: "an hour, and a day, and a month, and a year"). God does not lose control of the pit; He opens it for judicial purposes at appointed times. This is the sovereign God using the powers of darkness as instruments of judgment — as He used the plagues of Egypt through Pharaoh.
 
 ---
 
-**Chapter 9 demonstrates the fifth trumpet (locusts from the pit) and the sixth trumpet (army of horsemen) through the angel of the bottomless pit and the impenitence of mankind:** Fifth, angel, sounded, star, fall, heaven, earth, given, key, bottomless, pit, opened, bottomless, pit, arose, smoke, pit, smoke, great, furnace, sun, air, darkened, smoke, pit, smoke, locusts, earth, given, power, scorpions, earth, power, commanded, hurt, grass, earth, green, thing, tree, men, seal, God, foreheads, given, kill, tormented, five, months, torment, torment, scorpion, striketh, man, days, seek, death, find, desire, die, death, flee, shapes, locusts, horses, prepared, battle, heads, crowns, gold, faces, men, hair, women, teeth, lions, breastplates, iron, sound, wings, sound, chariots, horses, running, battle, tails, scorpions, stings, tails, power, hurt, men, five, months, king, angel, bottomless, pit, name, Hebrew, Abaddon, Greek, Apollyon, woe, past, woes, sixth, angel, sounded, voice, four, horns, golden, altar, God, sixth, angel, trumpet, Loose, four, angels, bound, great, river, Euphrates, four, angels, loosed, prepared, hour, day, month, year, slay, third, part, men, number, army, horsemen, two, hundred, thousand, thousand, number, horses, vision, sat, breastplates, fire, jacinth, brimstone, heads, horses, heads, lions, mouths, issued, fire, smoke, brimstone, three, third, part, men, killed, fire, smoke, brimstone, issued, mouths, power, mouth, tails, tails, serpents, heads, hurt, rest, men, killed, plagues, repented, works, hands, worship, devils, idols, gold, silver, brass, stone, wood, neither, see, hear, walk, repented, murders, sorceries, fornication, thefts. This chapter establishes crucial themes: the fifth trumpet (locusts from the pit) brings Christ's spiritual torment, the sixth trumpet (army of horsemen) brings Christ's military judgment, the angel of the bottomless pit brings Christ's confining power, and the impenitence of mankind brings Christ's final warning. It demonstrates that the fifth trumpet (locusts from the pit) brings Christ's spiritual torment, that the sixth trumpet (army of horsemen) brings Christ's military judgment, that the angel of the bottomless pit brings Christ's confining power, and that the impenitence of mankind brings Christ's final warning. It shows the fifth trumpet (locusts from the pit) as warning people who experience the impenitence of mankind. It shows the warning as power people who experience the angel of the bottomless pit. It shows the fifth trumpet (locusts from the pit) as evidence of Christ's spiritual torment. It shows the power as evidence of Christ's warning. It illustrates the principle that the fifth trumpet (locusts from the pit) brings Christ's spiritual torment, that the sixth trumpet (army of horsemen) brings Christ's military judgment, that the angel of the bottomless pit brings Christ's confining power, and that the impenitence of mankind brings Christ's final warning. The chapter points forward to Christ as the perfectly tormenting Savior whose spiritual torment is locust-releasing, whose military judgment is horsemen-unleashing, whose confining power is pit-opening, and whose final warning is impenitence-exposing. The fifth trumpet (locusts from the pit) points forward to Christ's perfect spiritual torment. The sixth trumpet (army of horsemen) points forward to Christ's perfect military judgment. The chapter demonstrates that when the fifth trumpet (locusts from the pit) occurs, it brings Christ's spiritual torment, when the sixth trumpet (army of horsemen) happens, it brings Christ's military judgment, when the angel of the bottomless pit happens, it brings Christ's confining power, and when the impenitence of mankind happens, it brings Christ's final warning, showing how the fifth trumpet (locusts from the pit) and the sixth trumpet (army of horsemen) work together to accomplish His purposes of spiritual torment and military judgment. This chapter contains the fifth trumpet judgment with locusts from the bottomless pit tormenting those without God's seal, the sixth trumpet judgment releasing four angels and two hundred million horsemen to kill a third of mankind, the description of the demonic king Abaddon/Apollyon, and the tragic impenitence of those who survive yet refuse to repent of idolatry and sins.
+### The Locusts of Judgment — Joel's Army and the Demonic Swarm
+
+**Revelation 9:3-10** — Locusts from the pit, like scorpions, shaped like horses, with faces of men, hair of women, teeth of lions, breastplates of iron, wings like chariots, tails like scorpions
+
+**Thread through Scripture:**
+- **Exodus 10:12-15** — The eighth plague: locusts cover the face of the earth, eat every green thing; the natural locust is the template for the supernatural locust-judgment; Egypt is the prototype
+- **Joel 1:6** — "For a nation is come up upon my land, strong, and without number, whose teeth are the teeth of a lion, and he hath the cheek teeth of a great lion" — Joel's locust invasion is described in military terms; the same imagery (lion's teeth) appears in Revelation 9:8
+- **Joel 2:1-11** — "A day of darkness and of gloominess... a great people and a strong; there hath not been ever the like... they shall run like mighty men; they shall climb the wall like men of war" — Joel's army is the natural/prophetic locust-plague that Revelation 9 expands into the supernatural; the day of the LORD in Joel and the trumpet judgments in Revelation are on the same trajectory
+- **Amos 7:1-3** — God shows Amos a vision of locusts at the beginning of the latter growth — Amos intercedes and God relents; the locust as instrument of divine judgment that can be stayed by intercession
+- *Interpretation:* The locust-judgment is a recurring biblical symbol of divine judgment through swarming, unstoppable forces. In Revelation 9 the symbol is eschatologically maximized: natural locusts become supernatural tormentors; the five-month limit (v.5) echoes the lifespan of a natural locust and also the duration of Noah's flood (Genesis 7:24 — 150 days); the protective seal (v.4) echoes the Passover blood. The pattern is Exodus scaled to global, final proportion.
+
+---
+
+### The Euphrates — The Eastern Boundary and the End of Restraint
+
+**Revelation 9:14** — "Loose the four angels which are bound in the great river Euphrates"
+
+**Thread through Scripture:**
+- **Genesis 2:14** — The Euphrates is one of the four rivers of Eden — the boundary of the original Paradise; the easternmost extent of the Promised Land (Genesis 15:18: "from the river of Egypt unto the great river, the river Euphrates")
+- **Isaiah 7:20** — The Assyrian invasion described as God using "a razor that is hired, namely, by them beyond the river" — the Euphrates is the boundary beyond which the great eastern empires (Assyria, Babylon) lie; judgment comes from across the river
+- **Jeremiah 46:2-10** — The great battle at the Euphrates (Carchemish) where Babylon defeated Egypt — the Euphrates as the staging ground for world-empire conflict
+- **Revelation 16:12** — The sixth bowl dries up the Euphrates "that the way of the kings of the east might be prepared" — the same eastern-boundary dynamic reappears in the bowl judgments; Revelation 9 and Revelation 16 are parallel trumpet/bowl structures on the same eastern-invasion theme
+- *Interpretation:* The Euphrates is the biblical boundary of the known world — the edge of Eden, the limit of the Promised Land, the frontier of the eastern empires. When the Euphrates boundary is crossed, it signals the removal of the final restraint on world-empire warfare. In Revelation 9, bound angels at the Euphrates are loosed at an appointed moment; in Revelation 16, the river is dried; in both cases, the action is God's sovereign release of judgment, not the chaos of events out of control.
+
+---
+
+### The Impenitence of Survivors — The Hardness That Judgment Cannot Break
+
+**Revelation 9:20-21** — "And the rest of the men which were not killed by these plagues yet repented not of the works of their hands... Neither repented they of their murders, nor of their sorceries, nor of their fornication, nor of their thefts"
+
+**Thread through Scripture:**
+- **Exodus 8:15** — "But when Pharaoh saw that there was respite, he hardened his heart" — the Exodus plagues establish the prototype: judgment intended to break hardness can instead harden further; Pharaoh's series of non-repentances is the pattern for Revelation 9:20-21
+- **Isaiah 9:13** — "For the people turneth not unto him that smiteth them, neither do they seek the LORD of hosts" — the prophet identifies the same failure centuries before Revelation: judgment that does not produce turning
+- **Amos 4:6-11** — Five times God recites judgments He sent and concludes each time: "yet have ye not returned unto me, saith the LORD" — the refrain of unrepentant Israel after judgment is the template for the refrain of unrepentant humanity in Revelation
+- **Romans 2:5** — "But after thy hardness and impenitent heart treasurest up unto thyself wrath against the day of wrath and revelation of the righteous judgment of God" — the mechanism: impenitence accumulates wrath; the trumpet judgments are the accumulated wrath being discharged
+- **Revelation 16:9, 11, 21** — The bowl judgments repeat the same refrain: "they repented not to give him glory"; "repented not of their deeds"; "blasphemed God" — the hardness of chapter 9 deepens throughout the judgment sequence; by the end, survivors are blaspheming rather than repenting
+- *Interpretation:* The two-verse summary of impenitence (v.20-21) is one of the most theologically significant statements in Revelation: judgment alone cannot produce repentance. The human heart, given every visible proof of divine power and every incentive to turn, will not turn without the regenerating work of God. This is the doctrine of total depravity under eschatological conditions: the fullest possible external pressure (demonic torment, a third of humanity dead) produces zero repentance. Grace, not judgment, is what breaks the heart.

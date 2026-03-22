@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** The Appointment of Seven Deacons, Stephen's Ministry, Stephen's Arrest
 
-**Tags:** #the-appointment-of-seven-deacons #stephen
+**Tags:** #the-appointment-of-seven-deacons #stephen #deacons #daily-ministration #laying-on-of-hands #hellenists #false-witnesses #blasphemy #full-of-the-holy-ghost
 
 ---
 

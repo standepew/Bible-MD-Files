@@ -234,30 +234,54 @@ Simon, Peter, servant, apostle, Jesus, Christ, obtained, precious, faith, righte
 
 ## SYMBOLIC THREADS
 
-### Light as Spiritual Revelation
-- **Physical revelation:** Light shineth (2 Peter 1:20)
-* **Spiritual revelation:* Spiritual revelation (Revelation 19:10)
-* **Christ's revelation:* Perfect revelation (2 Timothy 3:16)
-* **Eternal revelation:* Complete illumination (Revelation 22)
+### The Lamp in a Dark Place — Scripture as the Only Light Until the Day Dawns
 
-### Mountain as Spiritual Glory
-- **Physical glory:** Holy mount (2 Peter 1:19)
-* **Spiritual glory:* Spiritual glory (Matthew 17:5)
-* **Christ's glory:* Perfect glory (Mark 9:2)
-* **Eternal glory:* Complete radiance (Revelation 22)
+**2 Peter 1:19** — "We have also a more sure word of prophecy; whereunto ye do well that ye take heed, as unto a light that shineth in a dark place, until the day dawn, and the day star arise in your hearts"
 
-### Tabernacle as Spiritual Body
-- **Physical body:** Tabernacle (2 Peter 1:14)
-* **Spiritual body:* Spiritual body (2 Timothy 2:14)
-* **Christ's body:* Perfect body (2 Corinthians 5:1)
-* **Eternal body:** Complete dwelling (Revelation 22)
-
-### Kingdom as Spiritual Reign
-- **Physical reign:** Everlasting kingdom (2 Peter 1:12)
-* **Spiritual reign:* Spiritual reign (John 10:28)
-* **Christ's reign:* Perfect reign (Matthew 25:34)
-* **Eternal reign:* Complete dominion (Revelation 22)
+**Thread through Scripture:**
+- **Psalm 119:105** — "Thy word is a lamp unto my feet, and a light unto my path" — Scripture as lamp; the word illuminates the path through darkness
+- **Isaiah 8:20** — "To the law and to the testimony: if they speak not according to this word, it is because there is no light in them" — outside of Scripture there is only darkness; no other source of spiritual light exists
+- **John 1:1-5** — "In the beginning was the Word... and the life was the light of men. And the light shineth in darkness; and the darkness comprehended it not" — Christ is the ultimate Word and Light; Scripture is the lamp that bears witness to Him
+- **John 5:35** — Jesus calls John the Baptist "a burning and shining light" — even the greatest prophet was a lamp, not the sun; the lamp points to the Sun
+- **Revelation 22:5** — "And there shall be no night there; and they need no candle, neither light of the sun; for the Lord God giveth them light" — the "day star arising" of 2 Peter 1:19 is the ultimate state; the lamp is needed only while darkness remains; when Christ comes fully, the lamp is superseded by the Sun
+- *Interpretation:* The world between the first and second advents is the "dark place." Scripture is the lamp given for this interval. The lamp does not replace the Sun — it points to it. Peter's phrase "until the day dawn" establishes that Scripture's lamp-function is transitional, not final. The day star (Christ in glory) will arise, and in that day the lamp is swallowed up by the fullness of light it always anticipated.
 
 ---
 
-**Chapter 1 demonstrates divine power and precious promises and Christian virtues through assurance of salvation and eyewitness testimony of Christ and authority of Scripture:** Simon, Peter, servant, apostle, Jesus, Christ, obtained, precious, faith, righteousness, God, Saviour, Jesus, Christ, Grace, peace, multiplied, knowledge, God, Jesus, Lord, divine, power, life, godliness, knowledge, called, glory, virtue, exceeding, great, precious, promises, partakers, divine, nature, escaped, corruption, world, lust, diligence, faith, virtue, virtue, knowledge, knowledge, temperance, temperance, patience, patience, godliness, godliness, brotherly, kindness, brotherly, kindness, charity, barren, unfruitful, knowledge, Lord, Jesus, Christ, blind, afar, forgotten, purged, old, sins, diligence, calling, election, fall, entrance, ministered, abundantly, everlasting, kingdom, Lord, Saviour, Jesus, Christ, negligent, remembrance, established, present, truth, tabernacle, stir, remembrance, shortly, put, tabernacle, Lord, Jesus, Christ, shewed, decease, remembrance, followed, cunningly, devised, fables, power, coming, Lord, Jesus, Christ, eyewitnesses, majesty, received, God, Father, honour, glory, voice, excellent, glory, beloved, Son, pleased, voice, heaven, holy, mount, sure, word, prophecy, heed, light, shineth, dark, place, day, dawn, day, star, arise, hearts, knowing, prophecy, scripture, private, interpretation, prophecy, old, time, will, man, holy, men, God, spake, moved, Holy, Ghost. This chapter establishes crucial themes: divine power and precious promises brings Christ's divine provision, Christian virtues brings Christ's perfect character, assurance of salvation brings Christ's eternal security, eyewitness testimony of Christ brings Christ's transfiguration, and authority of Scripture brings Christ's revelation. It demonstrates that divine power and precious promises brings Christ's divine provision, that Christian virtues brings Christ's perfect character, that assurance of salvation brings Christ's eternal security, that eyewitness testimony of Christ brings Christ's transfiguration, and that authority of Scripture brings Christ's revelation. It shows divine power and precious promises as revelation people who experience authority of Scripture. It shows the revelation as transfiguration people who experience eyewitness testimony of Christ. It shows divine power and precious promises as evidence of Christ's divine provision. It shows the transfiguration as evidence of Christ's revelation. It illustrates the principle that divine power and precious promises brings Christ's divine provision, that Christian virtues brings Christ's perfect character, that assurance of salvation brings Christ's eternal security, that eyewitness testimony of Christ brings Christ's transfiguration, and that authority of Scripture brings Christ's revelation. The chapter points forward to Christ as the perfectly providing Savior whose divine provision is power-giving, whose perfect character is virtue-building, whose eternal security is kingdom-assuring, whose transfiguration is glory-revealing, and whose revelation is prophecy-confirming. Divine power and precious promises points forward to Christ's perfect divine provision. Christian virtues points forward to Christ's perfect perfect character. The chapter demonstrates that when divine power and precious promises occurs, it brings Christ's divine provision, when Christian virtues happens, it brings Christ's perfect character, when assurance of salvation happens, it brings Christ's eternal security, when eyewitness testimony of Christ happens, it brings Christ's transfiguration, and when authority of Scripture happens, it brings Christ's revelation, showing how divine power and precious promises and Christian virtues work together to accomplish His purposes of divine provision and perfect character. This chapter contains the greeting to believers, the explanation of divine power and precious promises, the list of Christian virtues to be added to faith, the assurance of salvation, Peter's reminder of his approaching death, the eyewitness account of Christ's transfiguration, and the authority of Scripture prophecy.
+### The Holy Mountain — Transfiguration as Anticipatory Coming Glory
+
+**2 Peter 1:18** — "And this voice which came from heaven we heard, when we were with him in the holy mount"
+
+**Thread through Scripture:**
+- **Exodus 19:18-20** — Sinai as the first "holy mount" — God descends in fire, speaks audibly; the mountain becomes the meeting point between heaven and earth
+- **Isaiah 2:2-3** — "The mountain of the LORD's house shall be established in the top of the mountains... for out of Zion shall go forth the law" — the holy mountain as the center of the coming kingdom
+- **Matthew 17:1-5** — The Transfiguration: Jesus transfigured, Moses and Elijah appear, voice from cloud: "This is my beloved Son, in whom I am well pleased; hear ye him" — the Sinai pattern (cloud, voice, mountain) replicated and surpassed in Christ
+- **Hebrews 12:18-24** — The contrast between Mount Sinai (fire, blackness, tempest) and Mount Zion (city of the living God, spirits of just men made perfect, Jesus the mediator of the new covenant) — the holy mount of the Transfiguration is a foretaste of Mount Zion
+- **Revelation 14:1** — "And I looked, and, lo, a Lamb stood on the mount Sion, and with him an hundred forty and four thousand" — the final holy mountain scene; Christ in glory on Zion with His redeemed
+- *Interpretation:* The "holy mount" of the Transfiguration stands in a chain: Sinai → Transfiguration Mountain → Zion (eschatological). Each holy mountain is a controlled revelation of divine glory. The Transfiguration is the preview of the Second Coming glory — which is precisely Peter's point: "we were eyewitnesses of his majesty" (v.16) is his proof that the Second Coming (v.16: "the power and coming of our Lord Jesus Christ") is not a fable.
+
+---
+
+### The Tabernacle — Tent of Flesh, Building of God
+
+**2 Peter 1:13-14** — "I think it meet, as long as I am in this tabernacle, to stir you up... Knowing that shortly I must put off this my tabernacle, even as our Lord Jesus Christ hath shewed me"
+
+**Thread through Scripture:**
+- **John 1:14** — "And the Word was made flesh, and dwelt (eskenosen = tabernacled) among us" — Christ's incarnation described as pitching a tent; the divine Word taking up temporary flesh-residence
+- **2 Corinthians 5:1-4** — "For we know that if our earthly house of this tabernacle were dissolved, we have a building of God, a house not made with hands, eternal in the heavens... For we that are in this tabernacle do groan, being burdened" — Paul uses the exact same image: the body is a tent, temporary; the resurrection body is the permanent building
+- **2 Corinthians 5:8** — "We are... willing rather to be absent from the body, and to be present with the Lord" — the putting off of the tabernacle is the path to the permanent dwelling
+- **Revelation 21:3** — "Behold, the tabernacle of God is with men, and he will dwell with them" — in the new creation, God's tabernacle is permanently with His people; the tent-paradigm finally resolved; God and man co-dwell without the transience of all earthly tabernacles
+- *Interpretation:* The tabernacle image runs from the wilderness wandering through Christ's incarnation through the believer's mortal body to the new Jerusalem. It is always the sign of temporary presence in a world not yet the final state. Peter uses it deliberately: he knows he is dying soon; his body is the tent about to be struck. The theology of the tent is the theology of the Christian life — present, purposeful, and passing; the permanent building awaits.
+
+---
+
+### The Ladder of Virtues — The Progressive Shape of Participation in the Divine Nature
+
+**2 Peter 1:5-7** — "Add to your faith virtue; and to virtue knowledge; and to knowledge temperance; and to temperance patience; and to patience godliness; and to godliness brotherly kindness; and to brotherly kindness charity"
+
+**Thread through Scripture:**
+- **Romans 5:3-5** — "Tribulation worketh patience; and patience, experience; and experience, hope: and hope maketh not ashamed" — Paul's ladder moves through suffering; Peter's through deliberate cultivation; both describe progressive spiritual formation with the same destination
+- **Galatians 5:22-23** — "The fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith, meekness, temperance" — the Spirit produces the same qualities Peter lists; what Peter presents as diligent addition, Paul presents as Spirit-fruit; sanctification is both cooperation with grace and the Spirit's work
+- **James 1:3-4** — "The trying of your faith worketh patience. But let patience have her perfect work, that ye may be perfect and entire, wanting nothing" — patience at the center of Peter's ladder (faith → ... → patience → ...) is the hinge-virtue; James identifies it as the key to becoming whole
+- **1 Corinthians 13:13** — "And now abideth faith, hope, charity, these three; but the greatest of these is charity" — Peter's ladder terminates in charity (agape); so does Paul's; the ladder is designed to lead to love
+- *Interpretation:* The eight-rung ladder is not works-salvation. It begins with faith (given by God — v.1: "precious faith") and ends with agape (the perfection of all virtue). It is the shape of a life that has received "all things that pertain unto life and godliness" (v.3) and is now actively appropriating them. The one who does not cultivate these virtues is "blind, and cannot see afar off, and hath forgotten that he was purged from his old sins" (v.9) — amnesia about grace is the root of stagnation.

@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Paul's Defense Before the Jews, His Conversion Story, Paul's Roman Citizenship
 
-**Tags:** #paul #his-conversion-story
+**Tags:** #paul #his-conversion-story #damascus-road #ananias #gamaliel #roman-citizenship #defense-speech #trance #vision #born-free
 
 ---
 
