@@ -113,19 +113,6 @@ The files are plain text. Parse them, embed them, build on them. The structure i
 
 This project uses the **King James Version (KJV)** — public domain, no copyright restrictions, and the standard English text for 400+ years.
 
----
-
-## The Stanley DePew Series
-
-The `STANLEY_DEPEW_SERIES/` folder contains extended studies using the same methodology:
-
-- `BIBLICAL_MANIFESTO.md` — The philosophy behind the entire project
-- `YOU_CAN_KNOW_THE_SEASON.md` — Prophetic seasons as established by Scripture
-- `THE_END_IS_THE_BEGINNING.md` — Eschatology from Genesis to Revelation
-- `THE_ONLY_WAY_OUT.md` — Redemption as the Bible defines it
-- `THE_SAME_SPIRIT.md` — The Holy Spirit across both Testaments
-
-Same rule applies: Scripture interprets Scripture. The Bible sets the standard. History conforms.
 
 ---
 
