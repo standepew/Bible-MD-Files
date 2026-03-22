@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Rejection, Divine Judgment, Christ's Suffering, Christ's Protection
 
-**Tags:** #christ #divine-judgment
+**Tags:** #christ #divine-judgment #jeremiah-lament #suffering-prophet #intercession-rejected #brasen-wall #moses #samuel #wound-incurable #fire-in-my-bones
 
 ---
 

@@ -9,7 +9,7 @@
 **Testament:** New Testament  
 **Key Themes:** Paul's Journey to Jerusalem, The Prophecy of Agabus, Paul's Arrest in Jerusalem
 
-**Tags:** #paul #the-prophecy-of-agabus
+**Tags:** #paul #the-prophecy-of-agabus #jerusalem #agabus #bound #vow #philip-evangelist #arrest #temple #riot #caesarea
 
 ---
 

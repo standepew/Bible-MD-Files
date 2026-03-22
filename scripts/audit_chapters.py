@@ -40,19 +40,29 @@ REQUIRED_SECTIONS = [
     "SYMBOLIC THREADS",
 ]
 
-# Phrases that indicate a section is placeholder-only
-PLACEHOLDER_PHRASES = [
+# Phrases that indicate a section is placeholder-only.
+# These are checked as whole-word / start-of-line patterns to avoid false positives
+# on legitimate content (e.g. "human/agricultural" containing "n/a").
+PLACEHOLDER_PHRASES_EXACT = [
     "review and add",
-    "placeholder",
     "to be added",
-    "no specific",
-    "none identified",
-    "not applicable",
-    "n/a",
     "coming soon",
     "*(add",
     "*(review",
     "*(to be",
+]
+
+# These require word-boundary matching so they don't hit embedded substrings
+PLACEHOLDER_PHRASES_WORD = [
+    "placeholder",
+    "none identified",
+]
+
+# These only flag when they appear at the start of a line (standalone use, not in sentences)
+PLACEHOLDER_PHRASES_LINE_START = [
+    "no specific",
+    "not applicable",
+    "n/a",
 ]
 
 
@@ -70,17 +80,15 @@ def count_hashtags(content: str) -> int:
 
 
 def get_section_content(content: str, section_name: str) -> str:
-    """Extract the content of a specific section."""
-    pattern = re.compile(
-        rf"##\s+{re.escape(section_name.upper())}.*?\n(.*?)(?=\n##\s+|\Z)",
-        re.IGNORECASE | re.DOTALL,
-    )
-    # Try partial match too
+    """Extract the content of a specific section by full section name."""
     lines = content.split("\n")
     start = None
     end = None
+    # Match using the full section name (not just first word) to avoid
+    # false matches between similarly-named sections (e.g. KEY TERMS vs KEYWORD INDEX,
+    # CHAPTER METADATA vs CHAPTER SUMMARY).
     for i, line in enumerate(lines):
-        if re.match(rf"^##\s+.*{re.escape(section_name.upper().split()[0])}",
+        if re.match(rf"^##\s+.*{re.escape(section_name.upper())}",
                     line, re.IGNORECASE):
             if start is None:
                 start = i + 1
@@ -97,11 +105,19 @@ def is_placeholder(section_text: str) -> bool:
     text_lower = section_text.lower().strip()
     if not text_lower:
         return True
-    # Check for explicit placeholder phrases
-    for phrase in PLACEHOLDER_PHRASES:
+    # Exact substring matches (safe — these don't appear in legitimate content)
+    for phrase in PLACEHOLDER_PHRASES_EXACT:
         if phrase in text_lower:
             return True
-    # Very short section (< 50 chars of actual content) is suspicious
+    # Word-boundary matches
+    for phrase in PLACEHOLDER_PHRASES_WORD:
+        if re.search(rf"\b{re.escape(phrase)}\b", text_lower):
+            return True
+    # Line-start matches only — avoids catching these phrases mid-sentence
+    for phrase in PLACEHOLDER_PHRASES_LINE_START:
+        if re.search(rf"^{re.escape(phrase)}\b", text_lower, re.MULTILINE):
+            return True
+    # Very short section (< 30 chars of actual content) is suspicious
     actual_content = re.sub(r"[#\-*\s]", "", text_lower)
     if len(actual_content) < 30:
         return True

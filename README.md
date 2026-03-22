@@ -82,7 +82,10 @@ Every chapter of the Bible has its own file with a consistent 9-part structure:
 | `PROPHETIC_SERIES_MAP` | Extended prophetic commentary and series map |
 | `RESEARCH_BIBLE_CONNECTION_MAP` | Research and Bible connection mapping |
 | `CONTENT_GAP_REPORT` | Quality control — chapters needing work |
-| `FINAL_Distribution_Document` | Complete distribution and reference document |
+| `FINAL_Distribution_Document` | Independent structural coherence analysis and distribution guide |
+| `The Complete Biblical Research Collection 2026` | Companion note for the master research PDF (272 pages) |
+| `BIBLE_MAP_OF_CONTENT` | Clickable Map of Content — every book and chapter in one file |
+| `SEARCHABILITY_GUIDE` | How to search the vault — global search, tags, keywords, graph view |
 
 ### Python Tools (Optional)
 
@@ -108,6 +111,9 @@ Every chapter of the Bible has its own file with a consistent 9-part structure:
 3. Enable the Dataview plugin for dynamic queries
 4. Start at `_VAULT_HOME.md` for navigation
 5. Use Graph View to visualize cross-references
+6. Use `BIBLE_MAP_OF_CONTENT.md` as a clickable table of contents for every book and chapter
+7. Use `Ctrl+Shift+F` (global search) to find any word across all 1,188 chapters instantly — e.g. search "grace" to see every instance across the entire Bible
+8. See `SEARCHABILITY_GUIDE.md` for full search instructions
 
 ### Option 2: Any Markdown Reader
 

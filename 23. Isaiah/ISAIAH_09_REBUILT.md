@@ -9,7 +9,7 @@
 **Testament:** Old Testament  
 **Key Themes:** Christ's Light, Christ's Birth, Christ's Kingdom, Divine Judgment
 
-**Tags:** #christ #divine-judgment
+**Tags:** #christ #divine-judgment #messianic-prophecy #unto-us-a-child-is-born #wonderful-counsellor #mighty-god #everlasting-father #prince-of-peace #galilee #darkness-to-light #zeal-of-the-LORD #throne-of-david
 
 ---
 

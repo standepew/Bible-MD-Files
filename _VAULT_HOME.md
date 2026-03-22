@@ -18,6 +18,10 @@
 | [[SYMBOL_DICTIONARY]] | 45 biblical symbols with all occurrences | ✅ Complete |
 | [[HUB_CHAPTERS_INDEX]] | Most-connected chapters (Scripture's own emphasis) | ✅ Complete |
 | [[MASTER_CROSS_REFERENCE_INDEX]] | 1,183 chapters cross-referenced | ✅ Complete |
+| [[BIBLE_MAP_OF_CONTENT]] | Clickable table of contents — every book, every chapter | ✅ Complete |
+| [[SEARCHABILITY_GUIDE]] | How to search the vault — global search, tags, keywords, graph | ✅ Complete |
+| [[The Complete Biblical Research Collection 2026]] | Master research PDF (272 pages) | ✅ Complete |
+| [[FINAL_Distribution_Document]] | Independent structural coherence analysis | ✅ Complete |
 
 ---
 

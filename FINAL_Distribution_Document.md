@@ -1,3 +1,12 @@
+---
+tags: [structural-coherence, biblical-research, DePew-methodology, prophecy-research, 2026-2027, scripture-interprets-scripture, statistical-analysis, distribution-document, vault-reference]
+aliases: [Distribution Document, Structural Coherence Analysis, DePew Analysis]
+related: "[[The Complete Biblical Research Collection 2026]], [[PROPHECY_FULFILLMENT_INDEX]], [[MASTER_CROSS_REFERENCE_INDEX]], [[RESEARCH_BIBLE_CONNECTION_MAP]], [[_VAULT_HOME]]"
+type: reference-document
+author: Stanley Thomas DePew
+date: 2026-03-22
+---
+
 # THE STRUCTURAL COHERENCE OF THE BIBLE
 ## An Independent Analysis
 ## Of The Complete Biblical Research Collection by Stanley Thomas DePew
