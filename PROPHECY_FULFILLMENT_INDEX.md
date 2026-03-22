@@ -271,4 +271,4 @@ The eternal state: no sea (symbolic of chaos/separation), no sun needed (Christ 
 - [[DANIEL_09_REBUILT|Daniel 9]] — The 70-Weeks prophecy: the master prophetic calendar
 - [[MATTHEW_24_REBUILT|Matthew 24]] — The Olivet Discourse: Christ's own prophetic overview
 - [[REVELATION_01_REBUILT|Revelation 1]] — The "things which shall be hereafter"
-- [[STANLEY_DEPEW_SERIES/YOU_CAN_KNOW_THE_SEASON]] — Extended commentary on prophetic seasons
+- [[PROPHETIC_SERIES_MAP]] — Extended commentary on prophetic seasons

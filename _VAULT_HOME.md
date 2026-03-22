@@ -91,7 +91,7 @@ Gen 1-2              ↓                                    Rev 21-22
 2. [[MATTHEW_24_REBUILT|Matthew 24]] — Christ's own overview (Olivet Discourse)
 3. [[PROPHECY_FULFILLMENT_INDEX#category-3-tribulation-period-prophecies-p043p052|Tribulation Prophecies]] — P043–P052
 4. [[REVELATION_12_REBUILT|Revelation 12]] — The cosmic backstory (chiastic center)
-5. [[STANLEY_DEPEW_SERIES/YOU_CAN_KNOW_THE_SEASON]] — Extended commentary
+5. [[PROPHETIC_SERIES_MAP]] — Extended prophetic commentary
 
 ### Pathway 3: Scripture Interprets Scripture
 1. [[HUB_CHAPTERS_INDEX]] — Start with Tier 1 hub chapters
@@ -103,7 +103,7 @@ Gen 1-2              ↓                                    Rev 21-22
 1. Run `python3 scripts/news_prophecy_mapper.py`
 2. Open [[NEWS_PROPHECY_MAP]]
 3. Cross-reference with [[PROPHECY_FULFILLMENT_INDEX]] for context
-4. Check [[STANLEY_DEPEW_SERIES/THE_END_IS_THE_BEGINNING]] for theological framework
+4. Check [[RESEARCH_BIBLE_CONNECTION_MAP]] for theological framework
 
 ---
 
@@ -187,16 +187,3 @@ Every one of the 1,188 chapter files is structured identically:
 | [[OBSIDIAN_VAULT_SETUP]] | Complete Obsidian configuration guide |
 | [[templates/DATAVIEW_QUERIES]] | 26 dynamic Dataview queries |
 
----
-
-## Series Files
-
-| File | Topic |
-|------|-------|
-| [[STANLEY_DEPEW_SERIES/BIBLICAL_MANIFESTO]] | The philosophy of this entire project |
-| [[STANLEY_DEPEW_SERIES/BIBLICAL_CHRONOLOGY_TIMELINE]] | Anno Mundi dating framework |
-| [[STANLEY_DEPEW_SERIES/THE_END_IS_THE_BEGINNING]] | Eschatology essay |
-| [[STANLEY_DEPEW_SERIES/THE_ONLY_WAY_OUT]] | Redemption theology |
-| [[STANLEY_DEPEW_SERIES/THE_SAME_SPIRIT]] | Holy Spirit essay |
-| [[STANLEY_DEPEW_SERIES/YOU_CAN_KNOW_THE_SEASON]] | Prophetic seasons (32,000 words) |
-| [[STANLEY_DEPEW_SERIES/SERIES_INDEX]] | Overview of all 7 essays |
