@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 30
+testament: "Old Testament"
+key_themes: "Thanksgiving for Healing, God's Anger and Favor, Morning Joy, Dancing for Gladness"
+tags:
+  - thanksgiving-for-healing
+  - god
+  - morning-joy
+  - dancing-for-gladness
+---
 # Psalm 30
 
 ---
@@ -129,7 +140,7 @@ Psalm, Song, dedication, house, David, extol, LORD, lifted, foes, rejoice, LORD,
 
 
 *AI Keywords for current event matching:*
-`alive` `anger` `brought` `cried` `dancing` `david` `dedication` `endure` `extol` `face` `favor` `favour` `foes` `forever` `girded` `give` `gladness` `glory` `god` `gods` `grave` `healed` `healing` `hide` `holiness` `house` `joy` `kept` `life` `lifted` `lord` `moment` `morning` `mountain` `mourning` `moved` `never` `night` `pit` `praise` `prosperity` `psalm` `put` `rejoice` `remembrance` `sackcloth` `saints` `silent` `sing` `song` `soul` `stand` `strong` `thanks` `thanksgiving` `troubled` `turned` `weeping`
+#alive #anger #brought #cried #dancing #david #dedication #endure #extol #face #favor #favour #foes #forever #girded #give #gladness #glory #god #gods #grave #healed #healing #hide #holiness #house #joy #kept #life #lifted #lord #moment #morning #mountain #mourning #moved #never #night #pit #praise #prosperity #psalm #put #rejoice #remembrance #sackcloth #saints #silent #sing #song #soul #stand #strong #thanks #thanksgiving #troubled #turned #weeping
 
 
 ---

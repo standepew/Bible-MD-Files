@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 74
+testament: "Old Testament"
+key_themes: "Divine Anger, Temple Destruction, God's Past Works, Plea for Restoration"
+tags:
+  - divine-anger
+  - temple-destruction
+  - god
+  - plea-for-restoration
+---
 # Psalm 74
 
 ---
@@ -129,7 +140,7 @@ Maschil, Asaph, GOD, cast, forever, anger, smoke, sheep, pasture, Remember, cong
 
 
 *AI Keywords for current event matching:*
-`anger` `arise` `asaph` `axes` `blasphemed` `brake` `break` `carved` `cast` `casting` `cause` `congregations` `daily` `defiled` `deliver` `desolations` `destruction` `divided` `divine` `dragons` `dwelling` `earth` `enemies` `enemy` `ensigns` `feet` `fire` `foolish` `forever` `gave` `god` `gods` `ground` `hammers` `heads` `inhabiting` `king` `leviathan` `lift` `lord` `man` `maschil` `meat` `midst` `multitude` `name` `past` `pasture` `people` `perpetual` `pieces` `place` `plea` `plead` `remember` `reproached` `reproacheth` `restoration` `roar` `salvation` `sanctuary` `sea` `set` `sheep` `signs` `smoke` `soul` `strength` `temple` `turtledove` `waters` `wicked` `wickedly` `wilderness` `work` `working` `works`
+#anger #arise #asaph #axes #blasphemed #brake #break #carved #cast #casting #cause #congregations #daily #defiled #deliver #desolations #destruction #divided #divine #dragons #dwelling #earth #enemies #enemy #ensigns #feet #fire #foolish #forever #gave #god #gods #ground #hammers #heads #inhabiting #king #leviathan #lift #lord #man #maschil #meat #midst #multitude #name #past #pasture #people #perpetual #pieces #place #plea #plead #remember #reproached #reproacheth #restoration #roar #salvation #sanctuary #sea #set #sheep #signs #smoke #soul #strength #temple #turtledove #waters #wicked #wickedly #wilderness #work #working #works
 
 
 ---

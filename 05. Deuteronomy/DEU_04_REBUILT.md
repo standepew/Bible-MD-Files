@@ -1,3 +1,35 @@
+---
+book: "Deuteronomy"
+chapter: 4
+testament: "Old Testament"
+key_themes: "Add Not / Diminish Not, Sola Scriptura Principle, Baal-Peor Warning, God's Nearness to Israel, No Visible Form at Horeb, Prohibition of Idolatry, Covenant Warning of Scattering, Promise of Return in the Latter Days, God as Consuming Fire, The Uniqueness of Israel's Revelation, Cities of Refuge East of Jordan"
+tags:
+  - deuteronomy
+  - chapter4
+  - add-not-diminish-not
+  - Baal-peor
+  - word-of-God-complete
+  - voice-no-similitude
+  - consuming-fire
+  - jealous-God
+  - no-graven-image
+  - scattering-nations
+  - latter-days
+  - seek-LORD-find-him
+  - tribulation
+  - merciful-God
+  - no-nation-like-Israel
+  - iron-furnace-Egypt
+  - heaven-and-earth-witness
+  - covenant
+  - Horeb
+  - ten-commandments
+  - cities-of-refuge
+  - Bezer
+  - Ramoth
+  - Golan
+  - Sion-Hermon
+---
 # Deuteronomy 4
 
 ---
@@ -113,7 +145,7 @@ Moses issues the solemn command: do not add to or take away from God's word. The
 
 ## KEYWORD INDEX
 
-`add not / diminish not` `Baal-peor` `no similitude / no form` `consuming fire` `jealous God` `scattering prophecy` `latter days` `merciful God` `none else` `cities of refuge` `heaven and earth as witnesses`
+#add-not--diminish-not #Baal-peor #no-similitude--no-form #consuming-fire #jealous-God #scattering-prophecy #latter-days #merciful-God #none-else #cities-of-refuge #heaven-and-earth-as-witnesses
 
 **add not / diminish not** — Revelation 22:18-19 bookend; Proverbs 30:5-6; Galatians 1:8-9  
 **Baal-peor** — 24,000 dead; Numbers 25; 1 Corinthians 10:8  

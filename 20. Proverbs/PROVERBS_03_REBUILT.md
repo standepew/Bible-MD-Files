@@ -1,3 +1,14 @@
+---
+book: "Proverbs"
+chapter: 3
+testament: "Old Testament"
+key_themes: "Trust in the LORD, Divine Direction, Wisdom's Value, God's Correction"
+tags:
+  - trust-in-the-lord
+  - divine-direction
+  - wisdom
+  - god
+---
 # Proverbs 3
 
 ---
@@ -141,7 +152,7 @@ Son, forget, law, heart, keep, commandments, length, days, long, life, peace, ad
 
 
 *AI Keywords for current event matching:*
-`acknowledge` `chastening` `confidence` `correcteth` `correction` `despise` `direct` `direction` `divine` `earth` `findeth` `foot` `founded` `gods` `heart` `keep` `lean` `life` `lord` `loveth` `paths` `precious` `rubies` `safely` `taken` `tree` `trust` `understanding` `value` `walk` `way` `wisdom` `wisdoms`
+#acknowledge #chastening #confidence #correcteth #correction #despise #direct #direction #divine #earth #findeth #foot #founded #gods #heart #keep #lean #life #lord #loveth #paths #precious #rubies #safely #taken #tree #trust #understanding #value #walk #way #wisdom #wisdoms
 
 
 ---

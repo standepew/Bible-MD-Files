@@ -1,3 +1,34 @@
+---
+book: "Exodus"
+chapter: 14
+testament: "Old Testament"
+key_themes: "The Red Sea crossing, Israel trapped between Pharaoh's army and the sea, "Fear not, stand still, see the salvation of the LORD," The pillar moves to Israel's rear, The sea parted, Israel walks through on dry ground, Egypt destroyed in the sea, Israel fears the LORD and believes, The baptism type"
+tags:
+  - Red-Sea
+  - sea-crossing
+  - Pharaoh-pursues
+  - chariots
+  - 600-chariots
+  - Pi-hahiroth
+  - Baal-zephon
+  - trapped
+  - fear-not
+  - stand-still
+  - salvation-of-the-LORD
+  - LORD-shall-fight-for-you
+  - pillar-moves-behind
+  - angel-of-God
+  - cloud-darkness-to-Egypt-light-to-Israel
+  - east-wind
+  - dry-ground
+  - wall-of-water
+  - Egyptians-drowned
+  - not-one-remained
+  - Israel-feared-the-LORD
+  - believed-Moses
+  - baptism-type
+  - salvation
+---
 # Exodus 14
 
 ---
@@ -94,7 +125,7 @@ God instructs Israel to camp at Pi-hahiroth by the sea, a position that looks li
 
 
 *AI Keywords for current event matching:*
-`command` `current` `events` `exodus` `fear` `gods` `impossible` `matching` `situations` `stand` `still`
+#command #current #events #exodus #fear #gods #impossible #matching #situations #stand #still
 
 
 ---
@@ -218,10 +249,10 @@ God instructs Israel to camp at Pi-hahiroth by the sea, a position that looks li
 
 ### The East Wind — The Breath of God in Judgment and Salvation
 
-- **Exodus 14:21** — "the LORD caused the sea to go back by a strong east wind"
-- **Genesis 41:6** — The east wind withers; in Joseph's dream it brings famine
-- **Jonah 4:8** — A vehement east wind; God's appointed instrument
-- **Ezekiel 19:12** — "the east wind dried up her fruit" — judgment wind
+- [[02. Exodus/EXO_14_REBUILT|Exodus 14:21]] — "the LORD caused the sea to go back by a strong east wind"
+- [[01. Genesis/GEN_41_REBUILT|Genesis 41:6]] — The east wind withers; in Joseph's dream it brings famine
+- [[32. Jonah/JONAH_04_REBUILT|Jonah 4:8]] — A vehement east wind; God's appointed instrument
+- [[26. Ezekiel/EZEKIEL_19_REBUILT|Ezekiel 19:12]] — "the east wind dried up her fruit" — judgment wind
 - *Thread:* The east wind in Scripture consistently represents God's sovereign breath — used for both judgment and salvation depending on who it touches. The same wind that parted the sea for Israel destroyed Egypt's army. The Spirit (ruach = wind/breath) is the agent of both salvation and judgment throughout Scripture.
 
 ---

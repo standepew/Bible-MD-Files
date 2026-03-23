@@ -1,3 +1,14 @@
+---
+book: "Malachi"
+chapter: 2
+testament: "Old Testament"
+key_themes: "Christ's Covenant with Levi, Priestly Corruption, Marriage Faithfulness, God's Justice"
+tags:
+  - christ
+  - priestly-corruption
+  - marriage-faithfulness
+  - god
+---
 # Malachi 2
 
 ---
@@ -141,7 +152,7 @@ Priests, commandment, hear, lay, heart, glory, name, LORD, hosts, send, curse, c
 
 
 *AI Keywords for current event matching:*
-`base` `blessings` `christs` `contemptible` `corrupt` `corrupted` `corruption` `covenant` `curse` `cut` `deal` `departed` `dung` `faithfulness` `father` `fear` `god` `gods` `hateth` `justice` `law` `levi` `life` `man` `marriage` `name` `one` `peace` `priestly` `putting` `seed` `spread` `strange` `treacherously` `truth` `way` `wife`
+#base #blessings #christs #contemptible #corrupt #corrupted #corruption #covenant #curse #cut #deal #departed #dung #faithfulness #father #fear #god #gods #hateth #justice #law #levi #life #man #marriage #name #one #peace #priestly #putting #seed #spread #strange #treacherously #truth #way #wife
 
 
 ---

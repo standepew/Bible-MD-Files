@@ -1,3 +1,42 @@
+---
+book: "Deuteronomy"
+chapter: 15
+testament: "Old Testament"
+key_themes: "Seven-Year Release, Canceling Debts, Lending to Poor, Generous Heart, Remembering Egypt, Hebrew Servants, Seventh Year Freedom, Voluntary Servitude, Firstling Animals, Blemished Sacrifices"
+tags:
+  - seven-year-release
+  - LORD
+  - cancel-debts
+  - creditor-release
+  - foreigner-exact
+  - no-poor-among-you
+  - lend-to-many-nations
+  - not-borrow
+  - reign-over-nations
+  - poor-brother
+  - harden-not-heart
+  - open-hand-wide
+  - evil-eye
+  - seventh-year-hand
+  - give-with-glad-heart
+  - poor-never-cease
+  - Hebrew-servant
+  - six-years
+  - seventh-freedom
+  - not-go-away-empty
+  - furnish-liberally
+  - remember-Egypt
+  - redeemed-thee
+  - ear-aul-door
+  - servant-for-ever
+  - firstling-males
+  - sanctify-LORD
+  - no-work-firstling
+  - eat-before-LORD
+  - blemish-not-sacrifice
+  - eat-within-gates
+  - pour-blood-ground
+---
 # Deuteronomy 15
 
 ---
@@ -118,7 +157,7 @@ Moses commands the seven-year release: at the end of every seven years, creditor
 
 
 *AI Keywords for current event matching:*
-`alike` `animals` `attitude` `aul` `away` `beware` `blemish` `blemished` `bless` `blessing` `blind` `blood` `bondman` `borrow` `brother` `bullock` `carefully` `cease` `chooses` `clean` `command` `commandments` `commands` `creditor` `cry` `door` `double` `ear` `eat` `economic` `egypt` `empty` `end` `ever` `evil` `exact` `eye` `firstling` `flock` `floor` `foreigner` `free` `furnish` `gates` `generosity` `give` `givest` `giving` `greatly` `grieved` `ground` `hand` `hard` `harden` `hart` `hearken` `heart` `hebrew` `hired` `house` `household` `ill` `lame` `land` `lend` `liberally` `likewise` `lord` `lords` `love` `maidservant` `make` `males` `man` `many` `motivation` `nations` `neighbor` `never` `observe` `open` `place` `poor` `pour` `puttest` `redeemed` `redemption` `regulations` `reign` `release` `remember` `roebuck` `sacrifice` `sanctify` `save` `seem` `servant` `servants` `serve` `servitude` `seven` `seven-year` `seventh` `shear` `sheep` `shut` `six` `sold` `sufficient` `surely` `therein` `thing` `unclean` `voluntary` `water` `well` `wicked` `wide` `winepress` `within` `woman` `work` `works` `year` `years`
+#alike #animals #attitude #aul #away #beware #blemish #blemished #bless #blessing #blind #blood #bondman #borrow #brother #bullock #carefully #cease #chooses #clean #command #commandments #commands #creditor #cry #door #double #ear #eat #economic #egypt #empty #end #ever #evil #exact #eye #firstling #flock #floor #foreigner #free #furnish #gates #generosity #give #givest #giving #greatly #grieved #ground #hand #hard #harden #hart #hearken #heart #hebrew #hired #house #household #ill #lame #land #lend #liberally #likewise #lord #lords #love #maidservant #make #males #man #many #motivation #nations #neighbor #never #observe #open #place #poor #pour #puttest #redeemed #redemption #regulations #reign #release #remember #roebuck #sacrifice #sanctify #save #seem #servant #servants #serve #servitude #seven #seven-year #seventh #shear #sheep #shut #six #sold #sufficient #surely #therein #thing #unclean #voluntary #water #well #wicked #wide #winepress #within #woman #work #works #year #years
 
 
 ---

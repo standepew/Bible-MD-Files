@@ -1,3 +1,13 @@
+---
+book: "Isaiah"
+chapter: 25
+testament: "Old Testament"
+key_themes: "Christ's Salvation, Divine Feast, Death's Destruction, Christ's Victory"
+tags:
+  - christ
+  - divine-feast
+  - death
+---
 # Isaiah 25
 
 ---
@@ -117,7 +127,7 @@ LORD, God, exalt, praise, name, wonderful, things, counsels, faithfulness, truth
 
 
 *AI Keywords for current event matching:*
-`christs` `counsels` `death` `deaths` `destruction` `divine` `down` `faithfulness` `fat` `feast` `glad` `god` `hand` `lees` `lord` `marrow` `poor` `rebuke` `refined` `rejoice` `rest` `salvation` `save` `strength` `swallow` `take` `tears` `things` `trodden` `victory` `waited` `wines` `wipe` `wonderful`
+#christs #counsels #death #deaths #destruction #divine #down #faithfulness #fat #feast #glad #god #hand #lees #lord #marrow #poor #rebuke #refined #rejoice #rest #salvation #save #strength #swallow #take #tears #things #trodden #victory #waited #wines #wipe #wonderful
 
 
 ---

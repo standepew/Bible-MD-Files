@@ -1,3 +1,14 @@
+---
+book: "Proverbs"
+chapter: 14
+testament: "Old Testament"
+key_themes: "Wisdom and Folly, Righteousness and Wickedness, Pride and Humility, Fear of the LORD"
+tags:
+  - wisdom-and-folly
+  - righteousness-and-wickedness
+  - pride-and-humility
+  - fear-of-the-lord
+---
 # Proverbs 14
 
 ---
@@ -129,7 +140,7 @@ Wise, woman, buildeth, house, foolish, plucketh, hands, walketh, uprightness, fe
 
 
 *AI Keywords for current event matching:*
-`backslider` `buildeth` `confidence` `exalteth` `faithful` `false` `fear` `feareth` `filled` `folly` `foolish` `fountain` `great` `hands` `heart` `house` `humility` `lie` `lies` `life` `lips` `lord` `nation` `plucketh` `pride` `righteousness` `rod` `scorner` `seeketh` `slow` `strong` `understanding` `uprightness` `utter` `walketh` `ways` `wickedness` `wisdom` `wise` `witness` `woman` `wrath`
+#backslider #buildeth #confidence #exalteth #faithful #false #fear #feareth #filled #folly #foolish #fountain #great #hands #heart #house #humility #lie #lies #life #lips #lord #nation #plucketh #pride #righteousness #rod #scorner #seeketh #slow #strong #understanding #uprightness #utter #walketh #ways #wickedness #wisdom #wise #witness #woman #wrath
 
 
 ---

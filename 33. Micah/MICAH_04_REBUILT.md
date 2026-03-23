@@ -1,3 +1,14 @@
+---
+book: "Micah"
+chapter: 4
+testament: "Old Testament"
+key_themes: "Christ's Millennial Kingdom, Universal Peace, Zion's Exaltation, Gentile Nations"
+tags:
+  - christ
+  - universal-peace
+  - zion
+  - gentile-nations
+---
 # Micah 4
 
 ---
@@ -129,7 +140,7 @@ Last, days, pass, mountain, house, LORD, established, top, mountains, exalted, h
 
 
 *AI Keywords for current event matching:*
-`assemble` `beat` `christs` `come` `consecrate` `days` `driven` `established` `exaltation` `exalted` `fig` `flock` `gain` `gather` `gentile` `halteth` `hills` `house` `judge` `kingdom` `last` `learn` `lord` `many` `millennial` `mount` `mountain` `nations` `peace` `people` `plowshares` `pruninghooks` `reign` `spears` `swords` `top` `tower` `tree` `universal` `vine` `war` `zion` `zions`
+#assemble #beat #christs #come #consecrate #days #driven #established #exaltation #exalted #fig #flock #gain #gather #gentile #halteth #hills #house #judge #kingdom #last #learn #lord #many #millennial #mount #mountain #nations #peace #people #plowshares #pruninghooks #reign #spears #swords #top #tower #tree #universal #vine #war #zion #zions
 
 
 ---

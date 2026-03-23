@@ -1,3 +1,14 @@
+---
+book: "Hebrews"
+chapter: 9
+testament: "New Testament"
+key_themes: "The Earthly Tabernacle, Limitations of the Old Covenant, Christ's Superior Sacrifice, The New Testament Established"
+tags:
+  - the-earthly-tabernacle
+  - limitations-of-the-old-covenant
+  - christ
+  - the-new-testament-established
+---
 # Hebrews 9
 
 ---
@@ -117,7 +128,7 @@ First, covenant, ordinances, divine, service, worldly, sanctuary, tabernacle, ca
 
 
 *AI Keywords for current event matching:*
-`aaron` `accomplishing` `alone` `always` `appear` `appeared` `appointed` `ark` `ashes` `bear` `better` `blood` `book` `budded` `building` `bulls` `called` `calves` `candlestick` `carnal` `cause` `censer` `cherubims` `christ` `christs` `conscience` `covenant` `dead` `death` `dedicated` `die` `divers` `divine` `drinks` `earthly` `end` `enjoined` `entered` `entereth` `errors` `established` `eternal` `figure` `figures` `first` `flesh` `force` `foundation` `ghost` `gifts` `glory` `goats` `god` `golden` `good` `greater` `hands` `heaven` `heavenly` `heavens` `heifer` `high` `holiest` `holy` `hyssop` `imposed` `inheritance` `judgment` `law` `limitations` `liveth` `living` `look` `manifest` `manna` `meats` `mediator` `men` `mercyseat` `ministry` `moses` `new` `offered` `often` `old` `ordained` `ordinances` `others` `patterns` `people` `perfect` `place` `places` `pot` `precept` `presence` `present` `priest` `priests` `promise` `purge` `purged` `purified` `purifying` `receive` `redemption` `reformation` `remission` `rod` `sacrifice` `sacrifices` `salvation` `sanctifieth` `sanctuary` `scarlet` `second` `serve` `service` `shadowing` `shedding` `shewbread` `signifying` `sin` `sins` `spirit` `spoken` `spot` `sprinkled` `sprinkling` `standing` `strength` `suffered` `superior` `tabernacle` `table` `tables` `testament` `testator` `things` `time` `transgressions` `true` `unclean` `veil` `vessels` `washings` `water` `way` `wool` `works` `world` `worldly` `year`
+#aaron #accomplishing #alone #always #appear #appeared #appointed #ark #ashes #bear #better #blood #book #budded #building #bulls #called #calves #candlestick #carnal #cause #censer #cherubims #christ #christs #conscience #covenant #dead #death #dedicated #die #divers #divine #drinks #earthly #end #enjoined #entered #entereth #errors #established #eternal #figure #figures #first #flesh #force #foundation #ghost #gifts #glory #goats #god #golden #good #greater #hands #heaven #heavenly #heavens #heifer #high #holiest #holy #hyssop #imposed #inheritance #judgment #law #limitations #liveth #living #look #manifest #manna #meats #mediator #men #mercyseat #ministry #moses #new #offered #often #old #ordained #ordinances #others #patterns #people #perfect #place #places #pot #precept #presence #present #priest #priests #promise #purge #purged #purified #purifying #receive #redemption #reformation #remission #rod #sacrifice #sacrifices #salvation #sanctifieth #sanctuary #scarlet #second #serve #service #shadowing #shedding #shewbread #signifying #sin #sins #spirit #spoken #spot #sprinkled #sprinkling #standing #strength #suffered #superior #tabernacle #table #tables #testament #testator #things #time #transgressions #true #unclean #veil #vessels #washings #water #way #wool #works #world #worldly #year
 
 
 ---

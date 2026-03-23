@@ -1,3 +1,17 @@
+---
+book: "1 Kings"
+chapter: 16
+testament: "Old Testament"
+key_themes: "Baasha's Judgment, Zimri's Treason, Omri's Dynasty, Ahab's Idolatry, Jericho's Rebuilding"
+tags:
+  - Omri-Gibbethon-Israel-besieged-Tirzah
+  - Omri-evil-eyes-LORD-worse
+  - baasha
+  - zimri
+  - omri
+  - ahab
+  - jericho
+---
 # 1 Kings 16
 
 ---
@@ -87,7 +101,7 @@ Word LORD Jehu son Hanani Baasha, exalted dust, prince people Israel; walked way
 
 
 *AI Keywords for current event matching:*
-`abiram` `acts` `ahab` `ahabs` `air` `altar` `anger` `arza` `asa` `assassination` `baal` `baasha` `baashas` `began` `besieged` `beth-elite` `book` `bought` `build` `built` `buried` `burnt` `camp` `captain` `chariots` `chronicles` `city` `civil` `conspired` `daughter` `day` `days` `destroy` `died` `dies` `divided` `dogs` `drinking` `drunk` `dust` `dynasty` `eat` `elah` `elahs` `encamped` `ethbaal` `evil` `exalted` `eyes` `fathers` `fields` `fire` `firstborn` `foundation` `fowls` `friends` `gates` `gibbethon` `ginath` `god` `grove` `half` `hanani` `hands` `heard` `hiel` `hill` `host` `house` `idolatry` `israel` `jehu` `jericho` `jerichos` `jeroboam` `jezebel` `joshua` `judah` `judgment` `killed` `king` `kings` `kinsfolks` `light` `lord` `name` `nebat` `nun` `omri` `omris` `owner` `palace` `parts` `people` `philistines` `pisseth` `posterity` `prevailed` `prince` `prophet` `provoke` `provoking` `reared` `rebuilding` `reign` `reigned` `samaria` `sat` `segub` `servant` `served` `seven` `shemer` `sight` `silver` `sin` `sinned` `sins` `six` `slain` `slept` `slew` `smote` `son` `spoke` `steward` `take` `taken` `talents` `thing` `thirty-eighth` `thirty-first` `throne` `tibni` `tirzah` `treason` `twelve` `twenty` `twenty-seventh` `twenty-sixth` `two` `vanities` `walk` `walked` `walking` `wall` `war` `way` `wife` `word` `work` `worse` `worshipped` `year` `years` `youngest` `zidonians` `zimri` `zimris`
+#abiram #acts #ahab #ahabs #air #altar #anger #arza #asa #assassination #baal #baasha #baashas #began #besieged #beth-elite #book #bought #build #built #buried #burnt #camp #captain #chariots #chronicles #city #civil #conspired #daughter #day #days #destroy #died #dies #divided #dogs #drinking #drunk #dust #dynasty #eat #elah #elahs #encamped #ethbaal #evil #exalted #eyes #fathers #fields #fire #firstborn #foundation #fowls #friends #gates #gibbethon #ginath #god #grove #half #hanani #hands #heard #hiel #hill #host #house #idolatry #israel #jehu #jericho #jerichos #jeroboam #jezebel #joshua #judah #judgment #killed #king #kings #kinsfolks #light #lord #name #nebat #nun #omri #omris #owner #palace #parts #people #philistines #pisseth #posterity #prevailed #prince #prophet #provoke #provoking #reared #rebuilding #reign #reigned #samaria #sat #segub #servant #served #seven #shemer #sight #silver #sin #sinned #sins #six #slain #slept #slew #smote #son #spoke #steward #take #taken #talents #thing #thirty-eighth #thirty-first #throne #tibni #tirzah #treason #twelve #twenty #twenty-seventh #twenty-sixth #two #vanities #walk #walked #walking #wall #war #way #wife #word #work #worse #worshipped #year #years #youngest #zidonians #zimri #zimris
 
 
 ---

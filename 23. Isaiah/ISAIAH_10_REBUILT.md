@@ -1,3 +1,14 @@
+---
+book: "Isaiah"
+chapter: 10
+testament: "Old Testament"
+key_themes: "Divine Judgment, Assyrian Instrument, Christ's Protection, Remnant Salvation"
+tags:
+  - divine-judgment
+  - assyrian-instrument
+  - christ
+  - remnant-salvation
+---
 # Isaiah 10
 
 ---
@@ -165,7 +176,7 @@ Woe, decree, unrighteous, decrees, write, grievous, prescribed, turn, aside, nee
 
 
 *AI Keywords for current event matching:*
-`afraid` `anger` `anointing` `assyrian` `axe` `boast` `burden` `christs` `consumption` `decrees` `destroy` `divine` `god` `hypocritical` `indignation` `instrument` `israel` `judgment` `lord` `mighty` `nation` `nations` `needy` `protection` `remnant` `return` `righteousness` `rod` `salvation` `shoulder` `staff` `stay` `unrighteous`
+#afraid #anger #anointing #assyrian #axe #boast #burden #christs #consumption #decrees #destroy #divine #god #hypocritical #indignation #instrument #israel #judgment #lord #mighty #nation #nations #needy #protection #remnant #return #righteousness #rod #salvation #shoulder #staff #stay #unrighteous
 
 
 ---

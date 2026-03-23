@@ -1,3 +1,122 @@
+---
+book: "Judges"
+chapter: 6
+testament: "Old Testament"
+key_themes: "Midianite Oppression, Gideon's Call, Angelic Appearance, Sign of Fire, Altar of Jehovah-shalom, Baal's Altar Destroyed, Jerubbaal Named, Fleece Signs, Spirit's Empowerment"
+tags:
+  - children-Israel-evil-sight-LORD
+  - hand-Midian-prevailed-Israel
+  - Midianites-children-Israel-dens-mountains
+  - caves-strong-holds
+  - Israel-sown
+  - Midianites-came-Amalekites-children-east
+  - encamped-destroyed-increase-earth
+  - Gaza
+  - sustenance-Israel-sheep-ox-ass
+  - cattle-tents
+  - grasshoppers-multitude
+  - camels-without-number
+  - entered-land-destroy
+  - Israel-greatly-impoverished-Midianites
+  - children-Israel-cried-LORD
+  - children-Israel-cried-LORD-Midianites
+  - LORD-sent-prophet-children-Israel
+  - LORD-God-Israel-brought-Egypt
+  - house-bondage
+  - delivered-hand-Egyptians
+  - hand-oppressed
+  - drove-before
+  - gave-land
+  - LORD-God
+  - fear-gods-Amorites-land-dwell
+  - obeyed-voice
+  - angel-LORD-oak-Ophrah
+  - Joash-Abi-ezrite
+  - son-Gideon-threshed-wheat-winepress
+  - hide-Midianites
+  - angel-LORD-appeared
+  - LORD-mighty-man-valour
+  - Gideon-LORD-us-befallen
+  - miracles-fathers
+  - LORD-brought-Egypt
+  - LORD-forsaken-delivered-hand-Midianites
+  - LORD-looked-might
+  - save-Israel-hand-Midianites
+  - sent
+  - Gideon-save-Israel
+  - family-poor-Manasseh
+  - least-father-house
+  - found-grace-sight
+  - sign-talkest
+  - Depart-hence-come-present
+  - set
+  - tarry-come-again
+  - Gideon-made-ready-kid
+  - unleavened-cakes-ephah-flour
+  - flesh-basket
+  - broth-pot
+  - oak-presented
+  - angel-God-flesh-unleavened-cakes
+  - lay-rock
+  - pour-broth
+  - angel-LORD-end-staff-hand
+  - touched-flesh-unleavened-cakes
+  - rose-fire-rock
+  - consumed-flesh-unleavened-cakes
+  - angel-LORD-departed-sight
+  - Gideon-perceived-angel-LORD
+  - Alas-Lord-GOD
+  - seen-angel-LORD-face-face
+  - LORD-Peace-die
+  - Gideon-built-altar-LORD
+  - Jehovah-shalom-Ophrah-Abi-ezrites
+  - throw-altar-Baal-father
+  - cut-grove
+  - Gideon-ten-men-servants
+  - day-night
+  - men-city-arose-morning
+  - altar-Baal-cast-down
+  - grove-cut-down
+  - second-bullock-offered-altar-built
+  - done-thing
+  - enquired-asked
+  - Gideon-son-Joash-done-thing
+  - men-city-Joash-son-die
+  - cast-down-altar-Baal
+  - cut-down-grove
+  - Joash-stand-plead-Baal
+  - save-Baal
+  - plead-put-death-morning
+  - god-plead-altar
+  - day-called-Jerubbaal
+  - Baal-plead-thrown-altar
+  - Midianites-Amalekites-children-east-gathered
+  - went-pitched-valley-Jezreel
+  - Spirit-LORD-Gideon
+  - blew-trumpet
+  - Abi-ezer-gathered
+  - messengers-Manasseh-gathered
+  - messengers-Asher-Zebulun-Naphtali
+  - came-meet
+  - Gideon-God-save-Israel-hand
+  - said
+  - fleece-wool-floor
+  - dew-fleece-dry-earth-beside
+  - know-save-Israel-hand-said
+  - Gideon-God-anger-hot
+  - speak-once
+  - prove-fleece
+  - dry-fleece-ground-dew
+  - midianite-oppression
+  - gideon
+  - angelic-appearance
+  - sign-of-fire
+  - altar-of-jehovahshalom
+  - baal
+  - jerubbaal-named
+  - fleece-signs
+  - spirit
+---
 # Judges 6
 
 ---
@@ -101,7 +220,7 @@ Israel does evil, so the LORD delivers them to Midian for seven years. Midian pr
 
 
 *AI Keywords for current event matching:*
-`abi-ezer` `abi-ezrite` `abi-ezrites` `again` `alas` `altar` `amalekites` `amorites` `angel` `anger` `appeared` `arose` `asher` `asked` `ass` `baal` `basket` `befallen` `beside` `blew` `bondage` `bowl` `broth` `brought` `build` `building` `built` `bullock` `burnt` `cakes` `called` `calling` `came` `camels` `cast` `cattle` `caves` `change` `children` `city` `come` `commission` `consumed` `cried` `cut` `day` `death` `defense` `delivered` `dens` `depart` `departed` `destroy` `destroyed` `destruction` `dew` `die` `discovery` `divine` `done` `doubt` `down` `drove` `dry` `dwell` `earth` `east` `egypt` `egyptians` `empowerment` `encamped` `end` `enemy` `enquired` `entered` `ephah` `evil` `face` `family` `father` `fathers` `fear` `feared` `fire` `fleece` `flesh` `floor` `flour` `forsaken` `found` `gathered` `gathering` `gave` `gaza` `gideon` `gideons` `god` `gods` `grace` `grasshoppers` `greatly` `ground` `grove` `hand` `hence` `hide` `holds` `hot` `house` `household` `idol` `impoverished` `increase` `israel` `jehovah-shalom` `jerubbaal` `jezreel` `joash` `joashs` `kid` `know` `land` `lay` `least` `looked` `lord` `made` `man` `manasseh` `meet` `men` `message` `messengers` `midian` `midianite` `midianites` `mighty` `miracles` `morning` `morrow` `mountains` `multitude` `name` `naphtali` `night` `number` `oak` `obeyed` `offered` `once` `one` `ophrah` `oppressed` `oppression` `ordered` `peace` `perceived` `pitched` `place` `plead` `poor` `pot` `pour` `present` `presented` `prevailed` `prophet` `prophetic` `prove` `put` `ready` `rock` `rose` `sacrifice` `said` `save` `second` `seen` `sent` `servants` `set` `seven` `sheep` `sight` `sign` `signs` `smite` `son` `sown` `speak` `spirit` `spirits` `staff` `stand` `strong` `sustenance` `talkest` `tarry` `ten` `tents` `thing` `threshed` `throw` `thrown` `thrust` `touched` `trumpet` `unleavened` `valley` `valour` `voice` `water` `went` `wheat` `winepress` `without` `wood` `wool` `wringed` `years` `zebulun`
+#abi-ezer #abi-ezrite #abi-ezrites #again #alas #altar #amalekites #amorites #angel #anger #appeared #arose #asher #asked #ass #baal #basket #befallen #beside #blew #bondage #bowl #broth #brought #build #building #built #bullock #burnt #cakes #called #calling #came #camels #cast #cattle #caves #change #children #city #come #commission #consumed #cried #cut #day #death #defense #delivered #dens #depart #departed #destroy #destroyed #destruction #dew #die #discovery #divine #done #doubt #down #drove #dry #dwell #earth #east #egypt #egyptians #empowerment #encamped #end #enemy #enquired #entered #ephah #evil #face #family #father #fathers #fear #feared #fire #fleece #flesh #floor #flour #forsaken #found #gathered #gathering #gave #gaza #gideon #gideons #god #gods #grace #grasshoppers #greatly #ground #grove #hand #hence #hide #holds #hot #house #household #idol #impoverished #increase #israel #jehovah-shalom #jerubbaal #jezreel #joash #joashs #kid #know #land #lay #least #looked #lord #made #man #manasseh #meet #men #message #messengers #midian #midianite #midianites #mighty #miracles #morning #morrow #mountains #multitude #name #naphtali #night #number #oak #obeyed #offered #once #one #ophrah #oppressed #oppression #ordered #peace #perceived #pitched #place #plead #poor #pot #pour #present #presented #prevailed #prophet #prophetic #prove #put #ready #rock #rose #sacrifice #said #save #second #seen #sent #servants #set #seven #sheep #sight #sign #signs #smite #son #sown #speak #spirit #spirits #staff #stand #strong #sustenance #talkest #tarry #ten #tents #thing #threshed #throw #thrown #thrust #touched #trumpet #unleavened #valley #valour #voice #water #went #wheat #winepress #without #wood #wool #wringed #years #zebulun
 
 
 ---

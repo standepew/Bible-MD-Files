@@ -1,3 +1,14 @@
+---
+book: "Matthew"
+chapter: 1
+testament: "New Testament"
+key_themes: "Christ's Royal Genealogy, Virgin Birth, Emmanuel Prophecy, Divine Protection"
+tags:
+  - christ
+  - virgin-birth
+  - emmanuel-prophecy
+  - divine-protection
+---
 # Matthew 1
 
 ---
@@ -105,7 +116,7 @@ Book, generation, Jesus, Christ, son, David, son, Abraham, Abraham, begat, Isaac
 
 
 *AI Keywords for current event matching:*
-`abraham` `angel` `appeared` `bidden` `birth` `book` `called` `child` `christs` `conceived` `david` `divine` `emmanuel` `firstborn` `fourteen` `fulfilled` `genealogy` `generation` `generations` `ghost` `god` `holy` `interpreted` `jesus` `joseph` `prophecy` `protection` `raised` `royal` `sleep` `son` `spoken` `virgin` `wife`
+#abraham #angel #appeared #bidden #birth #book #called #child #christs #conceived #david #divine #emmanuel #firstborn #fourteen #fulfilled #genealogy #generation #generations #ghost #god #holy #interpreted #jesus #joseph #prophecy #protection #raised #royal #sleep #son #spoken #virgin #wife
 
 
 ---

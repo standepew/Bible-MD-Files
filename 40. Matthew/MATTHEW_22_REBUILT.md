@@ -1,3 +1,13 @@
+---
+book: "Matthew"
+chapter: 22
+testament: "New Testament"
+key_themes: "Christ's Wedding Feast, Kingdom Invitation, Divine Commandments, Christ's Sonship"
+tags:
+  - christ
+  - kingdom-invitation
+  - divine-commandments
+---
 # Matthew 22
 
 ---
@@ -153,7 +163,7 @@ Jesus, answered, parables, kingdom, heaven, king, marriage, son, sent, servants,
 
 
 *AI Keywords for current event matching:*
-`angels` `bad` `bidden` `caesar` `call` `called` `chosen` `christs` `commandments` `darkness` `david` `divine` `fatlings` `feast` `few` `footstool` `garment` `good` `hedges` `highways` `invitation` `kingdom` `lord` `love` `many` `marriage` `neighbour` `outer` `oxen` `render` `resurrection` `son` `sonship` `wedding`
+#angels #bad #bidden #caesar #call #called #chosen #christs #commandments #darkness #david #divine #fatlings #feast #few #footstool #garment #good #hedges #highways #invitation #kingdom #lord #love #many #marriage #neighbour #outer #oxen #render #resurrection #son #sonship #wedding
 
 
 ---

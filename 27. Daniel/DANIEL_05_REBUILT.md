@@ -1,3 +1,13 @@
+---
+book: "Daniel"
+chapter: 5
+testament: "Old Testament"
+key_themes: "Christ's Judgment, Divine Writing, God's Sovereignty, Christ's Wisdom"
+tags:
+  - christ
+  - divine-writing
+  - god
+---
 # Daniel 5
 
 ---
@@ -117,7 +127,7 @@ Belshazzar, king, great, feast, thousand, lords, drank, wine, thousand, Belshazz
 
 
 *AI Keywords for current event matching:*
-`appointeth` `christs` `dissolve` `divided` `divine` `doubts` `dreams` `excellent` `fingers` `finished` `god` `gods` `hand` `high` `holy` `interpretation` `interpreting` `judgment` `kingdom` `mene` `numbered` `plaister` `ruled` `sovereignty` `spirit` `tekel` `wanting` `weighed` `whomsoever` `wisdom` `writing` `written` `wrote`
+#appointeth #christs #dissolve #divided #divine #doubts #dreams #excellent #fingers #finished #god #gods #hand #high #holy #interpretation #interpreting #judgment #kingdom #mene #numbered #plaister #ruled #sovereignty #spirit #tekel #wanting #weighed #whomsoever #wisdom #writing #written #wrote
 
 
 ---

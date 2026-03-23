@@ -1,3 +1,14 @@
+---
+book: "Zechariah"
+chapter: 2
+testament: "Old Testament"
+key_themes: "Christ's Divine Protection, Jerusalem's Expansion, God's Presence, Gathering of Nations"
+tags:
+  - christ
+  - jerusalem
+  - god
+  - gathering-of-nations
+---
 # Zechariah 2
 
 ---
@@ -129,7 +140,7 @@ Lifted, eyes, man, measuring, line, hand, Whither, goth, measure, Jerusalem, bre
 
 
 *AI Keywords for current event matching:*
-`abroad` `apple` `cattle` `christs` `come` `divine` `dwell` `expansion` `eye` `fire` `four` `gathering` `glory` `gods` `habitation` `hand` `holy` `jerusalems` `joined` `know` `lord` `many` `men` `midst` `multitude` `nations` `people` `presence` `protection` `raised` `round` `sent` `shake` `spread` `towns` `wall` `walls` `winds` `without`
+#abroad #apple #cattle #christs #come #divine #dwell #expansion #eye #fire #four #gathering #glory #gods #habitation #hand #holy #jerusalems #joined #know #lord #many #men #midst #multitude #nations #people #presence #protection #raised #round #sent #shake #spread #towns #wall #walls #winds #without
 
 
 ---

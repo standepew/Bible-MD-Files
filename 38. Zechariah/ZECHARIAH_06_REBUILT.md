@@ -1,3 +1,14 @@
+---
+book: "Zechariah"
+chapter: 6
+testament: "Old Testament"
+key_themes: "Christ's Divine Judgment, Four Chariots, The Branch Crowned, Priest-King Messiah"
+tags:
+  - christ
+  - four-chariots
+  - the-branch-crowned
+  - priestking-messiah
+---
 # Zechariah 6
 
 ---
@@ -105,7 +116,7 @@ Turned, lifted, eyes, looked, four, chariots, two, mountains, mountains, brass, 
 
 
 *AI Keywords for current event matching:*
-`bay` `bear` `black` `branch` `brass` `build` `chariots` `christs` `counsel` `crowned` `divine` `far` `four` `glory` `grisled` `grow` `horses` `judgment` `messiah` `mountains` `name` `off` `peace` `place` `priest` `priest-king` `quieted` `red` `rule` `spirit` `spirits` `temple` `throne` `white`
+#bay #bear #black #branch #brass #build #chariots #christs #counsel #crowned #divine #far #four #glory #grisled #grow #horses #judgment #messiah #mountains #name #off #peace #place #priest #priest-king #quieted #red #rule #spirit #spirits #temple #throne #white
 
 
 ---

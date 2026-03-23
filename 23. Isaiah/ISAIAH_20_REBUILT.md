@@ -1,3 +1,14 @@
+---
+book: "Isaiah"
+chapter: 20
+testament: "Old Testament"
+key_themes: "Christ's Sign, Prophetic Action, Divine Judgment, Spiritual Humiliation"
+tags:
+  - christ
+  - prophetic-action
+  - divine-judgment
+  - spiritual-humiliation
+---
 # Isaiah 20
 
 ---
@@ -105,7 +116,7 @@ Year, Tartan, came, Ashdod, Sargon, king, Assyria, sent, fought, Ashdod, took, t
 
 
 *AI Keywords for current event matching:*
-`action` `afraid` `ashamed` `assyria` `barefoot` `christs` `divine` `egypt` `escape` `ethiopia` `expectation` `glory` `humiliation` `inhabitant` `isaiah` `isle` `judgment` `king` `lead` `loose` `lord` `naked` `prisoners` `prophetic` `put` `sackcloth` `servant` `shame` `shoe` `sign` `spiritual` `spoke` `three` `walking` `wonder` `years`
+#action #afraid #ashamed #assyria #barefoot #christs #divine #egypt #escape #ethiopia #expectation #glory #humiliation #inhabitant #isaiah #isle #judgment #king #lead #loose #lord #naked #prisoners #prophetic #put #sackcloth #servant #shame #shoe #sign #spiritual #spoke #three #walking #wonder #years
 
 
 ---

@@ -1,3 +1,13 @@
+---
+book: "Jeremiah"
+chapter: 40
+testament: "Old Testament"
+key_themes: "Christ's Freedom, Gedaliah's Governance, Divine Mercy, Christ's Warning"
+tags:
+  - christ
+  - gedaliah
+  - divine-mercy
+---
 # Jeremiah 40
 
 ---
@@ -93,7 +103,7 @@ Word, Jeremiah, LORD, Nebuzar, adan, captain, guard, let, Ramah, bound, chains, 
 
 
 *AI Keywords for current event matching:*
-`ammonites` `baalis` `babylon` `chains` `chaldeans` `christs` `cities` `divine` `dwell` `freedom` `fruits` `gather` `gathered` `gedaliahs` `good` `governance` `governor` `ishmael` `jews` `king` `land` `left` `let` `loose` `mercy` `people` `perish` `remnant` `returned` `scatter` `seem` `sent` `serve` `slay` `summer` `taken` `warning` `wine`
+#ammonites #baalis #babylon #chains #chaldeans #christs #cities #divine #dwell #freedom #fruits #gather #gathered #gedaliahs #good #governance #governor #ishmael #jews #king #land #left #let #loose #mercy #people #perish #remnant #returned #scatter #seem #sent #serve #slay #summer #taken #warning #wine
 
 
 ---

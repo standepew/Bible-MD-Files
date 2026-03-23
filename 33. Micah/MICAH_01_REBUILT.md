@@ -1,3 +1,14 @@
+---
+book: "Micah"
+chapter: 1
+testament: "Old Testament"
+key_themes: "Christ's Coming Judgment, Divine Witness, Samaria's Fall, Jerusalem's Invasion"
+tags:
+  - christ
+  - divine-witness
+  - samaria
+  - jerusalem
+---
 # Micah 1
 
 ---
@@ -141,7 +152,7 @@ Word, LORD, Micah, Morasthite, days, Jotham, Ahaz, Hezekiah, kings, Judah, conce
 
 
 *AI Keywords for current event matching:*
-`captivity` `christs` `cleft` `cometh` `coming` `daughter` `discover` `divine` `earth` `fall` `field` `foundations` `gate` `god` `gone` `heap` `hear` `hearken` `high` `holy` `incurable` `invasion` `jerusalems` `judgment` `lord` `molten` `mountains` `people` `places` `plantings` `pour` `samarias` `stones` `temple` `tread` `valleys` `vineyard` `witness` `wound` `zion`
+#captivity #christs #cleft #cometh #coming #daughter #discover #divine #earth #fall #field #foundations #gate #god #gone #heap #hear #hearken #high #holy #incurable #invasion #jerusalems #judgment #lord #molten #mountains #people #places #plantings #pour #samarias #stones #temple #tread #valleys #vineyard #witness #wound #zion
 
 
 ---

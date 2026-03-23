@@ -1,3 +1,13 @@
+---
+book: "Ezekiel"
+chapter: 13
+testament: "Old Testament"
+key_themes: "Christ's Truth, False Prophets, Divine Judgment, Christ's Protection"
+tags:
+  - christ
+  - false-prophets
+  - divine-judgment
+---
 # Ezekiel 13
 
 ---
@@ -117,7 +127,7 @@ Word, Lord, son, man, prophesy, prophets, Israel, prophesy, hear, word, Lord, Lo
 
 
 *AI Keywords for current event matching:*
-`accomplish` `against` `assembly` `christs` `confirm` `deliver` `deserts` `divination` `divine` `enter` `false` `foolish` `foxes` `gaps` `hand` `judgment` `land` `lord` `lying` `people` `pillows` `prophets` `protection` `see` `spirit` `tear` `truth` `vanity` `word` `wrath`
+#accomplish #against #assembly #christs #confirm #deliver #deserts #divination #divine #enter #false #foolish #foxes #gaps #hand #judgment #land #lord #lying #people #pillows #prophets #protection #see #spirit #tear #truth #vanity #word #wrath
 
 
 ---

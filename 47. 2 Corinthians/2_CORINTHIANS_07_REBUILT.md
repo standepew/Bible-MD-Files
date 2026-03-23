@@ -1,3 +1,14 @@
+---
+book: "2 Corinthians"
+chapter: 7
+testament: "New Testament"
+key_themes: "Perfecting Holiness, Godly Sorrow, Paul's Comfort, Confidence in the Corinthians"
+tags:
+  - perfecting-holiness
+  - godly-sorrow
+  - paul
+  - confidence-in-the-corinthians
+---
 # 2 Corinthians 7
 
 ---
@@ -117,7 +128,7 @@ Promises, dearly, beloved, cleanse, filthiness, flesh, spirit, perfecting, holin
 
 
 *AI Keywords for current event matching:*
-`abundant` `affection` `appear` `approved` `ashamed` `behold` `beloved` `boasted` `boasting` `boldness` `care` `carefulness` `cast` `cause` `cleanse` `clear` `clearing` `comfort` `comforted` `comforteth` `coming` `condemn` `confidence` `consolation` `corinthians` `corrupted` `damage` `dearly` `death` `defrauded` `desire` `die` `done` `earnest` `epistle` `exceeding` `exceedingly` `fear` `fears` `fervent` `fightings` `filled` `filthiness` `flesh` `found` `glorying` `god` `godly` `hearts` `holiness` `indignation` `inward` `joy` `joyed` `joyful` `letter` `live` `macedonia` `manner` `matter` `mind` `mourning` `obedience` `pauls` `perceive` `perfecting` `promises` `receive` `received` `refreshed` `rejoice` `rejoiced` `remembereth` `repent` `repentance` `repented` `rest` `revenge` `salvation` `season` `selfsame` `side` `sight` `sorrow` `sorrowed` `sorry` `sort` `spake` `speech` `spirit` `suffered` `titus` `told` `trembling` `tribulation` `troubled` `truth` `vehement` `within` `without` `worketh` `world` `wrong` `wronged` `wrote` `wrought` `zeal`
+#abundant #affection #appear #approved #ashamed #behold #beloved #boasted #boasting #boldness #care #carefulness #cast #cause #cleanse #clear #clearing #comfort #comforted #comforteth #coming #condemn #confidence #consolation #corinthians #corrupted #damage #dearly #death #defrauded #desire #die #done #earnest #epistle #exceeding #exceedingly #fear #fears #fervent #fightings #filled #filthiness #flesh #found #glorying #god #godly #hearts #holiness #indignation #inward #joy #joyed #joyful #letter #live #macedonia #manner #matter #mind #mourning #obedience #pauls #perceive #perfecting #promises #receive #received #refreshed #rejoice #rejoiced #remembereth #repent #repentance #repented #rest #revenge #salvation #season #selfsame #side #sight #sorrow #sorrowed #sorry #sort #spake #speech #spirit #suffered #titus #told #trembling #tribulation #troubled #truth #vehement #within #without #worketh #world #wrong #wronged #wrote #wrought #zeal
 
 
 ---

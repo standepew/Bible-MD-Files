@@ -1,3 +1,26 @@
+---
+book: "Leviticus"
+chapter: 27
+testament: "Old Testament"
+key_themes: "The valuation of persons, animals, houses, and fields dedicated to the LORD by vow, The fifth-part addition when redeeming what has been dedicated — a premium on taking back what was given to God, "Devoted things" (cherem) — what is utterly devoted to the LORD cannot be redeemed and cannot be sold; it is most holy, The tithe belongs to the LORD — it is holy; it is not the worshipper's to freely give or withhold, The animal tithe: whatever passes under the rod — the tenth is the LORD's; no exchange permitted"
+tags:
+  - vows-and-valuations
+  - singular-vow
+  - estimation-by-shekels
+  - male-female-age-valuations
+  - priest-values-the-poor
+  - beast-dedicated
+  - unclean-beast-valued-and-redeemed
+  - sanctify-a-house
+  - sanctify-a-field
+  - Jubilee-affects-field-valuation
+  - devoted-cherem-most-holy
+  - firstling-already-the-LORDs
+  - tithe-is-holy
+  - animal-tithe-under-the-rod
+  - no-exchange-in-tithe
+  - these-are-the-commandments
+---
 # Leviticus 27
 
 ---
@@ -67,7 +90,7 @@ The closing chapter of Leviticus concerns the administration of vows and dedicat
 
 
 *AI Keywords for current event matching:*
-`2730-33` `38-10` `current` `events` `genesis` `giving` `god` `leviticus` `malachi` `matching` `matthew` `storehouse` `tithing`
+#2730-33 #38-10 #current #events #genesis #giving #god #leviticus #malachi #matching #matthew #storehouse #tithing
 
 
 ---
@@ -158,9 +181,9 @@ The Son of God, the eternal priest of the order of Melchizedek, is assigned by t
 **Leviticus 27:13, 15, 19, 27, 31** — If you redeem what you have dedicated or the tithe you owe, you add a fifth (twenty percent).
 
 This fifth-part addition runs as a consistent thread through Leviticus:
-- **Leviticus 5:16** — the trespass offering: restore the holy thing plus a fifth
-- **Leviticus 6:5** — the fraud restitution: restore the principal plus a fifth
-- **Leviticus 22:14** — if someone eats holy food unwittingly: restore it plus a fifth
+- [[03. Leviticus/LEV_05_REBUILT|Leviticus 5:16]] — the trespass offering: restore the holy thing plus a fifth
+- [[03. Leviticus/LEV_06_REBUILT|Leviticus 6:5]] — the fraud restitution: restore the principal plus a fifth
+- [[03. Leviticus/LEV_22_REBUILT|Leviticus 22:14]] — if someone eats holy food unwittingly: restore it plus a fifth
 - **Leviticus 27:13, 15, 19, 27, 31** — redeeming the dedicated: add a fifth
 
 **What the Bible establishes:** The fifth-part addition is the covenant's consistent statement that there is a cost attached to taking back what has been consecrated or taking what belongs to God. It is not punitive — it is the built-in acknowledgment that the sacred has a higher value than the common. To retrieve the sacred for common use requires a premium; you get it back, but it costs you more than if you had never given it. The New Testament principle: "He that endureth to the end shall be saved" (Matthew 10:22) — there is a cost to pulling back from consecration; it is not neutral. What is given to God, when withdrawn, extracts a price.*
@@ -169,14 +192,14 @@ This fifth-part addition runs as a consistent thread through Leviticus:
 
 ### The Book of Leviticus Closes at Sinai — The Completion
 
-**Leviticus 27:34** — "These are the commandments, which the LORD commanded Moses for the children of Israel in mount Sinai."
+[[03. Leviticus/LEV_27_REBUILT|Leviticus 27:34]] — "These are the commandments, which the LORD commanded Moses for the children of Israel in mount Sinai."
 
 The closing verse anchors the entire book of Leviticus to its point of origin — the mountain of God. The same closing formula appears in Leviticus 26:46. The double closure (26:46 and 27:34) suggests Leviticus 27 is an appendix to the completed code — the administration of vows and tithes added as the final provision of the Sinai economy.
 
 The Sinai anchor connects to:
 - **Exodus 19-20** — where the covenant was first established at Sinai
-- **Hebrews 12:18-24** — "For ye are not come unto the mount that might be touched... But ye are come unto mount Sion" — the contrast between Sinai (where Leviticus was given) and Zion (where the New Covenant is administered); Sinai was the shadow; Zion is the substance
-- **Galatians 4:24-26** — Sinai and Jerusalem as covenantal symbols; the Sinai covenant and the Jerusalem-above covenant
+- [[58. Hebrews/HEBREWS_12_REBUILT|Hebrews 12:18-24]] — "For ye are not come unto the mount that might be touched... But ye are come unto mount Sion" — the contrast between Sinai (where Leviticus was given) and Zion (where the New Covenant is administered); Sinai was the shadow; Zion is the substance
+- [[48. Galatians/GALATIANS_04_REBUILT|Galatians 4:24-26]] — Sinai and Jerusalem as covenantal symbols; the Sinai covenant and the Jerusalem-above covenant
 
 **What the Bible establishes:** Leviticus closes at Sinai because it is the Sinai covenant's operational manual. The shadow-system it describes is complete — five offerings, seven feasts, jubilees, priests, sacrifices, clean and unclean. Hebrews 10:1 confirms: "the law having a shadow of good things to come, and not the very image of the things." Sinai was the school (Galatians 3:24 — "the law was our schoolmaster to bring us unto Christ"). Leviticus is the curriculum. Christ is the graduation.
 

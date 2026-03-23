@@ -1,3 +1,31 @@
+---
+book: "Numbers"
+chapter: 28
+testament: "Old Testament"
+key_themes: "God commands the regular offering calendar — daily, Sabbath, monthly, Passover, and Firstfruits — before Israel enters the land, "My offering, and my bread for my sacrifices made by fire" — God calls the offerings His own bread; the sacrificial system is provision for God's table, The daily burnt offering (tamid): two lambs morning and evening without ceasing — the uninterrupted worship rhythm, Each festival adds offerings above the continual burnt offering — not replacing it; the constant is never interrupted, The offerings are described in precise detail: flour, oil, wine — a full meal given to God"
+tags:
+  - my-offering-my-bread
+  - sweet-savour
+  - due-season
+  - continual-burnt-offering
+  - tamid
+  - two-lambs-daily
+  - morning-and-evening
+  - Sinai-ordinance
+  - sabbath-doubled
+  - new-moon-offering
+  - first-month-fourteenth-passover
+  - fifteenth-feast-of-unleavened-bread
+  - holy-convocation
+  - no-servile-work
+  - firstfruits-feast-of-weeks
+  - wheat-harvest
+  - atonement-goat
+  - beside-the-continual-burnt-offering
+  - tenth-deals-of-flour
+  - fourth-part-hin-of-oil
+  - drink-offering-of-strong-wine
+---
 # Numbers 28
 
 ---
@@ -65,7 +93,7 @@ God speaks to Moses: command Israel to observe the offering calendar — my offe
 
 
 *AI Keywords for current event matching:*
-`283-8` `811-13` `continual` `current` `daniel` `events` `matching` `numbers` `offering` `prayer` `thessalonians` `unceasing`
+#283-8 #811-13 #continual #current #daniel #events #matching #numbers #offering #prayer #thessalonians #unceasing
 
 
 ---
@@ -149,8 +177,8 @@ Seven times in this chapter (verses 10, 15, 23, 24, 31) the phrase "beside the c
 
 **What the Bible establishes:** The architectural principle of worship is that special seasons supplement but never supplant constant devotion. The festivals are the high points; the tamid is the foundation. A church that is fervently alive at Christmas and Easter but has no daily, weekly rhythm of prayer and Word is structurally deficient in exactly the way Numbers 28 warns against — the special additions are present, but the continual is missing.
 
-- **Luke 18:1** — "men ought always to pray, and not to faint" — the tamid principle in New Covenant form
-- **1 Thessalonians 5:17** — "Pray without ceasing" — three words that are the New Testament tamid
+- [[42. Luke/LUKE_18_REBUILT|Luke 18:1]] — "men ought always to pray, and not to faint" — the tamid principle in New Covenant form
+- [[52. 1 Thessalonians/1_THESSALONIANS_05_REBUILT|1 Thessalonians 5:17]] — "Pray without ceasing" — three words that are the New Testament tamid
 
 ---
 

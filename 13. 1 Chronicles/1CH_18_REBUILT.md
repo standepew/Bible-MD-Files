@@ -1,3 +1,14 @@
+---
+book: "1 Chronicles"
+chapter: 18
+testament: "Old Testament"
+key_themes: "David's Military Victories, Divine Preservation, Kingdom Expansion, Administrative Organization"
+tags:
+  - david
+  - divine-preservation
+  - kingdom-expansion
+  - administrative-organization
+---
 # 1 Chronicles 18
 
 ---
@@ -95,7 +106,7 @@ David, smote, Philistines, subdued, took, Gath, towns, hand, Philistines. Smote,
 
 
 *AI Keywords for current event matching:*
-`abimelech` `abishai` `administrative` `ahiathar` `ahilud` `ahitub` `amalek` `ammon` `benaiah` `brasen` `brass` `brought` `campaigns` `chariot` `chariots` `cherethites` `chiefs` `children` `chun` `cities` `conquest` `damascus` `david` `dediated` `defeats` `dominion` `edom` `edomites` `eighteen` `euphrates` `executed` `footmen` `garrisons` `gath` `gifts` `gold` `hadarezer` `hamath` `hand` `heard` `help` `horsemen` `horses` `host` `hundred` `israel` `jehoiada` `jehoshaphat` `jerusalem` `joab` `judgment` `justice` `king` `lord` `men` `moab` `moabite` `moabites` `much` `nations` `organization` `pelethites` `people` `philistine` `philistines` `pillars` `preserved` `priests` `recorder` `reigned` `reserved` `river` `salt` `scribe` `sea` `servants` `seven` `shavsha` `shields` `silver` `slew` `smitten` `smote` `solomon` `son` `sons` `stablish` `subdued` `syria` `syrian` `syrians` `temple` `thoughed` `thousand` `tibhath` `took` `tou` `towns` `treasures` `twenty` `two` `valley` `vessels` `war` `went` `whithersoever` `zadok` `zeruiah` `zobah`
+#abimelech #abishai #administrative #ahiathar #ahilud #ahitub #amalek #ammon #benaiah #brasen #brass #brought #campaigns #chariot #chariots #cherethites #chiefs #children #chun #cities #conquest #damascus #david #dediated #defeats #dominion #edom #edomites #eighteen #euphrates #executed #footmen #garrisons #gath #gifts #gold #hadarezer #hamath #hand #heard #help #horsemen #horses #host #hundred #israel #jehoiada #jehoshaphat #jerusalem #joab #judgment #justice #king #lord #men #moab #moabite #moabites #much #nations #organization #pelethites #people #philistine #philistines #pillars #preserved #priests #recorder #reigned #reserved #river #salt #scribe #sea #servants #seven #shavsha #shields #silver #slew #smitten #smote #solomon #son #sons #stablish #subdued #syria #syrian #syrians #temple #thoughed #thousand #tibhath #took #tou #towns #treasures #twenty #two #valley #vessels #war #went #whithersoever #zadok #zeruiah #zobah
 
 
 ---

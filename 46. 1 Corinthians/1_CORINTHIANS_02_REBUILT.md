@@ -1,3 +1,14 @@
+---
+book: "1 Corinthians"
+chapter: 2
+testament: "New Testament"
+key_themes: "Christ Crucified, Wisdom of God, Spiritual Discernment, Mind of Christ"
+tags:
+  - christ-crucified
+  - wisdom-of-god
+  - spiritual-discernment
+  - mind-of-christ
+---
 # 1 Corinthians 2
 
 ---
@@ -105,7 +116,7 @@ Brethren, came, excellency, speech, wisdom, declaring, testimony, God, determine
 
 
 *AI Keywords for current event matching:*
-`brethren` `came` `christ` `comparing` `crucified` `declaring` `deep` `demonstration` `determined` `discerned` `discernment` `ear` `entered` `enticing` `excellency` `eye` `faith` `fear` `foolishness` `freely` `ghost` `glory` `god` `heard` `heart` `hidden` `holy` `instruct` `jesus` `judged` `judgeth` `knew` `know` `knoweth` `known` `lord` `love` `man` `men` `mind` `mystery` `natural` `nought` `ordained` `perfect` `power` `preaching` `prepared` `princes` `received` `receiveth` `revealed` `searcheth` `seen` `speak` `speech` `spirit` `spiritual` `spiritually` `stand` `teacheth` `testimony` `thing` `things` `trembling` `weakness` `wisdom` `words` `world` `written`
+#brethren #came #christ #comparing #crucified #declaring #deep #demonstration #determined #discerned #discernment #ear #entered #enticing #excellency #eye #faith #fear #foolishness #freely #ghost #glory #god #heard #heart #hidden #holy #instruct #jesus #judged #judgeth #knew #know #knoweth #known #lord #love #man #men #mind #mystery #natural #nought #ordained #perfect #power #preaching #prepared #princes #received #receiveth #revealed #searcheth #seen #speak #speech #spirit #spiritual #spiritually #stand #teacheth #testimony #thing #things #trembling #weakness #wisdom #words #world #written
 
 
 ---

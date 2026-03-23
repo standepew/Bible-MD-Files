@@ -1,3 +1,14 @@
+---
+book: "Acts"
+chapter: 28
+testament: "New Testament"
+key_themes: "Paul on Malta, Healing the Sick, Journey to Rome, Paul in Rome"
+tags:
+  - paul-on-malta
+  - healing-the-sick
+  - journey-to-rome
+  - paul-in-rome
+---
 # Acts 28
 
 ---
@@ -189,7 +200,7 @@ Escaped, island, Melita, barbarous, people, kindness, kindled, fire, received, p
 
 
 *AI Keywords for current event matching:*
-`accuse` `against` `agreed` `alexandria` `appeal` `appii` `appointed` `barbarians` `barbarous` `beast` `believed` `blew` `bloody` `bound` `brethren` `bundle` `caeser` `called` `captain` `castor` `cause` `centurion` `chain` `changed` `chief` `christ` `closed` `cold` `committed` `compass` `concerning` `confidence` `constrained` `converted` `courage` `courteously` `customs` `day` `days` `dead` `death` `delivered` `departed` `desire` `desired` `diseases` `dull` `dwell` `dwelt` `ears` `entered` `esaias` `escaped` `evening` `examined` `expounded` `eyes` `fallen` `fastened` `father` `fathers` `felt` `fetched` `fever` `fire` `flux` `forbidding` `forum` `gathered` `gentiles` `ghost` `god` `great` `gross` `guard` `hand` `hands` `hang` `harm` `heal` `healed` `healing` `hear` `heard` `hearing` `heart` `heat` `hired` `holy` `honoured` `honours` `hope` `house` `island` `isle` `israel` `jerusalem` `jesus` `jews` `journey` `judaea` `kept` `kindled` `kindness` `kingdom` `know` `known` `laded` `laid` `landing` `law` `let` `letters` `live` `lodged` `lodging` `looked` `lord` `malta` `meet` `melita` `minds` `months` `morning` `moses` `murderer` `nation` `necessary` `others` `paul` `people` `perceive` `persuading` `pollux` `possessions` `prayed` `preaching` `present` `prisoner` `prisoners` `prophet` `prophets` `publius` `puteoli` `quarters` `rain` `reasoning` `received` `rhegium` `romans` `rome` `said` `salvation` `sea` `sect` `see` `seeing` `sent` `seven` `shewed` `ship` `shook` `sick` `sign` `soldier` `south` `spake` `speak` `spoke` `spoken` `sticks` `suddenly` `suffered` `swollen` `syracuse` `tarried` `tarry` `taverns` `teaching` `testified` `thanked` `thinkest` `three` `together` `understand` `vengeance` `venomous` `viper` `waxed` `wind` `wintered` `word` `words` `years`
+#accuse #against #agreed #alexandria #appeal #appii #appointed #barbarians #barbarous #beast #believed #blew #bloody #bound #brethren #bundle #caeser #called #captain #castor #cause #centurion #chain #changed #chief #christ #closed #cold #committed #compass #concerning #confidence #constrained #converted #courage #courteously #customs #day #days #dead #death #delivered #departed #desire #desired #diseases #dull #dwell #dwelt #ears #entered #esaias #escaped #evening #examined #expounded #eyes #fallen #fastened #father #fathers #felt #fetched #fever #fire #flux #forbidding #forum #gathered #gentiles #ghost #god #great #gross #guard #hand #hands #hang #harm #heal #healed #healing #hear #heard #hearing #heart #heat #hired #holy #honoured #honours #hope #house #island #isle #israel #jerusalem #jesus #jews #journey #judaea #kept #kindled #kindness #kingdom #know #known #laded #laid #landing #law #let #letters #live #lodged #lodging #looked #lord #malta #meet #melita #minds #months #morning #moses #murderer #nation #necessary #others #paul #people #perceive #persuading #pollux #possessions #prayed #preaching #present #prisoner #prisoners #prophet #prophets #publius #puteoli #quarters #rain #reasoning #received #rhegium #romans #rome #said #salvation #sea #sect #see #seeing #sent #seven #shewed #ship #shook #sick #sign #soldier #south #spake #speak #spoke #spoken #sticks #suddenly #suffered #swollen #syracuse #tarried #tarry #taverns #teaching #testified #thanked #thinkest #three #together #understand #vengeance #venomous #viper #waxed #wind #wintered #word #words #years
 
 
 ---

@@ -1,3 +1,14 @@
+---
+book: "Jeremiah"
+chapter: 51
+testament: "Old Testament"
+key_themes: "Christ's Final Victory, Babylon's Complete Destruction, Israel's Deliverance, Divine Sovereignty"
+tags:
+  - christ
+  - babylon
+  - israel
+  - divine-sovereignty
+---
 # Jeremiah 51
 
 ---
@@ -81,7 +92,7 @@ LORD, Babylon, dwell, midst, rise, destroying, wind, fanners, empty, land, troub
 
 
 *AI Keywords for current event matching:*
-`arrows` `axe` `babylons` `battle` `bright` `broken` `cause` `christs` `complete` `cup` `deliverance` `destroyed` `destroying` `destruction` `divine` `dragons` `earth` `empty` `fallen` `fanners` `final` `former` `forsaken` `golden` `heaps` `heavens` `israels` `kings` `land` `medes` `plead` `power` `redeemer` `rest` `sovereignty` `spirit` `strong` `things` `understanding` `victory` `walls` `wind`
+#arrows #axe #babylons #battle #bright #broken #cause #christs #complete #cup #deliverance #destroyed #destroying #destruction #divine #dragons #earth #empty #fallen #fanners #final #former #forsaken #golden #heaps #heavens #israels #kings #land #medes #plead #power #redeemer #rest #sovereignty #spirit #strong #things #understanding #victory #walls #wind
 
 
 ---

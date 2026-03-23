@@ -1,3 +1,16 @@
+---
+book: "Luke"
+chapter: 24
+testament: "New Testament"
+key_themes: "The Resurrection, The Empty Tomb, The Road to Emmaus, Jesus Appears to His Disciples, The Great Commission, The Ascension"
+tags:
+  - the-resurrection
+  - the-empty-tomb
+  - the-road-to-emmaus
+  - jesus-appears-to-his-disciples
+  - the-great-commission
+  - the-ascension
+---
 # Luke 24
 
 ---
@@ -181,7 +194,7 @@ First, day, week, early, morning, came, sepulchre, spices, prepared, found, ston
 
 
 *AI Keywords for current event matching:*
-`appears` `ascension` `bethany` `body` `bones` `bread` `breaking` `broiled` `burn` `carried` `clothes` `commission` `communed` `day` `dead` `disciples` `early` `emmaus` `empty` `endued` `eyes` `father` `first` `fish` `flesh` `found` `galilee` `garments` `god` `great` `hands` `heart` `heaven` `holden` `idle` `indeed` `jerusalem` `jesus` `law` `led` `lifted` `linen` `living` `morning` `moses` `nations` `nazareth` `peace` `power` `praising` `preached` `promise` `prophets` `psalms` `reasoned` `remembered` `remission` `repentance` `resurrection` `risen` `road` `rolled` `sepulchre` `shining` `spices` `stone` `tales` `tarry` `things` `third` `thoughts` `tomb` `troubled` `village` `witnesses` `words`
+#appears #ascension #bethany #body #bones #bread #breaking #broiled #burn #carried #clothes #commission #communed #day #dead #disciples #early #emmaus #empty #endued #eyes #father #first #fish #flesh #found #galilee #garments #god #great #hands #heart #heaven #holden #idle #indeed #jerusalem #jesus #law #led #lifted #linen #living #morning #moses #nations #nazareth #peace #power #praising #preached #promise #prophets #psalms #reasoned #remembered #remission #repentance #resurrection #risen #road #rolled #sepulchre #shining #spices #stone #tales #tarry #things #third #thoughts #tomb #troubled #village #witnesses #words
 
 
 ---

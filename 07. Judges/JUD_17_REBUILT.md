@@ -1,3 +1,32 @@
+---
+book: "Judges"
+chapter: 17
+testament: "Old Testament"
+key_themes: "Micah's Theft, Mother's Blessing, Idol Making, House of Gods, Levite Priest, No King in Israel, Personal Righteousness"
+tags:
+  - man-mount-Ephraim-Micah
+  - silver-I-took
+  - mother-Blessed-LORD-son
+  - graven-image-molten-image
+  - restore
+  - restored-money-mother
+  - Micah-house-gods-ephod-teraphim
+  - consecrated-son-priest
+  - journey-mount-Ephraim-house-Micah
+  - Micah-Whence-comest
+  - Levite-content-dwell-man
+  - young-man-sons
+  - Micah-consecrated-Levite
+  - young-man-priest-house-Micah
+  - Micah-LORD-good-Levite-priest
+  - micah
+  - mother
+  - idol-making
+  - house-of-gods
+  - levite-priest
+  - no-king-in-israel
+  - personal-righteousness
+---
 # Judges 17
 
 ---
@@ -89,7 +118,7 @@ A man named Micah from mount Ephraim tells his mother he took the eleven hundred
 
 
 *AI Keywords for current event matching:*
-`anarchy` `apparel` `arrangement` `beth-lehem` `blessed` `city` `comest` `confession` `consecrated` `consecration` `content` `creation` `cursed` `days` `dedicated` `departed` `dwell` `ears` `eleven` `employment` `ephod` `ephraim` `eyes` `false` `family` `father` `founder` `gods` `good` `graven` `hand` `house` `hundred` `idol` `image` `israel` `journey` `judah` `king` `levite` `levites` `lord` `man` `micah` `micahs` `molten` `money` `mother` `mount` `place` `priest` `priestly` `restoration` `restore` `restored` `right` `shekels` `silver` `sojourn` `sojourned` `son` `sons` `spiritual` `spoken` `suit` `taken` `ten` `teraphim` `took` `two` `victuals` `whence` `wholly` `worship` `year` `young`
+#anarchy #apparel #arrangement #beth-lehem #blessed #city #comest #confession #consecrated #consecration #content #creation #cursed #days #dedicated #departed #dwell #ears #eleven #employment #ephod #ephraim #eyes #false #family #father #founder #gods #good #graven #hand #house #hundred #idol #image #israel #journey #judah #king #levite #levites #lord #man #micah #micahs #molten #money #mother #mount #place #priest #priestly #restoration #restore #restored #right #shekels #silver #sojourn #sojourned #son #sons #spiritual #spoken #suit #taken #ten #teraphim #took #two #victuals #whence #wholly #worship #year #young
 
 
 ---

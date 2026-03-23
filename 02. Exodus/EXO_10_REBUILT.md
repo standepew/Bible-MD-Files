@@ -1,3 +1,31 @@
+---
+book: "Exodus"
+chapter: 10
+testament: "Old Testament"
+key_themes: "Plagues 8-9 — Locusts and Darkness, The hardening is for a testimony to future generations, Pharaoh's servants beg him to let Israel go, Pharaoh's third and fourth compromise offers, Darkness that can be felt, Light in Goshen, The final impasse — Moses told never to appear before Pharaoh again"
+tags:
+  - plague-8
+  - plague-9
+  - locusts
+  - darkness
+  - thick-darkness
+  - darkness-that-may-be-felt
+  - light-in-Goshen
+  - Pharaoh-servants-beg
+  - Egypt-is-destroyed
+  - third-compromise
+  - fourth-compromise
+  - only-men-go
+  - leave-flocks
+  - not-a-hoof-left-behind
+  - hardening-for-testimony
+  - tell-your-children
+  - Moses-angry
+  - final-impasse
+  - no-green-thing-remained
+  - three-days-darkness
+  - I-will-see-thy-face-no-more
+---
 # Exodus 10
 
 ---
@@ -108,7 +136,7 @@ God tells Moses He hardened Pharaoh's heart specifically so these signs could be
 
 
 *AI Keywords for current event matching:*
-`acts` `children` `current` `events` `exodus` `generational` `gods` `matching` `telling` `testimony`
+#acts #children #current #events #exodus #generational #gods #matching #telling #testimony
 
 
 ---
@@ -231,11 +259,11 @@ Each offer is more reasonable-sounding than the last. The final offer sounds alm
 
 ### Light in Goshen / Darkness in Egypt — The Separation of Light from Darkness
 
-- **Genesis 1:4** — God divides light from darkness at creation
-- **Exodus 10:23** — God divides light (Goshen) from darkness (Egypt) in judgment
-- **John 1:5** — Light shines in darkness; darkness cannot overcome it
-- **2 Corinthians 4:6** — "God, who commanded the light to shine out of darkness, hath shined in our hearts, to give the light of the knowledge of the glory of God in the face of Jesus Christ"
-- **Revelation 21:23-25** — The new Jerusalem has no need of the sun; the Lamb is the light; no night there
+- [[01. Genesis/GEN_01_REBUILT|Genesis 1:4]] — God divides light from darkness at creation
+- [[02. Exodus/EXO_10_REBUILT|Exodus 10:23]] — God divides light (Goshen) from darkness (Egypt) in judgment
+- [[43. John/JOHN_01_REBUILT|John 1:5]] — Light shines in darkness; darkness cannot overcome it
+- [[47. 2 Corinthians/2_CORINTHIANS_04_REBUILT|2 Corinthians 4:6]] — "God, who commanded the light to shine out of darkness, hath shined in our hearts, to give the light of the knowledge of the glory of God in the face of Jesus Christ"
+- [[66. Revelation/REVELATION_21_REBUILT|Revelation 21:23-25]] — The new Jerusalem has no need of the sun; the Lamb is the light; no night there
 - *Thread:* The Exodus 10 darkness/light separation is the covenant application of Genesis 1's light/darkness division. At the new creation (Revelation 21), the division is permanent: only light, no darkness, no night. The Exodus event is the middle chapter in the story that begins in Genesis 1:3 and ends in Revelation 22:5.
 
 ---

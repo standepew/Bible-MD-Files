@@ -1,3 +1,46 @@
+---
+book: "Genesis"
+chapter: 47
+testament: "Old Testament"
+key_themes: "Jacob Before Pharaoh — The Patriarch Blesses the King, "How Old Art Thou?" — Jacob's Answer: "Few and Evil", Joseph's Administration of the Famine — The Redistribution of Egypt, The Land Becomes Pharaoh's — Except the Priests' Land, The Twenty-Percent Tax as the Lasting Statute, Jacob's Seventeen Years in Egypt, Jacob Makes Joseph Swear — "Bury Me Not in Egypt", The Gesture of the Hand Under the Thigh — The Covenant Oath"
+tags:
+  - Jacob-presented-to-Pharaoh
+  - Joseph-presented-five-brothers
+  - Pharaoh-asked-occupation
+  - we-are-shepherds-as-fathers
+  - Pharaoh-gave-Goshen-and-Rameses
+  - Jacob-blessed-Pharaoh
+  - how-old-art-thou
+  - hundred-thirty-years
+  - Joseph-nourished-father-and-brothers
+  - Joseph-sold-bread-to-Egypt
+  - famine-very-sore
+  - money-failed-in-Egypt
+  - people-brought-cattle-for-bread
+  - Joseph-took-cattle-for-bread
+  - people-came-again-next-year
+  - removed-people-to-cities
+  - except-land-of-priests
+  - Israel-dwelt-in-Goshen
+  - years-of-Jacobs-life-147
+  - Jacob-called-Joseph
+  - put-hand-under-thigh
+  - Joseph-swore
+  - bowing-himself-on-bed
+  - Genesis-23-Machpelah
+  - Genesis-50-burial-fulfilled
+  - pilgrimage-Hebrew-concept-ger-sojourner
+  - Hebrews-7-7
+  - Joseph-as-administrator-type
+  - one-fifth-principle-stewardship
+  - jacob-before-pharaoh
+  - joseph
+  - the-land-becomes-pharaoh
+  - the-twentypercent-tax-as-the-lasting
+  - jacob
+  - jacob-makes-joseph-swear
+  - the-gesture-of-the-hand-under
+---
 # Genesis 47
 
 ---
@@ -66,7 +109,7 @@ When Jacob knew he was about to die, he called Joseph and made him swear: "Put, 
 
 ## KEYWORD INDEX
 
-`Joseph presented five brothers to Pharaoh` `we are shepherds as our fathers` `Pharaoh gave Goshen and Rameses` `Jacob presented to Pharaoh` `Pharaoh asked how old art thou` `few and evil days of pilgrimage` `hundred thirty years` `have not attained to days of fathers` `megurim sojourning pilgrimage` `Hebrews 11:13 strangers and pilgrims` `Psalm 39:12 stranger with thee as all my fathers` `1 Peter 2:11 strangers and pilgrims` `Jacob blessed Pharaoh twice` `Hebrews 7:7 less blessed of better` `Genesis 12:3 in thee all families blessed` `famine sore no bread` `money failed in Egypt and Canaan` `bring cattle for bread` `give us and our land for bread` `Joseph bought all land of Egypt` `except land of priests` `removed people to cities` `gave seed fifth part to Pharaoh` `twenty percent statute` `you have saved our lives` `Israel dwelt in Goshen had possessions` `grew and multiplied greatly` `Jacob lived seventeen years in Egypt` `147 years total` `Joseph seventeen in house then sold` `Jacob seventeen with Joseph in Egypt` `Jacob called Joseph` `put hand under my thigh` `Genesis 24:2 Abraham same oath` `deal kindly and truly hesed emet` `carry me out bury me in burying place` `Joseph swore` `bowed himself on head of bed` `Hebrews 11:21 by faith Jacob worshipped` `covenant land pull on the bones` `Genesis 50 burial fulfillment`
+#Joseph-presented-five-brothers-to-Pharaoh #we-are-shepherds-as-our-fathers #Pharaoh-gave-Goshen-and-Rameses #Jacob-presented-to-Pharaoh #Pharaoh-asked-how-old-art-thou #few-and-evil-days-of-pilgrimage #hundred-thirty-years #have-not-attained-to-days-of-fathers #megurim-sojourning-pilgrimage #Hebrews-1113-strangers-and-pilgrims #Psalm-3912-stranger-with-thee-as-all-my-fathers #1-Peter-211-strangers-and-pilgrims #Jacob-blessed-Pharaoh-twice #Hebrews-77-less-blessed-of-better #Genesis-123-in-thee-all-families-blessed #famine-sore-no-bread #money-failed-in-Egypt-and-Canaan #bring-cattle-for-bread #give-us-and-our-land-for-bread #Joseph-bought-all-land-of-Egypt #except-land-of-priests #removed-people-to-cities #gave-seed-fifth-part-to-Pharaoh #twenty-percent-statute #you-have-saved-our-lives #Israel-dwelt-in-Goshen-had-possessions #grew-and-multiplied-greatly #Jacob-lived-seventeen-years-in-Egypt #147-years-total #Joseph-seventeen-in-house-then-sold #Jacob-seventeen-with-Joseph-in-Egypt #Jacob-called-Joseph #put-hand-under-my-thigh #Genesis-242-Abraham-same-oath #deal-kindly-and-truly-hesed-emet #carry-me-out-bury-me-in-burying-place #Joseph-swore #bowed-himself-on-head-of-bed #Hebrews-1121-by-faith-Jacob-worshipped #covenant-land-pull-on-the-bones #Genesis-50-burial-fulfillment
 
 **Current Events Relevance:**
 - "Few and evil have the days of my pilgrimage been" — the honest assessment of a life lived in covenant faith without full receipt of the promises; applicable in pastoral care for those who feel their life has been marked by suffering and unfulfillment, and in teaching on the theology of sojourning faith

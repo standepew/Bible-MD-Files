@@ -1,3 +1,15 @@
+---
+book: "2 Kings"
+chapter: 20
+testament: "Old Testament"
+key_themes: "Hezekiah's Healing, Shadow Sign, Babylonian Embassy, Exile Prophecy, Hezekiah's Death"
+tags:
+  - Isaiah-lump-figs-boil-recovered
+  - hezekiah
+  - shadow-sign
+  - babylonian-embassy
+  - exile-prophecy
+---
 # 2 Kings 20
 
 ---
@@ -83,7 +95,7 @@ Hezekiah sick, death, prophet Isaiah, son Amoz, LORD, house, die, live. Face, wa
 
 
 *AI Keywords for current event matching:*
-`acts` `add` `ahaz` `amoz` `armour` `assyria` `babylon` `babylonian` `back` `backward` `baladan` `beget` `berodach-baladan` `boil` `book` `captain` `chronicles` `city` `conduit` `country` `court` `david` `day` `days` `death` `defend` `degrees` `deliver` `dial` `die` `dominion` `embassy` `eunuchs` `exile` `face` `father` `fathers` `fifteen` `figs` `forward` `god` `gold` `good` `hand` `heal` `heard` `heart` `hezekiah` `hezekiahs` `house` `isaiah` `issue` `judah` `king` `kings` `left` `letters` `light` `live` `lord` `lump` `manasseh` `men` `middle` `ointment` `palace` `peace` `people` `perfect` `pool` `prayed` `prayer` `precious` `present` `prophecy` `prophet` `recovered` `reigned` `sake` `servant` `shadow` `shewed` `sick` `sickness` `sight` `sign` `silver` `slept` `son` `sons` `spices` `spoken` `store` `tears` `ten` `third` `treasures` `truth` `turn` `walked` `wall` `water` `wept` `word` `years`
+#acts #add #ahaz #amoz #armour #assyria #babylon #babylonian #back #backward #baladan #beget #berodach-baladan #boil #book #captain #chronicles #city #conduit #country #court #david #day #days #death #defend #degrees #deliver #dial #die #dominion #embassy #eunuchs #exile #face #father #fathers #fifteen #figs #forward #god #gold #good #hand #heal #heard #heart #hezekiah #hezekiahs #house #isaiah #issue #judah #king #kings #left #letters #light #live #lord #lump #manasseh #men #middle #ointment #palace #peace #people #perfect #pool #prayed #prayer #precious #present #prophecy #prophet #recovered #reigned #sake #servant #shadow #shewed #sick #sickness #sight #sign #silver #slept #son #sons #spices #spoken #store #tears #ten #third #treasures #truth #turn #walked #wall #water #wept #word #years
 
 
 ---

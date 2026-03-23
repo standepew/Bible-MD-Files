@@ -1,3 +1,14 @@
+---
+book: "1 Corinthians"
+chapter: 8
+testament: "New Testament"
+key_themes: "Knowledge and Love, Liberty and Conscience, Idols and the True God, Stumbling Blocks"
+tags:
+  - knowledge-and-love
+  - liberty-and-conscience
+  - idols-and-the-true-god
+  - stumbling-blocks
+---
 # 1 Corinthians 8
 
 ---
@@ -93,7 +104,7 @@ Touching, things, offered, idols, knowledge, knowledge, puffeth, charity, edifie
 
 
 *AI Keywords for current event matching:*
-`better` `blocks` `brethren` `brother` `called` `charity` `christ` `commendeth` `conscience` `defiled` `died` `earth` `eat` `eating` `edifieth` `emboldened` `father` `flesh` `god` `gods` `heaven` `hour` `idol` `idols` `jesus` `know` `knoweth` `knowledge` `known` `liberty` `lord` `lords` `love` `many` `meat` `none` `nothing` `offend` `offered` `ought` `perish` `puffeth` `sacrifice` `sin` `sit` `standeth` `stumbling` `stumblingblock` `temple` `thing` `things` `think` `touching` `true` `weak` `world` `worse` `wound`
+#better #blocks #brethren #brother #called #charity #christ #commendeth #conscience #defiled #died #earth #eat #eating #edifieth #emboldened #father #flesh #god #gods #heaven #hour #idol #idols #jesus #know #knoweth #knowledge #known #liberty #lord #lords #love #many #meat #none #nothing #offend #offered #ought #perish #puffeth #sacrifice #sin #sit #standeth #stumbling #stumblingblock #temple #thing #things #think #touching #true #weak #world #worse #wound
 
 
 ---

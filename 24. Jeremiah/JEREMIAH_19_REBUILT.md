@@ -1,3 +1,13 @@
+---
+book: "Jeremiah"
+chapter: 19
+testament: "Old Testament"
+key_themes: "Christ's Bottle, Divine Judgment, Valley Slaughter, Christ's Brokenness"
+tags:
+  - christ
+  - divine-judgment
+  - valley-slaughter
+---
 # Jeremiah 19
 
 ---
@@ -105,7 +115,7 @@ LORD, potter, earthen, bottle, ancients, people, ancients, priests, valley, son,
 
 
 *AI Keywords for current event matching:*
-`blood` `bottle` `break` `brokenness` `bury` `cannot` `christs` `divine` `ears` `earthen` `eat` `enemies` `evil` `fall` `filled` `flesh` `hardened` `hinnom` `innocents` `judgment` `made` `necks` `people` `place` `potter` `sight` `slaughter` `son` `sons` `sword` `tingle` `tophet` `valley` `vessel` `whole`
+#blood #bottle #break #brokenness #bury #cannot #christs #divine #ears #earthen #eat #enemies #evil #fall #filled #flesh #hardened #hinnom #innocents #judgment #made #necks #people #place #potter #sight #slaughter #son #sons #sword #tingle #tophet #valley #vessel #whole
 
 
 ---

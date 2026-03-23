@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 118
+testament: "Old Testament"
+key_themes: "Thanksgiving for Mercy, Divine Help, Christ the Cornerstone, Eternal Salvation"
+tags:
+  - thanksgiving-for-mercy
+  - divine-help
+  - christ-the-cornerstone
+  - eternal-salvation
+---
 # Psalm 118
 
 ---
@@ -165,7 +176,7 @@ Give, thanks, LORD, good, mercy, endureth, Israel, say, mercy, endureth, house, 
 
 
 *AI Keywords for current event matching:*
-`aaron` `answered` `blessed` `builders` `called` `christ` `cometh` `corner` `cornerstone` `day` `declare` `desire` `die` `distress` `divine` `doing` `endureth` `enter` `eternal` `eyes` `fear` `gates` `give` `glad` `good` `hate` `head` `help` `house` `israel` `large` `live` `lord` `made` `man` `marvellous` `mercy` `name` `part` `place` `praise` `refused` `rejoice` `righteousness` `salvation` `say` `set` `side` `stone` `taketh` `thanks` `thanksgiving` `works`
+#aaron #answered #blessed #builders #called #christ #cometh #corner #cornerstone #day #declare #desire #die #distress #divine #doing #endureth #enter #eternal #eyes #fear #gates #give #glad #good #hate #head #help #house #israel #large #live #lord #made #man #marvellous #mercy #name #part #place #praise #refused #rejoice #righteousness #salvation #say #set #side #stone #taketh #thanks #thanksgiving #works
 
 
 ---

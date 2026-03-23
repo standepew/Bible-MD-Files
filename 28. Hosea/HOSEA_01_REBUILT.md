@@ -1,3 +1,14 @@
+---
+book: "Hosea"
+chapter: 1
+testament: "Old Testament"
+key_themes: "Christ's Redemption, Unfaithful Israel, Divine Mercy, Covenant Restoration"
+tags:
+  - christ
+  - unfaithful-israel
+  - divine-mercy
+  - covenant-restoration
+---
 # Hosea 1
 
 ---
@@ -105,7 +116,7 @@ Word, LORD, Hosea, son, Beeri, days, Uzziah, Jotham, Ahaz, Hezekiah, kings, Juda
 
 
 *AI Keywords for current event matching:*
-`children` `christs` `covenant` `daughter` `day` `departing` `divine` `gathered` `god` `gomer` `great` `harlot` `israel` `jezreel` `judah` `land` `living` `lo-ammi` `lo-ruhamah` `lord` `mercy` `name` `people` `played` `redemption` `restoration` `sand` `save` `sea` `sons` `together` `unfaithful` `whoredom` `whoredoms` `wife`
+#children #christs #covenant #daughter #day #departing #divine #gathered #god #gomer #great #harlot #israel #jezreel #judah #land #living #lo-ammi #lo-ruhamah #lord #mercy #name #people #played #redemption #restoration #sand #save #sea #sons #together #unfaithful #whoredom #whoredoms #wife
 
 
 ---

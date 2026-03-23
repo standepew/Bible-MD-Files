@@ -1,3 +1,14 @@
+---
+book: "2 Corinthians"
+chapter: 2
+testament: "New Testament"
+key_themes: "Paul's Change of Plans, Forgiveness and Comfort, The Triumph in Christ, The Sweet Savour of Christ"
+tags:
+  - paul
+  - forgiveness-and-comfort
+  - the-triumph-in-christ
+  - the-sweet-savour-of-christ
+---
 # 2 Corinthians 2
 
 ---
@@ -105,7 +116,7 @@ Determined, come, heaviness, make, sorry, glad, sorry, wrote, sorrow, rejoice, c
 
 
 *AI Keywords for current event matching:*
-`abundantly` `advantage` `affliction` `anguish` `beseech` `brother` `caused` `causeth` `change` `christ` `come` `comfort` `confidence` `confirm` `contrariwise` `corrupt` `death` `determined` `devices` `door` `forgive` `forgiveness` `found` `glad` `god` `gospel` `grief` `grieved` `heart` `heaviness` `ignorant` `inflicted` `joy` `know` `knowledge` `leave` `life` `lord` `love` `macedonia` `make` `manifest` `obedient` `opened` `overcharge` `overmuch` `part` `pauls` `perish` `person` `place` `plans` `preach` `proof` `punishment` `rejoice` `rest` `sakes` `satan` `saved` `savour` `sight` `sincerity` `sorrow` `sorry` `speak` `spirit` `sufficient` `swallowed` `sweet` `tears` `thanks` `thence` `titus` `triumph` `troas` `word` `wrote`
+#abundantly #advantage #affliction #anguish #beseech #brother #caused #causeth #change #christ #come #comfort #confidence #confirm #contrariwise #corrupt #death #determined #devices #door #forgive #forgiveness #found #glad #god #gospel #grief #grieved #heart #heaviness #ignorant #inflicted #joy #know #knowledge #leave #life #lord #love #macedonia #make #manifest #obedient #opened #overcharge #overmuch #part #pauls #perish #person #place #plans #preach #proof #punishment #rejoice #rest #sakes #satan #saved #savour #sight #sincerity #sorrow #sorry #speak #spirit #sufficient #swallowed #sweet #tears #thanks #thence #titus #triumph #troas #word #wrote
 
 
 ---

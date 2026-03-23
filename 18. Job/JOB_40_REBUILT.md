@@ -1,3 +1,14 @@
+---
+book: "Job"
+chapter: 40
+testament: "Old Testament"
+key_themes: "God's Challenge, Job's Humility, Divine Power, Behemoth"
+tags:
+  - god
+  - job
+  - divine-power
+  - behemoth
+---
 # Job 40
 
 ---
@@ -141,7 +152,7 @@ LORD, answered, Job, contendeth, Almighty, instruct, reproveth, GOD, answer, Job
 
 
 *AI Keywords for current event matching:*
-`abase` `abroad` `almighty` `answer` `answered` `approach` `arm` `array` `bars` `beasts` `beauty` `behemoth` `behold` `bind` `bones` `brass` `bring` `cast` `cedar` `challenge` `chief` `condemn` `confess` `contendeth` `deck` `declare` `demand` `disannul` `divine` `dust` `eateth` `excellency` `faces` `field` `food` `glory` `god` `gods` `grass` `hand` `hide` `humility` `instruct` `iron` `job` `jobs` `judgment` `lay` `loins` `lord` `low` `made` `majesty` `mountains` `mouth` `moveth` `pieces` `place` `play` `power` `proceed` `proud` `rage` `reproveth` `right` `righteous` `save` `secret` `sinews` `spoken` `stones` `strength` `strong` `sword` `tail` `thunder` `tread` `vile` `voice` `ways` `whirlwind` `wicked` `wrapped` `wrath`
+#abase #abroad #almighty #answer #answered #approach #arm #array #bars #beasts #beauty #behemoth #behold #bind #bones #brass #bring #cast #cedar #challenge #chief #condemn #confess #contendeth #deck #declare #demand #disannul #divine #dust #eateth #excellency #faces #field #food #glory #god #gods #grass #hand #hide #humility #instruct #iron #job #jobs #judgment #lay #loins #lord #low #made #majesty #mountains #mouth #moveth #pieces #place #play #power #proceed #proud #rage #reproveth #right #righteous #save #secret #sinews #spoken #stones #strength #strong #sword #tail #thunder #tread #vile #voice #ways #whirlwind #wicked #wrapped #wrath
 
 
 ---

@@ -1,3 +1,13 @@
+---
+book: "Luke"
+chapter: 4
+testament: "New Testament"
+key_themes: "Temptation of Jesus, Rejection at Nazareth, Healing Ministry"
+tags:
+  - temptation-of-jesus
+  - rejection-at-nazareth
+  - healing-ministry
+---
 # Luke 4
 
 ---
@@ -187,7 +197,7 @@ Jesus, full, Holy, Ghost, returned, Jordan, led, Spirit, wilderness, forty, days
 
 
 *AI Keywords for current event matching:*
-`accepted` `angels` `authority` `charge` `christ` `fever` `fulfilled` `galilee` `god` `great` `healing` `holy` `jesus` `kingdom` `lord` `ministry` `naaman` `nazareth` `one` `power` `prophet` `rejection` `scripture` `son` `spirit` `synagogues` `syrian` `temptation` `word` `worship`
+#accepted #angels #authority #charge #christ #fever #fulfilled #galilee #god #great #healing #holy #jesus #kingdom #lord #ministry #naaman #nazareth #one #power #prophet #rejection #scripture #son #spirit #synagogues #syrian #temptation #word #worship
 
 
 ---

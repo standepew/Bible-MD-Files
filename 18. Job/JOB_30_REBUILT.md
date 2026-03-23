@@ -1,3 +1,25 @@
+---
+book: "Job"
+chapter: 30
+testament: "Old Testament"
+key_themes: "Job's Present Suffering, Social Rejection, Physical Pain, Divine Silence"
+tags:
+  - mallows-bushes-juniper-roots-meat
+  - loosed-cord-afflicted-loose-bridle
+  - force-disease-garment-collar-coat
+  - cast-mire-dust-ashes
+  - cry-hear-stand-regard
+  - bring-death-house-appointed-living
+  - stretch-hand-grave-destruction
+  - weep-trouble-soul-grieved-poor
+  - bowels-boiled-rested-affliction-prevented
+  - skin-black-bones-burned-heat
+  - harp-mourning-organ-weep
+  - job
+  - social-rejection
+  - physical-pain
+  - divine-silence
+---
 # Job 30
 
 ---
@@ -153,7 +175,7 @@ Younger, derision, fathers, disdained, dogs, flock. Strength, hands, profit, old
 
 
 *AI Keywords for current event matching:*
-`abhor` `afflicted` `affliction` `age` `base` `bones` `brayed` `breaking` `bridle` `bushes` `byword` `calamity` `caves` `children` `clifts` `cloud` `cord` `derision` `desolate` `desolation` `destruction` `disdained` `divine` `dogs` `driven` `earth` `face` `famine` `fathers` `feet` `flee` `flock` `fools` `forward` `gathered` `hand` `hands` `helper` `jobs` `juniper` `loose` `loosed` `mallows` `mar` `meat` `men` `nettles` `night` `old` `pain` `path` `perished` `physical` `pierced` `poured` `present` `profit` `pursue` `push` `raise` `rejection` `rest` `right` `rocks` `rolled` `roots` `season` `set` `silence` `sinews` `social` `solitary` `song` `soul` `spit` `strength` `suffering` `terrors` `thief` `valleys` `viler` `want` `waste` `waters` `welfare` `wilderness` `wind` `younger` `youth`
+#abhor #afflicted #affliction #age #base #bones #brayed #breaking #bridle #bushes #byword #calamity #caves #children #clifts #cloud #cord #derision #desolate #desolation #destruction #disdained #divine #dogs #driven #earth #face #famine #fathers #feet #flee #flock #fools #forward #gathered #hand #hands #helper #jobs #juniper #loose #loosed #mallows #mar #meat #men #nettles #night #old #pain #path #perished #physical #pierced #poured #present #profit #pursue #push #raise #rejection #rest #right #rocks #rolled #roots #season #set #silence #sinews #social #solitary #song #soul #spit #strength #suffering #terrors #thief #valleys #viler #want #waste #waters #welfare #wilderness #wind #younger #youth
 
 
 ---

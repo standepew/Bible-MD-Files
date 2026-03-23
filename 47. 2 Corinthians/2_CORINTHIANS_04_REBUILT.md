@@ -1,3 +1,14 @@
+---
+book: "2 Corinthians"
+chapter: 4
+testament: "New Testament"
+key_themes: "The Ministry of Reconciliation, Treasures in Earthen Vessels, The Dying and Rising Life, Eternal Glory"
+tags:
+  - the-ministry-of-reconciliation
+  - treasures-in-earthen-vessels
+  - the-dying-and-rising-life
+  - eternal-glory
+---
 # 2 Corinthians 4
 
 ---
@@ -117,7 +128,7 @@ Ministry, received, mercy, faint, renounced, hidden, things, dishonesty, walking
 
 
 *AI Keywords for current event matching:*
-`abundant` `affliction` `bearing` `believe` `believed` `blinded` `body` `cast` `christ` `commanded` `commending` `conscience` `craftiness` `darkness` `day` `death` `deceitfully` `delivered` `despair` `destroyed` `dishonesty` `distressed` `dying` `earthen` `eternal` `exceeding` `excellency` `face` `faint` `faith` `flesh` `forsaken` `glorious` `glory` `god` `gospel` `grace` `handling` `hearts` `hid` `hidden` `image` `inward` `jesus` `knowing` `knowledge` `life` `light` `live` `lord` `lost` `man` `manifest` `manifestation` `mercy` `minds` `ministry` `moment` `mortal` `ourselves` `outward` `perish` `perplexed` `persecuted` `power` `preach` `present` `raise` `raised` `received` `reconciliation` `redound` `renewed` `renounced` `rising` `sake` `seen` `servants` `shine` `shined` `side` `sight` `speak` `spirit` `spoken` `temporal` `thanksgiving` `things` `treasure` `treasures` `troubled` `truth` `vessels` `walking` `weight` `word` `work` `world` `written`
+#abundant #affliction #bearing #believe #believed #blinded #body #cast #christ #commanded #commending #conscience #craftiness #darkness #day #death #deceitfully #delivered #despair #destroyed #dishonesty #distressed #dying #earthen #eternal #exceeding #excellency #face #faint #faith #flesh #forsaken #glorious #glory #god #gospel #grace #handling #hearts #hid #hidden #image #inward #jesus #knowing #knowledge #life #light #live #lord #lost #man #manifest #manifestation #mercy #minds #ministry #moment #mortal #ourselves #outward #perish #perplexed #persecuted #power #preach #present #raise #raised #received #reconciliation #redound #renewed #renounced #rising #sake #seen #servants #shine #shined #side #sight #speak #spirit #spoken #temporal #thanksgiving #things #treasure #treasures #troubled #truth #vessels #walking #weight #word #work #world #written
 
 
 ---

@@ -1,3 +1,14 @@
+---
+book: "2 Chronicles"
+chapter: 3
+testament: "Old Testament"
+key_themes: "Temple Construction, Divine Pattern, Holy Place, Cherubim Design"
+tags:
+  - temple-construction
+  - divine-pattern
+  - holy-place
+  - cherubim-design
+---
 # 2 Chronicles 3
 
 ---
@@ -135,7 +146,7 @@ Solomon, began, build, house, LORD, Jerusalem, mount, Moriah, LORD, appeared, Da
 
 
 *AI Keywords for current event matching:*
-`appeared` `beams` `beauty` `began` `blue` `boaz` `breadth` `build` `building` `called` `chains` `chambers` `chapiter` `cherub` `cherubim` `cherubims` `cieled` `construction` `crimson` `cubits` `david` `day` `decoration` `design` `dimensions` `doors` `faces` `father` `feet` `fifty` `fine` `fir` `first` `five` `fourth` `front` `garnished` `god` `gold` `graved` `greater` `hand` `heads` `height` `high` `holy` `house` `hundred` `image` `instructed` `inward` `jachin` `jebusite` `jerusalem` `joining` `left` `length` `linen` `long` `lord` `measure` `month` `moriah` `most` `mount` `nails` `name` `oracle` `ornan` `overlaid` `palm` `parvaim` `pillars` `place` `pomegranates` `porch` `posts` `precious` `pure` `purple` `reaching` `reared` `reign` `right` `second` `shekels` `six` `soloman` `spread` `stones` `stood` `talents` `temple` `thirty` `threescore` `threshingfloor` `top` `tree` `trees` `twenty` `two` `upper` `vail` `wall` `walls` `weight` `wing` `wings` `work` `wrought` `year`
+#appeared #beams #beauty #began #blue #boaz #breadth #build #building #called #chains #chambers #chapiter #cherub #cherubim #cherubims #cieled #construction #crimson #cubits #david #day #decoration #design #dimensions #doors #faces #father #feet #fifty #fine #fir #first #five #fourth #front #garnished #god #gold #graved #greater #hand #heads #height #high #holy #house #hundred #image #instructed #inward #jachin #jebusite #jerusalem #joining #left #length #linen #long #lord #measure #month #moriah #most #mount #nails #name #oracle #ornan #overlaid #palm #parvaim #pillars #place #pomegranates #porch #posts #precious #pure #purple #reaching #reared #reign #right #second #shekels #six #soloman #spread #stones #stood #talents #temple #thirty #threescore #threshingfloor #top #tree #trees #twenty #two #upper #vail #wall #walls #weight #wing #wings #work #wrought #year
 
 
 ---

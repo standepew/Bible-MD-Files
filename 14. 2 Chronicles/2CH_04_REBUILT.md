@@ -1,3 +1,14 @@
+---
+book: "2 Chronicles"
+chapter: 4
+testament: "Old Testament"
+key_themes: "Temple Furnishings, Sacred Vessels, Divine Craftsmanship, Holy Instruments"
+tags:
+  - temple-furnishings
+  - sacred-vessels
+  - divine-craftsmanship
+  - holy-instruments
+---
 # 2 Chronicles 4
 
 ---
@@ -151,7 +162,7 @@ Altar, brass, twenty, cubits, length, twenty, cubits, breadth, ten, cubits, heig
 
 
 *AI Keywords for current event matching:*
-`abundance` `altar` `bases` `basons` `baths` `brass` `breadth` `bright` `brim` `burn` `burnt` `candlesticks` `cast` `censers` `chapiters` `clay` `compass` `compassing` `court` `cover` `craftsmanship` `cubit` `cubits` `cup` `doors` `east` `end` `entry` `father` `finished` `five` `fleshhooks` `flowers` `form` `found` `four` `god` `gold` `golden` `great` `ground` `hand` `handbreadth` `height` `held` `hinder` `holy` `house` `hundred` `huram` `hurams` `inner` `instruments` `inward` `jordan` `king` `lamps` `lavers` `left` `length` `lilies` `line` `looking` `lord` `manner` `molten` `north` `offering` `one` `oracle` `overlaid` `oxen` `parts` `perfect` `pillars` `place` `plain` `pomegranates` `pommels` `pots` `priests` `pure` `received` `right` `round` `rows` `sea` `set` `shewbread` `shovels` `side` `similitude` `snuffers` `solomon` `south` `spoons` `stood` `succoth` `support` `tables` `temple` `ten` `thickness` `thirty` `thousand` `three` `tongs` `top` `twelve` `twenty` `two` `vessels` `wash` `washed` `washing` `weight` `west` `work` `wreath` `wreaths` `zeredathah`
+#abundance #altar #bases #basons #baths #brass #breadth #bright #brim #burn #burnt #candlesticks #cast #censers #chapiters #clay #compass #compassing #court #cover #craftsmanship #cubit #cubits #cup #doors #east #end #entry #father #finished #five #fleshhooks #flowers #form #found #four #god #gold #golden #great #ground #hand #handbreadth #height #held #hinder #holy #house #hundred #huram #hurams #inner #instruments #inward #jordan #king #lamps #lavers #left #length #lilies #line #looking #lord #manner #molten #north #offering #one #oracle #overlaid #oxen #parts #perfect #pillars #place #plain #pomegranates #pommels #pots #priests #pure #received #right #round #rows #sea #set #shewbread #shovels #side #similitude #snuffers #solomon #south #spoons #stood #succoth #support #tables #temple #ten #thickness #thirty #thousand #three #tongs #top #twelve #twenty #two #vessels #wash #washed #washing #weight #west #work #wreath #wreaths #zeredathah
 
 
 ---

@@ -1,3 +1,14 @@
+---
+book: "2 Chronicles"
+chapter: 22
+testament: "Old Testament"
+key_themes: "Wicked Succession, Divine Judgment, Royal Preservation, Athaliah's Usurpation"
+tags:
+  - wicked-succession
+  - divine-judgment
+  - royal-preservation
+  - athaliah
+---
 # 2 Chronicles 22
 
 ---
@@ -143,7 +154,7 @@ Inhabitants, Jerusalem, Ahaziah, youngest, son, king, band, men, Arabians, camp,
 
 
 *AI Keywords for current event matching:*
-`ahab` `ahaziah` `anointed` `arabians` `arose` `athaliah` `azariah` `band` `bedchamber` `brethren` `brought` `buried` `camp` `caught` `counsel` `counsellor` `counsellors` `cut` `daughter` `dead` `death` `destroyed` `destruction` `divine` `eldest` `evil` `executing` `father` `forty` `fought` `gilead` `god` `hazael` `healed` `heart` `hid` `house` `influence` `inhabitants` `israel` `jehoiada` `jehoram` `jehoshabeath` `jehoshaphat` `jehu` `jerusalem` `jezreel` `joash` `joram` `judah` `judgment` `keep` `king` `kingdom` `land` `lord` `massacre` `men` `ministered` `mother` `nimshi` `omri` `power` `preservation` `priest` `princes` `ramah` `ramoth` `reigned` `returned` `royal` `samaria` `seed` `sick` `sight` `sister` `six` `slain` `slew` `smote` `son` `sons` `sought` `stole` `succession` `syria` `syrians` `two` `walked` `war` `ways` `wicked` `wickedly` `wife` `wounds` `year` `years` `youngest`
+#ahab #ahaziah #anointed #arabians #arose #athaliah #azariah #band #bedchamber #brethren #brought #buried #camp #caught #counsel #counsellor #counsellors #cut #daughter #dead #death #destroyed #destruction #divine #eldest #evil #executing #father #forty #fought #gilead #god #hazael #healed #heart #hid #house #influence #inhabitants #israel #jehoiada #jehoram #jehoshabeath #jehoshaphat #jehu #jerusalem #jezreel #joash #joram #judah #judgment #keep #king #kingdom #land #lord #massacre #men #ministered #mother #nimshi #omri #power #preservation #priest #princes #ramah #ramoth #reigned #returned #royal #samaria #seed #sick #sight #sister #six #slain #slew #smote #son #sons #sought #stole #succession #syria #syrians #two #walked #war #ways #wicked #wickedly #wife #wounds #year #years #youngest
 
 
 ---

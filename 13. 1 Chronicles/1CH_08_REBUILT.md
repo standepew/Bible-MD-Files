@@ -1,3 +1,30 @@
+---
+book: "1 Chronicles"
+chapter: 8
+testament: "Old Testament"
+key_themes: "Benjamin's Complete Genealogy, Saul's Family Line, David's Ancestry, Tribal Leadership"
+tags:
+  - Hushim-begat-Abitub-Elpaal
+  - Ahio-Shashak-Jeremoth
+  - Zebadiah-Arad-Ader
+  - Michael-Ispah-Joha-sons-Beriah
+  - Zebadiah-Meshullam-Hezeki-Heber
+  - Ishmerai-Jezliah-Jobab-sons-Elpaal
+  - Jakim-Zichri-Zabdi
+  - Elienai-Zilthai-Eliel
+  - Adaiah-Beraiah-Shimrath-sons-Shimhi
+  - Ishpan-Heber-Eliel
+  - Abdon-Zichri-Hanan
+  - Hananiah-Elam-Antothijah
+  - Iphedeiah-Penuel-sons-Shashak
+  - Shamsherai-Shehariah-Athaliah
+  - Jaresiah-Eliah-Zichri-sons-Jeroham
+  - Gedor-Ahio-Zacher
+  - benjamin
+  - saul
+  - david
+  - tribal-leadership
+---
 # 1 Chronicles 8
 
 ---
@@ -87,7 +114,7 @@ Benjamin, begat, Bela, firstborn, Ashbel, second, Aharah, third, Nohah, fourth, 
 
 
 *AI Keywords for current event matching:*
-`abdon` `abihud` `abinadab` `abishua` `abitub` `adaiah` `addar` `ader` `aharah` `ahaz` `ahiah` `ahihud` `ahio` `ahoah` `aijalon` `alemeth` `antothijah` `arad` `archers` `ashbel` `athaliah` `away` `azel` `azmaveth` `azrikam` `baal` `baara` `begat` `bela` `benjamin` `benjamins` `beraiah` `beriah` `binea` `bocheru` `brethren` `brother` `built` `chief` `children` `complete` `country` `descendants` `drove` `dwelt` `eber` `ehud` `elam` `eleasah` `eliah` `eliel` `elienai` `eliphelet` `elpaal` `elpaals` `esh-baal` `eshek` `esheks` `family` `father` `fathers` `fifth` `fifty` `firstborn` `fourth` `gath` `geba` `gedor` `genealogy` `generations` `gera` `gibeon` `gibeons` `hanan` `hananiah` `heads` `heber` `hezeki` `hodesh` `hundred` `huram` `hushim` `inhabitants` `iphedeiah` `ishmael` `ishmerai` `ishpan` `ispah` `jakim` `jaresiah` `jehoadah` `jehush` `jeremoth` `jeroham` `jerohams` `jerusalem` `jeuz` `jezliah` `jobab` `joha` `jonathan` `kish` `line` `lod` `maachah` `malcham` `malchi-shua` `manahath` `melech` `men` `merib-baal` `mesha` `meshullam` `micah` `michael` `mighty` `mikloth` `mirma` `misham` `moab` `moza` `naaman` `nadab` `names` `ner` `nohah` `obadiah` `ono` `penuel` `pithon` `rapha` `removed` `royal` `saul` `sauls` `second` `sent` `shachia` `shaharaim` `shaharaims` `shamed` `shamsherai` `shashak` `sheariah` `shehariah` `shema` `shephuphan` `shimeah` `shimhi` `shimrath` `six` `son` `sons` `tarea` `third` `towns` `ulam` `uzza` `valour` `warriors` `wife` `wives` `zabdi` `zacher` `zebadiah` `zibia` `zichri` `zilthai` `zimri` `zur`
+#abdon #abihud #abinadab #abishua #abitub #adaiah #addar #ader #aharah #ahaz #ahiah #ahihud #ahio #ahoah #aijalon #alemeth #antothijah #arad #archers #ashbel #athaliah #away #azel #azmaveth #azrikam #baal #baara #begat #bela #benjamin #benjamins #beraiah #beriah #binea #bocheru #brethren #brother #built #chief #children #complete #country #descendants #drove #dwelt #eber #ehud #elam #eleasah #eliah #eliel #elienai #eliphelet #elpaal #elpaals #esh-baal #eshek #esheks #family #father #fathers #fifth #fifty #firstborn #fourth #gath #geba #gedor #genealogy #generations #gera #gibeon #gibeons #hanan #hananiah #heads #heber #hezeki #hodesh #hundred #huram #hushim #inhabitants #iphedeiah #ishmael #ishmerai #ishpan #ispah #jakim #jaresiah #jehoadah #jehush #jeremoth #jeroham #jerohams #jerusalem #jeuz #jezliah #jobab #joha #jonathan #kish #line #lod #maachah #malcham #malchi-shua #manahath #melech #men #merib-baal #mesha #meshullam #micah #michael #mighty #mikloth #mirma #misham #moab #moza #naaman #nadab #names #ner #nohah #obadiah #ono #penuel #pithon #rapha #removed #royal #saul #sauls #second #sent #shachia #shaharaim #shaharaims #shamed #shamsherai #shashak #sheariah #shehariah #shema #shephuphan #shimeah #shimhi #shimrath #six #son #sons #tarea #third #towns #ulam #uzza #valour #warriors #wife #wives #zabdi #zacher #zebadiah #zibia #zichri #zilthai #zimri #zur
 
 
 ---

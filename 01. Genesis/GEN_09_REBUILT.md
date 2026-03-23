@@ -1,3 +1,58 @@
+---
+book: "Genesis"
+chapter: 9
+testament: "Old Testament"
+key_themes: "Creation Mandate Renewed, Dominion Changed After the Fall, Flesh Permitted for Food, Blood Prohibited — Life Is in the Blood, Capital Justice Grounded in the Image of God, The Noahic Covenant — Broadest Covenant in Scripture, The Rainbow as Covenant Sign, Noah's Vineyard and Drunkenness — First Fall of the New Adam, Ham's Sin and the Curse of Canaan, Shem Blessed — The Messianic Line Identified, Japheth Enlarged — The Gentile Nations, Noah's Final Years and Death"
+tags:
+  - Noah
+  - new-Adam
+  - creation-mandate-renewed
+  - fear-and-dread
+  - dominion-changed
+  - flesh-for-food
+  - blood-prohibition
+  - dam
+  - life-is-in-blood
+  - capital-justice
+  - image-of-God
+  - tselem
+  - whoso-sheds-blood
+  - Noahic-covenant
+  - berith-olam
+  - everlasting-covenant
+  - all-flesh
+  - rainbow
+  - qeshet
+  - bow-in-cloud
+  - token
+  - covenant-sign
+  - perpetual-generations
+  - zakar-covenant
+  - Noah-husbandman
+  - vineyard
+  - yayin
+  - wine
+  - drunken
+  - uncovered
+  - Ham
+  - nakedness
+  - ervah
+  - Canaan
+  - cursed
+  - servant-of-servants
+  - Shem
+  - blessed-be-LORD-God-of-Shem
+  - Japheth
+  - enlarged
+  - tents-of-Shem
+  - Gentiles-in-Shem
+  - messianic-line
+  - table-of-nations
+  - capital-punishment
+  - common-grace
+  - Noahic-laws
+  - human-dignity
+---
 # Genesis 9
 
 ---
@@ -151,7 +206,7 @@ God blessed Noah and his sons and renewed the creation mandate: be fruitful, mul
 
 For AI matching to topics and current events:
 
-`be fruitful multiply` `replenish earth` `creation mandate renewed` `new Adam` `fear and dread` `animals fear man` `dominion changed` `fallen dominion` `every moving thing meat` `flesh for food` `blood prohibition` `dam` `life is in blood` `nephesh` `shall ye not eat blood` `universal food law` `your blood I require` `image of God` `tselem` `whoso sheddeth blood` `capital justice` `by man blood shed` `human dignity` `image-bearer` `capital punishment` `Noahic covenant` `berith olam` `everlasting covenant` `all flesh` `perpetual generations` `rainbow` `qeshet` `bow in cloud` `war-bow` `token of covenant` `zakar covenant` `God remembers` `Noah husbandman` `vineyard` `wine` `yayin` `drunken` `uncovered` `within tent` `Ham` `nakedness` `ervah` `Canaan` `cursed` `servant of servants` `Shem` `blessed be LORD God of Shem` `Japheth` `enlarged` `tents of Shem` `Gentiles in covenant` `messianic line` `table of nations` `one blood all nations` `Noah 950 years` `he died`
+#be-fruitful-multiply #replenish-earth #creation-mandate-renewed #new-Adam #fear-and-dread #animals-fear-man #dominion-changed #fallen-dominion #every-moving-thing-meat #flesh-for-food #blood-prohibition #dam #life-is-in-blood #nephesh #shall-ye-not-eat-blood #universal-food-law #your-blood-I-require #image-of-God #tselem #whoso-sheddeth-blood #capital-justice #by-man-blood-shed #human-dignity #image-bearer #capital-punishment #Noahic-covenant #berith-olam #everlasting-covenant #all-flesh #perpetual-generations #rainbow #qeshet #bow-in-cloud #war-bow #token-of-covenant #zakar-covenant #God-remembers #Noah-husbandman #vineyard #wine #yayin #drunken #uncovered #within-tent #Ham #nakedness #ervah #Canaan #cursed #servant-of-servants #Shem #blessed-be-LORD-God-of-Shem #Japheth #enlarged #tents-of-Shem #Gentiles-in-covenant #messianic-line #table-of-nations #one-blood-all-nations #Noah-950-years #he-died
 
 **Relevance to Current Events:**
 - Capital punishment debates — Genesis 9:6 is the pre-Mosaic, universal basis for capital justice; grounded in the image of God, not in the Mosaic Law; the debate over capital punishment cannot dismiss this foundational text without also dismissing the doctrine of the image of God
@@ -465,37 +520,37 @@ For AI matching to topics and current events:
 
 ### The Rainbow — God's Covenant Sign From Genesis to Revelation
 
-**Genesis 9:13** — Bow set in the cloud as token of the Noahic covenant
+[[01. Genesis/GEN_09_REBUILT|Genesis 9:13]] — Bow set in the cloud as token of the Noahic covenant
 
 **Thread through Scripture:**
-- **Genesis 9:13-17** — Bow in cloud; God will remember His covenant when He sees it
-- **Ezekiel 1:28** — The rainbow is the appearance of the glory of the LORD around the throne-chariot
-- **Revelation 4:3** — Rainbow around the throne of God in heaven; like emerald
-- **Revelation 10:1** — Rainbow on the head of the mighty covenant angel
+- [[01. Genesis/GEN_09_REBUILT|Genesis 9:13-17]] — Bow in cloud; God will remember His covenant when He sees it
+- [[26. Ezekiel/EZEKIEL_01_REBUILT|Ezekiel 1:28]] — The rainbow is the appearance of the glory of the LORD around the throne-chariot
+- [[66. Revelation/REVELATION_04_REBUILT|Revelation 4:3]] — Rainbow around the throne of God in heaven; like emerald
+- [[66. Revelation/REVELATION_10_REBUILT|Revelation 10:1]] — Rainbow on the head of the mighty covenant angel
 - *Interpretation:* The rainbow begins as a covenant sign set in the sky (Genesis 9) and becomes the permanent encirclement of God's heavenly throne (Revelation 4). What was given to earth as a sign is revealed to be the eternal halo of God's glory. Every rainbow is a preview of what surrounds the throne of the Almighty — His covenant faithfulness displayed.
 
 ---
 
 ### Wine — Blessing and Curse, First to Last
 
-**Genesis 9:20-21** — First vine/wine; first drunkenness; produces the first curse in the new world
+[[01. Genesis/GEN_09_REBUILT|Genesis 9:20-21]] — First vine/wine; first drunkenness; produces the first curse in the new world
 
 **Thread through Scripture:**
-- **Numbers 6:3-4** — Nazirite vow: complete abstinence from all grape products as a sign of total consecration
-- **Psalm 104:15** — "Wine that maketh glad the heart of man" — wine as blessing and gift
+- [[04. Numbers/NUM_06_REBUILT|Numbers 6:3-4]] — Nazirite vow: complete abstinence from all grape products as a sign of total consecration
+- [[19.Psalm Part 2/PSALM_104_REBUILT|Psalm 104:15]] — "Wine that maketh glad the heart of man" — wine as blessing and gift
 - **Proverbs 20:1; 23:29-35** — Wine as destroyer and deceiver
-- **Isaiah 5:11-12** — Woe to those who pursue wine from morning to night; the harlot of Babylon makes the nations drunk (Revelation 17:2; 18:3)
-- **John 2:1-11** — Jesus' first miracle: water to wine at Cana; the best wine; joy and abundance
-- **Luke 22:20** — "This cup is the new testament in my blood" — the cup of wine becomes the sign of the new covenant in Christ's blood
-- **Revelation 14:10** — "The wine of the wrath of God... poured out without mixture" — the ultimate cup of judgment
-- **Revelation 19:15** — "He treadeth the winepress of the fierceness and wrath of Almighty God" — the winepress of judgment
+- [[23. Isaiah/ISAIAH_05_REBUILT|Isaiah 5:11-12]] — Woe to those who pursue wine from morning to night; the harlot of Babylon makes the nations drunk (Revelation 17:2; 18:3)
+- [[43. John/JOHN_02_REBUILT|John 2:1-11]] — Jesus' first miracle: water to wine at Cana; the best wine; joy and abundance
+- [[42. Luke/LUKE_22_REBUILT|Luke 22:20]] — "This cup is the new testament in my blood" — the cup of wine becomes the sign of the new covenant in Christ's blood
+- [[66. Revelation/REVELATION_14_REBUILT|Revelation 14:10]] — "The wine of the wrath of God... poured out without mixture" — the ultimate cup of judgment
+- [[66. Revelation/REVELATION_19_REBUILT|Revelation 19:15]] — "He treadeth the winepress of the fierceness and wrath of Almighty God" — the winepress of judgment
 - *Interpretation:* Wine runs through Scripture from Genesis 9's first vine to Revelation's last winepress. It is consistently dual: the gladness of the harvest and the destruction of the drunkard; the joy of Cana and the shame of Noah; the cup of blessing at the Last Supper and the cup of wrath at the judgment. It points ultimately to Christ, who took the cup of God's wrath so that His people might receive the cup of blessing.
 
 ---
 
 ### The Covenant Chain — Noahic to New Covenant
 
-**Genesis 9:8-17** — The Noahic covenant: broadest, first berith olam, universal scope
+[[01. Genesis/GEN_09_REBUILT|Genesis 9:8-17]] — The Noahic covenant: broadest, first berith olam, universal scope
 
 **Thread through Scripture:**
 
@@ -509,25 +564,25 @@ For AI matching to topics and current events:
 
 - Each covenant narrows (from all flesh → one family → one nation → one king → one Savior) and deepens
 - Each is berith olam in its sphere — the Noahic is the outermost ring; the new covenant in Christ is the innermost fulfillment
-- **Hebrews 8:6** — "He is the mediator of a better covenant, which was established upon better promises" — Christ's covenant does not cancel the Noahic; it fulfills everything the covenant chain pointed toward
+- [[58. Hebrews/HEBREWS_08_REBUILT|Hebrews 8:6]] — "He is the mediator of a better covenant, which was established upon better promises" — Christ's covenant does not cancel the Noahic; it fulfills everything the covenant chain pointed toward
 
 ---
 
 ### Image of God — From Genesis 9:6 Through All of Scripture
 
-**Genesis 9:6** — "For in the image of God made he man" — the post-flood reaffirmation
+[[01. Genesis/GEN_09_REBUILT|Genesis 9:6]] — "For in the image of God made he man" — the post-flood reaffirmation
 
 **Thread through Scripture:**
-- **Genesis 1:26-27** — Original creation in God's image and likeness
-- **Genesis 5:1-3** — The image transmitted (in fallen form) through Adam's line
-- **Genesis 9:6** — Reaffirmed after the Fall AND after the flood; the image survives both
-- **Psalm 8:4-6** — "What is man, that thou art mindful of him?... thou hast made him a little lower than the angels, and hast crowned him with glory and honour" — the dignity of the image-bearer
-- **James 3:9** — Cursing men violates the image of God they bear
-- **1 Corinthians 11:7** — Man is "the image and glory of God"
-- **2 Corinthians 3:18** — Believers being transformed into the image (eikon) of Christ "from glory to glory"
-- **Colossians 1:15** — Christ is "the image of the invisible God" — the perfect tselem
-- **Colossians 3:10** — The new man "renewed in knowledge after the image of him that created him"
-- **Romans 8:29** — "Conformed to the image of his Son" — the goal of redemption: the full restoration of the tselem
+- [[01. Genesis/GEN_01_REBUILT|Genesis 1:26-27]] — Original creation in God's image and likeness
+- [[01. Genesis/GEN_05_REBUILT|Genesis 5:1-3]] — The image transmitted (in fallen form) through Adam's line
+- [[01. Genesis/GEN_09_REBUILT|Genesis 9:6]] — Reaffirmed after the Fall AND after the flood; the image survives both
+- [[19.Psalm Part 1/PSALM_08_REBUILT|Psalm 8:4-6]] — "What is man, that thou art mindful of him?... thou hast made him a little lower than the angels, and hast crowned him with glory and honour" — the dignity of the image-bearer
+- [[59. James/JAMES_03_REBUILT|James 3:9]] — Cursing men violates the image of God they bear
+- [[46. 1 Corinthians/1_CORINTHIANS_11_REBUILT|1 Corinthians 11:7]] — Man is "the image and glory of God"
+- [[47. 2 Corinthians/2_CORINTHIANS_03_REBUILT|2 Corinthians 3:18]] — Believers being transformed into the image (eikon) of Christ "from glory to glory"
+- [[51. Colossians/COLOSSIANS_01_REBUILT|Colossians 1:15]] — Christ is "the image of the invisible God" — the perfect tselem
+- [[51. Colossians/COLOSSIANS_03_REBUILT|Colossians 3:10]] — The new man "renewed in knowledge after the image of him that created him"
+- [[45. Romans/ROMANS_08_REBUILT|Romans 8:29]] — "Conformed to the image of his Son" — the goal of redemption: the full restoration of the tselem
 - *Interpretation:* The image of God (tselem) is the thread that runs from creation through the fall, through the flood reaffirmation (Genesis 9:6), through the Psalms, through the epistles, and into the new creation. It is the foundation of human dignity (Genesis 9:6), the target of redemption (Romans 8:29; Colossians 3:10), and the eternal state of the redeemed (1 John 3:2 — "we shall be like him; for we shall see him as he is"). Christ, the perfect image (Colossians 1:15), is both the model and the means of the image's full restoration.
 
 ---

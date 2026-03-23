@@ -1,3 +1,71 @@
+---
+book: "Joshua"
+chapter: 17
+testament: "Old Testament"
+key_themes: "Manasseh's Inheritance, Zelophehad's Daughters, Female Inheritance, Tribal Boundaries, Canaanite Problem, Iron Chariots, Joseph's Complaint, Additional Land"
+tags:
+  - lot-tribe-Manasseh
+  - firstborn-Joseph
+  - Machir-firstborn-Manasseh
+  - father-Gilead
+  - man-war
+  - Gilead-Bashan
+  - lot-children-Manasseh-families
+  - sons-daughters
+  - LORD-commanded-Moses-inheritance-brethren
+  - commandment-LORD-inheritance-brethren-father
+  - ten-portions-Manasseh
+  - land-Gilead-Bashan-Jordan
+  - daughters-Manasseh-inheritance-sons
+  - rest-Manasseh-sons-land-Gilead
+  - coast-Manasseh-Asher-Michmethah-Shechem
+  - Manasseh-land-Tappuah
+  - Tappuah-border-Manasseh-children-Ephraim
+  - cities-Ephraim-cities-Manasseh
+  - coast-Manasseh-north-side-river
+  - outgoings-sea
+  - southward-Ephraim-northward-Manasseh
+  - sea-border
+  - met-Asher-north-Issachar-east
+  - Ibleam-towns
+  - inhabitants-Dor-towns
+  - inhabitants-Endor-towns
+  - inhabitants-Taanach-towns
+  - inhabitants-Megiddo-towns
+  - three-countries
+  - children-Manasseh-drive-inhabitants-cities
+  - Canaanites-dwell-land
+  - children-Israel-waxen-strong
+  - Canaanites-tribute
+  - utterly-drive
+  - children-Joseph-Joshua
+  - one-lot-one-portion-inherit
+  - great-people
+  - LORD-blessed-hitherto
+  - Joshua-answered
+  - wood-country
+  - cut-down-land-Perizzites-giants
+  - mount-Ephraim-narrow
+  - children-Joseph-hill-enough
+  - Beth-shean-towns
+  - valley-Jezreel
+  - Joshua-house-Joseph-Ephraim-Manasseh
+  - great-people-great-power
+  - one-lot
+  - mountain-thine
+  - wood-cut-down
+  - outgoings-thine
+  - drive-Canaanites
+  - iron-chariots-strong
+  - manasseh
+  - zelophehad
+  - female-inheritance
+  - tribal-boundaries
+  - canaanite-problem
+  - iron-chariots
+  - joseph
+  - additional-land
+---
 # Joshua 17
 
 ---
@@ -95,7 +163,7 @@ Manasseh receives inheritance as Joseph's firstborn. Machir, Manasseh's firstbor
 
 
 *AI Keywords for current event matching:*
-`abiezer` `answered` `asher` `asriel` `bashan` `beth-shean` `blessed` `border` `boundaries` `brethren` `came` `canaanite` `canaanites` `chariots` `children` `cities` `coast` `commanded` `commandment` `complaint` `countries` `country` `cut` `daughters` `descended` `dor` `down` `drive` `dwell` `east` `eleazar` `en-tappuah` `endor` `enough` `ephraim` `families` `father` `firstborn` `giants` `gilead` `great` `hand` `helek` `hepher` `hill` `hitherto` `hoglah` `house` `ibleam` `inhabitants` `inherit` `inheritance` `iron` `israel` `issachar` `jezreel` `jordan` `joseph` `josephs` `joshua` `joshuas` `kanan` `land` `lord` `lot` `machir` `mahlah` `male` `man` `manasseh` `manassehs` `megiddo` `met` `michmethah` `milcah` `moses` `mount` `mountain` `names` `narrow` `noah` `north` `northward` `nun` `one` `outgoings` `people` `perizzites` `portion` `portions` `power` `priest` `princes` `problem` `response` `rest` `right` `river` `sea` `shechem` `shemida` `side` `son` `sons` `southward` `strong` `taanach` `tappuah` `ten` `three` `tirzah` `towns` `tribal` `tribe` `tribute` `utterly` `valley` `war` `waxen` `wood` `zelophehad` `zelophehads`
+#abiezer #answered #asher #asriel #bashan #beth-shean #blessed #border #boundaries #brethren #came #canaanite #canaanites #chariots #children #cities #coast #commanded #commandment #complaint #countries #country #cut #daughters #descended #dor #down #drive #dwell #east #eleazar #en-tappuah #endor #enough #ephraim #families #father #firstborn #giants #gilead #great #hand #helek #hepher #hill #hitherto #hoglah #house #ibleam #inhabitants #inherit #inheritance #iron #israel #issachar #jezreel #jordan #joseph #josephs #joshua #joshuas #kanan #land #lord #lot #machir #mahlah #male #man #manasseh #manassehs #megiddo #met #michmethah #milcah #moses #mount #mountain #names #narrow #noah #north #northward #nun #one #outgoings #people #perizzites #portion #portions #power #priest #princes #problem #response #rest #right #river #sea #shechem #shemida #side #son #sons #southward #strong #taanach #tappuah #ten #three #tirzah #towns #tribal #tribe #tribute #utterly #valley #war #waxen #wood #zelophehad #zelophehads
 
 
 ---

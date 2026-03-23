@@ -1,3 +1,94 @@
+---
+book: "Judges"
+chapter: 1
+testament: "Old Testament"
+key_themes: "Post-Joshua Leadership, Tribal Conquests, Incomplete Victory, Adoni-bezek, Caleb's Promise, Othniel's Victory, Achsah's Blessing, Kenites' Settlement, Iron Chariots, Partial Obedience"
+tags:
+  - go-against-Canaanites-first
+  - LORD-Judah-delivered-land-hand
+  - Simeon-Judah-lot
+  - slew-Bezek-ten-thousand-men
+  - found-Adoni-bezek-Bezek
+  - fought-slew-Canaanites-Perizzites
+  - Adoni-bezek-fled-pursued-caught
+  - cut-off-thumbs-great-toes
+  - Adoni-bezek-threescore-ten-kings
+  - thumbs-great-toes-cut
+  - gathered-meat-table
+  - God-requited
+  - brought-Jerusalem-died
+  - children-Judah-fought-Jerusalem
+  - taken-smitten-edge-sword
+  - set-city-fire
+  - afterward-Judah-fight-Canaanites
+  - mountain-south-valley
+  - Judah-Canaanites-Hebron
+  - name-Hebron-Kirjath-arba
+  - slew-Sheshai-Ahiman-Talmai
+  - inhabitants-Debir
+  - name-Debir-Kirjath-sepher
+  - Caleb-smiteth-Kirjath-sepher
+  - Achsah-daughter-wife
+  - Othniel-son-Kenaz-Caleb-brother
+  - took-Achsah-wife
+  - came-moved-ask-father-field
+  - lighted-ass
+  - Caleb-wilt-thou
+  - blessing-south-land
+  - springs-water
+  - upper-springs-nether-springs
+  - children-Kenite-Moses-father-law
+  - city-palm-trees-Judah
+  - wilderness-Judah-south-Arad
+  - dwelt-people
+  - Judah-Simeon-slew-Canaanites-Zephath
+  - destroyed-city-Hormah
+  - Judah-Gaza-coast
+  - Askelon-coast
+  - Ekron-coast
+  - LORD-Judah
+  - drave-inhabitants-mountain
+  - drive-out-inhabitants-valley
+  - chariots-iron
+  - gave-Hebron-Caleb-Moses-said
+  - expelled-three-sons-Anak
+  - children-Benjamin-drive-out-Jebusites
+  - Jebusites-dwell-Jerusalem
+  - house-Joseph-Beth-el
+  - LORD-house-Joseph
+  - house-Joseph-descry-Beth-el
+  - name-city-Luz
+  - spies-man-city
+  - entrance-city-mercy
+  - smote-city-edge-sword
+  - man-family-land-Hittites
+  - built-city-Luz
+  - Taanach-towns-Dor-towns
+  - Ibleam-towns-Megiddo-towns
+  - Canaanites-dwell-land
+  - Israel-strong-Canaanites-tribute
+  - drive-out
+  - Ephraim-drive-out-Canaanites-Gezer
+  - Canaanites-dwelt-Gezer
+  - Canaanites-dwelt-tributaries
+  - Ahlab-Achzib-Helbah-Aphik-Rehob
+  - Asherites-dwelt-Canaanites
+  - dwelt-Canaanites
+  - Amorites-forced-children-Dan-mountain
+  - suffer-valley
+  - hand-house-Joseph-prevailed
+  - tributaries
+  - postjoshua-leadership
+  - tribal-conquests
+  - incomplete-victory
+  - adonibezek
+  - caleb
+  - othniel
+  - achsah
+  - kenites
+  - iron-chariots
+  - partial-obedience
+---
 # Judges 1
 
 ---
@@ -109,7 +200,7 @@ After Joshua's death, Israel asks the LORD who should fight the Canaanites first
 
 
 *AI Keywords for current event matching:*
-`accho` `achsah` `achsahs` `achzib` `adoni-bezek` `afterward` `ahiman` `ahlab` `aijalon` `akrabbim` `alliance` `amorites` `anak` `aphik` `arad` `asher` `asherites` `ashers` `ask` `asked` `askelon` `ass` `benjamin` `benjamins` `beth-anath` `beth-el` `beth-shean` `beth-shemesh` `bezek` `blessing` `brother` `brought` `built` `caleb` `came` `campaign` `canaanites` `caught` `chariots` `children` `cities` `city` `coast` `coastal` `conquest` `cut` `dan` `dans` `daughter` `death` `debir` `delivered` `descry` `destroyed` `died` `dor` `drave` `drive` `dwell` `dwelt` `edge` `ekron` `entrance` `ephraim` `ephraims` `expelled` `failure` `family` `father` `field` `fight` `fire` `first` `fled` `forced` `fought` `found` `gathered` `gave` `gaza` `gezer` `god` `going` `great` `hand` `hebron` `helbah` `heres` `hittites` `hormah` `house` `ibleam` `inhabitants` `iron` `israel` `jebusites` `jerusalem` `joseph` `joshua` `judah` `judah-simeon` `kenaz` `kenite` `kings` `kirjath-arba` `kirjath-sepher` `kitron` `land` `law` `leadership` `lighted` `lord` `lot` `luz` `man` `manasseh` `manassehs` `meat` `megiddo` `men` `mercy` `moses` `mount` `mountain` `moved` `nahalol` `name` `naphtali` `naphtalis` `nether` `off` `othniel` `palm` `partial` `people` `perizzites` `pressure` `prevailed` `pursued` `rehob` `requited` `rock` `said` `set` `settlement` `shaalbim` `sheshai` `simeon` `slew` `smiteth` `smitten` `smote` `son` `sons` `south` `southern` `spies` `springs` `strong` `suffer` `sword` `taanach` `table` `taken` `talmai` `ten` `thousand` `three` `threescore` `thumbs` `toes` `took` `towns` `transition` `trees` `tributaries` `tribute` `upper` `upward` `valley` `victory` `water` `wife` `wilderness` `wilt` `zebulun` `zebuluns` `zephath` `zidon`
+#accho #achsah #achsahs #achzib #adoni-bezek #afterward #ahiman #ahlab #aijalon #akrabbim #alliance #amorites #anak #aphik #arad #asher #asherites #ashers #ask #asked #askelon #ass #benjamin #benjamins #beth-anath #beth-el #beth-shean #beth-shemesh #bezek #blessing #brother #brought #built #caleb #came #campaign #canaanites #caught #chariots #children #cities #city #coast #coastal #conquest #cut #dan #dans #daughter #death #debir #delivered #descry #destroyed #died #dor #drave #drive #dwell #dwelt #edge #ekron #entrance #ephraim #ephraims #expelled #failure #family #father #field #fight #fire #first #fled #forced #fought #found #gathered #gave #gaza #gezer #god #going #great #hand #hebron #helbah #heres #hittites #hormah #house #ibleam #inhabitants #iron #israel #jebusites #jerusalem #joseph #joshua #judah #judah-simeon #kenaz #kenite #kings #kirjath-arba #kirjath-sepher #kitron #land #law #leadership #lighted #lord #lot #luz #man #manasseh #manassehs #meat #megiddo #men #mercy #moses #mount #mountain #moved #nahalol #name #naphtali #naphtalis #nether #off #othniel #palm #partial #people #perizzites #pressure #prevailed #pursued #rehob #requited #rock #said #set #settlement #shaalbim #sheshai #simeon #slew #smiteth #smitten #smote #son #sons #south #southern #spies #springs #strong #suffer #sword #taanach #table #taken #talmai #ten #thousand #three #threescore #thumbs #toes #took #towns #transition #trees #tributaries #tribute #upper #upward #valley #victory #water #wife #wilderness #wilt #zebulun #zebuluns #zephath #zidon
 
 
 ---

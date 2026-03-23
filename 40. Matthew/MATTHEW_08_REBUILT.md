@@ -1,3 +1,14 @@
+---
+book: "Matthew"
+chapter: 8
+testament: "New Testament"
+key_themes: "Christ's Healing Power, Centurion's Faith, Discipleship Cost, Storm Authority"
+tags:
+  - christ
+  - centurion
+  - discipleship-cost
+  - storm-authority
+---
 # Matthew 8
 
 ---
@@ -129,7 +140,7 @@ Jesus, come, mountain, multitudes, followed, behold, leper, worshipped, saying, 
 
 
 *AI Keywords for current event matching:*
-`authority` `bury` `calm` `centurion` `centurions` `christs` `cleansed` `cost` `dead` `devils` `discipleship` `east` `faith` `follow` `foxes` `great` `head` `healing` `holes` `leper` `little` `man` `mother` `peter` `possessed` `power` `rebuked` `servant` `son` `speak` `storm` `tempest` `west` `winds` `word` `worthy`
+#authority #bury #calm #centurion #centurions #christs #cleansed #cost #dead #devils #discipleship #east #faith #follow #foxes #great #head #healing #holes #leper #little #man #mother #peter #possessed #power #rebuked #servant #son #speak #storm #tempest #west #winds #word #worthy
 
 
 ---

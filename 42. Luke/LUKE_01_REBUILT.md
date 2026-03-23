@@ -1,3 +1,15 @@
+---
+book: "Luke"
+chapter: 1
+testament: "New Testament"
+key_themes: "Birth of John the Baptist Foretold, Birth of Jesus Foretold, Mary's Visit to Elizabeth, Mary's Song, Birth of John the Baptist, Zacharias' Song"
+tags:
+  - birth-of-john-the-baptist-foretold
+  - birth-of-jesus-foretold
+  - mary
+  - birth-of-john-the-baptist
+  - zacharias
+---
 # Luke 1
 
 ---
@@ -289,7 +301,7 @@ Forasmuch, many, taken, hand, order, declaration, things, surely, believed, deli
 
 
 *AI Keywords for current event matching:*
-`babe` `baptist` `birth` `blameless` `blessed` `covenant` `day` `dayspring` `eighth` `elizabeth` `favoured` `foretold` `gabriel` `ghost` `handmaid` `heard` `highest` `highly` `holy` `horn` `israel` `jesus` `john` `leaped` `loosed` `lord` `magnify` `marys` `mighty` `mother` `name` `peace` `power` `prayer` `presence` `righteous` `salvation` `seats` `servant` `son` `song` `soul` `spirit` `strong` `things` `tongue` `visit` `visited` `way` `women` `zacharias`
+#babe #baptist #birth #blameless #blessed #covenant #day #dayspring #eighth #elizabeth #favoured #foretold #gabriel #ghost #handmaid #heard #highest #highly #holy #horn #israel #jesus #john #leaped #loosed #lord #magnify #marys #mighty #mother #name #peace #power #prayer #presence #righteous #salvation #seats #servant #son #song #soul #spirit #strong #things #tongue #visit #visited #way #women #zacharias
 
 
 ---

@@ -1,3 +1,21 @@
+---
+book: "1 Samuel"
+chapter: 17
+testament: "Old Testament"
+key_themes: "Philistine Challenge, Goliath's Defiance, David's Faith, Lion and Bear Victory, Five Stones, Goliath Defeated, Israel's Victory"
+tags:
+  - people-answered-man-kill
+  - Saul-David-LORD
+  - Philistines-champion-dead-fled
+  - king-quire-son-stripling
+  - philistine-challenge
+  - goliath
+  - david
+  - lion-and-bear-victory
+  - five-stones
+  - goliath-defeated
+  - israel
+---
 # 1 Samuel 17
 
 ---
@@ -85,7 +103,7 @@ Philistines gathered armies for battle, gathered at Shochoh belongeth Judah, pit
 
 
 *AI Keywords for current event matching:*
-`abinadab` `abner` `afraid` `air` `anger` `answered` `armed` `armies` `armour` `army` `arose` `array` `assayed` `assembly` `azekah` `bag` `bare` `battle` `beam` `bear` `beard` `bearing` `beasts` `belongeth` `beth-lehem` `beth-lehemite` `brass` `brethren` `brook` `brother` `brought` `camp` `captain` `carcases` `carriage` `caught` `cause` `challenge` `champion` `chasing` `children` `chose` `coat` `come` `comest` `commanded` `corn` `countenance` `cried` `cubits` `cursed` `cut` `daughter` `david` `davids` `day` `days` `dead` `defiance` `defied` `defy` `defying` `deliver` `delivered` `disdained` `dismayed` `dog` `drew` `earth` `eight` `ekron` `elah` `eldest` `eliab` `enrich` `ephah` `ephes-dammim` `ephrathite` `evening` `face` `fail` `fair` `faith` `fare` `father` `feed` `fell` `field` `fight` `fighting` `firstborn` `five` `fled` `flock` `followed` `forehead` `former` `forty` `fowls` `free` `gates` `gath` `gathered` `girded` `give` `god` `gods` `goliath` `goliaths` `great` `greatly` `greaves` `hand` `hands` `hasted` `head` `heard` `heart` `height` `helmet` `host` `hosts` `house` `hundred` `inquire` `iron` `israel` `israels` `jerusalem` `jesse` `judah` `keeper` `kill` `kindled` `king` `know` `lamb` `left` `legs` `lion` `living` `loaves` `looked` `lord` `mail` `man` `manner` `meet` `men` `morning` `mountain` `mouth` `names` `naughtiness` `nay` `near` `old` `parched` `paw` `people` `philistine` `philistines` `pitched` `pledge` `presented` `prevail` `prevailed` `proud` `proved` `pursued` `ran` `rehearsed` `reproach` `returned` `riches` `rose` `ruddy` `run` `saluted` `saul` `saw` `scrip` `see` `seen` `sent` `servant` `servants` `serve` `shaaraim` `shammah` `sheath` `sheep` `shekels` `shepherd` `shield` `shochoh` `shoulders` `shouted` `side` `six` `slang` `slaughter` `slew` `sling` `smite` `smooth` `smote` `son` `sons` `sore` `spake` `span` `spear` `spoiled` `staff` `staves` `stone` `stones` `stood` `stripling` `sunk` `sword` `talked` `target` `ten` `tent` `tents` `thousand` `three` `together` `took` `trench` `turned` `uncircumcised` `valley` `victory` `war` `way` `weaver` `weight` `went` `words` `wounded` `youngest` `youth`
+#abinadab #abner #afraid #air #anger #answered #armed #armies #armour #army #arose #array #assayed #assembly #azekah #bag #bare #battle #beam #bear #beard #bearing #beasts #belongeth #beth-lehem #beth-lehemite #brass #brethren #brook #brother #brought #camp #captain #carcases #carriage #caught #cause #challenge #champion #chasing #children #chose #coat #come #comest #commanded #corn #countenance #cried #cubits #cursed #cut #daughter #david #davids #day #days #dead #defiance #defied #defy #defying #deliver #delivered #disdained #dismayed #dog #drew #earth #eight #ekron #elah #eldest #eliab #enrich #ephah #ephes-dammim #ephrathite #evening #face #fail #fair #faith #fare #father #feed #fell #field #fight #fighting #firstborn #five #fled #flock #followed #forehead #former #forty #fowls #free #gates #gath #gathered #girded #give #god #gods #goliath #goliaths #great #greatly #greaves #hand #hands #hasted #head #heard #heart #height #helmet #host #hosts #house #hundred #inquire #iron #israel #israels #jerusalem #jesse #judah #keeper #kill #kindled #king #know #lamb #left #legs #lion #living #loaves #looked #lord #mail #man #manner #meet #men #morning #mountain #mouth #names #naughtiness #nay #near #old #parched #paw #people #philistine #philistines #pitched #pledge #presented #prevail #prevailed #proud #proved #pursued #ran #rehearsed #reproach #returned #riches #rose #ruddy #run #saluted #saul #saw #scrip #see #seen #sent #servant #servants #serve #shaaraim #shammah #sheath #sheep #shekels #shepherd #shield #shochoh #shoulders #shouted #side #six #slang #slaughter #slew #sling #smite #smooth #smote #son #sons #sore #spake #span #spear #spoiled #staff #staves #stone #stones #stood #stripling #sunk #sword #talked #target #ten #tent #tents #thousand #three #together #took #trench #turned #uncircumcised #valley #victory #war #way #weaver #weight #went #words #wounded #youngest #youth
 
 
 ---

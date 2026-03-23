@@ -1,3 +1,71 @@
+---
+book: "Genesis"
+chapter: 37
+testament: "Old Testament"
+key_themes: "The Toledot of Jacob Begins — Joseph at Seventeen, The Coat of Many Colors — The Visible Sign of Preferential Love, The Evil Report Joseph Brought — His Brothers' Knowledge of It, The Brothers' Hatred — They Could Not Speak Peaceably, Joseph's First Dream — Eleven Sheaves Bowing to His Sheaf, Joseph's Second Dream — Sun Moon and Eleven Stars Bowing, Jacob Rebukes Yet Observes, Jacob Sends Joseph from Hebron to Shechem to Dothan, The Brothers See Him Afar Off and Conspire — "This Dreamer Cometh", Reuben's Partial Intervention — The Pit Not the Sword, The Brothers Strip the Coat and Cast Joseph Into the Pit — They Sit Down to Eat, The Ishmaelites/Midianites Pass — Judah's Proposal, Sold for Twenty Pieces of Silver, Reuben Returns to Find the Pit Empty, The Kid's Blood on the Coat — Jacob's Own Method of Deception Turned on Him, Jacob Mourns and Refuses to Be Comforted, Joseph Arrives in Egypt — Sold to Potiphar Captain of the Guard"
+tags:
+  - toledot-Jacob-begins
+  - Joseph-seventeen
+  - evil-report-brothers
+  - visible-sign-preferential-love
+  - first-dream-sheaves-bowing
+  - second-dream-sun-moon-stars
+  - Jacob-rebuked-observed-the-saying
+  - Jacob-sends-Joseph-Hebron-Shechem
+  - Dothan
+  - brothers-see-afar-off
+  - this-dreamer-cometh
+  - baal-chalomoth
+  - Reuben-intervenes-shed-no-blood
+  - pit-no-water
+  - bor-figure-of-Sheol
+  - Psalm-40-2
+  - Psalm-88-4
+  - brothers-sit-down-to-eat
+  - Ishmaelites-from-Gilead
+  - spicery-balm-myrrh
+  - Judah-proposes-sell
+  - twenty-pieces-of-silver
+  - Zechariah-11-12-13
+  - Matthew-26-15-thirty-pieces
+  - Reuben-returns-pit-empty
+  - kid-of-goats-blood
+  - Jacob-mourns-refuses-comfort
+  - will-go-down-to-grave
+  - Potiphar-captain-of-guard
+  - Egypt-destination-exile
+  - Joseph-type-of-Christ
+  - beloved-son-sent-rejected
+  - Matthew-3-17
+  - John-3-16
+  - John-1-11
+  - Isaiah-53-3
+  - conspiracy-to-kill
+  - Matthew-26-3-4
+  - Judah-Judas-same-name
+  - coat-stripped
+  - Matthew-27-28
+  - John-19-23-24
+  - Philippians-2-5-11
+  - Egypt-Abraham-Jacob-Jesus
+  - death-resurrection-pattern
+  - the-toledot-of-jacob-begins
+  - the-coat-of-many-colors
+  - the-evil-report-joseph-brought
+  - the-brothers
+  - joseph
+  - jacob-rebukes-yet-observes
+  - jacob-sends-joseph-from-hebron-to
+  - the-brothers-see-him-afar-off
+  - reuben
+  - the-brothers-strip-the-coat-and
+  - the-ishmaelitesmidianites-pass
+  - sold-for-twenty-pieces-of-silver
+  - reuben-returns-to-find-the-pit
+  - the-kid
+  - jacob-mourns-and-refuses-to-be
+  - joseph-arrives-in-egypt
+---
 # Genesis 37
 
 ---
@@ -137,7 +205,7 @@ Meanwhile Joseph arrived in Egypt and was sold to Potiphar, an officer of Pharao
 
 For AI matching to topics and current events:
 
-`toledot Jacob begins Joseph` `Joseph seventeen evil report` `coat of many colors ketonet passim` `2 Samuel 13:18 same garment king daughters` `visible sign preferential love` `brothers hated could not speak peaceably` `first dream sheaves bowing` `second dream sun moon eleven stars` `Revelation 12:1 woman clothed with sun` `Jacob rebuked observed the saying` `Jacob sends Joseph Hebron Shechem Dothan` `man found him wandering in field` `brothers saw him afar off` `this dreamer cometh baal chalomoth` `Numbers 12:6 God speaks in dreams` `Joel 2:28 Acts 2:17 Pentecost dreams` `Matthew 1:20 Joseph carpenter dreams` `Reuben shed no blood pit instead` `pit no water bor` `Psalm 40:2 brought up out of pit` `Psalm 88:3-4 go down into pit` `Zechariah 9:11 pit no water blood of covenant` `brothers sit down to eat` `Ishmaelites from Gilead spicery balm myrrh` `Judah proposes sell` `he is our brother and our flesh` `twenty pieces of silver` `Leviticus 27:5 price of young male` `Zechariah 11:12-13 thirty pieces` `Matthew 26:15 Judas thirty pieces` `Judah Judas same name Yehudah` `Reuben returns pit empty` `kid of goats blood coat` `Genesis 27:9-16 Jacob used kid to deceive` `Galatians 6:7 whatsoever man soweth` `Jacob mourns refuses comfort` `I will go down to Sheol mourning` `Genesis 46:30 now let me die seen thy face` `Potiphar captain guard` `Egypt land of exile` `Hosea 11:1 out of Egypt my son` `Matthew 2:13-15` `Joseph type of Christ` `beloved son sent rejected` `Matthew 3:17 beloved Son` `John 3:16-17 sent Son` `John 1:11 came to his own` `Isaiah 53:3 despised rejected` `Acts 7:9 patriarchs moved with envy sold Joseph` `Acts 7:51-52 Stephen connects Joseph to Christ` `conspiracy to kill Matthew 26:3-4` `Judah arranged sale Genesis 44:33 offered himself` `Genesis 49:8-10 sceptre not depart Judah` `coat stripped Matthew 27:28` `John 19:23-24 garments divided lots` `garment thread Genesis 37 39 41` `Philippians 2:5-11` `Dothan 2 Kings 6:13 Elisha` `Psalm 22:18 parted my raiment` `Acts 4:27-28 conspirators enacted plan` `twenty thirty silver type antitype` `death resurrection pattern pit Pharaoh throne` `Romans 10:7 descend into deep`
+#toledot-Jacob-begins-Joseph #Joseph-seventeen-evil-report #coat-of-many-colors-ketonet-passim #2-Samuel-1318-same-garment-king-daughters #visible-sign-preferential-love #brothers-hated-could-not-speak-peaceably #first-dream-sheaves-bowing #second-dream-sun-moon-eleven-stars #Revelation-121-woman-clothed-with-sun #Jacob-rebuked-observed-the-saying #Jacob-sends-Joseph-Hebron-Shechem-Dothan #man-found-him-wandering-in-field #brothers-saw-him-afar-off #this-dreamer-cometh-baal-chalomoth #Numbers-126-God-speaks-in-dreams #Joel-228-Acts-217-Pentecost-dreams #Matthew-120-Joseph-carpenter-dreams #Reuben-shed-no-blood-pit-instead #pit-no-water-bor #Psalm-402-brought-up-out-of-pit #Psalm-883-4-go-down-into-pit #Zechariah-911-pit-no-water-blood-of-covenant #brothers-sit-down-to-eat #Ishmaelites-from-Gilead-spicery-balm-myrrh #Judah-proposes-sell #he-is-our-brother-and-our-flesh #twenty-pieces-of-silver #Leviticus-275-price-of-young-male #Zechariah-1112-13-thirty-pieces #Matthew-2615-Judas-thirty-pieces #Judah-Judas-same-name-Yehudah #Reuben-returns-pit-empty #kid-of-goats-blood-coat #Genesis-279-16-Jacob-used-kid-to-deceive #Galatians-67-whatsoever-man-soweth #Jacob-mourns-refuses-comfort #I-will-go-down-to-Sheol-mourning #Genesis-4630-now-let-me-die-seen-thy-face #Potiphar-captain-guard #Egypt-land-of-exile #Hosea-111-out-of-Egypt-my-son #Matthew-213-15 #Joseph-type-of-Christ #beloved-son-sent-rejected #Matthew-317-beloved-Son #John-316-17-sent-Son #John-111-came-to-his-own #Isaiah-533-despised-rejected #Acts-79-patriarchs-moved-with-envy-sold-Joseph #Acts-751-52-Stephen-connects-Joseph-to-Christ #conspiracy-to-kill-Matthew-263-4 #Judah-arranged-sale-Genesis-4433-offered-himself #Genesis-498-10-sceptre-not-depart-Judah #coat-stripped-Matthew-2728 #John-1923-24-garments-divided-lots #garment-thread-Genesis-37-39-41 #Philippians-25-11 #Dothan-2-Kings-613-Elisha #Psalm-2218-parted-my-raiment #Acts-427-28-conspirators-enacted-plan #twenty-thirty-silver-type-antitype #death-resurrection-pattern-pit-Pharaoh-throne #Romans-107-descend-into-deep
 
 **Relevance to Current Events:**
 - Family favoritism and its generational consequences — Jacob's visible preferential love produced the brothers' hatred and Joseph's suffering; applicable in pastoral counseling on parenting, sibling dynamics, and the theology of favoritism; the wound the preferential coat created ran twenty years

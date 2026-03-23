@@ -1,3 +1,14 @@
+---
+book: "1 Timothy"
+chapter: 3
+testament: "New Testament"
+key_themes: "Qualifications for Bishops, Qualifications for Deacons, The Mystery of Godliness, The House of God"
+tags:
+  - qualifications-for-bishops
+  - qualifications-for-deacons
+  - the-mystery-of-godliness
+  - the-house-of-god
+---
 # 1 Timothy 3
 
 ---
@@ -91,7 +102,7 @@ True, saying, man, desire, office, bishop, good, work, bishop, blameless, husban
 
 
 *AI Keywords for current event matching:*
-`angels` `apt` `behave` `behaviour` `believed` `bishop` `bishops` `blameless` `boldness` `brawler` `care` `children` `christ` `church` `come` `condemnation` `conscience` `controversy` `covetous` `deacon` `deacons` `degree` `desire` `devil` `doubletongued` `faith` `faithful` `filthy` `flesh` `gentiles` `glory` `god` `godliness` `good` `grave` `gravity` `great` `greedy` `ground` `holding` `hoping` `hospitality` `house` `houses` `husband` `husbands` `jesus` `justified` `know` `lifted` `living` `lucre` `man` `manifest` `mystery` `novice` `office` `one` `patient` `pillar` `preached` `pride` `proved` `purchase` `pure` `qualifications` `received` `report` `reproach` `rule` `ruleth` `ruling` `saying` `seen` `shortly` `slanderers` `snare` `sober` `spirit` `striker` `subjection` `tarry` `teach` `true` `truth` `used` `vigilant` `well` `wife` `wine` `without` `wives` `work` `world` `write`
+#angels #apt #behave #behaviour #believed #bishop #bishops #blameless #boldness #brawler #care #children #christ #church #come #condemnation #conscience #controversy #covetous #deacon #deacons #degree #desire #devil #doubletongued #faith #faithful #filthy #flesh #gentiles #glory #god #godliness #good #grave #gravity #great #greedy #ground #holding #hoping #hospitality #house #houses #husband #husbands #jesus #justified #know #lifted #living #lucre #man #manifest #mystery #novice #office #one #patient #pillar #preached #pride #proved #purchase #pure #qualifications #received #report #reproach #rule #ruleth #ruling #saying #seen #shortly #slanderers #snare #sober #spirit #striker #subjection #tarry #teach #true #truth #used #vigilant #well #wife #wine #without #wives #work #world #write
 
 
 ---

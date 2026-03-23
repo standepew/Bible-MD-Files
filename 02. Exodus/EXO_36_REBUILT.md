@@ -1,3 +1,30 @@
+---
+book: "Exodus"
+chapter: 36
+testament: "Old Testament"
+key_themes: "The craftsmen begin the work, The people bring too much — Moses must restrain them from giving more, "The stuff they had was sufficient for all the work, and too much," The inner curtains, goat-hair curtains, outer coverings, boards, bars, the veil and entrance hanging — all constructed exactly as commanded"
+tags:
+  - Bezaleel-begins-work
+  - wise-hearted
+  - too-much-offering
+  - restrained-from-bringing
+  - sufficient-and-too-much
+  - ten-inner-curtains
+  - fifty-gold-clasps
+  - eleven-goat-hair-curtains
+  - fifty-brass-clasps
+  - rams-skins
+  - badgers-skins
+  - boards-shittim-wood
+  - silver-sockets
+  - middle-bar
+  - gold-overlaid
+  - veil-blue-purple-scarlet
+  - cherubim-on-veil
+  - entrance-hanging
+  - precision-obedience
+  - pattern-executed
+---
 # Exodus 36
 
 ---
@@ -55,7 +82,7 @@ Bezaleel, Aholiab, and all the wise-hearted begin the work of the sanctuary acco
 
 
 *AI Keywords for current event matching:*
-`365-7` `81-4` `corinthians` `current` `events` `exodus` `generosity` `malachi` `matching` `much` `offering` `overflowing` `too`
+#365-7 #81-4 #corinthians #current #events #exodus #generosity #malachi #matching #much #offering #overflowing #too
 
 
 ---

@@ -1,3 +1,30 @@
+---
+book: "Job"
+chapter: 10
+testament: "Old Testament"
+key_themes: "Job's Lament, Divine Oppression, Creation Paradox, Death Desired"
+tags:
+  - soul-weary-life-complaint-bitterness-soul
+  - God-condemn-contend
+  - oppress-despise-work-hands-shine-counsel-wicked
+  - eyes-flesh-seest-man
+  - days-man-years-man
+  - enquire-iniquity-search-sin
+  - wicked-deliver-hand
+  - hands-made-fashioned-destroy
+  - remember-clay-dust
+  - poured-milk-curdled-cheese
+  - clothed-skin-flesh-fenced-bones-sinews
+  - granted-life-favour-visitation-preserved-spirit
+  - hid-heart-sin-marked-acquit-iniquity
+  - wicked-righteous-head-confusion-affliction-increaseth
+  - fierce-lion-marvellous
+  - renewest-witnesses-indignation-changes-war
+  - brought-womb-ghost-eye
+  - carried-womb-grave
+  - days-few-comfort-land-darkness-shadow-death
+  - darkness-shadow-death-order-light-darkness
+---
 # Job 10
 
 ---
@@ -129,7 +156,7 @@ Soul, weary, life, complaint, bitterness, soul. God, condemn, contend. Oppress, 
 
 
 *AI Keywords for current event matching:*
-`acquit` `affliction` `bitterness` `bones` `cheese` `clay` `clothed` `complaint` `condemn` `confusion` `contend` `counsel` `creation` `curdled` `days` `death` `deliver` `desired` `despise` `destroy` `divine` `dust` `enquire` `eyes` `fashioned` `favour` `fenced` `flesh` `god` `granted` `hand` `hands` `head` `heart` `hid` `increaseth` `iniquity` `jobs` `lament` `life` `made` `man` `marked` `milk` `oppress` `oppression` `paradox` `poured` `preserved` `remember` `righteous` `search` `seest` `shine` `sin` `sinews` `skin` `soul` `spirit` `visitation` `weary` `wicked` `work` `years`
+#acquit #affliction #bitterness #bones #cheese #clay #clothed #complaint #condemn #confusion #contend #counsel #creation #curdled #days #death #deliver #desired #despise #destroy #divine #dust #enquire #eyes #fashioned #favour #fenced #flesh #god #granted #hand #hands #head #heart #hid #increaseth #iniquity #jobs #lament #life #made #man #marked #milk #oppress #oppression #paradox #poured #preserved #remember #righteous #search #seest #shine #sin #sinews #skin #soul #spirit #visitation #weary #wicked #work #years
 
 
 ---

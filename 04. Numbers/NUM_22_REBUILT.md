@@ -1,3 +1,38 @@
+---
+book: "Numbers"
+chapter: 22
+testament: "Old Testament"
+key_themes: "Israel camps in the plains of Moab — Balak king of Moab is terrified, Balak hires Balaam the diviner to curse Israel — "he whom thou blessest is blessed, and he whom thou cursest is cursed", God tells Balaam: do not go, do not curse — for they are blessed; Balaam reports correctly, Balak sends more honourable princes with greater rewards; God permits Balaam to go but only to speak what He commands, God's anger is kindled when Balaam goes — the angel of the LORD stands in the way with a drawn sword, The donkey sees the angel three times; Balaam cannot; the donkey speaks; Balaam is rebuked, "Thy way is perverse before me" — Balaam is going the right direction with the wrong heart"
+tags:
+  - plains-of-Moab
+  - Balak-son-of-Zippor
+  - Moab-distressed-because-of-Israel
+  - elders-of-Midian
+  - rewards-of-divination
+  - Balaam-son-of-Beor
+  - Pethor
+  - curse-me-this-people
+  - Balaam-refuses-first-embassy
+  - God-permits-Balaam-to-go
+  - God-angry-when-Balaam-goes
+  - angel-with-drawn-sword
+  - donkey-sees-the-angel
+  - LORD-opens-donkeys-mouth
+  - thy-way-is-perverse
+  - I-have-sinned
+  - israel-camps-in-the-plains-of
+  - balak-hires-balaam-the-diviner-to
+  - god-tells-balaam-do-not-go
+  - balaam-reports-correctly
+  - balak-sends-more-honourable-princes-with
+  - god-permits-balaam-to-go-but
+  - god
+  - the-donkey-sees-the-angel-three
+  - balaam-cannot
+  - the-donkey-speaks
+  - balaam-is-rebuked
+  - thy-way-is-perverse-before-me
+---
 # Numbers 22
 
 ---
@@ -64,7 +99,7 @@ Israel camps in the plains of Moab. Balak son of Zippor, king of Moab, sees what
 
 
 *AI Keywords for current event matching:*
-`current` `events` `hired` `jude` `matching` `micah` `numbers` `peter` `profit` `prophecy` `prophets`
+#current #events #hired #jude #matching #micah #numbers #peter #profit #prophecy #prophets
 
 
 ---
@@ -155,10 +190,10 @@ Israel camps in the plains of Moab. Balak son of Zippor, king of Moab, sees what
 
 The angel blocks three times; the donkey resists three times; Balaam beats three times. The threefold pattern of divine blocking recurs throughout Scripture as the number of complete, unmistakable warning:
 
-- **Numbers 22:23-27** — three blocking positions; three beatings; then eyes opened
-- **1 Samuel 3:4-8** — God calls Samuel three times before Samuel understands
-- **Acts 10:16** — the sheet descends three times to confirm the message to Peter
-- **2 Corinthians 12:8** — Paul pleads three times for the thorn's removal; the third time God answers definitively
+- [[04. Numbers/NUM_22_REBUILT|Numbers 22:23-27]] — three blocking positions; three beatings; then eyes opened
+- [[09. 1 Samuel/1_SAMUEL_03_REBUILT|1 Samuel 3:4-8]] — God calls Samuel three times before Samuel understands
+- [[44. Acts/ACTS_10_REBUILT|Acts 10:16]] — the sheet descends three times to confirm the message to Peter
+- [[47. 2 Corinthians/2_CORINTHIANS_12_REBUILT|2 Corinthians 12:8]] — Paul pleads three times for the thorn's removal; the third time God answers definitively
 
 **What the Bible establishes:** Three is the number of complete testimony — the third instance removes all possibility of coincidence or misunderstanding. Balaam needed three blockings to understand that this path was opposed by God. The gracious divine pattern is to block, warn, and speak before destroying — the drawn sword held back while the donkey speaks.
 

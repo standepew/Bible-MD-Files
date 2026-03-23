@@ -1,3 +1,13 @@
+---
+book: "Ezekiel"
+chapter: 16
+testament: "Old Testament"
+key_themes: "Christ's Love, Jerusalem's Unfaithfulness, Divine Judgment, Christ's Covenant"
+tags:
+  - christ
+  - jerusalem
+  - divine-judgment
+---
 # Ezekiel 16
 
 ---
@@ -105,7 +115,7 @@ Word, Lord, son, man, Jerusalem, abominations, Lord, GOD, Jerusalem, birth, nati
 
 
 *AI Keywords for current event matching:*
-`beauty` `became` `christs` `committed` `covenant` `covered` `delivered` `diminished` `divine` `entered` `establish` `everlasting` `food` `fornications` `hand` `harlot` `hate` `jerusalems` `judgment` `know` `lord` `love` `mine` `nakedness` `played` `poured` `remember` `skirt` `spread` `stone` `stretched` `swords` `trusted` `unfaithfulness` `whoredom`
+#beauty #became #christs #committed #covenant #covered #delivered #diminished #divine #entered #establish #everlasting #food #fornications #hand #harlot #hate #jerusalems #judgment #know #lord #love #mine #nakedness #played #poured #remember #skirt #spread #stone #stretched #swords #trusted #unfaithfulness #whoredom
 
 
 ---

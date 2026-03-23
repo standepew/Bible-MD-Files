@@ -1,3 +1,14 @@
+---
+book: "Matthew"
+chapter: 16
+testament: "New Testament"
+key_themes: "Christ's Divine Identity, Peter's Confession, Church Foundation, Cross Discipleship"
+tags:
+  - christ
+  - peter
+  - church-foundation
+  - cross-discipleship
+---
 # Matthew 16
 
 ---
@@ -153,7 +164,7 @@ Pharisees, Sadducees, tempting, shew, sign, heaven, answered, evening, fair, wea
 
 
 *AI Keywords for current event matching:*
-`bind` `blessed` `blood` `build` `christ` `christs` `church` `confession` `cross` `deny` `discipleship` `divine` `earth` `father` `find` `flesh` `foundation` `gates` `god` `heaven` `hell` `identity` `keys` `kingdom` `life` `living` `loose` `lose` `peters` `prevail` `revealed` `reward` `rock` `save` `simon` `son` `works`
+#bind #blessed #blood #build #christ #christs #church #confession #cross #deny #discipleship #divine #earth #father #find #flesh #foundation #gates #god #heaven #hell #identity #keys #kingdom #life #living #loose #lose #peters #prevail #revealed #reward #rock #save #simon #son #works
 
 
 ---

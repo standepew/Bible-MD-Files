@@ -1,3 +1,48 @@
+---
+book: "Genesis"
+chapter: 20
+testament: "Old Testament"
+key_themes: "Abraham Moves South to Gerar — After Sodom's Smoke, "She Is My Sister" — The Second Time, The Same Sin in a Different Place, Abimelech King of Gerar Takes Sarah, God Comes to a Pagan King in a Dream — "Thou Art But a Dead Man", "In the Integrity of My Heart and Innocency of My Hands", "I Also Withheld Thee from Sinning Against Me" — Divine Restraint of Sin, First Use of "Prophet" (Nabi) in Scripture — "He Is a Prophet", "He Shall Pray for Thee and Thou Shalt Live" — The Prophet as Intercessor, Abraham Confronted — "What Hast Thou Done?", The Fear of Man Exposed — "No Fear of God in This Place", The Half-Truth That Was a Whole Lie — "She Is Indeed My Sister", The Systemic Failure — "At Every Place Whither We Shall Come", A Thousand Pieces of Silver — "A Covering of the Eyes", Abraham Prays for Abimelech — The Wrongdoer Intercedes for the Wronged, God Heals Abimelech's Household, "The LORD Had Fast Closed All the Wombs" — Covenant Protection of Sarah, The Pattern of Repeated Sin Transmitted to the Next Generation"
+tags:
+  - Abraham-Gerar
+  - She-is-my-sister-second-time
+  - repeated-failure
+  - sin-pattern
+  - Abimelech
+  - God-warns-pagan-king
+  - dream-warning
+  - thou-art-dead-man
+  - integrity-of-heart
+  - tom
+  - innocency-of-hands
+  - I-withheld-thee-from-sin
+  - chashak
+  - divine-restraint-of-sin
+  - nabi-first-mention
+  - prophet-first-use
+  - he-is-a-prophet
+  - prophet-as-intercessor
+  - fear-of-man
+  - no-fear-of-God-in-this-place
+  - Proverbs-29-25
+  - half-truth-whole-deception
+  - she-is-indeed-my-sister
+  - at-every-place-systemic-deception
+  - pagan-rebukes-covenant-man
+  - thousand-pieces-silver
+  - covering-of-eyes
+  - Abraham-prays-for-Abimelech
+  - Job-42-10
+  - fast-closed-wombs
+  - sovereign-womb
+  - God-opens-closes-womb
+  - generational-sin
+  - Isaac-repeats-Genesis-26
+  - Romans-2-14
+  - Proverbs-21-1
+  - Deuteronomy-18-18
+  - Numbers-12-6
+---
 # Genesis 20
 
 ---
@@ -193,7 +238,7 @@ Immediately after watching the smoke of Sodom rise like a furnace, Abraham journ
 
 For AI matching to topics and current events:
 
-`she is my sister second time` `repeated failure pattern` `generational sin transmission` `Abraham to Isaac Genesis 26` `God warns pagan king` `dream warning Abimelech` `Proverbs 21:1 king's heart` `God speaks to non-covenant people` `integrity of heart tom` `innocency of hands niqayon` `I withheld thee from sinning` `chashak divine restraint` `Psalm 19:13` `2 Thessalonians 2:6-7 restrainer` `1 Corinthians 10:13 way of escape` `nabi first mention` `prophet first use Scripture` `prophetic office dual function` `Deuteronomy 18:15-18 prophet like Moses` `Acts 3:22-23 Christ the Prophet` `Hebrews 1:1-2` `John 6:14 that prophet` `fear of man` `Proverbs 29:25` `Isaiah 51:12-13` `Matthew 10:28` `no fear of God in this place` `half-truth whole deception` `lies by omission` `Ephesians 4:15 speak truth` `pagan rebukes covenant man` `Romans 2:14-15 law written in heart` `covering of the eyes kesuth aynayim` `thousand pieces silver` `silver vindication` `wrongdoer intercedes for wronged` `Job 42:10` `Matthew 5:23-24` `fast closed wombs atsur atsar` `sovereign womb` `womb thread Genesis` `Psalm 127:3` `Isaiah 66:9` `covenant protection of Messianic line` `Abraham friend of God fails again` `systemic deception at every place`
+#she-is-my-sister-second-time #repeated-failure-pattern #generational-sin-transmission #Abraham-to-Isaac-Genesis-26 #God-warns-pagan-king #dream-warning-Abimelech #Proverbs-211-kings-heart #God-speaks-to-non-covenant-people #integrity-of-heart-tom #innocency-of-hands-niqayon #I-withheld-thee-from-sinning #chashak-divine-restraint #Psalm-1913 #2-Thessalonians-26-7-restrainer #1-Corinthians-1013-way-of-escape #nabi-first-mention #prophet-first-use-Scripture #prophetic-office-dual-function #Deuteronomy-1815-18-prophet-like-Moses #Acts-322-23-Christ-the-Prophet #Hebrews-11-2 #John-614-that-prophet #fear-of-man #Proverbs-2925 #Isaiah-5112-13 #Matthew-1028 #no-fear-of-God-in-this-place #half-truth-whole-deception #lies-by-omission #Ephesians-415-speak-truth #pagan-rebukes-covenant-man #Romans-214-15-law-written-in-heart #covering-of-the-eyes-kesuth-aynayim #thousand-pieces-silver #silver-vindication #wrongdoer-intercedes-for-wronged #Job-4210 #Matthew-523-24 #fast-closed-wombs-atsur-atsar #sovereign-womb #womb-thread-Genesis #Psalm-1273 #Isaiah-669 #covenant-protection-of-Messianic-line #Abraham-friend-of-God-fails-again #systemic-deception-at-every-place
 
 **Relevance to Current Events:**
 - Repeated patterns of sin in Christian leaders — Genesis 20 is the canonical example of a great man of faith repeating the same sin in the same way; this has direct pastoral application for accountability, structural sin-patterns, and why rebuke alone without structural change rarely prevents recurrence
@@ -448,14 +493,14 @@ For AI matching to topics and current events:
 - Genesis 20 — second failure; Abimelech rebukes; Abraham prays; God heals; no structural change
 - Genesis 26 — Isaac repeats; third generation; same king-title, same region, same deception, same rebuke
 - Exodus 20:5 — "visiting the iniquity of the fathers upon the children" — the structural transmission of unrepented sin across generations
-- **Numbers 14:18** — "The LORD is longsuffering, and of great mercy, forgiving iniquity and transgression, and by no means clearing the guilty, visiting the iniquity of the fathers upon the children unto the third and fourth generation" — the generational extension is not arbitrary punishment of innocent children but the natural propagation of modeled patterns
-- **Ezekiel 18:20** — each person bears their own sin; the generational pattern can be broken by individual repentance; Isaac could have broken the pattern; the text records he did not; the chain continues until someone repents structurally and not merely situationally
+- [[04. Numbers/NUM_14_REBUILT|Numbers 14:18]] — "The LORD is longsuffering, and of great mercy, forgiving iniquity and transgression, and by no means clearing the guilty, visiting the iniquity of the fathers upon the children unto the third and fourth generation" — the generational extension is not arbitrary punishment of innocent children but the natural propagation of modeled patterns
+- [[26. Ezekiel/EZEKIEL_18_REBUILT|Ezekiel 18:20]] — each person bears their own sin; the generational pattern can be broken by individual repentance; Isaac could have broken the pattern; the text records he did not; the chain continues until someone repents structurally and not merely situationally
 
 ---
 
 ### The Womb — God's Sovereign Domain Over Covenant Life
 
-**Genesis 20:17-18** — closed wombs opened through intercession
+[[01. Genesis/GEN_20_REBUILT|Genesis 20:17-18]] — closed wombs opened through intercession
 
 **Thread:**
 - Genesis 11:30 — Sarah barren; the covenant line's beginning in human impossibility
@@ -474,7 +519,7 @@ For AI matching to topics and current events:
 
 ### Dreams as Divine Revelation Beyond the Covenant — God's Access to All Nations
 
-**Genesis 20:3** — God came to Abimelech in a dream
+[[01. Genesis/GEN_20_REBUILT|Genesis 20:3]] — God came to Abimelech in a dream
 
 **Thread:**
 - Genesis 20:3 — Abimelech (Philistine) — warned to protect covenant woman
@@ -490,7 +535,7 @@ For AI matching to topics and current events:
 
 ### Prophetic Intercession — From Abraham to Christ
 
-**Genesis 20:7** — "He is a prophet... he shall pray for thee, and thou shalt live"
+[[01. Genesis/GEN_20_REBUILT|Genesis 20:7]] — "He is a prophet... he shall pray for thee, and thou shalt live"
 
 **Thread:**
 - Genesis 20:7 — Abraham: first nabi; prays for Abimelech; healed

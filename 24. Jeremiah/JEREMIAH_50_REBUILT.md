@@ -1,3 +1,14 @@
+---
+book: "Jeremiah"
+chapter: 50
+testament: "Old Testament"
+key_themes: "Christ's Victory, Babylon's Fall, Israel's Restoration, Divine Vengeance"
+tags:
+  - christ
+  - babylon
+  - israel
+  - divine-vengeance
+---
 # Jeremiah 50
 
 ---
@@ -81,7 +92,7 @@ Word, LORD, Babylon, land, Chaldeans, Jeremiah, prophet, declare, nations, publi
 
 
 *AI Keywords for current event matching:*
-`babylon` `babylons` `bel` `broken` `carmel` `chaldeans` `christs` `cities` `confounded` `covenant` `desolate` `divine` `fall` `fallen` `feed` `fire` `foundations` `idols` `israels` `land` `lord` `lost` `merodach` `perpetual` `proud` `redeemer` `restoration` `seek` `sheep` `strong` `stumble` `sword` `taken` `thrown` `vengeance` `victory` `walls`
+#babylon #babylons #bel #broken #carmel #chaldeans #christs #cities #confounded #covenant #desolate #divine #fall #fallen #feed #fire #foundations #idols #israels #land #lord #lost #merodach #perpetual #proud #redeemer #restoration #seek #sheep #strong #stumble #sword #taken #thrown #vengeance #victory #walls
 
 
 ---

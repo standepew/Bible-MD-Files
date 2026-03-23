@@ -1,3 +1,20 @@
+---
+book: "1 Chronicles"
+chapter: 9
+testament: "Old Testament"
+key_themes: "Post-Exile Genealogies, Temple Service, Priestly Duties, Levitical Organization, Jerusalem Inhabitants"
+tags:
+  - Shilonites-Asaiah-firstborn-sons
+  - priests-Jedaiah-Jehoiarib-Jachin
+  - charge-ministering-vessels-bring-tale
+  - sons-priests-made-ointment-spices
+  - Gedor-Ahio-Zechariah-Mikloth
+  - postexile-genealogies
+  - temple-service
+  - priestly-duties
+  - levitical-organization
+  - jerusalem-inhabitants
+---
 # 1 Chronicles 9
 
 ---
@@ -91,7 +108,7 @@ Israel, reckoned, genealogies, written, book, kings, Israel, Judah, carried, Bab
 
 
 *AI Keywords for current event matching:*
-`abdon` `abinadab` `able` `adaiah` `adiel` `ahaz` `ahiman` `ahio` `ahitub` `akkub` `alemeth` `ammihud` `appointed` `asa` `asaiah` `asaph` `azariah` `azel` `azmaveth` `azrikam` `baal` `babylon` `bakbakkar` `bani` `begat` `benjamin` `benjamins` `berechiah` `binea` `bocheru` `book` `brethren` `bring` `carried` `chambers` `charge` `chief` `children` `chosen` `cities` `companies` `congregation` `david` `day` `days` `door` `dwelt` `east` `eastward` `ebiasaph` `elah` `eleasah` `eleazar` `elkanah` `employed` `entry` `ephraim` `esh-baal` `family` `father` `fathers` `fifty` `fine` `first` `firstborn` `flour` `four` `frankincense` `free` `galal` `gate` `gates` `gedor` `genealogies` `genealogy` `generations` `gibeon` `god` `hanan` `hasenuah` `hashabiah` `hasshub` `heads` `heresh` `hilkiah` `hitherto` `hodaviah` `host` `house` `hundred` `ibneiah` `ibnijah` `immer` `imri` `inhabitants` `instruments` `ishmael` `israel` `israelites` `jachin` `jahzerah` `jarah` `jedaiah` `jeduthun` `jehiel` `jehoiarib` `jeroham` `jerusalem` `jeuel` `jonathan` `judah` `keepers` `king` `kings` `kish` `kohathites` `korah` `korahite` `korahites` `kore` `leaders` `leadership` `levi` `levites` `levitical` `lodged` `lord` `maachah` `maasiai` `made` `malchi-shua` `malchijah` `manasseh` `mattaniah` `mattithiah` `melech` `men` `meraioth` `merari` `merib-baal` `meshelemiah` `meshillemith` `meshullam` `micah` `michri` `mikloth` `ministering` `morning` `moza` `musicians` `nadab` `names` `ner` `nethinims` `netophathites` `night` `nine` `ninety` `north` `obadiah` `office` `oil` `ointment` `omri` `opening` `ordain` `organization` `oversee` `oversight` `pans` `pashur` `past` `pertained` `pharez` `phinehas` `pithon` `porter` `porters` `possessions` `post-exile` `prepare` `priestly` `priests` `quarters` `reckoned` `remaining` `repahiah` `reuel` `round` `ruler` `sabbath` `sallu` `samuel` `sanctuary` `saul` `sauls` `seer` `service` `set` `seven` `shallum` `sheariah` `shemaiah` `shephathiah` `shewbread` `shilonites` `shimeam` `singers` `six` `son` `sons` `south` `spices` `tabernacle` `tahrea` `tale` `talmon` `temple` `thousand` `threescore` `time` `transgression` `treasuries` `twelve` `two` `uthai` `uzzi` `vessels` `villages` `waited` `wards` `west` `wife` `wine` `work` `written` `zadok` `zechariah` `zerah` `zichri` `zimri` `zur`
+#abdon #abinadab #able #adaiah #adiel #ahaz #ahiman #ahio #ahitub #akkub #alemeth #ammihud #appointed #asa #asaiah #asaph #azariah #azel #azmaveth #azrikam #baal #babylon #bakbakkar #bani #begat #benjamin #benjamins #berechiah #binea #bocheru #book #brethren #bring #carried #chambers #charge #chief #children #chosen #cities #companies #congregation #david #day #days #door #dwelt #east #eastward #ebiasaph #elah #eleasah #eleazar #elkanah #employed #entry #ephraim #esh-baal #family #father #fathers #fifty #fine #first #firstborn #flour #four #frankincense #free #galal #gate #gates #gedor #genealogies #genealogy #generations #gibeon #god #hanan #hasenuah #hashabiah #hasshub #heads #heresh #hilkiah #hitherto #hodaviah #host #house #hundred #ibneiah #ibnijah #immer #imri #inhabitants #instruments #ishmael #israel #israelites #jachin #jahzerah #jarah #jedaiah #jeduthun #jehiel #jehoiarib #jeroham #jerusalem #jeuel #jonathan #judah #keepers #king #kings #kish #kohathites #korah #korahite #korahites #kore #leaders #leadership #levi #levites #levitical #lodged #lord #maachah #maasiai #made #malchi-shua #malchijah #manasseh #mattaniah #mattithiah #melech #men #meraioth #merari #merib-baal #meshelemiah #meshillemith #meshullam #micah #michri #mikloth #ministering #morning #moza #musicians #nadab #names #ner #nethinims #netophathites #night #nine #ninety #north #obadiah #office #oil #ointment #omri #opening #ordain #organization #oversee #oversight #pans #pashur #past #pertained #pharez #phinehas #pithon #porter #porters #possessions #post-exile #prepare #priestly #priests #quarters #reckoned #remaining #repahiah #reuel #round #ruler #sabbath #sallu #samuel #sanctuary #saul #sauls #seer #service #set #seven #shallum #sheariah #shemaiah #shephathiah #shewbread #shilonites #shimeam #singers #six #son #sons #south #spices #tabernacle #tahrea #tale #talmon #temple #thousand #threescore #time #transgression #treasuries #twelve #two #uthai #uzzi #vessels #villages #waited #wards #west #wife #wine #work #written #zadok #zechariah #zerah #zichri #zimri #zur
 
 
 ---

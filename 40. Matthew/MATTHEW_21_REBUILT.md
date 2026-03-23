@@ -1,3 +1,14 @@
+---
+book: "Matthew"
+chapter: 21
+testament: "New Testament"
+key_themes: "Christ's Triumphant Entry, Temple Cleansing, Fig Tree Curse, Authority Question"
+tags:
+  - christ
+  - temple-cleansing
+  - fig-tree-curse
+  - authority-question
+---
 # Matthew 21
 
 ---
@@ -153,7 +164,7 @@ Drew, nigh, Jerusalem, Bethphage, mount, Olives, Jesus, disciples, village, ass,
 
 
 *AI Keywords for current event matching:*
-`ass` `authority` `away` `baptism` `branches` `christs` `cleansing` `colt` `curse` `david` `den` `doubt` `entry` `faith` `fig` `garments` `healed` `hosanna` `house` `householder` `john` `lame` `moneychangers` `mount` `mountain` `olives` `prayer` `question` `removed` `sons` `tables` `temple` `thieves` `things` `tree` `triumphant` `two` `vineyard` `withered`
+#ass #authority #away #baptism #branches #christs #cleansing #colt #curse #david #den #doubt #entry #faith #fig #garments #healed #hosanna #house #householder #john #lame #moneychangers #mount #mountain #olives #prayer #question #removed #sons #tables #temple #thieves #things #tree #triumphant #two #vineyard #withered
 
 
 ---

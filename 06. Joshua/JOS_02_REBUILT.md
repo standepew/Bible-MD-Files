@@ -1,3 +1,109 @@
+---
+book: "Joshua"
+chapter: 2
+testament: "Old Testament"
+key_themes: "Spies and Rahab, Faith of Canaanite, Divine Terror, Scarlet Thread Symbolism, Covenant Protection, God's Sovereignty, Gentile Inclusion, Rahab's Redemption"
+tags:
+  - Joshua-sent-spies
+  - Shittim-two-men
+  - spy-secretly
+  - view-land-Jericho
+  - harlot-house-Rahab
+  - lodged-there
+  - king-Jericho
+  - men-hither-night
+  - children-Israel
+  - search-country
+  - king-sent-Rahab
+  - bring-forth-men
+  - entered-house
+  - search-country
+  - woman-took-two-men
+  - hid-them
+  - wist-not-whence
+  - time-shutting-gate
+  - dark
+  - men-went-out
+  - wot-not
+  - pursue-quickly
+  - overtake-them
+  - brought-roof
+  - hid-stalks-flax
+  - laid-order-roof
+  - men-pursued-way-Jordan
+  - fords
+  - pursuers-gone-out
+  - shut-gate
+  - laid-down
+  - came-roof
+  - LORD-given-land
+  - terror-fallen
+  - inhabitants-faint
+  - heard-LORD-dried-water-Red-sea
+  - Egypt
+  - two-kings-Amorites
+  - Jordan-side
+  - Sihon-Og
+  - utterly-destroyed
+  - heard-things
+  - hearts-melt
+  - courage-remain
+  - LORD-God
+  - God-heaven
+  - earth-beneath
+  - pray-swear-LORD
+  - shewed-kindness
+  - shew-kindness-father-house
+  - true-token
+  - save-alive-father
+  - mother-brethren-sisters
+  - deliver-lives-death
+  - men-answered
+  - life-yours
+  - utter-business
+  - LORD-given-land
+  - deal-kindly-truly
+  - let-down-cord-window
+  - house-town-wall
+  - dwelt-wall
+  - go-mountain
+  - pursuers-meet
+  - hide-three-days
+  - pursuers-returned
+  - go-way
+  - blameless-oath
+  - come-land
+  - bind-scarlet-thread-window
+  - let-down
+  - bring-father-mother-brethren
+  - father-household
+  - home
+  - go-out-doors-house
+  - street
+  - blood-head
+  - guiltless
+  - house-blood-head
+  - hand-upon
+  - utter-business
+  - quit-oath
+  - according-words
+  - sent-away
+  - departed
+  - bound-scarlet-window
+  - went-mountain
+  - abode-three-days
+  - pursuers-returned
+  - pursuers-sought-way
+  - found-not
+  - two-men-returned
+  - descended-mountain
+  - passed-over
+  - came-Joshua-son-Nun
+  - told-befell
+  - truly-LORD-delivered-hands
+  - land
+  - inhabitants-country-faint
+---
 # Joshua 2
 
 ---
@@ -103,7 +209,7 @@ Joshua sends two spies from Shittim to secretly scout Jericho. They lodge at Rah
 
 
 *AI Keywords for current event matching:*
-`abode` `according` `agreement` `alive` `amorites` `answered` `away` `befell` `beneath` `bind` `blood` `bound` `brethren` `bring` `brought` `business` `came` `children` `come` `completion` `cord` `country` `courage` `covenant` `dark` `days` `deal` `death` `deception` `deliver` `delivered` `departed` `descended` `destroyed` `doors` `down` `dried` `dwelt` `earth` `egypt` `entered` `escape` `faint` `faith` `fallen` `father` `flax` `fords` `forth` `found` `gate` `given` `god` `gone` `guiltless` `hand` `hands` `harlot` `head` `heard` `hearts` `heaven` `hid` `hide` `hither` `home` `house` `household` `inhabitants` `israel` `jericho` `jordan` `joshua` `kindly` `kindness` `king` `kings` `laid` `land` `let` `life` `lives` `lodged` `lord` `meet` `melt` `men` `mission` `mother` `mountain` `night` `nun` `oath` `order` `overtake` `passed` `pray` `protection` `pursue` `pursued` `pursuers` `pursuit` `quickly` `quit` `rahab` `rahabs` `red` `remain` `returned` `roof` `royal` `save` `scarlet` `sea` `search` `secretly` `sent` `shew` `shewed` `shittim` `shut` `shutting` `side` `sihon` `sisters` `son` `sought` `spies` `spy` `stalks` `street` `swear` `terms` `terror` `there` `things` `thread` `three` `time` `token` `told` `took` `town` `true` `truly` `two` `utter` `utterly` `view` `wall` `water` `way` `went` `whence` `window` `wist` `woman` `words` `wot` `yours`
+#abode #according #agreement #alive #amorites #answered #away #befell #beneath #bind #blood #bound #brethren #bring #brought #business #came #children #come #completion #cord #country #courage #covenant #dark #days #deal #death #deception #deliver #delivered #departed #descended #destroyed #doors #down #dried #dwelt #earth #egypt #entered #escape #faint #faith #fallen #father #flax #fords #forth #found #gate #given #god #gone #guiltless #hand #hands #harlot #head #heard #hearts #heaven #hid #hide #hither #home #house #household #inhabitants #israel #jericho #jordan #joshua #kindly #kindness #king #kings #laid #land #let #life #lives #lodged #lord #meet #melt #men #mission #mother #mountain #night #nun #oath #order #overtake #passed #pray #protection #pursue #pursued #pursuers #pursuit #quickly #quit #rahab #rahabs #red #remain #returned #roof #royal #save #scarlet #sea #search #secretly #sent #shew #shewed #shittim #shut #shutting #side #sihon #sisters #son #sought #spies #spy #stalks #street #swear #terms #terror #there #things #thread #three #time #token #told #took #town #true #truly #two #utter #utterly #view #wall #water #way #went #whence #window #wist #woman #words #wot #yours
 
 
 ---

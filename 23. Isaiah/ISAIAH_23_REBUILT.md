@@ -1,3 +1,13 @@
+---
+book: "Isaiah"
+chapter: 23
+testament: "Old Testament"
+key_themes: "Christ's Judgment, Tyre's Fall, Spiritual Commerce, Christ's Holiness"
+tags:
+  - christ
+  - tyre
+  - spiritual-commerce
+---
 # Isaiah 23
 
 ---
@@ -105,7 +115,7 @@ Burden, Tyre, Howl, ships, Tarshish, laid, waste, house, entering, land, Chittim
 
 
 *AI Keywords for current event matching:*
-`burden` `christs` `clothing` `commerce` `durable` `dwell` `eat` `fall` `forgotten` `hire` `holiness` `honourable` `house` `howl` `inhabitants` `judgment` `laid` `lord` `mart` `merchandise` `merchants` `nations` `pride` `princes` `purposed` `seventy` `ships` `spiritual` `stain` `strength` `sufficiently` `tarshish` `traffickers` `tyre` `tyres` `waste` `years`
+#burden #christs #clothing #commerce #durable #dwell #eat #fall #forgotten #hire #holiness #honourable #house #howl #inhabitants #judgment #laid #lord #mart #merchandise #merchants #nations #pride #princes #purposed #seventy #ships #spiritual #stain #strength #sufficiently #tarshish #traffickers #tyre #tyres #waste #years
 
 
 ---

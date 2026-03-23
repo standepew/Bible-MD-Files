@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 107
+testament: "Old Testament"
+key_themes: "Divine Deliverance, Thanksgiving for Mercy, Four Types of Redemption, God's Lovingkindness"
+tags:
+  - divine-deliverance
+  - thanksgiving-for-mercy
+  - four-types-of-redemption
+  - god
+---
 # Psalm 107
 
 ---
@@ -189,7 +200,7 @@ Give, thanks, LORD, good, mercy, endureth, redeemed, LORD, redeemed, hand, enemy
 
 
 *AI Keywords for current event matching:*
-`affliction` `bands` `bound` `brake` `brought` `business` `calm` `children` `city` `darkness` `death` `deliverance` `divine` `dwell` `east` `endureth` `enemy` `filleth` `fools` `found` `four` `gathered` `give` `gods` `good` `goodness` `great` `hand` `hungry` `iniquities` `iron` `lands` `longing` `lord` `lovingkindness` `maketh` `men` `mercy` `north` `praise` `redeemed` `redemption` `sacrifices` `satisfieth` `sea` `shadow` `ships` `solitary` `soul` `south` `still` `storm` `sunder` `thanks` `thanksgiving` `thirsty` `transgression` `types` `wandered` `wandering` `waters` `waves` `way` `west` `wilderness` `wonderful` `works`
+#affliction #bands #bound #brake #brought #business #calm #children #city #darkness #death #deliverance #divine #dwell #east #endureth #enemy #filleth #fools #found #four #gathered #give #gods #good #goodness #great #hand #hungry #iniquities #iron #lands #longing #lord #lovingkindness #maketh #men #mercy #north #praise #redeemed #redemption #sacrifices #satisfieth #sea #shadow #ships #solitary #soul #south #still #storm #sunder #thanks #thanksgiving #thirsty #transgression #types #wandered #wandering #waters #waves #way #west #wilderness #wonderful #works
 
 
 ---

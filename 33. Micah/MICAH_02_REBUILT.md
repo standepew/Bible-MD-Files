@@ -1,3 +1,14 @@
+---
+book: "Micah"
+chapter: 2
+testament: "Old Testament"
+key_themes: "Christ's Judgment on Oppressors, Social Injustice, False Prophets, Remnant Gathering"
+tags:
+  - christ
+  - social-injustice
+  - false-prophets
+  - remnant-gathering
+---
 # Micah 2
 
 ---
@@ -105,7 +116,7 @@ Woe, devise, iniquity, work, evil, beds, morning, light, practise, power, hand, 
 
 
 *AI Keywords for current event matching:*
-`assemble` `bozrah` `breaker` `cast` `christs` `come` `covet` `devise` `evil` `false` `falsehood` `fields` `gather` `gathering` `heritage` `house` `iniquity` `injustice` `jacob` `judgment` `man` `oppress` `oppressors` `prophesy` `prophet` `prophets` `remnant` `sheep` `social` `spirit` `straitened` `take` `violence` `walking` `wine` `women` `work`
+#assemble #bozrah #breaker #cast #christs #come #covet #devise #evil #false #falsehood #fields #gather #gathering #heritage #house #iniquity #injustice #jacob #judgment #man #oppress #oppressors #prophesy #prophet #prophets #remnant #sheep #social #spirit #straitened #take #violence #walking #wine #women #work
 
 
 ---

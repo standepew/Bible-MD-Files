@@ -1,3 +1,13 @@
+---
+book: "Isaiah"
+chapter: 39
+testament: "Old Testament"
+key_themes: "Christ's Warning, Divine Judgment, Babylonian Exile, Christ's Sovereignty"
+tags:
+  - christ
+  - divine-judgment
+  - babylonian-exile
+---
 # Isaiah 39
 
 ---
@@ -105,7 +115,7 @@ Time, Merodach, baladan, son, Baladan, king, Babylon, sent, letters, present, He
 
 
 *AI Keywords for current event matching:*
-`away` `babylon` `babylonian` `baladan` `carried` `christs` `come` `days` `divine` `eunuchs` `exile` `fathers` `glad` `good` `hear` `hezekiah` `isaiah` `judgment` `king` `laid` `left` `letters` `lord` `merodach` `nothing` `palace` `peace` `present` `prophet` `saying` `sons` `sovereignty` `spoken` `store` `take` `truth` `warning` `word`
+#away #babylon #babylonian #baladan #carried #christs #come #days #divine #eunuchs #exile #fathers #glad #good #hear #hezekiah #isaiah #judgment #king #laid #left #letters #lord #merodach #nothing #palace #peace #present #prophet #saying #sons #sovereignty #spoken #store #take #truth #warning #word
 
 
 ---

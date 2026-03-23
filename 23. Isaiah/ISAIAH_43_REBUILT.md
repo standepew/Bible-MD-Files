@@ -1,3 +1,13 @@
+---
+book: "Isaiah"
+chapter: 43
+testament: "Old Testament"
+key_themes: "Christ's Redemption, Divine Presence, Spiritual Protection, Christ's Creation"
+tags:
+  - christ
+  - divine-presence
+  - spiritual-protection
+---
 # Isaiah 43
 
 ---
@@ -117,7 +127,7 @@ LORD, created, Jacob, formed, Israel, Fear, redeemed, called, name, mine, passes
 
 
 *AI Keywords for current event matching:*
-`beast` `blot` `bring` `burned` `called` `christs` `created` `creation` `daughters` `divine` `east` `egypt` `fear` `field` `fire` `formed` `gather` `gave` `glory` `hand` `hold` `holy` `honour` `israel` `jacob` `keep` `made` `name` `new` `one` `overflow` `presence` `protection` `ransom` `redeemed` `redemption` `rivers` `saviour` `seed` `sons` `spiritual` `thing` `transgressions` `waters` `west` `wilderness`
+#beast #blot #bring #burned #called #christs #created #creation #daughters #divine #east #egypt #fear #field #fire #formed #gather #gave #glory #hand #hold #holy #honour #israel #jacob #keep #made #name #new #one #overflow #presence #protection #ransom #redeemed #redemption #rivers #saviour #seed #sons #spiritual #thing #transgressions #waters #west #wilderness
 
 
 ---

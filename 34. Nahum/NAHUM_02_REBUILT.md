@@ -1,3 +1,14 @@
+---
+book: "Nahum"
+chapter: 2
+testament: "Old Testament"
+key_themes: "Christ's Conquest of Nineveh, Divine Judgment, Lion's Defeat, Complete Destruction"
+tags:
+  - christ
+  - divine-judgment
+  - lion
+  - complete-destruction
+---
 # Nahum 2
 
 ---
@@ -129,7 +140,7 @@ Dasheth, pieces, face, keep, munition, watch, way, loins, strong, fortify, power
 
 
 *AI Keywords for current event matching:*
-`chariots` `christs` `complete` `conquest` `dasheth` `defeat` `destruction` `devour` `divine` `dwelling` `empty` `flaming` `fortify` `heard` `heart` `judgment` `keep` `knees` `lightnings` `lion` `lions` `melteth` `messengers` `mighty` `munition` `nineveh` `old` `pieces` `power` `rage` `run` `scarlet` `shield` `smite` `torches` `valiant` `voice` `void` `walked` `waste` `whelp` `young`
+#chariots #christs #complete #conquest #dasheth #defeat #destruction #devour #divine #dwelling #empty #flaming #fortify #heard #heart #judgment #keep #knees #lightnings #lion #lions #melteth #messengers #mighty #munition #nineveh #old #pieces #power #rage #run #scarlet #shield #smite #torches #valiant #voice #void #walked #waste #whelp #young
 
 
 ---

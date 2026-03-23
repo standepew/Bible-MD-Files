@@ -1,3 +1,31 @@
+---
+book: "Leviticus"
+chapter: 3
+testament: "Old Testament"
+key_themes: "The Peace/Fellowship Offering (shelem/zebah sheleimim), Male or female — either is acceptable, The fat belongs entirely to the LORD — "all the fat is the LORD's," No eating fat or blood — a perpetual statute throughout all generations, The shared dimension: God receives the fat, the priest receives portions, the worshipper eats the rest — a communion meal, Reconciliation and restored fellowship expressed through a communal feast"
+tags:
+  - peace-offering
+  - shelem
+  - fellowship-offering
+  - male-or-female
+  - without-blemish
+  - hand-on-head
+  - fat-burned
+  - kidneys
+  - caul-above-liver
+  - all-fat-is-the-LORDs
+  - no-fat-no-blood
+  - perpetual-statute
+  - sweet-savour
+  - food-of-the-offering
+  - communal-meal
+  - herd
+  - flock-sheep
+  - flock-goat
+  - whole-rump
+  - reconciliation
+  - fellowship-with-God
+---
 # Leviticus 3
 
 ---
@@ -87,7 +115,7 @@ The peace offering (shelem = wholeness, completeness, peace/shalom) may be from 
 
 
 *AI Keywords for current event matching:*
-`colossians` `current` `ephesians` `events` `god` `leviticus` `matching` `peace` `reconciliation` `romans`
+#colossians #current #ephesians #events #god #leviticus #matching #peace #reconciliation #romans
 
 
 ---
@@ -181,11 +209,11 @@ In the New Covenant:
 **Leviticus 3:2, 8, 13** — "Aaron's sons the priests shall sprinkle the blood upon the altar round about" — the blood goes around the altar, not just on one side.
 
 The thread:
-- **Exodus 24:6** — Moses sprinkles half the blood of the covenant on the altar, half on the people: "Behold the blood of the covenant"
+- [[02. Exodus/EXO_24_REBUILT|Exodus 24:6]] — Moses sprinkles half the blood of the covenant on the altar, half on the people: "Behold the blood of the covenant"
 - **Leviticus 3, 4, 7** — blood sprinkled around the altar in every major offering
-- **Hebrews 9:21** — "he sprinkled with blood both the tabernacle, and all the vessels of the ministry"
-- **1 Peter 1:2** — believers "elect... unto obedience and sprinkling of the blood of Jesus Christ"
-- **Hebrews 12:24** — "the blood of sprinkling, that speaketh better things than that of Abel"
+- [[58. Hebrews/HEBREWS_09_REBUILT|Hebrews 9:21]] — "he sprinkled with blood both the tabernacle, and all the vessels of the ministry"
+- [[60. 1 Peter/1_PETER_01_REBUILT|1 Peter 1:2]] — believers "elect... unto obedience and sprinkling of the blood of Jesus Christ"
+- [[58. Hebrews/HEBREWS_12_REBUILT|Hebrews 12:24]] — "the blood of sprinkling, that speaketh better things than that of Abel"
 
 **What the Bible establishes:** The "round about" sprinkling covers every approach to the altar — not just one direction, not just one tribe, not just one kind of sin. The blood that goes around the altar declares that every approach to God from every direction is covered by the one atoning sacrifice.
 
@@ -195,12 +223,12 @@ The thread:
 
 The peace offering is the only sacrifice where the worshipper eats with God. This shared-meal thread runs through Scripture:
 
-- **Genesis 18:1-8** — Abraham hosts the LORD and His angels; eating together as covenant fellowship
-- **Exodus 24:11** — "And upon the nobles of the children of Israel he laid not his hand: also they saw God, and did eat and drink" — covenant communion at Sinai
+- [[01. Genesis/GEN_18_REBUILT|Genesis 18:1-8]] — Abraham hosts the LORD and His angels; eating together as covenant fellowship
+- [[02. Exodus/EXO_24_REBUILT|Exodus 24:11]] — "And upon the nobles of the children of Israel he laid not his hand: also they saw God, and did eat and drink" — covenant communion at Sinai
 - **Leviticus 3** — The peace offering: God's portion (fat), priest's portion, worshipper's portion — the three-way shared table
-- **Luke 22:20** — "This cup is the new testament in my blood" — the shared cup of the New Covenant peace offering
-- **Revelation 3:20** — "I will come in to him, and will sup with him, and he with me" — Christ's invitation to the New Covenant peace-offering meal
-- **Revelation 19:9** — "Blessed are they which are called unto the marriage supper of the Lamb" — the eschatological peace offering; the final shared meal
+- [[42. Luke/LUKE_22_REBUILT|Luke 22:20]] — "This cup is the new testament in my blood" — the shared cup of the New Covenant peace offering
+- [[66. Revelation/REVELATION_03_REBUILT|Revelation 3:20]] — "I will come in to him, and will sup with him, and he with me" — Christ's invitation to the New Covenant peace-offering meal
+- [[66. Revelation/REVELATION_19_REBUILT|Revelation 19:9]] — "Blessed are they which are called unto the marriage supper of the Lamb" — the eschatological peace offering; the final shared meal
 
 **What the Bible establishes:** The shared meal is the physical expression of covenant peace. Where there is no meal, there may be treaty but not intimacy. The peace offering moves beyond legal settlement into fellowship. The Lord's Supper and ultimately the marriage supper of the Lamb are the New and Final Covenant peace offerings.
 

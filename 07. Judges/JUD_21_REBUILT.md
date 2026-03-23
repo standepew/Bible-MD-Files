@@ -1,3 +1,25 @@
+---
+book: "Judges"
+chapter: 21
+testament: "Old Testament"
+key_themes: "Israel's Oath, Tribal Absence, Repentance, Jabesh-Gilead Punishment, Virgins for Benjamin, Shiloh Feast, Wife Abduction, Tribal Restoration, No King in Israel"
+tags:
+  - tribes-Israel-Mizpeh-LORD
+  - none-camp-Jabesh-gilead-assembly
+  - people-numbered-inhabitants-Jabesh-gilead
+  - destroy-male-woman-lain-man
+  - brought-camp-Shiloh-land-Canaan
+  - daughters-curses-wife-Benjamin
+  - israel
+  - tribal-absence
+  - repentance
+  - jabeshgilead-punishment
+  - virgins-for-benjamin
+  - shiloh-feast
+  - wife-abduction
+  - tribal-restoration
+  - no-king-in-israel
+---
 # Judges 21
 
 ---
@@ -99,7 +121,7 @@ Israel's men swore at Mizpeh not to give daughters to Benjamin as wives. The peo
 
 
 *AI Keywords for current event matching:*
-`abduction` `abode` `altar` `anarchy` `assembly` `benjamin` `benjamins` `beth-el` `breached` `brethren` `brother` `brought` `built` `burnt` `call` `camp` `canaan` `catch` `caught` `children` `cities` `commanded` `complain` `congregation` `continued` `curses` `cut` `dance` `danced` `dances` `daughter` `daughters` `day` `days` `departed` `departure` `destroy` `destroyed` `dwelt` `early` `east` `edge` `elders` `escaped` `eyes` `family` `fathers` `favourable` `feast` `first` `four` `god` `guilty` `highway` `house` `hundred` `inhabitants` `inheritance` `investigation` `israel` `israels` `jabesh-gilead` `king` `known` `lacking` `lain` `land` `lebonah` `lie` `lifted` `lord` `lying` `male` `man` `men` `mizpeh` `morrow` `none` `north` `number` `numbered` `oath` `offerings` `pass` `peace` `peaceably` `people` `place` `plan` `problem` `punishment` `remain` `repaired` `repentance` `repented` `reserved` `restoration` `returned` `right` `rimmon` `rock` `rose` `sakes` `saved` `second` `shechem` `shiloh` `smite` `solution` `sore` `south` `speak` `spiritual` `sufficed` `sword` `sworn` `thousand` `time` `tribe` `tribes` `twelve` `valiantest` `vineyards` `virgins` `voices` `wait` `war` `wept` `wife` `wives` `woman` `women` `yearly` `young`
+#abduction #abode #altar #anarchy #assembly #benjamin #benjamins #beth-el #breached #brethren #brother #brought #built #burnt #call #camp #canaan #catch #caught #children #cities #commanded #complain #congregation #continued #curses #cut #dance #danced #dances #daughter #daughters #day #days #departed #departure #destroy #destroyed #dwelt #early #east #edge #elders #escaped #eyes #family #fathers #favourable #feast #first #four #god #guilty #highway #house #hundred #inhabitants #inheritance #investigation #israel #israels #jabesh-gilead #king #known #lacking #lain #land #lebonah #lie #lifted #lord #lying #male #man #men #mizpeh #morrow #none #north #number #numbered #oath #offerings #pass #peace #peaceably #people #place #plan #problem #punishment #remain #repaired #repentance #repented #reserved #restoration #returned #right #rimmon #rock #rose #sakes #saved #second #shechem #shiloh #smite #solution #sore #south #speak #spiritual #sufficed #sword #sworn #thousand #time #tribe #tribes #twelve #valiantest #vineyards #virgins #voices #wait #war #wept #wife #wives #woman #women #yearly #young
 
 
 ---

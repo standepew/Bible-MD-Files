@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 125
+testament: "Old Testament"
+key_themes: "Trust in the LORD, Divine Protection, Security of the Righteous, Judgment of the Wicked"
+tags:
+  - trust-in-the-lord
+  - divine-protection
+  - security-of-the-righteous
+  - judgment-of-the-wicked
+---
 # Psalm 125
 
 ---
@@ -93,7 +104,7 @@ Song, degrees, trust, LORD, mount, Zion, removed, abideth, forever, mountains, r
 
 
 *AI Keywords for current event matching:*
-`abideth` `cannot` `crooked` `divine` `forever` `hearts` `henceforth` `iniquity` `israel` `jerusalem` `judgment` `lead` `lord` `lot` `mount` `mountains` `peace` `people` `protection` `removed` `rest` `righteous` `rod` `round` `security` `trust` `upright` `ways` `wicked` `workers` `zion`
+#abideth #cannot #crooked #divine #forever #hearts #henceforth #iniquity #israel #jerusalem #judgment #lead #lord #lot #mount #mountains #peace #people #protection #removed #rest #righteous #rod #round #security #trust #upright #ways #wicked #workers #zion
 
 
 ---

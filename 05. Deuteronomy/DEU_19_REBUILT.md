@@ -1,3 +1,76 @@
+---
+book: "Deuteronomy"
+chapter: 19
+testament: "Old Testament"
+key_themes: "Cities of Refuge, Accidental Killing, Blood Avenger, Intentional Murder, Landmark Protection, False Witnesses, Judicial Process, Lex Talionis"
+tags:
+  - cut-off-nations
+  - separate-three-cities
+  - prepare-way
+  - divide-coasts
+  - three-parts
+  - every-slayer-flee
+  - case-of-slayer
+  - flee-thither-live
+  - kill-neighbour-ignorantly
+  - hated-not-time-past
+  - go-into-wood
+  - hew-wood
+  - axe-head-slip
+  - light-upon-neighbour
+  - flee-cities-live
+  - avenger-blood
+  - pursue-slayer
+  - heart-hot
+  - overtake-him
+  - way-long
+  - not-worthy-death
+  - hated-not-past
+  - enlarge-coast
+  - sworn-fathers
+  - give-all-land
+  - keep-commandments
+  - love-LORD
+  - walk-ever-ways
+  - add-three-cities
+  - innocent-blood
+  - shed-not-land
+  - blood-upon-thee
+  - hate-neighbour
+  - lie-in-wait
+  - rise-against
+  - smite-mortally
+  - flee-cities
+  - elders-send-fetch
+  - deliver-avenger
+  - die-there
+  - eye-not-pity
+  - put-away-guilt
+  - go-well-thee
+  - remove-landmark
+  - old-time-set
+  - inheritance
+  - one-witness-not
+  - two-three-witnesses
+  - matter-established
+  - false-witness
+  - testify-wrong
+  - stand-before-LORD
+  - priests-judges
+  - diligent-inquisition
+  - false-witness-testified
+  - do-unto-him
+  - thought-have-done
+  - put-evil-away
+  - remain-hear-fear
+  - commit-no-more-evil
+  - eye-not-pity
+  - life-for-life
+  - eye-for-eye
+  - tooth-for-tooth
+  - hand-for-hand
+  - foot-for-foot
+---
 # Deuteronomy 19
 
 ---
@@ -119,7 +192,7 @@ Moses commands establishing three cities of refuge in Canaan for accidental mans
 
 
 *AI Keywords for current event matching:*
-`accidental` `add` `against` `avenger` `away` `axe` `blood` `case` `cities` `coast` `coasts` `commandments` `commit` `cut` `death` `deliver` `deterrent` `die` `diligent` `divide` `done` `effect` `elders` `enlarge` `established` `ever` `every` `evil` `expansion` `eye` `false` `fathers` `fear` `fetch` `flee` `foot` `give` `guilt` `hand` `hate` `hated` `head` `hear` `heart` `hew` `hot` `ignorantly` `inheritance` `innocent` `inquisition` `intentional` `judges` `keep` `kill` `killing` `land` `landmark` `lie` `life` `light` `live` `long` `lord` `love` `matter` `midst` `mortally` `murder` `nations` `neighbour` `off` `old` `one` `overtake` `parts` `past` `pity` `possess` `prepare` `priests` `property` `protection` `punishment` `pursue` `put` `refuge` `remain` `remove` `requirements` `rise` `send` `separate` `set` `shed` `slayer` `slip` `smite` `stand` `sworn` `territorial` `testified` `testify` `there` `thither` `thought` `three` `time` `tooth` `two` `wait` `walk` `way` `ways` `well` `witness` `witnesses` `wood` `worthy` `wrong`
+#accidental #add #against #avenger #away #axe #blood #case #cities #coast #coasts #commandments #commit #cut #death #deliver #deterrent #die #diligent #divide #done #effect #elders #enlarge #established #ever #every #evil #expansion #eye #false #fathers #fear #fetch #flee #foot #give #guilt #hand #hate #hated #head #hear #heart #hew #hot #ignorantly #inheritance #innocent #inquisition #intentional #judges #keep #kill #killing #land #landmark #lie #life #light #live #long #lord #love #matter #midst #mortally #murder #nations #neighbour #off #old #one #overtake #parts #past #pity #possess #prepare #priests #property #protection #punishment #pursue #put #refuge #remain #remove #requirements #rise #send #separate #set #shed #slayer #slip #smite #stand #sworn #territorial #testified #testify #there #thither #thought #three #time #tooth #two #wait #walk #way #ways #well #witness #witnesses #wood #worthy #wrong
 
 
 ---

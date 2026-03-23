@@ -1,3 +1,14 @@
+---
+book: "Mark"
+chapter: 4
+testament: "New Testament"
+key_themes: "Christ's Parabolic Teaching, Kingdom Mysteries, Sower Parable, Storm Calming"
+tags:
+  - christ
+  - kingdom-mysteries
+  - sower-parable
+  - storm-calming
+---
 # Mark 4
 
 ---
@@ -201,7 +212,7 @@ Teach, sea, side, gathered, multitude, ship, sea, multitude, sea, land, taught, 
 
 
 *AI Keywords for current event matching:*
-`calm` `calming` `candle` `candlestick` `choke` `christs` `converted` `doctrine` `forgiven` `good` `great` `ground` `hearing` `kingdom` `man` `manner` `measure` `mete` `mysteries` `mystery` `parable` `parables` `parabolic` `peace` `perceive` `sea` `seeing` `side` `sower` `sown` `still` `stony` `storm` `teaching` `thorns` `understand` `way` `wind` `word`
+#calm #calming #candle #candlestick #choke #christs #converted #doctrine #forgiven #good #great #ground #hearing #kingdom #man #manner #measure #mete #mysteries #mystery #parable #parables #parabolic #peace #perceive #sea #seeing #side #sower #sown #still #stony #storm #teaching #thorns #understand #way #wind #word
 
 
 ---

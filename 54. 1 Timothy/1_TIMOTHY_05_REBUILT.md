@@ -1,3 +1,16 @@
+---
+book: "1 Timothy"
+chapter: 5
+testament: "New Testament"
+key_themes: "Treatment of Elders, Honor Widows, Support of Family, Qualifications for Widows, Honor for Elders, Church Discipline"
+tags:
+  - treatment-of-elders
+  - honor-widows
+  - support-of-family
+  - qualifications-for-widows
+  - honor-for-elders
+  - church-discipline
+---
 # 1 Timothy 5
 
 ---
@@ -109,7 +122,7 @@ Rebuke, elder, intreat, father, younger, men, brethren, elder, women, mothers, y
 
 
 *AI Keywords for current event matching:*
-`acceptable` `accusation` `adversary` `afflicted` `angels` `aside` `bear` `beforehand` `believeth` `blameless` `brethren` `brought` `busybodies` `cast` `charge` `charged` `children` `christ` `church` `continueth` `corn` `counted` `damnation` `day` `dead` `denied` `desolate` `diligently` `discipline` `doctrine` `double` `drink` `elder` `elders` `elect` `faith` `family` `father` `fear` `feet` `first` `follow` `followed` `god` `good` `guide` `hands` `hidden` `home` `honor` `honour` `house` `idle` `infidel` `infirmities` `intreat` `jesus` `judgment` `keep` `labour` `labourer` `lay` `learn` `liveth` `lodged` `lord` `man` `manifest` `marry` `men` `mothers` `muzzle` `nephews` `night` `number` `observe` `occasion` `open` `others` `ought` `parents` `partaker` `partiality` `piety` `pleasure` `prayers` `preferring` `provide` `pure` `purity` `qualifications` `rebuke` `receive` `refuse` `relieve` `relieved` `reported` `reproachfully` `requite` `reward` `rule` `saints` `sake` `satan` `scripture` `shew` `sin` `sins` `sisters` `speaking` `specially` `stomach` `strangers` `suddenly` `supplications` `support` `taken` `tattlers` `three` `threescore` `tread` `treatment` `trust` `turned` `two` `wandering` `wanton` `washed` `water` `widow` `widows` `wife` `wine` `witnesses` `woman` `women` `word` `work` `works` `worse` `worthy` `years` `younger`
+#acceptable #accusation #adversary #afflicted #angels #aside #bear #beforehand #believeth #blameless #brethren #brought #busybodies #cast #charge #charged #children #christ #church #continueth #corn #counted #damnation #day #dead #denied #desolate #diligently #discipline #doctrine #double #drink #elder #elders #elect #faith #family #father #fear #feet #first #follow #followed #god #good #guide #hands #hidden #home #honor #honour #house #idle #infidel #infirmities #intreat #jesus #judgment #keep #labour #labourer #lay #learn #liveth #lodged #lord #man #manifest #marry #men #mothers #muzzle #nephews #night #number #observe #occasion #open #others #ought #parents #partaker #partiality #piety #pleasure #prayers #preferring #provide #pure #purity #qualifications #rebuke #receive #refuse #relieve #relieved #reported #reproachfully #requite #reward #rule #saints #sake #satan #scripture #shew #sin #sins #sisters #speaking #specially #stomach #strangers #suddenly #supplications #support #taken #tattlers #three #threescore #tread #treatment #trust #turned #two #wandering #wanton #washed #water #widow #widows #wife #wine #witnesses #woman #women #word #work #works #worse #worthy #years #younger
 
 
 ---

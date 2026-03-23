@@ -1,3 +1,13 @@
+---
+book: "Acts"
+chapter: 20
+testament: "New Testament"
+key_themes: "Paul Travels Through Macedonia and Greece, Eutychus Raised from the Dead, Paul's Farewell to the Ephesian Elders"
+tags:
+  - paul-travels-through-macedonia-and-greece
+  - eutychus-raised-from-the-dead
+  - paul
+---
 # Acts 20
 
 ---
@@ -151,7 +161,7 @@ Uproar, ceased, Paul, called, disciples, embraced, departed, Macedonia, given, e
 
 
 *AI Keywords for current event matching:*
-`abide` `abode` `accompanied` `afflictions` `afloat` `alive` `apparel` `appointed` `arise` `aristarchus` `asia` `assos` `back` `befall` `berea` `blessed` `blood` `bonds` `bound` `bread` `break` `brethren` `broken` `brought` `build` `called` `ceased` `chamber` `chios` `christ` `church` `city` `comforted` `commend` `continued` `counsel` `count` `course` `coveted` `day` `days` `dead` `dear` `declare` `deep` `depart` `departed` `departing` `derbe` `determined` `disciples` `draw` `eaten` `elders` `embraced` `enter` `ephesian` `ephesus` `eutychus` `exhortation` `face` `faith` `fallen` `farewell` `feed` `fell` `finish` `first` `flock` `gaius` `gathered` `ghost` `give` `given` `god` `going` `gold` `gospel` `grace` `greece` `greeks` `grievous` `hands` `hasted` `heed` `holy` `house` `humility` `inheritance` `intending` `jerusalem` `jesus` `jews` `joy` `kept` `kingdom` `kissed` `kneeled` `know` `knowing` `labouring` `laid` `life` `lights` `loft` `lord` `macedonia` `met` `midnight` `miletus` `mind` `ministered` `ministry` `mitylene` `months` `morrow` `move` `necessities` `neck` `overseers` `paul` `pauls` `pentecost` `perverse` `philippi` `prayed` `preached` `preaching` `profitable` `publickly` `purchased` `pure` `purposed` `raised` `receive` `received` `record` `remember` `repentance` `sail` `sailed` `samos` `sanctified` `seasons` `secundus` `selves` `sent` `serving` `shewed` `ship` `shunned` `silver` `sleep` `sopater` `sorrowing` `sparing` `speaking` `speech` `spend` `spirit` `spoke` `spoken` `sunk` `support` `syria` `take` `taken` `talked` `tarried` `taught` `tears` `temptations` `testify` `testifying` `thessalonians` `time` `timotheus` `travels` `troas` `trogyllium` `trophimus` `tychicus` `unleavened` `upper` `uproar` `warn` `watch` `weak` `week` `wept` `window` `witness` `wolves` `word` `words` `years`
+#abide #abode #accompanied #afflictions #afloat #alive #apparel #appointed #arise #aristarchus #asia #assos #back #befall #berea #blessed #blood #bonds #bound #bread #break #brethren #broken #brought #build #called #ceased #chamber #chios #christ #church #city #comforted #commend #continued #counsel #count #course #coveted #day #days #dead #dear #declare #deep #depart #departed #departing #derbe #determined #disciples #draw #eaten #elders #embraced #enter #ephesian #ephesus #eutychus #exhortation #face #faith #fallen #farewell #feed #fell #finish #first #flock #gaius #gathered #ghost #give #given #god #going #gold #gospel #grace #greece #greeks #grievous #hands #hasted #heed #holy #house #humility #inheritance #intending #jerusalem #jesus #jews #joy #kept #kingdom #kissed #kneeled #know #knowing #labouring #laid #life #lights #loft #lord #macedonia #met #midnight #miletus #mind #ministered #ministry #mitylene #months #morrow #move #necessities #neck #overseers #paul #pauls #pentecost #perverse #philippi #prayed #preached #preaching #profitable #publickly #purchased #pure #purposed #raised #receive #received #record #remember #repentance #sail #sailed #samos #sanctified #seasons #secundus #selves #sent #serving #shewed #ship #shunned #silver #sleep #sopater #sorrowing #sparing #speaking #speech #spend #spirit #spoke #spoken #sunk #support #syria #take #taken #talked #tarried #taught #tears #temptations #testify #testifying #thessalonians #time #timotheus #travels #troas #trogyllium #trophimus #tychicus #unleavened #upper #uproar #warn #watch #weak #week #wept #window #witness #wolves #word #words #years
 
 
 ---

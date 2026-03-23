@@ -1,3 +1,35 @@
+---
+book: "Deuteronomy"
+chapter: 6
+testament: "Old Testament"
+key_themes: "The Shema, The Great Commandment, Love God With All Your Heart Soul and Might, Teaching Children, Warning Against Forgetting in Prosperity, Ye Shall Not Tempt the LORD, The Answer to Your Son's Question"
+tags:
+  - deuteronomy
+  - chapter6
+  - Shema
+  - hear-O-Israel
+  - LORD-our-God-is-one
+  - love-God
+  - all-your-heart
+  - all-your-soul
+  - all-your-might
+  - teach-children-diligently
+  - when-thou-sittest
+  - when-thou-walkest
+  - frontlets
+  - mezuzah
+  - bind-for-a-sign
+  - write-on-doorposts
+  - jealous-God
+  - tempt-not-the-LORD
+  - Massah
+  - great-commandment
+  - testimony-to-children
+  - our-righteousness
+  - fear-the-LORD
+  - serve-him
+  - cleave-to-his-name
+---
 # Deuteronomy 6
 
 ---
@@ -120,7 +152,7 @@ Moses gives Israel the foundational declaration of their faith: "Hear, O Israel:
 
 ## KEYWORD INDEX
 
-`Shema` `love God with all` `heart, soul, might` `teach diligently` `when thou sittest / walkest` `frontlets between eyes / bind on hand` `write on doorposts / gates` `beware lest thou forget` `tempt not the LORD` `our righteousness` `when thy son asketh`
+#Shema #love-God-with-all #heart-soul-might #teach-diligently #when-thou-sittest--walkest #frontlets-between-eyes--bind-on-hand #write-on-doorposts--gates #beware-lest-thou-forget #tempt-not-the-LORD #our-righteousness #when-thy-son-asketh
 
 **Shema** — Deuteronomy 6:4; Mark 12:29; the foundational monotheistic confession  
 **love God with all** — Matthew 22:37; Luke 10:27; the first commandment  

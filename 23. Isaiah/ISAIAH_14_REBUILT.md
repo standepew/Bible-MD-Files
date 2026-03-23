@@ -1,3 +1,14 @@
+---
+book: "Isaiah"
+chapter: 14
+testament: "Old Testament"
+key_themes: "Christ's Victory, Satan's Fall, Divine Mercy, Israel's Restoration"
+tags:
+  - christ
+  - satan
+  - divine-mercy
+  - israel
+---
 # Isaiah 14
 
 ---
@@ -129,7 +140,7 @@ LORD, mercy, Jacob, choose, Israel, set, land, strangers, joined, cleave, house,
 
 
 *AI Keywords for current event matching:*
-`ascend` `bondage` `brought` `ceased` `choose` `christs` `divine` `earth` `fall` `fallen` `fear` `founded` `grave` `hard` `heaven` `hell` `israel` `israels` `jacob` `joined` `land` `lucifer` `mercy` `oppressor` `oppressors` `pomp` `poor` `possess` `rest` `restoration` `rule` `satans` `sorrow` `strangers` `trust` `victory` `zion`
+#ascend #bondage #brought #ceased #choose #christs #divine #earth #fall #fallen #fear #founded #grave #hard #heaven #hell #israel #israels #jacob #joined #land #lucifer #mercy #oppressor #oppressors #pomp #poor #possess #rest #restoration #rule #satans #sorrow #strangers #trust #victory #zion
 
 
 ---

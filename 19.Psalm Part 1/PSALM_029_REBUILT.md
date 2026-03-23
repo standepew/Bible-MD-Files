@@ -1,3 +1,13 @@
+---
+book: "Psalms"
+chapter: 29
+testament: "Old Testament"
+key_themes: "God's Voice, Divine Power, God's Glory, Peace for His People"
+tags:
+  - god
+  - divine-power
+  - peace-for-his-people
+---
 # Psalm 29
 
 ---
@@ -153,7 +163,7 @@ Psalm, David, mighty, LORD, glory, strength, due, name, worship, beauty, holines
 
 
 *AI Keywords for current event matching:*
-`beauty` `bless` `breaketh` `calve` `cedars` `david` `discovereth` `divideth` `divine` `due` `fire` `flames` `flood` `forests` `forever` `full` `give` `glory` `god` `gods` `hinds` `holiness` `kadesh` `king` `lebanon` `lord` `majesty` `maketh` `mighty` `name` `peace` `people` `power` `powerful` `psalm` `shaketh` `sitteth` `speak` `strength` `temple` `thundereth` `voice` `waters` `wilderness` `worship`
+#beauty #bless #breaketh #calve #cedars #david #discovereth #divideth #divine #due #fire #flames #flood #forests #forever #full #give #glory #god #gods #hinds #holiness #kadesh #king #lebanon #lord #majesty #maketh #mighty #name #peace #people #power #powerful #psalm #shaketh #sitteth #speak #strength #temple #thundereth #voice #waters #wilderness #worship
 
 
 ---

@@ -1,3 +1,13 @@
+---
+book: "Isaiah"
+chapter: 47
+testament: "Old Testament"
+key_themes: "Christ's Judgment, Babylon's Fall, Divine Vengeance, Christ's Justice"
+tags:
+  - christ
+  - babylon
+  - divine-vengeance
+---
 # Isaiah 47
 
 ---
@@ -105,7 +115,7 @@ Come, sit, dust, virgin, daughter, Babylon, sit, ground, throne, daughter, Chald
 
 
 *AI Keywords for current event matching:*
-`astrologers` `babylon` `babylons` `children` `christs` `come` `daughter` `desolation` `divine` `down` `dust` `evil` `fall` `fire` `forever` `judgment` `justice` `kingdoms` `knowledge` `lady` `loss` `man` `meet` `mischief` `nakedness` `perverted` `said` `seen` `seeth` `shame` `sit` `stargazers` `stubble` `suddenly` `take` `throne` `trusted` `uncovered` `vengeance` `virgin` `wickedness` `widowhood` `wisdom`
+#astrologers #babylon #babylons #children #christs #come #daughter #desolation #divine #down #dust #evil #fall #fire #forever #judgment #justice #kingdoms #knowledge #lady #loss #man #meet #mischief #nakedness #perverted #said #seen #seeth #shame #sit #stargazers #stubble #suddenly #take #throne #trusted #uncovered #vengeance #virgin #wickedness #widowhood #wisdom
 
 
 ---

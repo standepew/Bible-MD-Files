@@ -1,3 +1,14 @@
+---
+book: "Mark"
+chapter: 2
+testament: "New Testament"
+key_themes: "Christ's Forgiveness Power, Healing of Palsy, Calling of Levi, Sabbath Authority"
+tags:
+  - christ
+  - healing-of-palsy
+  - calling-of-levi
+  - sabbath-authority
+---
 # Mark 2
 
 ---
@@ -177,7 +188,7 @@ Entered, Capernaum, days, noised, house, straightway, gathered, room, receive, d
 
 
 *AI Keywords for current event matching:*
-`amazed` `arise` `authority` `bed` `bridegroom` `calling` `christs` `cloth` `custom` `earth` `faith` `fashion` `fast` `follow` `forgiven` `forgiveness` `glorified` `god` `healing` `levi` `lord` `man` `new` `palsy` `power` `publicans` `receipt` `righteous` `sabbath` `sick` `sinners` `sins` `son` `wine`
+#amazed #arise #authority #bed #bridegroom #calling #christs #cloth #custom #earth #faith #fashion #fast #follow #forgiven #forgiveness #glorified #god #healing #levi #lord #man #new #palsy #power #publicans #receipt #righteous #sabbath #sick #sinners #sins #son #wine
 
 
 ---

@@ -1,3 +1,17 @@
+---
+book: "Nehemiah"
+chapter: 3
+testament: "Old Testament"
+key_themes: "Wall Building Begins, Cooperative Work, Priestly Leadership, Various Workers"
+tags:
+  - men-Jericho-Zaccur-son-Imri
+  - priests-men-plain
+  - horse-gate-priests-house
+  - wall-building-begins
+  - cooperative-work
+  - priestly-leadership
+  - various-workers
+---
 # Nehemiah 3
 
 ---
@@ -165,7 +179,7 @@ Eliashib, high, priest, brethren, priests, builded, sheep, gate, sanctified, doo
 
 
 *AI Keywords for current event matching:*
-`ananiah` `apothecaries` `armoury` `azariah` `azbuk` `baana` `bani` `bars` `baruch` `bavai` `beams` `begins` `benjamin` `berechiah` `besodeiah` `beth` `binnui` `brethren` `broad` `build` `builded` `building` `built` `chamber` `city` `col` `cooperative` `corner` `court` `covered` `cubits` `daughters` `david` `door` `doors` `dung` `dwelt` `earnestly` `east` `eliashib` `ezer` `fish` `fortified` `fountain` `furnaces` `garden` `gate` `gibeon` `gibeonite` `going` `goldsmith` `goldsmiths` `governor` `great` `haccerem` `half` `halohesh` `hananeel` `hananiah` `hanun` `harhaiah` `harim` `harumaph` `hashabiah` `hashabniah` `hashub` `hassenaah` `hattush` `henadad` `high` `horse` `house` `hozeh` `hur` `immer` `imri` `inhabitants` `jadon` `jedaiah` `jehoiada` `jericho` `jerusalem` `jeshua` `keeper` `keilah` `king` `koz` `laid` `leadership` `levites` `locks` `lord` `maaseiah` `malchiah` `malchijah` `meah` `melatiah` `men` `merchants` `meremoth` `meronothite` `meshezabeel` `meshullam` `mighty` `miphkad` `mizpah` `moab` `necks` `nehemiah` `nethinims` `nobles` `old` `ophel` `pahath` `palal` `parosh` `part` `paseah` `pedaiah` `piece` `place` `plain` `pool` `priest` `priestly` `priests` `prison` `rechab` `rehum` `repaired` `rephaiah` `river` `ruler` `sanctified` `sepulchres` `shallum` `shallun` `shechaniah` `sheep` `shelemiah` `shemaiah` `side` `siloah` `sixth` `son` `sons` `stairs` `tekoites` `thousand` `throne` `tower` `turning` `urijah` `uzai` `uzziel` `valley` `various` `wall` `water` `work` `workers` `zabbai` `zaccur` `zadok` `zalaph` `zanoah` `zur`
+#ananiah #apothecaries #armoury #azariah #azbuk #baana #bani #bars #baruch #bavai #beams #begins #benjamin #berechiah #besodeiah #beth #binnui #brethren #broad #build #builded #building #built #chamber #city #col #cooperative #corner #court #covered #cubits #daughters #david #door #doors #dung #dwelt #earnestly #east #eliashib #ezer #fish #fortified #fountain #furnaces #garden #gate #gibeon #gibeonite #going #goldsmith #goldsmiths #governor #great #haccerem #half #halohesh #hananeel #hananiah #hanun #harhaiah #harim #harumaph #hashabiah #hashabniah #hashub #hassenaah #hattush #henadad #high #horse #house #hozeh #hur #immer #imri #inhabitants #jadon #jedaiah #jehoiada #jericho #jerusalem #jeshua #keeper #keilah #king #koz #laid #leadership #levites #locks #lord #maaseiah #malchiah #malchijah #meah #melatiah #men #merchants #meremoth #meronothite #meshezabeel #meshullam #mighty #miphkad #mizpah #moab #necks #nehemiah #nethinims #nobles #old #ophel #pahath #palal #parosh #part #paseah #pedaiah #piece #place #plain #pool #priest #priestly #priests #prison #rechab #rehum #repaired #rephaiah #river #ruler #sanctified #sepulchres #shallum #shallun #shechaniah #sheep #shelemiah #shemaiah #side #siloah #sixth #son #sons #stairs #tekoites #thousand #throne #tower #turning #urijah #uzai #uzziel #valley #various #wall #water #work #workers #zabbai #zaccur #zadok #zalaph #zanoah #zur
 
 
 ---

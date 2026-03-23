@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 106
+testament: "Old Testament"
+key_themes: "Confession of Sin, God's Mercy, Israel's Rebellion, Divine Forgiveness"
+tags:
+  - confession-of-sin
+  - god
+  - israel
+  - divine-forgiveness
+---
 # Psalm 106
 
 ---
@@ -153,7 +164,7 @@ Praise, LORD, give, thanks, LORD, good, mercy, endureth, utter, mighty, acts, LO
 
 
 *AI Keywords for current event matching:*
-`affliction` `ate` `baal` `breach` `calf` `chosen` `committed` `confession` `counsel` `covenant` `cry` `daughters` `dead` `destroy` `devils` `divine` `egypt` `endureth` `exceedingly` `executed` `fathers` `forgat` `forgiveness` `give` `gods` `good` `heard` `horeb` `idols` `image` `iniquity` `israels` `joined` `judgment` `known` `lord` `lusted` `made` `mercies` `mercy` `mighty` `molten` `moses` `multitude` `name` `peor` `phinehas` `plague` `power` `provoked` `rebellion` `red` `regarded` `remembered` `repented` `sacrificed` `sacrifices` `sake` `saved` `sea` `served` `sin` `sinned` `snares` `sons` `stayed` `stood` `thanks` `turn` `understood` `waited` `wickedly` `wilderness` `wonders` `works` `worshipped` `wrath`
+#affliction #ate #baal #breach #calf #chosen #committed #confession #counsel #covenant #cry #daughters #dead #destroy #devils #divine #egypt #endureth #exceedingly #executed #fathers #forgat #forgiveness #give #gods #good #heard #horeb #idols #image #iniquity #israels #joined #judgment #known #lord #lusted #made #mercies #mercy #mighty #molten #moses #multitude #name #peor #phinehas #plague #power #provoked #rebellion #red #regarded #remembered #repented #sacrificed #sacrifices #sake #saved #sea #served #sin #sinned #snares #sons #stayed #stood #thanks #turn #understood #waited #wickedly #wilderness #wonders #works #worshipped #wrath
 
 
 ---

@@ -1,3 +1,22 @@
+---
+book: "Numbers"
+chapter: 17
+testament: "Old Testament"
+key_themes: "God ends the murmuring about the priesthood through an irrefutable sign: twelve dead rods overnight in the Tabernacle — only Aaron's produces life, buds, blossoms, and almonds, The rod is kept before the Testimony as a permanent witness against the rebels, Israel's terrified response: "we all perish" — the sign produces fear rather than faith, The resurrection pattern: dead wood brought to life by divine choice — the ultimate argument for divine appointment"
+tags:
+  - twelve-rods
+  - one-per-tribe
+  - Aaron
+  - before-the-testimony
+  - the-man
+  - Aaron
+  - brought-forth-buds-bloomed-blossoms-yielded-almonds
+  - kept-before-testimony
+  - token-against-rebels
+  - stop-murmurings
+  - Israel-we-die-we-perish
+  - shall-we-be-consumed
+---
 # Numbers 17
 
 ---
@@ -67,7 +86,7 @@ The irony is complete: the sign designed to end the murmuring (v.5) produces a n
 
 
 *AI Keywords for current event matching:*
-`54-5` `acts` `authority` `current` `events` `hebrews` `matching` `numbers` `romans` `signs` `supernatural` `validated`
+#54-5 #acts #authority #current #events #hebrews #matching #numbers #romans #signs #supernatural #validated
 
 
 ---
@@ -142,12 +161,12 @@ These three together constitute the permanent testimony in the holy of holies: G
 
 The rod (matteh / shebet) is one of Scripture's consistent symbols of authority, appointment, and divine power:
 
-- **Genesis 49:10** — "The sceptre shall not depart from Judah" — the rod/sceptre as the symbol of governing authority
-- **Exodus 4:2-4** — Moses' rod: thrown down it becomes a serpent; picked up it becomes a rod again — the rod as the instrument of God's miracles
-- **Exodus 14:16** — "lift thou up thy rod, and stretch out thine hand over the sea" — the rod divides the Red Sea
-- **Numbers 17:8** — Aaron's dead rod blooms with life overnight — the priestly rod as the sign of divine appointment
-- **Psalm 23:4** — "thy rod and thy staff they comfort me" — the shepherd's rod as protection and guidance
-- **Psalm 110:2** — "The LORD shall send the rod of thy strength out of Zion: rule thou in the midst of thine enemies"
+- [[01. Genesis/GEN_49_REBUILT|Genesis 49:10]] — "The sceptre shall not depart from Judah" — the rod/sceptre as the symbol of governing authority
+- [[02. Exodus/EXO_04_REBUILT|Exodus 4:2-4]] — Moses' rod: thrown down it becomes a serpent; picked up it becomes a rod again — the rod as the instrument of God's miracles
+- [[02. Exodus/EXO_14_REBUILT|Exodus 14:16]] — "lift thou up thy rod, and stretch out thine hand over the sea" — the rod divides the Red Sea
+- [[04. Numbers/NUM_17_REBUILT|Numbers 17:8]] — Aaron's dead rod blooms with life overnight — the priestly rod as the sign of divine appointment
+- [[19.Psalm Part 1/PSALM_23_REBUILT|Psalm 23:4]] — "thy rod and thy staff they comfort me" — the shepherd's rod as protection and guidance
+- [[19.Psalm Part 2/PSALM_110_REBUILT|Psalm 110:2]] — "The LORD shall send the rod of thy strength out of Zion: rule thou in the midst of thine enemies"
 - **Revelation 2:27; 12:5; 19:15** — the Son rules the nations with a rod of iron
 
 **What the Bible establishes:** The rod is the consistent symbol of legitimate authority: appointed authority (Aaron's rod), shepherding authority (Psalm 23), governing authority (Psalm 110), and ultimate messianic authority (Revelation 19:15). Aaron's budding rod in Numbers 17 is the intermediate link between Moses' miracle rod and the iron rod of the Messiah — the same dead wood brought to life by divine appointment, the same authority that only God can grant.

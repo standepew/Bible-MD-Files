@@ -1,3 +1,14 @@
+---
+book: "Song of Solomon"
+chapter: 7
+testament: "Old Testament"
+key_themes: "Church's Perfection, Christ's Delight, Spiritual Fruitfulness, Divine Intimacy"
+tags:
+  - church
+  - christ
+  - spiritual-fruitfulness
+  - divine-intimacy
+---
 # Song of Solomon 7
 
 ---
@@ -189,7 +200,7 @@ Beautiful, feet, shoes, prince, daughter, joints, thighs, jewels, hands, cunning
 
 
 *AI Keywords for current event matching:*
-`beautiful` `beloved` `bud` `christs` `churchs` `clusters` `come` `delight` `desire` `divine` `fair` `feet` `field` `flourish` `fruitfulness` `fruits` `galleries` `give` `goblet` `grape` `grapes` `held` `intimacy` `ivory` `king` `lodge` `love` `loves` `navel` `palm` `perfection` `pleasant` `pomegranates` `spiritual` `stature` `tender` `tower` `villages` `vine`
+#beautiful #beloved #bud #christs #churchs #clusters #come #delight #desire #divine #fair #feet #field #flourish #fruitfulness #fruits #galleries #give #goblet #grape #grapes #held #intimacy #ivory #king #lodge #love #loves #navel #palm #perfection #pleasant #pomegranates #spiritual #stature #tender #tower #villages #vine
 
 
 ---

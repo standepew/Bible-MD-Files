@@ -1,3 +1,17 @@
+---
+book: "1 Kings"
+chapter: 14
+testament: "Old Testament"
+key_themes: "Jeroboam's Judgment, Abijah's Death, Ahijah's Prophecy, Rehoboam's Idolatry, Shishak's Invasion"
+tags:
+  - Abijah-son-Jeroboam-sick
+  - war-Rehoboam-Jeroboam-days
+  - jeroboam
+  - abijah
+  - ahijah
+  - rehoboam
+  - shishak
+---
 # 1 Kings 14
 
 ---
@@ -93,7 +107,7 @@ Abijah son Jeroboam sick. Jeroboam wife, disguise, wife Jeroboam, Shiloh; Ahijah
 
 
 *AI Keywords for current event matching:*
-`abijah` `abijam` `abominations` `acts` `age` `ahijah` `air` `ammonitess` `anger` `arise` `ask` `back` `began` `book` `brasen` `brought` `buried` `bury` `cast` `chamber` `chief` `child` `children` `choose` `chronicles` `city` `commandments` `cracknels` `crisis` `cruse` `cut` `david` `day` `days` `death` `departed` `die` `died` `dies` `disguise` `divine` `dogs` `door` `dung` `eat` `egypt` `egyptian` `enter` `evil` `exalted` `eyes` `family` `fathers` `feet` `feign` `field` `fifth` `followed` `forty` `fowls` `fulfilled` `given` `god` `gods` `gold` `good` `grave` `green` `groves` `guard` `hand` `heart` `heavy` `high` `hill` `honey` `house` `idolatry` `images` `invasion` `israel` `jealousy` `jeroboam` `jeroboams` `jerusalem` `judah` `judahs` `judgment` `kept` `king` `kingdom` `kings` `land` `left` `loaves` `lord` `made` `molten` `mother` `mourn` `mourned` `naamah` `nadab` `name` `nations` `people` `pisseth` `places` `prince` `prophecy` `prophet` `prophetic` `provoke` `provoked` `raise` `reed` `rehoboam` `rehoboams` `reign` `reigned` `remnant` `rent` `revelation` `river` `root` `scatter` `servant` `seventeen` `shaken` `shields` `shiloh` `shishak` `shut` `sick` `sight` `sin` `sins` `slept` `smite` `sodomites` `solomon` `son` `sound` `spoken` `ten` `thing` `threshold` `tidings` `tirzah` `treasures` `tree` `tribes` `twenty` `two` `wall` `war` `warred` `water` `wife` `woman` `word` `year` `years`
+#abijah #abijam #abominations #acts #age #ahijah #air #ammonitess #anger #arise #ask #back #began #book #brasen #brought #buried #bury #cast #chamber #chief #child #children #choose #chronicles #city #commandments #cracknels #crisis #cruse #cut #david #day #days #death #departed #die #died #dies #disguise #divine #dogs #door #dung #eat #egypt #egyptian #enter #evil #exalted #eyes #family #fathers #feet #feign #field #fifth #followed #forty #fowls #fulfilled #given #god #gods #gold #good #grave #green #groves #guard #hand #heart #heavy #high #hill #honey #house #idolatry #images #invasion #israel #jealousy #jeroboam #jeroboams #jerusalem #judah #judahs #judgment #kept #king #kingdom #kings #land #left #loaves #lord #made #molten #mother #mourn #mourned #naamah #nadab #name #nations #people #pisseth #places #prince #prophecy #prophet #prophetic #provoke #provoked #raise #reed #rehoboam #rehoboams #reign #reigned #remnant #rent #revelation #river #root #scatter #servant #seventeen #shaken #shields #shiloh #shishak #shut #sick #sight #sin #sins #slept #smite #sodomites #solomon #son #sound #spoken #ten #thing #threshold #tidings #tirzah #treasures #tree #tribes #twenty #two #wall #war #warred #water #wife #woman #word #year #years
 
 
 ---

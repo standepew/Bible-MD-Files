@@ -1,3 +1,14 @@
+---
+book: "Romans"
+chapter: 6
+testament: "New Testament"
+key_themes: "Dead to Sin, Baptized into Christ, Free from Sin, Servants of Righteousness"
+tags:
+  - dead-to-sin
+  - baptized-into-christ
+  - free-from-sin
+  - servants-of-righteousness
+---
 # Romans 6
 
 ---
@@ -129,7 +140,7 @@ Continue, sin, grace, abound, God, forbid, dead, sin, live, baptized, Jesus, Chr
 
 
 *AI Keywords for current event matching:*
-`abound` `alive` `ashamed` `baptism` `baptized` `body` `buried` `christ` `continue` `crucified` `dead` `death` `delivered` `destroyed` `died` `dieth` `doctrine` `dominion` `end` `eternal` `everlasting` `father` `flesh` `forbid` `form` `free` `freed` `fruit` `gift` `glory` `god` `grace` `heart` `holiness` `infirmity` `iniquity` `instruments` `jesus` `knowing` `law` `life` `likeness` `live` `liveth` `lord` `lusts` `made` `manner` `members` `men` `mortal` `newness` `obedience` `obey` `obeyed` `old` `planted` `raised` `reckon` `reign` `resurrection` `righteousness` `servants` `serve` `sin` `speak` `thanked` `uncleanness` `unrighteousness` `wages` `walk` `yield` `yielded`
+#abound #alive #ashamed #baptism #baptized #body #buried #christ #continue #crucified #dead #death #delivered #destroyed #died #dieth #doctrine #dominion #end #eternal #everlasting #father #flesh #forbid #form #free #freed #fruit #gift #glory #god #grace #heart #holiness #infirmity #iniquity #instruments #jesus #knowing #law #life #likeness #live #liveth #lord #lusts #made #manner #members #men #mortal #newness #obedience #obey #obeyed #old #planted #raised #reckon #reign #resurrection #righteousness #servants #serve #sin #speak #thanked #uncleanness #unrighteousness #wages #walk #yield #yielded
 
 
 ---

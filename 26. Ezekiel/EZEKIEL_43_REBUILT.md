@@ -1,3 +1,13 @@
+---
+book: "Ezekiel"
+chapter: 43
+testament: "Old Testament"
+key_themes: "Christ's Glory, Divine Presence, Holy Temple, Christ's Acceptance"
+tags:
+  - christ
+  - divine-presence
+  - holy-temple
+---
 # Ezekiel 43
 
 ---
@@ -105,7 +115,7 @@ Brought, gate, gate, looketh, east, glory, God, Israel, way, east, voice, noise,
 
 
 *AI Keywords for current event matching:*
-`accept` `acceptance` `burnt` `christs` `day` `divine` `dwell` `earth` `east` `eighth` `feet` `filled` `forever` `form` `glory` `holy` `house` `law` `laws` `lord` `measure` `midst` `name` `offerings` `ordinances` `pattern` `peace` `presence` `shined` `temple` `throne` `voice` `waters`
+#accept #acceptance #burnt #christs #day #divine #dwell #earth #east #eighth #feet #filled #forever #form #glory #holy #house #law #laws #lord #measure #midst #name #offerings #ordinances #pattern #peace #presence #shined #temple #throne #voice #waters
 
 
 ---

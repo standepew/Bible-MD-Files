@@ -1,3 +1,13 @@
+---
+book: "1 Chronicles"
+chapter: 2
+testament: "Old Testament"
+key_themes: "Sons of Israel, Judah's Lineage, David's Anointing, David's Reign Begins"
+tags:
+  - sons-of-israel
+  - judah
+  - david
+---
 # 1 Chronicles 2
 
 ---
@@ -71,7 +81,7 @@ Sons, Israel, Reuben, Simeon, Levi, Judah, Issachar, Zebulun. Sons, Judah, Er, O
 
 
 *AI Keywords for current event matching:*
-`abdiel` `abinadab` `abner` `amalek` `aminadab` `anointed` `anointing` `asahel` `asshur` `baara` `beth-lehem` `brothers` `campaigns` `carmi` `citadel` `commander` `david` `davids` `died` `ekron` `eldest` `family` `followed` `gath` `gedor` `gera` `hebron` `hezron` `ish-bosheth` `israel` `israels` `issachar` `jerusalem` `jerusalemites` `jesse` `jezreel` `joab` `judah` `judahs` `keilah` `king` `levi` `lineage` `mahanai` `mareshah` `micah` `military` `months` `ner` `onan` `philistine` `philistines` `reigned` `reuben` `samariah` `saul` `second` `seven` `shelah` `simeon` `six` `slew` `son` `sons` `tribes` `war` `years` `zebulun`
+#abdiel #abinadab #abner #amalek #aminadab #anointed #anointing #asahel #asshur #baara #beth-lehem #brothers #campaigns #carmi #citadel #commander #david #davids #died #ekron #eldest #family #followed #gath #gedor #gera #hebron #hezron #ish-bosheth #israel #israels #issachar #jerusalem #jerusalemites #jesse #jezreel #joab #judah #judahs #keilah #king #levi #lineage #mahanai #mareshah #micah #military #months #ner #onan #philistine #philistines #reigned #reuben #samariah #saul #second #seven #shelah #simeon #six #slew #son #sons #tribes #war #years #zebulun
 
 
 ---

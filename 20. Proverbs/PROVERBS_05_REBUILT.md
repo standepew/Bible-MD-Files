@@ -1,3 +1,14 @@
+---
+book: "Proverbs"
+chapter: 5
+testament: "Old Testament"
+key_themes: "Marital Faithfulness, Avoiding Adultery, Wisdom's Warning, Consequences of Sin"
+tags:
+  - marital-faithfulness
+  - avoiding-adultery
+  - wisdom
+  - consequences-of-sin
+---
 # Proverbs 5
 
 ---
@@ -117,7 +128,7 @@ Son, attend, wisdom, bow, ear, understanding, regard, discretion, lips, keep, kn
 
 
 *AI Keywords for current event matching:*
-`adultery` `attend` `avoiding` `bitter` `blessed` `bow` `consequences` `death` `die` `discretion` `ear` `end` `faithfulness` `far` `feet` `fountain` `give` `hind` `honeycomb` `honour` `iniquities` `instruction` `lips` `loving` `marital` `others` `pleasant` `regard` `rejoice` `remove` `roe` `sin` `strange` `take` `warning` `way` `wicked` `wife` `wisdom` `wisdoms` `without` `woman` `wormwood` `youth`
+#adultery #attend #avoiding #bitter #blessed #bow #consequences #death #die #discretion #ear #end #faithfulness #far #feet #fountain #give #hind #honeycomb #honour #iniquities #instruction #lips #loving #marital #others #pleasant #regard #rejoice #remove #roe #sin #strange #take #warning #way #wicked #wife #wisdom #wisdoms #without #woman #wormwood #youth
 
 
 ---

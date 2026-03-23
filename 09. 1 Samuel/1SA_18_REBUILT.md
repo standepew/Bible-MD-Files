@@ -1,3 +1,21 @@
+---
+book: "1 Samuel"
+chapter: 18
+testament: "Old Testament"
+key_themes: "Jonathan and David's Friendship, Saul's Jealousy, David's Wisdom, Saul's Attempts to Kill David, David's Military Success, Saul's Fear, Marriage to Michal"
+tags:
+  - Saul-David-home-father-house
+  - Jonathan-David-covenant-loved-soul
+  - Saul-eyed-David-forward
+  - Saul-afraid-David-LORD
+  - servants-Saul-words-David
+  - Saul-Michal-daughter-wife
+  - Saul-afraid-David-enemy-continually
+  - jonathan-and-david
+  - saul
+  - david
+  - marriage-to-michal
+---
 # 1 Samuel 18
 
 ---
@@ -85,7 +103,7 @@ When he finished speaking to Saul, Jonathan's soul was knit with David's soul, a
 
 
 *AI Keywords for current event matching:*
-`accepted` `adriel` `afraid` `answered` `arose` `ascribed` `avenged` `avoided` `battles` `behaved` `bow` `came` `captain` `cities` `commanded` `commune` `continually` `continued` `covenant` `dancing` `daughter` `david` `davids` `delights` `departed` `displeased` `dowry` `ears` `elder` `enemies` `enemy` `esteemed` `evil` `eyed` `fall` `family` `father` `fight` `foreskins` `forward` `friendship` `full` `garments` `gave` `girdle` `given` `god` `hand` `home` `house` `hundred` `instruments` `israel` `javelin` `jealousy` `jonathan` `joy` `judah` `king` `kingdom` `knew` `knit` `law` `life` `light` `lightly` `lord` `love` `loved` `man` `marriage` `meet` `mehohathite` `men` `merab` `michal` `musick` `name` `opposition` `people` `philistine` `philistines` `played` `pleased` `plot` `poor` `presence` `princes` `prophesied` `removed` `returned` `robe` `saul` `sauls` `saw` `secretly` `sent` `servants` `set` `sight` `singing` `slaughter` `slew` `smite` `snare` `son` `soul` `spirit` `stripped` `success` `sword` `tabrets` `tale` `ten` `thing` `thought` `thousand` `thousands` `told` `twice` `two` `valiant` `wall` `war` `ways` `went` `wife` `wisdom` `wisely` `women` `words` `wroth`
+#accepted #adriel #afraid #answered #arose #ascribed #avenged #avoided #battles #behaved #bow #came #captain #cities #commanded #commune #continually #continued #covenant #dancing #daughter #david #davids #delights #departed #displeased #dowry #ears #elder #enemies #enemy #esteemed #evil #eyed #fall #family #father #fight #foreskins #forward #friendship #full #garments #gave #girdle #given #god #hand #home #house #hundred #instruments #israel #javelin #jealousy #jonathan #joy #judah #king #kingdom #knew #knit #law #life #light #lightly #lord #love #loved #man #marriage #meet #mehohathite #men #merab #michal #musick #name #opposition #people #philistine #philistines #played #pleased #plot #poor #presence #princes #prophesied #removed #returned #robe #saul #sauls #saw #secretly #sent #servants #set #sight #singing #slaughter #slew #smite #snare #son #soul #spirit #stripped #success #sword #tabrets #tale #ten #thing #thought #thousand #thousands #told #twice #two #valiant #wall #war #ways #went #wife #wisdom #wisely #women #words #wroth
 
 
 ---

@@ -1,3 +1,77 @@
+---
+book: "Joshua"
+chapter: 5
+testament: "Old Testament"
+key_themes: "Canaanite Terror, Second Circumcision, Wilderness Generation, Gilgal Name, Passover Celebration, Manna Ceases, Canaanite Food, Captain of the LORD's Host, Holy Ground, Divine Worship"
+tags:
+  - kings-Amorites-side-Jordan-westward
+  - kings-Canaanites-sea
+  - heard-LORD-dried-waters-Jordan
+  - children-Israel
+  - passed-over
+  - heart-melted
+  - spirit-them
+  - children-Israel
+  - LORD-Joshua
+  - Make-sharp-knives
+  - circumcise-children-Israel-second-time
+  - Joshua-sharp-knives
+  - circumcised-children-Israel
+  - hill-foreskins
+  - cause-circumcised
+  - people-Egypt
+  - males
+  - men-war
+  - died-wilderness-way
+  - Egypt
+  - people-Egypt-circumcised
+  - people-born-wilderness-way
+  - Egypt-came-forth
+  - circumcised-not
+  - children-Israel-walked-forty-years-wilderness
+  - men-war-Egypt
+  - consumed
+  - obeyed-not-voice-LORD
+  - LORD-sware-not-shew-land
+  - LORD-sware-fathers-give
+  - land-milk-honey
+  - children-raised-stead
+  - Joshua-circumcised
+  - uncircumcised
+  - circumcised-way
+  - circumcising-people
+  - abode-places-camp
+  - whole
+  - LORD-Joshua
+  - rolled-away-reproach-Egypt
+  - name-place-Gilgal-day
+  - children-Israel-encamped-Gilgal
+  - kept-passover
+  - fourteenth-day-month-even
+  - plains-Jericho
+  - ate-old-corn-land
+  - morrow-passover
+  - unleavened-cakes
+  - parched-corn-selfsame-day
+  - manna-ceased-morrow
+  - ate-old-corn-land
+  - children-Israel-manna
+  - ate-fruit-land-Canaan-year
+  - Joshua-Jericho
+  - lifted-eyes-looked
+  - man-against
+  - sword-drawn-hand
+  - Joshua-man
+  - Art-us-adversaries
+  - captain-host-LORD
+  - Joshua-fell-face-earth
+  - worship
+  - saith-lord-servant
+  - captain-LORD-host-Joshua
+  - Loose-shoe-foot
+  - place-standest-holy
+  - Joshua
+---
 # Joshua 5
 
 ---
@@ -116,7 +190,7 @@ When Canaanite kings hear that God dried up Jordan for Israel, their hearts melt
 
 
 *AI Keywords for current event matching:*
-`abode` `adversaries` `against` `amorites` `art` `ate` `away` `born` `cakes` `came` `camp` `canaan` `canaanite` `canaanites` `captain` `cause` `ceased` `celebration` `children` `circumcise` `circumcised` `circumcising` `circumcision` `commander` `consumed` `corn` `day` `died` `divine` `drawn` `dried` `earth` `egypt` `encamped` `eyes` `face` `fathers` `fear` `fell` `foot` `foreskins` `forth` `forty` `fourteenth` `fruit` `generation` `gilgal` `give` `hand` `heard` `heart` `hill` `holy` `honey` `host` `israel` `jericho` `jordan` `joshua` `kept` `kings` `knives` `land` `lifted` `looked` `loose` `lord` `make` `males` `man` `manna` `melted` `men` `milk` `month` `morrow` `name` `new` `obeyed` `old` `parched` `passed` `passover` `people` `place` `places` `plains` `provision` `raised` `reproach` `rolled` `saith` `sea` `second` `selfsame` `servant` `sharp` `shew` `shoe` `significance` `spirit` `standest` `stead` `sware` `sword` `time` `transition` `uncircumcised` `unleavened` `voice` `walked` `war` `waters` `way` `westward` `whole` `wilderness` `worship` `year` `years`
+#abode #adversaries #against #amorites #art #ate #away #born #cakes #came #camp #canaan #canaanite #canaanites #captain #cause #ceased #celebration #children #circumcise #circumcised #circumcising #circumcision #commander #consumed #corn #day #died #divine #drawn #dried #earth #egypt #encamped #eyes #face #fathers #fear #fell #foot #foreskins #forth #forty #fourteenth #fruit #generation #gilgal #give #hand #heard #heart #hill #holy #honey #host #israel #jericho #jordan #joshua #kept #kings #knives #land #lifted #looked #loose #lord #make #males #man #manna #melted #men #milk #month #morrow #name #new #obeyed #old #parched #passed #passover #people #place #places #plains #provision #raised #reproach #rolled #saith #sea #second #selfsame #servant #sharp #shew #shoe #significance #spirit #standest #stead #sware #sword #time #transition #uncircumcised #unleavened #voice #walked #war #waters #way #westward #whole #wilderness #worship #year #years
 
 
 ---

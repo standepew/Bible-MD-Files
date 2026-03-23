@@ -1,3 +1,14 @@
+---
+book: "John"
+chapter: 7
+testament: "New Testament"
+key_themes: "Jesus at the Feast of Tabernacles, Division Among the People, Living Water Promise, Officers Return Empty"
+tags:
+  - jesus-at-the-feast-of-tabernacles
+  - division-among-the-people
+  - living-water-promise
+  - officers-return-empty
+---
 # John 7
 
 ---
@@ -165,7 +176,7 @@ Jesus, walked, Galilee, walk, Jewry, Jews, kill, Jews, feast, tabernacles, hand,
 
 
 *AI Keywords for current event matching:*
-`among` `believe` `bethlehem` `brethren` `brought` `cannot` `christ` `circumcision` `come` `david` `day` `deceived` `dispersed` `division` `doctrine` `drink` `empty` `feast` `find` `galilee` `gentiles` `glory` `god` `good` `hate` `himself` `hour` `jesus` `judgment` `kill` `last` `law` `learned` `little` `living` `man` `moses` `murmuring` `never` `nicodemus` `night` `officers` `one` `people` `pharisees` `promise` `prophet` `receive` `return` `righteous` `sabbath` `secretly` `seed` `seek` `seeketh` `spake` `speaketh` `spirit` `tabernacles` `thirst` `time` `walked` `water` `whence` `work` `world` `yet`
+#among #believe #bethlehem #brethren #brought #cannot #christ #circumcision #come #david #day #deceived #dispersed #division #doctrine #drink #empty #feast #find #galilee #gentiles #glory #god #good #hate #himself #hour #jesus #judgment #kill #last #law #learned #little #living #man #moses #murmuring #never #nicodemus #night #officers #one #people #pharisees #promise #prophet #receive #return #righteous #sabbath #secretly #seed #seek #seeketh #spake #speaketh #spirit #tabernacles #thirst #time #walked #water #whence #work #world #yet
 
 
 ---

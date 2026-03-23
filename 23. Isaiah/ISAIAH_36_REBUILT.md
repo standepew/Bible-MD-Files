@@ -1,3 +1,13 @@
+---
+book: "Isaiah"
+chapter: 36
+testament: "Old Testament"
+key_themes: "Christ's Faithfulness, Divine Testing, Spiritual Trust, Christ's Victory"
+tags:
+  - christ
+  - divine-testing
+  - spiritual-trust
+---
 # Isaiah 36
 
 ---
@@ -105,7 +115,7 @@ Came, pass, fourteenth, year, king, Hezekiah, Sennacherib, king, Assyria, defenc
 
 
 *AI Keywords for current event matching:*
-`altar` `answer` `answered` `assyria` `broken` `came` `christs` `cities` `clothes` `commandment` `confidence` `defenced` `deliver` `divine` `egypt` `faithfulness` `god` `held` `king` `kings` `lord` `peace` `rabshakeh` `reed` `rent` `spiritual` `staff` `testing` `trust` `victory` `words` `worship`
+#altar #answer #answered #assyria #broken #came #christs #cities #clothes #commandment #confidence #defenced #deliver #divine #egypt #faithfulness #god #held #king #kings #lord #peace #rabshakeh #reed #rent #spiritual #staff #testing #trust #victory #words #worship
 
 
 ---

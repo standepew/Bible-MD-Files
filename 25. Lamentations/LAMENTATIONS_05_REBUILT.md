@@ -1,3 +1,13 @@
+---
+book: "Lamentations"
+chapter: 5
+testament: "Old Testament"
+key_themes: "Christ's Rejection, Jerusalem's Humiliation, Divine Forgetfulness, Christ's Restoration"
+tags:
+  - christ
+  - jerusalem
+  - divine-forgetfulness
+---
 # Lamentations 5
 
 ---
@@ -117,7 +127,7 @@ Remember, LORD, come, upon, consider, behold, reproach, inheritance, turned, str
 
 
 *AI Keywords for current event matching:*
-`black` `ceased` `christs` `crown` `days` `divine` `fallen` `fatherless` `forever` `forget` `forgetfulness` `forsaken` `generation` `humiliation` `inheritance` `jerusalems` `joy` `long` `necks` `orphans` `persecution` `rejected` `rejection` `remain` `renew` `reproach` `restoration` `ruled` `servants` `skin` `strangers` `throne` `time` `turn` `utterly` `wroth`
+#black #ceased #christs #crown #days #divine #fallen #fatherless #forever #forget #forgetfulness #forsaken #generation #humiliation #inheritance #jerusalems #joy #long #necks #orphans #persecution #rejected #rejection #remain #renew #reproach #restoration #ruled #servants #skin #strangers #throne #time #turn #utterly #wroth
 
 
 ---

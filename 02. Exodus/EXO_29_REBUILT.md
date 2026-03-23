@@ -1,3 +1,30 @@
+---
+book: "Exodus"
+chapter: 29
+testament: "Old Testament"
+key_themes: "The Consecration of Aaron and His Sons, Washing with water, Dressing in priestly garments, Anointing oil poured on head, The sin offering — bullock, The burnt offering — first ram, The consecration offering — second ram with blood on ear/thumb/toe, Wave offering and heave offering, The daily burnt offering — two lambs morning and evening, "I will meet with you — I will dwell among the children of Israel — I am the LORD their God""
+tags:
+  - consecration
+  - ordination
+  - washing-with-water
+  - anointing-oil-on-head
+  - priestly-garments
+  - bullock-sin-offering
+  - hands-laid-on-head
+  - blood-on-altar-horns
+  - burnt-offering-sweet-savour
+  - ram-of-consecration
+  - blood-on-ear-thumb-toe
+  - wave-offering
+  - heave-offering
+  - seven-days-consecration
+  - daily-burnt-offering
+  - two-lambs-continually
+  - morning-and-evening-sacrifice
+  - there-I-will-meet-you
+  - I-will-dwell-among-them
+  - I-am-the-LORD-their-God
+---
 # Exodus 29
 
 ---
@@ -86,7 +113,7 @@ God gives Moses the consecration (ordination) ritual for Aaron and his sons. The
 
 
 *AI Keywords for current event matching:*
-`anointing` `consecration` `current` `events` `exodus` `garments` `matching` `ministers` `ordination` `washing`
+#anointing #consecration #current #events #exodus #garments #matching #ministers #ordination #washing
 
 
 ---

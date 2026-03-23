@@ -1,3 +1,17 @@
+---
+book: "Nehemiah"
+chapter: 6
+testament: "Old Testament"
+key_themes: "Wall Completed, Final Opposition, False Prophets, Internal Compromise"
+tags:
+  - four-times-manner
+  - sent-things-feignest-heart
+  - flee-man-temple-save-life
+  - wall-completed
+  - final-opposition
+  - false-prophets
+  - internal-compromise
+---
 # Nehemiah 6
 
 ---
@@ -165,7 +179,7 @@ Sanballat, Tobiah, Geshem, Arabian, enemies, heard, builded, wall, breach, left,
 
 
 *AI Keywords for current event matching:*
-`afraid` `appointed` `arabian` `arah` `berechiah` `breach` `build` `builded` `cast` `cease` `come` `completed` `compromise` `counsel` `daughter` `day` `days` `deeds` `delaiah` `done` `doors` `down` `elul` `enemies` `evil` `eyes` `false` `fear` `feignest` `fifth` `fifty` `final` `finished` `flee` `four` `gashmu` `gates` `geshem` `god` `good` `great` `hands` `heard` `heart` `heathen` `hired` `house` `internal` `jerusalem` `jews` `johanan` `judah` `king` `law` `left` `letter` `letters` `life` `man` `manner` `matter` `meet` `mehetabeel` `meshullam` `messengers` `mischief` `month` `night` `noadiah` `nobles` `ono` `open` `opposition` `perceived` `plain` `preach` `pronounced` `prophecy` `prophetess` `prophets` `rebel` `report` `reported` `reproach` `sanballat` `save` `sent` `servant` `shechaniah` `shemaiah` `shut` `sin` `slay` `son` `strengthen` `sworn` `temple` `things` `think` `time` `times` `tobiah` `twenty` `two` `uttered` `villages` `wall` `weakened` `words` `work` `works` `written` `wrought`
+#afraid #appointed #arabian #arah #berechiah #breach #build #builded #cast #cease #come #completed #compromise #counsel #daughter #day #days #deeds #delaiah #done #doors #down #elul #enemies #evil #eyes #false #fear #feignest #fifth #fifty #final #finished #flee #four #gashmu #gates #geshem #god #good #great #hands #heard #heart #heathen #hired #house #internal #jerusalem #jews #johanan #judah #king #law #left #letter #letters #life #man #manner #matter #meet #mehetabeel #meshullam #messengers #mischief #month #night #noadiah #nobles #ono #open #opposition #perceived #plain #preach #pronounced #prophecy #prophetess #prophets #rebel #report #reported #reproach #sanballat #save #sent #servant #shechaniah #shemaiah #shut #sin #slay #son #strengthen #sworn #temple #things #think #time #times #tobiah #twenty #two #uttered #villages #wall #weakened #words #work #works #written #wrought
 
 
 ---

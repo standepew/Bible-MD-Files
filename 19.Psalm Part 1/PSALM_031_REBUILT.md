@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 31
+testament: "Old Testament"
+key_themes: "Trust in God, Commitment to God, God's Protection, Courage for the Faithful"
+tags:
+  - trust-in-god
+  - commitment-to-god
+  - god
+  - courage-for-the-faithful
+---
 # Psalm 31
 
 ---
@@ -129,7 +140,7 @@ Chief, Musician, Psalm, David, trust, LORD, ashamed, deliver, righteousness, bow
 
 
 *AI Keywords for current event matching:*
-`ashamed` `blessed` `chief` `commit` `commitment` `courage` `david` `defence` `deliver` `doer` `enemies` `face` `faithful` `god` `gods` `good` `hand` `hated` `heart` `hide` `hope` `house` `keep` `kindness` `laid` `lord` `love` `lying` `make` `man` `marvellous` `mercies` `musician` `net` `pavilion` `persecute` `plentifully` `presence` `preserveth` `pride` `privily` `protection` `proud` `psalm` `pull` `redeemed` `regard` `rewardeth` `righteousness` `rock` `said` `saints` `sake` `save` `secret` `secretly` `servant` `shewed` `shine` `spirit` `strength` `strengthen` `strife` `strong` `times` `tongues` `trust` `trusted` `truth` `vanities`
+#ashamed #blessed #chief #commit #commitment #courage #david #defence #deliver #doer #enemies #face #faithful #god #gods #good #hand #hated #heart #hide #hope #house #keep #kindness #laid #lord #love #lying #make #man #marvellous #mercies #musician #net #pavilion #persecute #plentifully #presence #preserveth #pride #privily #protection #proud #psalm #pull #redeemed #regard #rewardeth #righteousness #rock #said #saints #sake #save #secret #secretly #servant #shewed #shine #spirit #strength #strengthen #strife #strong #times #tongues #trust #trusted #truth #vanities
 
 
 ---

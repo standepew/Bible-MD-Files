@@ -1,3 +1,30 @@
+---
+book: "Exodus"
+chapter: 38
+testament: "Old Testament"
+key_themes: "The Altar of Burnt Offering constructed, The Laver made from the women's looking-glasses, The Court enclosure completed, The full accounting of all metals used — gold, silver, and bronze, Silver sockets cast from the half-shekel census ransom money, 603,550 men counted"
+tags:
+  - altar-of-burnt-offering
+  - shittim-wood
+  - brass-overlay
+  - horns
+  - brazen-grate
+  - laver-of-brass
+  - looking-glasses-of-women
+  - court-hangings
+  - fine-twined-linen
+  - east-gate
+  - silver-sockets
+  - ransom-money
+  - bekah-per-man
+  - 603550-men
+  - twenty-nine-talents-gold
+  - hundred-talents-silver
+  - seventy-talents-brass
+  - Bezaleel-Aholiab
+  - Ithamar-accounting
+  - redemption-as-foundation
+---
 # Exodus 38
 
 ---
@@ -69,7 +96,7 @@ The Altar of Burnt Offering: shittim wood, five cubits square, three cubits high
 
 
 *AI Keywords for current event matching:*
-`118-19` `corinthians` `current` `events` `exodus` `foundation` `matching` `money` `peter` `ransom` `redemption` `silver` `sockets`
+#118-19 #corinthians #current #events #exodus #foundation #matching #money #peter #ransom #redemption #silver #sockets
 
 
 ---

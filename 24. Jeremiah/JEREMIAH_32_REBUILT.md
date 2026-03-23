@@ -1,3 +1,13 @@
+---
+book: "Jeremiah"
+chapter: 32
+testament: "Old Testament"
+key_themes: "Christ's Field, Divine Purchase, Everlasting Covenant, Christ's Faithfulness"
+tags:
+  - christ
+  - divine-purchase
+  - everlasting-covenant
+---
 # Jeremiah 32
 
 ---
@@ -93,7 +103,7 @@ Word, Jeremiah, LORD, tenth, year, Zedekiah, king, Judah, eighteenth, year, Nebu
 
 
 *AI Keywords for current event matching:*
-`anathoth` `arm` `assuredly` `bring` `buy` `came` `captivity` `christs` `covenant` `divine` `everlasting` `evidence` `faithfulness` `fear` `field` `good` `great` `hanameel` `hard` `hearts` `land` `lord` `lovingkindness` `money` `nothing` `plant` `power` `purchase` `put` `redemption` `return` `right` `sealed` `seventeen` `shekels` `son` `stretched` `subscribed` `thousands` `turn` `uncle` `weighed` `word`
+#anathoth #arm #assuredly #bring #buy #came #captivity #christs #covenant #divine #everlasting #evidence #faithfulness #fear #field #good #great #hanameel #hard #hearts #land #lord #lovingkindness #money #nothing #plant #power #purchase #put #redemption #return #right #sealed #seventeen #shekels #son #stretched #subscribed #thousands #turn #uncle #weighed #word
 
 
 ---

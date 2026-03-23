@@ -1,3 +1,27 @@
+---
+book: "Job"
+chapter: 24
+testament: "Old Testament"
+key_themes: "Job's Response, Wicked's Oppression, Divine Hiddenness, Final Judgment"
+tags:
+  - times-hidden-Almighty-know-days
+  - landmarks-flocks-feed
+  - ass-fatherless-widow-ox-pledge
+  - needy-way-poor-earth-hide
+  - naked-lodge-clothing-covering-cold
+  - showers-mountains-embrace-rock-shelter
+  - oil-walls-winepresses-thirst
+  - rebel-light-ways-paths
+  - adulterer-twilight-eye-disguise-face
+  - evil-entreateth-barren-widow-good
+  - mighty-power-riseth-sure-life
+  - safety-rest-eyes-ways
+  - liar-speech-worth
+  - job
+  - wicked
+  - divine-hiddenness
+  - final-judgment
+---
 # Job 24
 
 ---
@@ -141,7 +165,7 @@ Times, hidden, Almighty, know, days. Landmarks, flocks, feed. Ass, fatherless, w
 
 
 *AI Keywords for current event matching:*
-`adulterer` `almighty` `ass` `asses` `betimes` `breast` `children` `city` `clothing` `cold` `corn` `covering` `cry` `days` `desert` `disguise` `divine` `earth` `embrace` `eye` `face` `fatherless` `feed` `field` `final` `flocks` `folly` `food` `gather` `groan` `hidden` `hiddenness` `hide` `hungry` `jobs` `judgment` `know` `landmarks` `light` `lodge` `men` `mountains` `murderer` `naked` `needy` `night` `oil` `oppression` `paths` `pledge` `poor` `prey` `reap` `rebel` `response` `rock` `sheaf` `shelter` `showers` `thief` `thirst` `times` `twilight` `vintage` `walls` `way` `ways` `wicked` `wickeds` `widow` `wild` `wilderness` `winepresses` `work` `wounded`
+#adulterer #almighty #ass #asses #betimes #breast #children #city #clothing #cold #corn #covering #cry #days #desert #disguise #divine #earth #embrace #eye #face #fatherless #feed #field #final #flocks #folly #food #gather #groan #hidden #hiddenness #hide #hungry #jobs #judgment #know #landmarks #light #lodge #men #mountains #murderer #naked #needy #night #oil #oppression #paths #pledge #poor #prey #reap #rebel #response #rock #sheaf #shelter #showers #thief #thirst #times #twilight #vintage #walls #way #ways #wicked #wickeds #widow #wild #wilderness #winepresses #work #wounded
 
 
 ---

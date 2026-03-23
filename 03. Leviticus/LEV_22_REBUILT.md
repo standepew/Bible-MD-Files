@@ -1,3 +1,22 @@
+---
+book: "Leviticus"
+chapter: 22
+testament: "Old Testament"
+key_themes: "Priests must not approach the holy things while unclean — holiness cannot be presumed upon, The offering must be without blemish — God will not receive the defective animal that the offerer would not give to his governor, "I will be hallowed among the children of Israel" — God's honour is at stake in the quality of what is brought, The eighth-day rule for newborn animals — life must have its beginning before it is given, The todah (thanksgiving offering) must be offered freely and eaten the same day"
+tags:
+  - holy-things-require-cleanness
+  - unclean-priest-cut-off
+  - stranger-may-not-eat-holy-things
+  - without-blemish-required
+  - blemished-offerings-refused
+  - freewill-vs-vow-distinction
+  - eighth-day-animals
+  - mother-and-young-not-same-day
+  - thanksgiving-offering
+  - I-will-be-hallowed
+  - I-am-the-LORD
+  - do-not-profane-my-holy-name
+---
 # Leviticus 22
 
 ---
@@ -65,7 +84,7 @@ God commands that the priests handle the holy things only when ceremonially clea
 
 
 *AI Keywords for current event matching:*
-`2220-25` `current` `events` `giving` `god` `leftovers` `leviticus` `malachi` `matching` `nominal` `religion` `romans`
+#2220-25 #current #events #giving #god #leftovers #leviticus #malachi #matching #nominal #religion #romans
 
 
 ---
@@ -156,14 +175,14 @@ What Leviticus 22 repeats chapter after chapter about the altar sacrifice, Peter
 
 ### The Thanksgiving Offering Eaten Same Day — Urgency as Symbolic Thread
 
-**Leviticus 22:29-30** — The todah (thanksgiving offering) must be eaten the same day; none left until morning.
+[[03. Leviticus/LEV_22_REBUILT|Leviticus 22:29-30]] — The todah (thanksgiving offering) must be eaten the same day; none left until morning.
 
 The "same day" urgency thread:
-- **Exodus 12:10** — the Passover lamb: "ye shall let nothing of it remain until the morning"
-- **Leviticus 7:15** — the thanksgiving peace offering: eaten the same day, no remainder
-- **Leviticus 22:30** — reaffirmed
-- **John 6:27** — "Labour not for the meat which perisheth, but for that meat which endureth unto everlasting life" — the New Covenant bread does not perish
-- **Matthew 6:11** — "Give us this day our daily bread" — the petition is for today; the manna (Exodus 16:19-20) left until morning bred worms
+- [[02. Exodus/EXO_12_REBUILT|Exodus 12:10]] — the Passover lamb: "ye shall let nothing of it remain until the morning"
+- [[03. Leviticus/LEV_07_REBUILT|Leviticus 7:15]] — the thanksgiving peace offering: eaten the same day, no remainder
+- [[03. Leviticus/LEV_22_REBUILT|Leviticus 22:30]] — reaffirmed
+- [[43. John/JOHN_06_REBUILT|John 6:27]] — "Labour not for the meat which perisheth, but for that meat which endureth unto everlasting life" — the New Covenant bread does not perish
+- [[40. Matthew/MATTHEW_06_REBUILT|Matthew 6:11]] — "Give us this day our daily bread" — the petition is for today; the manna (Exodus 16:19-20) left until morning bred worms
 
 **What the Bible establishes:** What God provides for immediate sustaining must be received now — not stored, not deferred, not carried over. The thanksgiving offering eaten same-day is a covenant lesson about receptivity: what God gives for today is for today. The accumulation of what was meant for immediate reception becomes corruption. This is the manna principle extended to the offering table.
 

@@ -1,3 +1,34 @@
+---
+book: "Exodus"
+chapter: 9
+testament: "Old Testament"
+key_themes: "Plagues 5-7 — Murrain on livestock, Boils, Hail, "For this cause have I raised thee up," Those who feared the word of the LORD fled inside, Pharaoh confesses sin, The earth is the LORD's, The wheat and rie not yet grown (first time prophetic detail)"
+tags:
+  - plague-5
+  - plague-6
+  - plague-7
+  - murrain
+  - cattle
+  - boils
+  - blains
+  - hail
+  - fire-mingled-with-hail
+  - flax
+  - barley
+  - wheat
+  - rie
+  - Goshen-spared
+  - no-cattle-of-Israel-died
+  - magicians-cannot-stand
+  - raised-thee-up
+  - declare-my-name-throughout-all-the-earth
+  - Pharaoh-confesses
+  - I-have-sinned
+  - the-earth-is-the-LORDs
+  - feared-the-word
+  - some-servants-believe
+  - hardened-heart
+---
 # Exodus 9
 
 ---
@@ -108,7 +139,7 @@ Three more plagues. Plague 5 (murrain): all Egyptian livestock in the field die;
 
 
 *AI Keywords for current event matching:*
-`cause` `current` `divine` `events` `exodus` `matching` `raised` `romans` `rulers` `sovereignty`
+#cause #current #divine #events #exodus #matching #raised #romans #rulers #sovereignty
 
 
 ---
@@ -233,9 +264,9 @@ Three more plagues. Plague 5 (murrain): all Egyptian livestock in the field die;
 
 ### Hail and Fire Together — Unprecedented Compound Judgment
 
-- **Exodus 9:24** — "There was hail, and fire mingled with the hail" — natural opposites combined in supernatural judgment
-- **Revelation 8:7** — "The first angel sounded, and there followed hail and fire mingled with blood, and they were cast upon the earth" — the Exodus hail plague is the template
-- **Psalm 148:8** — "Fire, and hail; snow, and vapours; stormy wind fulfilling his word" — the elements obey the word of God
+- [[02. Exodus/EXO_09_REBUILT|Exodus 9:24]] — "There was hail, and fire mingled with the hail" — natural opposites combined in supernatural judgment
+- [[66. Revelation/REVELATION_08_REBUILT|Revelation 8:7]] — "The first angel sounded, and there followed hail and fire mingled with blood, and they were cast upon the earth" — the Exodus hail plague is the template
+- [[19.Psalm Part 2/PSALM_148_REBUILT|Psalm 148:8]] — "Fire, and hail; snow, and vapours; stormy wind fulfilling his word" — the elements obey the word of God
 - *Thread:* The combination of fire and hail — natural enemies that cannot coexist naturally — signals divine rather than natural origin. When God judges, He uses creation in ways that transcend natural laws.
 
 ---

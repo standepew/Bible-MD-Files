@@ -1,3 +1,17 @@
+---
+book: "2 Chronicles"
+chapter: 25
+testament: "Old Testament"
+key_themes: "Partial Obedience, Prideful Heart, Idolatry, Divine Judgment"
+tags:
+  - right-sight-LORD-perfect-heart
+  - Judah-worse-Israel-fled-tents
+  - horses-buried-fathers-city-Judah
+  - partial-obedience
+  - prideful-heart
+  - idolatry
+  - divine-judgment
+---
 # 2 Chronicles 25
 
 ---
@@ -167,7 +181,7 @@ Amaziah, twenty, five, years, reigned, twenty, nine, years, Jerusalem, mother, J
 
 
 *AI Keywords for current event matching:*
-`abide` `acts` `advice` `alive` `amaziah` `anger` `army` `away` `battle` `beast` `benjamin` `beth` `boast` `book` `bowed` `brake` `broken` `buried` `burned` `campaign` `captains` `captive` `carry` `cast` `cedar` `children` `choice` `cities` `city` `commanded` `conspiracy` `corner` `counsel` `cubits` `daughter` `death` `decline` `deliver` `destroy` `determined` `die` `divine` `down` `edom` `edomites` `enemies` `enemy` `ephraim` `established` `face` `fall` `father` `fathers` `fifteen` `first` `five` `fled` `forbare` `forbear` `four` `gate` `gathered` `give` `god` `gods` `gold` `hand` `hear` `hearkened` `heart` `help` `hired` `home` `horon` `horses` `hostages` `house` `houses` `hundred` `hundreds` `hurt` `incense` `israel` `jehoaddan` `jehoahaz` `jehu` `jerusalem` `joash` `judah` `judgment` `killed` `kindled` `king` `kingdom` `kings` `lachish` `last` `law` `lebanon` `lift` `lived` `lord` `man` `meddle` `men` `mighty` `military` `moses` `mother` `nine` `numbered` `obed` `obedience` `partial` `people` `perfect` `pieces` `power` `prophet` `reigned` `returned` `right` `rock` `royal` `salt` `samaria` `seir` `sent` `separated` `servants` `shemesh` `shield` `sight` `silver` `sin` `slaughter` `slew` `smitten` `smote` `soldiers` `son` `sought` `spear` `spiritual` `spoil` `strengthened` `strong` `summary` `talents` `ten` `tents` `thistle` `thousand` `thousands` `three` `time` `took` `top` `treasures` `trode` `turn` `twenty` `valley` `valour` `vessels` `wall` `war` `wife` `wild` `worse` `years`
+#abide #acts #advice #alive #amaziah #anger #army #away #battle #beast #benjamin #beth #boast #book #bowed #brake #broken #buried #burned #campaign #captains #captive #carry #cast #cedar #children #choice #cities #city #commanded #conspiracy #corner #counsel #cubits #daughter #death #decline #deliver #destroy #determined #die #divine #down #edom #edomites #enemies #enemy #ephraim #established #face #fall #father #fathers #fifteen #first #five #fled #forbare #forbear #four #gate #gathered #give #god #gods #gold #hand #hear #hearkened #heart #help #hired #home #horon #horses #hostages #house #houses #hundred #hundreds #hurt #incense #israel #jehoaddan #jehoahaz #jehu #jerusalem #joash #judah #judgment #killed #kindled #king #kingdom #kings #lachish #last #law #lebanon #lift #lived #lord #man #meddle #men #mighty #military #moses #mother #nine #numbered #obed #obedience #partial #people #perfect #pieces #power #prophet #reigned #returned #right #rock #royal #salt #samaria #seir #sent #separated #servants #shemesh #shield #sight #silver #sin #slaughter #slew #smitten #smote #soldiers #son #sought #spear #spiritual #spoil #strengthened #strong #summary #talents #ten #tents #thistle #thousand #thousands #three #time #took #top #treasures #trode #turn #twenty #valley #valour #vessels #wall #war #wife #wild #worse #years
 
 
 ---

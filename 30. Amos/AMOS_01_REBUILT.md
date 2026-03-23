@@ -1,3 +1,14 @@
+---
+book: "Amos"
+chapter: 1
+testament: "Old Testament"
+key_themes: "Christ's Roar, Divine Judgment, Nations' Transgressions, Fire of Judgment"
+tags:
+  - christ
+  - divine-judgment
+  - nations
+  - fire-of-judgment
+---
 # Amos 1
 
 ---
@@ -105,7 +116,7 @@ Words, Amos, herdmen, Tekoa, saw, Israel, days, Uzziah, king, Judah, days, Jerob
 
 
 *AI Keywords for current event matching:*
-`captive` `carmel` `christs` `covenant` `damascus` `devour` `divine` `edom` `fire` `four` `gaza` `habitations` `hazael` `house` `judgment` `lord` `mourn` `nations` `punishment` `pursued` `roar` `send` `teman` `three` `threshed` `top` `transgressions` `turn` `tyrus` `utter` `voice` `wall` `wither`
+#captive #carmel #christs #covenant #damascus #devour #divine #edom #fire #four #gaza #habitations #hazael #house #judgment #lord #mourn #nations #punishment #pursued #roar #send #teman #three #threshed #top #transgressions #turn #tyrus #utter #voice #wall #wither
 
 
 ---

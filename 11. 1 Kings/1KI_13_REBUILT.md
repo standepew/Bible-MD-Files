@@ -1,3 +1,18 @@
+---
+book: "1 Kings"
+chapter: 13
+testament: "Old Testament"
+key_themes: "Man of God, Prophetic Disobedience, Divine Judgment, False Prophet, Jeroboam's Persistence"
+tags:
+  - sons-ass-rode
+  - Come-home-eat-bread
+  - carcase-grave-mourned-Alas-brother
+  - man-of-god
+  - prophetic-disobedience
+  - divine-judgment
+  - false-prophet
+  - jeroboam
+---
 # 1 Kings 13
 
 ---
@@ -91,7 +106,7 @@ Man of God Judah, word LORD, Beth-el; Jeroboam altar, burn incense. Cried altar 
 
 
 *AI Keywords for current event matching:*
-`alas` `altar` `angel` `answered` `ashes` `ass` `back` `besought` `beth-el` `bones` `bread` `bring` `brother` `brought` `burial` `buried` `burn` `burnt` `bury` `came` `carcase` `charged` `child` `cities` `city` `come` `commanded` `commandment` `consecrated` `cried` `cut` `david` `day` `dead` `delivered` `destroy` `disobedience` `disobeyed` `divine` `drank` `dried` `drink` `dwelt` `earth` `eat` `eaten` `evil` `execution` `face` `false` `father` `fathers` `found` `god` `gone` `grave` `half` `hand` `heard` `high` `hold` `home` `house` `houses` `incense` `intreat` `jeroboam` `jeroboams` `josiah` `judah` `judgment` `kept` `king` `lied` `lion` `lord` `lowest` `man` `men` `mens` `mission` `mourn` `mourned` `mouth` `oak` `obedience` `offer` `old` `pass` `passed` `people` `persistence` `place` `places` `poured` `pray` `priests` `prophet` `prophetic` `pull` `refresh` `rent` `restored` `return` `returned` `reward` `rode` `samaria` `sat` `saying` `sepulchre` `sign` `sin` `sitting` `slain` `slew` `sons` `spoke` `spoken` `table` `torn` `turn` `validation` `water` `way` `whosoever` `word` `words` `works`
+#alas #altar #angel #answered #ashes #ass #back #besought #beth-el #bones #bread #bring #brother #brought #burial #buried #burn #burnt #bury #came #carcase #charged #child #cities #city #come #commanded #commandment #consecrated #cried #cut #david #day #dead #delivered #destroy #disobedience #disobeyed #divine #drank #dried #drink #dwelt #earth #eat #eaten #evil #execution #face #false #father #fathers #found #god #gone #grave #half #hand #heard #high #hold #home #house #houses #incense #intreat #jeroboam #jeroboams #josiah #judah #judgment #kept #king #lied #lion #lord #lowest #man #men #mens #mission #mourn #mourned #mouth #oak #obedience #offer #old #pass #passed #people #persistence #place #places #poured #pray #priests #prophet #prophetic #pull #refresh #rent #restored #return #returned #reward #rode #samaria #sat #saying #sepulchre #sign #sin #sitting #slain #slew #sons #spoke #spoken #table #torn #turn #validation #water #way #whosoever #word #words #works
 
 
 ---

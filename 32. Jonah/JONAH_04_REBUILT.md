@@ -1,3 +1,14 @@
+---
+book: "Jonah"
+chapter: 4
+testament: "Old Testament"
+key_themes: "Christ's Compassion, God's Mercy on Gentiles, Divine Object Lesson, Universal Salvation"
+tags:
+  - christ
+  - god
+  - divine-object-lesson
+  - universal-salvation
+---
 # Jonah 4
 
 ---
@@ -105,7 +116,7 @@ Displeased, Jonah, exceedingly, angry, prayed, LORD, pray, LORD, saying, country
 
 
 *AI Keywords for current event matching:*
-`anger` `angry` `cannot` `cattle` `christs` `city` `compassion` `discern` `displeased` `divine` `east` `evil` `exceedingly` `gentiles` `god` `gods` `gourd` `gracious` `great` `head` `kindness` `lesson` `merciful` `mercy` `much` `nineveh` `object` `prepared` `repentest` `salvation` `shadow` `sixscore` `slow` `spare` `thousand` `universal` `vehement` `wind` `worm`
+#anger #angry #cannot #cattle #christs #city #compassion #discern #displeased #divine #east #evil #exceedingly #gentiles #god #gods #gourd #gracious #great #head #kindness #lesson #merciful #mercy #much #nineveh #object #prepared #repentest #salvation #shadow #sixscore #slow #spare #thousand #universal #vehement #wind #worm
 
 
 ---

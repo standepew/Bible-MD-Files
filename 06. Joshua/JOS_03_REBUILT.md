@@ -1,3 +1,85 @@
+---
+book: "Joshua"
+chapter: 3
+testament: "Old Testament"
+key_themes: "Jordan Crossing, Ark of the Covenant, Divine Leadership, Sanctification, God's Magnification, Living God Presence, Waters Cut Off, Dry Ground Crossing, Twelve Men Selected"
+tags:
+  - Joshua-rose-early-morning
+  - removed-Shittim
+  - came-Jordan
+  - children-Israel
+  - lodged-passed-over
+  - three-days-officers-went-host
+  - commanded-people
+  - ark-covenant-LORD-God
+  - priests-Levites-bearing
+  - remove-place
+  - go-after
+  - space-two-thousand-cubits
+  - measure
+  - come-near
+  - know-way
+  - passed-way-heretofore
+  - Joshua-people
+  - Sanctify-yourselves
+  - tomorrow-LORD-wonders
+  - Joshua-spake-priests
+  - Take-ark-covenant
+  - pass-people
+  - took-ark-covenant
+  - went-people
+  - LORD-Joshua
+  - day-magnify-thee
+  - sight-Israel
+  - know-Moses-with-thee
+  - command-priests-bear-ark-covenant
+  - come-brink-water-Jordan
+  - stand-still-Jordan
+  - Joshua-children-Israel
+  - Come-hither
+  - hear-words-LORD-God
+  - know-living-God
+  - drive-out-Canaanites
+  - Hittites
+  - Hivites
+  - Perizzites
+  - Girgashites
+  - Amorites
+  - Jebusites
+  - ark-covenant-Lord-earth
+  - passeth-over-Jordan
+  - take-twelve-men
+  - tribes-Israel
+  - every-tribe-man
+  - soles-feet-priests
+  - bear-ark-LORD
+  - Lord-earth
+  - rest-waters-Jordan
+  - waters-Jordan-cut-off
+  - waters-above
+  - stand-heap
+  - people-removed-tents
+  - pass-Jordan
+  - priests-bearing-ark-covenant-people
+  - bare-ark-came-Jordan
+  - feet-priests-bear-ark
+  - dipped-brim-water
+  - Jordan-overfloweth-banks
+  - harvest-time
+  - waters-above-stood
+  - rose-heap
+  - city-Adam
+  - beside-Zaretan
+  - waters-down-sea-plain
+  - salt-sea
+  - failed-cut-off
+  - people-passed-right-Jericho
+  - priests-bare-ark-covenant-LORD
+  - stood-firm-dry-ground
+  - midst-Jordan
+  - Israelites-passed-dry-ground
+  - people-passed-clean-Jordan
+---
 # Joshua 3
 
 ---
@@ -110,7 +192,7 @@ Joshua leads Israel from Shittim to Jordan, where they lodge before crossing. Af
 
 
 *AI Keywords for current event matching:*
-`above` `adam` `amorites` `ark` `banks` `bare` `bear` `bearing` `beside` `brim` `brink` `came` `canaanites` `children` `city` `clean` `come` `command` `commanded` `commission` `covenant` `cubits` `cut` `day` `days` `declaration` `dipped` `divine` `down` `drive` `dry` `early` `earth` `every` `failed` `feet` `firm` `girgashites` `god` `ground` `harvest` `heap` `hear` `heretofore` `hither` `hittites` `hivites` `host` `israel` `israelites` `jebusites` `jericho` `jordan` `joshua` `know` `leadership` `levites` `living` `lodged` `lord` `magnify` `man` `measure` `men` `midst` `miracle` `morning` `moses` `near` `off` `officers` `overfloweth` `pass` `passed` `passeth` `people` `perizzites` `place` `plain` `preparation` `priests` `remove` `removed` `rest` `right` `rose` `salt` `sanctify` `sea` `shittim` `sight` `soles` `space` `spake` `stand` `still` `stood` `take` `tents` `thousand` `three` `time` `tomorrow` `took` `tribe` `tribes` `twelve` `two` `water` `waters` `way` `went` `wonders` `words` `yourselves` `zaretan`
+#above #adam #amorites #ark #banks #bare #bear #bearing #beside #brim #brink #came #canaanites #children #city #clean #come #command #commanded #commission #covenant #cubits #cut #day #days #declaration #dipped #divine #down #drive #dry #early #earth #every #failed #feet #firm #girgashites #god #ground #harvest #heap #hear #heretofore #hither #hittites #hivites #host #israel #israelites #jebusites #jericho #jordan #joshua #know #leadership #levites #living #lodged #lord #magnify #man #measure #men #midst #miracle #morning #moses #near #off #officers #overfloweth #pass #passed #passeth #people #perizzites #place #plain #preparation #priests #remove #removed #rest #right #rose #salt #sanctify #sea #shittim #sight #soles #space #spake #stand #still #stood #take #tents #thousand #three #time #tomorrow #took #tribe #tribes #twelve #two #water #waters #way #went #wonders #words #yourselves #zaretan
 
 
 ---

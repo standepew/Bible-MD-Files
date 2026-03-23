@@ -1,3 +1,39 @@
+---
+book: "Genesis"
+chapter: 1
+testament: "Old Testament"
+key_themes: "Creation, The Word, Plurality in the Godhead, Image of God, Dominion, Six Days and the Sabbath Pattern, Signs in the Heavens, Male and Female, Very Good"
+tags:
+  - creation
+  - beginning
+  - God-created
+  - tohu-wabohu
+  - Spirit-of-God
+  - let-there-be-light
+  - firmament
+  - waters-above
+  - dry-land
+  - after-his-kind
+  - sun-moon-stars
+  - signs-seasons
+  - image-of-God
+  - male-and-female
+  - dominion
+  - very-good
+  - evening-and-morning
+  - six-days
+  - seventh-day
+  - Let-Us
+  - plurality-Godhead
+  - pre-incarnate-Christ
+  - Word-of-God
+  - first-mention-light
+  - first-mention-image
+  - first-mention-dominion
+  - first-mention-seed
+  - Sabbath-pattern
+  - millennial-pattern
+---
 # Genesis 1
 
 ---
@@ -120,7 +156,7 @@ In the beginning, God created the heaven and the earth by His Word. The earth wa
 
 For AI matching to topics and current events:
 
-`beginning` `created` `heaven` `earth` `without form` `void` `tohu wabohu` `darkness` `deep` `Spirit of God` `moved` `waters` `God said` `light` `good` `divided` `evening` `morning` `first day` `second day` `third day` `fourth day` `fifth day` `sixth day` `firmament` `waters above` `waters below` `dry land` `seas` `grass` `herb` `seed` `fruit tree` `after his kind` `sun` `greater light` `moon` `lesser light` `stars` `signs` `seasons` `days` `years` `great whales` `living creature` `fowl` `fruitful` `multiply` `Let Us` `image of God` `likeness` `male and female` `dominion` `herb for meat` `very good` `sixth day` `Word of God` `creation` `Creator` `pre-incarnate Christ`
+#beginning #created #heaven #earth #without-form #void #tohu-wabohu #darkness #deep #Spirit-of-God #moved #waters #God-said #light #good #divided #evening #morning #first-day #second-day #third-day #fourth-day #fifth-day #sixth-day #firmament #waters-above #waters-below #dry-land #seas #grass #herb #seed #fruit-tree #after-his-kind #sun #greater-light #moon #lesser-light #stars #signs #seasons #days #years #great-whales #living-creature #fowl #fruitful #multiply #Let-Us #image-of-God #likeness #male-and-female #dominion #herb-for-meat #very-good #sixth-day #Word-of-God #creation #Creator #pre-incarnate-Christ
 
 **Relevance to Current Events:**
 - Creation vs. evolution / origins of life debates — the Bible's answer is stated plainly: God created, by His Word, in six literal days
@@ -402,15 +438,15 @@ For AI matching to topics and current events:
 
 ### Light vs. Darkness — Established in Creation, Resolved in Revelation
 
-**Genesis 1:3-5** — God creates light and divides it from darkness
+[[01. Genesis/GEN_01_REBUILT|Genesis 1:3-5]] — God creates light and divides it from darkness
 
 **Thread through all of Scripture:**
-- **John 1:5** — "And the light shineth in darkness; and the darkness comprehended it not" — the entire ministry of Christ described in Genesis 1 terms
-- **John 3:19-20** — "Light is come into the world, and men loved darkness rather than light, because their deeds were evil" — the moral dimension of the light/darkness division
-- **2 Corinthians 4:6** — God commands light to shine in darkened hearts — new creation language drawn from Genesis 1:3
-- **Ephesians 5:8** — "For ye were sometimes darkness, but now are ye light in the Lord" — believers described in creation terms
-- **1 John 1:5** — "God is light, and in him is no darkness at all" — the character of God stated in Genesis 1 imagery
-- **Revelation 21:23-25** — In the new creation, there is no night; the Lamb IS the light — the division of light from darkness is resolved by God dwelling permanently as light among His people
+- [[43. John/JOHN_01_REBUILT|John 1:5]] — "And the light shineth in darkness; and the darkness comprehended it not" — the entire ministry of Christ described in Genesis 1 terms
+- [[43. John/JOHN_03_REBUILT|John 3:19-20]] — "Light is come into the world, and men loved darkness rather than light, because their deeds were evil" — the moral dimension of the light/darkness division
+- [[47. 2 Corinthians/2_CORINTHIANS_04_REBUILT|2 Corinthians 4:6]] — God commands light to shine in darkened hearts — new creation language drawn from Genesis 1:3
+- [[49. Ephesians/EPHESIANS_05_REBUILT|Ephesians 5:8]] — "For ye were sometimes darkness, but now are ye light in the Lord" — believers described in creation terms
+- [[62. 1 John/1_JOHN_01_REBUILT|1 John 1:5]] — "God is light, and in him is no darkness at all" — the character of God stated in Genesis 1 imagery
+- [[66. Revelation/REVELATION_21_REBUILT|Revelation 21:23-25]] — In the new creation, there is no night; the Lamb IS the light — the division of light from darkness is resolved by God dwelling permanently as light among His people
 - *Interpretation:* The physical separation of light from darkness in Genesis 1:3-5 establishes the foundational spiritual reality: God = light, sin/Satan = darkness. This thread runs unbroken from Genesis to Revelation. Creation began with this division; the new creation ends it permanently by the elimination of all darkness.
 
 ---
@@ -421,10 +457,10 @@ For AI matching to topics and current events:
 
 **Thread through Scripture:**
 - **Psalm 33:6, 9** — "By the word of the LORD were the heavens made... he spake, and it was done"
-- **Isaiah 55:11** — "My word... shall not return unto me void, but it shall accomplish that which I please"
+- [[23. Isaiah/ISAIAH_55_REBUILT|Isaiah 55:11]] — "My word... shall not return unto me void, but it shall accomplish that which I please"
 - **John 1:1, 14** — The Word was God; the Word became flesh
-- **Hebrews 1:3** — Christ upholds "all things by the word of his power"
-- **2 Peter 3:5-7** — The heavens and earth were created by God's word; they are kept by God's word; they will be destroyed and remade by God's word
+- [[58. Hebrews/HEBREWS_01_REBUILT|Hebrews 1:3]] — Christ upholds "all things by the word of his power"
+- [[61. 2 Peter/2_PETER_03_REBUILT|2 Peter 3:5-7]] — The heavens and earth were created by God's word; they are kept by God's word; they will be destroyed and remade by God's word
 - **Revelation 19:13, 15** — Christ returns with the name "the Word of God"; "out of his mouth goeth a sharp sword" — He governs and judges by His spoken Word
 - *Interpretation:* The ten "God said" declarations of Genesis 1 establish the absolute creative authority of God's spoken Word. This thread runs to its climax in Revelation 19 — the same Word that spoke creation into being speaks judgment and new creation into being. The Bible is the written record of that Word; its authority is grounded in Genesis 1.
 
@@ -432,15 +468,15 @@ For AI matching to topics and current events:
 
 ### The Waters — Chaos Subdued, Judgment Reserved
 
-**Genesis 1:2** — "darkness was upon the face of the deep" / "the Spirit of God moved upon the face of the waters"  
-**Genesis 1:6-10** — Waters divided and gathered
+[[01. Genesis/GEN_01_REBUILT|Genesis 1:2]] — "darkness was upon the face of the deep" / "the Spirit of God moved upon the face of the waters"  
+[[01. Genesis/GEN_01_REBUILT|Genesis 1:6-10]] — Waters divided and gathered
 
 **Thread through Scripture:**
-- **Psalm 104:5-9** — "Thou coveredst it with the deep as with a garment... Thou hast set a bound that they may not pass over; that they turn not again to cover the earth"
-- **Job 38:8-11** — "Who shut up the sea with doors... and said, Hitherto shalt thou come, but no further"
-- **Genesis 7:11** — "The fountains of the great deep broken up, and the windows of heaven were opened" — at the Flood, God removes the restraint and the waters return
-- **2 Peter 3:5-6** — "The earth standing out of the water... whereby the world that then was, being overflowed with water, perished"
-- **Revelation 21:1** — "And I saw a new heaven and a new earth: for the first heaven and the first earth were passed away; and there was no more sea"
+- [[19.Psalm Part 2/PSALM_104_REBUILT|Psalm 104:5-9]] — "Thou coveredst it with the deep as with a garment... Thou hast set a bound that they may not pass over; that they turn not again to cover the earth"
+- [[18. Job/JOB_38_REBUILT|Job 38:8-11]] — "Who shut up the sea with doors... and said, Hitherto shalt thou come, but no further"
+- [[01. Genesis/GEN_07_REBUILT|Genesis 7:11]] — "The fountains of the great deep broken up, and the windows of heaven were opened" — at the Flood, God removes the restraint and the waters return
+- [[61. 2 Peter/2_PETER_03_REBUILT|2 Peter 3:5-6]] — "The earth standing out of the water... whereby the world that then was, being overflowed with water, perished"
+- [[66. Revelation/REVELATION_21_REBUILT|Revelation 21:1]] — "And I saw a new heaven and a new earth: for the first heaven and the first earth were passed away; and there was no more sea"
 - *Interpretation:* In Genesis 1, the waters represent the unformed, chaotic state that God subdues and orders. Throughout Scripture, the sea/deep is associated with chaos, judgment, and the powers that oppose God (Isaiah 57:20; Revelation 13:1 — the beast rises from the sea). In the new creation, "there was no more sea" — chaos is permanently eliminated. God's subduing of the waters in Genesis 1 is the first act in the long story that ends in Revelation 21.
 
 ---
@@ -450,25 +486,25 @@ For AI matching to topics and current events:
 **Genesis 1:11, 12, 21, 24, 25** — "after his kind" (10 occurrences)
 
 **Thread through Scripture:**
-- **Leviticus 19:19** — "Thou shalt not let thy cattle gender with a diverse kind; thou shalt not sow thy field with mingled seed" — the Law applies the Genesis 1 "after his kind" principle to human practice
-- **Deuteronomy 22:9-11** — Prohibitions against mixing seeds, yoking animals of different kinds, wearing mixed cloth — application of the creation principle of separation-by-kind
-- **1 Corinthians 15:38-41** — Paul uses the "after his kind" principle to argue for different types of resurrection bodies — "There is one glory of the sun, and another glory of the moon" — God's creation maintains distinct glories and kinds
-- **2 Corinthians 6:14** — "Be ye not unequally yoked together with unbelievers" — the spiritual application of the "after his kind" boundary principle
+- [[03. Leviticus/LEV_19_REBUILT|Leviticus 19:19]] — "Thou shalt not let thy cattle gender with a diverse kind; thou shalt not sow thy field with mingled seed" — the Law applies the Genesis 1 "after his kind" principle to human practice
+- [[05. Deuteronomy/DEU_22_REBUILT|Deuteronomy 22:9-11]] — Prohibitions against mixing seeds, yoking animals of different kinds, wearing mixed cloth — application of the creation principle of separation-by-kind
+- [[46. 1 Corinthians/1_CORINTHIANS_15_REBUILT|1 Corinthians 15:38-41]] — Paul uses the "after his kind" principle to argue for different types of resurrection bodies — "There is one glory of the sun, and another glory of the moon" — God's creation maintains distinct glories and kinds
+- [[47. 2 Corinthians/2_CORINTHIANS_06_REBUILT|2 Corinthians 6:14]] — "Be ye not unequally yoked together with unbelievers" — the spiritual application of the "after his kind" boundary principle
 - *Interpretation:* God's creation principle of "after his kind" is not a mere biological observation. It is the establishment of a universal design principle: God creates with order, boundaries, and distinct kinds — and mixing those boundaries inappropriately goes against the creation design. The Law applies this physically (Leviticus 19); Paul applies it spiritually (2 Corinthians 6:14).
 
 ---
 
 ### Sun, Moon, Stars "For Signs" — The Prophetic Function Built Into Creation
 
-**Genesis 1:14** — "let them be for SIGNS, and for seasons, and for days, and years"
+[[01. Genesis/GEN_01_REBUILT|Genesis 1:14]] — "let them be for SIGNS, and for seasons, and for days, and years"
 
 **Thread through Scripture:**
-- **Psalm 19:1-2** — "The heavens declare the glory of God... Day unto day uttereth speech, and night unto night sheweth knowledge" — the heavens communicate
-- **Joel 2:30-31** — Signs in the heavens before the Day of the LORD
-- **Matthew 24:29** — Sun, moon, stars affected immediately after the tribulation
-- **Luke 21:25** — "signs in the sun, and in the moon, and in the stars; and upon the earth distress of nations"
-- **Revelation 6:12-13** — Sixth seal: sun blackened, moon as blood, stars fall
-- **Revelation 12:1** — "A great wonder in heaven; a woman clothed with the sun, and the moon under her feet, and upon her head a crown of twelve stars"
+- [[19.Psalm Part 1/PSALM_19_REBUILT|Psalm 19:1-2]] — "The heavens declare the glory of God... Day unto day uttereth speech, and night unto night sheweth knowledge" — the heavens communicate
+- [[29. Joel/JOEL_02_REBUILT|Joel 2:30-31]] — Signs in the heavens before the Day of the LORD
+- [[40. Matthew/MATTHEW_24_REBUILT|Matthew 24:29]] — Sun, moon, stars affected immediately after the tribulation
+- [[42. Luke/LUKE_21_REBUILT|Luke 21:25]] — "signs in the sun, and in the moon, and in the stars; and upon the earth distress of nations"
+- [[66. Revelation/REVELATION_06_REBUILT|Revelation 6:12-13]] — Sixth seal: sun blackened, moon as blood, stars fall
+- [[66. Revelation/REVELATION_12_REBUILT|Revelation 12:1]] — "A great wonder in heaven; a woman clothed with the sun, and the moon under her feet, and upon her head a crown of twelve stars"
 - *Interpretation:* God established the sun, moon, and stars as SIGNS (Hebrew: oth — signs, signals, tokens) in Genesis 1:14. This is their built-in, creation-given prophetic function. Watching for signs in the heavens is therefore not superstition — it is obeying the design God built into creation. This is entirely different from astrology (using heavenly bodies to determine fate, which God forbids — Isaiah 47:13-14). Prophecy-watching honors the design of Genesis 1:14; astrology replaces God with stars.
 
 ---

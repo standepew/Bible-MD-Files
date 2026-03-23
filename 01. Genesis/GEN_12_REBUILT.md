@@ -1,3 +1,59 @@
+---
+book: "Genesis"
+chapter: 12
+testament: "Old Testament"
+key_themes: "The Call of Abram — Lech Lecha, Threefold Separation Required, The Seven-Fold Abrahamic Covenant Promise, The Gospel Preached to Abraham, "In Thee Shall All Families of the Earth Be Blessed," Abram Departs at 75, Entry into Canaan, Shechem — First Covenant Location, The LORD Appears — First Theophany to Abram in Canaan, The Land Promised to the Seed, Two Altars — Worship Marks the Journey, Famine Tests Faith, "Down Into Egypt" — The World's Provision, The Half-Truth of the Sister/Wife, Pharaoh Plagued — First Plagues in Scripture, Covenant Line Protected, Abram Expelled from Egypt with Wealth"
+tags:
+  - Abram
+  - Abraham
+  - lech-lecha
+  - call
+  - get-thee-out
+  - country-kindred-fathers-house
+  - Abrahamic-covenant
+  - seven-fold-blessing
+  - great-nation
+  - bless-thee
+  - name-great
+  - thou-shalt-be-blessing
+  - bless-those-who-bless
+  - curse-those-who-curse
+  - arar
+  - qalal
+  - all-families-blessed
+  - gospel-preached-to-Abraham
+  - Galatians-3-8
+  - zera
+  - seed
+  - singular-seed-is-Christ
+  - Galatians-3-16
+  - Canaan
+  - Shechem
+  - Moreh
+  - Canaanite-in-land
+  - altar
+  - theophany
+  - LORD-appeared
+  - land-to-seed
+  - Bethel
+  - Hai
+  - called-upon-name-LORD
+  - famine
+  - down-to-Egypt
+  - sojourn
+  - Sarai-sister-wife
+  - half-truth
+  - deception-of-faith
+  - Pharaoh
+  - plagues
+  - first-plagues
+  - covenant-line-protected
+  - sent-away-with-wealth
+  - Abram-in-Egypt-type-of-Exodus
+  - separation-unto-God
+  - faith-without-sight
+  - Hebrews-11-8
+---
 # Genesis 12
 
 ---
@@ -171,7 +227,7 @@ The LORD had spoken to Abram while he was still in Mesopotamia (Acts 7:2-3), cal
 
 For AI matching to topics and current events:
 
-`call of Abram` `lech lecha` `get thee out` `country kindred father's house` `threefold separation` `Abrahamic covenant` `seven-fold blessing` `great nation` `I will bless thee` `make thy name great` `thou shalt be a blessing` `bless them that bless thee` `arar` `qalal` `curse` `all families of earth blessed` `gospel preached to Abraham` `Galatians 3:8` `proeuangelisato` `zera` `seed` `singular seed Christ` `Galatians 3:16` `land to seed` `Canaan` `Shechem` `Moreh` `Canaanite in land` `altar` `theophany` `LORD appeared` `Bethel` `Hai` `called upon name of LORD` `famine in land` `down to Egypt` `sojourn` `Egypt as world` `Sarai` `sister-wife` `half-truth` `deception` `Pharaoh` `plagues` `negaim` `first plagues` `covenant line protected` `expelled with wealth` `Abram-Egypt type of Exodus` `Hosea 11:1` `Israel and Egypt` `pre-announced gospel` `blessing of Abraham` `curse of law` `Christ made curse` `Romans 4:13` `heir of world` `Revelation 5:9` `all kindreds tribes tongues peoples`
+#call-of-Abram #lech-lecha #get-thee-out #country-kindred-fathers-house #threefold-separation #Abrahamic-covenant #seven-fold-blessing #great-nation #I-will-bless-thee #make-thy-name-great #thou-shalt-be-a-blessing #bless-them-that-bless-thee #arar #qalal #curse #all-families-of-earth-blessed #gospel-preached-to-Abraham #Galatians-38 #proeuangelisato #zera #seed #singular-seed-Christ #Galatians-316 #land-to-seed #Canaan #Shechem #Moreh #Canaanite-in-land #altar #theophany #LORD-appeared #Bethel #Hai #called-upon-name-of-LORD #famine-in-land #down-to-Egypt #sojourn #Egypt-as-world #Sarai #sister-wife #half-truth #deception #Pharaoh #plagues #negaim #first-plagues #covenant-line-protected #expelled-with-wealth #Abram-Egypt-type-of-Exodus #Hosea-111 #Israel-and-Egypt #pre-announced-gospel #blessing-of-Abraham #curse-of-law #Christ-made-curse #Romans-413 #heir-of-world #Revelation-59 #all-kindreds-tribes-tongues-peoples
 
 **Relevance to Current Events:**
 - Genesis 12:3 and modern Israel — the bless/curse principle and nations' treatment of the Jewish people; the theological complexity of applying this to the modern state of Israel (physical seed) vs. the spiritual seed (Galatians 3:29); both dimensions carry weight
@@ -457,20 +513,20 @@ For AI matching to topics and current events:
 
 ### Lech Lecha — The Two Calls That Bracket Abraham's Life
 
-**Genesis 12:1** — First lech lecha: leave your past  
-**Genesis 22:2** — Second lech lecha: sacrifice your future
+[[01. Genesis/GEN_12_REBUILT|Genesis 12:1]] — First lech lecha: leave your past  
+[[01. Genesis/GEN_22_REBUILT|Genesis 22:2]] — Second lech lecha: sacrifice your future
 
 **Thread through Scripture:**
 - Every believer's journey has the shape of two lech lechas: a call to leave the old life (conversion) and a call to surrender the dearest thing (consecration)
-- **Luke 9:23** — "If any man will come after me, let him deny himself, and take up his cross daily, and follow me" — the daily lech lecha of discipleship; leave yourself, follow Him
-- **Philippians 3:7-8** — "But what things were gain to me, those I counted loss for Christ. Yea doubtless, and I count all things but loss for the excellency of the knowledge of Christ Jesus my Lord" — Paul's personal lech lecha; the things of his past (Philippians 3:5-6) surrendered
-- **Hebrews 12:1-2** — "Let us lay aside every weight, and the sin which doth so easily beset us, and let us run with patience the race that is set before us, Looking unto Jesus" — the ongoing lech lecha of the Christian life; laying aside, looking forward, running toward
+- [[42. Luke/LUKE_09_REBUILT|Luke 9:23]] — "If any man will come after me, let him deny himself, and take up his cross daily, and follow me" — the daily lech lecha of discipleship; leave yourself, follow Him
+- [[50. Philippians/PHILIPPIANS_03_REBUILT|Philippians 3:7-8]] — "But what things were gain to me, those I counted loss for Christ. Yea doubtless, and I count all things but loss for the excellency of the knowledge of Christ Jesus my Lord" — Paul's personal lech lecha; the things of his past (Philippians 3:5-6) surrendered
+- [[58. Hebrews/HEBREWS_12_REBUILT|Hebrews 12:1-2]] — "Let us lay aside every weight, and the sin which doth so easily beset us, and let us run with patience the race that is set before us, Looking unto Jesus" — the ongoing lech lecha of the Christian life; laying aside, looking forward, running toward
 
 ---
 
 ### "Down to Egypt" — The World's Provision vs. God's Provision
 
-**Genesis 12:10** — Abram went DOWN to Egypt; God had not directed him there
+[[01. Genesis/GEN_12_REBUILT|Genesis 12:10]] — Abram went DOWN to Egypt; God had not directed him there
 
 **Thread through Scripture:**
 - Genesis 12:10-20 — Abram in Egypt: famine → Egypt → trouble → expelled
@@ -487,7 +543,7 @@ For AI matching to topics and current events:
 
 ### The Altar — Marking the Covenant Journey
 
-**Genesis 12:7-8** — Two altars in Abram's first Canaan journey
+[[01. Genesis/GEN_12_REBUILT|Genesis 12:7-8]] — Two altars in Abram's first Canaan journey
 
 **Thread through Scripture:**
 - Altars mark every major step of the patriarchal covenant journey (Shechem, Bethel, Hebron, Moriah — all marked by Abram/Abraham's altars)
@@ -500,13 +556,13 @@ For AI matching to topics and current events:
   - The tabernacle altar (Exodus 27): portable; moves with the pilgrim people
   - Solomon's temple altar (1 Kings 8): permanent in the permanent city
   - The cross: the final altar; the sacrifice that ends all sacrificial altars (Hebrews 10:12-14)
-  - **Romans 12:1** — the believer as a living sacrifice; the body as the new altar
+  - [[45. Romans/ROMANS_12_REBUILT|Romans 12:1]] — the believer as a living sacrifice; the body as the new altar
 
 ---
 
 ### The Covenant Blessing — From Abram to All Nations
 
-**Genesis 12:3** — "In thee shall all families of the earth be blessed"
+[[01. Genesis/GEN_12_REBUILT|Genesis 12:3]] — "In thee shall all families of the earth be blessed"
 
 **Thread through Scripture:**
 - Genesis 12:3 — the promise given; universal scope declared

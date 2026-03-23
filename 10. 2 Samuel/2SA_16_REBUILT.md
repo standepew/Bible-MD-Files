@@ -1,3 +1,21 @@
+---
+book: "2 Samuel"
+chapter: 16
+testament: "Old Testament"
+key_themes: "Ziba's Deception, Shimei's Cursing, David's Restraint, Ahithophel's Wicked Counsel, Absalom's Defilement"
+tags:
+  - king-Ziba-mean-
+  - king-people-weary-refreshed
+  - Absalom-people-Israel-Jerusalem-Ahithophel
+  - Absalom-Hushai-kindness-friend-friend
+  - serve-son-father-presence-presence
+  - Absalom-Ahithophel-counsel
+  - ziba
+  - shimei
+  - david
+  - ahithophel
+  - absalom
+---
 # 2 Samuel 16
 
 ---
@@ -83,7 +101,7 @@ David past top of hill, Ziba servant Mephibosheth met, couple asses saddled, two
 
 
 *AI Keywords for current event matching:*
-`abhorred` `abide` `abishai` `absalom` `affliction` `ahithophel` `ahithophels` `archite` `asses` `bahurim` `belial` `benjamite` `bidden` `blood` `bloody` `bottle` `bowels` `bread` `bunches` `cast` `choose` `come` `concubines` `counsel` `curse` `cursed` `cursing` `david` `davids` `dead` `delivered` `dog` `done` `drink` `dust` `eat` `faint` `family` `father` `friend` `fruit` `fruits` `gera` `god` `good` `grace` `hands` `head` `hill` `house` `household` `hundred` `hushai` `hushais` `israel` `jerusalem` `kindness` `king` `kingdom` `left` `life` `loaves` `lord` `loyalty` `man` `master` `mean` `men` `mephibosheth` `mighty` `mischief` `opportunism` `oracle` `past` `people` `presence` `raisins` `refreshed` `reigned` `requite` `restore` `restraint` `returned` `ride` `right` `saddled` `saul` `save` `servant` `servants` `serve` `shimei` `shimeis` `side` `sight` `son` `sons` `stead` `stones` `strong` `summer` `tent` `top` `two` `way` `weary` `wherefore` `wicked` `wilderness` `wine` `young` `zeruiah` `ziba` `zibas`
+#abhorred #abide #abishai #absalom #affliction #ahithophel #ahithophels #archite #asses #bahurim #belial #benjamite #bidden #blood #bloody #bottle #bowels #bread #bunches #cast #choose #come #concubines #counsel #curse #cursed #cursing #david #davids #dead #delivered #dog #done #drink #dust #eat #faint #family #father #friend #fruit #fruits #gera #god #good #grace #hands #head #hill #house #household #hundred #hushai #hushais #israel #jerusalem #kindness #king #kingdom #left #life #loaves #lord #loyalty #man #master #mean #men #mephibosheth #mighty #mischief #opportunism #oracle #past #people #presence #raisins #refreshed #reigned #requite #restore #restraint #returned #ride #right #saddled #saul #save #servant #servants #serve #shimei #shimeis #side #sight #son #sons #stead #stones #strong #summer #tent #top #two #way #weary #wherefore #wicked #wilderness #wine #young #zeruiah #ziba #zibas
 
 
 ---

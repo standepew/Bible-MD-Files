@@ -1,3 +1,22 @@
+---
+book: "Isaiah"
+chapter: 9
+testament: "Old Testament"
+key_themes: "Christ's Light, Christ's Birth, Christ's Kingdom, Divine Judgment"
+tags:
+  - christ
+  - divine-judgment
+  - messianic-prophecy
+  - unto-us-a-child-is-born
+  - wonderful-counsellor
+  - mighty-god
+  - everlasting-father
+  - prince-of-peace
+  - galilee
+  - darkness-to-light
+  - zeal-of-the-LORD
+  - throne-of-david
+---
 # Isaiah 9
 
 ---
@@ -141,7 +160,7 @@ Dimness, vexation, first, lightly, afflicted, land, Zebulun, land, Naphtali, aft
 
 
 *AI Keywords for current event matching:*
-`birth` `born` `burneth` `child` `christs` `counsellor` `cut` `darkened` `darkness` `david` `death` `divine` `err` `given` `god` `government` `great` `head` `increase` `judgment` `justice` `kingdom` `land` `leaders` `light` `mighty` `peace` `shadow` `shined` `shoulder` `son` `tail` `throne` `walked` `wickedness` `wonderful`
+#birth #born #burneth #child #christs #counsellor #cut #darkened #darkness #david #death #divine #err #given #god #government #great #head #increase #judgment #justice #kingdom #land #leaders #light #mighty #peace #shadow #shined #shoulder #son #tail #throne #walked #wickedness #wonderful
 
 
 ---

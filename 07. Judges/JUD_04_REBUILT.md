@@ -1,3 +1,79 @@
+---
+book: "Judges"
+chapter: 4
+testament: "Old Testament"
+key_themes: "Deborah's Leadership, Barak's Hesitation, Jabin's Oppression, Sisera's Defeat, Jael's Courage, Divine Victory, Women's Roles"
+tags:
+  - children-Israel-evil-sight-LORD
+  - Ehud-dead
+  - reigned-Hazor
+  - captain-host-Sisera
+  - dwelt-Harosheth-Gentiles
+  - children-Israel-cried-LORD
+  - nine-hundred-chariots-iron
+  - Deborah-prophetess-wife-Lapidoth
+  - judged-Israel
+  - children-Israel-came-judgment
+  - LORD-God-Israel-commanded
+  - Go-draw-mount-Tabor
+  - chariots-multitude
+  - deliver-hand
+  - Barak-go
+  - not-go
+  - surely-go
+  - journey-thine-honour
+  - LORD-sell-Sisera-hand-woman
+  - Deborah-arose-Barak-Kedesh
+  - Barak-called-Zebulun-Naphtali-Kedesh
+  - ten-thousand-men-feet
+  - Deborah
+  - severed-Kenites
+  - pitched-tent-plain-Zaanaim-Kedesh
+  - Sisera-gathered-chariots
+  - people-Harosheth-Gentiles-river-Kishon
+  - Deborah-Barak-Up
+  - day-LORD-delivered-Sisera-hand
+  - LORD-gone-out
+  - Barak-mount-Tabor
+  - ten-thousand-men
+  - LORD-discomfited-Sisera-chariots-host
+  - edge-sword-Barak
+  - Sisera-lighted-chariot
+  - fled-feet
+  - Barak-pursued-chariots-host
+  - Harosheth-Gentiles
+  - host-Sisera-fell-edge-sword
+  - man-left
+  - Jael-meet-Sisera
+  - Turn-lord-fear-not
+  - turned-tent-covered-mantle
+  - water-drink-thirsty
+  - opened-bottle-milk
+  - gave-drink-covered
+  - Stand-door-tent
+  - man-come-enquire
+  - man-say
+  - Jael-Heber-wife-nail-tent
+  - hammer-hand
+  - softly-smote-nail-temples
+  - fastened-ground
+  - fast-asleep-weary-died
+  - Barak-pursued-Sisera
+  - Jael-meet-Barak
+  - shew-man-seek
+  - tent-Sisera-dead
+  - nail-temples
+  - hand-children-Israel-prospered
+  - prevailed-Jabin-king-Canaan
+  - destroyed-Jabin-king-Canaan
+  - deborah
+  - barak
+  - jabin
+  - sisera
+  - jael
+  - divine-victory
+  - women
+---
 # Judges 4
 
 ---
@@ -101,7 +177,7 @@ After Ehud's death, Israel again does evil, so the LORD sells them to Jabin, Can
 
 
 *AI Keywords for current event matching:*
-`abinoam` `army` `arose` `asleep` `barak` `baraks` `battle` `beth-el` `bottle` `called` `came` `canaan` `captain` `chariot` `chariots` `children` `come` `command` `commanded` `covered` `cried` `cycle` `day` `dead` `death` `deborah` `deborahs` `deliver` `delivered` `destroyed` `died` `discomfited` `discovery` `divine` `door` `draw` `drink` `dwelt` `edge` `ehud` `enquire` `ephraim` `evil` `fast` `fastened` `father` `fear` `feet` `fell` `fled` `flight` `gathered` `gathering` `gave` `gentiles` `god` `gone` `ground` `hammer` `hand` `harosheth` `hazor` `heber` `hesitation` `hobab` `honour` `hospitality` `host` `house` `hundred` `iron` `israel` `jabin` `jael` `jaels` `journey` `judged` `judgment` `kedesh` `kenite` `kenites` `king` `kishon` `lapidoth` `law` `leadership` `left` `lighted` `lord` `man` `mantle` `meet` `men` `mightily` `milk` `moses` `mount` `multitude` `nail` `naphtali` `new` `nine` `opened` `oppressed` `oppression` `palm` `peace` `people` `pitched` `plain` `prevailed` `prophetess` `prospered` `pursued` `ramah` `reigned` `response` `river` `say` `seek` `sell` `sent` `separation` `severed` `shew` `shewed` `sight` `sin` `sisera` `siseras` `smote` `softly` `sold` `son` `stand` `subdued` `surely` `sword` `tabor` `temples` `ten` `tent` `thirsty` `thousand` `tree` `turn` `turned` `twenty` `victory` `water` `weary` `wife` `woman` `years` `zaanaim` `zebulun`
+#abinoam #army #arose #asleep #barak #baraks #battle #beth-el #bottle #called #came #canaan #captain #chariot #chariots #children #come #command #commanded #covered #cried #cycle #day #dead #death #deborah #deborahs #deliver #delivered #destroyed #died #discomfited #discovery #divine #door #draw #drink #dwelt #edge #ehud #enquire #ephraim #evil #fast #fastened #father #fear #feet #fell #fled #flight #gathered #gathering #gave #gentiles #god #gone #ground #hammer #hand #harosheth #hazor #heber #hesitation #hobab #honour #hospitality #host #house #hundred #iron #israel #jabin #jael #jaels #journey #judged #judgment #kedesh #kenite #kenites #king #kishon #lapidoth #law #leadership #left #lighted #lord #man #mantle #meet #men #mightily #milk #moses #mount #multitude #nail #naphtali #new #nine #opened #oppressed #oppression #palm #peace #people #pitched #plain #prevailed #prophetess #prospered #pursued #ramah #reigned #response #river #say #seek #sell #sent #separation #severed #shew #shewed #sight #sin #sisera #siseras #smote #softly #sold #son #stand #subdued #surely #sword #tabor #temples #ten #tent #thirsty #thousand #tree #turn #turned #twenty #victory #water #weary #wife #woman #years #zaanaim #zebulun
 
 
 ---

@@ -1,3 +1,14 @@
+---
+book: "Ezekiel"
+chapter: 48
+testament: "Old Testament"
+key_themes: "Christ's Kingdom, Tribal Portions, Holy City, Divine Presence"
+tags:
+  - christ
+  - tribal-portions
+  - holy-city
+  - divine-presence
+---
 # Ezekiel 48
 
 ---
@@ -93,7 +104,7 @@ Names, tribes, north, end, coast, way, Hethlon, Hamath, Hazar, enan, border, Dam
 
 
 *AI Keywords for current event matching:*
-`asher` `benjamin` `christs` `city` `dan` `divine` `ephraim` `firstfruits` `foursquare` `gates` `holy` `house` `judah` `kingdom` `lord` `manasseh` `measures` `midst` `names` `naphtali` `oblation` `portions` `presence` `reuben` `round` `sanctuary` `simeon` `there` `three` `tribal` `tribes` `twelve`
+#asher #benjamin #christs #city #dan #divine #ephraim #firstfruits #foursquare #gates #holy #house #judah #kingdom #lord #manasseh #measures #midst #names #naphtali #oblation #portions #presence #reuben #round #sanctuary #simeon #there #three #tribal #tribes #twelve
 
 
 ---

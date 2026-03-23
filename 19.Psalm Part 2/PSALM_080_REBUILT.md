@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 80
+testament: "Old Testament"
+key_themes: "Divine Shepherd, Israel's Vine, Plea for Restoration, God's Presence"
+tags:
+  - divine-shepherd
+  - israel
+  - plea-for-restoration
+  - god
+---
 # Psalm 80
 
 ---
@@ -105,7 +116,7 @@ Chief, Musician, Shoshannim, eduth, Psalm, Asaph, Give, ear, Shepherd, Israel, l
 
 
 *AI Keywords for current event matching:*
-`asaph` `behold` `beseech` `boughs` `brought` `call` `cast` `cause` `caused` `cedars` `cherubims` `chief` `covered` `deep` `divine` `dwellest` `ear` `eduth` `egypt` `face` `filled` `flock` `give` `god` `gods` `goodly` `heathen` `heaven` `hills` `hosts` `israel` `israels` `joseph` `land` `leadest` `like` `look` `musician` `name` `planted` `plea` `prepared` `presence` `psalm` `quicken` `restoration` `return` `room` `root` `saved` `shadow` `shepherd` `shine` `shoshannim` `turn` `vine` `visit`
+#asaph #behold #beseech #boughs #brought #call #cast #cause #caused #cedars #cherubims #chief #covered #deep #divine #dwellest #ear #eduth #egypt #face #filled #flock #give #god #gods #goodly #heathen #heaven #hills #hosts #israel #israels #joseph #land #leadest #like #look #musician #name #planted #plea #prepared #presence #psalm #quicken #restoration #return #room #root #saved #shadow #shepherd #shine #shoshannim #turn #vine #visit
 
 
 ---

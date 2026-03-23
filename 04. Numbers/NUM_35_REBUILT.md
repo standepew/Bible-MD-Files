@@ -1,3 +1,36 @@
+---
+book: "Numbers"
+chapter: 35
+testament: "Old Testament"
+key_themes: "Forty-eight cities given to the Levites from all the tribes' inheritances — distributed proportionally, Six of the forty-eight are cities of refuge — three on each side of Jordan; available to Israelite, stranger, and sojourner alike, The law distinguishes carefully between murder and manslaughter — premeditation vs. sudden unchanneled anger vs. accident, The manslayer in the city of refuge: safe until the death of the high priest — then free; if he leaves before, the blood avenger may kill him without guilt, No ransom for a murderer's life; no ransom to leave the city of refuge early — blood pollutes the land, and only the blood of the one who shed it can cleanse the land, "I the LORD dwell among the children of Israel" — the land's holiness requires protection from blood-guilt"
+tags:
+  - Levitical-cities
+  - forty-eight-cities
+  - suburbs-one-thousand-cubits
+  - six-cities-of-refuge
+  - manslayer-may-flee
+  - stand-before-congregation-in-judgment
+  - avenger-of-blood
+  - murder-vs-manslaughter
+  - instrument-of-iron
+  - throwing-stone
+  - hand-weapon
+  - hatred-or-lying-in-wait
+  - murderer-put-to-death
+  - sudden-without-enmity
+  - congregation-judges
+  - no-satisfaction-for-murderers-life
+  - blood-defiles-the-land
+  - fortyeight-cities-given-to-the-levites
+  - six-of-the-fortyeight-are-cities
+  - available-to-israelite-stranger-and-sojourner
+  - the-law-distinguishes-carefully-between-murder
+  - the-manslayer-in-the-city-of
+  - if-he-leaves-before-the-blood
+  - no-ransom-for-a-murderer
+  - no-ransom-to-leave-the-city
+  - i-the-lord-dwell-among-the
+---
 # Numbers 35
 
 ---
@@ -64,7 +97,7 @@ God commands: the Levites shall receive forty-eight cities from the tribes' inhe
 
 
 *AI Keywords for current event matching:*
-`3511-15` `current` `events` `hebrews` `innocent` `matching` `numbers` `protection` `psalm` `refuge` `unjust` `vengeance`
+#3511-15 #current #events #hebrews #innocent #matching #numbers #protection #psalm #refuge #unjust #vengeance
 
 
 ---
@@ -155,9 +188,9 @@ The city of refuge contains the most developed and explicit type in the Torah fo
 
 The forty-eight Levitical cities are distributed through all twelve tribes' territories. The tribe with no land of its own (Numbers 18:20 — "I am thy part and thine inheritance") is given cities in every tribe's land — so that no Israelite is far from a Levite, and no region is without priestly presence.
 
-- **Exodus 19:6** — "ye shall be unto me a kingdom of priests" — the entire nation called to priestly identity
-- **1 Peter 2:9** — "But ye are a chosen generation, a royal priesthood, an holy nation" — the New Covenant people distributed through all nations as the Levites were distributed through all tribes
-- **Matthew 5:13-14** — "Ye are the salt of the earth... Ye are the light of the world" — the salt is distributed through all the food; the light spread through all the darkness; the Levitical distribution is the Torah type of the dispersed New Covenant priesthood embedded in every tribe, tongue, and nation
+- [[02. Exodus/EXO_19_REBUILT|Exodus 19:6]] — "ye shall be unto me a kingdom of priests" — the entire nation called to priestly identity
+- [[60. 1 Peter/1_PETER_02_REBUILT|1 Peter 2:9]] — "But ye are a chosen generation, a royal priesthood, an holy nation" — the New Covenant people distributed through all nations as the Levites were distributed through all tribes
+- [[40. Matthew/MATTHEW_05_REBUILT|Matthew 5:13-14]] — "Ye are the salt of the earth... Ye are the light of the world" — the salt is distributed through all the food; the light spread through all the darkness; the Levitical distribution is the Torah type of the dispersed New Covenant priesthood embedded in every tribe, tongue, and nation
 
 ---
 

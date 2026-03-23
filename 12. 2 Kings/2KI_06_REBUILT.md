@@ -1,3 +1,15 @@
+---
+book: "2 Kings"
+chapter: 6
+testament: "Old Testament"
+key_themes: "Floating Axe Head, Divine Protection, Heavenly Host, Syrian Siege, Cannibalism Famine"
+tags:
+  - floating-axe-head
+  - divine-protection
+  - heavenly-host
+  - syrian-siege
+  - cannibalism-famine
+---
 # 2 Kings 6
 
 ---
@@ -83,7 +95,7 @@ Sons prophets Elisha, place dwell strait, Jordan, beam, place dwell. Go Jordan, 
 
 
 *AI Keywords for current event matching:*
-`alas` `ass` `ate` `axe` `bands` `barnfloor` `beam` `bedchamber` `ben-hadad` `besieged` `beware` `blindness` `boiled` `borrowed` `bow` `bread` `building` `cab` `camp` `captive` `capture` `cast` `chariots` `city` `clothes` `come` `compassed` `counsel` `cut` `day` `despair` `divine` `door` `dothan` `dove` `drank` `drink` `dung` `dwell` `early` `eat` `elders` `elisha` `evil` `eyes` `famine` `fast` `fear` `feet` `fell` `felling` `fetch` `fire` `flesh` `follow` `fourscore` `fourth` `god` `great` `hand` `head` `help` `hid` `hold` `horses` `host` `house` `iron` `israel` `jordan` `king` `kings` `land` `led` `lord` `man` `master` `men` `messenger` `midst` `morrow` `mountain` `murderer` `night` `once` `open` `opened` `people` `place` `prayed` `project` `prophet` `prophets` `protection` `provision` `rent` `risen` `sackcloth` `samaria` `saved` `see` `seek` `servant` `servants` `shaphat` `siege` `silver` `smite` `smote` `son` `sons` `sound` `spy` `stick` `strait` `swim` `sword` `syria` `syrian` `syrians` `talked` `took` `troubled` `twice` `wait` `wall` `warned` `warred` `water` `way` `went` `winepress` `woman` `wood` `word` `words` `young`
+#alas #ass #ate #axe #bands #barnfloor #beam #bedchamber #ben-hadad #besieged #beware #blindness #boiled #borrowed #bow #bread #building #cab #camp #captive #capture #cast #chariots #city #clothes #come #compassed #counsel #cut #day #despair #divine #door #dothan #dove #drank #drink #dung #dwell #early #eat #elders #elisha #evil #eyes #famine #fast #fear #feet #fell #felling #fetch #fire #flesh #follow #fourscore #fourth #god #great #hand #head #help #hid #hold #horses #host #house #iron #israel #jordan #king #kings #land #led #lord #man #master #men #messenger #midst #morrow #mountain #murderer #night #once #open #opened #people #place #prayed #project #prophet #prophets #protection #provision #rent #risen #sackcloth #samaria #saved #see #seek #servant #servants #shaphat #siege #silver #smite #smote #son #sons #sound #spy #stick #strait #swim #sword #syria #syrian #syrians #talked #took #troubled #twice #wait #wall #warned #warred #water #way #went #winepress #woman #wood #word #words #young
 
 
 ---

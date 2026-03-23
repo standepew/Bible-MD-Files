@@ -1,3 +1,13 @@
+---
+book: "Jeremiah"
+chapter: 10
+testament: "Old Testament"
+key_themes: "Christ's Sovereignty, Idolatry's Futility, Divine Power, Christ's Correction"
+tags:
+  - christ
+  - idolatry
+  - divine-power
+---
 # Jeremiah 10
 
 ---
@@ -105,7 +115,7 @@ Hear, word, LORD, speaketh, house, Israel, LORD, Learn, way, heathen, dismayed, 
 
 
 *AI Keywords for current event matching:*
-`abide` `anger` `christs` `correct` `correction` `customs` `cutteth` `deck` `divine` `earth` `errors` `everlasting` `forest` `fury` `futility` `god` `gold` `heathen` `heavens` `himself` `idolatrys` `indignation` `judgment` `king` `lightnings` `living` `made` `man` `nations` `people` `pour` `power` `rain` `silver` `sovereignty` `stretched` `tree` `tremble` `true` `uttereth` `vain` `vanity` `voice` `waters` `way` `work` `wrath`
+#abide #anger #christs #correct #correction #customs #cutteth #deck #divine #earth #errors #everlasting #forest #fury #futility #god #gold #heathen #heavens #himself #idolatrys #indignation #judgment #king #lightnings #living #made #man #nations #people #pour #power #rain #silver #sovereignty #stretched #tree #tremble #true #uttereth #vain #vanity #voice #waters #way #work #wrath
 
 
 ---

@@ -1,3 +1,27 @@
+---
+book: "Exodus"
+chapter: 31
+testament: "Old Testament"
+key_themes: "Bezaleel called by name — filled with the Spirit of God for craftsmanship, Aholiab — from the tribe of Dan — given alongside him, Wisdom for artistry as a gift of the Spirit, The Sabbath as sign of the covenant, "I am the LORD that doth sanctify you," Tables of stone written with the finger of God"
+tags:
+  - Bezaleel
+  - called-by-name
+  - spirit-of-God
+  - wisdom-understanding-knowledge
+  - all-manner-of-workmanship
+  - Aholiab
+  - wise-hearted
+  - Sabbath-sign
+  - sign-between-me-and-you
+  - I-sanctify-you
+  - Sabbath-as-perpetual-covenant
+  - death-for-Sabbath-violation
+  - finger-of-God
+  - tables-of-stone
+  - Spirit-filled-artistry
+  - craftsmanship-as-calling
+  - Judah-and-Dan
+---
 # Exodus 31
 
 ---
@@ -91,7 +115,7 @@ God tells Moses He has called Bezaleel by name — from the tribe of Judah — a
 
 
 *AI Keywords for current event matching:*
-`312-3` `artistry` `calling` `craftsmanship` `creativity` `current` `events` `exodus` `first` `matching` `scripture` `spirit-filled` `spirit-filling`
+#312-3 #artistry #calling #craftsmanship #creativity #current #events #exodus #first #matching #scripture #spirit-filled #spirit-filling
 
 
 ---

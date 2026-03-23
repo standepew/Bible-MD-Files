@@ -1,3 +1,14 @@
+---
+book: "Habakkuk"
+chapter: 3
+testament: "Old Testament"
+key_themes: "Christ's Divine Glory, God's Power and Salvation, Trust in Troubles, Joy in the Lord"
+tags:
+  - christ
+  - god
+  - trust-in-troubles
+  - joy-in-the-lord
+---
 # Habakkuk 3
 
 ---
@@ -153,7 +164,7 @@ Prayer, Habakkuk, prophet, Shigionoth, LORD, heard, speech, afraid, LORD, revive
 
 
 *AI Keywords for current event matching:*
-`blossom` `brightness` `christs` `covered` `cut` `divine` `drove` `earth` `fail` `feet` `fields` `fig` `flock` `glory` `god` `gods` `head` `heavens` `hinds` `holy` `joy` `labour` `light` `lord` `measured` `meat` `nations` `olive` `one` `paran` `people` `power` `rejoice` `salvation` `strength` `teman` `tree` `troubles` `trust` `wounded` `yield`
+#blossom #brightness #christs #covered #cut #divine #drove #earth #fail #feet #fields #fig #flock #glory #god #gods #head #heavens #hinds #holy #joy #labour #light #lord #measured #meat #nations #olive #one #paran #people #power #rejoice #salvation #strength #teman #tree #troubles #trust #wounded #yield
 
 
 ---

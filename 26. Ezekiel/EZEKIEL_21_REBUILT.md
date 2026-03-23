@@ -1,3 +1,13 @@
+---
+book: "Ezekiel"
+chapter: 21
+testament: "Old Testament"
+key_themes: "Christ's Sword, Divine Judgment, Jerusalem's Fall, Christ's Kingdom"
+tags:
+  - christ
+  - divine-judgment
+  - jerusalem
+---
 # Ezekiel 21
 
 ---
@@ -105,7 +115,7 @@ Word, Lord, son, man, face, Jerusalem, drop, word, holy, places, prophesy, land,
 
 
 *AI Keywords for current event matching:*
-`christs` `come` `cut` `diadem` `divine` `draw` `face` `fall` `flesh` `furbished` `give` `glitter` `holy` `israel` `jerusalem` `jerusalems` `judgment` `kingdom` `overturn` `places` `princes` `remove` `right` `righteous` `sharpened` `sheath` `slaughter` `sore` `sword` `terror` `wicked`
+#christs #come #cut #diadem #divine #draw #face #fall #flesh #furbished #give #glitter #holy #israel #jerusalem #jerusalems #judgment #kingdom #overturn #places #princes #remove #right #righteous #sharpened #sheath #slaughter #sore #sword #terror #wicked
 
 
 ---

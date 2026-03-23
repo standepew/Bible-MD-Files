@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 144
+testament: "Old Testament"
+key_themes: "Divine Strength, Human Frailty, God's Victory, National Blessing"
+tags:
+  - divine-strength
+  - human-frailty
+  - god
+  - national-blessing
+---
 # Psalm 144
 
 ---
@@ -153,7 +164,7 @@ Blessed, LORD, strength, teacheth, hands, war, fingers, fight, goodness, fortres
 
 
 *AI Keywords for current event matching:*
-`arrows` `blessed` `blessing` `bow` `corner` `daughters` `days` `destroy` `divine` `fortress` `frailty` `full` `garners` `gods` `grown` `hands` `happy` `heavens` `high` `human` `kings` `lightning` `like` `lord` `man` `national` `passeth` `people` `plants` `salvation` `scatter` `shadow` `shoot` `son` `sons` `stones` `strength` `teacheth` `tower` `vanity` `victory` `war`
+#arrows #blessed #blessing #bow #corner #daughters #days #destroy #divine #fortress #frailty #full #garners #gods #grown #hands #happy #heavens #high #human #kings #lightning #like #lord #man #national #passeth #people #plants #salvation #scatter #shadow #shoot #son #sons #stones #strength #teacheth #tower #vanity #victory #war
 
 
 ---

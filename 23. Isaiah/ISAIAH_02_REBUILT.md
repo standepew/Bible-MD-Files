@@ -1,3 +1,14 @@
+---
+book: "Isaiah"
+chapter: 2
+testament: "Old Testament"
+key_themes: "Christ's Kingdom, Peace on Earth, Divine Judgment, Idol Destruction"
+tags:
+  - christ
+  - peace-on-earth
+  - divine-judgment
+  - idol-destruction
+---
 # Isaiah 2
 
 ---
@@ -153,7 +164,7 @@ Word, Isaiah, son, Amoz, saw, concerning, Judah, Jerusalem, come, pass, last, da
 
 
 *AI Keywords for current event matching:*
-`abolish` `christs` `day` `days` `destruction` `divine` `earth` `exalted` `flow` `full` `hands` `hosts` `house` `humbled` `idol` `idols` `jerusalem` `judgment` `kingdom` `last` `law` `learn` `lofty` `looks` `lord` `mountain` `nations` `peace` `plowshares` `pruninghooks` `spears` `swords` `utterly` `war` `word` `work` `worship`
+#abolish #christs #day #days #destruction #divine #earth #exalted #flow #full #hands #hosts #house #humbled #idol #idols #jerusalem #judgment #kingdom #last #law #learn #lofty #looks #lord #mountain #nations #peace #plowshares #pruninghooks #spears #swords #utterly #war #word #work #worship
 
 
 ---

@@ -1,3 +1,14 @@
+---
+book: "Hosea"
+chapter: 12
+testament: "Old Testament"
+key_themes: "Christ's Controversy, Jacob's Wrestling, Prophetic Ministry, Divine Preservation"
+tags:
+  - christ
+  - jacob
+  - prophetic-ministry
+  - divine-preservation
+---
 # Hosea 12
 
 ---
@@ -105,7 +116,7 @@ Ephraim, feedeth, wind, followeth, east, wind, daily, increaseth, lies, desolati
 
 
 *AI Keywords for current event matching:*
-`angel` `beth-el` `brought` `christs` `continually` `controversy` `divine` `doings` `egypt` `feedeth` `jacob` `jacobs` `judah` `ministry` `multiplied` `power` `preservation` `preserved` `prevailed` `prophet` `prophetic` `prophets` `punish` `recompense` `reproach` `return` `spake` `spoken` `supplication` `visions` `wait` `wept` `wind` `wrestling`
+#angel #beth-el #brought #christs #continually #controversy #divine #doings #egypt #feedeth #jacob #jacobs #judah #ministry #multiplied #power #preservation #preserved #prevailed #prophet #prophetic #prophets #punish #recompense #reproach #return #spake #spoken #supplication #visions #wait #wept #wind #wrestling
 
 
 ---

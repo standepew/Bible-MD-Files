@@ -1,3 +1,14 @@
+---
+book: "Amos"
+chapter: 8
+testament: "Old Testament"
+key_themes: "Christ's Final Judgment, Basket of Summer Fruit, Famine of God's Word, Solar Eclipse"
+tags:
+  - christ
+  - basket-of-summer-fruit
+  - famine-of-god
+  - solar-eclipse
+---
 # Amos 8
 
 ---
@@ -105,7 +116,7 @@ Lord, GOD, shewed, basket, summer, fruit, Amos, seest, basket, summer, fruit, LO
 
 
 *AI Keywords for current event matching:*
-`basket` `bodies` `christs` `clear` `come` `cosmic` `darken` `day` `dead` `earth` `eclipse` `end` `faint` `famine` `final` `find` `fruit` `fulfilled` `gods` `hearing` `howlings` `judgment` `many` `noon` `pass` `ripe` `seek` `signs` `solar` `songs` `summer` `sun` `thirst` `time` `word`
+#basket #bodies #christs #clear #come #cosmic #darken #day #dead #earth #eclipse #end #faint #famine #final #find #fruit #fulfilled #gods #hearing #howlings #judgment #many #noon #pass #ripe #seek #signs #solar #songs #summer #sun #thirst #time #word
 
 
 ---

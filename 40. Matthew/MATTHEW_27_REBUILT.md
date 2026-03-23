@@ -1,3 +1,14 @@
+---
+book: "Matthew"
+chapter: 27
+testament: "New Testament"
+key_themes: "Christ's Crucifixion, Death on Cross, Burial in Tomb, Guard at Sepulchre"
+tags:
+  - christ
+  - death-on-cross
+  - burial-in-tomb
+  - guard-at-sepulchre
+---
 # Matthew 27
 
 ---
@@ -273,7 +284,7 @@ Morning, chief, priests, elders, counsel, Jesus, death, bound, led, delivered, P
 
 
 *AI Keywords for current event matching:*
-`arimathæa` `burial` `christs` `clean` `cross` `crown` `crucifixion` `cyrene` `days` `death` `eli` `garments` `golgotha` `great` `guard` `jesus` `joseph` `linen` `new` `parted` `pieces` `pilate` `pontius` `scourged` `sealing` `sepulchre` `setting` `simon` `stone` `sure` `thirty` `thorns` `three` `tomb` `watch`
+#arimathæa #burial #christs #clean #cross #crown #crucifixion #cyrene #days #death #eli #garments #golgotha #great #guard #jesus #joseph #linen #new #parted #pieces #pilate #pontius #scourged #sealing #sepulchre #setting #simon #stone #sure #thirty #thorns #three #tomb #watch
 
 
 ---

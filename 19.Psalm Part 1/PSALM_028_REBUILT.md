@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 28
+testament: "Old Testament"
+key_themes: "Prayer for Help, God as Rock, Judgment on Wicked, Thanksgiving for Salvation"
+tags:
+  - prayer-for-help
+  - god-as-rock
+  - judgment-on-wicked
+  - thanksgiving-for-salvation
+---
 # Psalm 28
 
 ---
@@ -141,7 +152,7 @@ Psalm, David, cry, LORD, rock, silent, pit, hear, voice, supplications, cry, lif
 
 
 *AI Keywords for current event matching:*
-`anointed` `bless` `blessed` `build` `cry` `david` `deeds` `desert` `destroy` `draw` `endeavours` `feed` `give` `god` `greatly` `hands` `hear` `heard` `heart` `hearts` `help` `helped` `holy` `inheritance` `iniquity` `judgment` `lift` `lord` `mischief` `neighbours` `operation` `oracle` `peace` `people` `pit` `praise` `prayer` `psalm` `regard` `rejoiceth` `render` `rock` `salvation` `save` `saving` `shield` `silent` `song` `speak` `strength` `supplications` `thanksgiving` `trusted` `voice` `wicked` `wickedness` `work` `workers` `works`
+#anointed #bless #blessed #build #cry #david #deeds #desert #destroy #draw #endeavours #feed #give #god #greatly #hands #hear #heard #heart #hearts #help #helped #holy #inheritance #iniquity #judgment #lift #lord #mischief #neighbours #operation #oracle #peace #people #pit #praise #prayer #psalm #regard #rejoiceth #render #rock #salvation #save #saving #shield #silent #song #speak #strength #supplications #thanksgiving #trusted #voice #wicked #wickedness #work #workers #works
 
 
 ---

@@ -1,3 +1,57 @@
+---
+book: "Genesis"
+chapter: 8
+testament: "Old Testament"
+key_themes: "God Remembered Noah — Covenant Faithfulness, The Wind Over the Waters (Ruach), Fountains Stopped and Windows Closed, Ark Rests on Ararat — The Seventeenth Day, The Raven and the Dove, Olive Leaf — Peace Signaled, The New Beginning — First Day of the New Year, God Commands Forth from the Ark, Noah Builds the First Altar, Burnt Offering Accepted — Sweet Savour, God's Promise: Never Again to Curse the Ground, Seedtime and Harvest Established as Covenant Order"
+tags:
+  - God-remembered
+  - zakar
+  - covenant-faithfulness
+  - ruach
+  - wind-over-waters
+  - waters-abated
+  - fountains-stopped
+  - windows-stopped
+  - Ararat
+  - seventh-month
+  - seventeenth-day
+  - Feast-of-Firstfruits
+  - resurrection-date
+  - forty-days
+  - raven
+  - oreb
+  - dove
+  - yonah
+  - olive-leaf
+  - peace-after-judgment
+  - seven-days
+  - new-year-of-new-world
+  - first-month-first-day
+  - Noah-exits-ark
+  - new-creation
+  - be-fruitful-multiply
+  - altar
+  - mizbeach
+  - first-altar
+  - burnt-offering
+  - olah
+  - sweet-savour
+  - reach-nichoach
+  - imagination-evil-from-youth
+  - yetzer
+  - not-again-curse
+  - ground-curse-modified
+  - seedtime-harvest
+  - cold-heat
+  - summer-winter
+  - day-night
+  - covenant-of-creation-order
+  - new-covenant-precursor
+  - type-of-new-creation
+  - dove-as-Holy-Spirit-type
+  - Noah-as-priest
+  - eight-souls-new-creation
+---
 # Genesis 8
 
 ---
@@ -191,7 +245,7 @@ God remembered (zakar) Noah and every living thing in the ark — covenant faith
 
 For AI matching to topics and current events:
 
-`God remembered` `zakar` `covenant faithfulness` `covenant memory` `wind` `ruach` `spirit over waters` `new creation` `waters asswaged` `fountains of deep stopped` `windows of heaven stopped` `ark rested` `Ararat` `seventh month` `seventeenth day` `Feast of Firstfruits` `resurrection date` `waters decreased` `tenth month` `tops of mountains` `forty days` `window of ark` `raven` `oreb` `unclean bird` `scavenger` `dove` `yonah` `clean bird` `no rest for sole of foot` `olive leaf` `peace` `anointing` `waters abated` `seven days` `dove returned not again` `six hundredth and first year` `first month first day` `ground was dry` `second month` `twenty-seventh day` `God spake unto Noah` `go forth of ark` `breed abundantly` `be fruitful multiply` `new creation mandate` `Noah builded altar` `mizbeach` `first altar` `clean beast` `clean fowl` `burnt offerings` `olah` `goes up` `sweet savour` `reach nichoach` `nichoach` `rest` `Noah's name` `not again curse` `imagination evil from youth` `yetzer` `total depravity confirmed` `not smite every living` `seedtime harvest` `cold heat` `summer winter` `day night` `shall not cease` `covenant of creation order` `common grace` `natural theology` `climate` `seasons` `Noahic covenant`
+#God-remembered #zakar #covenant-faithfulness #covenant-memory #wind #ruach #spirit-over-waters #new-creation #waters-asswaged #fountains-of-deep-stopped #windows-of-heaven-stopped #ark-rested #Ararat #seventh-month #seventeenth-day #Feast-of-Firstfruits #resurrection-date #waters-decreased #tenth-month #tops-of-mountains #forty-days #window-of-ark #raven #oreb #unclean-bird #scavenger #dove #yonah #clean-bird #no-rest-for-sole-of-foot #olive-leaf #peace #anointing #waters-abated #seven-days #dove-returned-not-again #six-hundredth-and-first-year #first-month-first-day #ground-was-dry #second-month #twenty-seventh-day #God-spake-unto-Noah #go-forth-of-ark #breed-abundantly #be-fruitful-multiply #new-creation-mandate #Noah-builded-altar #mizbeach #first-altar #clean-beast #clean-fowl #burnt-offerings #olah #goes-up #sweet-savour #reach-nichoach #nichoach #rest #Noahs-name #not-again-curse #imagination-evil-from-youth #yetzer #total-depravity-confirmed #not-smite-every-living #seedtime-harvest #cold-heat #summer-winter #day-night #shall-not-cease #covenant-of-creation-order #common-grace #natural-theology #climate #seasons #Noahic-covenant
 
 **Relevance to Current Events:**
 - Climate change debates — Genesis 8:22 establishes that God covenantally guarantees the regularity of seasons while the earth remains; God is in sovereign control of the creation order He established; the covenant does not preclude natural variation but does preclude God-ordained creation collapse before the appointed end
@@ -491,57 +545,57 @@ For AI matching to topics and current events:
 
 ### Ruach Over Waters — The New Creation Signature
 
-**Genesis 1:2** — Spirit/wind over primordial waters → first creation  
-**Genesis 8:1** — Wind over flood waters → re-creation  
+[[01. Genesis/GEN_01_REBUILT|Genesis 1:2]] — Spirit/wind over primordial waters → first creation  
+[[01. Genesis/GEN_08_REBUILT|Genesis 8:1]] — Wind over flood waters → re-creation  
 
 **Thread through Scripture:**
-- **Exodus 14:21** — "The LORD caused the sea to go back by a strong east wind (ruach)" → new nation emerges from the water
-- **Ezekiel 37:9-10** — "Come from the four winds, O breath (ruach)... and they lived, and stood up upon their feet, an exceeding great army" → new Israel raised from death
-- **John 3:5-8** — "Born of water and of the Spirit (pneuma)... The wind bloweth where it listeth" → new birth; individual new creation
-- **Acts 2:2** — "A rushing mighty wind (pnoe)" → new community (the church) created by the Spirit
-- **Romans 8:11** — "The Spirit... shall also quicken your mortal bodies" → final new creation at resurrection
+- [[02. Exodus/EXO_14_REBUILT|Exodus 14:21]] — "The LORD caused the sea to go back by a strong east wind (ruach)" → new nation emerges from the water
+- [[26. Ezekiel/EZEKIEL_37_REBUILT|Ezekiel 37:9-10]] — "Come from the four winds, O breath (ruach)... and they lived, and stood up upon their feet, an exceeding great army" → new Israel raised from death
+- [[43. John/JOHN_03_REBUILT|John 3:5-8]] — "Born of water and of the Spirit (pneuma)... The wind bloweth where it listeth" → new birth; individual new creation
+- [[44. Acts/ACTS_02_REBUILT|Acts 2:2]] — "A rushing mighty wind (pnoe)" → new community (the church) created by the Spirit
+- [[45. Romans/ROMANS_08_REBUILT|Romans 8:11]] — "The Spirit... shall also quicken your mortal bodies" → final new creation at resurrection
 - *Interpretation:* Every divine new creation in Scripture is initiated by ruach over water. This is God's signature act. Creation, re-creation, exodus, new birth, Pentecost, resurrection — all follow the Genesis 1:2/Genesis 8:1 pattern. When the Spirit moves over the waters, a new world is coming.
 
 ---
 
 ### The Dove — Sent, Returns, Abides
 
-**Genesis 8:8-12** — Three sendings of the dove: returns empty, returns with olive leaf, does not return
+[[01. Genesis/GEN_08_REBUILT|Genesis 8:8-12]] — Three sendings of the dove: returns empty, returns with olive leaf, does not return
 
 **Thread through Scripture:**
-- **Genesis 8:8-12** — Dove sent three times; finds no rest; finds evidence of life; finds its place
+- [[01. Genesis/GEN_08_REBUILT|Genesis 8:8-12]] — Dove sent three times; finds no rest; finds evidence of life; finds its place
 - **Matthew 3:16; John 1:32-33** — Spirit as dove descends on Christ and REMAINS
-- **John 14:16-17** — "He shall give you another Comforter, that he may abide with you for ever" — the dove that abides; no longer returning and re-sending but permanently dwelling
-- **John 16:7** — "If I go not away, the Comforter will not come unto you" — the Spirit's permanent coming was contingent on Christ's going; the dove of Genesis 8 was sent from the ark repeatedly; the Spirit-dove comes permanently only after Christ ascends
-- **Ephesians 1:13-14** — "Ye were sealed with that holy Spirit of promise, which is the earnest of our inheritance" — the permanent sealing; the dove that no longer returns to the sender but stays
+- [[43. John/JOHN_14_REBUILT|John 14:16-17]] — "He shall give you another Comforter, that he may abide with you for ever" — the dove that abides; no longer returning and re-sending but permanently dwelling
+- [[43. John/JOHN_16_REBUILT|John 16:7]] — "If I go not away, the Comforter will not come unto you" — the Spirit's permanent coming was contingent on Christ's going; the dove of Genesis 8 was sent from the ark repeatedly; the Spirit-dove comes permanently only after Christ ascends
+- [[49. Ephesians/EPHESIANS_01_REBUILT|Ephesians 1:13-14]] — "Ye were sealed with that holy Spirit of promise, which is the earnest of our inheritance" — the permanent sealing; the dove that no longer returns to the sender but stays
 - *Interpretation:* The three sendings of the dove map to the Spirit's three redemptive-historical stages: (1) sent into a fallen world, finding no rest (the Spirit's witness before the incarnation); (2) returning with evidence of the new creation beginning (the Spirit's witness in and through Christ's ministry); (3) sent and not returning — the Spirit comes to stay at Pentecost, sealed in the believer permanently.
 
 ---
 
 ### Altar-First After Deliverance — The Pattern of Worship
 
-**Genesis 8:20** — Noah's first act upon exiting the ark is to build an altar and sacrifice
+[[01. Genesis/GEN_08_REBUILT|Genesis 8:20]] — Noah's first act upon exiting the ark is to build an altar and sacrifice
 
 **Thread through Scripture:**
-- **Genesis 12:7-8** — Abraham's first acts in Canaan: build altars, call on the name of the LORD
-- **Exodus 15:1-18** — Israel's first response to crossing the Red Sea: the Song of Moses (worship)
-- **Exodus 17:15** — After defeating Amalek: Moses builds an altar
-- **Joshua 8:30-31** — After Jericho and Ai: Joshua builds an altar on Mount Ebal
-- **1 Samuel 7:12** — After Ebenezer: Samuel raises a stone of remembrance
-- **2 Samuel 24:25** — After the plague stops: David builds an altar
-- **Luke 17:15-16** — The one leper who returns to give thanks — the pattern of worship-first after healing
-- **Romans 12:1** — The believer's whole life as a living sacrifice — worship as the ongoing response to salvation
+- [[01. Genesis/GEN_12_REBUILT|Genesis 12:7-8]] — Abraham's first acts in Canaan: build altars, call on the name of the LORD
+- [[02. Exodus/EXO_15_REBUILT|Exodus 15:1-18]] — Israel's first response to crossing the Red Sea: the Song of Moses (worship)
+- [[02. Exodus/EXO_17_REBUILT|Exodus 17:15]] — After defeating Amalek: Moses builds an altar
+- [[06. Joshua/JOSHUA_08_REBUILT|Joshua 8:30-31]] — After Jericho and Ai: Joshua builds an altar on Mount Ebal
+- [[09. 1 Samuel/1_SAMUEL_07_REBUILT|1 Samuel 7:12]] — After Ebenezer: Samuel raises a stone of remembrance
+- [[10. 2 Samuel/2_SAMUEL_24_REBUILT|2 Samuel 24:25]] — After the plague stops: David builds an altar
+- [[42. Luke/LUKE_17_REBUILT|Luke 17:15-16]] — The one leper who returns to give thanks — the pattern of worship-first after healing
+- [[45. Romans/ROMANS_12_REBUILT|Romans 12:1]] — The believer's whole life as a living sacrifice — worship as the ongoing response to salvation
 - *Interpretation:* The altar-first pattern of Genesis 8:20 establishes that the first response to God's deliverance is worship — not self-provisioning, not planning, not celebration of survival, but sacrifice. The redeemed person's first instinct is to give back to God. This is the character of genuine faith: when saved, the immediate movement is toward the altar. When Noah stepped off the ark onto dry ground after more than a year, he built an altar before he built a house.
 
 ---
 
 ### The "But" of Grace — Even Though the Heart Is Evil
 
-**Genesis 8:21** — "The LORD said in his heart, I will not again curse the ground any more for man's sake; FOR the imagination of man's heart is evil from his youth"
+[[01. Genesis/GEN_08_REBUILT|Genesis 8:21]] — "The LORD said in his heart, I will not again curse the ground any more for man's sake; FOR the imagination of man's heart is evil from his youth"
 
 - **The "for" is the hinge:** God promises grace NOT BECAUSE man improved but BECAUSE man's heart is still evil and God has chosen to deal with it differently
 - **This is the gospel structure:** Ephesians 2:4-5 — "But God, who is rich in mercy, for his great love wherewith he loved us, Even when we were dead in sins, hath quickened us together with Christ" — grace given to those still dead in sin
-- **Romans 5:8** — "But God commendeth his love toward us, in that, while we were yet sinners, Christ died for us" — grace to the unimproved sinner
+- [[45. Romans/ROMANS_05_REBUILT|Romans 5:8]] — "But God commendeth his love toward us, in that, while we were yet sinners, Christ died for us" — grace to the unimproved sinner
 - **The promise of Genesis 8:21 runs to Revelation 22:3** — "And there shall be no more curse" — not because man's heart improved (it hasn't) but because God applied the answer to man's evil heart through the seed of the woman (Genesis 3:15), the blood of the covenant (Genesis 8:20-21), and the final redemption in Christ
 - *Interpretation:* The most profound theology in Genesis 8 is in the "for" of verse 21: God promises never to curse the ground again for man's sake — BECAUSE man's heart is evil from his youth. Not despite it. Because of it. God looks at the same evil He flooded the world to destroy, and instead of flooding it again, He promises grace — because He has chosen to solve the problem another way. This is the gospel before Sinai, before Abraham, before anything: God extending grace to the radically undeserving because He has a better plan than judgment.
 

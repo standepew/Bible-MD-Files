@@ -1,3 +1,14 @@
+---
+book: "Matthew"
+chapter: 25
+testament: "New Testament"
+key_themes: "Christ's Ten Virgins, Talents Parable, Final Judgment, Sheep Goats"
+tags:
+  - christ
+  - talents-parable
+  - final-judgment
+  - sheep-goats
+---
 # Matthew 25
 
 ---
@@ -201,7 +212,7 @@ Kingdom, heaven, virgins, lamps, bridegroom, wise, foolish, foolish, lamps, oil,
 
 
 *AI Keywords for current event matching:*
-`angels` `blessed` `brethren` `bridegroom` `christs` `country` `divideth` `door` `everlasting` `faithful` `far` `father` `final` `fire` `five` `foolish` `glory` `goats` `inherit` `judgment` `kingdom` `lamps` `least` `oil` `parable` `servant` `sheep` `shepherd` `shut` `talents` `ten` `throne` `unprofitable` `vessels` `virgins` `wise`
+#angels #blessed #brethren #bridegroom #christs #country #divideth #door #everlasting #faithful #far #father #final #fire #five #foolish #glory #goats #inherit #judgment #kingdom #lamps #least #oil #parable #servant #sheep #shepherd #shut #talents #ten #throne #unprofitable #vessels #virgins #wise
 
 
 ---

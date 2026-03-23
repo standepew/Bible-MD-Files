@@ -1,3 +1,13 @@
+---
+book: "Ezekiel"
+chapter: 2
+testament: "Old Testament"
+key_themes: "Christ's Calling, Prophetic Mission, Christ's Commission, Divine Authority"
+tags:
+  - christ
+  - prophetic-mission
+  - divine-authority
+---
 # Ezekiel 2
 
 ---
@@ -117,7 +127,7 @@ Said, stand, feet, speak, spirit, entered, spake, set, feet, heard, spake, son, 
 
 
 *AI Keywords for current event matching:*
-`afraid` `authority` `book` `briers` `calling` `christs` `commission` `divine` `entered` `feet` `forbear` `god` `hand` `hear` `house` `israel` `lamentations` `lord` `man` `mission` `mouth` `nation` `open` `prophetic` `rebellious` `roll` `scorpions` `send` `sent` `son` `speak` `spirit` `stand` `thorns` `woe` `words`
+#afraid #authority #book #briers #calling #christs #commission #divine #entered #feet #forbear #god #hand #hear #house #israel #lamentations #lord #man #mission #mouth #nation #open #prophetic #rebellious #roll #scorpions #send #sent #son #speak #spirit #stand #thorns #woe #words
 
 
 ---

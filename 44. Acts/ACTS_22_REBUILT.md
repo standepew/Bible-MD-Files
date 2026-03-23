@@ -1,3 +1,20 @@
+---
+book: "Acts"
+chapter: 22
+testament: "New Testament"
+key_themes: "Paul's Defense Before the Jews, His Conversion Story, Paul's Roman Citizenship"
+tags:
+  - paul
+  - his-conversion-story
+  - damascus-road
+  - ananias
+  - gamaliel
+  - roman-citizenship
+  - defense-speech
+  - trance
+  - vision
+  - born-free
+---
 # Acts 22
 
 ---
@@ -139,7 +156,7 @@ Men, brethren, fathers, defence, Hebrew, tongue, silence, Jew, born, Tarsus, Cil
 
 
 *AI Keywords for current event matching:*
-`accused` `afraid` `ananias` `answered` `appear` `appointed` `arise` `audience` `away` `bands` `baptized` `bear` `beat` `believed` `binding` `blood` `born` `bound` `brethren` `brother` `brought` `calling` `captain` `cast` `castle` `centurion` `certainty` `chief` `chosen` `cilicia` `citizenship` `city` `clothes` `commanded` `consenting` `conversion` `council` `cried` `damascus` `death` `defence` `defense` `delivering` `depart` `departed` `devout` `dust` `dwelt` `earth` `elders` `estate` `examined` `fathers` `feet` `fell` `fellow` `free` `freedom` `gamaliel` `gentiles` `god` `good` `great` `ground` `hand` `haste` `hear` `heard` `heaven` `hebrew` `heed` `high` `hour` `imprisoned` `jerusalem` `jesus` `jew` `jews` `journey` `kept` `know` `law` `lawful` `led` `letters` `lifted` `light` `live` `looked` `loosed` `lord` `make` `manner` `martyr` `men` `morrow` `mouth` `nazareth` `nigh` `noon` `one` `paul` `pauls` `perfect` `persecuted` `persecutest` `prayed` `priest` `priests` `prisons` `punished` `quickly` `raiment` `receive` `report` `roman` `round` `saul` `saying` `scourge` `scourging` `seen` `send` `set` `shed` `shone` `sight` `silence` `sins` `slew` `spake` `standing` `stephen` `stood` `story` `synagogue` `take` `tarry` `tarsus` `taught` `temple` `testimony` `thongs` `threw` `tongue` `trance` `uncondemned` `voice` `voices` `wash` `witness` `women` `zealous`
+#accused #afraid #ananias #answered #appear #appointed #arise #audience #away #bands #baptized #bear #beat #believed #binding #blood #born #bound #brethren #brother #brought #calling #captain #cast #castle #centurion #certainty #chief #chosen #cilicia #citizenship #city #clothes #commanded #consenting #conversion #council #cried #damascus #death #defence #defense #delivering #depart #departed #devout #dust #dwelt #earth #elders #estate #examined #fathers #feet #fell #fellow #free #freedom #gamaliel #gentiles #god #good #great #ground #hand #haste #hear #heard #heaven #hebrew #heed #high #hour #imprisoned #jerusalem #jesus #jew #jews #journey #kept #know #law #lawful #led #letters #lifted #light #live #looked #loosed #lord #make #manner #martyr #men #morrow #mouth #nazareth #nigh #noon #one #paul #pauls #perfect #persecuted #persecutest #prayed #priest #priests #prisons #punished #quickly #raiment #receive #report #roman #round #saul #saying #scourge #scourging #seen #send #set #shed #shone #sight #silence #sins #slew #spake #standing #stephen #stood #story #synagogue #take #tarry #tarsus #taught #temple #testimony #thongs #threw #tongue #trance #uncondemned #voice #voices #wash #witness #women #zealous
 
 
 ---

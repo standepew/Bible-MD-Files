@@ -1,3 +1,17 @@
+---
+book: "2 Kings"
+chapter: 11
+testament: "Old Testament"
+key_themes: "Athaliah's Usurpation, Joash's Protection, Jehoiada's Covenant, Temple Restoration, Davidic Preservation"
+tags:
+  - hands-horses-king-house-slain
+  - seven-years-Jehoash-reigned
+  - athaliah
+  - joash
+  - jehoiada
+  - temple-restoration
+  - davidic-preservation
+---
 # 2 Kings 11
 
 ---
@@ -87,7 +101,7 @@ Athaliah mother Ahaziah, son dead, arose, destroyed seed royal. Jehosheba, daugh
 
 
 *AI Keywords for current event matching:*
-`ahaziah` `altar` `altars` `anointed` `arose` `athaliah` `athaliahs` `baal` `bedchamber` `brake` `broken` `captains` `city` `clapped` `clothes` `commanded` `compass` `corner` `coronation` `covenant` `crown` `daughter` `david` `dead` `death` `destroyed` `follow` `gate` `god` `guard` `hand` `hands` `hid` `horses` `host` `house` `hundreds` `images` `jehoash` `jehoiada` `jehoiadas` `jehosheba` `joash` `joashs` `joram` `keepers` `king` `kings` `land` `left` `lord` `manner` `mattan` `men` `mother` `noise` `nurse` `oath` `officers` `part` `parts` `people` `pieces` `pillar` `priest` `princes` `protection` `quiet` `ranges` `reform` `reigned` `rejoiced` `religious` `rent` `restoration` `right` `royal` `rulers` `sabbath` `save` `seed` `seven` `seventh` `shields` `sister` `six` `slain` `slew` `son` `sons` `spears` `stole` `sur` `sword` `temple` `testimony` `third` `throne` `treason` `trumpeters` `trumpets` `two` `usurpation` `watch` `weapons` `without` `year` `years`
+#ahaziah #altar #altars #anointed #arose #athaliah #athaliahs #baal #bedchamber #brake #broken #captains #city #clapped #clothes #commanded #compass #corner #coronation #covenant #crown #daughter #david #dead #death #destroyed #follow #gate #god #guard #hand #hands #hid #horses #host #house #hundreds #images #jehoash #jehoiada #jehoiadas #jehosheba #joash #joashs #joram #keepers #king #kings #land #left #lord #manner #mattan #men #mother #noise #nurse #oath #officers #part #parts #people #pieces #pillar #priest #princes #protection #quiet #ranges #reform #reigned #rejoiced #religious #rent #restoration #right #royal #rulers #sabbath #save #seed #seven #seventh #shields #sister #six #slain #slew #son #sons #spears #stole #sur #sword #temple #testimony #third #throne #treason #trumpeters #trumpets #two #usurpation #watch #weapons #without #year #years
 
 
 ---

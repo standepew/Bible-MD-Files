@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 120
+testament: "Old Testament"
+key_themes: "Distress Prayer, False Tongues, Divine Deliverance, Peace Amidst War"
+tags:
+  - distress-prayer
+  - false-tongues
+  - divine-deliverance
+  - peace-amidst-war
+---
 # Psalm 120
 
 ---
@@ -117,7 +128,7 @@ Song, degrees, distress, cried, LORD, heard, Deliver, soul, LORD, lying, lips, d
 
 
 *AI Keywords for current event matching:*
-`amidst` `arrows` `coals` `cried` `deceitful` `deliver` `deliverance` `deviseth` `distress` `divine` `earth` `false` `hated` `heard` `heaven` `help` `juniper` `lips` `lord` `lying` `made` `mighty` `mischiefs` `name` `peace` `prayer` `pursue` `seek` `sharp` `soul` `speak` `tongue` `tongues` `war`
+#amidst #arrows #coals #cried #deceitful #deliver #deliverance #deviseth #distress #divine #earth #false #hated #heard #heaven #help #juniper #lips #lord #lying #made #mighty #mischiefs #name #peace #prayer #pursue #seek #sharp #soul #speak #tongue #tongues #war
 
 
 ---

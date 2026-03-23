@@ -1,3 +1,15 @@
+---
+book: "Hebrews"
+chapter: 6
+testament: "New Testament"
+key_themes: "Going on to Perfection, Warning Against Apostasy, The Example of Abraham, God's Promise and Oath, Hope as Anchor"
+tags:
+  - going-on-to-perfection
+  - warning-against-apostasy
+  - the-example-of-abraham
+  - god
+  - hope-as-anchor
+---
 # Hebrews 6
 
 ---
@@ -107,7 +119,7 @@ Leaving, principles, doctrine, Christ, perfection, foundation, repentance, dead,
 
 
 *AI Keywords for current event matching:*
-`abraham` `abundantly` `accompany` `afresh` `against` `anchor` `apostasy` `assurance` `away` `baptisms` `beareth` `beloved` `better` `bless` `blessing` `briers` `bringeth` `burned` `christ` `confirmation` `confirmed` `consolation` `counsel` `crucify` `cursing` `dead` `desire` `diligence` `doctrine` `dressed` `drinketh` `earth` `end` `endured` `enlightened` `entered` `entereth` `eternal` `example` `faith` `fall` `fled` `followers` `forerunner` `forget` `foundation` `full` `ghost` `gift` `god` `gods` `going` `good` `greater` `hands` `heavenly` `heirs` `herbs` `high` `himself` `hold` `holy` `hope` `immutability` `immutable` `impossible` `inherit` `jesus` `judgment` `labour` `lay` `laying` `leaving` `lie` `love` `melchisedec` `men` `minister` `ministered` `multiply` `multiplying` `name` `nigh` `oath` `obtained` `open` `order` `partakers` `patience` `patiently` `perfection` `permit` `persuaded` `powers` `priest` `principles` `promise` `promises` `rain` `receiveth` `refuge` `rejected` `renew` `repentance` `resurrection` `saints` `salvation` `set` `shame` `shewed` `slothful` `son` `soul` `speak` `stedfast` `strife` `strong` `sure` `sware` `swear` `tasted` `things` `thorns` `two` `unrighteous` `veil` `warning` `willing` `word` `work` `works` `world`
+#abraham #abundantly #accompany #afresh #against #anchor #apostasy #assurance #away #baptisms #beareth #beloved #better #bless #blessing #briers #bringeth #burned #christ #confirmation #confirmed #consolation #counsel #crucify #cursing #dead #desire #diligence #doctrine #dressed #drinketh #earth #end #endured #enlightened #entered #entereth #eternal #example #faith #fall #fled #followers #forerunner #forget #foundation #full #ghost #gift #god #gods #going #good #greater #hands #heavenly #heirs #herbs #high #himself #hold #holy #hope #immutability #immutable #impossible #inherit #jesus #judgment #labour #lay #laying #leaving #lie #love #melchisedec #men #minister #ministered #multiply #multiplying #name #nigh #oath #obtained #open #order #partakers #patience #patiently #perfection #permit #persuaded #powers #priest #principles #promise #promises #rain #receiveth #refuge #rejected #renew #repentance #resurrection #saints #salvation #set #shame #shewed #slothful #son #soul #speak #stedfast #strife #strong #sure #sware #swear #tasted #things #thorns #two #unrighteous #veil #warning #willing #word #work #works #world
 
 
 ---

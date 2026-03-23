@@ -1,3 +1,14 @@
+---
+book: "Ecclesiastes"
+chapter: 2
+testament: "Old Testament"
+key_themes: "Pursuit of Pleasure, Accumulation of Wealth, Wisdom vs. Folly, Divine Sovereignty"
+tags:
+  - pursuit-of-pleasure
+  - accumulation-of-wealth
+  - wisdom-vs-folly
+  - divine-sovereignty
+---
 # Ecclesiastes 2
 
 ---
@@ -129,7 +140,7 @@ Said, heart, prove, mirth, enjoy, pleasure, behold, vanity, said, laughter, mad,
 
 
 *AI Keywords for current event matching:*
-`accumulation` `builded` `cattle` `darkness` `divine` `drink` `eat` `enjoy` `excelleth` `eyes` `folly` `gathered` `giveth` `god` `gold` `good` `great` `hand` `head` `houses` `laughter` `light` `mad` `man` `mirth` `pleasure` `possessions` `prove` `pursuit` `sight` `silver` `sovereignty` `wealth` `wisdom` `wise` `works`
+#accumulation #builded #cattle #darkness #divine #drink #eat #enjoy #excelleth #eyes #folly #gathered #giveth #god #gold #good #great #hand #head #houses #laughter #light #mad #man #mirth #pleasure #possessions #prove #pursuit #sight #silver #sovereignty #wealth #wisdom #wise #works
 
 
 ---

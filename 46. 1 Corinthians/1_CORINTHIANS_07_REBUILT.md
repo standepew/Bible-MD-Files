@@ -1,3 +1,14 @@
+---
+book: "1 Corinthians"
+chapter: 7
+testament: "New Testament"
+key_themes: "Marriage and Singleness, Mixed Marriages, Christian Liberty, The Present Distress"
+tags:
+  - marriage-and-singleness
+  - mixed-marriages
+  - christian-liberty
+  - the-present-distress
+---
 # 1 Corinthians 7
 
 ---
@@ -177,7 +188,7 @@ Concerning, wrote, man, touch, woman, avoid, fornication, man, wife, woman, husb
 
 
 *AI Keywords for current event matching:*
-`abide` `abusing` `age` `attend` `avoid` `away` `behaveth` `believeth` `benevolence` `better` `body` `bondage` `bought` `bound` `brethren` `brother` `burn` `buy` `called` `calling` `care` `carefulness` `careth` `cases` `children` `christ` `christian` `churches` `circumcised` `circumcision` `come` `comely` `command` `commandment` `commandments` `concerning` `consent` `contain` `dead` `decreed` `defraud` `depart` `difference` `distraction` `distress` `distributed` `dwell` `faithful` `fashion` `fasting` `flesh` `flower` `fornication` `free` `freeman` `gift` `giveth` `god` `happier` `heart` `holy` `husband` `incontinency` `judgment` `keep` `keeping` `law` `leave` `liberty` `loosed` `lord` `made` `man` `manner` `marriage` `marriages` `married` `marry` `men` `mercy` `mixed` `necessity` `ordain` `pass` `passeth` `peace` `permission` `please` `possessed` `power` `prayer` `present` `price` `profit` `proper` `put` `reconciled` `rejoice` `rejoiced` `remain` `render` `require` `rest` `sanctified` `satan` `save` `seek` `servant` `servants` `short` `singleness` `sinned` `sister` `snares` `spare` `speak` `spirit` `standeth` `stedfast` `tempt` `time` `together` `touch` `trouble` `unbelieving` `uncircumcised` `uncircumcision` `unclean` `uncomely` `unmarried` `use` `virgin` `virgins` `walk` `weep` `well` `wept` `widows` `wife` `wives` `woman` `world` `wrote`
+#abide #abusing #age #attend #avoid #away #behaveth #believeth #benevolence #better #body #bondage #bought #bound #brethren #brother #burn #buy #called #calling #care #carefulness #careth #cases #children #christ #christian #churches #circumcised #circumcision #come #comely #command #commandment #commandments #concerning #consent #contain #dead #decreed #defraud #depart #difference #distraction #distress #distributed #dwell #faithful #fashion #fasting #flesh #flower #fornication #free #freeman #gift #giveth #god #happier #heart #holy #husband #incontinency #judgment #keep #keeping #law #leave #liberty #loosed #lord #made #man #manner #marriage #marriages #married #marry #men #mercy #mixed #necessity #ordain #pass #passeth #peace #permission #please #possessed #power #prayer #present #price #profit #proper #put #reconciled #rejoice #rejoiced #remain #render #require #rest #sanctified #satan #save #seek #servant #servants #short #singleness #sinned #sister #snares #spare #speak #spirit #standeth #stedfast #tempt #time #together #touch #trouble #unbelieving #uncircumcised #uncircumcision #unclean #uncomely #unmarried #use #virgin #virgins #walk #weep #well #wept #widows #wife #wives #woman #world #wrote
 
 
 ---

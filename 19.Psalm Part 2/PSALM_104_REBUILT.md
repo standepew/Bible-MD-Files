@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 104
+testament: "Old Testament"
+key_themes: "Creation Praise, Divine Providence, Natural Order, God's Glory"
+tags:
+  - creation-praise
+  - divine-providence
+  - natural-order
+  - god
+---
 # Psalm 104
 
 ---
@@ -177,7 +188,7 @@ Bless, LORD, soul, LORD, GOD, great, clothed, honour, majesty, coverest, light, 
 
 
 *AI Keywords for current event matching:*
-`appointed` `asses` `beast` `beasts` `bless` `cattle` `causeth` `chambers` `clothed` `coverest` `creation` `creep` `curtain` `darkness` `divine` `drink` `earth` `endure` `field` `forest` `foundations` `fruit` `full` `garment` `give` `glory` `god` `gods` `going` `grass` `great` `grow` `heavens` `herb` `hills` `honour` `know` `laid` `light` `live` `lord` `made` `majesty` `makest` `man` `manifold` `moon` `natural` `night` `order` `praise` `providence` `quench` `rejoice` `removed` `riches` `run` `satisfied` `seasons` `sendeth` `service` `sing` `soul` `springs` `stretchest` `sun` `thirst` `valleys` `watereth` `wild` `wisdom` `works`
+#appointed #asses #beast #beasts #bless #cattle #causeth #chambers #clothed #coverest #creation #creep #curtain #darkness #divine #drink #earth #endure #field #forest #foundations #fruit #full #garment #give #glory #god #gods #going #grass #great #grow #heavens #herb #hills #honour #know #laid #light #live #lord #made #majesty #makest #man #manifold #moon #natural #night #order #praise #providence #quench #rejoice #removed #riches #run #satisfied #seasons #sendeth #service #sing #soul #springs #stretchest #sun #thirst #valleys #watereth #wild #wisdom #works
 
 
 ---

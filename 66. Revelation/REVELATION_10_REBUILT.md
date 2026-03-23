@@ -1,3 +1,15 @@
+---
+book: "Revelation"
+chapter: 10
+testament: "New Testament"
+key_themes: "The Mighty Angel with the Little Book, The Seven Thunders, The Oath of the Angel, The Sweet and Bitter Book, The Command to Prophesy"
+tags:
+  - the-mighty-angel-with-the-little
+  - the-seven-thunders
+  - the-oath-of-the-angel
+  - the-sweet-and-bitter-book
+  - the-command-to-prophesy
+---
 # Revelation 10
 
 ---
@@ -95,7 +107,7 @@ Mighty, angel, heaven, clothed, cloud, rainbow, head, face, sun, feet, pillars, 
 
 
 *AI Keywords for current event matching:*
-`angel` `ate` `belly` `bitter` `book` `clothed` `cloud` `command` `created` `cried` `days` `declared` `earth` `eat` `eaten` `face` `feet` `finished` `fire` `foot` `give` `god` `hand` `head` `heaven` `honey` `kings` `left` `lifted` `lion` `little` `liveth` `longer` `loud` `mighty` `mouth` `mystery` `nations` `oath` `open` `peoples` `pillars` `prophesy` `prophets` `rainbow` `right` `roareth` `sea` `seal` `servants` `seven` `seventh` `sound` `spake` `stand` `standeth` `sun` `sware` `sweet` `take` `things` `thunders` `time` `tongues` `took` `uttered` `voice` `voices` `write`
+#angel #ate #belly #bitter #book #clothed #cloud #command #created #cried #days #declared #earth #eat #eaten #face #feet #finished #fire #foot #give #god #hand #head #heaven #honey #kings #left #lifted #lion #little #liveth #longer #loud #mighty #mouth #mystery #nations #oath #open #peoples #pillars #prophesy #prophets #rainbow #right #roareth #sea #seal #servants #seven #seventh #sound #spake #stand #standeth #sun #sware #sweet #take #things #thunders #time #tongues #took #uttered #voice #voices #write
 
 
 ---

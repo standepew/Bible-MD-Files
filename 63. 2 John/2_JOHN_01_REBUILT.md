@@ -1,3 +1,15 @@
+---
+book: "2 John"
+chapter: 1
+testament: "New Testament"
+key_themes: "Walking in Truth and Love, The Commandment to Love One Another, Warning Against Deceivers and Antichrists, Doctrine of Christ, Hospitality and Separation"
+tags:
+  - walking-in-truth-and-love
+  - the-commandment-to-love-one-another
+  - warning-against-deceivers-and-antichrists
+  - doctrine-of-christ
+  - hospitality-and-separation
+---
 # 2 John 1
 
 ---
@@ -83,7 +95,7 @@ Elder, elect, lady, children, love, truth, known, truth, truth, sake, dwelleth, 
 
 
 *AI Keywords for current event matching:*
-`abideth` `against` `another` `antichrist` `antichrists` `beginning` `beseech` `bid` `biddeth` `children` `christ` `come` `commandment` `commandments` `confess` `deceiver` `deceivers` `deeds` `doctrine` `dwelleth` `elder` `elect` `entered` `evil` `face` `father` `flesh` `forever` `found` `full` `god` `grace` `greatly` `greet` `heard` `hospitality` `house` `ink` `jesus` `joy` `known` `lady` `lord` `lose` `love` `mercy` `new` `one` `paper` `partaker` `peace` `receive` `received` `rejoiced` `reward` `sake` `separation` `sister` `son` `speak` `speed` `transgresseth` `trust` `truth` `walk` `walking` `warning` `world` `write` `wrought`
+#abideth #against #another #antichrist #antichrists #beginning #beseech #bid #biddeth #children #christ #come #commandment #commandments #confess #deceiver #deceivers #deeds #doctrine #dwelleth #elder #elect #entered #evil #face #father #flesh #forever #found #full #god #grace #greatly #greet #heard #hospitality #house #ink #jesus #joy #known #lady #lord #lose #love #mercy #new #one #paper #partaker #peace #receive #received #rejoiced #reward #sake #separation #sister #son #speak #speed #transgresseth #trust #truth #walk #walking #warning #world #write #wrought
 
 
 ---

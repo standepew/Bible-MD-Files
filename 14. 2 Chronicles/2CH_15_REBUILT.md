@@ -1,3 +1,16 @@
+---
+book: "2 Chronicles"
+chapter: 15
+testament: "Old Testament"
+key_themes: "Prophetic Message, National Covenant, Religious Renewal, Divine Peace"
+tags:
+  - Spirit-God-Azariah-son-Oded
+  - strong-hands-weak-work-rewarded
+  - prophetic-message
+  - national-covenant
+  - religious-renewal
+  - divine-peace
+---
 # 2 Chronicles 15
 
 ---
@@ -183,7 +196,7 @@ Spirit, God, Azariah, son, Oded. Went, meet, Asa, Judah, Benjamin, LORD, seek, f
 
 
 *AI Keywords for current event matching:*
-`abominable` `abundance` `adversity` `altar` `asa` `azariah` `benjamin` `brook` `brought` `burnt` `cities` `city` `cornets` `countries` `courage` `covenant` `cut` `days` `death` `decline` `dedicated` `desire` `destroyed` `divine` `ephraim` `extended` `father` `fathers` `fell` `fifteenth` `five` `forsake` `found` `gathered` `gave` `god` `gold` `great` `grove` `hands` `heard` `heart` `high` `house` `hundred` `idol` `idols` `inhabitants` `inspiration` `israel` `jerusalem` `joyful` `judah` `kidron` `king` `land` `law` `long` `lord` `loud` `maachah` `man` `manasseh` `meet` `month` `mother` `mount` `nation` `national` `oath` `obedience` `oded` `offered` `oxen` `peace` `perfect` `places` `porch` `priest` `prophecy` `prophet` `prophetic` `put` `queen` `reform` `reign` `rejoiced` `religious` `removed` `renewed` `response` `rest` `rewarded` `season` `seek` `seven` `sheep` `shouting` `silver` `simeon` `small` `son` `sought` `soul` `spirit` `spiritual` `spoil` `stamped` `strangers` `strong` `sware` `sworn` `teaching` `things` `third` `thirtieth` `thousand` `times` `took` `trouble` `true` `trumpets` `turn` `vessels` `vexations` `vexed` `voice` `war` `weak` `went` `whole` `whosoever` `woman` `words` `work` `year`
+#abominable #abundance #adversity #altar #asa #azariah #benjamin #brook #brought #burnt #cities #city #cornets #countries #courage #covenant #cut #days #death #decline #dedicated #desire #destroyed #divine #ephraim #extended #father #fathers #fell #fifteenth #five #forsake #found #gathered #gave #god #gold #great #grove #hands #heard #heart #high #house #hundred #idol #idols #inhabitants #inspiration #israel #jerusalem #joyful #judah #kidron #king #land #law #long #lord #loud #maachah #man #manasseh #meet #month #mother #mount #nation #national #oath #obedience #oded #offered #oxen #peace #perfect #places #porch #priest #prophecy #prophet #prophetic #put #queen #reform #reign #rejoiced #religious #removed #renewed #response #rest #rewarded #season #seek #seven #sheep #shouting #silver #simeon #small #son #sought #soul #spirit #spiritual #spoil #stamped #strangers #strong #sware #sworn #teaching #things #third #thirtieth #thousand #times #took #trouble #true #trumpets #turn #vessels #vexations #vexed #voice #war #weak #went #whole #whosoever #woman #words #work #year
 
 
 ---

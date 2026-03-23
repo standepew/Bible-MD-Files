@@ -1,3 +1,13 @@
+---
+book: "Jeremiah"
+chapter: 3
+testament: "Old Testament"
+key_themes: "Christ's Restoration, Spiritual Backsliding, Divine Mercy, Christ's Healing"
+tags:
+  - christ
+  - spiritual-backsliding
+  - divine-mercy
+---
 # Jeremiah 3
 
 ---
@@ -129,7 +139,7 @@ Put, wife, away, become, man, return, again, greatly, polluted, played, harlot, 
 
 
 *AI Keywords for current event matching:*
-`again` `anger` `backsliding` `backslidings` `bring` `children` `christs` `divine` `feed` `forever` `harlot` `heal` `healing` `heart` `israel` `judah` `keep` `knowledge` `lord` `lovers` `married` `merciful` `mercy` `pastors` `played` `restoration` `return` `salvation` `scattered` `spiritual` `strangers` `throne` `treacherous` `turn` `understanding` `ways` `you` `zion`
+#again #anger #backsliding #backslidings #bring #children #christs #divine #feed #forever #harlot #heal #healing #heart #israel #judah #keep #knowledge #lord #lovers #married #merciful #mercy #pastors #played #restoration #return #salvation #scattered #spiritual #strangers #throne #treacherous #turn #understanding #ways #you #zion
 
 
 ---

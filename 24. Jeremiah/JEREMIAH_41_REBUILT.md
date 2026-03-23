@@ -1,3 +1,13 @@
+---
+book: "Jeremiah"
+chapter: 41
+testament: "Old Testament"
+key_themes: "Christ's Betrayal, Ishmael's Treachery, Divine Justice, Christ's Protection"
+tags:
+  - christ
+  - ishmael
+  - divine-justice
+---
 # Jeremiah 41
 
 ---
@@ -105,7 +115,7 @@ Seventh, month, Ishmael, son, Nethaniah, son, Elishama, seed, royal, princes, ki
 
 
 *AI Keywords for current event matching:*
-`arose` `ate` `betrayal` `bread` `cast` `chaldeans` `children` `chimham` `christs` `divine` `dwelt` `fight` `found` `fourscore` `gedaliah` `glad` `governor` `great` `ishmael` `ishmaels` `jews` `johanan` `justice` `men` `mighty` `people` `pit` `protection` `recovered` `remnant` `returned` `slew` `smote` `together` `treachery` `war` `waters` `went` `women`
+#arose #ate #betrayal #bread #cast #chaldeans #children #chimham #christs #divine #dwelt #fight #found #fourscore #gedaliah #glad #governor #great #ishmael #ishmaels #jews #johanan #justice #men #mighty #people #pit #protection #recovered #remnant #returned #slew #smote #together #treachery #war #waters #went #women
 
 
 ---

@@ -1,3 +1,15 @@
+---
+book: "1 Peter"
+chapter: 1
+testament: "New Testament"
+key_themes: "Living Hope Through Resurrection, Precious Faith Tested by Fire, Salvation Prophesied by Prophets, Call to Holy Living, Redemption by Christ's Blood"
+tags:
+  - living-hope-through-resurrection
+  - precious-faith-tested-by-fire
+  - salvation-prophesied-by-prophets
+  - call-to-holy-living
+  - redemption-by-christ
+---
 # 1 Peter 1
 
 ---
@@ -131,7 +143,7 @@ Peter, apostle, Jesus, Christ, strangers, scattered, Pontus, Galatia, Cappadocia
 
 
 *AI Keywords for current event matching:*
-`abideth` `abundant` `again` `angels` `apostle` `appearing` `asia` `begotten` `believe` `believing` `bithynia` `blemish` `blessed` `blood` `born` `brethren` `call` `called` `cappadocia` `children` `christ` `christs` `conversation` `corruptible` `dead` `desire` `elect` `end` `endureth` `enquired` `fadeth` `faith` `falleth` `fashioning` `father` `fathers` `fear` `fervently` `fire` `flesh` `flower` `foreknowledge` `foreordained` `former` `foundation` `galatia` `gave` `ghost` `gird` `glory` `god` `gold` `gospel` `grace` `grass` `heart` `heaven` `heaviness` `holy` `honour` `hope` `ignorance` `incorruptible` `inheritance` `jesus` `joy` `judgeth` `kept` `lamb` `last` `lively` `liveth` `living` `loins` `lord` `love` `lusts` `manifest` `manifold` `mercy` `mind` `minister` `multiplied` `obedience` `obedient` `obeying` `peace` `perisheth` `persons` `peter` `pontus` `power` `praise` `preached` `precious` `prophesied` `prophets` `pure` `purified` `raised` `receiving` `redeemed` `redemption` `rejoice` `reported` `reserved` `respect` `resurrection` `revealed` `revelation` `salvation` `sanctification` `scattered` `searched` `searching` `season` `seed` `sent` `signify` `silver` `sober` `sojourning` `souls` `spirit` `spot` `sprinkling` `strangers` `sufferings` `temptations` `tested` `testified` `time` `times` `tradition` `trial` `tried` `truth` `undefiled` `unfeigned` `unspeakable` `vain` `withereth` `word` `work` `world` `written`
+#abideth #abundant #again #angels #apostle #appearing #asia #begotten #believe #believing #bithynia #blemish #blessed #blood #born #brethren #call #called #cappadocia #children #christ #christs #conversation #corruptible #dead #desire #elect #end #endureth #enquired #fadeth #faith #falleth #fashioning #father #fathers #fear #fervently #fire #flesh #flower #foreknowledge #foreordained #former #foundation #galatia #gave #ghost #gird #glory #god #gold #gospel #grace #grass #heart #heaven #heaviness #holy #honour #hope #ignorance #incorruptible #inheritance #jesus #joy #judgeth #kept #lamb #last #lively #liveth #living #loins #lord #love #lusts #manifest #manifold #mercy #mind #minister #multiplied #obedience #obedient #obeying #peace #perisheth #persons #peter #pontus #power #praise #preached #precious #prophesied #prophets #pure #purified #raised #receiving #redeemed #redemption #rejoice #reported #reserved #respect #resurrection #revealed #revelation #salvation #sanctification #scattered #searched #searching #season #seed #sent #signify #silver #sober #sojourning #souls #spirit #spot #sprinkling #strangers #sufferings #temptations #tested #testified #time #times #tradition #trial #tried #truth #undefiled #unfeigned #unspeakable #vain #withereth #word #work #world #written
 
 
 ---

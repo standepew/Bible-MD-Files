@@ -1,3 +1,22 @@
+---
+book: "1 Samuel"
+chapter: 19
+testament: "Old Testament"
+key_themes: "Saul's Plot to Kill David, Jonathan's Protection, Michal's Deception, David's Escape, Divine Protection at Naioth, Saul Prophesies"
+tags:
+  - Saul-Jonathan-servants-kill-David
+  - Michal-David-window-fled-escaped
+  - Saul-messengers-take-David-sick
+  - Saul-messengers-David-bed-slay
+  - Saul-David-Naioth-Ramah
+  - Saul-messengers-prophesied-messengers-prophesied
+  - saul
+  - jonathan
+  - michal
+  - david
+  - divine-protection-at-naioth
+  - saul-prophesies
+---
 # 1 Samuel 19
 
 ---
@@ -85,7 +104,7 @@ Saul spoke to Jonathan his son and all servants that they should kill David. But
 
 
 *AI Keywords for current event matching:*
-`against` `appointed` `bed` `blood` `bolster` `called` `cause` `cloth` `clothes` `commune` `covered` `david` `davids` `day` `deceived` `defense` `delighted` `divine` `dwelt` `enemy` `escape` `escaped` `evil` `father` `field` `fled` `fought` `goats` `god` `good` `hair` `hand` `hearkened` `hide` `house` `image` `innocent` `israel` `javelin` `jonathan` `jonathans` `kill` `king` `lay` `life` `liveth` `lord` `messengers` `michal` `michals` `morning` `naioth` `naked` `night` `past` `philistine` `philistines` `pillow` `place` `played` `plot` `presence` `prophesied` `prophesying` `prophets` `protection` `ramah` `rejoice` `salvation` `samuel` `saul` `sauls` `save` `saw` `sechu` `secret` `sent` `servant` `servants` `sick` `sin` `sinned` `slain` `slay` `slew` `slipped` `smite` `spirit` `spoke` `stand` `stripped` `sware` `take` `tell` `things` `times` `victory` `wall` `war` `watch` `well` `wife` `window` `without` `works` `wrought`
+#against #appointed #bed #blood #bolster #called #cause #cloth #clothes #commune #covered #david #davids #day #deceived #defense #delighted #divine #dwelt #enemy #escape #escaped #evil #father #field #fled #fought #goats #god #good #hair #hand #hearkened #hide #house #image #innocent #israel #javelin #jonathan #jonathans #kill #king #lay #life #liveth #lord #messengers #michal #michals #morning #naioth #naked #night #past #philistine #philistines #pillow #place #played #plot #presence #prophesied #prophesying #prophets #protection #ramah #rejoice #salvation #samuel #saul #sauls #save #saw #sechu #secret #sent #servant #servants #sick #sin #sinned #slain #slay #slew #slipped #smite #spirit #spoke #stand #stripped #sware #take #tell #things #times #victory #wall #war #watch #well #wife #window #without #works #wrought
 
 
 ---

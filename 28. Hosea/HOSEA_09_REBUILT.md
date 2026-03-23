@@ -1,3 +1,14 @@
+---
+book: "Hosea"
+chapter: 9
+testament: "Old Testament"
+key_themes: "Christ's Judgment, Spiritual Barrenness, Prophetic Failure, Divine Abandonment"
+tags:
+  - christ
+  - spiritual-barrenness
+  - prophetic-failure
+  - divine-abandonment
+---
 # Hosea 9
 
 ---
@@ -105,7 +116,7 @@ Rejoice, Israel, joy, people, whoring, God, loved, reward, cornfloor, floor, win
 
 
 *AI Keywords for current event matching:*
-`abandonment` `away` `barrenness` `breasts` `cast` `christs` `days` `depart` `divine` `drive` `dry` `ephraim` `fail` `failure` `floor` `fool` `fowler` `judgment` `love` `mad` `man` `miscarrying` `nations` `new` `prophet` `prophetic` `recompence` `rejoice` `snare` `spiritual` `visitation` `wanderers` `watchman` `wine` `winepress` `womb`
+#abandonment #away #barrenness #breasts #cast #christs #days #depart #divine #drive #dry #ephraim #fail #failure #floor #fool #fowler #judgment #love #mad #man #miscarrying #nations #new #prophet #prophetic #recompence #rejoice #snare #spiritual #visitation #wanderers #watchman #wine #winepress #womb
 
 
 ---

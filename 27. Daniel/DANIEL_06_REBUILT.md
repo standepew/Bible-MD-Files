@@ -1,3 +1,13 @@
+---
+book: "Daniel"
+chapter: 6
+testament: "Old Testament"
+key_themes: "Christ's Faithfulness, Prayer Life, Divine Protection, Christ's Deliverance"
+tags:
+  - christ
+  - prayer-life
+  - divine-protection
+---
 # Daniel 6
 
 ---
@@ -105,7 +115,7 @@ Pleased, Darius, set, kingdom, hundred, twenty, princes, kingdom, princes, presi
 
 
 *AI Keywords for current event matching:*
-`angel` `christs` `day` `deliver` `deliverance` `delivered` `divine` `error` `excellent` `faithful` `faithfulness` `fault` `found` `hurt` `innocency` `kneeled` `knees` `life` `lions` `mouths` `open` `prayed` `prayer` `prospered` `protection` `rescue` `shut` `signs` `spirit` `thanks` `three` `times` `windows` `wonders`
+#angel #christs #day #deliver #deliverance #delivered #divine #error #excellent #faithful #faithfulness #fault #found #hurt #innocency #kneeled #knees #life #lions #mouths #open #prayed #prayer #prospered #protection #rescue #shut #signs #spirit #thanks #three #times #windows #wonders
 
 
 ---

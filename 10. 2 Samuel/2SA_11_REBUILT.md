@@ -1,3 +1,18 @@
+---
+book: "2 Samuel"
+chapter: 11
+testament: "Old Testament"
+key_themes: "David and Bathsheba, Uriah's Integrity, David's Sin, Uriah's Death, David's Marriage"
+tags:
+  - woman-conceived-told-David-child
+  - David-Uriah-journey-house
+  - Joab-told-David-war
+  - messenger-king-war-matters
+  - messenger-Joab-David
+  - david-and-bathsheba
+  - uriah
+  - david
+---
 # 2 Samuel 11
 
 ---
@@ -97,7 +112,7 @@ Year expired, time kings go to battle, David sent Joab, servants, Israel; destro
 
 
 *AI Keywords for current event matching:*
-`abimelech` `ammon` `approached` `ark` `assigned` `ate` `attempts` `bare` `bath-sheba` `battle` `beautiful` `bed` `besieged` `called` `child` `children` `city` `conceived` `consequences` `cover-up` `daughter` `david` `davids` `day` `dead` `depart` `destroyed` `devoureth` `die` `died` `displease` `displeased` `door` `drank` `drink` `eat` `eliam` `encamped` `encourage` `enquired` `eveningtide` `expired` `feet` `fell` `fetched` `field` `fields` `fight` `forefront` `fought` `gate` `hand` `hittite` `honor` `hottest` `house` `husband` `israel` `jerubbesheth` `jerusalem` `joab` `journey` `judah` `king` `kings` `lay` `letter` `lord` `marriage` `matters` `meat` `men` `mess` `messenger` `messengers` `millstone` `morning` `morrow` `mourned` `mourning` `murderous` `negligence` `observed` `open` `overthrow` `people` `place` `plot` `prevailed` `prospered` `rabbah` `retire` `returned` `roof` `rose` `sent` `servant` `servants` `shoot` `shooters` `sin` `slept` `smitten` `son` `strong` `sword` `tarried` `tarry` `temptation` `tents` `thebez` `told` `took` `uncleanness` `uriah` `uriahs` `valiant` `walked` `wall` `war` `wash` `washing` `wife` `woman` `wrath` `year`
+#abimelech #ammon #approached #ark #assigned #ate #attempts #bare #bath-sheba #battle #beautiful #bed #besieged #called #child #children #city #conceived #consequences #cover-up #daughter #david #davids #day #dead #depart #destroyed #devoureth #die #died #displease #displeased #door #drank #drink #eat #eliam #encamped #encourage #enquired #eveningtide #expired #feet #fell #fetched #field #fields #fight #forefront #fought #gate #hand #hittite #honor #hottest #house #husband #israel #jerubbesheth #jerusalem #joab #journey #judah #king #kings #lay #letter #lord #marriage #matters #meat #men #mess #messenger #messengers #millstone #morning #morrow #mourned #mourning #murderous #negligence #observed #open #overthrow #people #place #plot #prevailed #prospered #rabbah #retire #returned #roof #rose #sent #servant #servants #shoot #shooters #sin #slept #smitten #son #strong #sword #tarried #tarry #temptation #tents #thebez #told #took #uncleanness #uriah #uriahs #valiant #walked #wall #war #wash #washing #wife #woman #wrath #year
 
 
 ---

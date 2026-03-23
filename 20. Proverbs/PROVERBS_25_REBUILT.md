@@ -1,3 +1,14 @@
+---
+book: "Proverbs"
+chapter: 25
+testament: "Old Testament"
+key_themes: "Divine Glory and Royal Honor, Wisdom and Speech, Self-Control and Relationships, Justice and Mercy"
+tags:
+  - divine-glory-and-royal-honor
+  - wisdom-and-speech
+  - selfcontrol-and-relationships
+  - justice-and-mercy
+---
 # Proverbs 25
 
 ---
@@ -129,7 +140,7 @@ Proverbs, Solomon, men, Hezekiah, king, Judah, copied, glory, God, conceal, thin
 
 
 *AI Keywords for current event matching:*
-`away` `bread` `broken` `city` `conceal` `confidence` `country` `divine` `ear` `enemy` `established` `faithful` `far` `fitly` `foot` `give` `glory` `god` `good` `honor` `honour` `house` `hungry` `justice` `king` `kings` `man` `matter` `mercy` `messenger` `neighbour` `news` `obedient` `refresheth` `relationships` `reprover` `righteousness` `royal` `rule` `search` `self-control` `soul` `speech` `spirit` `spoken` `take` `thing` `throne` `unfaithful` `wicked` `wisdom` `wise` `withdraw` `word`
+#away #bread #broken #city #conceal #confidence #country #divine #ear #enemy #established #faithful #far #fitly #foot #give #glory #god #good #honor #honour #house #hungry #justice #king #kings #man #matter #mercy #messenger #neighbour #news #obedient #refresheth #relationships #reprover #righteousness #royal #rule #search #self-control #soul #speech #spirit #spoken #take #thing #throne #unfaithful #wicked #wisdom #wise #withdraw #word
 
 
 ---

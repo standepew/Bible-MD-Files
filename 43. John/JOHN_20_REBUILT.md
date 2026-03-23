@@ -1,3 +1,14 @@
+---
+book: "John"
+chapter: 20
+testament: "New Testament"
+key_themes: "The Empty Tomb, Jesus Appears to Mary Magdalene, Jesus Appears to His Disciples, Jesus and Thomas"
+tags:
+  - the-empty-tomb
+  - jesus-appears-to-mary-magdalene
+  - jesus-appears-to-his-disciples
+  - jesus-and-thomas
+---
 # John 20
 
 ---
@@ -117,7 +128,7 @@ First, day, week, Mary, Magdalene, early, dark, sepulchre, seeth, stone, taken, 
 
 
 *AI Keywords for current event matching:*
-`again` `angels` `appears` `ascend` `ascended` `back` `behold` `believe` `believed` `believing` `blessed` `body` `book` `borne` `breathed` `brethren` `christ` `clothes` `dark` `day` `days` `didymus` `disciple` `disciples` `doors` `early` `eight` `empty` `evening` `except` `faithless` `father` `feared` `feet` `finger` `first` `gardener` `ghost` `glad` `god` `hand` `hands` `head` `hence` `holy` `home` `jesus` `jews` `knew` `laid` `lain` `lie` `life` `linen` `looking` `lord` `loved` `magdalene` `mary` `master` `midst` `nails` `name` `napkin` `outrun` `peace` `peter` `place` `rabboni` `ran` `remit` `remitted` `retain` `retained` `rise` `runneth` `scripture` `see` `seeketh` `seen` `send` `sent` `sepulchre` `shewed` `shut` `side` `signs` `simon` `sins` `sitting` `son` `spoken` `standing` `stone` `stooped` `stooping` `take` `taken` `tell` `thomas` `together` `tomb` `touch` `turned` `two` `week` `weepest` `weeping` `went` `white` `within` `woman` `wrapped` `written` `you`
+#again #angels #appears #ascend #ascended #back #behold #believe #believed #believing #blessed #body #book #borne #breathed #brethren #christ #clothes #dark #day #days #didymus #disciple #disciples #doors #early #eight #empty #evening #except #faithless #father #feared #feet #finger #first #gardener #ghost #glad #god #hand #hands #head #hence #holy #home #jesus #jews #knew #laid #lain #lie #life #linen #looking #lord #loved #magdalene #mary #master #midst #nails #name #napkin #outrun #peace #peter #place #rabboni #ran #remit #remitted #retain #retained #rise #runneth #scripture #see #seeketh #seen #send #sent #sepulchre #shewed #shut #side #signs #simon #sins #sitting #son #spoken #standing #stone #stooped #stooping #take #taken #tell #thomas #together #tomb #touch #turned #two #week #weepest #weeping #went #white #within #woman #wrapped #written #you
 
 
 ---

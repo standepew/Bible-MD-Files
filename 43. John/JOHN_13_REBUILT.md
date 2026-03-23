@@ -1,3 +1,14 @@
+---
+book: "John"
+chapter: 13
+testament: "New Testament"
+key_themes: "Washing the Disciples' Feet, The Betrayal of Judas, The New Commandment, Peter's Denial Foretold"
+tags:
+  - washing-the-disciples
+  - the-betrayal-of-judas
+  - the-new-commandment
+  - peter
+---
 # John 13
 
 ---
@@ -141,7 +152,7 @@ Feast, passover, Jesus, hour, depart, world, Father, loved, own, world, loved, e
 
 
 *AI Keywords for current event matching:*
-`afterwards` `another` `beckoned` `believe` `betray` `betrayal` `bread` `breast` `cannot` `children` `clean` `cock` `come` `commandment` `crow` `denial` `denied` `depart` `devil` `dipped` `disciples` `doubting` `down` `eateth` `entered` `father` `feet` `follow` `foretold` `fulfilled` `garments` `girded` `glorified` `god` `goest` `gone` `hands` `heart` `heel` `hereafter` `himself` `hour` `jesus` `judas` `knowest` `known` `laid` `lay` `life` `lifted` `little` `looked` `lord` `love` `loved` `lying` `man` `new` `one` `part` `peter` `peters` `quickly` `receiveth` `satan` `scripture` `seek` `send` `simon` `son` `sop` `spirit` `tell` `thrice` `towel` `troubled` `verily` `wash` `washing` `while` `whit` `whither` `wilt` `world` `you`
+#afterwards #another #beckoned #believe #betray #betrayal #bread #breast #cannot #children #clean #cock #come #commandment #crow #denial #denied #depart #devil #dipped #disciples #doubting #down #eateth #entered #father #feet #follow #foretold #fulfilled #garments #girded #glorified #god #goest #gone #hands #heart #heel #hereafter #himself #hour #jesus #judas #knowest #known #laid #lay #life #lifted #little #looked #lord #love #loved #lying #man #new #one #part #peter #peters #quickly #receiveth #satan #scripture #seek #send #simon #son #sop #spirit #tell #thrice #towel #troubled #verily #wash #washing #while #whit #whither #wilt #world #you
 
 
 ---

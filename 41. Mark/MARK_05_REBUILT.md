@@ -1,3 +1,14 @@
+---
+book: "Mark"
+chapter: 5
+testament: "New Testament"
+key_themes: "Christ's Power Over Demons, Healing of Demoniac, Woman with Issue, Raising of Jairus' Daughter"
+tags:
+  - christ
+  - healing-of-demoniac
+  - woman-with-issue
+  - raising-of-jairus
+---
 # Mark 5
 
 ---
@@ -189,7 +200,7 @@ Came, sea, country, Gadarenes, ship, unclean, spirit, dwelling, tombs, man, bind
 
 
 *AI Keywords for current event matching:*
-`astonishment` `blood` `broken` `chains` `christs` `clothes` `compassion` `cumi` `daughter` `decapolis` `demoniac` `demons` `dwelling` `faith` `gone` `great` `healing` `herd` `issue` `jairus` `legion` `lord` `many` `mind` `power` `publish` `raising` `right` `spirit` `swine` `talitha` `tombs` `touch` `twelve` `unclean` `virtue` `whole` `woman` `years`
+#astonishment #blood #broken #chains #christs #clothes #compassion #cumi #daughter #decapolis #demoniac #demons #dwelling #faith #gone #great #healing #herd #issue #jairus #legion #lord #many #mind #power #publish #raising #right #spirit #swine #talitha #tombs #touch #twelve #unclean #virtue #whole #woman #years
 
 
 ---

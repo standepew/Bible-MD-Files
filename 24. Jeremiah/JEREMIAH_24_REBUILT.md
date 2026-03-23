@@ -1,3 +1,13 @@
+---
+book: "Jeremiah"
+chapter: 24
+testament: "Old Testament"
+key_themes: "Christ's Figs, Good Captives, Evil Remnant, Christ's Restoration"
+tags:
+  - christ
+  - good-captives
+  - evil-remnant
+---
 # Jeremiah 24
 
 ---
@@ -105,7 +115,7 @@ LORD, shewed, baskets, figs, set, temple, LORD, Nebuchadrezzar, king, Babylon, c
 
 
 *AI Keywords for current event matching:*
-`acknowledge` `again` `baskets` `bring` `build` `captive` `captives` `carried` `chaldeans` `christs` `deliver` `eaten` `egypt` `evil` `eyes` `figs` `first` `god` `good` `heart` `kingdoms` `know` `land` `lord` `naughty` `people` `plant` `princes` `proverb` `remain` `remnant` `removed` `reproach` `residue` `restoration` `return` `ripe` `sent` `set` `two` `whole` `zedekiah`
+#acknowledge #again #baskets #bring #build #captive #captives #carried #chaldeans #christs #deliver #eaten #egypt #evil #eyes #figs #first #god #good #heart #kingdoms #know #land #lord #naughty #people #plant #princes #proverb #remain #remnant #removed #reproach #residue #restoration #return #ripe #sent #set #two #whole #zedekiah
 
 
 ---

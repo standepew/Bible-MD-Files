@@ -1,3 +1,20 @@
+---
+book: "2 Samuel"
+chapter: 19
+testament: "Old Testament"
+key_themes: "David's Grief, Joab's Rebuke, David's Restoration, Shimei's Apology, Mephibosheth's Return, Barzillai's Honor"
+tags:
+  - Joab-king-weeps-mourns-Absalom
+  - king-Shimei-die-king-sware
+  - king-matters-Ziba-land
+  - king-Barzillai-feed-Jerusalem
+  - king-Chimham-seemed-good
+  - david
+  - joab
+  - shimei
+  - mephibosheth
+  - barzillai
+---
 # 2 Samuel 19
 
 ---
@@ -87,7 +104,7 @@ Joab told, king weeps, mourns Absalom. Victory day turned to mourning to people;
 
 
 *AI Keywords for current event matching:*
-`abiathar` `abishai` `absalom` `adversaries` `advice` `aged` `amasa` `angel` `angry` `anointed` `apology` `arise` `arose` `ashamed` `ass` `bahurim` `barzillai` `barzillais` `battle` `beard` `benjamin` `benjamite` `blessed` `boat` `bone` `bones` `bowed` `brethren` `bring` `burden` `captain` `chimham` `city` `clothes` `comfortably` `concubines` `cost` `covered` `cried` `cursed` `daughters` `david` `davids` `day` `dead` `death` `deceived` `delivered` `departed` `despise` `die` `died` `discern` `division` `dressed` `drink` `eat` `elders` `enemies` `evil` `eyes` `face` `father` `feed` `feet` `fell` `ferry` `fiercer` `fifteen` `first` `fled` `flee` `flesh` `fourscore` `friends` `gate` `gera` `gift` `gileadite` `gilgal` `god` `good` `grave` `great` `grief` `grieved` `half` `hasted` `hate` `hear` `heart` `honor` `host` `house` `household` `impute` `iniquity` `israel` `jerusalem` `joab` `joabs` `jordan` `joseph` `judah` `kin` `king` `kingdom` `kissed` `lame` `land` `life` `live` `lived` `lord` `loud` `love` `mahanaim` `man` `matters` `meet` `men` `mephibosheth` `mephibosheths` `mother` `mourning` `mourns` `night` `parts` `peace` `people` `perversely` `philistines` `place` `pleased` `priests` `princes` `rebuke` `recompense` `remember` `restoration` `return` `returned` `reward` `ride` `right` `rogelim` `room` `saddle` `sat` `saul` `saved` `seemed` `servant` `servants` `shamed` `shimei` `shimeis` `singing` `sinned` `slandered` `son` `sons` `speak` `speech` `steal` `stealth` `stolen` `strife` `sustenance` `sware` `table` `tarry` `taste` `ten` `thousand` `tribes` `trimmed` `turn` `twenty` `victory` `voice` `washed` `weeps` `wives` `words` `worse` `years` `youth` `zadok` `zeruiah` `ziba`
+#abiathar #abishai #absalom #adversaries #advice #aged #amasa #angel #angry #anointed #apology #arise #arose #ashamed #ass #bahurim #barzillai #barzillais #battle #beard #benjamin #benjamite #blessed #boat #bone #bones #bowed #brethren #bring #burden #captain #chimham #city #clothes #comfortably #concubines #cost #covered #cried #cursed #daughters #david #davids #day #dead #death #deceived #delivered #departed #despise #die #died #discern #division #dressed #drink #eat #elders #enemies #evil #eyes #face #father #feed #feet #fell #ferry #fiercer #fifteen #first #fled #flee #flesh #fourscore #friends #gate #gera #gift #gileadite #gilgal #god #good #grave #great #grief #grieved #half #hasted #hate #hear #heart #honor #host #house #household #impute #iniquity #israel #jerusalem #joab #joabs #jordan #joseph #judah #kin #king #kingdom #kissed #lame #land #life #live #lived #lord #loud #love #mahanaim #man #matters #meet #men #mephibosheth #mephibosheths #mother #mourning #mourns #night #parts #peace #people #perversely #philistines #place #pleased #priests #princes #rebuke #recompense #remember #restoration #return #returned #reward #ride #right #rogelim #room #saddle #sat #saul #saved #seemed #servant #servants #shamed #shimei #shimeis #singing #sinned #slandered #son #sons #speak #speech #steal #stealth #stolen #strife #sustenance #sware #table #tarry #taste #ten #thousand #tribes #trimmed #turn #twenty #victory #voice #washed #weeps #wives #words #worse #years #youth #zadok #zeruiah #ziba
 
 
 ---

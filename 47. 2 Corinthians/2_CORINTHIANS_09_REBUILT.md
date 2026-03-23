@@ -1,3 +1,14 @@
+---
+book: "2 Corinthians"
+chapter: 9
+testament: "New Testament"
+key_themes: "The Principles of Giving, Sowing and Reaping, Cheerful Giving, God's Abundant Grace"
+tags:
+  - the-principles-of-giving
+  - sowing-and-reaping
+  - cheerful-giving
+  - god
+---
 # 2 Corinthians 9
 
 ---
@@ -93,7 +104,7 @@ Touching, ministering, saints, superfluous, write, forwardness, mind, boast, Mac
 
 
 *AI Keywords for current event matching:*
-`able` `abound` `abundant` `achaia` `administration` `ashamed` `behalf` `boast` `boasting` `bountifully` `bountifulness` `bounty` `bread` `brethren` `causeth` `cheerful` `christ` `confident` `covetousness` `dispersed` `distribution` `enriched` `exceeding` `exhort` `experiment` `find` `food` `forever` `forwardness` `fruits` `gift` `give` `given` `giver` `giving` `glorify` `god` `gods` `good` `gospel` `grace` `grudgingly` `heart` `increase` `liberal` `loveth` `macedonia` `matter` `men` `mind` `minister` `ministereth` `ministering` `ministration` `multiply` `necessary` `necessity` `notice` `poor` `prayer` `principles` `professed` `provoked` `purposeth` `ready` `reap` `reaping` `remaineth` `righteousness` `saints` `seed` `sent` `service` `sower` `soweth` `sowing` `sown` `sparingly` `subjection` `sufficiency` `superfluous` `supplieth` `thanks` `thanksgiving` `thanksgivings` `thing` `things` `touching` `unprepared` `unspeakable` `vain` `want` `work` `write` `written` `year` `zeal`
+#able #abound #abundant #achaia #administration #ashamed #behalf #boast #boasting #bountifully #bountifulness #bounty #bread #brethren #causeth #cheerful #christ #confident #covetousness #dispersed #distribution #enriched #exceeding #exhort #experiment #find #food #forever #forwardness #fruits #gift #give #given #giver #giving #glorify #god #gods #good #gospel #grace #grudgingly #heart #increase #liberal #loveth #macedonia #matter #men #mind #minister #ministereth #ministering #ministration #multiply #necessary #necessity #notice #poor #prayer #principles #professed #provoked #purposeth #ready #reap #reaping #remaineth #righteousness #saints #seed #sent #service #sower #soweth #sowing #sown #sparingly #subjection #sufficiency #superfluous #supplieth #thanks #thanksgiving #thanksgivings #thing #things #touching #unprepared #unspeakable #vain #want #work #write #written #year #zeal
 
 
 ---

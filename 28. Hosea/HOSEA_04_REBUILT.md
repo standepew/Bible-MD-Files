@@ -1,3 +1,14 @@
+---
+book: "Hosea"
+chapter: 4
+testament: "Old Testament"
+key_themes: "Christ's Knowledge, Spiritual Ignorance, Priestly Failure, Divine Judgment"
+tags:
+  - christ
+  - spiritual-ignorance
+  - priestly-failure
+  - divine-judgment
+---
 # Hosea 4
 
 ---
@@ -105,7 +116,7 @@ Hear, word, LORD, children, Israel, LORD, controversy, inhabitants, land, truth,
 
 
 *AI Keywords for current event matching:*
-`christs` `controversy` `day` `destroy` `divine` `doings` `failure` `fall` `forgotten` `god` `ignorance` `judgment` `knowledge` `lack` `land` `law` `like` `lord` `mercy` `mother` `mourn` `priest` `priestly` `punish` `rejected` `reward` `spirit` `spiritual` `truth` `ways` `whoredoms`
+#christs #controversy #day #destroy #divine #doings #failure #fall #forgotten #god #ignorance #judgment #knowledge #lack #land #law #like #lord #mercy #mother #mourn #priest #priestly #punish #rejected #reward #spirit #spiritual #truth #ways #whoredoms
 
 
 ---

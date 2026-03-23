@@ -1,3 +1,14 @@
+---
+book: "Ecclesiastes"
+chapter: 4
+testament: "Old Testament"
+key_themes: "Oppression and Comfort, Companionship and Isolation, Wisdom and Folly, Life and Death"
+tags:
+  - oppression-and-comfort
+  - companionship-and-isolation
+  - wisdom-and-folly
+  - life-and-death
+---
 # Ecclesiastes 4
 
 ---
@@ -117,7 +128,7 @@ Returned, considered, oppressions, done, sun, behold, tears, oppressed, comforte
 
 
 *AI Keywords for current event matching:*
-`alive` `alone` `already` `better` `birth` `broken` `child` `comfort` `comforter` `companionship` `cord` `dead` `death` `done` `falleth` `foldeth` `folly` `fool` `foolish` `hands` `help` `isolation` `king` `life` `living` `old` `one` `oppressed` `oppression` `oppressions` `poor` `praised` `sun` `tears` `threefold` `two` `untimely` `wisdom` `wise` `yet`
+#alive #alone #already #better #birth #broken #child #comfort #comforter #companionship #cord #dead #death #done #falleth #foldeth #folly #fool #foolish #hands #help #isolation #king #life #living #old #one #oppressed #oppression #oppressions #poor #praised #sun #tears #threefold #two #untimely #wisdom #wise #yet
 
 
 ---

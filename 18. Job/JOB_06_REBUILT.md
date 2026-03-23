@@ -1,3 +1,36 @@
+---
+book: "Job"
+chapter: 6
+testament: "Old Testament"
+key_themes: "Job's Response, Weight of Grief, Desire for Death, Friends' Failure"
+tags:
+  - heavier-sand-sea-words-swallowed
+  - soul-refused-sorrowful-meat
+  - request-GOD-grant-long
+  - destroy-GOD-hand-cut
+  - strength-hope-end-prolong-life
+  - strength-stones-flesh-brass
+  - help-wisdom-driven
+  - blackish-ice-snow-hid
+  - warm-vanish-hot-consumed-place
+  - paths-turned-aside-nothing-perish
+  - troops-Tema-companies-Sheba-waited
+  - confounded-hoped-ashamed
+  - nothing-casting-afraid
+  - Bring-reward-substance
+  - Deliver-enemy-hand-Redeem-mighty
+  - Teach-hold-tongue-understand-erred
+  - forcible-right-words-arguing-reprove
+  - reprove-words-speeches-desperate-wind
+  - overwhelm-fatherless-pit-friend
+  - content-look-evident-lie
+  - return-iniquity-righteousness
+  - iniquity-tongue-taste-discern-perverse
+  - job
+  - weight-of-grief
+  - desire-for-death
+  - friends
+---
 # Job 6
 
 ---
@@ -129,7 +162,7 @@ Job, answered, grief, weighed, calamity, balances. Heavier, sand, sea, words, sw
 
 
 *AI Keywords for current event matching:*
-`afflicted` `almighty` `answered` `array` `arrows` `ass` `balances` `blackish` `brass` `bray` `brethren` `brook` `brooks` `calamity` `comfort` `concealed` `cut` `death` `deceitfully` `desire` `destroy` `driven` `eaten` `egg` `end` `failure` `fear` `flesh` `fodder` `forsake` `friend` `friends` `god` `grant` `grass` `grief` `hand` `harden` `heavier` `help` `hid` `holy` `hope` `ice` `job` `jobs` `life` `long` `loweth` `meat` `one` `pass` `pity` `poison` `prolong` `refused` `request` `response` `salt` `sand` `sea` `snow` `sorrow` `sorrowful` `soul` `spare` `spirit` `stones` `stream` `strength` `swallowed` `taste` `terrors` `unsavoury` `weighed` `weight` `white` `wild` `wisdom` `words`
+#afflicted #almighty #answered #array #arrows #ass #balances #blackish #brass #bray #brethren #brook #brooks #calamity #comfort #concealed #cut #death #deceitfully #desire #destroy #driven #eaten #egg #end #failure #fear #flesh #fodder #forsake #friend #friends #god #grant #grass #grief #hand #harden #heavier #help #hid #holy #hope #ice #job #jobs #life #long #loweth #meat #one #pass #pity #poison #prolong #refused #request #response #salt #sand #sea #snow #sorrow #sorrowful #soul #spare #spirit #stones #stream #strength #swallowed #taste #terrors #unsavoury #weighed #weight #white #wild #wisdom #words
 
 
 ---

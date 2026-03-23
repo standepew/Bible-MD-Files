@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 86
+testament: "Old Testament"
+key_themes: "Personal Prayer, Divine Mercy, God's Uniqueness, Compassionate God"
+tags:
+  - personal-prayer
+  - divine-mercy
+  - god
+  - compassionate-god
+---
 # Psalm 86
 
 ---
@@ -141,7 +152,7 @@ Prayer, David, Bow, ear, LORD, hear, poor, needy, Preserve, soul, holy, GOD, sav
 
 
 *AI Keywords for current event matching:*
-`alone` `attend` `bow` `call` `come` `comforted` `compassion` `compassionate` `cry` `daily` `david` `divine` `ear` `forgive` `give` `glorify` `god` `gods` `good` `gracious` `great` `handmaid` `hear` `holpen` `holy` `like` `longsuffering` `lord` `made` `merciful` `mercy` `name` `nations` `needy` `personal` `plenteous` `poor` `prayer` `preserve` `ready` `save` `servant` `son` `soul` `strength` `supplications` `things` `trusteth` `truth` `turn` `uniqueness` `voice` `wondrous` `works` `worship`
+#alone #attend #bow #call #come #comforted #compassion #compassionate #cry #daily #david #divine #ear #forgive #give #glorify #god #gods #good #gracious #great #handmaid #hear #holpen #holy #like #longsuffering #lord #made #merciful #mercy #name #nations #needy #personal #plenteous #poor #prayer #preserve #ready #save #servant #son #soul #strength #supplications #things #trusteth #truth #turn #uniqueness #voice #wondrous #works #worship
 
 
 ---

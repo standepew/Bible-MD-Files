@@ -1,3 +1,14 @@
+---
+book: "Acts"
+chapter: 18
+testament: "New Testament"
+key_themes: "Paul in Corinth, The Lord's Encouragement, Paul Before Gallio, Apollos in Ephesus"
+tags:
+  - paul-in-corinth
+  - the-lord
+  - paul-before-gallio
+  - apollos-in-ephesus
+---
 # Acts 18
 
 ---
@@ -141,7 +152,7 @@ Paul, departed, Athens, Corinth, Jew, Aquila, born, Pontus, lately, Italy, wife,
 
 
 *AI Keywords for current event matching:*
-`abode` `accord` `achaia` `afraid` `alexandria` `antioch` `apollos` `aquila` `athens` `bade` `baptism` `baptized` `bear` `beat` `began` `believed` `blasphemed` `blood` `boldly` `born` `brethren` `caesarea` `came` `cared` `cenchrea` `chief` `christ` `church` `city` `claudius` `clean` `come` `commanded` `consented` `continued` `contrary` `convinced` `corinth` `corinthians` `country` `craft` `crispus` `depart` `departed` `deputy` `desired` `diligently` `disciples` `disposed` `drove` `eloquent` `encouragement` `ephesus` `exhorting` `expounded` `farewell` `feast` `fellow` `fervent` `galatia` `gallio` `gentiles` `god` `gone` `grace` `greeks` `head` `heads` `heard` `hearing` `helped` `henceforth` `hold` `house` `hurt` `instructed` `insurrection` `italy` `jerusalem` `jesus` `jew` `jews` `john` `joined` `judge` `judgment` `justus` `keep` `knowing` `landed` `lately` `law` `left` `lewdness` `longer` `lord` `lords` `macedonia` `matter` `matters` `means` `mightily` `mighty` `months` `mouth` `names` `night` `occupation` `open` `opposed` `order` `pass` `paul` `peace` `people` `perfectly` `persuaded` `persuadeth` `phrygia` `pontus` `pressed` `priscilla` `publicly` `question` `raiment` `reason` `reasoned` `receive` `return` `rome` `ruler` `sabbath` `sailed` `saluted` `scriptures` `seat` `shewing` `shook` `shorn` `silas` `six` `sosthenes` `spake` `speak` `spent` `spirit` `spoke` `strengthening` `synagogue` `syria` `tarried` `tarry` `taught` `teaching` `tentmakers` `testified` `time` `timotheus` `took` `vision` `vow` `way` `while` `wicked` `wife` `word` `words` `worship` `worshipped` `wrong` `wrote` `wrought` `year`
+#abode #accord #achaia #afraid #alexandria #antioch #apollos #aquila #athens #bade #baptism #baptized #bear #beat #began #believed #blasphemed #blood #boldly #born #brethren #caesarea #came #cared #cenchrea #chief #christ #church #city #claudius #clean #come #commanded #consented #continued #contrary #convinced #corinth #corinthians #country #craft #crispus #depart #departed #deputy #desired #diligently #disciples #disposed #drove #eloquent #encouragement #ephesus #exhorting #expounded #farewell #feast #fellow #fervent #galatia #gallio #gentiles #god #gone #grace #greeks #head #heads #heard #hearing #helped #henceforth #hold #house #hurt #instructed #insurrection #italy #jerusalem #jesus #jew #jews #john #joined #judge #judgment #justus #keep #knowing #landed #lately #law #left #lewdness #longer #lord #lords #macedonia #matter #matters #means #mightily #mighty #months #mouth #names #night #occupation #open #opposed #order #pass #paul #peace #people #perfectly #persuaded #persuadeth #phrygia #pontus #pressed #priscilla #publicly #question #raiment #reason #reasoned #receive #return #rome #ruler #sabbath #sailed #saluted #scriptures #seat #shewing #shook #shorn #silas #six #sosthenes #spake #speak #spent #spirit #spoke #strengthening #synagogue #syria #tarried #tarry #taught #teaching #tentmakers #testified #time #timotheus #took #vision #vow #way #while #wicked #wife #word #words #worship #worshipped #wrong #wrote #wrought #year
 
 
 ---

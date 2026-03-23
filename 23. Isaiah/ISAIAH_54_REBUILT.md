@@ -1,3 +1,14 @@
+---
+book: "Isaiah"
+chapter: 54
+testament: "Old Testament"
+key_themes: "Christ's Covenant, Divine Restoration, Eternal Mercy, Spiritual Protection"
+tags:
+  - christ
+  - divine-restoration
+  - eternal-mercy
+  - spiritual-protection
+---
 # Isaiah 54
 
 ---
@@ -105,7 +116,7 @@ Sing, barren, bear, break, singing, cry, aloud, travail, child, children, desola
 
 
 *AI Keywords for current event matching:*
-`christs` `cities` `condemn` `covenant` `curtains` `depart` `desolate` `divine` `enlarge` `eternal` `everlasting` `gather` `gentiles` `great` `heritage` `holy` `husband` `inhabited` `inherit` `israel` `judgment` `kindness` `lord` `maker` `mercies` `mercy` `one` `peace` `prosper` `protection` `redeemer` `restoration` `righteousness` `rise` `servants` `spiritual` `stretch` `tent` `tongue` `weapon`
+#christs #cities #condemn #covenant #curtains #depart #desolate #divine #enlarge #eternal #everlasting #gather #gentiles #great #heritage #holy #husband #inhabited #inherit #israel #judgment #kindness #lord #maker #mercies #mercy #one #peace #prosper #protection #redeemer #restoration #righteousness #rise #servants #spiritual #stretch #tent #tongue #weapon
 
 
 ---

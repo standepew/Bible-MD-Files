@@ -1,3 +1,17 @@
+---
+book: "1 Timothy"
+chapter: 6
+testament: "New Testament"
+key_themes: "Servants and Masters, False Teachers and Gain, Godliness with Contentment, The Love of Money, The Man of God, Charge to the Rich, Final Charge to Timothy"
+tags:
+  - servants-and-masters
+  - false-teachers-and-gain
+  - godliness-with-contentment
+  - the-love-of-money
+  - the-man-of-god
+  - charge-to-the-rich
+  - final-charge-to-timothy
+---
 # 1 Timothy 6
 
 ---
@@ -109,7 +123,7 @@ Servants, yoke, count, masters, worthy, honour, name, God, doctrine, blasphemed,
 
 
 *AI Keywords for current event matching:*
-`amen` `appearing` `approach` `avoiding` `babblings` `believing` `beloved` `benefit` `blasphemed` `blessed` `brethren` `brought` `called` `carry` `charge` `christ` `commandment` `committed` `communicate` `confession` `consent` `content` `contentment` `corrupt` `count` `coveted` `despise` `destitute` `destruction` `disputings` `distribute` `doctrine` `doting` `drown` `dwelling` `enjoy` `envy` `erred` `eternal` `everlasting` `evil` `exhort` `faith` `faithful` `fall` `false` `falsely` `fight` `final` `flee` `follow` `food` `foolish` `foundation` `gain` `giveth` `god` `godliness` `good` `grace` `great` `highminded` `hold` `honour` `hurtful` `immortality` `jesus` `keep` `king` `kings` `knowing` `lay` `laying` `life` `light` `living` `lord` `lords` `love` `lusts` `man` `masters` `meekness` `minds` `money` `name` `oppositions` `otherwise` `partakers` `patience` `perdition` `perverse` `pierced` `pilate` `pontius` `potentate` `power` `profane` `professed` `professing` `profession` `proud` `questions` `quickeneth` `railings` `raiment` `ready` `rich` `riches` `richly` `righteousness` `root` `science` `seen` `servants` `service` `shew` `sight` `snare` `sorrows` `spot` `store` `strife` `strifes` `supposing` `surmisings` `teach` `teachers` `temptation` `things` `time` `times` `timothy` `trust` `truth` `uncertain` `unrebukeable` `vain` `wholesome` `willing` `withdraw` `witnessed` `witnesses` `words` `works` `world` `worthy` `yoke`
+#amen #appearing #approach #avoiding #babblings #believing #beloved #benefit #blasphemed #blessed #brethren #brought #called #carry #charge #christ #commandment #committed #communicate #confession #consent #content #contentment #corrupt #count #coveted #despise #destitute #destruction #disputings #distribute #doctrine #doting #drown #dwelling #enjoy #envy #erred #eternal #everlasting #evil #exhort #faith #faithful #fall #false #falsely #fight #final #flee #follow #food #foolish #foundation #gain #giveth #god #godliness #good #grace #great #highminded #hold #honour #hurtful #immortality #jesus #keep #king #kings #knowing #lay #laying #life #light #living #lord #lords #love #lusts #man #masters #meekness #minds #money #name #oppositions #otherwise #partakers #patience #perdition #perverse #pierced #pilate #pontius #potentate #power #profane #professed #professing #profession #proud #questions #quickeneth #railings #raiment #ready #rich #riches #richly #righteousness #root #science #seen #servants #service #shew #sight #snare #sorrows #spot #store #strife #strifes #supposing #surmisings #teach #teachers #temptation #things #time #times #timothy #trust #truth #uncertain #unrebukeable #vain #wholesome #willing #withdraw #witnessed #witnesses #words #works #world #worthy #yoke
 
 
 ---

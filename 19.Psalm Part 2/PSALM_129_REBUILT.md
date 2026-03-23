@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 129
+testament: "Old Testament"
+key_themes: "Persecution from Youth, Divine Righteousness, Judgment of Enemies, Hope in Zion"
+tags:
+  - persecution-from-youth
+  - divine-righteousness
+  - judgment-of-enemies
+  - hope-in-zion
+---
 # Psalm 129
 
 ---
@@ -129,7 +140,7 @@ Song, degrees, afflicted, youth, Israel, say, afflicted, youth, prevailed, plowe
 
 
 *AI Keywords for current event matching:*
-`afflicted` `against` `back` `bless` `blessing` `confounded` `cords` `cut` `divine` `enemies` `furrows` `grass` `hate` `hope` `housetops` `israel` `judgment` `long` `lord` `made` `name` `persecution` `plowed` `plowers` `prevailed` `righteous` `righteousness` `say` `turned` `wicked` `withereth` `youth` `zion`
+#afflicted #against #back #bless #blessing #confounded #cords #cut #divine #enemies #furrows #grass #hate #hope #housetops #israel #judgment #long #lord #made #name #persecution #plowed #plowers #prevailed #righteous #righteousness #say #turned #wicked #withereth #youth #zion
 
 
 ---

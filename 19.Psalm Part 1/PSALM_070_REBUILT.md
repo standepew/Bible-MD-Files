@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 70
+testament: "Old Testament"
+key_themes: "Urgent Prayer, Divine Haste, Enemy's Confusion, God's Help"
+tags:
+  - urgent-prayer
+  - divine-haste
+  - enemy
+  - god
+---
 # Psalm 70
 
 ---
@@ -93,7 +104,7 @@ Chief, Musician, Psalm, David, bring, remembrance, haste, GOD, deliver, haste, h
 
 
 *AI Keywords for current event matching:*
-`aha` `ashamed` `backward` `bring` `chief` `confounded` `confusion` `david` `deliver` `deliverer` `desire` `divine` `enemys` `god` `gods` `haste` `help` `hurt` `lord` `make` `musician` `needy` `poor` `prayer` `psalm` `put` `remembrance` `reward` `say` `seek` `shame` `soul` `tarrying` `turned` `urgent`
+#aha #ashamed #backward #bring #chief #confounded #confusion #david #deliver #deliverer #desire #divine #enemys #god #gods #haste #help #hurt #lord #make #musician #needy #poor #prayer #psalm #put #remembrance #reward #say #seek #shame #soul #tarrying #turned #urgent
 
 
 ---

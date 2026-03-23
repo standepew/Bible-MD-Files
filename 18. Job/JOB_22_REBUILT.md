@@ -1,3 +1,22 @@
+---
+book: "Job"
+chapter: 22
+testament: "Old Testament"
+key_themes: "Eliphaz's Third Speech, Job's Alleged Sins, Call to Repentance, Promise of Restoration"
+tags:
+  - water-weary-drink-bread-hungry
+  - mighty-man-earth-honourable-dwelt
+  - widows-empty-arms-fatherless-broken
+  - God-know-judge-dark-cloud
+  - thick-clouds-covering-circuit-heaven
+  - return-Almighty-built-iniquity-tabernacles
+  - gold-dust-Ophir-stones-brooks
+  - deliver-island-innocent-pureness-hands
+  - eliphaz
+  - job
+  - call-to-repentance
+  - promise-of-restoration
+---
 # Job 22
 
 ---
@@ -141,7 +160,7 @@ Eliphaz, Temanite, answered, profitable, man, wise, GOD. Pleasure, Almighty, rig
 
 
 *AI Keywords for current event matching:*
-`alleged` `almighty` `answered` `arms` `bread` `broken` `brother` `call` `circuit` `clothing` `cloud` `clouds` `consumeth` `counsel` `cover` `covering` `cut` `dark` `darkness` `depart` `drink` `dwelt` `earth` `eliphaz` `eliphazs` `empty` `fatherless` `fear` `filled` `fire` `flood` `foundation` `gain` `glad` `god` `good` `heaven` `height` `high` `honourable` `houses` `hungry` `infinite` `iniquities` `innocent` `jobs` `judge` `judgment` `know` `man` `mighty` `naked` `nought` `old` `perfect` `pleasure` `pledge` `profitable` `promise` `repentance` `reprove` `restoration` `righteous` `scoff` `sins` `snares` `speech` `stars` `stripped` `substance` `sudden` `temanite` `thick` `third` `time` `trodden` `water` `waters` `way` `ways` `weary` `wicked` `wickedness` `widows` `wise`
+#alleged #almighty #answered #arms #bread #broken #brother #call #circuit #clothing #cloud #clouds #consumeth #counsel #cover #covering #cut #dark #darkness #depart #drink #dwelt #earth #eliphaz #eliphazs #empty #fatherless #fear #filled #fire #flood #foundation #gain #glad #god #good #heaven #height #high #honourable #houses #hungry #infinite #iniquities #innocent #jobs #judge #judgment #know #man #mighty #naked #nought #old #perfect #pleasure #pledge #profitable #promise #repentance #reprove #restoration #righteous #scoff #sins #snares #speech #stars #stripped #substance #sudden #temanite #thick #third #time #trodden #water #waters #way #ways #weary #wicked #wickedness #widows #wise
 
 
 ---

@@ -1,3 +1,25 @@
+---
+book: "Leviticus"
+chapter: 24
+testament: "Old Testament"
+key_themes: "The perpetual lampstand — pure olive oil beaten, burning continually before the LORD, The twelve loaves of showbread — set before the LORD every Sabbath as a perpetual covenant, The blasphemer — the son of an Israelite woman and an Egyptian man who blasphemes the Name; stoned by the whole congregation, "Breach for breach, eye for eye, tooth for tooth" — the lex talionis as proportionate justice, One law for the stranger and the native — equal standing before the law"
+tags:
+  - lampstand-perpetual-light
+  - pure-olive-oil
+  - Aaron-tends-the-lamps
+  - showbread-twelve-loaves
+  - two-rows-six-each
+  - frankincense
+  - sabbath-covenant
+  - blasphemy-death-penalty
+  - stone-him
+  - Name-of-the-LORD
+  - one-law-for-stranger-and-native
+  - eye-for-eye
+  - lex-talionis
+  - proportionate-justice
+  - community-execution
+---
 # Leviticus 24
 
 ---
@@ -67,7 +89,7 @@ God commands that pure beaten olive oil be brought for the lampstand, which Aaro
 
 
 *AI Keywords for current event matching:*
-`2411-16` `accountability` `against` `blasphemed` `blasphemy` `community` `current` `events` `god` `hate` `leviticus` `matching` `name` `response` `speech`
+#2411-16 #accountability #against #blasphemed #blasphemy #community #current #events #god #hate #leviticus #matching #name #response #speech
 
 
 ---
@@ -143,13 +165,13 @@ At Calvary the pattern is exactly reversed: the one taken outside the camp to be
 
 ### The Twelve Loaves — Twelve Tribes Before God Always
 
-**Leviticus 24:5-8** — twelve loaves on the table; refreshed every Sabbath
+[[03. Leviticus/LEV_24_REBUILT|Leviticus 24:5-8]] — twelve loaves on the table; refreshed every Sabbath
 
 The twelve-loaf showbread is the enacted declaration that all twelve tribes are always before God:
 
-- **Exodus 28:9-12** — the high priest's shoulder stones engraved with six names per stone: "Aaron shall bear their names before the LORD upon his two shoulders for a memorial"
+- [[02. Exodus/EXO_28_REBUILT|Exodus 28:9-12]] — the high priest's shoulder stones engraved with six names per stone: "Aaron shall bear their names before the LORD upon his two shoulders for a memorial"
 - **Exodus 28:21, 29** — twelve stones on the breastplate: "Aaron shall bear the names of the children of Israel in the breastplate of judgment upon his heart, when he goeth in unto the holy place, for a memorial before the LORD"
-- **Leviticus 24:5-8** — twelve loaves before the LORD always; the covenant of the whole people perpetually represented at God's table
+- [[03. Leviticus/LEV_24_REBUILT|Leviticus 24:5-8]] — twelve loaves before the LORD always; the covenant of the whole people perpetually represented at God's table
 - **Revelation 21:12, 14** — New Jerusalem: twelve gates with the names of the twelve tribes; twelve foundations with the names of the twelve apostles — the twelve-fold completeness carried into the eternal state
 
 **What the Bible establishes (twelve = governmental perfection per the roadmap):** The twelve showbread loaves are not random. They represent the complete covenant people always standing before God — carried by the priest's shoulders, engraved on the priest's breastplate, set on the LORD's table. Not one tribe is forgotten. Not one name drops off the table. The New Jerusalem's twelve-gated, twelve-founded structure is the consummation of what the showbread declared weekly: all God's people, complete, present before Him always.

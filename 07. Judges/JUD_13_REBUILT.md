@@ -1,3 +1,52 @@
+---
+book: "Judges"
+chapter: 13
+testament: "Old Testament"
+key_themes: "Philistine Oppression, Angelic Annunciation, Barren Wife, Nazarite Vow, Samson's Birth, Divine Revelation, Manoah's Fear, Wife's Faith"
+tags:
+  - children-Israel-evil-sight-LORD
+  - wife-barren-bare
+  - angel-LORD-appeared-woman
+  - barren-conceive-bear-son
+  - conceive-bear-son
+  - razor-head
+  - child-Nazarite-God-womb
+  - begin-deliver-Israel-hand-Philistines
+  - woman-came-told-husband
+  - asked-whence-told-name
+  - drink-wine-strong-drink-unclean
+  - Manoah-intreated-LORD
+  - God-hearkened-voice-Manoah
+  - angel-God-woman-sat-field
+  - Manoah-husband-wife
+  - man-appeared-day
+  - Manoah-arose-wife-man
+  - man-spakest-woman
+  - words-come-pass
+  - order-child
+  - angel-LORD-Manoah-woman-beware
+  - commanded-observe
+  - burnt-offering-LORD
+  - Manoah-knew-angel-LORD
+  - angel-LORD-asked-name-secret
+  - angel-wondrously
+  - Manoah-wife-looked
+  - flame-heaven-altar
+  - angel-LORD-ascended-flame-altar
+  - angel-LORD-appear-Manoah-wife
+  - wife-LORD-pleased-kill
+  - shewed-things-time-told-things
+  - woman-bare-son-called-Samson
+  - child-grew-LORD-blessed
+  - philistine-oppression
+  - angelic-annunciation
+  - barren-wife
+  - nazarite-vow
+  - samson
+  - divine-revelation
+  - manoah
+  - wife
+---
 # Judges 13
 
 ---
@@ -103,7 +152,7 @@ Israel does evil, and the LORD delivers them to Philistines for forty years. A D
 
 
 *AI Keywords for current event matching:*
-`altar` `angel` `angelic` `angels` `annunciation` `appear` `appearance` `appeared` `arose` `ascended` `ascension` `asked` `bare` `barren` `bear` `began` `begin` `beware` `birth` `blessed` `born` `bread` `burnt` `called` `came` `camp` `child` `children` `come` `commanded` `conceive` `countenance` `dan` `danites` `day` `death` `deliver` `delivered` `detain` `die` `divine` `drink` `eat` `eshtaol` `evil` `faces` `family` `fear` `fell` `field` `flame` `forty` `god` `grew` `ground` `hand` `hands` `haste` `head` `hearkened` `heaven` `honour` `husband` `identity` `instructions` `intreated` `israel` `kid` `kill` `knew` `looked` `lord` `made` `man` `manoah` `manoahs` `meat` `move` `movement` `name` `nazarite` `observe` `offered` `offering` `oppression` `order` `pass` `philistine` `philistines` `pleased` `prayer` `ran` `razor` `ready` `received` `repeated` `report` `request` `response` `rock` `samson` `samsons` `sat` `sayings` `second` `secret` `seen` `send` `shewed` `sight` `son` `spakest` `spirit` `spirits` `strong` `surely` `teach` `terrible` `things` `time` `times` `told` `unclean` `vine` `voice` `whence` `wife` `wine` `woman` `womans` `womb` `wondrously` `words` `years` `zorah`
+#altar #angel #angelic #angels #annunciation #appear #appearance #appeared #arose #ascended #ascension #asked #bare #barren #bear #began #begin #beware #birth #blessed #born #bread #burnt #called #came #camp #child #children #come #commanded #conceive #countenance #dan #danites #day #death #deliver #delivered #detain #die #divine #drink #eat #eshtaol #evil #faces #family #fear #fell #field #flame #forty #god #grew #ground #hand #hands #haste #head #hearkened #heaven #honour #husband #identity #instructions #intreated #israel #kid #kill #knew #looked #lord #made #man #manoah #manoahs #meat #move #movement #name #nazarite #observe #offered #offering #oppression #order #pass #philistine #philistines #pleased #prayer #ran #razor #ready #received #repeated #report #request #response #rock #samson #samsons #sat #sayings #second #secret #seen #send #shewed #sight #son #spakest #spirit #spirits #strong #surely #teach #terrible #things #time #times #told #unclean #vine #voice #whence #wife #wine #woman #womans #womb #wondrously #words #years #zorah
 
 
 ---

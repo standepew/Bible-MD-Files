@@ -1,3 +1,14 @@
+---
+book: "John"
+chapter: 19
+testament: "New Testament"
+key_themes: "The Scourging and Mocking, The Crucifixion, The Death of Jesus, The Burial of Jesus"
+tags:
+  - the-scourging-and-mocking
+  - the-crucifixion
+  - the-death-of-jesus
+  - the-burial-of-jesus
+---
 # John 19
 
 ---
@@ -153,7 +164,7 @@ Pilate, scourged, Jesus, soldiers, platted, crown, thorns, head, purple, robe, H
 
 
 *AI Keywords for current event matching:*
-`above` `accomplished` `afraid` `aloes` `already` `answer` `arimathaea` `art` `away` `bearing` `behold` `believe` `besought` `blood` `bodies` `body` `bone` `bowed` `brake` `broken` `burial` `bury` `cast` `chief` `cleophas` `clothes` `coat` `cross` `crown` `crucified` `crucifixion` `crucify` `cæsar` `dead` `death` `delivered` `disciple` `fault` `fear` `finished` `four` `friend` `fulfilled` `gabbatha` `garden` `garments` `gave` `ghost` `given` `god` `golgotha` `greater` `greek` `hail` `hall` `hand` `hands` `head` `hebrew` `high` `home` `hour` `hundred` `hyssop` `jesus` `jews` `joseph` `judgment` `king` `knowing` `laid` `latin` `law` `leave` `legs` `linen` `lots` `magdalene` `man` `manner` `mary` `midst` `mixture` `mocking` `mother` `myrrh` `nazareth` `new` `nicodemus` `night` `parted` `parts` `passover` `pavement` `pierced` `pilate` `place` `platted` `pound` `power` `preparation` `priests` `purple` `raiment` `read` `received` `record` `release` `rend` `robe` `sabbath` `saw` `scourged` `scourging` `scripture` `seam` `seat` `secretly` `sepulchre` `side` `sin` `sister` `sixth` `skull` `smote` `soldiers` `son` `spear` `spices` `sponge` `thirst` `thorns` `title` `top` `true` `vessel` `vesture` `vinegar` `water` `whence` `without` `woven` `write`
+#above #accomplished #afraid #aloes #already #answer #arimathaea #art #away #bearing #behold #believe #besought #blood #bodies #body #bone #bowed #brake #broken #burial #bury #cast #chief #cleophas #clothes #coat #cross #crown #crucified #crucifixion #crucify #cæsar #dead #death #delivered #disciple #fault #fear #finished #four #friend #fulfilled #gabbatha #garden #garments #gave #ghost #given #god #golgotha #greater #greek #hail #hall #hand #hands #head #hebrew #high #home #hour #hundred #hyssop #jesus #jews #joseph #judgment #king #knowing #laid #latin #law #leave #legs #linen #lots #magdalene #man #manner #mary #midst #mixture #mocking #mother #myrrh #nazareth #new #nicodemus #night #parted #parts #passover #pavement #pierced #pilate #place #platted #pound #power #preparation #priests #purple #raiment #read #received #record #release #rend #robe #sabbath #saw #scourged #scourging #scripture #seam #seat #secretly #sepulchre #side #sin #sister #sixth #skull #smote #soldiers #son #spear #spices #sponge #thirst #thorns #title #top #true #vessel #vesture #vinegar #water #whence #without #woven #write
 
 
 ---

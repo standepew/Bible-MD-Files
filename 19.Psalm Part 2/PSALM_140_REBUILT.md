@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 140
+testament: "Old Testament"
+key_themes: "Divine Deliverance, Protection from Evil, Wicked Snares, Righteous Victory"
+tags:
+  - divine-deliverance
+  - protection-from-evil
+  - wicked-snares
+  - righteous-victory
+---
 # Psalm 140
 
 ---
@@ -129,7 +140,7 @@ Deliver, LORD, evil, man, preserve, violent, man, imagine, mischiefs, heart, con
 
 
 *AI Keywords for current event matching:*
-`afflicted` `burning` `cause` `coals` `cords` `deliver` `deliverance` `divine` `dwell` `evil` `fall` `give` `hands` `heart` `hid` `imagine` `keep` `lord` `maintain` `man` `mischiefs` `presence` `preserve` `protection` `righteous` `salvation` `serpent` `sharpened` `snare` `snares` `strength` `thanks` `tongues` `upright` `victory` `violent` `wicked`
+#afflicted #burning #cause #coals #cords #deliver #deliverance #divine #dwell #evil #fall #give #hands #heart #hid #imagine #keep #lord #maintain #man #mischiefs #presence #preserve #protection #righteous #salvation #serpent #sharpened #snare #snares #strength #thanks #tongues #upright #victory #violent #wicked
 
 
 ---

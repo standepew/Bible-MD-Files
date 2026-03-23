@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 55
+testament: "Old Testament"
+key_themes: "Prayer in Distress, Betrayal by Friends, Divine Deliverance, Trust in God"
+tags:
+  - prayer-in-distress
+  - betrayal-by-friends
+  - divine-deliverance
+  - trust-in-god
+---
 # Psalm 55
 
 ---
@@ -105,7 +116,7 @@ Chief, Musician, Neginoth, Maschil, Psalm, David, Give, ear, prayer, GOD, hide, 
 
 
 *AI Keywords for current event matching:*
-`abideth` `acquaintance` `afflict` `against` `aloud` `attend` `battle` `betrayal` `bloody` `borne` `bring` `burden` `butter` `call` `cast` `chief` `company` `complaint` `counsel` `cry` `david` `days` `death` `deceitful` `deliverance` `delivered` `destruction` `distress` `divine` `drawn` `ear` `enemy` `equal` `evening` `fallen` `fearfulness` `friends` `give` `god` `guide` `half` `hated` `hear` `heart` `hid` `hide` `horror` `house` `live` `lord` `magnify` `man` `maschil` `men` `mine` `morning` `mourn` `mouth` `moved` `musician` `neginoth` `noise` `noon` `oil` `old` `overwhelmed` `pained` `peace` `pit` `pray` `prayer` `psalm` `reproached` `righteous` `save` `smoother` `softer` `sore` `soul` `supplication` `sustain` `sweet` `swords` `terrors` `took` `trembling` `trust` `voice` `walked` `war` `words`
+#abideth #acquaintance #afflict #against #aloud #attend #battle #betrayal #bloody #borne #bring #burden #butter #call #cast #chief #company #complaint #counsel #cry #david #days #death #deceitful #deliverance #delivered #destruction #distress #divine #drawn #ear #enemy #equal #evening #fallen #fearfulness #friends #give #god #guide #half #hated #hear #heart #hid #hide #horror #house #live #lord #magnify #man #maschil #men #mine #morning #mourn #mouth #moved #musician #neginoth #noise #noon #oil #old #overwhelmed #pained #peace #pit #pray #prayer #psalm #reproached #righteous #save #smoother #softer #sore #soul #supplication #sustain #sweet #swords #terrors #took #trembling #trust #voice #walked #war #words
 
 
 ---

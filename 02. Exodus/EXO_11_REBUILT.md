@@ -1,3 +1,26 @@
+---
+book: "Exodus"
+chapter: 11
+testament: "Old Testament"
+key_themes: "The announcement of the tenth plague, Death of the firstborn declared, Spoiling the Egyptians, Israel favored in Egypt's sight, Moses' greatness in Egypt, "Not a dog shall move his tongue," The LORD puts a difference between Israel and Egypt, Moses departs in great anger"
+tags:
+  - tenth-plague
+  - death-of-firstborn
+  - midnight
+  - great-cry
+  - spoil-the-Egyptians
+  - silver-gold
+  - favor-in-Egyptians-sight
+  - Moses-great-in-Egypt
+  - difference-between-Israel-and-Egypt
+  - not-a-dog-move-his-tongue
+  - Pharaoh-will-not-hear
+  - wonders-multiplied
+  - great-anger
+  - final-plague-announced
+  - life-for-life
+  - firstborn
+---
 # Exodus 11
 
 ---
@@ -78,7 +101,7 @@ God announces to Moses the final, decisive plague — the death of all the first
 
 
 *AI Keywords for current event matching:*
-`act` `current` `decisive` `events` `exodus` `final` `gods` `judgment` `matching` `plague` `point` `return` `tenth`
+#act #current #decisive #events #exodus #final #gods #judgment #matching #plague #point #return #tenth
 
 
 ---

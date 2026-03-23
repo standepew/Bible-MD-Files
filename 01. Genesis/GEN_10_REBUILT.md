@@ -162,7 +162,7 @@ These are the toledot (generations/account) of the sons of Noah — Shem, Ham, a
 
 For AI matching to topics and current events:
 
-`Table of Nations` `toledot` `generations of sons of Noah` `Shem Ham Japheth` `sons born after flood` `Japheth` `Gomer` `Magog` `Madai` `Javan` `Tubal` `Meshech` `Tiras` `Ashkenaz` `Riphath` `Togarmah` `isles of Gentiles` `Gentile nations` `divided in their lands` `tongue` `families` `nations` `Ham` `Cush` `Mizraim` `Phut` `Canaan` `Seba` `Havilah` `Nimrod` `gibbor` `mighty hunter` `before the LORD` `liphnei YHWH` `Babel` `Erech` `Accad` `Calneh` `Shinar` `Nineveh` `Asshur` `Philistines` `Casluhim` `Sidon` `Heth` `Hittites` `Jebusite` `Amorite` `Girgasite` `Hivite` `Canaanite border` `Sodom Gomorrah` `Shem` `father of children of Eber` `Arphaxad` `Salah` `Eber` `Hebrews` `Ivri` `Peleg` `earth divided` `Joktan` `nations divided after flood` `one blood all nations` `Acts 17:26` `Deuteronomy 32:8` `Ezekiel 38 nations` `Gog Magog` `Revelation 20` `Babel to Babylon` `Nimrod antichrist type` `man-made empire` `messianic line` `sovereign borders` `kingdom of man`
+#Table-of-Nations #toledot #generations-of-sons-of-Noah #Shem-Ham-Japheth #sons-born-after-flood #Japheth #Gomer #Magog #Madai #Javan #Tubal #Meshech #Tiras #Ashkenaz #Riphath #Togarmah #isles-of-Gentiles #Gentile-nations #divided-in-their-lands #tongue #families #nations #Ham #Cush #Mizraim #Phut #Canaan #Seba #Havilah #Nimrod #gibbor #mighty-hunter #before-the-LORD #liphnei-YHWH #Babel #Erech #Accad #Calneh #Shinar #Nineveh #Asshur #Philistines #Casluhim #Sidon #Heth #Hittites #Jebusite #Amorite #Girgasite #Hivite #Canaanite-border #Sodom-Gomorrah #Shem #father-of-children-of-Eber #Arphaxad #Salah #Eber #Hebrews #Ivri #Peleg #earth-divided #Joktan #nations-divided-after-flood #one-blood-all-nations #Acts-1726 #Deuteronomy-328 #Ezekiel-38-nations #Gog-Magog #Revelation-20 #Babel-to-Babylon #Nimrod-antichrist-type #man-made-empire #messianic-line #sovereign-borders #kingdom-of-man
 
 **Relevance to Current Events:**
 - Middle East conflicts — the borders of Canaan (Genesis 10:19) are the borders of modern Israel/Palestine; the disputed land was mapped by God before Abraham's call; the conflict over this land has cosmic roots in the Genesis 10 framework
@@ -487,19 +487,19 @@ For AI matching to topics and current events:
 
 ### Babel — The City of Man Against the City of God
 
-**Genesis 10:10** — "The beginning of his kingdom was Babel"
+[[01. Genesis/GEN_10_REBUILT|Genesis 10:10]] — "The beginning of his kingdom was Babel"
 
 **Thread through Scripture:**
 
-- **Genesis 10:10** — Nimrod's Babel: first city-kingdom in defiance of God's design
+- [[01. Genesis/GEN_10_REBUILT|Genesis 10:10]] — Nimrod's Babel: first city-kingdom in defiance of God's design
 - **Genesis 11:4, 9** — Tower of Babel: "let us make us a name... lest we be scattered" — city, tower, name = the three elements of human self-glory; God confounds and scatters
-- **Isaiah 13:1** — "The burden of Babylon" — prophetic judgment on the city that began at Babel
-- **Isaiah 14:4-15** — The taunt against the king of Babylon: "How art thou fallen from heaven, O Lucifer" — the Babel-spirit traced to its satanic origin
+- [[23. Isaiah/ISAIAH_13_REBUILT|Isaiah 13:1]] — "The burden of Babylon" — prophetic judgment on the city that began at Babel
+- [[23. Isaiah/ISAIAH_14_REBUILT|Isaiah 14:4-15]] — The taunt against the king of Babylon: "How art thou fallen from heaven, O Lucifer" — the Babel-spirit traced to its satanic origin
 - **Jeremiah 50-51** — Babylon's fall announced; "Babylon is taken... Bel is confounded... her images are broken in pieces" (50:2) — the destruction of the idols Nimrod's line produced
-- **Daniel 4:30** — Nebuchadnezzar: "Is not this great Babylon, that I have built for the house of the kingdom by the might of my power, and for the honour of my majesty?" — the same spirit as Nimrod: I built, my power, my majesty; God strikes him with madness
-- **Revelation 17:5** — "MYSTERY, BABYLON THE GREAT, THE MOTHER OF HARLOTS" — Babel is the mother of all subsequent human-glory systems
+- [[27. Daniel/DANIEL_04_REBUILT|Daniel 4:30]] — Nebuchadnezzar: "Is not this great Babylon, that I have built for the house of the kingdom by the might of my power, and for the honour of my majesty?" — the same spirit as Nimrod: I built, my power, my majesty; God strikes him with madness
+- [[66. Revelation/REVELATION_17_REBUILT|Revelation 17:5]] — "MYSTERY, BABYLON THE GREAT, THE MOTHER OF HARLOTS" — Babel is the mother of all subsequent human-glory systems
 - **Revelation 18:2, 10, 21** — "Babylon the great is fallen, is fallen... Alas, alas, that great city Babylon" — the final destruction of what began in Genesis 10:10
-- **Revelation 21:2** — "The holy city, new Jerusalem, coming down from God out of heaven" — the City of God replaces the city of man; what Nimrod tried to build from the earth up, God builds from heaven down
+- [[66. Revelation/REVELATION_21_REBUILT|Revelation 21:2]] — "The holy city, new Jerusalem, coming down from God out of heaven" — the City of God replaces the city of man; what Nimrod tried to build from the earth up, God builds from heaven down
 
 *Interpretation:* The Babel thread is the Bible's most comprehensive symbol of human civilization organized in self-worship against God. It runs from the first verse of its founding (Genesis 10:10) to its final destruction (Revelation 18) — covering every major empire in between. The two-city pattern (Babylon vs. Jerusalem; city of man vs. city of God) is established at Genesis 10:10 and resolved at Revelation 21-22. Augustine's two cities are the biblical theology of Genesis 10.
 
@@ -510,10 +510,10 @@ For AI matching to topics and current events:
 **Genesis 10:5, 20, 31-32** — Nations divided by tongues, families, and lands
 
 **Thread through Scripture:**
-- **Deuteronomy 32:8** — God set the bounds of the nations according to His design
-- **Acts 17:26** — God determined times and boundaries of all nations
-- **Daniel 2:21** — God removes and sets up kings; changes times and seasons
-- **Psalm 22:28** — "For the kingdom is the LORD's: and he is the governor among the nations"
+- [[05. Deuteronomy/DEU_32_REBUILT|Deuteronomy 32:8]] — God set the bounds of the nations according to His design
+- [[44. Acts/ACTS_17_REBUILT|Acts 17:26]] — God determined times and boundaries of all nations
+- [[27. Daniel/DANIEL_02_REBUILT|Daniel 2:21]] — God removes and sets up kings; changes times and seasons
+- [[19.Psalm Part 1/PSALM_22_REBUILT|Psalm 22:28]] — "For the kingdom is the LORD's: and he is the governor among the nations"
 - **Revelation 21:24, 26** — "The nations of them which are saved shall walk in the light of it; and the kings of the earth do bring their glory and honour into it" — in the new creation, the nations of Genesis 10 are not erased but redeemed; they bring their glory into the New Jerusalem; national diversity is preserved, not dissolved, in the eternal order
 
 *Interpretation:* The nations of Genesis 10 are not a regrettable byproduct of Babel's judgment — they are the diverse humanity God sovereignly ordered (Deuteronomy 32:8; Acts 17:26) and will ultimately redeem (Revelation 21:24-26). The goal of the gospel is not the elimination of nations but their transformation: every language, tribe, people, and nation represented before the throne (Revelation 7:9), bringing their distinct glories into the eternal city (Revelation 21:24).
@@ -525,12 +525,12 @@ For AI matching to topics and current events:
 **Genesis 10:21, 24** — "The father of all the children of Eber... Arphaxad begat Salah; and Salah begat Eber"
 
 **Thread through Scripture:**
-- **Genesis 14:13** — "Abram the Hebrew (Ha-Ivri)" — first person called Hebrew; descent from Eber
-- **Exodus 2:6** — "This is one of the Hebrews' children" — the national identity of God's covenant people
-- **Deuteronomy 15:12** — "If thy brother, an Hebrew man, or an Hebrew woman" — the covenant community defined as Eber's descendants
+- [[01. Genesis/GEN_14_REBUILT|Genesis 14:13]] — "Abram the Hebrew (Ha-Ivri)" — first person called Hebrew; descent from Eber
+- [[02. Exodus/EXO_02_REBUILT|Exodus 2:6]] — "This is one of the Hebrews' children" — the national identity of God's covenant people
+- [[05. Deuteronomy/DEU_15_REBUILT|Deuteronomy 15:12]] — "If thy brother, an Hebrew man, or an Hebrew woman" — the covenant community defined as Eber's descendants
 - **John 5:2; Acts 21:40; 22:2; 26:14** — "In the Hebrew tongue" — the language of Eber's descendants is still identified as Hebrew in the New Testament era
 - **Revelation 9:11; 16:16** — "In the Hebrew tongue Abaddon... Armageddon" — even Revelation gives place-names in the Hebrew tongue; the language of Eber echoes to the last pages of Scripture
-- **Philippians 3:5** — Paul: "an Hebrew of the Hebrews" — the identity defined by descent from Eber, covenant membership, and language; Paul's deepest ethnic self-identification traces to Genesis 10:21
+- [[50. Philippians/PHILIPPIANS_03_REBUILT|Philippians 3:5]] — Paul: "an Hebrew of the Hebrews" — the identity defined by descent from Eber, covenant membership, and language; Paul's deepest ethnic self-identification traces to Genesis 10:21
 
 ---
 

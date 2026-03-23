@@ -1,3 +1,13 @@
+---
+book: "Ezekiel"
+chapter: 46
+testament: "Old Testament"
+key_themes: "Christ's Worship, Sabbath Observance, Divine Offerings, Christ's Sanctification"
+tags:
+  - christ
+  - sabbath-observance
+  - divine-offerings
+---
 # Ezekiel 46
 
 ---
@@ -105,7 +115,7 @@ Gate, inner, court, looketh, east, shut, working, days, sabbath, opened, day, ne
 
 
 *AI Keywords for current event matching:*
-`bake` `boil` `burnt` `christs` `day` `days` `divine` `gate` `hin` `meat` `moon` `new` `observance` `offering` `offerings` `oil` `opened` `peace` `people` `prince` `sabbath` `sanctification` `sanctify` `sin` `six` `threshold` `trespass` `working` `worship`
+#bake #boil #burnt #christs #day #days #divine #gate #hin #meat #moon #new #observance #offering #offerings #oil #opened #peace #people #prince #sabbath #sanctification #sanctify #sin #six #threshold #trespass #working #worship
 
 
 ---

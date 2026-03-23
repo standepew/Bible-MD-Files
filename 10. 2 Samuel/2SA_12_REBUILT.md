@@ -1,3 +1,22 @@
+---
+book: "2 Samuel"
+chapter: 12
+testament: "Old Testament"
+key_themes: "Nathan's Parable, David's Confession, Divine Judgment, Child's Death, Solomon's Birth, Rabbah's Fall"
+tags:
+  - rich-man-flocks-herds
+  - restore-lamb-fourfold-pity
+  - secretly-Israel-sun
+  - elders-house-raise-earth-bread
+  - Nathan-prophet-Jedidiah-LORD
+  - David-people-Rabbah-took-city
+  - nathan
+  - david
+  - divine-judgment
+  - child
+  - solomon
+  - rabbah
+---
 # 2 Samuel 12
 
 ---
@@ -87,7 +106,7 @@ LORD sent Nathan to David. Nathan came, said two men in one city; one rich, one 
 
 
 *AI Keywords for current event matching:*
-`abundance` `alive` `ammon` `anger` `anointed` `apparel` `axes` `back` `bath-sheba` `besought` `birth` `blaspheme` `bosom` `bought` `bread` `brickkiln` `bring` `changed` `child` `children` `childs` `cities` `city` `comforted` `commandment` `confession` `confrontation` `crown` `cup` `daughter` `david` `davids` `day` `dead` `death` `deed` `delivered` `depart` `despised` `die` `died` `divine` `earth` `elders` `encamp` `enemies` `evil` `ewe` `eyes` `fast` `fasted` `flock` `flocks` `fourfold` `gather` `given` `god` `gold` `gracious` `harrows` `head` `herd` `herds` `hittite` `house` `iron` `israel` `jedidiah` `jerusalem` `joab` `judah` `judgment` `killed` `king` `lamb` `lay` `lie` `little` `live` `lord` `loved` `man` `master` `meat` `men` `messengers` `name` `nathan` `nathans` `neighbour` `night` `nourished` `parable` `people` `perceived` `pity` `poor` `precious` `prophet` `rabbah` `rabbahs` `raise` `restore` `return` `rich` `rose` `royal` `saul` `saws` `secretly` `sent` `servants` `seventh` `sick` `sight` `sin` `sinned` `solomon` `solomons` `son` `spared` `spoil` `stones` `struck` `sun` `sword` `take` `talent` `told` `took` `traveler` `two` `uriah` `vex` `victory` `voice` `washed` `waters` `wayfaring` `weep` `wept` `whispered` `wife` `wives` `worshipped`
+#abundance #alive #ammon #anger #anointed #apparel #axes #back #bath-sheba #besought #birth #blaspheme #bosom #bought #bread #brickkiln #bring #changed #child #children #childs #cities #city #comforted #commandment #confession #confrontation #crown #cup #daughter #david #davids #day #dead #death #deed #delivered #depart #despised #die #died #divine #earth #elders #encamp #enemies #evil #ewe #eyes #fast #fasted #flock #flocks #fourfold #gather #given #god #gold #gracious #harrows #head #herd #herds #hittite #house #iron #israel #jedidiah #jerusalem #joab #judah #judgment #killed #king #lamb #lay #lie #little #live #lord #loved #man #master #meat #men #messengers #name #nathan #nathans #neighbour #night #nourished #parable #people #perceived #pity #poor #precious #prophet #rabbah #rabbahs #raise #restore #return #rich #rose #royal #saul #saws #secretly #sent #servants #seventh #sick #sight #sin #sinned #solomon #solomons #son #spared #spoil #stones #struck #sun #sword #take #talent #told #took #traveler #two #uriah #vex #victory #voice #washed #waters #wayfaring #weep #wept #whispered #wife #wives #worshipped
 
 
 ---

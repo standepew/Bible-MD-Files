@@ -1,3 +1,14 @@
+---
+book: "Isaiah"
+chapter: 15
+testament: "Old Testament"
+key_themes: "Divine Judgment, Moab's Destruction, Spiritual Mourning, Christ's Justice"
+tags:
+  - divine-judgment
+  - moab
+  - spiritual-mourning
+  - christ
+---
 # Isaiah 15
 
 ---
@@ -105,7 +116,7 @@ Burden, Moab, night, Ar, Moab, laid, waste, brought, silence, night, Kir, Moab, 
 
 
 *AI Keywords for current event matching:*
-`abundantly` `baldness` `beard` `blood` `brought` `burden` `christs` `complete` `cry` `desolate` `destruction` `divine` `flee` `fugitives` `heart` `high` `howl` `judgment` `justice` `laid` `lions` `moab` `moabs` `mourning` `night` `places` `remnant` `sackcloth` `silence` `spiritual` `waste` `waters` `weep` `weeping`
+#abundantly #baldness #beard #blood #brought #burden #christs #complete #cry #desolate #destruction #divine #flee #fugitives #heart #high #howl #judgment #justice #laid #lions #moab #moabs #mourning #night #places #remnant #sackcloth #silence #spiritual #waste #waters #weep #weeping
 
 
 ---

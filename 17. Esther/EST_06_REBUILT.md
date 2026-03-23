@@ -1,3 +1,14 @@
+---
+book: "Esther"
+chapter: 6
+testament: "Old Testament"
+key_themes: "Divine Providence, Royal Insomnia, Honor Reversed, Irony of Fate"
+tags:
+  - divine-providence
+  - royal-insomnia
+  - honor-reversed
+  - irony-of-fate
+---
 # Esther 6
 
 ---
@@ -141,7 +152,7 @@ Night, king, sleep, commanded, book, records, chronicles, read, king. Found, wri
 
 
 *AI Keywords for current event matching:*
-`ahasuerus` `answered` `apparel` `array` `arrayed` `banquet` `befallen` `begun` `bigthana` `book` `chamberlains` `chronicles` `city` `commanded` `court` `covered` `crown` `delight` `delivered` `dignity` `divine` `door` `esther` `fail` `fall` `fate` `found` `friends` `gallows` `gate` `haman` `hand` `hang` `haste` `hasted` `head` `heart` `honor` `honour` `horse` `horseback` `house` `insomnia` `irony` `jew` `jews` `keepers` `king` `lay` `man` `men` `ministered` `mordecai` `mourning` `night` `noble` `nothing` `outward` `prepared` `prevail` `princes` `proclaim` `proclaimed` `providence` `read` `records` `reversed` `rideth` `royal` `seed` `servants` `sits` `sleep` `sought` `speak` `spoken` `street` `talking` `teresh` `told` `useth` `wear` `wife` `wise` `written` `zeresh`
+#ahasuerus #answered #apparel #array #arrayed #banquet #befallen #begun #bigthana #book #chamberlains #chronicles #city #commanded #court #covered #crown #delight #delivered #dignity #divine #door #esther #fail #fall #fate #found #friends #gallows #gate #haman #hand #hang #haste #hasted #head #heart #honor #honour #horse #horseback #house #insomnia #irony #jew #jews #keepers #king #lay #man #men #ministered #mordecai #mourning #night #noble #nothing #outward #prepared #prevail #princes #proclaim #proclaimed #providence #read #records #reversed #rideth #royal #seed #servants #sits #sleep #sought #speak #spoken #street #talking #teresh #told #useth #wear #wife #wise #written #zeresh
 
 
 ---

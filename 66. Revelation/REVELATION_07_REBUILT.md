@@ -1,3 +1,14 @@
+---
+book: "Revelation"
+chapter: 7
+testament: "New Testament"
+key_themes: "The 144,000 Sealed, The Great Multitude, Worship Around the Throne, The Lamb's Shepherd Care"
+tags:
+  - the-144000-sealed
+  - the-great-multitude
+  - worship-around-the-throne
+  - the-lamb
+---
 # Revelation 7
 
 ---
@@ -105,7 +116,7 @@ Four, angels, standing, four, corners, earth, holding, four, winds, earth, wind,
 
 
 *AI Keywords for current event matching:*
-`144000` `amen` `angel` `angels` `answered` `around` `arrayed` `ascending` `aser` `beasts` `beheld` `benjamin` `blessing` `blood` `blow` `came` `care` `children` `clothed` `corners` `cried` `day` `dwell` `earth` `east` `elder` `elders` `eyes` `faces` `feed` `fell` `foreheads` `forty` `fountains` `four` `gad` `given` `glory` `god` `great` `hands` `heard` `heat` `holding` `honour` `hundred` `hunger` `hurt` `israel` `issachar` `joseph` `juda` `kindreds` `knowest` `lamb` `lambs` `lead` `levi` `light` `living` `loud` `manasses` `midst` `multitude` `nations` `nepthalim` `night` `number` `palms` `people` `power` `reuben` `robes` `round` `salvation` `sea` `seal` `sealed` `servants` `serve` `shepherd` `simeon` `sir` `sitteth` `standing` `stood` `sun` `tears` `temple` `thanksgiving` `thirst` `thousand` `throne` `tongues` `tree` `trees` `tribe` `tribes` `tribulation` `twelve` `voice` `washed` `waters` `whence` `white` `wind` `winds` `wipe` `wisdom` `worship` `worshipped` `zabulon`
+#144000 #amen #angel #angels #answered #around #arrayed #ascending #aser #beasts #beheld #benjamin #blessing #blood #blow #came #care #children #clothed #corners #cried #day #dwell #earth #east #elder #elders #eyes #faces #feed #fell #foreheads #forty #fountains #four #gad #given #glory #god #great #hands #heard #heat #holding #honour #hundred #hunger #hurt #israel #issachar #joseph #juda #kindreds #knowest #lamb #lambs #lead #levi #light #living #loud #manasses #midst #multitude #nations #nepthalim #night #number #palms #people #power #reuben #robes #round #salvation #sea #seal #sealed #servants #serve #shepherd #simeon #sir #sitteth #standing #stood #sun #tears #temple #thanksgiving #thirst #thousand #throne #tongues #tree #trees #tribe #tribes #tribulation #twelve #voice #washed #waters #whence #white #wind #winds #wipe #wisdom #worship #worshipped #zabulon
 
 
 ---

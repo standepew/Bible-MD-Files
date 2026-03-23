@@ -1,3 +1,13 @@
+---
+book: "Jeremiah"
+chapter: 46
+testament: "Old Testament"
+key_themes: "Christ's Victory, Egypt's Defeat, Divine Judgment, Christ's Preservation"
+tags:
+  - christ
+  - egypt
+  - divine-judgment
+---
 # Jeremiah 46
 
 ---
@@ -93,7 +103,7 @@ Word, LORD, Jeremiah, prophet, Gentiles, Egypt, army, Pharaoh, neccho, king, Egy
 
 
 *AI Keywords for current event matching:*
-`adversaries` `afar` `beaten` `christs` `day` `defeat` `deliver` `devour` `dismayed` `divine` `egypts` `end` `fall` `fear` `fled` `hand` `jacob` `judgment` `leave` `make` `multitude` `nations` `noise` `north` `off` `passed` `preservation` `punish` `return` `sacrifice` `save` `stumble` `sword` `turned` `unpunished` `vengeance` `victory`
+#adversaries #afar #beaten #christs #day #defeat #deliver #devour #dismayed #divine #egypts #end #fall #fear #fled #hand #jacob #judgment #leave #make #multitude #nations #noise #north #off #passed #preservation #punish #return #sacrifice #save #stumble #sword #turned #unpunished #vengeance #victory
 
 
 ---

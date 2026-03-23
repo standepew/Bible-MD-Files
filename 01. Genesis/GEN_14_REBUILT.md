@@ -1,3 +1,64 @@
+---
+book: "Genesis"
+chapter: 14
+testament: "Old Testament"
+key_themes: "The War of Four Kings Against Five — First Recorded War, Twelve Years Servitude and Rebellion, The Coalition Conquers — Nations, Rephaim, Sodom Falls, Lot Taken Captive — The Consequence of Choosing Sodom, Abram the Hebrew — Covenant Identity Declared, 318 Trained Servants — The Warrior Patriarch, Night Attack and Total Recovery, The Valley of Shaveh — Two Kings Meet Abram, Melchizedek King of Salem — Priest of the Most High God, Bread and Wine Brought Forth, Melchizedek Blesses Abram — The Greater Blesses the Lesser, Abram Tithes of All — Pre-Law Tithing, The King of Sodom's Offer — "Give Me the Persons," Abram's Oath — "I Have Lift Up Mine Hand Unto the LORD," "Not a Thread Nor a Shoelatchet," God Alone Will Enrich Abram"
+tags:
+  - war-of-kings
+  - four-kings
+  - five-kings
+  - Chedorlaomer
+  - Elam
+  - Amraphel
+  - Shinar
+  - Arioch
+  - Tidal
+  - Sodom
+  - Gomorrah
+  - Admah
+  - Zeboiim
+  - vale-of-Siddim
+  - twelve-years-servitude
+  - thirteenth-year-rebellion
+  - Rephaim
+  - Zuzim
+  - Emim
+  - Horites
+  - Lot-captive
+  - Abram-the-Hebrew
+  - Ivri
+  - Eber
+  - 318-servants
+  - Dan
+  - night-attack
+  - divided-himself
+  - Melchizedek
+  - Salem
+  - kohen
+  - priest
+  - El-Elyon
+  - most-high-God
+  - possessor-of-heaven-and-earth
+  - bread-and-wine
+  - communion-foreshadow
+  - blessed-Abram
+  - tithes-of-all
+  - maaser
+  - king-of-Sodom
+  - not-a-thread-shoelatchet
+  - lift-up-mine-hand
+  - oath
+  - God-alone-enriches
+  - Hebrews-7
+  - Psalm-110-4
+  - order-of-Melchizedek
+  - Christophany-debate
+  - Aaronic-vs-Melchizedek-priesthood
+  - warrior-patriarch
+  - Abram-rescues-Lot
+  - covenant-identity
+  - pre-law-tithing
+---
 # Genesis 14
 
 ---
@@ -115,7 +176,7 @@ In the days of Amraphel king of Shinar, Arioch king of Ellasar, Chedorlaomer kin
 
 For AI matching to topics and current events:
 
-`war of kings` `four kings against five` `Chedorlaomer` `Elam` `Amraphel` `Shinar` `first war` `coalition` `twelve years servitude` `thirteenth year rebellion` `fourteenth year judgment` `Rephaim` `giants` `vale of Siddim` `salt sea` `Sodom plundered` `Lot captive` `Abram the Hebrew` `Ha-Ivri` `Eber` `crossing over` `covenant identity` `318 trained servants` `ylidei beyto` `night attack` `divided himself` `Dan` `Damascus` `recovered all` `valley of Shaveh` `king's dale` `Melchizedek` `melek-tzedek` `King of Righteousness` `Salem` `shalom` `Jerusalem` `kohen` `first priest` `El Elyon` `most high God` `first use El Elyon` `possessor of heaven and earth` `bread and wine` `communion elements` `priest of most high God` `blessed Abram` `greater blesses lesser` `tithes of all` `maaser` `pre-law tithing` `Hebrews 7` `Levi paid tithes through Abraham` `order of Melchizedek` `Psalm 110:4` `king of Sodom offer` `not a thread nor shoelatchet` `lift up mine hand` `oath` `God alone enriches` `exceeding great reward` `God my provider` `separation from world wealth` `Christophany debate` `type of Christ` `pre-incarnate Christ` `Aaronic vs Melchizedek priesthood` `warrior patriarch` `small defeats many` `faith over numbers`
+#war-of-kings #four-kings-against-five #Chedorlaomer #Elam #Amraphel #Shinar #first-war #coalition #twelve-years-servitude #thirteenth-year-rebellion #fourteenth-year-judgment #Rephaim #giants #vale-of-Siddim #salt-sea #Sodom-plundered #Lot-captive #Abram-the-Hebrew #Ha-Ivri #Eber #crossing-over #covenant-identity #318-trained-servants #ylidei-beyto #night-attack #divided-himself #Dan #Damascus #recovered-all #valley-of-Shaveh #kings-dale #Melchizedek #melek-tzedek #King-of-Righteousness #Salem #shalom #Jerusalem #kohen #first-priest #El-Elyon #most-high-God #first-use-El-Elyon #possessor-of-heaven-and-earth #bread-and-wine #communion-elements #priest-of-most-high-God #blessed-Abram #greater-blesses-lesser #tithes-of-all #maaser #pre-law-tithing #Hebrews-7 #Levi-paid-tithes-through-Abraham #order-of-Melchizedek #Psalm-1104 #king-of-Sodom-offer #not-a-thread-nor-shoelatchet #lift-up-mine-hand #oath #God-alone-enriches #exceeding-great-reward #God-my-provider #separation-from-world-wealth #Christophany-debate #type-of-Christ #pre-incarnate-Christ #Aaronic-vs-Melchizedek-priesthood #warrior-patriarch #small-defeats-many #faith-over-numbers
 
 **Relevance to Current Events:**
 - Middle East geopolitics and coalition warfare — Genesis 14's coalition structure (four against five, tribute, rebellion, punishment) maps onto modern Middle East alliance and counter-alliance dynamics; the nations involved trace to the same geographic territory
@@ -431,7 +492,7 @@ For AI matching to topics and current events:
 
 ### Melchizedek to Christ — The Eternal Priesthood Thread
 
-**Genesis 14:18-20** — first priest in Scripture → **Psalm 110:4** — eternal oath → **Hebrews 5-7** — fulfilled in Christ
+[[01. Genesis/GEN_14_REBUILT|Genesis 14:18-20]] — first priest in Scripture → [[19.Psalm Part 2/PSALM_110_REBUILT|Psalm 110:4]] — eternal oath → **Hebrews 5-7** — fulfilled in Christ
 
 **Thread:**
 - Genesis 14:18 — Melchizedek: first kohen; king-priest of Salem; serves El Elyon; bread and wine; no genealogy
@@ -476,7 +537,7 @@ For AI matching to topics and current events:
 
 ### Two Kingdoms in the Valley — The Recurring Choice
 
-**Genesis 14:17-21** — King of Sodom and Melchizedek both meet Abram
+[[01. Genesis/GEN_14_REBUILT|Genesis 14:17-21]] — King of Sodom and Melchizedek both meet Abram
 
 **Thread:**
 - Genesis 14 — After Abram's victory: king of Sodom (goods and persons) vs. Melchizedek (bread, wine, blessing, tithes)

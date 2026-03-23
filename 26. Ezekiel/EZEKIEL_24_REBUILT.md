@@ -1,3 +1,13 @@
+---
+book: "Ezekiel"
+chapter: 24
+testament: "Old Testament"
+key_themes: "Christ's Judgment, Bloody City, Divine Sign, Christ's Silence"
+tags:
+  - christ
+  - bloody-city
+  - divine-sign
+---
 # Ezekiel 24
 
 ---
@@ -117,7 +127,7 @@ Ninth, year, tenth, month, tenth, day, month, word, Lord, son, man, write, name,
 
 
 *AI Keywords for current event matching:*
-`against` `blood` `bloody` `bread` `christs` `city` `cover` `desire` `died` `divine` `dumb` `eat` `eyes` `ezekiel` `fire` `fury` `judgment` `lips` `midst` `mourning` `name` `pile` `pot` `rock` `scum` `set` `sign` `silence` `therein` `top` `vengeance` `wife` `write`
+#against #blood #bloody #bread #christs #city #cover #desire #died #divine #dumb #eat #eyes #ezekiel #fire #fury #judgment #lips #midst #mourning #name #pile #pot #rock #scum #set #sign #silence #therein #top #vengeance #wife #write
 
 
 ---

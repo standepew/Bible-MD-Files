@@ -1,3 +1,18 @@
+---
+book: "1 Samuel"
+chapter: 15
+testament: "Old Testament"
+key_themes: "Samuel's Rebuke, Saul's Disobedience, Amalekites Destroyed, Saul's Partial Obedience, Kingdom Rent, Agag Executed, Samuel's Final Separation"
+tags:
+  - smote-Amalekites-Havilah-Shur-Egypt
+  - Samuel-turned-skirt-mantle-rent
+  - Samuel-turned-Saul-worshipped-LORD
+  - samuel
+  - saul
+  - amalekites-destroyed
+  - kingdom-rent
+  - agag-executed
+---
 # 1 Samuel 15
 
 ---
@@ -89,7 +104,7 @@ Samuel told Saul the LORD sent him to anoint Saul king over Israel, so hearken t
 
 
 *AI Keywords for current event matching:*
-`agag` `agags` `alive` `amalek` `amalekites` `anointed` `ass` `best` `better` `bitterness` `bleating` `blessed` `burnt` `camel` `campaign` `carmel` `chief` `childless` `children` `city` `command` `commandment` `commandments` `consumed` `cried` `day` `death` `delicately` `depart` `departed` `destroy` `destroyed` `disobedience` `ears` `edge` `egypt` `elders` `evil` `excuse` `execution` `fat` `fatlings` `feared` `fight` `final` `flew` `following` `footmen` `gathered` `gibeah` `gilgal` `god` `good` `grieved` `havilah` `head` `heard` `hearken` `hewed` `honour` `hosts` `house` `hundred` `idolatry` `infant` `iniquity` `israel` `journey` `judah` `kenites` `kindness` `king` `kingdom` `laid` `lambs` `lie` `little` `lord` `lowing` `man` `mantle` `men` `morning` `mother` `mourned` `neighbour` `night` `numbered` `obey` `obeyed` `obeying` `offerings` `oxen` `pardon` `passed` `past` `people` `performed` `pieces` `place` `pray` `ramah` `rams` `rebellion` `rebuke` `refuse` `rejected` `rejection` `remember` `rent` `repent` `repented` `rest` `return` `rose` `sacrifice` `sacrifices` `samuel` `samuels` `saul` `sauls` `sent` `separation` `set` `sheep` `shur` `sight` `sin` `sinned` `sinning` `skirt` `slay` `smite` `smote` `spare` `spared` `spoil` `stay` `strength` `stubbornness` `suckling` `sword` `telaim` `tell` `ten` `things` `thousand` `transgressed` `tribes` `turn` `turned` `two` `utterly` `valley` `vile` `voice` `wait` `way` `witchcraft` `woman` `women` `word` `words` `worship` `worshipped`
+#agag #agags #alive #amalek #amalekites #anointed #ass #best #better #bitterness #bleating #blessed #burnt #camel #campaign #carmel #chief #childless #children #city #command #commandment #commandments #consumed #cried #day #death #delicately #depart #departed #destroy #destroyed #disobedience #ears #edge #egypt #elders #evil #excuse #execution #fat #fatlings #feared #fight #final #flew #following #footmen #gathered #gibeah #gilgal #god #good #grieved #havilah #head #heard #hearken #hewed #honour #hosts #house #hundred #idolatry #infant #iniquity #israel #journey #judah #kenites #kindness #king #kingdom #laid #lambs #lie #little #lord #lowing #man #mantle #men #morning #mother #mourned #neighbour #night #numbered #obey #obeyed #obeying #offerings #oxen #pardon #passed #past #people #performed #pieces #place #pray #ramah #rams #rebellion #rebuke #refuse #rejected #rejection #remember #rent #repent #repented #rest #return #rose #sacrifice #sacrifices #samuel #samuels #saul #sauls #sent #separation #set #sheep #shur #sight #sin #sinned #sinning #skirt #slay #smite #smote #spare #spared #spoil #stay #strength #stubbornness #suckling #sword #telaim #tell #ten #things #thousand #transgressed #tribes #turn #turned #two #utterly #valley #vile #voice #wait #way #witchcraft #woman #women #word #words #worship #worshipped
 
 
 ---

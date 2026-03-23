@@ -1,3 +1,24 @@
+---
+book: "Numbers"
+chapter: 4
+testament: "Old Testament"
+key_themes: "The service census of the Levites — only those 30–50 years old counted for active duty, The Kohathites must not touch or see the holy things uncovered — Aaron and his sons cover everything before the Kohathites approach, The specific covering colours for each holy object during transport: blue, scarlet, badger skins, The danger of looking: "lest they die" — proximity to holiness without proper preparation is lethal, Gershon and Merari receive wagons; Kohath receives none — they carry on their shoulders"
+tags:
+  - Levite-service-census
+  - 30-to-50-years-active-service
+  - Kohath-most-holy-things
+  - Aaron-covers-before-Kohath-approaches
+  - lest-they-die
+  - blue-cloth
+  - scarlet-cloth
+  - badger-skins
+  - purple-cloth-on-altar
+  - Gershon-outer-coverings
+  - Merari-structural-framework
+  - 8580-active-Levites
+  - service-ages
+  - Eleazar-oversight
+---
 # Numbers 4
 
 ---
@@ -64,7 +85,7 @@ Where Numbers 3 counted all Levitical males from one month upward, Numbers 4 cou
 
 
 *AI Keywords for current event matching:*
-`active` `age` `current` `duty` `events` `matching` `numbers` `requirements` `retirement` `season` `service` `specific`
+#active #age #current #duty #events #matching #numbers #requirements #retirement #season #service #specific
 
 
 ---
@@ -166,11 +187,11 @@ Where Numbers 3 counted all Levitical males from one month upward, Numbers 4 cou
 **Numbers 4:15; Numbers 7:9** — the Kohathites bear the ark and holy things on their shoulders; they receive no wagons
 
 The "carried on shoulders" thread:
-- **Numbers 7:9** — Kohath gets no wagons "because the service of the sanctuary belonging unto them was that they should bear upon their shoulders"
-- **2 Samuel 6:3-7** — when David first brings the ark on a new cart (a Philistine method, not God's), Uzzah dies. When David brings it correctly (1 Chronicles 15:2, 13-15), the Levites carry it on their shoulders and he follows God's commandment
-- **Isaiah 9:6** — "the government shall be upon his shoulder" — the coming Messiah bears the burden of governance on His shoulders
-- **Isaiah 22:22** — "the key of the house of David will I lay upon his shoulder" — authority carried on the shoulder
-- **John 19:17** — "And he bearing his cross went forth" — the Son of God carries His own cross on His shoulders to the place of the sacrifice; the ultimate Levite bearing the ultimate burden on His shoulders to the ultimate altar
+- [[04. Numbers/NUM_07_REBUILT|Numbers 7:9]] — Kohath gets no wagons "because the service of the sanctuary belonging unto them was that they should bear upon their shoulders"
+- [[10. 2 Samuel/2_SAMUEL_06_REBUILT|2 Samuel 6:3-7]] — when David first brings the ark on a new cart (a Philistine method, not God's), Uzzah dies. When David brings it correctly (1 Chronicles 15:2, 13-15), the Levites carry it on their shoulders and he follows God's commandment
+- [[23. Isaiah/ISAIAH_09_REBUILT|Isaiah 9:6]] — "the government shall be upon his shoulder" — the coming Messiah bears the burden of governance on His shoulders
+- [[23. Isaiah/ISAIAH_22_REBUILT|Isaiah 22:22]] — "the key of the house of David will I lay upon his shoulder" — authority carried on the shoulder
+- [[43. John/JOHN_19_REBUILT|John 19:17]] — "And he bearing his cross went forth" — the Son of God carries His own cross on His shoulders to the place of the sacrifice; the ultimate Levite bearing the ultimate burden on His shoulders to the ultimate altar
 
 **What the Bible establishes:** What must be carried to God's appointed place cannot be hauled by mechanical means. It is carried on the shoulder — by a person, with full personal cost. The Kohathites' no-wagon rule is the typological statement that the burden of the holy cannot be outsourced or mechanized. Christ bearing His cross to Calvary is the fulfillment: the burden that saves is carried personally, on a shoulder.
 

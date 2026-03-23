@@ -1,3 +1,23 @@
+---
+book: "Leviticus"
+chapter: 20
+testament: "Old Testament"
+key_themes: "The penalties corresponding to the prohibitions of Leviticus 18 — this chapter is the enforcement half of the code, Molech worship: death by stoning; the community held responsible if they hide their eyes, Familiar spirits and wizards: death by stoning, "I the LORD am holy, and have severed you from other people, that ye should be mine" — election as the basis of the holiness standard, "Their blood shall be upon them" — guilt rests on the guilty party alone"
+tags:
+  - penalties
+  - Molech-death-penalty
+  - I-will-set-my-face-against
+  - community-accountability
+  - familiar-spirits-death
+  - be-holy-I-am-holy
+  - sexual-sin-penalties
+  - blood-upon-them
+  - land-spue-you-out
+  - severed-from-other-people
+  - ye-shall-be-mine
+  - clean-unclean-distinction
+  - I-the-LORD-which-sanctify-you
+---
 # Leviticus 20
 
 ---
@@ -67,7 +87,7 @@ Leviticus 20 attaches penalties to the prohibitions of Leviticus 18. Molech wors
 
 
 *AI Keywords for current event matching:*
-`202-5` `abortion` `child` `current` `events` `ezekiel` `jeremiah` `kings` `leviticus` `matching` `molech` `sacrifice` `worship`
+#202-5 #abortion #child #current #events #ezekiel #jeremiah #kings #leviticus #matching #molech #sacrifice #worship
 
 
 ---
@@ -145,15 +165,15 @@ The irony is complete: in Leviticus 20, "blood shall be upon them" is declared o
 
 ### The Land That Vomiteth — The Earth's Moral Sensitivity
 
-**Leviticus 20:22** — "that the land, whither I bring you to dwell therein, spue you not out" (same image as Leviticus 18:25, 28)
+[[03. Leviticus/LEV_20_REBUILT|Leviticus 20:22]] — "that the land, whither I bring you to dwell therein, spue you not out" (same image as Leviticus 18:25, 28)
 
 This image of the land vomiting its inhabitants runs through Scripture as a symbol of creation's moral responsiveness:
 
-- **Genesis 4:10-12** — the ground receives Abel's blood and is cursed; it "hath opened her mouth to receive thy brother's blood"
+- [[01. Genesis/GEN_04_REBUILT|Genesis 4:10-12]] — the ground receives Abel's blood and is cursed; it "hath opened her mouth to receive thy brother's blood"
 - **Leviticus 18:25, 28; 20:22** — the land vomits those who defile it
-- **Isaiah 24:4-6** — "The earth mourneth and fadeth away... The earth also is defiled under the inhabitants thereof; because they have transgressed the laws"
-- **Romans 8:22** — "For we know that the whole creation groaneth and travaileth in pain together until now" — creation's groaning under human sin
-- **Revelation 11:18** — "shouldest destroy them which destroy the earth"
+- [[23. Isaiah/ISAIAH_24_REBUILT|Isaiah 24:4-6]] — "The earth mourneth and fadeth away... The earth also is defiled under the inhabitants thereof; because they have transgressed the laws"
+- [[45. Romans/ROMANS_08_REBUILT|Romans 8:22]] — "For we know that the whole creation groaneth and travaileth in pain together until now" — creation's groaning under human sin
+- [[66. Revelation/REVELATION_11_REBUILT|Revelation 11:18]] — "shouldest destroy them which destroy the earth"
 
 **What the Bible establishes:** The land/creation is not a passive stage for human history. It has a covenant relationship with its Creator and a moral responsiveness to human sin. The land that bears Molech-fire, adultery, and blood-guilt builds up a debt that it eventually pays — not by legislation but by expulsion. This is the Bible's own explanation for the fall of nations: not merely military defeat or economic collapse but the land doing what creation does when the weight of iniquity reaches its limit.
 

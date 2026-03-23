@@ -1,3 +1,93 @@
+---
+book: "Joshua"
+chapter: 9
+testament: "Old Testament"
+key_themes: "Gibeonite Deception, False Ambassadors, League Without Counsel, Divine Oath, Bondservants, Wood Hewers and Water Drawers, Covenant Faithfulness, Fear of Israel's God"
+tags:
+  - kings-Jordan-side
+  - hills-valleys
+  - coasts-great-sea-against-Lebanon
+  - Hittite-Amorite-Canaanite-Perizzite-Hivite-Jebusite
+  - heard
+  - gathered-fight-Joshua-Israel
+  - accord
+  - inhabitants-Gibeon-heard
+  - Joshua-Jericho-Ai
+  - work-wilily
+  - ambassadors
+  - old-sacks-asses
+  - wine-bottles-old-rent-bound
+  - old-shoes-clouted-feet
+  - old-garments
+  - bread-provision-dry-mouldy
+  - went-Joshua-camp-Gilgal
+  - men-Israel
+  - far-country
+  - league-us
+  - men-Israel-Hivites
+  - dwell-among-us
+  - league
+  - Joshua-servants
+  - whence-come
+  - far-country-servants
+  - name-LORD-God
+  - heard-fame
+  - Egypt
+  - two-kings-Amorites
+  - Jordan-Sihon-king-Heshbon
+  - Og-king-Bashan
+  - Ashtaroth
+  - elders-inhabitants-country-spake
+  - Take-victuals-journey
+  - go-meet
+  - servants
+  - league-us
+  - bread-hot-provision-houses
+  - day-came
+  - dry-mouldy
+  - wine-bottles-filled-new
+  - rent
+  - garments-shoes-old-long-journey
+  - men-victuals
+  - asked-counsel-mouth-LORD
+  - Joshua-peace
+  - league-live
+  - princes-congregation-sware
+  - three-days-league
+  - neighbours-dwelt-among
+  - children-Israel-journeyed-cities-third-day
+  - cities-Gibeon-Chephirah-Beeroth-Kirjath-jearim
+  - children-Israel-smote-not
+  - princes-congregation-swarn-LORD-God-Israel
+  - congregation-murmured-princes
+  - princes-congregation
+  - swarn-LORD-God-Israel
+  - touch-not
+  - live
+  - wrath-oath-sware
+  - princes-live
+  - hewers-wood-drawers-water-congregation
+  - princes-promised
+  - Joshua-called
+  - spake-beguiled
+  - far-dwell-among
+  - cursed
+  - freed-bondmen
+  - hewers-wood-drawers-water-house-God
+  - answered-Joshua
+  - told-servants
+  - LORD-God-commanded-Moses-give-land
+  - destroy-inhabitants-land
+  - sore-afraid-lives
+  - done-thing
+  - hand
+  - good-right
+  - delivered-hand-children-Israel
+  - slew-not
+  - Joshua-day-hewers-wood-drawers-water-congregation
+  - altar-LORD
+  - day-place-choose
+---
 # Joshua 9
 
 ---
@@ -109,7 +199,7 @@ When Canaanite kings hear of Israel's victories, they unite to fight. Gibeon's i
 
 
 *AI Keywords for current event matching:*
-`accord` `afraid` `against` `altar` `ambassadors` `ambassadorship` `among` `amorite` `amorites` `answered` `ashtaroth` `asked` `asses` `bashan` `beeroth` `beguiled` `bondmen` `bottles` `bound` `bread` `called` `came` `camp` `canaanite` `chephirah` `children` `choose` `cities` `clouted` `coalition` `coasts` `come` `commanded` `confrontation` `congregation` `counsel` `country` `cursed` `day` `days` `deception` `decision` `delivered` `destroy` `dilemma` `discovery` `done` `drawers` `dry` `dwell` `egypt` `elders` `explanation` `false` `fame` `far` `feet` `fight` `filled` `formation` `freed` `garments` `gathered` `gibeon` `gibeonite` `gilgal` `give` `god` `good` `great` `hand` `heard` `heshbon` `hewers` `hills` `hittite` `hivite` `hivites` `hot` `house` `houses` `inhabitants` `israel` `jearim` `jebusite` `jericho` `jordan` `joshua` `journey` `journeyed` `judgment` `king` `kings` `kirjath` `land` `league` `lebanon` `live` `lives` `long` `lord` `meet` `men` `moses` `mouldy` `mouth` `murmured` `name` `neighbours` `new` `oath` `old` `peace` `perizzite` `place` `princes` `promised` `provision` `rent` `right` `role` `sacks` `sea` `servant` `servants` `service` `shoes` `side` `sihon` `slew` `smote` `sore` `spake` `sware` `sworn` `take` `testimony` `thing` `third` `three` `told` `touch` `two` `valleys` `victuals` `water` `went` `whence` `wilily` `wine` `without` `wood` `work` `wrath`
+#accord #afraid #against #altar #ambassadors #ambassadorship #among #amorite #amorites #answered #ashtaroth #asked #asses #bashan #beeroth #beguiled #bondmen #bottles #bound #bread #called #came #camp #canaanite #chephirah #children #choose #cities #clouted #coalition #coasts #come #commanded #confrontation #congregation #counsel #country #cursed #day #days #deception #decision #delivered #destroy #dilemma #discovery #done #drawers #dry #dwell #egypt #elders #explanation #false #fame #far #feet #fight #filled #formation #freed #garments #gathered #gibeon #gibeonite #gilgal #give #god #good #great #hand #heard #heshbon #hewers #hills #hittite #hivite #hivites #hot #house #houses #inhabitants #israel #jearim #jebusite #jericho #jordan #joshua #journey #journeyed #judgment #king #kings #kirjath #land #league #lebanon #live #lives #long #lord #meet #men #moses #mouldy #mouth #murmured #name #neighbours #new #oath #old #peace #perizzite #place #princes #promised #provision #rent #right #role #sacks #sea #servant #servants #service #shoes #side #sihon #slew #smote #sore #spake #sware #sworn #take #testimony #thing #third #three #told #touch #two #valleys #victuals #water #went #whence #wilily #wine #without #wood #work #wrath
 
 
 ---

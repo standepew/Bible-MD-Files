@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 38
+testament: "Old Testament"
+key_themes: "Suffering for Sin, Divine Chastening, Confession, Prayer for Help"
+tags:
+  - suffering-for-sin
+  - divine-chastening
+  - confession
+  - prayer-for-help
+---
 # Psalm 38
 
 ---
@@ -153,7 +164,7 @@ Psalm, David, remembrance, LORD, rebuke, wrath, chasten, hot, displeasure, arrow
 
 
 *AI Keywords for current event matching:*
-`afar` `aloof` `anger` `arrows` `bones` `bowed` `broken` `burden` `chasten` `chastening` `confession` `corrupt` `david` `day` `deaf` `deceits` `declare` `desire` `disease` `displeasure` `disquietness` `divine` `dumb` `eyes` `faileth` `far` `feeble` `filled` `flesh` `foolishness` `forsake` `friends` `god` `gone` `groaning` `hand` `haste` `head` `hear` `heart` `heavy` `help` `hidden` `hope` `hot` `hurt` `imagine` `iniquities` `iniquity` `kinsmen` `lay` `life` `light` `loathsome` `loins` `long` `lord` `lovers` `make` `mischievous` `mourning` `mouth` `open` `panteth` `prayer` `presseth` `psalm` `rebuke` `remembrance` `reproofs` `rest` `roared` `salvation` `seek` `sin` `snares` `sore` `sorry` `soundness` `speak` `stand` `stick` `stink` `strength` `suffering` `troubled` `wounds` `wrath`
+#afar #aloof #anger #arrows #bones #bowed #broken #burden #chasten #chastening #confession #corrupt #david #day #deaf #deceits #declare #desire #disease #displeasure #disquietness #divine #dumb #eyes #faileth #far #feeble #filled #flesh #foolishness #forsake #friends #god #gone #groaning #hand #haste #head #hear #heart #heavy #help #hidden #hope #hot #hurt #imagine #iniquities #iniquity #kinsmen #lay #life #light #loathsome #loins #long #lord #lovers #make #mischievous #mourning #mouth #open #panteth #prayer #presseth #psalm #rebuke #remembrance #reproofs #rest #roared #salvation #seek #sin #snares #sore #sorry #soundness #speak #stand #stick #stink #strength #suffering #troubled #wounds #wrath
 
 
 ---

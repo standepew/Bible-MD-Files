@@ -1,3 +1,13 @@
+---
+book: "Jeremiah"
+chapter: 2
+testament: "Old Testament"
+key_themes: "Christ's Faithfulness, Spiritual Apostasy, Divine Judgment, Christ's Redemption"
+tags:
+  - christ
+  - spiritual-apostasy
+  - divine-judgment
+---
 # Jeremiah 2
 
 ---
@@ -105,7 +115,7 @@ Word, LORD, cry, ears, Jerusalem, remember, kindness, youth, love, espousals, we
 
 
 *AI Keywords for current event matching:*
-`apostasy` `astonish` `broken` `changed` `christs` `cisterns` `come` `correction` `devoured` `divine` `espousals` `evil` `faithfulness` `firstfruits` `forsaken` `fountain` `glory` `heavens` `increase` `judgment` `kindness` `land` `lions` `living` `love` `noble` `planted` `profit` `prophets` `redemption` `remember` `roared` `sown` `spiritual` `strange` `sword` `vanity` `vine` `waters` `wilderness` `young` `youth`
+#apostasy #astonish #broken #changed #christs #cisterns #come #correction #devoured #divine #espousals #evil #faithfulness #firstfruits #forsaken #fountain #glory #heavens #increase #judgment #kindness #land #lions #living #love #noble #planted #profit #prophets #redemption #remember #roared #sown #spiritual #strange #sword #vanity #vine #waters #wilderness #young #youth
 
 
 ---

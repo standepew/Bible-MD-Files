@@ -1,3 +1,20 @@
+---
+book: "1 Kings"
+chapter: 3
+testament: "Old Testament"
+key_themes: "Solomon's Wisdom, Divine Dream, Wise Judgment, Two Harlots Case"
+tags:
+  - speech-pleased-Lord-Solomon-asked
+  - riches-honour-kings-days
+  - women-harlots-king
+  - woman-child-died-night-overlaid
+  - king-sword
+  - king-living-child-slay-mother
+  - solomon
+  - divine-dream
+  - wise-judgment
+  - two-harlots-case
+---
 # 1 Kings 3
 
 ---
@@ -89,7 +106,7 @@ Solomon affinity Pharaoh king Egypt, Pharaoh's daughter, city David, building ho
 
 
 *AI Keywords for current event matching:*
-`affinity` `alliance` `altar` `appearance` `appeared` `ark` `ask` `asked` `awoke` `bad` `bear` `bosom` `bowels` `building` `built` `burnt` `case` `child` `chosen` `city` `come` `commandments` `considered` `covenant` `daughter` `david` `day` `days` `dead` `delivered` `died` `discern` `divide` `divine` `dream` `egypt` `enemies` `father` `feared` `feast` `fulfillment` `gibeon` `give` `god` `good` `great` `half` `handmaid` `harlots` `heart` `high` `honour` `house` `improper` `incense` `israel` `jerusalem` `judge` `judged` `judgment` `keep` `kept` `kindness` `king` `kings` `know` `lengthen` `life` `like` `little` `living` `long` `lord` `loved` `mercy` `midnight` `midst` `morning` `mother` `multitude` `name` `night` `numbered` `offerings` `overlaid` `peace` `people` `pharaoh` `place` `places` `pleased` `political` `prayer` `response` `riches` `righteousness` `sacrifice` `sacrificed` `save` `servant` `servants` `shewed` `slay` `slept` `solomon` `solomons` `son` `speech` `spoke` `statutes` `stranger` `suck` `sword` `third` `thousand` `throne` `together` `truth` `two` `understanding` `uprightness` `walk` `walked` `walking` `wall` `ways` `wisdom` `wise` `woman` `womans` `women` `words` `worship` `yearned`
+#affinity #alliance #altar #appearance #appeared #ark #ask #asked #awoke #bad #bear #bosom #bowels #building #built #burnt #case #child #chosen #city #come #commandments #considered #covenant #daughter #david #day #days #dead #delivered #died #discern #divide #divine #dream #egypt #enemies #father #feared #feast #fulfillment #gibeon #give #god #good #great #half #handmaid #harlots #heart #high #honour #house #improper #incense #israel #jerusalem #judge #judged #judgment #keep #kept #kindness #king #kings #know #lengthen #life #like #little #living #long #lord #loved #mercy #midnight #midst #morning #mother #multitude #name #night #numbered #offerings #overlaid #peace #people #pharaoh #place #places #pleased #political #prayer #response #riches #righteousness #sacrifice #sacrificed #save #servant #servants #shewed #slay #slept #solomon #solomons #son #speech #spoke #statutes #stranger #suck #sword #third #thousand #throne #together #truth #two #understanding #uprightness #walk #walked #walking #wall #ways #wisdom #wise #woman #womans #women #words #worship #yearned
 
 
 ---

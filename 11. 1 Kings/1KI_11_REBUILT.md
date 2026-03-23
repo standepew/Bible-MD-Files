@@ -1,3 +1,17 @@
+---
+book: "1 Kings"
+chapter: 11
+testament: "Old Testament"
+key_themes: "Solomon's Disobedience, Foreign Wives, Idolatry, Kingdom Division, Adversaries Rise"
+tags:
+  - reign-soul-desire-king-Israel
+  - afflict-seed-David-forever
+  - solomon
+  - foreign-wives
+  - idolatry
+  - kingdom-division
+  - adversaries-rise
+---
 # 1 Kings 11
 
 ---
@@ -89,7 +103,7 @@ King Solomon loved strange women, daughter Pharaoh, women Moabites, Ammonites, E
 
 
 *AI Keywords for current event matching:*
-`abhorred` `abomination` `acts` `adversary` `afflict` `ahijah` `alone` `ammon` `ammonites` `anger` `angry` `answered` `appeared` `ashtoreth` `band` `book` `breaches` `build` `built` `buried` `burnt` `bury` `captain` `cause` `charge` `chemosh` `children` `chosen` `city` `clad` `clave` `command` `commanded` `commandments` `concubines` `country` `covenant` `cut` `damascus` `daughter` `david` `days` `dead` `death` `depart` `desire` `divine` `done` `dwelt` `edom` `edomite` `edomites` `egypt` `eliadah` `ephrathite` `evil` `father` `fathers` `favour` `field` `first` `fled` `forever` `forsaken` `forty` `fully` `garment` `gathered` `genubath` `give` `god` `goddess` `gods` `hadad` `hadadezer` `hand` `hearken` `heart` `high` `hill` `hittites` `host` `house` `household` `hundred` `incense` `industrious` `israel` `jeroboam` `jeroboams` `jerusalem` `joab` `joseph` `judgments` `keep` `kept` `kill` `king` `kingdom` `lacked` `land` `let` `light` `lord` `love` `loved` `male` `man` `men` `midian` `mighty` `milcom` `millo` `mischief` `moab` `moabites` `molech` `months` `mother` `name` `nations` `nebat` `new` `old` `paran` `perfect` `pharaoh` `pieces` `place` `princesses` `prophecy` `prophet` `prophetic` `put` `queen` `rehoboam` `reign` `reigned` `remain` `rend` `rent` `repaired` `response` `rezon` `right` `rise` `ruler` `sacrificed` `sake` `second` `seed` `servant` `servants` `seven` `shilonite` `shishak` `sight` `sin` `sister` `six` `slain` `slept` `slew` `smitten` `solomon` `solomons` `son` `sons` `soul` `statutes` `stirred` `strange` `sure` `syria` `tahpenes` `take` `ten` `thing` `three` `time` `tribe` `tribes` `turn` `turned` `twelve` `twice` `valour` `victuals` `walk` `walked` `way` `ways` `weaned` `widow` `wife` `wisdom` `wives` `woman` `women` `worshipped` `written` `years` `young` `zereda` `zeruah` `zidonians` `zobah`
+#abhorred #abomination #acts #adversary #afflict #ahijah #alone #ammon #ammonites #anger #angry #answered #appeared #ashtoreth #band #book #breaches #build #built #buried #burnt #bury #captain #cause #charge #chemosh #children #chosen #city #clad #clave #command #commanded #commandments #concubines #country #covenant #cut #damascus #daughter #david #days #dead #death #depart #desire #divine #done #dwelt #edom #edomite #edomites #egypt #eliadah #ephrathite #evil #father #fathers #favour #field #first #fled #forever #forsaken #forty #fully #garment #gathered #genubath #give #god #goddess #gods #hadad #hadadezer #hand #hearken #heart #high #hill #hittites #host #house #household #hundred #incense #industrious #israel #jeroboam #jeroboams #jerusalem #joab #joseph #judgments #keep #kept #kill #king #kingdom #lacked #land #let #light #lord #love #loved #male #man #men #midian #mighty #milcom #millo #mischief #moab #moabites #molech #months #mother #name #nations #nebat #new #old #paran #perfect #pharaoh #pieces #place #princesses #prophecy #prophet #prophetic #put #queen #rehoboam #reign #reigned #remain #rend #rent #repaired #response #rezon #right #rise #ruler #sacrificed #sake #second #seed #servant #servants #seven #shilonite #shishak #sight #sin #sister #six #slain #slept #slew #smitten #solomon #solomons #son #sons #soul #statutes #stirred #strange #sure #syria #tahpenes #take #ten #thing #three #time #tribe #tribes #turn #turned #twelve #twice #valour #victuals #walk #walked #way #ways #weaned #widow #wife #wisdom #wives #woman #women #worshipped #written #years #young #zereda #zeruah #zidonians #zobah
 
 
 ---

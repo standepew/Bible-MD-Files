@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 134
+testament: "Old Testament"
+key_themes: "Night Worship, Servants' Blessing, Divine Service, Zion's Blessing"
+tags:
+  - night-worship
+  - servants
+  - divine-service
+  - zion
+---
 # Psalm 134
 
 ---
@@ -69,7 +80,7 @@ Song, degrees, bless, LORD, servants, LORD, night, stand, house, LORD, Lift, han
 
 
 *AI Keywords for current event matching:*
-`bless` `blessing` `divine` `earth` `hands` `heaven` `house` `lift` `lord` `made` `night` `sanctuary` `servants` `service` `stand` `worship` `zion` `zions`
+#bless #blessing #divine #earth #hands #heaven #house #lift #lord #made #night #sanctuary #servants #service #stand #worship #zion #zions
 
 
 ---

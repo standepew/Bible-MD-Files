@@ -1,3 +1,14 @@
+---
+book: "Philippians"
+chapter: 2
+testament: "New Testament"
+key_themes: "The Mind of Christ, Christ's Humiliation and Exaltation, Working Out Salvation, Examples of Service"
+tags:
+  - the-mind-of-christ
+  - christ
+  - working-out-salvation
+  - examples-of-service
+---
 # Philippians 2
 
 ---
@@ -117,7 +128,7 @@ Consolation, Christ, comfort, love, fellowship, Spirit, bowels, mercies, fulfil,
 
 
 *AI Keywords for current event matching:*
-`above` `absence` `accord` `beloved` `blameless` `bow` `bowels` `brother` `care` `carefully` `cause` `christ` `christs` `come` `comfort` `companion` `confess` `consolation` `crooked` `cross` `day` `death` `disputings` `earth` `epaphroditus` `equal` `esteem` `exaltation` `exalted` `examples` `faith` `fashion` `father` `fear` `fellowship` `fellowsoldier` `form` `fulfil` `gladness` `glory` `god` `good` `gospel` `harmless` `heard` `heaven` `heaviness` `highly` `hold` `holding` `hope` `humbled` `humiliation` `jesus` `joy` `knee` `know` `labour` `laboured` `lack` `less` `life` `lights` `likeminded` `likeness` `longed` `lord` `love` `lowliness` `man` `men` `mercies` `mercy` `messenger` `mind` `ministered` `murmurings` `name` `nation` `necessary` `obedient` `obeyed` `offered` `others` `perverse` `pleasure` `presence` `presently` `proof` `rebuke` `receive` `regarding` `rejoice` `reputation` `robbery` `run` `sacrifice` `salvation` `see` `seek` `send` `sent` `servant` `served` `service` `shine` `shortly` `sick` `son` `sons` `sorrow` `sorrowful` `spirit` `state` `strife` `supply` `supposed` `things` `timotheus` `tongue` `trembling` `trust` `vain` `vainglory` `wants` `word` `work` `worketh` `working` `world`
+#above #absence #accord #beloved #blameless #bow #bowels #brother #care #carefully #cause #christ #christs #come #comfort #companion #confess #consolation #crooked #cross #day #death #disputings #earth #epaphroditus #equal #esteem #exaltation #exalted #examples #faith #fashion #father #fear #fellowship #fellowsoldier #form #fulfil #gladness #glory #god #good #gospel #harmless #heard #heaven #heaviness #highly #hold #holding #hope #humbled #humiliation #jesus #joy #knee #know #labour #laboured #lack #less #life #lights #likeminded #likeness #longed #lord #love #lowliness #man #men #mercies #mercy #messenger #mind #ministered #murmurings #name #nation #necessary #obedient #obeyed #offered #others #perverse #pleasure #presence #presently #proof #rebuke #receive #regarding #rejoice #reputation #robbery #run #sacrifice #salvation #see #seek #send #sent #servant #served #service #shine #shortly #sick #son #sons #sorrow #sorrowful #spirit #state #strife #supply #supposed #things #timotheus #tongue #trembling #trust #vain #vainglory #wants #word #work #worketh #working #world
 
 
 ---

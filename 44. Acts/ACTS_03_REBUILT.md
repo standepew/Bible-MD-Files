@@ -1,3 +1,14 @@
+---
+book: "Acts"
+chapter: 3
+testament: "New Testament"
+key_themes: "The Healing of the Lame Man, Peter's Second Sermon, The Call to Repentance, The Promise of Restoration"
+tags:
+  - the-healing-of-the-lame-man
+  - peter
+  - the-call-to-repentance
+  - the-promise-of-restoration
+---
 # Acts 3
 
 ---
@@ -105,7 +116,7 @@ Peter, John, temple, hour, prayer, ninth, hour, man, lame, mother, womb, carried
 
 
 *AI Keywords for current event matching:*
-`abraham` `alms` `amazement` `ankle` `answered` `ask` `asked` `beautiful` `began` `bless` `blessed` `blotted` `bones` `brethren` `call` `called` `carried` `children` `christ` `converted` `covenant` `daily` `days` `dead` `delivered` `denied` `desired` `destroyed` `determined` `earnestly` `earth` `entered` `expecting` `eyes` `faith` `fastening` `fathers` `feet` `filled` `first` `followed` `foretold` `fulfilled` `gate` `gave` `give` `given` `glorified` `god` `gold` `granted` `greatly` `hand` `happened` `healed` `healing` `hear` `heard` `heaven` `held` `holiness` `holy` `hour` `ignorance` `immediately` `iniquities` `isaac` `israel` `jacob` `jesus` `john` `killed` `kindreds` `knew` `know` `laid` `lame` `leaping` `life` `lifted` `look` `lord` `made` `man` `marvel` `moses` `mother` `murderer` `name` `nazareth` `ninth` `people` `perfect` `peter` `peters` `pilate` `porch` `power` `praising` `prayer` `preached` `presence` `prince` `promise` `prophet` `prophets` `raised` `ran` `receive` `received` `refreshing` `repent` `repentance` `restitution` `restoration` `right` `rise` `rulers` `samuel` `sat` `saying` `second` `seed` `seeing` `send` `sent` `sermon` `shewed` `silver` `sins` `solomon` `son` `soundness` `spoken` `strength` `strong` `suffer` `temple` `things` `times` `turning` `walk` `walked` `walking` `witnesses` `womb` `wonder` `wondering` `world`
+#abraham #alms #amazement #ankle #answered #ask #asked #beautiful #began #bless #blessed #blotted #bones #brethren #call #called #carried #children #christ #converted #covenant #daily #days #dead #delivered #denied #desired #destroyed #determined #earnestly #earth #entered #expecting #eyes #faith #fastening #fathers #feet #filled #first #followed #foretold #fulfilled #gate #gave #give #given #glorified #god #gold #granted #greatly #hand #happened #healed #healing #hear #heard #heaven #held #holiness #holy #hour #ignorance #immediately #iniquities #isaac #israel #jacob #jesus #john #killed #kindreds #knew #know #laid #lame #leaping #life #lifted #look #lord #made #man #marvel #moses #mother #murderer #name #nazareth #ninth #people #perfect #peter #peters #pilate #porch #power #praising #prayer #preached #presence #prince #promise #prophet #prophets #raised #ran #receive #received #refreshing #repent #repentance #restitution #restoration #right #rise #rulers #samuel #sat #saying #second #seed #seeing #send #sent #sermon #shewed #silver #sins #solomon #son #soundness #spoken #strength #strong #suffer #temple #things #times #turning #walk #walked #walking #witnesses #womb #wonder #wondering #world
 
 
 ---

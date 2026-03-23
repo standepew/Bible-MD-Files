@@ -1,3 +1,14 @@
+---
+book: "Joel"
+chapter: 2
+testament: "Old Testament"
+key_themes: "Christ's Spirit Outpouring, Day of the LORD, Divine Repentance, Restoration Promise"
+tags:
+  - christ
+  - day-of-the-lord
+  - divine-repentance
+  - restoration-promise
+---
 # Joel 2
 
 ---
@@ -105,7 +116,7 @@ Blow, trumpet, Zion, sound, alarm, holy, mountain, inhabitants, land, tremble, d
 
 
 *AI Keywords for current event matching:*
-`ashamed` `blood` `christs` `cometh` `corn` `darkness` `daughters` `day` `divine` `dreams` `fasting` `flesh` `floors` `full` `gracious` `great` `heart` `lord` `men` `merciful` `moon` `never` `oil` `old` `outpouring` `pour` `promise` `prophesy` `rend` `repentance` `restoration` `restore` `sons` `spirit` `sun` `terrible` `turn` `weeping` `wheat` `wine` `years`
+#ashamed #blood #christs #cometh #corn #darkness #daughters #day #divine #dreams #fasting #flesh #floors #full #gracious #great #heart #lord #men #merciful #moon #never #oil #old #outpouring #pour #promise #prophesy #rend #repentance #restoration #restore #sons #spirit #sun #terrible #turn #weeping #wheat #wine #years
 
 
 ---

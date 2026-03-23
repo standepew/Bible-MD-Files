@@ -1,3 +1,16 @@
+---
+book: "1 Samuel"
+chapter: 27
+testament: "Old Testament"
+key_themes: "David Flees to Philistines, Life with Achish, Ziklag Given, Deceptive Raids, Achish's Trust"
+tags:
+  - Saul-David-fled-Gath-sought
+  - david-flees-to-philistines
+  - life-with-achish
+  - ziklag-given
+  - deceptive-raids
+  - achish
+---
 # 1 Samuel 27
 
 ---
@@ -83,7 +96,7 @@ David said in his heart he would perish one day by Saul's hand; nothing better t
 
 
 *AI Keywords for current event matching:*
-`abhor` `abigail` `achish` `achishs` `ahinoam` `alive` `amalekites` `apparel` `arose` `asses` `believed` `camels` `carmelitess` `city` `coast` `country` `david` `davids` `day` `deceptive` `despair` `dwell` `dwelt` `egypt` `escape` `eyes` `fled` `flight` `forever` `four` `full` `gath` `geshurites` `gezrites` `given` `grace` `hand` `heart` `household` `hundred` `inhabitants` `invaded` `israel` `jerahmeelites` `jezreelitess` `judah` `kenites` `king` `kings` `land` `left` `man` `manner` `maoch` `men` `months` `nabal` `nations` `oxen` `people` `perish` `pertaineth` `philistines` `place` `raids` `returned` `road` `royal` `saul` `saved` `seek` `servant` `sheep` `shur` `six` `smote` `son` `sought` `south` `tell` `tidings` `time` `town` `trust` `two` `utterly` `wife` `wives` `woman` `year` `ziklag`
+#abhor #abigail #achish #achishs #ahinoam #alive #amalekites #apparel #arose #asses #believed #camels #carmelitess #city #coast #country #david #davids #day #deceptive #despair #dwell #dwelt #egypt #escape #eyes #fled #flight #forever #four #full #gath #geshurites #gezrites #given #grace #hand #heart #household #hundred #inhabitants #invaded #israel #jerahmeelites #jezreelitess #judah #kenites #king #kings #land #left #man #manner #maoch #men #months #nabal #nations #oxen #people #perish #pertaineth #philistines #place #raids #returned #road #royal #saul #saved #seek #servant #sheep #shur #six #smote #son #sought #south #tell #tidings #time #town #trust #two #utterly #wife #wives #woman #year #ziklag
 
 
 ---

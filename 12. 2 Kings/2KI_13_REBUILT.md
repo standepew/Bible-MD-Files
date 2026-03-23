@@ -1,3 +1,16 @@
+---
+book: "2 Kings"
+chapter: 13
+testament: "Old Testament"
+key_themes: "Jehoahaz's Reign, Jehoash's Reign, Elisha's Death, Arrow Prophecy, Resurrection Miracle"
+tags:
+  - Elisha-bow-arrows-bow-arrows
+  - jehoahaz
+  - jehoash
+  - elisha
+  - arrow-prophecy
+  - resurrection-miracle
+---
 # 2 Kings 13
 
 ---
@@ -83,7 +96,7 @@ Three twentieth year Joash son Ahaziah king Judah, Jehoahaz son Jehu reigned Isr
 
 
 *AI Keywords for current event matching:*
-`abraham` `acts` `ahaziah` `amaziah` `anger` `aphek` `arrow` `arrows` `band` `bands` `beat` `beforetime` `ben-hadad` `besought` `bones` `book` `bow` `buried` `burying` `cast` `chariot` `chariots` `children` `chronicles` `cities` `compassion` `consumed` `covenant` `days` `death` `deliverance` `delivered` `departed` `destroy` `destroyed` `died` `dust` `eastward` `elisha` `elishas` `evil` `face` `fallen` `father` `fathers` `feet` `fifty` `five` `footmen` `fought` `god` `gracious` `ground` `grove` `hand` `hands` `hazael` `hearkened` `horsemen` `house` `invaded` `isaac` `israel` `jacob` `jehoahaz` `jehoahazs` `jehoash` `jehoashs` `jehu` `jeroboam` `joash` `judah` `king` `kings` `land` `lord` `man` `men` `miracle` `moabites` `nebat` `opened` `oppressed` `oppression` `people` `presence` `recovered` `reign` `reigned` `respect` `resurrection` `revived` `samaria` `saviour` `sepulchre` `seventeen` `seventh` `shoot` `shot` `sick` `sickness` `sight` `sin` `sins` `six` `sixteen` `slept` `smite` `smitten` `smote` `son` `stayed` `syria` `syrian` `syrians` `ten` `tents` `thirty` `thousand` `three` `threshing` `thrice` `throne` `times` `touched` `twentieth` `war` `wept` `window` `wroth` `year` `years`
+#abraham #acts #ahaziah #amaziah #anger #aphek #arrow #arrows #band #bands #beat #beforetime #ben-hadad #besought #bones #book #bow #buried #burying #cast #chariot #chariots #children #chronicles #cities #compassion #consumed #covenant #days #death #deliverance #delivered #departed #destroy #destroyed #died #dust #eastward #elisha #elishas #evil #face #fallen #father #fathers #feet #fifty #five #footmen #fought #god #gracious #ground #grove #hand #hands #hazael #hearkened #horsemen #house #invaded #isaac #israel #jacob #jehoahaz #jehoahazs #jehoash #jehoashs #jehu #jeroboam #joash #judah #king #kings #land #lord #man #men #miracle #moabites #nebat #opened #oppressed #oppression #people #presence #recovered #reign #reigned #respect #resurrection #revived #samaria #saviour #sepulchre #seventeen #seventh #shoot #shot #sick #sickness #sight #sin #sins #six #sixteen #slept #smite #smitten #smote #son #stayed #syria #syrian #syrians #ten #tents #thirty #thousand #three #threshing #thrice #throne #times #touched #twentieth #war #wept #window #wroth #year #years
 
 
 ---

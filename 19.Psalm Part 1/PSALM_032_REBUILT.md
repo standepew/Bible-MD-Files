@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 32
+testament: "Old Testament"
+key_themes: "Forgiveness of Sin, Confession, God's Protection, Joy of Salvation"
+tags:
+  - forgiveness-of-sin
+  - confession
+  - god
+  - joy-of-salvation
+---
 # Psalm 32
 
 ---
@@ -165,7 +176,7 @@ Psalm, David, Maschil, blessed, transgression, forgiven, sin, covered, blessed, 
 
 
 *AI Keywords for current event matching:*
-`acknowledged` `blessed` `bones` `come` `compass` `confess` `confession` `covered` `david` `day` `deliverance` `drought` `eye` `floods` `forgavest` `forgiven` `forgiveness` `found` `glad` `godly` `gods` `great` `guide` `guile` `hand` `heart` `heavy` `hid` `hiding` `imputeth` `iniquity` `instruct` `joy` `kept` `lord` `man` `maschil` `mercy` `moisture` `nigh` `place` `pray` `preserve` `protection` `psalm` `rejoice` `righteous` `roaming` `salvation` `shout` `silence` `sin` `songs` `spirit` `summer` `teach` `time` `transgression` `transgressions` `trouble` `turned` `upright` `waters` `waxed` `way`
+#acknowledged #blessed #bones #come #compass #confess #confession #covered #david #day #deliverance #drought #eye #floods #forgavest #forgiven #forgiveness #found #glad #godly #gods #great #guide #guile #hand #heart #heavy #hid #hiding #imputeth #iniquity #instruct #joy #kept #lord #man #maschil #mercy #moisture #nigh #place #pray #preserve #protection #psalm #rejoice #righteous #roaming #salvation #shout #silence #sin #songs #spirit #summer #teach #time #transgression #transgressions #trouble #turned #upright #waters #waxed #way
 
 
 ---

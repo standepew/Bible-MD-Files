@@ -1,3 +1,14 @@
+---
+book: "John"
+chapter: 14
+testament: "New Testament"
+key_themes: "The Way, the Truth, and the Life, The Father and the Son, The Promise of the Holy Spirit, Peace I Leave With You"
+tags:
+  - the-way-the-truth-and-the
+  - the-father-and-the-son
+  - the-promise-of-the-holy-spirit
+  - peace-i-leave-with-you
+---
 # John 14
 
 ---
@@ -129,7 +140,7 @@ Heart, troubled, believe, God, believe, Father, house, mansions, told, prepare, 
 
 
 *AI Keywords for current event matching:*
-`abide` `abode` `afraid` `arise` `ask` `away` `believe` `comforter` `comfortless` `commandment` `commandments` `dwelleth` `father` `ghost` `give` `giveth` `glorified` `god` `greater` `heart` `hence` `holy` `house` `iscariot` `judas` `keep` `know` `known` `leave` `life` `little` `live` `love` `loveth` `manifest` `mansions` `many` `myself` `name` `nothing` `pass` `peace` `philip` `place` `pray` `prepare` `present` `prince` `promise` `receive` `rejoice` `remembrance` `sayings` `seen` `seeth` `sent` `show` `son` `speak` `spirit` `teach` `thomas` `told` `troubled` `truth` `way` `while` `whither` `words` `works` `world` `you`
+#abide #abode #afraid #arise #ask #away #believe #comforter #comfortless #commandment #commandments #dwelleth #father #ghost #give #giveth #glorified #god #greater #heart #hence #holy #house #iscariot #judas #keep #know #known #leave #life #little #live #love #loveth #manifest #mansions #many #myself #name #nothing #pass #peace #philip #place #pray #prepare #present #prince #promise #receive #rejoice #remembrance #sayings #seen #seeth #sent #show #son #speak #spirit #teach #thomas #told #troubled #truth #way #while #whither #words #works #world #you
 
 
 ---

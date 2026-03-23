@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 109
+testament: "Old Testament"
+key_themes: "Imprecatory Prayer, False Accusations, Divine Vindication, Poor Man's Plea"
+tags:
+  - imprecatory-prayer
+  - false-accusations
+  - divine-vindication
+  - poor-man
+---
 # Psalm 109
 
 ---
@@ -177,7 +188,7 @@ Hold, peace, GOD, praise, mouth, wicked, mouth, deceitful, opened, lying, tongue
 
 
 *AI Keywords for current event matching:*
-`accusations` `adversaries` `another` `arise` `ashamed` `become` `bless` `cause` `clothed` `compassed` `condemn` `condemned` `confusion` `cover` `curse` `days` `deceitful` `deliver` `divine` `evil` `fail` `false` `fasting` `fatness` `few` `flesh` `fought` `god` `good` `hand` `hatred` `heart` `hold` `imprecatory` `judged` `knees` `lord` `love` `lying` `man` `mans` `mantle` `mercy` `mouth` `name` `needy` `office` `opened` `peace` `plea` `poor` `praise` `prayer` `rejoice` `rewarded` `right` `sake` `satan` `save` `servant` `set` `shame` `sin` `soul` `stand` `tongue` `vindication` `weak` `wicked` `within` `without` `words` `wounded`
+#accusations #adversaries #another #arise #ashamed #become #bless #cause #clothed #compassed #condemn #condemned #confusion #cover #curse #days #deceitful #deliver #divine #evil #fail #false #fasting #fatness #few #flesh #fought #god #good #hand #hatred #heart #hold #imprecatory #judged #knees #lord #love #lying #man #mans #mantle #mercy #mouth #name #needy #office #opened #peace #plea #poor #praise #prayer #rejoice #rewarded #right #sake #satan #save #servant #set #shame #sin #soul #stand #tongue #vindication #weak #wicked #within #without #words #wounded
 
 
 ---

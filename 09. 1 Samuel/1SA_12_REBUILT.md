@@ -1,3 +1,24 @@
+---
+book: "1 Samuel"
+chapter: 12
+testament: "Old Testament"
+key_themes: "Samuel's Farewell, Integrity Testimony, Historical Review, Israel's Sin Pattern, Divine Deliverance, Rejection of God, Warning and Promise, Thunder Sign, People's Fear, Samuel's Continued Ministry"
+tags:
+  - Samuel-Israel-hearkened-voice-king
+  - defrauded-oppressed-hand
+  - king-chosen-desired-LORD-king
+  - stand-great-thing-LORD-eyes
+  - wickedly-consumed-king
+  - samuel
+  - integrity-testimony
+  - historical-review
+  - israel
+  - divine-deliverance
+  - rejection-of-god
+  - warning-and-promise
+  - thunder-sign
+  - people
+---
 # 1 Samuel 12
 
 ---
@@ -87,7 +108,7 @@ Samuel told Israel he had hearkened to their voice and made a king over them. Th
 
 
 *AI Keywords for current event matching:*
-`aaron` `acts` `advanced` `ammon` `anointed` `ashtaroth` `aside` `ass` `baalim` `bedan` `blind` `bribe` `captain` `cease` `childhood` `chosen` `commandment` `consumed` `cried` `day` `defrauded` `deliver` `delivered` `desired` `die` `divine` `dwelt` `egypt` `enemies` `evil` `eyes` `fathers` `fear` `feared` `follow` `forgot` `forsake` `forsook` `fought` `god` `good` `grayhead` `great` `hand` `harvest` `hazor` `hearkened` `heart` `historical` `integrity` `israel` `jacob` `jephthah` `jerubbaal` `king` `lord` `ministry` `moab` `moses` `nahash` `name` `obey` `old` `oppressed` `people` `peoples` `perceive` `philistines` `place` `pleased` `pray` `profit` `promise` `rain` `reason` `rebel` `reign` `rejection` `response` `restore` `review` `right` `righteous` `safe` `samuel` `samuels` `sent` `servants` `serve` `served` `sign` `sin` `sinned` `sins` `sisera` `sold` `sons` `stand` `teach` `thing` `things` `thunder` `truth` `turn` `vain` `voice` `walk` `walked` `warning` `way` `wheat` `wickedly` `wickedness` `witness`
+#aaron #acts #advanced #ammon #anointed #ashtaroth #aside #ass #baalim #bedan #blind #bribe #captain #cease #childhood #chosen #commandment #consumed #cried #day #defrauded #deliver #delivered #desired #die #divine #dwelt #egypt #enemies #evil #eyes #fathers #fear #feared #follow #forgot #forsake #forsook #fought #god #good #grayhead #great #hand #harvest #hazor #hearkened #heart #historical #integrity #israel #jacob #jephthah #jerubbaal #king #lord #ministry #moab #moses #nahash #name #obey #old #oppressed #people #peoples #perceive #philistines #place #pleased #pray #profit #promise #rain #reason #rebel #reign #rejection #response #restore #review #right #righteous #safe #samuel #samuels #sent #servants #serve #served #sign #sin #sinned #sins #sisera #sold #sons #stand #teach #thing #things #thunder #truth #turn #vain #voice #walk #walked #warning #way #wheat #wickedly #wickedness #witness
 
 
 ---

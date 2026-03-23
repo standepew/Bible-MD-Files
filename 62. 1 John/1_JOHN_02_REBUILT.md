@@ -1,3 +1,16 @@
+---
+book: "1 John"
+chapter: 2
+testament: "New Testament"
+key_themes: "Christ Our Advocate, Keeping Commandments, Love and Hate, The Three Stages of Spiritual Growth, Love Not the World, Antichrists and the Anointing"
+tags:
+  - christ-our-advocate
+  - keeping-commandments
+  - love-and-hate
+  - the-three-stages-of-spiritual-growth
+  - love-not-the-world
+  - antichrists-and-the-anointing
+---
 # 1 John 2
 
 ---
@@ -121,7 +134,7 @@ Little, children, write, sin, advocate, Father, Jesus, Christ, righteous, propit
 
 
 *AI Keywords for current event matching:*
-`abide` `abideth` `acknowledging` `advocate` `anointing` `antichrist` `antichrists` `appear` `ashamed` `beginning` `blinded` `born` `brethren` `brother` `children` `christ` `coming` `commandment` `commandments` `confidence` `continue` `continued` `darkness` `denying` `doeth` `eternal` `eyes` `father` `fathers` `flesh` `forgiven` `god` `goeth` `growth` `hate` `hateth` `heard` `holy` `jesus` `keepeth` `keeping` `know` `knoweth` `known` `last` `liar` `lie` `life` `light` `little` `love` `loveth` `lust` `manifest` `men` `name` `new` `old` `one` `overcome` `passeth` `past` `perfected` `pride` `promise` `propitiation` `received` `remain` `righteous` `righteousness` `sake` `seduce` `shineth` `sin` `sins` `son` `spiritual` `stages` `strong` `stumbling` `taught` `teach` `teacheth` `things` `three` `time` `true` `truth` `unction` `walk` `walked` `walketh` `went` `whither` `whole` `wicked` `word` `world` `write` `written` `young`
+#abide #abideth #acknowledging #advocate #anointing #antichrist #antichrists #appear #ashamed #beginning #blinded #born #brethren #brother #children #christ #coming #commandment #commandments #confidence #continue #continued #darkness #denying #doeth #eternal #eyes #father #fathers #flesh #forgiven #god #goeth #growth #hate #hateth #heard #holy #jesus #keepeth #keeping #know #knoweth #known #last #liar #lie #life #light #little #love #loveth #lust #manifest #men #name #new #old #one #overcome #passeth #past #perfected #pride #promise #propitiation #received #remain #righteous #righteousness #sake #seduce #shineth #sin #sins #son #spiritual #stages #strong #stumbling #taught #teach #teacheth #things #three #time #true #truth #unction #walk #walked #walketh #went #whither #whole #wicked #word #world #write #written #young
 
 
 ---

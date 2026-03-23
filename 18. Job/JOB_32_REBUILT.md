@@ -1,3 +1,18 @@
+---
+book: "Job"
+chapter: 32
+testament: "Old Testament"
+key_themes: "Elihu's Introduction, Divine Inspiration, Youth vs. Age, Speaking Truth"
+tags:
+  - friends-wrath-kindled-answer-condemned
+  - waited-Job-spoken-elder-young
+  - spirit-man-inspiration-Almighty-understanding
+  - great-men-wise-aged-judgment
+  - elihu
+  - divine-inspiration
+  - youth-vs-age
+  - speaking-truth
+---
 # Job 32
 
 ---
@@ -129,7 +144,7 @@ Three, men, ceased, answer, Job, righteous, eyes. Wrath, Elihu, Barachel, Buzite
 
 
 *AI Keywords for current event matching:*
-`afraid` `age` `aged` `almighty` `amazed` `answer` `answered` `attended` `barachel` `belly` `bottles` `burst` `buzite` `ceased` `condemned` `constraineth` `convinced` `days` `directed` `divine` `down` `ear` `elder` `elihu` `elihus` `eyes` `found` `friends` `full` `gave` `god` `great` `hearken` `inspiration` `introduction` `job` `judgment` `justified` `kindled` `kindred` `lips` `man` `matter` `men` `multitude` `new` `opinion` `part` `ram` `rather` `reasons` `refreshed` `righteous` `searched` `spake` `speak` `speaking` `speeches` `spirit` `spoken` `still` `teach` `three` `thrust` `truth` `understanding` `vent` `waited` `wine` `wisdom` `wise` `words` `wrath` `years` `young` `youth`
+#afraid #age #aged #almighty #amazed #answer #answered #attended #barachel #belly #bottles #burst #buzite #ceased #condemned #constraineth #convinced #days #directed #divine #down #ear #elder #elihu #elihus #eyes #found #friends #full #gave #god #great #hearken #inspiration #introduction #job #judgment #justified #kindled #kindred #lips #man #matter #men #multitude #new #opinion #part #ram #rather #reasons #refreshed #righteous #searched #spake #speak #speaking #speeches #spirit #spoken #still #teach #three #thrust #truth #understanding #vent #waited #wine #wisdom #wise #words #wrath #years #young #youth
 
 
 ---

@@ -1,3 +1,14 @@
+---
+book: "Malachi"
+chapter: 1
+testament: "Old Testament"
+key_themes: "Christ's Divine Love, Polluted Worship, Priestly Failure, Universal Worship"
+tags:
+  - christ
+  - polluted-worship
+  - priestly-failure
+  - universal-worship
+---
 # Malachi 1
 
 ---
@@ -129,7 +140,7 @@ Burden, word, LORD, Israel, Malachi, loved, LORD, Wherein, loved, Esau, Jacob, b
 
 
 *AI Keywords for current event matching:*
-`accept` `blind` `bread` `christs` `contemptible` `despise` `divine` `esau` `failure` `fear` `gentiles` `great` `hated` `honour` `jacob` `king` `laid` `lame` `love` `loved` `mountains` `name` `offering` `polluted` `priestly` `pure` `rising` `sacrifice` `sick` `sun` `table` `universal` `waste` `worship` `you`
+#accept #blind #bread #christs #contemptible #despise #divine #esau #failure #fear #gentiles #great #hated #honour #jacob #king #laid #lame #love #loved #mountains #name #offering #polluted #priestly #pure #rising #sacrifice #sick #sun #table #universal #waste #worship #you
 
 
 ---

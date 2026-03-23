@@ -1,3 +1,16 @@
+---
+book: "2 Kings"
+chapter: 12
+testament: "Old Testament"
+key_themes: "Joash's Reign, Temple Repairs, Faithful Administration, Syrian Invasion, Joash's Death"
+tags:
+  - workmen-repaired-house-LORD
+  - reckoned-men-money-workmen-faithfully
+  - joash
+  - temple-repairs
+  - faithful-administration
+  - syrian-invasion
+---
 # 2 Kings 12
 
 ---
@@ -81,7 +94,7 @@ Seventh year Jehu, Jehoash reigned, forty years, Jerusalem, mother Zibiah Beer-s
 
 
 *AI Keywords for current event matching:*
-`account` `acquaintance` `acts` `ahaziah` `altar` `amaziah` `away` `bags` `basons` `beer-sheba` `book` `bowls` `breach` `breaches` `builders` `burnt` `carpenters` `chest` `chronicles` `city` `consented` `conspiracy` `david` `days` `death` `dedicated` `died` `door` `face` `faithfully` `fathers` `forty` `found` `gath` `gold` `hallowed` `hands` `hazael` `heart` `hewed` `hewers` `high` `hole` `house` `incense` `instructed` `invasion` `jehoash` `jehoiada` `jehoram` `jehoshaphat` `jehozabad` `jehu` `jerusalem` `joash` `joashs` `jozachar` `judah` `king` `kings` `lid` `lord` `man` `masons` `men` `millo` `money` `mother` `oversight` `people` `places` `priest` `priests` `reckoned` `reign` `reigned` `repair` `repaired` `repairs` `right` `sacrificed` `scribe` `servants` `seventh` `shimeath` `shomer` `side` `sight` `silla` `silver` `sin` `slew` `smote` `snuffers` `son` `stone` `syria` `syrian` `taken` `temple` `things` `three` `timber` `treasures` `trespass` `trumpets` `twentieth` `vessels` `work` `workmen` `year` `years` `zibiah`
+#account #acquaintance #acts #ahaziah #altar #amaziah #away #bags #basons #beer-sheba #book #bowls #breach #breaches #builders #burnt #carpenters #chest #chronicles #city #consented #conspiracy #david #days #death #dedicated #died #door #face #faithfully #fathers #forty #found #gath #gold #hallowed #hands #hazael #heart #hewed #hewers #high #hole #house #incense #instructed #invasion #jehoash #jehoiada #jehoram #jehoshaphat #jehozabad #jehu #jerusalem #joash #joashs #jozachar #judah #king #kings #lid #lord #man #masons #men #millo #money #mother #oversight #people #places #priest #priests #reckoned #reign #reigned #repair #repaired #repairs #right #sacrificed #scribe #servants #seventh #shimeath #shomer #side #sight #silla #silver #sin #slew #smote #snuffers #son #stone #syria #syrian #taken #temple #things #three #timber #treasures #trespass #trumpets #twentieth #vessels #work #workmen #year #years #zibiah
 
 
 ---

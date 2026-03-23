@@ -1,3 +1,38 @@
+---
+book: "Genesis"
+chapter: 50
+testament: "Old Testament"
+key_themes: "Joseph Wept Over His Father — The Fulfillment of Genesis 46:4, The Embalming — Egypt Mourns Israel Seventy Days, The Great Funeral Procession to Machpelah, The Brothers' Fear After Jacob's Death — "Will Joseph Now Hate Us?", "Ye Thought Evil Against Me; But God Meant It Unto Good" — The Theological Summit of Genesis, Joseph's Final Word — "God Will Surely Visit You and Bring You Up", "Carry My Bones Up Hence", Genesis Ends With a Coffin in Egypt — The Promise Waits"
+tags:
+  - commanded-physicians-embalm-Israel
+  - forty-days-embalming
+  - Egypt-mourned-threescore-ten-days
+  - great-and-sore-lamentation-Atad
+  - Canaanites-saw-mourning-Abel-Mizraim
+  - buried-him-cave-Machpelah
+  - bought-of-Ephron-Hittite
+  - Joseph-returned-to-Egypt
+  - behold-we-be-thy-servants
+  - Acts-4-27-28
+  - Romans-8-28
+  - to-save-much-people-alive
+  - Joseph-lived-hundred-ten-years
+  - Ephraims-children-third-generation
+  - pakod-yifkod
+  - carry-my-bones-up-hence
+  - Joseph-died-hundred-ten-years
+  - coffin-in-Egypt-Genesis-ends
+  - Genesis-complete-50-chapters
+  - two-agent-principle-summit
+  - joseph-wept-over-his-father
+  - the-embalming
+  - the-great-funeral-procession-to-machpelah
+  - the-brothers
+  - ye-thought-evil-against-me
+  - but-god-meant-it-unto-good
+  - joseph
+  - genesis-ends-with-a-coffin-in
+---
 # Genesis 50
 
 ---
@@ -75,7 +110,7 @@ So Joseph died, being a hundred and ten years old. They embalmed him and put him
 
 ## KEYWORD INDEX
 
-`Joseph fell on fathers face wept kissed` `commanded physicians embalm Israel` `forty days embalming appointed time` `Egypt mourned seventy days` `all servants Pharaoh elders` `Joseph asked permission go bury father` `Pharaoh go up bury thy father` `great mourning at Atad` `Canaanites saw mourning named Abel-Mizraim` `mourning of Egypt meadow of Egypt` `buried cave Machpelah bought of Ephron` `Abraham Sarah Isaac Rebekah Leah buried there` `Joseph returned to Egypt` `brothers feared Joseph will hate us` `thy father commanded before he died forgive` `Joseph wept when they spake to him` `fall before him we be thy servants` `dreams complete all eleven bowed again` `fear not am I in place of God` `Deuteronomy 32:35 vengeance is mine` `Romans 12:19 avenge not yourselves` `ye thought evil God meant it unto good` `Genesis 45:5-8 comparison` `Acts 2:23 wicked hands determinate counsel` `Acts 4:27-28 whatsoever thy hand counsel determined` `Romans 8:28 all things work together for good` `I will nourish you your children` `comforted them spoke kindly` `Joseph lived hundred ten years` `Ephraims children third generation` `Machir son of Manasseh upon Josephs knees` `I die God will surely visit you` `pakod yifkod doubly emphatic` `Exodus 3:16 pakod pakadti I have surely visited` `carry my bones up hence` `Hebrews 11:22 by faith gave commandment bones` `Exodus 13:19 Moses took bones` `Joshua 24:32 buried at Shechem` `Joseph died hundred ten years old` `embalmed put in coffin in Egypt` `Genesis ends coffin in foreign land` `promise outstanding hope unresolved` `the book ends looking forward to Exodus`
+#Joseph-fell-on-fathers-face-wept-kissed #commanded-physicians-embalm-Israel #forty-days-embalming-appointed-time #Egypt-mourned-seventy-days #all-servants-Pharaoh-elders #Joseph-asked-permission-go-bury-father #Pharaoh-go-up-bury-thy-father #great-mourning-at-Atad #Canaanites-saw-mourning-named-Abel-Mizraim #mourning-of-Egypt-meadow-of-Egypt #buried-cave-Machpelah-bought-of-Ephron #Abraham-Sarah-Isaac-Rebekah-Leah-buried-there #Joseph-returned-to-Egypt #brothers-feared-Joseph-will-hate-us #thy-father-commanded-before-he-died-forgive #Joseph-wept-when-they-spake-to-him #fall-before-him-we-be-thy-servants #dreams-complete-all-eleven-bowed-again #fear-not-am-I-in-place-of-God #Deuteronomy-3235-vengeance-is-mine #Romans-1219-avenge-not-yourselves #ye-thought-evil-God-meant-it-unto-good #Genesis-455-8-comparison #Acts-223-wicked-hands-determinate-counsel #Acts-427-28-whatsoever-thy-hand-counsel-determined #Romans-828-all-things-work-together-for-good #I-will-nourish-you-your-children #comforted-them-spoke-kindly #Joseph-lived-hundred-ten-years #Ephraims-children-third-generation #Machir-son-of-Manasseh-upon-Josephs-knees #I-die-God-will-surely-visit-you #pakod-yifkod-doubly-emphatic #Exodus-316-pakod-pakadti-I-have-surely-visited #carry-my-bones-up-hence #Hebrews-1122-by-faith-gave-commandment-bones #Exodus-1319-Moses-took-bones #Joshua-2432-buried-at-Shechem #Joseph-died-hundred-ten-years-old #embalmed-put-in-coffin-in-Egypt #Genesis-ends-coffin-in-foreign-land #promise-outstanding-hope-unresolved #the-book-ends-looking-forward-to-Exodus
 
 **Current Events Relevance:**
 - "Ye thought evil against me; but God meant it unto good" — the two-agent principle; applicable in theodicy discussions, teaching on suffering, the theology of forgiveness, and gospel proclamation (Acts 4:27-28 connecting it directly to the cross)

@@ -1,3 +1,14 @@
+---
+book: "Proverbs"
+chapter: 9
+testament: "Old Testament"
+key_themes: "Wisdom's Feast, Folly's Trap, Understanding vs. Scorn, Life vs. Death"
+tags:
+  - wisdom
+  - folly
+  - understanding-vs-scorn
+  - life-vs-death
+---
 # Proverbs 9
 
 ---
@@ -129,7 +140,7 @@ Wisdom, builded, house, hewn, seven, pillars, killed, beasts, mingled, wine, fur
 
 
 *AI Keywords for current event matching:*
-`beasts` `bread` `builded` `clamorous` `come` `dead` `death` `depths` `eat` `fear` `feast` `follys` `foolish` `forsake` `hell` `holy` `house` `killed` `knowledge` `life` `live` `lord` `love` `man` `pillars` `rebuke` `reproveth` `scorn` `scorner` `shame` `stolen` `sweet` `trap` `understanding` `waters` `wine` `wisdom` `wisdoms` `wise` `woman`
+#beasts #bread #builded #clamorous #come #dead #death #depths #eat #fear #feast #follys #foolish #forsake #hell #holy #house #killed #knowledge #life #live #lord #love #man #pillars #rebuke #reproveth #scorn #scorner #shame #stolen #sweet #trap #understanding #waters #wine #wisdom #wisdoms #wise #woman
 
 
 ---

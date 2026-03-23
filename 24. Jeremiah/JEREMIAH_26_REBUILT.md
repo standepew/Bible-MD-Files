@@ -1,3 +1,13 @@
+---
+book: "Jeremiah"
+chapter: 26
+testament: "Old Testament"
+key_themes: "Christ's Temple, Prophet's Persecution, Innocent Blood, Christ's Protection"
+tags:
+  - christ
+  - prophet
+  - innocent-blood
+---
 # Jeremiah 26
 
 ---
@@ -105,7 +115,7 @@ Beginning, reign, Jehoiakim, son, Josiah, king, Judah, word, LORD, saying, LORD,
 
 
 *AI Keywords for current event matching:*
-`against` `ahikam` `assembly` `blood` `bring` `christs` `cities` `court` `death` `die` `diminish` `elders` `feared` `gathered` `give` `hand` `hezekiah` `house` `innocent` `jeremiah` `judah` `lord` `name` `people` `persecution` `priests` `prophesied` `prophets` `protection` `put` `sent` `slain` `spake` `speak` `stand` `sword` `temple` `truth` `urijah` `word` `worship` `worthy`
+#against #ahikam #assembly #blood #bring #christs #cities #court #death #die #diminish #elders #feared #gathered #give #hand #hezekiah #house #innocent #jeremiah #judah #lord #name #people #persecution #priests #prophesied #prophets #protection #put #sent #slain #spake #speak #stand #sword #temple #truth #urijah #word #worship #worthy
 
 
 ---

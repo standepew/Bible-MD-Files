@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 145
+testament: "Old Testament"
+key_themes: "Divine Praise, God's Greatness, Kingdom Glory, Compassionate Character"
+tags:
+  - divine-praise
+  - god
+  - kingdom-glory
+  - compassionate-character
+---
 # Psalm 145
 
 ---
@@ -117,7 +128,7 @@ David, Psalm, praise, extol, God, king, bless, name, forever, day, bless, praise
 
 
 *AI Keywords for current event matching:*
-`anger` `bless` `character` `compassion` `compassionate` `divine` `dominion` `endureth` `everlasting` `extol` `forever` `full` `generation` `generations` `glorious` `glory` `god` `gods` `gracious` `great` `greatly` `greatness` `honour` `king` `kingdom` `lord` `majesty` `mercies` `mercy` `name` `praise` `praised` `slow` `tender` `unsearchable` `works`
+#anger #bless #character #compassion #compassionate #divine #dominion #endureth #everlasting #extol #forever #full #generation #generations #glorious #glory #god #gods #gracious #great #greatly #greatness #honour #king #kingdom #lord #majesty #mercies #mercy #name #praise #praised #slow #tender #unsearchable #works
 
 
 ---

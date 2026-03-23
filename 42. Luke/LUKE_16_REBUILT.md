@@ -1,3 +1,14 @@
+---
+book: "Luke"
+chapter: 16
+testament: "New Testament"
+key_themes: "Parable of the Unjust Steward, Faithfulness in Little Things, Serving Two Masters, The Rich Man and Lazarus"
+tags:
+  - parable-of-the-unjust-steward
+  - faithfulness-in-little-things
+  - serving-two-masters
+  - the-rich-man-and-lazarus
+---
 # Luke 16
 
 ---
@@ -153,7 +164,7 @@ Disciples, rich, man, steward, accused, wasted, goods, called, account, stewards
 
 
 *AI Keywords for current event matching:*
-`abraham` `account` `beggar` `bosom` `esteemed` `faithful` `faithfulness` `god` `goods` `great` `gulf` `highly` `hundred` `justify` `lazarus` `least` `linen` `little` `mammon` `man` `masters` `measures` `much` `parable` `purple` `rich` `riches` `serve` `serving` `steward` `stewardship` `sumptuously` `things` `true` `two` `unjust` `wasted` `yourselves`
+#abraham #account #beggar #bosom #esteemed #faithful #faithfulness #god #goods #great #gulf #highly #hundred #justify #lazarus #least #linen #little #mammon #man #masters #measures #much #parable #purple #rich #riches #serve #serving #steward #stewardship #sumptuously #things #true #two #unjust #wasted #yourselves
 
 
 ---

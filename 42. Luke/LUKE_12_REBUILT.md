@@ -1,3 +1,19 @@
+---
+book: "Luke"
+chapter: 12
+testament: "New Testament"
+key_themes: "Warning Against Hypocrisy, Fear of God, The Rich Fool, Do Not Worry, Seek God's Kingdom, Watchful Servants, Division on Earth, Interpreting the Times, Settle with Adversary"
+tags:
+  - warning-against-hypocrisy
+  - fear-of-god
+  - the-rich-fool
+  - do-not-worry
+  - seek-god
+  - watchful-servants
+  - division-on-earth
+  - interpreting-the-times
+  - settle-with-adversary
+---
 # Luke 12
 
 ---
@@ -247,7 +263,7 @@ Multitude, trode, disciples, Beware, leaven, Pharisees, hypocrisy, covered, reve
 
 
 *AI Keywords for current event matching:*
-`abundance` `adversary` `against` `baptism` `baptized` `body` `burning` `cast` `cloud` `confess` `covered` `covetousness` `cubit` `darkness` `daughter` `depart` `discern` `division` `doubtful` `earth` `faith` `farthings` `father` `fear` `fire` `flock` `fool` `girded` `god` `gods` `goodman` `grow` `hairs` `heart` `heavens` `hell` `house` `housetops` `hypocrisy` `interpreting` `judge` `kill` `kingdom` `last` `leaven` `lights` `lilies` `little` `loins` `magistrate` `man` `men` `mind` `mite` `mother` `numbered` `officer` `possesseth` `prison` `proclaimed` `ravens` `ready` `required` `return` `revealed` `rich` `right` `rise` `second` `seek` `servants` `settle` `sky` `son` `soul` `south` `sow` `sparrows` `spoken` `stature` `thence` `time` `times` `treasure` `warning` `watch` `watchful` `wedding` `wind` `worry`
+#abundance #adversary #against #baptism #baptized #body #burning #cast #cloud #confess #covered #covetousness #cubit #darkness #daughter #depart #discern #division #doubtful #earth #faith #farthings #father #fear #fire #flock #fool #girded #god #gods #goodman #grow #hairs #heart #heavens #hell #house #housetops #hypocrisy #interpreting #judge #kill #kingdom #last #leaven #lights #lilies #little #loins #magistrate #man #men #mind #mite #mother #numbered #officer #possesseth #prison #proclaimed #ravens #ready #required #return #revealed #rich #right #rise #second #seek #servants #settle #sky #son #soul #south #sow #sparrows #spoken #stature #thence #time #times #treasure #warning #watch #watchful #wedding #wind #worry
 
 
 ---

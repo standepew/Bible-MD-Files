@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 130
+testament: "Old Testament"
+key_themes: "Cry from Depths, Divine Forgiveness, Waiting on God, Plenteous Redemption"
+tags:
+  - cry-from-depths
+  - divine-forgiveness
+  - waiting-on-god
+  - plenteous-redemption
+---
 # Psalm 130
 
 ---
@@ -129,7 +140,7 @@ Depth, cried, LORD, Lord, hear, voice, ears, attentive, voice, supplications, LO
 
 
 *AI Keywords for current event matching:*
-`cried` `cry` `depths` `divine` `eternal` `feared` `forgiveness` `god` `hear` `hope` `iniquities` `israel` `lord` `mark` `morning` `plenteous` `redeem` `redemption` `soul` `supplications` `voice` `wait` `waiting` `word`
+#cried #cry #depths #divine #eternal #feared #forgiveness #god #hear #hope #iniquities #israel #lord #mark #morning #plenteous #redeem #redemption #soul #supplications #voice #wait #waiting #word
 
 
 ---

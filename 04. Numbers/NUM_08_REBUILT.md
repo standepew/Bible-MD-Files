@@ -1,3 +1,27 @@
+---
+book: "Numbers"
+chapter: 8
+testament: "Old Testament"
+key_themes: "Aaron lights the seven lamps — the candlestick gives light toward the front, The Levites' consecration: water of purifying, shave all flesh, wash clothes, The whole congregation of Israel lays hands on the Levites — the Levites are the congregation's wave offering to the LORD, The Levites lay their hands on the bulls — the substitutionary principle operating at consecration, Service ages refined: from 25 years old to begin; from 50, lighter duty only — never fully cut off, "I have given the Levites as a gift to Aaron" — the Levites are God's gift, not Israel's priests but God's servants given to Aaron"
+tags:
+  - seven-lamps
+  - toward-the-candlestick
+  - beaten-gold
+  - Levite-consecration
+  - water-of-purifying
+  - shave-all-flesh
+  - wash-clothes
+  - congregation-lays-hands-on-Levites
+  - Levites-wave-offering
+  - Levites-lay-hands-on-bulls
+  - sin-offering-and-burnt-offering
+  - Levites-mine
+  - Levites-given-as-gift
+  - service-from-25-years
+  - cease-at-50
+  - lighter-duty-after-50
+  - no-plague-among-congregation
+---
 # Numbers 8
 
 ---
@@ -71,7 +95,7 @@ This is the reverse of the normal hand-laying pattern. Normally the individual l
 
 
 *AI Keywords for current event matching:*
-`85-22` `acts` `apart` `consecration` `current` `events` `matching` `numbers` `ordination` `service` `setting` `timothy`
+#85-22 #acts #apart #consecration #current #events #matching #numbers #ordination #service #setting #timothy
 
 
 ---
@@ -154,15 +178,15 @@ The candlestick is beaten — shaped by striking, not by casting into a mould. T
 
 ### "No Plague When Israel Comes Near" — The Levites as Atonement Buffer
 
-**Numbers 8:19** — "to make an atonement for the children of Israel: that there be no plague among the children of Israel, when the children of Israel come nigh unto the sanctuary"
+[[04. Numbers/NUM_08_REBUILT|Numbers 8:19]] — "to make an atonement for the children of Israel: that there be no plague among the children of Israel, when the children of Israel come nigh unto the sanctuary"
 
 The Levites serve as a standing, continuous atonement-mechanism between Israel and the Tabernacle. This plague-prevention thread runs through Numbers:
 
-- **Numbers 1:53** — "the Levites shall pitch round about the tabernacle... that there be no wrath upon the congregation"
-- **Numbers 8:19** — "that there be no plague... when the children of Israel come nigh"
-- **Numbers 16:46-48** — Aaron runs with incense into the plague that has broken out; "he stood between the dead and the living; and the plague was stayed" — the priest physically standing in the gap between divine wrath and the people
-- **Numbers 25:7-8** — Phinehas drives a javelin through an Israelite and a Midianite woman who are sinning openly; "so the plague was stayed from the children of Israel" — the zealous act of the priest/Levite stops the plague
-- **Romans 5:9** — "much more then, being now justified by his blood, we shall be saved from wrath through him" — Christ is the ultimate plague-stopper; He stands between God's wrath and the people permanently
+- [[04. Numbers/NUM_01_REBUILT|Numbers 1:53]] — "the Levites shall pitch round about the tabernacle... that there be no wrath upon the congregation"
+- [[04. Numbers/NUM_08_REBUILT|Numbers 8:19]] — "that there be no plague... when the children of Israel come nigh"
+- [[04. Numbers/NUM_16_REBUILT|Numbers 16:46-48]] — Aaron runs with incense into the plague that has broken out; "he stood between the dead and the living; and the plague was stayed" — the priest physically standing in the gap between divine wrath and the people
+- [[04. Numbers/NUM_25_REBUILT|Numbers 25:7-8]] — Phinehas drives a javelin through an Israelite and a Midianite woman who are sinning openly; "so the plague was stayed from the children of Israel" — the zealous act of the priest/Levite stops the plague
+- [[45. Romans/ROMANS_05_REBUILT|Romans 5:9]] — "much more then, being now justified by his blood, we shall be saved from wrath through him" — Christ is the ultimate plague-stopper; He stands between God's wrath and the people permanently
 
 **What the Bible establishes:** The Levitical system is a plague-prevention system. Every piece of it — the census, the camp arrangement, the covering protocol, the consecration — exists so that Israel can live near God without dying. The New Covenant fulfillment: Christ's perpetual priesthood (Hebrews 7:25) means the plague-prevention is permanent and perfect. There is no gap between the living and the dead when the eternal high priest is always standing in it.
 

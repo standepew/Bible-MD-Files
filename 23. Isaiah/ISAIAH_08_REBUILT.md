@@ -1,3 +1,14 @@
+---
+book: "Isaiah"
+chapter: 8
+testament: "Old Testament"
+key_themes: "Christ's Immanuel, Divine Protection, Faith vs. Fear, Spiritual Testimony"
+tags:
+  - christ
+  - divine-protection
+  - faith-vs-fear
+  - spiritual-testimony
+---
 # Isaiah 8
 
 ---
@@ -165,7 +176,7 @@ LORD, great, roll, write, man, pen, concerning, Maher, shalal, hash, baz, faithf
 
 
 *AI Keywords for current event matching:*
-`bind` `christs` `counsel` `disciples` `divine` `dread` `faith` `fear` `god` `immanuel` `law` `light` `lord` `nought` `overflow` `protection` `refuse` `rejoice` `remaliah` `river` `sanctify` `sanctuary` `seal` `signs` `spiritual` `stone` `stretching` `strong` `testimony` `waters` `wings` `wonders`
+#bind #christs #counsel #disciples #divine #dread #faith #fear #god #immanuel #law #light #lord #nought #overflow #protection #refuse #rejoice #remaliah #river #sanctify #sanctuary #seal #signs #spiritual #stone #stretching #strong #testimony #waters #wings #wonders
 
 
 ---

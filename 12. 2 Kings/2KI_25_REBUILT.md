@@ -1,3 +1,15 @@
+---
+book: "2 Kings"
+chapter: 25
+testament: "Old Testament"
+key_themes: "Jerusalem's Final Siege, Temple Destruction, Babylonian Exile Completed, Gedaliah's Governorship, Ishmael's Rebellion"
+tags:
+  - jerusalem
+  - temple-destruction
+  - babylonian-exile-completed
+  - gedaliah
+  - ishmael
+---
 # 2 Kings 25
 
 ---
@@ -91,7 +103,7 @@ Ninth year, reign, tenth month, tenth day, month, Nebuchadnezzar, king, Babylon,
 
 
 *AI Keywords for current event matching:*
-`afraid` `ahikam` `allowance` `armies` `army` `arose` `ate` `babylon` `babylonian` `bases` `began` `besieged` `bowels` `brake` `brasen` `brass` `bread` `break` `broken` `burned` `came` `captain` `captains` `captivity` `capture` `carried` `carry` `chaldees` `chapiter` `chief` `city` `citys` `completed` `continual` `continually` `cubits` `daily` `day` `days` `destruction` `died` `door` `dwell` `egypt` `eighteen` `eleventh` `elishama` `evil-merodach` `exile` `eyes` `fall` `famine` `fetters` `fifth` `final` `fire` `firepans` `five` `fled` `forts` `found` `fourth` `fugitives` `garden` `garments` `gate` `gedaliah` `gedaliahs` `gold` `governor` `governorship` `great` `guard` `hamath` `head` `heard` `height` `host` `house` `houses` `husbandmen` `ishmael` `ishmaels` `jehoiachin` `jehoiachins` `jericho` `jerusalem` `jerusalems` `jews` `judah` `judgment` `keepers` `kindly` `king` `kings` `land` `left` `life` `lord` `man` `men` `ministered` `mizpah` `month` `multitude` `nebuchadnezzar` `nebuzar-adan` `nethaniah` `night` `nineteenth` `ninth` `officer` `one` `overtook` `people` `pieces` `pillar` `pillars` `pitched` `plain` `plains` `pomegranates` `poor` `pots` `presence` `prevailed` `priest` `principal` `prison` `pursued` `rate` `rebellion` `reign` `release` `remained` `remnant` `riblah` `round` `royal` `ruler` `scattered` `scribe` `sea` `second` `seed` `seraiah` `servant` `servants` `serve` `seventh` `shaphan` `shovels` `siege` `silver` `slew` `small` `snuffers` `solomon` `son` `sons` `spoons` `taken` `temple` `ten` `tenth` `thirtieth` `three` `threescore` `throne` `treasures` `twelfth` `twentieth` `two` `vessels` `vinedressers` `walls` `war` `way` `weight` `well` `without` `work` `wreathen` `year` `zedekiah` `zedekiahs` `zephaniah`
+#afraid #ahikam #allowance #armies #army #arose #ate #babylon #babylonian #bases #began #besieged #bowels #brake #brasen #brass #bread #break #broken #burned #came #captain #captains #captivity #capture #carried #carry #chaldees #chapiter #chief #city #citys #completed #continual #continually #cubits #daily #day #days #destruction #died #door #dwell #egypt #eighteen #eleventh #elishama #evil-merodach #exile #eyes #fall #famine #fetters #fifth #final #fire #firepans #five #fled #forts #found #fourth #fugitives #garden #garments #gate #gedaliah #gedaliahs #gold #governor #governorship #great #guard #hamath #head #heard #height #host #house #houses #husbandmen #ishmael #ishmaels #jehoiachin #jehoiachins #jericho #jerusalem #jerusalems #jews #judah #judgment #keepers #kindly #king #kings #land #left #life #lord #man #men #ministered #mizpah #month #multitude #nebuchadnezzar #nebuzar-adan #nethaniah #night #nineteenth #ninth #officer #one #overtook #people #pieces #pillar #pillars #pitched #plain #plains #pomegranates #poor #pots #presence #prevailed #priest #principal #prison #pursued #rate #rebellion #reign #release #remained #remnant #riblah #round #royal #ruler #scattered #scribe #sea #second #seed #seraiah #servant #servants #serve #seventh #shaphan #shovels #siege #silver #slew #small #snuffers #solomon #son #sons #spoons #taken #temple #ten #tenth #thirtieth #three #threescore #throne #treasures #twelfth #twentieth #two #vessels #vinedressers #walls #war #way #weight #well #without #work #wreathen #year #zedekiah #zedekiahs #zephaniah
 
 
 ---

@@ -1,3 +1,35 @@
+---
+book: "Exodus"
+chapter: 6
+testament: "Old Testament"
+key_themes: "God's seven "I will" covenant promises, The name JEHOVAH revealed in its full weight, God's covenant with the patriarchs renewed, Moses' second objection, The Levitical genealogy, Moses and Aaron's commission confirmed"
+tags:
+  - covenant-promises
+  - seven-I-will
+  - JEHOVAH
+  - LORD
+  - God-Almighty
+  - El-Shaddai
+  - covenant-Abraham-Isaac-Jacob
+  - stretched-out-arm
+  - great-judgments
+  - I-will-bring-out
+  - I-will-rid
+  - I-will-redeem
+  - I-will-take
+  - I-will-be
+  - I-will-bring-in
+  - I-will-give
+  - uncircumcised-lips
+  - Levite-genealogy
+  - Amram
+  - Jochebed
+  - Aaron
+  - Moses
+  - Phinehas
+  - covenant-land
+  - anguish-of-spirit
+---
 # Exodus 6
 
 ---
@@ -111,7 +143,7 @@ God answers Moses' lament (Exodus 5:22-23) with the fullest covenant declaration
 
 
 *AI Keywords for current event matching:*
-`66-8` `covenant` `current` `divine` `events` `exodus` `gods` `guarantees` `matching` `pledges` `promises` `seven`
+#66-8 #covenant #current #divine #events #exodus #gods #guarantees #matching #pledges #promises #seven
 
 
 ---
@@ -238,11 +270,11 @@ The seven covenant pledges of Exodus 6:6-8 map directly onto the New Testament g
 
 ### "Stretched Out Arm" — The Arm of the LORD
 
-- **Exodus 6:6** — "I will redeem you with a stretched out arm"
-- **Deuteronomy 4:34** — "by a stretched out arm" — Moses refers back to this promise as fulfilled
-- **Isaiah 52:10** — "The LORD hath made bare his holy arm in the eyes of all the nations"
-- **Isaiah 53:1** — "and to whom is the arm of the LORD revealed?" — the arm of the LORD revealed = the Servant who suffers and redeems
-- **John 12:38** — John quotes Isaiah 53:1 as fulfilled in Jesus' ministry
+- [[02. Exodus/EXO_06_REBUILT|Exodus 6:6]] — "I will redeem you with a stretched out arm"
+- [[05. Deuteronomy/DEU_04_REBUILT|Deuteronomy 4:34]] — "by a stretched out arm" — Moses refers back to this promise as fulfilled
+- [[23. Isaiah/ISAIAH_52_REBUILT|Isaiah 52:10]] — "The LORD hath made bare his holy arm in the eyes of all the nations"
+- [[23. Isaiah/ISAIAH_53_REBUILT|Isaiah 53:1]] — "and to whom is the arm of the LORD revealed?" — the arm of the LORD revealed = the Servant who suffers and redeems
+- [[43. John/JOHN_12_REBUILT|John 12:38]] — John quotes Isaiah 53:1 as fulfilled in Jesus' ministry
 - *Thread:* The "stretched out arm" of Exodus 6 becomes a shorthand for God's saving power throughout the Old Testament. Isaiah reveals that the ultimate stretching out of God's arm is the Suffering Servant — Christ with arms outstretched on the cross.
 
 ---

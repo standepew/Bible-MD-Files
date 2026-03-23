@@ -1,3 +1,14 @@
+---
+book: "Song of Solomon"
+chapter: 3
+testament: "Old Testament"
+key_themes: "Spiritual Seeking, Christ's Coming, Divine Protection, Royal Procession"
+tags:
+  - spiritual-seeking
+  - christ
+  - divine-protection
+  - royal-procession
+---
 # Song of Solomon 3
 
 ---
@@ -153,7 +164,7 @@ Night, bed, sought, soul, loveth, sought, found, rise, city, streets, broad, way
 
 
 *AI Keywords for current event matching:*
-`bed` `behold` `chariot` `christs` `city` `coming` `crown` `daughters` `day` `divine` `espousals` `found` `frankincense` `king` `lebanon` `loveth` `men` `myrrh` `perfumed` `pillars` `procession` `protection` `rise` `royal` `seek` `seeking` `smoke` `solomon` `sought` `soul` `spiritual` `swords` `valiant` `watchmen` `wilderness` `zion`
+#bed #behold #chariot #christs #city #coming #crown #daughters #day #divine #espousals #found #frankincense #king #lebanon #loveth #men #myrrh #perfumed #pillars #procession #protection #rise #royal #seek #seeking #smoke #solomon #sought #soul #spiritual #swords #valiant #watchmen #wilderness #zion
 
 
 ---

@@ -1,3 +1,22 @@
+---
+book: "1 Samuel"
+chapter: 7
+testament: "Old Testament"
+key_themes: "Ark at Kirjath-jearim, Twenty Years Lament, Samuel's Revival Call, Israel's Repentance, Mizpeh Assembly, Water Poured Out, Philistine Attack, Samuel's Sacrifice, Divine Thunder, Victory, Ebenezer Stone, Samuel's Judgeship"
+tags:
+  - Samuel-judged-children-Israel-Mizpeh
+  - Samuel-judged-Israel-days-life
+  - ark-at-kirjathjearim
+  - twenty-years-lament
+  - samuel
+  - israel
+  - mizpeh-assembly
+  - water-poured-out
+  - philistine-attack
+  - divine-thunder
+  - victory
+  - ebenezer-stone
+---
 # 1 Samuel 7
 
 ---
@@ -87,7 +106,7 @@ Kirjath-jearim men fetched the ark, bringing it to Abinadab's house on the hill,
 
 
 *AI Keywords for current event matching:*
-`abinadab` `abode` `afraid` `altar` `amorites` `ark` `ashtaroth` `assembly` `attack` `baalim` `battle` `beth-car` `beth-el` `built` `burnt` `call` `cease` `children` `circuit` `cities` `coast` `coasts` `cried` `cry` `day` `days` `deliver` `discomfited` `divine` `drew` `eben-ezer` `ekron` `eleazar` `fasted` `fetched` `gath` `gather` `gathered` `gilgal` `god` `gods` `great` `hand` `heard` `hearts` `helped` `hill` `house` `israel` `judged` `keep` `kirjath-jearim` `lamb` `lamented` `leadership` `life` `long` `lord` `lords` `memorial` `men` `mizpeh` `offering` `peace` `philistine` `philistines` `places` `poured` `pray` `prepare` `pursued` `ramah` `return` `revival` `samuel` `samuels` `sanctified` `save` `serve` `served` `shen` `sinned` `smitten` `smote` `son` `spake` `stone` `strange` `subjected` `sucking` `thunder` `thundered` `time` `twenty` `victory` `water` `year` `years`
+#abinadab #abode #afraid #altar #amorites #ark #ashtaroth #assembly #attack #baalim #battle #beth-car #beth-el #built #burnt #call #cease #children #circuit #cities #coast #coasts #cried #cry #day #days #deliver #discomfited #divine #drew #eben-ezer #ekron #eleazar #fasted #fetched #gath #gather #gathered #gilgal #god #gods #great #hand #heard #hearts #helped #hill #house #israel #judged #keep #kirjath-jearim #lamb #lamented #leadership #life #long #lord #lords #memorial #men #mizpeh #offering #peace #philistine #philistines #places #poured #pray #prepare #pursued #ramah #return #revival #samuel #samuels #sanctified #save #serve #served #shen #sinned #smitten #smote #son #spake #stone #strange #subjected #sucking #thunder #thundered #time #twenty #victory #water #year #years
 
 
 ---

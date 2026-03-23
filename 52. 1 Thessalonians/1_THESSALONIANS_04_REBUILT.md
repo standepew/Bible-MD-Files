@@ -1,3 +1,14 @@
+---
+book: "1 Thessalonians"
+chapter: 4
+testament: "New Testament"
+key_themes: "Sanctification and Purity, Brotherly Love, Working Quietly, The Coming of the Lord"
+tags:
+  - sanctification-and-purity
+  - brotherly-love
+  - working-quietly
+  - the-coming-of-the-lord
+---
 # 1 Thessalonians 4
 
 ---
@@ -93,7 +104,7 @@ Beseech, brethren, exhort, Lord, Jesus, received, walk, please, God, abound, com
 
 
 *AI Keywords for current event matching:*
-`abound` `abstain` `air` `alive` `archangel` `asleep` `avenger` `believe` `beseech` `beyond` `brethren` `bring` `brother` `brotherly` `business` `called` `caught` `christ` `clouds` `comfort` `coming` `commanded` `commandments` `concupiscence` `dead` `defraud` `descend` `despiseth` `died` `ever` `exhort` `forewarned` `fornication` `gentiles` `given` `god` `hands` `heaven` `holiness` `holy` `honestly` `honour` `hope` `ignorant` `increase` `jesus` `know` `lack` `lord` `love` `lust` `macedonia` `man` `matter` `meet` `others` `please` `possess` `prevent` `purity` `quiet` `quietly` `received` `remain` `rise` `rose` `sanctification` `shout` `sleep` `sorrow` `spirit` `study` `taught` `testified` `touching` `trump` `uncleanness` `vessel` `voice` `walk` `without` `word` `words` `working` `write`
+#abound #abstain #air #alive #archangel #asleep #avenger #believe #beseech #beyond #brethren #bring #brother #brotherly #business #called #caught #christ #clouds #comfort #coming #commanded #commandments #concupiscence #dead #defraud #descend #despiseth #died #ever #exhort #forewarned #fornication #gentiles #given #god #hands #heaven #holiness #holy #honestly #honour #hope #ignorant #increase #jesus #know #lack #lord #love #lust #macedonia #man #matter #meet #others #please #possess #prevent #purity #quiet #quietly #received #remain #rise #rose #sanctification #shout #sleep #sorrow #spirit #study #taught #testified #touching #trump #uncleanness #vessel #voice #walk #without #word #words #working #write
 
 
 ---

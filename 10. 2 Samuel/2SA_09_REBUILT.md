@@ -1,3 +1,15 @@
+---
+book: "2 Samuel"
+chapter: 9
+testament: "Old Testament"
+key_themes: "David's Kindness to Mephibosheth, Covenant Faithfulness, Restoration of Saul's House, Table Fellowship"
+tags:
+  - bowed-servant-dead-dog
+  - david
+  - covenant-faithfulness
+  - restoration-of-saul
+  - table-fellowship
+---
 # 2 Samuel 9
 
 ---
@@ -83,7 +95,7 @@ David asked if any left of house of Saul to show kindness for Jonathan's sake. H
 
 
 *AI Keywords for current event matching:*
-`ammiel` `arranged` `bowed` `bread` `called` `commanded` `continually` `david` `davids` `dead` `dog` `face` `father` `fear` `feet` `fetched` `fifteen` `food` `found` `fruits` `god` `house` `inquiry` `jerusalem` `jonathan` `kindness` `king` `lame` `land` `lo-debar` `lord` `machir` `master` `mephibosheth` `micha` `response` `restoration` `restore` `reverence` `sake` `saul` `servant` `servants` `son` `sons` `table` `till` `twenty` `ziba` `zibas`
+#ammiel #arranged #bowed #bread #called #commanded #continually #david #davids #dead #dog #face #father #fear #feet #fetched #fifteen #food #found #fruits #god #house #inquiry #jerusalem #jonathan #kindness #king #lame #land #lo-debar #lord #machir #master #mephibosheth #micha #response #restoration #restore #reverence #sake #saul #servant #servants #son #sons #table #till #twenty #ziba #zibas
 
 
 ---

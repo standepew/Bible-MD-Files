@@ -1,3 +1,35 @@
+---
+book: "Numbers"
+chapter: 24
+testament: "Old Testament"
+key_themes: "Balaam abandons enchantment-seeking and simply looks at Israel — the Spirit of God comes upon him, Oracle 3: "How goodly are thy tents, O Jacob, and thy tabernacles, O Israel!" — the beauty of the ordered camp seen by the Spirit, Oracle 4: The messianic prophecy — "there shall come a Star out of Jacob, and a Sceptre shall rise out of Israel" — the most concentrated messianic oracle in the Torah, Balak's rage — "I thought to promote thee to great honour; but the LORD hath kept thee back from honour", Balaam's final testament: what this people shall do to thy people in the latter days, The fates of surrounding nations declared: Edom, Amalek, the Kenites, Asshur, Eber"
+tags:
+  - Balaam-sets-face-toward-wilderness
+  - spirit-of-God-comes-upon-Balaam
+  - man-whose-eyes-are-open
+  - how-goodly-are-thy-tents
+  - as-valleys-spread-forth
+  - as-gardens-by-rivers
+  - lign-aloes
+  - cedar-trees
+  - water-out-of-his-buckets
+  - seed-in-many-waters
+  - king-higher-than-Agag
+  - unicorn-strength
+  - lion-shall-not-be-stirred
+  - blessed-is-he-that-blesseth-thee
+  - Balak-smites-his-hands
+  - house-full-of-silver-and-gold
+  - latter-days
+  - Star-out-of-Jacob
+  - Sceptre-out-of-Israel
+  - Edom-a-possession
+  - Israel-shall-do-valiantly
+  - Amalek-perish-forever
+  - Chittim
+  - Asshur
+  - Eber
+---
 # Numbers 24
 
 ---
@@ -64,7 +96,7 @@ At the top of Peor, Balaam sees it is the LORD's pleasure to bless Israel. He ab
 
 
 *AI Keywords for current event matching:*
-`current` `events` `expectation` `jacob` `matching` `matthew` `messianic` `numbers` `revelation` `star`
+#current #events #expectation #jacob #matching #matthew #messianic #numbers #revelation #star
 
 
 ---
@@ -137,15 +169,15 @@ This is one of Scripture's most poignant prophetic statements. Balaam glimpses t
 
 ### The Tent Thread — From Goodly Tents to the Tabernacle of God with Men
 
-**Numbers 24:5** — "How goodly are thy tents, O Jacob, and thy tabernacles, O Israel!"
+[[04. Numbers/NUM_24_REBUILT|Numbers 24:5]] — "How goodly are thy tents, O Jacob, and thy tabernacles, O Israel!"
 
 The tent/tabernacle vocabulary (ohel/mishkan) runs from Genesis to Revelation:
 
-- **Genesis 4:20** — Jabal, the father of those who dwell in tents
-- **Genesis 9:27** — "God shall enlarge Japheth, and he shall dwell in the tents of Shem"
-- **Numbers 24:5** — the goodly tents of Jacob; the Tabernacle (mishkan) at the centre of the camp
-- **John 1:14** — "the Word was made flesh, and dwelt [Greek: eskenosen — tabernacled] among us"
-- **Revelation 21:3** — "Behold, the tabernacle of God is with men, and he will dwell with them"
+- [[01. Genesis/GEN_04_REBUILT|Genesis 4:20]] — Jabal, the father of those who dwell in tents
+- [[01. Genesis/GEN_09_REBUILT|Genesis 9:27]] — "God shall enlarge Japheth, and he shall dwell in the tents of Shem"
+- [[04. Numbers/NUM_24_REBUILT|Numbers 24:5]] — the goodly tents of Jacob; the Tabernacle (mishkan) at the centre of the camp
+- [[43. John/JOHN_01_REBUILT|John 1:14]] — "the Word was made flesh, and dwelt [Greek: eskenosen — tabernacled] among us"
+- [[66. Revelation/REVELATION_21_REBUILT|Revelation 21:3]] — "Behold, the tabernacle of God is with men, and he will dwell with them"
 
 What Balaam sees from Peor — tents organized around the mishkan — is the type of what John declares in Revelation 21: God's permanent tabernacling with His people. The goodly tents of the wilderness become the eternal dwelling of God with man.
 

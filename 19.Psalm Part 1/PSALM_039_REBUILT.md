@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 39
+testament: "Old Testament"
+key_themes: "Human Frailty, Life's Brevity, Hope in God, Deliverance from Sin"
+tags:
+  - human-frailty
+  - life
+  - hope-in-god
+  - deliverance-from-sin
+---
 # Psalm 39
 
 ---
@@ -141,7 +152,7 @@ Chief, Musician, Jeduthun, Psalm, David, take, heed, ways, sin, tongue, keep, mo
 
 
 *AI Keywords for current event matching:*
-`age` `away` `beauty` `behold` `best` `blow` `brevity` `bridle` `burned` `chief` `consume` `consumed` `correct` `cry` `david` `days` `deliver` `deliverance` `didst` `disquieted` `dumb` `ear` `end` `fathers` `fire` `foolish` `frail` `frailty` `gather` `give` `god` `good` `hand` `handbreadth` `heapeth` `hear` `heart` `heed` `held` `hence` `hold` `hope` `hot` `human` `iniquity` `jeduthun` `keep` `know` `knoweth` `lifes` `lord` `made` `make` `man` `measure` `moth` `mouth` `musician` `musing` `nothing` `opened` `peace` `prayer` `psalm` `rebukes` `recover` `remove` `reproach` `riches` `selah` `shew` `silence` `sin` `sojourner` `sorrow` `spake` `spare` `state` `stirred` `stranger` `strength` `stroke` `take` `tears` `tongue` `transgressions` `vain` `vanity` `wait` `walketh` `ways` `wicked` `within`
+#age #away #beauty #behold #best #blow #brevity #bridle #burned #chief #consume #consumed #correct #cry #david #days #deliver #deliverance #didst #disquieted #dumb #ear #end #fathers #fire #foolish #frail #frailty #gather #give #god #good #hand #handbreadth #heapeth #hear #heart #heed #held #hence #hold #hope #hot #human #iniquity #jeduthun #keep #know #knoweth #lifes #lord #made #make #man #measure #moth #mouth #musician #musing #nothing #opened #peace #prayer #psalm #rebukes #recover #remove #reproach #riches #selah #shew #silence #sin #sojourner #sorrow #spake #spare #state #stirred #stranger #strength #stroke #take #tears #tongue #transgressions #vain #vanity #wait #walketh #ways #wicked #within
 
 
 ---

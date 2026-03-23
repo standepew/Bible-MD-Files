@@ -1,3 +1,37 @@
+---
+book: "Deuteronomy"
+chapter: 10
+testament: "Old Testament"
+key_themes: "New Tablets Made, The Ark, Aaron Dies and Eleazar Succeeds, Levi Separated, What Doth the LORD Require, Circumcise the Heart, God of Gods and Lord of Lords, Love the Stranger, Threescore and Ten into Egypt / Now Stars of Heaven"
+tags:
+  - deuteronomy
+  - chapter10
+  - new-tablets
+  - hew-two-tables
+  - ark-of-wood
+  - shittim
+  - ten-commandments-restored
+  - Beeroth
+  - Mosera
+  - Aaron-death
+  - Eleazar
+  - Levi-separated
+  - no-inheritance-Levi
+  - LORD-is-his-inheritance
+  - what-doth-the-LORD-require
+  - fear-walk-love-serve
+  - circumcise-foreskin-heart
+  - stiffnecked-no-more
+  - God-of-gods
+  - Lord-of-lords
+  - great-God-mighty-terrible
+  - no-respect-of-persons
+  - execute-judgment-fatherless-widow
+  - love-the-stranger
+  - cleave-to-him
+  - seventy-souls
+  - stars-of-heaven
+---
 # Deuteronomy 10
 
 ---
@@ -105,7 +139,7 @@ God commands Moses to hew two new stone tablets and come up to the mountain; als
 
 ## KEYWORD INDEX
 
-`new tablets` `ark of wood` `Levi — LORD is his inheritance` `what doth the LORD require` `circumcise your heart` `stiffnecked` `God of gods / Lord of lords` `no respect of persons` `fatherless / widow / stranger` `seventy to Egypt → stars of heaven`
+#new-tablets #ark-of-wood #Levi--LORD-is-his-inheritance #what-doth-the-LORD-require #circumcise-your-heart #stiffnecked #God-of-gods--Lord-of-lords #no-respect-of-persons #fatherless--widow--stranger #seventy-to-Egypt--stars-of-heaven
 
 **new tablets** — restoration after covenant breaking; Exodus 34; Jeremiah 31:33  
 **ark of wood** — container of covenant terms; Hebrews 9:4; law within, blood above  

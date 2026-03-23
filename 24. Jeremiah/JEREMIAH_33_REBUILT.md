@@ -1,3 +1,13 @@
+---
+book: "Jeremiah"
+chapter: 33
+testament: "Old Testament"
+key_themes: "Christ's Restoration, Righteous Branch, David's Throne, Christ's Covenant"
+tags:
+  - christ
+  - righteous-branch
+  - david
+---
 # Jeremiah 33
 
 ---
@@ -105,7 +115,7 @@ Word, LORD, Jeremiah, second, time, shut, court, prison, LORD, maker, LORD, form
 
 
 *AI Keywords for current event matching:*
-`branch` `bring` `build` `burnt` `captivity` `cause` `christs` `covenant` `cure` `david` `davids` `day` `dwell` `earth` `execute` `first` `health` `heaven` `house` `israel` `jerusalem` `judah` `judgment` `levites` `man` `multiply` `night` `offerings` `ordinances` `peace` `priests` `restoration` `return` `reveal` `righteous` `righteousness` `saved` `seed` `sit` `throne` `truth` `want`
+#branch #bring #build #burnt #captivity #cause #christs #covenant #cure #david #davids #day #dwell #earth #execute #first #health #heaven #house #israel #jerusalem #judah #judgment #levites #man #multiply #night #offerings #ordinances #peace #priests #restoration #return #reveal #righteous #righteousness #saved #seed #sit #throne #truth #want
 
 
 ---

@@ -1,3 +1,15 @@
+---
+book: "1 Chronicles"
+chapter: 10
+testament: "Old Testament"
+key_themes: "Saul's Defeat and Death, Philistine Victory, Jabesh-gilead's Loyalty, David's Rise to Kingship"
+tags:
+  - Jabesh-gilead-heard-Philistines-Saul
+  - saul
+  - philistine-victory
+  - jabeshgilead
+  - david
+---
 # 1 Chronicles 10
 
 ---
@@ -123,7 +135,7 @@ Philistines, fought, Israel, men, Israel, fled, Philistines, fell, slain, mount,
 
 
 *AI Keywords for current event matching:*
-`abinadab` `abuse` `afraid` `archers` `armour` `armourbearer` `arose` `asking` `battle` `bodies` `body` `bones` `brought` `buried` `came` `carry` `cities` `come` `committed` `counsel` `dagon` `david` `davids` `days` `dead` `death` `defeat` `died` `draw` `dwelt` `enquire` `enquired` `fallen` `familiar` `fasted` `fastened` `fell` `fled` `flight` `followed` `forsook` `fought` `found` `gilboa` `gods` `hard` `head` `heard` `hit` `house` `idols` `israel` `israels` `jabesh` `jabesh-gilead` `jabesh-gileads` `jesse` `jonathan` `judgment` `kept` `kingdom` `land` `lord` `loyalty` `malchi-shua` `men` `morrow` `mount` `oak` `people` `philistine` `philistines` `put` `rise` `round` `saul` `sauls` `saw` `sent` `seven` `slain` `slew` `son` `sons` `sore` `spirit` `strip` `stripped` `sword` `temple` `three` `thrust` `tidings` `took` `transgression` `turned` `uncircumcised` `valiant` `valley` `victory` `word` `wounded`
+#abinadab #abuse #afraid #archers #armour #armourbearer #arose #asking #battle #bodies #body #bones #brought #buried #came #carry #cities #come #committed #counsel #dagon #david #davids #days #dead #death #defeat #died #draw #dwelt #enquire #enquired #fallen #familiar #fasted #fastened #fell #fled #flight #followed #forsook #fought #found #gilboa #gods #hard #head #heard #hit #house #idols #israel #israels #jabesh #jabesh-gilead #jabesh-gileads #jesse #jonathan #judgment #kept #kingdom #land #lord #loyalty #malchi-shua #men #morrow #mount #oak #people #philistine #philistines #put #rise #round #saul #sauls #saw #sent #seven #slain #slew #son #sons #sore #spirit #strip #stripped #sword #temple #three #thrust #tidings #took #transgression #turned #uncircumcised #valiant #valley #victory #word #wounded
 
 
 ---

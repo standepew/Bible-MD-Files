@@ -1,3 +1,13 @@
+---
+book: "Ezekiel"
+chapter: 5
+testament: "Old Testament"
+key_themes: "Christ's Judgment, Jerusalem's Destruction, Divine Fury, Christ's Anger"
+tags:
+  - christ
+  - jerusalem
+  - divine-fury
+---
 # Ezekiel 5
 
 ---
@@ -129,7 +139,7 @@ Son, man, sharp, knife, barber, razor, pass, head, beard, balances, weigh, divid
 
 
 *AI Keywords for current event matching:*
-`accomplished` `against` `anger` `arrows` `beasts` `blood` `bring` `burn` `christs` `destruction` `divine` `done` `eat` `evil` `execute` `eye` `fathers` `fire` `fury` `god` `jerusalems` `judgment` `judgments` `knife` `like` `lord` `part` `pestilence` `reproach` `rest` `scatter` `sharp` `sons` `spare` `sword` `third` `waste` `wind`
+#accomplished #against #anger #arrows #beasts #blood #bring #burn #christs #destruction #divine #done #eat #evil #execute #eye #fathers #fire #fury #god #jerusalems #judgment #judgments #knife #like #lord #part #pestilence #reproach #rest #scatter #sharp #sons #spare #sword #third #waste #wind
 
 
 ---

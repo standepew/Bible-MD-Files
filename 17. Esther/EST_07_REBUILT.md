@@ -1,3 +1,15 @@
+---
+book: "Esther"
+chapter: 7
+testament: "Old Testament"
+key_themes: "Esther's Petition, Haman's Exposure, Poetic Justice, Divine Victory"
+tags:
+  - king-Haman-banquet-Esther-queen
+  - esther
+  - haman
+  - poetic-justice
+  - divine-victory
+---
 # Esther 7
 
 ---
@@ -141,7 +153,7 @@ King, Haman, banquet, Esther, queen. King, Esther, second, day, banquet, wine, p
 
 
 *AI Keywords for current event matching:*
-`adversary` `afraid` `ahasuerus` `answered` `arising` `banquet` `bed` `bondmen` `bondwomen` `chamberlain` `countervail` `covered` `cubits` `damage` `day` `destroyed` `determined` `divine` `durst` `enemy` `esther` `esthers` `evil` `exposure` `face` `fallen` `favour` `fifty` `force` `gallows` `garden` `given` `good` `granted` `half` `haman` `hamans` `hang` `hanged` `harbonah` `heart` `held` `house` `justice` `king` `kingdom` `life` `made` `mordecai` `mouth` `pacified` `palace` `people` `performed` `perish` `petition` `place` `please` `poetic` `prepared` `presume` `queen` `request` `returned` `second` `sight` `slain` `sold` `spoken` `tongue` `victory` `wicked` `wine` `wrath`
+#adversary #afraid #ahasuerus #answered #arising #banquet #bed #bondmen #bondwomen #chamberlain #countervail #covered #cubits #damage #day #destroyed #determined #divine #durst #enemy #esther #esthers #evil #exposure #face #fallen #favour #fifty #force #gallows #garden #given #good #granted #half #haman #hamans #hang #hanged #harbonah #heart #held #house #justice #king #kingdom #life #made #mordecai #mouth #pacified #palace #people #performed #perish #petition #place #please #poetic #prepared #presume #queen #request #returned #second #sight #slain #sold #spoken #tongue #victory #wicked #wine #wrath
 
 
 ---

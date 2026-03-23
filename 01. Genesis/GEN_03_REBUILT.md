@@ -1,3 +1,50 @@
+---
+book: "Genesis"
+chapter: 3
+testament: "Old Testament"
+key_themes: "The Fall, Satan's Strategy of Deception, Sin Enters the World, Death Enters the World, The Three Curses, The Proto-Evangelium (First Gospel), The Seed of the Woman, First Blood Sacrifice, God's Covering vs. Man's Covering, Cherubim Guard the Tree of Life"
+tags:
+  - the-fall
+  - serpent
+  - nachash
+  - subtil
+  - hath-God-said
+  - ye-shall-not-surely-die
+  - lust-of-flesh
+  - lust-of-eyes
+  - pride-of-life
+  - eyes-opened
+  - naked
+  - fig-leaves
+  - hiding-from-God
+  - where-art-thou
+  - blame-shifting
+  - curse-on-serpent
+  - curse-on-woman
+  - curse-on-ground
+  - proto-evangelium
+  - seed-of-woman
+  - seed-of-serpent
+  - enmity
+  - bruise-head
+  - bruise-heel
+  - shuwph
+  - thorns-thistles
+  - sweat-of-face
+  - dust-to-dust
+  - Eve-chavvah
+  - mother-of-all-living
+  - coats-of-skins
+  - first-blood-sacrifice
+  - substitutionary-atonement
+  - clothed-by-God
+  - tree-of-life-blocked
+  - cherubim
+  - flaming-sword
+  - expulsion
+  - cosmic-conflict
+  - Satan-defeated
+---
 # Genesis 3
 
 ---
@@ -157,7 +204,7 @@ The serpent — identified by Scripture as Satan himself (Revelation 12:9; 20:2)
 
 For AI matching to topics and current events:
 
-`serpent` `nachash` `subtil` `hath God said` `ye shall not surely die` `as gods` `knowing good and evil` `good for food` `pleasant to eyes` `desired to make wise` `lust of flesh` `lust of eyes` `pride of life` `eyes opened` `naked` `fig leaves` `aprons` `hid` `afraid` `voice of God` `Where art thou` `blame-shifting` `beguiled` `cursed` `serpent cursed` `belly` `dust` `enmity` `seed of woman` `seed of serpent` `bruise thy head` `bruise his heel` `shuwph` `proto-evangelium` `first gospel` `sorrow in childbirth` `birth pains` `sorrow` `thorns` `thistles` `sweat of face` `bread` `dust thou art` `unto dust shalt thou return` `Eve` `Chavvah` `mother of all living` `coats of skins` `first blood` `substitutionary atonement` `covered` `clothed` `expelled` `driven out` `cherubim` `flaming sword` `tree of life blocked` `cosmic conflict` `Satan` `Devil` `father of lies` `murderer from the beginning`
+#serpent #nachash #subtil #hath-God-said #ye-shall-not-surely-die #as-gods #knowing-good-and-evil #good-for-food #pleasant-to-eyes #desired-to-make-wise #lust-of-flesh #lust-of-eyes #pride-of-life #eyes-opened #naked #fig-leaves #aprons #hid #afraid #voice-of-God #Where-art-thou #blame-shifting #beguiled #cursed #serpent-cursed #belly #dust #enmity #seed-of-woman #seed-of-serpent #bruise-thy-head #bruise-his-heel #shuwph #proto-evangelium #first-gospel #sorrow-in-childbirth #birth-pains #sorrow #thorns #thistles #sweat-of-face #bread #dust-thou-art #unto-dust-shalt-thou-return #Eve #Chavvah #mother-of-all-living #coats-of-skins #first-blood #substitutionary-atonement #covered #clothed #expelled #driven-out #cherubim #flaming-sword #tree-of-life-blocked #cosmic-conflict #Satan #Devil #father-of-lies #murderer-from-the-beginning
 
 **Relevance to Current Events:**
 - Media and cultural deception — "Hath God said?" is the same tactic applied to Scripture in every generation; identify it by its pattern, not just its name
@@ -458,15 +505,15 @@ For AI matching to topics and current events:
 
 ### The Serpent / Dragon — From Garden to Lake of Fire
 
-**Genesis 3:1** — The serpent deceives in the garden  
-**Revelation 12:9** — "That old serpent, called the Devil, and Satan, which deceiveth the whole world"  
-**Revelation 20:2** — Bound a thousand years  
-**Revelation 20:10** — Cast into the lake of fire
+[[01. Genesis/GEN_03_REBUILT|Genesis 3:1]] — The serpent deceives in the garden  
+[[66. Revelation/REVELATION_12_REBUILT|Revelation 12:9]] — "That old serpent, called the Devil, and Satan, which deceiveth the whole world"  
+[[66. Revelation/REVELATION_20_REBUILT|Revelation 20:2]] — Bound a thousand years  
+[[66. Revelation/REVELATION_20_REBUILT|Revelation 20:10]] — Cast into the lake of fire
 
 **Thread through Scripture:**
-- **Isaiah 27:1** — "In that day the LORD with his sore and great and strong sword shall punish leviathan the piercing serpent, even leviathan that crooked serpent; and he shall slay the dragon that is in the sea"
+- [[23. Isaiah/ISAIAH_27_REBUILT|Isaiah 27:1]] — "In that day the LORD with his sore and great and strong sword shall punish leviathan the piercing serpent, even leviathan that crooked serpent; and he shall slay the dragon that is in the sea"
 - **Ezekiel 29:3; 32:2** — Pharaoh compared to a great dragon/serpent in the Nile — the enemy of God's people figured as the serpent
-- **Psalm 74:13-14** — "Thou breakest the heads of the dragons in the waters. Thou brakest the heads of leviathan in pieces" — God crushing the serpent's power as a recurring prophetic image
+- [[19.Psalm Part 1/PSALM_74_REBUILT|Psalm 74:13-14]] — "Thou breakest the heads of the dragons in the waters. Thou brakest the heads of leviathan in pieces" — God crushing the serpent's power as a recurring prophetic image
 - **Numbers 21:8-9 / John 3:14-15** — The one use in Scripture where a serpent is a redemptive type: Moses lifts up the bronze serpent; Jesus says "even so must the Son of man be lifted up." Christ was made sin (the serpent = sin/curse) on the cross so that looking to Him brings life. This is the one exception — the serpent as type of Christ bearing sin — which is entirely consistent with the serpent pattern: the cross is where Satan's strategy (bruise the heel) became his own defeat.
 - *Interpretation:* The serpent of Genesis 3 is the same being identified as the dragon/Satan throughout Scripture. His appearance in the garden is his first recorded act; his casting into the lake of fire in Revelation 20 is his last. The trajectory of the serpent is from deception-of-one (Genesis 3) → deception-of-the-world (Revelation 12:9) → binding (Revelation 20:2) → eternal judgment (Revelation 20:10). Genesis 3:15 is the verdict; Revelation 20:10 is the execution.
 
@@ -474,46 +521,46 @@ For AI matching to topics and current events:
 
 ### Fig Leaves → Coats of Skins → White Robes — The Arc of Covering
 
-**Genesis 3:7** — Man's self-covering: fig leaves (inadequate, self-made)  
-**Genesis 3:21** — God's covering: coats of skins (requires death, God-provided)  
-**Revelation 19:8** — Final covering: fine linen, white and clean (righteousness of saints, given by God)
+[[01. Genesis/GEN_03_REBUILT|Genesis 3:7]] — Man's self-covering: fig leaves (inadequate, self-made)  
+[[01. Genesis/GEN_03_REBUILT|Genesis 3:21]] — God's covering: coats of skins (requires death, God-provided)  
+[[66. Revelation/REVELATION_19_REBUILT|Revelation 19:8]] — Final covering: fine linen, white and clean (righteousness of saints, given by God)
 
 **Thread through Scripture:**
-- **Isaiah 64:6** — "All our righteousnesses are as filthy rags" — fig leaf religion; self-generated, worthless before God
-- **Zechariah 3:3-5** — Joshua in filthy garments before God; God provides clean raiment — the pattern repeated
-- **Isaiah 61:10** — "He hath clothed me with the garments of salvation, he hath covered me with the robe of righteousness"
-- **Matthew 22:11-12** — The man without a wedding garment is cast out — being in the right place without the right covering is not enough
-- **Romans 13:14** — "Put ye on the Lord Jesus Christ"
-- **Revelation 3:18** — White raiment offered to the Laodicean church: "that thou mayest be clothed, and that the shame of thy nakedness do not appear"
+- [[23. Isaiah/ISAIAH_64_REBUILT|Isaiah 64:6]] — "All our righteousnesses are as filthy rags" — fig leaf religion; self-generated, worthless before God
+- [[38. Zechariah/ZECHARIAH_03_REBUILT|Zechariah 3:3-5]] — Joshua in filthy garments before God; God provides clean raiment — the pattern repeated
+- [[23. Isaiah/ISAIAH_61_REBUILT|Isaiah 61:10]] — "He hath clothed me with the garments of salvation, he hath covered me with the robe of righteousness"
+- [[40. Matthew/MATTHEW_22_REBUILT|Matthew 22:11-12]] — The man without a wedding garment is cast out — being in the right place without the right covering is not enough
+- [[45. Romans/ROMANS_13_REBUILT|Romans 13:14]] — "Put ye on the Lord Jesus Christ"
+- [[66. Revelation/REVELATION_03_REBUILT|Revelation 3:18]] — White raiment offered to the Laodicean church: "that thou mayest be clothed, and that the shame of thy nakedness do not appear"
 - *Interpretation:* The arc of covering is the arc of salvation. Man's covering is always inadequate (fig leaves / self-righteousness). God's covering always involves blood (coats of skins / the cross). The final state is white robes — perfect righteousness given by God, worn by the redeemed. What began in a garden with shame and fig leaves ends in a city with spotless linen.
 
 ---
 
 ### Birth Pains — Curse to Prophetic Key
 
-**Genesis 3:16** — "in sorrow (itstsabon — birth pains) thou shalt bring forth children"
+[[01. Genesis/GEN_03_REBUILT|Genesis 3:16]] — "in sorrow (itstsabon — birth pains) thou shalt bring forth children"
 
 **Thread through Scripture:**
 - **Isaiah 13:8; 21:3; 26:17-18** — Birth pain language for judgment and deliverance
 - **Jeremiah 4:31; 6:24; 30:6** — "Birth pains" applied to national catastrophe
-- **Micah 5:3** — "Until the time that she which travaileth hath brought forth" — the travailing woman as a prophetic marker
-- **Matthew 24:8** — "All these are the beginning of sorrows (odin = birth pains)" — Jesus uses the Fall's curse as the prophetic template for end-times signs
-- **1 Thessalonians 5:3** — "As travail upon a woman with child" — sudden, unavoidable, intensifying
-- **Revelation 12:2** — "She being with child cried, travailing in birth, and pained to be delivered"
+- [[33. Micah/MICAH_05_REBUILT|Micah 5:3]] — "Until the time that she which travaileth hath brought forth" — the travailing woman as a prophetic marker
+- [[40. Matthew/MATTHEW_24_REBUILT|Matthew 24:8]] — "All these are the beginning of sorrows (odin = birth pains)" — Jesus uses the Fall's curse as the prophetic template for end-times signs
+- [[52. 1 Thessalonians/1_THESSALONIANS_05_REBUILT|1 Thessalonians 5:3]] — "As travail upon a woman with child" — sudden, unavoidable, intensifying
+- [[66. Revelation/REVELATION_12_REBUILT|Revelation 12:2]] — "She being with child cried, travailing in birth, and pained to be delivered"
 - *Interpretation:* God embedded a prophetic template into the curse itself. The pain of childbirth — intensifying, accelerating, unavoidable, leading to new life — becomes in the prophets and in Christ's own teaching the template for the end times. As birth pains accelerate as delivery approaches, end-times events accelerate. The curse of Genesis 3:16 contains the seed of the prophetic timeline.
 
 ---
 
 ### Hiding from God — The Pattern of the Fallen
 
-**Genesis 3:8** — "Adam and his wife hid themselves from the presence of the LORD God"
+[[01. Genesis/GEN_03_REBUILT|Genesis 3:8]] — "Adam and his wife hid themselves from the presence of the LORD God"
 
 **Thread through Scripture:**
-- **Psalm 139:7-12** — "Whither shall I flee from thy presence?" — man cannot hide from God; the hiding is self-deception
-- **Isaiah 28:15** — "We have made lies our refuge, and under falsehood have we hid ourselves" — collective hiding in deception
-- **Amos 9:3** — "Though they hide themselves in the top of Carmel, I will search and take them out thence" — God's pursuit of the hiding
-- **Jonah 1:3** — "But Jonah rose up to flee unto Tarshish from the presence of the LORD" — the most famous attempt to hide; it failed
-- **Revelation 6:15-16** — "And the kings of the earth, and the great men... hid themselves in the dens and in the rocks of the mountains; And said to the mountains and rocks, Fall on us, and hide us from the face of him that sitteth on the throne" — at the final judgment, man still tries to hide; it still fails
+- [[19.Psalm Part 2/PSALM_139_REBUILT|Psalm 139:7-12]] — "Whither shall I flee from thy presence?" — man cannot hide from God; the hiding is self-deception
+- [[23. Isaiah/ISAIAH_28_REBUILT|Isaiah 28:15]] — "We have made lies our refuge, and under falsehood have we hid ourselves" — collective hiding in deception
+- [[30. Amos/AMOS_09_REBUILT|Amos 9:3]] — "Though they hide themselves in the top of Carmel, I will search and take them out thence" — God's pursuit of the hiding
+- [[32. Jonah/JONAH_01_REBUILT|Jonah 1:3]] — "But Jonah rose up to flee unto Tarshish from the presence of the LORD" — the most famous attempt to hide; it failed
+- [[66. Revelation/REVELATION_06_REBUILT|Revelation 6:15-16]] — "And the kings of the earth, and the great men... hid themselves in the dens and in the rocks of the mountains; And said to the mountains and rocks, Fall on us, and hide us from the face of him that sitteth on the throne" — at the final judgment, man still tries to hide; it still fails
 - *Interpretation:* The hiding of Adam and Eve in Genesis 3:8 is the first instance of a pattern that runs to the last pages of Scripture. Fallen man hides from God — in religion, in busyness, in denial, in caves, in mountains. God always finds. What began with "they hid themselves among the trees" ends in "hide us from the face of him that sitteth on the throne." Same impulse, same futility.
 
 ---

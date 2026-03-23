@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 119
+testament: "Old Testament"
+key_themes: "Word of God, Divine Law, Spiritual Meditation, Obedient Living"
+tags:
+  - word-of-god
+  - divine-law
+  - spiritual-meditation
+  - obedient-living
+---
 # Psalm 119
 
 ---
@@ -142,7 +153,7 @@ Blessed, undefiled, walk, law, LORD, keep, testimonies, seek, whole, heart, iniq
 
 
 *AI Keywords for current event matching:*
-`behold` `christ` `commandments` `continually` `delight` `divine` `dwell` `eyes` `forever` `god` `heart` `hid` `judgments` `keep` `law` `living` `lord` `mediate` `meditate` `meditation` `obedient` `observe` `open` `precepts` `respect` `richly` `run` `sin` `spiritual` `statutes` `testimonies` `things` `walk` `way` `ways` `wondrous` `word`
+#behold #christ #commandments #continually #delight #divine #dwell #eyes #forever #god #heart #hid #judgments #keep #law #living #lord #mediate #meditate #meditation #obedient #observe #open #precepts #respect #richly #run #sin #spiritual #statutes #testimonies #things #walk #way #ways #wondrous #word
 
 
 ---

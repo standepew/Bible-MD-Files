@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 149
+testament: "Old Testament"
+key_themes: "New Song Praise, Joyful Worship, Divine Pleasure, Saintly Victory"
+tags:
+  - new-song-praise
+  - joyful-worship
+  - divine-pleasure
+  - saintly-victory
+---
 # Psalm 149
 
 ---
@@ -141,7 +152,7 @@ Praise, LORD, Sing, LORD, new, song, praise, congregation, saints, Israel, rejoi
 
 
 *AI Keywords for current event matching:*
-`beautify` `children` `congregation` `divine` `execute` `glory` `god` `hand` `harp` `heathen` `high` `israel` `joyful` `judgment` `lord` `meek` `new` `pleasure` `praise` `praises` `rejoice` `saintly` `saints` `salvation` `sing` `song` `sword` `taketh` `timbrel` `twoedged` `vengeance` `victory` `worship` `written` `zion`
+#beautify #children #congregation #divine #execute #glory #god #hand #harp #heathen #high #israel #joyful #judgment #lord #meek #new #pleasure #praise #praises #rejoice #saintly #saints #salvation #sing #song #sword #taketh #timbrel #twoedged #vengeance #victory #worship #written #zion
 
 
 ---

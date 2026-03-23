@@ -1,3 +1,14 @@
+---
+book: "Zechariah"
+chapter: 3
+testament: "Old Testament"
+key_themes: "Christ's Cleansing of the High Priest, Divine Forgiveness, The Branch, Stone with Seven Eyes"
+tags:
+  - christ
+  - divine-forgiveness
+  - the-branch
+  - stone-with-seven-eyes
+---
 # Zechariah 3
 
 ---
@@ -117,7 +128,7 @@ Shewed, Joshua, high, priest, standing, angel, LORD, Satan, standing, right, han
 
 
 *AI Keywords for current event matching:*
-`branch` `brand` `bring` `caused` `change` `christs` `cleansing` `day` `divine` `engrave` `eyes` `fair` `fellows` `filthy` `forgiveness` `forth` `garments` `graving` `high` `iniquity` `joshua` `laid` `men` `mitre` `one` `pass` `plucked` `priest` `protest` `raiment` `remove` `servant` `seven` `sit` `spirits` `stone` `wondered`
+#branch #brand #bring #caused #change #christs #cleansing #day #divine #engrave #eyes #fair #fellows #filthy #forgiveness #forth #garments #graving #high #iniquity #joshua #laid #men #mitre #one #pass #plucked #priest #protest #raiment #remove #servant #seven #sit #spirits #stone #wondered
 
 
 ---

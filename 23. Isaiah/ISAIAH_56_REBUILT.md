@@ -1,3 +1,13 @@
+---
+book: "Isaiah"
+chapter: 56
+testament: "Old Testament"
+key_themes: "Christ's Justice, Divine Inclusion, Spiritual Sabbath, Christ's House"
+tags:
+  - christ
+  - divine-inclusion
+  - spiritual-sabbath
+---
 # Isaiah 56
 
 ---
@@ -105,7 +115,7 @@ LORD, Keep, judgment, do, justice, salvation, near, righteousness, revealed, Ble
 
 
 *AI Keywords for current event matching:*
-`accepted` `altar` `blessed` `burnt` `choose` `christs` `covenant` `divine` `doeth` `eunuchs` `hold` `holy` `house` `inclusion` `join` `joined` `joyful` `judgment` `justice` `keep` `keepeth` `lord` `man` `mountain` `near` `offerings` `people` `please` `polluting` `prayer` `revealed` `righteousness` `sabbath` `sabbaths` `salvation` `son` `sons` `spiritual` `stranger` `take` `things`
+#accepted #altar #blessed #burnt #choose #christs #covenant #divine #doeth #eunuchs #hold #holy #house #inclusion #join #joined #joyful #judgment #justice #keep #keepeth #lord #man #mountain #near #offerings #people #please #polluting #prayer #revealed #righteousness #sabbath #sabbaths #salvation #son #sons #spiritual #stranger #take #things
 
 
 ---

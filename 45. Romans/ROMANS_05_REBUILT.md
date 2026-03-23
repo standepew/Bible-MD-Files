@@ -1,3 +1,14 @@
+---
+book: "Romans"
+chapter: 5
+testament: "New Testament"
+key_themes: "Peace with God, Joy in Tribulation, Adam and Christ, Grace Abounds"
+tags:
+  - peace-with-god
+  - joy-in-tribulation
+  - adam-and-christ
+  - grace-abounds
+---
 # Romans 5
 
 ---
@@ -129,7 +140,7 @@ Justified, faith, peace, God, Lord, Jesus, Christ, access, faith, grace, stand, 
 
 
 *AI Keywords for current event matching:*
-`abound` `abounded` `abounds` `abroad` `abundance` `access` `adam` `ashamed` `atonement` `blood` `christ` `commendeth` `condemnation` `dare` `dead` `death` `die` `died` `disobedience` `enemies` `entered` `eternal` `experience` `faith` `figure` `free` `ghost` `gift` `given` `glory` `god` `good` `grace` `hearts` `holy` `hope` `imputed` `jesus` `joy` `judgment` `justification` `justified` `law` `life` `lord` `love` `man` `men` `moses` `obedience` `offence` `offences` `passed` `patience` `peace` `receive` `received` `reconciled` `reign` `reigned` `rejoice` `righteous` `righteousness` `saved` `shed` `similitude` `sin` `sinned` `sinners` `son` `stand` `strength` `time` `transgression` `tribulation` `tribulations` `ungodly` `without` `worketh` `world` `wrath`
+#abound #abounded #abounds #abroad #abundance #access #adam #ashamed #atonement #blood #christ #commendeth #condemnation #dare #dead #death #die #died #disobedience #enemies #entered #eternal #experience #faith #figure #free #ghost #gift #given #glory #god #good #grace #hearts #holy #hope #imputed #jesus #joy #judgment #justification #justified #law #life #lord #love #man #men #moses #obedience #offence #offences #passed #patience #peace #receive #received #reconciled #reign #reigned #rejoice #righteous #righteousness #saved #shed #similitude #sin #sinned #sinners #son #stand #strength #time #transgression #tribulation #tribulations #ungodly #without #worketh #world #wrath
 
 
 ---

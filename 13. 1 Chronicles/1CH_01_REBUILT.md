@@ -1,3 +1,20 @@
+---
+book: "1 Chronicles"
+chapter: 1
+testament: "Old Testament"
+key_themes: "Genealogies from Adam to Abraham, Descendants of Noah, Descendants of Shem, Descendants of Ham, Descendants of Japheth, Table of Nations"
+tags:
+  - Shem-Ham-Japheth
+  - Mizraim-Ludim-Anamim-Lehabim-Naphtuhim
+  - Abraham-Nahor-Haran
+  - sons-Keturah-Abram-Abraham
+  - genealogies-from-adam-to-abraham
+  - descendants-of-noah
+  - descendants-of-shem
+  - descendants-of-ham
+  - descendants-of-japheth
+  - table-of-nations
+---
 # 1 Chronicles 1
 
 ---
@@ -81,7 +98,7 @@ Adam, Sheth, Enosh, Kenan, Mahalaleel, Jared, Enoch, Methuselah, Lamech, Noah. S
 
 
 *AI Keywords for current event matching:*
-`abida` `abraham` `abrahams` `abram` `adam` `adams` `amorite` `anamim` `aram` `arkite` `arphaxad` `arvadite` `asshur` `canaan` `cush` `eber` `elam` `elda` `elu` `enoch` `enosh` `ephah` `epher` `gether` `girgashite` `gomer` `ham` `hamathite` `hanoch` `haran` `havilah` `heth` `hivite` `hul` `isaac` `ishbak` `ishmael` `japheth` `jared` `javan` `jebusite` `jokshan` `kenan` `keturah` `lamech` `lehabim` `line` `lud` `ludim` `madai` `magog` `mahalaleel` `medan` `meshech` `methuselah` `midian` `mizraim` `nahor` `naphtuhim` `nimrod` `noah` `noahs` `peleg` `phut` `raamah` `reu` `sabtah` `sabtecah` `seba` `serug` `shelah` `shem` `shems` `sheth` `shuah` `sidon` `sinite` `sons` `terah` `tiras` `tubal` `zemarite` `zidon`
+#abida #abraham #abrahams #abram #adam #adams #amorite #anamim #aram #arkite #arphaxad #arvadite #asshur #canaan #cush #eber #elam #elda #elu #enoch #enosh #ephah #epher #gether #girgashite #gomer #ham #hamathite #hanoch #haran #havilah #heth #hivite #hul #isaac #ishbak #ishmael #japheth #jared #javan #jebusite #jokshan #kenan #keturah #lamech #lehabim #line #lud #ludim #madai #magog #mahalaleel #medan #meshech #methuselah #midian #mizraim #nahor #naphtuhim #nimrod #noah #noahs #peleg #phut #raamah #reu #sabtah #sabtecah #seba #serug #shelah #shem #shems #sheth #shuah #sidon #sinite #sons #terah #tiras #tubal #zemarite #zidon
 
 
 ---

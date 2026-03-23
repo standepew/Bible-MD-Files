@@ -1,3 +1,64 @@
+---
+book: "Genesis"
+chapter: 15
+testament: "Old Testament"
+key_themes: ""Fear Not, Abram" — God Speaks After the Battle, "I Am Thy Shield and Thy Exceeding Great Reward" — God as Rewarder, Abram's Honest Complaint — "I Go Childless," The Word of the LORD in Response, "Look Now Toward Heaven" — The Stars Promise, The Foundation Verse of Justification by Faith — Genesis 15:6, "Whereby Shall I Know?" — Faith Seeking Confirmation, The Covenant Sacrifice — Three Beasts and Two Birds, Abram Drives Away the Fowls — Guarding the Covenant, The Deep Sleep — Tardemah, Horror of Great Darkness, The 400-Year Prophecy — Egypt Foretold, "The Fourth Generation" — Measured Judgment, "The Iniquity of the Amorites Is Not Yet Full" — Divine Patience Before Judgment, Sunset and Darkness — The Covenant Setting, The Smoking Furnace and Burning Lamp Pass Through — God Alone Seals the Covenant, The Berith Ratified — An Unconditional Oath, Land Boundaries Defined — River of Egypt to the Euphrates, Ten Nations Named"
+tags:
+  - fear-not
+  - al-tira
+  - shield
+  - magen
+  - exceeding-great-reward
+  - sakar
+  - Abram-childless
+  - Eliezer-Damascus
+  - heir-from-own-bowels
+  - stars-of-heaven
+  - tell-the-stars
+  - believed-God
+  - aman
+  - chashab
+  - Genesis-15-6
+  - justification-by-faith
+  - imputed-righteousness
+  - tsedaqah
+  - Lord-GOD
+  - Adonai-YHWH
+  - whereby-shall-I-know
+  - covenant-sacrifice
+  - heifer-goat-ram
+  - turtledove-pigeon
+  - divided-in-midst
+  - fowls-on-carcasses
+  - deep-sleep
+  - tardemah
+  - horror-great-darkness
+  - eimah
+  - 400-years-prophecy
+  - Egypt-foretold
+  - judge-that-nation
+  - great-substance
+  - good-old-age
+  - fourth-generation
+  - iniquity-Amorites-not-yet-full
+  - God-patient-before-judgment
+  - sunset-darkness
+  - smoking-furnace
+  - burning-lamp
+  - tannur-ashan
+  - lapid-esh
+  - God-alone-passes-through
+  - unconditional-covenant
+  - berith
+  - land-boundaries
+  - river-of-Egypt
+  - Euphrates
+  - ten-nations
+  - Romans-4
+  - Galatians-3
+  - Hebrews-6
+  - Hebrews-9
+---
 # Genesis 15
 
 ---
@@ -221,7 +282,7 @@
 
 For AI matching to topics and current events:
 
-`fear not` `al-tira` `shield` `magen` `exceeding great reward` `sakar` `God as portion` `Adonai YHWH` `first use Adonai YHWH` `I go childless` `honest prayer` `Eliezer Damascus` `heir from own body` `stars of heaven` `tell the stars` `so shall thy seed be` `believed God` `aman` `Genesis 15:6` `counted for righteousness` `chashab` `imputed righteousness` `tsedaqah` `justification by faith` `Romans 4` `Galatians 3` `James 2:23` `whereby shall I know` `covenant assurance` `faith seeking confirmation` `heifer goat ram` `turtledove pigeon` `divided in midst` `karat berith` `cut covenant` `fowls on carcasses` `Abram drives away birds` `deep sleep` `tardemah` `horror great darkness` `eimah` `prophetic terror` `400 years prophecy` `stranger in foreign land` `afflict four hundred years` `judge that nation` `great substance` `Exodus foretold` `good old age` `fourth generation` `iniquity Amorites not yet full` `divine patience` `avon measure` `God waits before judgment` `smoking furnace` `burning lamp` `tannur ashan` `lapid esh` `God alone passes through` `unconditional covenant` `berith` `land boundaries` `river of Egypt` `Euphrates` `ten nations` `Wadi el-Arish` `Solomon's kingdom` `Romans 4:13 heir of world` `Hebrews 6:17-18` `two immutable things` `covenant seal` `divine oath`
+#fear-not #al-tira #shield #magen #exceeding-great-reward #sakar #God-as-portion #Adonai-YHWH #first-use-Adonai-YHWH #I-go-childless #honest-prayer #Eliezer-Damascus #heir-from-own-body #stars-of-heaven #tell-the-stars #so-shall-thy-seed-be #believed-God #aman #Genesis-156 #counted-for-righteousness #chashab #imputed-righteousness #tsedaqah #justification-by-faith #Romans-4 #Galatians-3 #James-223 #whereby-shall-I-know #covenant-assurance #faith-seeking-confirmation #heifer-goat-ram #turtledove-pigeon #divided-in-midst #karat-berith #cut-covenant #fowls-on-carcasses #Abram-drives-away-birds #deep-sleep #tardemah #horror-great-darkness #eimah #prophetic-terror #400-years-prophecy #stranger-in-foreign-land #afflict-four-hundred-years #judge-that-nation #great-substance #Exodus-foretold #good-old-age #fourth-generation #iniquity-Amorites-not-yet-full #divine-patience #avon-measure #God-waits-before-judgment #smoking-furnace #burning-lamp #tannur-ashan #lapid-esh #God-alone-passes-through #unconditional-covenant #berith #land-boundaries #river-of-Egypt #Euphrates #ten-nations #Wadi-el-Arish #Solomons-kingdom #Romans-413-heir-of-world #Hebrews-617-18 #two-immutable-things #covenant-seal #divine-oath
 
 **Relevance to Current Events:**
 - Justification by faith alone — Genesis 15:6 is the oldest and clearest statement of the doctrine; the Roman Catholic / Protestant debate about faith and works finds its definitive answer here, interpreted by Romans 4 and Galatians 3; the timing of Abraham's justification (before circumcision, before Law) is Paul's entire argument against merit-based salvation
@@ -497,7 +558,7 @@ For AI matching to topics and current events:
 
 ### Justification by Faith — The Spine of the Canon
 
-**Genesis 15:6** — "He believed God, and it was counted to him for righteousness" — the doctrinal spine of the entire biblical canon on salvation
+[[01. Genesis/GEN_15_REBUILT|Genesis 15:6]] — "He believed God, and it was counted to him for righteousness" — the doctrinal spine of the entire biblical canon on salvation
 
 **Thread:**
 - Genesis 15:6 — Abram's faith counted as righteousness: the first explicit statement
@@ -530,7 +591,7 @@ For AI matching to topics and current events:
 
 ### God Alone Passes Through — The Unilateral Covenant
 
-**Genesis 15:17** — Only the smoke and fire (God) pass between the pieces; Abram unconscious
+[[01. Genesis/GEN_15_REBUILT|Genesis 15:17]] — Only the smoke and fire (God) pass between the pieces; Abram unconscious
 
 **Thread:**
 - Genesis 15:17 — God alone seals the Abrahamic berith; unconditional
@@ -544,7 +605,7 @@ For AI matching to topics and current events:
 
 ### God as Shield and Reward — The Covenant's Double Promise
 
-**Genesis 15:1** — "I am thy shield, and thy exceeding great reward"
+[[01. Genesis/GEN_15_REBUILT|Genesis 15:1]] — "I am thy shield, and thy exceeding great reward"
 
 **Thread through Scripture:**
 - Genesis 15:1 — shield (protection in danger) + reward (provision beyond wages); God as both

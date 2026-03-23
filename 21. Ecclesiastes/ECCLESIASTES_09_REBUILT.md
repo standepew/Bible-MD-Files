@@ -1,3 +1,14 @@
+---
+book: "Ecclesiastes"
+chapter: 9
+testament: "Old Testament"
+key_themes: "Death and Destiny, Wisdom and Folly, Divine Sovereignty, Life's Opportunities"
+tags:
+  - death-and-destiny
+  - wisdom-and-folly
+  - divine-sovereignty
+  - life
+---
 # Ecclesiastes 9
 
 ---
@@ -177,7 +188,7 @@ Considered, heart, declare, righteous, wise, works, hand, God, man, knoweth, lov
 
 
 *AI Keywords for current event matching:*
-`accept` `alike` `always` `anything` `better` `bread` `chance` `city` `dead` `death` `delivered` `destiny` `divine` `dog` `eat` `findeth` `folly` `garments` `god` `hand` `happeneth` `heard` `joy` `know` `lifes` `lion` `living` `man` `men` `opportunities` `poor` `righteous` `sovereignty` `strength` `things` `time` `white` `wisdom` `wise` `words` `works`
+#accept #alike #always #anything #better #bread #chance #city #dead #death #delivered #destiny #divine #dog #eat #findeth #folly #garments #god #hand #happeneth #heard #joy #know #lifes #lion #living #man #men #opportunities #poor #righteous #sovereignty #strength #things #time #white #wisdom #wise #words #works
 
 
 ---

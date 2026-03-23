@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 143
+testament: "Old Testament"
+key_themes: "Faithful Answer, Righteous Judgment, Spiritual Thirst, Divine Guidance"
+tags:
+  - faithful-answer
+  - righteous-judgment
+  - spiritual-thirst
+  - divine-guidance
+---
 # Psalm 143
 
 ---
@@ -141,7 +152,7 @@ Hear, prayer, LORD, give, ear, supplications, faithfulness, answer, righteousnes
 
 
 *AI Keywords for current event matching:*
-`answer` `divine` `enter` `faithful` `faithfulness` `guidance` `hear` `judgment` `justified` `know` `land` `lead` `living` `lovingkindness` `man` `morning` `prayer` `righteous` `righteousness` `sake` `servant` `soul` `spiritual` `supplications` `teach` `thirst` `thirsteth` `thirsty` `uprightness` `walk` `way`
+#answer #divine #enter #faithful #faithfulness #guidance #hear #judgment #justified #know #land #lead #living #lovingkindness #man #morning #prayer #righteous #righteousness #sake #servant #soul #spiritual #supplications #teach #thirst #thirsteth #thirsty #uprightness #walk #way
 
 
 ---

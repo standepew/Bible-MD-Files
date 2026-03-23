@@ -1,3 +1,17 @@
+---
+book: "Luke"
+chapter: 18
+testament: "New Testament"
+key_themes: "Parable of the Persistent Widow, Parable of the Pharisee and the Publican, Little Children, The Rich Young Ruler, The Cost of Discipleship, Jesus Predicts His Death, Healing of the Blind Man"
+tags:
+  - parable-of-the-persistent-widow
+  - parable-of-the-pharisee-and-the
+  - little-children
+  - the-rich-young-ruler
+  - the-cost-of-discipleship
+  - jesus-predicts-his-death
+  - healing-of-the-blind-man
+---
 # Luke 18
 
 ---
@@ -159,7 +173,7 @@ Parable, men, ought, pray, faint, judge, feared, God, regarded, man, widow, city
 
 
 *AI Keywords for current event matching:*
-`accomplished` `adversary` `always` `avenge` `blind` `camel` `children` `coming` `commandments` `continual` `cost` `david` `day` `death` `delivered` `discipleship` `eternal` `exalted` `extortioners` `faith` `gentiles` `god` `good` `healing` `humbleth` `impossible` `infants` `jericho` `jerusalem` `jesus` `judge` `kept` `kingdom` `left` `life` `little` `man` `manifold` `master` `men` `merciful` `mocked` `needle` `parable` `persistent` `pharisee` `possible` `pray` `predicts` `prophets` `publican` `receive` `rich` `righteous` `ruler` `saved` `sell` `side` `sight` `sinner` `son` `sorrowful` `speedily` `spitted` `temple` `third` `touch` `trusted` `unjust` `way` `widow` `young`
+#accomplished #adversary #always #avenge #blind #camel #children #coming #commandments #continual #cost #david #day #death #delivered #discipleship #eternal #exalted #extortioners #faith #gentiles #god #good #healing #humbleth #impossible #infants #jericho #jerusalem #jesus #judge #kept #kingdom #left #life #little #man #manifold #master #men #merciful #mocked #needle #parable #persistent #pharisee #possible #pray #predicts #prophets #publican #receive #rich #righteous #ruler #saved #sell #side #sight #sinner #son #sorrowful #speedily #spitted #temple #third #touch #trusted #unjust #way #widow #young
 
 
 ---

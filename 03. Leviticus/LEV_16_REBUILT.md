@@ -1,3 +1,30 @@
+---
+book: "Leviticus"
+chapter: 16
+testament: "Old Testament"
+key_themes: "Yom Kippur — the Day of Atonement; the most holy day in the Levitical calendar, "After the death of the two sons of Aaron" — the context established by Leviticus 10, No man in the Tabernacle when Aaron enters — the solitary high priest alone before God, The two goats: one killed for the LORD, one sent as the scapegoat bearing all Israel's sins into the wilderness, Incense cloud covers the mercy seat — Aaron approaches behind a veil of fragrance, lest he see the glory directly and die, The annual cleansing of the sanctuary itself — the holy place becomes defiled by Israel's sins throughout the year, "And this shall be an everlasting statute unto you""
+tags:
+  - Day-of-Atonement
+  - Yom-Kippur
+  - two-goats
+  - scapegoat
+  - Azazel
+  - killed-for-the-LORD
+  - blood-on-mercy-seat
+  - seven-times-before-mercy-seat
+  - incense-cloud
+  - linen-garments
+  - no-man-in-tabernacle
+  - confess-all-iniquities-on-goat
+  - goat-bears-all-sins-to-wilderness
+  - cleanse-sanctuary
+  - once-a-year
+  - everlasting-statute
+  - afflict-your-souls
+  - sabbath-of-rest
+  - Hebrews-9-10
+  - the-mercy-seat
+---
 # Leviticus 16
 
 ---
@@ -96,7 +123,7 @@ The Day of Atonement is instituted immediately after the deaths of Nadab and Abi
 
 
 *AI Keywords for current event matching:*
-`168-10` `21-22` `atonements` `current` `double` `events` `goats` `isaiah` `leviticus` `matching` `psalm` `romans` `two` `work`
+#168-10 #21-22 #atonements #current #double #events #goats #isaiah #leviticus #matching #psalm #romans #two #work
 
 
 ---

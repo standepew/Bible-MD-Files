@@ -1,3 +1,19 @@
+---
+book: "2 Kings"
+chapter: 9
+testament: "Old Testament"
+key_themes: "Jehu's Anointing, Ahab's Judgment, Jezebel's Death, Prophetic Fulfillment, Divine Justice"
+tags:
+  - garments-stairs-trumpets-Jehu-king
+  - Joram-hands-fled-treachery-Ahaziah
+  - face-window-side-eunuchs
+  - bury-skull-feet-palms-hands
+  - jehu
+  - ahab
+  - jezebel
+  - prophetic-fulfillment
+  - divine-justice
+---
 # 2 Kings 9
 
 ---
@@ -87,7 +103,7 @@ Elisha prophet, children prophets, Gird loins, box oil, hand, Ramoth-gilead. Jeh
 
 
 *AI Keywords for current event matching:*
-`again` `ahab` `ahaziah` `ahaziahs` `ahijah` `anointed` `anointing` `arise` `arms` `arose` `arrow` `avenge` `baasha` `behind` `bidkar` `blood` `bow` `box` `brethren` `burden` `buried` `bury` `captain` `captains` `carcase` `cast` `chamber` `chariot` `children` `city` `commission` `communication` `company` `conspired` `cursed` `cut` `daughter` `david` `death` `died` `divine` `dogs` `door` `down` `drink` `driving` `dung` `eat` `eleventh` `elijah` `elisha` `errand` `eunuchs` `face` `false` `father` `fathers` `feet` `fellow` `field` `fled` `flee` `flesh` `foot` `fought` `full` `furious` `garden` `garments` `gate` `gird` `god` `ground` `gur` `hand` `hands` `hazael` `head` `healed` `heard` `heart` `horseback` `horseman` `horses` `host` `house` `ibleam` `inner` `israel` `jehoshaphat` `jehu` `jehus` `jeroboam` `jerusalem` `jezebel` `jezebels` `jezreel` `jezreelite` `joram` `jorams` `judah` `king` `loins` `lord` `mad` `man` `master` `megiddo` `messenger` `minds` `mother` `naboth` `naboths` `nebat` `nimshi` `oil` `open` `painted` `palms` `peace` `people` `perish` `pisseth` `plat` `portion` `pour` `poured` `proclamation` `prophet` `prophets` `ramoth-gilead` `ready` `reign` `remember` `requite` `returned` `rod` `second` `sepulchre` `servant` `servants` `shut` `side` `sitting` `skull` `slew` `smite` `smote` `son` `sons` `stairs` `strength` `syria` `syrians` `tarry` `tell` `throw` `tired` `tishbite` `tower` `treachery` `trode` `trumpets` `vengeance` `wall` `watchman` `well` `whoredoms` `window` `witchcrafts` `woman` `word` `wounds` `year` `young` `zimri`
+#again #ahab #ahaziah #ahaziahs #ahijah #anointed #anointing #arise #arms #arose #arrow #avenge #baasha #behind #bidkar #blood #bow #box #brethren #burden #buried #bury #captain #captains #carcase #cast #chamber #chariot #children #city #commission #communication #company #conspired #cursed #cut #daughter #david #death #died #divine #dogs #door #down #drink #driving #dung #eat #eleventh #elijah #elisha #errand #eunuchs #face #false #father #fathers #feet #fellow #field #fled #flee #flesh #foot #fought #full #furious #garden #garments #gate #gird #god #ground #gur #hand #hands #hazael #head #healed #heard #heart #horseback #horseman #horses #host #house #ibleam #inner #israel #jehoshaphat #jehu #jehus #jeroboam #jerusalem #jezebel #jezebels #jezreel #jezreelite #joram #jorams #judah #king #loins #lord #mad #man #master #megiddo #messenger #minds #mother #naboth #naboths #nebat #nimshi #oil #open #painted #palms #peace #people #perish #pisseth #plat #portion #pour #poured #proclamation #prophet #prophets #ramoth-gilead #ready #reign #remember #requite #returned #rod #second #sepulchre #servant #servants #shut #side #sitting #skull #slew #smite #smote #son #sons #stairs #strength #syria #syrians #tarry #tell #throw #tired #tishbite #tower #treachery #trode #trumpets #vengeance #wall #watchman #well #whoredoms #window #witchcrafts #woman #word #wounds #year #young #zimri
 
 
 ---

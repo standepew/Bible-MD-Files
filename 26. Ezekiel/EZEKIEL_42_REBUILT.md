@@ -1,3 +1,13 @@
+---
+book: "Ezekiel"
+chapter: 42
+testament: "Old Testament"
+key_themes: "Christ's Chambers, Holy Priests, Divine Separation, Christ's Sanctuary"
+tags:
+  - christ
+  - holy-priests
+  - divine-separation
+---
 # Ezekiel 42
 
 ---
@@ -93,7 +103,7 @@ Brought, utter, court, way, north, chamber, separate, place, building, north, le
 
 
 *AI Keywords for current event matching:*
-`approach` `chambers` `christs` `court` `divine` `eat` `five` `gallery` `garments` `holy` `hundred` `lord` `meat` `minister` `most` `offering` `place` `priests` `profane` `reeds` `round` `sanctuary` `separate` `separation` `sin` `stories` `things` `trespass` `utter` `wall`
+#approach #chambers #christs #court #divine #eat #five #gallery #garments #holy #hundred #lord #meat #minister #most #offering #place #priests #profane #reeds #round #sanctuary #separate #separation #sin #stories #things #trespass #utter #wall
 
 
 ---

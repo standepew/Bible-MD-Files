@@ -1,3 +1,13 @@
+---
+book: "Jeremiah"
+chapter: 29
+testament: "Old Testament"
+key_themes: "Christ's Letter, Captivity Hope, Seventy Years, Christ's Thoughts"
+tags:
+  - christ
+  - captivity-hope
+  - seventy-years
+---
 # Jeremiah 29
 
 ---
@@ -105,7 +115,7 @@ Words, letter, Jeremiah, prophet, Jerusalem, residue, elders, carried, captives,
 
 
 *AI Keywords for current event matching:*
-`accomplished` `away` `build` `captivity` `christs` `city` `dwell` `eat` `end` `evil` `expected` `find` `found` `gardens` `gather` `good` `heart` `hope` `houses` `jeremiah` `letter` `nations` `peace` `perform` `place` `plant` `return` `seek` `sent` `seventy` `thoughts` `toward` `turn` `visit` `word` `years`
+#accomplished #away #build #captivity #christs #city #dwell #eat #end #evil #expected #find #found #gardens #gather #good #heart #hope #houses #jeremiah #letter #nations #peace #perform #place #plant #return #seek #sent #seventy #thoughts #toward #turn #visit #word #years
 
 
 ---

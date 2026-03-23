@@ -1,3 +1,13 @@
+---
+book: "Ezekiel"
+chapter: 3
+testament: "Old Testament"
+key_themes: "Christ's Word, Prophetic Responsibility, Christ's Watchman, Divine Glory"
+tags:
+  - christ
+  - prophetic-responsibility
+  - divine-glory
+---
 # Ezekiel 3
 
 ---
@@ -117,7 +127,7 @@ Said, son, man, eat, findest, roll, speak, house, Israel, opened, mouth, caused,
 
 
 *AI Keywords for current event matching:*
-`adamant` `blood` `christs` `delivered` `divine` `ears` `eat` `entered` `face` `fear` `fell` `flint` `give` `glory` `hear` `heart` `honey` `house` `israel` `lord` `plain` `prophetic` `rebellious` `receive` `require` `responsibility` `roll` `soul` `spirit` `stood` `strong` `sweetness` `warning` `watchman` `word`
+#adamant #blood #christs #delivered #divine #ears #eat #entered #face #fear #fell #flint #give #glory #hear #heart #honey #house #israel #lord #plain #prophetic #rebellious #receive #require #responsibility #roll #soul #spirit #stood #strong #sweetness #warning #watchman #word
 
 
 ---

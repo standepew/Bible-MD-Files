@@ -1,3 +1,17 @@
+---
+book: "Luke"
+chapter: 20
+testament: "New Testament"
+key_themes: "The Question of Authority, Parable of the Wicked Husbandmen, The Cornerstone, Paying Taxes to Caesar, The Resurrection, David's Son and Lord, Warning Against the Scribes"
+tags:
+  - the-question-of-authority
+  - parable-of-the-wicked-husbandmen
+  - the-cornerstone
+  - paying-taxes-to-caesar
+  - the-resurrection
+  - david
+  - warning-against-the-scribes
+---
 # Luke 20
 
 ---
@@ -183,7 +197,7 @@ Days, taught, people, temple, preached, gospel, chief, priests, scribes, elders,
 
 
 *AI Keywords for current event matching:*
-`against` `angels` `authority` `baptism` `beloved` `brethren` `broken` `builders` `caesar` `chief` `corner` `cornerstone` `craftiness` `cæsar` `cæsars` `damnation` `david` `davids` `dead` `deny` `destroy` `enemies` `equal` `fall` `footstool` `forbid` `god` `greater` `greetings` `grind` `hand` `hands` `heaven` `heir` `held` `highest` `husbandmen` `image` `john` `kill` `lay` `living` `long` `lord` `markets` `marvelled` `men` `parable` `paying` `penny` `powder` `psalms` `question` `rejected` `resurrection` `right` `robes` `rooms` `sadducees` `scribes` `seats` `seven` `son` `stone` `taxes` `tell` `tempt` `things` `tribute` `vineyard` `warning` `wicked`
+#against #angels #authority #baptism #beloved #brethren #broken #builders #caesar #chief #corner #cornerstone #craftiness #cæsar #cæsars #damnation #david #davids #dead #deny #destroy #enemies #equal #fall #footstool #forbid #god #greater #greetings #grind #hand #hands #heaven #heir #held #highest #husbandmen #image #john #kill #lay #living #long #lord #markets #marvelled #men #parable #paying #penny #powder #psalms #question #rejected #resurrection #right #robes #rooms #sadducees #scribes #seats #seven #son #stone #taxes #tell #tempt #things #tribute #vineyard #warning #wicked
 
 
 ---

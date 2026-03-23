@@ -1,3 +1,40 @@
+---
+book: "Genesis"
+chapter: 44
+testament: "Old Testament"
+key_themes: "The Silver Cup Planted in Benjamin's Sack — The Final Test, The Brothers Overtaken — The Accusation, "God Hath Found Out the Iniquity of Thy Servants", Judah's Speech — The Greatest Plea in Genesis, Judah Offers Himself in Benjamin's Place — The Full Substitution, The Transformation of Genesis 37 Reversed — The Brothers Who Once Sold Joseph Now Will Not Sell Benjamin, Joseph Tests Whether They Will Abandon the Favored Son Again"
+tags:
+  - silver-cup-planted-Benjamins-sack
+  - sacks-filled-grain-money-restored
+  - Joseph-instructs-steward
+  - make-haste-follow-them
+  - cup-stolen
+  - we-did-not
+  - they-rent-their-clothes-returned
+  - God-hath-found-out-iniquity
+  - Judah-longest-speech-in-Genesis
+  - Judah-pleads-for-Benjamin
+  - lad-leave-father-father-die
+  - I-bade-guarantee
+  - Judah-substitutionary-offer
+  - type-of-Christ-substitution
+  - Galatians-3-13
+  - Isaiah-53-4-6
+  - Romans-5-8
+  - Genesis-43-9-surety-fulfilled
+  - grief-would-kill-Jacob
+  - test-of-jealousy-passed
+  - cup-of-divination
+  - accusation-before-redemption
+  - confession-God-found-out-iniquity
+  - the-silver-cup-planted-in-benjamin
+  - the-brothers-overtaken
+  - god-hath-found-out-the-iniquity
+  - judah
+  - judah-offers-himself-in-benjamin
+  - the-transformation-of-genesis-37-reversed
+  - joseph-tests-whether-they-will-abandon
+---
 # Genesis 44
 
 ---
@@ -71,7 +108,7 @@ They did not. Every man returned to the city (v.13). Every man rent his clothes.
 
 ## KEYWORD INDEX
 
-`silver cup planted Benjamins sack` `sacks filled money restored` `make haste follow them` `is not this it in which my lord drinketh divines` `God forbid that we should do this thing` `money we brought back from Canaan` `with whomsoever found let him die` `steward only he with whom found be servant` `they rent their clothes` `returned to city` `fell before him to ground` `God hath found out iniquity` `Numbers 32:23 sin will find you out` `Psalm 32:5 I acknowledged my sin` `1 John 1:9 confess sins forgiven` `Judah longest speech in Genesis` `father old his soul bound up in lad` `his brother dead he alone left of his mother` `lad leave father father will die` `gray hairs sorrow to grave` `I became surety for lad` `I shall bear blame forever` `let thy servant abide instead of lad` `send lad back with brethren` `how shall I go up father lad not with me` `Isaiah 53:4-6 wounded for our transgressions` `Galatians 3:13 made a curse for us` `1 Peter 3:18 just for unjust` `Philemon 1:18-19 put on mine account` `Romans 5:8 while yet sinners Christ died` `Genesis 37:26 vs Genesis 44:33 reversal` `test passed would not abandon Benjamin` `cup of divination Joseph does not divine by cup` `the test of the exit offered and refused` `transformation demonstrated under pressure`
+#silver-cup-planted-Benjamins-sack #sacks-filled-money-restored #make-haste-follow-them #is-not-this-it-in-which-my-lord-drinketh-divines #God-forbid-that-we-should-do-this-thing #money-we-brought-back-from-Canaan #with-whomsoever-found-let-him-die #steward-only-he-with-whom-found-be-servant #they-rent-their-clothes #returned-to-city #fell-before-him-to-ground #God-hath-found-out-iniquity #Numbers-3223-sin-will-find-you-out #Psalm-325-I-acknowledged-my-sin #1-John-19-confess-sins-forgiven #Judah-longest-speech-in-Genesis #father-old-his-soul-bound-up-in-lad #his-brother-dead-he-alone-left-of-his-mother #lad-leave-father-father-will-die #gray-hairs-sorrow-to-grave #I-became-surety-for-lad #I-shall-bear-blame-forever #let-thy-servant-abide-instead-of-lad #send-lad-back-with-brethren #how-shall-I-go-up-father-lad-not-with-me #Isaiah-534-6-wounded-for-our-transgressions #Galatians-313-made-a-curse-for-us #1-Peter-318-just-for-unjust #Philemon-118-19-put-on-mine-account #Romans-58-while-yet-sinners-Christ-died #Genesis-3726-vs-Genesis-4433-reversal #test-passed-would-not-abandon-Benjamin #cup-of-divination-Joseph-does-not-divine-by-cup #the-test-of-the-exit-offered-and-refused #transformation-demonstrated-under-pressure
 
 **Current Events Relevance:**
 - Genuine repentance demonstrated through action not words — Judah's speech proved the transformation of Genesis 37 by his willingness to act differently when the same test was presented; applicable in teaching on authentic repentance, restorative justice, and the difference between verbal confession and demonstrated change

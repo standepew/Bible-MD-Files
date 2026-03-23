@@ -1,3 +1,13 @@
+---
+book: "Jeremiah"
+chapter: 43
+testament: "Old Testament"
+key_themes: "Christ's Disobedience, Egypt's Folly, Divine Judgment, Christ's Prophecy"
+tags:
+  - christ
+  - egypt
+  - divine-judgment
+---
 # Jeremiah 43
 
 ---
@@ -105,7 +115,7 @@ Jeremiah, speaking, people, words, LORD, God, sent, words, Azariah, son, Hoshaia
 
 
 *AI Keywords for current event matching:*
-`beth-shemesh` `brickkiln` `captives` `chaldeans` `christs` `death` `deliver` `disobedience` `divine` `egypt` `egypts` `entry` `falsely` `fire` `folly` `great` `hide` `images` `judgment` `kindle` `land` `men` `nebuchadrezzar` `obeyed` `pavilion` `prophecy` `proud` `royal` `send` `set` `smite` `sojourn` `speakest` `stones` `tahpanhes` `there` `throne` `voice`
+#beth-shemesh #brickkiln #captives #chaldeans #christs #death #deliver #disobedience #divine #egypt #egypts #entry #falsely #fire #folly #great #hide #images #judgment #kindle #land #men #nebuchadrezzar #obeyed #pavilion #prophecy #proud #royal #send #set #smite #sojourn #speakest #stones #tahpanhes #there #throne #voice
 
 
 ---

@@ -1,3 +1,15 @@
+---
+book: "Colossians"
+chapter: 3
+testament: "New Testament"
+key_themes: "Seek Things Above, Put Off the Old, Put On the New, Christian Households, Christian Service"
+tags:
+  - seek-things-above
+  - put-off-the-old
+  - put-on-the-new
+  - christian-households
+  - christian-service
+---
 # Colossians 3
 
 ---
@@ -119,7 +131,7 @@ Risen, Christ, seek, things, above, Christ, sitteth, right, hand, God, affection
 
 
 *AI Keywords for current event matching:*
-`above` `admonishing` `affection` `anger` `appear` `barbarian` `beloved` `bitter` `blasphemy` `body` `bond` `bowels` `called` `charity` `children` `christ` `christian` `circumcision` `cometh` `communication` `concupiscence` `covetousness` `created` `dead` `deed` `deeds` `discouraged` `disobedience` `doeth` `dwell` `earth` `elect` `evil` `eyeservice` `father` `fathers` `fearing` `filthy` `fit` `flesh` `forbearing` `forgave` `forgiving` `fornication` `free` `giving` `glory` `god` `grace` `greek` `hand` `heart` `heartily` `hearts` `hid` `holy` `households` `humbleness` `husbands` `hymns` `idolatry` `image` `inheritance` `inordinate` `jesus` `jew` `kindness` `knowing` `knowledge` `lie` `life` `lived` `longsuffering` `lord` `love` `malice` `man` `masters` `meekness` `members` `men` `menpleasers` `mercies` `mind` `mortify` `mouth` `name` `new` `obey` `off` `old` `parents` `peace` `perfectness` `persons` `pleasing` `provoke` `psalms` `put` `quarrel` `receive` `renewed` `respect` `reward` `richly` `right` `risen` `rule` `scythian` `seek` `servants` `serve` `service` `singing` `singleness` `sitteth` `songs` `spiritual` `submit` `teaching` `thankful` `thanks` `things` `uncircumcision` `uncleanness` `walked` `wisdom` `wives` `word` `wrath` `wrong`
+#above #admonishing #affection #anger #appear #barbarian #beloved #bitter #blasphemy #body #bond #bowels #called #charity #children #christ #christian #circumcision #cometh #communication #concupiscence #covetousness #created #dead #deed #deeds #discouraged #disobedience #doeth #dwell #earth #elect #evil #eyeservice #father #fathers #fearing #filthy #fit #flesh #forbearing #forgave #forgiving #fornication #free #giving #glory #god #grace #greek #hand #heart #heartily #hearts #hid #holy #households #humbleness #husbands #hymns #idolatry #image #inheritance #inordinate #jesus #jew #kindness #knowing #knowledge #lie #life #lived #longsuffering #lord #love #malice #man #masters #meekness #members #men #menpleasers #mercies #mind #mortify #mouth #name #new #obey #off #old #parents #peace #perfectness #persons #pleasing #provoke #psalms #put #quarrel #receive #renewed #respect #reward #richly #right #risen #rule #scythian #seek #servants #serve #service #singing #singleness #sitteth #songs #spiritual #submit #teaching #thankful #thanks #things #uncircumcision #uncleanness #walked #wisdom #wives #word #wrath #wrong
 
 
 ---

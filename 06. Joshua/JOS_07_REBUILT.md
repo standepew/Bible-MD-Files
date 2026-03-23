@@ -1,3 +1,131 @@
+---
+book: "Joshua"
+chapter: 7
+testament: "Old Testament"
+key_themes: "Achan's Sin, Accursed Thing, Defeat at Ai, Israel's Confession, Divine Investigation, Tribal Selection, Achan's Confession, Covetousness, Valley of Achor, Divine Discipline"
+tags:
+  - children-Israel-committed-trespass
+  - accursed-thing
+  - Achan-son-Carmi
+  - son-Zabdi
+  - son-Zerah
+  - tribe-Judah
+  - took-accursed-thing
+  - anger-LORD-kindled
+  - children-Israel
+  - Joshua-sent-men-Jericho
+  - Ai-beside-Beth-aven
+  - east-side-Beth-el
+  - Go-view-country
+  - men-went-viewed-Ai
+  - returned-Joshua
+  - people-go-up
+  - two-three-thousand-men
+  - smite-Ai
+  - people-labour-thither
+  - few
+  - three-thousand-men
+  - fled-men-Ai
+  - men-Ai-smote-thirty-six-men
+  - chased-gate-Shebarim
+  - smote-going-down
+  - hearts-people-melted
+  - water
+  - Joshua-rent-clothes
+  - fell-earth-face-ark-LORD
+  - eventide
+  - elders-Israel
+  - dust-heads
+  - Alas-Lord-GOD
+  - brought-people-Jordan
+  - deliver-hand-Amorites
+  - destroy-us
+  - content-dwelt-Jordan
+  - Lord-say
+  - Israel-turns-backs-enemies
+  - Canaanites-inhabitants-land-hear
+  - environ-round
+  - cut-off-name-earth
+  - great-name
+  - LORD-Joshua
+  - Get-lie-face
+  - Israel-sinned
+  - transgressed-covenant
+  - commanded
+  - took-accursed-thing
+  - stolen
+  - dissembled
+  - put-own-stuff
+  - children-Israel-stand-enemies
+  - turned-backs-enemies
+  - accursed
+  - LORD-with-destroy-accursed
+  - Up-sanctify-people
+  - Sanctify-tomorrow
+  - LORD-God-Israel
+  - accursed-thing-midst
+  - Israel
+  - stand-enemies
+  - take-accursed-thing-midst
+  - morning-brought-tribes
+  - tribe-LORD-take
+  - families
+  - family-LORD-take
+  - households
+  - household-LORD-take
+  - man-man
+  - taken-accursed-thing
+  - burnt-fire
+  - transgressed-covenant-LORD
+  - wrought-folly-Israel
+  - Joshua-rose-early-morning
+  - brought-Israel-tribes
+  - tribe-Judah-taken
+  - family-Judah
+  - family-Zarhites
+  - family-Zarhites-man-man
+  - Zabdi-taken
+  - household-man-man
+  - Achan-son-Carmi
+  - son-Zabdi
+  - son-Zerah
+  - tribe-Judah-taken
+  - Joshua-Achan
+  - son-glory-LORD-God-Israel
+  - confession
+  - done-hide-not
+  - Achan-answered-Joshua
+  - sinned-LORD-God-Israel
+  - saw-spoils-goodly-Babylonish-garment
+  - two-hundred-shekels-silver
+  - wedge-gold-fifty-shekels-weight
+  - coveted-took
+  - hid-earth-midst-tent
+  - silver-under
+  - Joshua-sent-messengers
+  - ran-tent
+  - hid-tent
+  - silver-under
+  - took-midst-tent
+  - brought-Joshua
+  - children-Israel
+  - laid-LORD
+  - Joshua-Israel-took-Achan-son-Zerah
+  - silver-garment
+  - wedge-gold
+  - sons-daughters
+  - oxen-asses-sheep-tent
+  - valley-Achor
+  - troubled-us
+  - LORD-trouble-day
+  - Israel-stoned-stones
+  - burned-fire
+  - stoned-stones
+  - raised-great-heap-stones
+  - day
+  - LORD-turned-fierceness-anger
+  - valley-Achor-day
+---
 # Joshua 7
 
 ---
@@ -108,7 +236,7 @@ Israel commits trespass by taking accursed things: Achan of Judah takes a Babylo
 
 
 *AI Keywords for current event matching:*
-`accursed` `achan` `achans` `achor` `alas` `amorites` `anger` `answered` `ark` `asses` `aven` `babylonish` `backs` `beside` `beth` `brought` `burned` `burnt` `canaanites` `carmi` `chased` `children` `clothes` `commanded` `committed` `confession` `content` `country` `covenant` `coveted` `cut` `daughters` `day` `defeat` `deliver` `destroy` `discovery` `dissembled` `divine` `done` `down` `dust` `dwelt` `early` `earth` `east` `elders` `enemies` `environ` `eventide` `face` `families` `family` `fell` `few` `fierceness` `fifty` `fire` `fled` `folly` `garment` `gate` `get` `glory` `god` `going` `gold` `goodly` `great` `hand` `heads` `heap` `hear` `hearts` `hid` `hide` `household` `households` `hundred` `inhabitants` `investigation` `israel` `jericho` `jordan` `joshua` `joshuas` `judah` `kindled` `labour` `laid` `lament` `land` `lie` `lord` `man` `melted` `men` `messengers` `midst` `morning` `name` `off` `oxen` `people` `punishment` `put` `raised` `ran` `rent` `returned` `rose` `round` `sanctify` `saw` `say` `selection` `sent` `shebarim` `sheep` `shekels` `side` `silver` `sin` `sinned` `six` `smite` `smote` `son` `sons` `spoils` `stand` `stolen` `stoned` `stones` `stuff` `take` `taken` `tent` `thing` `thirty` `thither` `thousand` `three` `tomorrow` `took` `transgressed` `trespass` `tribal` `tribe` `tribes` `trouble` `troubled` `turned` `turns` `two` `valley` `view` `viewed` `water` `wedge` `weight` `went` `wrought` `zabdi` `zarhites` `zerah`
+#accursed #achan #achans #achor #alas #amorites #anger #answered #ark #asses #aven #babylonish #backs #beside #beth #brought #burned #burnt #canaanites #carmi #chased #children #clothes #commanded #committed #confession #content #country #covenant #coveted #cut #daughters #day #defeat #deliver #destroy #discovery #dissembled #divine #done #down #dust #dwelt #early #earth #east #elders #enemies #environ #eventide #face #families #family #fell #few #fierceness #fifty #fire #fled #folly #garment #gate #get #glory #god #going #gold #goodly #great #hand #heads #heap #hear #hearts #hid #hide #household #households #hundred #inhabitants #investigation #israel #jericho #jordan #joshua #joshuas #judah #kindled #labour #laid #lament #land #lie #lord #man #melted #men #messengers #midst #morning #name #off #oxen #people #punishment #put #raised #ran #rent #returned #rose #round #sanctify #saw #say #selection #sent #shebarim #sheep #shekels #side #silver #sin #sinned #six #smite #smote #son #sons #spoils #stand #stolen #stoned #stones #stuff #take #taken #tent #thing #thirty #thither #thousand #three #tomorrow #took #transgressed #trespass #tribal #tribe #tribes #trouble #troubled #turned #turns #two #valley #view #viewed #water #wedge #weight #went #wrought #zabdi #zarhites #zerah
 
 
 ---

@@ -1,3 +1,14 @@
+---
+book: "Zechariah"
+chapter: 5
+testament: "Old Testament"
+key_themes: "Christ's Judgment on Sin, Flying Roll of Curse, Woman in Ephah, Removal of Wickedness"
+tags:
+  - christ
+  - flying-roll-of-curse
+  - woman-in-ephah
+  - removal-of-wickedness
+---
 # Zechariah 5
 
 ---
@@ -117,7 +128,7 @@ Turned, lifted, eyes, looked, flying, roll, seest, answered, flying, roll, lengt
 
 
 *AI Keywords for current event matching:*
-`base` `christs` `consume` `curse` `cut` `earth` `ephah` `established` `flying` `goeth` `house` `judgment` `land` `lead` `off` `removal` `roll` `shinar` `sin` `sitteth` `stealeth` `stones` `stork` `sweareth` `talent` `timber` `two` `weight` `whole` `wickedness` `wings` `woman` `women`
+#base #christs #consume #curse #cut #earth #ephah #established #flying #goeth #house #judgment #land #lead #off #removal #roll #shinar #sin #sitteth #stealeth #stones #stork #sweareth #talent #timber #two #weight #whole #wickedness #wings #woman #women
 
 
 ---

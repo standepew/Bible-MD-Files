@@ -1,3 +1,13 @@
+---
+book: "Jeremiah"
+chapter: 5
+testament: "Old Testament"
+key_themes: "Christ's Justice, Spiritual Corruption, Divine Judgment, Christ's Patience"
+tags:
+  - christ
+  - spiritual-corruption
+  - divine-judgment
+---
 # Jeremiah 5
 
 ---
@@ -105,7 +115,7 @@ Run, streets, Jerusalem, know, seek, broad, places, find, man, executeth, judgme
 
 
 *AI Keywords for current event matching:*
-`appointed` `cause` `christs` `correction` `corruption` `devour` `divine` `end` `executeth` `falsely` `fire` `full` `giveth` `harder` `harvest` `judge` `judgment` `justice` `leopard` `lion` `love` `pardon` `patience` `prophesy` `rain` `refused` `rock` `seeketh` `slay` `spiritual` `spoil` `swear` `truth` `watch` `weeks` `wolf` `wood`
+#appointed #cause #christs #correction #corruption #devour #divine #end #executeth #falsely #fire #full #giveth #harder #harvest #judge #judgment #justice #leopard #lion #love #pardon #patience #prophesy #rain #refused #rock #seeketh #slay #spiritual #spoil #swear #truth #watch #weeks #wolf #wood
 
 
 ---

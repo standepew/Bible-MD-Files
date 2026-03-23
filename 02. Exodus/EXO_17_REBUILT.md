@@ -1,3 +1,33 @@
+---
+book: "Exodus"
+chapter: 17
+testament: "Old Testament"
+key_themes: "Water from the rock at Horeb, "Is the LORD among us or not?", The rock smitten — Christ crucified, Amalek attacks, Moses' upraised hands — intercession and warfare, Aaron and Hur support Moses' hands, Joshua's first appearance, Jehovah-Nissi — The LORD is my banner, The LORD will war with Amalek from generation to generation"
+tags:
+  - water-from-the-rock
+  - Massah
+  - Meribah
+  - tempt-the-LORD
+  - smite-the-rock
+  - Horeb
+  - rock-smitten
+  - Christ-the-rock
+  - Amalek
+  - Joshua-first-appearance
+  - Moses-hands-upraised
+  - Aaron
+  - Hur
+  - rod-of-God
+  - Israel-prevails
+  - Amalek-prevails
+  - hands-heavy
+  - stone-under-Moses
+  - hands-steady
+  - Jehovah-Nissi
+  - LORD-my-banner
+  - war-with-Amalek-generation-to-generation
+  - memorial-in-book
+---
 # Exodus 17
 
 ---
@@ -108,7 +138,7 @@ Israel encamps at Rephidim — no water. The people quarrel (chide) with Moses: 
 
 
 *AI Keywords for current event matching:*
-`christ` `corinthians` `current` `events` `exodus` `matching` `miraculous` `provision` `rock` `water`
+#christ #corinthians #current #events #exodus #matching #miraculous #provision #rock #water
 
 
 ---
@@ -222,10 +252,10 @@ Israel encamps at Rephidim — no water. The people quarrel (chide) with Moses: 
 
 ### The Rod of God — The Instrument of Both Judgment and Grace
 
-- **Exodus 7:20** — Rod used to strike the Nile (judgment on Egypt)
-- **Exodus 14:16** — Rod stretched over the sea (salvation for Israel)
-- **Exodus 17:5-6** — Rod used to strike the rock (water/life for Israel)
-- **Numbers 20:11** — Rod strikes the rock again (Moses' sin)
+- [[02. Exodus/EXO_07_REBUILT|Exodus 7:20]] — Rod used to strike the Nile (judgment on Egypt)
+- [[02. Exodus/EXO_14_REBUILT|Exodus 14:16]] — Rod stretched over the sea (salvation for Israel)
+- [[02. Exodus/EXO_17_REBUILT|Exodus 17:5-6]] — Rod used to strike the rock (water/life for Israel)
+- [[04. Numbers/NUM_20_REBUILT|Numbers 20:11]] — Rod strikes the rock again (Moses' sin)
 - *Thread:* The rod of God is the instrument of both judgment and grace. The same rod that brought plagues on Egypt brought water to Israel from the rock. The power is in the One who wields the rod, not the rod itself. Christ's cross is similarly both the instrument of God's judgment on sin and the source of salvation for those who believe.
 
 ---

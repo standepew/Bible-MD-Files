@@ -1,3 +1,30 @@
+---
+book: "Job"
+chapter: 18
+testament: "Old Testament"
+key_themes: "Bildad's Second Speech, Wicked's Destruction, Loss of Light, Complete Ruin"
+tags:
+  - Bildad-Shuhite-answered-end-words-mark-speak
+  - beasts-vile-sight
+  - teareth-anger-earth-forsaken-rock-place
+  - wicked-light-spark-fire-shine
+  - light-dark-tabernacle-candle-put
+  - steps-strength-straitened-counsel-cast-down
+  - cast-net-feet-walk-snare
+  - gin-heel-robber-prevail
+  - snare-ground-trap-way
+  - terrors-afraid-drive-feet
+  - strength-hungerbitten-destruction-side
+  - devour-strength-skin-firstborn-death-devour-strength
+  - confidence-rooted-tabernacle-king-terrors
+  - dwell-tabernacle-brimstone-habitation
+  - roots-dried-branch-cut
+  - remembrance-perish-earth-name-street
+  - driven-light-darkness-chased-world
+  - son-nephew-people-dwellings
+  - astonished-day-affrighted
+  - dwellings-wicked-place-knoweth-God
+---
 # Job 18
 
 ---
@@ -129,7 +156,7 @@ Bildad, Shuhite, answered, end, words, mark, speak. Beasts, vile, sight. Teareth
 
 
 *AI Keywords for current event matching:*
-`afraid` `anger` `answered` `beasts` `bildad` `bildads` `candle` `cast` `complete` `confidence` `counsel` `dark` `death` `destruction` `devour` `down` `drive` `earth` `end` `feet` `fire` `firstborn` `forsaken` `gin` `ground` `heel` `hungerbitten` `king` `light` `loss` `mark` `net` `place` `prevail` `put` `robber` `rock` `rooted` `ruin` `second` `shine` `shuhite` `side` `sight` `skin` `snare` `spark` `speak` `speech` `steps` `straitened` `strength` `tabernacle` `teareth` `terrors` `trap` `vile` `walk` `way` `wicked` `wickeds` `words`
+#afraid #anger #answered #beasts #bildad #bildads #candle #cast #complete #confidence #counsel #dark #death #destruction #devour #down #drive #earth #end #feet #fire #firstborn #forsaken #gin #ground #heel #hungerbitten #king #light #loss #mark #net #place #prevail #put #robber #rock #rooted #ruin #second #shine #shuhite #side #sight #skin #snare #spark #speak #speech #steps #straitened #strength #tabernacle #teareth #terrors #trap #vile #walk #way #wicked #wickeds #words
 
 
 ---

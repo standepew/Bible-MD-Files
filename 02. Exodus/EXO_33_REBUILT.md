@@ -1,3 +1,29 @@
+---
+book: "Exodus"
+chapter: 33
+testament: "Old Testament"
+key_themes: "God says "I will not go up in the midst of thee — lest I consume thee," Israel mourns and strips ornaments, The Tent of Meeting pitched outside the camp, God speaks to Moses face to face — as a man to his friend, Moses' bold intercession: "If thy presence go not with me, carry us not up hence," "I will make all my goodness pass before thee," "Thou canst not see my face and live," The cleft of the rock — Moses hidden in the rock while glory passes"
+tags:
+  - God-will-not-go-up
+  - stiffnecked-people
+  - Israel-mourns
+  - strips-ornaments
+  - tabernacle-outside-camp
+  - seek-the-LORD-outside-camp
+  - cloud-pillar-at-door
+  - face-to-face-as-a-friend
+  - Joshua-remains
+  - if-thy-presence-go-not
+  - what-separates-us
+  - I-know-thee-by-name
+  - shew-me-thy-glory
+  - I-will-make-goodness-pass
+  - gracious-to-whom-I-will
+  - cannot-see-my-face-and-live
+  - cleft-of-the-rock
+  - hidden-in-the-rock
+  - see-my-back-parts
+---
 # Exodus 33
 
 ---
@@ -90,7 +116,7 @@ After the golden calf judgment, God tells Moses: go to the promised land — I'l
 
 
 *AI Keywords for current event matching:*
-`covenant` `current` `events` `exodus` `gods` `land` `matching` `point` `presence` `psalm` `refusing` `without`
+#covenant #current #events #exodus #gods #land #matching #point #presence #psalm #refusing #without
 
 
 ---

@@ -1,3 +1,43 @@
+---
+book: "Genesis"
+chapter: 48
+testament: "Old Testament"
+key_themes: "Jacob's Final Acts — The Adoption of Ephraim and Manasseh, Joseph Brings His Sons to the Dying Father, Jacob Rehearses the Covenant Promise — El Shaddai Appeared to Me at Luz, The Adoption Formula — "Ephraim and Manasseh, Even as Reuben and Simeon, Shall Be Mine", Jacob Crosses His Hands — The Right Hand on the Younger Ephraim, Joseph's Protest and Jacob's Refusal, The Younger Before the Elder — The Consistent Reversal Pattern, Jacob's Final Word About the Land — The Promise Remains"
+tags:
+  - Jacob-sick-Joseph-told
+  - Joseph-took-Manasseh-Ephraim
+  - El-Shaddai-Bethel
+  - I-will-make-thee-fruitful
+  - Rachel-died-in-way-Canaan
+  - as-Reuben-and-Simeon
+  - Jacob-eyes-dim-with-age
+  - Joseph-brought-sons-near
+  - Israel-kissed-and-embraced-them
+  - Israel-guided-hands-wittingly
+  - crossed-hands
+  - right-hand-on-Ephraim-younger
+  - left-hand-on-Manasseh-firstborn
+  - Joseph-displeased
+  - Jacob-refused
+  - Jacob-blessed-Joseph
+  - God-before-whom-fathers-walked
+  - bless-the-lads
+  - Ephraim-before-Manasseh
+  - the-angel-who-redeemed
+  - El-Malak-goel
+  - first-mention-of-goel-redeemer
+  - Bethel-Luz-appearance
+  - Jacob-adopted-grandsons-as-sons
+  - jacob
+  - joseph-brings-his-sons-to-the
+  - jacob-rehearses-the-covenant-promise
+  - the-adoption-formula
+  - even-as-reuben-and-simeon
+  - shall-be-mine
+  - jacob-crosses-his-hands
+  - joseph
+  - the-younger-before-the-elder
+---
 # Genesis 48
 
 ---
@@ -76,7 +116,7 @@ The crossed hands were not accidental. They were deliberate. Jacob had dim eyes 
 
 ## KEYWORD INDEX
 
-`Jacob sick Joseph told brought Ephraim Manasseh` `Jacob strengthened himself sat on bed` `El Shaddai appeared to me Luz Bethel` `I will make thee fruitful multiply` `I will give this land to thy seed` `Ephraim and Manasseh shall be mine` `as Reuben and Simeon` `double portion for Joseph` `1 Chronicles 5:1-2 birthright to Joseph scepter to Judah` `Deuteronomy 21:17 double portion of firstborn` `Jacob eyes dim with age` `I had not thought to see thy face` `Joseph placed Ephraim right to Jacob's left Manasseh left to Jacob's right` `Israel crossed hands wittingly` `right hand on Ephraim younger` `left hand on Manasseh firstborn` `sikkel guided with insight intentional` `Joseph displeased moved father's hand` `not so my father this is the firstborn` `Jacob refused I know it I know it` `younger shall be greater fullness of nations` `God before whom my fathers walked` `God who fed me ra'ah shepherded` `Psalm 23:1 LORD is my shepherd` `John 10:11 I am the good shepherd` `Angel which redeemed me goel` `first use of goel in Scripture` `Job 19:25 I know my redeemer liveth` `Isaiah 41:14 thy redeemer Holy One of Israel` `Ruth 3-4 Boaz as practical goel` `bless the lads Ephraim before Manasseh` `let my name be named on them` `the consistent reversal younger before elder` `Cain Abel Ishmael Isaac Esau Jacob Ephraim Manasseh` `Romans 9:11 election not of works` `Hebrews 11:21 by faith Jacob blessed sons of Joseph` `land promise still active go back to Canaan` `Joseph above brethren one portion more` `the crossed hands type and redemption`
+#Jacob-sick-Joseph-told-brought-Ephraim-Manasseh #Jacob-strengthened-himself-sat-on-bed #El-Shaddai-appeared-to-me-Luz-Bethel #I-will-make-thee-fruitful-multiply #I-will-give-this-land-to-thy-seed #Ephraim-and-Manasseh-shall-be-mine #as-Reuben-and-Simeon #double-portion-for-Joseph #1-Chronicles-51-2-birthright-to-Joseph-scepter-to-Judah #Deuteronomy-2117-double-portion-of-firstborn #Jacob-eyes-dim-with-age #I-had-not-thought-to-see-thy-face #Joseph-placed-Ephraim-right-to-Jacobs-left-Manasseh-left-to-Jacobs-right #Israel-crossed-hands-wittingly #right-hand-on-Ephraim-younger #left-hand-on-Manasseh-firstborn #sikkel-guided-with-insight-intentional #Joseph-displeased-moved-fathers-hand #not-so-my-father-this-is-the-firstborn #Jacob-refused-I-know-it-I-know-it #younger-shall-be-greater-fullness-of-nations #God-before-whom-my-fathers-walked #God-who-fed-me-raah-shepherded #Psalm-231-LORD-is-my-shepherd #John-1011-I-am-the-good-shepherd #Angel-which-redeemed-me-goel #first-use-of-goel-in-Scripture #Job-1925-I-know-my-redeemer-liveth #Isaiah-4114-thy-redeemer-Holy-One-of-Israel #Ruth-3-4-Boaz-as-practical-goel #bless-the-lads-Ephraim-before-Manasseh #let-my-name-be-named-on-them #the-consistent-reversal-younger-before-elder #Cain-Abel-Ishmael-Isaac-Esau-Jacob-Ephraim-Manasseh #Romans-911-election-not-of-works #Hebrews-1121-by-faith-Jacob-blessed-sons-of-Joseph #land-promise-still-active-go-back-to-Canaan #Joseph-above-brethren-one-portion-more #the-crossed-hands-type-and-redemption
 
 **Current Events Relevance:**
 - The consistent reversal — God's pattern of choosing the lesser, the younger, the overlooked, the unexpected; applicable in teaching on divine election, on how God's ways are not human ways, and on the danger of assuming first-position guarantees divine favor

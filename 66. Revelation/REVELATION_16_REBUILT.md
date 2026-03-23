@@ -1,3 +1,15 @@
+---
+book: "Revelation"
+chapter: 16
+testament: "New Testament"
+key_themes: "The Seven Vials of Wrath, The First Six Vials, The Battle of Armageddon, The Seventh Vial, The Great Earthquake"
+tags:
+  - the-seven-vials-of-wrath
+  - the-first-six-vials
+  - the-battle-of-armageddon
+  - the-seventh-vial
+  - the-great-earthquake
+---
 # Revelation 16
 
 ---
@@ -119,7 +131,7 @@ Great, voice, temple, seven, angels, ways, pour, vials, wrath, God, earth, first
 
 
 *AI Keywords for current event matching:*
-`air` `almighty` `altar` `angel` `angels` `armageddon` `babylon` `battle` `beast` `blasphemed` `blessed` `blood` `cities` `city` `cup` `darkness` `day` `dead` `deeds` `devils` `died` `divided` `dragon` `dried` `drink` `earth` `earthquake` `east` `euphrates` `exceeding` `false` `fell` `fierceness` `fifth` `fire` `first` `fled` `found` `fountains` `fourth` `frogs` `garments` `gather` `gathered` `given` `glory` `gnawed` `god` `great` `grievous` `hail` `heard` `heat` `heaven` `hebrew` `image` `island` `judged` `judgments` `keepeth` `kingdom` `kings` `lightnings` `living` `lord` `man` `mark` `men` `mighty` `miracles` `mountains` `mouth` `naked` `name` `nations` `noisome` `pain` `pains` `parts` `place` `plague` `plagues` `pour` `poured` `power` `prepared` `prophet` `prophets` `remembrance` `repented` `righteous` `river` `rivers` `saints` `scorch` `scorched` `sea` `seat` `second` `seven` `seventh` `shame` `shed` `six` `sixth` `sore` `sores` `soul` `spirits` `stone` `sun` `talent` `temple` `thief` `third` `three` `throne` `thunders` `tongues` `true` `unclean` `vial` `vials` `voice` `voices` `walk` `watcheth` `water` `waters` `way` `ways` `weight` `whole` `wine` `working` `world` `worshipped` `worthy` `wrath`
+#air #almighty #altar #angel #angels #armageddon #babylon #battle #beast #blasphemed #blessed #blood #cities #city #cup #darkness #day #dead #deeds #devils #died #divided #dragon #dried #drink #earth #earthquake #east #euphrates #exceeding #false #fell #fierceness #fifth #fire #first #fled #found #fountains #fourth #frogs #garments #gather #gathered #given #glory #gnawed #god #great #grievous #hail #heard #heat #heaven #hebrew #image #island #judged #judgments #keepeth #kingdom #kings #lightnings #living #lord #man #mark #men #mighty #miracles #mountains #mouth #naked #name #nations #noisome #pain #pains #parts #place #plague #plagues #pour #poured #power #prepared #prophet #prophets #remembrance #repented #righteous #river #rivers #saints #scorch #scorched #sea #seat #second #seven #seventh #shame #shed #six #sixth #sore #sores #soul #spirits #stone #sun #talent #temple #thief #third #three #throne #thunders #tongues #true #unclean #vial #vials #voice #voices #walk #watcheth #water #waters #way #ways #weight #whole #wine #working #world #worshipped #worthy #wrath
 
 
 ---

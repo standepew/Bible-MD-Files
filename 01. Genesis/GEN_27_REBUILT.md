@@ -1,3 +1,63 @@
+---
+book: "Genesis"
+chapter: 27
+testament: "Old Testament"
+key_themes: "Isaac Old and Dim-Eyed — The Failing Patriarch Who Nearly Redirected the Covenant, "That My Soul May Bless Thee Before I Die" — The Deathbed Blessing as Covenant Transmission, Rebekah Overhears and Acts on the Prophetic Word — The Covenant Mother as God's Imperfect Instrument, Jacob's Fear — "I Shall Seem to Him as a Deceiver" — The Honest Assessment of an Unholy Method, "Upon Me Be Thy Curse" — Rebekah Intercedes to Bear the Consequence, The Disguise — Esau's Garments, Goat Skins, Savory Meat — The Outward Appearance Fabricated, "The Voice Is Jacob's Voice, But the Hands Are the Hands of Esau" — Appearance vs. Reality, The Kiss and the Smell — Isaac Deceived at Every Sense, The Blessing Spoken over Jacob — Dew of Heaven, Fatness of Earth, Nations Bowing, Cursed/Blessed Clause, "Yea, and He Shall Be Blessed" — The Irrevocable Declaration, Esau's Return — The Discovery, "Isaac Trembled Very Exceedingly" — The Recognition of Sovereign Override, Esau's Bitter Cry — Regret Not Repentance, Isaac's Diminished Blessing Over Esau — "By Thy Sword Shalt Thou Live", "The Elder Shall Serve the Younger" Confirmed, Esau's Murderous Intention — "Then Will I Slay My Brother Jacob", Rebekah Sends Jacob Away — "A Few Days" That Became Twenty Years"
+tags:
+  - Isaac-old-dim-eyes
+  - deathbed-blessing-covenant-transmission
+  - Rebekah-overhears
+  - Rebekah-acts-on-prophetic-word
+  - Genesis-25-23-elder-serve-younger
+  - upon-me-be-thy-curse
+  - Galatians-3-13
+  - Jacob-disguise
+  - Esau-garments
+  - goat-skins
+  - smooth-man-hairy-man
+  - savory-meat
+  - voice-of-Jacob-hands-of-Esau
+  - 1-Samuel-16-7
+  - appearance-vs-reality
+  - kiss-and-smell
+  - blessing-of-Jacob
+  - dew-of-heaven
+  - fatness-of-earth
+  - plenty-of-corn-and-wine
+  - nations-bow
+  - cursed-be-those-who-curse
+  - blessed-be-those-who-bless
+  - Genesis-12-3
+  - yea-and-he-shall-be-blessed
+  - irrevocable-blessing
+  - Numbers-23-19-20
+  - Isaiah-55-11
+  - Hebrews-6-17-18
+  - Isaac-trembled-exceedingly
+  - chared-gedolah
+  - Esau-bitter-cry
+  - regret-not-repentance
+  - Hebrews-12-16-17
+  - metanoia
+  - lesser-blessing-Esau
+  - by-thy-sword
+  - serve-thy-brother
+  - break-yoke
+  - 2-Kings-8-20-22
+  - Esau-hates-Jacob
+  - purpose-to-kill
+  - Rebekah-sends-Jacob
+  - Haran
+  - Laban
+  - daughters-of-Heth
+  - sovereign-election-confirmed
+  - Hebrews-11-20
+  - faith-of-Isaac
+  - prophetic-blessing-beyond-speaker
+  - 2-Corinthians-5-21
+  - garment-thread
+  - great-exchange
+---
 # Genesis 27
 
 ---
@@ -141,7 +201,7 @@ Esau cried with an exceeding bitter cry. He begged for a blessing. He acknowledg
 
 For AI matching to topics and current events:
 
-`Isaac old dim eyes` `deathbed blessing covenant transmission` `Hebrews 11:20 faith of Isaac` `blessing things to come` `prophetic blessing beyond speaker` `1 Peter 1:10-12` `Rebekah overhears plans scheme` `Genesis 25:23 prophetic word Rebekah acted on` `Romans 9:12 elder shall serve younger` `Jacob fear deceiver curse` `upon me be thy curse` `Galatians 3:13 made a curse for us` `Isaiah 53:4-5` `2 Corinthians 5:21 great exchange` `Esau garments goat skins smooth hairy` `savory meat mat'amim` `voice of Jacob hands of Esau` `appearance vs reality` `1 Samuel 16:7 outward appearance` `Matthew 7:15 sheep's clothing` `2 Corinthians 11:13-15 angel of light` `John 10:4-5 know his voice` `kiss smell of field` `dew of heaven fatness of earth` `corn and wine dagan tirosh` `Deuteronomy 33:28` `nations bow down histachavu` `cursed be every one that curseth thee` `blessed be he that blesseth thee` `Genesis 12:3 Abrahamic clause` `Numbers 24:9 Balaam` `Philippians 2:10-11 every knee bow` `yea and he shall be blessed` `irrevocable blessing` `chared gedolah great trembling` `Numbers 23:19-20 cannot reverse` `Isaiah 55:11 word not return void` `Hebrews 6:17-18 immutable things` `Esau bitter cry tsaaqah gedolah` `regret not repentance` `2 Corinthians 7:10 godly sorrow vs worldly sorrow` `Hebrews 12:16-17 found no place of repentance` `metanoia topon metanoias` `lesser blessing Esau` `by thy sword shalt thou live` `break yoke 2 Kings 8:20-22` `Esau hates Jacob murders brother` `Genesis 4:8 Cain Abel pattern` `Galatians 4:29 flesh persecutes spirit` `Genesis 3:15 seed enmity` `Rebekah sends Jacob Haran Laban` `few days that became twenty years` `Rebekah never saw Jacob again` `garment thread Genesis 3:21` `Isaiah 61:10 robe of righteousness` `Revelation 19:8`
+#Isaac-old-dim-eyes #deathbed-blessing-covenant-transmission #Hebrews-1120-faith-of-Isaac #blessing-things-to-come #prophetic-blessing-beyond-speaker #1-Peter-110-12 #Rebekah-overhears-plans-scheme #Genesis-2523-prophetic-word-Rebekah-acted-on #Romans-912-elder-shall-serve-younger #Jacob-fear-deceiver-curse #upon-me-be-thy-curse #Galatians-313-made-a-curse-for-us #Isaiah-534-5 #2-Corinthians-521-great-exchange #Esau-garments-goat-skins-smooth-hairy #savory-meat-matamim #voice-of-Jacob-hands-of-Esau #appearance-vs-reality #1-Samuel-167-outward-appearance #Matthew-715-sheeps-clothing #2-Corinthians-1113-15-angel-of-light #John-104-5-know-his-voice #kiss-smell-of-field #dew-of-heaven-fatness-of-earth #corn-and-wine-dagan-tirosh #Deuteronomy-3328 #nations-bow-down-histachavu #cursed-be-every-one-that-curseth-thee #blessed-be-he-that-blesseth-thee #Genesis-123-Abrahamic-clause #Numbers-249-Balaam #Philippians-210-11-every-knee-bow #yea-and-he-shall-be-blessed #irrevocable-blessing #chared-gedolah-great-trembling #Numbers-2319-20-cannot-reverse #Isaiah-5511-word-not-return-void #Hebrews-617-18-immutable-things #Esau-bitter-cry-tsaaqah-gedolah #regret-not-repentance #2-Corinthians-710-godly-sorrow-vs-worldly-sorrow #Hebrews-1216-17-found-no-place-of-repentance #metanoia-topon-metanoias #lesser-blessing-Esau #by-thy-sword-shalt-thou-live #break-yoke-2-Kings-820-22 #Esau-hates-Jacob-murders-brother #Genesis-48-Cain-Abel-pattern #Galatians-429-flesh-persecutes-spirit #Genesis-315-seed-enmity #Rebekah-sends-Jacob-Haran-Laban #few-days-that-became-twenty-years #Rebekah-never-saw-Jacob-again #garment-thread-Genesis-321 #Isaiah-6110-robe-of-righteousness #Revelation-198
 
 **Relevance to Current Events:**
 - The voice vs. the hands — the capacity to discern genuine character beneath fabricated appearance; applicable to leadership discernment, media literacy, evaluating teachers and movements that look right but sound wrong

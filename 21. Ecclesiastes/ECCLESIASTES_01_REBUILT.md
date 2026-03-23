@@ -1,3 +1,14 @@
+---
+book: "Ecclesiastes"
+chapter: 1
+testament: "Old Testament"
+key_themes: "Vanity of Human Labor, Cycles of Nature, Limitations of Wisdom, Search for Meaning"
+tags:
+  - vanity-of-human-labor
+  - cycles-of-nature
+  - limitations-of-wisdom
+  - search-for-meaning
+---
 # Ecclesiastes 1
 
 ---
@@ -105,7 +116,7 @@ Words, Preacher, son, David, king, Jerusalem, vanity, vanities, Preacher, vanity
 
 
 *AI Keywords for current event matching:*
-`ariseth` `cannot` `circuits` `crooked` `cycles` `former` `generation` `goeth` `grief` `human` `increaseth` `knowledge` `labor` `labour` `limitations` `man` `meaning` `much` `nature` `new` `passeth` `profit` `remembrance` `rivers` `run` `sea` `search` `seek` `sorrow` `straight` `sun` `thing` `things` `vanities` `vanity` `wind` `wisdom`
+#ariseth #cannot #circuits #crooked #cycles #former #generation #goeth #grief #human #increaseth #knowledge #labor #labour #limitations #man #meaning #much #nature #new #passeth #profit #remembrance #rivers #run #sea #search #seek #sorrow #straight #sun #thing #things #vanities #vanity #wind #wisdom
 
 
 ---

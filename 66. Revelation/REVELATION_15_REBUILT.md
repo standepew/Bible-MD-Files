@@ -1,3 +1,15 @@
+---
+book: "Revelation"
+chapter: 15
+testament: "New Testament"
+key_themes: "The Seven Last Plagues, The Sea of Glass, The Song of Moses and the Lamb, The Temple Opened, The Seven Angels with Vials"
+tags:
+  - the-seven-last-plagues
+  - the-sea-of-glass
+  - the-song-of-moses-and-the
+  - the-temple-opened
+  - the-seven-angels-with-vials
+---
 # Revelation 15
 
 ---
@@ -83,7 +95,7 @@ Sign, heaven, great, marvellous, seven, angels, seven, last, plagues, filled, wr
 
 
 *AI Keywords for current event matching:*
-`almighty` `angels` `beast` `beasts` `breasts` `clothed` `enter` `fear` `filled` `fire` `four` `fulfilled` `full` `gave` `girded` `girdles` `glass` `glorify` `glory` `god` `golden` `gotten` `great` `harps` `heaven` `holy` `image` `judgments` `king` `lamb` `last` `linen` `liveth` `looked` `lord` `manifest` `mark` `marvellous` `mingled` `moses` `name` `nations` `number` `opened` `plagues` `power` `pure` `saints` `sea` `servant` `seven` `sign` `sing` `smoke` `song` `stand` `tabernacle` `temple` `testimony` `true` `vials` `victory` `ways` `white` `works` `worship` `wrath`
+#almighty #angels #beast #beasts #breasts #clothed #enter #fear #filled #fire #four #fulfilled #full #gave #girded #girdles #glass #glorify #glory #god #golden #gotten #great #harps #heaven #holy #image #judgments #king #lamb #last #linen #liveth #looked #lord #manifest #mark #marvellous #mingled #moses #name #nations #number #opened #plagues #power #pure #saints #sea #servant #seven #sign #sing #smoke #song #stand #tabernacle #temple #testimony #true #vials #victory #ways #white #works #worship #wrath
 
 
 ---

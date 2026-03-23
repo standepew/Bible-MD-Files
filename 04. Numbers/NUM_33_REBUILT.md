@@ -1,3 +1,35 @@
+---
+book: "Numbers"
+chapter: 33
+testament: "Old Testament"
+key_themes: "Moses writes down every stage of Israel's forty-year journey — by the commandment of the LORD, Forty-two stations from Rameses to the plains of Moab — a complete divine record of the wilderness, The departure: "with a high hand in the sight of all the Egyptians" — on the morrow after the Passover, while Egypt buried its firstborn, The insertion: Aaron's death on Mount Hor recorded with his age and the year, Final command for Canaan: drive out all inhabitants; destroy all their pictures, molten images, and high places; dispossess and dwell, The warning: if you do not drive them out, they will be pricks in your eyes, thorns in your sides, and I will do to you what I thought to do to them"
+tags:
+  - Moses-wrote-their-goings-out
+  - by-commandment-of-the-LORD
+  - Egypt-buried-their-firstborn
+  - gods-of-Egypt-judged
+  - Rameses-to-Succoth
+  - forty-two-stations
+  - Rephidim-no-water
+  - wilderness-of-Sinai
+  - Kibroth-hattaavah
+  - Hazeroth
+  - Aaron-dies-Mount-Hor
+  - Aaron-123-years-old
+  - king-Arad-heard
+  - plains-of-Moab
+  - Beth-jesimoth-to-Abel-shittim
+  - drive-out-all-inhabitants
+  - destroy-their-pictures-and-images
+  - moses-writes-down-every-stage-of
+  - fortytwo-stations-from-rameses-to-the
+  - the-departure
+  - the-insertion-aaron
+  - final-command-for-canaan-drive-out
+  - destroy-all-their-pictures-molten-images
+  - dispossess-and-dwell
+  - the-warning-if-you-do-not
+---
 # Numbers 33
 
 ---
@@ -65,7 +97,7 @@ Moses writes down every departure point of Israel's journeys by the LORD's comma
 
 
 *AI Keywords for current event matching:*
-`current` `divine` `events` `history` `journeys` `malachi` `matching` `numbers` `record-keeping` `revelation`
+#current #divine #events #history #journeys #malachi #matching #numbers #record-keeping #revelation
 
 
 ---
@@ -172,9 +204,9 @@ Numbers 33 records exactly forty-two stopping points from Rameses to the plains 
 
 The command to write the journey in Numbers 33:2 is significant: God values the record of the entire path, not only the destination. The wilderness stages that seem like repetitive entries — pitched here, departed from there — are each a complete human experience: provision, shelter, conflict, or rest at each place.
 
-- **Deuteronomy 8:2-3** — "And thou shalt remember all the way which the LORD thy God led thee these forty years in the wilderness, to humble thee, and to prove thee, to know what was in thine heart... he fed thee with manna, which thou knewest not" — the wilderness journey is to be remembered as a whole; every stage has a purpose
-- **Psalm 77:19** — "Thy way is in the sea, and thy path in the great waters, and thy footsteps are not known" — God's path through the wilderness is traceable even when its logic is not visible
-- **Hebrews 11:13** — "These all died in faith, not having received the promises, but having seen them afar off... and confessed that they were strangers and pilgrims on the earth" — the forty-two stages are the literal form of the pilgrim identity; every stage a temporary home on the way to the permanent one
+- [[05. Deuteronomy/DEU_08_REBUILT|Deuteronomy 8:2-3]] — "And thou shalt remember all the way which the LORD thy God led thee these forty years in the wilderness, to humble thee, and to prove thee, to know what was in thine heart... he fed thee with manna, which thou knewest not" — the wilderness journey is to be remembered as a whole; every stage has a purpose
+- [[19.Psalm Part 2/PSALM_77_REBUILT|Psalm 77:19]] — "Thy way is in the sea, and thy path in the great waters, and thy footsteps are not known" — God's path through the wilderness is traceable even when its logic is not visible
+- [[58. Hebrews/HEBREWS_11_REBUILT|Hebrews 11:13]] — "These all died in faith, not having received the promises, but having seen them afar off... and confessed that they were strangers and pilgrims on the earth" — the forty-two stages are the literal form of the pilgrim identity; every stage a temporary home on the way to the permanent one
 
 ---
 

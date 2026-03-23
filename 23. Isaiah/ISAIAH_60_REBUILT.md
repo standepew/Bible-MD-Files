@@ -1,3 +1,13 @@
+---
+book: "Isaiah"
+chapter: 60
+testament: "Old Testament"
+key_themes: "Christ's Glory, Divine Light, Spiritual Prosperity, Christ's Eternal Light"
+tags:
+  - christ
+  - divine-light
+  - spiritual-prosperity
+---
 # Isaiah 60
 
 ---
@@ -117,7 +127,7 @@ Arise, shine, light, come, glory, LORD, risen, darkness, cover, earth, gross, da
 
 
 *AI Keywords for current event matching:*
-`abundance` `arise` `brightness` `christs` `come` `converted` `days` `divine` `ended` `eternal` `everlasting` `forces` `gentiles` `glorify` `glory` `gold` `house` `incense` `light` `lord` `moon` `mourning` `prosperity` `risen` `rising` `sea` `seen` `shine` `silver` `spiritual` `sun`
+#abundance #arise #brightness #christs #come #converted #days #divine #ended #eternal #everlasting #forces #gentiles #glorify #glory #gold #house #incense #light #lord #moon #mourning #prosperity #risen #rising #sea #seen #shine #silver #spiritual #sun
 
 
 ---

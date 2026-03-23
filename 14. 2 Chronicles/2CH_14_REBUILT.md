@@ -1,3 +1,14 @@
+---
+book: "2 Chronicles"
+chapter: 14
+testament: "Old Testament"
+key_themes: "Asa's Reform, Religious Purification, Divine Rest, Military Victory"
+tags:
+  - asa
+  - religious-purification
+  - divine-rest
+  - military-victory
+---
 # 2 Chronicles 14
 
 ---
@@ -137,7 +148,7 @@ Abijah, slept, fathers, buried, city, David, Asa, son, reigned, stead, land, qui
 
 
 *AI Keywords for current event matching:*
-`abijah` `abundance` `altars` `army` `array` `asa` `bars` `battle` `benjamin` `bows` `brake` `build` `built` `buried` `camels` `carried` `cattle` `chariots` `cities` `city` `commanded` `commandment` `cried` `cut` `david` `destroyed` `divine` `drew` `ethiopian` `ethiopians` `exceeding` `eyes` `faith` `fathers` `fear` `fenced` `fled` `fourscore` `gates` `gerar` `given` `god` `gods` `good` `groves` `help` `high` `host` `hundred` `images` `jerusalem` `judah` `kingdom` `land` `law` `lord` `man` `many` `mareshah` `men` `mighty` `military` `multitude` `name` `overthrown` `people` `places` `plunder` `power` `prayer` `prevail` `prospered` `pursued` `quiet` `recover` `reform` `reigned` `religious` `rest` `returned` `right` `royal` `seek` `sheep` `shields` `side` `slept` `smote` `son` `spears` `spoil` `spoiled` `stead` `strange` `strength` `succession` `targets` `ten` `tents` `thousand` `threat` `three` `took` `towers` `two` `valley` `valour` `victory` `walls` `war` `years` `zephathah` `zerah`
+#abijah #abundance #altars #army #array #asa #bars #battle #benjamin #bows #brake #build #built #buried #camels #carried #cattle #chariots #cities #city #commanded #commandment #cried #cut #david #destroyed #divine #drew #ethiopian #ethiopians #exceeding #eyes #faith #fathers #fear #fenced #fled #fourscore #gates #gerar #given #god #gods #good #groves #help #high #host #hundred #images #jerusalem #judah #kingdom #land #law #lord #man #many #mareshah #men #mighty #military #multitude #name #overthrown #people #places #plunder #power #prayer #prevail #prospered #pursued #quiet #recover #reform #reigned #religious #rest #returned #right #royal #seek #sheep #shields #side #slept #smote #son #spears #spoil #spoiled #stead #strange #strength #succession #targets #ten #tents #thousand #threat #three #took #towers #two #valley #valour #victory #walls #war #years #zephathah #zerah
 
 
 ---

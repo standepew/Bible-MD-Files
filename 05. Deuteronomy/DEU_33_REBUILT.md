@@ -1,3 +1,132 @@
+---
+book: "Deuteronomy"
+chapter: 33
+testament: "Old Testament"
+key_themes: "Moses' Final Blessing, Divine Revelation, Tribal Blessings, Reuben, Judah, Levi, Benjamin, Joseph, Zebulun, Issachar, Gad, Dan, Naphtali, Asher, God's Uniqueness, Divine Protection, Eternal Refuge, Israel's Security"
+tags:
+  - blessing-Moses-man-God
+  - blessed-children-Israel
+  - death
+  - LORD-came-Sinai
+  - rose-Seir
+  - shined-mount-Paran
+  - came-ten-thousands-saints
+  - right-hand-fiery-law
+  - loved-people
+  - saints-hand
+  - sat-feet
+  - receive-words
+  - Moses-commanded-law
+  - inheritance-congregation-Jacob
+  - king-Jeshurun
+  - heads-people
+  - tribes-Israel-gathered
+  - Reuben-live
+  - die
+  - men-few
+  - blessing-Judah
+  - Hear-LORD
+  - voice-Judah
+  - bring-people
+  - hands-sufficient
+  - help-enemies
+  - Levi
+  - Thummim-Urim
+  - holy-one
+  - proved-Massah
+  - strove-waters-Meribah
+  - father-mother
+  - not-seen
+  - acknowledged-brethren
+  - knew-children
+  - observed-word
+  - kept-covenant
+  - teach-Jacob-judgments
+  - Israel-law
+  - incense
+  - whole-burnt-sacrifice
+  - altar
+  - Bless-LORD
+  - substance
+  - accept-work-hands
+  - smite-loins
+  - rise-against
+  - hate-him
+  - rise-not-again
+  - Benjamin
+  - beloved-LORD
+  - dwell-safety
+  - cover-day-long
+  - dwell-shoulders
+  - Joseph
+  - blessed-LORD-land
+  - precious-things-heaven
+  - dew
+  - deep-coucheth-beneath
+  - precious-fruits-sun
+  - precious-things-moon
+  - chief-things-ancient-mountains
+  - precious-things-lasting-hills
+  - precious-things-earth
+  - fulness
+  - good-will-dwelt-bush
+  - blessing-head-Joseph
+  - top-head-separated-brethren
+  - glory-firstling-bullock
+  - horns-unicorns
+  - push-people-together
+  - ends-earth
+  - ten-thousands-Ephraim
+  - thousands-Manasseh
+  - Zebulun
+  - rejoice-going-out
+  - Issachar-tents
+  - call-people-mountain
+  - offer-sacrifices-righteousness
+  - suck-abundance-seas
+  - treasures-hid-sand
+  - Gad
+  - blessed-enlargeth-Gad
+  - dwelleth-lion
+  - teareth-arm
+  - crown-head
+  - provided-first-part
+  - portion-lawgiver
+  - seated
+  - came-heads-people
+  - executed-justice-LORD
+  - judgments-Israel
+  - Dan
+  - lion-whelp
+  - leap-Bashan
+  - Naphtali
+  - satisfied-favour
+  - full-blessing-LORD
+  - possess-west-south
+  - Asher
+  - blessed-children
+  - acceptable-brethren
+  - dip-foot-oil
+  - shoes-iron-brass
+  - days-strength
+  - none-like-God-Jeshurun
+  - rideth-heaven-help
+  - excellency-sky
+  - eternal-God-refuge
+  - underneath-everlasting-arms
+  - thrust-enemy
+  - Destroy-them
+  - Israel-dwell-safety-alone
+  - fountain-Jacob
+  - land-corn-wine
+  - heavens-drop-dew
+  - happy-Israel
+  - like-thee-people-saved-LORD
+  - shield-help
+  - sword-excellency
+  - enemies-liars
+  - tread-high-places
+---
 # Deuteronomy 33
 
 ---
@@ -126,7 +255,7 @@ Moses blesses Israel before his death, describing God's revelation at Sinai, Sei
 
 
 *AI Keywords for current event matching:*
-`abundance` `accept` `acceptable` `acknowledged` `again` `against` `alone` `altar` `ancient` `arm` `arms` `asher` `bashan` `beloved` `beneath` `benjamin` `bless` `blessed` `blessing` `brass` `brethren` `bring` `bullock` `burnt` `bush` `call` `came` `chief` `children` `commanded` `congregation` `corn` `coucheth` `covenant` `cover` `crown` `dan` `day` `days` `death` `deep` `destroy` `dew` `die` `dip` `divine` `drop` `dwell` `dwelleth` `dwelt` `earth` `ends` `enemies` `enemy` `enlargeth` `ephraim` `eternal` `everlasting` `excellency` `executed` `father` `favour` `feet` `few` `fiery` `first` `firstling` `foot` `fountain` `fruits` `full` `fulness` `gad` `gathered` `glory` `god` `going` `good` `hand` `hands` `happy` `hate` `head` `heads` `hear` `heaven` `heavens` `help` `hid` `high` `hills` `holy` `horns` `incense` `inheritance` `iron` `israel` `israels` `issachar` `jacob` `jeshurun` `joseph` `judah` `judgments` `justice` `kept` `king` `knew` `land` `lasting` `law` `lawgiver` `leap` `levi` `liars` `like` `lion` `live` `loins` `long` `lord` `loved` `man` `manasseh` `massah` `men` `meribah` `moon` `moses` `mother` `mount` `mountain` `mountains` `naphtali` `none` `observed` `offer` `oil` `one` `paran` `part` `people` `places` `portion` `possess` `precious` `protection` `proved` `provided` `push` `receive` `refuge` `rejoice` `reuben` `revelation` `rideth` `right` `righteousness` `rise` `rose` `sacrifice` `sacrifices` `safety` `saints` `sand` `sat` `satisfied` `saved` `seas` `seated` `security` `seen` `seir` `separated` `shield` `shined` `shoes` `shoulders` `sinai` `sky` `smite` `south` `strength` `strove` `substance` `suck` `sufficient` `sun` `sword` `teach` `teareth` `ten` `tents` `things` `thousands` `thrust` `thummim` `together` `top` `tread` `treasures` `tribes` `underneath` `unicorns` `urim` `voice` `waters` `west` `whelp` `whole` `wine` `word` `words` `work` `zebulun`
+#abundance #accept #acceptable #acknowledged #again #against #alone #altar #ancient #arm #arms #asher #bashan #beloved #beneath #benjamin #bless #blessed #blessing #brass #brethren #bring #bullock #burnt #bush #call #came #chief #children #commanded #congregation #corn #coucheth #covenant #cover #crown #dan #day #days #death #deep #destroy #dew #die #dip #divine #drop #dwell #dwelleth #dwelt #earth #ends #enemies #enemy #enlargeth #ephraim #eternal #everlasting #excellency #executed #father #favour #feet #few #fiery #first #firstling #foot #fountain #fruits #full #fulness #gad #gathered #glory #god #going #good #hand #hands #happy #hate #head #heads #hear #heaven #heavens #help #hid #high #hills #holy #horns #incense #inheritance #iron #israel #israels #issachar #jacob #jeshurun #joseph #judah #judgments #justice #kept #king #knew #land #lasting #law #lawgiver #leap #levi #liars #like #lion #live #loins #long #lord #loved #man #manasseh #massah #men #meribah #moon #moses #mother #mount #mountain #mountains #naphtali #none #observed #offer #oil #one #paran #part #people #places #portion #possess #precious #protection #proved #provided #push #receive #refuge #rejoice #reuben #revelation #rideth #right #righteousness #rise #rose #sacrifice #sacrifices #safety #saints #sand #sat #satisfied #saved #seas #seated #security #seen #seir #separated #shield #shined #shoes #shoulders #sinai #sky #smite #south #strength #strove #substance #suck #sufficient #sun #sword #teach #teareth #ten #tents #things #thousands #thrust #thummim #together #top #tread #treasures #tribes #underneath #unicorns #urim #voice #waters #west #whelp #whole #wine #word #words #work #zebulun
 
 
 ---

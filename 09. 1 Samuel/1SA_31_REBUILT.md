@@ -1,3 +1,17 @@
+---
+book: "1 Samuel"
+chapter: 31
+testament: "Old Testament"
+key_themes: "Saul's Defeat and Death, Jonathan's Death, Saul's Suicide, Philistine Victory, Israel's Flight, Saul's Body Desecrated, Jabesh-Gilead's Loyalty"
+tags:
+  - armourbearer-Saul-dead-sword-died
+  - inhabitants-Jabesh-gilead-Philistines-Saul
+  - saul
+  - jonathan
+  - philistine-victory
+  - israel
+  - jabeshgilead
+---
 # 1 Samuel 31
 
 ---
@@ -83,7 +97,7 @@ Philistines fought against Israel; Israel's men fled from Philistines, fell slai
 
 
 *AI Keywords for current event matching:*
-`abinadab` `abuse` `afraid` `archers` `armour` `armourbearer` `arose` `ashtaroth` `battle` `beth-shan` `bodies` `body` `bones` `buried` `burned` `cities` `cut` `day` `days` `dead` `death` `defeat` `desecrated` `died` `dwelt` `fallen` `fasted` `fell` `fled` `followed` `forsook` `fought` `gilboa` `hard` `head` `hit` `house` `idols` `inhabitants` `israel` `israels` `jabesh` `jabesh-gilead` `jabesh-gileads` `jonathan` `jordan` `land` `loyalty` `malchi-shua` `men` `morrow` `mount` `night` `people` `philistine` `philistines` `saul` `sauls` `seven` `side` `slain` `slew` `sons` `sore` `strip` `stripped` `sword` `three` `thrust` `tree` `uncircumcised` `valiant` `valley` `victory` `wall` `wounded`
+#abinadab #abuse #afraid #archers #armour #armourbearer #arose #ashtaroth #battle #beth-shan #bodies #body #bones #buried #burned #cities #cut #day #days #dead #death #defeat #desecrated #died #dwelt #fallen #fasted #fell #fled #followed #forsook #fought #gilboa #hard #head #hit #house #idols #inhabitants #israel #israels #jabesh #jabesh-gilead #jabesh-gileads #jonathan #jordan #land #loyalty #malchi-shua #men #morrow #mount #night #people #philistine #philistines #saul #sauls #seven #side #slain #slew #sons #sore #strip #stripped #sword #three #thrust #tree #uncircumcised #valiant #valley #victory #wall #wounded
 
 
 ---

@@ -1,3 +1,13 @@
+---
+book: "Jeremiah"
+chapter: 36
+testament: "Old Testament"
+key_themes: "Christ's Word, Written Scroll, Divine Judgment, Christ's Preservation"
+tags:
+  - christ
+  - written-scroll
+  - divine-judgment
+---
 # Jeremiah 36
 
 ---
@@ -105,7 +115,7 @@ Fourth, year, Jehoiakim, son, Josiah, king, Judah, word, Jeremiah, LORD, roll, b
 
 
 *AI Keywords for current event matching:*
-`afraid` `another` `baruch` `body` `book` `burned` `cast` `christs` `consumed` `david` `dead` `divine` `fire` `hearth` `hid` `ink` `judgment` `like` `lord` `many` `preservation` `read` `roll` `scroll` `spoken` `throne` `word` `words` `write` `written` `wrote`
+#afraid #another #baruch #body #book #burned #cast #christs #consumed #david #dead #divine #fire #hearth #hid #ink #judgment #like #lord #many #preservation #read #roll #scroll #spoken #throne #word #words #write #written #wrote
 
 
 ---

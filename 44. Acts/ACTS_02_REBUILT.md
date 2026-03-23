@@ -1,3 +1,14 @@
+---
+book: "Acts"
+chapter: 2
+testament: "New Testament"
+key_themes: "The Day of Pentecost, Peter's Sermon, The First Converts, The Early Church"
+tags:
+  - the-day-of-pentecost
+  - peter
+  - the-first-converts
+  - the-early-church
+---
 # Acts 2
 
 ---
@@ -141,7 +152,7 @@ Day, Pentecost, fully, come, accord, place, suddenly, sound, heaven, rushing, mi
 
 
 *AI Keywords for current event matching:*
-`abroad` `accord` `according` `added` `afar` `amazed` `apostles` `approved` `arabians` `ascended` `asia` `assuredly` `baptized` `began` `believed` `blood` `born` `bread` `breaking` `brethren` `buried` `call` `cappadocia` `children` `christ` `church` `cloven` `come` `common` `confounded` `continued` `continuing` `converts` `corruption` `counsel` `countenance` `cretes` `crucified` `cyrene` `daily` `darkness` `daughters` `david` `day` `days` `dead` `death` `delivered` `determinate` `devout` `doctrine` `doubt` `dreams` `drunken` `dwell` `dwellers` `dwelling` `early` `earth` `egypt` `elamites` `eleven` `exalted` `exhort` `face` `father` `favour` `fear` `fellowship` `filled` `fire` `first` `flesh` `foes` `footstool` `foreknowledge` `foresaw` `fruit` `full` `fully` `galilæans` `generation` `ghost` `gift` `glad` `gladly` `gladness` `god` `goods` `great` `hand` `handmaidens` `hands` `hear` `heard` `hearken` `heart` `heaven` `heavens` `hell` `holden` `holy` `hope` `hour` `house` `israel` `jerusalem` `jesus` `jews` `joel` `joy` `judaea` `knowing` `known` `language` `last` `leave` `left` `libya` `life` `lifted` `loins` `loosed` `lord` `man` `marvelled` `meaneth` `meat` `medes` `men` `mesopotamia` `midst` `mighty` `miracles` `mocking` `moon` `moved` `multitude` `name` `nation` `nazareth` `need` `new` `noised` `notable` `oath` `old` `pains` `pamphylia` `parted` `parthians` `parts` `pass` `patriarch` `pentecost` `people` `peter` `peters` `phrygia` `place` `pontus` `possessions` `pour` `praising` `prayers` `pricked` `promise` `prophesy` `prophet` `proselytes` `raise` `raised` `receive` `received` `rejoice` `remission` `repent` `rest` `resurrection` `right` `rome` `rushing` `sat` `save` `saved` `see` `seeing` `sepulchre` `sermon` `servants` `shed` `shew` `signs` `singleness` `sins` `sitting` `slain` `smoke` `sold` `sons` `soul` `souls` `sound` `speak` `speaketh` `spirit` `spoken` `standing` `stedfastly` `strangers` `suddenly` `suffer` `sun` `suppose` `sworn` `taken` `temple` `testify` `third` `thousand` `three` `throne` `tongue` `tongues` `untoward` `utterance` `vapour` `visions` `voice` `ways` `wicked` `wind` `wine` `witnesses` `wonderful` `wonders` `word` `words` `works` `young`
+#abroad #accord #according #added #afar #amazed #apostles #approved #arabians #ascended #asia #assuredly #baptized #began #believed #blood #born #bread #breaking #brethren #buried #call #cappadocia #children #christ #church #cloven #come #common #confounded #continued #continuing #converts #corruption #counsel #countenance #cretes #crucified #cyrene #daily #darkness #daughters #david #day #days #dead #death #delivered #determinate #devout #doctrine #doubt #dreams #drunken #dwell #dwellers #dwelling #early #earth #egypt #elamites #eleven #exalted #exhort #face #father #favour #fear #fellowship #filled #fire #first #flesh #foes #footstool #foreknowledge #foresaw #fruit #full #fully #galilæans #generation #ghost #gift #glad #gladly #gladness #god #goods #great #hand #handmaidens #hands #hear #heard #hearken #heart #heaven #heavens #hell #holden #holy #hope #hour #house #israel #jerusalem #jesus #jews #joel #joy #judaea #knowing #known #language #last #leave #left #libya #life #lifted #loins #loosed #lord #man #marvelled #meaneth #meat #medes #men #mesopotamia #midst #mighty #miracles #mocking #moon #moved #multitude #name #nation #nazareth #need #new #noised #notable #oath #old #pains #pamphylia #parted #parthians #parts #pass #patriarch #pentecost #people #peter #peters #phrygia #place #pontus #possessions #pour #praising #prayers #pricked #promise #prophesy #prophet #proselytes #raise #raised #receive #received #rejoice #remission #repent #rest #resurrection #right #rome #rushing #sat #save #saved #see #seeing #sepulchre #sermon #servants #shed #shew #signs #singleness #sins #sitting #slain #smoke #sold #sons #soul #souls #sound #speak #speaketh #spirit #spoken #standing #stedfastly #strangers #suddenly #suffer #sun #suppose #sworn #taken #temple #testify #third #thousand #three #throne #tongue #tongues #untoward #utterance #vapour #visions #voice #ways #wicked #wind #wine #witnesses #wonderful #wonders #word #words #works #young
 
 
 ---

@@ -1,3 +1,14 @@
+---
+book: "Colossians"
+chapter: 2
+testament: "New Testament"
+key_themes: "Paul's Conflict, Warning Against False Philosophy, Christ's Fullness, Freedom from Legalism"
+tags:
+  - paul
+  - warning-against-false-philosophy
+  - christ
+  - freedom-from-legalism
+---
 # Colossians 2
 
 ---
@@ -117,7 +128,7 @@ Great, conflict, Laodicea, seen, face, flesh, hearts, comforted, knit, love, ric
 
 
 *AI Keywords for current event matching:*
-`abounding` `absent` `acknowledgement` `against` `angels` `assurance` `bands` `baptism` `beguile` `beholding` `beware` `blotting` `bodily` `body` `built` `buried` `christ` `christs` `circumcised` `circumcision` `comforted` `commandments` `complete` `conflict` `contrary` `cross` `dead` `deceit` `doctrines` `drink` `dwelleth` `enticing` `face` `faith` `false` `father` `flesh` `fleshly` `forgiven` `freedom` `full` `fullness` `fulness` `god` `godhead` `great` `handle` `hands` `handwriting` `head` `hearts` `hid` `holding` `holyday` `honour` `humility` `increase` `increaseth` `intruding` `jesus` `joints` `joying` `judge` `knit` `knowledge` `laodicea` `legalism` `living` `lord` `love` `meat` `men` `mind` `ministered` `moon` `mystery` `nailing` `neglecting` `new` `nourishment` `openly` `operation` `order` `ordinances` `pauls` `perish` `philosophy` `power` `powers` `principalities` `principality` `puffed` `putting` `quicken` `raised` `received` `respect` `reward` `riches` `risen` `rooted` `rudiments` `sabbath` `satisfying` `seen` `shadow` `shew` `sins` `spirit` `spoil` `spoiled` `stablished` `stedfastness` `subject` `taste` `taught` `thanksgiving` `things` `took` `touch` `tradition` `treasures` `trespasses` `triumphing` `uncircumcision` `understanding` `using` `vain` `vainly` `voluntary` `walk` `warning` `way` `wisdom` `without` `words` `world` `worship` `worshipping`
+#abounding #absent #acknowledgement #against #angels #assurance #bands #baptism #beguile #beholding #beware #blotting #bodily #body #built #buried #christ #christs #circumcised #circumcision #comforted #commandments #complete #conflict #contrary #cross #dead #deceit #doctrines #drink #dwelleth #enticing #face #faith #false #father #flesh #fleshly #forgiven #freedom #full #fullness #fulness #god #godhead #great #handle #hands #handwriting #head #hearts #hid #holding #holyday #honour #humility #increase #increaseth #intruding #jesus #joints #joying #judge #knit #knowledge #laodicea #legalism #living #lord #love #meat #men #mind #ministered #moon #mystery #nailing #neglecting #new #nourishment #openly #operation #order #ordinances #pauls #perish #philosophy #power #powers #principalities #principality #puffed #putting #quicken #raised #received #respect #reward #riches #risen #rooted #rudiments #sabbath #satisfying #seen #shadow #shew #sins #spirit #spoil #spoiled #stablished #stedfastness #subject #taste #taught #thanksgiving #things #took #touch #tradition #treasures #trespasses #triumphing #uncircumcision #understanding #using #vain #vainly #voluntary #walk #warning #way #wisdom #without #words #world #worship #worshipping
 
 
 ---

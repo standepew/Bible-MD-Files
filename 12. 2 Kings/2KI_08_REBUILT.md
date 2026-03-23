@@ -1,3 +1,17 @@
+---
+book: "2 Kings"
+chapter: 8
+testament: "Old Testament"
+key_themes: "Shunammite's Restoration, Hazael's Rise, Jehoram's Reign, Ahaziah's Reign, Syrian Wars"
+tags:
+  - Elisha-recover-LORD-shewed-die
+  - departed-Elisha-master-Elisha-recover
+  - shunammite
+  - hazael
+  - jehoram
+  - ahaziah
+  - syrian-wars
+---
 # 2 Kings 8
 
 ---
@@ -85,7 +99,7 @@ Elisha, woman, son restored life, Arise, household, sojourn wheresoever, LORD fa
 
 
 *AI Keywords for current event matching:*
-`acts` `ahab` `ahaziah` `ahaziahs` `arise` `arose` `ashamed` `athaliah` `ben-hadad` `body` `book` `burden` `buried` `camels` `chariots` `child` `children` `chronicles` `city` `cloth` `countenance` `cried` `damascus` `dash` `daughter` `david` `day` `dead` `departed` `destroy` `die` `died` `disease` `dog` `edom` `edomites` `elisha` `enquire` `evil` `face` `famine` `fathers` `field` `fifth` `fire` `fled` `forty` `fought` `fruits` `gehazi` `god` `good` `great` `hand` `hazael` `hazaels` `healed` `hither` `holds` `house` `household` `israel` `jehoram` `jehorams` `jehoshaphat` `jerusalem` `jezreel` `joram` `judah` `king` `kings` `land` `left` `libnah` `life` `light` `lord` `man` `master` `meet` `men` `morrow` `mother` `night` `officer` `omri` `people` `philistines` `present` `promised` `ramah` `ramoth-gilead` `recover` `reign` `reigned` `restoration` `restore` `restored` `returned` `revolted` `rip` `rise` `sake` `saying` `servant` `settled` `seven` `shewed` `shunammites` `sick` `sight` `slay` `slept` `smote` `sojourn` `son` `strong` `sword` `syria` `syrian` `syrians` `tents` `thick` `thing` `things` `thirty-two` `told` `twelfth` `twenty-two` `war` `wars` `water` `way` `weep` `wept` `wheresoever` `wife` `woman` `women` `wounded` `wounds` `year` `years` `young` `zair`
+#acts #ahab #ahaziah #ahaziahs #arise #arose #ashamed #athaliah #ben-hadad #body #book #burden #buried #camels #chariots #child #children #chronicles #city #cloth #countenance #cried #damascus #dash #daughter #david #day #dead #departed #destroy #die #died #disease #dog #edom #edomites #elisha #enquire #evil #face #famine #fathers #field #fifth #fire #fled #forty #fought #fruits #gehazi #god #good #great #hand #hazael #hazaels #healed #hither #holds #house #household #israel #jehoram #jehorams #jehoshaphat #jerusalem #jezreel #joram #judah #king #kings #land #left #libnah #life #light #lord #man #master #meet #men #morrow #mother #night #officer #omri #people #philistines #present #promised #ramah #ramoth-gilead #recover #reign #reigned #restoration #restore #restored #returned #revolted #rip #rise #sake #saying #servant #settled #seven #shewed #shunammites #sick #sight #slay #slept #smote #sojourn #son #strong #sword #syria #syrian #syrians #tents #thick #thing #things #thirty-two #told #twelfth #twenty-two #war #wars #water #way #weep #wept #wheresoever #wife #woman #women #wounded #wounds #year #years #young #zair
 
 
 ---

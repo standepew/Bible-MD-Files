@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 43
+testament: "Old Testament"
+key_themes: "Divine Justice, God's Light and Truth, Worship in Joy, Hope in God"
+tags:
+  - divine-justice
+  - god
+  - worship-in-joy
+  - hope-in-god
+---
 # Psalm 43
 
 ---
@@ -93,7 +104,7 @@ Judge, GOD, plead, cause, ungodly, nation, deliver, deceitful, unjust, man, GOD,
 
 
 *AI Keywords for current event matching:*
-`altar` `bring` `cast` `cause` `countenance` `deceitful` `deliver` `disquieted` `divine` `enemy` `exceeding` `god` `gods` `harp` `health` `hill` `holy` `hope` `joy` `judge` `justice` `lead` `light` `man` `mourning` `nation` `oppression` `plead` `praise` `send` `soul` `strength` `tabernacles` `truth` `ungodly` `unjust` `within` `worship`
+#altar #bring #cast #cause #countenance #deceitful #deliver #disquieted #divine #enemy #exceeding #god #gods #harp #health #hill #holy #hope #joy #judge #justice #lead #light #man #mourning #nation #oppression #plead #praise #send #soul #strength #tabernacles #truth #ungodly #unjust #within #worship
 
 
 ---

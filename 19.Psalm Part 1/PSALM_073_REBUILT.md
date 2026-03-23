@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 73
+testament: "Old Testament"
+key_themes: "Prosperity of Wicked, Spiritual Envy, Divine Sanctuary, Eternal Perspective"
+tags:
+  - prosperity-of-wicked
+  - spiritual-envy
+  - divine-sanctuary
+  - eternal-perspective
+---
 # Psalm 73
 
 ---
@@ -141,7 +152,7 @@ Psalm, Asaph, Truly, GOD, good, Israel, clean, heart, feet, gone, steps, slipped
 
 
 *AI Keywords for current event matching:*
-`afterward` `almost` `asaph` `awakest` `awaketh` `bands` `beast` `beside` `brought` `casted` `chain` `chastened` `clean` `cleansed` `compasseth` `consumed` `continually` `counsel` `covereth` `day` `death` `desire` `desolation` `despise` `destruction` `divine` `dream` `earth` `end` `envious` `envy` `eternal` `faileth` `feet` `firm` `flesh` `foolish` `garment` `glory` `god` `gone` `good` `grieved` `guide` `hand` `hands` `heart` `heaven` `holden` `ignorant` `image` `innocency` `israel` `long` `lord` `moment` `morning` `perspective` `places` `plagued` `portion` `pricked` `pride` `prosperity` `psalm` `receive` `reins` `right` `sanctuary` `set` `slipped` `slippery` `spiritual` `steps` `strength` `terrors` `truly` `understood` `vain` `violence` `washed` `went` `wicked`
+#afterward #almost #asaph #awakest #awaketh #bands #beast #beside #brought #casted #chain #chastened #clean #cleansed #compasseth #consumed #continually #counsel #covereth #day #death #desire #desolation #despise #destruction #divine #dream #earth #end #envious #envy #eternal #faileth #feet #firm #flesh #foolish #garment #glory #god #gone #good #grieved #guide #hand #hands #heart #heaven #holden #ignorant #image #innocency #israel #long #lord #moment #morning #perspective #places #plagued #portion #pricked #pride #prosperity #psalm #receive #reins #right #sanctuary #set #slipped #slippery #spiritual #steps #strength #terrors #truly #understood #vain #violence #washed #went #wicked
 
 
 ---

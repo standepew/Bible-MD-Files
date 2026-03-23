@@ -1,3 +1,14 @@
+---
+book: "Mark"
+chapter: 7
+testament: "New Testament"
+key_themes: "Christ's Teaching on Tradition, Syrophenician Woman, Healing of Deaf-Mute, True Purity"
+tags:
+  - christ
+  - syrophenician-woman
+  - healing-of-deafmute
+  - true-purity
+---
 # Mark 7
 
 ---
@@ -165,7 +176,7 @@ Pharisees, scribes, Jerusalem, disciples, eat, bread, defiled, unwashen, hands, 
 
 
 *AI Keywords for current event matching:*
-`bread` `children` `christs` `commandments` `crumbs` `daughter` `deaf` `deaf-mute` `defile` `devil` `dogs` `ears` `elders` `ephphatha` `evil` `greek` `hands` `healing` `heart` `impediment` `lips` `loosed` `men` `nation` `opened` `purity` `syrophenician` `teaching` `things` `thoughts` `tongue` `tradition` `true` `unwashen` `well` `within` `without` `woman`
+#bread #children #christs #commandments #crumbs #daughter #deaf #deaf-mute #defile #devil #dogs #ears #elders #ephphatha #evil #greek #hands #healing #heart #impediment #lips #loosed #men #nation #opened #purity #syrophenician #teaching #things #thoughts #tongue #tradition #true #unwashen #well #within #without #woman
 
 
 ---

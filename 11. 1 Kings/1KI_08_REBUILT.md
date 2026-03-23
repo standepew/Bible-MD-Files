@@ -1,3 +1,20 @@
+---
+book: "1 Kings"
+chapter: 8
+testament: "Old Testament"
+key_themes: "Temple Dedication, Ark Transfer, Divine Presence, Solomon's Prayer, Covenant Faithfulness"
+tags:
+  - elders-Israel-priests-ark
+  - Solomon-LORD-dwell-thick-darkness
+  - fear-days-land-fathers
+  - LORD-GOD-fathers-leave-forsake
+  - king-Israel-sacrifice-LORD
+  - temple-dedication
+  - ark-transfer
+  - divine-presence
+  - solomon
+  - covenant-faithfulness
+---
 # 1 Kings 8
 
 ---
@@ -99,7 +116,7 @@ Solomon assembled elders Israel, heads tribes, chief fathers children Israel, ki
 
 
 *AI Keywords for current event matching:*
-`abide` `afflict` `altar` `anger` `ark` `arm` `arose` `assembled` `away` `battle` `besiege` `bethink` `blasting` `blessed` `blessing` `brasen` `brought` `build` `builded` `built` `burnt` `call` `calleth` `came` `captives` `captivity` `carried` `carry` `caterpillar` `cause` `celebration` `cherubims` `chief` `children` `chose` `chosen` `cities` `city` `cloud` `commanded` `commandments` `compassion` `conclusion` `condemning` `confess` `congregation` `contain` `country` `court` `covenant` `covered` `cry` `darkness` `david` `day` `days` `dedicated` `dedication` `didst` `divine` `drew` `dwell` `dwelling` `earth` `egypt` `eighth` `elders` `ends` `enemies` `enemy` `entering` `ethanim` `eyes` `face` `fail` `failed` `famine` `far` `fat` `father` `fathers` `fear` `feast` `filled` `forever` `forgive` `forsake` `fourteen` `fulfilled` `furnace` `given` `glad` `glory` `god` `good` `goodness` `great` `hallow` `hamath` `hand` `hands` `head` `heads` `hear` `hearken` `heart` `hearts` `heaven` `heavens` `heed` `holy` `horeb` `house` `hundred` `incline` `inheritance` `iron` `israel` `jerusalem` `joyful` `judge` `judgments` `justice` `justifying` `keep` `kept` `king` `kneeling` `knees` `know` `knowest` `land` `leave` `levites` `little` `locust` `loins` `lord` `loud` `maintain` `man` `matter` `meat` `men` `mercy` `middle` `midst` `mildew` `minister` `month` `moses` `mouth` `multitude` `name` `near` `neighbour` `night` `none` `oath` `offerings` `open` `oracle` `oxen` `peace` `people` `perfect` `performed` `perversely` `pestilence` `place` `plague` `pray` `prayer` `presence` `priests` `promise` `promised` `provision` `rain` `receive` `repent` `require` `respect` `rest` `restoration` `return` `righteous` `righteousness` `risen` `river` `room` `sacrifice` `sacrificing` `said` `sake` `seen` `send` `separate` `servant` `servants` `set` `settled` `seven` `seventh` `sheep` `shut` `sickness` `sight` `sin` `sinned` `smitten` `solomon` `solomons` `son` `soul` `spake` `spoke` `spoken` `spread` `stand` `statutes` `staves` `stone` `stood` `stranger` `strangers` `stretched` `strong` `supplication` `tabernacle` `tables` `teach` `temple` `tents` `thick` `thousand` `throne` `times` `transfer` `transgressed` `transgressions` `trespass` `tribes` `turn` `turned` `twenty` `twenty-two` `two` `verified` `vessels` `voice` `walk` `way` `ways` `well` `wicked` `wickedness` `wings` `without` `word` `words` `zion`
+#abide #afflict #altar #anger #ark #arm #arose #assembled #away #battle #besiege #bethink #blasting #blessed #blessing #brasen #brought #build #builded #built #burnt #call #calleth #came #captives #captivity #carried #carry #caterpillar #cause #celebration #cherubims #chief #children #chose #chosen #cities #city #cloud #commanded #commandments #compassion #conclusion #condemning #confess #congregation #contain #country #court #covenant #covered #cry #darkness #david #day #days #dedicated #dedication #didst #divine #drew #dwell #dwelling #earth #egypt #eighth #elders #ends #enemies #enemy #entering #ethanim #eyes #face #fail #failed #famine #far #fat #father #fathers #fear #feast #filled #forever #forgive #forsake #fourteen #fulfilled #furnace #given #glad #glory #god #good #goodness #great #hallow #hamath #hand #hands #head #heads #hear #hearken #heart #hearts #heaven #heavens #heed #holy #horeb #house #hundred #incline #inheritance #iron #israel #jerusalem #joyful #judge #judgments #justice #justifying #keep #kept #king #kneeling #knees #know #knowest #land #leave #levites #little #locust #loins #lord #loud #maintain #man #matter #meat #men #mercy #middle #midst #mildew #minister #month #moses #mouth #multitude #name #near #neighbour #night #none #oath #offerings #open #oracle #oxen #peace #people #perfect #performed #perversely #pestilence #place #plague #pray #prayer #presence #priests #promise #promised #provision #rain #receive #repent #require #respect #rest #restoration #return #righteous #righteousness #risen #river #room #sacrifice #sacrificing #said #sake #seen #send #separate #servant #servants #set #settled #seven #seventh #sheep #shut #sickness #sight #sin #sinned #smitten #solomon #solomons #son #soul #spake #spoke #spoken #spread #stand #statutes #staves #stone #stood #stranger #strangers #stretched #strong #supplication #tabernacle #tables #teach #temple #tents #thick #thousand #throne #times #transfer #transgressed #transgressions #trespass #tribes #turn #turned #twenty #twenty-two #two #verified #vessels #voice #walk #way #ways #well #wicked #wickedness #wings #without #word #words #zion
 
 
 ---

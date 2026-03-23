@@ -1,3 +1,27 @@
+---
+book: "Leviticus"
+chapter: 17
+testament: "Old Testament"
+key_themes: "All sacrificial killing must be brought to the Tabernacle — not in the open field, To prevent sacrificing to devils/demons (se'irim — goat-demons), "For the life of the flesh is in the blood: and I have given it to you upon the altar to make an atonement for your souls: for it is the blood that maketh an atonement for the soul" — the foundational verse of the entire sacrificial theology, No eating of blood — the penalty is being cut off from the people; applies equally to stranger and native, The blood of hunted game must be poured out and covered with earth"
+tags:
+  - blood-of-the-sacrifice
+  - all-offerings-at-tabernacle
+  - no-sacrifice-in-open-field
+  - no-more-sacrifice-to-devils
+  - se-irim
+  - goat-demons
+  - life-is-in-the-blood
+  - blood-makes-atonement
+  - I-have-given-it-to-you
+  - no-eating-blood
+  - cut-off-from-the-people
+  - stranger-same-law
+  - pour-out-blood-of-game
+  - cover-with-dust
+  - Leviticus-17
+  - Hebrews-9
+  - Acts-15
+---
 # Leviticus 17
 
 ---
@@ -82,7 +106,7 @@ This is the most important single verse in Leviticus for understanding why the s
 
 
 *AI Keywords for current event matching:*
-`atonement` `blood` `current` `events` `foundation` `hebrews` `john` `leviticus` `life` `matching` `revelation`
+#atonement #blood #current #events #foundation #hebrews #john #leviticus #life #matching #revelation
 
 
 ---

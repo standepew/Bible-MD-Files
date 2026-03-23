@@ -1,3 +1,13 @@
+---
+book: "Jeremiah"
+chapter: 7
+testament: "Old Testament"
+key_themes: "Christ's Temple, Spiritual Hypocrisy, Divine Rejection, Christ's Judgment"
+tags:
+  - christ
+  - spiritual-hypocrisy
+  - divine-rejection
+---
 # Jeremiah 7
 
 ---
@@ -105,7 +115,7 @@ Word, Jeremiah, LORD, saying, Stand, gate, LORD, house, proclaim, word, Hear, wo
 
 
 *AI Keywords for current event matching:*
-`abominations` `anger` `called` `carcases` `cast` `cease` `christs` `den` `desolate` `divine` `forsaken` `fury` `gate` `generation` `house` `hypocrisy` `judgment` `land` `lord` `lying` `meat` `mirth` `name` `poured` `prayer` `rejected` `rejection` `robbers` `sight` `slaughter` `spiritual` `temple` `trust` `valley` `words` `wrath`
+#abominations #anger #called #carcases #cast #cease #christs #den #desolate #divine #forsaken #fury #gate #generation #house #hypocrisy #judgment #land #lord #lying #meat #mirth #name #poured #prayer #rejected #rejection #robbers #sight #slaughter #spiritual #temple #trust #valley #words #wrath
 
 
 ---

@@ -1,3 +1,30 @@
+---
+book: "Job"
+chapter: 8
+testament: "Old Testament"
+key_themes: "Bildad's Speech, Divine Justice, Traditional Wisdom, Hope for Restoration"
+tags:
+  - Bildad-Shuhite-answered-long-speak-strong-wind
+  - God-pervert-judgment-Almighty-pervert-justice
+  - children-sinned-cast-transgression
+  - seek-GOD-betimes-supplication-Almighty
+  - pure-upright-awake-habitation-righteousness-prosperous
+  - beginning-small-end-increase
+  - enquire-former-age-search-fathers
+  - yesterday-know-nothing-days-earth-shadow
+  - teach-heart-rush-mire-flag-water
+  - greenness-cut-wither-herb
+  - paths-forget-GOD-hypocrite-hope-perish
+  - hope-cut-spider-web
+  - lean-house-stand-hold-fast-endure
+  - green-sun-branch-garden
+  - roots-heap-stones-place
+  - destroy-place-deny-seen
+  - joy-way-earth-others-grow
+  - God-cast-perfect-man-help-evil-doers
+  - fill-mouth-laughing-lips-rejoicing
+  - hate-clothed-shame-dwelling-wicked-nought
+---
 # Job 8
 
 ---
@@ -117,7 +144,7 @@ Bildad, Shuhite, answered, long, speak, strong, wind. God, pervert, judgment, Al
 
 
 *AI Keywords for current event matching:*
-`age` `almighty` `answered` `awake` `beginning` `betimes` `bildad` `bildads` `cast` `children` `cut` `days` `divine` `earth` `end` `endure` `enquire` `fast` `fathers` `flag` `forget` `former` `god` `greenness` `habitation` `heart` `herb` `hold` `hope` `house` `hypocrite` `increase` `judgment` `justice` `know` `lean` `long` `mire` `nothing` `paths` `perish` `pervert` `prosperous` `pure` `restoration` `righteousness` `rush` `search` `seek` `shadow` `shuhite` `sinned` `small` `speak` `speech` `spider` `stand` `strong` `supplication` `teach` `traditional` `transgression` `upright` `water` `web` `wind` `wisdom` `wither` `yesterday`
+#age #almighty #answered #awake #beginning #betimes #bildad #bildads #cast #children #cut #days #divine #earth #end #endure #enquire #fast #fathers #flag #forget #former #god #greenness #habitation #heart #herb #hold #hope #house #hypocrite #increase #judgment #justice #know #lean #long #mire #nothing #paths #perish #pervert #prosperous #pure #restoration #righteousness #rush #search #seek #shadow #shuhite #sinned #small #speak #speech #spider #stand #strong #supplication #teach #traditional #transgression #upright #water #web #wind #wisdom #wither #yesterday
 
 
 ---

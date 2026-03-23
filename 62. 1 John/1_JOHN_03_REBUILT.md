@@ -1,3 +1,15 @@
+---
+book: "1 John"
+chapter: 3
+testament: "New Testament"
+key_themes: "Sons of God and Future Glory, Sin and Righteousness, Children of God vs Children of the Devil, Love One Another, Practical Love and Assurance"
+tags:
+  - sons-of-god-and-future-glory
+  - sin-and-righteousness
+  - children-of-god-vs-children-of
+  - love-one-another
+  - practical-love-and-assurance
+---
 # 1 John 3
 
 ---
@@ -119,7 +131,7 @@ Behold, manner, love, Father, bestowed, called, sons, God, world, knoweth, knew,
 
 
 *AI Keywords for current event matching:*
-`abideth` `abiding` `another` `appear` `ask` `assurance` `assure` `beginning` `behold` `believe` `bestowed` `born` `bowels` `brethren` `brother` `cain` `called` `children` `christ` `commandment` `commandments` `commit` `committeth` `compassion` `condemn` `confidence` `death` `deceive` `deed` `destroy` `devil` `doeth` `dwelleth` `eternal` `evil` `father` `future` `given` `glory` `god` `good` `greater` `hate` `hateth` `heard` `heart` `hope` `jesus` `keep` `keepeth` `knew` `know` `knoweth` `known` `laid` `law` `lay` `life` `like` `lives` `love` `loveth` `manifest` `manifested` `manner` `marvel` `message` `murderer` `name` `need` `one` `passed` `perceive` `pleasing` `practical` `pure` `purifieth` `purpose` `receive` `remaineth` `righteous` `righteousness` `seed` `seen` `seeth` `shutteth` `sight` `sin` `sinneth` `sins` `slew` `son` `sons` `spirit` `take` `tongue` `transgresseth` `transgression` `truth` `wicked` `word` `works` `world`
+#abideth #abiding #another #appear #ask #assurance #assure #beginning #behold #believe #bestowed #born #bowels #brethren #brother #cain #called #children #christ #commandment #commandments #commit #committeth #compassion #condemn #confidence #death #deceive #deed #destroy #devil #doeth #dwelleth #eternal #evil #father #future #given #glory #god #good #greater #hate #hateth #heard #heart #hope #jesus #keep #keepeth #knew #know #knoweth #known #laid #law #lay #life #like #lives #love #loveth #manifest #manifested #manner #marvel #message #murderer #name #need #one #passed #perceive #pleasing #practical #pure #purifieth #purpose #receive #remaineth #righteous #righteousness #seed #seen #seeth #shutteth #sight #sin #sinneth #sins #slew #son #sons #spirit #take #tongue #transgresseth #transgression #truth #wicked #word #works #world
 
 
 ---

@@ -1,3 +1,14 @@
+---
+book: "Habakkuk"
+chapter: 2
+testament: "Old Testament"
+key_themes: "Christ's Answer to Suffering, Just Shall Live by Faith, Woe Against Wickedness, God's Glory"
+tags:
+  - christ
+  - just-shall-live-by-faith
+  - woe-against-wickedness
+  - god
+---
 # Habakkuk 2
 
 ---
@@ -153,7 +164,7 @@ Stand, watch, set, tower, watch, say, answer, reproved, LORD, answered, WRITE, v
 
 
 *AI Keywords for current event matching:*
-`against` `answer` `appointed` `buildeth` `christs` `cover` `coveteth` `drink` `earth` `evil` `faith` `filled` `giveth` `glory` `gods` `graven` `holy` `image` `knowledge` `lifted` `live` `soul` `stand` `suffering` `surely` `temple` `time` `town` `upright` `vision` `wait` `watch` `waters` `wickedness` `woe` `write`
+#against #answer #appointed #buildeth #christs #cover #coveteth #drink #earth #evil #faith #filled #giveth #glory #gods #graven #holy #image #knowledge #lifted #live #soul #stand #suffering #surely #temple #time #town #upright #vision #wait #watch #waters #wickedness #woe #write
 
 
 ---

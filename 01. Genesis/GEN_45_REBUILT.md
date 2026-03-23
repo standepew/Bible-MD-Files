@@ -1,3 +1,51 @@
+---
+book: "Genesis"
+chapter: 45
+testament: "Old Testament"
+key_themes: "Joseph Could Not Refrain Himself — The Great Revelation, "I Am Joseph" — The Three-Word Sentence That Changed Everything, "Doth My Father Yet Live?" — The First Question of Reunion, God Sent Me — The Theological Interpretation of Every Suffering, "Not You That Sent Me Hither, But God", The Five Years Yet of Famine — The Urgency of the Invitation, The Wagons Sent for Jacob — The Proof That Made the Heart Faint and Then Revived, "It Is Enough — Joseph My Son Is Yet Alive", The Weeping of Revelation — Heard By All Egypt"
+tags:
+  - Joseph-could-not-refrain-himself
+  - he-wept-aloud
+  - Egyptians-heard
+  - house-of-Pharaoh-heard
+  - I-am-Joseph
+  - doth-my-father-yet-live
+  - brethren-could-not-answer
+  - troubled-at-his-presence
+  - come-near-to-me
+  - to-preserve-life
+  - five-years-yet-of-famine
+  - haste-bring-my-father
+  - wagons-sent-for-Jacob
+  - spirit-of-Jacob-revived
+  - type-of-Christ-revelation
+  - Zechariah-12-10
+  - Romans-11-26
+  - Acts-3-19-21
+  - Isaiah-45-15
+  - Acts-4-27-28
+  - Genesis-50-20
+  - Romans-8-28
+  - Psalm-105-17
+  - God-sent-man-before-them
+  - divine-sovereignty-human-evil
+  - fall-on-brothers-neck-wept
+  - kissed-brethren
+  - brethren-talked-with-him
+  - Israel-spirit-revived
+  - wagons-as-the-evidence
+  - change-of-raiment-five
+  - provision-for-journey
+  - joseph-could-not-refrain-himself
+  - i-am-joseph
+  - god-sent-me
+  - not-you-that-sent-me-hither
+  - but-god
+  - the-five-years-yet-of-famine
+  - the-wagons-sent-for-jacob
+  - it-is-enough
+  - the-weeping-of-revelation
+---
 # Genesis 45
 
 ---
@@ -80,7 +128,7 @@ When they arrived in Canaan and told Jacob "Joseph is yet alive, and he is gover
 
 ## KEYWORD INDEX
 
-`Joseph could not refrain himself` `cause every man to go out` `he wept aloud Egyptians heard house of Pharaoh heard` `I am Joseph` `doth my father yet live` `brethren could not answer troubled at his presence` `nivhalu terrified dismayed` `come near to me` `I am Joseph your brother whom ye sold into Egypt` `be not grieved nor angry with yourselves` `God did send me before you to preserve life` `God sent me to preserve posterity great deliverance` `not you sent me hither but God` `triple statement of divine sending` `Genesis 50:20 thought evil God meant good` `Acts 2:23 determinate counsel wicked hands` `Acts 4:27-28 whatsoever thy hand and counsel determined` `Isaiah 46:10 declaring end from beginning` `Psalm 105:17 He sent a man before them` `five years yet of famine` `haste bring my father` `God made me father to Pharaoh lord of house` `wagons sent from Egypt` `Jacob heart fainted` `they told him all words of Joseph` `Jacob saw wagons spirit revived` `It is enough Joseph my son yet alive` `I will go see him before I die` `Acts 7:13 made known second time` `Zechariah 12:10 look on me whom they pierced` `Romans 11:26 all Israel shall be saved` `John 20:16 Mary recognized by name` `Romans 5:8 while yet sinners Christ died` `Luke 23:34 Father forgive them` `Colossians 3:13 forgiving one another as Christ forgave` `Acts 3:19-21 times of restitution` `Joseph falls on Benjamins neck weeps` `kissed all brethren wept` `brethren talked with him` `Benjamin three hundred silver five changes of raiment` `see that ye fall not out by the way` `the wagons as the proof the spirit revived`
+#Joseph-could-not-refrain-himself #cause-every-man-to-go-out #he-wept-aloud-Egyptians-heard-house-of-Pharaoh-heard #I-am-Joseph #doth-my-father-yet-live #brethren-could-not-answer-troubled-at-his-presence #nivhalu-terrified-dismayed #come-near-to-me #I-am-Joseph-your-brother-whom-ye-sold-into-Egypt #be-not-grieved-nor-angry-with-yourselves #God-did-send-me-before-you-to-preserve-life #God-sent-me-to-preserve-posterity-great-deliverance #not-you-sent-me-hither-but-God #triple-statement-of-divine-sending #Genesis-5020-thought-evil-God-meant-good #Acts-223-determinate-counsel-wicked-hands #Acts-427-28-whatsoever-thy-hand-and-counsel-determined #Isaiah-4610-declaring-end-from-beginning #Psalm-10517-He-sent-a-man-before-them #five-years-yet-of-famine #haste-bring-my-father #God-made-me-father-to-Pharaoh-lord-of-house #wagons-sent-from-Egypt #Jacob-heart-fainted #they-told-him-all-words-of-Joseph #Jacob-saw-wagons-spirit-revived #It-is-enough-Joseph-my-son-yet-alive #I-will-go-see-him-before-I-die #Acts-713-made-known-second-time #Zechariah-1210-look-on-me-whom-they-pierced #Romans-1126-all-Israel-shall-be-saved #John-2016-Mary-recognized-by-name #Romans-58-while-yet-sinners-Christ-died #Luke-2334-Father-forgive-them #Colossians-313-forgiving-one-another-as-Christ-forgave #Acts-319-21-times-of-restitution #Joseph-falls-on-Benjamins-neck-weeps #kissed-all-brethren-wept #brethren-talked-with-him #Benjamin-three-hundred-silver-five-changes-of-raiment #see-that-ye-fall-not-out-by-the-way #the-wagons-as-the-proof-the-spirit-revived
 
 **Current Events Relevance:**
 - Forgiveness and reconciliation — Joseph's forgiveness that named the sin and then immediately released the offenders from guilt; applicable in teaching on biblical forgiveness, reconciliation processes, pastoral counseling after betrayal, and the theology of forgiveness that does not require waiting for full restitution

@@ -1,3 +1,15 @@
+---
+book: "Acts"
+chapter: 15
+testament: "New Testament"
+key_themes: "The Jerusalem Council, Peter's Defense, James's Decision, The Letter to Gentiles, Paul and Barnabas Separate"
+tags:
+  - the-jerusalem-council
+  - peter
+  - james
+  - the-letter-to-gentiles
+  - paul-and-barnabas-separate
+---
 # Acts 15
 
 ---
@@ -179,7 +191,7 @@ Men, Judaea, taught, brethren, circumcised, manner, Moses, saved, Paul, Barnabas
 
 
 *AI Keywords for current event matching:*
-`abide` `abstain` `accord` `agree` `answered` `antioch` `apostles` `assembled` `asunder` `audience` `barnabas` `barsabas` `bear` `beginning` `believe` `believed` `beloved` `blood` `brethren` `brought` `build` `burden` `called` `caused` `chief` `choice` `chosen` `christ` `church` `churches` `cilicia` `circumcise` `circumcised` `city` `command` `commandment` `company` `confirmed` `confirming` `consolation` `contention` `conversion` `council` `cyprus` `david` `days` `decision` `declared` `declaring` `defense` `delivered` `departed` `determined` `difference` `disciples` `dismissed` `disputation` `disputing` `dissension` `doeth` `elders` `epistle` `exhorted` `faith` `fallen` `fathers` `fornication` `gathered` `gentiles` `ghost` `god` `good` `gospel` `grace` `greater` `greeting` `hazarded` `hear` `heard` `hearken` `hearts` `held` `holy` `idols` `james` `jamess` `jerusalem` `jesus` `john` `joy` `judaea` `judas` `keep` `know` `known` `law` `lay` `letter` `letters` `lives` `lord` `manner` `mark` `matter` `meats` `men` `miracles` `moses` `mouth` `multitude` `name` `necessary` `neck` `needful` `offered` `others` `pamphylia` `paul` `peace` `people` `peter` `peters` `pharisees` `phenice` `pleased` `pollutions` `preach` `preached` `preaching` `prophets` `purifying` `question` `read` `received` `recommended` `rejoiced` `residue` `return` `rose` `ruins` `sabbath` `sailed` `samaria` `saved` `sect` `seek` `seemed` `sent` `sentence` `separate` `set` `sharp` `silas` `silence` `simeon` `souls` `space` `strangled` `subverting` `synagogues` `syria` `tabernacle` `tarried` `taught` `teaching` `tell` `tempt` `things` `time` `trouble` `troubled` `turned` `visit` `way` `witness` `wonders` `word` `words` `work` `works` `world` `write` `written` `wrote` `wrought` `yoke` `yourselves`
+#abide #abstain #accord #agree #answered #antioch #apostles #assembled #asunder #audience #barnabas #barsabas #bear #beginning #believe #believed #beloved #blood #brethren #brought #build #burden #called #caused #chief #choice #chosen #christ #church #churches #cilicia #circumcise #circumcised #city #command #commandment #company #confirmed #confirming #consolation #contention #conversion #council #cyprus #david #days #decision #declared #declaring #defense #delivered #departed #determined #difference #disciples #dismissed #disputation #disputing #dissension #doeth #elders #epistle #exhorted #faith #fallen #fathers #fornication #gathered #gentiles #ghost #god #good #gospel #grace #greater #greeting #hazarded #hear #heard #hearken #hearts #held #holy #idols #james #jamess #jerusalem #jesus #john #joy #judaea #judas #keep #know #known #law #lay #letter #letters #lives #lord #manner #mark #matter #meats #men #miracles #moses #mouth #multitude #name #necessary #neck #needful #offered #others #pamphylia #paul #peace #people #peter #peters #pharisees #phenice #pleased #pollutions #preach #preached #preaching #prophets #purifying #question #read #received #recommended #rejoiced #residue #return #rose #ruins #sabbath #sailed #samaria #saved #sect #seek #seemed #sent #sentence #separate #set #sharp #silas #silence #simeon #souls #space #strangled #subverting #synagogues #syria #tabernacle #tarried #taught #teaching #tell #tempt #things #time #trouble #troubled #turned #visit #way #witness #wonders #word #words #work #works #world #write #written #wrote #wrought #yoke #yourselves
 
 
 ---

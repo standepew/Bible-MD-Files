@@ -1,3 +1,13 @@
+---
+book: "Ezekiel"
+chapter: 33
+testament: "Old Testament"
+key_themes: "Christ's Watchman, Divine Warning, Personal Responsibility, Christ's Mercy"
+tags:
+  - christ
+  - divine-warning
+  - personal-responsibility
+---
 # Ezekiel 33
 
 ---
@@ -105,7 +115,7 @@ Word, Lord, son, man, children, people, sword, land, people, coasts, set, watchm
 
 
 *AI Keywords for current event matching:*
-`among` `blood` `blow` `christs` `covetousness` `death` `deliver` `die` `divine` `fall` `hand` `head` `hear` `heart` `land` `live` `mercy` `people` `personal` `pleasure` `prophet` `require` `responsibility` `righteousness` `set` `soul` `sword` `trumpet` `turn` `warn` `warning` `watchman` `way` `wickedness` `word`
+#among #blood #blow #christs #covetousness #death #deliver #die #divine #fall #hand #head #hear #heart #land #live #mercy #people #personal #pleasure #prophet #require #responsibility #righteousness #set #soul #sword #trumpet #turn #warn #warning #watchman #way #wickedness #word
 
 
 ---

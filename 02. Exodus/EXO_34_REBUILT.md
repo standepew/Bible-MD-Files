@@ -1,3 +1,34 @@
+---
+book: "Exodus"
+chapter: 34
+testament: "Old Testament"
+key_themes: "The Second Tablets — Moses hews the stones himself, God proclaims His Name: "The LORD, The LORD God, merciful and gracious, longsuffering, abundant in goodness and truth," The 13 Attributes of God, The covenant renewed, Warnings against Canaanite alliances and intermarriage, "The LORD, whose name is Jealous, is a jealous God," Moses' face shines — he does not know it, The veil over Moses' face"
+tags:
+  - second-tablets
+  - Moses-hews-stone
+  - I-will-write
+  - proclamation-of-the-name
+  - merciful-gracious
+  - longsuffering
+  - abundant-goodness-truth
+  - keeping-mercy-thousands
+  - forgiving-iniquity
+  - will-by-no-means-clear-guilty
+  - thirteen-attributes
+  - covenant-renewed
+  - destroy-altars
+  - name-is-Jealous
+  - jealous-God
+  - Feast-of-Weeks
+  - firstfruits
+  - no-seethe-kid
+  - forty-days-again
+  - face-shines
+  - veil-over-face
+  - 2-Corinthians-3
+  - glory-fading
+  - glory-exceeding
+---
 # Exodus 34
 
 ---
@@ -89,7 +120,7 @@ God tells Moses to hew two stone tablets — Moses supplies the stone, God suppl
 
 
 *AI Keywords for current event matching:*
-`346-7` `attributes` `character` `current` `events` `exodus` `god` `john` `matching` `most-quoted` `passage`
+#346-7 #attributes #character #current #events #exodus #god #john #matching #most-quoted #passage
 
 
 ---

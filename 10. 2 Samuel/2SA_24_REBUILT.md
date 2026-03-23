@@ -1,3 +1,14 @@
+---
+book: "2 Samuel"
+chapter: 24
+testament: "Old Testament"
+key_themes: "David's Census, Divine Anger, Pestilence, David's Repentance, Araunah's Threshingfloor"
+tags:
+  - david
+  - divine-anger
+  - pestilence
+  - araunah
+---
 # 2 Samuel 24
 
 ---
@@ -95,7 +106,7 @@ LORD anger kindled against Israel, moved David number Israel Judah. King told Jo
 
 
 *AI Keywords for current event matching:*
-`accept` `add` `advise` `altar` `angel` `anger` `answer` `appointed` `araunah` `aroer` `beer-sheba` `bought` `burnt` `buy` `canaanites` `captain` `captains` `census` `choice` `choose` `cities` `city` `command` `confession` `cost` `dan` `dan-jaan` `david` `davids` `days` `delight` `destroy` `destroyed` `died` `divine` `done` `drew` `eight` `enemies` `evil` `eyes` `face` `fall` `famine` `father` `fifty` `five` `flee` `foolishly` `gad` `gilead` `god` `great` `greatly` `ground` `hand` `heart` `hivites` `hold` `host` `house` `hundred` `hundredfold` `iniquity` `instruction` `instruments` `intercession` `intreated` `israel` `jazer` `jebusite` `jerusalem` `joab` `jordan` `journey` `judah` `kindled` `king` `land` `lord` `man` `mercies` `mercy` `midst` `months` `morning` `moved` `nine` `number` `numbered` `offerings` `oxen` `passed` `peace` `people` `pestilence` `pitched` `plague` `price` `prophet` `purchase` `pursue` `repented` `results` `right` `river` `sacrifice` `see` `seer` `servant` `servants` `seven` `seventy` `sheep` `shekels` `side` `silver` `sinned` `smote` `south` `stay` `stayed` `strait` `stretched` `strong` `sword` `tahtim-hodshi` `things` `thousand` `three` `threshing` `threshingfloor` `threshingplace` `tribes` `twenty` `tyre` `valiant` `wickedly` `wood` `word` `years` `zidon`
+#accept #add #advise #altar #angel #anger #answer #appointed #araunah #aroer #beer-sheba #bought #burnt #buy #canaanites #captain #captains #census #choice #choose #cities #city #command #confession #cost #dan #dan-jaan #david #davids #days #delight #destroy #destroyed #died #divine #done #drew #eight #enemies #evil #eyes #face #fall #famine #father #fifty #five #flee #foolishly #gad #gilead #god #great #greatly #ground #hand #heart #hivites #hold #host #house #hundred #hundredfold #iniquity #instruction #instruments #intercession #intreated #israel #jazer #jebusite #jerusalem #joab #jordan #journey #judah #kindled #king #land #lord #man #mercies #mercy #midst #months #morning #moved #nine #number #numbered #offerings #oxen #passed #peace #people #pestilence #pitched #plague #price #prophet #purchase #pursue #repented #results #right #river #sacrifice #see #seer #servant #servants #seven #seventy #sheep #shekels #side #silver #sinned #smote #south #stay #stayed #strait #stretched #strong #sword #tahtim-hodshi #things #thousand #three #threshing #threshingfloor #threshingplace #tribes #twenty #tyre #valiant #wickedly #wood #word #years #zidon
 
 
 ---

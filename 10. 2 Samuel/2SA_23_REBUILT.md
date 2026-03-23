@@ -1,3 +1,25 @@
+---
+book: "2 Samuel"
+chapter: 23
+testament: "Old Testament"
+key_themes: "David's Last Words, Divine Inspiration, Righteous Rule, Mighty Men, David's Warriors"
+tags:
+  - Spirit-LORD-spoke-word-tongue
+  - honourable-captain-first-three
+  - Shammah-Harodite-Elika-Harodite
+  - Abiezer-Anethothite-Mebunnai-Hushathite
+  - Zalmon-Ahohite-Maharai-Netophathite
+  - Benaiah-Pirathonite-Hiddai-brooks-Gaash
+  - Abi-albon-Arbathite-Azmaveth-Barhumite
+  - Eliahba-Shaalbonite-sons-Jashen-Jonathan
+  - Hezrai-Carmelite-Paarai-Arbite
+  - Ira-Ithrite-Gareb-Ithrite
+  - Uriah-Hittite-thirty-seven
+  - david
+  - divine-inspiration
+  - righteous-rule
+  - mighty-men
+---
 # 2 Samuel 23
 
 ---
@@ -83,7 +105,7 @@ Last words David, son Jesse, raised high, anointed God Jacob, sweet psalmist Isr
 
 
 *AI Keywords for current event matching:*
-`abi-albon` `abiezer` `abishai` `acts` `adino` `adullam` `agee` `ahasbai` `ahiam` `ahithophel` `ahohite` `ammonite` `anethothite` `anointed` `arbathite` `arbite` `armourbearer` `arose` `asahel` `away` `azmaveth` `baanah` `bani` `barhumite` `battle` `beerothite` `belial` `benaiah` `benjamin` `beth-lehem` `bethlehem` `blood` `brooks` `brother` `burned` `captain` `captains` `carmelite` `cave` `chief` `children` `clave` `clear` `clouds` `covenant` `david` `davids` `defended` `defied` `desire` `dodo` `drink` `earth` `egyptian` `eight` `eleazar` `elhanan` `eliahba` `eliam` `elika` `eliphelet` `everlasting` `eznite` `fear` `fenced` `fire` `first` `fled` `gaash` `gadite` `gareb` `gate` `gathered` `gibeah` `gilonite` `god` `goodly` `grass` `ground` `grow` `guard` `hand` `hands` `hararite` `harodite` `harvest` `heleb` `helez` `hezrai` `hiddai` `high` `hittite` `hold` `honourable` `house` `hundred` `hushathite` `igal` `ikkesh` `ira` `iron` `israel` `ithrite` `ittai` `jacob` `jashen` `jehoiada` `jeopardized` `jesse` `joab` `jonathan` `kabzeel` `last` `lentiles` `light` `lion` `lionlike` `lives` `longed` `lord` `maachathite` `maharai` `mebunnai` `men` `mighty` `moab` `morning` `naharai` `nathan` `netophathite` `ordered` `paarai` `paltite` `people` `philistines` `pirathonite` `pit` `place` `plucked` `poured` `psalmist` `rain` `raised` `rephaim` `ribai` `riseth` `rock` `ruleth` `salvation` `seat` `seven` `shaalbonite` `shammah` `sharar` `shining` `slew` `smote` `snow` `son` `sons` `spear` `spirit` `spoil` `spoke` `springing` `staff` `sun` `sure` `sweet` `sword` `tachmonite` `taken` `tekoite` `tender` `thirty` `thorns` `three` `thrust` `tongue` `touch` `troop` `uriah` `valiant` `valley` `victory` `warriors` `water` `weary` `well` `word` `words` `zalmon` `zelek` `zeruiah` `zobah`
+#abi-albon #abiezer #abishai #acts #adino #adullam #agee #ahasbai #ahiam #ahithophel #ahohite #ammonite #anethothite #anointed #arbathite #arbite #armourbearer #arose #asahel #away #azmaveth #baanah #bani #barhumite #battle #beerothite #belial #benaiah #benjamin #beth-lehem #bethlehem #blood #brooks #brother #burned #captain #captains #carmelite #cave #chief #children #clave #clear #clouds #covenant #david #davids #defended #defied #desire #dodo #drink #earth #egyptian #eight #eleazar #elhanan #eliahba #eliam #elika #eliphelet #everlasting #eznite #fear #fenced #fire #first #fled #gaash #gadite #gareb #gate #gathered #gibeah #gilonite #god #goodly #grass #ground #grow #guard #hand #hands #hararite #harodite #harvest #heleb #helez #hezrai #hiddai #high #hittite #hold #honourable #house #hundred #hushathite #igal #ikkesh #ira #iron #israel #ithrite #ittai #jacob #jashen #jehoiada #jeopardized #jesse #joab #jonathan #kabzeel #last #lentiles #light #lion #lionlike #lives #longed #lord #maachathite #maharai #mebunnai #men #mighty #moab #morning #naharai #nathan #netophathite #ordered #paarai #paltite #people #philistines #pirathonite #pit #place #plucked #poured #psalmist #rain #raised #rephaim #ribai #riseth #rock #ruleth #salvation #seat #seven #shaalbonite #shammah #sharar #shining #slew #smote #snow #son #sons #spear #spirit #spoil #spoke #springing #staff #sun #sure #sweet #sword #tachmonite #taken #tekoite #tender #thirty #thorns #three #thrust #tongue #touch #troop #uriah #valiant #valley #victory #warriors #water #weary #well #word #words #zalmon #zelek #zeruiah #zobah
 
 
 ---

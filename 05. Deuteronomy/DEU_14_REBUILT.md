@@ -1,3 +1,30 @@
+---
+book: "Deuteronomy"
+chapter: 14
+testament: "Old Testament"
+key_themes: "Holy People, Peculiar Nation, Dietary Laws, Clean and Unclean Animals, Mournings for the Dead, Tithing System, Eating Before the LORD, Supporting Levites, Caring for Vulnerable"
+tags:
+  - children-of-LORD
+  - holy-people
+  - peculiar-people
+  - cut-yourselves
+  - baldness-between-eyes
+  - abominable-thing
+  - clean-unclean
+  - chew-cud
+  - divide-hoof
+  - fins-scales
+  - die-of-itself
+  - seethe-kid-mother-milk
+  - tithe-increase
+  - eat-before-LORD
+  - place-God-chooses
+  - turn-to-money
+  - rejoice-household
+  - forsake-not-Levite
+  - three-year-tithe
+  - stranger-fatherless-widow
+---
 # Deuteronomy 14
 
 ---
@@ -118,7 +145,7 @@ Moses reminds Israel they are children and holy people of God, chosen to be pecu
 
 
 *AI Keywords for current event matching:*
-`abominable` `above` `alien` `animals` `baldness` `bat` `between` `birds` `bless` `bring` `buy` `camel` `chamois` `chew` `children` `chooses` `chosen` `clean` `coney` `cormorant` `creatures` `cuckow` `cud` `cut` `dead` `deer` `die` `divide` `divides` `doesnt` `dont` `eagle` `eat` `end` `eyes` `fallow` `fatherless` `fins` `food` `forbidden` `forsake` `forth` `gates` `general` `gier` `give` `glede` `goat` `god` `great` `hand` `hare` `hart` `hawk` `heron` `holy` `hoof` `household` `identity` `increase` `itself` `kid` `kite` `land` `lapwing` `lay` `levite` `little` `longfar` `lord` `lusts` `milk` `money` `mothers` `nations` `night` `ospray` `ossifrage` `owl` `peculiar` `pelican` `people` `permission` `place` `practices` `pygarg` `raven` `regulations` `rejoice` `roebuck` `satisfied` `scales` `seethe` `sell` `sheep` `soul` `stork` `stranger` `swan` `swine` `system` `thing` `three` `three-year` `tithe` `tithing` `too` `turn` `unclean` `vulture` `water` `widow` `wild` `within` `work` `years` `yourselves`
+#abominable #above #alien #animals #baldness #bat #between #birds #bless #bring #buy #camel #chamois #chew #children #chooses #chosen #clean #coney #cormorant #creatures #cuckow #cud #cut #dead #deer #die #divide #divides #doesnt #dont #eagle #eat #end #eyes #fallow #fatherless #fins #food #forbidden #forsake #forth #gates #general #gier #give #glede #goat #god #great #hand #hare #hart #hawk #heron #holy #hoof #household #identity #increase #itself #kid #kite #land #lapwing #lay #levite #little #longfar #lord #lusts #milk #money #mothers #nations #night #ospray #ossifrage #owl #peculiar #pelican #people #permission #place #practices #pygarg #raven #regulations #rejoice #roebuck #satisfied #scales #seethe #sell #sheep #soul #stork #stranger #swan #swine #system #thing #three #three-year #tithe #tithing #too #turn #unclean #vulture #water #widow #wild #within #work #years #yourselves
 
 
 ---

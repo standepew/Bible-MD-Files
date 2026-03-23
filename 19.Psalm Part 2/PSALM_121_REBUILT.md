@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 121
+testament: "Old Testament"
+key_themes: "Divine Help, God's Protection, Eternal Preservation, Constant Care"
+tags:
+  - divine-help
+  - god
+  - eternal-preservation
+  - constant-care
+---
 # Psalm 121
 
 ---
@@ -129,7 +140,7 @@ Song, degrees, lift, eyes, hills, cometh, help, LORD, made, heaven, earth, suffe
 
 
 *AI Keywords for current event matching:*
-`care` `cometh` `coming` `constant` `day` `divine` `earth` `eternal` `evil` `eyes` `forevermore` `forth` `gods` `going` `hand` `heaven` `help` `hills` `israel` `keep` `keeper` `lift` `lord` `made` `moon` `night` `preservation` `preserve` `protection` `right` `shade` `sleep` `slumber` `smite` `soul` `sun` `time`
+#care #cometh #coming #constant #day #divine #earth #eternal #evil #eyes #forevermore #forth #gods #going #hand #heaven #help #hills #israel #keep #keeper #lift #lord #made #moon #night #preservation #preserve #protection #right #shade #sleep #slumber #smite #soul #sun #time
 
 
 ---

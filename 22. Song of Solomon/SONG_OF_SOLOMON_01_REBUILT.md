@@ -1,3 +1,14 @@
+---
+book: "Song of Solomon"
+chapter: 1
+testament: "Old Testament"
+key_themes: "Divine Love, Christ and the Church, Spiritual Intimacy, Bride's Devotion"
+tags:
+  - divine-love
+  - christ-and-the-church
+  - spiritual-intimacy
+  - bride
+---
 # Song of Solomon 1
 
 ---
@@ -165,7 +176,7 @@ Song, songs, Solomon, kiss, kisses, mouth, love, better, wine, savour, good, oin
 
 
 *AI Keywords for current event matching:*
-`among` `beams` `beloved` `better` `black` `brides` `brought` `camphire` `cedar` `chambers` `christ` `church` `cluster` `comely` `devotion` `divine` `draw` `fairest` `intimacy` `keeper` `king` `kisses` `love` `loveth` `mouth` `run` `sendeth` `smell` `song` `songs` `soul` `spikenard` `spiritual` `upright` `vineyards` `wine` `women`
+#among #beams #beloved #better #black #brides #brought #camphire #cedar #chambers #christ #church #cluster #comely #devotion #divine #draw #fairest #intimacy #keeper #king #kisses #love #loveth #mouth #run #sendeth #smell #song #songs #soul #spikenard #spiritual #upright #vineyards #wine #women
 
 
 ---

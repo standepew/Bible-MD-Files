@@ -1,3 +1,15 @@
+---
+book: "2 Chronicles"
+chapter: 31
+testament: "Old Testament"
+key_themes: "Idol Destruction, Priestly Organization, Tithing System, Faithful Service"
+tags:
+  - Hezekiah-questioned-priests-Levites-heaps
+  - idol-destruction
+  - priestly-organization
+  - tithing-system
+  - faithful-service
+---
 # 2 Chronicles 31
 
 ---
@@ -143,7 +155,7 @@ Finished, Israel, present, cities, Judah, brake, images, cut, groves, threw, hig
 
 
 *AI Keywords for current event matching:*
-`aaron` `abroad` `abundance` `abundantly` `altars` `amariah` `appointed` `asahel` `azariah` `azaziah` `benaiah` `benjamin` `blessed` `brake` `brethren` `brother` `burnt` `chambers` `charges` `chief` `children` `cities` `city` `commanded` `commandment` `commandments` `congregation` `cononiah` `consecrated` `corn` `courses` `cut` `daily` `daughters` `dedicated` `destroyed` `destruction` `distribute` `dwelt` `east` `eat` `eden` `eliel` `encouraged` `enough` `enter` `ephraim` `evening` `expressed` `faithful` `faithfully` `family` `fathers` `feasts` `field` `fields` `finished` `firstfruits` `foundation` `freewill` `gates` `genealogies` `genealogy` `give` `god` `good` `great` `groves` `hand` `heaps` `heart` `hezekiah` `high` `holiness` `holy` `honey` `house` `idol` `images` `imnah` `increase` `ismachiah` `israel` `jehiel` `jerimoth` `jerusalem` `jeshua` `jozabad` `judah` `king` `kore` `law` `left` `levite` `levites` `little` `lord` `mahath` `males` `manasseh` `men` `miniamin` `minister` `month` `moons` `morning` `nahath` `name` `new` `oblations` `offerings` `office` `oil` `ones` `organization` `overseers` `oxen` `peace` `people` `places` `plenty` `porter` `portion` `portions` `possession` `praise` `prepare` `prepared` `present` `priest` `priestly` `priests` `princes` `prospered` `questioned` `reckoned` `right` `ruler` `sabbaths` `sanctified` `seek` `service` `set` `seventh` `several` `shecaniah` `sheep` `shemaiah` `shimei` `small` `son` `sons` `store` `substance` `suburbs` `system` `tents` `thanks` `things` `third` `three` `threw` `tithe` `tithes` `tithing` `truth` `twenty` `upward` `wine` `wives` `work` `years` `zadok`
+#aaron #abroad #abundance #abundantly #altars #amariah #appointed #asahel #azariah #azaziah #benaiah #benjamin #blessed #brake #brethren #brother #burnt #chambers #charges #chief #children #cities #city #commanded #commandment #commandments #congregation #cononiah #consecrated #corn #courses #cut #daily #daughters #dedicated #destroyed #destruction #distribute #dwelt #east #eat #eden #eliel #encouraged #enough #enter #ephraim #evening #expressed #faithful #faithfully #family #fathers #feasts #field #fields #finished #firstfruits #foundation #freewill #gates #genealogies #genealogy #give #god #good #great #groves #hand #heaps #heart #hezekiah #high #holiness #holy #honey #house #idol #images #imnah #increase #ismachiah #israel #jehiel #jerimoth #jerusalem #jeshua #jozabad #judah #king #kore #law #left #levite #levites #little #lord #mahath #males #manasseh #men #miniamin #minister #month #moons #morning #nahath #name #new #oblations #offerings #office #oil #ones #organization #overseers #oxen #peace #people #places #plenty #porter #portion #portions #possession #praise #prepare #prepared #present #priest #priestly #priests #princes #prospered #questioned #reckoned #right #ruler #sabbaths #sanctified #seek #service #set #seventh #several #shecaniah #sheep #shemaiah #shimei #small #son #sons #store #substance #suburbs #system #tents #thanks #things #third #three #threw #tithe #tithes #tithing #truth #twenty #upward #wine #wives #work #years #zadok
 
 
 ---

@@ -1,3 +1,14 @@
+---
+book: "Isaiah"
+chapter: 4
+testament: "Old Testament"
+key_themes: "Christ's Branch, Spiritual Cleansing, Divine Protection, Millennial Blessings"
+tags:
+  - christ
+  - spiritual-cleansing
+  - divine-protection
+  - millennial-blessings
+---
 # Isaiah 4
 
 ---
@@ -105,7 +116,7 @@ Day, seven, women, hold, man, saying, eat, bread, wear, apparel, called, name, r
 
 
 *AI Keywords for current event matching:*
-`beautiful` `blessings` `blood` `branch` `burning` `christs` `cleansing` `cloud` `day` `defence` `divine` `earth` `excellent` `filth` `fire` `flaming` `fruit` `glorious` `glory` `holy` `judgment` `living` `lord` `millennial` `night` `place` `protection` `purged` `refuge` `shadow` `smoke` `spirit` `spiritual` `tabernacle` `washed` `written`
+#beautiful #blessings #blood #branch #burning #christs #cleansing #cloud #day #defence #divine #earth #excellent #filth #fire #flaming #fruit #glorious #glory #holy #judgment #living #lord #millennial #night #place #protection #purged #refuge #shadow #smoke #spirit #spiritual #tabernacle #washed #written
 
 
 ---

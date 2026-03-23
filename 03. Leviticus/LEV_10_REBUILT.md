@@ -1,3 +1,28 @@
+---
+book: "Leviticus"
+chapter: 10
+testament: "Old Testament"
+key_themes: "Nadab and Abihu — strange fire not commanded, devoured by the LORD's own fire, "I will be sanctified in them that come nigh me, and before all the people I will be glorified", Aaron holds his peace — grief that does not protest God's judgment, The prohibition on wine before priestly service — clear mind required to distinguish holy from unholy, The dispute over the sin offering goat — Moses angry, Aaron's explanation accepted"
+tags:
+  - Nadab
+  - Abihu
+  - strange-fire
+  - fire-of-the-LORD-devours
+  - died-before-the-LORD
+  - I-will-be-sanctified
+  - Aaron-holds-his-peace
+  - carry-bodies-outside-camp
+  - do-not-mourn
+  - do-not-drink-wine
+  - distinguish-holy-unholy
+  - teach-the-statutes
+  - sin-offering-eaten
+  - Moses-angry
+  - Aaron-explains
+  - Moses-content
+  - unauthorized-worship
+  - what-God-did-not-command
+---
 # Leviticus 10
 
 ---
@@ -96,7 +121,7 @@ Immediately after the glory falls and the people shout and prostrate themselves,
 
 
 *AI Keywords for current event matching:*
-`722-23` `command` `current` `deuteronomy` `events` `god` `leviticus` `matching` `matthew` `unauthorized` `worship`
+#722-23 #command #current #deuteronomy #events #god #leviticus #matching #matthew #unauthorized #worship
 
 
 ---

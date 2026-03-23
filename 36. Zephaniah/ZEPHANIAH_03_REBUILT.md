@@ -1,3 +1,14 @@
+---
+book: "Zephaniah"
+chapter: 3
+testament: "Old Testament"
+key_themes: "Christ's Final Judgment, Jerusalem's Corruption, God's Faithfulness, Restoration and Joy"
+tags:
+  - christ
+  - jerusalem
+  - god
+  - restoration-and-joy
+---
 # Zephaniah 3
 
 ---
@@ -141,7 +152,7 @@ Woe, filthy, polluted, oppressing, city, obeyed, voice, received, correction, tr
 
 
 *AI Keywords for current event matching:*
-`anger` `away` `captivity` `christs` `corrupted` `corruption` `daughter` `doings` `faithfulness` `fierce` `filthy` `final` `gods` `jerusalems` `joy` `judgment` `judgments` `knoweth` `language` `law` `lions` `lord` `midst` `mighty` `obeyed` `polluted` `pure` `rejoice` `restoration` `roaring` `sanctuary` `save` `shame` `sing` `taken` `turn` `unjust` `violence` `wait` `zion`
+#anger #away #captivity #christs #corrupted #corruption #daughter #doings #faithfulness #fierce #filthy #final #gods #jerusalems #joy #judgment #judgments #knoweth #language #law #lions #lord #midst #mighty #obeyed #polluted #pure #rejoice #restoration #roaring #sanctuary #save #shame #sing #taken #turn #unjust #violence #wait #zion
 
 
 ---

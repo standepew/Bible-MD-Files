@@ -1,3 +1,18 @@
+---
+book: "Esther"
+chapter: 9
+testament: "Old Testament"
+key_themes: "Jews' Victory, Haman's Sons Slain, Purim Established, Memorial Instituted"
+tags:
+  - Parshandatha-Dalphon-Aspatha
+  - Poratha-Adalia-Aridatha
+  - Parmashta-Arisai-Aridai-Vajezatha
+  - Jews-undertaken-begun-Mordecai-written
+  - jews
+  - haman
+  - purim-established
+  - memorial-instituted
+---
 # Esther 9
 
 ---
@@ -129,7 +144,7 @@ Twelfth, month, month, Adar, thirteenth, day, king, commandment, decree, executi
 
 
 *AI Keywords for current event matching:*
-`abihail` `adalia` `adar` `agagite` `ahasuerus` `appointed` `aridai` `aridatha` `arisai` `aspatha` `assembled` `authority` `begun` `book` `called` `cast` `cities` `city` `come` `commanded` `commandment` `confirm` `confirmed` `consume` `cry` `dalphon` `daughter` `day` `days` `decree` `decreed` `deputies` `destroy` `destroyed` `destruction` `device` `devised` `dwelt` `enemies` `enemy` `enjoined` `established` `esther` `execution` `fail` `fame` `family` `far` `fastings` `fear` `feast` `feasting` `fifteenth` `five` `foes` `fourteenth` `gallows` `gathered` `generation` `gifts` `gladness` `good` `granted` `great` `greater` `haman` `hamans` `hammedatha` `hand` `hands` `hanged` `hated` `head` `helped` `hoped` `house` `hundred` `hurt` `instituted` `jew` `jews` `joined` `joy` `keep` `kept` `king` `kingdom` `lay` `letter` `letters` `lieutenants` `lives` `lot` `matter` `matters` `memorial` `men` `month` `mordecai` `mourning` `name` `nigh` `number` `officers` `ordained` `palace` `parmashta` `parshandatha` `peace` `people` `perish` `petition` `please` `poor` `poratha` `portions` `power` `prey` `province` `provinces` `pur` `purim` `queen` `remembered` `request` `rest` `rested` `return` `rule` `rulers` `second` `seed` `seen` `sending` `sent` `seven` `seventy` `shushan` `slain` `slaughter` `slew` `smote` `son` `sons` `sorrow` `sought` `spoil` `stablish` `stroke` `sword` `ten` `thirteenth` `thousand` `three` `time` `times` `tomorrow` `towns` `truth` `turned` `twelfth` `twenty` `two` `undertaken` `unwalled` `vajezatha` `victory` `villages` `waxed` `wicked` `withstand` `words` `writing` `written` `wrote` `year` `yearly`
+#abihail #adalia #adar #agagite #ahasuerus #appointed #aridai #aridatha #arisai #aspatha #assembled #authority #begun #book #called #cast #cities #city #come #commanded #commandment #confirm #confirmed #consume #cry #dalphon #daughter #day #days #decree #decreed #deputies #destroy #destroyed #destruction #device #devised #dwelt #enemies #enemy #enjoined #established #esther #execution #fail #fame #family #far #fastings #fear #feast #feasting #fifteenth #five #foes #fourteenth #gallows #gathered #generation #gifts #gladness #good #granted #great #greater #haman #hamans #hammedatha #hand #hands #hanged #hated #head #helped #hoped #house #hundred #hurt #instituted #jew #jews #joined #joy #keep #kept #king #kingdom #lay #letter #letters #lieutenants #lives #lot #matter #matters #memorial #men #month #mordecai #mourning #name #nigh #number #officers #ordained #palace #parmashta #parshandatha #peace #people #perish #petition #please #poor #poratha #portions #power #prey #province #provinces #pur #purim #queen #remembered #request #rest #rested #return #rule #rulers #second #seed #seen #sending #sent #seven #seventy #shushan #slain #slaughter #slew #smote #son #sons #sorrow #sought #spoil #stablish #stroke #sword #ten #thirteenth #thousand #three #time #times #tomorrow #towns #truth #turned #twelfth #twenty #two #undertaken #unwalled #vajezatha #victory #villages #waxed #wicked #withstand #words #writing #written #wrote #year #yearly
 
 
 ---

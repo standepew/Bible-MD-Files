@@ -1,3 +1,57 @@
+---
+book: "Genesis"
+chapter: 41
+testament: "Old Testament"
+key_themes: "Two Full Years — The Precision of Divine Timing, Pharaoh Dreams Twice — One Dream With One Meaning, All Egypt's Wise Men Fail — The Court System Cannot Interpret God's Word, The Butler Remembers Joseph — Human Memory Triggered by Divine Necessity, "It Is Not in Me: God Shall Give Pharaoh an Answer of Peace", Seven Fat Years and Seven Lean Years — The Double Dream as Divine Confirmation, Joseph's Counsel — Store in the Seven Years of Abundance for the Seven Years of Famine, Pharaoh Recognizes the Spirit of God in Joseph, Joseph Elevated to Second Throne — Signet Ring, Fine Linen, Gold Chain, Asenath and Manasseh and Ephraim — The Two Sons Born in Affliction and Fruitfulness, The Famine Covers All the Earth — Joseph as the Savior of the Nations"
+tags:
+  - Pharaoh-dreamed-twice
+  - seven-fat-cows-seven-lean
+  - seven-full-ears-seven-thin
+  - one-dream-two-tellings
+  - Pharaoh-troubled-spirit
+  - magicians-failed-none-could-interpret
+  - butler-remembered-fault
+  - Joseph-brought-out-of-dungeon
+  - shaved-changed-raiment
+  - Daniel-2-27-28
+  - seven-years-great-plenty
+  - seven-years-famine
+  - Deuteronomy-17-6-two-witnesses
+  - wise-discreet-man-over-Egypt
+  - Joseph-thirty-years-old
+  - second-chariot-bow-the-knee
+  - Zaphnath-Paaneah
+  - Asenath-daughter-of-Poti-pherah
+  - seven-years-plenty-gather-food
+  - seven-years-famine-began
+  - famine-over-all-the-earth
+  - all-lands-came-to-Joseph
+  - Joseph-type-of-Christ-exaltation
+  - Philippians-2-9-11
+  - Acts-2-33
+  - Psalm-105-20-22
+  - Romans-8-28
+  - Isaiah-55-10-11
+  - garment-restored-fine-linen
+  - David-2-Samuel-5-4
+  - Ezekiel-1-1
+  - double-dream-established-by-God
+  - Ecclesiastes-5-6
+  - dream-twice-certain-and-hastening
+  - two-full-years
+  - pharaoh-dreams-twice
+  - all-egypt
+  - the-butler-remembers-joseph
+  - it-is-not-in-me-god
+  - seven-fat-years-and-seven-lean
+  - joseph
+  - pharaoh-recognizes-the-spirit-of-god
+  - joseph-elevated-to-second-throne
+  - fine-linen
+  - gold-chain
+  - asenath-and-manasseh-and-ephraim
+  - the-famine-covers-all-the-earth
+---
 # Genesis 41
 
 ---
@@ -71,7 +125,7 @@ Then the seven years of famine began, exactly as Joseph had said. The famine was
 
 ## KEYWORD INDEX
 
-`two full years Genesis 41:1` `Psalm 105:18-19 word of LORD tried him` `Pharaoh dreamed twice` `seven fat cows seven lean cows Nile` `seven full ears seven thin` `one meaning two dreams` `Pharaoh troubled spirit` `magicians failed none could interpret` `butler remembered his faults` `brought Joseph out of dungeon` `shaved changed raiment` `it is not in me God shall give answer of peace` `Genesis 40:8 interpretations belong to God` `Daniel 2:27-28 God in heaven reveals` `seven years great plenty` `seven years famine` `dream doubled established by God shortly bring to pass` `Deuteronomy 17:6 two witnesses` `wise and discreet man over Egypt` `can we find such a one Spirit of God` `Numbers 27:18 Joshua man in whom is spirit` `Isaiah 11:2 Spirit of LORD rest upon him` `John 3:34 Spirit without measure` `Acts 6:3 full of Holy Ghost and wisdom` `Pharaoh over my house only throne greater` `signet ring fine linen gold chain second chariot` `bow the knee Zaphnath-Paaneah` `Asenath Poti-pherah priest of On` `Joseph thirty years old` `Luke 3:23 Jesus began to be about thirty` `David began to reign thirty years 2 Samuel 5:4` `gathered grain as sand of sea` `Manasseh God made me forget toil` `Ephraim God fruitful in affliction` `seven years famine all lands` `all countries came to Joseph` `Genesis 12:3 in thee all families blessed` `Psalm 105:20-22 king loosed him` `Philippians 2:9-11 God highly exalted` `Acts 2:33 right hand of God exalted` `Matthew 28:18 all power in heaven and earth` `garment thread fine linen Genesis 41:42` `coat stripped garment seized fine linen given` `Joseph type of Christ exaltation` `bow the knee type Philippians 2:10` `dream doubled principle Ecclesiastes 5:6` `Isaiah 55:10-11 word accomplishes purpose` `Romans 8:28 all things work together for good` `God sends man before them Psalm 105:17`
+#two-full-years-Genesis-411 #Psalm-10518-19-word-of-LORD-tried-him #Pharaoh-dreamed-twice #seven-fat-cows-seven-lean-cows-Nile #seven-full-ears-seven-thin #one-meaning-two-dreams #Pharaoh-troubled-spirit #magicians-failed-none-could-interpret #butler-remembered-his-faults #brought-Joseph-out-of-dungeon #shaved-changed-raiment #it-is-not-in-me-God-shall-give-answer-of-peace #Genesis-408-interpretations-belong-to-God #Daniel-227-28-God-in-heaven-reveals #seven-years-great-plenty #seven-years-famine #dream-doubled-established-by-God-shortly-bring-to-pass #Deuteronomy-176-two-witnesses #wise-and-discreet-man-over-Egypt #can-we-find-such-a-one-Spirit-of-God #Numbers-2718-Joshua-man-in-whom-is-spirit #Isaiah-112-Spirit-of-LORD-rest-upon-him #John-334-Spirit-without-measure #Acts-63-full-of-Holy-Ghost-and-wisdom #Pharaoh-over-my-house-only-throne-greater #signet-ring-fine-linen-gold-chain-second-chariot #bow-the-knee-Zaphnath-Paaneah #Asenath-Poti-pherah-priest-of-On #Joseph-thirty-years-old #Luke-323-Jesus-began-to-be-about-thirty #David-began-to-reign-thirty-years-2-Samuel-54 #gathered-grain-as-sand-of-sea #Manasseh-God-made-me-forget-toil #Ephraim-God-fruitful-in-affliction #seven-years-famine-all-lands #all-countries-came-to-Joseph #Genesis-123-in-thee-all-families-blessed #Psalm-10520-22-king-loosed-him #Philippians-29-11-God-highly-exalted #Acts-233-right-hand-of-God-exalted #Matthew-2818-all-power-in-heaven-and-earth #garment-thread-fine-linen-Genesis-4142 #coat-stripped-garment-seized-fine-linen-given #Joseph-type-of-Christ-exaltation #bow-the-knee-type-Philippians-210 #dream-doubled-principle-Ecclesiastes-56 #Isaiah-5510-11-word-accomplishes-purpose #Romans-828-all-things-work-together-for-good #God-sends-man-before-them-Psalm-10517
 
 **Current Events Relevance:**
 - Leadership qualification — "Can we find such a one in whom the Spirit of God is?" as the biblical criterion for appointing leaders; wisdom and discernment as Spirit-produced qualities; applicable in church leadership, organizational ethics, and teaching on the nature of Spirit-produced leadership

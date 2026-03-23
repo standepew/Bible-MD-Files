@@ -1,3 +1,16 @@
+---
+book: "1 John"
+chapter: 5
+testament: "New Testament"
+key_themes: "Faith in Christ as Son of God, Victory Over the World, The Threefold Witness, Eternal Life in the Son, Confidence in Prayer, Final Warning Against Idols"
+tags:
+  - faith-in-christ-as-son-of
+  - victory-over-the-world
+  - the-threefold-witness
+  - eternal-life-in-the-son
+  - confidence-in-prayer
+  - final-warning-against-idols
+---
 # 1 John 5
 
 ---
@@ -109,7 +122,7 @@ Whosoever, believeth, Jesus, Christ, born, God, loveth, begat, loveth, begotten,
 
 
 *AI Keywords for current event matching:*
-`against` `agree` `ask` `bear` `beareth` `begat` `begotten` `believe` `believeth` `blood` `born` `brother` `children` `christ` `come` `commandments` `confidence` `death` `desired` `earth` `eternal` `faith` `father` `final` `ghost` `give` `given` `god` `greater` `grievous` `hath` `hear` `heareth` `heaven` `holy` `idols` `jesus` `keep` `keepeth` `know` `liar` `life` `love` `loveth` `men` `name` `overcometh` `petitions` `pray` `prayer` `receive` `record` `sin` `sinneth` `son` `spirit` `testified` `three` `threefold` `toucheth` `true` `truth` `understanding` `unrighteousness` `victory` `warning` `water` `whosoever` `wicked` `wickedness` `witness` `word` `world` `written`
+#against #agree #ask #bear #beareth #begat #begotten #believe #believeth #blood #born #brother #children #christ #come #commandments #confidence #death #desired #earth #eternal #faith #father #final #ghost #give #given #god #greater #grievous #hath #hear #heareth #heaven #holy #idols #jesus #keep #keepeth #know #liar #life #love #loveth #men #name #overcometh #petitions #pray #prayer #receive #record #sin #sinneth #son #spirit #testified #three #threefold #toucheth #true #truth #understanding #unrighteousness #victory #warning #water #whosoever #wicked #wickedness #witness #word #world #written
 
 
 ---

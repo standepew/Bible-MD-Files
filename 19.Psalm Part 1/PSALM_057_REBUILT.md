@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 57
+testament: "Old Testament"
+key_themes: "Divine Mercy, Trust in God's Wings, Exaltation of God, Fixed Heart"
+tags:
+  - divine-mercy
+  - trust-in-god
+  - exaltation-of-god
+  - fixed-heart
+---
 # Psalm 57
 
 ---
@@ -117,7 +128,7 @@ Chief, Musician, Al, taschith, Michtam, David, fled, Saul, cave, merciful, GOD, 
 
 
 *AI Keywords for current event matching:*
-`awake` `calamities` `cave` `chief` `clouds` `cry` `david` `divine` `early` `earth` `exaltation` `exalted` `fixed` `fled` `give` `glory` `god` `gods` `great` `harp` `heart` `heaven` `heavens` `high` `lord` `merciful` `mercy` `michtam` `musician` `nations` `overpast` `people` `performeth` `praise` `psaltery` `refuge` `reproach` `saul` `save` `send` `shadow` `sing` `soul` `swallow` `taschith` `trust` `trusteth` `truth` `wings`
+#awake #calamities #cave #chief #clouds #cry #david #divine #early #earth #exaltation #exalted #fixed #fled #give #glory #god #gods #great #harp #heart #heaven #heavens #high #lord #merciful #mercy #michtam #musician #nations #overpast #people #performeth #praise #psaltery #refuge #reproach #saul #save #send #shadow #sing #soul #swallow #taschith #trust #trusteth #truth #wings
 
 
 ---

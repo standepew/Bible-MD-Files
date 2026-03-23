@@ -1,3 +1,15 @@
+---
+book: "2 Peter"
+chapter: 3
+testament: "New Testament"
+key_themes: "The Last Days and Scoffers, Creation and the Flood, The Day of the Lord, New Heavens and New Earth, Final Exhortation"
+tags:
+  - the-last-days-and-scoffers
+  - creation-and-the-flood
+  - the-day-of-the-lord
+  - new-heavens-and-new-earth
+  - final-exhortation
+---
 # 2 Peter 3
 
 ---
@@ -107,7 +119,7 @@ Second, epistle, beloved, write, stir, pure, minds, remembrance, mindful, words,
 
 
 *AI Keywords for current event matching:*
-`account` `apostles` `asleep` `away` `beginning` `beloved` `beware` `blameless` `brother` `burned` `christ` `coming` `commandment` `conversation` `creation` `day` `days` `destruction` `diligent` `dissolved` `dwelleth` `earth` `elements` `epistle` `epistles` `error` `exhortation` `fall` `fathers` `fell` `fervent` `final` `fire` `flood` `found` `glory` `god` `godliness` `grace` `great` `grow` `hard` `hasting` `heat` `heavens` `holy` `ignorant` `jesus` `judgment` `kept` `know` `knowing` `knowledge` `last` `led` `longsuffering` `look` `looking` `lord` `lusts` `melt` `men` `mindful` `minds` `new` `night` `noise` `overflowed` `pass` `paul` `peace` `perdition` `perish` `perished` `promise` `prophets` `pure` `remembrance` `repentance` `reserved` `righteousness` `salvation` `saviour` `saying` `scoffers` `scriptures` `second` `slack` `slackness` `speaking` `spoken` `spot` `standing` `stedfastness` `stir` `store` `thief` `things` `thousand` `understood` `ungodly` `unlearned` `unstable` `walking` `water` `wicked` `willing` `willingly` `wisdom` `word` `words` `world` `wrest` `write` `years`
+#account #apostles #asleep #away #beginning #beloved #beware #blameless #brother #burned #christ #coming #commandment #conversation #creation #day #days #destruction #diligent #dissolved #dwelleth #earth #elements #epistle #epistles #error #exhortation #fall #fathers #fell #fervent #final #fire #flood #found #glory #god #godliness #grace #great #grow #hard #hasting #heat #heavens #holy #ignorant #jesus #judgment #kept #know #knowing #knowledge #last #led #longsuffering #look #looking #lord #lusts #melt #men #mindful #minds #new #night #noise #overflowed #pass #paul #peace #perdition #perish #perished #promise #prophets #pure #remembrance #repentance #reserved #righteousness #salvation #saviour #saying #scoffers #scriptures #second #slack #slackness #speaking #spoken #spot #standing #stedfastness #stir #store #thief #things #thousand #understood #ungodly #unlearned #unstable #walking #water #wicked #willing #willingly #wisdom #word #words #world #wrest #write #years
 
 
 ---

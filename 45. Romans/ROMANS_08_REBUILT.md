@@ -1,3 +1,14 @@
+---
+book: "Romans"
+chapter: 8
+testament: "New Testament"
+key_themes: "No Condemnation, Life in the Spirit, Children of God, More Than Conquerors"
+tags:
+  - no-condemnation
+  - life-in-the-spirit
+  - children-of-god
+  - more-than-conquerors
+---
 # Romans 8
 
 ---
@@ -177,7 +188,7 @@ Condemnation, Christ, Jesus, walk, flesh, Spirit, law, Spirit, life, Christ, Jes
 
 
 *AI Keywords for current event matching:*
-`abba` `accounted` `adoption` `angels` `bodies` `body` `bondage` `brethren` `called` `carnal` `carnally` `charge` `children` `christ` `condemnation` `condemned` `condemneth` `conformed` `conquerors` `corruption` `creation` `creature` `cry` `day` `dead` `death` `debtors` `deeds` `delivered` `depth` `die` `died` `distress` `dwell` `earnest` `elect` `enmity` `expectation` `famine` `father` `fear` `firstborn` `firstfruits` `flesh` `foreknow` `free` `freely` `fulfilled` `give` `glorified` `glorious` `glory` `god` `good` `groan` `groaneth` `groanings` `hand` `hearts` `height` `heirs` `helpeth` `hope` `image` `infirmities` `intercession` `jesus` `joint` `justified` `justifieth` `killed` `know` `law` `led` `liberty` `life` `likeness` `live` `lord` `love` `loved` `man` `manifestation` `mind` `minded` `mortal` `mortify` `nakedness` `ought` `pain` `patience` `peace` `peril` `persecution` `persuaded` `please` `powers` `pray` `predestinate` `present` `principalities` `purpose` `quicken` `raised` `reason` `received` `reckon` `redemption` `revealed` `right` `righteousness` `risen` `saints` `saved` `searcheth` `seen` `seeth` `sending` `separate` `sheep` `sin` `sinful` `slaughter` `son` `sons` `spared` `spirit` `spiritually` `subject` `subjected` `suffer` `sufferings` `sword` `things` `time` `travaileth` `tribulation` `uttered` `vanity` `wait` `waiting` `walk` `weak` `whole` `willingly` `witness` `work` `worthy` `written`
+#abba #accounted #adoption #angels #bodies #body #bondage #brethren #called #carnal #carnally #charge #children #christ #condemnation #condemned #condemneth #conformed #conquerors #corruption #creation #creature #cry #day #dead #death #debtors #deeds #delivered #depth #die #died #distress #dwell #earnest #elect #enmity #expectation #famine #father #fear #firstborn #firstfruits #flesh #foreknow #free #freely #fulfilled #give #glorified #glorious #glory #god #good #groan #groaneth #groanings #hand #hearts #height #heirs #helpeth #hope #image #infirmities #intercession #jesus #joint #justified #justifieth #killed #know #law #led #liberty #life #likeness #live #lord #love #loved #man #manifestation #mind #minded #mortal #mortify #nakedness #ought #pain #patience #peace #peril #persecution #persuaded #please #powers #pray #predestinate #present #principalities #purpose #quicken #raised #reason #received #reckon #redemption #revealed #right #righteousness #risen #saints #saved #searcheth #seen #seeth #sending #separate #sheep #sin #sinful #slaughter #son #sons #spared #spirit #spiritually #subject #subjected #suffer #sufferings #sword #things #time #travaileth #tribulation #uttered #vanity #wait #waiting #walk #weak #whole #willingly #witness #work #worthy #written
 
 
 ---

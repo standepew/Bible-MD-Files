@@ -1,3 +1,14 @@
+---
+book: "James"
+chapter: 2
+testament: "New Testament"
+key_themes: "No Respect of Persons, The Royal Law of Love, Faith and Works, Examples of Living Faith"
+tags:
+  - no-respect-of-persons
+  - the-royal-law-of-love
+  - faith-and-works
+  - examples-of-living-faith
+---
 # James 2
 
 ---
@@ -117,7 +128,7 @@ Brethren, faith, Lord, Jesus, Christ, Lord, glory, respect, persons, assembly, m
 
 
 *AI Keywords for current event matching:*
-`abraham` `adultery` `alone` `altar` `apparel` `assembly` `believe` `believed` `believest` `beloved` `blaspheme` `body` `brethren` `brother` `called` `chosen` `christ` `clothing` `commit` `convinced` `daily` `dead` `depart` `despised` `destitute` `devils` `evil` `examples` `faith` `father` `filled` `food` `footstool` `friend` `fulfil` `fulfilled` `gay` `glory` `god` `gold` `good` `goodly` `guilty` `harlot` `heirs` `imputed` `isaac` `jesus` `judged` `judges` `judgment` `justified` `keep` `kill` `kingdom` `law` `liberty` `living` `lord` `love` `man` `men` `mercy` `messengers` `naked` `name` `needful` `neighbour` `offend` `offered` `one` `oppress` `partial` `peace` `perfect` `persons` `place` `point` `poor` `profit` `promised` `rahab` `raiment` `received` `rejoiceth` `respect` `rich` `righteousness` `ring` `royal` `save` `scripture` `seats` `seest` `sent` `shew` `shewed` `sin` `sister` `sit` `son` `speak` `spirit` `stand` `thoughts` `transgressor` `transgressors` `tremble` `vain` `vile` `warmed` `well` `whole` `works` `world` `worthy` `wrought`
+#abraham #adultery #alone #altar #apparel #assembly #believe #believed #believest #beloved #blaspheme #body #brethren #brother #called #chosen #christ #clothing #commit #convinced #daily #dead #depart #despised #destitute #devils #evil #examples #faith #father #filled #food #footstool #friend #fulfil #fulfilled #gay #glory #god #gold #good #goodly #guilty #harlot #heirs #imputed #isaac #jesus #judged #judges #judgment #justified #keep #kill #kingdom #law #liberty #living #lord #love #man #men #mercy #messengers #naked #name #needful #neighbour #offend #offered #one #oppress #partial #peace #perfect #persons #place #point #poor #profit #promised #rahab #raiment #received #rejoiceth #respect #rich #righteousness #ring #royal #save #scripture #seats #seest #sent #shew #shewed #sin #sister #sit #son #speak #spirit #stand #thoughts #transgressor #transgressors #tremble #vain #vile #warmed #well #whole #works #world #worthy #wrought
 
 
 ---

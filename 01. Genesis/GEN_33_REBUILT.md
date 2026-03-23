@@ -1,3 +1,55 @@
+---
+book: "Genesis"
+chapter: 33
+testament: "Old Testament"
+key_themes: "Jacob Lifts His Eyes and Sees Esau Coming with Four Hundred Men — The Feared Confrontation Arrives, Jacob's Strategic Arrangement of His Household — Handmaids First, Rachel and Joseph Last, Jacob Passes Over Before Them All — Walking with a Limp into the Most Dangerous Moment of His Life, Sevenfold Bowing — Complete Submission Replacing the Cunning that Had Stolen the Birthright, Esau Ran to Meet Him — The Unexpected Mercy, Esau Fell on His Neck and Wept — The Reunion, Jacob Presents His Children — "The Children Which God Hath Graciously Given Thy Servant", Esau's Magnanimity — "I Have Enough, My Brother", Jacob's Insistence — "I Have Seen Thy Face as Though I Had Seen the Face of God", Jacob Calls the Gift "My Blessing" — The Quiet Echo of the Stolen Berakah, Jacob Declines Esau's Escort — "I Will Lead on Softly", Jacob's Ambiguous Promise to Come to Seir — The Parting with Unanswered Questions, Jacob Journeys to Succoth — Builds a House and Booths, Jacob Arrives at Shechem — Buys the Parcel of Field from Hamor's Sons, The Altar El-elohe-Israel — "God, the God of Israel" — Jacob's First Public Worship in the Covenant Land"
+tags:
+  - household-arrangement-order-of-love
+  - handmaids-first-Rachel-last
+  - Jacob-passes-over-before-them
+  - Jacob-limping
+  - sevenfold-bowing-complete-submission
+  - Peniel-produced-humility
+  - Esau-ran-to-meet-him
+  - Luke-15-20-prodigal-father
+  - unexpected-mercy
+  - Proverbs-16-7
+  - Proverbs-21-1
+  - God-turned-Esau-heart
+  - children-God-hath-graciously-given
+  - I-have-enough-my-brother
+  - Jacob-calls-gift-blessing-berakah
+  - Genesis-27-stolen-berakah-echo
+  - Jacob-declines-escort-lead-softly
+  - Esau-returns-Seir
+  - Succoth-booths
+  - Jacob-arrives-Shechem-Shalem
+  - buys-parcel-from-Hamor
+  - hundred-pieces-of-money
+  - altar-El-elohe-Israel
+  - God-the-God-of-Israel
+  - Genesis-28-21-vow-fulfilled
+  - Jacob-now-Israel-public-declaration
+  - covenant-return-altar-pattern
+  - Seir-Edom
+  - Obadiah
+  - Romans-9-13
+  - jacob-lifts-his-eyes-and-sees
+  - jacob
+  - rachel-and-joseph-last
+  - jacob-passes-over-before-them-all
+  - sevenfold-bowing
+  - esau-ran-to-meet-him
+  - esau-fell-on-his-neck-and
+  - jacob-presents-his-children
+  - esau
+  - my-brother
+  - jacob-calls-the-gift
+  - jacob-declines-esau
+  - jacob-journeys-to-succoth
+  - jacob-arrives-at-shechem
+  - the-altar-eleloheisrael
+---
 # Genesis 33
 
 ---
@@ -134,7 +186,7 @@ Jacob declined Esau's offer of escort with the most theologically transparent re
 
 For AI matching to topics and current events:
 
-`Jacob sees Esau four hundred men` `household arrangement order of love handmaids first Rachel last` `Jacob passes over before them limping` `sevenfold bowing complete submission` `Peniel produced humility` `Esau ran to meet Jacob` `embraced fell on neck kissed wept` `Luke 15:20 prodigal father` `Proverbs 16:7 enemies at peace` `Proverbs 21:1 kings heart in hand of LORD` `Psalm 76:10 wrath of man shall praise thee` `God turned Esau heart` `children God hath graciously given` `I have enough Esau yesh li rav` `I have all Jacob yesh li kol` `Philippians 4:11-13 contentment` `2 Corinthians 9:8 sufficiency` `Psalm 23:1 I shall not want` `I have seen thy face as face of God` `Genesis 32:30 Peniel face to face` `Numbers 6:24-26 Aaronic blessing face shine` `Psalm 27:8-9 seek thy face` `Matthew 17:2 face did shine as sun` `1 John 4:12 God dwelleth in us love one another` `Jacob calls gift my blessing birkhati` `Genesis 27:35-36 stolen berakah` `Luke 19:8 Zacchaeus restitution` `lead on softly cattle and children` `Esau returns to Seir` `Succoth booths` `Leviticus 23:42-43 Feast of Tabernacles` `Jacob arrives Shechem Shalem` `buys field from Hamor hundred pieces` `Genesis 12:6-7 first land promise Shechem Abraham` `Genesis 48:22 Jacob gives Shechem to Joseph` `Joshua 24:32 Josephs bones buried Shechem` `John 4:5-6 well of Jacob` `living water John 4:14` `one piece of ground four covenant moments` `altar El-elohe-Israel` `God the God of Israel` `Genesis 28:21 vow fulfilled` `conditional then now declarative` `covenant altar upon return` `Exodus 17:15 Jehovah-nissi` `Seir Edom` `Obadiah` `Romans 9:13 Jacob loved Esau hated` `Micah 6:8 walk humbly` `Matthew 5:5 blessed are the meek` `reconciliation of enemies` `unexpected mercy` `prodigal son connection` `God turning hearts of enemies`
+#Jacob-sees-Esau-four-hundred-men #household-arrangement-order-of-love-handmaids-first-Rachel-last #Jacob-passes-over-before-them-limping #sevenfold-bowing-complete-submission #Peniel-produced-humility #Esau-ran-to-meet-Jacob #embraced-fell-on-neck-kissed-wept #Luke-1520-prodigal-father #Proverbs-167-enemies-at-peace #Proverbs-211-kings-heart-in-hand-of-LORD #Psalm-7610-wrath-of-man-shall-praise-thee #God-turned-Esau-heart #children-God-hath-graciously-given #I-have-enough-Esau-yesh-li-rav #I-have-all-Jacob-yesh-li-kol #Philippians-411-13-contentment #2-Corinthians-98-sufficiency #Psalm-231-I-shall-not-want #I-have-seen-thy-face-as-face-of-God #Genesis-3230-Peniel-face-to-face #Numbers-624-26-Aaronic-blessing-face-shine #Psalm-278-9-seek-thy-face #Matthew-172-face-did-shine-as-sun #1-John-412-God-dwelleth-in-us-love-one-another #Jacob-calls-gift-my-blessing-birkhati #Genesis-2735-36-stolen-berakah #Luke-198-Zacchaeus-restitution #lead-on-softly-cattle-and-children #Esau-returns-to-Seir #Succoth-booths #Leviticus-2342-43-Feast-of-Tabernacles #Jacob-arrives-Shechem-Shalem #buys-field-from-Hamor-hundred-pieces #Genesis-126-7-first-land-promise-Shechem-Abraham #Genesis-4822-Jacob-gives-Shechem-to-Joseph #Joshua-2432-Josephs-bones-buried-Shechem #John-45-6-well-of-Jacob #living-water-John-414 #one-piece-of-ground-four-covenant-moments #altar-El-elohe-Israel #God-the-God-of-Israel #Genesis-2821-vow-fulfilled #conditional-then-now-declarative #covenant-altar-upon-return #Exodus-1715-Jehovah-nissi #Seir-Edom #Obadiah #Romans-913-Jacob-loved-Esau-hated #Micah-68-walk-humbly #Matthew-55-blessed-are-the-meek #reconciliation-of-enemies #unexpected-mercy #prodigal-son-connection #God-turning-hearts-of-enemies
 
 **Relevance to Current Events:**
 - Reconciliation between estranged parties — Esau's unexpected mercy as the model of what God can do with twenty years of grievance; applicable in pastoral counseling for family estrangement, racial reconciliation, and the theology of forgiveness; the same God who turned Esau's heart turns hearts today

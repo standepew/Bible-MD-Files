@@ -1,3 +1,14 @@
+---
+book: "Proverbs"
+chapter: 27
+testament: "Old Testament"
+key_themes: "Humility and Pride, Friendship and Counsel, Self-Control and Provision, Divine Knowledge"
+tags:
+  - humility-and-pride
+  - friendship-and-counsel
+  - selfcontrol-and-provision
+  - divine-knowledge
+---
 # Proverbs 27
 
 ---
@@ -129,7 +140,7 @@ Boast, tomorrow, know, day, bring, another, man, praise, mouth, stranger, lips, 
 
 
 *AI Keywords for current event matching:*
-`another` `answer` `boast` `bring` `counsel` `day` `destruction` `diligent` `divine` `face` `faithful` `fig` `flocks` `fool` `friend` `friendship` `full` `hearty` `heavier` `hell` `herds` `humility` `iron` `keepeth` `know` `knowledge` `look` `man` `never` `praise` `pride` `provision` `self-control` `sharpeneth` `tomorrow` `tree` `water` `well` `wounds` `wrath`
+#another #answer #boast #bring #counsel #day #destruction #diligent #divine #face #faithful #fig #flocks #fool #friend #friendship #full #hearty #heavier #hell #herds #humility #iron #keepeth #know #knowledge #look #man #never #praise #pride #provision #self-control #sharpeneth #tomorrow #tree #water #well #wounds #wrath
 
 
 ---

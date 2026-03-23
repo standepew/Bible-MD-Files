@@ -1,3 +1,14 @@
+---
+book: "Song of Solomon"
+chapter: 6
+testament: "Old Testament"
+key_themes: "Christ's Presence, Church's Beauty, Spiritual Unity, Divine Exaltation"
+tags:
+  - christ
+  - church
+  - spiritual-unity
+  - divine-exaltation
+---
 # Song of Solomon 6
 
 ---
@@ -141,7 +152,7 @@ Whither, beloved, gone, fairest, women, whither, beloved, turned, aside, seek, b
 
 
 *AI Keywords for current event matching:*
-`armies` `army` `banners` `beautiful` `beauty` `beloved` `christs` `churchs` `clear` `comely` `company` `divine` `dove` `exaltation` `fair` `feed` `garden` `gone` `jerusalem` `lilies` `love` `mine` `moon` `mother` `one` `presence` `return` `shulamite` `spiritual` `sun` `terrible` `undefiled` `unity`
+#armies #army #banners #beautiful #beauty #beloved #christs #churchs #clear #comely #company #divine #dove #exaltation #fair #feed #garden #gone #jerusalem #lilies #love #mine #moon #mother #one #presence #return #shulamite #spiritual #sun #terrible #undefiled #unity
 
 
 ---

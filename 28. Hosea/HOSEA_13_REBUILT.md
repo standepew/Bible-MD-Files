@@ -1,3 +1,14 @@
+---
+book: "Hosea"
+chapter: 13
+testament: "Old Testament"
+key_themes: "Christ's Sovereignty, Divine Judgment, Death's Plagues, Final Destruction"
+tags:
+  - christ
+  - divine-judgment
+  - death
+  - final-destruction
+---
 # Hosea 13
 
 ---
@@ -105,7 +116,7 @@ Ephraim, spake, trembling, exalted, Israel, offended, Baal, died, sin, molten, i
 
 
 *AI Keywords for current event matching:*
-`bear` `chaff` `chimney` `christs` `cloud` `death` `deaths` `desolate` `destruction` `divine` `dried` `drought` `dry` `east` `final` `fountain` `god` `grave` `judgment` `know` `lord` `morning` `plagues` `ransom` `redeem` `samaria` `saviour` `smoke` `sovereignty` `spring` `whelps` `whirlwind` `wilderness` `wind`
+#bear #chaff #chimney #christs #cloud #death #deaths #desolate #destruction #divine #dried #drought #dry #east #final #fountain #god #grave #judgment #know #lord #morning #plagues #ransom #redeem #samaria #saviour #smoke #sovereignty #spring #whelps #whirlwind #wilderness #wind
 
 
 ---

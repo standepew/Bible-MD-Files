@@ -1,3 +1,14 @@
+---
+book: "Esther"
+chapter: 2
+testament: "Old Testament"
+key_themes: "Esther's Selection, Mordecai's Wisdom, Royal Favor, Conspiracy Foiled"
+tags:
+  - esther
+  - mordecai
+  - royal-favor
+  - conspiracy-foiled
+---
 # Esther 2
 
 ---
@@ -177,7 +188,7 @@ Wrath, king, Ahasuerus, appeased, remembered, Vashti, done, decree. King, servan
 
 
 *AI Keywords for current event matching:*
-`abihail` `accomplished` `ahasuerus` `appeased` `appoint` `appointed` `babylon` `beautiful` `become` `benjamite` `best` `bigthan` `book` `brought` `called` `captivity` `carried` `certified` `chamberlain` `chamberlains` `charged` `chronicles` `commandment` `concubines` `conspiracy` `court` `crown` `custody` `daughter` `day` `days` `dead` `decree` `delighted` `desired` `done` `door` `esther` `esthers` `evening` `fair` `father` `favor` `favour` `feast` `foiled` `found` `gate` `gather` `gathered` `gave` `gifts` `given` `grace` `great` `hadassah` `hand` `hanged` `head` `heard` `hegai` `hege` `house` `inquisition` `jair` `jeconiah` `jerusalem` `jew` `judah` `keeper` `kept` `kindness` `kindred` `king` `kingdom` `kish` `know` `known` `lay` `looked` `loved` `made` `maid` `maiden` `maidens` `maids` `manner` `matter` `meet` `ministered` `month` `months` `mordecai` `mordecais` `morrow` `mother` `myrrh` `name` `nebuchadnezzar` `obtained` `odours` `officers` `oil` `palace` `people` `place` `pleased` `pleaseth` `preferred` `princes` `provinces` `purification` `purifications` `purifying` `queen` `reign` `release` `remembered` `required` `royal` `sat` `second` `selection` `servants` `set` `seventh` `shaashgaz` `shew` `shewed` `shimei` `shushan` `sight` `six` `son` `sought` `speedily` `state` `sweet` `tebeth` `tenth` `teresh` `thing` `things` `time` `told` `tree` `turn` `twelve` `two` `uncle` `vashti` `virgins` `walked` `wisdom` `women` `wrath` `written` `wroth` `year` `young`
+#abihail #accomplished #ahasuerus #appeased #appoint #appointed #babylon #beautiful #become #benjamite #best #bigthan #book #brought #called #captivity #carried #certified #chamberlain #chamberlains #charged #chronicles #commandment #concubines #conspiracy #court #crown #custody #daughter #day #days #dead #decree #delighted #desired #done #door #esther #esthers #evening #fair #father #favor #favour #feast #foiled #found #gate #gather #gathered #gave #gifts #given #grace #great #hadassah #hand #hanged #head #heard #hegai #hege #house #inquisition #jair #jeconiah #jerusalem #jew #judah #keeper #kept #kindness #kindred #king #kingdom #kish #know #known #lay #looked #loved #made #maid #maiden #maidens #maids #manner #matter #meet #ministered #month #months #mordecai #mordecais #morrow #mother #myrrh #name #nebuchadnezzar #obtained #odours #officers #oil #palace #people #place #pleased #pleaseth #preferred #princes #provinces #purification #purifications #purifying #queen #reign #release #remembered #required #royal #sat #second #selection #servants #set #seventh #shaashgaz #shew #shewed #shimei #shushan #sight #six #son #sought #speedily #state #sweet #tebeth #tenth #teresh #thing #things #time #told #tree #turn #twelve #two #uncle #vashti #virgins #walked #wisdom #women #wrath #written #wroth #year #young
 
 
 ---

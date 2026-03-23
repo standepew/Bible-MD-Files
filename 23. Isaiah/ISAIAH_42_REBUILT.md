@@ -1,3 +1,13 @@
+---
+book: "Isaiah"
+chapter: 42
+testament: "Old Testament"
+key_themes: "Christ's Servant, Divine Justice, Spiritual Light, Christ's Covenant"
+tags:
+  - christ
+  - divine-justice
+  - spiritual-light
+---
 # Isaiah 42
 
 ---
@@ -117,7 +127,7 @@ Behold, servant, uphold, elect, soul, delighteth, put, spirit, bring, judgment, 
 
 
 *AI Keywords for current event matching:*
-`blind` `bring` `christs` `covenant` `darkness` `divine` `earth` `elect` `eyes` `former` `gentiles` `hand` `hold` `isles` `judgment` `justice` `keep` `law` `light` `magnify` `new` `open` `pass` `people` `praise` `prison` `prisoners` `put` `servant` `set` `song` `spirit` `spiritual` `things` `truth` `uphold` `wait`
+#blind #bring #christs #covenant #darkness #divine #earth #elect #eyes #former #gentiles #hand #hold #isles #judgment #justice #keep #law #light #magnify #new #open #pass #people #praise #prison #prisoners #put #servant #set #song #spirit #spiritual #things #truth #uphold #wait
 
 
 ---

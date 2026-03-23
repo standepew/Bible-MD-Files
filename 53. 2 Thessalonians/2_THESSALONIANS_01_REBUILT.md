@@ -1,3 +1,14 @@
+---
+book: "2 Thessalonians"
+chapter: 1
+testament: "New Testament"
+key_themes: "Thanksgiving for Growing Faith, Persecution and God's Judgment, Christ's Revelation, Glorification of Saints"
+tags:
+  - thanksgiving-for-growing-faith
+  - persecution-and-god
+  - christ
+  - glorification-of-saints
+---
 # 2 Thessalonians 1
 
 ---
@@ -93,7 +104,7 @@ Paul, Silvanus, Timotheus, church, Thessalonians, God, Father, Lord, Jesus, Chri
 
 
 *AI Keywords for current event matching:*
-`aboundeth` `admired` `always` `angels` `believe` `believed` `bound` `brethren` `calling` `charity` `christ` `christs` `church` `churches` `come` `count` `counted` `day` `destruction` `endure` `everlasting` `exceedingly` `faith` `father` `fire` `flaming` `fulfil` `glorification` `glorified` `glory` `god` `gods` `good` `goodness` `gospel` `grace` `groweth` `growing` `heaven` `jesus` `judgment` `kingdom` `know` `lord` `manifest` `meet` `mighty` `name` `obey` `patience` `paul` `peace` `persecution` `persecutions` `pleasure` `power` `pray` `presence` `punished` `recompense` `rest` `revealed` `revelation` `righteous` `saints` `silvanus` `suffer` `testimony` `thank` `thanksgiving` `thessalonians` `timotheus` `token` `toward` `tribulation` `tribulations` `trouble` `troubled` `vengeance` `work` `worthy`
+#aboundeth #admired #always #angels #believe #believed #bound #brethren #calling #charity #christ #christs #church #churches #come #count #counted #day #destruction #endure #everlasting #exceedingly #faith #father #fire #flaming #fulfil #glorification #glorified #glory #god #gods #good #goodness #gospel #grace #groweth #growing #heaven #jesus #judgment #kingdom #know #lord #manifest #meet #mighty #name #obey #patience #paul #peace #persecution #persecutions #pleasure #power #pray #presence #punished #recompense #rest #revealed #revelation #righteous #saints #silvanus #suffer #testimony #thank #thanksgiving #thessalonians #timotheus #token #toward #tribulation #tribulations #trouble #troubled #vengeance #work #worthy
 
 
 ---

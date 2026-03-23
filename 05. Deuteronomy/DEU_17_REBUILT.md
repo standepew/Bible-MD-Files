@@ -1,3 +1,46 @@
+---
+book: "Deuteronomy"
+chapter: 17
+testament: "Old Testament"
+key_themes: "Sacrificial Standards, Capital Punishment, Two or Three Witnesses, Judicial System, Hard Cases, Priestly Judgment, Presumptuous Disobedience, Kingship Regulations, Royal Restrictions, King's Copy of Law"
+tags:
+  - blemish-sacrifice
+  - abomination-LORD
+  - wickedness-transgressing
+  - serve-other-gods
+  - sun-moon-worship
+  - host-of-heaven
+  - stone-to-death
+  - two-three-witnesses
+  - one-witness-not
+  - hands-witnesses-first
+  - put-evil-away
+  - hard-judgment
+  - blood-blood
+  - plea-plea
+  - stroke-stroke
+  - matter-too-hard
+  - priests-Levites
+  - judge-in-days
+  - sentence-judgment
+  - decline-not-right-left
+  - presumptuously
+  - not-hearken-priest
+  - die-presumptuously
+  - set-king-over-me
+  - LORD-choose-king
+  - brother-not-stranger
+  - not-multiply-horses
+  - return-not-Egypt
+  - not-multiply-wives
+  - heart-turn-away
+  - not-multiply-silver-gold
+  - copy-of-law
+  - read-all-days
+  - fear-LORD-heart
+  - not-lifted-up
+  - prolong-days-kingdom
+---
 # Deuteronomy 17
 
 ---
@@ -123,7 +166,7 @@ Moses commands that sacrifices must be without blemish, for defective offerings 
 
 
 *AI Keywords for current event matching:*
-`abomination` `above` `according` `afterward` `among` `any` `arise` `aside` `away` `between` `blemish` `blood` `book` `brethren` `bring` `brother` `cases` `cause` `certain` `children` `choose` `chooses` `come` `commanded` `commandment` `controversy` `copy` `covenant` `days` `death` `decline` `die` `difficult` `diligently` `disobedience` `dwell` `egypt` `enquire` `enquired` `evil` `evilfavouredness` `fear` `first` `forth` `found` `gates` `get` `god` `gods` `gold` `greatly` `hand` `hands` `hard` `hath` `hear` `heard` `hearken` `heart` `heaven` `horses` `host` `idolatry` `inform` `israel` `judge` `judgment` `keep` `king` `kingdom` `kings` `kingship` `land` `law` `learn` `left` `levites` `life` `lifted` `like` `lord` `man` `matter` `midst` `minister` `moon` `mouth` `multiply` `nations` `observe` `one` `people` `place` `plea` `possess` `presumptuous` `presumptuously` `priest` `priests` `prolong` `punishment` `put` `read` `regulations` `requirements` `restrictions` `return` `right` `royal` `sacrifice` `sacrificial` `said` `say` `sentence` `served` `set` `show` `silver` `sit` `standards` `statutes` `stone` `stones` `stranger` `stroke` `sun` `teach` `tell` `therein` `three` `throne` `till` `told` `too` `transgressing` `true` `turn` `two` `way` `wickedness` `wise` `within` `witness` `witnesses` `wives` `woman` `words` `worthy` `write` `wrought`
+#abomination #above #according #afterward #among #any #arise #aside #away #between #blemish #blood #book #brethren #bring #brother #cases #cause #certain #children #choose #chooses #come #commanded #commandment #controversy #copy #covenant #days #death #decline #die #difficult #diligently #disobedience #dwell #egypt #enquire #enquired #evil #evilfavouredness #fear #first #forth #found #gates #get #god #gods #gold #greatly #hand #hands #hard #hath #hear #heard #hearken #heart #heaven #horses #host #idolatry #inform #israel #judge #judgment #keep #king #kingdom #kings #kingship #land #law #learn #left #levites #life #lifted #like #lord #man #matter #midst #minister #moon #mouth #multiply #nations #observe #one #people #place #plea #possess #presumptuous #presumptuously #priest #priests #prolong #punishment #put #read #regulations #requirements #restrictions #return #right #royal #sacrifice #sacrificial #said #say #sentence #served #set #show #silver #sit #standards #statutes #stone #stones #stranger #stroke #sun #teach #tell #therein #three #throne #till #told #too #transgressing #true #turn #two #way #wickedness #wise #within #witness #witnesses #wives #woman #words #worthy #write #wrought
 
 
 ---

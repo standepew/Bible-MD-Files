@@ -1,3 +1,33 @@
+---
+book: "Exodus"
+chapter: 22
+testament: "Old Testament"
+key_themes: "Restitution laws, Theft — fivefold for ox, fourfold for sheep, Nighttime vs. daytime self-defense, Property responsibility and negligence, Seduction law, Witchcraft as capital offense, Protection of the stranger/widow/fatherless, Usury prohibited for the poor, The garment as pledge, Blasphemy and authority, Firstfruits and firstborn, Holiness as national identity"
+tags:
+  - theft
+  - restitution
+  - fivefold
+  - fourfold
+  - self-defense
+  - nighttime
+  - fire-negligence
+  - deposits
+  - vow-before-judges
+  - seduction-dowry
+  - witch-capital
+  - bestiality-capital
+  - sacrifice-to-other-gods
+  - stranger-not-oppressed
+  - widow-fatherless
+  - God-hears-their-cry
+  - usury-prohibited
+  - garment-as-pledge
+  - revile-not-gods
+  - ruler-not-cursed
+  - firstfruits
+  - firstborn
+  - holy-unto-God
+---
 # Exodus 22
 
 ---
@@ -96,7 +126,7 @@ The civil code continues. Theft laws: fivefold restitution for a stolen and slau
 
 
 *AI Keywords for current event matching:*
-`221-4` `current` `events` `exodus` `luke` `matching` `proportional` `reparations` `restitution` `theft` `zacchaeus`
+#221-4 #current #events #exodus #luke #matching #proportional #reparations #restitution #theft #zacchaeus
 
 
 ---
@@ -211,10 +241,10 @@ The civil and moral laws of Exodus 22 are foundational to the covenant structure
 
 ### The Garment as Pledge — The Most Intimate Security
 
-- **Exodus 22:26-27** — The garment taken as pledge must be returned by sundown; it is his only covering; when he cries, God will hear
-- **Deuteronomy 24:12-13** — The same law repeated; "it shall be righteousness unto thee before the LORD thy God"
-- **Amos 2:8** — Israel is condemned for lying "down upon clothes laid to pledge by every altar" — violating this exact law
-- **Job 22:6** — Eliphaz accuses Job of "taking a pledge from thy brother for nought"
+- [[02. Exodus/EXO_22_REBUILT|Exodus 22:26-27]] — The garment taken as pledge must be returned by sundown; it is his only covering; when he cries, God will hear
+- [[05. Deuteronomy/DEU_24_REBUILT|Deuteronomy 24:12-13]] — The same law repeated; "it shall be righteousness unto thee before the LORD thy God"
+- [[30. Amos/AMOS_02_REBUILT|Amos 2:8]] — Israel is condemned for lying "down upon clothes laid to pledge by every altar" — violating this exact law
+- [[18. Job/JOB_22_REBUILT|Job 22:6]] — Eliphaz accuses Job of "taking a pledge from thy brother for nought"
 - *Thread:* The garment is the most basic human dignity. To hold a man's garment overnight is to deprive him of warmth and covering — to strip him of his minimal dignity. This law is one of the most personal in the entire Torah: God specifically says "when he crieth unto me, that I will hear; for I am gracious." The garment-pledge law is where the covenant gets most intimate — God watches over the poor man's one coat.
 
 ---

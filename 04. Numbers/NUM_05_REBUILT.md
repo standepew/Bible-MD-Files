@@ -1,3 +1,27 @@
+---
+book: "Numbers"
+chapter: 5
+testament: "Old Testament"
+key_themes: "Three laws of camp holiness: (1) removing the unclean from the camp, (2) restitution for trespass sin — if no kinsman, the repayment goes to the LORD via the priest, (3) the ordeal of bitter water for suspected adultery, "In the midst whereof I dwell" — God's presence among them is the reason for purity in the camp, The ordeal of jealousy: God Himself adjudicates when there is no witness — the only case where God directly executes the verdict through a physical sign, The guilty woman bears her iniquity; the man is guiltless after bringing his wife before God"
+tags:
+  - camp-purity
+  - leper-out-of-camp
+  - issue-out-of-camp
+  - defiled-by-dead-out-of-camp
+  - I-dwell-in-the-midst
+  - restitution-plus-fifth
+  - trespass-to-the-LORD
+  - no-kinsman-priest-receives
+  - jealousy-offering
+  - bitter-water
+  - ordeal
+  - barley-meal-no-oil-no-frankincense
+  - writing-curses-in-book
+  - blotting-out-with-water
+  - belly-swell-thigh-rot
+  - if-clean-she-shall-conceive
+  - man-guiltless-woman-bears-iniquity
+---
 # Numbers 5
 
 ---
@@ -66,7 +90,7 @@ Three distinct laws. First: all lepers, all with a bodily issue, and all defiled
 
 
 *AI Keywords for current event matching:*
-`51-4` `51-5` `616-71` `campcommunity` `corinthians` `current` `events` `matching` `numbers` `purity` `standards`
+#51-4 #51-5 #616-71 #campcommunity #corinthians #current #events #matching #numbers #purity #standards
 
 
 ---
@@ -152,16 +176,16 @@ The bitter-water ordeal is the prophetic template for what God does with Israel 
 
 ### Writing Curses and Blotting Them Out — The Forgiveness Thread
 
-**Numbers 5:23** — "the priest shall write these curses in a book, and he shall blot them out with the bitter water"
+[[04. Numbers/NUM_05_REBUILT|Numbers 5:23]] — "the priest shall write these curses in a book, and he shall blot them out with the bitter water"
 
 The curses are written — then blotted (dissolved) into the water the woman drinks. If guilty, they enter her and do their work. If innocent, the dissolved curses passed through her with no effect.
 
 This write-and-blot pattern runs through Scripture:
 
-- **Exodus 32:32-33** — Moses offers to be blotted from God's book; God responds that He blots out those who sin against Him — there is a book; there is a blotting
+- [[02. Exodus/EXO_32_REBUILT|Exodus 32:32-33]] — Moses offers to be blotted from God's book; God responds that He blots out those who sin against Him — there is a book; there is a blotting
 - **Psalm 51:1, 9** — "blot out my transgressions... blot out all mine iniquities" — the psalmist asks for the same blotting
-- **Colossians 2:14** — "Blotting out the handwriting of ordinances that was against us, which was contrary to us, and took it out of the way, nailing it to his cross" — Christ blots out the written record of charges against believers; the curses that should enter and destroy are dissolved at the cross
-- **Revelation 3:5** — "I will not blot out his name out of the book of life"
+- [[51. Colossians/COLOSSIANS_02_REBUILT|Colossians 2:14]] — "Blotting out the handwriting of ordinances that was against us, which was contrary to us, and took it out of the way, nailing it to his cross" — Christ blots out the written record of charges against believers; the curses that should enter and destroy are dissolved at the cross
+- [[66. Revelation/REVELATION_03_REBUILT|Revelation 3:5]] — "I will not blot out his name out of the book of life"
 
 **What the Bible establishes:** There is a divine book. Names and charges are written in it. Blotting is the consistent biblical word for the removal of what was written — whether in judgment or in mercy. The bitter-water ceremony is the ceremonial preview of the cross-event of Colossians 2:14: the record of charges dissolved into the death of Christ so that they enter Him rather than those who are in Him.
 

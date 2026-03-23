@@ -1,3 +1,99 @@
+---
+book: "Joshua"
+chapter: 4
+testament: "Old Testament"
+key_themes: "Memorial Stones, Twelve Stones, Jordan Crossing Memorial, Divine Magnification, Priestly Leadership, Eastern Tribes, Gilgal Encampment, Generational Teaching, God's Mighty Hand"
+tags:
+  - people-clean-passed-Jordan
+  - LORD-spake-Joshua
+  - Take-twelve-men
+  - people-tribe-man
+  - command-them
+  - Take-hence-midst-Jordan
+  - place-priests-feet-stood
+  - twelve-stones
+  - carry-lodge
+  - leave-lodging-place
+  - lodge-night
+  - Joshua-called-twelve-men
+  - prepared-children-Israel
+  - tribe-man
+  - Pass-ark-LORD-God
+  - midst-Jordan
+  - take-stone-shoulder
+  - number-tribes-children-Israel
+  - sign-among
+  - children-ask-fathers
+  - time-come
+  - mean-stones
+  - answer-waters-Jordan-cut-off
+  - ark-covenant-LORD
+  - passed-Jordan
+  - waters-Jordan-cut-off
+  - stones-memorial-children-Israel-forever
+  - children-Israel-Joshua-commanded
+  - twelve-stones-midst-Jordan
+  - LORD-spake-Joshua
+  - tribes-children-Israel
+  - carried-place-lodged
+  - laid-there
+  - Joshua-set-twelve-stones
+  - midst-Jordan
+  - place-feet-priests-bare-ark-covenant
+  - stood-day
+  - priests-bare-ark
+  - midst-Jordan
+  - finished-LORD-commanded-Joshua
+  - speak-people
+  - Moses-commanded-Joshua
+  - people-hasted-passed
+  - people-clean-passed
+  - ark-LORD-passed
+  - priests-presence-people
+  - children-Reuben
+  - children-Gad
+  - half-tribe-Manasseh
+  - passed-armed-children-Israel
+  - Moses-spake
+  - forty-thousand-prepared-war
+  - passed-LORD-battle
+  - plains-Jericho
+  - day-LORD-magnified-Joshua
+  - sight-Israel
+  - feared-Moses
+  - days-life
+  - LORD-spake-Joshua
+  - Command-priests-bear-ark-testimony
+  - come-Jordan
+  - Joshua-commanded-priests
+  - Come-Jordan
+  - priests-bare-ark-covenant-LORD
+  - came-midst-Jordan
+  - soles-priests-feet
+  - lifted-dry-land
+  - waters-Jordan-returned-place
+  - flowed-banks
+  - before
+  - people-Jordan-tenth-day-first-month
+  - encamped-Gilgal
+  - east-border-Jericho
+  - twelve-stones-Jordan
+  - Joshua-pitch-Gilgal
+  - spake-children-Israel
+  - children-ask-fathers
+  - time-come
+  - mean-stones
+  - children-know
+  - Israel-Jordan-dry-land
+  - LORD-God-dried-waters-Jordan
+  - passed-over
+  - LORD-God-Red-sea
+  - dried-up
+  - gone-over
+  - people-earth-know-hand-LORD
+  - mighty
+  - fear-LORD-God-forever
+---
 # Joshua 4
 
 ---
@@ -105,7 +201,7 @@ After Israel crosses Jordan, God commands Joshua to select twelve men (one from 
 
 
 *AI Keywords for current event matching:*
-`among` `answer` `ark` `armed` `ask` `banks` `bare` `battle` `bear` `border` `called` `came` `carried` `carry` `children` `clean` `come` `command` `commanded` `covenant` `cut` `day` `days` `dried` `dry` `earth` `east` `eastern` `encamped` `encampment` `fathers` `fear` `feared` `feet` `finished` `first` `flowed` `forever` `forty` `gad` `gilgal` `god` `gone` `half` `hand` `hasted` `hence` `israel` `jericho` `jordan` `joshua` `joshuas` `know` `laid` `land` `leadership` `leave` `life` `lifted` `lodge` `lodged` `lodging` `lord` `magnification` `magnified` `man` `manasseh` `mean` `memorial` `men` `midst` `mighty` `month` `moses` `night` `number` `off` `pass` `passed` `people` `pitch` `place` `placement` `plains` `prepared` `presence` `priestly` `priests` `purpose` `red` `restoration` `returned` `reuben` `sea` `selection` `set` `shoulder` `sight` `sign` `soles` `spake` `speak` `stone` `stones` `stood` `take` `tenth` `testimony` `there` `thousand` `time` `tribe` `tribes` `twelve` `universal` `war` `waters`
+#among #answer #ark #armed #ask #banks #bare #battle #bear #border #called #came #carried #carry #children #clean #come #command #commanded #covenant #cut #day #days #dried #dry #earth #east #eastern #encamped #encampment #fathers #fear #feared #feet #finished #first #flowed #forever #forty #gad #gilgal #god #gone #half #hand #hasted #hence #israel #jericho #jordan #joshua #joshuas #know #laid #land #leadership #leave #life #lifted #lodge #lodged #lodging #lord #magnification #magnified #man #manasseh #mean #memorial #men #midst #mighty #month #moses #night #number #off #pass #passed #people #pitch #place #placement #plains #prepared #presence #priestly #priests #purpose #red #restoration #returned #reuben #sea #selection #set #shoulder #sight #sign #soles #spake #speak #stone #stones #stood #take #tenth #testimony #there #thousand #time #tribe #tribes #twelve #universal #war #waters
 
 
 ---

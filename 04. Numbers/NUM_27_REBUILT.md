@@ -1,3 +1,36 @@
+---
+book: "Numbers"
+chapter: 27
+testament: "Old Testament"
+key_themes: "The daughters of Zelophehad appeal their father's inheritance — their case becomes a new statute for all Israel, God validates their claim: "The daughters of Zelophehad speak right" — a new law of female inheritance established, Moses is told to ascend Mount Abarim and see the land — then to be gathered to his people like Aaron, Moses' response: not grief for himself but prayer for the congregation — that they not be as sheep without a shepherd, God appoints Joshua: a man in whom is the spirit; Moses lays hands on him; some of Moses' honour transferred; Joshua will inquire of the Urim through Eleazar"
+tags:
+  - daughters-of-Zelophehad
+  - Mahlah-Noah-Hoglah-Milcah-Tirzah
+  - not-company-of-Korah
+  - give-us-a-possession
+  - Moses-brings-cause-before-LORD
+  - daughters-speak-right
+  - inheritance-to-pass-to-daughter
+  - statute-of-judgment
+  - mount-Abarim
+  - see-the-land
+  - gathered-to-thy-people
+  - Meribah-recalled
+  - Moses-prays-for-successor
+  - lay-thine-hand-upon-him
+  - put-honour-upon-him
+  - Urim-before-Eleazar
+  - Moses-lays-hands
+  - Moses-gives-charge
+  - the-daughters-of-zelophehad-appeal-their
+  - god-validates-their-claim
+  - moses-is-told-to-ascend-mount
+  - moses
+  - god-appoints-joshua-a-man-in
+  - moses-lays-hands-on-him
+  - some-of-moses
+  - joshua-will-inquire-of-the-urim
+---
 # Numbers 27
 
 ---
@@ -66,7 +99,7 @@ Five daughters of Zelophehad of Manasseh — Mahlah, Noah, Hoglah, Milcah, Tirza
 
 
 *AI Keywords for current event matching:*
-`271-11` `becomes` `case` `changed` `current` `daughters` `events` `inheritance` `law` `legal` `matching` `numbers` `rights` `standing` `statute` `womens`
+#271-11 #becomes #case #changed #current #daughters #events #inheritance #law #legal #matching #numbers #rights #standing #statute #womens
 
 
 ---
@@ -142,7 +175,7 @@ The succession from Moses to Joshua is one of the Bible's clearest succession ty
 - **Joshua (Yehoshua)** — "YHWH saves"; leads the people through the Jordan into the promised land; conquers the enemies; distributes the inheritance
 - **Christ (Greek: Iesous = Hebrew: Yehoshua)** — bears the same name as Joshua; leads His people through death into the eternal rest; conquers every enemy; distributes the eternal inheritance
 
-**Hebrews 4:8** — "For if Jesus [Joshua] had given them rest, then would he not afterward have spoken of another day" — the writer of Hebrews names Joshua by his New Testament name (Jesus) to make the comparison unmistakable: the first Joshua's rest was incomplete; the second Joshua (Christ) gives the true rest. Moses laying hands on Joshua is the type of the Father commissioning the Son for His redemptive mission.
+[[58. Hebrews/HEBREWS_04_REBUILT|Hebrews 4:8]] — "For if Jesus [Joshua] had given them rest, then would he not afterward have spoken of another day" — the writer of Hebrews names Joshua by his New Testament name (Jesus) to make the comparison unmistakable: the first Joshua's rest was incomplete; the second Joshua (Christ) gives the true rest. Moses laying hands on Joshua is the type of the Father commissioning the Son for His redemptive mission.
 
 ---
 

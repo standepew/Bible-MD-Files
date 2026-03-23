@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 64
+testament: "Old Testament"
+key_themes: "Wicked's Secret Counsel, God's Arrow of Judgment, Divine Retribution, Righteous Trust"
+tags:
+  - wicked
+  - god
+  - divine-retribution
+  - righteous-trust
+---
 # Psalm 64
 
 ---
@@ -141,7 +152,7 @@ Chief, Musician, Psalm, David, Hear, voice, GOD, prayer, preserve, life, fear, e
 
 
 *AI Keywords for current event matching:*
-`arrow` `arrows` `bend` `bitter` `bows` `chief` `commune` `counsel` `david` `declare` `divine` `encourage` `enemy` `evil` `fall` `fear` `flee` `glad` `glory` `god` `gods` `hear` `heart` `hide` `iniquity` `insurrection` `judgment` `laying` `life` `lord` `matter` `men` `musician` `perfect` `prayer` `preserve` `privily` `psalm` `retribution` `righteous` `secret` `see` `shoot` `snares` `suddenly` `sword` `themselves` `tongue` `trust` `upright` `voice` `wicked` `wickeds` `words` `work` `workers` `wounded`
+#arrow #arrows #bend #bitter #bows #chief #commune #counsel #david #declare #divine #encourage #enemy #evil #fall #fear #flee #glad #glory #god #gods #hear #heart #hide #iniquity #insurrection #judgment #laying #life #lord #matter #men #musician #perfect #prayer #preserve #privily #psalm #retribution #righteous #secret #see #shoot #snares #suddenly #sword #themselves #tongue #trust #upright #voice #wicked #wickeds #words #work #workers #wounded
 
 
 ---

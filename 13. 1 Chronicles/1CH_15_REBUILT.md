@@ -1,3 +1,16 @@
+---
+book: "1 Chronicles"
+chapter: 15
+testament: "Old Testament"
+key_themes: "Bringing the Ark to Jerusalem, Levitical Organization, Joyful Worship, David's Ephod"
+tags:
+  - David-assembled-children-Aaron-Levites
+  - Berechiah-Elkanah-doorkeepers-ark
+  - bringing-the-ark-to-jerusalem
+  - levitical-organization
+  - joyful-worship
+  - david
+---
 # 1 Chronicles 15
 
 ---
@@ -115,7 +128,7 @@ David, made, houses, city, David, prepared, place, ark, God, pitched, tent. Davi
 
 
 *AI Keywords for current event matching:*
-`aaron` `abiathar` `alamoth` `amasai` `amminadab` `appoint` `appointed` `appointment` `ark` `arks` `asaiah` `asaph` `assembled` `azaziah` `aziel` `bare` `ben` `benaiah` `berechiah` `blew` `brass` `breach` `brethren` `bring` `brought` `bullocks` `called` `came` `captains` `carry` `celebration` `chenaniah` `chief` `children` `chosen` `city` `clothed` `commanded` `contempt` `cornet` `covenant` `cymbals` `dancing` `daughter` `david` `degree` `despised` `doorkeepers` `due` `elders` `eliab` `eliel` `eliezer` `elipheleh` `elizaphan` `elkanah` `ephod` `ethan` `ever` `excel` `fathers` `fine` `first` `fourscore` `gathered` `gershom` `god` `harps` `heart` `hebron` `helped` `heman` `house` `houses` `hundred` `instructed` `instruments` `israel` `jaaziel` `jehiah` `jehiel` `jehoshaphat` `jeiel` `jerusalem` `joal` `joy` `joyful` `king` `kohath` `kushaiah` `leadership` `levites` `levitical` `lifting` `linen` `looking` `lord` `maaseiah` `made` `master` `mattithiah` `merari` `michal` `michals` `mikneiah` `minister` `moses` `musical` `musick` `nethaneel` `noise` `obed-edom` `offered` `order` `organization` `pitched` `place` `playing` `porters` `preparation` `prepared` `priestly` `priests` `psalteries` `rams` `robe` `said` `sanctified` `sanctify` `saul` `second` `service` `seven` `shebaniah` `shemaiah` `sheminith` `shemiramoth` `shoulders` `shouting` `singers` `skilful` `son` `song` `sons` `sought` `sound` `sounding` `spake` `staves` `temple` `tent` `thirty` `thousands` `transport` `trumpets` `twelve` `twenty` `two` `unni` `uriel` `uzziel` `voice` `window` `word` `worship` `zadok` `zechariah`
+#aaron #abiathar #alamoth #amasai #amminadab #appoint #appointed #appointment #ark #arks #asaiah #asaph #assembled #azaziah #aziel #bare #ben #benaiah #berechiah #blew #brass #breach #brethren #bring #brought #bullocks #called #came #captains #carry #celebration #chenaniah #chief #children #chosen #city #clothed #commanded #contempt #cornet #covenant #cymbals #dancing #daughter #david #degree #despised #doorkeepers #due #elders #eliab #eliel #eliezer #elipheleh #elizaphan #elkanah #ephod #ethan #ever #excel #fathers #fine #first #fourscore #gathered #gershom #god #harps #heart #hebron #helped #heman #house #houses #hundred #instructed #instruments #israel #jaaziel #jehiah #jehiel #jehoshaphat #jeiel #jerusalem #joal #joy #joyful #king #kohath #kushaiah #leadership #levites #levitical #lifting #linen #looking #lord #maaseiah #made #master #mattithiah #merari #michal #michals #mikneiah #minister #moses #musical #musick #nethaneel #noise #obed-edom #offered #order #organization #pitched #place #playing #porters #preparation #prepared #priestly #priests #psalteries #rams #robe #said #sanctified #sanctify #saul #second #service #seven #shebaniah #shemaiah #sheminith #shemiramoth #shoulders #shouting #singers #skilful #son #song #sons #sought #sound #sounding #spake #staves #temple #tent #thirty #thousands #transport #trumpets #twelve #twenty #two #unni #uriel #uzziel #voice #window #word #worship #zadok #zechariah
 
 
 ---

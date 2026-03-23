@@ -1,3 +1,14 @@
+---
+book: "Proverbs"
+chapter: 28
+testament: "Old Testament"
+key_themes: "Righteousness and Wickedness, Law and Justice, Wealth and Poverty, Pride and Humility"
+tags:
+  - righteousness-and-wickedness
+  - law-and-justice
+  - wealth-and-poverty
+  - pride-and-humility
+---
 # Proverbs 28
 
 ---
@@ -129,7 +140,7 @@ Wicked, flee, pursueth, righteous, bold, lion, transgression, land, many, prince
 
 
 *AI Keywords for current event matching:*
-`bold` `conceit` `contend` `ear` `flee` `fool` `forsake` `giveth` `hearing` `heart` `hide` `humility` `justice` `keep` `lack` `law` `lion` `man` `oppresseth` `poor` `poverty` `praise` `pride` `proud` `pursueth` `rich` `righteous` `righteousness` `rise` `strife` `trust` `turneth` `uprightness` `walketh` `wealth` `wicked` `wickedness` `wise`
+#bold #conceit #contend #ear #flee #fool #forsake #giveth #hearing #heart #hide #humility #justice #keep #lack #law #lion #man #oppresseth #poor #poverty #praise #pride #proud #pursueth #rich #righteous #righteousness #rise #strife #trust #turneth #uprightness #walketh #wealth #wicked #wickedness #wise
 
 
 ---

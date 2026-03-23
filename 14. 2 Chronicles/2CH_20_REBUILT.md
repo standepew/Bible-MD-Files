@@ -1,3 +1,15 @@
+---
+book: "2 Chronicles"
+chapter: 20
+testament: "Old Testament"
+key_themes: "Divine Victory, Praise Warfare, Faith in Crisis, God's Salvation"
+tags:
+  - reward-cast-possession-given-inherit
+  - divine-victory
+  - praise-warfare
+  - faith-in-crisis
+  - god
+---
 # 2 Chronicles 20
 
 ---
@@ -203,7 +215,7 @@ Children, Moab, Ammon, Ammonites, Jehoshaphat, battle. Told, Jehoshaphat, great,
 
 
 *AI Keywords for current event matching:*
-`abraham` `abundance` `acts` `affliction` `afraid` `ahaziah` `ambushments` `ammon` `ammonites` `another` `army` `asa` `asaph` `assembled` `azubah` `battle` `beauty` `believe` `benaiah` `berachah` `blessed` `bodies` `book` `bowed` `broken` `brook` `built` `carry` `cast` `children` `cities` `cliff` `company` `compromise` `congregation` `consulted` `countries` `court` `crisis` `cry` `daughter` `day` `days` `dead` `destroy` `destroyed` `dismayed` `divine` `dodavah` `drive` `dwelt` `earth` `egypt` `eliezer` `endureth` `enemies` `escaped` `established` `evil` `eyes` `ezion` `face` `faith` `fallen` `famine` `fast` `father` `fathers` `fear` `feared` `fell` `fight` `final` `first` `five` `forefront` `foreign` `forever` `fought` `fourth` `friend` `gathered` `gathering` `gave` `geber` `gedi` `given` `god` `great` `ground` `hanani` `hand` `harps` `hazazon` `head` `hear` `hearken` `hearts` `heathen` `heaven` `help` `high` `holiness` `house` `inhabitants` `inherit` `inspiration` `invade` `invasion` `israel` `jahaziel` `jehoshaphat` `jehu` `jeiel` `jeruel` `jerusalem` `jewels` `joined` `joy` `judah` `judge` `judgment` `king` `kingdoms` `kings` `know` `kohathites` `korhites` `land` `last` `let` `levite` `levites` `lord` `loud` `mareshah` `mattaniah` `mercy` `moab` `morning` `morrow` `mother` `mount` `multitude` `name` `national` `new` `peace` `people` `pestilence` `places` `possession` `power` `praise` `prayer` `precious` `prepared` `presence` `proclaimed` `prophesied` `prophets` `prosper` `provision` `psalteries` `quiet` `realm` `reigned` `rejoice` `rest` `returned` `reward` `riches` `right` `rose` `round` `royal` `rulest` `salvation` `sanctuary` `sea` `seed` `seek` `seir` `set` `shilhi` `ships` `sight` `sing` `singers` `slay` `smitten` `son` `sons` `spirit` `spoil` `stand` `still` `stripped` `summary` `sword` `syria` `taken` `tamar` `tarshish` `tekoa` `thanksgiving` `thirty` `three` `told` `tower` `trumpets` `turned` `twenty` `valley` `victory` `voice` `walked` `warfare` `watch` `way` `wickedly` `wilderness` `withstand` `works` `worshipping` `years` `zechariah` `ziz`
+#abraham #abundance #acts #affliction #afraid #ahaziah #ambushments #ammon #ammonites #another #army #asa #asaph #assembled #azubah #battle #beauty #believe #benaiah #berachah #blessed #bodies #book #bowed #broken #brook #built #carry #cast #children #cities #cliff #company #compromise #congregation #consulted #countries #court #crisis #cry #daughter #day #days #dead #destroy #destroyed #dismayed #divine #dodavah #drive #dwelt #earth #egypt #eliezer #endureth #enemies #escaped #established #evil #eyes #ezion #face #faith #fallen #famine #fast #father #fathers #fear #feared #fell #fight #final #first #five #forefront #foreign #forever #fought #fourth #friend #gathered #gathering #gave #geber #gedi #given #god #great #ground #hanani #hand #harps #hazazon #head #hear #hearken #hearts #heathen #heaven #help #high #holiness #house #inhabitants #inherit #inspiration #invade #invasion #israel #jahaziel #jehoshaphat #jehu #jeiel #jeruel #jerusalem #jewels #joined #joy #judah #judge #judgment #king #kingdoms #kings #know #kohathites #korhites #land #last #let #levite #levites #lord #loud #mareshah #mattaniah #mercy #moab #morning #morrow #mother #mount #multitude #name #national #new #peace #people #pestilence #places #possession #power #praise #prayer #precious #prepared #presence #proclaimed #prophesied #prophets #prosper #provision #psalteries #quiet #realm #reigned #rejoice #rest #returned #reward #riches #right #rose #round #royal #rulest #salvation #sanctuary #sea #seed #seek #seir #set #shilhi #ships #sight #sing #singers #slay #smitten #son #sons #spirit #spoil #stand #still #stripped #summary #sword #syria #taken #tamar #tarshish #tekoa #thanksgiving #thirty #three #told #tower #trumpets #turned #twenty #valley #victory #voice #walked #warfare #watch #way #wickedly #wilderness #withstand #works #worshipping #years #zechariah #ziz
 
 
 ---

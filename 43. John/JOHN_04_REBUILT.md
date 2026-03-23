@@ -1,3 +1,15 @@
+---
+book: "John"
+chapter: 4
+testament: "New Testament"
+key_themes: "The Woman at the Well, Living Water, True Worship, The Harvest, Healing the Nobleman's Son"
+tags:
+  - the-woman-at-the-well
+  - living-water
+  - true-worship
+  - the-harvest
+  - healing-the-nobleman
+---
 # John 4
 
 ---
@@ -167,7 +179,7 @@ Lord, knew, Pharisees, Jesus, made, baptized, disciples, Jesus, disciples, left,
 
 
 *AI Keywords for current event matching:*
-`again` `another` `believed` `cometh` `death` `deep` `drink` `eternal` `everlasting` `father` `finish` `five` `four` `gift` `god` `greater` `harvest` `healing` `hour` `house` `husbands` `jacob` `jerusalem` `jews` `know` `life` `liveth` `living` `meat` `months` `mountain` `never` `nobleman` `noblemans` `one` `point` `reapeth` `salvation` `samaria` `seeketh` `seventh` `signs` `son` `soweth` `spirit` `springing` `thirst` `true` `truth` `wages` `water` `well` `white` `whole` `woman` `wonders` `word` `work` `worship` `worshippers`
+#again #another #believed #cometh #death #deep #drink #eternal #everlasting #father #finish #five #four #gift #god #greater #harvest #healing #hour #house #husbands #jacob #jerusalem #jews #know #life #liveth #living #meat #months #mountain #never #nobleman #noblemans #one #point #reapeth #salvation #samaria #seeketh #seventh #signs #son #soweth #spirit #springing #thirst #true #truth #wages #water #well #white #whole #woman #wonders #word #work #worship #worshippers
 
 
 ---

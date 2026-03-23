@@ -1,3 +1,80 @@
+---
+book: "Judges"
+chapter: 7
+testament: "Old Testament"
+key_themes: "Army Reduction, Water Testing, Three Hundred Warriors, Dream Interpretation, Trumpets and Pitchers, Divine Victory, Ephraim's Pursuit, Oreb and Zeeb"
+tags:
+  - Jerubbaal-Gideon-people-rose-early
+  - pitched-well-Harod
+  - LORD-Gideon-people-many
+  - Midianites-hands
+  - Israel-vaunt-LORD
+  - hand-saved
+  - proclaim-ears-people
+  - returned-people-twenty-two-thousand
+  - remained-ten-thousand
+  - bring-water-try
+  - go-thee-not-go
+  - set-bow-knees-drink
+  - three-hundred-men-lapped-save
+  - deliver-Midianites-hand
+  - people-go-place
+  - people-victuals-hand-trumpets
+  - sent-rest-Israel-tent
+  - retained-three-hundred-men
+  - host-Midian-beneath-valley
+  - LORD-night-Arise-host
+  - delivered-hand
+  - fear-go-Phurah-servant-host
+  - hear-say
+  - hands-strengthened-go-host
+  - grasshoppers-multitude
+  - camels-without-number
+  - sand-sea-side-multitude
+  - Gideon-man-told-dream-fellow
+  - dreamed-dream
+  - fellow-answered
+  - hand-God-delivered-Midian-host
+  - Gideon-heard-telling-dream-interpretation
+  - worshipped-returned-host-Israel
+  - trumpet-man-hand
+  - empty-pitchers
+  - lamps-pitchers
+  - Look-likewise
+  - outside-camp
+  - blow-trumpet-companies
+  - blow-trumpets-side-camp
+  - sword-LORD-Gideon
+  - newly-set-watch
+  - blew-trumpets
+  - brake-pitchers-hand
+  - three-companies-blew-trumpets
+  - brake-pitchers
+  - held-lamps-left-hands
+  - trumpets-right-hands-blow
+  - cried-sword-LORD-Gideon
+  - stood-place-round-camp
+  - host-ran-cried-fled
+  - three-hundred-blew-trumpets
+  - LORD-set-sword-fellow
+  - host-fled-Beth-shittah-Zererath
+  - border-Abel-meholah-Tabbath
+  - pursued-Midianites
+  - Gideon-messengers-mount-Ephraim
+  - Midianites-waters-Beth-barah-Jordan
+  - two-princes-Midianites-Oreb-Zeeb
+  - slew-Oreb-rock-Oreb
+  - Zeeb-winepress-Zeeb
+  - pursued-Midian
+  - army-reduction
+  - water-testing
+  - three-hundred-warriors
+  - dream-interpretation
+  - trumpets-and-pitchers
+  - divine-victory
+  - ephraim
+  - oreb-and-zeeb
+---
 # Judges 7
 
 ---
@@ -105,7 +182,7 @@ Jerubbaal (Gideon) and his men camp by Harod well, facing Midianites north of Mo
 
 
 *AI Keywords for current event matching:*
-`abel-meholah` `afraid` `amalekites` `answered` `arise` `armed` `army` `asher` `barley` `battle` `beginning` `beneath` `beth-barah` `beth-shittah` `blew` `blow` `border` `bow` `bowed` `brake` `bread` `bring` `brought` `cake` `camels` `camp` `captures` `children` `companies` `cried` `defeat` `deliver` `delivered` `depart` `divided` `divine` `dog` `dream` `dreamed` `drink` `early` `ears` `east` `empty` `encouragement` `enemy` `ephraim` `ephraims` `execution` `fear` `fearful` `fell` `fellow` `final` `first` `fled` `gathered` `gideon` `gideons` `gilead` `god` `grasshoppers` `hand` `hands` `harod` `heads` `hear` `heard` `held` `hill` `host` `hundred` `interpretation` `israel` `israels` `jerubbaal` `joash` `jordan` `knees` `lamps` `lapped` `lay` `left` `likewise` `look` `lord` `man` `manasseh` `many` `men` `messengers` `middle` `midian` `midianites` `moreh` `mount` `mouth` `multitude` `naphtali` `newly` `night` `north` `number` `oreb` `outside` `overturned` `people` `phurah` `pitched` `pitchers` `place` `plan` `positioning` `preparation` `prince` `princes` `proclaim` `pursued` `pursuit` `ran` `reconnaissance` `reduction` `remained` `response` `rest` `retained` `return` `returned` `right` `rock` `role` `rose` `round` `sand` `save` `saved` `say` `sea` `selection` `sent` `servant` `set` `side` `slew` `smote` `son` `stood` `strengthened` `sword` `tabbath` `telling` `ten` `tent` `testing` `thousand` `three` `told` `tongue` `trumpet` `trumpets` `try` `tumbled` `twenty-two` `two` `valley` `vaunt` `victuals` `watch` `water` `waters` `well` `winepress` `without` `worshipped` `zeeb` `zererath`
+#abel-meholah #afraid #amalekites #answered #arise #armed #army #asher #barley #battle #beginning #beneath #beth-barah #beth-shittah #blew #blow #border #bow #bowed #brake #bread #bring #brought #cake #camels #camp #captures #children #companies #cried #defeat #deliver #delivered #depart #divided #divine #dog #dream #dreamed #drink #early #ears #east #empty #encouragement #enemy #ephraim #ephraims #execution #fear #fearful #fell #fellow #final #first #fled #gathered #gideon #gideons #gilead #god #grasshoppers #hand #hands #harod #heads #hear #heard #held #hill #host #hundred #interpretation #israel #israels #jerubbaal #joash #jordan #knees #lamps #lapped #lay #left #likewise #look #lord #man #manasseh #many #men #messengers #middle #midian #midianites #moreh #mount #mouth #multitude #naphtali #newly #night #north #number #oreb #outside #overturned #people #phurah #pitched #pitchers #place #plan #positioning #preparation #prince #princes #proclaim #pursued #pursuit #ran #reconnaissance #reduction #remained #response #rest #retained #return #returned #right #rock #role #rose #round #sand #save #saved #say #sea #selection #sent #servant #set #side #slew #smote #son #stood #strengthened #sword #tabbath #telling #ten #tent #testing #thousand #three #told #tongue #trumpet #trumpets #try #tumbled #twenty-two #two #valley #vaunt #victuals #watch #water #waters #well #winepress #without #worshipped #zeeb #zererath
 
 
 ---

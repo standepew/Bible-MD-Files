@@ -1,3 +1,15 @@
+---
+book: "Esther"
+chapter: 5
+testament: "Old Testament"
+key_themes: "Esther's Boldness, Royal Favor, Banquet Invitation, Haman's Pride"
+tags:
+  - Esther-answered-petition-request
+  - esther
+  - royal-favor
+  - banquet-invitation
+  - haman
+---
 # Esther 5
 
 ---
@@ -129,7 +141,7 @@ Third, day, Esther, royal, apparel, stood, inner, court, king, house, king, hous
 
 
 *AI Keywords for current event matching:*
-`advanced` `answered` `apparel` `availeth` `banquet` `boldness` `called` `caused` `children` `court` `cubits` `day` `drew` `esther` `esthers` `favor` `favour` `fifty` `forth` `found` `friends` `gallows` `gate` `given` `glad` `glory` `golden` `grant` `granted` `half` `haman` `hamans` `hand` `hanged` `haste` `heart` `held` `home` `house` `indignation` `inner` `invitation` `invited` `jew` `joyful` `king` `kingdom` `man` `merrily` `mordecai` `moved` `multitude` `obtained` `perform` `performed` `petition` `please` `pleased` `prepare` `prepared` `pride` `princes` `promoted` `queen` `refrained` `request` `riches` `royal` `said` `sat` `sceptre` `sent` `servants` `sight` `sitting` `standing` `stood` `third` `throne` `tomorrow` `touched` `wife` `wine` `zeresh`
+#advanced #answered #apparel #availeth #banquet #boldness #called #caused #children #court #cubits #day #drew #esther #esthers #favor #favour #fifty #forth #found #friends #gallows #gate #given #glad #glory #golden #grant #granted #half #haman #hamans #hand #hanged #haste #heart #held #home #house #indignation #inner #invitation #invited #jew #joyful #king #kingdom #man #merrily #mordecai #moved #multitude #obtained #perform #performed #petition #please #pleased #prepare #prepared #pride #princes #promoted #queen #refrained #request #riches #royal #said #sat #sceptre #sent #servants #sight #sitting #standing #stood #third #throne #tomorrow #touched #wife #wine #zeresh
 
 
 ---

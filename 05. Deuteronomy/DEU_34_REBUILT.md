@@ -1,3 +1,60 @@
+---
+book: "Deuteronomy"
+chapter: 34
+testament: "Old Testament"
+key_themes: "Moses' Death, Mount Nebo Vision, Promised Land View, Divine Burial, Moses' Age, Israel's Mourning, Joshua's Succession, Prophetic Uniqueness, Face-to-Face Relationship, Signs and Wonders"
+tags:
+  - Moses-went-plains-Moab
+  - mountain-Nebo
+  - top-Pisgah
+  - against-Jericho
+  - LORD-shewed-land
+  - Gilead-Dan
+  - Naphtali
+  - land-Ephraim
+  - Manasseh
+  - land-Judah
+  - utmost-sea
+  - south
+  - plain-valley-Jericho
+  - city-palm-trees
+  - Zoar
+  - LORD-said
+  - land-sware-Abraham
+  - Isaac-Jacob
+  - give-seed
+  - caused-see-eyes
+  - not-go-thither
+  - Moses-servant-LORD
+  - died-land-Moab
+  - word-LORD
+  - buried-valley-land-Moab
+  - against-Beth-peor
+  - man-knoweth-sepulchre-day
+  - hundred-twenty-years
+  - died
+  - eye-not-dim
+  - natural-force-abated
+  - children-Israel-wept-Moses
+  - plains-Moab-thirty-days
+  - weeping-mourning-Moses-ended
+  - Joshua-son-Nun
+  - full-spirit-wisdom
+  - Moses-laid-hands
+  - children-Israel-hearkened
+  - LORD-commanded-Moses
+  - prophet-Israel-like-Moses
+  - LORD-knew-face-face
+  - signs-wonders
+  - LORD-sent
+  - land-Egypt
+  - Pharaoh
+  - servants-land
+  - mighty-hand
+  - great-terror
+  - Moses-shewed
+  - sight-Israel
+---
 # Deuteronomy 34
 
 ---
@@ -114,7 +171,7 @@ Moses ascended from Moab plains to Mount Nebo's top (Pisgah) overlooking Jericho
 
 
 *AI Keywords for current event matching:*
-`abated` `abraham` `against` `age` `ascent` `beth` `buried` `caused` `children` `city` `commanded` `dan` `day` `days` `death` `died` `dim` `divine` `egypt` `ended` `ephraim` `eye` `eyes` `face` `final` `force` `full` `gilead` `give` `great` `hand` `hands` `hearkened` `hundred` `isaac` `israel` `israels` `jacob` `jericho` `joshua` `judah` `knew` `knoweth` `laid` `land` `leadership` `like` `lord` `man` `manasseh` `mighty` `moab` `moses` `mountain` `mourning` `naphtali` `natural` `nebo` `nun` `palm` `peor` `pharaoh` `pisgah` `plain` `plains` `promise` `prophet` `prophetic` `said` `sea` `see` `seed` `sent` `sepulchre` `servant` `servants` `shewed` `sight` `signs` `son` `south` `spirit` `sware` `terror` `thirty` `thither` `top` `transition` `trees` `twenty` `uniqueness` `utmost` `valley` `weeping` `went` `wept` `wisdom` `wonders` `word` `years` `zoar`
+#abated #abraham #against #age #ascent #beth #buried #caused #children #city #commanded #dan #day #days #death #died #dim #divine #egypt #ended #ephraim #eye #eyes #face #final #force #full #gilead #give #great #hand #hands #hearkened #hundred #isaac #israel #israels #jacob #jericho #joshua #judah #knew #knoweth #laid #land #leadership #like #lord #man #manasseh #mighty #moab #moses #mountain #mourning #naphtali #natural #nebo #nun #palm #peor #pharaoh #pisgah #plain #plains #promise #prophet #prophetic #said #sea #see #seed #sent #sepulchre #servant #servants #shewed #sight #signs #son #south #spirit #sware #terror #thirty #thither #top #transition #trees #twenty #uniqueness #utmost #valley #weeping #went #wept #wisdom #wonders #word #years #zoar
 
 
 ---

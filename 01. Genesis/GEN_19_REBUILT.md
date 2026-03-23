@@ -1,3 +1,62 @@
+---
+book: "Genesis"
+chapter: 19
+testament: "Old Testament"
+key_themes: "Two Angels Arrive at Sodom — Evening; Lot Sitting at the Gate, Lot's Hospitality — Lesser Than Abraham's but Real, "That We May Know Them" — Sodom's Sin Exposed, All the Men of the City Every Quarter — The Totality of Corruption, Lot Offers His Daughters — Recorded Not Endorsed, Angels Pull Lot In — The Men of Sodom Struck Blind, "Hast Thou Any Besides?" — Angels Urge Total Evacuation, Sons-in-Law Mock — The Warning Rejected, Lot Lingered — "The LORD Being Merciful", Physically Led Out by the Hand, "Escape for Thy Life — Look Not Behind Thee", Lot Negotiates Zoar — The Small Mercy, The Sun Rose When Lot Entered Zoar — Divine Precision, "The LORD Rained Brimstone and Fire from the LORD Out of Heaven", Lot's Wife Looked Back — Pillar of Salt, Abraham Sees the Smoke Like a Furnace, "God Remembered Abraham" — Intercession Answered, Lot Flees to the Cave — Fear After Deliverance, Moab and Ammon Born — Nations from the Cave"
+tags:
+  - two-angels-Sodom
+  - Lot-at-the-gate
+  - civic-position-spiritual-compromise
+  - Lot-hospitality
+  - lesser-than-Abraham
+  - that-we-may-know-them
+  - yada-sexual
+  - all-the-men-every-quarter
+  - societal-judgment
+  - Lot-offers-daughters
+  - recorded-not-endorsed
+  - shadow-of-my-roof
+  - angels-pull-Lot-in
+  - struck-blind
+  - sanverim
+  - sons-in-law-mock
+  - Lot-lingered
+  - mahah
+  - LORD-being-merciful
+  - physically-led-out
+  - escape-for-thy-life
+  - look-not-behind-thee
+  - Zoar-small
+  - sun-rose-when-Lot-entered
+  - fire-and-brimstone
+  - esh-v-gofrit
+  - divine-judgment-template
+  - Lots-wife-pillar-of-salt
+  - netsiv-melach
+  - Luke-17-32-remember
+  - smoke-like-a-furnace
+  - Genesis-15-17-connection
+  - God-remembered-Abraham
+  - zakar-covenant-memory
+  - intercession-answered-Genesis-18
+  - Lot-cave
+  - daughters-preserve-seed
+  - Moab
+  - Ben-ammi
+  - Ammon
+  - Ruth-from-Moab
+  - grace-through-judgment
+  - Jude-7
+  - 2-Peter-2-7
+  - Romans-1-26-27
+  - Ezekiel-16-49-50
+  - Isaiah-1-9
+  - Matthew-10-15
+  - Luke-17-28-32
+  - Revelation-11-8
+  - Revelation-20-10
+  - Revelation-21-8
+---
 # Genesis 19
 
 ---
@@ -173,7 +232,7 @@ The two angels who left Abraham at Mamre arrived at Sodom at evening. Lot was si
 
 For AI matching to topics and current events:
 
-`Lot at gate civic position` `gradual drift toward Sodom` `hospitality contrast Abraham Lot` `that we may know them` `yada sexual context` `all the men every quarter` `societal moral collapse` `Lot offers daughters recorded not endorsed` `shadow of my roof` `hospitality code` `angels pull Lot in` `struck blind sanverim` `continued sinning after blindness` `reprobate mind Romans 1:28` `sons-in-law mock` `warning rejected` `Lot lingered mahah` `LORD being merciful` `physically led out by hand` `escape for thy life` `look not behind thee` `escape to mountain` `Zoar small` `fire and brimstone` `gofrit esh` `divine judgment template` `Sodom throughout Scripture` `Isaiah 1:9` `Matthew 10:15` `Matthew 11:23-24` `Jude 7` `2 Peter 2:7-8` `Romans 1:24-27` `Ezekiel 16:49-50` `Lot's wife pillar of salt` `netsiv melach` `Remember Lot's wife` `Luke 17:28-32` `eschatological warning` `last days normalcy` `smoke like furnace` `Genesis 15:17 connection` `God remembered Abraham` `zakar covenant action` `intercession answered Genesis 18` `James 5:16 effectual prayer` `Lot in cave` `daughters preserve seed` `Sodom-shaped morality` `Moab Ben-ammi Ammon` `Ruth from Moab` `grace through broken lineage` `Matthew 1:5 genealogy of Christ` `Revelation lake of fire brimstone` `Revelation 11:8 spiritually Sodom`
+#Lot-at-gate-civic-position #gradual-drift-toward-Sodom #hospitality-contrast-Abraham-Lot #that-we-may-know-them #yada-sexual-context #all-the-men-every-quarter #societal-moral-collapse #Lot-offers-daughters-recorded-not-endorsed #shadow-of-my-roof #hospitality-code #angels-pull-Lot-in #struck-blind-sanverim #continued-sinning-after-blindness #reprobate-mind-Romans-128 #sons-in-law-mock #warning-rejected #Lot-lingered-mahah #LORD-being-merciful #physically-led-out-by-hand #escape-for-thy-life #look-not-behind-thee #escape-to-mountain #Zoar-small #fire-and-brimstone #gofrit-esh #divine-judgment-template #Sodom-throughout-Scripture #Isaiah-19 #Matthew-1015 #Matthew-1123-24 #Jude-7 #2-Peter-27-8 #Romans-124-27 #Ezekiel-1649-50 #Lots-wife-pillar-of-salt #netsiv-melach #Remember-Lots-wife #Luke-1728-32 #eschatological-warning #last-days-normalcy #smoke-like-furnace #Genesis-1517-connection #God-remembered-Abraham #zakar-covenant-action #intercession-answered-Genesis-18 #James-516-effectual-prayer #Lot-in-cave #daughters-preserve-seed #Sodom-shaped-morality #Moab-Ben-ammi-Ammon #Ruth-from-Moab #grace-through-broken-lineage #Matthew-15-genealogy-of-Christ #Revelation-lake-of-fire-brimstone #Revelation-118-spiritually-Sodom
 
 **Relevance to Current Events:**
 - Sodom's sin and contemporary sexuality debates — Genesis 19:4-5 with Jude 7, 2 Peter 2:7, and Romans 1:26-27 gives the full biblical position; the Ezekiel 16:49 truncation is addressed in Section 8; the text requires engagement with the full canonical witness, not selective reading
@@ -490,7 +549,7 @@ For AI matching to topics and current events:
 
 ### Looking Back — Attachment to the World as the Fatal Spiritual Condition
 
-**Genesis 19:26** — Lot's wife looking back
+[[01. Genesis/GEN_19_REBUILT|Genesis 19:26]] — Lot's wife looking back
 
 **Thread from Genesis to Revelation:**
 - Genesis 19:26 — Lot's wife looked back; became a pillar of salt; the first backward-look judgment
@@ -506,7 +565,7 @@ For AI matching to topics and current events:
 
 ### Fire and Brimstone — The Temporal Type of the Eternal Judgment
 
-**Genesis 19:24** — gofrit and esh from the LORD out of heaven
+[[01. Genesis/GEN_19_REBUILT|Genesis 19:24]] — gofrit and esh from the LORD out of heaven
 
 **Thread:**
 - Genesis 19:24 — first historical fire-and-brimstone judgment; Sodom and Gomorrah
@@ -523,7 +582,7 @@ For AI matching to topics and current events:
 
 ### "God Remembered" — The Covenant Action that Delivers
 
-**Genesis 19:29** — "God remembered Abraham"
+[[01. Genesis/GEN_19_REBUILT|Genesis 19:29]] — "God remembered Abraham"
 
 **Thread:**
 - Genesis 8:1 — "God remembered Noah" → the flood ended

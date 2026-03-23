@@ -1,3 +1,41 @@
+---
+book: "Deuteronomy"
+chapter: 2
+testament: "Old Testament"
+key_themes: "God's Sovereignty Over All Nations, Boundaries Set by God, Edom/Moab/Ammon Spared, Sihon's Heart Hardened, Israel's First Military Victory East of Jordan, The Giants Before Israel"
+tags:
+  - deuteronomy
+  - chapter2
+  - Edom
+  - Esau
+  - Seir
+  - Moab
+  - Lot
+  - Ammon
+  - Sihon
+  - Amorites
+  - Heshbon
+  - Arnon
+  - Zered
+  - thirty-eight-years
+  - giants
+  - Rephaim
+  - Emims
+  - Anakims
+  - Zamzummims
+  - Horims
+  - Caphtorims
+  - hardened-heart
+  - God-sovereignty-nations
+  - buy-food-water
+  - land-boundaries
+  - forty-years-wilderness
+  - men-of-war-consumed
+  - no-foot-breadth-Esau
+  - words-of-peace-rejected
+  - fear-of-Israel
+  - devoted-to-destruction
+---
 # Deuteronomy 2
 
 ---
@@ -106,7 +144,7 @@ After the thirty-eight years of wandering until the generation of fighting men w
 
 ## KEYWORD INDEX
 
-`Edom/Esau` `Moab/Ammon` `thirty-eight years` `men of war consumed` `Sihon` `words of peace` `dread of thee` `bought food and water` `Arnon`
+#EdomEsau #MoabAmmon #thirty-eight-years #men-of-war-consumed #Sihon #words-of-peace #dread-of-thee #bought-food-and-water #Arnon
 
 **Edom/Esau** — God-assigned territory, do not meddle, buy food and water  
 **Moab/Ammon** — Lot's descendants, their land also God-given, do not distress  

@@ -1,3 +1,33 @@
+---
+book: "Exodus"
+chapter: 21
+testament: "Old Testament"
+key_themes: "The Book of the Covenant begins, Hebrew servitude and the seventh-year release, The bondservant who chooses to stay — love over freedom, Capital offenses, Lex talionis — eye for eye, The unborn child and the law, Slavery laws that restrict and protect, The law as the reflection of God's moral order"
+tags:
+  - book-of-the-covenant
+  - civil-law
+  - judgments
+  - Hebrew-servant
+  - seventh-year-release
+  - bondservant-by-love
+  - ear-bored-with-aul
+  - doorpost
+  - maidservant
+  - murder-capital-offense
+  - cities-of-refuge-anticipated
+  - smiting-parents
+  - kidnapping-capital-offense
+  - cursing-parents
+  - lex-talionis
+  - eye-for-eye
+  - life-for-life
+  - tooth-for-tooth
+  - unborn-child
+  - ox-goring
+  - compensation
+  - proportional-justice
+  - slave-protection
+---
 # Exodus 21
 
 ---
@@ -92,7 +122,7 @@ God gives Moses "the judgments" — the civil and criminal code that governs Isr
 
 
 *AI Keywords for current event matching:*
-`ancient` `code` `current` `events` `exodus` `humane` `labor` `law` `matching` `most` `release` `servitude` `seventh-year` `slavery`
+#ancient #code #current #events #exodus #humane #labor #law #matching #most #release #servitude #seventh-year #slavery
 
 
 ---

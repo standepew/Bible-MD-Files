@@ -1,3 +1,13 @@
+---
+book: "Ezekiel"
+chapter: 30
+testament: "Old Testament"
+key_themes: "Christ's Judgment, Egypt's Fall, Divine Fury, Christ's Sword"
+tags:
+  - christ
+  - egypt
+  - divine-fury
+---
 # Ezekiel 30
 
 ---
@@ -117,7 +127,7 @@ Word, Lord, son, man, prophesy, Lord, GOD, Howl, woe, day, day, near, day, Lord,
 
 
 *AI Keywords for current event matching:*
-`broken` `christs` `cities` `countries` `day` `desolate` `divine` `draw` `egypt` `egypts` `fall` `fill` `fire` `foundations` `fury` `great` `hand` `judgment` `land` `lord` `nations` `pain` `pour` `power` `pride` `scatter` `slain` `stretch` `sword` `swords` `terrible` `wasted` `woe`
+#broken #christs #cities #countries #day #desolate #divine #draw #egypt #egypts #fall #fill #fire #foundations #fury #great #hand #judgment #land #lord #nations #pain #pour #power #pride #scatter #slain #stretch #sword #swords #terrible #wasted #woe
 
 
 ---

@@ -1,3 +1,151 @@
+---
+book: "Deuteronomy"
+chapter: 29
+testament: "Old Testament"
+key_themes: "Covenant Renewal, Moab Covenant, Historical Review, Wilderness Provision, Divine Care, Covenant Inclusion, Root of Bitterness, Self-Deception, Covenant Violation, Land Desolation, Sodom and Gomorrah Judgment, National Testimony, Secret and Revealed Things"
+tags:
+  - words-covenant
+  - LORD-commanded-Moses
+  - make-children-Israel
+  - land-Moab
+  - beside-covenant
+  - Horeb
+  - Moses-called-Israel
+  - seen-LORD
+  - eyes-land-Egypt
+  - Pharaoh
+  - servants-land
+  - great-temptations
+  - eyes-seen
+  - signs-great-miracles
+  - LORD-not-given
+  - heart-perceive
+  - eyes-see
+  - ears-hear
+  - day
+  - led-forty-years
+  - wilderness
+  - clothes-not-waxen
+  - shoe-not-waxen
+  - not-eaten-bread
+  - not-drunk-wine
+  - strong-drink
+  - know-LORD-God
+  - came-place
+  - Sihon-king-Heshbon
+  - Og-king-Bashan
+  - came-battle
+  - smote-them
+  - took-land
+  - inheritance
+  - Reubenites
+  - Gadites
+  - half-tribe-Manasseh
+  - keep-words-covenant
+  - do-them
+  - prosper-all-ye-do
+  - stand-day
+  - LORD-God
+  - captains-tribes
+  - elders-officers
+  - men-Israel
+  - little-ones
+  - wives
+  - stranger-camp
+  - hewer-wood
+  - drawer-water
+  - enter-covenant
+  - LORD-God
+  - oath
+  - LORD-God-make-day
+  - establish-day
+  - people-unto-himself
+  - God-thee
+  - said-thee
+  - sworn-fathers
+  - Abraham-Isaac-Jacob
+  - thee-only
+  - make-covenant
+  - oath
+  - stand-here
+  - day
+  - LORD-God
+  - also-not-here
+  - dwelt-land-Egypt
+  - came-through-nations
+  - passed-by
+  - seen-abominations
+  - idols-wood-stone
+  - silver-gold
+  - among-them
+  - man-woman-family-tribe
+  - heart-turneth
+  - day
+  - LORD-God
+  - go-serve-gods
+  - nations
+  - root-beareth-gall-wormwood
+  - hear-words-curse
+  - blesseth-heart
+  - peace-walk
+  - imagination-heart
+  - add-drunkenness-thirst
+  - LORD-not-spare
+  - anger-LORD
+  - jealousy-smoke
+  - man
+  - curses-written-book
+  - lie-upon
+  - LORD-blot-out-name
+  - under-heaven
+  - separate-evil
+  - tribes-Israel
+  - curses-covenant
+  - written-book-law
+  - generation-come
+  - children-rise
+  - stranger-come
+  - far-land
+  - plagues-land
+  - sicknesses-LORD-laid
+  - whole-land-brimstone
+  - salt-burning
+  - not-sown
+  - not-bear
+  - grass-groweth
+  - overthrow-Sodom
+  - Gomorrah
+  - Admah
+  - Zeboim
+  - LORD-overthrew
+  - anger-wrath
+  - nations-say
+  - LORD-done-land
+  - heat-great-anger
+  - men-say
+  - forsaken-covenant
+  - LORD-God-fathers
+  - made-brought-forth
+  - land-Egypt
+  - went-served-gods
+  - worshipped-them
+  - gods-knew-not
+  - not-given-them
+  - anger-LORD-kindled
+  - land
+  - bring-curses
+  - written-book
+  - LORD-rooted-out
+  - land-anger
+  - wrath-great-indignation
+  - cast-another-land
+  - day
+  - secret-things
+  - LORD-God
+  - revealed-things
+  - us-children
+  - do-words-law
+---
 # Deuteronomy 29
 
 ---
@@ -118,7 +266,7 @@ Moses renews the covenant in Moab, distinct from the Horeb covenant. He reviews 
 
 
 *AI Keywords for current event matching:*
-`abominations` `abraham` `add` `admah` `among` `anger` `another` `bashan` `battle` `bear` `beareth` `beside` `blesseth` `blot` `book` `bread` `brimstone` `bring` `brought` `burning` `called` `came` `camp` `captains` `cast` `children` `clothes` `come` `commanded` `covenant` `curse` `curses` `day` `deception` `desolation` `divine` `done` `drawer` `drink` `drunk` `drunkenness` `dwelt` `ears` `eaten` `egypt` `elders` `enter` `establish` `evil` `eyes` `family` `far` `fathers` `forsaken` `forth` `forty` `gadites` `gall` `generation` `given` `god` `gods` `gold` `gomorrah` `grass` `great` `groweth` `half` `hear` `heart` `heat` `heaven` `here` `heshbon` `hewer` `himself` `historical` `horeb` `idolatry` `idols` `imagination` `inclusion` `indignation` `inheritance` `isaac` `israel` `jacob` `jealousy` `keep` `kindled` `king` `knew` `know` `laid` `land` `law` `led` `lie` `little` `lord` `made` `make` `man` `manasseh` `men` `miracles` `moab` `moses` `name` `national` `nations` `oath` `officers` `ones` `overthrew` `overthrow` `passed` `peace` `people` `perceive` `pharaoh` `place` `plagues` `prosper` `renewal` `reubenites` `revealed` `review` `rise` `root` `rooted` `said` `salt` `say` `secret` `see` `seen` `separate` `servants` `serve` `served` `shoe` `sicknesses` `signs` `sihon` `silver` `smoke` `smote` `sodom` `sovereignty` `sown` `spare` `spiritual` `stand` `stone` `stranger` `strong` `sworn` `temptations` `testimony` `things` `thirst` `took` `tribe` `tribes` `turneth` `violation` `walk` `warning` `water` `waxen` `went` `whole` `wilderness` `wine` `wives` `woman` `wood` `words` `wormwood` `worshipped` `wrath` `written` `years` `zeboim`
+#abominations #abraham #add #admah #among #anger #another #bashan #battle #bear #beareth #beside #blesseth #blot #book #bread #brimstone #bring #brought #burning #called #came #camp #captains #cast #children #clothes #come #commanded #covenant #curse #curses #day #deception #desolation #divine #done #drawer #drink #drunk #drunkenness #dwelt #ears #eaten #egypt #elders #enter #establish #evil #eyes #family #far #fathers #forsaken #forth #forty #gadites #gall #generation #given #god #gods #gold #gomorrah #grass #great #groweth #half #hear #heart #heat #heaven #here #heshbon #hewer #himself #historical #horeb #idolatry #idols #imagination #inclusion #indignation #inheritance #isaac #israel #jacob #jealousy #keep #kindled #king #knew #know #laid #land #law #led #lie #little #lord #made #make #man #manasseh #men #miracles #moab #moses #name #national #nations #oath #officers #ones #overthrew #overthrow #passed #peace #people #perceive #pharaoh #place #plagues #prosper #renewal #reubenites #revealed #review #rise #root #rooted #said #salt #say #secret #see #seen #separate #servants #serve #served #shoe #sicknesses #signs #sihon #silver #smoke #smote #sodom #sovereignty #sown #spare #spiritual #stand #stone #stranger #strong #sworn #temptations #testimony #things #thirst #took #tribe #tribes #turneth #violation #walk #warning #water #waxen #went #whole #wilderness #wine #wives #woman #wood #words #wormwood #worshipped #wrath #written #years #zeboim
 
 
 ---

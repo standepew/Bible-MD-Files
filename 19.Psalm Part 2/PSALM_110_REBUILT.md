@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 110
+testament: "Old Testament"
+key_themes: "Christ's Lordship, Priestly Order, Divine Victory, Eternal Priesthood"
+tags:
+  - christ
+  - priestly-order
+  - divine-victory
+  - eternal-priesthood
+---
 # Psalm 110
 
 ---
@@ -117,7 +128,7 @@ Psalm, David, LORD, said, Lord, Sit, right, hand, make, enemies, footstool, LORD
 
 
 *AI Keywords for current event matching:*
-`beauties` `bodies` `christs` `countries` `day` `dead` `dew` `divine` `enemies` `eternal` `fill` `footstool` `forever` `hand` `heads` `heathen` `holiness` `judge` `kings` `lord` `lordship` `make` `melchizedek` `midst` `morning` `order` `people` `places` `power` `priest` `priesthood` `priestly` `repent` `right` `rod` `rule` `said` `send` `sit` `strength` `strike` `sworn` `victory` `willing` `womb` `wound` `wrath` `youth` `zion`
+#beauties #bodies #christs #countries #day #dead #dew #divine #enemies #eternal #fill #footstool #forever #hand #heads #heathen #holiness #judge #kings #lord #lordship #make #melchizedek #midst #morning #order #people #places #power #priest #priesthood #priestly #repent #right #rod #rule #said #send #sit #strength #strike #sworn #victory #willing #womb #wound #wrath #youth #zion
 
 
 ---

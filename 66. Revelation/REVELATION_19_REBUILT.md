@@ -1,3 +1,15 @@
+---
+book: "Revelation"
+chapter: 19
+testament: "New Testament"
+key_themes: "The Hallelujah Chorus, The Marriage Supper of the Lamb, The Rider on the White Horse, The Supper of the Great God, The Beast and False Prophet Destroyed"
+tags:
+  - the-hallelujah-chorus
+  - the-marriage-supper-of-the-lamb
+  - the-rider-on-the-white-horse
+  - the-supper-of-the-great-god
+  - the-beast-and-false-prophet-destroyed
+---
 # Revelation 19
 
 ---
@@ -119,7 +131,7 @@ Great, voice, people, heaven, Alleluia, Salvation, glory, honour, power, Lord, G
 
 
 *AI Keywords for current event matching:*
-`again` `alive` `alleluia` `almighty` `amen` `angel` `armies` `army` `arrayed` `avenged` `beast` `beasts` `blessed` `blood` `bond` `brethren` `brimstone` `called` `captains` `cast` `chorus` `clean` `clothed` `corrupt` `crowns` `cry` `deceived` `destroyed` `dipped` `earth` `eat` `elders` `eyes` `faithful` `false` `fear` `feet` `fell` `fellowservant` `fierceness` `filled` `fine` `fire` `flame` `flesh` `fly` `followed` `forever` `fornication` `four` `fowls` `free` `gather` `gathered` `glad` `glory` `god` `great` `hallelujah` `head` `heaven` `honour` `horse` `horses` `image` `iron` `jesus` `judge` `judged` `judgments` `king` `kings` `knew` `lake` `lamb` `linen` `lord` `lords` `loud` `mark` `marriage` `men` `midst` `mighty` `miracles` `mouth` `multitude` `name` `nations` `omnipotent` `opened` `people` `power` `praise` `prophecy` `prophet` `ready` `reigneth` `rejoice` `remnant` `rider` `righteous` `righteousness` `rod` `rule` `saints` `salvation` `sat` `sayings` `servants` `sharp` `sit` `slain` `small` `smite` `smoke` `spirit` `sun` `supper` `sword` `testimony` `thigh` `throne` `thunderings` `tread` `true` `twenty` `vesture` `voice` `war` `waters` `white` `whore` `wife` `winepress` `word` `worship` `worshipped` `wrath` `write` `written` `wrought`
+#again #alive #alleluia #almighty #amen #angel #armies #army #arrayed #avenged #beast #beasts #blessed #blood #bond #brethren #brimstone #called #captains #cast #chorus #clean #clothed #corrupt #crowns #cry #deceived #destroyed #dipped #earth #eat #elders #eyes #faithful #false #fear #feet #fell #fellowservant #fierceness #filled #fine #fire #flame #flesh #fly #followed #forever #fornication #four #fowls #free #gather #gathered #glad #glory #god #great #hallelujah #head #heaven #honour #horse #horses #image #iron #jesus #judge #judged #judgments #king #kings #knew #lake #lamb #linen #lord #lords #loud #mark #marriage #men #midst #mighty #miracles #mouth #multitude #name #nations #omnipotent #opened #people #power #praise #prophecy #prophet #ready #reigneth #rejoice #remnant #rider #righteous #righteousness #rod #rule #saints #salvation #sat #sayings #servants #sharp #sit #slain #small #smite #smoke #spirit #sun #supper #sword #testimony #thigh #throne #thunderings #tread #true #twenty #vesture #voice #war #waters #white #whore #wife #winepress #word #worship #worshipped #wrath #write #written #wrought
 
 
 ---

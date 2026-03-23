@@ -1,3 +1,33 @@
+---
+book: "Numbers"
+chapter: 36
+testament: "Old Testament"
+key_themes: "The final chapter of Numbers — the case of Zelophehad's daughters returns; the men of Manasseh raise a new concern, If the daughters marry outside their tribe, their inherited land transfers to the other tribe — and in the Year of Jubilee the land stays there permanently, God's answer: the daughters may marry whomever they choose — but only within the tribe of their father, Every daughter in Israel who inherits land must marry within her tribe — the inheritance shall not be transferred between tribes, The daughters obey: Mahlah, Tirzah, Hoglah, Milcah, and Noah marry their cousins within Manasseh, "These are the commandments and the judgments, which the LORD commanded by the hand of Moses unto the children of Israel in the plains of Moab by Jordan near Jericho" — the closing formula of Numbers"
+tags:
+  - chief-fathers-of-Gilead
+  - daughters-of-Zelophehad
+  - inheritance-by-lot
+  - if-married-to-other-tribes
+  - inheritance-removed-from-our-tribe
+  - put-to-tribe-whereunto-received
+  - jubile-confirms-transfer
+  - tribe-of-Joseph-said-well
+  - marry-whom-they-think-best
+  - married-fathers-brothers-sons
+  - within-Manasseh
+  - inheritance-remained-in-tribe
+  - closing-formula-plains-of-Moab
+  - the-final-chapter-of-numbers
+  - the-men-of-manasseh-raise-a
+  - if-the-daughters-marry-outside-their
+  - god
+  - every-daughter-in-israel-who-inherits
+  - the-daughters-obey-mahlah
+  - tirzah
+  - hoglah
+  - milcah-and-noah-marry-their-cousins
+  - these-are-the-commandments-and-the
+---
 # Numbers 36
 
 ---
@@ -64,7 +94,7 @@ The chief fathers of the families of Gilead son of Machir son of Manasseh come b
 
 
 *AI Keywords for current event matching:*
-`367-9` `boundaries` `community` `covenant` `current` `events` `inheritance` `matching` `must` `numbers` `permanently` `principle` `rights` `transferred` `tribalfamily`
+#367-9 #boundaries #community #covenant #current #events #inheritance #matching #must #numbers #permanently #principle #rights #transferred #tribalfamily
 
 
 ---

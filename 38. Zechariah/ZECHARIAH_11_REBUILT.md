@@ -1,3 +1,14 @@
+---
+book: "Zechariah"
+chapter: 11
+testament: "Old Testament"
+key_themes: "Christ's Rejection, Thirty Pieces of Silver, Broken Covenant, Foolish Shepherd"
+tags:
+  - christ
+  - thirty-pieces-of-silver
+  - broken-covenant
+  - foolish-shepherd
+---
 # Zechariah 11
 
 ---
@@ -117,7 +128,7 @@ Open, doors, Lebanon, fire, devour, cedars, Howl, fir, tree, cedar, fallen, migh
 
 
 *AI Keywords for current event matching:*
-`arm` `asunder` `break` `broken` `cast` `christs` `covenant` `cut` `day` `devour` `doors` `eat` `fire` `flesh` `flock` `foolish` `give` `good` `lord` `open` `pieces` `possessors` `potter` `price` `rejection` `shepherd` `silver` `slaughter` `slay` `sword` `think` `thirty` `visit` `word`
+#arm #asunder #break #broken #cast #christs #covenant #cut #day #devour #doors #eat #fire #flesh #flock #foolish #give #good #lord #open #pieces #possessors #potter #price #rejection #shepherd #silver #slaughter #slay #sword #think #thirty #visit #word
 
 
 ---

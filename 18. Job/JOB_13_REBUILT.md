@@ -1,3 +1,28 @@
+---
+book: "Job"
+chapter: 13
+testament: "Old Testament"
+key_themes: "Job's Defense, Faith in God, Desire for Dialogue, Self-Examination"
+tags:
+  - eye-seen-ear-heard-understood
+  - know-inferior-Almighty-reason-GOD
+  - forgers-lies-physicians-value
+  - hold-peace-wisdom
+  - reasoning-pleadings-lips
+  - speak-wickedly-deceitfully
+  - accept-person-contend-GOD
+  - excellency-afraid-dread
+  - remembrances-ashes-bodies-clay
+  - diligently-speech-declaration-ears
+  - call-answer-speak-answer
+  - iniquities-sins-transgression-sin
+  - hidest-face-enemy-leaf-stubble
+  - rotten-consumeth-garment-moth-eaten
+  - job
+  - faith-in-god
+  - desire-for-dialogue
+  - selfexamination
+---
 # Job 13
 
 ---
@@ -117,7 +142,7 @@ Eye, seen, ear, heard, understood. Know, inferior, Almighty, reason, GOD. Forger
 
 
 *AI Keywords for current event matching:*
-`accept` `afraid` `almighty` `alone` `ashes` `bodies` `cause` `clay` `contend` `deceitfully` `declaration` `defense` `desire` `dialogue` `diligently` `dread` `ear` `ears` `excellency` `eye` `faith` `flesh` `forgers` `ghost` `god` `hand` `heard` `hide` `hold` `hypocrite` `inferior` `jobs` `justified` `know` `lies` `life` `lips` `maintain` `mock` `ordered` `peace` `person` `persons` `physicians` `plead` `pleadings` `reason` `reasoning` `remembrances` `reprove` `salvation` `search` `secretly` `seen` `self-examination` `slay` `speak` `speech` `teeth` `things` `tongue` `trust` `two` `understood` `value` `ways` `wickedly` `wisdom` `withdraw`
+#accept #afraid #almighty #alone #ashes #bodies #cause #clay #contend #deceitfully #declaration #defense #desire #dialogue #diligently #dread #ear #ears #excellency #eye #faith #flesh #forgers #ghost #god #hand #heard #hide #hold #hypocrite #inferior #jobs #justified #know #lies #life #lips #maintain #mock #ordered #peace #person #persons #physicians #plead #pleadings #reason #reasoning #remembrances #reprove #salvation #search #secretly #seen #self-examination #slay #speak #speech #teeth #things #tongue #trust #two #understood #value #ways #wickedly #wisdom #withdraw
 
 
 ---

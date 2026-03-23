@@ -1,3 +1,14 @@
+---
+book: "Ezra"
+chapter: 6
+testament: "Old Testament"
+key_themes: "Royal Decree, Temple Completed, Dedication Celebrated, Passover Observed"
+tags:
+  - royal-decree
+  - temple-completed
+  - dedication-celebrated
+  - passover-observed
+---
 # Ezra 6
 
 ---
@@ -165,7 +176,7 @@ Darius, king, decree, search, house, rolls, treasures, laid, Babylon. Found, Ach
 
 
 *AI Keywords for current event matching:*
-`achmetha` `adar` `alter` `apharsachites` `appointment` `artaxerxes` `assyria` `ate` `babylon` `beyond` `book` `boznai` `bread` `breadth` `brethren` `build` `builded` `building` `bullocks` `burnt` `captivity` `caused` `celebrated` `children` `commandment` `companions` `completed` `courses` `cubits` `cyrus` `darius` `day` `days` `decree` `dedication` `destroy` `divisions` `dunghill` `dwell` `elders` `expenses` `fail` `far` `feast` `filthiness` `finished` `first` `found` `foundations` `four` `fourteenth` `goats` `god` `golden` `goods` `governor` `great` `haggai` `hands` `hanged` `heart` `heathen` `heaven` `height` `hindered` `house` `hundred` `iddo` `israel` `jerusalem` `jews` `joy` `joyful` `killed` `king` `kings` `laid` `lambs` `land` `levites` `life` `lord` `medes` `men` `month` `moses` `name` `nebuchadnezzar` `need` `new` `number` `observed` `offered` `offering` `offerings` `oil` `palace` `passover` `people` `persia` `place` `pray` `priests` `prophesying` `prophet` `prospered` `province` `pulled` `pure` `purified` `rams` `record` `reign` `restored` `river` `roll` `rolls` `row` `rows` `royal` `sacrifices` `salt` `savours` `search` `seek` `sent` `separated` `service` `set` `seven` `shethar` `side` `silver` `sin` `sixth` `son` `sons` `speed` `speedily` `stones` `strengthen` `strongly` `sweet` `tatnai` `temple` `thence` `third` `three` `threescore` `timber` `treasures` `tribes` `tribute` `turned` `twelve` `two` `unleavened` `vessels` `wheat` `whosoever` `wine` `word` `work` `written` `year` `zechariah`
+#achmetha #adar #alter #apharsachites #appointment #artaxerxes #assyria #ate #babylon #beyond #book #boznai #bread #breadth #brethren #build #builded #building #bullocks #burnt #captivity #caused #celebrated #children #commandment #companions #completed #courses #cubits #cyrus #darius #day #days #decree #dedication #destroy #divisions #dunghill #dwell #elders #expenses #fail #far #feast #filthiness #finished #first #found #foundations #four #fourteenth #goats #god #golden #goods #governor #great #haggai #hands #hanged #heart #heathen #heaven #height #hindered #house #hundred #iddo #israel #jerusalem #jews #joy #joyful #killed #king #kings #laid #lambs #land #levites #life #lord #medes #men #month #moses #name #nebuchadnezzar #need #new #number #observed #offered #offering #offerings #oil #palace #passover #people #persia #place #pray #priests #prophesying #prophet #prospered #province #pulled #pure #purified #rams #record #reign #restored #river #roll #rolls #row #rows #royal #sacrifices #salt #savours #search #seek #sent #separated #service #set #seven #shethar #side #silver #sin #sixth #son #sons #speed #speedily #stones #strengthen #strongly #sweet #tatnai #temple #thence #third #three #threescore #timber #treasures #tribes #tribute #turned #twelve #two #unleavened #vessels #wheat #whosoever #wine #word #work #written #year #zechariah
 
 
 ---

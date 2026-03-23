@@ -1,3 +1,14 @@
+---
+book: "Hosea"
+chapter: 11
+testament: "Old Testament"
+key_themes: "Christ's Fatherly Love, Divine Compassion, Lion's Roar, Faithful Remnant"
+tags:
+  - christ
+  - divine-compassion
+  - lion
+  - faithful-remnant
+---
 # Hosea 11
 
 ---
@@ -105,7 +116,7 @@ Israel, child, loved, called, son, Egypt, called, sacrificed, Baalim, burned, in
 
 
 *AI Keywords for current event matching:*
-`bands` `bird` `called` `child` `children` `christs` `compasseth` `compassion` `cords` `destroy` `divine` `execute` `faithful` `fatherly` `god` `holy` `house` `israel` `judah` `lies` `lion` `lions` `lord` `love` `loved` `man` `one` `remnant` `roar` `ruleth` `saints` `son` `tremble` `walk`
+#bands #bird #called #child #children #christs #compasseth #compassion #cords #destroy #divine #execute #faithful #fatherly #god #holy #house #israel #judah #lies #lion #lions #lord #love #loved #man #one #remnant #roar #ruleth #saints #son #tremble #walk
 
 
 ---

@@ -1,3 +1,14 @@
+---
+book: "Ezekiel"
+chapter: 8
+testament: "Old Testament"
+key_themes: "Christ's Vision, Temple Abominations, Idolatry's Exposure, Divine Fury"
+tags:
+  - christ
+  - temple-abominations
+  - idolatry
+  - divine-fury
+---
 # Ezekiel 8
 
 ---
@@ -141,7 +152,7 @@ Sixth, year, sixth, month, fifth, day, month, sat, house, elders, Judah, sat, ha
 
 
 *AI Keywords for current event matching:*
-`abominations` `appearance` `branch` `christs` `creeping` `deal` `divine` `exposure` `eye` `fell` `fire` `fury` `god` `hand` `hear` `hole` `idolatrys` `idols` `image` `israel` `jealousy` `lifted` `men` `nose` `pity` `seventy` `spare` `spirit` `sun` `tammuz` `temple` `things` `vision` `visions` `wall` `weeping` `worshipped`
+#abominations #appearance #branch #christs #creeping #deal #divine #exposure #eye #fell #fire #fury #god #hand #hear #hole #idolatrys #idols #image #israel #jealousy #lifted #men #nose #pity #seventy #spare #spirit #sun #tammuz #temple #things #vision #visions #wall #weeping #worshipped
 
 
 ---

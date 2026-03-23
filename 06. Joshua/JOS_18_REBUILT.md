@@ -1,3 +1,82 @@
+---
+book: "Joshua"
+chapter: 18
+testament: "Old Testament"
+key_themes: "Shiloh Assembly, Tabernacle Setup, Land Survey, Seven Tribes, Casting Lots, Benjamin's Inheritance, Tribal Boundaries, City List"
+tags:
+  - congregation-children-Israel-assembled-Shiloh
+  - set-tabernacle-congregation
+  - land-subdued
+  - remained-children-Israel-seven-tribes
+  - received-inheritance
+  - Joshua-children-Israel
+  - slack-possess-land
+  - LORD-God-fathers-given
+  - three-men-tribe
+  - send-rise-land
+  - describe-inheritance
+  - divide-seven-parts
+  - Judah-abide-coast-south
+  - house-Joseph-abide-coasts-north
+  - describe-land-seven-parts
+  - description-cast-lots
+  - LORD-God
+  - Levites-part
+  - priesthood-LORD-inheritance
+  - Moses-servant-LORD-gave
+  - men-arose-went
+  - Joshua-charged-men-describe-land
+  - walk-land-describe
+  - cast-lots-LORD-Shiloh
+  - men-passed-land
+  - described-cities-seven-parts-book
+  - Joshua-host-Shiloh
+  - Joshua-cast-lots-Shiloh-LORD
+  - divided-land-children-Israel-divisions
+  - lot-tribe-children-Benjamin-families
+  - border-north-Jordan
+  - border-side-Jericho-north
+  - mountains-westward
+  - goings-wilderness-Beth-aven
+  - border-descended-Ataroth-adar
+  - hill-Beth-horon-southward
+  - west-quarter
+  - south-quarter-end-Kirjath-jearim
+  - border-west
+  - well-waters-Nephtoah
+  - valley-giants-north
+  - descended-valley-Hinnom
+  - side-Jebusi-south
+  - descended-En-rogel
+  - drawn-north-En-shemesh
+  - Geliloth-going-up-Adummim
+  - descended-stone-Bohan-son-Reuben
+  - passed-side-Arabah-northward
+  - descended-Arabah
+  - border-side-Beth-hoglah-northward
+  - south-coast
+  - Jordan-border-east-side
+  - inheritance-children-Benjamin-coasts-families
+  - cities-tribe-children-Benjamin-families
+  - Jericho-Beth-hoglah-valley-Keziz
+  - Beth-arabah-Zemaraim-Beth-el
+  - Avim-Parah-Ophrah
+  - Chephar-haammonai-Ophni-Gaba
+  - twelve-cities-villages
+  - Gibeon-Ramah-Beeroth
+  - Mizpeh-Chephirah-Mozah
+  - Rekem-Irpeel-Taralah
+  - fourteen-cities-villages
+  - inheritance-children-Benjamin-families
+  - shiloh-assembly
+  - tabernacle-setup
+  - land-survey
+  - seven-tribes
+  - casting-lots
+  - benjamin
+  - tribal-boundaries
+  - city-list
+---
 # Joshua 18
 
 ---
@@ -101,7 +180,7 @@ The whole Israel congregation assembles at Shiloh and sets up the tabernacle the
 
 
 *AI Keywords for current event matching:*
-`abide` `adummim` `arabah` `arose` `assembled` `assembly` `ataroth-adar` `avim` `bay` `beeroth` `benjamin` `benjamins` `beth-arabah` `beth-aven` `beth-el` `beth-hoglah` `beth-horon` `bohan` `book` `border` `boundaries` `cast` `charged` `chephar-haammonai` `chephirah` `children` `cities` `city` `coast` `coasts` `compassed` `completion` `congregation` `corner` `descended` `describe` `described` `description` `divide` `divided` `divisions` `drawn` `east` `eleph` `en-rogel` `en-shemesh` `end` `families` `fathers` `fourteen` `gaba` `gad` `gave` `geliloth` `giants` `gibeath` `gibeon` `given` `god` `going` `goings` `half` `hill` `hinnom` `host` `house` `inheritance` `instructions` `irpeel` `israel` `jebusi` `jericho` `jerusalem` `jordan` `joseph` `joshua` `judah` `keziz` `kirjath` `kirjath-baal` `kirjath-jearim` `land` `levites` `lord` `lot` `lots` `luz` `manasseh` `men` `mizpeh` `moses` `mountain` `mountains` `mozah` `nephtoah` `nether` `north` `northward` `ophni` `ophrah` `outgoings` `parah` `part` `parts` `passed` `possess` `priesthood` `quarter` `ramah` `received` `rekem` `remained` `reuben` `rise` `salt` `sea` `send` `servant` `set` `seven` `shiloh` `side` `slack` `son` `south` `southward` `stone` `subdued` `survey` `tabernacle` `taralah` `three` `tribe` `tribes` `twelve` `unpossessed` `valley` `villages` `walk` `waters` `well` `went` `west` `westward` `wilderness` `zelah` `zemaraim`
+#abide #adummim #arabah #arose #assembled #assembly #ataroth-adar #avim #bay #beeroth #benjamin #benjamins #beth-arabah #beth-aven #beth-el #beth-hoglah #beth-horon #bohan #book #border #boundaries #cast #charged #chephar-haammonai #chephirah #children #cities #city #coast #coasts #compassed #completion #congregation #corner #descended #describe #described #description #divide #divided #divisions #drawn #east #eleph #en-rogel #en-shemesh #end #families #fathers #fourteen #gaba #gad #gave #geliloth #giants #gibeath #gibeon #given #god #going #goings #half #hill #hinnom #host #house #inheritance #instructions #irpeel #israel #jebusi #jericho #jerusalem #jordan #joseph #joshua #judah #keziz #kirjath #kirjath-baal #kirjath-jearim #land #levites #lord #lot #lots #luz #manasseh #men #mizpeh #moses #mountain #mountains #mozah #nephtoah #nether #north #northward #ophni #ophrah #outgoings #parah #part #parts #passed #possess #priesthood #quarter #ramah #received #rekem #remained #reuben #rise #salt #sea #send #servant #set #seven #shiloh #side #slack #son #south #southward #stone #subdued #survey #tabernacle #taralah #three #tribe #tribes #twelve #unpossessed #valley #villages #walk #waters #well #went #west #westward #wilderness #zelah #zemaraim
 
 
 ---

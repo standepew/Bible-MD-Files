@@ -1,3 +1,44 @@
+---
+book: "Judges"
+chapter: 16
+testament: "Old Testament"
+key_themes: "Gaza Harlot, Gate Removal, Delilah's Betrayal, Nazarite Secret, Strength Lost, Eyes Put Out, Prison Grinding, Dagon Worship, Final Victory, Death and Burial"
+tags:
+  - Samson-Gaza-harlot-went
+  - Gazites-told-Samson-come
+  - quiet-night-morning-kill
+  - loved-woman-valley-Sorek-Delilah
+  - eleven-hundred-pieces-silver
+  - men-lying-wait-chamber
+  - strength-known
+  - Delilah-Samson-mocked-lies-bind
+  - new-ropes-occupied-weak-man
+  - Delilah-new-ropes-bound
+  - weave-seven-locks-head-web
+  - fastened-pin-Philistines-Samson
+  - awaked-sleep-pin-beam-web
+  - shaven-strength-go-weak-man
+  - lords-Philistines-money-hand
+  - afflicted-strength-went
+  - LORD-departed
+  - hair-head-grew-shaven
+  - god-delivered-Samson-enemy-hand
+  - people-saw-praised-god
+  - hearts-merry-Samson-sport
+  - prison-house-sport-set-pillars
+  - dead-slew-death-slew-life
+  - judged-Israel-twenty-years
+  - gaza-harlot
+  - gate-removal
+  - delilah
+  - nazarite-secret
+  - strength-lost
+  - eyes-put-out
+  - prison-grinding
+  - dagon-worship
+  - final-victory
+  - death-and-burial
+---
 # Judges 16
 
 ---
@@ -97,7 +138,7 @@ Samson goes to Gaza and visits a harlot. The Gazites learn he's there and surrou
 
 
 *AI Keywords for current event matching:*
-`afflict` `afflicted` `arms` `arose` `avenged` `awaked` `bar` `beam` `beheld` `betrayal` `bind` `borne` `bound` `bowed` `brass` `brethren` `broke` `burial` `buried` `buryingplace` `called` `capture` `carried` `chamber` `city` `come` `compassed` `country` `dagon` `daily` `dead` `death` `deception` `delilah` `delilahs` `delivered` `departed` `destroyer` `die` `doors` `dried` `eleven` `enemy` `entertainment` `entice` `eshtaol` `eyes` `fastened` `father` `feel` `fell` `fetters` `final` `fire` `first` `full` `gate` `gathered` `gaza` `gazites` `god` `great` `green` `grew` `grind` `hair` `hand` `hands` `harlot` `head` `heart` `hearts` `hebron` `held` `hill` `house` `hundred` `imprisonment` `israel` `judged` `kill` `knees` `known` `lad` `laid` `lean` `left` `liers` `lies` `lieth` `life` `locks` `lord` `lords` `love` `loved` `lying` `man` `manoah` `men` `merry` `middle` `midnight` `mocked` `money` `morning` `mother` `nazarite` `new` `night` `occupied` `people` `philistines` `pieces` `pillars` `pin` `posts` `praised` `pressed` `prevail` `prison` `quiet` `razor` `rejoice` `remember` `revelation` `right` `roof` `ropes` `sacrifice` `samson` `saw` `second` `seduction` `see` `set` `seven` `shake` `shave` `shaven` `shewed` `shoulders` `silver` `sleep` `slept` `slew` `sorek` `soul` `sport` `stood` `strength` `strengthen` `tell` `third` `thousand` `thread` `three` `times` `told` `took` `tow` `twenty` `two` `urged` `valley` `vexed` `victory` `wait` `weak` `weave` `web` `went` `withs` `woman` `womb` `women` `worship` `years` `zorah`
+#afflict #afflicted #arms #arose #avenged #awaked #bar #beam #beheld #betrayal #bind #borne #bound #bowed #brass #brethren #broke #burial #buried #buryingplace #called #capture #carried #chamber #city #come #compassed #country #dagon #daily #dead #death #deception #delilah #delilahs #delivered #departed #destroyer #die #doors #dried #eleven #enemy #entertainment #entice #eshtaol #eyes #fastened #father #feel #fell #fetters #final #fire #first #full #gate #gathered #gaza #gazites #god #great #green #grew #grind #hair #hand #hands #harlot #head #heart #hearts #hebron #held #hill #house #hundred #imprisonment #israel #judged #kill #knees #known #lad #laid #lean #left #liers #lies #lieth #life #locks #lord #lords #love #loved #lying #man #manoah #men #merry #middle #midnight #mocked #money #morning #mother #nazarite #new #night #occupied #people #philistines #pieces #pillars #pin #posts #praised #pressed #prevail #prison #quiet #razor #rejoice #remember #revelation #right #roof #ropes #sacrifice #samson #saw #second #seduction #see #set #seven #shake #shave #shaven #shewed #shoulders #silver #sleep #slept #slew #sorek #soul #sport #stood #strength #strengthen #tell #third #thousand #thread #three #times #told #took #tow #twenty #two #urged #valley #vexed #victory #wait #weak #weave #web #went #withs #woman #womb #women #worship #years #zorah
 
 
 ---

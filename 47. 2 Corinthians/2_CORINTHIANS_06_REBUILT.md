@@ -1,3 +1,14 @@
+---
+book: "2 Corinthians"
+chapter: 6
+testament: "New Testament"
+key_themes: "Workers Together with God, The Ministry Approved, Unequal Yokes, The Temple of the Living God"
+tags:
+  - workers-together-with-god
+  - the-ministry-approved
+  - unequal-yokes
+  - the-temple-of-the-living-god
+---
 # 2 Corinthians 6
 
 ---
@@ -105,7 +116,7 @@ Workers, together, beseech, receive, grace, God, vain, heard, time, accepted, da
 
 
 *AI Keywords for current event matching:*
-`accepted` `afflictions` `agreement` `almighty` `approved` `approving` `armour` `belial` `believeth` `beseech` `blamed` `bowels` `chastened` `children` `christ` `communion` `concord` `corinthians` `darkness` `daughters` `day` `deceivers` `dishonour` `distresses` `dwell` `dying` `enlarged` `evil` `fastings` `father` `fellowship` `ghost` `giving` `god` `good` `grace` `hand` `having` `heard` `heart` `holy` `honour` `idols` `imprisonments` `infidel` `killed` `kindness` `knowledge` `known` `labours` `left` `light` `live` `living` `longsuffering` `lord` `love` `making` `ministers` `ministry` `mouth` `necessities` `offence` `open` `part` `patience` `people` `poor` `possessing` `power` `pureness` `receive` `recompence` `rejoicing` `report` `rich` `right` `righteousness` `salvation` `separate` `sons` `sorrowful` `straitened` `stripes` `succoured` `temple` `time` `together` `touch` `true` `truth` `tumults` `unbelievers` `unclean` `unequal` `unequally` `unfeigned` `unknown` `unrighteousness` `vain` `walk` `watchings` `well` `word` `workers` `yoked` `yokes`
+#accepted #afflictions #agreement #almighty #approved #approving #armour #belial #believeth #beseech #blamed #bowels #chastened #children #christ #communion #concord #corinthians #darkness #daughters #day #deceivers #dishonour #distresses #dwell #dying #enlarged #evil #fastings #father #fellowship #ghost #giving #god #good #grace #hand #having #heard #heart #holy #honour #idols #imprisonments #infidel #killed #kindness #knowledge #known #labours #left #light #live #living #longsuffering #lord #love #making #ministers #ministry #mouth #necessities #offence #open #part #patience #people #poor #possessing #power #pureness #receive #recompence #rejoicing #report #rich #right #righteousness #salvation #separate #sons #sorrowful #straitened #stripes #succoured #temple #time #together #touch #true #truth #tumults #unbelievers #unclean #unequal #unequally #unfeigned #unknown #unrighteousness #vain #walk #watchings #well #word #workers #yoked #yokes
 
 
 ---

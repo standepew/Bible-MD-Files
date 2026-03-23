@@ -1,3 +1,14 @@
+---
+book: "1 Corinthians"
+chapter: 14
+testament: "New Testament"
+key_themes: "Prophecy and Tongues, Order in Worship, Women in the Church, Church Order"
+tags:
+  - prophecy-and-tongues
+  - order-in-worship
+  - women-in-the-church
+  - church-order
+---
 # 1 Corinthians 14
 
 ---
@@ -177,7 +188,7 @@ Follow, charity, desire, spiritual, gifts, prophesy, speak, unknown, tongue, spe
 
 
 *AI Keywords for current event matching:*
-`acknowledge` `air` `amen` `author` `barbarian` `battle` `believe` `believeth` `bless` `brethren` `charity` `children` `church` `churches` `come` `comfort` `comforted` `commanded` `commandments` `confusion` `convinced` `course` `covet` `decently` `desire` `distinction` `doctrine` `edification` `edified` `edifieth` `edifying` `excel` `exhortation` `face` `falling` `follow` `forbid` `gifts` `givest` `giving` `god` `greater` `harp` `harped` `heart` `hold` `home` `husbands` `ignorant` `interpret` `interpretation` `judge` `judged` `keep` `kinds` `knowledge` `known` `law` `learn` `life` `lips` `lord` `mad` `malice` `manifest` `meaning` `men` `mysteries` `obedience` `occupieth` `order` `peace` `people` `permitted` `pipe` `piped` `place` `pray` `prepare` `profit` `prophecy` `prophesied` `prophesieth` `prophesy` `prophesying` `prophets` `psalm` `report` `revealed` `revelation` `room` `saints` `sayest` `secrets` `shame` `sign` `signification` `silence` `sing` `sitteth` `sound` `sounds` `spake` `speak` `spirit` `spirits` `spiritual` `spoken` `subject` `teach` `thank` `thanks` `thing` `three` `tongue` `tongues` `trumpet` `unbelievers` `uncertain` `understand` `understandeth` `understanding` `understood` `unfruitful` `unknown` `unlearned` `utter` `voice` `voices` `women` `word` `words` `world` `worship` `written` `zealous`
+#acknowledge #air #amen #author #barbarian #battle #believe #believeth #bless #brethren #charity #children #church #churches #come #comfort #comforted #commanded #commandments #confusion #convinced #course #covet #decently #desire #distinction #doctrine #edification #edified #edifieth #edifying #excel #exhortation #face #falling #follow #forbid #gifts #givest #giving #god #greater #harp #harped #heart #hold #home #husbands #ignorant #interpret #interpretation #judge #judged #keep #kinds #knowledge #known #law #learn #life #lips #lord #mad #malice #manifest #meaning #men #mysteries #obedience #occupieth #order #peace #people #permitted #pipe #piped #place #pray #prepare #profit #prophecy #prophesied #prophesieth #prophesy #prophesying #prophets #psalm #report #revealed #revelation #room #saints #sayest #secrets #shame #sign #signification #silence #sing #sitteth #sound #sounds #spake #speak #spirit #spirits #spiritual #spoken #subject #teach #thank #thanks #thing #three #tongue #tongues #trumpet #unbelievers #uncertain #understand #understandeth #understanding #understood #unfruitful #unknown #unlearned #utter #voice #voices #women #word #words #world #worship #written #zealous
 
 
 ---

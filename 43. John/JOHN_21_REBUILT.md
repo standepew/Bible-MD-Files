@@ -1,3 +1,14 @@
+---
+book: "John"
+chapter: 21
+testament: "New Testament"
+key_themes: "Jesus Appears to Seven Disciples, The Miraculous Catch of Fish, Jesus and Peter, The Purpose of the Gospel"
+tags:
+  - jesus-appears-to-seven-disciples
+  - the-miraculous-catch-of-fish
+  - jesus-and-peter
+  - the-purpose-of-the-gospel
+---
 # John 21
 
 ---
@@ -105,7 +116,7 @@ Things, Jesus, shewed, disciples, sea, Tiberias, wise, shewed, Simon, Peter, Tho
 
 
 *AI Keywords for current event matching:*
-`abroad` `appears` `ask` `betrayeth` `books` `bread` `breast` `brethren` `bring` `broken` `cana` `carry` `cast` `catch` `caught` `children` `coals` `coat` `come` `contain` `dead` `didymus` `die` `dine` `dined` `disciple` `disciples` `dragging` `durst` `feed` `fifty` `fire` `fish` `fishes` `fishing` `follow` `gird` `girded` `girt` `giveth` `glory` `god` `gospel` `grieved` `hands` `hundred` `immediately` `jesus` `jonas` `knowest` `knowing` `lambs` `land` `lord` `love` `loved` `lovest` `man` `meat` `miraculous` `morning` `multitude` `nathanael` `net` `night` `old` `peter` `purpose` `right` `risen` `saying` `sea` `second` `seven` `sheep` `ship` `shore` `simon` `sons` `stretch` `supper` `testifieth` `testimony` `things` `third` `thomas` `three` `tiberias` `time` `true` `walked` `world` `wouldest` `wrote` `young` `zebedee`
+#abroad #appears #ask #betrayeth #books #bread #breast #brethren #bring #broken #cana #carry #cast #catch #caught #children #coals #coat #come #contain #dead #didymus #die #dine #dined #disciple #disciples #dragging #durst #feed #fifty #fire #fish #fishes #fishing #follow #gird #girded #girt #giveth #glory #god #gospel #grieved #hands #hundred #immediately #jesus #jonas #knowest #knowing #lambs #land #lord #love #loved #lovest #man #meat #miraculous #morning #multitude #nathanael #net #night #old #peter #purpose #right #risen #saying #sea #second #seven #sheep #ship #shore #simon #sons #stretch #supper #testifieth #testimony #things #third #thomas #three #tiberias #time #true #walked #world #wouldest #wrote #young #zebedee
 
 
 ---

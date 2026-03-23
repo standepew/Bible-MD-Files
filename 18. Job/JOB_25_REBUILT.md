@@ -1,3 +1,18 @@
+---
+book: "Job"
+chapter: 25
+testament: "Old Testament"
+key_themes: "Bildad's Third Speech, God's Dominion, Human Unworthiness, Divine Majesty"
+tags:
+  - armies-number-light-arise
+  - man-justified-GOD-clean-woman
+  - moon-shineth-stars-pure-sight
+  - man-worm-son-man-worm
+  - bildad
+  - god
+  - human-unworthiness
+  - divine-majesty
+---
 # Job 25
 
 ---
@@ -93,7 +108,7 @@ Bildad, Shuhite, answered, dominion, fear, peace, high, places. Armies, number, 
 
 
 *AI Keywords for current event matching:*
-`answered` `arise` `armies` `bildad` `bildads` `clean` `divine` `dominion` `fear` `god` `gods` `high` `human` `justified` `light` `majesty` `man` `moon` `number` `peace` `places` `pure` `shineth` `shuhite` `sight` `son` `speech` `stars` `third` `unworthiness` `woman` `worm`
+#answered #arise #armies #bildad #bildads #clean #divine #dominion #fear #god #gods #high #human #justified #light #majesty #man #moon #number #peace #places #pure #shineth #shuhite #sight #son #speech #stars #third #unworthiness #woman #worm
 
 
 ---

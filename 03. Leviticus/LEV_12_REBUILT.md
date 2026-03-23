@@ -1,3 +1,26 @@
+---
+book: "Leviticus"
+chapter: 12
+testament: "Old Testament"
+key_themes: "Purification after childbirth — the mother's uncleanness after bearing a son (7 + 33 days) or daughter (14 + 66 days), The eighth day circumcision of the male child, The concluding burnt offering and sin offering — "she shall be cleansed from the issue of her blood," The sliding scale again: a lamb or, if poor, two turtledoves or two young pigeons, Luke 2:22-24 — the fulfillment in Mary and Jesus"
+tags:
+  - purification-after-childbirth
+  - male-child
+  - female-child
+  - seven-days-unclean
+  - thirty-three-days-purification
+  - eighth-day-circumcision
+  - two-weeks-unclean-for-daughter
+  - sixty-six-days-purification
+  - burnt-offering-lamb
+  - sin-offering-pigeon
+  - two-turtledoves-if-poor
+  - she-shall-be-cleansed
+  - Luke-2
+  - Mary-and-Jesus
+  - new-life-and-uncleanness
+  - fallen-creation
+---
 # Leviticus 12
 
 ---
@@ -67,7 +90,7 @@ After bearing a son, the mother is unclean seven days (as in her monthly separat
 
 
 *AI Keywords for current event matching:*
-`222-24` `brought` `current` `events` `lamb` `leviticus` `luke` `marys` `matching` `offering` `poor`
+#222-24 #brought #current #events #lamb #leviticus #luke #marys #matching #offering #poor
 
 
 ---

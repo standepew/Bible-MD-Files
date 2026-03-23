@@ -1,3 +1,13 @@
+---
+book: "Ezekiel"
+chapter: 41
+testament: "Old Testament"
+key_themes: "Christ's Sanctuary, Holy Place, Divine Measurements, Christ's Glory"
+tags:
+  - christ
+  - holy-place
+  - divine-measurements
+---
 # Ezekiel 41
 
 ---
@@ -105,7 +115,7 @@ Brought, temple, measured, posts, six, cubits, broad, side, six, cubits, broad, 
 
 
 *AI Keywords for current event matching:*
-`chambers` `cherubims` `christs` `cubits` `divine` `doors` `faces` `forty` `glory` `holy` `hundred` `lord` `measurements` `most` `narrow` `palm` `place` `planks` `posts` `sanctuary` `side` `six` `table` `temple` `thick` `trees` `twenty` `upward` `winding` `windows`
+#chambers #cherubims #christs #cubits #divine #doors #faces #forty #glory #holy #hundred #lord #measurements #most #narrow #palm #place #planks #posts #sanctuary #side #six #table #temple #thick #trees #twenty #upward #winding #windows
 
 
 ---

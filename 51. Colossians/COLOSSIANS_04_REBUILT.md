@@ -1,3 +1,14 @@
+---
+book: "Colossians"
+chapter: 4
+testament: "New Testament"
+key_themes: "Masters and Servants, Continue in Prayer, Walk in Wisdom, Final Greetings"
+tags:
+  - masters-and-servants
+  - continue-in-prayer
+  - walk-in-wisdom
+  - final-greetings
+---
 # Colossians 4
 
 ---
@@ -93,7 +104,7 @@ Masters, servants, just, equal, knowing, Master, heaven, Continue, prayer, watch
 
 
 *AI Keywords for current event matching:*
-`amen` `answer` `archippus` `aristarchus` `barnabas` `bear` `beloved` `bonds` `brethren` `brother` `christ` `church` `circumcision` `come` `comfort` `commandments` `complete` `continue` `declare` `demas` `door` `epaphras` `epistle` `equal` `estate` `faithful` `fellowprisoner` `fellowservant` `fellowworkers` `fervently` `final` `fulfil` `god` `grace` `greet` `greetings` `hand` `hearts` `heaven` `heed` `hierapolis` `house` `jesus` `justus` `kingdom` `know` `knowing` `known` `labouring` `laodicea` `laodiceans` `likewise` `lord` `luke` `make` `manifest` `marcus` `master` `masters` `minister` `ministry` `mystery` `nymphas` `onesimus` `open` `ought` `paul` `perfect` `physician` `prayer` `prayers` `praying` `purpose` `read` `receive` `received` `record` `redeeming` `remember` `salt` `salutation` `salute` `seasoned` `sent` `servant` `servants` `sister` `son` `speak` `speech` `stand` `take` `thanksgiving` `time` `tychicus` `utterance` `walk` `watch` `wisdom` `without` `zeal`
+#amen #answer #archippus #aristarchus #barnabas #bear #beloved #bonds #brethren #brother #christ #church #circumcision #come #comfort #commandments #complete #continue #declare #demas #door #epaphras #epistle #equal #estate #faithful #fellowprisoner #fellowservant #fellowworkers #fervently #final #fulfil #god #grace #greet #greetings #hand #hearts #heaven #heed #hierapolis #house #jesus #justus #kingdom #know #knowing #known #labouring #laodicea #laodiceans #likewise #lord #luke #make #manifest #marcus #master #masters #minister #ministry #mystery #nymphas #onesimus #open #ought #paul #perfect #physician #prayer #prayers #praying #purpose #read #receive #received #record #redeeming #remember #salt #salutation #salute #seasoned #sent #servant #servants #sister #son #speak #speech #stand #take #thanksgiving #time #tychicus #utterance #walk #watch #wisdom #without #zeal
 
 
 ---

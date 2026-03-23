@@ -1,3 +1,14 @@
+---
+book: "Malachi"
+chapter: 3
+testament: "Old Testament"
+key_themes: "Christ's Coming Messenger, Refiner's Fire, Tithes and Offerings, Book of Remembrance"
+tags:
+  - christ
+  - refiner
+  - tithes-and-offerings
+  - book-of-remembrance
+---
 # Malachi 3
 
 ---
@@ -129,7 +140,7 @@ Send, messenger, prepare, way, Lord, seek, suddenly, come, temple, messenger, co
 
 
 *AI Keywords for current event matching:*
-`book` `christs` `come` `coming` `covenant` `feared` `fire` `fullers` `god` `gold` `heaven` `jewels` `lord` `make` `meat` `messenger` `offerings` `prepare` `purge` `purify` `refiner` `refiners` `remembrance` `rob` `send` `silver` `soap` `spare` `storehouse` `suddenly` `tithes` `way` `windows`
+#book #christs #come #coming #covenant #feared #fire #fullers #god #gold #heaven #jewels #lord #make #meat #messenger #offerings #prepare #purge #purify #refiner #refiners #remembrance #rob #send #silver #soap #spare #storehouse #suddenly #tithes #way #windows
 
 
 ---

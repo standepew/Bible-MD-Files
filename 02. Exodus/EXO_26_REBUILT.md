@@ -1,3 +1,34 @@
+---
+book: "Exodus"
+chapter: 26
+testament: "Old Testament"
+key_themes: "The structure of the Tabernacle, Ten inner curtains of fine linen with cherubim, Eleven curtains of goats' hair, Outer coverings of rams' skins and badgers' skins, The boards of shittim wood on silver sockets, The middle bar running the full length, The veil — blue, purple, scarlet, cherubim — dividing the Holy Place from the Most Holy, The entrance curtain, "According to the fashion thereof which was shewed thee in the mount""
+tags:
+  - tabernacle-structure
+  - ten-curtains
+  - fine-linen
+  - blue-purple-scarlet
+  - cherubim-on-curtains
+  - fifty-loops
+  - fifty-taches-of-gold
+  - goats-hair-curtains
+  - eleven-curtains
+  - rams-skins-red
+  - badgers-skins
+  - boards-of-shittim-wood
+  - silver-sockets
+  - middle-bar
+  - gold
+  - veil
+  - most-holy-place
+  - holy-place
+  - mercy-seat-behind-veil
+  - table-north
+  - candlestick-south
+  - entrance-hanging
+  - heavenly-pattern
+  - veil-torn-at-cross
+---
 # Exodus 26
 
 ---
@@ -67,7 +98,7 @@ God gives Moses precise specifications for the Tabernacle structure. The innermo
 
 
 *AI Keywords for current event matching:*
-`among` `construction` `current` `detailed` `dwelling` `events` `exodus` `gods` `holy` `matching` `men` `place` `sanctuary` `temple`
+#among #construction #current #detailed #dwelling #events #exodus #gods #holy #matching #men #place #sanctuary #temple
 
 
 ---

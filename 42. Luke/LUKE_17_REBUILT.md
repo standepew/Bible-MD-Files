@@ -1,3 +1,17 @@
+---
+book: "Luke"
+chapter: 17
+testament: "New Testament"
+key_themes: "Temptations and Forgiveness, Increase of Faith, Unprofitable Servants, Healing of the Ten Lepers, The Coming of the Kingdom, The Days of the Son of Man, The Day of Revelation"
+tags:
+  - temptations-and-forgiveness
+  - increase-of-faith
+  - unprofitable-servants
+  - healing-of-the-ten-lepers
+  - the-coming-of-the-kingdom
+  - the-days-of-the-son-of
+  - the-day-of-revelation
+---
 # Luke 17
 
 ---
@@ -159,7 +173,7 @@ Disciples, impossible, offences, woe, millstone, neck, sea, offend, little, ones
 
 
 *AI Keywords for current event matching:*
-`afar` `ate` `brother` `cleansed` `come` `coming` `commanded` `day` `days` `desire` `drank` `duty` `faith` `forgiveness` `gird` `grain` `grinding` `healed` `healing` `heaven` `here` `housetop` `increase` `jesus` `kingdom` `lepers` `life` `lightning` `little` `lose` `lot` `man` `married` `master` `millstone` `mustard` `neck` `noe` `observation` `offences` `ones` `planted` `plowing` `plucked` `priests` `remember` `revelation` `root` `save` `sea` `see` `servant` `servants` `serve` `seven` `shew` `sodom` `son` `stood` `stuff` `sycamine` `temptations` `ten` `times` `together` `tree` `trespass` `unprofitable` `within` `wives` `you`
+#afar #ate #brother #cleansed #come #coming #commanded #day #days #desire #drank #duty #faith #forgiveness #gird #grain #grinding #healed #healing #heaven #here #housetop #increase #jesus #kingdom #lepers #life #lightning #little #lose #lot #man #married #master #millstone #mustard #neck #noe #observation #offences #ones #planted #plowing #plucked #priests #remember #revelation #root #save #sea #see #servant #servants #serve #seven #shew #sodom #son #stood #stuff #sycamine #temptations #ten #times #together #tree #trespass #unprofitable #within #wives #you
 
 
 ---

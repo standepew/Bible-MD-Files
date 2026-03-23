@@ -1,3 +1,14 @@
+---
+book: "Proverbs"
+chapter: 11
+testament: "Old Testament"
+key_themes: "Integrity vs. Perverseness, Righteousness vs. Wickedness, Generosity vs. Stinginess, True vs. False"
+tags:
+  - integrity-vs-perverseness
+  - righteousness-vs-wickedness
+  - generosity-vs-stinginess
+  - true-vs-false
+---
 # Proverbs 11
 
 ---
@@ -117,7 +128,7 @@ False, balance, abomination, LORD, just, weight, delight, pride, shame, lowly, w
 
 
 *AI Keywords for current event matching:*
-`abomination` `balance` `concealeth` `corn` `curse` `death` `delight` `deliver` `earth` `faithful` `fall` `false` `fat` `froward` `generosity` `guide` `heart` `increaseth` `integrity` `liberal` `lies` `made` `people` `perverseness` `recompensed` `righteous` `righteousness` `scattereth` `soul` `speaketh` `spirit` `stinginess` `true` `upright` `weight` `wicked` `wickedness` `withhold` `witness`
+#abomination #balance #concealeth #corn #curse #death #delight #deliver #earth #faithful #fall #false #fat #froward #generosity #guide #heart #increaseth #integrity #liberal #lies #made #people #perverseness #recompensed #righteous #righteousness #scattereth #soul #speaketh #spirit #stinginess #true #upright #weight #wicked #wickedness #withhold #witness
 
 
 ---

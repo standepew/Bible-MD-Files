@@ -1,3 +1,49 @@
+---
+book: "Judges"
+chapter: 9
+testament: "Old Testament"
+key_themes: "Abimelech's Usurpation, Fratricide, Jotham's Parable, Shechem's Treachery, Gaal's Rebellion, Abimelech's Defeat, Thebez Tower, Millstone Death, Divine Retribution"
+tags:
+  - family-house-mother-father
+  - one-reign-bone-flesh
+  - hearts-inclined-follow-Abimelech-brother
+  - men-Shechem-gathered-house-Millo
+  - Abimelech-king-plain-pillar-Shechem
+  - told-Jotham-top-mount-Gerizim
+  - trees-anoint-king
+  - trees-bramble-Come-reign
+  - dealt-Jerubbaal-house-deserving-hands
+  - Abimelech-reigned-three-years-Israel
+  - men-Shechem-treacherously-Abimelech
+  - men-Shechem-aided-killing-brethren
+  - men-Shechem-liers-wait-mountains
+  - robbed-come-way-told-Abimelech
+  - Gaal-son-Ebed-brethren-Shechem
+  - men-Shechem-confidence-Gaal
+  - God-people-hand-remove-Abimelech
+  - Abimelech-Increase-army-come
+  - fortify-city-night-people-field
+  - people-come-occasion
+  - Abimelech-rose-people-lying-wait
+  - Gaal-people-top-mountains
+  - Zebul-shadow-mountains-men
+  - Gaal-men-Shechem-fought-Abimelech
+  - morrow-people-field-told-Abimelech
+  - people-city-rose-smote
+  - seen-make-haste
+  - Abimelech-Thebez-encamped-Thebez-took
+  - called-hastily-young-man-armourbearer
+  - young-man-thrust-died
+  - curse-Jotham-son-Jerubbaal
+  - abimelech
+  - fratricide
+  - jotham
+  - shechem
+  - gaal
+  - thebez-tower
+  - millstone-death
+  - divine-retribution
+---
 # Judges 9
 
 ---
@@ -109,7 +155,7 @@ Abimelech, Gideon's son by his Shechem concubine, goes to his mother's relatives
 
 
 *AI Keywords for current event matching:*
-`abimelech` `abimelechs` `adventured` `against` `aided` `anger` `anoint` `application` `armourbearer` `army` `arumah` `ate` `attack` `axe` `baal-berith` `beat` `beer` `berith` `better` `blood` `bone` `bough` `brake` `bramble` `brambles` `brethren` `brother` `burn` `called` `campaign` `cast` `cedars` `chased` `cheereth` `city` `come` `companies` `company` `confidence` `conspiracy` `coronation` `coup` `cried` `cruelty` `curse` `cursed` `cut` `day` `dead` `dealt` `death` `delivered` `departed` `deserving` `despised` `destruction` `devour` `died` `divine` `done` `door` `drank` `draw` `dwell` `dwelt` `early` `ears` `ebed` `encamped` `entering` `escape` `evil` `family` `father` `fatness` `fear` `field` `fields` `fig` `fight` `fire` `fled` `flesh` `follow` `followed` `forsake` `fortify` `fought` `four` `fratricide` `fruit` `funding` `gaal` `gaals` `gate` `gathered` `gerizim` `god` `good` `grapes` `hamor` `hand` `hands` `haste` `hastily` `head` `heads` `heard` `hearken` `hearts` `hid` `hired` `hold` `honour` `house` `inclined` `increase` `israel` `jerubbaal` `jotham` `jothams` `judgment` `killing` `kindled` `king` `laid` `land` `lebanon` `left` `liers` `life` `lifted` `light` `lying` `made` `maidservant` `make` `man` `men` `meonenim` `merry` `messengers` `middle` `midian` `millo` `millstone` `morning` `morrow` `mother` `mount` `mountains` `mouth` `night` `occasion` `officer` `olive` `one` `ophrah` `overthrown` `parable` `people` `persons` `piece` `pieces` `pillar` `place` `plain` `privily` `promoted` `ran` `rebellion` `reign` `reigned` `rejoice` `remove` `rendered` `retribution` `rise` `risen` `robbed` `rose` `ruler` `rushed` `salt` `saw` `seen` `sent` `serve` `set` `seventy` `shadow` `shechem` `shechems` `shoulder` `shut` `siege` `silver` `sincerely` `skull` `slain` `slay` `slaying` `slew` `smote` `son` `sons` `sowed` `spake` `speak` `spirit` `stone` `strong` `sun` `sweetness` `sword` `ten` `thebez` `thousand` `threat` `three` `threescore` `thrust` `told` `took` `top` `tower` `treacherously` `treachery` `tree` `trees` `trode` `truly` `trust` `two` `vain` `vine` `vineyards` `voice` `wait` `warning` `way` `wickedness` `wine` `woman` `women` `wounded` `years` `young` `youngest` `zalmon` `zebul` `zebuls`
+#abimelech #abimelechs #adventured #against #aided #anger #anoint #application #armourbearer #army #arumah #ate #attack #axe #baal-berith #beat #beer #berith #better #blood #bone #bough #brake #bramble #brambles #brethren #brother #burn #called #campaign #cast #cedars #chased #cheereth #city #come #companies #company #confidence #conspiracy #coronation #coup #cried #cruelty #curse #cursed #cut #day #dead #dealt #death #delivered #departed #deserving #despised #destruction #devour #died #divine #done #door #drank #draw #dwell #dwelt #early #ears #ebed #encamped #entering #escape #evil #family #father #fatness #fear #field #fields #fig #fight #fire #fled #flesh #follow #followed #forsake #fortify #fought #four #fratricide #fruit #funding #gaal #gaals #gate #gathered #gerizim #god #good #grapes #hamor #hand #hands #haste #hastily #head #heads #heard #hearken #hearts #hid #hired #hold #honour #house #inclined #increase #israel #jerubbaal #jotham #jothams #judgment #killing #kindled #king #laid #land #lebanon #left #liers #life #lifted #light #lying #made #maidservant #make #man #men #meonenim #merry #messengers #middle #midian #millo #millstone #morning #morrow #mother #mount #mountains #mouth #night #occasion #officer #olive #one #ophrah #overthrown #parable #people #persons #piece #pieces #pillar #place #plain #privily #promoted #ran #rebellion #reign #reigned #rejoice #remove #rendered #retribution #rise #risen #robbed #rose #ruler #rushed #salt #saw #seen #sent #serve #set #seventy #shadow #shechem #shechems #shoulder #shut #siege #silver #sincerely #skull #slain #slay #slaying #slew #smote #son #sons #sowed #spake #speak #spirit #stone #strong #sun #sweetness #sword #ten #thebez #thousand #threat #three #threescore #thrust #told #took #top #tower #treacherously #treachery #tree #trees #trode #truly #trust #two #vain #vine #vineyards #voice #wait #warning #way #wickedness #wine #woman #women #wounded #years #young #youngest #zalmon #zebul #zebuls
 
 
 ---

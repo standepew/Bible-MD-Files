@@ -1,3 +1,38 @@
+---
+book: "Deuteronomy"
+chapter: 5
+testament: "Old Testament"
+key_themes: "Ten Commandments Restated, Moses as Mediator, Covenant Made with the Living Generation, Sabbath Grounded in Redemption, God Talks with Man and He Lives, "O That There Were Such a Heart""
+tags:
+  - deuteronomy
+  - chapter5
+  - ten-commandments
+  - Decalogue
+  - Horeb
+  - covenant
+  - face-to-face
+  - mediator
+  - Moses-between-God-and-people
+  - no-other-gods
+  - graven-image
+  - name-in-vain
+  - sabbath
+  - redemption-basis
+  - honour-parents
+  - thou-shalt-not-kill
+  - adultery
+  - steal
+  - false-witness
+  - covet
+  - great-voice
+  - two-tables-of-stone
+  - fire
+  - cloud
+  - thick-darkness
+  - O-that-there-were-such-a-heart
+  - hear-it-and-do-it
+  - right-hand-left-hand
+---
 # Deuteronomy 5
 
 ---
@@ -86,7 +121,7 @@ Moses assembles all Israel and restates the Ten Commandments as given at Horeb. 
 
 ## KEYWORD INDEX
 
-`ten commandments / Decalogue` `covenant with us who are alive` `face to face` `mediator` `Sabbath — redemption basis` `O that there were such a heart` `fire, cloud, thick darkness` `right hand or left` `hear and do`
+#ten-commandments--Decalogue #covenant-with-us-who-are-alive #face-to-face #mediator #Sabbath--redemption-basis #O-that-there-were-such-a-heart #fire-cloud-thick-darkness #right-hand-or-left #hear-and-do
 
 **ten commandments / Decalogue** — Exodus 20 comparison; two-table structure  
 **covenant with us who are alive** — every generation's personal application; Hebrews 3:7-8  

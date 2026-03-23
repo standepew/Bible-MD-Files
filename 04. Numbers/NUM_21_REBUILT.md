@@ -1,3 +1,32 @@
+---
+book: "Numbers"
+chapter: 21
+testament: "Old Testament"
+key_themes: "The first military victory — Israel vows the ban against Arad and the LORD delivers, The fiery serpents: the people loathe the manna again and are bitten; the bronze serpent on a pole is the only cure — look and live, The song of the well at Beer — Israel sings over a gift of water, not striving for it, The march through the Amorite territory: Sihon refuses passage and is destroyed; Og of Bashan also destroyed — Israel begins to take territory east of Jordan, "Fear him not: for I have delivered him into thy hand" — God speaks before the battle of Og"
+tags:
+  - king-Arad
+  - vow-of-ban-Hormah
+  - soul-discouraged-because-of-the-way
+  - soul-loatheth-this-light-bread
+  - fiery-serpents
+  - much-people-died
+  - we-have-sinned
+  - bronze-serpent-on-a-pole
+  - look-and-live
+  - Beer-the-well
+  - spring-up-O-well
+  - princes-digged
+  - song-of-the-well
+  - Sihon-king-of-Amorites
+  - refused-passage
+  - Israel-smote-Sihon
+  - Heshbon
+  - possessed-Amorite-land
+  - Og-king-of-Bashan
+  - fear-him-not
+  - delivered-into-thy-hand
+  - none-left-alive
+---
 # Numbers 21
 
 ---
@@ -65,7 +94,7 @@ The contrast with every previous water narrative is striking: at Marah, they mur
 
 
 *AI Keywords for current event matching:*
-`218-9` `314-15` `christ` `current` `events` `faith` `formula` `heals` `john` `live` `look` `looking` `matching` `merit` `numbers` `simple`
+#218-9 #314-15 #christ #current #events #faith #formula #heals #john #live #look #looking #matching #merit #numbers #simple
 
 
 ---
@@ -151,10 +180,10 @@ The bronze serpent that God ordained as a means of healing became, centuries lat
 
 The lifting-up of the bronze serpent establishes a typological pattern that John's Gospel develops explicitly:
 
-- **Numbers 21:8-9** — serpent lifted on a pole; those who look live
-- **John 3:14** — "as Moses lifted up the serpent... so must the Son of man be lifted up"
-- **John 8:28** — "When ye have lifted up the Son of man, then shall ye know that I am he"
-- **John 12:32** — "And I, if I be lifted up from the earth, will draw all men unto me"
+- [[04. Numbers/NUM_21_REBUILT|Numbers 21:8-9]] — serpent lifted on a pole; those who look live
+- [[43. John/JOHN_03_REBUILT|John 3:14]] — "as Moses lifted up the serpent... so must the Son of man be lifted up"
+- [[43. John/JOHN_08_REBUILT|John 8:28]] — "When ye have lifted up the Son of man, then shall ye know that I am he"
+- [[43. John/JOHN_12_REBUILT|John 12:32]] — "And I, if I be lifted up from the earth, will draw all men unto me"
 
 Three times in John's Gospel Jesus speaks of being "lifted up" — each time referring to the crucifixion, each time echoing Numbers 21. The cross is the pole; the crucified one is the serpent-image of sin (2 Corinthians 5:21 — "made him to be sin for us"); the remedy is looking — faith. The wilderness generation that looked at bronze lived physically for a season; those who look to the crucified Christ live eternally.
 

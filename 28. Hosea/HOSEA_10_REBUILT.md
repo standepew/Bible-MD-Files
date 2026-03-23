@@ -1,3 +1,14 @@
+---
+book: "Hosea"
+chapter: 10
+testament: "Old Testament"
+key_themes: "Christ's Judgment, Empty Vine, Divided Heart, Righteous Plowing"
+tags:
+  - christ
+  - empty-vine
+  - divided-heart
+  - righteous-plowing
+---
 # Hosea 10
 
 ---
@@ -93,7 +104,7 @@ Israel, empty, vine, bringeth, fruit, multitude, fruit, increased, altars, goodn
 
 
 *AI Keywords for current event matching:*
-`altars` `break` `bringeth` `christs` `covenant` `cut` `divided` `empty` `fallow` `falsely` `faulty` `found` `fruit` `goodly` `ground` `heart` `images` `increased` `judgment` `lord` `making` `mercy` `off` `plowing` `reap` `righteous` `righteousness` `seek` `sow` `spoil` `swearing` `vine`
+#altars #break #bringeth #christs #covenant #cut #divided #empty #fallow #falsely #faulty #found #fruit #goodly #ground #heart #images #increased #judgment #lord #making #mercy #off #plowing #reap #righteous #righteousness #seek #sow #spoil #swearing #vine
 
 
 ---

@@ -1,3 +1,17 @@
+---
+book: "Luke"
+chapter: 8
+testament: "New Testament"
+key_themes: "Parable of the Sower, Parable of the Lamp, Jesus' Mother and Brothers, Calming the Storm, Healing of the Demon-possessed Man, Healing of the Woman with the Issue of Blood, Raising of Jairus' Daughter"
+tags:
+  - parable-of-the-sower
+  - parable-of-the-lamp
+  - jesus
+  - calming-the-storm
+  - healing-of-the-demonpossessed-man
+  - healing-of-the-woman-with-the
+  - raising-of-jairus
+---
 # Luke 8
 
 ---
@@ -255,7 +269,7 @@ Afterward, city, village, preaching, shewing, glad, tidings, kingdom, God, twelv
 
 
 *AI Keywords for current event matching:*
-`arise` `believe` `blood` `brethren` `brothers` `calming` `candlestick` `comfort` `commandeth` `daughter` `dead` `demon-possessed` `devils` `faith` `glad` `god` `gone` `good` `great` `ground` `hath` `healing` `hear` `heart` `heed` `issue` `jairus` `jesus` `lake` `lamp` `legion` `maid` `man` `manifest` `mind` `mother` `parable` `press` `raging` `raising` `right` `ruler` `secret` `seed` `ship` `son` `sower` `storm` `take` `things` `tidings` `virtue` `water` `whole` `whosoever` `wind` `winds` `woman` `word`
+#arise #believe #blood #brethren #brothers #calming #candlestick #comfort #commandeth #daughter #dead #demon-possessed #devils #faith #glad #god #gone #good #great #ground #hath #healing #hear #heart #heed #issue #jairus #jesus #lake #lamp #legion #maid #man #manifest #mind #mother #parable #press #raging #raising #right #ruler #secret #seed #ship #son #sower #storm #take #things #tidings #virtue #water #whole #whosoever #wind #winds #woman #word
 
 
 ---

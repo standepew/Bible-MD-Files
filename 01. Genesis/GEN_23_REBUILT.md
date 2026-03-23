@@ -1,3 +1,57 @@
+---
+book: "Genesis"
+chapter: 23
+testament: "Old Testament"
+key_themes: "Sarah Dies at 127 — The Only Woman Whose Age at Death Is Recorded in Scripture, Abraham Mourns and Weeps — Grief as Legitimate Faith, "I Am a Stranger and a Sojourner" — The Patriarchal Identity Declared, The Sons of Heth Acknowledge Abraham as a Mighty Prince — The Covenant Blessing Visible to the Nations, The Request for Machpelah — The First Permanent Land Claim in Canaan, Ephron's Offer and Abraham's Insistence on Full Payment — Refusing to Receive the Covenant Land as a Gift from Men, Four Hundred Shekels of Silver Weighed in the Audience of the Sons of Heth, The Legal Transaction at the City Gate — Witnessed, Public, Irrevocable, "Made Sure" — The First Legal Deed to Covenant Land, Burial as Resurrection Faith — Planting a Seed in the Promised Ground, Sarah Buried at Machpelah Before Mamre — Hebron in the Land of Canaan, The Cave as the Place of Covenant Expectation"
+tags:
+  - Sarah-dies
+  - 127-years
+  - only-womans-age-recorded
+  - Kirjath-arba
+  - Hebron
+  - Abraham-mourns-weeps
+  - grief-is-not-faithlessness
+  - John-11-35
+  - 1-Thessalonians-4-13
+  - ger-toshav
+  - stranger-sojourner
+  - Hebrews-11-9
+  - Hebrews-11-13-16
+  - 1-Peter-2-11
+  - mighty-prince-among-us
+  - Genesis-12-2-name-great
+  - Machpelah
+  - cave
+  - Ephron-son-of-Zohar
+  - sons-of-Heth
+  - Hittites
+  - Abraham-bows-twice
+  - no-gift-full-price
+  - refusing-covenant-land-as-mans-gift
+  - 400-shekels-silver
+  - current-money-with-merchant
+  - city-gate-legal-forum
+  - Ruth-4-1-11
+  - made-sure-qum
+  - first-legal-deed
+  - resurrection-faith-in-burial
+  - Joseph-bones-Exodus-13-19
+  - Hebrews-11-22
+  - Acts-7-16
+  - three-couples-buried-Machpelah
+  - cave-sealed-John-11-38
+  - Matthew-27-60
+  - silver-redemption-metal
+  - Exodus-30-13
+  - Zechariah-11-12
+  - Matthew-27-3-9
+  - potter-field
+  - Machpelah-double
+  - Mamre-strength
+  - sojourner-identity
+  - faith-not-yet-received
+  - heavenly-city
+---
 # Genesis 23
 
 ---
@@ -148,7 +202,7 @@ Abraham buried Sarah in the cave. The chapter's closing verse records the double
 
 For AI matching to topics and current events:
 
-`Sarah dies 127 years old` `first womans age at death recorded` `Kirjath-arba Hebron` `Abraham mourns weeps` `grief and faith compatible` `John 11:35 Jesus wept` `1 Thessalonians 4:13 grieve not as no hope` `ger toshav stranger sojourner` `Hebrews 11:9-10 city with foundations` `Hebrews 11:13 strangers and pilgrims` `Hebrews 11:16 heavenly country` `Leviticus 25:23 land is mine` `1 Peter 2:11 strangers and pilgrims` `Philippians 3:20 citizenship in heaven` `nesi Elohim prince of God` `Hittites call Abraham mighty prince` `Genesis 12:2 name made great fulfilled` `Matthew 5:16 let your light shine` `Machpelah cave` `Ephron son of Zohar` `Abraham refuses gift pays full price` `Genesis 14:22-24 I will not take` `covenant property not received from world` `400 shekels silver` `current money with merchant` `city gate legal forum` `Ruth 4:1-11 kinsman redeemer gate` `made sure qum irrevocable title` `first legal deed Promised Land` `burial as resurrection faith` `Joseph bones Exodus 13:19` `Hebrews 11:22 commandment concerning bones` `three couples buried Machpelah` `Genesis 49:29-32 Jacob commanded` `John 5:28-29 graves shall hear his voice` `1 Corinthians 15:20 firstfruits` `silver redemption metal` `Exodus 30:13 half shekel atonement` `silver field for burial thread` `Matthew 27:3-10 potter's field` `Zechariah 11:12` `Machpelah double` `mourning and weeping Abraham` `Ecclesiastes 3:4 time to mourn`
+#Sarah-dies-127-years-old #first-womans-age-at-death-recorded #Kirjath-arba-Hebron #Abraham-mourns-weeps #grief-and-faith-compatible #John-1135-Jesus-wept #1-Thessalonians-413-grieve-not-as-no-hope #ger-toshav-stranger-sojourner #Hebrews-119-10-city-with-foundations #Hebrews-1113-strangers-and-pilgrims #Hebrews-1116-heavenly-country #Leviticus-2523-land-is-mine #1-Peter-211-strangers-and-pilgrims #Philippians-320-citizenship-in-heaven #nesi-Elohim-prince-of-God #Hittites-call-Abraham-mighty-prince #Genesis-122-name-made-great-fulfilled #Matthew-516-let-your-light-shine #Machpelah-cave #Ephron-son-of-Zohar #Abraham-refuses-gift-pays-full-price #Genesis-1422-24-I-will-not-take #covenant-property-not-received-from-world #400-shekels-silver #current-money-with-merchant #city-gate-legal-forum #Ruth-41-11-kinsman-redeemer-gate #made-sure-qum-irrevocable-title #first-legal-deed-Promised-Land #burial-as-resurrection-faith #Joseph-bones-Exodus-1319 #Hebrews-1122-commandment-concerning-bones #three-couples-buried-Machpelah #Genesis-4929-32-Jacob-commanded #John-528-29-graves-shall-hear-his-voice #1-Corinthians-1520-firstfruits #silver-redemption-metal #Exodus-3013-half-shekel-atonement #silver-field-for-burial-thread #Matthew-273-10-potters-field #Zechariah-1112 #Machpelah-double #mourning-and-weeping-Abraham #Ecclesiastes-34-time-to-mourn
 
 **Relevance to Current Events:**
 - Land disputes and the theological meaning of land — Genesis 23 is the first legal transaction over covenant land; the specificity of the purchase (exact price, full payment, public witnesses, city-gate forum) has direct relevance to modern disputes over the land of Canaan; the cave of Machpelah remains in Hebron today; the purchase-record in Genesis 23 is the oldest documented land deed in the region's religious literature

@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 112
+testament: "Old Testament"
+key_themes: "Blessed Man, Generational Blessing, Righteous Character, Eternal Security"
+tags:
+  - blessed-man
+  - generational-blessing
+  - righteous-character
+  - eternal-security
+---
 # Psalm 112
 
 ---
@@ -153,7 +164,7 @@ Praise, LORD, Blessed, man, feareth, LORD, delighteth, commandments, seed, might
 
 
 *AI Keywords for current event matching:*
-`arises` `blessed` `blessing` `character` `commandments` `compassion` `darkness` `delighteth` `earth` `endureth` `eternal` `everlasting` `favour` `feareth` `fixed` `forever` `full` `generation` `generational` `good` `gracious` `heart` `lendeth` `light` `lord` `man` `mighty` `moved` `remembrance` `righteous` `righteousness` `security` `seed` `sheweth` `trusting` `upright`
+#arises #blessed #blessing #character #commandments #compassion #darkness #delighteth #earth #endureth #eternal #everlasting #favour #feareth #fixed #forever #full #generation #generational #good #gracious #heart #lendeth #light #lord #man #mighty #moved #remembrance #righteous #righteousness #security #seed #sheweth #trusting #upright
 
 
 ---

@@ -1,3 +1,15 @@
+---
+book: "1 Samuel"
+chapter: 29
+testament: "Old Testament"
+key_themes: "Philistine Army, David's Position, Philistine Lords' Suspicion, Achish's Defense, David's Dismissal"
+tags:
+  - return-peace-displease-lords-Philistines
+  - philistine-army
+  - david
+  - philistine-lords
+  - achish
+---
 # 1 Samuel 29
 
 ---
@@ -85,7 +97,7 @@ Philistines gathered all armies to Aphek; Israelites pitched by fountain in Jezr
 
 
 *AI Keywords for current event matching:*
-`achish` `achishs` `adversary` `angel` `aphek` `appointed` `armies` `assembly` `battle` `coming` `dances` `david` `davids` `day` `days` `decision` `defense` `depart` `departure` `displease` `early` `enemies` `evil` `fault` `favour` `fell` `fellow` `fight` `fountain` `gathered` `god` `going` `good` `heads` `hebrews` `host` `hundreds` `israel` `israelites` `jezreel` `king` `light` `liveth` `lord` `lords` `master` `men` `morning` `passed` `peace` `philistine` `philistines` `pitched` `place` `princes` `question` `reconcile` `rereward` `return` `rise` `sang` `saul` `servant` `servants` `sight` `suspicion` `ten` `thousands` `upright` `wroth` `years`
+#achish #achishs #adversary #angel #aphek #appointed #armies #assembly #battle #coming #dances #david #davids #day #days #decision #defense #depart #departure #displease #early #enemies #evil #fault #favour #fell #fellow #fight #fountain #gathered #god #going #good #heads #hebrews #host #hundreds #israel #israelites #jezreel #king #light #liveth #lord #lords #master #men #morning #passed #peace #philistine #philistines #pitched #place #princes #question #reconcile #rereward #return #rise #sang #saul #servant #servants #sight #suspicion #ten #thousands #upright #wroth #years
 
 
 ---

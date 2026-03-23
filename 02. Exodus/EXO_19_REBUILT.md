@@ -1,3 +1,36 @@
+---
+book: "Exodus"
+chapter: 19
+testament: "Old Testament"
+key_themes: "Israel at Mount Sinai, "Ye have seen what I did unto the Egyptians," Eagles' wings — God's redemptive bearing of His people, The covenant offer — "a kingdom of priests, an holy nation," The people answer with one voice, The mountain set apart — bounds, sanctification, The theophany — thunder, lightning, thick cloud, fire, smoke, quaking, The trumpet of God, Moses alone ascends, The people tremble afar off"
+tags:
+  - Sinai
+  - third-month
+  - covenant-offer
+  - eagles-wings
+  - peculiar-treasure
+  - kingdom-of-priests
+  - holy-nation
+  - all-the-earth-is-mine
+  - people-answer-with-one-voice
+  - bounds-on-the-mountain
+  - sanctify
+  - wash-clothes
+  - third-day
+  - come-not-at-your-wives
+  - thunder-lightning-thick-cloud
+  - trumpet-exceeding-loud
+  - quaking
+  - fire
+  - smoke-as-furnace
+  - whole-mount-quaked
+  - people-trembled
+  - Moses-speaks-God-answers
+  - Moses-called-up
+  - Aaron-with-Moses
+  - priests-sanctify-themselves
+  - theophany
+---
 # Exodus 19
 
 ---
@@ -107,7 +140,7 @@ In the third month after the Exodus, Israel arrives at Sinai and camps before th
 
 
 *AI Keywords for current event matching:*
-`195-6` `calling` `current` `events` `exodus` `holy` `identity` `kingdom` `matching` `nation` `national` `peculiar` `priests` `treasure`
+#195-6 #calling #current #events #exodus #holy #identity #kingdom #matching #nation #national #peculiar #priests #treasure
 
 
 ---
@@ -219,8 +252,8 @@ The Exodus 19 theophany is the LAW covenant — its unapproachability is the nat
 ### The Trumpet of God — Eschatological Pattern
 
 - **Exodus 19:16, 19** — "the voice of the trumpet exceeding loud... waxed louder and louder"
-- **1 Thessalonians 4:16** — "the Lord himself shall descend from heaven with a shout, with the voice of the archangel, and with the trump of God"
-- **1 Corinthians 15:52** — "at the last trump: for the trumpet shall sound, and the dead shall be raised"
+- [[52. 1 Thessalonians/1_THESSALONIANS_04_REBUILT|1 Thessalonians 4:16]] — "the Lord himself shall descend from heaven with a shout, with the voice of the archangel, and with the trump of God"
+- [[46. 1 Corinthians/1_CORINTHIANS_15_REBUILT|1 Corinthians 15:52]] — "at the last trump: for the trumpet shall sound, and the dead shall be raised"
 - **Revelation 8-11** — the seven trumpets accompanying God's final judgments
 - *Thread:* The trumpet at Sinai (God's descending) is the type of the trumpet at Christ's return (God's final descending). The trumpet signals a divine arrival — the breaking of heaven into earth. Every biblical trumpet blast is an echo of Sinai.
 

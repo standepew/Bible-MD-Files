@@ -1,3 +1,15 @@
+---
+book: "Hebrews"
+chapter: 4
+testament: "New Testament"
+key_themes: "The Promise of Rest, Entering God's Rest, The Power of God's Word, Christ Our High Priest, Bold Approach to Throne"
+tags:
+  - the-promise-of-rest
+  - entering-god
+  - the-power-of-god
+  - christ-our-high-priest
+  - bold-approach-to-throne
+---
 # Hebrews 4
 
 ---
@@ -95,7 +107,7 @@ Fear, promise, entering, rest, seem, short, gospel, preached, word, preached, pr
 
 
 *AI Keywords for current event matching:*
-`again` `another` `approach` `believed` `bold` `boldly` `ceased` `certain` `christ` `creature` `david` `day` `discerner` `dividing` `enter` `entered` `entering` `example` `eyes` `faith` `fall` `fast` `fear` `feeling` `finished` `foundation` `given` `god` `gods` `gospel` `grace` `great` `harden` `hear` `heard` `heart` `hearts` `heavens` `help` `high` `hold` `infirmities` `intents` `jesus` `joints` `labour` `limiteth` `long` `manifest` `marrow` `mercy` `mixed` `naked` `need` `obtain` `opened` `passed` `people` `piercing` `place` `power` `powerful` `preached` `priest` `profession` `profit` `promise` `quick` `remaineth` `rest` `saying` `seem` `seventh` `sharper` `short` `sight` `sin` `son` `soul` `spake` `spirit` `spoken` `sword` `sworn` `tempted` `thoughts` `throne` `time` `touched` `twoedged` `unbelief` `voice` `without` `word` `works` `world` `wrath`
+#again #another #approach #believed #bold #boldly #ceased #certain #christ #creature #david #day #discerner #dividing #enter #entered #entering #example #eyes #faith #fall #fast #fear #feeling #finished #foundation #given #god #gods #gospel #grace #great #harden #hear #heard #heart #hearts #heavens #help #high #hold #infirmities #intents #jesus #joints #labour #limiteth #long #manifest #marrow #mercy #mixed #naked #need #obtain #opened #passed #people #piercing #place #power #powerful #preached #priest #profession #profit #promise #quick #remaineth #rest #saying #seem #seventh #sharper #short #sight #sin #son #soul #spake #spirit #spoken #sword #sworn #tempted #thoughts #throne #time #touched #twoedged #unbelief #voice #without #word #works #world #wrath
 
 
 ---

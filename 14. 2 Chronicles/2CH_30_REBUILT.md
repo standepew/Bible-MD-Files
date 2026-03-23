@@ -1,3 +1,15 @@
+---
+book: "2 Chronicles"
+chapter: 30
+testament: "Old Testament"
+key_themes: "Passover Celebration, National Unity, Divine Mercy, Spiritual Renewal"
+tags:
+  - LORD-hearkened-Hezekiah-healed-people
+  - passover-celebration
+  - national-unity
+  - divine-mercy
+  - spiritual-renewal
+---
 # 2 Chronicles 30
 
 ---
@@ -151,7 +163,7 @@ Hezekiah, sent, Israel, Judah, letters, Ephraim, Manasseh, house, LORD, Jerusale
 
 
 *AI Keywords for current event matching:*
-`abraham` `altars` `arose` `ashamed` `asher` `assembled` `assembly` `assyria` `ate` `beer` `blessed` `blood` `bread` `brethren` `brook` `bullocks` `burnt` `captive` `celebration` `charge` `children` `city` `clean` `cleansed` `comfortably` `commandment` `compassion` `confession` `congregation` `counsel` `country` `dan` `david` `day` `days` `decree` `desolation` `divers` `dwelling` `dwelt` `enter` `ephraim` `escaped` `face` `fathers` `feast` `fierceness` `forever` `fourteenth` `gathered` `gave` `gladness` `god` `good` `gracious` `great` `hand` `healed` `heard` `hearkened` `heart` `heaven` `hezekiah` `holy` `house` `humbled` `incense` `instruments` `invitation` `isaac` `israel` `issachar` `jerusalem` `joy` `judah` `keep` `kept` `kidron` `killed` `killing` `king` `kings` `knowledge` `land` `laughed` `law` `lead` `letters` `levites` `long` `lord` `loud` `man` `manasseh` `manner` `merciful` `mocked` `month` `moses` `multitude` `national` `number` `offerings` `pardon` `passover` `passovers` `peace` `people` `place` `posts` `praised` `prayed` `prayer` `prepare` `present` `priests` `princes` `proclamation` `purification` `rejoiced` `remnant` `renewal` `return` `sanctified` `sanctify` `sanctuary` `scorn` `second` `seek` `sent` `serve` `seven` `sheba` `sheep` `singing` `solomon` `son` `spake` `spiritual` `sprinkled` `stiffnecked` `stood` `strangers` `sufficiently` `taught` `ten` `thousand` `time` `trespassed` `turn` `unleavened` `voice` `words` `wrath` `written` `yield` `zebulun`
+#abraham #altars #arose #ashamed #asher #assembled #assembly #assyria #ate #beer #blessed #blood #bread #brethren #brook #bullocks #burnt #captive #celebration #charge #children #city #clean #cleansed #comfortably #commandment #compassion #confession #congregation #counsel #country #dan #david #day #days #decree #desolation #divers #dwelling #dwelt #enter #ephraim #escaped #face #fathers #feast #fierceness #forever #fourteenth #gathered #gave #gladness #god #good #gracious #great #hand #healed #heard #hearkened #heart #heaven #hezekiah #holy #house #humbled #incense #instruments #invitation #isaac #israel #issachar #jerusalem #joy #judah #keep #kept #kidron #killed #killing #king #kings #knowledge #land #laughed #law #lead #letters #levites #long #lord #loud #man #manasseh #manner #merciful #mocked #month #moses #multitude #national #number #offerings #pardon #passover #passovers #peace #people #place #posts #praised #prayed #prayer #prepare #present #priests #princes #proclamation #purification #rejoiced #remnant #renewal #return #sanctified #sanctify #sanctuary #scorn #second #seek #sent #serve #seven #sheba #sheep #singing #solomon #son #spake #spiritual #sprinkled #stiffnecked #stood #strangers #sufficiently #taught #ten #thousand #time #trespassed #turn #unleavened #voice #words #wrath #written #yield #zebulun
 
 
 ---

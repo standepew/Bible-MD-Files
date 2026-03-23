@@ -1,3 +1,15 @@
+---
+book: "John"
+chapter: 12
+testament: "New Testament"
+key_themes: "Mary Anoints Jesus, The Triumphal Entry, Greeks Seek Jesus, The Son of Man Must Be Lifted Up, Unbelief Fulfilled"
+tags:
+  - mary-anoints-jesus
+  - the-triumphal-entry
+  - greeks-seek-jesus
+  - the-son-of-man-must-be
+  - unbelief-fulfilled
+---
 # John 12
 
 ---
@@ -167,7 +179,7 @@ Jesus, six, days, passover, Bethany, Lazarus, dead, raised, supper, Martha, serv
 
 
 *AI Keywords for current event matching:*
-`abideth` `always` `andrew` `angel` `anointed` `anoints` `ass` `bare` `believed` `bethany` `bethsaida` `betray` `blinded` `branches` `burying` `chief` `children` `christ` `colt` `come` `corn` `darkness` `daughter` `day` `days` `death` `die` `disciples` `draw` `earth` `entry` `esaias` `eyes` `father` `feast` `feet` `follow` `fruit` `fulfilled` `glorified` `glorify` `greeks` `hair` `hardened` `hateth` `heart` `heaven` `hosanna` `hour` `hundred` `jesus` `judas` `judgment` `keep` `kept` `king` `lazarus` `life` `lifted` `light` `lose` `loveth` `man` `martha` `mary` `men` `miracles` `must` `next` `ointment` `palm` `passover` `pence` `philip` `poor` `praise` `priests` `prince` `prophet` `put` `record` `report` `rulers` `save` `seek` `serve` `signifying` `sion` `six` `son` `soul` `supper` `three` `thundered` `triumphal` `troubled` `unbelief` `voice` `wheat` `wiped` `world` `worship` `young`
+#abideth #always #andrew #angel #anointed #anoints #ass #bare #believed #bethany #bethsaida #betray #blinded #branches #burying #chief #children #christ #colt #come #corn #darkness #daughter #day #days #death #die #disciples #draw #earth #entry #esaias #eyes #father #feast #feet #follow #fruit #fulfilled #glorified #glorify #greeks #hair #hardened #hateth #heart #heaven #hosanna #hour #hundred #jesus #judas #judgment #keep #kept #king #lazarus #life #lifted #light #lose #loveth #man #martha #mary #men #miracles #must #next #ointment #palm #passover #pence #philip #poor #praise #priests #prince #prophet #put #record #report #rulers #save #seek #serve #signifying #sion #six #son #soul #supper #three #thundered #triumphal #troubled #unbelief #voice #wheat #wiped #world #worship #young
 
 
 ---

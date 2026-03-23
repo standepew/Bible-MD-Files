@@ -1,3 +1,67 @@
+---
+book: "Genesis"
+chapter: 24
+testament: "Old Testament"
+key_themes: "Abraham Old and Blessed in All Things — The Final Act of the Patriarch, The Oath Under the Thigh — The Most Solemn Covenant Swearing, "Not from the Daughters of Canaan" — Covenant Wife for a Covenant Son, "The LORD God of Heaven and Earth" — Abraham's Final Confessional Statement, The Servant Sent with All the Master's Goods in His Hand, Prayer at the Well — Specific, Faithful, Expectant, "Before He Had Done Speaking" — Providence Ahead of the Prayer, Rebekah the Virgin — Beautiful, Running, Serving Without Being Asked, Ten Camels Watered — Character Revealed by Sustained Unglamorous Labor, "The Man Wondering Held His Peace" — Discerning Character by Action, Gold Ring and Bracelets Given Before Her Identity Was Confirmed, "I Being in the Way the LORD Led Me" — Walking and Watching, "The Thing Proceedeth from the LORD" — Providence Named by Laban and Bethuel, "I Will Not Eat Until I Have Told Mine Errand" — The Servant Speaks Only of His Master and His Master's Son, The Double Retelling — The Servant's Account Before Laban, "I Will Go" — Rebekah's Free and Willing Consent, The Departure Blessing — "Be the Mother of Thousands of Millions", Isaac Meditating in the Field at Evening — The Son Waiting, "What Man Is This?" — Rebekah Sees the Son, The Veil — The Bride Covers Herself Before the Son, Isaac Brings Rebekah into Sarah's Tent — The New Covenant Wife in the Covenant House, "He Loved Her and Was Comforted" — The First Recorded Marital Love in Scripture"
+tags:
+  - Abraham-old-blessed-in-all-things
+  - oath-under-thigh
+  - not-daughters-of-Canaan
+  - covenant-wife-for-covenant-son
+  - 2-Corinthians-6-14
+  - LORD-God-of-heaven-and-earth
+  - El-Elyon
+  - servant-sent
+  - ten-camels
+  - all-goods-in-his-hand
+  - prayer-at-well
+  - specific-expectant-prayer
+  - Philippians-4-6
+  - Isaiah-65-24
+  - before-he-had-done-speaking
+  - Daniel-9-20-21
+  - Rebekah-betulah-virgin
+  - running-without-being-asked
+  - ten-camels-watered
+  - character-by-action
+  - man-wondering-held-his-peace
+  - gold-ring-bracelets
+  - I-being-in-the-way
+  - the-LORD-led-me
+  - Psalm-32-8
+  - Proverbs-3-5-6
+  - the-thing-proceedeth-from-the-LORD
+  - Proverbs-16-9
+  - Proverbs-19-21
+  - I-will-not-eat-until
+  - servant-speaks-only-of-master
+  - I-will-go
+  - Ruth-1-16
+  - Revelation-22-17
+  - departure-blessing
+  - mother-of-thousands-of-millions
+  - Genesis-22-17
+  - Isaac-meditating-field-evening
+  - suach-syach-meditation
+  - Psalm-1-2
+  - Joshua-1-8
+  - what-man-is-this
+  - veil
+  - Isaac-Sarah-tent
+  - he-loved-her
+  - first-marital-love
+  - comforted
+  - well-as-meeting-place
+  - Genesis-29-10
+  - Exodus-2-15
+  - John-4-6
+  - holy-spirit-type
+  - John-16-13-14
+  - 1-Corinthians-12
+  - Ephesians-1-13-14
+  - Beer-lahai-roi
+  - Revelation-19-7-8
+---
 # Genesis 24
 
 ---
@@ -165,7 +229,7 @@ Rebekah was called and asked directly: "Wilt thou go with this man?" She said, "
 
 For AI matching to topics and current events:
 
-`oath under the thigh` `thigh oath patriarchal` `Abraham sworn by LORD God of heaven and earth` `El Elyon Genesis 14:19` `not from daughters of Canaan` `covenant wife covenant son` `2 Corinthians 6:14 unequally yoked` `Deuteronomy 7:3-4 intermarriage` `servant sent unnamed` `Eliezer Genesis 15:2` `ten camels laden with goods` `all goods of master in his hand` `prayer at the well` `specific expectant prayer` `Philippians 4:6` `1 John 5:14-15` `before he had done speaking` `Isaiah 65:24` `Daniel 9:20-21 Gabriel while speaking` `Rebekah betulah virgin` `she ran without being asked` `watered ten camels` `25-40 gallons per camel` `character revealed by action` `man wondering held his peace` `gold ring two bracelets` `half shekel earring ten shekel bracelets` `I being in the way LORD led me` `Psalm 32:8` `Proverbs 3:5-6` `guidance while moving in obedience` `the thing proceedeth from the LORD` `min-YHWH yatsa` `Proverbs 16:9 LORD directs steps` `Proverbs 19:21 counsel of LORD stands` `I will not eat until I have told mine errand` `servant speaks only of master and son` `I will go elech` `Ruth 1:16` `Revelation 22:17 whosoever will` `John 6:37` `Song of Solomon 1:4 draw me we will run` `departure blessing mother of thousands of millions` `Genesis 22:17 parallel` `Beer-lahai-roi where Isaac came from` `Isaac meditating field eventide` `suach syach` `Psalm 1:2` `Joshua 1:8` `John 14:2-3 I will come again` `1 Thessalonians 4:16-17` `what man is this` `Rebekah alights from camel` `veil betulah covering` `2 Corinthians 11:2 chaste virgin to Christ` `Sarah tent new covenant wife` `he loved her first marital love` `nacham comforted` `Isaiah 40:1` `Holy Spirit type unnamed servant` `John 16:13-14 shall not speak of himself` `John 15:26 shall testify of me` `Ephesians 1:13-14 earnest of inheritance` `1 Corinthians 12 gifts in son's name` `well as meeting place` `Genesis 29:10 Jacob Rachel` `Exodus 2:15 Moses Zipporah` `John 4:6 living water`
+#oath-under-the-thigh #thigh-oath-patriarchal #Abraham-sworn-by-LORD-God-of-heaven-and-earth #El-Elyon-Genesis-1419 #not-from-daughters-of-Canaan #covenant-wife-covenant-son #2-Corinthians-614-unequally-yoked #Deuteronomy-73-4-intermarriage #servant-sent-unnamed #Eliezer-Genesis-152 #ten-camels-laden-with-goods #all-goods-of-master-in-his-hand #prayer-at-the-well #specific-expectant-prayer #Philippians-46 #1-John-514-15 #before-he-had-done-speaking #Isaiah-6524 #Daniel-920-21-Gabriel-while-speaking #Rebekah-betulah-virgin #she-ran-without-being-asked #watered-ten-camels #25-40-gallons-per-camel #character-revealed-by-action #man-wondering-held-his-peace #gold-ring-two-bracelets #half-shekel-earring-ten-shekel-bracelets #I-being-in-the-way-LORD-led-me #Psalm-328 #Proverbs-35-6 #guidance-while-moving-in-obedience #the-thing-proceedeth-from-the-LORD #min-YHWH-yatsa #Proverbs-169-LORD-directs-steps #Proverbs-1921-counsel-of-LORD-stands #I-will-not-eat-until-I-have-told-mine-errand #servant-speaks-only-of-master-and-son #I-will-go-elech #Ruth-116 #Revelation-2217-whosoever-will #John-637 #Song-of-Solomon-14-draw-me-we-will-run #departure-blessing-mother-of-thousands-of-millions #Genesis-2217-parallel #Beer-lahai-roi-where-Isaac-came-from #Isaac-meditating-field-eventide #suach-syach #Psalm-12 #Joshua-18 #John-142-3-I-will-come-again #1-Thessalonians-416-17 #what-man-is-this #Rebekah-alights-from-camel #veil-betulah-covering #2-Corinthians-112-chaste-virgin-to-Christ #Sarah-tent-new-covenant-wife #he-loved-her-first-marital-love #nacham-comforted #Isaiah-401 #Holy-Spirit-type-unnamed-servant #John-1613-14-shall-not-speak-of-himself #John-1526-shall-testify-of-me #Ephesians-113-14-earnest-of-inheritance #1-Corinthians-12-gifts-in-sons-name #well-as-meeting-place #Genesis-2910-Jacob-Rachel #Exodus-215-Moses-Zipporah #John-46-living-water
 
 **Relevance to Current Events:**
 - Biblical guidance for marriage — Genesis 24 is the most detailed biblical account of seeking a spouse; Abraham's criteria (covenant compatibility, not from Canaan), the servant's prayer (specific, character-testing sign), and the process (prayer + action + watching + worship) provide a biblical framework for the marriage decision; directly applicable in pastoral counseling and premarital guidance

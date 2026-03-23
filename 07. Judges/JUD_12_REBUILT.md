@@ -1,3 +1,40 @@
+---
+book: "Judges"
+chapter: 12
+testament: "Old Testament"
+key_themes: "Ephraim's Jealousy, Jephthah's Defense, Civil War, Shibboleth Test, Ibzan's Judgeship, Elon's Leadership, Abdon's Rule"
+tags:
+  - men-Ephraim-gathered-northward
+  - burn-house-fire
+  - called-delivered-hands
+  - LORD-delivered-hand
+  - come-fight-day
+  - men-Gilead-smote-Ephraim
+  - Gileadites-fugitives-Ephraim-Ephraimites-Manassites
+  - Gileadites-passages-Jordan-Ephraimites
+  - escaped-said-go-over
+  - men-Gilead-Ephraimite
+  - Nay
+  - Say-Shibboleth
+  - Sibboleth-frame-pronounce-right
+  - took-slew-passages-Jordan
+  - fell-Ephraimites-forty-two-thousand
+  - Jephthah-judged-Israel-six-years
+  - Ibzan-Beth-lehem-judged-Israel
+  - thirty-daughters-abroad-sons
+  - judged-Israel-seven-years
+  - died-Ibzan-buried-Beth-lehem
+  - Elon-Zebulonite-judged-Israel
+  - judged-Israel-ten-years
+  - judged-Israel-eight-years
+  - ephraim
+  - jephthah
+  - civil-war
+  - shibboleth-test
+  - ibzan
+  - elon
+  - abdon
+---
 # Judges 12
 
 ---
@@ -79,7 +116,7 @@ Ephraim's men gather and go north to confront Jephthah, angry he fought Ammon wi
 
 
 *AI Keywords for current event matching:*
-`abdon` `abdons` `abroad` `aijalon` `amalekites` `ammon` `ass` `beth-lehem` `buried` `burn` `call` `called` `children` `cities` `civil` `colts` `come` `complaint` `control` `country` `daughters` `day` `death` `defense` `delivered` `died` `eight` `elon` `elons` `ephraim` `ephraimite` `ephraimites` `ephraims` `escaped` `fell` `fight` `fire` `forty` `forty-two` `fought` `frame` `fugitives` `gathered` `gilead` `gileadite` `gileadites` `great` `hand` `hands` `hillel` `house` `ibzan` `ibzans` `israel` `jephthah` `jephthahs` `jordan` `judged` `judgeship` `land` `leadership` `life` `lord` `manassites` `men` `mount` `nay` `nephews` `northward` `passages` `passed` `people` `pirathon` `pirathonite` `pronounce` `right` `rode` `rule` `said` `saw` `say` `sent` `seven` `shibboleth` `sibboleth` `six` `slew` `smote` `son` `sons` `strife` `ten` `test` `thirty` `thousand` `threescore` `took` `war` `years` `zebulonite` `zebulun`
+#abdon #abdons #abroad #aijalon #amalekites #ammon #ass #beth-lehem #buried #burn #call #called #children #cities #civil #colts #come #complaint #control #country #daughters #day #death #defense #delivered #died #eight #elon #elons #ephraim #ephraimite #ephraimites #ephraims #escaped #fell #fight #fire #forty #forty-two #fought #frame #fugitives #gathered #gilead #gileadite #gileadites #great #hand #hands #hillel #house #ibzan #ibzans #israel #jephthah #jephthahs #jordan #judged #judgeship #land #leadership #life #lord #manassites #men #mount #nay #nephews #northward #passages #passed #people #pirathon #pirathonite #pronounce #right #rode #rule #said #saw #say #sent #seven #shibboleth #sibboleth #six #slew #smote #son #sons #strife #ten #test #thirty #thousand #threescore #took #war #years #zebulonite #zebulun
 
 
 ---

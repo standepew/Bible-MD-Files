@@ -1,3 +1,28 @@
+---
+book: "Numbers"
+chapter: 9
+testament: "Old Testament"
+key_themes: "The second Passover — one year after the Exodus; Israel keeps it exactly in the wilderness, The make-up Passover provision: those defiled by the dead or on a distant journey may keep it one month later — God's mercy makes a way when the Law's requirement cannot be met, The soul that refuses Passover without cause is cut off — it is not optional, The stranger who sojourns in Israel may also keep the Passover — one ordinance for stranger and native alike, The pillar of cloud and fire — the direct, visible guidance system for all Israel's movements; they move when it moves, rest when it rests, for however long God determines"
+tags:
+  - second-Passover
+  - wilderness-of-Sinai
+  - first-month-fourteenth-day
+  - exact-obedience
+  - defiled-by-dead
+  - journey-afar-off
+  - make-up-Passover
+  - second-month-fourteenth
+  - cut-off-for-refusing
+  - stranger-keeps-Passover
+  - one-ordinance
+  - cloud-covers-Tabernacle
+  - fire-by-night
+  - commandment-of-the-LORD
+  - they-journeyed-they-pitched
+  - at-his-commandment
+  - cloud-by-day-fire-by-night
+  - whether-two-days-or-a-year
+---
 # Numbers 9
 
 ---
@@ -68,7 +93,7 @@ In the first month of the second year, God commands Israel to keep the Passover 
 
 
 *AI Keywords for current event matching:*
-`166-7` `915-23` `acts` `current` `divine` `events` `following` `gods` `guidance` `isaiah` `john` `leading` `matching` `numbers`
+#166-7 #915-23 #acts #current #divine #events #following #gods #guidance #isaiah #john #leading #matching #numbers
 
 
 ---
@@ -150,10 +175,10 @@ The unbroken bone of the Passover lamb is one of the most precisely fulfilled ty
 
 The repetition is the text's own emphasis: Israel's movements are not determined by military strategy, personal preference, seasonal weather, tribal consensus, or Moses' judgment. Entirely at the commandment of the LORD.
 
-- **Proverbs 3:5-6** — "Trust in the LORD with all thine heart; and lean not unto thine own understanding. In all thy ways acknowledge him, and he shall direct thy paths" — the Proverbs articulation of the cloud-principle
-- **Psalm 32:8-9** — "I will instruct thee and teach thee in the way which thou shalt go: I will guide thee with mine eye. Be ye not as the horse, or as the mule, which have no understanding" — God's eye-guidance vs. the headstrong refusal to be guided
-- **Isaiah 30:21** — "And thine ears shall hear a word behind thee, saying, This is the way, walk ye in it, when ye turn to the right hand, and when ye turn to the left"
-- **John 10:3-4** — "the sheep hear his voice... and the sheep follow him: for they know his voice" — the cloud is now the Shepherd's voice; the same principle of moving only when He moves
+- [[20. Proverbs/PROVERBS_03_REBUILT|Proverbs 3:5-6]] — "Trust in the LORD with all thine heart; and lean not unto thine own understanding. In all thy ways acknowledge him, and he shall direct thy paths" — the Proverbs articulation of the cloud-principle
+- [[19.Psalm Part 1/PSALM_32_REBUILT|Psalm 32:8-9]] — "I will instruct thee and teach thee in the way which thou shalt go: I will guide thee with mine eye. Be ye not as the horse, or as the mule, which have no understanding" — God's eye-guidance vs. the headstrong refusal to be guided
+- [[23. Isaiah/ISAIAH_30_REBUILT|Isaiah 30:21]] — "And thine ears shall hear a word behind thee, saying, This is the way, walk ye in it, when ye turn to the right hand, and when ye turn to the left"
+- [[43. John/JOHN_10_REBUILT|John 10:3-4]] — "the sheep hear his voice... and the sheep follow him: for they know his voice" — the cloud is now the Shepherd's voice; the same principle of moving only when He moves
 
 **What the Bible establishes:** "At the commandment of the LORD" five times in one passage is the Torah's most concentrated statement of divine-sovereignty-in-guidance. The cloud is not Israel's to summon or dismiss. It moves when God determines and rests when God determines — two days, a month, or a year. Israel's entire wilderness itinerary is the enacted parable of what Proverbs 3:5-6 commands: lean not on your own understanding; acknowledge Him in all your ways. The cloud-followers are the walking definition of trust.
 

@@ -1,3 +1,40 @@
+---
+book: "Joshua"
+chapter: 20
+testament: "Old Testament"
+key_themes: "Cities of Refuge, Divine Justice, Unintentional Killing, Blood Avenger, Legal Protection, High Priest's Death, Tribal Distribution"
+tags:
+  - LORD-spake-Joshua
+  - Speak-children-Israel
+  - Appoint-cities-refuge
+  - spake-hand-Moses
+  - slayer-killeth-person-unawares-unwittingly-flee
+  - refuge-avenger-blood
+  - flee-city-stand-entering-gate-city
+  - declare-cause-ears-elders-city
+  - take-city
+  - place-dwell
+  - avenger-blood-pursue
+  - deliver-slayer-hand
+  - smote-neighbour-unwittingly
+  - hated-beforetime
+  - dwell-city
+  - stand-congregation-judgment
+  - death-high-priest-days
+  - slayer-return-city-house-city-fled
+  - appointed-Kedesh-Galilee-mount-Naphtali
+  - Shechem-mount-Ephraim
+  - Kirjath-arba-Hebron-mountain-Judah
+  - Jordan-Jericho-eastward
+  - Bezer-wilderness-plain-tribe-Reuben
+  - Ramoth-Gilead-tribe-Gad
+  - Golan-Bashan-tribe-Manasseh
+  - cities-appointed-children-Israel
+  - stranger-sojourneth
+  - whosoever-killeth-person-unawares-flee
+  - die-hand-avenger-blood
+  - stand-congregation
+---
 # Joshua 20
 
 ---
@@ -96,7 +133,7 @@ The LORD commands Joshua to speak to Israel about appointing cities of refuge as
 
 
 *AI Keywords for current event matching:*
-`application` `appoint` `appointed` `avenger` `bashan` `beforetime` `bezer` `blood` `cause` `children` `cities` `city` `command` `congregation` `days` `death` `declare` `deliver` `die` `divine` `dwell` `ears` `east` `eastward` `elders` `entering` `ephraim` `fled` `flee` `gad` `galilee` `gate` `gilead` `golan` `hand` `hated` `hebron` `high` `house` `israel` `jericho` `jordan` `joshua` `judah` `judgment` `kedesh` `killeth` `kirjath-arba` `legal` `lord` `manasseh` `moses` `mount` `mountain` `naphtali` `neighbour` `person` `place` `plain` `priest` `procedure` `process` `purpose` `pursue` `ramoth` `refuge` `return` `reuben` `shechem` `slayer` `smote` `sojourneth` `spake` `speak` `stand` `stranger` `take` `tribe` `unawares` `universal` `unwittingly` `west` `whosoever` `wilderness`
+#application #appoint #appointed #avenger #bashan #beforetime #bezer #blood #cause #children #cities #city #command #congregation #days #death #declare #deliver #die #divine #dwell #ears #east #eastward #elders #entering #ephraim #fled #flee #gad #galilee #gate #gilead #golan #hand #hated #hebron #high #house #israel #jericho #jordan #joshua #judah #judgment #kedesh #killeth #kirjath-arba #legal #lord #manasseh #moses #mount #mountain #naphtali #neighbour #person #place #plain #priest #procedure #process #purpose #pursue #ramoth #refuge #return #reuben #shechem #slayer #smote #sojourneth #spake #speak #stand #stranger #take #tribe #unawares #universal #unwittingly #west #whosoever #wilderness
 
 
 ---

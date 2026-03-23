@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 24
+testament: "Old Testament"
+key_themes: "God's Ownership, Worship Requirements, King of Glory, Christ's Ascension"
+tags:
+  - god
+  - worship-requirements
+  - king-of-glory
+  - christ
+---
 # Psalm 24
 
 ---
@@ -129,7 +140,7 @@ Psalm, David, earth, LORD, fulness, world, dwell, founded, seas, established, fl
 
 
 *AI Keywords for current event matching:*
-`ascend` `ascension` `battle` `blessing` `christs` `clean` `come` `david` `deceitfully` `doors` `dwell` `earth` `established` `everlasting` `face` `floods` `founded` `fulness` `gates` `generation` `glory` `god` `gods` `hands` `heads` `heart` `hill` `holy` `hosts` `jacob` `king` `lift` `lifted` `lord` `mighty` `ownership` `place` `psalm` `pure` `receive` `requirements` `righteousness` `salvation` `seas` `seek` `selah` `soul` `stand` `strong` `sworn` `vanity` `world` `worship`
+#ascend #ascension #battle #blessing #christs #clean #come #david #deceitfully #doors #dwell #earth #established #everlasting #face #floods #founded #fulness #gates #generation #glory #god #gods #hands #heads #heart #hill #holy #hosts #jacob #king #lift #lifted #lord #mighty #ownership #place #psalm #pure #receive #requirements #righteousness #salvation #seas #seek #selah #soul #stand #strong #sworn #vanity #world #worship
 
 
 ---

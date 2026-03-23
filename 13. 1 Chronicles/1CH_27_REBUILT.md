@@ -1,3 +1,14 @@
+---
+book: "1 Chronicles"
+chapter: 27
+testament: "Old Testament"
+key_themes: "Military Organization, Tribal Leadership, Administrative Structure, David's Kingdom Management"
+tags:
+  - military-organization
+  - tribal-leadership
+  - administrative-structure
+  - david
+---
 # 1 Chronicles 27
 
 ---
@@ -121,7 +132,7 @@ Children, Israel, number, chief, fathers, captains, thousands, hundreds, officer
 
 
 *AI Keywords for current event matching:*
-`aaronites` `abi-ezer` `abiathar` `abner` `account` `adiel` `adlai` `administration` `administrative` `ahithophel` `ahohite` `ammizabad` `anetothite` `archite` `army` `asahel` `asses` `azareel` `azaziah` `azmaveth` `azriel` `baal` `began` `benaiah` `benjamin` `benjamites` `brethren` `brother` `camels` `captain` `captains` `castles` `cellars` `chelub` `chief` `children` `chronicles` `cities` `companion` `counsellor` `course` `courses` `dan` `david` `divine` `dodai` `eighth` `eleventh` `eliezer` `elihu` `ephraim` `ezri` `fathers` `fed` `fields` `fifth` `finished` `first` `flocks` `four` `fourth` `gederite` `general` `gilead` `ground` `hachmoni` `hagerite` `half` `hanan` `hashabiah` `heavens` `heldai` `helez` `herds` `hoshea` `host` `hundreds` `hushai` `hushathite` `iddo` `ikkesh` `increase` `ira` `ishmaelite` `ishmaiah` `israel` `issachar` `izrahite` `jaasiel` `jashobeam` `jaziz` `jehdeiah` `jehiel` `jehoiada` `jehonathan` `jerimoth` `jeroham` `joab` `joash` `joel` `jonathan` `judah` `kemuel` `king` `kingdom` `leadership` `levites` `like` `lord` `low` `maachah` `maharai` `man` `manasseh` `matter` `meronothite` `mikloth` `military` `month` `monthly` `months` `naphtali` `netophathite` `ninth` `number` `obadiah` `obil` `officers` `oil` `old` `olive` `omri` `organization` `othniel` `pedaiah` `pelonite` `perez` `pirathonite` `plains` `priest` `princes` `promise` `ramathite` `reubenites` `rotations` `ruler` `rulers` `said` `scribe` `second` `served` `seventh` `shamhuth` `shaphat` `sharon` `sharonite` `shephatiah` `shimei` `shiphmite` `shitrai` `sibbecai` `simeonites` `sixth` `son` `sons` `stars` `storehouses` `substance` `sycamore` `tekoite` `tenth` `third` `thousand` `thousands` `tillage` `treasures` `trees` `tribal` `tribe` `tribes` `twelfth` `twenty` `uncle` `uzziah` `valleys` `villages` `vineyards` `wine` `wise` `work` `wrath` `year` `years` `zabdi` `zabdiel` `zadok` `zarhites` `zebadiah` `zebulun` `zechariah` `zeruiah` `zichri`
+#aaronites #abi-ezer #abiathar #abner #account #adiel #adlai #administration #administrative #ahithophel #ahohite #ammizabad #anetothite #archite #army #asahel #asses #azareel #azaziah #azmaveth #azriel #baal #began #benaiah #benjamin #benjamites #brethren #brother #camels #captain #captains #castles #cellars #chelub #chief #children #chronicles #cities #companion #counsellor #course #courses #dan #david #divine #dodai #eighth #eleventh #eliezer #elihu #ephraim #ezri #fathers #fed #fields #fifth #finished #first #flocks #four #fourth #gederite #general #gilead #ground #hachmoni #hagerite #half #hanan #hashabiah #heavens #heldai #helez #herds #hoshea #host #hundreds #hushai #hushathite #iddo #ikkesh #increase #ira #ishmaelite #ishmaiah #israel #issachar #izrahite #jaasiel #jashobeam #jaziz #jehdeiah #jehiel #jehoiada #jehonathan #jerimoth #jeroham #joab #joash #joel #jonathan #judah #kemuel #king #kingdom #leadership #levites #like #lord #low #maachah #maharai #man #manasseh #matter #meronothite #mikloth #military #month #monthly #months #naphtali #netophathite #ninth #number #obadiah #obil #officers #oil #old #olive #omri #organization #othniel #pedaiah #pelonite #perez #pirathonite #plains #priest #princes #promise #ramathite #reubenites #rotations #ruler #rulers #said #scribe #second #served #seventh #shamhuth #shaphat #sharon #sharonite #shephatiah #shimei #shiphmite #shitrai #sibbecai #simeonites #sixth #son #sons #stars #storehouses #substance #sycamore #tekoite #tenth #third #thousand #thousands #tillage #treasures #trees #tribal #tribe #tribes #twelfth #twenty #uncle #uzziah #valleys #villages #vineyards #wine #wise #work #wrath #year #years #zabdi #zabdiel #zadok #zarhites #zebadiah #zebulun #zechariah #zeruiah #zichri
 
 
 ---

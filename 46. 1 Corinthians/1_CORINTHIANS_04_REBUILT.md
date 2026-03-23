@@ -1,3 +1,14 @@
+---
+book: "1 Corinthians"
+chapter: 4
+testament: "New Testament"
+key_themes: "Ministers of Christ, Faithful Stewards, Apostolic Suffering, Kingdom of God"
+tags:
+  - ministers-of-christ
+  - faithful-stewards
+  - apostolic-suffering
+  - kingdom-of-god
+---
 # 1 Corinthians 4
 
 ---
@@ -129,7 +140,7 @@ Account, ministers, Christ, stewards, mysteries, God, required, stewards, faithf
 
 
 *AI Keywords for current event matching:*
-`account` `angels` `apollos` `apostles` `apostolic` `appointed` `begotten` `beloved` `beseech` `bless` `brethren` `bring` `buffeted` `certain` `christ` `church` `come` `counsels` `darkness` `death` `defamed` `despised` `differ` `dwellingplace` `faithful` `fathers` `figure` `filth` `followers` `fools` `full` `glory` `god` `gospel` `hands` `hearts` `hidden` `honourable` `hunger` `instructors` `intreat` `jesus` `judge` `judged` `judgeth` `judgment` `justified` `kingdom` `kings` `labour` `learn` `light` `lord` `love` `maketh` `man` `manifest` `meekness` `men` `ministers` `mysteries` `naked` `offscouring` `persecuted` `power` `praise` `puffed` `receive` `received` `reign` `reigned` `remembrance` `required` `reviled` `rich` `rod` `sake` `sakes` `shame` `shortly` `son` `sons` `spectacle` `speech` `spirit` `stewards` `strong` `suffer` `suffering` `teach` `ten` `things` `think` `thirst` `thousand` `time` `timotheus` `transferred` `warn` `ways` `weak` `wise` `word` `working` `world` `written`
+#account #angels #apollos #apostles #apostolic #appointed #begotten #beloved #beseech #bless #brethren #bring #buffeted #certain #christ #church #come #counsels #darkness #death #defamed #despised #differ #dwellingplace #faithful #fathers #figure #filth #followers #fools #full #glory #god #gospel #hands #hearts #hidden #honourable #hunger #instructors #intreat #jesus #judge #judged #judgeth #judgment #justified #kingdom #kings #labour #learn #light #lord #love #maketh #man #manifest #meekness #men #ministers #mysteries #naked #offscouring #persecuted #power #praise #puffed #receive #received #reign #reigned #remembrance #required #reviled #rich #rod #sake #sakes #shame #shortly #son #sons #spectacle #speech #spirit #stewards #strong #suffer #suffering #teach #ten #things #think #thirst #thousand #time #timotheus #transferred #warn #ways #weak #wise #word #working #world #written
 
 
 ---

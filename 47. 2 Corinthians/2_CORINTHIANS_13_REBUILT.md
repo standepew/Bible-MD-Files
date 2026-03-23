@@ -1,3 +1,14 @@
+---
+book: "2 Corinthians"
+chapter: 13
+testament: "New Testament"
+key_themes: "Final Warning, Self-Examination, The Power of Christ, Final Benediction"
+tags:
+  - final-warning
+  - selfexamination
+  - the-power-of-christ
+  - final-benediction
+---
 # 2 Corinthians 13
 
 ---
@@ -93,7 +104,7 @@ Third, time, coming, mouth, witnesses, word, established, told, foretell, presen
 
 
 *AI Keywords for current event matching:*
-`absent` `amen` `appear` `approved` `benediction` `brethren` `christ` `come` `comfort` `coming` `communion` `crucified` `destruction` `edification` `established` `evil` `examine` `faith` `farewell` `final` `finally` `foretell` `ghost` `glad` `god` `grace` `greet` `heretofore` `holy` `honest` `jesus` `kiss` `know` `live` `liveth` `lord` `love` `mighty` `mind` `mouth` `peace` `perfect` `perfection` `power` `pray` `present` `proof` `prove` `reprobates` `saints` `salute` `second` `seek` `self-examination` `selves` `sharpness` `sinned` `spare` `speaking` `strong` `third` `time` `told` `trust` `truth` `warning` `weak` `weakness` `wish` `witnesses` `word` `write`
+#absent #amen #appear #approved #benediction #brethren #christ #come #comfort #coming #communion #crucified #destruction #edification #established #evil #examine #faith #farewell #final #finally #foretell #ghost #glad #god #grace #greet #heretofore #holy #honest #jesus #kiss #know #live #liveth #lord #love #mighty #mind #mouth #peace #perfect #perfection #power #pray #present #proof #prove #reprobates #saints #salute #second #seek #self-examination #selves #sharpness #sinned #spare #speaking #strong #third #time #told #trust #truth #warning #weak #weakness #wish #witnesses #word #write
 
 
 ---

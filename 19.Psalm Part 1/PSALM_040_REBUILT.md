@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 40
+testament: "Old Testament"
+key_themes: "Patient Waiting, Divine Deliverance, New Song, Christ's Coming"
+tags:
+  - patient-waiting
+  - divine-deliverance
+  - new-song
+  - christ
+---
 # Psalm 40
 
 ---
@@ -141,7 +152,7 @@ Chief, Musician, Psalm, David, waited, patiently, LORD, inclined, heard, cry, br
 
 
 *AI Keywords for current event matching:*
-`aside` `blessed` `book` `brought` `burnt` `chief` `christs` `clay` `come` `coming` `concealed` `congregation` `cry` `david` `declare` `declared` `delight` `deliver` `deliverance` `deliverer` `desire` `divine` `ears` `established` `faithfulness` `fear` `feet` `god` `goings` `great` `haste` `heard` `heart` `help` `hid` `horrible` `inclined` `knowest` `law` `lies` `lips` `lord` `lovingkindness` `make` `maketh` `man` `many` `miry` `mouth` `musician` `needy` `new` `numbered` `offering` `opened` `order` `patient` `patiently` `pit` `pleased` `poor` `praise` `preached` `proud` `psalm` `put` `reckoned` `refrained` `required` `respecteth` `righteousness` `rock` `sacrifice` `salvation` `see` `set` `sin` `song` `speak` `thinketh` `thoughts` `trust` `truth` `turn` `volume` `waited` `waiting` `ward` `wonderful` `works` `written`
+#aside #blessed #book #brought #burnt #chief #christs #clay #come #coming #concealed #congregation #cry #david #declare #declared #delight #deliver #deliverance #deliverer #desire #divine #ears #established #faithfulness #fear #feet #god #goings #great #haste #heard #heart #help #hid #horrible #inclined #knowest #law #lies #lips #lord #lovingkindness #make #maketh #man #many #miry #mouth #musician #needy #new #numbered #offering #opened #order #patient #patiently #pit #pleased #poor #praise #preached #proud #psalm #put #reckoned #refrained #required #respecteth #righteousness #rock #sacrifice #salvation #see #set #sin #song #speak #thinketh #thoughts #trust #truth #turn #volume #waited #waiting #ward #wonderful #works #written
 
 
 ---

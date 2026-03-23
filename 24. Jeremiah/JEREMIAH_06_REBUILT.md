@@ -1,3 +1,13 @@
+---
+book: "Jeremiah"
+chapter: 6
+testament: "Old Testament"
+key_themes: "Christ's Warning, Spiritual Deafness, Divine Invasion, Christ's Lament"
+tags:
+  - christ
+  - spiritual-deafness
+  - divine-invasion
+---
 # Jeremiah 6
 
 ---
@@ -117,7 +127,7 @@ Children, Benjamin, gather, flee, midst, Jerusalem, blow, trumpet, Tekoa, set, s
 
 
 *AI Keywords for current event matching:*
-`anguish` `array` `bitter` `blow` `cannot` `christs` `cruel` `deafness` `delight` `destruction` `divine` `ear` `evil` `fire` `forest` `fury` `great` `hearken` `horses` `invasion` `lament` `lamentation` `lion` `lord` `mercy` `north` `pain` `reproach` `ride` `roar` `sea` `set` `sign` `spiritual` `tekoa` `travail` `trumpet` `uncircumcised` `voice` `warning` `weary` `woman` `word`
+#anguish #array #bitter #blow #cannot #christs #cruel #deafness #delight #destruction #divine #ear #evil #fire #forest #fury #great #hearken #horses #invasion #lament #lamentation #lion #lord #mercy #north #pain #reproach #ride #roar #sea #set #sign #spiritual #tekoa #travail #trumpet #uncircumcised #voice #warning #weary #woman #word
 
 
 ---

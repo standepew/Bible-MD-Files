@@ -1,3 +1,14 @@
+---
+book: "Habakkuk"
+chapter: 1
+testament: "Old Testament"
+key_themes: "Christ's Question of Suffering, Divine Justice, Chaldean Judgment, God's Sovereignty"
+tags:
+  - christ
+  - divine-justice
+  - chaldean-judgment
+  - god
+---
 # Habakkuk 1
 
 ---
@@ -129,7 +140,7 @@ Burden, Habakkuk, prophet, O, LORD, long, cry, hear, cry, violence, save, shew, 
 
 
 *AI Keywords for current event matching:*
-`behold` `bitter` `captivity` `chaldean` `christs` `compass` `cry` `divine` `dreadful` `everlasting` `eyes` `fishes` `gather` `gods` `grievance` `hasty` `hear` `horses` `iniquity` `judgment` `justice` `law` `long` `lord` `never` `ordained` `purer` `question` `save` `sea` `shew` `slacked` `sovereignty` `suffering` `swifter` `terrible` `wicked` `wrong`
+#behold #bitter #captivity #chaldean #christs #compass #cry #divine #dreadful #everlasting #eyes #fishes #gather #gods #grievance #hasty #hear #horses #iniquity #judgment #justice #law #long #lord #never #ordained #purer #question #save #sea #shew #slacked #sovereignty #suffering #swifter #terrible #wicked #wrong
 
 
 ---

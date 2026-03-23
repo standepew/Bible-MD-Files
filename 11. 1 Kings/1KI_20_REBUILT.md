@@ -1,3 +1,19 @@
+---
+book: "1 Kings"
+chapter: 20
+testament: "Old Testament"
+key_themes: "Syrian Invasion, Divine Victory, Ahab's Disobedience, Covenant Breaking, Prophetic Judgment"
+tags:
+  - elders-people-Hearken-consent
+  - peace-war-alive
+  - kings-place-captains-rooms
+  - man-smite-wounded
+  - syrian-invasion
+  - divine-victory
+  - ahab
+  - covenant-breaking
+  - prophetic-judgment
+---
 # 1 Kings 20
 
 ---
@@ -83,7 +99,7 @@ Ben-hadad king Syria gathered host, thirty-two kings, horses, chariots; besieged
 
 
 *AI Keywords for current event matching:*
-`ahab` `alive` `answered` `aphek` `army` `array` `ashes` `aside` `away` `battle` `ben-hadad` `besieged` `boast` `bring` `brother` `brought` `busy` `captains` `catch` `chamber` `chariot` `chariots` `children` `cities` `city` `consent` `country` `covenant` `cried` `damascus` `day` `decided` `deliver` `denied` `departed` `destruction` `diligently` `discerned` `disguised` `displeased` `drinking` `drunk` `elders` `escaped` `eyes` `face` `father` `fell` `fight` `first` `fled` `footmen` `gathered` `girdeth` `god` `gods` `gold` `gone` `goodliest` `great` `hand` `handfuls` `harness` `hasted` `hastily` `heads` `hearken` `hearkened` `heavy` `helped` `hills` `horse` `horsemen` `horses` `host` `house` `houses` `hundred` `improper` `inner` `invasion` `israel` `joined` `judgment` `keep` `kids` `king` `kings` `know` `land` `left` `life` `lion` `live` `loins` `lord` `lost` `man` `mark` `men` `merciful` `mercy` `message` `messengers` `midst` `mischief` `missing` `morrow` `multitude` `neighbour` `noon` `numbered` `obeyed` `observe` `off` `ordered` `passed` `pavilions` `peace` `people` `pitched` `plain` `pleasant` `present` `princes` `prophet` `prophetic` `prophets` `provinces` `pursued` `putteth` `refused` `restore` `return` `rooms` `ropes` `sackcloth` `samaria` `saying` `search` `second` `sent` `servant` `servants` `seven` `seventh` `silver` `slaughter` `slay` `slew` `smite` `sons` `streets` `strengthen` `stronger` `syria` `syrian` `syrians` `take` `talent` `thing` `thirty-two` `thousand` `took` `turned` `two` `valleys` `victory` `voice` `waited` `wall` `war` `warred` `way` `wives` `word` `wounded` `year` `young`
+#ahab #alive #answered #aphek #army #array #ashes #aside #away #battle #ben-hadad #besieged #boast #bring #brother #brought #busy #captains #catch #chamber #chariot #chariots #children #cities #city #consent #country #covenant #cried #damascus #day #decided #deliver #denied #departed #destruction #diligently #discerned #disguised #displeased #drinking #drunk #elders #escaped #eyes #face #father #fell #fight #first #fled #footmen #gathered #girdeth #god #gods #gold #gone #goodliest #great #hand #handfuls #harness #hasted #hastily #heads #hearken #hearkened #heavy #helped #hills #horse #horsemen #horses #host #house #houses #hundred #improper #inner #invasion #israel #joined #judgment #keep #kids #king #kings #know #land #left #life #lion #live #loins #lord #lost #man #mark #men #merciful #mercy #message #messengers #midst #mischief #missing #morrow #multitude #neighbour #noon #numbered #obeyed #observe #off #ordered #passed #pavilions #peace #people #pitched #plain #pleasant #present #princes #prophet #prophetic #prophets #provinces #pursued #putteth #refused #restore #return #rooms #ropes #sackcloth #samaria #saying #search #second #sent #servant #servants #seven #seventh #silver #slaughter #slay #slew #smite #sons #streets #strengthen #stronger #syria #syrian #syrians #take #talent #thing #thirty-two #thousand #took #turned #two #valleys #victory #voice #waited #wall #war #warred #way #wives #word #wounded #year #young
 
 
 ---

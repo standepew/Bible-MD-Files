@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 102
+testament: "Old Testament"
+key_themes: "Afflicted Prayer, Human Frailty, Divine Eternity, Zion's Restoration"
+tags:
+  - afflicted-prayer
+  - human-frailty
+  - divine-eternity
+  - zion
+---
 # Psalm 102
 
 ---
@@ -165,7 +176,7 @@ Prayer, afflicted, overwhelmed, poureth, complaint, LORD, Hear, prayer, LORD, cr
 
 
 *AI Keywords for current event matching:*
-`afflicted` `answer` `appear` `arise` `bones` `bread` `build` `burned` `call` `change` `changed` `cleave` `come` `complaint` `consumed` `cry` `day` `days` `declare` `divine` `ear` `earth` `eat` `end` `endure` `eternity` `face` `favour` `forget` `foundation` `frailty` `garment` `gathered` `generations` `glory` `grass` `groaning` `hands` `hear` `heart` `hearth` `heavens` `hide` `human` `incline` `jerusalem` `kingdoms` `laid` `lord` `mercy` `name` `old` `overwhelmed` `people` `perish` `poureth` `praise` `prayer` `reason` `remembrance` `restoration` `serve` `set` `skin` `smitten` `smoke` `speedily` `time` `trouble` `vesture` `voice` `wax` `withered` `work` `years` `zion` `zions`
+#afflicted #answer #appear #arise #bones #bread #build #burned #call #change #changed #cleave #come #complaint #consumed #cry #day #days #declare #divine #ear #earth #eat #end #endure #eternity #face #favour #forget #foundation #frailty #garment #gathered #generations #glory #grass #groaning #hands #hear #heart #hearth #heavens #hide #human #incline #jerusalem #kingdoms #laid #lord #mercy #name #old #overwhelmed #people #perish #poureth #praise #prayer #reason #remembrance #restoration #serve #set #skin #smitten #smoke #speedily #time #trouble #vesture #voice #wax #withered #work #years #zion #zions
 
 
 ---

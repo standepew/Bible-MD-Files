@@ -1,3 +1,28 @@
+---
+book: "Job"
+chapter: 14
+testament: "Old Testament"
+key_themes: "Human Frailty, Life's Brevity, Hope of Resurrection, Divine Judgment"
+tags:
+  - man-born-woman-days-trouble
+  - flower-cut-shadow-continueth
+  - open-eyes-judgment
+  - clean-unclean
+  - days-determined-months-bounds-pass
+  - turn-rest-accomplish-hireling-day
+  - scent-water-bud-boughs-plant
+  - man-dieth-wasteth-ghost
+  - call-answer-desire-work-hands
+  - number-steps-watch-sin
+  - transgression-sealed-bag-sewed-iniquity
+  - mountain-falling-nought-rock-place
+  - prevailest-passeth-changest-countenance-send
+  - flesh-pain-soul-mourn
+  - human-frailty
+  - life
+  - hope-of-resurrection
+  - divine-judgment
+---
 # Job 14
 
 ---
@@ -117,7 +142,7 @@ Man, born, woman, days, trouble. Flower, cut, shadow, continueth. Open, eyes, ju
 
 
 *AI Keywords for current event matching:*
-`accomplish` `again` `appointed` `awake` `born` `boughs` `bounds` `branch` `brevity` `bud` `cease` `change` `clean` `continueth` `cut` `day` `days` `decay` `determined` `die` `dieth` `divine` `down` `drieth` `earth` `eyes` `fail` `flood` `flower` `frailty` `ghost` `grave` `ground` `heavens` `hide` `hireling` `hope` `human` `judgment` `lieth` `lifes` `live` `man` `months` `old` `open` `pass` `past` `plant` `remember` `rest` `resurrection` `riseth` `root` `scent` `sea` `secret` `set` `shadow` `sleep` `sprout` `stock` `tender` `time` `tree` `trouble` `turn` `unclean` `wait` `wasteth` `water` `waters` `woman` `wrath`
+#accomplish #again #appointed #awake #born #boughs #bounds #branch #brevity #bud #cease #change #clean #continueth #cut #day #days #decay #determined #die #dieth #divine #down #drieth #earth #eyes #fail #flood #flower #frailty #ghost #grave #ground #heavens #hide #hireling #hope #human #judgment #lieth #lifes #live #man #months #old #open #pass #past #plant #remember #rest #resurrection #riseth #root #scent #sea #secret #set #shadow #sleep #sprout #stock #tender #time #tree #trouble #turn #unclean #wait #wasteth #water #waters #woman #wrath
 
 
 ---

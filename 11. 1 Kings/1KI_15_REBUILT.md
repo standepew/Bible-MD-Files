@@ -1,3 +1,16 @@
+---
+book: "1 Kings"
+chapter: 15
+testament: "Old Testament"
+key_themes: "Abijam's Evil Reign, Asa's Reform, Baasha's Conspiracy, Syrian Alliance, Prophetic Fulfillment"
+tags:
+  - war-Rehoboam-Jeroboam-days-life
+  - abijam
+  - asa
+  - baasha
+  - syrian-alliance
+  - prophetic-fulfillment
+---
 # 1 Kings 15
 
 ---
@@ -93,7 +106,7 @@ Eighteenth year king Jeroboam son Nebat reigned Abijam Judah. Three years Jerusa
 
 
 *AI Keywords for current event matching:*
-`abel-beth-maachah` `abijam` `abijams` `abishalom` `acts` `age` `ahijah` `alliance` `anger` `asa` `asas` `aside` `baasha` `baashas` `ben-hadad` `benjamin` `book` `break` `breathed` `brook` `brought` `builded` `building` `built` `buried` `burnt` `captains` `chronicles` `cinneroth` `cities` `city` `commanded` `conspiracy` `conspired` `damascus` `dan` `daughter` `david` `days` `death` `dedicated` `depart` `destroyed` `destruction` `diseased` `dwelt` `eighteenth` `establish` `evil` `exempted` `eyes` `father` `fathers` `feet` `forty` `geba` `gibbethon` `god` `gold` `grove` `heard` `hearkened` `heart` `hezion` `high` `hittite` `hosts` `house` `idol` `idols` `ijon` `israel` `issachar` `jehoshaphat` `jeroboam` `jeroboams` `jerusalem` `judah` `kidron` `king` `kings` `lamp` `land` `league` `left` `life` `lord` `maachah` `made` `matter` `mizpah` `mother` `nadab` `nadabs` `naphtali` `nebat` `old` `perfect` `philistines` `places` `present` `proclamation` `projects` `provocation` `provoked` `queen` `ramah` `reform` `rehoboam` `reign` `reigned` `removed` `right` `sake` `saying` `second` `sent` `servant` `servants` `shilonite` `siege` `sight` `silver` `sin` `sinned` `sins` `slay` `slept` `smote` `sodomites` `son` `stones` `suffer` `syria` `syrian` `tabrimon` `third` `three` `timber` `tirzah` `treasures` `turned` `twentieth` `twenty` `two` `uriah` `vessels` `walked` `war` `way` `year` `years`
+#abel-beth-maachah #abijam #abijams #abishalom #acts #age #ahijah #alliance #anger #asa #asas #aside #baasha #baashas #ben-hadad #benjamin #book #break #breathed #brook #brought #builded #building #built #buried #burnt #captains #chronicles #cinneroth #cities #city #commanded #conspiracy #conspired #damascus #dan #daughter #david #days #death #dedicated #depart #destroyed #destruction #diseased #dwelt #eighteenth #establish #evil #exempted #eyes #father #fathers #feet #forty #geba #gibbethon #god #gold #grove #heard #hearkened #heart #hezion #high #hittite #hosts #house #idol #idols #ijon #israel #issachar #jehoshaphat #jeroboam #jeroboams #jerusalem #judah #kidron #king #kings #lamp #land #league #left #life #lord #maachah #made #matter #mizpah #mother #nadab #nadabs #naphtali #nebat #old #perfect #philistines #places #present #proclamation #projects #provocation #provoked #queen #ramah #reform #rehoboam #reign #reigned #removed #right #sake #saying #second #sent #servant #servants #shilonite #siege #sight #silver #sin #sinned #sins #slay #slept #smote #sodomites #son #stones #suffer #syria #syrian #tabrimon #third #three #timber #tirzah #treasures #turned #twentieth #twenty #two #uriah #vessels #walked #war #way #year #years
 
 
 ---

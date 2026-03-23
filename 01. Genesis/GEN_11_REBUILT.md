@@ -305,7 +305,7 @@ The whole earth was of one language (saphah echad — one lip) and one speech (d
 
 For AI matching to topics and current events:
 
-`one language` `saphah echad` `one speech` `Shinar` `let us build` `city and tower` `tower reaching heaven` `make us a name` `shem` `lest we be scattered` `LORD came down` `nothing restrained` `let us go down` `plural Godhead` `Trinity in judgment` `balal` `confound` `language confounded` `puz` `scattered` `LORD scattered` `Babel` `confusion` `bavel` `balal` `toledot of Shem` `Shem genealogy` `declining lifespans` `death reigning` `Arphaxad` `Salah` `Eber` `Peleg` `Reu` `Serug` `Nahor` `Terah` `Abram` `exalted father` `Sarai` `my princess` `barren` `aqarah` `Lot` `Haran` `Ur of Chaldees` `moon worship` `paganism` `called out` `election` `toward Canaan` `stopped in Haran` `incomplete journey` `Terah died` `Pentecost reversal` `Babel to Babylon` `one world government` `globalism` `unified rebellion` `divine council` `language division` `messianic genealogy`
+#one-language #saphah-echad #one-speech #Shinar #let-us-build #city-and-tower #tower-reaching-heaven #make-us-a-name #shem #lest-we-be-scattered #LORD-came-down #nothing-restrained #let-us-go-down #plural-Godhead #Trinity-in-judgment #balal #confound #language-confounded #puz #scattered #LORD-scattered #Babel #confusion #bavel #balal #toledot-of-Shem #Shem-genealogy #declining-lifespans #death-reigning #Arphaxad #Salah #Eber #Peleg #Reu #Serug #Nahor #Terah #Abram #exalted-father #Sarai #my-princess #barren #aqarah #Lot #Haran #Ur-of-Chaldees #moon-worship #paganism #called-out #election #toward-Canaan #stopped-in-Haran #incomplete-journey #Terah-died #Pentecost-reversal #Babel-to-Babylon #one-world-government #globalism #unified-rebellion #divine-council #language-division #messianic-genealogy
 
 **Relevance to Current Events:**
 - Globalism and one-world governance — Babel is the biblical archetype; "lest we be scattered" is the globalist motive; God's response to unified human rebellion is dispersion; global unity projects that exclude God repeat the Babel pattern
@@ -629,18 +629,18 @@ For AI matching to topics and current events:
 
 ### Babel — The City of Man, From Genesis to Revelation
 
-**Genesis 11:4** — "Let us build us a city... let us make us a name"
+[[01. Genesis/GEN_11_REBUILT|Genesis 11:4]] — "Let us build us a city... let us make us a name"
 
 **Thread through Scripture — the spirit of Babel:**
-- **Genesis 10:10** — Nimrod's Babel: first human kingdom
+- [[01. Genesis/GEN_10_REBUILT|Genesis 10:10]] — Nimrod's Babel: first human kingdom
 - **Genesis 11:4, 9** — Tower of Babel: self-naming, divine confounding
-- **Isaiah 14:4-15** — "The king of Babylon" = the spirit of Babel traced to Lucifer's pride
-- **Daniel 4:30** — Nebuchadnezzar: "Is not this great Babylon that I have built?"
+- [[23. Isaiah/ISAIAH_14_REBUILT|Isaiah 14:4-15]] — "The king of Babylon" = the spirit of Babel traced to Lucifer's pride
+- [[27. Daniel/DANIEL_04_REBUILT|Daniel 4:30]] — Nebuchadnezzar: "Is not this great Babylon that I have built?"
 - **Daniel 7:1-8, 17** — Four great world empires, all succeeding Babylon; all bearing the Babel spirit
-- **Revelation 17:5** — "MYSTERY, BABYLON THE GREAT, THE MOTHER OF HARLOTS"
-- **Revelation 18:7** — "She saith in her heart, I sit a queen, and am no widow, and shall see no sorrow"
-- **Revelation 18:21** — "Thus with violence shall that great city Babylon be thrown down, and shall be found no more at all"
-- **Revelation 21:2** — "The holy city, new Jerusalem, coming down from God out of heaven" — the city of God descends; the city of man is destroyed; what man built from the earth up is replaced by what God builds from heaven down
+- [[66. Revelation/REVELATION_17_REBUILT|Revelation 17:5]] — "MYSTERY, BABYLON THE GREAT, THE MOTHER OF HARLOTS"
+- [[66. Revelation/REVELATION_18_REBUILT|Revelation 18:7]] — "She saith in her heart, I sit a queen, and am no widow, and shall see no sorrow"
+- [[66. Revelation/REVELATION_18_REBUILT|Revelation 18:21]] — "Thus with violence shall that great city Babylon be thrown down, and shall be found no more at all"
+- [[66. Revelation/REVELATION_21_REBUILT|Revelation 21:2]] — "The holy city, new Jerusalem, coming down from God out of heaven" — the city of God descends; the city of man is destroyed; what man built from the earth up is replaced by what God builds from heaven down
 
 *Interpretation:* The city of Babel is not a historical footnote — it is the blueprint for all subsequent human civilization organized without God. Every empire, every globalist project, every system of unified human power that excludes God is Babel revisited. The entire arc of world history from Genesis 11 to Revelation 18 is the story of Babel being built and rebuilt and finally destroyed, replaced by the new Jerusalem that descends from God.
 
@@ -661,8 +661,8 @@ For AI matching to topics and current events:
 **Stage 3 — Pure Language, Messianic Age**
 - Zephaniah 3:9 — saphah berurah (pure lip); "that they may all call upon the name of the LORD, to serve him with one consent"
 - Not a return to one language but a purification of all languages for unified worship
-- **Acts 2:4-11** — First fruits of Stage 3: Pentecost; the Spirit overcomes language barriers
-- **Revelation 7:9** — Final fulfillment: "all nations, and kindreds, and people, and tongues" before the throne — every language preserved but unified in one worship
+- [[44. Acts/ACTS_02_REBUILT|Acts 2:4-11]] — First fruits of Stage 3: Pentecost; the Spirit overcomes language barriers
+- [[66. Revelation/REVELATION_07_REBUILT|Revelation 7:9]] — Final fulfillment: "all nations, and kindreds, and people, and tongues" before the throne — every language preserved but unified in one worship
 
 *Interpretation:* The saphah thread shows that God's goal is not linguistic uniformity but linguistic purity — every tongue cleansed and directed toward the worship of the LORD. Pentecost is the beginning of Stage 3; the new creation is its completion. The confusion of Babel is not God's final word about human language; Zephaniah 3:9 is.
 
@@ -670,7 +670,7 @@ For AI matching to topics and current events:
 
 ### The Barren Womb — God's Method of Covenant Advance
 
-**Genesis 11:30** — "Sarai was barren; she had no child" — first named barrenness in the covenant line
+[[01. Genesis/GEN_11_REBUILT|Genesis 11:30]] — "Sarai was barren; she had no child" — first named barrenness in the covenant line
 
 **Thread through Scripture:**
 - Sarai → Isaac (Genesis 21): covenant child
@@ -688,15 +688,15 @@ For AI matching to topics and current events:
 
 ### The Genealogy as Timeline — Death Reigning, Christ Approaching
 
-**Genesis 11:10-26** — Ten generations, declining lifespans, each death recorded
+[[01. Genesis/GEN_11_REBUILT|Genesis 11:10-26]] — Ten generations, declining lifespans, each death recorded
 
 **Thread:**
 - Genesis 5 genealogy: the pre-flood deaths — "and he died" repeated eight times; death reigning from Adam to Noah
 - Genesis 11 genealogy: the post-flood deaths — lifespans halving; Peleg's generation = the Babel cliff; Terah = 205 years
-- **Romans 5:12-14** — "Death reigned from Adam to Moses" — the Genesis 5 and 11 genealogies are the biological evidence of this reign
-- **Romans 5:17** — "They which receive abundance of grace and of the gift of righteousness shall reign in life by one, Jesus Christ" — the reversal; the genealogy that ends in death leads to the One who reversed death
+- [[45. Romans/ROMANS_05_REBUILT|Romans 5:12-14]] — "Death reigned from Adam to Moses" — the Genesis 5 and 11 genealogies are the biological evidence of this reign
+- [[45. Romans/ROMANS_05_REBUILT|Romans 5:17]] — "They which receive abundance of grace and of the gift of righteousness shall reign in life by one, Jesus Christ" — the reversal; the genealogy that ends in death leads to the One who reversed death
 - **1 Corinthians 15:22, 26** — "In Adam all die... The last enemy that shall be destroyed is death" — the declining lifespans of Genesis 11 are the trajectory that Christ reverses at the resurrection
-- **Revelation 21:4** — "And God shall wipe away all tears from their eyes; and there shall be no more death" — the terminal destination of the Genesis 11 death-trend is finally, permanently reversed
+- [[66. Revelation/REVELATION_21_REBUILT|Revelation 21:4]] — "And God shall wipe away all tears from their eyes; and there shall be no more death" — the terminal destination of the Genesis 11 death-trend is finally, permanently reversed
 
 ---
 

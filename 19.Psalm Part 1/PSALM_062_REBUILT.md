@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 62
+testament: "Old Testament"
+key_themes: "Soul Waits on God, God as Rock, Human Vanity, Divine Power"
+tags:
+  - soul-waits-on-god
+  - god-as-rock
+  - human-vanity
+  - divine-power
+---
 # Psalm 62
 
 ---
@@ -129,7 +140,7 @@ Chief, Musician, Jeduthun, Psalm, David, Truly, soul, waiteth, GOD, salvation, r
 
 
 *AI Keywords for current event matching:*
-`balance` `belongeth` `defence` `degree` `divine` `expectation` `god` `greatly` `heard` `heart` `high` `human` `increase` `lie` `lighter` `lord` `low` `man` `men` `mercy` `moved` `once` `oppression` `power` `refuge` `render` `riches` `robbery` `rock` `salvation` `soul` `spoken` `strength` `truly` `trust` `vain` `vanity` `wait` `waiteth` `waits` `work`
+#balance #belongeth #defence #degree #divine #expectation #god #greatly #heard #heart #high #human #increase #lie #lighter #lord #low #man #men #mercy #moved #once #oppression #power #refuge #render #riches #robbery #rock #salvation #soul #spoken #strength #truly #trust #vain #vanity #wait #waiteth #waits #work
 
 
 ---

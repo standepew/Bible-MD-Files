@@ -1,3 +1,13 @@
+---
+book: "Jeremiah"
+chapter: 47
+testament: "Old Testament"
+key_themes: "Christ's Judgment, Philistines' Defeat, Divine Overflow, Christ's Sword"
+tags:
+  - christ
+  - philistines
+  - divine-overflow
+---
 # Jeremiah 47
 
 ---
@@ -81,7 +91,7 @@ Word, LORD, Jeremiah, prophet, Philistines, Pharaoh, smote, Gaza, LORD, waters, 
 
 
 *AI Keywords for current event matching:*
-`ashkelon` `baldness` `charge` `chariots` `christs` `cry` `cut` `defeat` `divine` `feebleness` `flood` `gaza` `hands` `hoofs` `howl` `judgment` `land` `overflow` `overflowing` `philistines` `quiet` `rest` `rise` `rumbling` `rushing` `scabbard` `sea` `shore` `spoil` `stamping` `sword` `waters` `wheels`
+#ashkelon #baldness #charge #chariots #christs #cry #cut #defeat #divine #feebleness #flood #gaza #hands #hoofs #howl #judgment #land #overflow #overflowing #philistines #quiet #rest #rise #rumbling #rushing #scabbard #sea #shore #spoil #stamping #sword #waters #wheels
 
 
 ---

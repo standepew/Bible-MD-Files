@@ -1,3 +1,13 @@
+---
+book: "Ezekiel"
+chapter: 47
+testament: "Old Testament"
+key_themes: "Christ's River, Living Waters, Divine Healing, Christ's Inheritance"
+tags:
+  - christ
+  - living-waters
+  - divine-healing
+---
 # Ezekiel 47
 
 ---
@@ -105,7 +115,7 @@ Brought, door, house, waters, issued, threshold, house, eastward, forefront, hou
 
 
 *AI Keywords for current event matching:*
-`ankles` `christs` `consumed` `cubits` `divine` `fish` `fruit` `healed` `healing` `house` `inheritance` `israel` `issued` `joseph` `knees` `leaf` `living` `loins` `medicine` `portions` `right` `river` `sanctuary` `side` `strangers` `swim` `thousand` `threshold` `trees` `tribes` `twelve` `waters`
+#ankles #christs #consumed #cubits #divine #fish #fruit #healed #healing #house #inheritance #israel #issued #joseph #knees #leaf #living #loins #medicine #portions #right #river #sanctuary #side #strangers #swim #thousand #threshold #trees #tribes #twelve #waters
 
 
 ---

@@ -1,3 +1,14 @@
+---
+book: "Acts"
+chapter: 24
+testament: "New Testament"
+key_themes: "Paul Before Felix, The Accusation Against Paul, Paul's Defense, Felix's Response"
+tags:
+  - paul-before-felix
+  - the-accusation-against-paul
+  - paul
+  - felix
+---
 # Acts 24
 
 ---
@@ -139,7 +150,7 @@ Five, days, Ananias, high, priest, descended, elders, orator, Tertullus, informe
 
 
 *AI Keywords for current event matching:*
-`accept` `accusation` `accuse` `accusers` `acquaintance` `against` `alms` `ananias` `answered` `asia` `assented` `beckoned` `began` `believing` `bound` `brought` `call` `called` `captain` `centurion` `certain` `cheerfully` `chief` `christ` `city` `clemency` `commanded` `commanding` `communed` `confess` `conscience` `convenient` `council` `cried` `days` `dead` `deeds` `defense` `deferred` `descended` `disputing` `drusilla` `elders` `else` `enjoy` `evil` `examining` `exercise` `faith` `fathers` `felix` `fellow` `festus` `five` `forbid` `found` `further` `god` `gone` `governor` `hands` `heard` `heresy` `high` `hope` `hoped` `informed` `jerusalem` `jewess` `jews` `judge` `judged` `judgment` `keep` `know` `knowledge` `law` `left` `liberty` `loose` `lysias` `man` `matter` `mayest` `men` `minister` `money` `mover` `multitude` `nation` `nazarenes` `noble` `object` `offence` `offerings` `oftener` `orator` `ought` `paul` `pauls` `people` `perfect` `pestilent` `places` `pleasure` `porcius` `pray` `priest` `profane` `prophets` `prove` `providence` `purified` `question` `quietness` `raising` `reasoned` `resurrection` `righteousness` `ringleader` `season` `sect` `sedition` `sent` `speak` `standing` `synagogues` `tedious` `temperance` `temple` `tertullus` `thankfulness` `things` `took` `trembled` `tumult` `twelve` `two` `understand` `unjust` `uttermost` `violence` `voice` `void` `way` `wife` `words` `world` `worship` `worthy` `written` `years`
+#accept #accusation #accuse #accusers #acquaintance #against #alms #ananias #answered #asia #assented #beckoned #began #believing #bound #brought #call #called #captain #centurion #certain #cheerfully #chief #christ #city #clemency #commanded #commanding #communed #confess #conscience #convenient #council #cried #days #dead #deeds #defense #deferred #descended #disputing #drusilla #elders #else #enjoy #evil #examining #exercise #faith #fathers #felix #fellow #festus #five #forbid #found #further #god #gone #governor #hands #heard #heresy #high #hope #hoped #informed #jerusalem #jewess #jews #judge #judged #judgment #keep #know #knowledge #law #left #liberty #loose #lysias #man #matter #mayest #men #minister #money #mover #multitude #nation #nazarenes #noble #object #offence #offerings #oftener #orator #ought #paul #pauls #people #perfect #pestilent #places #pleasure #porcius #pray #priest #profane #prophets #prove #providence #purified #question #quietness #raising #reasoned #resurrection #righteousness #ringleader #season #sect #sedition #sent #speak #standing #synagogues #tedious #temperance #temple #tertullus #thankfulness #things #took #trembled #tumult #twelve #two #understand #unjust #uttermost #violence #voice #void #way #wife #words #world #worship #worthy #written #years
 
 
 ---

@@ -1,3 +1,13 @@
+---
+book: "Luke"
+chapter: 3
+testament: "New Testament"
+key_themes: "Ministry of John the Baptist, Baptism of Jesus, Genealogy of Jesus"
+tags:
+  - ministry-of-john-the-baptist
+  - baptism-of-jesus
+  - genealogy-of-jesus
+---
 # Luke 3
 
 ---
@@ -151,7 +161,7 @@ Fifteenth, year, reign, Tiberius, Cæsar, Pontius, Pilate, governor, Judæa, Her
 
 
 *AI Keywords for current event matching:*
-`abraham` `adam` `baptism` `baptist` `beloved` `bodily` `chaff` `content` `david` `fire` `fruit` `genealogy` `generation` `ghost` `god` `good` `heaven` `heli` `holy` `jesus` `john` `joseph` `ministry` `opened` `repentance` `shape` `son` `thirty` `vipers` `wages` `word` `years`
+#abraham #adam #baptism #baptist #beloved #bodily #chaff #content #david #fire #fruit #genealogy #generation #ghost #god #good #heaven #heli #holy #jesus #john #joseph #ministry #opened #repentance #shape #son #thirty #vipers #wages #word #years
 
 
 ---

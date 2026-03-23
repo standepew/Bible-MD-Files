@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 82
+testament: "Old Testament"
+key_themes: "Divine Justice, Unjust Judges, God's Judgment, Earthly Authority"
+tags:
+  - divine-justice
+  - unjust-judges
+  - god
+  - earthly-authority
+---
 # Psalm 82
 
 ---
@@ -129,7 +140,7 @@ Psalm, Asaph, GOD, standeth, congregation, mighty, judgeth, gods, long, judge, u
 
 
 *AI Keywords for current event matching:*
-`accept` `afflicted` `arise` `asaph` `authority` `children` `congregation` `course` `darkness` `defend` `die` `divine` `earth` `earthly` `fall` `fatherless` `foundations` `god` `gods` `high` `inherit` `judge` `judges` `judgeth` `judgment` `justice` `know` `long` `men` `mighty` `nations` `needy` `persons` `poor` `princes` `psalm` `standeth` `understand` `unjust` `unjustly` `walk` `wicked`
+#accept #afflicted #arise #asaph #authority #children #congregation #course #darkness #defend #die #divine #earth #earthly #fall #fatherless #foundations #god #gods #high #inherit #judge #judges #judgeth #judgment #justice #know #long #men #mighty #nations #needy #persons #poor #princes #psalm #standeth #understand #unjust #unjustly #walk #wicked
 
 
 ---

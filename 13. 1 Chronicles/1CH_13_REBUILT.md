@@ -1,3 +1,15 @@
+---
+book: "1 Chronicles"
+chapter: 13
+testament: "Old Testament"
+key_themes: "Bringing the Ark to Jerusalem, Uzzah's Death, David's Fear, Obed-edom's Blessing"
+tags:
+  - congregation-thing-right-eyes-people
+  - bringing-the-ark-to-jerusalem
+  - uzzah
+  - david
+  - obededom
+---
 # 1 Chronicles 13
 
 ---
@@ -121,7 +133,7 @@ David, consulted, captains, thousands, hundreds, every, leader. David, congregat
 
 
 *AI Keywords for current event matching:*
-`abinadab` `abroad` `afraid` `ahio` `anger` `ark` `arks` `aside` `baalah` `belonged` `blessed` `blessing` `breached` `brethren` `bring` `brought` `called` `captains` `carried` `cart` `cherubims` `chidon` `cities` `city` `congregation` `consultation` `consulted` `cymbals` `david` `davids` `day` `days` `death` `died` `displeased` `drave` `dwelleth` `egypt` `enquired` `entering` `every` `eyes` `family` `fear` `gather` `gathered` `gittite` `god` `good` `hand` `harps` `hemath` `hold` `home` `house` `hundreds` `israel` `journey` `joyful` `judah` `kindled` `kirjath-jearim` `land` `leader` `levites` `lord` `months` `new` `obed-edom` `obed-edoms` `oxen` `people` `perez-uzza` `place` `played` `priests` `psalteries` `remained` `right` `saul` `send` `shihor` `singing` `smote` `stumbled` `suburbs` `thing` `thousands` `three` `threshingfloor` `timbrels` `trumpets` `uzza` `uzzahs` `worship`
+#abinadab #abroad #afraid #ahio #anger #ark #arks #aside #baalah #belonged #blessed #blessing #breached #brethren #bring #brought #called #captains #carried #cart #cherubims #chidon #cities #city #congregation #consultation #consulted #cymbals #david #davids #day #days #death #died #displeased #drave #dwelleth #egypt #enquired #entering #every #eyes #family #fear #gather #gathered #gittite #god #good #hand #harps #hemath #hold #home #house #hundreds #israel #journey #joyful #judah #kindled #kirjath-jearim #land #leader #levites #lord #months #new #obed-edom #obed-edoms #oxen #people #perez-uzza #place #played #priests #psalteries #remained #right #saul #send #shihor #singing #smote #stumbled #suburbs #thing #thousands #three #threshingfloor #timbrels #trumpets #uzza #uzzahs #worship
 
 
 ---

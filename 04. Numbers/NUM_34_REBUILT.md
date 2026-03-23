@@ -1,3 +1,32 @@
+---
+book: "Numbers"
+chapter: 34
+testament: "Old Testament"
+key_themes: "God defines the exact borders of Canaan before Israel enters it — south, west, north, east, The western border is the Great Sea; the south runs from the Salt Sea through Kadesh-barnea to the River of Egypt; the north through Hamath; the east through the Jordan to the Salt Sea, The two-and-a-half tribes east of Jordan have already received their inheritance — this land is for the nine-and-a-half, God names the men who will divide the land: Eleazar and Joshua head the commission; one prince from each of the nine-and-a-half tribes, Caleb son of Jephunneh is named for Judah — still active, still fulfilling his promised inheritance"
+tags:
+  - land-of-Canaan
+  - south-border
+  - wilderness-of-Zin
+  - coast-of-Edom
+  - Salt-Sea-eastward
+  - Kadesh-barnea
+  - River-of-Egypt
+  - Great-Sea-western-border
+  - north-border
+  - mount-Hor
+  - entrance-of-Hamath
+  - Zedad
+  - Hazar-enan
+  - east-border
+  - Shepham-to-Riblah
+  - sea-of-Chinnereth
+  - Jordan-to-Salt-Sea
+  - nine-tribes-and-half-tribe
+  - Reuben-Gad-half-Manasseh-already-received
+  - Eleazar-and-Joshua-to-divide
+  - one-prince-per-tribe
+  - Caleb-son-of-Jephunneh-for-Judah
+---
 # Numbers 34
 
 ---
@@ -52,7 +81,7 @@ God commands Moses to define the land of Canaan for Israel's inheritance. The so
 
 
 *AI Keywords for current event matching:*
-`342-12` `boundaries` `current` `defined` `deuteronomy` `events` `genesis` `gods` `land` `matching` `numbers` `promise` `specific` `specification` `territorial`
+#342-12 #boundaries #current #defined #deuteronomy #events #genesis #gods #land #matching #numbers #promise #specific #specification #territorial
 
 
 ---
@@ -129,9 +158,9 @@ God commands Moses to define the land of Canaan for Israel's inheritance. The so
 
 God tells Israel the borders of their land before they cross the Jordan. They do not discover the land by conquest and then survey it — they receive a defined inheritance that was specified before they set foot in it.
 
-- **John 14:2-3** — "In my Father's house are many mansions: if it were not so, I would have told you. I go to prepare a place for you. And if I go and prepare a place for you, I will come again, and receive you unto myself" — the place is being prepared in advance; the inheritance is defined before possession
-- **Ephesians 1:4** — "chosen in him before the foundation of the world" — the election precedes the history; the inheritance is declared before the entry
-- **Revelation 21:2** — the New Jerusalem "coming down from God out of heaven" — the city descends; it is not built by its inhabitants. The Numbers 34 borders descending from God's declaration are the type of the eternal inheritance that comes down from above.
+- [[43. John/JOHN_14_REBUILT|John 14:2-3]] — "In my Father's house are many mansions: if it were not so, I would have told you. I go to prepare a place for you. And if I go and prepare a place for you, I will come again, and receive you unto myself" — the place is being prepared in advance; the inheritance is defined before possession
+- [[49. Ephesians/EPHESIANS_01_REBUILT|Ephesians 1:4]] — "chosen in him before the foundation of the world" — the election precedes the history; the inheritance is declared before the entry
+- [[66. Revelation/REVELATION_21_REBUILT|Revelation 21:2]] — the New Jerusalem "coming down from God out of heaven" — the city descends; it is not built by its inhabitants. The Numbers 34 borders descending from God's declaration are the type of the eternal inheritance that comes down from above.
 
 ---
 

@@ -1,3 +1,95 @@
+---
+book: "Judges"
+chapter: 3
+testament: "Old Testament"
+key_themes: "Testing Nations, Intermarriage, Idolatry, Chushan-rishathaim, Othniel's Deliverance, Eglon's Oppression, Ehud's Assassination, Shamgar's Victory"
+tags:
+  - nations-LORD-left-prove-Israel
+  - wars-Canaan
+  - generations-children-Israel-know
+  - teach-war
+  - knew-nothing
+  - five-lords-Philistines
+  - Canaanites-Sidonians-Hivites-mount-Lebanon
+  - mount-Baal-hermon-entering-Hamath
+  - prove-Israel-hearken-commandments-LORD
+  - commanded-fathers-hand-Moses
+  - took-daughters-wives
+  - gave-daughters-sons
+  - served-gods
+  - children-Israel-evil-sight-LORD
+  - forgat-LORD-God
+  - served-Baalim-groves
+  - anger-LORD-hot-Israel
+  - children-Israel-cried-LORD
+  - LORD-raised-deliverer-children-Israel
+  - Spirit-LORD-came
+  - judged-Israel
+  - went-war
+  - hand-prevailed-Chushan-rishathaim
+  - land-rest-forty-years
+  - Othniel-son-Kenaz-died
+  - evil-sight-LORD
+  - gathered-children-Ammon-Amalek
+  - smote-Israel
+  - possessed-city-palm-trees
+  - lefthanded
+  - Ehud-dagger-two-edges
+  - cubit-length
+  - gird-raiment-right-thigh
+  - brought-present-Eglon-king-Moab
+  - Eglon-fat-man
+  - end-present
+  - sent-away-people-bare-present
+  - turned-quarries-Gilgal
+  - secret-errand-king
+  - Keep-silence
+  - stood-went
+  - Ehud-summer-parlour-alone
+  - message-God
+  - arose-seat
+  - Ehud-left-hand
+  - dagger-right-thigh
+  - thrust-belly
+  - haft-blade
+  - fat-closed-blade
+  - draw-dagger-belly
+  - dirt-came
+  - Ehud-porch
+  - shut-doors-parlour
+  - locked
+  - gone-servants-came
+  - doors-parlour-locked
+  - covereth-feet-summer-chamber
+  - tarried-ashamed
+  - opened-doors
+  - key-opened
+  - lord-fallen-dead-earth
+  - Ehud-escaped-tarried
+  - passed-quarries
+  - escaped-Seirath
+  - came-blew-trumpet-mountain-Ephraim
+  - children-Israel-went-mount
+  - Follow-me
+  - LORD-delivered-enemies-Moabites-hand
+  - went-took-fords-Jordan-Moab
+  - suffered-man-pass
+  - slew-Moab-ten-thousand-men
+  - lusty-men-valour
+  - escaped-man
+  - Moab-subdued-hand-Israel
+  - land-rest-fourscore-years
+  - Shamgar-son-Anath
+  - delivered-Israel
+  - testing-nations
+  - intermarriage
+  - idolatry
+  - chushanrishathaim
+  - othniel
+  - eglon
+  - ehud
+  - shamgar
+---
 # Judges 3
 
 ---
@@ -99,7 +191,7 @@ God left specific nations to test Israel: five Philistine lords, Canaanites, Sid
 
 
 *AI Keywords for current event matching:*
-`alone` `amalek` `ammon` `amorites` `anath` `anger` `arose` `ashamed` `assassination` `away` `baal-hermon` `baalim` `bare` `belly` `benjamite` `blade` `blew` `brother` `brought` `caleb` `came` `canaan` `canaanites` `chamber` `children` `chushan-rishathaim` `city` `closed` `commanded` `commandments` `covereth` `cried` `cubit` `cycle` `dagger` `daughters` `dead` `death` `deliverance` `delivered` `deliverer` `died` `dirt` `discovery` `doors` `draw` `dwelt` `earth` `edges` `eglon` `eglons` `ehud` `ehuds` `eight` `eighteen` `end` `enemies` `entering` `ephraim` `errand` `escape` `escaped` `evil` `fallen` `fat` `fathers` `feet` `first` `five` `follow` `fords` `forgat` `forty` `fourscore` `gathered` `gave` `generations` `gera` `gilgal` `gird` `goad` `god` `gods` `gone` `groves` `haft` `hamath` `hand` `hearken` `hittites` `hivites` `hot` `hundred` `idolatry` `integrational` `israel` `israels` `jebusites` `jordan` `judged` `keep` `kenaz` `key` `king` `knew` `know` `land` `lebanon` `left` `lefthanded` `length` `locked` `lord` `lords` `lusty` `man` `men` `mesopotamia` `message` `mission` `moab` `moabites` `moses` `mount` `mountain` `nations` `nothing` `opened` `oppression` `othniel` `othniels` `palm` `parlour` `pass` `passed` `people` `perizzites` `philistines` `plot` `porch` `possessed` `preparation` `present` `prevailed` `prove` `quarries` `raiment` `raised` `rest` `right` `seat` `second` `secret` `seirath` `sent` `servants` `served` `shamgar` `shamgars` `shut` `sidonians` `sight` `silence` `sin` `six` `slew` `smote` `sold` `son` `sons` `spirit` `stood` `strengthened` `subdued` `suffered` `summer` `tarried` `teach` `ten` `testing` `thigh` `thousand` `thrust` `took` `trees` `trumpet` `turned` `two` `valour` `victory` `war` `wars` `went` `wives` `years`
+#alone #amalek #ammon #amorites #anath #anger #arose #ashamed #assassination #away #baal-hermon #baalim #bare #belly #benjamite #blade #blew #brother #brought #caleb #came #canaan #canaanites #chamber #children #chushan-rishathaim #city #closed #commanded #commandments #covereth #cried #cubit #cycle #dagger #daughters #dead #death #deliverance #delivered #deliverer #died #dirt #discovery #doors #draw #dwelt #earth #edges #eglon #eglons #ehud #ehuds #eight #eighteen #end #enemies #entering #ephraim #errand #escape #escaped #evil #fallen #fat #fathers #feet #first #five #follow #fords #forgat #forty #fourscore #gathered #gave #generations #gera #gilgal #gird #goad #god #gods #gone #groves #haft #hamath #hand #hearken #hittites #hivites #hot #hundred #idolatry #integrational #israel #israels #jebusites #jordan #judged #keep #kenaz #key #king #knew #know #land #lebanon #left #lefthanded #length #locked #lord #lords #lusty #man #men #mesopotamia #message #mission #moab #moabites #moses #mount #mountain #nations #nothing #opened #oppression #othniel #othniels #palm #parlour #pass #passed #people #perizzites #philistines #plot #porch #possessed #preparation #present #prevailed #prove #quarries #raiment #raised #rest #right #seat #second #secret #seirath #sent #servants #served #shamgar #shamgars #shut #sidonians #sight #silence #sin #six #slew #smote #sold #son #sons #spirit #stood #strengthened #subdued #suffered #summer #tarried #teach #ten #testing #thigh #thousand #thrust #took #trees #trumpet #turned #two #valour #victory #war #wars #went #wives #years
 
 
 ---

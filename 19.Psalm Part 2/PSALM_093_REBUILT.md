@@ -1,3 +1,13 @@
+---
+book: "Psalms"
+chapter: 93
+testament: "Old Testament"
+key_themes: "God's Reign, Divine Majesty, Eternal Throne, God's Power"
+tags:
+  - god
+  - divine-majesty
+  - eternal-throne
+---
 # Psalm 93
 
 ---
@@ -105,7 +115,7 @@ LORD, reigneth, clothed, majesty, LORD, clothed, strength, girded, world, stabli
 
 
 *AI Keywords for current event matching:*
-`clothed` `divine` `established` `eternal` `everlasting` `floods` `girded` `gods` `high` `lift` `lord` `majesty` `many` `mightier` `mighty` `moved` `noise` `old` `power` `reign` `reigneth` `sea` `stablished` `strength` `sure` `testimonies` `throne` `voice` `waters` `waves` `world`
+#clothed #divine #established #eternal #everlasting #floods #girded #gods #high #lift #lord #majesty #many #mightier #mighty #moved #noise #old #power #reign #reigneth #sea #stablished #strength #sure #testimonies #throne #voice #waters #waves #world
 
 
 ---

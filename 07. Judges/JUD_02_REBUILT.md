@@ -1,3 +1,76 @@
+---
+book: "Judges"
+chapter: 2
+testament: "Old Testament"
+key_themes: "Angel's Rebuke, Covenant Broken, Incomplete Consequence, Bochim Weeping, Joshua's Death, New Generation, Idolatry Cycle, Divine Anger, Judges Raised, Testing Purpose"
+tags:
+  - angel-LORD-Gilgal-Bochim
+  - made-go-Egypt
+  - brought-land-sware-fathers
+  - never-break-covenant
+  - league-inhabitants-land
+  - throw-down-altars
+  - obeyed-voice
+  - drive-thorns-sides
+  - gods-snares
+  - people-lifted-voice-wept
+  - called-place-Bochim
+  - sacrificed-LORD
+  - Joshua-let-people-go
+  - children-Israel-inheritance-possess-land
+  - people-served-LORD-days-Joshua
+  - days-elders-outlived-Joshua
+  - seen-great-works-LORD-Israel
+  - hundred-ten-years
+  - generation-gathered-fathers
+  - arose-generation-knew-LORD
+  - works-Israel
+  - children-Israel-evil-sight-LORD
+  - served-Baalim
+  - forsook-LORD-God-fathers
+  - brought-Egypt
+  - followed-gods-people-round
+  - bowed-provoked-LORD-anger
+  - forsook-LORD-served-Baal-Ashtaroth
+  - anger-LORD-hot-Israel
+  - delivered-spoilers
+  - sold-enemies-round
+  - stand-enemies
+  - hand-LORD-evil
+  - LORD-said-LORD-sworn
+  - greatly-distressed
+  - LORD-raised-judges
+  - delivered-hand-spoilers
+  - hearken-judges
+  - whoring-gods
+  - bowed-turned-quickly-way-fathers
+  - commandments-LORD
+  - LORD-judge
+  - delivered-hand-enemies-days-judge
+  - repented-LORD-groanings-oppressed-vexed
+  - judge-dead-returned
+  - corrupted-fathers
+  - following-gods-serve-bow
+  - ceased-doings-stubborn-way
+  - transgressed-covenant-commanded-fathers
+  - hearkened-voice
+  - drive-nations-Joshua-left-died
+  - prove-Israel-keep-way-LORD
+  - fathers-keep
+  - LORD-left-nations
+  - driving-hastily
+  - delivered-hand-Joshua
+  - angel
+  - covenant-broken
+  - incomplete-consequence
+  - bochim-weeping
+  - joshua
+  - new-generation
+  - idolatry-cycle
+  - divine-anger
+  - judges-raised
+  - testing-purpose
+---
 # Judges 2
 
 ---
@@ -99,7 +172,7 @@ An angel of the LORD comes from Gilgal to Bochim, reminding Israel that God brou
 
 
 *AI Keywords for current event matching:*
-`altars` `angel` `anger` `arose` `ashtaroth` `baal` `baalim` `begins` `bochim` `border` `bow` `bowed` `break` `brought` `buried` `called` `ceased` `children` `command` `commanded` `commandments` `consequence` `corrupted` `covenant` `cycle` `days` `dead` `death` `declared` `delivered` `died` `disobeyed` `distressed` `divine` `doings` `down` `drive` `driving` `egypt` `elders` `enemies` `ephraim` `era` `evil` `fathers` `followed` `following` `forsook` `gaash` `gathered` `generation` `generational` `gilgal` `god` `gods` `great` `greatly` `groanings` `hand` `hastily` `hearken` `hearkened` `hill` `hot` `hundred` `idolatry` `inhabitants` `inheritance` `israel` `israels` `joshua` `joshuas` `judge` `judges` `judgment` `keep` `knew` `land` `league` `left` `let` `lifted` `lord` `made` `ministry` `mount` `nations` `never` `north` `nun` `obeyed` `oppressed` `outlived` `pattern` `people` `place` `possess` `prove` `provoked` `purpose` `quickly` `raised` `repented` `response` `returned` `round` `sacrificed` `said` `seen` `servant` `serve` `served` `sides` `sight` `snares` `sold` `son` `spoilers` `spoke` `stand` `strategy` `stubborn` `sware` `sworn` `ten` `testing` `thorns` `throw` `timnath-heres` `transgressed` `transition` `turned` `vexed` `voice` `way` `wept` `whoring` `words` `works` `years`
+#altars #angel #anger #arose #ashtaroth #baal #baalim #begins #bochim #border #bow #bowed #break #brought #buried #called #ceased #children #command #commanded #commandments #consequence #corrupted #covenant #cycle #days #dead #death #declared #delivered #died #disobeyed #distressed #divine #doings #down #drive #driving #egypt #elders #enemies #ephraim #era #evil #fathers #followed #following #forsook #gaash #gathered #generation #generational #gilgal #god #gods #great #greatly #groanings #hand #hastily #hearken #hearkened #hill #hot #hundred #idolatry #inhabitants #inheritance #israel #israels #joshua #joshuas #judge #judges #judgment #keep #knew #land #league #left #let #lifted #lord #made #ministry #mount #nations #never #north #nun #obeyed #oppressed #outlived #pattern #people #place #possess #prove #provoked #purpose #quickly #raised #repented #response #returned #round #sacrificed #said #seen #servant #serve #served #sides #sight #snares #sold #son #spoilers #spoke #stand #strategy #stubborn #sware #sworn #ten #testing #thorns #throw #timnath-heres #transgressed #transition #turned #vexed #voice #way #wept #whoring #words #works #years
 
 
 ---

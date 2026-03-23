@@ -1,3 +1,13 @@
+---
+book: "Jeremiah"
+chapter: 30
+testament: "Old Testament"
+key_themes: "Christ's Restoration, Jacob's Trouble, Christ's Healing, Divine Presence"
+tags:
+  - christ
+  - jacob
+  - divine-presence
+---
 # Jeremiah 30
 
 ---
@@ -105,7 +115,7 @@ Word, Jeremiah, LORD, LORD, God, Israel, saying, Write, words, spoken, book, day
 
 
 *AI Keywords for current event matching:*
-`bring` `bruise` `captivity` `child` `christs` `correct` `day` `divine` `faces` `god` `great` `grievous` `heal` `healing` `health` `incurable` `jacobs` `land` `measure` `none` `paleness` `people` `possess` `presence` `restoration` `restore` `return` `save` `travail` `trouble` `wound` `wounds`
+#bring #bruise #captivity #child #christs #correct #day #divine #faces #god #great #grievous #heal #healing #health #incurable #jacobs #land #measure #none #paleness #people #possess #presence #restoration #restore #return #save #travail #trouble #wound #wounds
 
 
 ---

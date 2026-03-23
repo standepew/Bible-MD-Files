@@ -1,3 +1,14 @@
+---
+book: "Galatians"
+chapter: 2
+testament: "New Testament"
+key_themes: "Jerusalem Council, Justification by Faith, Peter's Hypocrisy, Life in Christ"
+tags:
+  - jerusalem-council
+  - justification-by-faith
+  - peter
+  - life-in-christ
+---
 # Galatians 2
 
 ---
@@ -117,7 +128,7 @@ Fourteen, years, Jerusalem, Barnabas, Titus, revelation, communicated, gospel, p
 
 
 *AI Keywords for current event matching:*
-`accepteth` `added` `antioch` `apostleship` `barnabas` `believed` `blamed` `bondage` `brethren` `brought` `build` `carried` `cephas` `certain` `christ` `circumcised` `circumcision` `committed` `communicated` `compelled` `compellest` `conference` `continue` `contrariwise` `council` `crucified` `dead` `destroyed` `dissembled` `dissimulation` `eat` `effectually` `face` `faith` `false` `fearing` `fellowship` `flesh` `forbid` `forward` `found` `fourteen` `frustrate` `gave` `gentiles` `given` `god` `gospel` `grace` `greek` `hands` `hour` `hypocrisy` `james` `jerusalem` `jesus` `jew` `jews` `john` `justification` `justified` `knowing` `law` `liberty` `life` `live` `livest` `liveth` `loved` `manner` `matter` `mighty` `minister` `nature` `perceived` `person` `peter` `peters` `pillars` `place` `poor` `preach` `privately` `privily` `remember` `reputation` `revelation` `right` `righteousness` `run` `seek` `separated` `sin` `sinners` `somewhat` `son` `spy` `subjection` `titus` `transgressor` `truth` `unawares` `uncircumcision` `uprightly` `vain` `walked` `withdrew` `withstood` `works` `wrought` `years`
+#accepteth #added #antioch #apostleship #barnabas #believed #blamed #bondage #brethren #brought #build #carried #cephas #certain #christ #circumcised #circumcision #committed #communicated #compelled #compellest #conference #continue #contrariwise #council #crucified #dead #destroyed #dissembled #dissimulation #eat #effectually #face #faith #false #fearing #fellowship #flesh #forbid #forward #found #fourteen #frustrate #gave #gentiles #given #god #gospel #grace #greek #hands #hour #hypocrisy #james #jerusalem #jesus #jew #jews #john #justification #justified #knowing #law #liberty #life #live #livest #liveth #loved #manner #matter #mighty #minister #nature #perceived #person #peter #peters #pillars #place #poor #preach #privately #privily #remember #reputation #revelation #right #righteousness #run #seek #separated #sin #sinners #somewhat #son #spy #subjection #titus #transgressor #truth #unawares #uncircumcision #uprightly #vain #walked #withdrew #withstood #works #wrought #years
 
 
 ---

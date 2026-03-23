@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 17
+testament: "Old Testament"
+key_themes: "Prayer for Protection, Divine Deliverance, God's Lovingkindness, Vision of God"
+tags:
+  - prayer-for-protection
+  - divine-deliverance
+  - god
+  - vision-of-god
+---
 # Psalm 17
 
 ---
@@ -129,7 +140,7 @@ Prayer, David, hear, right, LORD, attend, cry, ear, prayer, feigned, lips, sente
 
 
 *AI Keywords for current event matching:*
-`against` `apple` `arise` `attend` `awake` `behold` `cast` `cry` `david` `deliver` `deliverance` `disappoint` `divine` `ear` `equal` `eye` `eyes` `face` `feigned` `footsteps` `god` `gods` `goings` `hand` `hear` `heart` `hide` `hold` `keep` `likeness` `lips` `lord` `lovingkindness` `marvellous` `night` `nothing` `paths` `prayer` `presence` `protection` `proved` `right` `righteousness` `rise` `satisfied` `satisfy` `savest` `sentence` `shadow` `shew` `slip` `soul` `tried` `trust` `vision` `visited` `wicked` `wings`
+#against #apple #arise #attend #awake #behold #cast #cry #david #deliver #deliverance #disappoint #divine #ear #equal #eye #eyes #face #feigned #footsteps #god #gods #goings #hand #hear #heart #hide #hold #keep #likeness #lips #lord #lovingkindness #marvellous #night #nothing #paths #prayer #presence #protection #proved #right #righteousness #rise #satisfied #satisfy #savest #sentence #shadow #shew #slip #soul #tried #trust #vision #visited #wicked #wings
 
 
 ---

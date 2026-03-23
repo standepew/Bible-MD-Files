@@ -1,3 +1,156 @@
+---
+book: "Deuteronomy"
+chapter: 31
+testament: "Old Testament"
+key_themes: "Leadership Transition, Moses' Farewell, Joshua's Commission, Divine Presence, Strength and Courage, Law Preservation, Public Reading, Covenant Witness, Future Apostasy, Divine Hiding, Song as Witness, Ark Placement, Final Charge"
+tags:
+  - Moses-spake-words-Israel
+  - hundred-twenty-years
+  - no-more-go-come
+  - LORD-said
+  - not-go-Jordan
+  - LORD-God-go-over
+  - destroy-nations
+  - possess-them
+  - Joshua-go-over
+  - LORD-said
+  - Sihon-Og
+  - kings-Amorites
+  - destroyed
+  - LORD-give-up
+  - face-do-commandments
+  - commanded-you
+  - strong-good-courage
+  - fear-not
+  - afraid-them
+  - LORD-God-go-thee
+  - not-fail-thee
+  - not-forsake-thee
+  - Moses-called-Joshua
+  - sight-Israel
+  - strong-good-courage
+  - go-people
+  - land-LORD-sware
+  - fathers-give-them
+  - cause-inherit
+  - LORD-go-before
+  - with-thee
+  - not-fail-thee
+  - not-forsake-thee
+  - fear-not
+  - dismayed
+  - Moses-wrote-law
+  - delivered-priests
+  - sons-Levi
+  - bare-ark-covenant
+  - LORD
+  - elders-Israel
+  - Moses-commanded
+  - end-seven-years
+  - solemnity-year-release
+  - feast-tabernacles
+  - Israel-appear
+  - LORD-God
+  - place-choose
+  - read-law-Israel-hearing
+  - gather-people
+  - men-women-children
+  - stranger-gates
+  - hear-learn-fear
+  - LORD-God
+  - observe-do-words-law
+  - children-not-known
+  - hear-learn-fear
+  - LORD-God
+  - live-land
+  - go-Jordan-possess
+  - LORD-said-Moses
+  - days-approach
+  - must-die
+  - call-Joshua
+  - present-tabernacle-congregation
+  - give-charge
+  - Moses-Joshua
+  - presented-tabernacle-congregation
+  - LORD-appeared-tabernacle
+  - pillar-cloud
+  - pillar-cloud-stood
+  - door-tabernacle
+  - LORD-said-Moses
+  - sleep-fathers
+  - people-rise
+  - whoring-gods-strangers
+  - land-go-among
+  - forsake-me
+  - break-covenant
+  - anger-kindled
+  - forsake-them
+  - hide-face
+  - devoured-evils-troubles-befall
+  - say-day
+  - evils-come-upon
+  - God-not-among-us
+  - hide-face-day
+  - evils-wrought
+  - turned-other-gods
+  - write-song
+  - teach-children-Israel
+  - put-mouths
+  - song-witness
+  - brought-land
+  - sware-fathers
+  - milk-honey
+  - eaten-filled
+  - waxen-fat
+  - turn-other-gods
+  - serve-them
+  - provoke-me
+  - break-covenant
+  - evils-troubles-befallen
+  - song-testify
+  - witness
+  - not-forgotten-mouths-seed
+  - know-imagination
+  - go-about
+  - brought-land-sware
+  - Moses-wrote-song
+  - day-taught-children-Israel
+  - gave-Joshua-son-Nun
+  - charge
+  - strong-good-courage
+  - bring-children-Israel
+  - land-sware
+  - with-thee
+  - Moses-made-end-writing
+  - words-law-book
+  - finished
+  - Moses-commanded-Levites
+  - bare-ark-covenant
+  - LORD
+  - take-book-law
+  - put-side-ark-covenant
+  - LORD-God
+  - witness-against-thee
+  - know-rebellion
+  - stiff-neck
+  - alive-day
+  - rebellious-LORD
+  - death-rebellion
+  - gather-elders-tribes
+  - officers
+  - speak-words-ears
+  - call-heaven-earth
+  - record-against-them
+  - know-death
+  - utterly-corrupt
+  - turn-aside-way
+  - commanded-you
+  - evil-befall-latter-days
+  - do-evil-sight-LORD
+  - provoke-anger-work-hands
+  - Moses-spake-ears-congregation-Israel
+  - words-song-ended
+---
 # Deuteronomy 31
 
 ---
@@ -112,7 +265,7 @@ Moses announces his transition at 120 years old, unable to cross Jordan, but God
 
 
 *AI Keywords for current event matching:*
-`afraid` `against` `alive` `among` `amorites` `anger` `apostasy` `appear` `appeared` `approach` `ark` `aside` `bare` `befall` `befallen` `book` `break` `bring` `brought` `call` `called` `cause` `charge` `children` `choose` `cloud` `come` `commanded` `commandments` `congregation` `corrupt` `courage` `covenant` `day` `days` `death` `delivered` `destroy` `destroyed` `devoured` `die` `dismayed` `door` `ears` `earth` `eaten` `elders` `end` `ended` `evil` `evils` `face` `fail` `fat` `fathers` `fear` `feast` `filled` `final` `finished` `forgotten` `forsake` `future` `gates` `gather` `gave` `give` `god` `gods` `good` `hands` `hear` `hearing` `heaven` `hide` `honey` `hundred` `imagination` `inherit` `israel` `jordan` `joshua` `kindled` `kings` `know` `known` `land` `latter` `law` `leadership` `learn` `levi` `levites` `live` `lord` `made` `men` `milk` `moses` `mouths` `must` `nations` `neck` `nun` `observe` `officers` `people` `pillar` `place` `placement` `possess` `prediction` `present` `presented` `preservation` `priests` `provoke` `put` `read` `rebellion` `rebellious` `record` `release` `rise` `said` `say` `seed` `serve` `seven` `side` `sight` `sihon` `sleep` `solemnity` `son` `song` `sons` `spake` `speak` `stiff` `stood` `stranger` `strangers` `strong` `sware` `tabernacle` `tabernacles` `take` `taught` `teach` `testify` `transition` `tribes` `troubles` `turn` `turned` `twenty` `utterly` `waxen` `way` `whoring` `witness` `women` `words` `work` `write` `writing` `wrote` `wrought` `year` `years` `you`
+#afraid #against #alive #among #amorites #anger #apostasy #appear #appeared #approach #ark #aside #bare #befall #befallen #book #break #bring #brought #call #called #cause #charge #children #choose #cloud #come #commanded #commandments #congregation #corrupt #courage #covenant #day #days #death #delivered #destroy #destroyed #devoured #die #dismayed #door #ears #earth #eaten #elders #end #ended #evil #evils #face #fail #fat #fathers #fear #feast #filled #final #finished #forgotten #forsake #future #gates #gather #gave #give #god #gods #good #hands #hear #hearing #heaven #hide #honey #hundred #imagination #inherit #israel #jordan #joshua #kindled #kings #know #known #land #latter #law #leadership #learn #levi #levites #live #lord #made #men #milk #moses #mouths #must #nations #neck #nun #observe #officers #people #pillar #place #placement #possess #prediction #present #presented #preservation #priests #provoke #put #read #rebellion #rebellious #record #release #rise #said #say #seed #serve #seven #side #sight #sihon #sleep #solemnity #son #song #sons #spake #speak #stiff #stood #stranger #strangers #strong #sware #tabernacle #tabernacles #take #taught #teach #testify #transition #tribes #troubles #turn #turned #twenty #utterly #waxen #way #whoring #witness #women #words #work #write #writing #wrote #wrought #year #years #you
 
 
 ---

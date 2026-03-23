@@ -1,3 +1,14 @@
+---
+book: "Philippians"
+chapter: 3
+testament: "New Testament"
+key_themes: "Rejoicing in the Lord, Confidence in the Flesh vs. Christ, Knowing Christ, Pressing Toward the Goal"
+tags:
+  - rejoicing-in-the-lord
+  - confidence-in-the-flesh-vs-christ
+  - knowing-christ
+  - pressing-toward-the-goal
+---
 # Philippians 3
 
 ---
@@ -105,7 +116,7 @@ Finally, brethren, rejoice, Lord, write, things, grievous, safe, beware, dogs, e
 
 
 *AI Keywords for current event matching:*
-`able` `apprehend` `apprehended` `attain` `attained` `behind` `belly` `benjamin` `beware` `blameless` `body` `brethren` `calling` `change` `christ` `church` `circumcised` `circumcision` `concision` `confidence` `conformable` `conversation` `count` `counted` `cross` `day` `dead` `death` `destruction` `dogs` `doubtless` `dung` `earthly` `eighth` `end` `enemies` `ensample` `evil` `excellency` `faith` `fashioned` `fellowship` `finally` `flesh` `follow` `followers` `forget` `found` `gain` `glorious` `glory` `goal` `god` `grievous` `heaven` `hebrew` `hebrews` `high` `israel` `jesus` `know` `knowing` `knowledge` `law` `look` `lord` `loss` `mark` `mind` `minded` `otherwise` `perfect` `persecuting` `pharisee` `power` `press` `pressing` `prize` `reaching` `rejoice` `rejoicing` `resurrection` `reveal` `righteousness` `rule` `safe` `saviour` `shame` `spirit` `stock` `subdue` `suffered` `sufferings` `things` `toward` `tribe` `trust` `vile` `walk` `win` `workers` `working` `worship` `write` `zeal`
+#able #apprehend #apprehended #attain #attained #behind #belly #benjamin #beware #blameless #body #brethren #calling #change #christ #church #circumcised #circumcision #concision #confidence #conformable #conversation #count #counted #cross #day #dead #death #destruction #dogs #doubtless #dung #earthly #eighth #end #enemies #ensample #evil #excellency #faith #fashioned #fellowship #finally #flesh #follow #followers #forget #found #gain #glorious #glory #goal #god #grievous #heaven #hebrew #hebrews #high #israel #jesus #know #knowing #knowledge #law #look #lord #loss #mark #mind #minded #otherwise #perfect #persecuting #pharisee #power #press #pressing #prize #reaching #rejoice #rejoicing #resurrection #reveal #righteousness #rule #safe #saviour #shame #spirit #stock #subdue #suffered #sufferings #things #toward #tribe #trust #vile #walk #win #workers #working #worship #write #zeal
 
 
 ---

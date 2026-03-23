@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 91
+testament: "Old Testament"
+key_themes: "Divine Protection, Angelic Guardianship, Faithful Trust, Eternal Salvation"
+tags:
+  - divine-protection
+  - angelic-guardianship
+  - faithful-trust
+  - eternal-salvation
+---
 # Psalm 91
 
 ---
@@ -165,7 +176,7 @@ Dwelleth, secret, place, High, abide, shadow, Almighty, say, LORD, refuge, fortr
 
 
 *AI Keywords for current event matching:*
-`abide` `adder` `almighty` `angelic` `angels` `answer` `bear` `call` `charge` `dash` `deliver` `divine` `dragon` `dwelleth` `eternal` `faithful` `feet` `foot` `fortress` `fowler` `give` `god` `guardianship` `hands` `high` `honour` `keep` `known` `life` `lion` `long` `lord` `love` `name` `noisome` `pestilence` `place` `protection` `refuge` `salvation` `satisfy` `say` `secret` `set` `shadow` `shew` `snare` `stone` `trample` `tread` `trust` `ways` `young`
+#abide #adder #almighty #angelic #angels #answer #bear #call #charge #dash #deliver #divine #dragon #dwelleth #eternal #faithful #feet #foot #fortress #fowler #give #god #guardianship #hands #high #honour #keep #known #life #lion #long #lord #love #name #noisome #pestilence #place #protection #refuge #salvation #satisfy #say #secret #set #shadow #shew #snare #stone #trample #tread #trust #ways #young
 
 
 ---

@@ -1,3 +1,33 @@
+---
+book: "Leviticus"
+chapter: 14
+testament: "Old Testament"
+key_themes: "The two-bird ceremony — one bird killed over running water, one released alive into the open field, Blood and oil applied to right ear, right thumb, right great toe — the same points as the priestly consecration in Leviticus 8, Seven sprinklings; the cleansed leper reenters the camp in stages over eight days, Leprosy in houses — stones removed, house scraped, rebuilt; if plague persists, house demolished, The poor man's cleansing — the graduated scale maintained even in this complex rite"
+tags:
+  - cleansing-of-leper
+  - two-birds
+  - cedar-wood
+  - scarlet
+  - hyssop
+  - killed-over-running-water
+  - living-bird-released
+  - seven-sprinklings
+  - shave-all-hair
+  - wash-clothes
+  - re-enter-camp
+  - eighth-day
+  - blood-on-ear-thumb-toe
+  - oil-on-ear-thumb-toe
+  - oil-on-head
+  - trespass-offering
+  - sin-offering
+  - burnt-offering
+  - poor-mans-provision
+  - leprosy-in-houses
+  - stones-removed
+  - house-demolished
+  - fretting-leprosy
+---
 # Leviticus 14
 
 ---
@@ -77,7 +107,7 @@ The cleansing of the healed leper is a two-stage rite spread over eight days. St
 
 
 *AI Keywords for current event matching:*
-`144-7` `atonements` `current` `death` `double` `events` `leviticus` `matching` `release` `romans` `work`
+#144-7 #atonements #current #death #double #events #leviticus #matching #release #romans #work
 
 
 ---

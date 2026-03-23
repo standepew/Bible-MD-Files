@@ -1,3 +1,14 @@
+---
+book: "Amos"
+chapter: 9
+testament: "Old Testament"
+key_themes: "Christ's Final Judgment, Divine Sovereignty, David's Tabernacle Restoration, Messianic Kingdom"
+tags:
+  - christ
+  - divine-sovereignty
+  - david
+  - messianic-kingdom
+---
 # Amos 9
 
 ---
@@ -105,7 +116,7 @@ Lord, standing, altar, smite, lintel, door, posts, shake, cut, head, slay, last,
 
 
 *AI Keywords for current event matching:*
-`bottom` `breaches` `bring` `build` `captivity` `carmel` `christs` `climb` `close` `cut` `davids` `days` `dig` `divine` `drop` `final` `head` `heaven` `hell` `hide` `judgment` `kingdom` `land` `last` `lintel` `lord` `messianic` `mountains` `overtake` `plant` `plowman` `raise` `restoration` `ruins` `sea` `slay` `smite` `sovereignty` `standing` `sword` `tabernacle` `wine`
+#bottom #breaches #bring #build #captivity #carmel #christs #climb #close #cut #davids #days #dig #divine #drop #final #head #heaven #hell #hide #judgment #kingdom #land #last #lintel #lord #messianic #mountains #overtake #plant #plowman #raise #restoration #ruins #sea #slay #smite #sovereignty #standing #sword #tabernacle #wine
 
 
 ---

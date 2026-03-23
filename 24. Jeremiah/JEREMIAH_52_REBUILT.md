@@ -1,3 +1,13 @@
+---
+book: "Jeremiah"
+chapter: 52
+testament: "Old Testament"
+key_themes: "Christ's Fulfillment, Jerusalem's Fall, Temple's Destruction, Christ's Mercy"
+tags:
+  - christ
+  - jerusalem
+  - temple
+---
 # Jeremiah 52
 
 ---
@@ -93,7 +103,7 @@ Zedekiah, years, began, reign, Jerusalem, mother, Hamutal, daughter, Jeremiah, L
 
 
 *AI Keywords for current event matching:*
-`above` `babylon` `besieged` `brake` `brass` `bread` `broken` `burned` `christs` `city` `continual` `destruction` `evil` `eyes` `fall` `famine` `fled` `fulfillment` `gold` `head` `house` `jehoiachin` `jerusalems` `kindly` `lifted` `lord` `men` `mercy` `pillars` `rebelled` `reigned` `silver` `sore` `spake` `temples` `throne` `vessels` `walls` `war` `zedekiah`
+#above #babylon #besieged #brake #brass #bread #broken #burned #christs #city #continual #destruction #evil #eyes #fall #famine #fled #fulfillment #gold #head #house #jehoiachin #jerusalems #kindly #lifted #lord #men #mercy #pillars #rebelled #reigned #silver #sore #spake #temples #throne #vessels #walls #war #zedekiah
 
 
 ---

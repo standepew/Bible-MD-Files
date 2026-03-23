@@ -1,3 +1,58 @@
+---
+book: "Genesis"
+chapter: 49
+testament: "Old Testament"
+key_themes: "The Last Words of Jacob — The Prophetic Blessings of the Twelve Tribes, The Scepter Shall Not Depart from Judah — The Messianic Prophecy, Shiloh — The First Explicit Messianic Title in the Torah, The Gathering of the People to Shiloh, Joseph as the Fruitful Bough — The Attacked and Strengthened Arm, Dan Shall Judge His People — A Serpent by the Way, "I Have Waited for Thy Salvation, O LORD", Benjamin as the Ravenous Wolf, Jacob's Final Instructions — Cave of Machpelah, The Death of Jacob"
+tags:
+  - last-days
+  - Jacob-prophetic-blessing-twelve-tribes
+  - defiled-fathers-bed
+  - Simeon-Levi-instruments-of-cruelty
+  - cursed-their-anger
+  - scattered-in-Israel
+  - Judah-thy-brethren-shall-praise
+  - hand-on-neck-of-enemies
+  - fathers-children-bow-down
+  - Judah-lions-whelp
+  - scepter-not-depart-from-Judah
+  - lawgiver-between-feet
+  - until-Shiloh-come
+  - gathering-of-people-to-him
+  - Shiloh-Messianic-title
+  - Genesis-49-10-messianic-prophecy
+  - Zebulun-haven-of-ships
+  - Issachar-strong-ass
+  - Dan-shall-judge-his-people
+  - Dan-serpent-by-way
+  - Gad-overcome-but-shall-overcome
+  - Naphtali-goodly-words
+  - Joseph-fruitful-bough-by-well
+  - archers-sorely-grieved
+  - arms-made-strong-by-God
+  - Almighty-who-shall-bless-thee
+  - Benjamin-ravenous-wolf
+  - devoureth-prey-divideth-spoil
+  - buried-my-fathers-there
+  - buy-of-Ephron-cave-Machpelah
+  - Jacob-gathered-feet-into-bed
+  - gave-up-ghost
+  - gathered-unto-his-people
+  - Hebrews-11-21
+  - tribal-prophecies-and-fulfillments
+  - the-lawgiver-between-his-feet
+  - until-Shiloh-come-Hebrew-shelo
+  - the-last-words-of-jacob
+  - the-scepter-shall-not-depart-from
+  - shiloh
+  - the-gathering-of-the-people-to
+  - joseph-as-the-fruitful-bough
+  - dan-shall-judge-his-people
+  - i-have-waited-for-thy-salvation
+  - o-lord
+  - benjamin-as-the-ravenous-wolf
+  - jacob
+  - the-death-of-jacob
+---
 # Genesis 49
 
 ---
@@ -86,7 +141,7 @@ Jacob then gave his final instructions: bury me with my fathers in the cave of M
 
 ## KEYWORD INDEX
 
-`gather yourselves last days prophecy` `be'acharit ha-yamim last days prophetic formula` `Reuben firstborn excellency unstable as water` `defiled fathers bed Genesis 35:22` `Simeon Levi instruments of cruelty` `cursed their anger scattered in Israel` `Levi no territory Simeon absorbed in Judah Joshua 19:1` `Judah lion's whelp` `scepter not depart from Judah` `lawgiver between his feet` `until Shiloh come` `gathering of people to him` `Numbers 24:17 scepter rise out of Israel` `Ezekiel 21:27 until he come whose right it is` `Hebrews 7:14 Lord sprang out of Judah` `Revelation 5:5 Lion of tribe of Judah` `John 11:51-52 gather scattered children of God` `Zebulun haven of ships` `Issachar strong ass burdens` `Dan shall judge` `Dan serpent adder by way` `I have waited for thy salvation O LORD` `yeshuah Genesis 49:18` `Matthew 1:21 Jesus shall save his people` `Isaiah 12:2-3 wells of salvation` `Gad overcome but shall overcome` `Asher bread fat royal dainties` `Naphtali hind goodly words` `Joseph fruitful bough by well` `archers sorely grieved him shot hated` `his bow abode in strength` `hands of mighty God of Jacob` `Isaiah 40:29-31 he giveth power to faint` `blessings prevailed above progenitors` `head of Joseph separate from brethren` `Benjamin ravenous wolf morning prey night spoil` `Saul from Benjamin Paul from Benjamin Philippians 3:5` `cave of Machpelah field of Ephron` `Abraham Sarah Isaac Rebekah Leah buried there` `Jacob gathered feet into bed` `gave up ghost` `gathered unto his people` `Hebrews 11:13 16 God prepared them a city` `Matthew 22:31-32 God of living not dead` `gathered unto people implies conscious survival` `tribal blessings as eschatological prophecy`
+#gather-yourselves-last-days-prophecy #beacharit-ha-yamim-last-days-prophetic-formula #Reuben-firstborn-excellency-unstable-as-water #defiled-fathers-bed-Genesis-3522 #Simeon-Levi-instruments-of-cruelty #cursed-their-anger-scattered-in-Israel #Levi-no-territory-Simeon-absorbed-in-Judah-Joshua-191 #Judah-lions-whelp #scepter-not-depart-from-Judah #lawgiver-between-his-feet #until-Shiloh-come #gathering-of-people-to-him #Numbers-2417-scepter-rise-out-of-Israel #Ezekiel-2127-until-he-come-whose-right-it-is #Hebrews-714-Lord-sprang-out-of-Judah #Revelation-55-Lion-of-tribe-of-Judah #John-1151-52-gather-scattered-children-of-God #Zebulun-haven-of-ships #Issachar-strong-ass-burdens #Dan-shall-judge #Dan-serpent-adder-by-way #I-have-waited-for-thy-salvation-O-LORD #yeshuah-Genesis-4918 #Matthew-121-Jesus-shall-save-his-people #Isaiah-122-3-wells-of-salvation #Gad-overcome-but-shall-overcome #Asher-bread-fat-royal-dainties #Naphtali-hind-goodly-words #Joseph-fruitful-bough-by-well #archers-sorely-grieved-him-shot-hated #his-bow-abode-in-strength #hands-of-mighty-God-of-Jacob #Isaiah-4029-31-he-giveth-power-to-faint #blessings-prevailed-above-progenitors #head-of-Joseph-separate-from-brethren #Benjamin-ravenous-wolf-morning-prey-night-spoil #Saul-from-Benjamin-Paul-from-Benjamin-Philippians-35 #cave-of-Machpelah-field-of-Ephron #Abraham-Sarah-Isaac-Rebekah-Leah-buried-there #Jacob-gathered-feet-into-bed #gave-up-ghost #gathered-unto-his-people #Hebrews-1113-16-God-prepared-them-a-city #Matthew-2231-32-God-of-living-not-dead #gathered-unto-people-implies-conscious-survival #tribal-blessings-as-eschatological-prophecy
 
 **Current Events Relevance:**
 - "The scepter shall not depart from Judah until Shiloh come" — the Messianic oracle at the center of Genesis 49; applicable in teaching on the progressive revelation of Christ's identity, the Jewish roots of the Messianic hope, and the theological continuity between the testaments

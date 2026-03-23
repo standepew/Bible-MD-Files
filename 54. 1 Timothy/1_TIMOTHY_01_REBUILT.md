@@ -1,3 +1,14 @@
+---
+book: "1 Timothy"
+chapter: 1
+testament: "New Testament"
+key_themes: "Paul's Greeting and Charge, Warning Against False Doctrine, The Proper Use of the Law, Paul's Testimony and Ministry, Charge to Timothy"
+tags:
+  - paul
+  - warning-against-false-doctrine
+  - the-proper-use-of-the-law
+  - charge-to-timothy
+---
 # 1 Timothy 1
 
 ---
@@ -107,7 +118,7 @@ Paul, apostle, Jesus, Christ, commandment, God, Saviour, Lord, Jesus, Christ, ho
 
 
 *AI Keywords for current event matching:*
-`abide` `abundant` `acceptation` `affirm` `against` `alexander` `apostle` `aside` `away` `believe` `beseech` `blaspheme` `blasphemer` `blessed` `cause` `charge` `charity` `chief` `christ` `commandment` `commit` `committed` `conscience` `contrary` `defile` `delivered` `desiring` `disobedient` `doctrine` `edifying` `enabled` `end` `endless` `ephesus` `eternal` `everlasting` `exceeding` `fables` `faith` `faithful` `false` `father` `fathers` `genealogies` `glorious` `glory` `god` `godly` `good` `gospel` `grace` `greeting` `heart` `heed` `holding` `honour` `hope` `hymenaeus` `ignorantly` `immortal` `injurious` `invisible` `jangling` `jesus` `king` `law` `lawfully` `lawless` `learn` `liars` `life` `longsuffering` `lord` `love` `macedonia` `man` `mankind` `manslayers` `menstealers` `mercy` `minister` `ministry` `mothers` `murderers` `obtained` `pattern` `paul` `pauls` `peace` `perjured` `persecutor` `persons` `profane` `proper` `prophecies` `pure` `put` `questions` `righteous` `satan` `save` `saviour` `saying` `shew` `shipwreck` `sinners` `son` `sound` `swerved` `teach` `teachers` `testimony` `thank` `timothy` `trust` `turned` `unbelief` `understanding` `unfeigned` `ungodly` `unholy` `use` `vain` `war` `warfare` `warning` `whoremongers` `wise` `world`
+#abide #abundant #acceptation #affirm #against #alexander #apostle #aside #away #believe #beseech #blaspheme #blasphemer #blessed #cause #charge #charity #chief #christ #commandment #commit #committed #conscience #contrary #defile #delivered #desiring #disobedient #doctrine #edifying #enabled #end #endless #ephesus #eternal #everlasting #exceeding #fables #faith #faithful #false #father #fathers #genealogies #glorious #glory #god #godly #good #gospel #grace #greeting #heart #heed #holding #honour #hope #hymenaeus #ignorantly #immortal #injurious #invisible #jangling #jesus #king #law #lawfully #lawless #learn #liars #life #longsuffering #lord #love #macedonia #man #mankind #manslayers #menstealers #mercy #minister #ministry #mothers #murderers #obtained #pattern #paul #pauls #peace #perjured #persecutor #persons #profane #proper #prophecies #pure #put #questions #righteous #satan #save #saviour #saying #shew #shipwreck #sinners #son #sound #swerved #teach #teachers #testimony #thank #timothy #trust #turned #unbelief #understanding #unfeigned #ungodly #unholy #use #vain #war #warfare #warning #whoremongers #wise #world
 
 
 ---

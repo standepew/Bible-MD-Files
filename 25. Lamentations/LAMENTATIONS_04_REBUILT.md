@@ -1,3 +1,13 @@
+---
+book: "Lamentations"
+chapter: 4
+testament: "Old Testament"
+key_themes: "Christ's Judgment, Jerusalem's Corruption, Divine Fury, Christ's Vengeance"
+tags:
+  - christ
+  - jerusalem
+  - divine-fury
+---
 # Lamentations 4
 
 ---
@@ -105,7 +115,7 @@ Gold, dim, fine, gold, changed, stones, sanctuary, poured, top, street, precious
 
 
 *AI Keywords for current event matching:*
-`accomplished` `anger` `blacker` `breath` `christs` `cleaveth` `corruption` `cup` `devoured` `dim` `divine` `earthen` `edom` `fierce` `fire` `foundations` `fury` `gold` `greater` `iniquity` `jerusalems` `judgment` `kindled` `nazarites` `nostrils` `pass` `persecutors` `pitchers` `poured` `precious` `punishment` `rejoice` `sanctuary` `skin` `sodom` `sons` `stones` `swifter` `taken` `vengeance`
+#accomplished #anger #blacker #breath #christs #cleaveth #corruption #cup #devoured #dim #divine #earthen #edom #fierce #fire #foundations #fury #gold #greater #iniquity #jerusalems #judgment #kindled #nazarites #nostrils #pass #persecutors #pitchers #poured #precious #punishment #rejoice #sanctuary #skin #sodom #sons #stones #swifter #taken #vengeance
 
 
 ---

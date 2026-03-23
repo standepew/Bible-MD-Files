@@ -1,3 +1,13 @@
+---
+book: "Isaiah"
+chapter: 32
+testament: "Old Testament"
+key_themes: "Christ's Righteous Rule, Divine Protection, Spiritual Transformation, Christ's Peace"
+tags:
+  - christ
+  - divine-protection
+  - spiritual-transformation
+---
 # Isaiah 32
 
 ---
@@ -129,7 +139,7 @@ Behold, king, reign, righteousness, princes, rule, judgment, man, hiding, place,
 
 
 *AI Keywords for current event matching:*
-`assurance` `christs` `covert` `divine` `field` `fruitful` `great` `habitation` `hiding` `high` `judgment` `king` `peace` `peaceable` `place` `places` `poured` `princes` `protection` `quiet` `quietness` `reign` `resting` `righteous` `righteousness` `rivers` `rock` `rule` `shadow` `spirit` `spiritual` `tempest` `transformation` `water` `wilderness` `wind` `work`
+#assurance #christs #covert #divine #field #fruitful #great #habitation #hiding #high #judgment #king #peace #peaceable #place #places #poured #princes #protection #quiet #quietness #reign #resting #righteous #righteousness #rivers #rock #rule #shadow #spirit #spiritual #tempest #transformation #water #wilderness #wind #work
 
 
 ---

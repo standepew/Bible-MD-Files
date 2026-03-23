@@ -1,3 +1,27 @@
+---
+book: "Numbers"
+chapter: 12
+testament: "Old Testament"
+key_themes: "Miriam and Aaron speak against Moses because of his Ethiopian wife — the stated reason masks the real challenge: "Hath the LORD spoken only by Moses?", God's own defence of Moses: Moses is faithful in all my house; with him I speak mouth to mouth, not in dark speeches, "Wherefore then were ye not afraid to speak against my servant Moses?" — God's anger at challenging His appointed servant, Miriam struck with leprosy white as snow — Aaron is spared; he confesses immediately and pleads for mercy, Moses intercedes for Miriam despite being attacked by her: "Heal her now, O God, I beseech thee", The parenthetical note: "Now the man Moses was very meek, above all the men which were upon the face of the earth""
+tags:
+  - Ethiopian-wife
+  - Miriam-and-Aaron-against-Moses
+  - hath-the-LORD-spoken-only-by-Moses
+  - Moses-very-meek
+  - God-defends-Moses
+  - faithful-in-all-mine-house
+  - mouth-to-mouth
+  - not-in-dark-speeches
+  - similitude-of-the-LORD
+  - anger-of-the-LORD
+  - cloud-departs
+  - Miriam-leprous-white-as-snow
+  - Aaron-confesses
+  - Moses-intercedes
+  - shut-out-seven-days
+  - people-wait-for-Miriam
+  - wilderness-of-Paran
+---
 # Numbers 12
 
 ---
@@ -77,7 +101,7 @@ Miriam and Aaron speak against Moses because he married an Ethiopian (Cushite) w
 
 
 *AI Keywords for current event matching:*
-`authority` `challenging` `current` `defence` `direct` `established` `events` `gods` `matching` `numbers` `response` `servant` `spiritual` `swift` `unambiguous`
+#authority #challenging #current #defence #direct #established #events #gods #matching #numbers #response #servant #spiritual #swift #unambiguous
 
 
 ---
@@ -148,14 +172,14 @@ Miriam and Aaron speak against Moses because he married an Ethiopian (Cushite) w
 
 ### The Cloud Departing — The Warning Sign
 
-**Numbers 12:10** — "And the cloud departed from off the tabernacle; and, behold, Miriam became leprous"
+[[04. Numbers/NUM_12_REBUILT|Numbers 12:10]] — "And the cloud departed from off the tabernacle; and, behold, Miriam became leprous"
 
 When God's anger is kindled, the cloud — His presence — departs from the Tabernacle door. Then the judgment appears. The sequence is consistent in Scripture:
 
-- **Numbers 12:9-10** — anger kindled → He departed → Miriam leprous
-- **1 Samuel 4:21-22** — the ark captured; Phinehas's wife names her son Ichabod: "The glory is departed from Israel: because the ark of God was taken"
+- [[04. Numbers/NUM_12_REBUILT|Numbers 12:9-10]] — anger kindled → He departed → Miriam leprous
+- [[09. 1 Samuel/1_SAMUEL_04_REBUILT|1 Samuel 4:21-22]] — the ark captured; Phinehas's wife names her son Ichabod: "The glory is departed from Israel: because the ark of God was taken"
 - **Ezekiel 9:3; 10:4, 18; 11:22-23** — the progressive departure of God's glory from Jerusalem before the Babylonian judgment — the cloud moving away from the Temple step by step
-- **Matthew 23:38** — "Behold, your house is left unto you desolate" — Jesus pronounces the cloud's final departure from the Jerusalem Temple
+- [[40. Matthew/MATTHEW_23_REBUILT|Matthew 23:38]] — "Behold, your house is left unto you desolate" — Jesus pronounces the cloud's final departure from the Jerusalem Temple
 
 **What the Bible establishes:** When God's presence withdraws, judgment follows immediately. The cloud is not merely guidance; it is the divine protective presence. Its departure is always a sign of wrath. The community that drives away the presence of God through presumption, rebellion, or challenge to His appointed servants is left exposed. Conversely, Numbers 12:15 — the people waited for Miriam to be restored before continuing — is the picture of a community that did not abandon her, that moved together, that restored rather than discarded the fallen.
 

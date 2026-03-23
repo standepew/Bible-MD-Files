@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 1
+testament: "Old Testament"
+key_themes: "Two Ways, Blessed Man, Tree vs. Chaff, Divine Judgment"
+tags:
+  - two-ways
+  - blessed-man
+  - tree-vs-chaff
+  - divine-judgment
+---
 # Psalm 1
 
 ---
@@ -117,7 +128,7 @@ Blessed, man, walketh, counsel, ungodly, standeth, way, sinners, sitteth, seat, 
 
 
 *AI Keywords for current event matching:*
-`away` `blessed` `chaff` `congregation` `counsel` `day` `delight` `divine` `driveth` `fruit` `judgment` `knoweth` `law` `leaf` `lord` `man` `meditate` `night` `perish` `planted` `prosper` `righteous` `rivers` `scornful` `season` `seat` `sinners` `sitteth` `standeth` `tree` `two` `ungodly` `walketh` `water` `way` `ways` `wind` `wither`
+#away #blessed #chaff #congregation #counsel #day #delight #divine #driveth #fruit #judgment #knoweth #law #leaf #lord #man #meditate #night #perish #planted #prosper #righteous #rivers #scornful #season #seat #sinners #sitteth #standeth #tree #two #ungodly #walketh #water #way #ways #wind #wither
 
 
 ---

@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 115
+testament: "Old Testament"
+key_themes: "God's Glory, Idolatry's Folly, Divine Trust, Eternal Praise"
+tags:
+  - god
+  - idolatry
+  - divine-trust
+  - eternal-praise
+---
 # Psalm 115
 
 ---
@@ -165,7 +176,7 @@ LORD, glory, mercy, truth, sake, heathen, God, heavens, done, pleased, idols, si
 
 
 *AI Keywords for current event matching:*
-`aaron` `bless` `dead` `divine` `eternal` `eyes` `fear` `folly` `forevermore` `forth` `give` `glory` `god` `gods` `gold` `hands` `heathen` `help` `house` `idolatrys` `idols` `israel` `like` `lord` `make` `mercy` `mouths` `name` `praise` `sake` `say` `see` `shield` `silence` `silver` `speak` `time` `trust` `truth` `work`
+#aaron #bless #dead #divine #eternal #eyes #fear #folly #forevermore #forth #give #glory #god #gods #gold #hands #heathen #help #house #idolatrys #idols #israel #like #lord #make #mercy #mouths #name #praise #sake #say #see #shield #silence #silver #speak #time #trust #truth #work
 
 
 ---

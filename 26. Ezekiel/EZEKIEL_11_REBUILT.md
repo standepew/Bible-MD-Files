@@ -1,3 +1,13 @@
+---
+book: "Ezekiel"
+chapter: 11
+testament: "Old Testament"
+key_themes: "Christ's Judgment, Wicked Counselors, Divine Restoration, Christ's Heart"
+tags:
+  - christ
+  - wicked-counselors
+  - divine-restoration
+---
 # Ezekiel 11
 
 ---
@@ -117,7 +127,7 @@ Spirit, lifted, east, gate, Lord, house, eastward, door, gate, five, twenty, men
 
 
 *AI Keywords for current event matching:*
-`caldron` `christs` `city` `counsel` `counselors` `devise` `divine` `execute` `fall` `five` `flesh` `gather` `heart` `israel` `judgment` `judgments` `land` `little` `men` `mischief` `near` `new` `one` `people` `princes` `restoration` `sanctuary` `spirit` `statutes` `stony` `sword` `twenty` `walk` `wicked`
+#caldron #christs #city #counsel #counselors #devise #divine #execute #fall #five #flesh #gather #heart #israel #judgment #judgments #land #little #men #mischief #near #new #one #people #princes #restoration #sanctuary #spirit #statutes #stony #sword #twenty #walk #wicked
 
 
 ---

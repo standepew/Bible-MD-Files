@@ -1,3 +1,13 @@
+---
+book: "Jeremiah"
+chapter: 23
+testament: "Old Testament"
+key_themes: "Christ's Shepherd, Righteous Branch, False Prophets, Christ's Word"
+tags:
+  - christ
+  - righteous-branch
+  - false-prophets
+---
 # Jeremiah 23
 
 ---
@@ -105,7 +115,7 @@ Woe, pastors, destroy, scatter, sheep, pasture, LORD, LORD, God, Israel, pastors
 
 
 *AI Keywords for current event matching:*
-`branch` `break` `chaff` `christs` `david` `destroy` `dreams` `execute` `faithfully` `false` `fear` `feed` `fire` `flock` `gather` `hammer` `heart` `judgment` `justice` `king` `lies` `like` `lord` `make` `name` `pastors` `prophesy` `prophets` `prosper` `raise` `reign` `remnant` `righteous` `righteousness` `rock` `scatter` `set` `shepherd` `shepherds` `speak` `vain` `vision` `wheat` `word`
+#branch #break #chaff #christs #david #destroy #dreams #execute #faithfully #false #fear #feed #fire #flock #gather #hammer #heart #judgment #justice #king #lies #like #lord #make #name #pastors #prophesy #prophets #prosper #raise #reign #remnant #righteous #righteousness #rock #scatter #set #shepherd #shepherds #speak #vain #vision #wheat #word
 
 
 ---

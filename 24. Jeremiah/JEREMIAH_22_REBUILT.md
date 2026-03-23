@@ -1,3 +1,13 @@
+---
+book: "Jeremiah"
+chapter: 22
+testament: "Old Testament"
+key_themes: "Christ's Throne, Righteous Judgment, Unrighteous Building, Christ's Rejection"
+tags:
+  - christ
+  - righteous-judgment
+  - unrighteous-building
+---
 # Jeremiah 22
 
 ---
@@ -117,7 +127,7 @@ LORD, house, king, Judah, speak, word, Hear, word, LORD, king, Judah, sittest, t
 
 
 *AI Keywords for current event matching:*
-`bare` `broken` `buildeth` `building` `cast` `chambers` `childless` `christs` `covetousness` `david` `deliver` `despised` `execute` `hand` `house` `idol` `judged` `judgment` `kings` `know` `large` `lord` `mother` `needy` `oppressor` `pluck` `poor` `prosper` `rejection` `right` `righteous` `righteousness` `ruling` `signet` `sitting` `spoiled` `thence` `throne` `unrighteous` `unrighteousness` `violence` `wide` `wrong`
+#bare #broken #buildeth #building #cast #chambers #childless #christs #covetousness #david #deliver #despised #execute #hand #house #idol #judged #judgment #kings #know #large #lord #mother #needy #oppressor #pluck #poor #prosper #rejection #right #righteous #righteousness #ruling #signet #sitting #spoiled #thence #throne #unrighteous #unrighteousness #violence #wide #wrong
 
 
 ---

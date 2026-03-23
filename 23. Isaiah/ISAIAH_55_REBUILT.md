@@ -1,3 +1,14 @@
+---
+book: "Isaiah"
+chapter: 55
+testament: "Old Testament"
+key_themes: "Christ's Invitation, Divine Provision, Spiritual Salvation, Eternal Covenant"
+tags:
+  - christ
+  - divine-provision
+  - spiritual-salvation
+  - eternal-covenant
+---
 # Isaiah 55
 
 ---
@@ -129,7 +140,7 @@ Thirsteth, waters, money, buy, eat, buy, wine, milk, without, money, price, spen
 
 
 *AI Keywords for current event matching:*
-`abundantly` `accomplish` `buy` `christs` `come` `covenant` `david` `divine` `ear` `eat` `eternal` `everlasting` `fatness` `fir` `forsake` `found` `good` `incline` `invitation` `live` `lord` `mercies` `mercy` `milk` `money` `myrtle` `pardon` `price` `provision` `return` `salvation` `seek` `sign` `soul` `spiritual` `sure` `thirsteth` `tree` `void` `waters` `way` `wicked` `wine` `without` `word`
+#abundantly #accomplish #buy #christs #come #covenant #david #divine #ear #eat #eternal #everlasting #fatness #fir #forsake #found #good #incline #invitation #live #lord #mercies #mercy #milk #money #myrtle #pardon #price #provision #return #salvation #seek #sign #soul #spiritual #sure #thirsteth #tree #void #waters #way #wicked #wine #without #word
 
 
 ---

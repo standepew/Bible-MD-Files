@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 9
+testament: "Old Testament"
+key_themes: "Thanksgiving for Victory, Divine Judgment, God's Eternal Throne, Refuge for Oppressed"
+tags:
+  - thanksgiving-for-victory
+  - divine-judgment
+  - god
+  - refuge-for-oppressed
+---
 # Psalm 9
 
 ---
@@ -165,7 +176,7 @@ Chief, Musician, Muthlabben, Psalm, David, praise, LORD, whole, heart, shew, mar
 
 
 *AI Keywords for current event matching:*
-`arise` `back` `cause` `chief` `david` `death` `destroyed` `divine` `endure` `enemies` `eternal` `executeth` `expectation` `fall` `fear` `forever` `forgotten` `forsaken` `gates` `glad` `gods` `hate` `heart` `heathen` `high` `judge` `judged` `judging` `judgment` `know` `known` `liftest` `lord` `maintained` `man` `marvellous` `men` `mercy` `minister` `musician` `muthlabben` `name` `nations` `needy` `oppressed` `people` `perish` `poor` `praise` `prepared` `presence` `prevail` `psalm` `rebuked` `refuge` `rejoice` `right` `righteousness` `satest` `seek` `selah` `shew` `sight` `sing` `thanksgiving` `throne` `trouble` `trust` `turned` `uprightness` `victory` `whole` `wicked` `works` `world`
+#arise #back #cause #chief #david #death #destroyed #divine #endure #enemies #eternal #executeth #expectation #fall #fear #forever #forgotten #forsaken #gates #glad #gods #hate #heart #heathen #high #judge #judged #judging #judgment #know #known #liftest #lord #maintained #man #marvellous #men #mercy #minister #musician #muthlabben #name #nations #needy #oppressed #people #perish #poor #praise #prepared #presence #prevail #psalm #rebuked #refuge #rejoice #right #righteousness #satest #seek #selah #shew #sight #sing #thanksgiving #throne #trouble #trust #turned #uprightness #victory #whole #wicked #works #world
 
 
 ---

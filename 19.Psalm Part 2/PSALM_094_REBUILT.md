@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 94
+testament: "Old Testament"
+key_themes: "Divine Vengeance, Wicked Triumph, Spiritual Instruction, God's Protection"
+tags:
+  - divine-vengeance
+  - wicked-triumph
+  - spiritual-instruction
+  - god
+---
 # Psalm 94
 
 ---
@@ -153,7 +164,7 @@ LORD, GOD, vengeance, belong, shew, LORD, judge, earth, render, reward, proud, L
 
 
 *AI Keywords for current event matching:*
-`adversity` `afflict` `belong` `blessed` `boast` `break` `cast` `chastenest` `days` `defence` `digged` `divine` `dwelt` `earth` `forsake` `give` `god` `gods` `hard` `heart` `help` `heritage` `inheritance` `iniquity` `instruction` `judge` `judgment` `law` `long` `lord` `people` `pieces` `pit` `protection` `proud` `refuge` `render` `rest` `return` `reward` `righteousness` `rock` `shew` `silence` `soul` `speak` `spiritual` `teach` `things` `triumph` `unless` `upright` `utter` `vengeance` `wicked` `workers`
+#adversity #afflict #belong #blessed #boast #break #cast #chastenest #days #defence #digged #divine #dwelt #earth #forsake #give #god #gods #hard #heart #help #heritage #inheritance #iniquity #instruction #judge #judgment #law #long #lord #people #pieces #pit #protection #proud #refuge #render #rest #return #reward #righteousness #rock #shew #silence #soul #speak #spiritual #teach #things #triumph #unless #upright #utter #vengeance #wicked #workers
 
 
 ---

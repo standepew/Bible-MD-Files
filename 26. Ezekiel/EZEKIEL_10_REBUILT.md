@@ -1,3 +1,13 @@
+---
+book: "Ezekiel"
+chapter: 10
+testament: "Old Testament"
+key_themes: "Christ's Glory, Divine Chariot, Temple Departure, Christ's Presence"
+tags:
+  - christ
+  - divine-chariot
+  - temple-departure
+---
 # Ezekiel 10
 
 ---
@@ -117,7 +127,7 @@ Looked, firmament, head, cherubims, appeared, sapphire, stone, appearance, liken
 
 
 *AI Keywords for current event matching:*
-`brightness` `chariot` `chebar` `cherubims` `christs` `court` `creature` `departed` `departure` `divine` `east` `eyes` `faces` `forward` `four` `full` `gate` `glory` `house` `inner` `living` `presence` `river` `sapphire` `spirit` `straight` `temple` `threshold` `throne` `went` `wheel` `wheels`
+#brightness #chariot #chebar #cherubims #christs #court #creature #departed #departure #divine #east #eyes #faces #forward #four #full #gate #glory #house #inner #living #presence #river #sapphire #spirit #straight #temple #threshold #throne #went #wheel #wheels
 
 
 ---

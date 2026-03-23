@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 65
+testament: "Old Testament"
+key_themes: "God's Provision, Natural Blessings, Earth's Abundance, Divine Care"
+tags:
+  - god
+  - natural-blessings
+  - earth
+  - divine-care
+---
 # Psalm 65
 
 ---
@@ -105,7 +116,7 @@ Chief, Musician, Psalm, Song, David, Praise, waiteth, GOD, Sion, vow, performed,
 
 
 *AI Keywords for current event matching:*
-`abundance` `abundantly` `afraid` `approach` `blessed` `blessest` `blessings` `care` `chief` `choosest` `clothed` `come` `corn` `courts` `covered` `crowned` `david` `divine` `drop` `dwell` `earth` `earths` `enrichest` `evening` `fast` `fatness` `flesh` `flocks` `full` `furrows` `girded` `god` `gods` `goodness` `greatly` `hearest` `iniquities` `joy` `makest` `man` `morning` `mountains` `musician` `natural` `noise` `outgoings` `parts` `pastures` `paths` `people` `performed` `power` `praise` `prayer` `preparest` `prevail` `provided` `provision` `psalm` `purge` `rejoice` `ridges` `river` `seas` `setteth` `settlest` `shout` `showers` `sing` `sion` `soft` `song` `springing` `stilleth` `strength` `tokens` `transgressions` `tumult` `uttermost` `valleys` `visitest` `vow` `waiteth` `water` `waterest` `waves` `year`
+#abundance #abundantly #afraid #approach #blessed #blessest #blessings #care #chief #choosest #clothed #come #corn #courts #covered #crowned #david #divine #drop #dwell #earth #earths #enrichest #evening #fast #fatness #flesh #flocks #full #furrows #girded #god #gods #goodness #greatly #hearest #iniquities #joy #makest #man #morning #mountains #musician #natural #noise #outgoings #parts #pastures #paths #people #performed #power #praise #prayer #preparest #prevail #provided #provision #psalm #purge #rejoice #ridges #river #seas #setteth #settlest #shout #showers #sing #sion #soft #song #springing #stilleth #strength #tokens #transgressions #tumult #uttermost #valleys #visitest #vow #waiteth #water #waterest #waves #year
 
 
 ---

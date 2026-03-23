@@ -1,3 +1,14 @@
+---
+book: "Romans"
+chapter: 13
+testament: "New Testament"
+key_themes: "Submission to Authorities, Love Fulfills the Law, The Armor of Light, Put on Christ"
+tags:
+  - submission-to-authorities
+  - love-fulfills-the-law
+  - the-armor-of-light
+  - put-on-christ
+---
 # Romans 13
 
 ---
@@ -105,7 +116,7 @@ Soul, subject, higher, powers, power, God, powers, ordained, God, resisteth, pow
 
 
 *AI Keywords for current event matching:*
-`adultery` `afraid` `another` `armor` `armour` `attending` `authorities` `awake` `bear` `beareth` `believed` `briefly` `cast` `cause` `chambering` `christ` `commandment` `commit` `comprehended` `conscience` `continually` `covet` `custom` `damnation` `darkness` `day` `drunkenness` `dues` `envying` `evil` `execute` `false` `far` `fear` `flesh` `fulfil` `fulfilled` `fulfilling` `fulfills` `god` `good` `hand` `high` `higher` `honestly` `honour` `jesus` `kill` `knowing` `law` `light` `lord` `love` `loveth` `lusts` `man` `minister` `ministers` `nearer` `neighbour` `night` `ordained` `ordinance` `owe` `pay` `power` `powers` `praise` `provision` `put` `receive` `render` `resist` `resisteth` `revenger` `rioting` `rulers` `salvation` `saying` `sleep` `soul` `spent` `steal` `strife` `subject` `submission` `sword` `terror` `thing` `time` `tribute` `vain` `walk` `wantonness` `witness` `worketh` `works` `wrath`
+#adultery #afraid #another #armor #armour #attending #authorities #awake #bear #beareth #believed #briefly #cast #cause #chambering #christ #commandment #commit #comprehended #conscience #continually #covet #custom #damnation #darkness #day #drunkenness #dues #envying #evil #execute #false #far #fear #flesh #fulfil #fulfilled #fulfilling #fulfills #god #good #hand #high #higher #honestly #honour #jesus #kill #knowing #law #light #lord #love #loveth #lusts #man #minister #ministers #nearer #neighbour #night #ordained #ordinance #owe #pay #power #powers #praise #provision #put #receive #render #resist #resisteth #revenger #rioting #rulers #salvation #saying #sleep #soul #spent #steal #strife #subject #submission #sword #terror #thing #time #tribute #vain #walk #wantonness #witness #worketh #works #wrath
 
 
 ---

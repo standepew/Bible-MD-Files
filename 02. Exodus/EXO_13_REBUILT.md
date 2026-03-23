@@ -1,3 +1,31 @@
+---
+book: "Exodus"
+chapter: 13
+testament: "Old Testament"
+key_themes: "Sanctification of the firstborn, The feast of unleavened bread commanded, Generational instruction — tell your son, Joseph's bones carried out, God leads through the wilderness (not the shorter route), The pillar of cloud and fire, The bones of Joseph — pakod yifkod fulfilled"
+tags:
+  - firstborn-sanctified
+  - unleavened-bread
+  - Abib
+  - feast
+  - generational-instruction
+  - tell-your-son
+  - sign-upon-hand
+  - frontlets-between-eyes
+  - Joseph-bones
+  - pakod-yifkod
+  - God-will-surely-visit
+  - wilderness-route
+  - Philistines
+  - war
+  - pillar-of-cloud
+  - pillar-of-fire
+  - Jehovah-leads
+  - longer-way-round
+  - harnessed
+  - Etham
+  - edge-of-wilderness
+---
 # Exodus 13
 
 ---
@@ -106,7 +134,7 @@ God commands the consecration of every firstborn — human and animal — as bel
 
 
 *AI Keywords for current event matching:*
-`abortion` `belong` `current` `events` `exodus` `firstborn` `god` `life` `matching` `sanctity`
+#abortion #belong #current #events #exodus #firstborn #god #life #matching #sanctity
 
 
 ---

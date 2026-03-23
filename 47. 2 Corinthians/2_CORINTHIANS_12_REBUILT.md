@@ -1,3 +1,14 @@
+---
+book: "2 Corinthians"
+chapter: 12
+testament: "New Testament"
+key_themes: "Paul's Revelations, The Thorn in the Flesh, Divine Grace, The Signs of an Apostle"
+tags:
+  - paul
+  - the-thorn-in-the-flesh
+  - divine-grace
+  - the-signs-of-an-apostle
+---
 # 2 Corinthians 12
 
 ---
@@ -117,7 +128,7 @@ Expedient, glory, visions, revelations, Lord, knew, man, Christ, fourteen, years
 
 
 *AI Keywords for current event matching:*
-`abundance` `abundantly` `apostle` `apostles` `backbitings` `behind` `besought` `bewail` `body` `brother` `buffet` `burdensome` `caught` `chiefest` `children` `christ` `churches` `commended` `committed` `compelled` `crafty` `debates` `deeds` `depart` `desire` `distresses` `divine` `edifying` `envyings` `exalted` `excuse` `expedient` `fear` `find` `flesh` `fool` `forbear` `forgive` `fornication` `found` `fourteen` `gain` `gladly` `glady` `glory` `glorying` `god` `grace` `guile` `heard` `heareth` `heaven` `humble` `inferior` `infirmities` `knew` `knoweth` `lasciviousness` `lawful` `lay` `lord` `love` `loved` `made` `man` `messenger` `mighty` `necessities` `nothing` `paradise` `parents` `patience` `pauls` `perfect` `persecutions` `pleasure` `power` `ready` `repented` `reproaches` `rest` `revelations` `said` `sake` `satan` `say` `seek` `seeth` `sent` `signs` `sinned` `speak` `spend` `spent` `spirit` `steps` `strength` `strifes` `strong` `sufficient` `swellings` `tell` `things` `think` `third` `thorn` `thrice` `time` `titus` `truth` `tumults` `uncleanness` `unspeakable` `utter` `visions` `weak` `weakness` `whisperings` `wonders` `words` `wraths` `wrong` `wrought` `years` `yours`
+#abundance #abundantly #apostle #apostles #backbitings #behind #besought #bewail #body #brother #buffet #burdensome #caught #chiefest #children #christ #churches #commended #committed #compelled #crafty #debates #deeds #depart #desire #distresses #divine #edifying #envyings #exalted #excuse #expedient #fear #find #flesh #fool #forbear #forgive #fornication #found #fourteen #gain #gladly #glady #glory #glorying #god #grace #guile #heard #heareth #heaven #humble #inferior #infirmities #knew #knoweth #lasciviousness #lawful #lay #lord #love #loved #made #man #messenger #mighty #necessities #nothing #paradise #parents #patience #pauls #perfect #persecutions #pleasure #power #ready #repented #reproaches #rest #revelations #said #sake #satan #say #seek #seeth #sent #signs #sinned #speak #spend #spent #spirit #steps #strength #strifes #strong #sufficient #swellings #tell #things #think #third #thorn #thrice #time #titus #truth #tumults #uncleanness #unspeakable #utter #visions #weak #weakness #whisperings #wonders #words #wraths #wrong #wrought #years #yours
 
 
 ---

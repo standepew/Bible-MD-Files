@@ -1,3 +1,15 @@
+---
+book: "1 Peter"
+chapter: 2
+testament: "New Testament"
+key_themes: "Living Stones and Spiritual House, Christ the Chief Cornerstone, Royal Priesthood, Christian Conduct Among Gentiles, Following Christ's Example"
+tags:
+  - living-stones-and-spiritual-house
+  - christ-the-chief-cornerstone
+  - royal-priesthood
+  - christian-conduct-among-gentiles
+  - following-christ
+---
 # 1 Peter 2
 
 ---
@@ -131,7 +143,7 @@ Laying, aside, malice, guile, hypocrisies, envies, evil, speakings, newborn, bab
 
 
 *AI Keywords for current event matching:*
-`abstain` `acceptable` `among` `appointed` `aside` `astray` `babes` `bare` `behold` `believe` `believeth` `bishop` `body` `brotherhood` `buffeted` `builders` `built` `called` `chief` `chosen` `christ` `christian` `christs` `cloke` `committed` `conduct` `confounded` `conscience` `conversation` `corner` `cornerstone` `darkness` `dead` `desire` `disallowed` `disobedient` `disobey` `doing` `elect` `endure` `envies` `evil` `evildoers` `example` `faults` `fear` `fleshly` `follow` `following` `foolish` `free` `froward` `generation` `gentiles` `gentle` `glorify` `glory` `god` `good` `governors` `gracious` `grief` `grow` `guile` `head` `healed` `holy` `honest` `honour` `house` `hypocrisies` `ignorance` `jesus` `judgeth` `king` `lay` `laying` `liberty` `light` `live` `lively` `living` `lord` `love` `lusts` `malice` `maliciousness` `man` `marvellous` `masters` `men` `mercy` `milk` `mouth` `nation` `newborn` `offence` `offer` `ordinance` `patiently` `peculiar` `people` `pilgrims` `praise` `praises` `precious` `priesthood` `punishment` `returned` `reviled` `righteously` `righteousness` `rock` `royal` `sacrifices` `scripture` `sent` `servants` `sheep` `shepherd` `shew` `silence` `sin` `sincere` `sins` `sion` `soul` `souls` `speak` `speakings` `spiritual` `steps` `stone` `stones` `strangers` `stripes` `stumble` `stumbling` `submit` `suffer` `suffered` `suffering` `supreme` `take` `tasted` `thankworthy` `threatened` `tree` `visitation` `war` `well` `word` `works` `wrongfully`
+#abstain #acceptable #among #appointed #aside #astray #babes #bare #behold #believe #believeth #bishop #body #brotherhood #buffeted #builders #built #called #chief #chosen #christ #christian #christs #cloke #committed #conduct #confounded #conscience #conversation #corner #cornerstone #darkness #dead #desire #disallowed #disobedient #disobey #doing #elect #endure #envies #evil #evildoers #example #faults #fear #fleshly #follow #following #foolish #free #froward #generation #gentiles #gentle #glorify #glory #god #good #governors #gracious #grief #grow #guile #head #healed #holy #honest #honour #house #hypocrisies #ignorance #jesus #judgeth #king #lay #laying #liberty #light #live #lively #living #lord #love #lusts #malice #maliciousness #man #marvellous #masters #men #mercy #milk #mouth #nation #newborn #offence #offer #ordinance #patiently #peculiar #people #pilgrims #praise #praises #precious #priesthood #punishment #returned #reviled #righteously #righteousness #rock #royal #sacrifices #scripture #sent #servants #sheep #shepherd #shew #silence #sin #sincere #sins #sion #soul #souls #speak #speakings #spiritual #steps #stone #stones #strangers #stripes #stumble #stumbling #submit #suffer #suffered #suffering #supreme #take #tasted #thankworthy #threatened #tree #visitation #war #well #word #works #wrongfully
 
 
 ---

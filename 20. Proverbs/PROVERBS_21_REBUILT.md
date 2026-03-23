@@ -1,3 +1,14 @@
+---
+book: "Proverbs"
+chapter: 21
+testament: "Old Testament"
+key_themes: "Divine Sovereignty, Human Pride, Justice and Mercy, Wisdom and Understanding"
+tags:
+  - divine-sovereignty
+  - human-pride
+  - justice-and-mercy
+  - wisdom-and-understanding
+---
 # Proverbs 21
 
 ---
@@ -141,7 +152,7 @@ King, heart, hand, LORD, rivers, water, turneth, whithersoever, way, man, right,
 
 
 *AI Keywords for current event matching:*
-`acceptable` `against` `counsel` `destroy` `divine` `followeth` `hand` `haughty` `heart` `high` `human` `instructed` `judgment` `justice` `king` `knowledge` `look` `lord` `mercy` `plowing` `pride` `proud` `punished` `receive` `righteousness` `robbery` `scorner` `simple` `sovereignty` `turneth` `understanding` `whithersoever` `wicked` `wisdom` `wise`
+#acceptable #against #counsel #destroy #divine #followeth #hand #haughty #heart #high #human #instructed #judgment #justice #king #knowledge #look #lord #mercy #plowing #pride #proud #punished #receive #righteousness #robbery #scorner #simple #sovereignty #turneth #understanding #whithersoever #wicked #wisdom #wise
 
 
 ---

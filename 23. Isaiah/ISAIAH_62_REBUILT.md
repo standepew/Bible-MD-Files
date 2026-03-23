@@ -1,3 +1,13 @@
+---
+book: "Isaiah"
+chapter: 62
+testament: "Old Testament"
+key_themes: "Christ's Watchfulness, Divine Protection, Spiritual Restoration, Christ's Marriage"
+tags:
+  - christ
+  - divine-protection
+  - spiritual-restoration
+---
 # Isaiah 62
 
 ---
@@ -129,7 +139,7 @@ Zion, sake, hold, peace, Jerusalem, sake, rest, righteousness, brightness, salva
 
 
 *AI Keywords for current event matching:*
-`arm` `beulah` `bridegroom` `christs` `crown` `diadem` `divine` `glory` `god` `hand` `hephzi-bah` `hold` `keep` `land` `marriage` `married` `marry` `name` `never` `new` `peace` `protection` `rejoice` `rejoiceth` `restoration` `right` `royal` `sake` `set` `silence` `sons` `spiritual` `strength` `sworn` `termed` `walls` `watchfulness` `watchmen` `zion`
+#arm #beulah #bridegroom #christs #crown #diadem #divine #glory #god #hand #hephzi-bah #hold #keep #land #marriage #married #marry #name #never #new #peace #protection #rejoice #rejoiceth #restoration #right #royal #sake #set #silence #sons #spiritual #strength #sworn #termed #walls #watchfulness #watchmen #zion
 
 
 ---

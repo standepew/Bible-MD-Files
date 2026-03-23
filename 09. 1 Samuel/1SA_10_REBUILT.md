@@ -1,3 +1,30 @@
+---
+book: "1 Samuel"
+chapter: 10
+testament: "Old Testament"
+key_themes: "Saul Anointed, Prophetic Signs, Spirit Comes Upon Saul, Prophesying with Prophets, Public Reaction, Saul Hidden, Selection by Lot, Saul Presented, Kingdom Manner, Saul Goes Home, Opposition"
+tags:
+  - Spirit-LORD-prophesy-turned-man
+  - signs-occasion-serve-God
+  - place-father-proverb-Saul-prophets
+  - prophesying-high-place
+  - Saul-uncle-servant-Whither-
+  - Samuel-people-LORD-Mizpeh
+  - tribes-Israel-Benjamin
+  - LORD-man-hid-stuff
+  - people-house-men
+  - saul-anointed
+  - prophetic-signs
+  - spirit-comes-upon-saul
+  - prophesying-with-prophets
+  - public-reaction
+  - saul-hidden
+  - selection-by-lot
+  - saul-presented
+  - kingdom-manner
+  - saul-goes-home
+  - opposition
+---
 # 1 Samuel 10
 
 ---
@@ -85,7 +112,7 @@ Samuel took a vial of oil, poured it on Saul's head, kissed him, and said the LO
 
 
 *AI Keywords for current event matching:*
-`adversities` `anointed` `anointing` `asses` `back` `band` `belial` `benjamin` `beth-el` `book` `border` `bottle` `bread` `burnt` `captain` `care` `children` `chosen` `city` `come` `company` `day` `days` `departed` `despised` `divine` `egypt` `egyptians` `established` `families` `family` `father` `fetched` `found` `garrison` `gibeah` `gilgal` `god` `hands` `harp` `head` `heart` `hearts` `held` `hid` `high` `hill` `home` `house` `inheritance` `interaction` `israel` `kids` `king` `kingdom` `kingdoms` `kish` `kissed` `knew` `left` `loaves` `lord` `man` `manner` `matri` `men` `mizpeh` `nowhere` `occasion` `offerings` `oil` `oppressed` `peace` `people` `philistines` `pipe` `place` `plain` `poured` `presents` `prophesied` `prophesy` `prophesying` `prophetic` `prophets` `proverb` `psaltery` `public` `rachel` `receive` `rejected` `royal` `sacrifices` `salute` `samuel` `saul` `save` `saved` `seek` `selection` `sepulchre` `servant` `serve` `seven` `shew` `shoulders` `shouted` `signs` `son` `sorrowed` `sought` `spirit` `stood` `stuff` `tabor` `tabret` `tarry` `thousands` `three` `told` `touched` `transformation` `tribe` `tribes` `tribulations` `turned` `two` `uncle` `upward` `vial` `whither` `wine` `zelzah`
+#adversities #anointed #anointing #asses #back #band #belial #benjamin #beth-el #book #border #bottle #bread #burnt #captain #care #children #chosen #city #come #company #day #days #departed #despised #divine #egypt #egyptians #established #families #family #father #fetched #found #garrison #gibeah #gilgal #god #hands #harp #head #heart #hearts #held #hid #high #hill #home #house #inheritance #interaction #israel #kids #king #kingdom #kingdoms #kish #kissed #knew #left #loaves #lord #man #manner #matri #men #mizpeh #nowhere #occasion #offerings #oil #oppressed #peace #people #philistines #pipe #place #plain #poured #presents #prophesied #prophesy #prophesying #prophetic #prophets #proverb #psaltery #public #rachel #receive #rejected #royal #sacrifices #salute #samuel #saul #save #saved #seek #selection #sepulchre #servant #serve #seven #shew #shoulders #shouted #signs #son #sorrowed #sought #spirit #stood #stuff #tabor #tabret #tarry #thousands #three #told #touched #transformation #tribe #tribes #tribulations #turned #two #uncle #upward #vial #whither #wine #zelzah
 
 
 ---

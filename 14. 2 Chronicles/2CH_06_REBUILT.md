@@ -1,3 +1,15 @@
+---
+book: "2 Chronicles"
+chapter: 6
+testament: "Old Testament"
+key_themes: "Solomon's Prayer, Divine Dedication, Covenant Faithfulness, Temple Intercession"
+tags:
+  - ark-covenant-LORD-children-Israel
+  - solomon
+  - divine-dedication
+  - covenant-faithfulness
+  - temple-intercession
+---
 # 2 Chronicles 6
 
 ---
@@ -175,7 +187,7 @@ Solomon, LORD, dwell, thick, darkness, built, house, habitation, place, dwelling
 
 
 *AI Keywords for current event matching:*
-`according` `afflict` `altar` `amiss` `angry` `anointed` `arise` `ark` `arm` `attent` `besiege` `bethink` `blasting` `blessed` `blessing` `brasen` `bring` `broad` `brought` `build` `built` `calleth` `captive` `captives` `captivity` `carried` `carry` `caterpillars` `cause` `children` `choice` `chosen` `cities` `city` `clothed` `confess` `congregation` `contain` `country` `court` `covenant` `crisis` `cry` `cubits` `darkness` `david` `davids` `day` `dealt` `dearth` `deliver` `divine` `dwell` `dwelling` `ears` `earth` `egypt` `enemies` `enemy` `environmental` `eyes` `face` `fail` `far` `father` `fathers` `fear` `final` `five` `foreign` `forever` `forgive` `fulfilled` `fulfillment` `gave` `giving` `god` `gods` `good` `goodness` `great` `grief` `habitation` `hand` `hands` `head` `hear` `hearest` `hearken` `heart` `hearts` `heaven` `heavens` `heed` `high` `house` `inheritance` `intervention` `israel` `jerusalem` `judge` `judgment` `justifying` `keep` `kept` `king` `kneeled` `knees` `knew` `know` `knowest` `laid` `land` `law` `live` `locusts` `loins` `long` `lord` `maintain` `make` `man` `men` `mercies` `mercy` `midst` `mighty` `mildew` `military` `mouth` `name` `national` `near` `neighbour` `night` `oath` `open` `people` `performed` `pestilence` `petition` `place` `pray` `prayer` `prayeth` `presence` `priests` `promise` `promised` `protection` `put` `rain` `recompensing` `rejoice` `remember` `render` `repentance` `requiting` `respect` `resting` `restoration` `return` `righteous` `righteousness` `risen` `room` `ruler` `said` `saints` `salvation` `scaffold` `send` `servant` `servants` `set` `shew` `shut` `sickness` `sight` `sin` `sinned` `sinneth` `solomon` `solomons` `son` `sore` `soul` `spake` `spakest` `spoken` `spread` `stood` `stranger` `strength` `stretched` `supplication` `supplications` `swear` `take` `taught` `thick` `three` `throne` `tribes` `turn` `turned` `uniqueness` `verified` `walk` `walked` `war` `way` `ways` `well` `wicked` `wickedly` `word` `worse`
+#according #afflict #altar #amiss #angry #anointed #arise #ark #arm #attent #besiege #bethink #blasting #blessed #blessing #brasen #bring #broad #brought #build #built #calleth #captive #captives #captivity #carried #carry #caterpillars #cause #children #choice #chosen #cities #city #clothed #confess #congregation #contain #country #court #covenant #crisis #cry #cubits #darkness #david #davids #day #dealt #dearth #deliver #divine #dwell #dwelling #ears #earth #egypt #enemies #enemy #environmental #eyes #face #fail #far #father #fathers #fear #final #five #foreign #forever #forgive #fulfilled #fulfillment #gave #giving #god #gods #good #goodness #great #grief #habitation #hand #hands #head #hear #hearest #hearken #heart #hearts #heaven #heavens #heed #high #house #inheritance #intervention #israel #jerusalem #judge #judgment #justifying #keep #kept #king #kneeled #knees #knew #know #knowest #laid #land #law #live #locusts #loins #long #lord #maintain #make #man #men #mercies #mercy #midst #mighty #mildew #military #mouth #name #national #near #neighbour #night #oath #open #people #performed #pestilence #petition #place #pray #prayer #prayeth #presence #priests #promise #promised #protection #put #rain #recompensing #rejoice #remember #render #repentance #requiting #respect #resting #restoration #return #righteous #righteousness #risen #room #ruler #said #saints #salvation #scaffold #send #servant #servants #set #shew #shut #sickness #sight #sin #sinned #sinneth #solomon #solomons #son #sore #soul #spake #spakest #spoken #spread #stood #stranger #strength #stretched #supplication #supplications #swear #take #taught #thick #three #throne #tribes #turn #turned #uniqueness #verified #walk #walked #war #way #ways #well #wicked #wickedly #word #worse
 
 
 ---

@@ -1,3 +1,27 @@
+---
+book: "Job"
+chapter: 7
+testament: "Old Testament"
+key_themes: "Human Frailty, Life's Brevity, Physical Suffering, Plea for Relief"
+tags:
+  - months-vanity-wearisome-nights-appointed
+  - remember-life-wind-eye-good
+  - eye-seen-see-eyes
+  - cloud-consumed-vanish-grave
+  - return-house-place-know
+  - sea-whale-watch
+  - bed-comfort-couch-ease-complaint
+  - scarest-dreams-terrifiest-visions
+  - soul-chooseth-strangling-death-life
+  - man-magnify-heart
+  - visit-morning-try-moment
+  - depart-alone-swallow-spittle
+  - sinned-preserver-men-mark-burden
+  - human-frailty
+  - life
+  - physical-suffering
+  - plea-for-relief
+---
 # Job 7
 
 ---
@@ -141,7 +165,7 @@ Appointed, time, man, earth, days, hireling. Servant, desireth, shadow, hireling
 
 
 *AI Keywords for current event matching:*
-`alone` `alway` `anguish` `appointed` `arise` `bed` `bitterness` `brevity` `broken` `chooseth` `clods` `clothed` `cloud` `comfort` `complain` `complaint` `consumed` `couch` `dawning` `day` `days` `death` `depart` `desireth` `dreams` `dust` `earth` `ease` `eye` `eyes` `flesh` `frailty` `gone` `good` `grave` `heart` `hireling` `hope` `house` `human` `know` `lie` `life` `lifes` `live` `loathe` `loathsome` `magnify` `man` `moment` `months` `morning` `mouth` `night` `nights` `physical` `place` `plea` `refrain` `relief` `remember` `return` `reward` `scarest` `sea` `see` `seen` `servant` `shadow` `shuttle` `sifter` `skin` `soul` `spent` `spirit` `spittle` `strangling` `suffering` `swallow` `terrifiest` `time` `tossings` `try` `vanish` `vanity` `visions` `visit` `watch` `wearisome` `weaver` `whale` `wind` `work` `worms`
+#alone #alway #anguish #appointed #arise #bed #bitterness #brevity #broken #chooseth #clods #clothed #cloud #comfort #complain #complaint #consumed #couch #dawning #day #days #death #depart #desireth #dreams #dust #earth #ease #eye #eyes #flesh #frailty #gone #good #grave #heart #hireling #hope #house #human #know #lie #life #lifes #live #loathe #loathsome #magnify #man #moment #months #morning #mouth #night #nights #physical #place #plea #refrain #relief #remember #return #reward #scarest #sea #see #seen #servant #shadow #shuttle #sifter #skin #soul #spent #spirit #spittle #strangling #suffering #swallow #terrifiest #time #tossings #try #vanish #vanity #visions #visit #watch #wearisome #weaver #whale #wind #work #worms
 
 
 ---

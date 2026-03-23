@@ -1,3 +1,18 @@
+---
+book: "1 Kings"
+chapter: 9
+testament: "Old Testament"
+key_themes: "Second Divine Appearance, Covenant Conditions, Hiram's Displeasure, Building Projects, Naval Expedition"
+tags:
+  - cities-brother-land-Cabul-day
+  - Hiram-king-sixscore-talents-gold
+  - Baalath-Tadmor-wilderness-land
+  - second-divine-appearance
+  - covenant-conditions
+  - hiram
+  - building-projects
+  - naval-expedition
+---
 # 1 Kings 9
 
 ---
@@ -95,7 +110,7 @@ Solomon finished building house LORD, king house, all Solomon's desire pleased. 
 
 
 *AI Keywords for current event matching:*
-`administration` `altar` `amorites` `appearance` `appeared` `astonished` `baalath` `beth-horon` `bondmen` `bondservice` `brother` `brought` `build` `building` `built` `burned` `burnt` `byword` `cabul` `canaanites` `captains` `cast` `cedar` `chariots` `chief` `children` `cities` `city` `commanded` `commandments` `conditions` `covenant` `cut` `daughter` `david` `day` `desire` `desired` `destroy` `divine` `dominion` `edom` `egypt` `eloth` `establish` `evil` `expedition` `eyes` `ezion-geber` `fail` `family` `father` `fathers` `fetched` `fifty` `finished` `fir` `fire` `five` `following` `foreign` `forever` `forsaken` `four` `furnished` `galilee` `gave` `gezer` `gibeon` `given` `god` `gods` `gold` `hallowed` `hazor` `heard` `heart` `high` `hiram` `hirams` `hiss` `hittites` `hivites` `horsemen` `house` `houses` `hundred` `incense` `integrity` `israel` `jebusites` `jerusalem` `judgment` `judgments` `keep` `king` `kingdom` `knowledge` `labor` `land` `lebanon` `left` `levy` `lord` `man` `megiddo` `men` `millo` `name` `naval` `navy` `nether` `off` `offerings` `officers` `ophir` `passeth` `peace` `people` `perizzites` `perpetually` `pharaoh` `pleased` `practice` `prayer` `present` `princes` `projects` `promised` `proverb` `reason` `red` `religious` `royal` `rule` `rulers` `sea` `second` `servants` `serve` `served` `shipmen` `ships` `shore` `sight` `sixscore` `slain` `solomon` `statutes` `store` `supplication` `tadmor` `taken` `talents` `three` `throne` `time` `timeline` `times` `transaction` `trees` `tribute` `turn` `twenty` `two` `tyre` `uprightness` `walk` `wall` `war` `warning` `wife` `wilderness` `work` `worship` `worshipped` `wrought` `year` `years`
+#administration #altar #amorites #appearance #appeared #astonished #baalath #beth-horon #bondmen #bondservice #brother #brought #build #building #built #burned #burnt #byword #cabul #canaanites #captains #cast #cedar #chariots #chief #children #cities #city #commanded #commandments #conditions #covenant #cut #daughter #david #day #desire #desired #destroy #divine #dominion #edom #egypt #eloth #establish #evil #expedition #eyes #ezion-geber #fail #family #father #fathers #fetched #fifty #finished #fir #fire #five #following #foreign #forever #forsaken #four #furnished #galilee #gave #gezer #gibeon #given #god #gods #gold #hallowed #hazor #heard #heart #high #hiram #hirams #hiss #hittites #hivites #horsemen #house #houses #hundred #incense #integrity #israel #jebusites #jerusalem #judgment #judgments #keep #king #kingdom #knowledge #labor #land #lebanon #left #levy #lord #man #megiddo #men #millo #name #naval #navy #nether #off #offerings #officers #ophir #passeth #peace #people #perizzites #perpetually #pharaoh #pleased #practice #prayer #present #princes #projects #promised #proverb #reason #red #religious #royal #rule #rulers #sea #second #servants #serve #served #shipmen #ships #shore #sight #sixscore #slain #solomon #statutes #store #supplication #tadmor #taken #talents #three #throne #time #timeline #times #transaction #trees #tribute #turn #twenty #two #tyre #uprightness #walk #wall #war #warning #wife #wilderness #work #worship #worshipped #wrought #year #years
 
 
 ---

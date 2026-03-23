@@ -1,3 +1,20 @@
+---
+book: "2 Chronicles"
+chapter: 11
+testament: "Old Testament"
+key_themes: "Kingdom Defense, Divine Warning, Levitical Faithfulness, Rehoboam's Strengthening"
+tags:
+  - Beth-lehem-Etam-Tekoa
+  - Beth-zur-Shoco-Adullam
+  - Gath-Mareshah-Ziph
+  - Adoraim-Lachish-Azekah
+  - priests-Levites-Israel-resorted-coasts
+  - bare-children-Jeush-Shamariah-Zaham
+  - kingdom-defense
+  - divine-warning
+  - levitical-faithfulness
+  - rehoboam
+---
 # 2 Chronicles 11
 
 ---
@@ -147,7 +164,7 @@ Rehoboam, Jerusalem, gathered, house, Judah, Benjamin, hundred, fourscore, thous
 
 
 *AI Keywords for current event matching:*
-`abihail` `abijah` `absalom` `abundance` `adoraim` `adullam` `aijalon` `attai` `azekah` `bare` `begat` `benjamin` `beth` `brethren` `building` `built` `calves` `captains` `cast` `chief` `children` `chosen` `cities` `city` `coasts` `concubines` `countries` `daughter` `daughters` `david` `dealt` `defence` `defensive` `desired` `devils` `dispersed` `divine` `done` `dwelt` `eight` `eighteen` `eliab` `etam` `exceeding` `executing` `faithfulness` `family` `fathers` `fenced` `fight` `fortified` `fourscore` `gath` `gathered` `gave` `god` `going` `hearts` `hebron` `high` `holds` `house` `hundred` `israel` `jerimoth` `jeroboam` `jerusalem` `jesse` `jeush` `judah` `king` `kingdom` `lachish` `left` `lehem` `levites` `levitical` `lord` `loved` `maachah` `made` `mahalath` `make` `man` `mareshah` `men` `obeyed` `office` `oil` `ordained` `places` `possession` `preparation` `priest` `priests` `rehoboam` `resorted` `return` `returned` `royal` `ruler` `sacrifice` `seek` `several` `shamariah` `shelomith` `shemaiah` `shields` `shoco` `side` `solomon` `son` `sons` `speak` `spears` `store` `strength` `strengthened` `strong` `suburbs` `succession` `tekoa` `temporary` `thing` `thousand` `three` `threescore` `tribes` `twenty` `victual` `walked` `war` `warning` `warriors` `way` `wife` `wine` `wisely` `wives` `word` `words` `years` `zaham` `ziph` `ziza` `zorah` `zur`
+#abihail #abijah #absalom #abundance #adoraim #adullam #aijalon #attai #azekah #bare #begat #benjamin #beth #brethren #building #built #calves #captains #cast #chief #children #chosen #cities #city #coasts #concubines #countries #daughter #daughters #david #dealt #defence #defensive #desired #devils #dispersed #divine #done #dwelt #eight #eighteen #eliab #etam #exceeding #executing #faithfulness #family #fathers #fenced #fight #fortified #fourscore #gath #gathered #gave #god #going #hearts #hebron #high #holds #house #hundred #israel #jerimoth #jeroboam #jerusalem #jesse #jeush #judah #king #kingdom #lachish #left #lehem #levites #levitical #lord #loved #maachah #made #mahalath #make #man #mareshah #men #obeyed #office #oil #ordained #places #possession #preparation #priest #priests #rehoboam #resorted #return #returned #royal #ruler #sacrifice #seek #several #shamariah #shelomith #shemaiah #shields #shoco #side #solomon #son #sons #speak #spears #store #strength #strengthened #strong #suburbs #succession #tekoa #temporary #thing #thousand #three #threescore #tribes #twenty #victual #walked #war #warning #warriors #way #wife #wine #wisely #wives #word #words #years #zaham #ziph #ziza #zorah #zur
 
 
 ---

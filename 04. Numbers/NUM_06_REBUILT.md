@@ -1,3 +1,29 @@
+---
+book: "Numbers"
+chapter: 6
+testament: "Old Testament"
+key_themes: "The Nazirite vow — a voluntary consecration to the LORD available to any man or woman: no wine or grape products, no razor, no contact with the dead, The Nazirite is "holy unto the LORD" all the days of the vow — set apart within the ordinary community by choice, not birth, The closing rites when the vow is completed: the shaving and burning of the hair, five offerings at the door of the Tabernacle, then wine is permitted again, The Aaronic Benediction — the greatest blessing formula in Scripture: six lines, three stanzas, progressive intensification — given by God to be spoken by priests over Israel"
+tags:
+  - Nazirite-vow
+  - voluntary-consecration
+  - no-wine-or-grapes
+  - no-razor
+  - no-contact-with-dead
+  - holy-unto-the-LORD
+  - defiled-Nazirite-starts-over
+  - completion-rites
+  - shave-head
+  - burn-hair-under-peace-offering
+  - five-offerings
+  - then-wine-permitted
+  - Aaronic-benediction
+  - LORD-bless-thee-keep-thee
+  - face-shine-upon-thee
+  - lift-up-countenance
+  - give-thee-peace
+  - put-my-name-upon-them
+  - I-will-bless-them
+---
 # Numbers 6
 
 ---
@@ -73,7 +99,7 @@ Line 3: "The LORD lift up his countenance upon thee and give thee peace" — fav
 
 
 *AI Keywords for current event matching:*
-`beyond` `commitment` `consecration` `current` `events` `going` `matching` `minimum` `model` `nazirite` `numbers` `radical` `voluntary` `vow`
+#beyond #commitment #consecration #current #events #going #matching #minimum #model #nazirite #numbers #radical #voluntary #vow
 
 
 ---
@@ -154,15 +180,15 @@ Jesus speaks these words at the Last Supper — the Passover meal — immediatel
 
 ### "The LORD Bless Thee" — The Name of God as the Benediction's Content
 
-**Numbers 6:24-26** — the LORD (YHWH) appears three times; **Numbers 6:27** — "they shall put MY NAME upon the children of Israel"
+[[04. Numbers/NUM_06_REBUILT|Numbers 6:24-26]] — the LORD (YHWH) appears three times; [[04. Numbers/NUM_06_REBUILT|Numbers 6:27]] — "they shall put MY NAME upon the children of Israel"
 
 The name placed on Israel through the Benediction is YHWH — the personal covenant name revealed at the burning bush (Exodus 3:14-15). The Benediction is not a general good wish; it is the placement of the divine name on God's people. This name-thread runs through Scripture to its culmination:
 
-- **Exodus 3:14-15** — the name first declared to Moses
-- **Numbers 6:27** — the name placed on Israel through the priestly Benediction
-- **Revelation 3:12** — "I will write upon him the name of my God... and I will write upon him my new name" — the overcomer receives the name written on him
-- **Revelation 14:1** — "an hundred forty and four thousand, having his Father's name written in their foreheads"
-- **Revelation 22:4** — "and his name shall be in their foreheads"
+- [[02. Exodus/EXO_03_REBUILT|Exodus 3:14-15]] — the name first declared to Moses
+- [[04. Numbers/NUM_06_REBUILT|Numbers 6:27]] — the name placed on Israel through the priestly Benediction
+- [[66. Revelation/REVELATION_03_REBUILT|Revelation 3:12]] — "I will write upon him the name of my God... and I will write upon him my new name" — the overcomer receives the name written on him
+- [[66. Revelation/REVELATION_14_REBUILT|Revelation 14:1]] — "an hundred forty and four thousand, having his Father's name written in their foreheads"
+- [[66. Revelation/REVELATION_22_REBUILT|Revelation 22:4]] — "and his name shall be in their foreheads"
 
 **What the Bible establishes:** The Aaronic Benediction is the old-covenant form of what Revelation 22:4 describes as the new-creation reality. "They shall put my name upon the children of Israel" is the prototype; "his name shall be in their foreheads" is the consummation. The blessing is not merely received — it is inscribed. The people who are blessed carry the Name.
 

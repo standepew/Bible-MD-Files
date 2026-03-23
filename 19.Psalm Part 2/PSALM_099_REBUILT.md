@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 99
+testament: "Old Testament"
+key_themes: "God's Reign, Divine Holiness, Priestly Intercession, Righteous Judgment"
+tags:
+  - god
+  - divine-holiness
+  - priestly-intercession
+  - righteous-judgment
+---
 # Psalm 99
 
 ---
@@ -141,7 +152,7 @@ LORD, reigneth, people, tremble, sitteth, cherubims, earth, moved, LORD, great, 
 
 
 *AI Keywords for current event matching:*
-`aaron` `answered` `call` `called` `cherubims` `cloudy` `divine` `earth` `equity` `establish` `executest` `footstool` `forgavest` `god` `gods` `great` `high` `hill` `holiness` `holy` `intercession` `inventions` `jacob` `judgment` `kept` `king` `lord` `loveth` `moses` `moved` `name` `ordinance` `people` `pillar` `priestly` `priests` `reign` `reigneth` `righteous` `righteousness` `samuel` `sitteth` `spake` `strength` `terrible` `testimonies` `tookest` `tremble` `vengeance` `worship` `zion`
+#aaron #answered #call #called #cherubims #cloudy #divine #earth #equity #establish #executest #footstool #forgavest #god #gods #great #high #hill #holiness #holy #intercession #inventions #jacob #judgment #kept #king #lord #loveth #moses #moved #name #ordinance #people #pillar #priestly #priests #reign #reigneth #righteous #righteousness #samuel #sitteth #spake #strength #terrible #testimonies #tookest #tremble #vengeance #worship #zion
 
 
 ---

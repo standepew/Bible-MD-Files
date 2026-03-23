@@ -1,3 +1,14 @@
+---
+book: "Haggai"
+chapter: 2
+testament: "Old Testament"
+key_themes: "Christ's Greater Glory, Divine Encouragement, God's Presence, Future Blessing"
+tags:
+  - christ
+  - divine-encouragement
+  - god
+  - future-blessing
+---
 # Haggai 2
 
 ---
@@ -141,7 +152,7 @@ Seventh, month, twenty, first, day, month, word, LORD, prophet, Haggai, Zerubbab
 
 
 *AI Keywords for current event matching:*
-`barn` `bless` `blessing` `christs` `day` `desire` `divine` `encouragement` `fear` `fig` `fill` `first` `former` `future` `glory` `gods` `gold` `greater` `heavens` `house` `latter` `nations` `presence` `remain` `seed` `shake` `silver` `spirit` `strong` `tree` `vine` `work` `you`
+#barn #bless #blessing #christs #day #desire #divine #encouragement #fear #fig #fill #first #former #future #glory #gods #gold #greater #heavens #house #latter #nations #presence #remain #seed #shake #silver #spirit #strong #tree #vine #work #you
 
 
 ---

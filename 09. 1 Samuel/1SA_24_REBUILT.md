@@ -1,3 +1,20 @@
+---
+book: "1 Samuel"
+chapter: 24
+testament: "Old Testament"
+key_themes: "David Spares Saul, Respect for God's Anointed, Cave Encounter, David's Integrity, Saul's Confession, Covenant of Mercy"
+tags:
+  - LORD-judge-LORD-avenge-hand
+  - proverb-ancients-wickedness-wicked-hand
+  - enemy-well-LORD-reward
+  - know-king-kingdom-Israel-hand
+  - david-spares-saul
+  - respect-for-god
+  - cave-encounter
+  - david
+  - saul
+  - covenant-of-mercy
+---
 # 1 Samuel 24
 
 ---
@@ -83,7 +100,7 @@ When Saul returned from following Philistines, it was told him David was in wild
 
 
 *AI Keywords for current event matching:*
-`ancients` `anointed` `arose` `avenge` `bade` `bowed` `cause` `cave` `chosen` `confession` `covenant` `cover` `cried` `cut` `david` `davids` `dead` `dealt` `deliver` `delivered` `destroy` `dog` `earth` `en-gedi` `enemy` `evil` `eyes` `face` `father` `feet` `flea` `goats` `good` `hand` `hearest` `heart` `hold` `home` `house` `huntest` `hurt` `integrity` `israel` `judge` `kill` `killed` `king` `kingdom` `know` `looked` `lord` `master` `men` `mercy` `name` `opportunity` `philistines` `plead` `privily` `proverb` `pursue` `pursuit` `returned` `reward` `rewarded` `righteous` `rise` `robe` `rocks` `saul` `sauls` `seed` `seeketh` `seem` `servants` `sheepcotes` `shewed` `sides` `sinned` `skirt` `smote` `son` `soul` `spared` `stayed` `stooped` `sware` `swear` `thing` `thousand` `three` `transgression` `voice` `way` `well` `wept` `wicked` `wickedness` `wild` `wilderness` `words`
+#ancients #anointed #arose #avenge #bade #bowed #cause #cave #chosen #confession #covenant #cover #cried #cut #david #davids #dead #dealt #deliver #delivered #destroy #dog #earth #en-gedi #enemy #evil #eyes #face #father #feet #flea #goats #good #hand #hearest #heart #hold #home #house #huntest #hurt #integrity #israel #judge #kill #killed #king #kingdom #know #looked #lord #master #men #mercy #name #opportunity #philistines #plead #privily #proverb #pursue #pursuit #returned #reward #rewarded #righteous #rise #robe #rocks #saul #sauls #seed #seeketh #seem #servants #sheepcotes #shewed #sides #sinned #skirt #smote #son #soul #spared #stayed #stooped #sware #swear #thing #thousand #three #transgression #voice #way #well #wept #wicked #wickedness #wild #wilderness #words
 
 
 ---

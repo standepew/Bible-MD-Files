@@ -1,3 +1,14 @@
+---
+book: "Ecclesiastes"
+chapter: 7
+testament: "Old Testament"
+key_themes: "Wisdom and Mortality, Sorrow and Joy, Divine Providence, Human Limitations"
+tags:
+  - wisdom-and-mortality
+  - sorrow-and-joy
+  - divine-providence
+  - human-limitations
+---
 # Ecclesiastes 7
 
 ---
@@ -153,7 +164,7 @@ Good, name, better, precious, ointment, day, death, day, birth, house, mourning,
 
 
 *AI Keywords for current event matching:*
-`adversity` `better` `bitter` `crooked` `day` `death` `defence` `divine` `earth` `feasting` `find` `god` `good` `heart` `house` `human` `inventions` `joy` `laughter` `life` `limitations` `made` `man` `many` `mortality` `mourning` `name` `prosperity` `providence` `sorrow` `sought` `upright` `wisdom` `wise` `woman` `work`
+#adversity #better #bitter #crooked #day #death #defence #divine #earth #feasting #find #god #good #heart #house #human #inventions #joy #laughter #life #limitations #made #man #many #mortality #mourning #name #prosperity #providence #sorrow #sought #upright #wisdom #wise #woman #work
 
 
 ---

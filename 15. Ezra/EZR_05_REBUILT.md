@@ -1,3 +1,16 @@
+---
+book: "Ezra"
+chapter: 5
+testament: "Old Testament"
+key_themes: "Prophetic Encouragement, Temple Resumed, Divine Protection, Royal Investigation"
+tags:
+  - names-men-building
+  - letter-Darius-king-peace
+  - prophetic-encouragement
+  - temple-resumed
+  - divine-protection
+  - royal-investigation
+---
 # Ezra 5
 
 ---
@@ -129,7 +142,7 @@ Prophets, Haggai, prophet, Zechariah, son, Iddo, prophesied, Jews, Judah, Jerusa
 
 
 *AI Keywords for current event matching:*
-`answer` `apharsachites` `asked` `babylon` `began` `boznai` `build` `builded` `building` `carried` `cause` `cease` `certify` `chaldean` `chief` `commanded` `companions` `copy` `cyrus` `darius` `decree` `delivered` `destroyed` `divine` `earth` `elders` `encouragement` `eye` `fast` `fathers` `finished` `first` `foundation` `god` `gold` `good` `governor` `great` `haggai` `hand` `hands` `heaven` `helping` `house` `iddo` `investigation` `israel` `jerusalem` `jeshua` `jews` `jozadak` `judah` `judea` `king` `laid` `letter` `matter` `men` `name` `names` `nebuchadnezzar` `peace` `people` `place` `pleasure` `prophesied` `prophet` `prophetic` `prophets` `prospered` `protection` `province` `provoked` `resumed` `returned` `river` `rose` `royal` `search` `servants` `set` `shealtiel` `sheshbazzar` `shethar` `side` `silver` `son` `stones` `tatnai` `temple` `timber` `time` `treasure` `vessels` `wall` `walls` `work` `wrath` `write` `year` `years` `zechariah` `zerubbabel`
+#answer #apharsachites #asked #babylon #began #boznai #build #builded #building #carried #cause #cease #certify #chaldean #chief #commanded #companions #copy #cyrus #darius #decree #delivered #destroyed #divine #earth #elders #encouragement #eye #fast #fathers #finished #first #foundation #god #gold #good #governor #great #haggai #hand #hands #heaven #helping #house #iddo #investigation #israel #jerusalem #jeshua #jews #jozadak #judah #judea #king #laid #letter #matter #men #name #names #nebuchadnezzar #peace #people #place #pleasure #prophesied #prophet #prophetic #prophets #prospered #protection #province #provoked #resumed #returned #river #rose #royal #search #servants #set #shealtiel #sheshbazzar #shethar #side #silver #son #stones #tatnai #temple #timber #time #treasure #vessels #wall #walls #work #wrath #write #year #years #zechariah #zerubbabel
 
 
 ---

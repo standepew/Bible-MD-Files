@@ -1,3 +1,20 @@
+---
+book: "1 Chronicles"
+chapter: 12
+testament: "Old Testament"
+key_themes: "David's Growing Support, Tribal Alliances, Military Organization, Universal Acceptance"
+tags:
+  - Joelah-Zebadiah-sons-Jeroham-Gedor
+  - Mishmannah-fourth-Jeremiah-fifth
+  - Attai-sixth-Eliel-seventh
+  - Johanan-eighth-Elzabad-ninth
+  - Jeremiah-tenth-Machbanai-eleventh
+  - children-Benjamin-Judah-hold-David
+  - david
+  - tribal-alliances
+  - military-organization
+  - universal-acceptance
+---
 # 1 Chronicles 12
 
 ---
@@ -89,7 +106,7 @@ Came, David, Ziklag, kept, close, Saul, son, Kish, mighty, men, helpers, war. Ar
 
 
 *AI Keywords for current event matching:*
-`aaronites` `abundantly` `adnah` `advisement` `ahiezer` `alliances` `antothite` `armed` `arrows` `asher` `asses` `attai` `azareel` `azmaveth` `band` `bands` `banks` `bare` `battle` `bealiah` `benjamin` `benjamins` `berachah` `bow` `bows` `bread` `brethren` `buckler` `bunches` `cakes` `came` `camels` `captains` `celebration` `chief` `children` `close` `come` `commandment` `danites` `david` `davids` `days` `double` `drinking` `east` `eastern` `eating` `eight` `eighteen` `eighth` `eleventh` `eliab` `eliel` `elihu` `elkanah` `eluzai` `elzabad` `ephraim` `expert` `expressed` `ezer` `faces` `famous` `father` `fathers` `fell` `fifth` `fifty` `figs` `first` `fit` `flight` `forth` `forty` `four` `fourth` `gad` `gadites` `gads` `gederathite` `gedor` `gibeathite` `gibeonite` `greatest` `growing` `half` `hand` `handle` `haruphite` `heads` `heart` `hebron` `helped` `helpers` `hitherto` `hold` `host` `house` `hundred` `hurling` `instruments` `ismaiah` `israel` `issachar` `jahaziel` `jashobeam` `jediael` `jehoiada` `jehu` `jeopardy` `jeremiah` `jerimoth` `jeroham` `jesiah` `jeziel` `joash` `joelah` `joezer` `johanan` `jordan` `josabad` `joy` `jozabad` `judah` `keep` `kept` `kindred` `king` `kingdom` `kish` `know` `korhites` `leader` `least` `left` `levi` `lions` `lord` `lords` `machbanai` `make` `man` `manasseh` `manassehs` `manner` `master` `meal` `men` `michael` `mighty` `military` `mishmannah` `month` `mountains` `mules` `name` `naphtali` `nigh` `ninth` `northern` `numbers` `obadiah` `oil` `one` `ought` `overflown` `oxen` `pelet` `perfect` `philistines` `prepared` `raisins` `rank` `ready` `rest` `reubenites` `right` `roes` `rovers` `saul` `second` `sent` `separated` `seven` `seventh` `sheep` `shemaah` `shemariah` `shephatiah` `shield` `shooting` `side` `simeon` `six` `sixth` `son` `sons` `spear` `stones` `support` `swift` `tenth` `third` `thirty` `thousand` `thousands` `three` `times` `tribal` `tribe` `tribes` `turn` `twenty` `two` `understanding` `valleys` `valour` `war` `ward` `warriors` `went` `west` `wilderness` `wine` `word` `young` `zadok` `zebadiah` `zebulun` `ziklag` `zilthai`
+#aaronites #abundantly #adnah #advisement #ahiezer #alliances #antothite #armed #arrows #asher #asses #attai #azareel #azmaveth #band #bands #banks #bare #battle #bealiah #benjamin #benjamins #berachah #bow #bows #bread #brethren #buckler #bunches #cakes #came #camels #captains #celebration #chief #children #close #come #commandment #danites #david #davids #days #double #drinking #east #eastern #eating #eight #eighteen #eighth #eleventh #eliab #eliel #elihu #elkanah #eluzai #elzabad #ephraim #expert #expressed #ezer #faces #famous #father #fathers #fell #fifth #fifty #figs #first #fit #flight #forth #forty #four #fourth #gad #gadites #gads #gederathite #gedor #gibeathite #gibeonite #greatest #growing #half #hand #handle #haruphite #heads #heart #hebron #helped #helpers #hitherto #hold #host #house #hundred #hurling #instruments #ismaiah #israel #issachar #jahaziel #jashobeam #jediael #jehoiada #jehu #jeopardy #jeremiah #jerimoth #jeroham #jesiah #jeziel #joash #joelah #joezer #johanan #jordan #josabad #joy #jozabad #judah #keep #kept #kindred #king #kingdom #kish #know #korhites #leader #least #left #levi #lions #lord #lords #machbanai #make #man #manasseh #manassehs #manner #master #meal #men #michael #mighty #military #mishmannah #month #mountains #mules #name #naphtali #nigh #ninth #northern #numbers #obadiah #oil #one #ought #overflown #oxen #pelet #perfect #philistines #prepared #raisins #rank #ready #rest #reubenites #right #roes #rovers #saul #second #sent #separated #seven #seventh #sheep #shemaah #shemariah #shephatiah #shield #shooting #side #simeon #six #sixth #son #sons #spear #stones #support #swift #tenth #third #thirty #thousand #thousands #three #times #tribal #tribe #tribes #turn #twenty #two #understanding #valleys #valour #war #ward #warriors #went #west #wilderness #wine #word #young #zadok #zebadiah #zebulun #ziklag #zilthai
 
 
 ---

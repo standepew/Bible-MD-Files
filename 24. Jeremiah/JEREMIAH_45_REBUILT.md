@@ -1,3 +1,13 @@
+---
+book: "Jeremiah"
+chapter: 45
+testament: "Old Testament"
+key_themes: "Christ's Comfort, Baruch's Sorrow, Divine Sovereignty, Christ's Preservation"
+tags:
+  - christ
+  - baruch
+  - divine-sovereignty
+---
 # Jeremiah 45
 
 ---
@@ -81,7 +91,7 @@ Word, Jeremiah, prophet, Baruch, son, Neriah, written, words, book, mouth, Jerem
 
 
 *AI Keywords for current event matching:*
-`baruchs` `book` `break` `bring` `built` `christs` `comfort` `divine` `evil` `fainted` `find` `flesh` `fourth` `give` `great` `grief` `jeremiah` `land` `life` `mouth` `places` `planted` `pluck` `preservation` `prey` `rest` `seek` `sighing` `sorrow` `sovereignty` `things` `whole` `woe` `word` `words` `written` `year`
+#baruchs #book #break #bring #built #christs #comfort #divine #evil #fainted #find #flesh #fourth #give #great #grief #jeremiah #land #life #mouth #places #planted #pluck #preservation #prey #rest #seek #sighing #sorrow #sovereignty #things #whole #woe #word #words #written #year
 
 
 ---

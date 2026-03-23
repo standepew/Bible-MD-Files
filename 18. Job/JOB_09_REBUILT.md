@@ -1,3 +1,41 @@
+---
+book: "Job"
+chapter: 9
+testament: "Old Testament"
+key_themes: "Job's Response, God's Sovereignty, Human Inability, Divine Mystery"
+tags:
+  - contend-answer-thousand
+  - wise-heart-mighty-hardened-prospered
+  - removeth-mountains-know-overturn-anger
+  - shaketh-earth-place-pillars-tremble
+  - commandeth-sun-riseth-sealeth-stars
+  - spreadeth-heavens-treadeth-waves-sea
+  - great-things-finding-wonders-number
+  - goeth-see-passeth-perceive
+  - taketh-hinder-what-doest
+  - withdraw-anger-proud-helpers-stoop
+  - answer-choose-words-reason
+  - righteous-answer-supplication-judge
+  - called-answered-believe-hearkened-voice
+  - breaketh-tempest-wounds-cause
+  - suffer-breath-filleth-bitterness
+  - justify-mouth-condemn-perfect-perverse
+  - perfect-know-soul-despise-life
+  - destroyeth-perfect-wicked
+  - scourge-slay-laugh-trial-innocent
+  - swift-ships-eagle-hasteth-prey
+  - forget-complaint-heaviness-comfort
+  - sorrows-innocent
+  - wicked-labour-vain
+  - wash-snow-water-hands-clean
+  - plunge-ditch-clothes-abhor
+  - man-answer-judgment-daysman-hand
+  - rod-fear-terrify-speak-fear
+  - job
+  - god
+  - human-inability
+  - divine-mystery
+---
 # Job 9
 
 ---
@@ -117,7 +155,7 @@ Job, answered, truth, man, just, GOD. Contend, answer, thousand. Wise, heart, mi
 
 
 *AI Keywords for current event matching:*
-`anger` `answer` `answered` `arcturus` `believe` `breaketh` `called` `cause` `chambers` `choose` `commandeth` `contend` `divine` `doest` `earth` `finding` `god` `gods` `goeth` `great` `hardened` `hearkened` `heart` `heavens` `helpers` `hinder` `human` `inability` `job` `jobs` `judge` `know` `maketh` `man` `mighty` `mountains` `mystery` `number` `orion` `overturn` `passeth` `perceive` `pillars` `place` `pleiades` `prospered` `proud` `reason` `removeth` `response` `righteous` `riseth` `sea` `sealeth` `see` `shaketh` `south` `sovereignty` `spreadeth` `stars` `stoop` `sun` `supplication` `taketh` `tempest` `things` `thousand` `treadeth` `tremble` `truth` `voice` `waves` `wise` `withdraw` `wonders` `words` `wounds`
+#anger #answer #answered #arcturus #believe #breaketh #called #cause #chambers #choose #commandeth #contend #divine #doest #earth #finding #god #gods #goeth #great #hardened #hearkened #heart #heavens #helpers #hinder #human #inability #job #jobs #judge #know #maketh #man #mighty #mountains #mystery #number #orion #overturn #passeth #perceive #pillars #place #pleiades #prospered #proud #reason #removeth #response #righteous #riseth #sea #sealeth #see #shaketh #south #sovereignty #spreadeth #stars #stoop #sun #supplication #taketh #tempest #things #thousand #treadeth #tremble #truth #voice #waves #wise #withdraw #wonders #words #wounds
 
 
 ---

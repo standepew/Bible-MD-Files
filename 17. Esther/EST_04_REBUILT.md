@@ -1,3 +1,19 @@
+---
+book: "Esther"
+chapter: 4
+testament: "Old Testament"
+key_themes: "Mordecai's Mourning, Esther's Response, Divine Providence, Courageous Faith"
+tags:
+  - Hatach-Esther-words-Mordecai
+  - Esther-Hatach-commandment-Mordecai
+  - told-Mordecai-Esther-words
+  - Esther-bade-return-Mordecai-answer
+  - Mordecai-way-Esther-commanded
+  - mordecai
+  - esther
+  - divine-providence
+  - courageous-faith
+---
 # Esther 4
 
 ---
@@ -129,7 +145,7 @@ Mordecai, perceived, done, rent, clothes, sackcloth, ashes, midst, city, cried, 
 
 
 *AI Keywords for current event matching:*
-`altogether` `answer` `ashes` `attended` `bade` `bitter` `called` `chamberlains` `charge` `city` `clothe` `clothed` `clothes` `come` `commanded` `commandment` `copy` `courageous` `court` `cried` `cry` `day` `days` `death` `declare` `decree` `deliverance` `destroy` `destroyed` `divine` `done` `drink` `eat` `enlargement` `enter` `escape` `esther` `esthers` `faith` `fast` `fasting` `father` `gate` `gather` `golden` `great` `grieved` `haman` `happened` `hatach` `hold` `holdest` `house` `inner` `jews` `king` `kingdom` `know` `law` `lay` `live` `loud` `maidens` `maids` `man` `midst` `money` `mordecai` `mordecais` `mourning` `neither` `night` `peace` `people` `perceived` `perish` `place` `promised` `providence` `province` `provinces` `put` `queen` `raiment` `received` `rent` `request` `response` `return` `sackcloth` `sceptre` `sent` `servants` `shushan` `street` `supplication` `thirty` `three` `time` `told` `treasuries` `wailing` `way` `weeping` `woman` `words` `writing`
+#altogether #answer #ashes #attended #bade #bitter #called #chamberlains #charge #city #clothe #clothed #clothes #come #commanded #commandment #copy #courageous #court #cried #cry #day #days #death #declare #decree #deliverance #destroy #destroyed #divine #done #drink #eat #enlargement #enter #escape #esther #esthers #faith #fast #fasting #father #gate #gather #golden #great #grieved #haman #happened #hatach #hold #holdest #house #inner #jews #king #kingdom #know #law #lay #live #loud #maidens #maids #man #midst #money #mordecai #mordecais #mourning #neither #night #peace #people #perceived #perish #place #promised #providence #province #provinces #put #queen #raiment #received #rent #request #response #return #sackcloth #sceptre #sent #servants #shushan #street #supplication #thirty #three #time #told #treasuries #wailing #way #weeping #woman #words #writing
 
 
 ---

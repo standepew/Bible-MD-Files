@@ -1,3 +1,16 @@
+---
+book: "2 Samuel"
+chapter: 14
+testament: "Old Testament"
+key_themes: "Joab's Strategy, Wise Woman's Parable, Absalom's Return, Partial Reconciliation, Absalom's Beauty"
+tags:
+  - king-woman-house-charge
+  - king-whosoever-ought-bring-touch
+  - joab
+  - wise-woman
+  - absalom
+  - partial-reconciliation
+---
 # 2 Samuel 14
 
 ---
@@ -91,7 +104,7 @@ Joab son of Zeruiah perceived king's heart toward Absalom. Joab sent to Tekoah, 
 
 
 *AI Keywords for current event matching:*
-`absalom` `absaloms` `afraid` `ails` `angel` `anoint` `apparel` `appeal` `arose` `ask` `bad` `bade` `banished` `barley` `beauty` `blemish` `blood` `born` `bowed` `bring` `brother` `brought` `called` `charge` `coal` `come` `comfortable` `countenance` `crown` `daughter` `dead` `deliver` `description` `destroy` `devise` `die` `discern` `dwelt` `earth` `end` `expelled` `face` `fair` `fall` `family` `father` `faulty` `feign` `fetch` `fetched` `field` `final` `fire` `foot` `form` `fulfilled` `gathered` `geshur` `god` `good` `grace` `ground` `guiltless` `hair` `hand` `handmaid` `head` `hear` `heart` `heavy` `heir` `help` `hide` `house` `hundred` `husband` `inheritance` `iniquity` `involvement` `israel` `jerusalem` `joab` `joabs` `kill` `king` `kings` `kissed` `know` `left` `life` `lord` `man` `manner` `mourned` `mourner` `mourning` `mouth` `name` `obeisance` `oil` `one` `ought` `parable` `part` `people` `perceived` `perception` `perform` `person` `plan` `polled` `praised` `pray` `presentation` `quench` `reconciliation` `remainder` `remember` `request` `respect` `response` `return` `revengers` `right` `risen` `say` `second` `sent` `servant` `servants` `shekels` `sight` `slew` `smote` `sole` `son` `sons` `soul` `speak` `speech` `spilt` `spoken` `strove` `tamar` `tekoah` `thanked` `thing` `three` `throne` `time` `touch` `turn` `two` `water` `weighed` `weight` `whosoever` `widow` `wisdom` `wise` `woman` `womans` `word` `words` `year` `years` `young` `zeruiah`
+#absalom #absaloms #afraid #ails #angel #anoint #apparel #appeal #arose #ask #bad #bade #banished #barley #beauty #blemish #blood #born #bowed #bring #brother #brought #called #charge #coal #come #comfortable #countenance #crown #daughter #dead #deliver #description #destroy #devise #die #discern #dwelt #earth #end #expelled #face #fair #fall #family #father #faulty #feign #fetch #fetched #field #final #fire #foot #form #fulfilled #gathered #geshur #god #good #grace #ground #guiltless #hair #hand #handmaid #head #hear #heart #heavy #heir #help #hide #house #hundred #husband #inheritance #iniquity #involvement #israel #jerusalem #joab #joabs #kill #king #kings #kissed #know #left #life #lord #man #manner #mourned #mourner #mourning #mouth #name #obeisance #oil #one #ought #parable #part #people #perceived #perception #perform #person #plan #polled #praised #pray #presentation #quench #reconciliation #remainder #remember #request #respect #response #return #revengers #right #risen #say #second #sent #servant #servants #shekels #sight #slew #smote #sole #son #sons #soul #speak #speech #spilt #spoken #strove #tamar #tekoah #thanked #thing #three #throne #time #touch #turn #two #water #weighed #weight #whosoever #widow #wisdom #wise #woman #womans #word #words #year #years #young #zeruiah
 
 
 ---

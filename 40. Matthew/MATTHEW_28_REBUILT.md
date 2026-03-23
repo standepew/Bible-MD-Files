@@ -1,3 +1,13 @@
+---
+book: "Matthew"
+chapter: 28
+testament: "New Testament"
+key_themes: "Christ's Resurrection, Angel's Proclamation, Great Commission, Christ's Authority"
+tags:
+  - christ
+  - angel
+  - great-commission
+---
 # Matthew 28
 
 ---
@@ -225,7 +235,7 @@ End, sabbath, dawn, first, day, week, Mary, Magdalene, Mary, sepulchre, earthqua
 
 
 *AI Keywords for current event matching:*
-`alway` `amen` `angel` `angels` `authority` `baptize` `christs` `commanded` `commission` `day` `descended` `disciples` `earth` `end` `father` `fear` `first` `galilee` `ghost` `great` `heaven` `holy` `joy` `name` `nations` `observe` `place` `power` `proclamation` `resurrection` `risen` `see` `son` `teach` `tell`
+#alway #amen #angel #angels #authority #baptize #christs #commanded #commission #day #descended #disciples #earth #end #father #fear #first #galilee #ghost #great #heaven #holy #joy #name #nations #observe #place #power #proclamation #resurrection #risen #see #son #teach #tell
 
 
 ---

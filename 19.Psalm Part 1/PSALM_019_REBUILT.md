@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 19
+testament: "Old Testament"
+key_themes: "General Revelation, Special Revelation, God's Law, Human Depravity"
+tags:
+  - general-revelation
+  - special-revelation
+  - god
+  - human-depravity
+---
 # Psalm 19
 
 ---
@@ -189,7 +200,7 @@ Chief, Musician, Psalm, David, heavens, declare, glory, GOD, firmament, sheweth,
 
 
 *AI Keywords for current event matching:*
-`acceptable` `back` `chief` `clean` `cleanse` `commandment` `converting` `david` `day` `declare` `depravity` `desired` `dominion` `earth` `enduring` `enlightening` `errors` `eyes` `faults` `fear` `fine` `firmament` `general` `glory` `god` `gods` `gold` `great` `handywork` `heard` `heart` `heavens` `honey` `honeycomb` `human` `innocent` `judgments` `keep` `keeping` `knowledge` `language` `law` `line` `lord` `meditation` `mouth` `musician` `night` `perfect` `presumptuous` `psalm` `pure` `redeemer` `rejoicing` `revelation` `reward` `right` `righteous` `secret` `servant` `sheweth` `sight` `simple` `sins` `soul` `special` `speech` `statutes` `strength` `sun` `sure` `sweeter` `tabernacle` `testimony` `transgression` `true` `understand` `upright` `uttereth` `voice` `warned` `wise` `words` `world`
+#acceptable #back #chief #clean #cleanse #commandment #converting #david #day #declare #depravity #desired #dominion #earth #enduring #enlightening #errors #eyes #faults #fear #fine #firmament #general #glory #god #gods #gold #great #handywork #heard #heart #heavens #honey #honeycomb #human #innocent #judgments #keep #keeping #knowledge #language #law #line #lord #meditation #mouth #musician #night #perfect #presumptuous #psalm #pure #redeemer #rejoicing #revelation #reward #right #righteous #secret #servant #sheweth #sight #simple #sins #soul #special #speech #statutes #strength #sun #sure #sweeter #tabernacle #testimony #transgression #true #understand #upright #uttereth #voice #warned #wise #words #world
 
 
 ---

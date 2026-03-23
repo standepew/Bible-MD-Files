@@ -1,3 +1,14 @@
+---
+book: "Job"
+chapter: 42
+testament: "Old Testament"
+key_themes: "Job's Repentance, God's Restoration, Friends' Correction, Final Blessing"
+tags:
+  - job
+  - god
+  - friends
+  - final-blessing
+---
 # Job 42
 
 ---
@@ -153,7 +164,7 @@ Job, answered, LORD, canst, thing, thought, withheld, hideth, counsel, knowledge
 
 
 *AI Keywords for current event matching:*
-`abhor` `accept` `accepted` `acquaintance` `answered` `ashes` `beginning` `bemoaned` `beseech` `bildad` `blessed` `blessing` `bread` `brethren` `brought` `bullocks` `burnt` `canst` `captivity` `comforted` `commanded` `correction` `counsel` `deal` `declare` `demand` `dust` `ear` `earring` `eliphaz` `evil` `eye` `final` `folly` `friends` `gave` `gods` `gold` `hear` `heard` `hearing` `hideth` `house` `job` `jobs` `kindled` `knew` `knowledge` `latter` `lord` `money` `naamathite` `offer` `offering` `piece` `pray` `prayed` `rams` `repent` `repentance` `restoration` `right` `seeth` `servant` `seven` `shuhite` `sisters` `speak` `spoken` `temanite` `thing` `thought` `turned` `twice` `two` `understood` `uttered` `withheld` `wonderful` `words` `wrath` `zophar`
+#abhor #accept #accepted #acquaintance #answered #ashes #beginning #bemoaned #beseech #bildad #blessed #blessing #bread #brethren #brought #bullocks #burnt #canst #captivity #comforted #commanded #correction #counsel #deal #declare #demand #dust #ear #earring #eliphaz #evil #eye #final #folly #friends #gave #gods #gold #hear #heard #hearing #hideth #house #job #jobs #kindled #knew #knowledge #latter #lord #money #naamathite #offer #offering #piece #pray #prayed #rams #repent #repentance #restoration #right #seeth #servant #seven #shuhite #sisters #speak #spoken #temanite #thing #thought #turned #twice #two #understood #uttered #withheld #wonderful #words #wrath #zophar
 
 
 ---

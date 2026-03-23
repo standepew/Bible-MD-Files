@@ -1,3 +1,14 @@
+---
+book: "1 Chronicles"
+chapter: 28
+testament: "Old Testament"
+key_themes: "David's Temple Charge, Solomon's Commission, Divine Promise, Temple Pattern"
+tags:
+  - david
+  - solomon
+  - divine-promise
+  - temple-pattern
+---
 # 1 Chronicles 28
 
 ---
@@ -161,7 +172,7 @@ David, assembled, princes, Israel, princes, tribes, captains, companies, ministe
 
 
 *AI Keywords for current event matching:*
-`altar` `ark` `assembled` `assembly` `audience` `bason` `basons` `blood` `bowls` `brethren` `build` `building` `candlestick` `candlesticks` `captains` `cast` `chambers` `chariot` `cherubims` `children` `chose` `chosen` `commandment` `commandments` `commission` `companies` `congregation` `constant` `courage` `courses` `courts` `covenant` `covered` `cups` `david` `davids` `day` `dedicated` `desire` `dismayed` `divine` `encouragement` `establish` `ever` `fail` `father` `fear` `feet` `finished` `fleshhooks` `footstool` `forever` `forsake` `found` `furnishings` `gave` `given` `god` `gold` `golden` `good` `hand` `hear` `heart` `hearts` `heed` `house` `houses` `hundreds` `imaginations` `incense` `inheritance` `inner` `instruments` `israel` `jerusalem` `judah` `judgments` `keep` `king` `kingdom` `know` `lamps` `land` `levites` `liked` `lord` `made` `make` `man` `manner` `men` `mercy` `mighty` `mind` `ministered` `name` `off` `officers` `parlours` `pattern` `people` `perfect` `place` `porch` `possess` `possessions` `priests` `princes` `promise` `pure` `ready` `refined` `rest` `round` `ruler` `sacred` `said` `sanctuary` `searcheth` `seat` `seek` `selection` `serve` `service` `shed` `shewbread` `sight` `silver` `skilful` `solomon` `solomons` `son` `sons` `spirit` `spread` `stewards` `stood` `strong` `substance` `table` `tables` `temple` `things` `thoughts` `thousands` `throne` `treasures` `tribes` `understand` `upper` `use` `valiant` `vessels` `war` `weight` `wholly` `willing` `wings` `work` `works` `writing`
+#altar #ark #assembled #assembly #audience #bason #basons #blood #bowls #brethren #build #building #candlestick #candlesticks #captains #cast #chambers #chariot #cherubims #children #chose #chosen #commandment #commandments #commission #companies #congregation #constant #courage #courses #courts #covenant #covered #cups #david #davids #day #dedicated #desire #dismayed #divine #encouragement #establish #ever #fail #father #fear #feet #finished #fleshhooks #footstool #forever #forsake #found #furnishings #gave #given #god #gold #golden #good #hand #hear #heart #hearts #heed #house #houses #hundreds #imaginations #incense #inheritance #inner #instruments #israel #jerusalem #judah #judgments #keep #king #kingdom #know #lamps #land #levites #liked #lord #made #make #man #manner #men #mercy #mighty #mind #ministered #name #off #officers #parlours #pattern #people #perfect #place #porch #possess #possessions #priests #princes #promise #pure #ready #refined #rest #round #ruler #sacred #said #sanctuary #searcheth #seat #seek #selection #serve #service #shed #shewbread #sight #silver #skilful #solomon #solomons #son #sons #spirit #spread #stewards #stood #strong #substance #table #tables #temple #things #thoughts #thousands #throne #treasures #tribes #understand #upper #use #valiant #vessels #war #weight #wholly #willing #wings #work #works #writing
 
 
 ---

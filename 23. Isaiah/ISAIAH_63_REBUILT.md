@@ -1,3 +1,13 @@
+---
+book: "Isaiah"
+chapter: 63
+testament: "Old Testament"
+key_themes: "Christ's Vengeance, Divine Redemption, Spiritual Affliction, Christ's Compassion"
+tags:
+  - christ
+  - divine-redemption
+  - spiritual-affliction
+---
 # Isaiah 63
 
 ---
@@ -129,7 +139,7 @@ Cometh, Edom, dyed, garments, Bozrah, glorious, apparel, travelling, greatness, 
 
 
 *AI Keywords for current event matching:*
-`afflicted` `affliction` `angel` `apparel` `arm` `bare` `brought` `carried` `christs` `cometh` `compassion` `day` `divine` `dyed` `edom` `father` `goodness` `great` `heart` `holy` `israel` `lead` `lord` `love` `lovingkindnesses` `mighty` `people` `pity` `presence` `red` `redeemed` `redeemer` `redemption` `salvation` `save` `saved` `spirit` `spiritual` `tread` `vengeance` `winepress` `within` `year`
+#afflicted #affliction #angel #apparel #arm #bare #brought #carried #christs #cometh #compassion #day #divine #dyed #edom #father #goodness #great #heart #holy #israel #lead #lord #love #lovingkindnesses #mighty #people #pity #presence #red #redeemed #redeemer #redemption #salvation #save #saved #spirit #spiritual #tread #vengeance #winepress #within #year
 
 
 ---

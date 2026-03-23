@@ -1,3 +1,14 @@
+---
+book: "Daniel"
+chapter: 12
+testament: "Old Testament"
+key_themes: "Christ's Resurrection, Everlasting Life, Time of Trouble, Book of Life"
+tags:
+  - christ
+  - everlasting-life
+  - time-of-trouble
+  - book-of-life
+---
 # Daniel 12
 
 ---
@@ -105,7 +116,7 @@ Time, Michael, stand, great, prince, standeth, children, people, time, trouble, 
 
 
 *AI Keywords for current event matching:*
-`awake` `blessed` `book` `christs` `contempt` `dust` `ever` `everlasting` `forever` `holy` `increased` `knowledge` `life` `lot` `nation` `never` `people` `resurrection` `seal` `shame` `shut` `sleep` `stand` `time` `times` `trouble` `waiteth` `words` `written`
+#awake #blessed #book #christs #contempt #dust #ever #everlasting #forever #holy #increased #knowledge #life #lot #nation #never #people #resurrection #seal #shame #shut #sleep #stand #time #times #trouble #waiteth #words #written
 
 
 ---

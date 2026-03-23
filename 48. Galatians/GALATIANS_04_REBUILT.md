@@ -1,3 +1,14 @@
+---
+book: "Galatians"
+chapter: 4
+testament: "New Testament"
+key_themes: "Heir and Child, Adoption as Sons, Paul's Pastoral Care, Two Covenants"
+tags:
+  - heir-and-child
+  - adoption-as-sons
+  - paul
+  - two-covenants
+---
 # Galatians 4
 
 ---
@@ -117,7 +128,7 @@ Heir, child, differ, servant, lord, tutors, governors, time, appointed, father, 
 
 
 *AI Keywords for current event matching:*
-`abba` `abraham` `adoption` `affect` `affected` `afraid` `agar` `allegory` `angel` `answereth` `appointed` `arabia` `barren` `bearest` `beggarly` `beseech` `bestowed` `birth` `blessed` `bondage` `bondmaid` `bondwoman` `born` `break` `brethren` `care` `cast` `change` `child` `children` `christ` `covenant` `covenants` `cry` `crying` `days` `desire` `desolate` `despised` `differ` `doubt` `elements` `enemy` `exclude` `eyes` `father` `first` `flesh` `formed` `free` `freewoman` `fulness` `gendereth` `given` `god` `good` `gospel` `governors` `hear` `hearts` `heir` `husband` `injured` `isaac` `jerusalem` `jesus` `known` `labour` `law` `little` `lord` `made` `months` `mother` `mount` `now` `observe` `pastoral` `pauls` `persecuted` `plucked` `possible` `preached` `present` `promise` `receive` `received` `record` `redeem` `rejected` `rejoice` `scripture` `sent` `servant` `sinai` `son` `sons` `spake` `spirit` `stand` `temptation` `time` `times` `travail` `travailest` `truth` `tutors` `two` `vain` `voice` `weak` `well` `woman` `world` `written` `years` `zealously`
+#abba #abraham #adoption #affect #affected #afraid #agar #allegory #angel #answereth #appointed #arabia #barren #bearest #beggarly #beseech #bestowed #birth #blessed #bondage #bondmaid #bondwoman #born #break #brethren #care #cast #change #child #children #christ #covenant #covenants #cry #crying #days #desire #desolate #despised #differ #doubt #elements #enemy #exclude #eyes #father #first #flesh #formed #free #freewoman #fulness #gendereth #given #god #good #gospel #governors #hear #hearts #heir #husband #injured #isaac #jerusalem #jesus #known #labour #law #little #lord #made #months #mother #mount #now #observe #pastoral #pauls #persecuted #plucked #possible #preached #present #promise #receive #received #record #redeem #rejected #rejoice #scripture #sent #servant #sinai #son #sons #spake #spirit #stand #temptation #time #times #travail #travailest #truth #tutors #two #vain #voice #weak #well #woman #world #written #years #zealously
 
 
 ---

@@ -1,3 +1,14 @@
+---
+book: "Isaiah"
+chapter: 12
+testament: "Old Testament"
+key_themes: "Christ's Salvation, Divine Praise, Spiritual Joy, God's Strength"
+tags:
+  - christ
+  - divine-praise
+  - spiritual-joy
+  - god
+---
 # Isaiah 12
 
 ---
@@ -105,7 +116,7 @@ Day, say, LORD, praise, angry, anger, turned, away, comforted, Behold, God, salv
 
 
 *AI Keywords for current event matching:*
-`afraid` `become` `call` `christs` `cry` `declare` `divine` `doings` `draw` `exalted` `excellent` `god` `gods` `holy` `israel` `jehovah` `joy` `lord` `name` `one` `praise` `salvation` `shout` `song` `spiritual` `strength` `things` `trust` `water` `wells`
+#afraid #become #call #christs #cry #declare #divine #doings #draw #exalted #excellent #god #gods #holy #israel #jehovah #joy #lord #name #one #praise #salvation #shout #song #spiritual #strength #things #trust #water #wells
 
 
 ---

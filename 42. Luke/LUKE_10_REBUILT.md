@@ -1,3 +1,16 @@
+---
+book: "Luke"
+chapter: 10
+testament: "New Testament"
+key_themes: "Mission of the Seventy, Woes to Unrepentant Cities, Return of the Seventy, Joy in Heaven, Parable of the Good Samaritan, Mary and Martha"
+tags:
+  - mission-of-the-seventy
+  - woes-to-unrepentant-cities
+  - return-of-the-seventy
+  - joy-in-heaven
+  - parable-of-the-good-samaritan
+  - mary-and-martha
+---
 # Luke 10
 
 ---
@@ -217,7 +230,7 @@ Lord, appointed, seventy, sent, two, face, city, place, come, harvest, great, la
 
 
 *AI Keywords for current event matching:*
-`babes` `blessed` `careful` `chorazin` `cities` `compassion` `cumbered` `dead` `dust` `eternal` `exalted` `eyes` `father` `feet` `good` `half` `harvest` `heaven` `hell` `joy` `kingdom` `kings` `labourers` `lambs` `life` `lightning` `martha` `mary` `mercy` `mission` `names` `nigh` `parable` `part` `peace` `prophets` `prudent` `return` `revealed` `samaritan` `satan` `serpents` `serving` `seventy` `shewed` `son` `thrust` `tread` `troubled` `unrepentant` `wipe` `wise` `woe` `woes` `wolves` `written`
+#babes #blessed #careful #chorazin #cities #compassion #cumbered #dead #dust #eternal #exalted #eyes #father #feet #good #half #harvest #heaven #hell #joy #kingdom #kings #labourers #lambs #life #lightning #martha #mary #mercy #mission #names #nigh #parable #part #peace #prophets #prudent #return #revealed #samaritan #satan #serpents #serving #seventy #shewed #son #thrust #tread #troubled #unrepentant #wipe #wise #woe #woes #wolves #written
 
 
 ---

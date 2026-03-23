@@ -1,3 +1,14 @@
+---
+book: "Acts"
+chapter: 8
+testament: "New Testament"
+key_themes: "The Persecution Scatters the Church, Philip in Samaria, Simon the Sorcerer, Philip and the Ethiopian"
+tags:
+  - the-persecution-scatters-the-church
+  - philip-in-samaria
+  - simon-the-sorcerer
+  - philip-and-the-ethiopian
+---
 # Acts 8
 
 ---
@@ -141,7 +152,7 @@ Saul, consenting, death, great, persecution, church, Jerusalem, scattered, abroa
 
 
 *AI Keywords for current event matching:*
-`abroad` `accord` `angel` `answered` `apostles` `arise` `arose` `authority` `azotus` `baptized` `beforetime` `began` `beholding` `believe` `believed` `believest` `bewitched` `bitterness` `bond` `burial` `caesarea` `called` `came` `candace` `carried` `caught` `charge` `chariot` `christ` `church` `cities` `city` `come` `commanded` `committed` `consenting` `continued` `crying` `death` `declare` `desert` `desired` `devout` `dumb` `earth` `entering` `esaias` `ethiopia` `ethiopian` `ethiopians` `eunuch` `fallen` `forgiven` `found` `gall` `gave` `gaza` `generation` `ghost` `gift` `give` `given` `giving` `god` `gospel` `great` `greatest` `guide` `haling` `hands` `havock` `healed` `heard` `hearing` `heart` `heed` `hinder` `holy` `house` `humiliation` `iniquity` `jerusalem` `jesus` `john` `join` `joy` `judaea` `judgment` `kingdom` `laid` `lamb` `lame` `lamentation` `lay` `laying` `least` `led` `life` `long` `lord` `lot` `loud` `man` `matter` `mayest` `men` `miracles` `money` `mouth` `name` `near` `none` `offered` `opened` `palsies` `part` `passing` `people` `perceive` `perhaps` `perish` `persecution` `peter` `philip` `place` `possessed` `power` `pray` `prayed` `preached` `preaching` `prison` `prophet` `purchased` `queen` `ran` `read` `readest` `receive` `received` `regard` `regions` `rejoicing` `repent` `returned` `returning` `right` `samaria` `samaritans` `saul` `scattered` `scatters` `scripture` `seeing` `sent` `shearer` `sheep` `sight` `signs` `simon` `sit` `sitting` `slaughter` `son` `sorcerer` `sorceries` `sorcery` `south` `spake` `spirit` `spirits` `spoke` `spoken` `stand` `stephen` `taken` `testified` `things` `thought` `time` `treasure` `unclean` `understandest` `villages` `voice` `water` `way` `wickedness` `women` `wondered` `word` `worship`
+#abroad #accord #angel #answered #apostles #arise #arose #authority #azotus #baptized #beforetime #began #beholding #believe #believed #believest #bewitched #bitterness #bond #burial #caesarea #called #came #candace #carried #caught #charge #chariot #christ #church #cities #city #come #commanded #committed #consenting #continued #crying #death #declare #desert #desired #devout #dumb #earth #entering #esaias #ethiopia #ethiopian #ethiopians #eunuch #fallen #forgiven #found #gall #gave #gaza #generation #ghost #gift #give #given #giving #god #gospel #great #greatest #guide #haling #hands #havock #healed #heard #hearing #heart #heed #hinder #holy #house #humiliation #iniquity #jerusalem #jesus #john #join #joy #judaea #judgment #kingdom #laid #lamb #lame #lamentation #lay #laying #least #led #life #long #lord #lot #loud #man #matter #mayest #men #miracles #money #mouth #name #near #none #offered #opened #palsies #part #passing #people #perceive #perhaps #perish #persecution #peter #philip #place #possessed #power #pray #prayed #preached #preaching #prison #prophet #purchased #queen #ran #read #readest #receive #received #regard #regions #rejoicing #repent #returned #returning #right #samaria #samaritans #saul #scattered #scatters #scripture #seeing #sent #shearer #sheep #sight #signs #simon #sit #sitting #slaughter #son #sorcerer #sorceries #sorcery #south #spake #spirit #spirits #spoke #spoken #stand #stephen #taken #testified #things #thought #time #treasure #unclean #understandest #villages #voice #water #way #wickedness #women #wondered #word #worship
 
 
 ---

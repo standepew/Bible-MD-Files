@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 136
+testament: "Old Testament"
+key_themes: "God's Mercy Endures Forever, Creation's Wonder, Exodus Deliverance, Conquest Victory"
+tags:
+  - god
+  - creation
+  - exodus-deliverance
+  - conquest-victory
+---
 # Psalm 136
 
 ---
@@ -141,7 +152,7 @@ Give, thanks, LORD, good, mercy, endureth, forever, give, thanks, God, gods, mer
 
 
 *AI Keywords for current event matching:*
-`arm` `brought` `conquest` `creations` `deliverance` `divided` `earth` `egypt` `endures` `endureth` `exodus` `famous` `firstborn` `forever` `gave` `gods` `great` `hand` `heavens` `heritage` `israel` `kings` `land` `lights` `made` `mercy` `moon` `red` `repeated` `sea` `sihon` `slew` `smote` `stars` `stretched` `strong` `sun` `times` `victory` `waters` `wisdom` `wonder`
+#arm #brought #conquest #creations #deliverance #divided #earth #egypt #endures #endureth #exodus #famous #firstborn #forever #gave #gods #great #hand #heavens #heritage #israel #kings #land #lights #made #mercy #moon #red #repeated #sea #sihon #slew #smote #stars #stretched #strong #sun #times #victory #waters #wisdom #wonder
 
 
 ---

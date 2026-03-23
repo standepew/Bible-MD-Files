@@ -1,3 +1,89 @@
+---
+book: "Joshua"
+chapter: 22
+testament: "Old Testament"
+key_themes: "Eastern Tribes Dismissed, Obedience Commended, Altar Controversy, Civil War Prevented, Witness Altar, Unity Maintained, Phinehas' Mediation"
+tags:
+  - obeyed-voice-commanded
+  - kept-charge-commandment-LORD-God
+  - LORD-God-rest-brethren
+  - promised
+  - return-tents-land-possession
+  - Moses-servant-LORD-Jordan
+  - diligent-heed-commandment-law
+  - Moses-servant-LORD-charged
+  - love-LORD-God
+  - walk-ways
+  - keep-commandments
+  - cleave-serve-heart-soul
+  - Joshua-blessed-sent
+  - tents
+  - half-Joshua-brethren-Jordan-westward
+  - Joshua-sent-tents-blessed
+  - much-riches-tents
+  - divide-spoil-enemies-brethren
+  - country-Gilead-land-possession
+  - possessed-word-LORD-hand-Moses
+  - borders-Jordan-land-Canaan
+  - great-altar-see
+  - children-Israel-heard
+  - borders-Jordan-passage-children-Israel
+  - war
+  - Phinehas-son-Eleazar-priest
+  - ten-princes-tribes-Israel
+  - head-house-fathers-thousands-Israel
+  - congregation-LORD
+  - trespass-committed-God-Israel
+  - turn-away-following-LORD
+  - built-altar-rebel-LORD
+  - iniquity-Peor
+  - cleansed-plague-congregation-LORD
+  - rebel-day-LORD
+  - wrath-congregation-Israel
+  - land-possession-unclean
+  - pass-land-possession-LORD
+  - LORD-tabernacle-dwelleth
+  - possession-rebel-LORD
+  - rebel-altar-altar-LORD-God
+  - man-perished-iniquity
+  - heads-thousands-Israel
+  - knoweth-Israel-know
+  - rebellion-transgression-LORD
+  - save-not-day
+  - built-altar-turn-following-LORD
+  - LORD-require
+  - fear-thing
+  - time-children-speak-children
+  - LORD-God-Israel
+  - part-LORD
+  - children-cease-fearing-LORD
+  - prepare-build-altar
+  - burnt-offering-sacrifice
+  - witness-generations
+  - children-say-no-part-LORD
+  - pattern-altar-LORD-fathers-made
+  - burnt-offerings-sacrifices
+  - witness
+  - God-forbid-rebel-LORD
+  - turn-following-LORD
+  - altar-LORD-God-tabernacle
+  - pleased
+  - perceive-LORD-among
+  - committed-trespass-LORD
+  - delivered-children-Israel-hand-LORD
+  - brought-word
+  - pleased-children-Israel
+  - children-Israel-blessed-God
+  - intend-war-battle
+  - witness-LORD-God
+  - eastern-tribes-dismissed
+  - obedience-commended
+  - altar-controversy
+  - civil-war-prevented
+  - witness-altar
+  - unity-maintained
+  - phinehas
+---
 # Joshua 22
 
 ---
@@ -87,7 +173,7 @@ Joshua calls Reubenites, Gadites, and half-Manasseh, commending their obedience 
 
 
 *AI Keywords for current event matching:*
-`accursed` `accusation` `achan` `altar` `among` `answered` `away` `bashan` `battle` `blessed` `blessing` `border` `borders` `brass` `brethren` `brought` `build` `built` `burnt` `called` `came` `canaan` `cattle` `cease` `charge` `charged` `children` `cleansed` `cleave` `commanded` `commandment` `commandments` `committed` `concern` `congregation` `construction` `country` `day` `defense` `delivered` `departed` `destroy` `diligent` `dismissal` `divide` `dwelleth` `dwelt` `eastern` `eleazar` `enemies` `fathers` `fear` `fearing` `following` `forbid` `gad` `gadites` `gathered` `generations` `gilead` `god` `gods` `gold` `great` `half` `hand` `head` `heads` `heard` `heart` `heed` `house` `iniquity` `intend` `iron` `israel` `israels` `jordan` `joshua` `keep` `kept` `know` `knoweth` `land` `law` `lord` `love` `made` `man` `manasseh` `meat` `moses` `much` `obeyed` `offering` `offerings` `part` `pass` `passage` `pattern` `peace` `peor` `perceive` `perished` `phinehas` `plague` `pleased` `possessed` `possession` `prepare` `priest` `princes` `promised` `raiment` `rebel` `rebellion` `require` `resolution` `rest` `return` `returned` `reuben` `reubenites` `riches` `sacrifice` `sacrifices` `save` `say` `see` `sent` `servant` `serve` `service` `shiloh` `silver` `son` `soul` `speak` `spoil` `tabernacle` `ten` `tents` `thing` `thousands` `time` `transgression` `trespass` `tribe` `tribes` `turn` `unclean` `voice` `walk` `war` `ways` `westward` `whole` `witness` `word` `words` `wrath` `zerah`
+#accursed #accusation #achan #altar #among #answered #away #bashan #battle #blessed #blessing #border #borders #brass #brethren #brought #build #built #burnt #called #came #canaan #cattle #cease #charge #charged #children #cleansed #cleave #commanded #commandment #commandments #committed #concern #congregation #construction #country #day #defense #delivered #departed #destroy #diligent #dismissal #divide #dwelleth #dwelt #eastern #eleazar #enemies #fathers #fear #fearing #following #forbid #gad #gadites #gathered #generations #gilead #god #gods #gold #great #half #hand #head #heads #heard #heart #heed #house #iniquity #intend #iron #israel #israels #jordan #joshua #keep #kept #know #knoweth #land #law #lord #love #made #man #manasseh #meat #moses #much #obeyed #offering #offerings #part #pass #passage #pattern #peace #peor #perceive #perished #phinehas #plague #pleased #possessed #possession #prepare #priest #princes #promised #raiment #rebel #rebellion #require #resolution #rest #return #returned #reuben #reubenites #riches #sacrifice #sacrifices #save #say #see #sent #servant #serve #service #shiloh #silver #son #soul #speak #spoil #tabernacle #ten #tents #thing #thousands #time #transgression #trespass #tribe #tribes #turn #unclean #voice #walk #war #ways #westward #whole #witness #word #words #wrath #zerah
 
 
 ---

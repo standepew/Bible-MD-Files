@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 89
+testament: "Old Testament"
+key_themes: "Divine Mercy, Davidic Covenant, God's Faithfulness, Plea for Restoration"
+tags:
+  - divine-mercy
+  - davidic-covenant
+  - god
+  - plea-for-restoration
+---
 # Psalm 89
 
 ---
@@ -153,7 +164,7 @@ Maschil, Ethan, Ezrahite, sing, mercies, LORD, forever, mouth, faithfulness, gen
 
 
 *AI Keywords for current event matching:*
-`abhorred` `alter` `anointed` `break` `broken` `brought` `build` `built` `burn` `cast` `chosen` `congregation` `covenant` `crown` `david` `davidic` `days` `divine` `endure` `establish` `ethan` `ezrahite` `fail` `faithfulness` `fire` `forever` `found` `generations` `gods` `gone` `heaven` `heavens` `hedges` `hide` `holds` `holy` `lips` `lord` `lovingkindness` `made` `maschil` `mercies` `mercy` `mouth` `oil` `plea` `profaned` `restoration` `round` `ruin` `saints` `seed` `servant` `sing` `strong` `sworn` `throne` `utterly` `void` `wrath` `wroth`
+#abhorred #alter #anointed #break #broken #brought #build #built #burn #cast #chosen #congregation #covenant #crown #david #davidic #days #divine #endure #establish #ethan #ezrahite #fail #faithfulness #fire #forever #found #generations #gods #gone #heaven #heavens #hedges #hide #holds #holy #lips #lord #lovingkindness #made #maschil #mercies #mercy #mouth #oil #plea #profaned #restoration #round #ruin #saints #seed #servant #sing #strong #sworn #throne #utterly #void #wrath #wroth
 
 
 ---

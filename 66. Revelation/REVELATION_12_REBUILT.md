@@ -1,3 +1,15 @@
+---
+book: "Revelation"
+chapter: 12
+testament: "New Testament"
+key_themes: "The Woman and the Dragon, The Male Child, War in Heaven, The Dragon Cast Out, The Woman in the Wilderness"
+tags:
+  - the-woman-and-the-dragon
+  - the-male-child
+  - war-in-heaven
+  - the-dragon-cast-out
+  - the-woman-in-the-wilderness
+---
 # Revelation 12
 
 ---
@@ -128,7 +140,7 @@ Great, wonder, heaven, woman, clothed, sun, moon, feet, crown, twelve, stars, ch
 
 
 *AI Keywords for current event matching:*
-`accused` `accuser` `angels` `birth` `blood` `born` `brethren` `brought` `carried` `cast` `caught` `child` `christ` `clothed` `commandments` `cried` `crown` `crowns` `day` `days` `death` `deceiveth` `delivered` `devil` `devour` `dragon` `drew` `dwell` `eagle` `earth` `face` `feed` `feet` `fled` `flood` `fly` `fought` `found` `god` `great` `half` `heads` `heaven` `heavens` `helped` `horns` `hundred` `inhabiters` `iron` `jesus` `keep` `kingdom` `lamb` `lives` `loud` `loved` `male` `man` `michael` `moon` `mouth` `nations` `night` `nourished` `old` `opened` `overcame` `pained` `part` `persecuted` `place` `power` `prepared` `prevailed` `ready` `red` `rejoice` `remnant` `rod` `rule` `salvation` `satan` `sea` `seed` `serpent` `seven` `short` `stars` `stood` `strength` `sun` `swallowed` `tail` `ten` `testimony` `third` `thousand` `threescore` `throne` `time` `times` `travailing` `twelve` `two` `voice` `war` `water` `whole` `wilderness` `wings` `woman` `wonder` `word` `world` `wrath` `wroth`
+#accused #accuser #angels #birth #blood #born #brethren #brought #carried #cast #caught #child #christ #clothed #commandments #cried #crown #crowns #day #days #death #deceiveth #delivered #devil #devour #dragon #drew #dwell #eagle #earth #face #feed #feet #fled #flood #fly #fought #found #god #great #half #heads #heaven #heavens #helped #horns #hundred #inhabiters #iron #jesus #keep #kingdom #lamb #lives #loud #loved #male #man #michael #moon #mouth #nations #night #nourished #old #opened #overcame #pained #part #persecuted #place #power #prepared #prevailed #ready #red #rejoice #remnant #rod #rule #salvation #satan #sea #seed #serpent #seven #short #stars #stood #strength #sun #swallowed #tail #ten #testimony #third #thousand #threescore #throne #time #times #travailing #twelve #two #voice #war #water #whole #wilderness #wings #woman #wonder #word #world #wrath #wroth
 
 
 ---

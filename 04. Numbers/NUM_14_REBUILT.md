@@ -1,3 +1,34 @@
+---
+book: "Numbers"
+chapter: 14
+testament: "Old Testament"
+key_themes: "The congregation weeps, murmurs, proposes to return to Egypt and choose a new captain — the full rejection of the Exodus, Joshua and Caleb tear their clothes and declare the land good: their defence is departed from them, and the LORD is with us, The glory of the LORD appears at the Tabernacle — the crisis moment, God proposes to disinherit Israel and start over with Moses; Moses intercedes by God's own revealed character (Exodus 34:6-7), God pardons — but does not reverse the consequence: the entire generation from 20 years and upward will die in the wilderness, Forty years — one year per day of the spies' search, The ten unfaithful spies die immediately by plague; Caleb and Joshua live, The presumptuous counter-march without the ark — instant defeat"
+tags:
+  - congregation-weeps
+  - murmurs-against-Moses-Aaron
+  - would-we-had-died
+  - let-us-return-to-Egypt
+  - choose-a-captain
+  - Moses-Aaron-fall-on-faces
+  - Joshua-Caleb-rent-clothes
+  - exceeding-good-land
+  - their-defence-is-departed
+  - the-LORD-is-with-us
+  - stone-them
+  - glory-of-LORD-appears
+  - God-proposes-new-nation-from-Moses
+  - Moses-intercedes-by-Gods-own-character
+  - longsuffering-great-mercy
+  - I-have-pardoned
+  - all-earth-filled-with-glory
+  - ten-times-tempted-me
+  - carcases-in-wilderness
+  - forty-years-forty-days-day-for-year
+  - Caleb-another-spirit
+  - followed-me-fully
+  - ten-spies-die-by-plague
+  - presumptuous-march-defeated
+---
 # Numbers 14
 
 ---
@@ -66,7 +97,7 @@ The people weep all night, murmur against Moses and Aaron, wish they had died in
 
 
 *AI Keywords for current event matching:*
-`141-4` `312-19` `congregation` `current` `events` `gods` `hebrews` `institutional` `mass` `matching` `numbers` `promise` `rejection` `unbelief` `whole`
+#141-4 #312-19 #congregation #current #events #gods #hebrews #institutional #mass #matching #numbers #promise #rejection #unbelief #whole
 
 
 ---
@@ -168,15 +199,15 @@ This is one of the most remarkable moments in the Torah — God explicitly grant
 
 ### "As Ye Have Spoken in Mine Ears, So Will I Do" — The Words You Speak Become Your Sentence
 
-**Numbers 14:28** — "As truly as I live, saith the LORD, as ye have spoken in mine ears, so will I do to you"
+[[04. Numbers/NUM_14_REBUILT|Numbers 14:28]] — "As truly as I live, saith the LORD, as ye have spoken in mine ears, so will I do to you"
 
 The congregation said: "Would God we had died in the wilderness." God says: granted — as you have spoken, so will it be. Their own words become the sentence.
 
-- **Numbers 14:2** — "Would God we had died in this wilderness" — what they said
-- **Numbers 14:28-29** — "as ye have spoken... Your carcases shall fall in this wilderness" — what they received
-- **Matthew 12:36-37** — "But I say unto you, That every idle word that men shall speak, they shall give account thereof in the day of judgment. For by thy words thou shalt be justified, and by thy words thou shalt be condemned" — the Numbers 14 principle stated by Christ as a universal law
-- **Proverbs 18:21** — "Death and life are in the power of the tongue: and they that love it shall eat the fruit thereof"
-- **Numbers 13:33** — "we were in our own sight as grasshoppers" — what they said about themselves; their self-assessment became their self-fulfilling reality
+- [[04. Numbers/NUM_14_REBUILT|Numbers 14:2]] — "Would God we had died in this wilderness" — what they said
+- [[04. Numbers/NUM_14_REBUILT|Numbers 14:28-29]] — "as ye have spoken... Your carcases shall fall in this wilderness" — what they received
+- [[40. Matthew/MATTHEW_12_REBUILT|Matthew 12:36-37]] — "But I say unto you, That every idle word that men shall speak, they shall give account thereof in the day of judgment. For by thy words thou shalt be justified, and by thy words thou shalt be condemned" — the Numbers 14 principle stated by Christ as a universal law
+- [[20. Proverbs/PROVERBS_18_REBUILT|Proverbs 18:21]] — "Death and life are in the power of the tongue: and they that love it shall eat the fruit thereof"
+- [[04. Numbers/NUM_13_REBUILT|Numbers 13:33]] — "we were in our own sight as grasshoppers" — what they said about themselves; their self-assessment became their self-fulfilling reality
 
 **What the Bible establishes:** Numbers 14 is the most concentrated statement of the principle that words spoken in God's hearing become binding. "Would God we had died" — and they died in the wilderness. The tongue that despises God's promise seals its own sentence. Matthew 12:36-37 and Proverbs 18:21 are not isolated New Covenant ideas; they are the New Covenant articulations of the Numbers 14 pattern.
 

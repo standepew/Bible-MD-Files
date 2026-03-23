@@ -1,3 +1,14 @@
+---
+book: "Micah"
+chapter: 5
+testament: "Old Testament"
+key_themes: "Christ's Birth in Bethlehem, Messianic Ruler, Peace and Deliverance, Remnant's Victory"
+tags:
+  - christ
+  - messianic-ruler
+  - peace-and-deliverance
+  - remnant
+---
 # Micah 5
 
 ---
@@ -117,7 +128,7 @@ Gather, troops, daughter, troops, laid, siege, smite, judge, Israel, rod, cheek,
 
 
 *AI Keywords for current event matching:*
-`adversaries` `assyrian` `beth-lehem` `bethlehem` `birth` `christs` `come` `cut` `deliver` `deliverance` `dew` `earth` `eight` `ends` `ephratah` `everlasting` `feed` `forest` `goings` `great` `israel` `judah` `land` `lifted` `lion` `little` `lord` `majesty` `man` `men` `messianic` `name` `old` `peace` `principal` `remnants` `ruler` `seven` `shepherds` `stand` `strength` `thousands` `victory` `witchcrafts`
+#adversaries #assyrian #beth-lehem #bethlehem #birth #christs #come #cut #deliver #deliverance #dew #earth #eight #ends #ephratah #everlasting #feed #forest #goings #great #israel #judah #land #lifted #lion #little #lord #majesty #man #men #messianic #name #old #peace #principal #remnants #ruler #seven #shepherds #stand #strength #thousands #victory #witchcrafts
 
 
 ---

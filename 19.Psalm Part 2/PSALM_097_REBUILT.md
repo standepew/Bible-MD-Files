@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 97
+testament: "Old Testament"
+key_themes: "God's Reign, Divine Judgment, Idolatry Condemnation, Zion's Joy"
+tags:
+  - god
+  - divine-judgment
+  - idolatry-condemnation
+  - zion
+---
 # Psalm 97
 
 ---
@@ -153,7 +164,7 @@ LORD, reigneth, earth, rejoice, multitude, isles, glad, clouds, darkness, round,
 
 
 *AI Keywords for current event matching:*
-`boast` `burnen` `clouds` `condemnation` `confounded` `darkness` `daughters` `divine` `earth` `enemies` `enlightened` `fire` `give` `glad` `gladness` `gods` `goeth` `gold` `graven` `habitation` `hands` `heard` `heart` `hills` `holiness` `idolatry` `idols` `images` `isles` `joy` `judah` `judgment` `judgments` `light` `lightnings` `lord` `melted` `men` `multitude` `presence` `reign` `reigneth` `rejoice` `rejoiced` `remembrance` `righteous` `righteousness` `round` `saw` `serve` `silver` `sown` `thanks` `throne` `trembled` `upright` `wax` `work` `world` `worship` `zion` `zions`
+#boast #burnen #clouds #condemnation #confounded #darkness #daughters #divine #earth #enemies #enlightened #fire #give #glad #gladness #gods #goeth #gold #graven #habitation #hands #heard #heart #hills #holiness #idolatry #idols #images #isles #joy #judah #judgment #judgments #light #lightnings #lord #melted #men #multitude #presence #reign #reigneth #rejoice #rejoiced #remembrance #righteous #righteousness #round #saw #serve #silver #sown #thanks #throne #trembled #upright #wax #work #world #worship #zion #zions
 
 
 ---

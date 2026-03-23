@@ -1,3 +1,13 @@
+---
+book: "Jeremiah"
+chapter: 4
+testament: "Old Testament"
+key_themes: "Christ's Return, Divine Judgment, Spiritual Warfare, Christ's Lament"
+tags:
+  - christ
+  - divine-judgment
+  - spiritual-warfare
+---
 # Jeremiah 4
 
 ---
@@ -117,7 +127,7 @@ Return, Israel, LORD, return, put, abominations, sight, remove, swear, LORD, liv
 
 
 *AI Keywords for current event matching:*
-`abominations` `away` `blow` `bowels` `break` `burn` `cannot` `christs` `circumcise` `cities` `daughter` `defenced` `destroyer` `destruction` `divine` `fallow` `fire` `fury` `gentiles` `ground` `heart` `hold` `israel` `judgment` `lament` `lion` `liveth` `lord` `pained` `peace` `put` `return` `spiritual` `swear` `thicket` `travail` `trumpet` `voice` `warfare` `woman` `yourselves` `zion`
+#abominations #away #blow #bowels #break #burn #cannot #christs #circumcise #cities #daughter #defenced #destroyer #destruction #divine #fallow #fire #fury #gentiles #ground #heart #hold #israel #judgment #lament #lion #liveth #lord #pained #peace #put #return #spiritual #swear #thicket #travail #trumpet #voice #warfare #woman #yourselves #zion
 
 
 ---

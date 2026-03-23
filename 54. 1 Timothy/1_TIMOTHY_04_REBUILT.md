@@ -1,3 +1,15 @@
+---
+book: "1 Timothy"
+chapter: 4
+testament: "New Testament"
+key_themes: "The Spirit Speaks of Apostasy, False Teachings, Good Minister of Jesus Christ, Godliness is Profitable, Timothy's Example and Gift"
+tags:
+  - the-spirit-speaks-of-apostasy
+  - false-teachings
+  - good-minister-of-jesus-christ
+  - godliness-is-profitable
+  - timothy
+---
 # 1 Timothy 4
 
 ---
@@ -95,7 +107,7 @@ Spirit, speaketh, expressly, latter, times, depart, faith, heeding, seducing, sp
 
 
 *AI Keywords for current event matching:*
-`abstain` `acceptation` `apostasy` `appear` `attained` `attendance` `believe` `believers` `bodily` `brethren` `charity` `christ` `command` `commanding` `conscience` `continue` `conversation` `created` `creature` `depart` `despise` `devils` `doctrine` `doctrines` `example` `exercise` `exhortation` `expressly` `fables` `faith` `faithful` `false` `forbidding` `gift` `god` `godliness` `good` `hands` `hear` `heed` `heeding` `hot` `hypocrisy` `iron` `jesus` `know` `labour` `latter` `laying` `lies` `life` `little` `living` `marry` `meats` `meditate` `men` `minister` `neglect` `nourished` `prayer` `presbytery` `profane` `profitable` `profiteth` `profiting` `promise` `prophecy` `purity` `reading` `received` `refuse` `refused` `remembrance` `reproach` `sanctified` `save` `saviour` `saying` `seared` `seducing` `speaketh` `speaks` `specially` `spirit` `spirits` `suffer` `teach` `teachings` `thanksgiving` `things` `thyself` `times` `timothys` `trust` `truth` `wholly` `wives` `word` `words` `youth`
+#abstain #acceptation #apostasy #appear #attained #attendance #believe #believers #bodily #brethren #charity #christ #command #commanding #conscience #continue #conversation #created #creature #depart #despise #devils #doctrine #doctrines #example #exercise #exhortation #expressly #fables #faith #faithful #false #forbidding #gift #god #godliness #good #hands #hear #heed #heeding #hot #hypocrisy #iron #jesus #know #labour #latter #laying #lies #life #little #living #marry #meats #meditate #men #minister #neglect #nourished #prayer #presbytery #profane #profitable #profiteth #profiting #promise #prophecy #purity #reading #received #refuse #refused #remembrance #reproach #sanctified #save #saviour #saying #seared #seducing #speaketh #speaks #specially #spirit #spirits #suffer #teach #teachings #thanksgiving #things #thyself #times #timothys #trust #truth #wholly #wives #word #words #youth
 
 
 ---

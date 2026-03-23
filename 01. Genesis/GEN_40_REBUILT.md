@@ -1,3 +1,65 @@
+---
+book: "Genesis"
+chapter: 40
+testament: "Old Testament"
+key_themes: "The Chief Butler and Chief Baker Cast Into the King's Prison — Into Joseph's Care, Both Dream on the Same Night — Each Dream Its Own Interpretation, Joseph Notices Their Troubled Faces — The Care of the Suffering for the Suffering, "Do Not Interpretations Belong to God?" — Joseph's Immediate Deflection of Personal Glory, The Butler's Dream — The Vine, Three Branches, the Cup Pressed Into Pharaoh's Hand, Three Days as the Divine Interval — The Bible's Resurrection Number, The Baker's Dream — Three Baskets and Birds Eating From the Topmost, Two Interpretations — One Life, One Death, Joseph's "Remember Me" Plea — The Forgotten Intercessor, Pharaoh's Birthday — The Day of Reckoning That Arrives in Festivity, Both Fulfilled Exactly as Interpreted — The Baker Hanged, the Butler Restored, "Yet Did Not the Chief Butler Remember Joseph, But Forgat Him" — Human Forgetfulness and Divine Timing, The Two-Year Delay as the Extension of God's Trial, The Vine and the Cup as Prophetic Symbols Seeded Here"
+tags:
+  - butler-mashqeh-cupbearer
+  - baker-apheh
+  - Pharaoh-wroth-two-officers
+  - captain-of-guard-charged-Joseph
+  - they-continued-a-season
+  - both-dreamed-same-night
+  - each-man-his-dream
+  - each-according-to-interpretation
+  - Joseph-noticed-they-were-sad
+  - wherefore-look-ye-so-sadly
+  - butler-dream-vine-three-branches
+  - budded-blossomed-ripe-grapes
+  - cup-pressed-into-Pharaoh-hand
+  - three-branches-three-days
+  - restore-thee-to-thy-place
+  - remember-me-plea
+  - stolen-from-land-of-Hebrews
+  - done-nothing-for-dungeon
+  - baker-dream-three-white-baskets
+  - birds-eating-from-topmost-basket
+  - three-baskets-three-days
+  - hang-thee-on-a-tree
+  - birds-eat-thy-flesh
+  - Pharaoh-birthday-feast
+  - third-day-both-fulfilled
+  - baker-hanged
+  - as-Joseph-had-interpreted
+  - shakach-forget
+  - three-days-resurrection-number
+  - butler-baker-two-beside-Joseph
+  - one-saved-one-condemned
+  - vine-cup-prophetic-symbols
+  - hang-on-tree-first-mention
+  - birds-eat-flesh
+  - Ezekiel-39-17-20
+  - binary-outcome-sheep-goats
+  - forgotten-intercessor-Ecclesiastes-9-15
+  - God-timing-uses-human-forgetfulness
+  - the-chief-butler-and-chief-baker
+  - both-dream-on-the-same-night
+  - joseph-notices-their-troubled-faces
+  - do-not-interpretations-belong-to-god
+  - the-butler
+  - three-branches-the-cup-pressed-into
+  - three-days-as-the-divine-interval
+  - the-baker
+  - two-interpretations
+  - one-death
+  - joseph
+  - pharaoh
+  - both-fulfilled-exactly-as-interpreted
+  - yet-did-not-the-chief-butler
+  - but-forgat-him
+  - the-twoyear-delay-as-the-extension
+  - the-vine-and-the-cup-as
+---
 # Genesis 40
 
 ---
@@ -119,7 +181,7 @@ The forgetting was not a failure of God's plan — it was the extension of the t
 
 For AI matching to topics and current events:
 
-`butler mashqeh cupbearer highest trust ancient court` `baker apheh Pharaohs food` `Pharaoh wroth cast into prison where Joseph was` `captain of guard charged Joseph serve them` `they continued a season in ward` `both dreamed same night each his dream` `each according to interpretation of his dream` `God gives dream and interpretation as unit` `Joseph noticed they were sad` `wherefore look ye so sadly today` `do not interpretations belong to God` `Genesis 41:16 it is not in me God shall give` `Daniel 2:27-28 God in heaven reveals secrets` `Daniel 2:30 not for wisdom I have` `2 Peter 1:20-21 no private interpretation Holy Ghost` `deflection of personal glory source is God` `butler dream vine three branches` `budded blossomed ripe grapes rapid cycle` `cup pressed into Pharaohs hand` `three branches three days` `within three days Pharaoh lift up thine head` `restore thee to thy place` `remember me plea from prison` `stolen from land of Hebrews done nothing` `baker dream three white baskets` `birds eating from topmost basket` `three baskets three days` `lift thy head from off thee hang thee on tree` `birds eat thy flesh` `third day Pharaohs birthday feast` `butler restored gave cup into Pharaoh hand` `baker hanged as Joseph interpreted` `yet did not butler remember Joseph but forgat him` `shakach forget` `Psalm 105:17-20 word of LORD tried him` `Isaiah 49:14-16 I will not forget thee` `two years Genesis 41:1` `three days resurrection number` `Genesis 22:4 third day Abraham Isaac` `Hebrews 11:19 received him in a figure` `Exodus 19:11 God descends third day` `Joshua 1:11 cross Jordan three days` `Esther 4:16 fast three days` `Hosea 6:2 third day raise us up` `Jonah 1:17 three days three nights` `Matthew 12:40 as Jonah Son of Man` `1 Corinthians 15:4 rose again third day according to scriptures` `two beside Joseph one saved one condemned` `Luke 23:39-43 two criminals beside Christ` `Lord remember me paradise` `lift up head life vs death` `John 3:14 Moses lifted up serpent` `John 12:32 if I be lifted up` `hang on tree first mention Genesis 40` `Deuteronomy 21:22-23 cursed is he that hangeth` `Galatians 3:13 Christ redeemed curse of law` `Joshua 8:29 kings hanged after conquest` `Esther 7:9-10 Haman hanged` `vine cup prophetic symbols` `Isaiah 5:1-7 vineyard of LORD Israel` `John 15:1 I am true vine` `Matthew 26:27-29 cup new covenant` `birds eat flesh` `Revelation 19:17-18 supper of great God` `Ezekiel 39:17-20 every feathered fowl` `binary outcome sheep goats` `Matthew 25:31-46 divided nations` `Matthew 7:13-14 narrow wide gate` `forgotten intercessor Ecclesiastes 9:15` `God timing uses human forgetfulness` `prison trial word of LORD tried him` `delay is precision not abandonment`
+#butler-mashqeh-cupbearer-highest-trust-ancient-court #baker-apheh-Pharaohs-food #Pharaoh-wroth-cast-into-prison-where-Joseph-was #captain-of-guard-charged-Joseph-serve-them #they-continued-a-season-in-ward #both-dreamed-same-night-each-his-dream #each-according-to-interpretation-of-his-dream #God-gives-dream-and-interpretation-as-unit #Joseph-noticed-they-were-sad #wherefore-look-ye-so-sadly-today #do-not-interpretations-belong-to-God #Genesis-4116-it-is-not-in-me-God-shall-give #Daniel-227-28-God-in-heaven-reveals-secrets #Daniel-230-not-for-wisdom-I-have #2-Peter-120-21-no-private-interpretation-Holy-Ghost #deflection-of-personal-glory-source-is-God #butler-dream-vine-three-branches #budded-blossomed-ripe-grapes-rapid-cycle #cup-pressed-into-Pharaohs-hand #three-branches-three-days #within-three-days-Pharaoh-lift-up-thine-head #restore-thee-to-thy-place #remember-me-plea-from-prison #stolen-from-land-of-Hebrews-done-nothing #baker-dream-three-white-baskets #birds-eating-from-topmost-basket #three-baskets-three-days #lift-thy-head-from-off-thee-hang-thee-on-tree #birds-eat-thy-flesh #third-day-Pharaohs-birthday-feast #butler-restored-gave-cup-into-Pharaoh-hand #baker-hanged-as-Joseph-interpreted #yet-did-not-butler-remember-Joseph-but-forgat-him #shakach-forget #Psalm-10517-20-word-of-LORD-tried-him #Isaiah-4914-16-I-will-not-forget-thee #two-years-Genesis-411 #three-days-resurrection-number #Genesis-224-third-day-Abraham-Isaac #Hebrews-1119-received-him-in-a-figure #Exodus-1911-God-descends-third-day #Joshua-111-cross-Jordan-three-days #Esther-416-fast-three-days #Hosea-62-third-day-raise-us-up #Jonah-117-three-days-three-nights #Matthew-1240-as-Jonah-Son-of-Man #1-Corinthians-154-rose-again-third-day-according-to-scriptures #two-beside-Joseph-one-saved-one-condemned #Luke-2339-43-two-criminals-beside-Christ #Lord-remember-me-paradise #lift-up-head-life-vs-death #John-314-Moses-lifted-up-serpent #John-1232-if-I-be-lifted-up #hang-on-tree-first-mention-Genesis-40 #Deuteronomy-2122-23-cursed-is-he-that-hangeth #Galatians-313-Christ-redeemed-curse-of-law #Joshua-829-kings-hanged-after-conquest #Esther-79-10-Haman-hanged #vine-cup-prophetic-symbols #Isaiah-51-7-vineyard-of-LORD-Israel #John-151-I-am-true-vine #Matthew-2627-29-cup-new-covenant #birds-eat-flesh #Revelation-1917-18-supper-of-great-God #Ezekiel-3917-20-every-feathered-fowl #binary-outcome-sheep-goats #Matthew-2531-46-divided-nations #Matthew-713-14-narrow-wide-gate #forgotten-intercessor-Ecclesiastes-915 #God-timing-uses-human-forgetfulness #prison-trial-word-of-LORD-tried-him #delay-is-precision-not-abandonment
 
 **Relevance to Current Events:**
 - Divine interpretation of Scripture versus human private interpretation — "interpretations belong to God" as the governing hermeneutical principle; applicable in teaching on biblical interpretation, the role of the Holy Spirit in illumination, and the warning against private speculation detached from the text's own cross-referential structure

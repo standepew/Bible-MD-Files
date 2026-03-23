@@ -1,3 +1,28 @@
+---
+book: "Exodus"
+chapter: 27
+testament: "Old Testament"
+key_themes: "The Altar of Burnt Offering — brass, foursquare, horns on four corners, The Court of the Tabernacle — fine linen hangings, The gate of the court — blue/purple/scarlet, Pure beaten olive oil for the perpetual lamp, Aaron and his sons to keep the lamp burning from evening to morning"
+tags:
+  - altar-of-burnt-offering
+  - shittim-wood-overlaid-brass
+  - foursquare
+  - horns-of-altar
+  - grate-of-brass
+  - staves
+  - court-of-tabernacle
+  - fine-linen-hangings
+  - pillars-of-brass
+  - silver-hooks
+  - gate-of-court
+  - blue-purple-scarlet
+  - east-gate
+  - pure-olive-oil-beaten
+  - perpetual-lamp
+  - Aaron-keeps-lamp
+  - evening-to-morning
+  - statute-forever
+---
 # Exodus 27
 
 ---
@@ -79,7 +104,7 @@ The Altar of Burnt Offering: shittim wood overlaid with brass, five cubits squar
 
 
 *AI Keywords for current event matching:*
-`271-8` `altar` `cross` `current` `events` `exodus` `hebrews` `john` `matching`
+#271-8 #altar #cross #current #events #exodus #hebrews #john #matching
 
 
 ---

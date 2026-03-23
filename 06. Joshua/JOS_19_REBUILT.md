@@ -1,3 +1,95 @@
+---
+book: "Joshua"
+chapter: 19
+testament: "Old Testament"
+key_themes: "Tribal Inheritances, Simeon Within Judah, Zebulun's Border, Issachar's Territory, Asher's Coast, Naphtali's Cities, Dan's Expansion, Joshua's Inheritance, Land Distribution Complete"
+tags:
+  - second-lot-Simeon
+  - tribe-children-Simeon-families
+  - inheritance-inheritance-children-Judah
+  - Beer-sheba-Sheba-Moladah
+  - Hazar-shual-Balah-Azem
+  - Eltolad-Bethul-Hormah
+  - Ziklag-Beth-marcaboth-Hazar-susah
+  - Beth-lebaoth-Sharuhen
+  - thirteen-cities-villages
+  - Ain-Remmon-Ether-Ashan
+  - four-cities-villages
+  - inheritance-tribe-children-Simeon-families
+  - part-children-Judah
+  - children-Simeon-inheritance-inheritance
+  - third-lot-children-Zebulun-families
+  - border-inheritance-Sarid
+  - border-sea-Maralah-Dabbasheth
+  - river-Jokneam
+  - turned-Sarid-eastward-sunrising
+  - border-Chisloth-tabor
+  - Daberath-Japhia
+  - Remmon-methoar-Neah
+  - border-north-Hannathon
+  - outgoings-valley-Jiphthah-el
+  - twelve-cities-villages
+  - inheritance-children-Zebulun-families
+  - fourth-lot-children-Issachar-families
+  - border-Jezreel-Chesulloth-Shunem
+  - Hapharaim-Shion-Anaharath
+  - Rabbith-Kishion-Abez
+  - coast-Tabor-Shahazimah-Beth-shemesh
+  - outgoings-border-Jordan
+  - sixteen-cities-villages
+  - inheritance-tribe-children-Issachar-families
+  - border-Helkath-Hali-Beten-Achshaph
+  - Alammelech-Amad-Misheal
+  - Carmel-westward-Shihor-libnath
+  - sunrising-Beth-dagon-Zebulun
+  - Neiel-Cabul-left-hand
+  - Hebron-Rehob-Hammon-Kanan
+  - great-Zidon
+  - coast-Ramah-strong-city-Tyre
+  - coast-Hosah
+  - outgoings-sea-coast-Achzib
+  - Ummah-Aphek-Rehob
+  - twenty-two-cities-villages
+  - inheritance-tribe-children-Asher-families
+  - sixth-lot-children-Naphtali-families
+  - coast-Heleph-Allon-Zaanannim
+  - Adami-Nekeb-Jabneel-Lakum
+  - outgoings-Jordan
+  - coast-westward-Aznoth-tabor
+  - Hukkok-Zebulun-south-Asher-west
+  - Judah-Jordan-sunrising
+  - Adamah-Ramah-Hazor
+  - Kedesh-Edrei-En-hazor
+  - nineteen-cities-villages
+  - inheritance-tribe-children-Naphtali-families
+  - Shaalabbin-Ajalon-Jethlah
+  - Elon-Thimnathah-Ekron
+  - Eltekeh-Gibbethon-Baalath
+  - Jehud-Bene-berak-Gath-rimmon
+  - Me-jarkon-Rakkon-border-Japho
+  - coast-children-Dan-little
+  - children-Dan-fight-Leshem
+  - took-smote-edge-sword
+  - possessed-dwelt
+  - inheritance-tribe-children-Dan-families
+  - dividing-land-inheritance-coasts
+  - word-LORD-city-asked
+  - Timnath-serah-mount-Ephraim
+  - built-city-dwelt
+  - heads-fathers-tribes-children-Israel
+  - divided-inheritance-lot-Shiloh-LORD
+  - door-tabernacle-congregation
+  - end-dividing-country
+  - tribal-inheritances
+  - simeon-within-judah
+  - zebulun
+  - issachar
+  - asher
+  - naphtali
+  - dan
+  - joshua
+  - land-distribution-complete
+---
 # Joshua 19
 
 ---
@@ -87,7 +179,7 @@ The second lot goes to Simeon within Judah's inheritance because Judah's portion
 
 
 *AI Keywords for current event matching:*
-`abez` `achshaph` `achzib` `adamah` `adami` `ain` `ajalon` `alammelech` `allon` `amad` `anaharath` `aphek` `ashan` `asher` `ashers` `asked` `azem` `aznoth-tabor` `baalath` `baalath-beer` `balah` `beer-sheba` `bene-berak` `beten` `beth-anath` `beth-dagon` `beth-emek` `beth-lebaoth` `beth-lehem` `beth-marcaboth` `beth-pazzez` `beth-shemesh` `bethul` `border` `built` `cabul` `called` `carmel` `chesulloth` `children` `chinnereth` `chisloth-tabor` `cities` `city` `coast` `coasts` `congregation` `country` `dabbasheth` `daberath` `dan` `dans` `divided` `dividing` `door` `dwelt` `east` `eastward` `edge` `edrei` `ekron` `eleazar` `elon` `eltekeh` `eltolad` `en-gannim` `en-haddah` `en-hazor` `end` `ephraim` `eshtaol` `ether` `families` `father` `fathers` `fenced` `fifth` `fight` `four` `fourth` `gath-rimmon` `gibbethon` `gittah-hepher` `great` `hali` `hammath` `hammon` `hand` `hannathon` `hapharaim` `hazar-shual` `hazar-susah` `hazor` `heads` `hebron` `heleph` `helkath` `horem` `hormah` `hosah` `hukkok` `idalah` `inheritance` `inheritances` `ir-shemesh` `iron` `israel` `issachar` `issachars` `ittah-kazin` `jabneel` `japhia` `japho` `jehud` `jethlah` `jezreel` `jiphthah-el` `jokneam` `jordan` `joshua` `joshuas` `judah` `kanan` `kattath` `kedesh` `kishion` `lakum` `land` `left` `leshem` `little` `lord` `lot` `maralah` `me-jarkon` `migdal-el` `misheal` `moladah` `mount` `nahallal` `name` `naphtali` `naphtalis` `neah` `neiel` `nekeb` `nineteen` `north` `nun` `outgoings` `part` `pass` `portion` `possessed` `priest` `rabbith` `rakkath` `rakkon` `ramah` `ramath` `rehob` `remeth` `remmon` `remmon-methoar` `river` `sarid` `sea` `second` `seventh` `shaalabbin` `shahazimah` `sharuhen` `sheba` `shihor-libnath` `shiloh` `shimron` `shion` `shunem` `simeon` `simeons` `sixteen` `sixth` `smote` `son` `south` `strong` `sunrising` `sword` `tabernacle` `tabor` `thimnathah` `third` `thirteen` `timnath-serah` `took` `tribe` `tribes` `turned` `twelve` `twenty` `two` `tyre` `ummah` `valley` `villages` `west` `westward` `word` `zaanannim` `zebulun` `zebuluns` `zer` `ziddim` `zidon` `ziklag` `zorah`
+#abez #achshaph #achzib #adamah #adami #ain #ajalon #alammelech #allon #amad #anaharath #aphek #ashan #asher #ashers #asked #azem #aznoth-tabor #baalath #baalath-beer #balah #beer-sheba #bene-berak #beten #beth-anath #beth-dagon #beth-emek #beth-lebaoth #beth-lehem #beth-marcaboth #beth-pazzez #beth-shemesh #bethul #border #built #cabul #called #carmel #chesulloth #children #chinnereth #chisloth-tabor #cities #city #coast #coasts #congregation #country #dabbasheth #daberath #dan #dans #divided #dividing #door #dwelt #east #eastward #edge #edrei #ekron #eleazar #elon #eltekeh #eltolad #en-gannim #en-haddah #en-hazor #end #ephraim #eshtaol #ether #families #father #fathers #fenced #fifth #fight #four #fourth #gath-rimmon #gibbethon #gittah-hepher #great #hali #hammath #hammon #hand #hannathon #hapharaim #hazar-shual #hazar-susah #hazor #heads #hebron #heleph #helkath #horem #hormah #hosah #hukkok #idalah #inheritance #inheritances #ir-shemesh #iron #israel #issachar #issachars #ittah-kazin #jabneel #japhia #japho #jehud #jethlah #jezreel #jiphthah-el #jokneam #jordan #joshua #joshuas #judah #kanan #kattath #kedesh #kishion #lakum #land #left #leshem #little #lord #lot #maralah #me-jarkon #migdal-el #misheal #moladah #mount #nahallal #name #naphtali #naphtalis #neah #neiel #nekeb #nineteen #north #nun #outgoings #part #pass #portion #possessed #priest #rabbith #rakkath #rakkon #ramah #ramath #rehob #remeth #remmon #remmon-methoar #river #sarid #sea #second #seventh #shaalabbin #shahazimah #sharuhen #sheba #shihor-libnath #shiloh #shimron #shion #shunem #simeon #simeons #sixteen #sixth #smote #son #south #strong #sunrising #sword #tabernacle #tabor #thimnathah #third #thirteen #timnath-serah #took #tribe #tribes #turned #twelve #twenty #two #tyre #ummah #valley #villages #west #westward #word #zaanannim #zebulun #zebuluns #zer #ziddim #zidon #ziklag #zorah
 
 
 ---

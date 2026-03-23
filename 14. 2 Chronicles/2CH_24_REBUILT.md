@@ -1,3 +1,16 @@
+---
+book: "2 Chronicles"
+chapter: 24
+testament: "Old Testament"
+key_themes: "Temple Repair, Faithful Service, Spiritual Decline, Prophetic Martyrdom"
+tags:
+  - Jehoiada-wives-begat-sons-daughters
+  - Joash-mind-repair-house-LORD
+  - temple-repair
+  - faithful-service
+  - spiritual-decline
+  - prophetic-martyrdom
+---
 # 2 Chronicles 24
 
 ---
@@ -193,7 +206,7 @@ Joash, seven, years, reigned, forty, years, Jerusalem, mother, Zibiah, Beer, she
 
 
 *AI Keywords for current event matching:*
-`abundance` `amaziah` `ammonitess` `army` `athaliah` `baalim` `bed` `beer` `begat` `bestowed` `blood` `book` `brass` `broken` `brought` `burdens` `buried` `burnt` `carpenters` `casted` `chest` `chief` `cities` `city` `collection` `commandment` `commandments` `company` `congregation` `conspired` `continually` `court` `damascus` `daughters` `david` `day` `days` `death` `decline` `dedicated` `delivered` `departed` `destroyed` `died` `diseases` `divine` `ear` `emptied` `end` `executed` `faithful` `father` `fathers` `finished` `forsaken` `forty` `full` `gate` `gather` `gathered` `give` `god` `gold` `good` `great` `greatness` `groves` `hand` `hasten` `hastened` `hearkened` `high` `hired` `host` `house` `hundred` `idols` `iron` `israel` `jehoiada` `jehozabad` `jerusalem` `joash` `judah` `judgment` `kindness` `king` `kings` `left` `levites` `lord` `masons` `mend` `mind` `minister` `moabitess` `money` `moses` `mother` `obeisance` `offer` `offerings` `office` `officer` `old` `people` `perfected` `place` `priest` `priests` `princes` `proclamation` `prophets` `prosper` `reigned` `rejoiced` `remembered` `repair` `repairing` `require` `required` `right` `royal` `scribe` `sent` `sepulchres` `servant` `servants` `served` `service` `set` `seven` `sheba` `shimeath` `shimrith` `sight` `silver` `slew` `small` `son` `sons` `spirit` `spiritual` `spoil` `spoons` `state` `stead` `stones` `story` `strengthened` `summary` `syria` `syrians` `tabernacle` `temple` `testified` `thirty` `transgress` `trespass` `vessels` `waxed` `wicked` `wilderness` `witness` `wives` `woman` `work` `workmen` `wrath` `wrought` `year` `years` `young` `zabad` `zechariah` `zibiah`
+#abundance #amaziah #ammonitess #army #athaliah #baalim #bed #beer #begat #bestowed #blood #book #brass #broken #brought #burdens #buried #burnt #carpenters #casted #chest #chief #cities #city #collection #commandment #commandments #company #congregation #conspired #continually #court #damascus #daughters #david #day #days #death #decline #dedicated #delivered #departed #destroyed #died #diseases #divine #ear #emptied #end #executed #faithful #father #fathers #finished #forsaken #forty #full #gate #gather #gathered #give #god #gold #good #great #greatness #groves #hand #hasten #hastened #hearkened #high #hired #host #house #hundred #idols #iron #israel #jehoiada #jehozabad #jerusalem #joash #judah #judgment #kindness #king #kings #left #levites #lord #masons #mend #mind #minister #moabitess #money #moses #mother #obeisance #offer #offerings #office #officer #old #people #perfected #place #priest #priests #princes #proclamation #prophets #prosper #reigned #rejoiced #remembered #repair #repairing #require #required #right #royal #scribe #sent #sepulchres #servant #servants #served #service #set #seven #sheba #shimeath #shimrith #sight #silver #slew #small #son #sons #spirit #spiritual #spoil #spoons #state #stead #stones #story #strengthened #summary #syria #syrians #tabernacle #temple #testified #thirty #transgress #trespass #vessels #waxed #wicked #wilderness #witness #wives #woman #work #workmen #wrath #wrought #year #years #young #zabad #zechariah #zibiah
 
 
 ---

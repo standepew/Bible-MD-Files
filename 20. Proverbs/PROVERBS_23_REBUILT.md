@@ -1,3 +1,14 @@
+---
+book: "Proverbs"
+chapter: 23
+testament: "Old Testament"
+key_themes: "Self-Control, Wealth and Wisdom, Parental Instruction, Avoiding Evil"
+tags:
+  - selfcontrol
+  - wealth-and-wisdom
+  - parental-instruction
+  - avoiding-evil
+---
 # Proverbs 23
 
 ---
@@ -129,7 +140,7 @@ Sittest, eat, ruler, consider, diligently, knife, throat, man, given, appetite, 
 
 
 *AI Keywords for current event matching:*
-`apply` `avoiding` `begat` `biteth` `buy` `cease` `consider` `correction` `deep` `diligently` `ditch` `evil` `father` `greatly` `hearken` `heart` `instruction` `knife` `labour` `look` `narrow` `parental` `pit` `rejoice` `rich` `righteous` `self-control` `sell` `serpent` `strange` `throat` `truth` `wealth` `whore` `wine` `wisdom` `withhold` `woman`
+#apply #avoiding #begat #biteth #buy #cease #consider #correction #deep #diligently #ditch #evil #father #greatly #hearken #heart #instruction #knife #labour #look #narrow #parental #pit #rejoice #rich #righteous #self-control #sell #serpent #strange #throat #truth #wealth #whore #wine #wisdom #withhold #woman
 
 
 ---

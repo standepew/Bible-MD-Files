@@ -1,3 +1,13 @@
+---
+book: "Isaiah"
+chapter: 51
+testament: "Old Testament"
+key_themes: "Christ's Comfort, Divine Salvation, Eternal Righteousness, Christ's Deliverance"
+tags:
+  - christ
+  - divine-salvation
+  - eternal-righteousness
+---
 # Isaiah 51
 
 ---
@@ -117,7 +127,7 @@ Hearken, follow, righteousness, seek, LORD, rock, hewn, hole, pit, digged, Look,
 
 
 *AI Keywords for current event matching:*
-`abolished` `afflicted` `arm` `arms` `awake` `christs` `comfort` `cut` `deliverance` `desert` `divine` `dragon` `dried` `eat` `eden` `eternal` `forever` `garden` `garment` `generation` `gone` `isles` `judge` `lord` `moth` `near` `people` `places` `rahab` `redeemed` `return` `righteousness` `salvation` `sea` `singing` `wait` `waste` `waters` `wilderness` `wounded` `zion`
+#abolished #afflicted #arm #arms #awake #christs #comfort #cut #deliverance #desert #divine #dragon #dried #eat #eden #eternal #forever #garden #garment #generation #gone #isles #judge #lord #moth #near #people #places #rahab #redeemed #return #righteousness #salvation #sea #singing #wait #waste #waters #wilderness #wounded #zion
 
 
 ---

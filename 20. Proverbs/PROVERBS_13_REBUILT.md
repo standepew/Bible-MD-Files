@@ -1,3 +1,14 @@
+---
+book: "Proverbs"
+chapter: 13
+testament: "Old Testament"
+key_themes: "Wisdom and Instruction, Speech and Life, Diligence and Poverty, Truth and Deception"
+tags:
+  - wisdom-and-instruction
+  - speech-and-life
+  - diligence-and-poverty
+  - truth-and-deception
+---
 # Proverbs 13
 
 ---
@@ -153,7 +164,7 @@ Wise, son, heareth, father, instruction, scorner, heareth, not, rebuke, man, eat
 
 
 *AI Keywords for current event matching:*
-`ambassador` `deception` `desireth` `destruction` `diligence` `diligent` `faithful` `fat` `fountain` `fruit` `gotten` `hateth` `health` `heareth` `instruction` `keepeth` `law` `life` `lips` `loathsome` `lying` `made` `man` `mouth` `openeth` `poverty` `rebuke` `righteous` `scorner` `sluggard` `son` `soul` `speech` `truth` `vanity` `wealth` `wicked` `wide` `wisdom` `wise`
+#ambassador #deception #desireth #destruction #diligence #diligent #faithful #fat #fountain #fruit #gotten #hateth #health #heareth #instruction #keepeth #law #life #lips #loathsome #lying #made #man #mouth #openeth #poverty #rebuke #righteous #scorner #sluggard #son #soul #speech #truth #vanity #wealth #wicked #wide #wisdom #wise
 
 
 ---

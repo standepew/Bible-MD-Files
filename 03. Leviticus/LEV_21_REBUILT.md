@@ -1,3 +1,23 @@
+---
+book: "Leviticus"
+chapter: 21
+testament: "Old Testament"
+key_themes: "The holiness requirements for priests exceeding those for the general congregation — stricter standard for those who draw near, The high priest's heightened standard above all other priests — no mourning even for father or mother, No blemished man may approach the altar to offer — but he may eat the holy food, "I the LORD do sanctify them" — God is the one who makes holy; human imperfection does not disqualify from what God gives, but from what God requires at the altar"
+tags:
+  - priestly-holiness
+  - no-defilement-for-dead
+  - near-kin-exceptions
+  - no-baldness-cuttings
+  - holy-to-God
+  - no-profane-wife
+  - high-priest-standards
+  - no-uncovering-head
+  - no-touching-dead-body
+  - virgin-wife-for-high-priest
+  - blemish-disqualifies-from-altar
+  - not-from-eating-holy-food
+  - I-the-LORD-sanctify
+---
 # Leviticus 21
 
 ---
@@ -63,7 +83,7 @@ God addresses the priests through Moses: the ordinary priest may not defile hims
 
 
 *AI Keywords for current event matching:*
-`211-12` `accountability` `current` `events` `higher` `james` `leaders` `leviticus` `luke` `matching` `teachers`
+#211-12 #accountability #current #events #higher #james #leaders #leviticus #luke #matching #teachers
 
 
 ---
@@ -142,13 +162,13 @@ The twelve conditions listed in Leviticus 21:18-20 were never meant to exclude t
 
 ### The High Priest Who Cannot Mourn — A Thread to Gethsemane
 
-**Leviticus 21:10-12** — The high priest cannot uncover his head, rend his clothes, or defile himself for any dead person — not even his own father or mother. He cannot leave the sanctuary.
+[[03. Leviticus/LEV_21_REBUILT|Leviticus 21:10-12]] — The high priest cannot uncover his head, rend his clothes, or defile himself for any dead person — not even his own father or mother. He cannot leave the sanctuary.
 
 This requirement produces a remarkable typological echo:
 
-- **John 11:33-35** — Jesus "groaned in the spirit... and Jesus wept" at Lazarus's tomb — the great High Priest who was also fully human, entering into human grief before He conquered it
-- **Hebrews 5:7-8** — "Who in the days of his flesh, when he had offered up prayers and supplications with strong crying and tears unto him that was able to save him from death... Though he were a Son, yet learned he obedience by the things which he suffered"
-- **Hebrews 4:15** — "touched with the feeling of our infirmities"
+- [[43. John/JOHN_11_REBUILT|John 11:33-35]] — Jesus "groaned in the spirit... and Jesus wept" at Lazarus's tomb — the great High Priest who was also fully human, entering into human grief before He conquered it
+- [[58. Hebrews/HEBREWS_05_REBUILT|Hebrews 5:7-8]] — "Who in the days of his flesh, when he had offered up prayers and supplications with strong crying and tears unto him that was able to save him from death... Though he were a Son, yet learned he obedience by the things which he suffered"
+- [[58. Hebrews/HEBREWS_04_REBUILT|Hebrews 4:15]] — "touched with the feeling of our infirmities"
 
 The Aaronic high priest could not mourn because he was the type: the one who represents the living God before a death-marked people. Christ, the antitype, entered death fully — and conquered it — something no Aaronic high priest could do. The restriction of Leviticus 21:10-12 is the shadow; Hebrews 4:15 and 5:7-8 show the substance: a High Priest who is both perfectly holy AND touched with human grief.
 

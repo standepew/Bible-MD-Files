@@ -1,3 +1,14 @@
+---
+book: "Proverbs"
+chapter: 7
+testament: "Old Testament"
+key_themes: "Warning Against Adultery, Seductive Deception, Fatal Consequences, Wisdom's Protection"
+tags:
+  - warning-against-adultery
+  - seductive-deception
+  - fatal-consequences
+  - wisdom
+---
 # Proverbs 7
 
 ---
@@ -117,7 +128,7 @@ Son, keep, words, lay, commandments, keep, commandments, live, law, apple, eye, 
 
 
 *AI Keywords for current event matching:*
-`adultery` `against` `attire` `commandments` `consequences` `dart` `deception` `decline` `fair` `fatal` `flattereth` `flattering` `forced` `harlot` `heart` `hell` `house` `keep` `lips` `liver` `protection` `seductive` `sister` `slaughter` `speech` `strange` `strike` `subtil` `understanding` `warning` `way` `ways` `wisdom` `wisdoms` `woman` `words`
+#adultery #against #attire #commandments #consequences #dart #deception #decline #fair #fatal #flattereth #flattering #forced #harlot #heart #hell #house #keep #lips #liver #protection #seductive #sister #slaughter #speech #strange #strike #subtil #understanding #warning #way #ways #wisdom #wisdoms #woman #words
 
 
 ---

@@ -1,3 +1,59 @@
+---
+book: "Genesis"
+chapter: 31
+testament: "Old Testament"
+key_themes: "Laban's Sons' Resentment and Laban's Changed Countenance — The Signal to Depart, The LORD's Direct Command to Return — "I Will Be with Thee" — Bethel Vow Moving to Fulfillment, Jacob Summons Rachel and Leah — The Field Conference — Their Declaration of No Inheritance in Laban's House, The Angel of God in the Dream — "I Have Seen All That Laban Doeth unto Thee" — Divine Surveillance of Injustice, Jacob's Secret Departure While Laban Shears Sheep, Rachel Stealing the Teraphim — Idolatry Introduced into the Covenant Household, Laban's Seven-Day Pursuit, God Warns Laban — "Take Heed That Thou Speak Not to Jacob Either Good or Bad", Jacob's Bold Defense — Twenty Years of Faithful Service — Laban's Ten Wage-Changes, "The God of My Father, the God of Abraham, and the Fear of Isaac Had Been with Me", Rachel's Concealment of the Teraphim on the Camel Saddle — Her Deception of Her Father, Jacob's Unknowing Curse — "With Whomsoever Thou Findest Thy Gods, Let Him Not Live", The Covenant at Gilead/Mizpah — Heap of Witness — Two Languages One Meaning, "The LORD Watch Between Me and Thee" — A Boundary Covenant Under Divine Surveillance, Laban Departs — Jacob Goes on His Way — Twenty Years of Exile Ended"
+tags:
+  - Laban-sons-resentment
+  - Laban-countenance-changed
+  - Genesis-28-15-Bethel-promise-now-fulfilled
+  - LORD-command-return-land-of-fathers
+  - I-will-be-with-thee
+  - Jacob-summons-Rachel-Leah-field-conference
+  - Rachel-Leah-no-inheritance-in-Labans-house
+  - angel-of-God-in-dream
+  - I-am-the-God-of-Bethel
+  - I-have-seen-all-Laban-doeth
+  - Angel-of-Lord-as-theophany
+  - Genesis-16-7-Hagar
+  - Exodus-3-2-burning-bush
+  - Judges-6-12
+  - Hosea-12-3-5
+  - Jacob-secret-departure
+  - Rachel-steals-teraphim
+  - household-gods
+  - teraphim-divination
+  - Judges-17-18
+  - 1-Samuel-19-13
+  - 2-Kings-23-24
+  - Zechariah-10-2
+  - Genesis-35-2-4-purging-gods
+  - Laban-pursues-seven-days
+  - God-warns-Laban-dream
+  - take-heed-neither-good-nor-bad
+  - God-restrains-Laban-like-Pharaoh
+  - Exodus-14-24-25
+  - Jacob-bold-defense
+  - twenty-years-faithful-service
+  - Laban-changed-wages-ten-times
+  - Numbers-14-22-ten-tests
+  - God-seen-affliction
+  - fear-of-Isaac
+  - pahad-yitschak
+  - Jacob-unknowing-curse-teraphim
+  - Rachel-sits-on-them
+  - camel-saddle-deception
+  - Galeed-Jegar-sahadutha
+  - heap-of-witness
+  - Mizpah-watchtower
+  - boundary-covenant-divine-surveillance
+  - Laban-parting-blessings
+  - departure-from-Padanaram-type-Exodus
+  - Genesis-15-13-14
+  - covenant-pillar-matstsebah-thread
+  - Joshua-4-memorial-stones
+  - stones-as-witnesses
+---
 # Genesis 31
 
 ---
@@ -175,7 +231,7 @@ Laban's response was both grasping and impotent — "these daughters are mine, t
 
 For AI matching to topics and current events:
 
-`Jacob flees Laban Padanaram` `Laban countenance changed` `LORD command return land of fathers` `Genesis 28:15 Bethel promise now fulfilled` `I will be with thee covenant presence` `Joshua 1:5 as I was with Moses` `Matthew 28:20 I am with you alway` `Angel of God in dream Jacob` `I am the God of Bethel` `I have seen all Laban doeth` `Angel of LORD theophany` `Genesis 16:7 Hagar El Roi` `Genesis 22:11 by myself have I sworn` `Exodus 3:2-6 burning bush` `Judges 6:14 LORD looked upon Gideon` `Judges 13:18 wonderful name` `Hosea 12:3-5 LORD God of hosts` `Revelation 22:8-9 angels refuse worship` `Rachel Leah no portion inheritance in Labans house` `whatsoever God hath said unto thee do` `Ruth 1:16 whither thou goest` `Rachel steals teraphim` `household gods divination` `Judges 17-18 teraphim` `1 Samuel 15:23 rebellion as teraphim` `1 Samuel 19:13 Michal teraphim` `2 Kings 23:24 Josiah reform teraphim` `Zechariah 10:2 teraphim speak vanity` `Genesis 35:2-4 put away strange gods` `Laban pursues seven days` `God warns Laban take heed speak not good or bad` `Exodus 14:24-25 God troubled Pharaoh` `Jacob bold defense twenty years` `fourteen years daughters six years cattle` `Laban changed wages ten times` `Numbers 14:22 ten tests wilderness` `Malachi 3:5 oppress hireling wages` `James 5:4 hire kept back by fraud` `God seen affliction labour of my hands` `fear of Isaac pahad Yitschak` `Proverbs 1:7 fear of LORD beginning of wisdom` `Hebrews 12:28-29 consuming fire` `Jacob unknowing curse teraphim` `Rachel sits on camel saddle` `Rachel deception custom of women` `Leviticus 5:4-5 inadvertent oath` `Galeed Jegar-sahadutha heap of witness` `Mizpah watchtower` `boundary covenant divine surveillance` `LORD watch between me and thee` `Mizpah misused as blessing` `Deuteronomy 19:15 two or three witnesses` `Job 16:19 witness in heaven` `Romans 1:9 God is my witness` `departure from Padanaram type Exodus` `Genesis 15:13-14 come out with great substance` `covenant pillar matstsebah` `stones as witnesses` `Joshua 4:6-7 memorial stones` `Joshua 24:26-27 stone at Shechem`
+#Jacob-flees-Laban-Padanaram #Laban-countenance-changed #LORD-command-return-land-of-fathers #Genesis-2815-Bethel-promise-now-fulfilled #I-will-be-with-thee-covenant-presence #Joshua-15-as-I-was-with-Moses #Matthew-2820-I-am-with-you-alway #Angel-of-God-in-dream-Jacob #I-am-the-God-of-Bethel #I-have-seen-all-Laban-doeth #Angel-of-LORD-theophany #Genesis-167-Hagar-El-Roi #Genesis-2211-by-myself-have-I-sworn #Exodus-32-6-burning-bush #Judges-614-LORD-looked-upon-Gideon #Judges-1318-wonderful-name #Hosea-123-5-LORD-God-of-hosts #Revelation-228-9-angels-refuse-worship #Rachel-Leah-no-portion-inheritance-in-Labans-house #whatsoever-God-hath-said-unto-thee-do #Ruth-116-whither-thou-goest #Rachel-steals-teraphim #household-gods-divination #Judges-17-18-teraphim #1-Samuel-1523-rebellion-as-teraphim #1-Samuel-1913-Michal-teraphim #2-Kings-2324-Josiah-reform-teraphim #Zechariah-102-teraphim-speak-vanity #Genesis-352-4-put-away-strange-gods #Laban-pursues-seven-days #God-warns-Laban-take-heed-speak-not-good-or-bad #Exodus-1424-25-God-troubled-Pharaoh #Jacob-bold-defense-twenty-years #fourteen-years-daughters-six-years-cattle #Laban-changed-wages-ten-times #Numbers-1422-ten-tests-wilderness #Malachi-35-oppress-hireling-wages #James-54-hire-kept-back-by-fraud #God-seen-affliction-labour-of-my-hands #fear-of-Isaac-pahad-Yitschak #Proverbs-17-fear-of-LORD-beginning-of-wisdom #Hebrews-1228-29-consuming-fire #Jacob-unknowing-curse-teraphim #Rachel-sits-on-camel-saddle #Rachel-deception-custom-of-women #Leviticus-54-5-inadvertent-oath #Galeed-Jegar-sahadutha-heap-of-witness #Mizpah-watchtower #boundary-covenant-divine-surveillance #LORD-watch-between-me-and-thee #Mizpah-misused-as-blessing #Deuteronomy-1915-two-or-three-witnesses #Job-1619-witness-in-heaven #Romans-19-God-is-my-witness #departure-from-Padanaram-type-Exodus #Genesis-1513-14-come-out-with-great-substance #covenant-pillar-matstsebah #stones-as-witnesses #Joshua-46-7-memorial-stones #Joshua-2426-27-stone-at-Shechem
 
 **Relevance to Current Events:**
 - Unjust wages and God's witnessing thereof (Malachi 3:5, James 5:4) — applicable to labor injustice, wage theft, and the theology of just compensation; God heard Jacob's twenty years of wage manipulation; He hears today

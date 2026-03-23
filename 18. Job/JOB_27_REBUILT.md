@@ -1,3 +1,28 @@
+---
+book: "Job"
+chapter: 27
+testament: "Old Testament"
+key_themes: "Job's Oath, Personal Integrity, Wicked's Fate, Divine Justice"
+tags:
+  - forbid-justify-die-integrity
+  - righteousness-hold-heart-reproach-live
+  - enemy-wicked-riseth-unrighteous
+  - hope-hypocrite-gained-taketh-soul
+  - trouble-cry-delight-Almighty-call
+  - children-multiplied-sword-offspring-bread
+  - remain-buried-death-widows-weep
+  - heap-silver-dust-raiment-clay
+  - prepare-just-put-innocent-divide
+  - build-house-moth-booth-keeper
+  - rich-lie-gathered-eyes-not
+  - terrors-waters-tempest-stealeth-night
+  - God-cast-spare-flee-hand
+  - clap-hands-hiss-place
+  - job
+  - personal-integrity
+  - wicked
+  - divine-justice
+---
 # Job 27
 
 ---
@@ -141,7 +166,7 @@ Job, continued, parable, God, liveth, taken, judgment, Almighty, vexed, soul. Br
 
 
 *AI Keywords for current event matching:*
-`almighty` `bread` `breath` `buried` `call` `children` `clay` `conceal` `continued` `cry` `death` `deceit` `delight` `die` `divine` `dust` `enemy` `fate` `forbid` `gained` `god` `hand` `heap` `heart` `heritage` `hold` `hope` `hypocrite` `integrity` `job` `jobs` `judgment` `justice` `justify` `lips` `live` `liveth` `multiplied` `nostrils` `oath` `offspring` `oppressors` `parable` `personal` `portion` `raiment` `remain` `reproach` `righteousness` `riseth` `seen` `silver` `soul` `spirit` `sword` `taken` `taketh` `teach` `tongue` `trouble` `unrighteous` `vain` `vexed` `weep` `wicked` `wickedness` `wickeds` `widows`
+#almighty #bread #breath #buried #call #children #clay #conceal #continued #cry #death #deceit #delight #die #divine #dust #enemy #fate #forbid #gained #god #hand #heap #heart #heritage #hold #hope #hypocrite #integrity #job #jobs #judgment #justice #justify #lips #live #liveth #multiplied #nostrils #oath #offspring #oppressors #parable #personal #portion #raiment #remain #reproach #righteousness #riseth #seen #silver #soul #spirit #sword #taken #taketh #teach #tongue #trouble #unrighteous #vain #vexed #weep #wicked #wickedness #wickeds #widows
 
 
 ---

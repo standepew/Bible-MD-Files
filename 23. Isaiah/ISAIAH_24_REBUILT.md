@@ -1,3 +1,13 @@
+---
+book: "Isaiah"
+chapter: 24
+testament: "Old Testament"
+key_themes: "Christ's Kingdom, Earth's Judgment, Divine Reign, Christ's Glory"
+tags:
+  - christ
+  - earth
+  - divine-reign
+---
 # Isaiah 24
 
 ---
@@ -117,7 +127,7 @@ Behold, LORD, maketh, earth, empty, maketh, waste, turn, upside, scatter, abroad
 
 
 *AI Keywords for current event matching:*
-`ancients` `burned` `christs` `confounded` `curse` `devoured` `divine` `earth` `earths` `empty` `few` `fires` `gathered` `glorify` `gloriously` `glory` `god` `high` `israel` `jerusalem` `judgment` `kingdom` `kings` `left` `lord` `majesty` `men` `moon` `mount` `name` `ones` `pit` `prisoners` `punish` `reign` `righteous` `songs` `waste` `zion`
+#ancients #burned #christs #confounded #curse #devoured #divine #earth #earths #empty #few #fires #gathered #glorify #gloriously #glory #god #high #israel #jerusalem #judgment #kingdom #kings #left #lord #majesty #men #moon #mount #name #ones #pit #prisoners #punish #reign #righteous #songs #waste #zion
 
 
 ---

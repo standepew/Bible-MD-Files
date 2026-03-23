@@ -1,3 +1,13 @@
+---
+book: "Daniel"
+chapter: 2
+testament: "Old Testament"
+key_themes: "Christ's Revelation, Divine Dreams, Stone Kingdom, Christ's Victory"
+tags:
+  - christ
+  - divine-dreams
+  - stone-kingdom
+---
 # Daniel 2
 
 ---
@@ -145,7 +155,7 @@ Second, year, reign, Nebuchadnezzar, dreamed, dreams, spirit, troubled, sleep, b
 
 
 *AI Keywords for current event matching:*
-`babylon` `brake` `brass` `broken` `christs` `city` `city-states` `clay` `consume` `continuity` `corruption` `cut` `days` `destroyed` `divided` `divine` `dream` `dreamed` `dreams` `earth` `europe` `filled` `final` `forever` `form` `four` `genesis` `genetic` `god` `gold` `great` `greece` `hands` `head` `heruli` `interpretation` `iron` `kingdom` `kingdoms` `know` `london` `matthew` `medo-persia` `men` `mingle` `mountain` `mystery` `never` `night` `noah` `one` `ostrogoths` `partly` `parts` `pieces` `revealed` `revealeth` `revelation` `rome` `secret` `secrets` `seed` `silver` `sons` `sovereign` `spirit` `stand` `stone` `strong` `system` `ten` `three` `toes` `together` `transferred` `troubled` `uprooted` `vandals` `vatican` `victory` `vision` `visions` `washington` `without` `world`
+#babylon #brake #brass #broken #christs #city #city-states #clay #consume #continuity #corruption #cut #days #destroyed #divided #divine #dream #dreamed #dreams #earth #europe #filled #final #forever #form #four #genesis #genetic #god #gold #great #greece #hands #head #heruli #interpretation #iron #kingdom #kingdoms #know #london #matthew #medo-persia #men #mingle #mountain #mystery #never #night #noah #one #ostrogoths #partly #parts #pieces #revealed #revealeth #revelation #rome #secret #secrets #seed #silver #sons #sovereign #spirit #stand #stone #strong #system #ten #three #toes #together #transferred #troubled #uprooted #vandals #vatican #victory #vision #visions #washington #without #world
 
 
 ---

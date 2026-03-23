@@ -1,3 +1,28 @@
+---
+book: "Ezra"
+chapter: 10
+testament: "Old Testament"
+key_themes: "National Repentance, Covenant Renewal, Strange Wives Put Away, Spiritual Reformation"
+tags:
+  - arise-matter-belong-courage
+  - congregation-answered-loud-voice-must
+  - sons-Immer-Hanani-Zebadiah
+  - Benjamin-Malluch-Shemariah
+  - sons-Bani-Maadai-Amram-Uel
+  - Benaiah-Bedeiah-Chelluh
+  - Vaniah-Meremoth-Eliashib
+  - Mattaniah-Mattenai-Jaasau
+  - Bani-Binnui-Shimei
+  - Shelemiah-Nathan-Adaiah
+  - Machnadebai-Shashai-Sharai
+  - Azareel-Shelemiah-Shemariah
+  - Shallum-Amariah-Joseph
+  - strange-wives-wives-children
+  - national-repentance
+  - covenant-renewal
+  - strange-wives-put-away
+  - spiritual-reformation
+---
 # Ezra 10
 
 ---
@@ -141,7 +166,7 @@ Ezra, prayed, confessed, weeping, casting, house, GOD, assembled, Israel, great,
 
 
 *AI Keywords for current event matching:*
-`abdi` `adaiah` `adna` `amariah` `amram` `answered` `appointed` `arise` `asahel` `assembled` `ate` `attlai` `away` `azareel` `aziza` `bani` `bebai` `bedeiah` `belong` `benaiah` `benjamin` `bezaleel` `binnui` `born` `bread` `brethren` `captivity` `carried` `casting` `chamber` `chelal` `chelluh` `chief` `children` `cities` `city` `commandment` `confessed` `confession` `congregation` `counsel` `courage` `covenant` `day` `days` `drink` `elam` `elasah` `elders` `eleazar` `eliah` `eliashib` `eliezer` `elijah` `elioenai` `eliphelet` `employed` `end` `examine` `ezra` `fathers` `fierce` `first` `flock` `forfeited` `gather` `gathered` `gedaliah` `god` `great` `guilty` `hanani` `hananiah` `hands` `harim` `hashum` `helped` `hope` `house` `immer` `increase` `ishijah` `ishmael` `israel` `jaasau` `jadau` `jahaziah` `jarib` `jashub` `jehiel` `jehohanan` `jeiel` `jeremai` `jeremoth` `jerusalem` `jeshua` `jeziah` `joel` `johanan` `jonathan` `joseph` `jozabad` `jozadak` `judah` `judges` `kelaiah` `kelita` `land` `law` `levite` `levites` `lord` `loud` `maadai` `maaseiah` `machnadebai` `malchiah` `malchijah` `malluch` `manasseh` `many` `mattaniah` `mattathah` `mattenai` `matter` `mattithiah` `men` `meremoth` `meshullam` `miamin` `moab` `month` `mourned` `must` `names` `nathan` `national` `nebo` `nethaneel` `ninth` `pahath` `parosh` `pashur` `people` `pethahiah` `pleasure` `porters` `prayed` `priest` `priests` `princes` `proclamation` `put` `rain` `ram` `ramiah` `ramoth` `reformation` `renewal` `repentance` `rose` `rulers` `sat` `separate` `separated` `shabbethai` `shallum` `sharai` `shashai` `sheal` `shechaniah` `shelemiah` `shemaiah` `shemariah` `shimei` `shimeon` `singers` `son` `sons` `sore` `spiritual` `stand` `strange` `street` `substance` `sware` `swear` `telem` `tenth` `three` `tikvah` `time` `times` `transgressed` `transgression` `tremble` `trembling` `trespass` `trespassed` `turned` `twentieth` `two` `uel` `uri` `uzziah` `vaniah` `voice` `water` `weeping` `wept` `whosoever` `wives` `women` `word` `work` `wrath` `zabad` `zabbai` `zattu` `zebadiah` `zebina` `zechariah`
+#abdi #adaiah #adna #amariah #amram #answered #appointed #arise #asahel #assembled #ate #attlai #away #azareel #aziza #bani #bebai #bedeiah #belong #benaiah #benjamin #bezaleel #binnui #born #bread #brethren #captivity #carried #casting #chamber #chelal #chelluh #chief #children #cities #city #commandment #confessed #confession #congregation #counsel #courage #covenant #day #days #drink #elam #elasah #elders #eleazar #eliah #eliashib #eliezer #elijah #elioenai #eliphelet #employed #end #examine #ezra #fathers #fierce #first #flock #forfeited #gather #gathered #gedaliah #god #great #guilty #hanani #hananiah #hands #harim #hashum #helped #hope #house #immer #increase #ishijah #ishmael #israel #jaasau #jadau #jahaziah #jarib #jashub #jehiel #jehohanan #jeiel #jeremai #jeremoth #jerusalem #jeshua #jeziah #joel #johanan #jonathan #joseph #jozabad #jozadak #judah #judges #kelaiah #kelita #land #law #levite #levites #lord #loud #maadai #maaseiah #machnadebai #malchiah #malchijah #malluch #manasseh #many #mattaniah #mattathah #mattenai #matter #mattithiah #men #meremoth #meshullam #miamin #moab #month #mourned #must #names #nathan #national #nebo #nethaneel #ninth #pahath #parosh #pashur #people #pethahiah #pleasure #porters #prayed #priest #priests #princes #proclamation #put #rain #ram #ramiah #ramoth #reformation #renewal #repentance #rose #rulers #sat #separate #separated #shabbethai #shallum #sharai #shashai #sheal #shechaniah #shelemiah #shemaiah #shemariah #shimei #shimeon #singers #son #sons #sore #spiritual #stand #strange #street #substance #sware #swear #telem #tenth #three #tikvah #time #times #transgressed #transgression #tremble #trembling #trespass #trespassed #turned #twentieth #two #uel #uri #uzziah #vaniah #voice #water #weeping #wept #whosoever #wives #women #word #work #wrath #zabad #zabbai #zattu #zebadiah #zebina #zechariah
 
 
 ---

@@ -1,3 +1,14 @@
+---
+book: "Matthew"
+chapter: 5
+testament: "New Testament"
+key_themes: "Christ's Beatitudes, Sermon on Mount, Kingdom Ethics, Perfect Righteousness"
+tags:
+  - christ
+  - sermon-on-mount
+  - kingdom-ethics
+  - perfect-righteousness
+---
 # Matthew 5
 
 ---
@@ -141,7 +152,7 @@ Seeing, multitudes, went, mountain, set, disciples, came, opened, mouth, taught,
 
 
 *AI Keywords for current event matching:*
-`anger` `beatitudes` `blessed` `brother` `christs` `comforted` `earth` `enemies` `ethics` `exceed` `father` `fulfill` `heart` `inherit` `kingdom` `law` `let` `light` `love` `lust` `meek` `mount` `mourn` `obedience` `perfect` `poor` `pure` `righteousness` `salt` `sermon` `shine` `spirit` `world`
+#anger #beatitudes #blessed #brother #christs #comforted #earth #enemies #ethics #exceed #father #fulfill #heart #inherit #kingdom #law #let #light #love #lust #meek #mount #mourn #obedience #perfect #poor #pure #righteousness #salt #sermon #shine #spirit #world
 
 
 ---

@@ -1,3 +1,14 @@
+---
+book: "Galatians"
+chapter: 6
+testament: "New Testament"
+key_themes: "Restoring the Fallen, Bearing Burdens, Sowing and Reaping, The Cross of Christ"
+tags:
+  - restoring-the-fallen
+  - bearing-burdens
+  - sowing-and-reaping
+  - the-cross-of-christ
+---
 # Galatians 6
 
 ---
@@ -93,7 +104,7 @@ Brethren, man, overtaken, fault, spiritual, restore, spirit, meekness, consideri
 
 
 *AI Keywords for current event matching:*
-`amen` `availeth` `bear` `bearing` `body` `brethren` `burden` `burdens` `christ` `circumcised` `circumcision` `communicate` `considering` `constrain` `corruption` `creature` `cross` `crucified` `deceived` `deceiveth` `desire` `doing` `due` `everlasting` `faint` `fair` `faith` `fallen` `fault` `flesh` `forbid` `fulfil` `glory` `god` `good` `grace` `hand` `household` `israel` `jesus` `keep` `large` `law` `lest` `letter` `life` `lord` `man` `marks` `meekness` `mercy` `mocked` `new` `nothing` `opportunity` `overtaken` `peace` `persecution` `prove` `reap` `reaping` `rejoicing` `restore` `restoring` `rule` `season` `shew` `something` `soweth` `sowing` `specially` `spirit` `spiritual` `suffer` `taught` `teacheth` `tempted` `think` `trouble` `uncircumcision` `walk` `weary` `word` `work` `world`
+#amen #availeth #bear #bearing #body #brethren #burden #burdens #christ #circumcised #circumcision #communicate #considering #constrain #corruption #creature #cross #crucified #deceived #deceiveth #desire #doing #due #everlasting #faint #fair #faith #fallen #fault #flesh #forbid #fulfil #glory #god #good #grace #hand #household #israel #jesus #keep #large #law #lest #letter #life #lord #man #marks #meekness #mercy #mocked #new #nothing #opportunity #overtaken #peace #persecution #prove #reap #reaping #rejoicing #restore #restoring #rule #season #shew #something #soweth #sowing #specially #spirit #spiritual #suffer #taught #teacheth #tempted #think #trouble #uncircumcision #walk #weary #word #work #world
 
 
 ---

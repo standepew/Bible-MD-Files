@@ -1,3 +1,14 @@
+---
+book: "Romans"
+chapter: 9
+testament: "New Testament"
+key_themes: "Paul's Sorrow for Israel, God's Sovereign Choice, Vessels of Mercy, Israel's Rejection"
+tags:
+  - paul
+  - god
+  - vessels-of-mercy
+  - israel
+---
 # Romans 9
 
 ---
@@ -177,7 +188,7 @@ Truth, Christ, lie, conscience, bearing, witness, Holy, Ghost, great, heaviness,
 
 
 *AI Keywords for current event matching:*
-`abraham` `accursed` `adoption` `afore` `ashamed` `attained` `bearing` `believeth` `beloved` `blessed` `born` `brethren` `called` `calleth` `children` `choice` `christ` `clay` `compassion` `conceived` `conscience` `continual` `counted` `covenants` `crieth` `declared` `destruction` `dishonour` `earth` `effect` `elder` `election` `endured` `esaias` `esau` `evil` `faith` `father` `fathers` `fault` `find` `finish` `fitted` `flesh` `followed` `forbid` `formed` `gentiles` `ghost` `giving` `glory` `god` `gods` `gomorrha` `good` `great` `harden` `hated` `heart` `heaviness` `holy` `honour` `isaac` `israel` `israelites` `israels` `jacob` `jews` `kinsmen` `known` `law` `left` `lie` `living` `longsuffering` `lord` `loved` `lump` `make` `mercy` `moses` `number` `offence` `osee` `pauls` `people` `pertaineth` `pharaoh` `place` `potter` `power` `prepared` `promise` `promises` `purpose` `raised` `rebecca` `rejection` `remnant` `resisted` `riches` `righteousness` `rock` `runneth` `sabaoth` `sand` `sara` `saved` `scripture` `sea` `seed` `serve` `service` `shew` `sheweth` `short` `sion` `sodoma` `son` `sorrow` `sought` `sovereign` `stand` `stumbled` `stumblingstone` `taken` `time` `truth` `unrighteousness` `vessel` `vessels` `willeth` `willing` `wish` `witness` `word` `work` `works` `wrath` `written` `younger`
+#abraham #accursed #adoption #afore #ashamed #attained #bearing #believeth #beloved #blessed #born #brethren #called #calleth #children #choice #christ #clay #compassion #conceived #conscience #continual #counted #covenants #crieth #declared #destruction #dishonour #earth #effect #elder #election #endured #esaias #esau #evil #faith #father #fathers #fault #find #finish #fitted #flesh #followed #forbid #formed #gentiles #ghost #giving #glory #god #gods #gomorrha #good #great #harden #hated #heart #heaviness #holy #honour #isaac #israel #israelites #israels #jacob #jews #kinsmen #known #law #left #lie #living #longsuffering #lord #loved #lump #make #mercy #moses #number #offence #osee #pauls #people #pertaineth #pharaoh #place #potter #power #prepared #promise #promises #purpose #raised #rebecca #rejection #remnant #resisted #riches #righteousness #rock #runneth #sabaoth #sand #sara #saved #scripture #sea #seed #serve #service #shew #sheweth #short #sion #sodoma #son #sorrow #sought #sovereign #stand #stumbled #stumblingstone #taken #time #truth #unrighteousness #vessel #vessels #willeth #willing #wish #witness #word #work #works #wrath #written #younger
 
 
 ---

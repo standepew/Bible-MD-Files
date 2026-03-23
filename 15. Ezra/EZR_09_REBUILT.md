@@ -1,3 +1,15 @@
+---
+book: "Ezra"
+chapter: 9
+testament: "Old Testament"
+key_themes: "Mixed Marriages, Ezra's Lament, Confession of Sin, Divine Mercy"
+tags:
+  - GOD-forsaken-commandments
+  - mixed-marriages
+  - ezra
+  - confession-of-sin
+  - divine-mercy
+---
 # Ezra 9
 
 ---
@@ -177,7 +189,7 @@ Things, done, princes, came, people, Israel, priests, Levites, separated, people
 
 
 *AI Keywords for current event matching:*
-`abominations` `affinity` `ammonites` `amorites` `angry` `arose` `ashamed` `assembled` `astonied` `beard` `blush` `bondage` `bondmen` `break` `came` `canaanites` `captivity` `carried` `chief` `children` `come` `commanded` `commandments` `confession` `confusion` `consumed` `daughters` `day` `days` `deeds` `deliverance` `delivered` `deserve` `desolations` `divine` `done` `eat` `egyptians` `escape` `escaped` `escaping` `evening` `evil` `extended` `eyes` `ezras` `face` `fathers` `fell` `filled` `filthiness` `forsaken` `garment` `give` `god` `good` `grace` `great` `grown` `hair` `hand` `hands` `head` `heard` `heavens` `heaviness` `hittites` `holy` `house` `increased` `inheritance` `iniquities` `israel` `jebusites` `jerusalem` `join` `judah` `kings` `knees` `lament` `land` `lands` `less` `levites` `lift` `lighten` `little` `lord` `mantle` `marriages` `mercy` `mingled` `mixed` `moabites` `nail` `peace` `people` `perizzites` `persia` `place` `plucked` `possess` `priests` `princes` `prophets` `punished` `remain` `remnant` `rent` `repair` `reviving` `righteous` `rulers` `sacrifice` `sat` `seed` `seek` `separated` `servants` `set` `sight` `sin` `sons` `space` `spoil` `spread` `stand` `strong` `sword` `take` `taken` `thing` `things` `transgression` `trembled` `trespass` `trespasses` `unclean` `uncleanness` `wall` `wealth` `words`
+#abominations #affinity #ammonites #amorites #angry #arose #ashamed #assembled #astonied #beard #blush #bondage #bondmen #break #came #canaanites #captivity #carried #chief #children #come #commanded #commandments #confession #confusion #consumed #daughters #day #days #deeds #deliverance #delivered #deserve #desolations #divine #done #eat #egyptians #escape #escaped #escaping #evening #evil #extended #eyes #ezras #face #fathers #fell #filled #filthiness #forsaken #garment #give #god #good #grace #great #grown #hair #hand #hands #head #heard #heavens #heaviness #hittites #holy #house #increased #inheritance #iniquities #israel #jebusites #jerusalem #join #judah #kings #knees #lament #land #lands #less #levites #lift #lighten #little #lord #mantle #marriages #mercy #mingled #mixed #moabites #nail #peace #people #perizzites #persia #place #plucked #possess #priests #princes #prophets #punished #remain #remnant #rent #repair #reviving #righteous #rulers #sacrifice #sat #seed #seek #separated #servants #set #sight #sin #sons #space #spoil #spread #stand #strong #sword #take #taken #thing #things #transgression #trembled #trespass #trespasses #unclean #uncleanness #wall #wealth #words
 
 
 ---

@@ -1,3 +1,14 @@
+---
+book: "Proverbs"
+chapter: 26
+testament: "Old Testament"
+key_themes: "Folly and Wisdom, Deception and Truth, Sloth and Diligence, Strife and Peace"
+tags:
+  - folly-and-wisdom
+  - deception-and-truth
+  - sloth-and-diligence
+  - strife-and-peace
+---
 # Proverbs 26
 
 ---
@@ -129,7 +140,7 @@ Snow, summer, rain, harvest, honour, seemly, fool, bird, wandering, swallow, fly
 
 
 *AI Keywords for current event matching:*
-`afflicted` `answer` `bed` `believe` `belonging` `ceaseth` `conceit` `contentious` `covered` `deceit` `deception` `diligence` `dog` `fair` `folly` `fool` `hateth` `hatred` `honour` `kindle` `lion` `lying` `man` `meddleth` `peace` `returneth` `seemly` `sloth` `slothful` `speaketh` `strife` `talebearer` `tongue` `truth` `vomit` `wisdom` `wiser`
+#afflicted #answer #bed #believe #belonging #ceaseth #conceit #contentious #covered #deceit #deception #diligence #dog #fair #folly #fool #hateth #hatred #honour #kindle #lion #lying #man #meddleth #peace #returneth #seemly #sloth #slothful #speaketh #strife #talebearer #tongue #truth #vomit #wisdom #wiser
 
 
 ---

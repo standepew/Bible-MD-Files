@@ -1,3 +1,16 @@
+---
+book: "3 John"
+chapter: 1
+testament: "New Testament"
+key_themes: "Walking in Truth, Faithful Service to Brethren, Supporting Missionaries, Opposition from Diotrephes, Good vs Evil, Commendation of Demetrius"
+tags:
+  - walking-in-truth
+  - faithful-service-to-brethren
+  - supporting-missionaries
+  - opposition-from-diotrephes
+  - good-vs-evil
+  - commendation-of-demetrius
+---
 # 3 John 1
 
 ---
@@ -83,7 +96,7 @@ Elder, wellbeloved, Gaius, love, truth, Beloved, wish, prosper, health, soul, pr
 
 
 *AI Keywords for current event matching:*
-`bear` `beloved` `borne` `brethren` `bring` `came` `casteth` `charity` `children` `church` `come` `content` `deeds` `demetrius` `diotrephes` `doest` `doeth` `elder` `evil` `face` `faithful` `faithfully` `fellowhelpers` `follow` `forbiddeth` `forth` `forward` `friends` `gaius` `gentiles` `god` `godly` `good` `greater` `greatly` `greet` `health` `hear` `ink` `journey` `joy` `know` `love` `loveth` `malicious` `men` `missionaries` `name` `opposition` `peace` `pen` `prating` `preeminence` `prosper` `prospereth` `receive` `receiveth` `record` `rejoiced` `remember` `report` `sake` `salute` `see` `seen` `service` `shortly` `sort` `soul` `speak` `strangers` `supporting` `taking` `testified` `true` `trust` `truth` `walk` `walkest` `walking` `wellbeloved` `went` `wish` `witness` `words` `write` `wrote`
+#bear #beloved #borne #brethren #bring #came #casteth #charity #children #church #come #content #deeds #demetrius #diotrephes #doest #doeth #elder #evil #face #faithful #faithfully #fellowhelpers #follow #forbiddeth #forth #forward #friends #gaius #gentiles #god #godly #good #greater #greatly #greet #health #hear #ink #journey #joy #know #love #loveth #malicious #men #missionaries #name #opposition #peace #pen #prating #preeminence #prosper #prospereth #receive #receiveth #record #rejoiced #remember #report #sake #salute #see #seen #service #shortly #sort #soul #speak #strangers #supporting #taking #testified #true #trust #truth #walk #walkest #walking #wellbeloved #went #wish #witness #words #write #wrote
 
 
 ---

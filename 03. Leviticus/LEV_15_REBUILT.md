@@ -1,3 +1,31 @@
+---
+book: "Leviticus"
+chapter: 15
+testament: "Old Testament"
+key_themes: "Bodily discharges and their ritual uncleanness — male chronic discharge, male seminal emission, female menstruation, female chronic hemorrhage, Uncleanness spreads through contact with bed, seat, and person of the unclean, Cleansing requires washing, seven days, and on the eighth day — two birds for atonement, "Thus shall ye separate the children of Israel from their uncleanness; that they die not in their uncleanness, when they defile my tabernacle that is among them""
+tags:
+  - bodily-discharges
+  - unclean-issue
+  - male-discharge
+  - female-discharge
+  - menstruation
+  - hemorrhage
+  - contact-uncleanness
+  - bed-unclean
+  - seat-unclean
+  - earthen-vessel-broken
+  - wash-clothes
+  - bathe-in-water
+  - seven-days
+  - eighth-day-offering
+  - two-turtledoves
+  - sin-offering
+  - burnt-offering
+  - separate-from-uncleanness
+  - defile-not-my-tabernacle
+  - woman-with-issue-of-blood
+  - Mark-5
+---
 # Leviticus 15
 
 ---
@@ -66,7 +94,7 @@ The chapter deals with four categories of bodily discharge. A man with a chronic
 
 
 *AI Keywords for current event matching:*
-`1525-30` `525-34` `843-48` `blood` `current` `events` `issue` `leviticus` `luke` `mark` `matching` `woman`
+#1525-30 #525-34 #843-48 #blood #current #events #issue #leviticus #luke #mark #matching #woman
 
 
 ---

@@ -1,3 +1,14 @@
+---
+book: "1 Corinthians"
+chapter: 1
+testament: "New Testament"
+key_themes: "Paul's Greeting, Thanksgiving, Unity in Christ, The Wisdom of the Cross"
+tags:
+  - paul
+  - thanksgiving
+  - unity-in-christ
+  - the-wisdom-of-the-cross
+---
 # 1 Corinthians 1
 
 ---
@@ -141,7 +152,7 @@ Paul, called, apostle, Jesus, Christ, will, God, Sosthenes, brother, church, God
 
 
 *AI Keywords for current event matching:*
-`apollos` `apostle` `baptize` `baptized` `base` `believe` `beseech` `blameless` `brethren` `brother` `call` `called` `calling` `cephas` `chloe` `chosen` `christ` `church` `coming` `confirm` `confirmed` `confound` `contentions` `corinth` `crispus` `cross` `crucified` `day` `declared` `despised` `destroy` `disputer` `divided` `divisions` `effect` `enriched` `faithful` `father` `fellowship` `flesh` `foolish` `foolishness` `gaius` `gift` `glory` `god` `gospel` `grace` `greeks` `greeting` `house` `household` `jesus` `jews` `joined` `judgment` `knew` `knowledge` `lord` `men` `mighty` `mind` `mine` `name` `noble` `nothing` `nought` `paul` `pauls` `peace` `perfectly` `perish` `place` `pleased` `power` `preach` `preaching` `prudent` `redemption` `require` `righteousness` `saints` `saith` `sanctification` `sanctified` `save` `saved` `scribe` `seek` `sent` `sign` `son` `sosthenes` `speak` `stephanas` `stronger` `stumblingblock` `testimony` `thank` `thanksgiving` `thing` `things` `understanding` `unity` `utterance` `waiting` `weak` `weakness` `wisdom` `wise` `wiser` `words` `world` `written`
+#apollos #apostle #baptize #baptized #base #believe #beseech #blameless #brethren #brother #call #called #calling #cephas #chloe #chosen #christ #church #coming #confirm #confirmed #confound #contentions #corinth #crispus #cross #crucified #day #declared #despised #destroy #disputer #divided #divisions #effect #enriched #faithful #father #fellowship #flesh #foolish #foolishness #gaius #gift #glory #god #gospel #grace #greeks #greeting #house #household #jesus #jews #joined #judgment #knew #knowledge #lord #men #mighty #mind #mine #name #noble #nothing #nought #paul #pauls #peace #perfectly #perish #place #pleased #power #preach #preaching #prudent #redemption #require #righteousness #saints #saith #sanctification #sanctified #save #saved #scribe #seek #sent #sign #son #sosthenes #speak #stephanas #stronger #stumblingblock #testimony #thank #thanksgiving #thing #things #understanding #unity #utterance #waiting #weak #weakness #wisdom #wise #wiser #words #world #written
 
 
 ---

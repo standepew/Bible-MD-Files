@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 53
+testament: "Old Testament"
+key_themes: "Atheism's Folly, Universal Corruption, God's Salvation, Israel's Rejoicing"
+tags:
+  - atheism
+  - universal-corruption
+  - god
+  - israel
+---
 # Psalm 53
 
 ---
@@ -105,7 +116,7 @@ Chief, Musician, Mahalath, Maschil, Psalm, David, fool, said, heart, GOD, corrup
 
 
 *AI Keywords for current event matching:*
-`abominable` `altogether` `atheisms` `back` `bones` `bread` `bring` `called` `captivity` `chief` `children` `corrupt` `corruption` `david` `despised` `done` `eat` `encampeth` `fear` `filthy` `folly` `fool` `glad` `god` `gods` `gone` `good` `heart` `heaven` `iniquity` `israel` `israels` `jacob` `knowledge` `looked` `mahalath` `maschil` `men` `musician` `none` `people` `psalm` `put` `rejoice` `rejoicing` `said` `salvation` `scattered` `see` `seek` `shame` `understand` `universal` `workers` `zion`
+#abominable #altogether #atheisms #back #bones #bread #bring #called #captivity #chief #children #corrupt #corruption #david #despised #done #eat #encampeth #fear #filthy #folly #fool #glad #god #gods #gone #good #heart #heaven #iniquity #israel #israels #jacob #knowledge #looked #mahalath #maschil #men #musician #none #people #psalm #put #rejoice #rejoicing #said #salvation #scattered #see #seek #shame #understand #universal #workers #zion
 
 
 ---

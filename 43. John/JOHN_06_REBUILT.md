@@ -1,3 +1,14 @@
+---
+book: "John"
+chapter: 6
+testament: "New Testament"
+key_themes: "Feeding the Five Thousand, Walking on Water, Bread of Life Discourse, Many Disciples Depart"
+tags:
+  - feeding-the-five-thousand
+  - walking-on-water
+  - bread-of-life-discourse
+  - many-disciples-depart
+---
 # John 6
 
 ---
@@ -189,7 +200,7 @@ Jesus, sea, Galilee, sea, Tiberias, great, multitude, followed, miracles, diseas
 
 
 *AI Keywords for current event matching:*
-`arose` `barley` `baskets` `believe` `blood` `bread` `capernaum` `come` `depart` `disciples` `discourse` `draw` `drawing` `father` `fathers` `feeding` `fishes` `five` `flesh` `galilee` `given` `god` `great` `hard` `heaven` `hunger` `immediately` `jews` `king` `labour` `land` `life` `living` `loaves` `make` `manna` `many` `meat` `multitude` `murmur` `murmured` `never` `prophet` `quickeneth` `saying` `sea` `sent` `ship` `small` `spirit` `taught` `thanks` `thirst` `thousand` `twelve` `two` `walking` `water` `whither` `wind` `work` `world`
+#arose #barley #baskets #believe #blood #bread #capernaum #come #depart #disciples #discourse #draw #drawing #father #fathers #feeding #fishes #five #flesh #galilee #given #god #great #hard #heaven #hunger #immediately #jews #king #labour #land #life #living #loaves #make #manna #many #meat #multitude #murmur #murmured #never #prophet #quickeneth #saying #sea #sent #ship #small #spirit #taught #thanks #thirst #thousand #twelve #two #walking #water #whither #wind #work #world
 
 
 ---

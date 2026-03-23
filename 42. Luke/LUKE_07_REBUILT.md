@@ -1,3 +1,14 @@
+---
+book: "Luke"
+chapter: 7
+testament: "New Testament"
+key_themes: "Healing of the Centurion's Servant, Raising of the Widow's Son, Jesus and John the Baptist, Anointing of Jesus' Feet"
+tags:
+  - healing-of-the-centurion
+  - raising-of-the-widow
+  - jesus-and-john-the-baptist
+  - anointing-of-jesus
+---
 # Luke 7
 
 ---
@@ -225,7 +236,7 @@ Ended, sayings, audience, people, entered, Capernaum, centurion, servant, dear, 
 
 
 *AI Keywords for current event matching:*
-`anointing` `arise` `baptist` `blind` `centurion` `centurions` `come` `compassion` `creditor` `debtors` `faith` `feet` `forgive` `forgiven` `great` `greater` `healing` `jesus` `john` `justified` `man` `most` `prophet` `raising` `reed` `roof` `see` `servant` `shaken` `sins` `son` `whole` `widow` `widows` `wisdom` `worthy` `young`
+#anointing #arise #baptist #blind #centurion #centurions #come #compassion #creditor #debtors #faith #feet #forgive #forgiven #great #greater #healing #jesus #john #justified #man #most #prophet #raising #reed #roof #see #servant #shaken #sins #son #whole #widow #widows #wisdom #worthy #young
 
 
 ---

@@ -1,3 +1,13 @@
+---
+book: "Isaiah"
+chapter: 48
+testament: "Old Testament"
+key_themes: "Christ's Calling, Divine Refinement, Spiritual Affliction, Christ's Salvation"
+tags:
+  - christ
+  - divine-refinement
+  - spiritual-affliction
+---
 # Isaiah 48
 
 ---
@@ -141,7 +151,7 @@ Hear, house, Jacob, called, name, Israel, come, waters, Judah, swear, name, LORD
 
 
 *AI Keywords for current event matching:*
-`affliction` `babylon` `called` `calling` `chosen` `christs` `come` `divine` `first` `flow` `forth` `furnace` `iron` `israel` `jacob` `judah` `last` `name` `neck` `obstinate` `peace` `redeemed` `refined` `refinement` `righteousness` `river` `rock` `salvation` `servant` `silver` `sinew` `spiritual` `transgressor` `waters` `waves` `womb`
+#affliction #babylon #called #calling #chosen #christs #come #divine #first #flow #forth #furnace #iron #israel #jacob #judah #last #name #neck #obstinate #peace #redeemed #refined #refinement #righteousness #river #rock #salvation #servant #silver #sinew #spiritual #transgressor #waters #waves #womb
 
 
 ---

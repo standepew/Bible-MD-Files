@@ -1,3 +1,59 @@
+---
+book: "Genesis"
+chapter: 6
+testament: "Old Testament"
+key_themes: "The Multiplication of Man and the Spread of Wickedness, Sons of God and Daughters of Men, The Nephilim, Every Imagination of Man's Heart Only Evil Continually, God's Grief and Judgment Announced, Noah Finds Grace, Noah's Character — Just, Perfect, Walking with God, The Ark Commissioned, Dimensions and Design, The Covenant Announced, Noah's Obedience"
+tags:
+  - sons-of-God
+  - bene-ha-Elohim
+  - daughters-of-men
+  - Nephilim
+  - giants
+  - men-of-renown
+  - wickedness
+  - yetzer
+  - imagination
+  - evil-continually
+  - repented-LORD
+  - nacham
+  - grieved
+  - atsab
+  - grace
+  - chen
+  - first-mention-grace
+  - Noah
+  - just
+  - perfect
+  - tamim
+  - walked-with-God
+  - corrupt
+  - shachath
+  - violence
+  - chamas
+  - all-flesh
+  - ark
+  - gopher-wood
+  - pitch
+  - kopher
+  - atonement-connection
+  - cubits
+  - dimensions
+  - window
+  - door
+  - three-stories
+  - covenant
+  - berith
+  - first-mention-covenant
+  - eight-souls
+  - flood-announced
+  - male-and-female
+  - breath-of-life
+  - Noah-obeyed
+  - days-of-Noah
+  - last-days-type
+  - 120-years
+  - longsuffering
+---
 # Genesis 6
 
 ---
@@ -116,7 +172,7 @@ The three main uses of bene ha-Elohim in the Old Testament:
 
 For AI matching to topics and current events:
 
-`sons of God` `bene ha-Elohim` `daughters of men` `Nephilim` `giants` `mighty men` `men of renown` `fallen angels` `angelic sin` `wickedness` `imagination` `yetzer` `every thought` `evil continually` `totally depraved` `repented the LORD` `nacham` `grieved` `atsab` `God grieves` `destroy` `Noah` `grace` `chen` `unmerited favor` `just` `righteous` `perfect` `tamim` `blameless` `walked with God` `generations of Noah` `corrupt` `shachath` `violence` `chamas` `all flesh` `breath of life` `ark` `gopher wood` `pitch` `kopher` `atonement` `300 cubits` `50 cubits` `30 cubits` `window` `door` `side` `lower second third` `three stories` `flood` `destroy all flesh` `covenant` `berith` `first covenant` `male and female` `two of every sort` `food` `Noah obeyed` `120 years` `longsuffering` `days of Noah` `last days` `second coming` `sudden judgment` `eight souls` `remnant`
+#sons-of-God #bene-ha-Elohim #daughters-of-men #Nephilim #giants #mighty-men #men-of-renown #fallen-angels #angelic-sin #wickedness #imagination #yetzer #every-thought #evil-continually #totally-depraved #repented-the-LORD #nacham #grieved #atsab #God-grieves #destroy #Noah #grace #chen #unmerited-favor #just #righteous #perfect #tamim #blameless #walked-with-God #generations-of-Noah #corrupt #shachath #violence #chamas #all-flesh #breath-of-life #ark #gopher-wood #pitch #kopher #atonement #300-cubits #50-cubits #30-cubits #window #door #side #lower-second-third #three-stories #flood #destroy-all-flesh #covenant #berith #first-covenant #male-and-female #two-of-every-sort #food #Noah-obeyed #120-years #longsuffering #days-of-Noah #last-days #second-coming #sudden-judgment #eight-souls #remnant
 
 **Relevance to Current Events:**
 - "Days of Noah" as the prophetic template Jesus gave for end-times conditions (Matthew 24:37) — the combination of apparent normalcy and extreme wickedness/violence is the sign
@@ -417,26 +473,26 @@ For AI matching to topics and current events:
 
 ### The Ark — Type of Christ as the Only Way Through Judgment
 
-**Genesis 6:14-18** — Specific wood, pitched inside and out, one door in the side, window above, three stories
+[[01. Genesis/GEN_06_REBUILT|Genesis 6:14-18]] — Specific wood, pitched inside and out, one door in the side, window above, three stories
 
 **Thread through Scripture:**
-- **Exodus 2:3** — Moses' basket: ark of bulrushes, daubed with "slime and with pitch (kopher)" — a second vessel of salvation, pitched with the same atonement-word, carrying the deliverer through judgment waters
-- **John 10:9** — "I am the door: by me if any man enter in, he shall be saved" — the one door of the ark is the type; Christ is the antitype
-- **Hebrews 10:19-20** — "Boldness to enter into the holiest by the blood of Jesus, By a new and living way, which he hath consecrated for us, through the veil" — the opened way corresponds to the door in the ark's side
-- **1 Peter 3:20-21** — Peter explicitly names the ark as a "figure" (antitupos) of baptism / salvation in Christ
-- **Revelation 21:27** — Only those "written in the Lamb's book of life" enter the new Jerusalem — only those in the ark survived the flood; the exclusivity principle is consistent
+- [[02. Exodus/EXO_02_REBUILT|Exodus 2:3]] — Moses' basket: ark of bulrushes, daubed with "slime and with pitch (kopher)" — a second vessel of salvation, pitched with the same atonement-word, carrying the deliverer through judgment waters
+- [[43. John/JOHN_10_REBUILT|John 10:9]] — "I am the door: by me if any man enter in, he shall be saved" — the one door of the ark is the type; Christ is the antitype
+- [[58. Hebrews/HEBREWS_10_REBUILT|Hebrews 10:19-20]] — "Boldness to enter into the holiest by the blood of Jesus, By a new and living way, which he hath consecrated for us, through the veil" — the opened way corresponds to the door in the ark's side
+- [[60. 1 Peter/1_PETER_03_REBUILT|1 Peter 3:20-21]] — Peter explicitly names the ark as a "figure" (antitupos) of baptism / salvation in Christ
+- [[66. Revelation/REVELATION_21_REBUILT|Revelation 21:27]] — Only those "written in the Lamb's book of life" enter the new Jerusalem — only those in the ark survived the flood; the exclusivity principle is consistent
 - *Interpretation:* The ark is the most complete type of salvation in Christ in the Old Testament: one way in (the door), covered by atonement (pitch/kopher), kept safe through the waters of judgment (not from them but through them), emerging into new creation. Christ is the ark — in Him, the believer is safe not because the flood doesn't come but because the covering (kaphar) holds through it.
 
 ---
 
 ### Grace Before Judgment — The Pattern of "But"
 
-**Genesis 6:8** — "But Noah found grace in the eyes of the LORD"
+[[01. Genesis/GEN_06_REBUILT|Genesis 6:8]] — "But Noah found grace in the eyes of the LORD"
 
 **Thread through Scripture:**
-- **Ephesians 2:4** — "But God, who is rich in mercy, for his great love wherewith he loved us" — after the most comprehensive statement of human depravity in the New Testament (Ephesians 2:1-3), the pivot: "But God" — the same structural pattern as Genesis 6:8
-- **Romans 5:8** — "But God commendeth his love toward us, in that, while we were yet sinners, Christ died for us"
-- **Genesis 19:16** — "But while he lingered, the men laid hold upon his hand" — Lot's rescue from Sodom; "but" as the pivot between deserved judgment and grace extended
+- [[49. Ephesians/EPHESIANS_02_REBUILT|Ephesians 2:4]] — "But God, who is rich in mercy, for his great love wherewith he loved us" — after the most comprehensive statement of human depravity in the New Testament (Ephesians 2:1-3), the pivot: "But God" — the same structural pattern as Genesis 6:8
+- [[45. Romans/ROMANS_05_REBUILT|Romans 5:8]] — "But God commendeth his love toward us, in that, while we were yet sinners, Christ died for us"
+- [[01. Genesis/GEN_19_REBUILT|Genesis 19:16]] — "But while he lingered, the men laid hold upon his hand" — Lot's rescue from Sodom; "but" as the pivot between deserved judgment and grace extended
 - **The "But" of grace** runs through Scripture: total depravity stated → "But" → grace given → remnant saved. Genesis 6:5-8 is the template.
 - *Interpretation:* The "but" of Genesis 6:8 is one of the most important words in the Bible. Everything before it is condemnation; everything after it is salvation. This is the grammar of the gospel — the pivot from "deserved judgment" to "grace received." The New Testament "but God" statements (Ephesians 2:4; Romans 5:8) are the same grammatical structure and the same theological reality.
 
@@ -447,26 +503,26 @@ For AI matching to topics and current events:
 **Genesis 6:11, 13** — "the earth was filled with violence (chamas)"
 
 **Thread through Scripture:**
-- **Habakkuk 1:2-3** — Habakkuk cries out about chamas; God responds by announcing the Babylonian judgment — a local flood of nations as the answer to chamas
+- [[35. Habakkuk/HABAKKUK_01_REBUILT|Habakkuk 1:2-3]] — Habakkuk cries out about chamas; God responds by announcing the Babylonian judgment — a local flood of nations as the answer to chamas
 - **Ezekiel 7:23; 8:17; 28:16** — chamas as the pre-judgment condition of Israel and surrounding nations; each time it appears, judgment follows
-- **Jonah 3:8** — Nineveh repents of its chamas; the city is spared — the one case where the chamas judgment is averted by repentance; confirms that chamas calls down judgment and repentance from it can avert it
-- **Matthew 24:12** — "Because iniquity shall abound, the love of many shall wax cold" — the end-times condition; the Greek anomia (lawlessness) corresponds to the Hebrew chamas; violence and injustice increasing without restraint
+- [[32. Jonah/JONAH_03_REBUILT|Jonah 3:8]] — Nineveh repents of its chamas; the city is spared — the one case where the chamas judgment is averted by repentance; confirms that chamas calls down judgment and repentance from it can avert it
+- [[40. Matthew/MATTHEW_24_REBUILT|Matthew 24:12]] — "Because iniquity shall abound, the love of many shall wax cold" — the end-times condition; the Greek anomia (lawlessness) corresponds to the Hebrew chamas; violence and injustice increasing without restraint
 - *Interpretation:* Chamas (violence/injustice/cruelty) is the specific trigger for God's flood judgment. When the prophets use chamas, they are invoking the Genesis 6 standard. The pattern is: chamas fills the land → God's judgment falls. The last-days pattern (Matthew 24:37) includes this element — as it was in the days of Noah (chamas filling the earth), so shall it be at the coming of the Son of Man.
 
 ---
 
 ### The Covenant Chain — From Noah to the New Covenant
 
-**Genesis 6:18** — "But with thee will I establish my covenant"
+[[01. Genesis/GEN_06_REBUILT|Genesis 6:18]] — "But with thee will I establish my covenant"
 
 **Thread through Scripture:**
-- **Genesis 9:9-17** — Noahic covenant: with all flesh, all future generations; sign = rainbow; never again a global flood
+- [[01. Genesis/GEN_09_REBUILT|Genesis 9:9-17]] — Noahic covenant: with all flesh, all future generations; sign = rainbow; never again a global flood
 - **Genesis 15; 17** — Abrahamic covenant: with Abraham, his seed; sign = circumcision; land, seed, blessing
 - **Exodus 19-24** — Mosaic/Sinaitic covenant: with Israel; sign = Sabbath; law, tabernacle, priesthood
 - **2 Samuel 7** — Davidic covenant: with David, his seed; sign = the throne; everlasting kingdom through David's line
-- **Jeremiah 31:31-34** — New covenant promised: "I will make a new covenant with the house of Israel... I will put my law in their inward parts, and write it in their hearts"
-- **Luke 22:20** — "This cup is the new testament (covenant) in my blood, which is shed for you" — Christ inaugurates the new covenant
-- **Hebrews 8:6-13** — Christ is the mediator of a better covenant, established on better promises; the Noahic covenant is the seed from which all subsequent covenants grow
+- [[24. Jeremiah/JEREMIAH_31_REBUILT|Jeremiah 31:31-34]] — New covenant promised: "I will make a new covenant with the house of Israel... I will put my law in their inward parts, and write it in their hearts"
+- [[42. Luke/LUKE_22_REBUILT|Luke 22:20]] — "This cup is the new testament (covenant) in my blood, which is shed for you" — Christ inaugurates the new covenant
+- [[58. Hebrews/HEBREWS_08_REBUILT|Hebrews 8:6-13]] — Christ is the mediator of a better covenant, established on better promises; the Noahic covenant is the seed from which all subsequent covenants grow
 - *Interpretation:* Every biblical covenant is a development and deepening of what began in Genesis 6:18. The Noahic covenant is universal (all flesh); the Abrahamic narrows to a chosen people; the Mosaic defines the covenant relationship through law; the Davidic defines the covenant king; the New covenant internalizes and fulfills all the previous ones in Christ. The chain begins in the flood narrative.
 
 ---

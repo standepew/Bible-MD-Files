@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 15
+testament: "Old Testament"
+key_themes: "Qualifications for Worship, Righteous Character, Integrity in Speech, Financial Integrity"
+tags:
+  - qualifications-for-worship
+  - righteous-character
+  - integrity-in-speech
+  - financial-integrity
+---
 # Psalm 15
 
 ---
@@ -117,7 +128,7 @@ Psalm, David, LORD, abide, tabernacle, dwell, holy, hill, walketh, uprightly, wo
 
 
 *AI Keywords for current event matching:*
-`abide` `backbiteth` `changed` `character` `contemned` `david` `dwell` `evil` `fear` `financial` `heart` `hill` `holy` `honoureth` `hurt` `innocent` `integrity` `lord` `money` `moved` `neighbour` `never` `person` `psalm` `putteth` `qualifications` `reproach` `reward` `righteous` `righteousness` `speaketh` `speech` `sweareth` `tabernacle` `taketh` `tongue` `truth` `uprightly` `usury` `vile` `walketh` `worketh` `worship`
+#abide #backbiteth #changed #character #contemned #david #dwell #evil #fear #financial #heart #hill #holy #honoureth #hurt #innocent #integrity #lord #money #moved #neighbour #never #person #psalm #putteth #qualifications #reproach #reward #righteous #righteousness #speaketh #speech #sweareth #tabernacle #taketh #tongue #truth #uprightly #usury #vile #walketh #worketh #worship
 
 
 ---

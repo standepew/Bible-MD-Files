@@ -6,11 +6,21 @@ Accurate content quality audit for the Bible vault.
 Replaces the buggy CONTENT_GAP_REPORT.md with correct data.
 
 WHAT IT CHECKS:
-  1. KEYWORD INDEX format (backtick vs label vs empty)
-  2. Actual hashtag count from the **Tags:** line in CHAPTER METADATA
-  3. Placeholder/empty sections (COMMONLY MISQUOTED, SYMBOLIC THREADS, etc.)
-  4. Word-dump backtick phrases (9+ words — legitimately too long)
-  5. Missing sections entirely
+  1. YAML Frontmatter (must be present at top of file)
+  2. KEYWORD INDEX format — now expects #hashtag format (graph-ready)
+  3. Actual hashtag count from the **Tags:** line in CHAPTER METADATA
+  4. Placeholder/empty sections (COMMONLY MISQUOTED, SYMBOLIC THREADS, etc.)
+  5. Missing sections — checks all 9 required sections:
+       1. YAML Frontmatter        (graph: book/chapter/tags)
+       2. CHAPTER METADATA        (Forensic: book, testament, themes)
+       3. CHAPTER SUMMARY         (Contextual overview)
+       4. CROSS-REFERENCES        (Scripture interpreting Scripture)
+       5. KEYWORD INDEX           (#hashtag format, graph-connected)
+       6. KEY TERMS               (Forensic Analysis — Hebrew/Greek)
+       7. THE ACTUAL VERSES       (Biblical Text — KJV)
+       8. PROPHETIC               (Chronological Mapping)
+       9. COMMONLY MISQUOTED      (Theological Framework Exclusions)
+      10. SYMBOLIC THREADS        (Cross-file wikilinks, graph connectivity)
 
 USAGE:
   python3 scripts/audit_chapters.py                    # Regenerate CONTENT_GAP_REPORT.md
@@ -125,16 +135,18 @@ def is_placeholder(section_text: str) -> bool:
 
 
 def detect_keyword_format(content: str) -> str:
-    """Returns 'backtick', 'label', 'empty', or 'missing'."""
+    """Returns 'hashtag', 'backtick', 'label', 'empty', or 'missing'."""
     kw_section = get_section_content(content, "KEYWORD INDEX")
     if not kw_section.strip():
-        # Check if section exists at all
         if "## KEYWORD INDEX" in content.upper():
             return "empty"
         return "missing"
+    hashtag_count = len(re.findall(r"#[\w-]+", kw_section))
     backtick_count = len(re.findall(r"`[^`]+`", kw_section))
     label_count = len(re.findall(r"\*\*[^*]+?:\*\*", kw_section))
-    if backtick_count >= 3:
+    if hashtag_count >= 3:
+        return "hashtag"
+    elif backtick_count >= 3:
         return "backtick"
     elif label_count >= 1:
         return "label"
@@ -222,8 +234,9 @@ def generate_report(results: list[dict]) -> str:
 
     # Stats
     hashtag_low = [r for r in results if r.get("hashtag_count", 99) < 3]
-    format2_label = [r for r in results if r.get("keyword_format") == "label"]
+    format_hashtag = [r for r in results if r.get("keyword_format") == "hashtag"]
     format1_backtick = [r for r in results if r.get("keyword_format") == "backtick"]
+    format2_label = [r for r in results if r.get("keyword_format") == "label"]
     format_empty = [r for r in results if r.get("keyword_format") in ("empty", "missing")]
     word_dump_files = [r for r in results if r.get("word_dumps")]
 
@@ -254,23 +267,23 @@ def generate_report(results: list[dict]) -> str:
         "",
         "## KEYWORD INDEX FORMAT AUDIT",
         "",
-        "The KEYWORD INDEX section uses two different formats across the vault.",
-        "Format 1 (backtick keywords) is required for semantic search and current-event matching.",
-        "Format 2 (label: text) is human-readable but not machine-parseable.",
-        "Run `python3 scripts/fix_keyword_index.py` to convert Format 2 → Format 1.",
+        "The KEYWORD INDEX section should use `#hashtag` format for Obsidian Graph View tag filtering.",
+        "Hashtag format enables tag-based filtering in Graph View and the Tags pane.",
+        "Label format (`**Word:** definition`) is human-readable but not machine-parseable for graph connectivity.",
         "",
         f"| Format | Count | Note |",
         f"|--------|-------|------|",
-        f"| Format 1 — backtick `keywords` (correct) | {len(format1_backtick)} | ✅ Search-ready |",
-        f"| Format 2 — **Label:** text (needs fix) | {len(format2_label)} | ⚠️ Run fix script |",
+        f"| Hashtag — `#keyword` format (correct) | {len(format_hashtag)} | ✅ Graph-ready |",
+        f"| Backtick — `` `keyword` `` format (legacy) | {len(format1_backtick)} | ⚠️ Convert to hashtag |",
+        f"| Label — **Label:** text format | {len(format2_label)} | ⚠️ Needs restructure |",
         f"| Empty / missing | {len(format_empty)} | ⚠️ Needs content |",
         "",
-        "### Files Using Format 2 (Label Format) — First 30",
+        "### Files Using Label Format — First 30",
         "",
     ]
 
     for r in format2_label[:30]:
-        lines.append(f"- **{r['book']} {r['chapter']}** — {r.get('backtick_keyword_count', 0)} backtick keywords (label format)")
+        lines.append(f"- **{r['book']} {r['chapter']}** — label format detected")
     if len(format2_label) > 30:
         lines.append(f"- *...and {len(format2_label) - 30} more — run script to see all*")
 
@@ -363,20 +376,20 @@ def generate_report(results: list[dict]) -> str:
         "## HOW TO FIX",
         "",
         "```bash",
-        "# 1. Preview what would change (dry run)",
+        "# 1. Regenerate this report",
+        "python3 scripts/audit_chapters.py",
+        "",
+        "# 2. Check keyword format conversion",
         "python3 scripts/fix_keyword_index.py --dry-run",
         "",
-        "# 2. Fix all Format 2 chapters (adds backtick keywords + Relevance placeholder)",
+        "# 3. Apply keyword conversions",
         "python3 scripts/fix_keyword_index.py",
-        "",
-        "# 3. Regenerate this report after fixing",
-        "python3 scripts/audit_chapters.py",
         "```",
         "",
         "**Sections requiring human review (cannot be auto-fixed):**",
         "- COMMONLY MISQUOTED — needs correct exegetical content per chapter",
         "- SYMBOLIC THREADS — needs theological analysis per chapter",
-        "- Relevance to Current Events — needs contemporary connections per chapter",
+        "- KEY TERMS — needs contextual definitions per chapter",
         "",
     ]
 
@@ -412,14 +425,15 @@ def main():
         print(f"[✓] Report written to {OUTPUT_FILE.name}")
 
         # Print summary to console
-        fmt2 = sum(1 for r in results if r.get("keyword_format") == "label")
-        fmt1 = sum(1 for r in results if r.get("keyword_format") == "backtick")
+        fmt_hashtag = sum(1 for r in results if r.get("keyword_format") == "hashtag")
+        fmt_backtick = sum(1 for r in results if r.get("keyword_format") == "backtick")
+        fmt_label = sum(1 for r in results if r.get("keyword_format") == "label")
         placeholders = sum(len(r.get("placeholder_sections", [])) for r in results)
         print(f"\nSummary:")
-        print(f"  Format 1 (backtick — search ready): {fmt1}")
-        print(f"  Format 2 (label — needs fix):        {fmt2}")
+        print(f"  Hashtag #keyword (graph-ready):      {fmt_hashtag}")
+        print(f"  Backtick `keyword` (legacy):          {fmt_backtick}")
+        print(f"  Label format (needs restructure):     {fmt_label}")
         print(f"  Placeholder sections:                 {placeholders}")
-        print(f"\nRun 'python3 scripts/fix_keyword_index.py' to fix Format 2 chapters.")
 
 
 if __name__ == "__main__":

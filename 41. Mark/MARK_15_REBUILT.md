@@ -1,3 +1,14 @@
+---
+book: "Mark"
+chapter: 15
+testament: "New Testament"
+key_themes: "Christ Before Pilate, Crucifixion, Death, Burial"
+tags:
+  - christ-before-pilate
+  - crucifixion
+  - death
+  - burial
+---
 # Mark 15
 
 ---
@@ -165,7 +176,7 @@ Straightway, morning, chief, priests, consultation, elders, scribes, council, bo
 
 
 *AI Keywords for current event matching:*
-`arimathaea` `barabbas` `burial` `centurion` `christ` `crown` `crucified` `crucifixion` `crucify` `darkness` `death` `fine` `forsaken` `gave` `ghost` `god` `golgotha` `hewn` `jews` `joseph` `king` `land` `linen` `numbered` `people` `pilate` `place` `purple` `released` `rent` `scourged` `sepulchre` `son` `transgressors` `veil` `willing`
+#arimathaea #barabbas #burial #centurion #christ #crown #crucified #crucifixion #crucify #darkness #death #fine #forsaken #gave #ghost #god #golgotha #hewn #jews #joseph #king #land #linen #numbered #people #pilate #place #purple #released #rent #scourged #sepulchre #son #transgressors #veil #willing
 
 
 ---

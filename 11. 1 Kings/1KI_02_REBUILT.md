@@ -1,3 +1,19 @@
+---
+book: "1 Kings"
+chapter: 2
+testament: "Old Testament"
+key_themes: "David's Final Instructions, Solomon's Wisdom, Justice for Enemies, Kingdom Establishment"
+tags:
+  - wisdom-hoar-head-grave-peace
+  - petition-king-Abishag-Shunammite-wife
+  - Solomon-Benaiah-son-Jehoiada-died
+  - Solomon-Shimei-Jerusalem-Gath
+  - kept-oath-LORD-commandment
+  - david
+  - solomon
+  - justice-for-enemies
+  - kingdom-establishment
+---
 # 1 Kings 2
 
 ---
@@ -91,7 +107,7 @@ Days David drew nigh die, charged Solomon son: go way earth; strong, keep charge
 
 
 *AI Keywords for current event matching:*
-`abiathar` `abiathars` `abishag` `abner` `abroad` `absalom` `achish` `adonijah` `adonijahs` `afflicted` `altar` `amasa` `anathoth` `answered` `ark` `ask` `bahurim` `barzillai` `bath-sheba` `benaiah` `benjamite` `blessed` `blood` `bowed` `brook` `brother` `brothers` `buried` `bury` `captain` `captains` `charge` `charged` `children` `city` `commandment` `commandments` `continue` `curse` `cursed` `david` `davids` `day` `days` `death` `deny` `die` `died` `drew` `dwell` `dwelt` `earth` `eat` `elder` `eli` `established` `establishment` `faces` `fail` `fall` `father` `fathers` `feet` `fields` `final` `fled` `forever` `forth` `forty` `fulfil` `gath` `gera` `gileadite` `girdle` `god` `good` `grave` `grievous` `guiltless` `haggith` `hand` `head` `heart` `hebron` `heed` `here` `hoar` `hold` `horns` `host` `hosts` `house` `innocent` `instructions` `israel` `jehoiada` `jerusalem` `jether` `joab` `joabs` `jordan` `judah` `judgment` `judgments` `justice` `keep` `kept` `kidron` `kindness` `king` `kingdom` `knowing` `law` `life` `liveth` `loins` `lord` `maachah` `mahanaim` `man` `men` `moses` `mother` `nay` `ner` `nigh` `oath` `one` `oughtest` `peace` `peaceably` `petition` `priest` `promise` `prosper` `protested` `reign` `reigned` `removal` `right` `righteous` `rose` `seat` `seed` `servant` `servants` `seven` `shed` `shiloh` `shimei` `shimeis` `shoes` `shunammite` `slept` `slew` `small` `solomon` `solomons` `son` `sons` `soul` `spake` `speak` `spoken` `statutes` `strong` `swear` `sword` `swore` `tabernacle` `table` `testimonies` `thirty-three` `three` `throne` `thrust` `tidings` `time` `truth` `turned` `turnest` `two` `walk` `war` `way` `ways` `well` `wickedness` `wife` `wilderness` `wisdom` `wise` `word` `worthy` `years` `zadok` `zeruiah`
+#abiathar #abiathars #abishag #abner #abroad #absalom #achish #adonijah #adonijahs #afflicted #altar #amasa #anathoth #answered #ark #ask #bahurim #barzillai #bath-sheba #benaiah #benjamite #blessed #blood #bowed #brook #brother #brothers #buried #bury #captain #captains #charge #charged #children #city #commandment #commandments #continue #curse #cursed #david #davids #day #days #death #deny #die #died #drew #dwell #dwelt #earth #eat #elder #eli #established #establishment #faces #fail #fall #father #fathers #feet #fields #final #fled #forever #forth #forty #fulfil #gath #gera #gileadite #girdle #god #good #grave #grievous #guiltless #haggith #hand #head #heart #hebron #heed #here #hoar #hold #horns #host #hosts #house #innocent #instructions #israel #jehoiada #jerusalem #jether #joab #joabs #jordan #judah #judgment #judgments #justice #keep #kept #kidron #kindness #king #kingdom #knowing #law #life #liveth #loins #lord #maachah #mahanaim #man #men #moses #mother #nay #ner #nigh #oath #one #oughtest #peace #peaceably #petition #priest #promise #prosper #protested #reign #reigned #removal #right #righteous #rose #seat #seed #servant #servants #seven #shed #shiloh #shimei #shimeis #shoes #shunammite #slept #slew #small #solomon #solomons #son #sons #soul #spake #speak #spoken #statutes #strong #swear #sword #swore #tabernacle #table #testimonies #thirty-three #three #throne #thrust #tidings #time #truth #turned #turnest #two #walk #war #way #ways #well #wickedness #wife #wilderness #wisdom #wise #word #worthy #years #zadok #zeruiah
 
 
 ---

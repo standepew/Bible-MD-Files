@@ -1,3 +1,14 @@
+---
+book: "Job"
+chapter: 33
+testament: "Old Testament"
+key_themes: "Elihu's First Speech, Divine Communication, Dreams and Visions, Mediator's Role"
+tags:
+  - elihu
+  - divine-communication
+  - dreams-and-visions
+  - mediator
+---
 # Job 33
 
 ---
@@ -153,7 +164,7 @@ Job, hear, speeches, hearken, words, opened, mouth, tongue, spoken, uprightness,
 
 
 *AI Keywords for current event matching:*
-`abhorreth` `account` `almighty` `answer` `bed` `bones` `bread` `breath` `chastened` `clay` `clean` `communication` `consumed` `dainty` `deep` `destroyers` `divine` `dream` `dreams` `ears` `elihus` `enemy` `feet` `findeth` `first` `flesh` `formed` `given` `god` `grave` `greater` `hand` `hear` `hearing` `hearken` `heart` `heavy` `hide` `iniquity` `innocent` `instruction` `job` `keepeth` `knowledge` `life` `lips` `made` `man` `matters` `meat` `mediators` `mouth` `multitude` `night` `occasions` `opened` `openeth` `order` `pain` `paths` `perceiveth` `perishing` `pit` `pride` `purpose` `role` `sealeth` `sleep` `slumberings` `soul` `speaketh` `speech` `speeches` `spirit` `spoken` `stead` `stick` `stocks` `stood` `strive` `strong` `sword` `terror` `tongue` `transgression` `twice` `uprightness` `vision` `visions` `voice` `wish` `withdraw` `words`
+#abhorreth #account #almighty #answer #bed #bones #bread #breath #chastened #clay #clean #communication #consumed #dainty #deep #destroyers #divine #dream #dreams #ears #elihus #enemy #feet #findeth #first #flesh #formed #given #god #grave #greater #hand #hear #hearing #hearken #heart #heavy #hide #iniquity #innocent #instruction #job #keepeth #knowledge #life #lips #made #man #matters #meat #mediators #mouth #multitude #night #occasions #opened #openeth #order #pain #paths #perceiveth #perishing #pit #pride #purpose #role #sealeth #sleep #slumberings #soul #speaketh #speech #speeches #spirit #spoken #stead #stick #stocks #stood #strive #strong #sword #terror #tongue #transgression #twice #uprightness #vision #visions #voice #wish #withdraw #words
 
 
 ---

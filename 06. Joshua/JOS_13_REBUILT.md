@@ -1,3 +1,112 @@
+---
+book: "Joshua"
+chapter: 13
+testament: "Old Testament"
+key_themes: "Joshua's Old Age, Unpossessed Land, Land Distribution, Tribal Inheritance, Levi's Portion, Reuben's Inheritance, Gad's Inheritance, Half-Manasseh's Inheritance"
+tags:
+  - Joshua-old-stricken-years
+  - LORD-Joshua
+  - old-stricken-years
+  - remain-land-possessed
+  - land-remain
+  - borders-Philistines
+  - Geshuri
+  - Sihor-
+  - borders-Ekron-northward
+  - Canaanite
+  - five-lords-Philistines
+  - Gazathites-Ashdothites-Eshkalonites-Gittites-Ekronites
+  - Avites
+  - south-land-Canaanites
+  - Mearah-Sidonians
+  - Aphek-borders-Amorites
+  - land-Giblites
+  - Lebanon-sunrising
+  - Baal-gad-mount-Hermon
+  - entering-Hamath
+  - inhabitants-hill-country-Lebanon-Misrephoth-maim
+  - Sidonians
+  - drive-out-children-Israel
+  - divide-lot-Israelites-inheritance
+  - commanded
+  - divide-land-inheritance-nine-tribes
+  - half-tribe-Manasseh
+  - Reubenites-Gadites-inheritance
+  - Moses-gave
+  - Jordan-eastward
+  - Moses-servant-LORD-gave
+  - Aroer-bank-river-Arnon
+  - city-midst-river
+  - plain-Medeba-Dibon
+  - cities-Sihon-king-Amorites
+  - reigned-Heshbon
+  - border-children-Ammon
+  - Gilead
+  - border-Geshurites-Maachathites
+  - mount-Hermon
+  - Bashan-Salcah
+  - kingdom-Og-Bashan
+  - reigned-Ashtaroth-Edrei
+  - remnant-giants
+  - Moses-smite
+  - cast-out
+  - children-Israel-expelled-Geshurites-Maachathites
+  - Geshurites-Maachathites-dwell-Israel-day
+  - tribe-Levi-inheritance
+  - sacrifices-LORD-God-Israel-fire
+  - inheritance
+  - Moses-tribe-children-Reuben-inheritance-families
+  - coast-Aroer-bank-river-Arnon
+  - city-midst-river
+  - plain-Medeba
+  - Heshbon-cities-plain
+  - Dibon-Bamoth-baal
+  - Beth-baal-meon
+  - Jahazah-Kedemoth-Mephaath
+  - Kirjathaim-Sibmah-Zareth-shahar-mount-valley
+  - Beth-peor-Ashdoth-pisgah-Beth-jeshimoth
+  - cities-plain
+  - kingdom-Sihon-king-Amorites
+  - reigned-Heshbon
+  - Moses-smote-princes-Midian
+  - Evi-Rekem-Zur-Hur-Reba
+  - dukes-Sihon-dwelling-country
+  - Balaam-son-Beor-soothsayer
+  - children-Israel-slay-sword
+  - slain
+  - border-children-Reuben-Jordan
+  - border
+  - inheritance-children-Reuben-families
+  - cities-villages
+  - Moses-inheritance-tribe-Gad
+  - children-Gad-families
+  - coast-Jazer-cities-Gilead
+  - half-land-children-Ammon
+  - Aroer-Rabbah
+  - Heshbon-Ramath-mizpeh-Betonim
+  - Mahanaim-border-Debir
+  - valley-Beth-aram-Beth-nimrah-Succoth-Zaphon
+  - rest-kingdom-Sihon-king-Heshbon
+  - Jordan-border
+  - edge-sea-Chinnereth-side-Jordan-eastward
+  - inheritance-children-Gad-families
+  - cities-villages
+  - Moses-inheritance-half-tribe-Manasseh
+  - possession-half-tribe-children-Manasseh-families
+  - coast-Mahanaim-Bashan
+  - kingdom-Og-king-Bashan
+  - towns-Jair-Bashan
+  - threescore-cities
+  - half-Gilead
+  - Ashtaroth-Edrei
+  - cities-kingdom-Og-Bashan
+  - children-Machir-son-Manasseh
+  - half-children-Machir-families
+  - countries-Moses-distribute-inheritance-plains-Moab
+  - Jordan-Jericho-eastward
+  - tribe-Levi-Moses-inheritance
+  - LORD-God-Israel-inheritance
+---
 # Joshua 13
 
 ---
@@ -103,7 +212,7 @@ Joshua, now old and stricken in years, is told by God that much land remains to 
 
 
 *AI Keywords for current event matching:*
-`ammon` `amorites` `aphek` `aram` `arnon` `aroer` `ashdoth` `ashdothites` `ashtaroth` `avites` `baal` `baal-gad` `balaam` `bamoth` `bank` `bashan` `beor` `beth` `betonim` `border` `borders` `canaanite` `canaanites` `children` `chinnereth` `cities` `city` `coast` `commanded` `commission` `countries` `country` `debir` `dibon` `distribute` `distribution` `divide` `divine` `drive` `dukes` `dwelling` `eastward` `edge` `edrei` `egypt` `ekron` `ekronites` `entering` `eshkalonites` `evi` `families` `fire` `five` `gad` `gadites` `gads` `gave` `gazathites` `geshuri` `giblites` `gilead` `gittites` `god` `half` `half-manassehs` `hamath` `hermon` `heshbon` `hill` `hur` `inhabitants` `inheritance` `israel` `israelites` `jahazah` `jair` `jazer` `jericho` `jeshimoth` `jordan` `joshua` `joshuas` `kedemoth` `king` `kingdom` `kirjathaim` `land` `lebanon` `levi` `levis` `lord` `lords` `lot` `machir` `mahanaim` `maim` `manasseh` `mearah` `medeba` `meon` `mephaath` `midian` `midst` `misrephoth` `mizpeh` `moab` `moses` `mount` `nimrah` `nine` `northward` `old` `peor` `philistines` `pisgah` `plain` `plains` `possessed` `possession` `princes` `promise` `rabbah` `ramath` `reba` `reigned` `rekem` `remain` `rest` `reuben` `reubenites` `reubens` `river` `sacrifices` `sea` `servant` `shahar` `sibmah` `side` `sidonians` `sihon` `sihor` `slain` `slay` `smote` `son` `soothsayer` `south` `stricken` `succoth` `sunrising` `sword` `threescore` `towns` `tribe` `tribes` `unpossessed` `valley` `villages` `years` `zaphon` `zareth` `zur`
+#ammon #amorites #aphek #aram #arnon #aroer #ashdoth #ashdothites #ashtaroth #avites #baal #baal-gad #balaam #bamoth #bank #bashan #beor #beth #betonim #border #borders #canaanite #canaanites #children #chinnereth #cities #city #coast #commanded #commission #countries #country #debir #dibon #distribute #distribution #divide #divine #drive #dukes #dwelling #eastward #edge #edrei #egypt #ekron #ekronites #entering #eshkalonites #evi #families #fire #five #gad #gadites #gads #gave #gazathites #geshuri #giblites #gilead #gittites #god #half #half-manassehs #hamath #hermon #heshbon #hill #hur #inhabitants #inheritance #israel #israelites #jahazah #jair #jazer #jericho #jeshimoth #jordan #joshua #joshuas #kedemoth #king #kingdom #kirjathaim #land #lebanon #levi #levis #lord #lords #lot #machir #mahanaim #maim #manasseh #mearah #medeba #meon #mephaath #midian #midst #misrephoth #mizpeh #moab #moses #mount #nimrah #nine #northward #old #peor #philistines #pisgah #plain #plains #possessed #possession #princes #promise #rabbah #ramath #reba #reigned #rekem #remain #rest #reuben #reubenites #reubens #river #sacrifices #sea #servant #shahar #sibmah #side #sidonians #sihon #sihor #slain #slay #smote #son #soothsayer #south #stricken #succoth #sunrising #sword #threescore #towns #tribe #tribes #unpossessed #valley #villages #years #zaphon #zareth #zur
 
 
 ---

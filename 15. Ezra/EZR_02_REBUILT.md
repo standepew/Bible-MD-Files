@@ -1,3 +1,28 @@
+---
+book: "Ezra"
+chapter: 2
+testament: "Old Testament"
+key_themes: "Census of Returnees, Genealogical Records, Priestly Purity, Generous Giving"
+tags:
+  - children-Zaccai-seven-hundred-threescore
+  - children-Ater-Hezekiah-ninety-eight
+  - children-Jorah-hundred-twelve
+  - children-Gibbar-ninety-five
+  - men-Netophah-fifty-six
+  - men-Anathoth-hundred-twenty-eight
+  - children-Azmaveth-forty-two
+  - men-Michmas-hundred-twenty-two
+  - children-Nebo-fifty-two
+  - children-Magbish-hundred-fifty-six
+  - children-Harim-three-hundred-twenty
+  - children-Immer-thousand-fifty-two
+  - children-Harim-thousand-seventeen
+  - children-Neziah-children-Hatipha
+  - census-of-returnees
+  - genealogical-records
+  - priestly-purity
+  - generous-giving
+---
 # Ezra 2
 
 ---
@@ -129,7 +154,7 @@ Children, province, captivity, carried, Nebuchadnezzar, king, Babylon, Babylon, 
 
 
 *AI Keywords for current event matching:*
-`ability` `addan` `adin` `adonikam` `akkub` `ami` `anathoth` `arah` `arim` `asaph` `asnah` `asses` `ater` `azgad` `azmaveth` `baanah` `babylon` `bakbuk` `bani` `barkos` `barzillai` `bazluth` `bebai` `beeroth` `besai` `beth` `bezai` `bigvai` `bilshan` `camels` `captivity` `carried` `census` `chephirah` `cherub` `chief` `children` `cities` `city` `congregation` `darkon` `daughters` `delaiah` `drams` `dwelt` `eat` `eight` `elam` `families` `father` `fathers` `fifty` `five` `forty` `found` `four` `freely` `gaba` `gahar` `garments` `gazzam` `genealogical` `genealogy` `generous` `gibbar` `giddel` `gileadite` `giving` `god` `gold` `habaiah` `hadid` `hagab` `hagabah` `hakupha` `hanan` `harhur` `harim` `harsa` `harsha` `hashum` `hasupha` `hatipha` `hatita` `hattil` `hezekiah` `hodaviah` `holy` `horses` `house` `hundred` `immer` `israel` `jaalah` `jedaiah` `jericho` `jerusalem` `jeshua` `joab` `jorah` `judah` `kadmiel` `keros` `king` `kirjath` `koz` `lebanah` `lehem` `levites` `lod` `lord` `magbish` `maids` `mehida` `mehunim` `melah` `men` `michmas` `mispar` `moab` `mordecai` `mules` `name` `nebo` `nebuchadnezzar` `nehemiah` `nekoda` `nephusim` `nethinims` `netophah` `neziah` `nine` `ninety` `number` `offered` `one` `ono` `padon` `pahath` `parosh` `paseah` `pashur` `people` `peruda` `place` `pochereth` `polluted` `porters` `pound` `priest` `priesthood` `priestly` `priests` `province` `ramah` `reaiah` `records` `reelaiah` `register` `rehum` `returnees` `rezin` `seed` `senaah` `seraiah` `servants` `seven` `seventeen` `seventy` `shallum` `shalmai` `shephatiah` `shobai` `siaha` `silver` `singers` `singing` `sisera` `six` `sixty` `solomon` `sophereth` `sotai` `sought` `tabbaoth` `talmon` `tel` `thamah` `thirty` `thousand` `three` `threescore` `thummim` `tirshatha` `tobiah` `treasure` `twelve` `twenty` `two` `urim` `uzza` `wife` `women` `work` `zaccai` `zattu` `zebaim` `zerubbabel` `ziha`
+#ability #addan #adin #adonikam #akkub #ami #anathoth #arah #arim #asaph #asnah #asses #ater #azgad #azmaveth #baanah #babylon #bakbuk #bani #barkos #barzillai #bazluth #bebai #beeroth #besai #beth #bezai #bigvai #bilshan #camels #captivity #carried #census #chephirah #cherub #chief #children #cities #city #congregation #darkon #daughters #delaiah #drams #dwelt #eat #eight #elam #families #father #fathers #fifty #five #forty #found #four #freely #gaba #gahar #garments #gazzam #genealogical #genealogy #generous #gibbar #giddel #gileadite #giving #god #gold #habaiah #hadid #hagab #hagabah #hakupha #hanan #harhur #harim #harsa #harsha #hashum #hasupha #hatipha #hatita #hattil #hezekiah #hodaviah #holy #horses #house #hundred #immer #israel #jaalah #jedaiah #jericho #jerusalem #jeshua #joab #jorah #judah #kadmiel #keros #king #kirjath #koz #lebanah #lehem #levites #lod #lord #magbish #maids #mehida #mehunim #melah #men #michmas #mispar #moab #mordecai #mules #name #nebo #nebuchadnezzar #nehemiah #nekoda #nephusim #nethinims #netophah #neziah #nine #ninety #number #offered #one #ono #padon #pahath #parosh #paseah #pashur #people #peruda #place #pochereth #polluted #porters #pound #priest #priesthood #priestly #priests #province #ramah #reaiah #records #reelaiah #register #rehum #returnees #rezin #seed #senaah #seraiah #servants #seven #seventeen #seventy #shallum #shalmai #shephatiah #shobai #siaha #silver #singers #singing #sisera #six #sixty #solomon #sophereth #sotai #sought #tabbaoth #talmon #tel #thamah #thirty #thousand #three #threescore #thummim #tirshatha #tobiah #treasure #twelve #twenty #two #urim #uzza #wife #women #work #zaccai #zattu #zebaim #zerubbabel #ziha
 
 
 ---

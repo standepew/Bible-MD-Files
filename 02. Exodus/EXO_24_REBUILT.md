@@ -1,3 +1,30 @@
+---
+book: "Exodus"
+chapter: 24
+testament: "Old Testament"
+key_themes: "The covenant ratified in blood, Moses reads the Book of the Covenant, "All that the LORD hath said will we do and be obedient," The blood of the covenant sprinkled on the people, Moses and seventy elders ascend Sinai and see God — the sapphire pavement, They eat and drink before God, Moses enters the cloud — 40 days and 40 nights, The glory of the LORD as devouring fire"
+tags:
+  - covenant-ratified
+  - blood-of-the-covenant
+  - book-of-the-covenant
+  - we-will-do-and-be-obedient
+  - twelve-pillars
+  - burnt-offerings
+  - peace-offerings
+  - basins-of-blood
+  - blood-sprinkled-on-people
+  - seventy-elders
+  - saw-God
+  - sapphire-pavement
+  - body-of-heaven
+  - ate-and-drank-before-God
+  - Moses-enters-cloud
+  - forty-days-forty-nights
+  - glory-as-devouring-fire
+  - Aaron-and-Hur
+  - Joshua-with-Moses
+  - tables-of-stone
+---
 # Exodus 24
 
 ---
@@ -94,7 +121,7 @@ God calls Moses, Aaron, Nadab, Abihu, and seventy elders to come up — but only
 
 
 *AI Keywords for current event matching:*
-`918-22` `blood` `covenant` `current` `events` `exodus` `hebrews` `matching` `matthew` `new`
+#918-22 #blood #covenant #current #events #exodus #hebrews #matching #matthew #new
 
 
 ---

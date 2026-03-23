@@ -1,3 +1,13 @@
+---
+book: "Jeremiah"
+chapter: 34
+testament: "Old Testament"
+key_themes: "Christ's Liberty, Broken Covenant, Divine Judgment, Christ's Faithfulness"
+tags:
+  - christ
+  - broken-covenant
+  - divine-judgment
+---
 # Jeremiah 34
 
 ---
@@ -105,7 +115,7 @@ Word, Jeremiah, LORD, Nebuchadnezzar, king, Babylon, army, kingdoms, earth, domi
 
 
 *AI Keywords for current event matching:*
-`bodies` `broken` `burned` `calf` `caused` `christs` `covenant` `cut` `dead` `divine` `egypt` `faithfulness` `famine` `fathers` `free` `hebrew` `hebrewess` `judgment` `kingdoms` `liberty` `maidservant` `manservant` `meat` `name` `neighbour` `odours` `pestilence` `polluted` `proclaim` `removed` `return` `servants` `seven` `sword` `transgressed` `turned` `twain` `years`
+#bodies #broken #burned #calf #caused #christs #covenant #cut #dead #divine #egypt #faithfulness #famine #fathers #free #hebrew #hebrewess #judgment #kingdoms #liberty #maidservant #manservant #meat #name #neighbour #odours #pestilence #polluted #proclaim #removed #return #servants #seven #sword #transgressed #turned #twain #years
 
 
 ---

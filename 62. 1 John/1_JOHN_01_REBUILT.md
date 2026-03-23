@@ -1,3 +1,15 @@
+---
+book: "1 John"
+chapter: 1
+testament: "New Testament"
+key_themes: "The Word of Life Manifested, Fellowship with God and Christ, God is Light, Walking in Light vs Darkness, Confession and Forgiveness of Sins"
+tags:
+  - the-word-of-life-manifested
+  - fellowship-with-god-and-christ
+  - god-is-light
+  - walking-in-light-vs-darkness
+  - confession-and-forgiveness-of-sins
+---
 # 1 John 1
 
 ---
@@ -71,7 +83,7 @@ Beginning, heard, seen, eyes, looked, hands, handled, Word, life, life, manifest
 
 
 *AI Keywords for current event matching:*
-`bear` `beginning` `blood` `christ` `cleanse` `cleanseth` `confess` `confession` `darkness` `deceive` `declare` `eternal` `eyes` `faithful` `father` `fellowship` `forgive` `forgiveness` `full` `god` `handled` `hands` `heard` `jesus` `joy` `liar` `lie` `life` `light` `looked` `manifested` `message` `say` `seen` `shew` `sin` `sinned` `sins` `son` `truly` `truth` `unrighteousness` `walk` `walking` `witness` `word` `write`
+#bear #beginning #blood #christ #cleanse #cleanseth #confess #confession #darkness #deceive #declare #eternal #eyes #faithful #father #fellowship #forgive #forgiveness #full #god #handled #hands #heard #jesus #joy #liar #lie #life #light #looked #manifested #message #say #seen #shew #sin #sinned #sins #son #truly #truth #unrighteousness #walk #walking #witness #word #write
 
 
 ---

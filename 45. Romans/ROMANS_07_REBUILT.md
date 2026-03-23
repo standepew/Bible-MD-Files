@@ -1,3 +1,14 @@
+---
+book: "Romans"
+chapter: 7
+testament: "New Testament"
+key_themes: "Dead to the Law, Married to Christ, The Struggle with Sin, Delivered by Christ"
+tags:
+  - dead-to-the-law
+  - married-to-christ
+  - the-struggle-with-sin
+  - delivered-by-christ
+---
 # Romans 7
 
 ---
@@ -153,7 +164,7 @@ Know, brethren, speak, law, law, dominion, man, liveth, woman, husband, bound, l
 
 
 *AI Keywords for current event matching:*
-`adulteress` `alive` `allow` `appear` `body` `bound` `brethren` `bringing` `captivity` `carnal` `christ` `commandment` `concupiscence` `consent` `dead` `death` `deceived` `delight` `deliver` `delivered` `died` `dominion` `dwell` `evil` `exceeding` `flesh` `forbid` `free` `fruit` `god` `good` `hate` `held` `holy` `husband` `inward` `jesus` `know` `known` `law` `letter` `life` `liveth` `loosed` `lord` `lust` `made` `man` `married` `members` `mind` `motions` `newness` `occasion` `oldness` `ordained` `perform` `present` `raised` `revived` `serve` `sin` `sinful` `sins` `slew` `sold` `speak` `spirit` `spiritual` `struggle` `thank` `warring` `without` `woman` `work` `working` `wretched` `wrought`
+#adulteress #alive #allow #appear #body #bound #brethren #bringing #captivity #carnal #christ #commandment #concupiscence #consent #dead #death #deceived #delight #deliver #delivered #died #dominion #dwell #evil #exceeding #flesh #forbid #free #fruit #god #good #hate #held #holy #husband #inward #jesus #know #known #law #letter #life #liveth #loosed #lord #lust #made #man #married #members #mind #motions #newness #occasion #oldness #ordained #perform #present #raised #revived #serve #sin #sinful #sins #slew #sold #speak #spirit #spiritual #struggle #thank #warring #without #woman #work #working #wretched #wrought
 
 
 ---

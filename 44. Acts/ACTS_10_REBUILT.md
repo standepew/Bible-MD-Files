@@ -1,3 +1,14 @@
+---
+book: "Acts"
+chapter: 10
+testament: "New Testament"
+key_themes: "Cornelius's Vision, Peter's Vision, Peter Visits Cornelius, Gentiles Receive the Holy Spirit"
+tags:
+  - cornelius
+  - peter
+  - peter-visits-cornelius
+  - gentiles-receive-the-holy-spirit
+---
 # Acts 10
 
 ---
@@ -177,7 +188,7 @@ Cornelius, centurion, band, Italian, band, devout, feared, God, house, alms, peo
 
 
 *AI Keywords for current event matching:*
-`accepted` `accompanied` `afraid` `air` `alms` `angel` `anointed` `answered` `arise` `ask` `asked` `astonished` `ate` `band` `baptism` `baptized` `beasts` `began` `behold` `believed` `believeth` `brethren` `bright` `caesarea` `call` `called` `came` `cause` `centurion` `children` `chosen` `christ` `circumcision` `city` `cleansed` `clothing` `come` `cometh` `coming` `commanded` `common` `company` `cornelius` `corneliuss` `corners` `creeping` `day` `days` `dead` `declared` `departed` `descending` `devil` `devout` `doing` `doubted` `doubting` `down` `drew` `drink` `earth` `eat` `eaten` `enquiry` `entered` `fasting` `feared` `feareth` `feet` `fell` `forbid` `found` `four` `fourfooted` `fowls` `friends` `gainsaying` `galilee` `gate` `gentiles` `get` `ghost` `gift` `god` `good` `great` `hanged` `healing` `hear` `heard` `heaven` `holy` `hour` `house` `household` `housetop` `hungry` `immediately` `intent` `israel` `italian` `jerusalem` `jesus` `jew` `jews` `john` `joppa` `journey` `judaea` `judge` `kill` `kinsmen` `knit` `land` `lodged` `lodgeth` `lord` `magnify` `man` `mean` `memorial` `men` `met` `morrow` `mouth` `name` `nation` `nazareth` `near` `nigh` `ninth` `opened` `openly` `oppressed` `ordained` `oughtest` `peace` `people` `perceive` `persons` `peter` `peters` `poured` `power` `pray` `prayed` `prayer` `prayers` `preach` `preached` `preaching` `present` `prophets` `published` `quick` `raised` `ready` `receive` `received` `remembrance` `remission` `report` `respecter` `righteousness` `rose` `sea` `second` `seek` `send` `sent` `servants` `sheet` `shewed` `side` `sight` `simon` `sins` `sixth` `slew` `soldier` `spake` `speak` `spirit` `stand` `stood` `surname` `talked` `tanner` `tarry` `tell` `testify` `things` `third` `thought` `three` `thrice` `time` `together` `tongues` `took` `trance` `tree` `unclean` `unlawful` `vessel` `vision` `visits` `voice` `waited` `warned` `water` `well` `went` `wild` `witness` `witnesses` `word` `words` `worketh` `worshipped`
+#accepted #accompanied #afraid #air #alms #angel #anointed #answered #arise #ask #asked #astonished #ate #band #baptism #baptized #beasts #began #behold #believed #believeth #brethren #bright #caesarea #call #called #came #cause #centurion #children #chosen #christ #circumcision #city #cleansed #clothing #come #cometh #coming #commanded #common #company #cornelius #corneliuss #corners #creeping #day #days #dead #declared #departed #descending #devil #devout #doing #doubted #doubting #down #drew #drink #earth #eat #eaten #enquiry #entered #fasting #feared #feareth #feet #fell #forbid #found #four #fourfooted #fowls #friends #gainsaying #galilee #gate #gentiles #get #ghost #gift #god #good #great #hanged #healing #hear #heard #heaven #holy #hour #house #household #housetop #hungry #immediately #intent #israel #italian #jerusalem #jesus #jew #jews #john #joppa #journey #judaea #judge #kill #kinsmen #knit #land #lodged #lodgeth #lord #magnify #man #mean #memorial #men #met #morrow #mouth #name #nation #nazareth #near #nigh #ninth #opened #openly #oppressed #ordained #oughtest #peace #people #perceive #persons #peter #peters #poured #power #pray #prayed #prayer #prayers #preach #preached #preaching #present #prophets #published #quick #raised #ready #receive #received #remembrance #remission #report #respecter #righteousness #rose #sea #second #seek #send #sent #servants #sheet #shewed #side #sight #simon #sins #sixth #slew #soldier #spake #speak #spirit #stand #stood #surname #talked #tanner #tarry #tell #testify #things #third #thought #three #thrice #time #together #tongues #took #trance #tree #unclean #unlawful #vessel #vision #visits #voice #waited #warned #water #well #went #wild #witness #witnesses #word #words #worketh #worshipped
 
 
 ---

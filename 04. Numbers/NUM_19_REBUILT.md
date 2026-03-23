@@ -1,3 +1,30 @@
+---
+book: "Numbers"
+chapter: 19
+testament: "Old Testament"
+key_themes: "The red heifer — a perfect, unyoked, red cow killed outside the camp, its ashes mixed with water to purify those defiled by death, The great paradox: the clean man who prepares the purification water becomes unclean; the unclean man who receives it becomes clean, Cedar wood, hyssop, and scarlet thread cast into the burning — the same trio as the leper's cleansing (Leviticus 14), Death-defilement: contact with a corpse, a bone, a grave, a slain person all require the water of separation, Purification applied on the third and seventh day — the number pattern of completion and divine witness, "This is the ordinance of the law" — placed before any explanation; the instruction precedes the rationale"
+tags:
+  - red-heifer
+  - without-spot-no-blemish
+  - never-yoked
+  - outside-the-camp
+  - Eleazar-not-Aaron
+  - blood-sprinkled-seven-times
+  - burned-with-skin-flesh-blood-dung
+  - cedar-wood-hyssop-scarlet
+  - ashes-gathered-by-clean-man
+  - water-of-separation
+  - purification-for-sin
+  - death-defilement-seven-days
+  - purified-third-and-seventh-day
+  - every-open-vessel-unclean
+  - slain-with-sword
+  - dead-body-bone-grave
+  - clean-man-becomes-unclean
+  - unclean-man-becomes-clean
+  - cut-off-if-not-purified
+  - statute-forever
+---
 # Numbers 19
 
 ---
@@ -74,7 +101,7 @@ God gives Moses and Aaron the ordinance of the red heifer — called "the ordina
 
 
 *AI Keywords for current event matching:*
-`1911-16` `chapter` `communicable` `contact` `contagion` `current` `death` `deaths` `entire` `events` `impurity` `makes` `matching` `numbers` `one` `spiritualceremonial` `unclean`
+#1911-16 #chapter #communicable #contact #contagion #current #death #deaths #entire #events #impurity #makes #matching #numbers #one #spiritualceremonial #unclean
 
 
 ---
@@ -155,13 +182,13 @@ The same trio at the leper's healing, the defiled house's cleansing, the red hei
 
 ### The Open Vessel With No Covering — Unprotected Exposure to Death
 
-**Numbers 19:15** — "And every open vessel, which hath no covering bound upon it, is unclean"
+[[04. Numbers/NUM_19_REBUILT|Numbers 19:15]] — "And every open vessel, which hath no covering bound upon it, is unclean"
 
 In the tent of someone who dies, every open vessel without a lid bound upon it is defiled. The covered vessel is clean; the uncovered vessel receives the defilement of the death in the tent.
 
-- **2 Corinthians 4:7** — "But we have this treasure in earthen vessels, that the excellency of the power may be of God, and not of us" — the earthen vessel as the believer's body; the treasure (the Spirit of God) is the covering within
-- **1 Corinthians 6:19** — "your body is the temple of the Holy Ghost which is in you, which ye have of God" — the Spirit as the covering within the vessel, protecting it from death's contamination
-- **Revelation 3:20** — "Behold, I stand at the door, and knock: if any man hear my voice, and open the door, I will come in" — the vessel that opens to Christ receives the covering; the vessel that remains closed to Him is the "open vessel with no covering bound upon it"
+- [[47. 2 Corinthians/2_CORINTHIANS_04_REBUILT|2 Corinthians 4:7]] — "But we have this treasure in earthen vessels, that the excellency of the power may be of God, and not of us" — the earthen vessel as the believer's body; the treasure (the Spirit of God) is the covering within
+- [[46. 1 Corinthians/1_CORINTHIANS_06_REBUILT|1 Corinthians 6:19]] — "your body is the temple of the Holy Ghost which is in you, which ye have of God" — the Spirit as the covering within the vessel, protecting it from death's contamination
+- [[66. Revelation/REVELATION_03_REBUILT|Revelation 3:20]] — "Behold, I stand at the door, and knock: if any man hear my voice, and open the door, I will come in" — the vessel that opens to Christ receives the covering; the vessel that remains closed to Him is the "open vessel with no covering bound upon it"
 
 **What the Bible establishes:** The open-vessel principle is not merely ceremonial hygiene. The uncovered vessel in the tent of the dead receives defilement because it has no barrier between itself and death. Spiritually: the life without Christ is the open vessel in a world permeated by death. The covering — the Spirit, the blood, the name — is what seals the vessel against the defilement that fills the tent.
 

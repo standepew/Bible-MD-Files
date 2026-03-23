@@ -1,3 +1,14 @@
+---
+book: "Song of Solomon"
+chapter: 4
+testament: "Old Testament"
+key_themes: "Church's Beauty, Christ's Praise, Spiritual Garden, Divine Intimacy"
+tags:
+  - church
+  - christ
+  - spiritual-garden
+  - divine-intimacy
+---
 # Song of Solomon 4
 
 ---
@@ -189,7 +200,7 @@ Fair, love, doves, eyes, locks, hair, flock, goats, appear, mount, Gilead, teeth
 
 
 *AI Keywords for current event matching:*
-`beauty` `beloved` `better` `christs` `churchs` `david` `divine` `doves` `eat` `eyes` `fair` `fountain` `garden` `heart` `honeycomb` `inclosed` `intimacy` `lips` `love` `milk` `orchard` `plants` `praise` `ravished` `sealed` `spiritual` `spot` `tongue` `tower` `wine`
+#beauty #beloved #better #christs #churchs #david #divine #doves #eat #eyes #fair #fountain #garden #heart #honeycomb #inclosed #intimacy #lips #love #milk #orchard #plants #praise #ravished #sealed #spiritual #spot #tongue #tower #wine
 
 
 ---

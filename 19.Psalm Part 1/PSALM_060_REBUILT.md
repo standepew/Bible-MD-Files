@@ -1,3 +1,13 @@
+---
+book: "Psalms"
+chapter: 60
+testament: "Old Testament"
+key_themes: "Divine Displeasure, God's Restoration, Military Victory, God's Sovereignty"
+tags:
+  - divine-displeasure
+  - god
+  - military-victory
+---
 # Psalm 60
 
 ---
@@ -117,7 +127,7 @@ Chief, Musician, Shushan, eduth, Michtam, David, teach, strove, Aram, naharaim, 
 
 
 *AI Keywords for current event matching:*
-`aram` `banner` `beloved` `breaches` `broken` `cast` `chief` `city` `david` `delivered` `displayed` `displeased` `displeasure` `divide` `divine` `earth` `edom` `eduth` `enemies` `ephraim` `fear` `gilead` `god` `gods` `hand` `head` `heal` `hear` `holiness` `joab` `judah` `lawgiver` `lead` `manasseh` `mete` `michtam` `military` `moab` `musician` `naharaim` `philistia` `rejoice` `restoration` `returned` `right` `salt` `save` `scattered` `shaketh` `shechem` `shoe` `shushan` `smote` `sovereignty` `spoken` `strength` `strong` `strove` `succoth` `teach` `thousand` `thyself` `tread` `tremble` `triumph` `truth` `turn` `twelve` `valiantly` `valley` `victory` `washpot` `zobah`
+#aram #banner #beloved #breaches #broken #cast #chief #city #david #delivered #displayed #displeased #displeasure #divide #divine #earth #edom #eduth #enemies #ephraim #fear #gilead #god #gods #hand #head #heal #hear #holiness #joab #judah #lawgiver #lead #manasseh #mete #michtam #military #moab #musician #naharaim #philistia #rejoice #restoration #returned #right #salt #save #scattered #shaketh #shechem #shoe #shushan #smote #sovereignty #spoken #strength #strong #strove #succoth #teach #thousand #thyself #tread #tremble #triumph #truth #turn #twelve #valiantly #valley #victory #washpot #zobah
 
 
 ---

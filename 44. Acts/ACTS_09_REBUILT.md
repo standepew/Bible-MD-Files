@@ -1,3 +1,14 @@
+---
+book: "Acts"
+chapter: 9
+testament: "New Testament"
+key_themes: "The Conversion of Saul, Saul Preaches Christ, Saul Escapes from Damascus, Peter Heals Æneas and Dorcas"
+tags:
+  - the-conversion-of-saul
+  - saul-preaches-christ
+  - saul-escapes-from-damascus
+  - peter-heals-neas-and-dorcas
+---
 # Acts 9
 
 ---
@@ -177,7 +188,7 @@ Saul, breathing, threatenings, slaughter, disciples, Lord, high, priest, desired
 
 
 *AI Keywords for current event matching:*
-`afraid` `alive` `almsdeeds` `amazed` `ananias` `answered` `apostles` `appeared` `arise` `arose` `assayed` `astonished` `authority` `await` `baptized` `barnabas` `basket` `bear` `bed` `believed` `bind` `body` `boldly` `bound` `breathing` `brethren` `bring` `brother` `brought` `caesarea` `call` `called` `camest` `chamber` `chief` `children` `chosen` `christ` `churches` `city` `coats` `come` `comfort` `coming` `confounded` `conversion` `counsel` `damascus` `day` `days` `declared` `delay` `desired` `destroyed` `died` `disciple` `disciples` `disputed` `dorcas` `drink` `dwelt` `earth` `eat` `edified` `eight` `enquire` `escapes` `evil` `eyes` `fear` `fell` `filled` `forthwith` `found` `fulfilled` `galilee` `garments` `gates` `gave` `gentiles` `ghost` `god` `good` `great` `grecians` `hand` `hands` `hard` `heals` `heard` `hearing` `heaven` `high` `hither` `holy` `house` `immediately` `increased` `intent` `interpretation` `israel` `jerusalem` `jesus` `jews` `join` `joppa` `journeyed` `judaea` `judas` `kept` `kick` `kill` `kings` `kneeled` `known` `laid` `laying` `led` `letters` `lifted` `light` `lord` `lydda` `maketh` `man` `meat` `men` `multiplied` `name` `named` `near` `neither` `nigh` `night` `opened` `palsy` `passed` `persecutest` `peter` `prayed` `prayeth` `preached` `preaches` `presented` `pricks` `priest` `priests` `proving` `putting` `quarters` `receive` `received` `rest` `round` `saints` `samaria` `saron` `sat` `saul` `saw` `scales` `seeing` `seen` `sent` `shew` `shewing` `shined` `sick` `sight` `simon` `slaughter` `slay` `son` `speechless` `spoken` `straight` `straightway` `street` `strength` `strengthened` `suddenly` `suffer` `synagogues` `tabitha` `tanner` `tarried` `tarsus` `things` `threatenings` `three` `told` `trembling` `turned` `turning` `upper` `vessel` `vision` `voice` `walking` `wall` `washed` `watched` `way` `weeping` `widows` `wilt` `woman` `women` `works` `years` `æneas`
+#afraid #alive #almsdeeds #amazed #ananias #answered #apostles #appeared #arise #arose #assayed #astonished #authority #await #baptized #barnabas #basket #bear #bed #believed #bind #body #boldly #bound #breathing #brethren #bring #brother #brought #caesarea #call #called #camest #chamber #chief #children #chosen #christ #churches #city #coats #come #comfort #coming #confounded #conversion #counsel #damascus #day #days #declared #delay #desired #destroyed #died #disciple #disciples #disputed #dorcas #drink #dwelt #earth #eat #edified #eight #enquire #escapes #evil #eyes #fear #fell #filled #forthwith #found #fulfilled #galilee #garments #gates #gave #gentiles #ghost #god #good #great #grecians #hand #hands #hard #heals #heard #hearing #heaven #high #hither #holy #house #immediately #increased #intent #interpretation #israel #jerusalem #jesus #jews #join #joppa #journeyed #judaea #judas #kept #kick #kill #kings #kneeled #known #laid #laying #led #letters #lifted #light #lord #lydda #maketh #man #meat #men #multiplied #name #named #near #neither #nigh #night #opened #palsy #passed #persecutest #peter #prayed #prayeth #preached #preaches #presented #pricks #priest #priests #proving #putting #quarters #receive #received #rest #round #saints #samaria #saron #sat #saul #saw #scales #seeing #seen #sent #shew #shewing #shined #sick #sight #simon #slaughter #slay #son #speechless #spoken #straight #straightway #street #strength #strengthened #suddenly #suffer #synagogues #tabitha #tanner #tarried #tarsus #things #threatenings #three #told #trembling #turned #turning #upper #vessel #vision #voice #walking #wall #washed #watched #way #weeping #widows #wilt #woman #women #works #years #æneas
 
 
 ---

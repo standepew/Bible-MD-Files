@@ -1,3 +1,14 @@
+---
+book: "Matthew"
+chapter: 2
+testament: "New Testament"
+key_themes: "Christ's Royal Worship, Wise Men, Flight to Egypt, Herod's Massacre"
+tags:
+  - christ
+  - wise-men
+  - flight-to-egypt
+  - herod
+---
 # Matthew 2
 
 ---
@@ -129,7 +140,7 @@ Jesus, born, Bethlehem, Judaea, days, Herod, king, behold, wise, men, east, Jeru
 
 
 *AI Keywords for current event matching:*
-`angel` `appeared` `born` `child` `children` `christs` `come` `east` `egypt` `fell` `flee` `flight` `frankincense` `fulfilled` `gold` `great` `herod` `herods` `jeremy` `jews` `joy` `king` `massacre` `men` `mother` `opened` `rachel` `rejoiced` `royal` `slew` `spoken` `star` `take` `treasures` `troubled` `weeping` `wise` `worship` `worshipped`
+#angel #appeared #born #child #children #christs #come #east #egypt #fell #flee #flight #frankincense #fulfilled #gold #great #herod #herods #jeremy #jews #joy #king #massacre #men #mother #opened #rachel #rejoiced #royal #slew #spoken #star #take #treasures #troubled #weeping #wise #worship #worshipped
 
 
 ---

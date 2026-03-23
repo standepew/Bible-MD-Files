@@ -1,3 +1,14 @@
+---
+book: "Amos"
+chapter: 5
+testament: "Old Testament"
+key_themes: "Christ's Call to Seek God, Lamentation for Israel, Day of the LORD, True Worship"
+tags:
+  - christ
+  - lamentation-for-israel
+  - day-of-the-lord
+  - true-worship
+---
 # Amos 5
 
 ---
@@ -105,7 +116,7 @@ Hear, word, lamentation, house, Israel, virgin, Israel, fallen, rise, forsaken, 
 
 
 *AI Keywords for current event matching:*
-`accept` `bear` `call` `christs` `darkness` `day` `days` `desire` `despise` `fallen` `feast` `flee` `forsaken` `god` `good` `israel` `judgment` `lamentation` `land` `light` `lion` `live` `lord` `maketh` `offerings` `righteousness` `seek` `stream` `streets` `true` `virgin` `wailing` `waters` `worship`
+#accept #bear #call #christs #darkness #day #days #desire #despise #fallen #feast #flee #forsaken #god #good #israel #judgment #lamentation #land #light #lion #live #lord #maketh #offerings #righteousness #seek #stream #streets #true #virgin #wailing #waters #worship
 
 
 ---

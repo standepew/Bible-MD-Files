@@ -1,3 +1,13 @@
+---
+book: "Jeremiah"
+chapter: 39
+testament: "Old Testament"
+key_themes: "Christ's Fulfillment, Jerusalem's Fall, Divine Protection, Christ's Reward"
+tags:
+  - christ
+  - jerusalem
+  - divine-protection
+---
 # Jeremiah 39
 
 ---
@@ -105,7 +115,7 @@ Ninth, year, Zedekiah, king, Judah, tenth, month, Nebuchadrezzar, king, Babylon,
 
 
 *AI Keywords for current event matching:*
-`among` `brake` `broken` `burned` `came` `captive` `carried` `christs` `city` `committed` `deliver` `divine` `dwelt` `eyes` `fall` `fulfillment` `gedaliah` `harm` `houses` `jerusalems` `life` `people` `prey` `princes` `protection` `put` `remnant` `reward` `slew` `sons` `sword` `take` `trust` `walls` `well`
+#among #brake #broken #burned #came #captive #carried #christs #city #committed #deliver #divine #dwelt #eyes #fall #fulfillment #gedaliah #harm #houses #jerusalems #life #people #prey #princes #protection #put #remnant #reward #slew #sons #sword #take #trust #walls #well
 
 
 ---

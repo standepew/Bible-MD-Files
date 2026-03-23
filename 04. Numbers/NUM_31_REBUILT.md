@@ -1,3 +1,35 @@
+---
+book: "Numbers"
+chapter: 31
+testament: "Old Testament"
+key_themes: "God's final command to Moses before his death: avenge Israel of the Midianites — then you will be gathered to your people, Twelve thousand warriors — a thousand per tribe; Phinehas goes with the holy instruments and the trumpets, Five Midianite kings slain; Balaam slain with the sword, Moses is wroth: why did you spare the women? — these are the ones Balaam counselled to use against Israel at Peor; all adult males among captives must die, Purification law for soldiers who killed: seven days outside camp; third and seventh day cleansing, The purification of metals — fire for what fire can endure; water of separation for all else, Division of spoil: half to the warriors (1/500th to Eleazar for the LORD); half to the congregation (1/50th to the Levites), Not one Israelite soldier died — the officers' grateful oblation; sixteen thousand seven hundred fifty shekels of gold brought to the Tabernacle as a memorial"
+tags:
+  - avenge-Israel-of-Midianites
+  - afterward-gathered-to-thy-people
+  - twelve-thousand-armed
+  - thousand-per-tribe
+  - Phinehas-with-holy-instruments-and-trumpets
+  - all-males-slain
+  - five-kings-of-Midian
+  - Balaam-slain-with-sword
+  - Moses-wroth
+  - have-ye-saved-the-women
+  - counsel-of-Balaam
+  - matter-of-Peor
+  - kill-every-male
+  - kill-every-woman-known-man
+  - keep-alive-virgins
+  - seven-days-outside-camp
+  - purify-third-and-seventh-day
+  - fire-for-metal
+  - water-of-separation
+  - divide-spoil-in-two
+  - one-soul-in-five-hundred-to-LORD
+  - one-in-fifty-to-Levites
+  - not-one-man-lacking
+  - atonement-of-gold
+  - memorial-before-LORD
+---
 # Numbers 31
 
 ---
@@ -63,7 +95,7 @@ God tells Moses: avenge Israel of Midian — afterward you will be gathered to y
 
 
 *AI Keywords for current event matching:*
-`balaam` `behind` `corruption` `counsel` `current` `doctrine` `events` `hidden` `indirect` `internal` `matching` `numbers` `revelation` `seduction` `strategy` `warfare`
+#balaam #behind #corruption #counsel #current #doctrine #events #hidden #indirect #internal #matching #numbers #revelation #seduction #strategy #warfare
 
 
 ---
@@ -166,12 +198,12 @@ God tells Moses: avenge Israel of Midian — afterward you will be gathered to y
 
 ### Not One Man Lacking — The Commander's Report
 
-**Numbers 31:49** — "there lacketh not one man of us"
+[[04. Numbers/NUM_31_REBUILT|Numbers 31:49]] — "there lacketh not one man of us"
 
 This is the most astonishing report in Numbers. Twelve thousand men went to war against five kings, burned their cities, killed all the males of Midian — and not one Israelite died. The officers do not receive this as a military achievement; they receive it as a divine mercy requiring a response of gratitude-atonement. The gold they bring is every man's personal jewelry — chains, bracelets, rings, earrings, tablets — what each man stripped from the enemy for himself (v.53), then gave up to the Tabernacle.
 
-- **Psalm 91:7** — "A thousand shall fall at thy side, and ten thousand at thy right hand; but it shall not come nigh thee"
-- **2 Chronicles 20:17** — "Ye shall not need to fight in this battle... stand still, and see the salvation of the LORD"
+- [[19.Psalm Part 2/PSALM_91_REBUILT|Psalm 91:7]] — "A thousand shall fall at thy side, and ten thousand at thy right hand; but it shall not come nigh thee"
+- [[14. 2 Chronicles/2_CHRONICLES_20_REBUILT|2 Chronicles 20:17]] — "Ye shall not need to fight in this battle... stand still, and see the salvation of the LORD"
 
 **What the Bible establishes:** When God goes before His people in commanded warfare, casualty counts are not the measure of military competence — they are the evidence of divine presence. The zero-casualty report of Numbers 31 is the officers' own evidence that God fought this battle. Their response — bringing their gold as atonement for their souls — is the correct response to undeserved survival: not pride in skill but humility before grace.
 

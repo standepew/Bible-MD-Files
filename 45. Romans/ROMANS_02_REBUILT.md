@@ -1,3 +1,13 @@
+---
+book: "Romans"
+chapter: 2
+testament: "New Testament"
+key_themes: "God's Righteous Judgment, The Jews and the Law, True Circumcision"
+tags:
+  - god
+  - the-jews-and-the-law
+  - true-circumcision
+---
 # Romans 2
 
 ---
@@ -163,7 +173,7 @@ Inexcusable, man, judgest, judgest, condemnest, judgest, things, judgment, God, 
 
 
 *AI Keywords for current event matching:*
-`abhorrest` `accusing` `adultery` `anguish` `approvest` `babes` `bearing` `blasphemed` `blind` `boast` `breaker` `breaking` `called` `christ` `circumcision` `commit` `condemnest` `confident` `conscience` `contained` `contentious` `continuance` `counted` `darkness` `day` `deeds` `despisest` `dishonourest` `doers` `escape` `eternal` `evil` `excellent` `excusing` `flesh` `foolish` `forbearance` `form` `fulfil` `gentile` `gentiles` `glory` `god` `gods` `good` `goodness` `gospel` `guide` `hardness` `hearers` `heart` `hearts` `honour` `idols` `immortality` `impenitent` `indignation` `inexcusable` `instructed` `instructor` `inwardly` `jesus` `jew` `jews` `judge` `judged` `judgest` `judgment` `justified` `keep` `knowest` `knowing` `knowledge` `law` `leadeth` `letter` `life` `light` `longsuffering` `makest` `man` `men` `name` `nature` `obey` `outward` `outwardly` `patient` `peace` `perish` `persons` `praise` `preachest` `profiteth` `render` `repentance` `respect` `rest` `revelation` `riches` `righteous` `righteousness` `sacrilege` `sayest` `secrets` `seeking` `shew` `sinned` `soul` `spirit` `steal` `teacher` `teachest` `themselves` `things` `thoughts` `transgress` `treasurest` `tribulation` `true` `truth` `uncircumcision` `unrighteousness` `well` `without` `witness` `work` `worketh` `wrath` `written`
+#abhorrest #accusing #adultery #anguish #approvest #babes #bearing #blasphemed #blind #boast #breaker #breaking #called #christ #circumcision #commit #condemnest #confident #conscience #contained #contentious #continuance #counted #darkness #day #deeds #despisest #dishonourest #doers #escape #eternal #evil #excellent #excusing #flesh #foolish #forbearance #form #fulfil #gentile #gentiles #glory #god #gods #good #goodness #gospel #guide #hardness #hearers #heart #hearts #honour #idols #immortality #impenitent #indignation #inexcusable #instructed #instructor #inwardly #jesus #jew #jews #judge #judged #judgest #judgment #justified #keep #knowest #knowing #knowledge #law #leadeth #letter #life #light #longsuffering #makest #man #men #name #nature #obey #outward #outwardly #patient #peace #perish #persons #praise #preachest #profiteth #render #repentance #respect #rest #revelation #riches #righteous #righteousness #sacrilege #sayest #secrets #seeking #shew #sinned #soul #spirit #steal #teacher #teachest #themselves #things #thoughts #transgress #treasurest #tribulation #true #truth #uncircumcision #unrighteousness #well #without #witness #work #worketh #wrath #written
 
 
 ---

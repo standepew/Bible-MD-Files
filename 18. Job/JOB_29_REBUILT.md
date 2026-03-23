@@ -1,3 +1,25 @@
+---
+book: "Job"
+chapter: 29
+testament: "Old Testament"
+key_themes: "Job's Former Glory, Divine Favor, Social Honor, Past Prosperity"
+tags:
+  - gate-city-prepared-seat-street
+  - princes-refrained-talking-hand-mouth
+  - blessing-perish-widow-joy
+  - righteousness-clothed-judgment-robe-diadem
+  - eyes-blind-feet-lame
+  - father-poor-cause-searched
+  - jaws-wicked-spoil-teeth
+  - die-nest-multiply-days-sand
+  - root-waters-dew-branch
+  - glory-fresh-bow-renewed-hand
+  - men-ear-waited-silence-counsel
+  - job
+  - divine-favor
+  - social-honor
+  - past-prosperity
+---
 # Job 29
 
 ---
@@ -165,7 +187,7 @@ Job, continued, parable, months, past, days, GOD, preserved. Candle, shined, hea
 
 
 *AI Keywords for current event matching:*
-`aged` `almighty` `arose` `blessed` `blessing` `blind` `butter` `candle` `cause` `children` `city` `cleaved` `clothed` `continued` `darkness` `days` `delivered` `diadem` `divine` `ear` `eye` `eyes` `father` `fatherless` `favor` `feet` `former` `gate` `glory` `god` `hand` `head` `help` `hid` `honor` `jaws` `job` `jobs` `joy` `judgment` `lame` `light` `men` `months` `mouth` `nobles` `oil` `parable` `past` `peace` `perish` `poor` `prepared` `preserved` `princes` `prosperity` `refrained` `righteousness` `robe` `rock` `roof` `searched` `seat` `secret` `shined` `social` `spoil` `steps` `stood` `street` `tabernacle` `talking` `teeth` `tongue` `walked` `wicked` `widow` `witness` `young` `youth`
+#aged #almighty #arose #blessed #blessing #blind #butter #candle #cause #children #city #cleaved #clothed #continued #darkness #days #delivered #diadem #divine #ear #eye #eyes #father #fatherless #favor #feet #former #gate #glory #god #hand #head #help #hid #honor #jaws #job #jobs #joy #judgment #lame #light #men #months #mouth #nobles #oil #parable #past #peace #perish #poor #prepared #preserved #princes #prosperity #refrained #righteousness #robe #rock #roof #searched #seat #secret #shined #social #spoil #steps #stood #street #tabernacle #talking #teeth #tongue #walked #wicked #widow #witness #young #youth
 
 
 ---

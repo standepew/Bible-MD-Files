@@ -1,3 +1,14 @@
+---
+book: "James"
+chapter: 5
+testament: "New Testament"
+key_themes: "Warning to the Rich, Patience and the Lord's Coming, Power of Prayer, Restoring the Wanderer"
+tags:
+  - warning-to-the-rich
+  - patience-and-the-lord
+  - power-of-prayer
+  - restoring-the-wanderer
+---
 # James 5
 
 ---
@@ -117,7 +128,7 @@ Rich, men, weep, howl, miseries, come, riches, corrupted, garments, motheaten, g
 
 
 *AI Keywords for current event matching:*
-`afflicted` `affliction` `availeth` `brethren` `brought` `cankered` `church` `come` `coming` `committed` `condemnation` `condemned` `confess` `convert` `corrupted` `count` `cries` `crieth` `day` `days` `death` `door` `draweth` `early` `earnestly` `ears` `earth` `eat` `effectual` `elders` `elias` `end` `endure` `err` `error` `example` `faith` `faults` `fervent` `fields` `fire` `flesh` `forgiven` `fraud` `fruit` `garments` `gave` `gold` `grudge` `happy` `healed` `heaped` `hearts` `heaven` `hide` `hire` `howl` `husbandman` `job` `judge` `kept` `killed` `know` `labourers` `last` `latter` `lived` `long` `lord` `lords` `man` `men` `mercy` `merry` `miseries` `months` `motheaten` `multitude` `name` `nay` `nigh` `nourished` `oath` `oil` `passions` `patience` `patient` `pitiful` `pleasure` `power` `pray` `prayed` `prayer` `precious` `prophets` `psalms` `rain` `rained` `raise` `reaped` `receive` `resist` `restoring` `rich` `riches` `righteous` `rust` `sabaoth` `save` `sick` `silver` `sing` `sinner` `sins` `six` `slaughter` `soul` `space` `spoken` `stablish` `standeth` `suffering` `swear` `tender` `three` `treasure` `truth` `wait` `wanderer` `wanton` `warning` `way` `weep` `witness` `yea` `years`
+#afflicted #affliction #availeth #brethren #brought #cankered #church #come #coming #committed #condemnation #condemned #confess #convert #corrupted #count #cries #crieth #day #days #death #door #draweth #early #earnestly #ears #earth #eat #effectual #elders #elias #end #endure #err #error #example #faith #faults #fervent #fields #fire #flesh #forgiven #fraud #fruit #garments #gave #gold #grudge #happy #healed #heaped #hearts #heaven #hide #hire #howl #husbandman #job #judge #kept #killed #know #labourers #last #latter #lived #long #lord #lords #man #men #mercy #merry #miseries #months #motheaten #multitude #name #nay #nigh #nourished #oath #oil #passions #patience #patient #pitiful #pleasure #power #pray #prayed #prayer #precious #prophets #psalms #rain #rained #raise #reaped #receive #resist #restoring #rich #riches #righteous #rust #sabaoth #save #sick #silver #sing #sinner #sins #six #slaughter #soul #space #spoken #stablish #standeth #suffering #swear #tender #three #treasure #truth #wait #wanderer #wanton #warning #way #weep #witness #yea #years
 
 
 ---

@@ -1,3 +1,15 @@
+---
+book: "James"
+chapter: 4
+testament: "New Testament"
+key_themes: "Source of Conflicts, Friendship with the World, Submitting to God, Judging Others, Humility Before God"
+tags:
+  - source-of-conflicts
+  - friendship-with-the-world
+  - submitting-to-god
+  - judging-others
+  - humility-before-god
+---
 # James 4
 
 ---
@@ -107,7 +119,7 @@ Wars, fightings, lusts, war, members, lust, kill, desire, obtain, fight, war, as
 
 
 *AI Keywords for current event matching:*
-`adulterers` `adulteresses` `afflicted` `amiss` `appeareth` `ask` `boastings` `brethren` `brother` `buy` `city` `cleanse` `conflicts` `consume` `continue` `desire` `destroy` `devil` `doer` `doeth` `double` `draw` `dwelleth` `enemy` `enmity` `envy` `evil` `fight` `fightings` `flee` `friend` `friendship` `gain` `giveth` `god` `good` `grace` `hands` `hearts` `heaviness` `humble` `humility` `joy` `judge` `judgeth` `judging` `kill` `knoweth` `laughter` `law` `lawgiver` `life` `lift` `little` `live` `lord` `lust` `lusteth` `lusts` `members` `minded` `morrow` `mourn` `mourning` `nigh` `obtain` `others` `ought` `proud` `purify` `receive` `rejoicing` `resist` `resisteth` `save` `say` `scripture` `sell` `sight` `sin` `sinners` `source` `speak` `speaketh` `spirit` `submit` `submitting` `time` `turned` `vanish` `vapour` `war` `wars` `weep` `world` `year`
+#adulterers #adulteresses #afflicted #amiss #appeareth #ask #boastings #brethren #brother #buy #city #cleanse #conflicts #consume #continue #desire #destroy #devil #doer #doeth #double #draw #dwelleth #enemy #enmity #envy #evil #fight #fightings #flee #friend #friendship #gain #giveth #god #good #grace #hands #hearts #heaviness #humble #humility #joy #judge #judgeth #judging #kill #knoweth #laughter #law #lawgiver #life #lift #little #live #lord #lust #lusteth #lusts #members #minded #morrow #mourn #mourning #nigh #obtain #others #ought #proud #purify #receive #rejoicing #resist #resisteth #save #say #scripture #sell #sight #sin #sinners #source #speak #speaketh #spirit #submit #submitting #time #turned #vanish #vapour #war #wars #weep #world #year
 
 
 ---

@@ -1,3 +1,13 @@
+---
+book: "Isaiah"
+chapter: 22
+testament: "Old Testament"
+key_themes: "Christ's Key, Divine Judgment, Prophetic Rejection, Christ's Authority"
+tags:
+  - christ
+  - divine-judgment
+  - prophetic-rejection
+---
 # Isaiah 22
 
 ---
@@ -117,7 +127,7 @@ Burden, valley, vision, aileth, wholly, gone, housetops, full, stirs, tumultuous
 
 
 *AI Keywords for current event matching:*
-`authority` `burden` `call` `christs` `commit` `david` `die` `divine` `drink` `eat` `eliakim` `father` `fled` `gladness` `glorious` `government` `house` `inhabitants` `iniquity` `joy` `judgment` `key` `lay` `looked` `maker` `nail` `open` `place` `prophetic` `purged` `rejection` `rulers` `servant` `shoulder` `shut` `sure` `throne` `tomorrow` `valley` `weeping`
+#authority #burden #call #christs #commit #david #die #divine #drink #eat #eliakim #father #fled #gladness #glorious #government #house #inhabitants #iniquity #joy #judgment #key #lay #looked #maker #nail #open #place #prophetic #purged #rejection #rulers #servant #shoulder #shut #sure #throne #tomorrow #valley #weeping
 
 
 ---

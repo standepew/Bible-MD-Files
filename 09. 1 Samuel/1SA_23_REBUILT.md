@@ -1,3 +1,19 @@
+---
+book: "1 Samuel"
+chapter: 23
+testament: "Old Testament"
+key_themes: "David Saves Keilah, Divine Guidance, Saul's Pursuit, Jonathan's Encouragement, Ziphites' Betrayal, Divine Rescue, En-gedi Refuge"
+tags:
+  - Saul-LORD-compassion
+  - David-strong-holds-En-gedi
+  - david-saves-keilah
+  - divine-guidance
+  - saul
+  - jonathan
+  - ziphites
+  - divine-rescue
+  - engedi-refuge
+---
 # 1 Samuel 23
 
 ---
@@ -85,7 +101,7 @@ They told David Philistines fought against Keilah and robbed threshingfloors. Da
 
 
 *AI Keywords for current event matching:*
-`abiathar` `afraid` `ahimelech` `arise` `armies` `arose` `bars` `besiege` `betrayal` `called` `cattle` `certainty` `city` `come` `compassed` `compassion` `covenant` `david` `day` `dealeth` `deliver` `delivered` `departed` `desire` `destroy` `divine` `down` `en-gedi` `encouragement` `enquired` `ephod` `escaped` `father` `fear` `fight` `find` `fled` `forbare` `gates` `gibeah` `god` `guidance` `hachilah` `hand` `haste` `haunt` `heard` `hideth` `hill` `holds` `house` `hundred` `inhabitants` `invaded` `israel` `jeshimon` `jonathan` `jonathans` `judah` `keilah` `king` `knew` `know` `land` `life` `lord` `lurking` `maon` `men` `messenger` `mischief` `mountain` `next` `people` `philistines` `place` `places` `plain` `prepare` `priest` `pursued` `pursuing` `pursuit` `rescue` `returned` `rob` `rock` `sake` `saul` `sauls` `save` `saved` `search` `seek` `seen` `sela-hammahlekoth` `servant` `shut` `six` `slaughter` `smite` `son` `sought` `soul` `south` `strengthened` `strong` `subtilly` `thousands` `threshingfloors` `town` `victory` `war` `whithersoever` `wilderness` `wood` `ziph` `ziphites`
+#abiathar #afraid #ahimelech #arise #armies #arose #bars #besiege #betrayal #called #cattle #certainty #city #come #compassed #compassion #covenant #david #day #dealeth #deliver #delivered #departed #desire #destroy #divine #down #en-gedi #encouragement #enquired #ephod #escaped #father #fear #fight #find #fled #forbare #gates #gibeah #god #guidance #hachilah #hand #haste #haunt #heard #hideth #hill #holds #house #hundred #inhabitants #invaded #israel #jeshimon #jonathan #jonathans #judah #keilah #king #knew #know #land #life #lord #lurking #maon #men #messenger #mischief #mountain #next #people #philistines #place #places #plain #prepare #priest #pursued #pursuing #pursuit #rescue #returned #rob #rock #sake #saul #sauls #save #saved #search #seek #seen #sela-hammahlekoth #servant #shut #six #slaughter #smite #son #sought #soul #south #strengthened #strong #subtilly #thousands #threshingfloors #town #victory #war #whithersoever #wilderness #wood #ziph #ziphites
 
 
 ---

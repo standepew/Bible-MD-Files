@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 21
+testament: "Old Testament"
+key_themes: "King's Victory, God's Blessings, Eternal Life, Judgment on Enemies"
+tags:
+  - king
+  - god
+  - eternal-life
+  - judgment-on-enemies
+---
 # Psalm 21
 
 ---
@@ -153,7 +164,7 @@ Chief, Musician, Psalm, David, king, joy, strength, LORD, salvation, greatly, re
 
 
 *AI Keywords for current event matching:*
-`anger` `asked` `blessed` `blessings` `chief` `children` `crown` `david` `days` `desire` `destroy` `devour` `earth` `enemies` `eternal` `fiery` `find` `fire` `forever` `fruit` `gavest` `given` `glory` `gods` `gold` `goodness` `great` `greatly` `hand` `hate` `head` `heart` `highest` `honour` `joy` `judgment` `king` `kings` `laid` `length` `life` `lips` `lord` `majesty` `men` `mercy` `moved` `musician` `oven` `preventest` `psalm` `pure` `rejoice` `request` `right` `salvation` `seed` `selah` `set` `strength` `swallow` `time` `trusteth` `victory` `withholden` `wrath`
+#anger #asked #blessed #blessings #chief #children #crown #david #days #desire #destroy #devour #earth #enemies #eternal #fiery #find #fire #forever #fruit #gavest #given #glory #gods #gold #goodness #great #greatly #hand #hate #head #heart #highest #honour #joy #judgment #king #kings #laid #length #life #lips #lord #majesty #men #mercy #moved #musician #oven #preventest #psalm #pure #rejoice #request #right #salvation #seed #selah #set #strength #swallow #time #trusteth #victory #withholden #wrath
 
 
 ---

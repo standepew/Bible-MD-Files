@@ -1,3 +1,36 @@
+---
+book: "Exodus"
+chapter: 40
+testament: "Old Testament"
+key_themes: "God commands Moses to erect the Tabernacle on the first day of the first month, Moses does everything exactly as commanded, The Tabernacle is anointed and consecrated — the priesthood installed, "So Moses finished the work," The glory of the LORD fills the Tabernacle — Moses cannot enter, The cloud by day and fire by night governing all future movements of Israel"
+tags:
+  - erect-the-tabernacle
+  - first-day-first-month
+  - second-year
+  - Moses-obeys-exactly
+  - ark-placed
+  - veil-covers-ark
+  - table-set
+  - candlestick-lit
+  - golden-altar-set
+  - incense-burned
+  - altar-of-burnt-offering
+  - laver-filled
+  - court-erected
+  - anointing-oil-on-all
+  - Aaron-washed-and-anointed
+  - priesthood-installed
+  - so-Moses-finished-the-work
+  - cloud-covered-the-tent
+  - glory-filled-the-tabernacle
+  - Moses-could-not-enter
+  - cloud-lifts-journey-begins
+  - cloud-by-day-fire-by-night
+  - shekinah
+  - Revelation-21-3
+  - John-1-14
+  - purpose-of-redemption-fulfilled
+---
 # Exodus 40
 
 ---
@@ -83,7 +116,7 @@ God commands Moses: on the first day of the first month of the second year, erec
 
 
 *AI Keywords for current event matching:*
-`among` `current` `dwell` `events` `exodus` `gods` `john` `matching` `purpose` `revelation`
+#among #current #dwell #events #exodus #gods #john #matching #purpose #revelation
 
 
 ---
@@ -216,11 +249,11 @@ God commands Moses: on the first day of the first month of the second year, erec
 
 ### "Throughout All Their Journeys" — The Last Words of Exodus
 
-**Exodus 40:38** — "the cloud of the LORD was upon the tabernacle by day, and fire was on it by night, in the sight of all the house of Israel, throughout all their journeys"
+[[02. Exodus/EXO_40_REBUILT|Exodus 40:38]] — "the cloud of the LORD was upon the tabernacle by day, and fire was on it by night, in the sight of all the house of Israel, throughout all their journeys"
 
 - The book that began with Israel in slavery in Egypt ends with Israel in the wilderness — guided by God's presence, moving at His direction, held by His protection
-- **Deuteronomy 31:8** — "And the LORD, he it is that doth go before thee; he will be with thee, he will not fail thee, neither forsake thee: fear not, neither be dismayed"
-- **Matthew 28:20** — "lo, I am with you alway, even unto the end of the world" — Christ as the cloud and fire; never departing; present throughout all journeys
+- [[05. Deuteronomy/DEU_31_REBUILT|Deuteronomy 31:8]] — "And the LORD, he it is that doth go before thee; he will be with thee, he will not fail thee, neither forsake thee: fear not, neither be dismayed"
+- [[40. Matthew/MATTHEW_28_REBUILT|Matthew 28:20]] — "lo, I am with you alway, even unto the end of the world" — Christ as the cloud and fire; never departing; present throughout all journeys
 - *Exodus ends not with arrival but with the guarantee of guidance. Israel has not yet entered Canaan. They are still in the wilderness. But the glory is with them — and where the glory leads, they follow. This is the posture of the covenant people in every age: not yet home, but not alone. The cloud by day. The fire by night. Throughout all our journeys.*
 
 ---

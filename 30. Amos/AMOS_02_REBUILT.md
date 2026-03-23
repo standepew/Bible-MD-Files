@@ -1,3 +1,14 @@
+---
+book: "Amos"
+chapter: 2
+testament: "Old Testament"
+key_themes: "Christ's Judgment on Israel, Social Injustice, Divine Privilege, Nazarite Vows"
+tags:
+  - christ
+  - social-injustice
+  - divine-privilege
+  - nazarite-vows
+---
 # Amos 2
 
 ---
@@ -105,7 +116,7 @@ Saith, LORD, transgressions, Moab, four, turn, punishment, burned, bones, king, 
 
 
 *AI Keywords for current event matching:*
-`amorite` `aside` `christs` `commanded` `destroyed` `divine` `dust` `egypt` `forty` `gave` `holy` `injustice` `israel` `judgment` `land` `meek` `men` `nazarite` `nazarites` `pant` `poor` `possess` `privilege` `profane` `prophesy` `prophets` `raised` `righteous` `shoes` `social` `sold` `vows` `way` `wine` `years` `young`
+#amorite #aside #christs #commanded #destroyed #divine #dust #egypt #forty #gave #holy #injustice #israel #judgment #land #meek #men #nazarite #nazarites #pant #poor #possess #privilege #profane #prophesy #prophets #raised #righteous #shoes #social #sold #vows #way #wine #years #young
 
 
 ---

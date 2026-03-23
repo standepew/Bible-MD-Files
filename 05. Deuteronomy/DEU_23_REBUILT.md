@@ -1,3 +1,97 @@
+---
+book: "Deuteronomy"
+chapter: 23
+testament: "Old Testament"
+key_themes: "Assembly Restrictions, Physical Blemishes, Illegitimacy, Ammonite and Moabite Exclusion, Edomite and Egyptian Inclusion, Camp Cleanliness, Military Purity, Sanitation Regulations, Fugitive Slaves, Prostitution and Sodomy Prohibited, Temple Offerings, Usury Laws, Vow Fulfillment, Gleaning Rights"
+tags:
+  - wounded-stones
+  - privy-member-cut-off
+  - not-enter-congregation
+  - bastard-not-enter
+  - tenth-generation
+  - Ammonite-Moabite
+  - not-enter-congregation
+  - tenth-generation-forever
+  - bread-water-way
+  - Egypt-came-forth
+  - hired-Balaam
+  - son-Beor
+  - Pethor-Mesopotamia
+  - curse-thee
+  - LORD-not-hearken
+  - curse-blessing
+  - LORD-loved-thee
+  - not-seek-peace
+  - not-prosperity-days-forever
+  - not-abhor-Edomite
+  - brother
+  - not-abhor-Egyptian
+  - stranger-land
+  - children-begotten
+  - third-generation
+  - host-goeth-forth
+  - enemies
+  - keep-wicked-thing
+  - not-clean-uncleanness
+  - chanceth-night
+  - go-abroad-camp
+  - not-come-within-camp
+  - evening-cometh
+  - wash-water
+  - sun-down
+  - come-camp-again
+  - place-without-camp
+  - go-forth-abroad
+  - paddle-weapon
+  - ease-thyself-abroad
+  - dig-therewith
+  - turn-back-cover
+  - LORD-walketh-midst-camp
+  - deliver-thee
+  - enemies-before-thee
+  - camp-holy
+  - unclean-thing
+  - turn-away
+  - deliver-servant
+  - escaped-master
+  - dwell-thee
+  - choose-gate
+  - liketh-best
+  - not-oppress
+  - whore-daughters-Israel
+  - sodomite-sons-Israel
+  - hire-whore
+  - price-dog
+  - house-LORD
+  - vow
+  - abomination-LORD
+  - not-lend-usury
+  - brother
+  - usury-money
+  - usury-victuals
+  - usury-anything
+  - stranger-lend-usury
+  - brother-not-usury
+  - LORD-bless-thee
+  - set-hand-land
+  - vow-vow-LORD
+  - not-slack-pay
+  - require-it-thee
+  - sin-thee
+  - forbear-vow
+  - no-sin
+  - gone-out-lips
+  - keep-perform
+  - freewill-offering
+  - promised-mouth
+  - neighbour-vineyard
+  - eat-grapes-fill
+  - pleasure
+  - put-vessel
+  - neighbour-standing-corn
+  - pluck-ears-hand
+  - not-move-sickle
+---
 # Deuteronomy 23
 
 ---
@@ -137,7 +231,7 @@ Moses lists assembly restrictions: those with wounded genitals or cut off privat
 
 
 *AI Keywords for current event matching:*
-`abhor` `abomination` `abroad` `again` `ammonite` `anything` `assembly` `away` `back` `balaam` `bastard` `begotten` `beor` `best` `bless` `blessing` `bread` `brother` `came` `camp` `chanceth` `children` `choose` `clean` `cleanliness` `come` `cometh` `congregation` `corn` `cover` `curse` `cut` `daughters` `days` `deliver` `dig` `dog` `down` `dwell` `ears` `ease` `eat` `economic` `edomite` `egypt` `egyptian` `enemies` `enter` `escaped` `evening` `fill` `forbear` `forever` `forth` `freewill` `gate` `generation` `gleaning` `goeth` `gone` `grapes` `hand` `hearken` `hire` `hired` `historical` `holy` `host` `house` `israel` `keep` `land` `laws` `lend` `liketh` `lips` `lord` `loved` `master` `member` `mesopotamia` `midst` `moabite` `money` `moral` `mouth` `move` `neighbour` `night` `off` `offering` `oppress` `paddle` `pay` `peace` `perform` `pethor` `place` `pleasure` `pluck` `price` `privy` `prohibitions` `promised` `prosperity` `protection` `put` `reasons` `regulations` `require` `restrictions` `rights` `seek` `servant` `set` `sickle` `sin` `slack` `slave` `sodomite` `son` `sons` `standing` `stones` `stranger` `sun` `tenth` `therewith` `thing` `third` `thyself` `turn` `unclean` `uncleanness` `usury` `vessel` `victuals` `vineyard` `vow` `walketh` `wash` `water` `way` `weapon` `whore` `wicked` `within` `without` `wounded`
+#abhor #abomination #abroad #again #ammonite #anything #assembly #away #back #balaam #bastard #begotten #beor #best #bless #blessing #bread #brother #came #camp #chanceth #children #choose #clean #cleanliness #come #cometh #congregation #corn #cover #curse #cut #daughters #days #deliver #dig #dog #down #dwell #ears #ease #eat #economic #edomite #egypt #egyptian #enemies #enter #escaped #evening #fill #forbear #forever #forth #freewill #gate #generation #gleaning #goeth #gone #grapes #hand #hearken #hire #hired #historical #holy #host #house #israel #keep #land #laws #lend #liketh #lips #lord #loved #master #member #mesopotamia #midst #moabite #money #moral #mouth #move #neighbour #night #off #offering #oppress #paddle #pay #peace #perform #pethor #place #pleasure #pluck #price #privy #prohibitions #promised #prosperity #protection #put #reasons #regulations #require #restrictions #rights #seek #servant #set #sickle #sin #slack #slave #sodomite #son #sons #standing #stones #stranger #sun #tenth #therewith #thing #third #thyself #turn #unclean #uncleanness #usury #vessel #victuals #vineyard #vow #walketh #wash #water #way #weapon #whore #wicked #within #without #wounded
 
 
 ---

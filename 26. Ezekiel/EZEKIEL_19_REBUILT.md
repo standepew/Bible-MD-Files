@@ -1,3 +1,14 @@
+---
+book: "Ezekiel"
+chapter: 19
+testament: "Old Testament"
+key_themes: "Christ's Lament, Lion Princes, Vine Judah, Divine Judgment"
+tags:
+  - christ
+  - lion-princes
+  - vine-judah
+  - divine-judgment
+---
 # Ezekiel 19
 
 ---
@@ -117,7 +128,7 @@ Lamentation, princes, Israel, mother, lioness, lay, lions, nourished, whelps, yo
 
 
 *AI Keywords for current event matching:*
-`blood` `branches` `cast` `catch` `christs` `consumed` `devoured` `divine` `east` `fire` `fruitful` `fury` `ground` `judah` `judgment` `lament` `lamentation` `lion` `lioness` `men` `mother` `pit` `planted` `plucked` `prey` `princes` `rods` `strong` `taken` `vine` `waters` `wilderness` `wind` `young`
+#blood #branches #cast #catch #christs #consumed #devoured #divine #east #fire #fruitful #fury #ground #judah #judgment #lament #lamentation #lion #lioness #men #mother #pit #planted #plucked #prey #princes #rods #strong #taken #vine #waters #wilderness #wind #young
 
 
 ---

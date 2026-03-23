@@ -1,3 +1,14 @@
+---
+book: "Matthew"
+chapter: 20
+testament: "New Testament"
+key_themes: "Christ's Laborers Parable, Kingdom Generosity, Suffering Prediction, Servant Leadership"
+tags:
+  - christ
+  - kingdom-generosity
+  - suffering-prediction
+  - servant-leadership
+---
 # Matthew 20
 
 ---
@@ -153,7 +164,7 @@ Kingdom, heaven, householder, early, morning, hire, labourers, vineyard, agreed,
 
 
 *AI Keywords for current event matching:*
-`baptism` `betrayed` `called` `chosen` `christs` `compassion` `cup` `death` `eleventh` `evil` `eye` `few` `first` `friend` `generosity` `hour` `householder` `jerusalem` `kingdom` `laborers` `last` `leadership` `many` `mine` `minister` `mock` `parable` `penny` `prediction` `priests` `ransom` `rise` `scourge` `servant` `suffering` `third` `touched` `vineyard` `wage` `wrong`
+#baptism #betrayed #called #chosen #christs #compassion #cup #death #eleventh #evil #eye #few #first #friend #generosity #hour #householder #jerusalem #kingdom #laborers #last #leadership #many #mine #minister #mock #parable #penny #prediction #priests #ransom #rise #scourge #servant #suffering #third #touched #vineyard #wage #wrong
 
 
 ---

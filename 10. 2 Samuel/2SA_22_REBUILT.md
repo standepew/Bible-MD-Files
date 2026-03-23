@@ -1,3 +1,42 @@
+---
+book: "2 Samuel"
+chapter: 22
+testament: "Old Testament"
+key_themes: "David's Song of Deliverance, Divine Protection, God's Power, Personal Testimony, Eternal Salvation"
+tags:
+  - LORD-rock-fortress-deliverer
+  - call-LORD-praised-saved-enemies
+  - bowed-heavens-darkness-feet
+  - rode-cherub-fly-wings-wind
+  - brightness-coals-fire-kindled
+  - arrows-scattered-lightning-discomfited
+  - prevented-calamity-LORD-stay
+  - brought-large-place-delivered-delighted
+  - judgments-statutes-departed
+  - upright-iniquity
+  - LORD-recompensed-righteousness-cleanness-sight
+  - merciful-merciful-upright-upright
+  - pure-pure-froward-unsavoury
+  - lamp-LORD-LORD-lighten-darkness
+  - thee-troop-God-leaped-wall
+  - God-rock-rock
+  - God-strength-power-way-perfect
+  - feet-hinds-high-places
+  - shield-salvation-gentleness-great
+  - enlarged-steps-feet-slipped
+  - pursued-enemies-destroyed-turned-consumed
+  - consumed-wounded-arise-fallen-feet
+  - girded-strength-battle-rose-subdued
+  - necks-enemies-destroy-hate
+  - looked-save-LORD-answered
+  - strangers-submit-hear-obedient
+  - strangers-fade-afraid-close-places
+  - david
+  - divine-protection
+  - god
+  - personal-testimony
+  - eternal-salvation
+---
 # 2 Samuel 22
 
 ---
@@ -93,7 +132,7 @@ David spoke to LORD words of song day LORD delivered from enemies, Saul. Said, L
 
 
 *AI Keywords for current event matching:*
-`above` `afflicted` `afraid` `anointed` `answered` `arise` `arms` `arrows` `avengeth` `battle` `beat` `blast` `blessed` `bow` `bowed` `breath` `brightness` `bring` `broken` `brought` `buckler` `calamity` `call` `channels` `character` `cherub` `cleanness` `close` `clouds` `coals` `consumed` `dark` `darkness` `david` `delighted` `deliverance` `delivered` `deliverer` `departed` `destroy` `destroyed` `devoured` `discomfited` `discovered` `divine` `down` `drew` `dust` `earth` `enablement` `enemies` `enemy` `enlarged` `eternal` `exalted` `eyes` `fade` `fallen` `feet` `fire` `fly` `forever` `fortress` `foundations` `froward` `gentleness` `girded` `god` `great` `guidance` `hands` `hate` `hated` `haughty` `head` `hear` `heathen` `heaven` `heavens` `high` `hinds` `honor` `horn` `iniquity` `judgments` `kept` `kindled` `king` `knew` `lamp` `large` `leaped` `lifted` `lighten` `lightning` `liveth` `looked` `lord` `merciful` `mercy` `military` `mire` `mouth` `moved` `name` `necks` `nostrils` `obedient` `pavilions` `people` `perfect` `personal` `place` `places` `power` `praise` `praised` `praises` `prevented` `protection` `pure` `pursued` `rebuking` `recompensed` `refuge` `rewarded` `righteousness` `rock` `rode` `rose` `royal` `salvation` `save` `saved` `saviour` `scattered` `sea` `seed` `sent` `serve` `shield` `shook` `sight` `sing` `skies` `slip` `small` `smoke` `spread` `stamp` `statutes` `stay` `steel` `steps` `strangers` `street` `strength` `strivings` `strong` `subdued` `submit` `teach` `thanks` `thick` `thundered` `took` `tower` `trembled` `tried` `troop` `trust` `turned` `unsavoury` `upright` `uttered` `victory` `violence` `violent` `voice` `wall` `war` `waters` `way` `ways` `wickedly` `wind` `wings` `word` `world` `wounded` `wroth`
+#above #afflicted #afraid #anointed #answered #arise #arms #arrows #avengeth #battle #beat #blast #blessed #bow #bowed #breath #brightness #bring #broken #brought #buckler #calamity #call #channels #character #cherub #cleanness #close #clouds #coals #consumed #dark #darkness #david #delighted #deliverance #delivered #deliverer #departed #destroy #destroyed #devoured #discomfited #discovered #divine #down #drew #dust #earth #enablement #enemies #enemy #enlarged #eternal #exalted #eyes #fade #fallen #feet #fire #fly #forever #fortress #foundations #froward #gentleness #girded #god #great #guidance #hands #hate #hated #haughty #head #hear #heathen #heaven #heavens #high #hinds #honor #horn #iniquity #judgments #kept #kindled #king #knew #lamp #large #leaped #lifted #lighten #lightning #liveth #looked #lord #merciful #mercy #military #mire #mouth #moved #name #necks #nostrils #obedient #pavilions #people #perfect #personal #place #places #power #praise #praised #praises #prevented #protection #pure #pursued #rebuking #recompensed #refuge #rewarded #righteousness #rock #rode #rose #royal #salvation #save #saved #saviour #scattered #sea #seed #sent #serve #shield #shook #sight #sing #skies #slip #small #smoke #spread #stamp #statutes #stay #steel #steps #strangers #street #strength #strivings #strong #subdued #submit #teach #thanks #thick #thundered #took #tower #trembled #tried #troop #trust #turned #unsavoury #upright #uttered #victory #violence #violent #voice #wall #war #waters #way #ways #wickedly #wind #wings #word #world #wounded #wroth
 
 
 ---

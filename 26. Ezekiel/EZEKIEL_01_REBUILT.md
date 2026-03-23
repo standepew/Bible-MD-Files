@@ -1,3 +1,13 @@
+---
+book: "Ezekiel"
+chapter: 1
+testament: "Old Testament"
+key_themes: "Christ's Glory, Divine Vision, Heavenly Throne, Christ's Majesty"
+tags:
+  - christ
+  - divine-vision
+  - heavenly-throne
+---
 # Ezekiel 1
 
 ---
@@ -117,7 +127,7 @@ Thirtieth, year, fourth, month, fifth, day, month, captives, river, Chebar, heav
 
 
 *AI Keywords for current event matching:*
-`appearance` `bow` `brightness` `christs` `cloud` `creatures` `crystal` `divine` `eyes` `face` `faces` `fell` `fire` `four` `glory` `god` `great` `heavenly` `heavens` `infolding` `living` `lord` `majesty` `man` `north` `opened` `rain` `round` `sapphire` `terrible` `throne` `vision` `visions` `whirlwind` `wings`
+#appearance #bow #brightness #christs #cloud #creatures #crystal #divine #eyes #face #faces #fell #fire #four #glory #god #great #heavenly #heavens #infolding #living #lord #majesty #man #north #opened #rain #round #sapphire #terrible #throne #vision #visions #whirlwind #wings
 
 
 ---

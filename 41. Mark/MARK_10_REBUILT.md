@@ -1,3 +1,15 @@
+---
+book: "Mark"
+chapter: 10
+testament: "New Testament"
+key_themes: "Christ's Teaching on Marriage, Blessing Children, Rich Young Ruler, True Greatness, Healing of Blind Bartimæus"
+tags:
+  - christ
+  - blessing-children
+  - rich-young-ruler
+  - true-greatness
+  - healing-of-blind-bartimus
+---
 # Mark 10
 
 ---
@@ -191,7 +203,7 @@ Arose, coasts, Judæa, farther, Jordan, people, resort, wont, taught, Pharisees,
 
 
 *AI Keywords for current event matching:*
-`adultery` `baptized` `bartimæus` `bill` `blessing` `blind` `camel` `chiefest` `children` `christs` `committeth` `cup` `david` `divorcement` `faith` `flesh` `followed` `god` `good` `greatness` `hardness` `healing` `heart` `heaven` `hundredfold` `jesus` `kingdom` `little` `many` `marriage` `master` `minister` `needle` `one` `ransom` `receive` `rich` `ruler` `servant` `sight` `son` `teaching` `treasure` `true` `whole` `young`
+#adultery #baptized #bartimæus #bill #blessing #blind #camel #chiefest #children #christs #committeth #cup #david #divorcement #faith #flesh #followed #god #good #greatness #hardness #healing #heart #heaven #hundredfold #jesus #kingdom #little #many #marriage #master #minister #needle #one #ransom #receive #rich #ruler #servant #sight #son #teaching #treasure #true #whole #young
 
 
 ---

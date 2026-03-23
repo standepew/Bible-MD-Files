@@ -1,3 +1,34 @@
+---
+book: "Exodus"
+chapter: 3
+testament: "Old Testament"
+key_themes: "The burning bush, The Angel of the LORD, Holy ground, I AM THAT I AM, God's name revealed, The commissioning of Moses, The Abrahamic covenant invoked, The promised land, God promises deliverance, Spoiling the Egyptians"
+tags:
+  - burning-bush
+  - Angel-of-the-LORD
+  - holy-ground
+  - shoes-off
+  - I-AM-THAT-I-AM
+  - YHWH
+  - Jehovah
+  - name-of-God
+  - Moses-commissioned
+  - God-of-Abraham
+  - God-of-Isaac
+  - God-of-Jacob
+  - Horeb
+  - mountain-of-God
+  - deliverer-sent
+  - land-of-milk-and-honey
+  - Canaan
+  - pakod-yifkod
+  - surely-visited
+  - spoil-the-Egyptians
+  - pre-incarnate-Christ
+  - theophany
+  - covenant-name
+  - resurrection-proof
+---
 # Exodus 3
 
 ---
@@ -133,7 +164,7 @@ Moses is tending Jethro's flock at Horeb, the mountain of God, when he sees a bu
 
 
 *AI Keywords for current event matching:*
-`current` `events` `exodus` `god` `heard` `injustice` `know` `matching` `seeing` `seen` `sorrows` `suffering` `surely`
+#current #events #exodus #god #heard #injustice #know #matching #seeing #seen #sorrows #suffering #surely
 
 
 ---
@@ -250,12 +281,12 @@ Each "I AM" is a deliberate echo of the God who spoke from the burning bush.
 
 ### Fire — The Presence of God
 
-- **Exodus 3:2** — Fire in the bush; God's presence
-- **Exodus 13:21** — Pillar of fire; God's guidance
-- **Exodus 19:18** — Sinai on fire; God's descent
-- **Exodus 24:17** — "The sight of the glory of the LORD was like devouring fire"
-- **Acts 2:3** — Tongues of fire; the Spirit descends
-- **Revelation 1:14** — His eyes as flames of fire
+- [[02. Exodus/EXO_03_REBUILT|Exodus 3:2]] — Fire in the bush; God's presence
+- [[02. Exodus/EXO_13_REBUILT|Exodus 13:21]] — Pillar of fire; God's guidance
+- [[02. Exodus/EXO_19_REBUILT|Exodus 19:18]] — Sinai on fire; God's descent
+- [[02. Exodus/EXO_24_REBUILT|Exodus 24:17]] — "The sight of the glory of the LORD was like devouring fire"
+- [[44. Acts/ACTS_02_REBUILT|Acts 2:3]] — Tongues of fire; the Spirit descends
+- [[66. Revelation/REVELATION_01_REBUILT|Revelation 1:14]] — His eyes as flames of fire
 - *Thread:* Fire is consistently associated with the manifest presence of God throughout Scripture. The burning bush is the first instance in Exodus of this fire-presence. God does not change: the same fire that burned in the bush, guided in the wilderness, descended on Sinai, and fell at Pentecost will judge the world (2 Peter 3:7).
 
 ---

@@ -1,3 +1,14 @@
+---
+book: "2 Chronicles"
+chapter: 5
+testament: "Old Testament"
+key_themes: "Temple Dedication, Ark Installation, Divine Glory, Worship Celebration"
+tags:
+  - temple-dedication
+  - ark-installation
+  - divine-glory
+  - worship-celebration
+---
 # 2 Chronicles 5
 
 ---
@@ -137,7 +148,7 @@ Work, Solomon, house, LORD, finished, Solomon, brought, things, David, father, d
 
 
 *AI Keywords for current event matching:*
-`above` `altar` `ark` `arrayed` `asaph` `assembled` `brethren` `bring` `brought` `came` `cherubims` `chief` `children` `city` `cloud` `come` `completion` `congregation` `contents` `course` `covenant` `covered` `cymbals` `david` `day` `dedicated` `divine` `drew` `east` `egypt` `elders` `end` `ends` `endureth` `father` `fathers` `feast` `filled` `finished` `forever` `glory` `god` `gold` `good` `harps` `heads` `heard` `heman` `holy` `horeb` `house` `hundred` `instruments` `israel` `jeduthun` `jerusalem` `king` `levites` `levitical` `lifted` `linen` `lord` `men` `mercy` `minister` `month` `moses` `multitude` `musick` `nothing` `numbered` `one` `oracle` `oxen` `place` `placement` `praised` `praising` `presence` `present` `priests` `psalteries` `put` `reason` `sacred` `sacrificed` `sanctified` `save` `seen` `seventh` `sheep` `silver` `singers` `solomon` `sons` `sound` `sounding` `spread` `stand` `staves` `tabernacle` `tables` `temple` `thanking` `things` `told` `took` `transfer` `treasures` `tribes` `trumpeters` `trumpets` `twenty` `two` `vessels` `voice` `wait` `white` `wings` `without` `work` `worship` `zion`
+#above #altar #ark #arrayed #asaph #assembled #brethren #bring #brought #came #cherubims #chief #children #city #cloud #come #completion #congregation #contents #course #covenant #covered #cymbals #david #day #dedicated #divine #drew #east #egypt #elders #end #ends #endureth #father #fathers #feast #filled #finished #forever #glory #god #gold #good #harps #heads #heard #heman #holy #horeb #house #hundred #instruments #israel #jeduthun #jerusalem #king #levites #levitical #lifted #linen #lord #men #mercy #minister #month #moses #multitude #musick #nothing #numbered #one #oracle #oxen #place #placement #praised #praising #presence #present #priests #psalteries #put #reason #sacred #sacrificed #sanctified #save #seen #seventh #sheep #silver #singers #solomon #sons #sound #sounding #spread #stand #staves #tabernacle #tables #temple #thanking #things #told #took #transfer #treasures #tribes #trumpeters #trumpets #twenty #two #vessels #voice #wait #white #wings #without #work #worship #zion
 
 
 ---

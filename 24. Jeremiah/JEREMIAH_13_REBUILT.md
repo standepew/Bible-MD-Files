@@ -1,3 +1,13 @@
+---
+book: "Jeremiah"
+chapter: 13
+testament: "Old Testament"
+key_themes: "Christ's Pride, Spiritual Ruin, Divine Drunkenness, Christ's Humiliation"
+tags:
+  - christ
+  - spiritual-ruin
+  - divine-drunkenness
+---
 # Jeremiah 13
 
 ---
@@ -105,7 +115,7 @@ LORD, linen, girdle, loins, water, girdle, word, LORD, loins, word, LORD, second
 
 
 *AI Keywords for current event matching:*
-`adulteries` `appear` `bare` `christs` `crown` `dash` `discovered` `divine` `drunkenness` `evil` `fathers` `fill` `girdle` `glory` `great` `hear` `heels` `humiliation` `jerusalem` `judah` `marred` `mercy` `neighings` `nothing` `people` `pity` `pride` `principalities` `profitable` `proud` `refuse` `ruin` `shame` `skirts` `sons` `spare` `spiritual` `words`
+#adulteries #appear #bare #christs #crown #dash #discovered #divine #drunkenness #evil #fathers #fill #girdle #glory #great #hear #heels #humiliation #jerusalem #judah #marred #mercy #neighings #nothing #people #pity #pride #principalities #profitable #proud #refuse #ruin #shame #skirts #sons #spare #spiritual #words
 
 
 ---

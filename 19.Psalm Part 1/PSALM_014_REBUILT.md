@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 14
+testament: "Old Testament"
+key_themes: "Atheism's Folly, Universal Sinfulness, God's Knowledge, Salvation from Zion"
+tags:
+  - atheism
+  - universal-sinfulness
+  - god
+  - salvation-from-zion
+---
 # Psalm 14
 
 ---
@@ -129,7 +140,7 @@ Chief, Musician, Psalm, David, fool, heart, God, corrupt, abominable, works, goo
 
 
 *AI Keywords for current event matching:*
-`abominable` `aside` `atheisms` `become` `bread` `bring` `call` `captivity` `chief` `children` `come` `corrupt` `david` `deliverer` `eat` `eyes` `filthy` `folly` `fool` `generation` `glad` `glory` `god` `gods` `gone` `good` `heart` `heaven` `iniquity` `israel` `jacob` `knowledge` `looked` `lord` `men` `musician` `naked` `one` `opened` `people` `poor` `psalm` `refuge` `rejoice` `righteous` `salvation` `seek` `short` `sinfulness` `sinned` `sion` `things` `together` `understand` `universal` `workers` `works` `zion`
+#abominable #aside #atheisms #become #bread #bring #call #captivity #chief #children #come #corrupt #david #deliverer #eat #eyes #filthy #folly #fool #generation #glad #glory #god #gods #gone #good #heart #heaven #iniquity #israel #jacob #knowledge #looked #lord #men #musician #naked #one #opened #people #poor #psalm #refuge #rejoice #righteous #salvation #seek #short #sinfulness #sinned #sion #things #together #understand #universal #workers #works #zion
 
 
 ---

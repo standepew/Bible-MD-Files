@@ -1,3 +1,14 @@
+---
+book: "2 Corinthians"
+chapter: 1
+testament: "New Testament"
+key_themes: "Comfort in Tribulation, God's Faithfulness, Paul's Integrity, The Promises of God"
+tags:
+  - comfort-in-tribulation
+  - god
+  - paul
+  - the-promises-of-god
+---
 # 2 Corinthians 1
 
 ---
@@ -129,7 +140,7 @@ Paul, apostle, Jesus, Christ, will, God, Timothy, brother, church, God, Corinth,
 
 
 *AI Keywords for current event matching:*
-`able` `abound` `abundantly` `acknowledge` `acknowledged` `afflicted` `amen` `anointed` `asia` `benefit` `bestowed` `blessed` `christ` `comfort` `comforted` `comforteth` `confidence` `conscience` `consolation` `conversation` `corinth` `day` `dead` `death` `deliver` `delivered` `despaired` `dominion` `earnest` `effectual` `enduring` `faith` `faithfulness` `father` `flesh` `fleshly` `gift` `glory` `god` `godly` `gods` `grace` `hearts` `helpers` `helping` `hope` `ignorant` `integrity` `jesus` `joy` `judaea` `life` `lightness` `lord` `macedonia` `many` `measure` `mercies` `minded` `nay` `ourselves` `part` `partakers` `pass` `pauls` `persons` `prayer` `preached` `pressed` `promises` `purpose` `raiseth` `read` `record` `rejoicing` `salvation` `sealed` `sentence` `silvanus` `simplicity` `sincerity` `son` `soul` `spare` `spirit` `stablisheth` `stand` `strength` `suffer` `sufferings` `testimony` `thanks` `things` `timotheus` `tribulation` `trouble` `true` `trust` `ward` `wisdom` `word` `world` `write` `yea`
+#able #abound #abundantly #acknowledge #acknowledged #afflicted #amen #anointed #asia #benefit #bestowed #blessed #christ #comfort #comforted #comforteth #confidence #conscience #consolation #conversation #corinth #day #dead #death #deliver #delivered #despaired #dominion #earnest #effectual #enduring #faith #faithfulness #father #flesh #fleshly #gift #glory #god #godly #gods #grace #hearts #helpers #helping #hope #ignorant #integrity #jesus #joy #judaea #life #lightness #lord #macedonia #many #measure #mercies #minded #nay #ourselves #part #partakers #pass #pauls #persons #prayer #preached #pressed #promises #purpose #raiseth #read #record #rejoicing #salvation #sealed #sentence #silvanus #simplicity #sincerity #son #soul #spare #spirit #stablisheth #stand #strength #suffer #sufferings #testimony #thanks #things #timotheus #tribulation #trouble #true #trust #ward #wisdom #word #world #write #yea
 
 
 ---

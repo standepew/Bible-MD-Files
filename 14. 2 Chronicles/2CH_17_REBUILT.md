@@ -1,3 +1,15 @@
+---
+book: "2 Chronicles"
+chapter: 17
+testament: "Old Testament"
+key_themes: "Jehoshaphat's Reign, Religious Reform, Educational System, Divine Blessing"
+tags:
+  - waited-king-fenced-cities-Judah
+  - jehoshaphat
+  - religious-reform
+  - educational-system
+  - divine-blessing
+---
 # 2 Chronicles 17
 
 ---
@@ -157,7 +169,7 @@ Jehoshaphat, son, reigned, stead, strengthened, Israel. Placed, forces, fenced, 
 
 
 *AI Keywords for current event matching:*
-`abundance` `adnah` `adonijah` `amasiah` `arabians` `armed` `asa` `asahel` `baalim` `ben` `benjamin` `book` `bow` `business` `captain` `captains` `castles` `chief` `cities` `commandments` `david` `divine` `doings` `educational` `eliada` `elishama` `ephraim` `exceedingly` `father` `fathers` `favor` `fear` `fell` `fenced` `flocks` `forces` `fourscore` `garrisons` `goats` `god` `great` `groves` `hail` `hand` `heart` `high` `honour` `house` `hundred` `israel` `jehohanan` `jehonathan` `jehoram` `jehoshaphat` `jehozabad` `jerusalem` `judah` `king` `kingdom` `kingdoms` `land` `lands` `law` `levites` `lifted` `lord` `men` `michaiah` `mighty` `military` `national` `nethaneel` `nethaniah` `numbers` `obadiah` `offered` `people` `philistines` `placed` `places` `preparation` `prepared` `presents` `priests` `princes` `prosperity` `protection` `rams` `ready` `reign` `reigned` `riches` `round` `royal` `sent` `seven` `shemaiah` `shemiramoth` `shield` `silver` `son` `sought` `stablished` `stead` `store` `strengthened` `succession` `system` `taken` `taught` `teach` `third` `thousand` `thousands` `three` `tob` `tobijah` `took` `tribute` `two` `valour` `waited` `walked` `war` `waxed` `ways` `willingly` `year` `zebadiah` `zechariah` `zichri`
+#abundance #adnah #adonijah #amasiah #arabians #armed #asa #asahel #baalim #ben #benjamin #book #bow #business #captain #captains #castles #chief #cities #commandments #david #divine #doings #educational #eliada #elishama #ephraim #exceedingly #father #fathers #favor #fear #fell #fenced #flocks #forces #fourscore #garrisons #goats #god #great #groves #hail #hand #heart #high #honour #house #hundred #israel #jehohanan #jehonathan #jehoram #jehoshaphat #jehozabad #jerusalem #judah #king #kingdom #kingdoms #land #lands #law #levites #lifted #lord #men #michaiah #mighty #military #national #nethaneel #nethaniah #numbers #obadiah #offered #people #philistines #placed #places #preparation #prepared #presents #priests #princes #prosperity #protection #rams #ready #reign #reigned #riches #round #royal #sent #seven #shemaiah #shemiramoth #shield #silver #son #sought #stablished #stead #store #strengthened #succession #system #taken #taught #teach #third #thousand #thousands #three #tob #tobijah #took #tribute #two #valour #waited #walked #war #waxed #ways #willingly #year #zebadiah #zechariah #zichri
 
 
 ---

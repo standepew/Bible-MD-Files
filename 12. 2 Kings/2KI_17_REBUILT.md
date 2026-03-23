@@ -1,3 +1,21 @@
+---
+book: "2 Kings"
+chapter: 17
+testament: "Old Testament"
+key_themes: "Israel's Exile, Assyrian Conquest, Samaritan Religion, Divine Judgment, Covenant Faithfulness"
+tags:
+  - evil-sight-LORD-kings-Israel
+  - served-idols-LORD-thing
+  - children-Israel-sins-Jeroboam-departed
+  - covenant-forget-fear-gods
+  - LORD-GOD-fear-deliver-enemies
+  - hearken-former-manner
+  - israel
+  - assyrian-conquest
+  - samaritan-religion
+  - divine-judgment
+  - covenant-faithfulness
+---
 # 2 Kings 17
 
 ---
@@ -81,7 +99,7 @@ Twelfth year Ahaz king Judah, Hoshea son Elah reign Samaria Israel nine years. E
 
 
 *AI Keywords for current event matching:*
-`adrammelech` `afflicted` `ahaz` `anammelech` `anger` `angry` `arm` `ashima` `assyria` `ava` `avites` `baal` `babylon` `beginning` `believe` `besieged` `beth-el` `bow` `burnt` `calves` `carried` `cast` `charged` `children` `cities` `city` `commanded` `commandment` `commandments` `conspiracy` `covenant` `cuth` `cuthah` `daughters` `david` `day` `deliver` `departed` `divination` `divine` `drove` `dwell` `dwelling` `dwelt` `egypt` `elah` `enchantments` `enemies` `evil` `exile` `fathers` `fear` `feared` `fenced` `fire` `forget` `former` `god` `gods` `gozan` `graven` `great` `green` `grove` `groves` `habor` `halah` `hamath` `hand` `hardened` `hear` `hearken` `heathen` `heaven` `high` `hill` `hoshea` `host` `house` `houses` `idols` `images` `incense` `israel` `israels` `jacob` `jeroboam` `judah` `judgment` `king` `kings` `land` `law` `lions` `lord` `made` `manner` `manners` `medes` `men` `messengers` `molten` `nation` `nations` `nebat` `necks` `nergal` `nibhaz` `nine` `ninth` `observe` `ordinances` `pharaoh` `places` `possessed` `power` `present` `presents` `priests` `prison` `prophets` `provoke` `reign` `rejected` `religion` `removed` `rent` `right` `river` `round` `sacrifice` `sacrificed` `samaria` `samaritan` `samaritans` `secretly` `seed` `seers` `sent` `sepharvaim` `sepharvites` `servant` `servants` `serve` `served` `shalmaneser` `shut` `sight` `sin` `sinned` `sins` `slay` `slew` `sold` `son` `sons` `spoilers` `statutes` `stretched` `succoth-benoth` `tartak` `taught` `teach` `testified` `testimonies` `thing` `things` `three` `tower` `tree` `tribe` `turn` `twelfth` `two` `vain` `vanity` `watchmen` `ways` `wicked` `worship` `year` `years`
+#adrammelech #afflicted #ahaz #anammelech #anger #angry #arm #ashima #assyria #ava #avites #baal #babylon #beginning #believe #besieged #beth-el #bow #burnt #calves #carried #cast #charged #children #cities #city #commanded #commandment #commandments #conspiracy #covenant #cuth #cuthah #daughters #david #day #deliver #departed #divination #divine #drove #dwell #dwelling #dwelt #egypt #elah #enchantments #enemies #evil #exile #fathers #fear #feared #fenced #fire #forget #former #god #gods #gozan #graven #great #green #grove #groves #habor #halah #hamath #hand #hardened #hear #hearken #heathen #heaven #high #hill #hoshea #host #house #houses #idols #images #incense #israel #israels #jacob #jeroboam #judah #judgment #king #kings #land #law #lions #lord #made #manner #manners #medes #men #messengers #molten #nation #nations #nebat #necks #nergal #nibhaz #nine #ninth #observe #ordinances #pharaoh #places #possessed #power #present #presents #priests #prison #prophets #provoke #reign #rejected #religion #removed #rent #right #river #round #sacrifice #sacrificed #samaria #samaritan #samaritans #secretly #seed #seers #sent #sepharvaim #sepharvites #servant #servants #serve #served #shalmaneser #shut #sight #sin #sinned #sins #slay #slew #sold #son #sons #spoilers #statutes #stretched #succoth-benoth #tartak #taught #teach #testified #testimonies #thing #things #three #tower #tree #tribe #turn #twelfth #two #vain #vanity #watchmen #ways #wicked #worship #year #years
 
 
 ---

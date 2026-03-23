@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 23
+testament: "Old Testament"
+key_themes: "Christ as Shepherd, Divine Provision, Spiritual Guidance, Eternal Security"
+tags:
+  - christ-as-shepherd
+  - divine-provision
+  - spiritual-guidance
+  - eternal-security
+---
 # Psalm 23
 
 ---
@@ -105,7 +116,7 @@ Psalm, David, LORD, shepherd, want, green, pastures, still, waters, restore, sou
 
 
 *AI Keywords for current event matching:*
-`anoint` `beside` `christ` `comfort` `cup` `david` `days` `death` `divine` `dwell` `enemies` `eternal` `evil` `fear` `follow` `forever` `goodness` `green` `guidance` `head` `house` `leadeth` `life` `lord` `mercy` `name` `oil` `pastures` `paths` `prepare` `provision` `psalm` `restore` `righteousness` `rod` `runneth` `sake` `security` `shadow` `shepherd` `soul` `spiritual` `staff` `still` `table` `valley` `want` `waters`
+#anoint #beside #christ #comfort #cup #david #days #death #divine #dwell #enemies #eternal #evil #fear #follow #forever #goodness #green #guidance #head #house #leadeth #life #lord #mercy #name #oil #pastures #paths #prepare #provision #psalm #restore #righteousness #rod #runneth #sake #security #shadow #shepherd #soul #spiritual #staff #still #table #valley #want #waters
 
 
 ---

@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 117
+testament: "Old Testament"
+key_themes: "Universal Praise, God's Mercy, Eternal Truth, Global Worship"
+tags:
+  - universal-praise
+  - god
+  - eternal-truth
+  - global-worship
+---
 # Psalm 117
 
 ---
@@ -57,7 +68,7 @@ Praise, LORD, nations, praise, people, merciful, kindness, great, truth, LORD, e
 
 
 *AI Keywords for current event matching:*
-`endureth` `eternal` `global` `gods` `great` `kindness` `lord` `merciful` `mercy` `nations` `people` `praise` `truth` `universal` `worship`
+#endureth #eternal #global #gods #great #kindness #lord #merciful #mercy #nations #people #praise #truth #universal #worship
 
 
 ---

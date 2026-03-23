@@ -1,3 +1,15 @@
+---
+book: "2 Kings"
+chapter: 15
+testament: "Old Testament"
+key_themes: "Azariah's Reign, Israel's Rapid Successions, Assyrian Influence, Jotham's Reign, Prophetic Fulfillment"
+tags:
+  - azariah
+  - israel
+  - assyrian-influence
+  - jotham
+  - prophetic-fulfillment
+---
 # 2 Kings 15
 
 ---
@@ -85,7 +97,7 @@ Twenty seventh year Jeroboam king Israel, Azariah son Amaziah king Judah reign. 
 
 
 *AI Keywords for current event matching:*
-`abel-beth-maachah` `acts` `ahaz` `amaziah` `argob` `arieh` `assyria` `azariah` `azariahs` `back` `book` `built` `buried` `burnt` `captain` `captive` `child` `chronicles` `city` `coasts` `confirm` `conspiracy` `conspired` `cruelty` `daughter` `david` `death` `eighth` `elah` `evil` `exacted` `father` `fathers` `fiftieth` `fifty` `five` `fourth` `gadi` `galilee` `gate` `generation` `gilead` `gileadites` `hand` `hazor` `high` `higher` `hoshea` `house` `ijon` `incense` `israel` `israels` `jabesh` `janoah` `jecholiah` `jehu` `jeroboam` `jerusalem` `jerusha` `jotham` `jothams` `judah` `judging` `kedesh` `killed` `king` `kingdom` `kings` `land` `leper` `lord` `men` `menahem` `menahems` `mighty` `money` `month` `months` `mother` `naphtali` `nebat` `nine` `opened` `palace` `pekah` `pekahiah` `pekahiahs` `pekahs` `people` `places` `pul` `rapid` `reign` `reigned` `remaliah` `removed` `rezin` `right` `ripped` `sacrificed` `samaria` `second` `seventh` `several` `shallum` `shekels` `sight` `silver` `sin` `sins` `six` `sixteen` `slept` `slew` `smote` `son` `sons` `successions` `syria` `talents` `ten` `thirtieth` `thirty` `thousand` `throne` `tiglath-pileser` `tiphsah` `tirzah` `turned` `twentieth` `twenty` `two` `uzziah` `wealth` `women` `word` `year` `years` `zachariah` `zadok`
+#abel-beth-maachah #acts #ahaz #amaziah #argob #arieh #assyria #azariah #azariahs #back #book #built #buried #burnt #captain #captive #child #chronicles #city #coasts #confirm #conspiracy #conspired #cruelty #daughter #david #death #eighth #elah #evil #exacted #father #fathers #fiftieth #fifty #five #fourth #gadi #galilee #gate #generation #gilead #gileadites #hand #hazor #high #higher #hoshea #house #ijon #incense #israel #israels #jabesh #janoah #jecholiah #jehu #jeroboam #jerusalem #jerusha #jotham #jothams #judah #judging #kedesh #killed #king #kingdom #kings #land #leper #lord #men #menahem #menahems #mighty #money #month #months #mother #naphtali #nebat #nine #opened #palace #pekah #pekahiah #pekahiahs #pekahs #people #places #pul #rapid #reign #reigned #remaliah #removed #rezin #right #ripped #sacrificed #samaria #second #seventh #several #shallum #shekels #sight #silver #sin #sins #six #sixteen #slept #slew #smote #son #sons #successions #syria #talents #ten #thirtieth #thirty #thousand #throne #tiglath-pileser #tiphsah #tirzah #turned #twentieth #twenty #two #uzziah #wealth #women #word #year #years #zachariah #zadok
 
 
 ---

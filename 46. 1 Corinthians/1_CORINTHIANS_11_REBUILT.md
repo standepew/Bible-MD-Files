@@ -1,3 +1,14 @@
+---
+book: "1 Corinthians"
+chapter: 11
+testament: "New Testament"
+key_themes: "Head Coverings, The Lord's Supper, Self-Examination, Divine Order"
+tags:
+  - head-coverings
+  - the-lord
+  - selfexamination
+  - divine-order
+---
 # 1 Corinthians 11
 
 ---
@@ -153,7 +164,7 @@ Followers, Christ, praise, brethren, remember, things, keep, ordinances, deliver
 
 
 *AI Keywords for current event matching:*
-`angels` `approved` `believe` `betrayed` `better` `blood` `body` `brake` `bread` `brethren` `broken` `cause` `chastened` `christ` `church` `churches` `come` `comely` `condemnation` `condemned` `contentious` `cover` `covered` `covering` `coverings` `created` `cup` `custom` `damnation` `death` `declare` `delivered` `despise` `discerning` `dishonoureth` `divine` `divisions` `drink` `drunken` `eat` `eating` `examine` `followers` `given` `glory` `god` `guilty` `hair` `head` `heresies` `home` `houses` `hunger` `hungry` `image` `jesus` `judge` `judged` `keep` `long` `lord` `lords` `man` `manifest` `manner` `nature` `night` `oft` `often` `order` `ordinances` `place` `power` `praise` `pray` `prayeth` `praying` `prophesieth` `prophesying` `received` `remember` `remembrance` `rest` `self-examination` `shame` `shaven` `shew` `shorn` `sickly` `sleep` `supper` `take` `taketh` `tarry` `teach` `testament` `thanks` `things` `together` `uncovered` `unworthily` `weak` `whosoever` `without` `woman` `world` `worse`
+#angels #approved #believe #betrayed #better #blood #body #brake #bread #brethren #broken #cause #chastened #christ #church #churches #come #comely #condemnation #condemned #contentious #cover #covered #covering #coverings #created #cup #custom #damnation #death #declare #delivered #despise #discerning #dishonoureth #divine #divisions #drink #drunken #eat #eating #examine #followers #given #glory #god #guilty #hair #head #heresies #home #houses #hunger #hungry #image #jesus #judge #judged #keep #long #lord #lords #man #manifest #manner #nature #night #oft #often #order #ordinances #place #power #praise #pray #prayeth #praying #prophesieth #prophesying #received #remember #remembrance #rest #self-examination #shame #shaven #shew #shorn #sickly #sleep #supper #take #taketh #tarry #teach #testament #thanks #things #together #uncovered #unworthily #weak #whosoever #without #woman #world #worse
 
 
 ---

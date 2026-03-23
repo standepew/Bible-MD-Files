@@ -1,3 +1,17 @@
+---
+book: "1 Kings"
+chapter: 17
+testament: "Old Testament"
+key_themes: "Elijah's Ministry, Drought Prophecy, Divine Provision, Widow's Faith, Son's Resurrection"
+tags:
+  - drink-brook-commanded-ravens-feed
+  - brook-dried-rain-land
+  - elijah
+  - drought-prophecy
+  - divine-provision
+  - widow
+  - son
+---
 # 1 Kings 17
 
 ---
@@ -91,7 +105,7 @@ Elijah Tishbite, inhabitants Gilead, Ahab, LORD GOD Israel liveth, stand; dew, r
 
 
 *AI Keywords for current event matching:*
-`abode` `ahab` `arise` `arose` `barrel` `bed` `bosom` `bread` `breath` `bring` `brook` `brought` `cake` `call` `called` `chamber` `cherith` `child` `city` `come` `commanded` `confession` `cried` `cruse` `days` `dew` `die` `divine` `drank` `dress` `dried` `drink` `dwell` `dwelt` `earth` `eastward` `eat` `elijah` `elijahs` `evening` `evil` `fail` `failed` `fear` `feed` `fell` `fetch` `first` `flesh` `gate` `gathering` `gilead` `god` `going` `hand` `handful` `hide` `hiding` `house` `inhabitants` `introduction` `israel` `jordan` `land` `little` `liveth` `loft` `lord` `man` `meal` `miracle` `mistress` `morning` `morsel` `mother` `mouth` `need` `oil` `provision` `rain` `raven` `ravens` `remembrance` `resurrection` `revived` `said` `saying` `sick` `sickness` `sin` `slay` `son` `sons` `sore` `soul` `spoke` `stand` `sticks` `stretched` `sustain` `three` `times` `tishbite` `truth` `vessel` `voice` `waste` `wasted` `water` `went` `widow` `widows` `woman` `womans` `word` `years` `zarephath` `zidon`
+#abode #ahab #arise #arose #barrel #bed #bosom #bread #breath #bring #brook #brought #cake #call #called #chamber #cherith #child #city #come #commanded #confession #cried #cruse #days #dew #die #divine #drank #dress #dried #drink #dwell #dwelt #earth #eastward #eat #elijah #elijahs #evening #evil #fail #failed #fear #feed #fell #fetch #first #flesh #gate #gathering #gilead #god #going #hand #handful #hide #hiding #house #inhabitants #introduction #israel #jordan #land #little #liveth #loft #lord #man #meal #miracle #mistress #morning #morsel #mother #mouth #need #oil #provision #rain #raven #ravens #remembrance #resurrection #revived #said #saying #sick #sickness #sin #slay #son #sons #sore #soul #spoke #stand #sticks #stretched #sustain #three #times #tishbite #truth #vessel #voice #waste #wasted #water #went #widow #widows #woman #womans #word #years #zarephath #zidon
 
 
 ---

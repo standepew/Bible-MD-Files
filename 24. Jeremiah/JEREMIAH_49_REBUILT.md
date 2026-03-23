@@ -1,3 +1,13 @@
+---
+book: "Jeremiah"
+chapter: 49
+testament: "Old Testament"
+key_themes: "Christ's Judgment, Nations' Defeat, Divine Sovereignty, Christ's Restoration"
+tags:
+  - christ
+  - nations
+  - divine-sovereignty
+---
 # Jeremiah 49
 
 ---
@@ -93,7 +103,7 @@ Ammonites, LORD, Israel, sons, heir, king, inherit, Gad, people, dwell, cities, 
 
 
 *AI Keywords for current event matching:*
-`alarm` `bow` `break` `bring` `burned` `captivity` `children` `christs` `counsel` `days` `deceived` `defeat` `desolate` `divine` `eagle` `east` `fire` `flock` `four` `gad` `heap` `inherit` `judgment` `latter` `least` `lord` `nations` `nest` `preserve` `restoration` `sovereignty` `spoil` `terribleness` `trust` `vanished` `war` `widows` `winds` `wisdom`
+#alarm #bow #break #bring #burned #captivity #children #christs #counsel #days #deceived #defeat #desolate #divine #eagle #east #fire #flock #four #gad #heap #inherit #judgment #latter #least #lord #nations #nest #preserve #restoration #sovereignty #spoil #terribleness #trust #vanished #war #widows #winds #wisdom
 
 
 ---

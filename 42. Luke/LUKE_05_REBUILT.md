@@ -1,3 +1,15 @@
+---
+book: "Luke"
+chapter: 5
+testament: "New Testament"
+key_themes: "Calling of the First Disciples, Healing of a Leper, Healing of a Paralytic, Calling of Matthew, Fasting"
+tags:
+  - calling-of-the-first-disciples
+  - healing-of-a-leper
+  - healing-of-a-paralytic
+  - calling-of-matthew
+  - fasting
+---
 # Luke 5
 
 ---
@@ -167,7 +179,7 @@ People, pressed, hear, word, God, lake, Gennesaret, ships, lake, fishermen, gone
 
 
 *AI Keywords for current event matching:*
-`abroad` `bottles` `bridegroom` `calling` `catch` `disciples` `fame` `fasting` `feast` `first` `followed` `forgiven` `forsook` `full` `garment` `gennesaret` `glorifying` `god` `great` `healing` `lake` `left` `leper` `leprosy` `levi` `man` `matthew` `men` `multitude` `new` `old` `paralytic` `prayed` `publican` `repentance` `sinners` `sins` `son` `strange` `taken` `testimony` `things` `wilderness` `wine`
+#abroad #bottles #bridegroom #calling #catch #disciples #fame #fasting #feast #first #followed #forgiven #forsook #full #garment #gennesaret #glorifying #god #great #healing #lake #left #leper #leprosy #levi #man #matthew #men #multitude #new #old #paralytic #prayed #publican #repentance #sinners #sins #son #strange #taken #testimony #things #wilderness #wine
 
 
 ---

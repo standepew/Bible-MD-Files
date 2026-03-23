@@ -1,3 +1,38 @@
+---
+book: "Exodus"
+chapter: 1
+testament: "Old Testament"
+key_themes: "Oppression of Israel, Multiplication of God's people, Pharaoh's fear, The midwives' faith, Infanticide decree, God's covenant faithfulness, The setting of the redemption"
+tags:
+  - exodus
+  - oppression
+  - multiplication
+  - seventy-souls
+  - new-king
+  - Egypt
+  - Pharaoh
+  - taskmasters
+  - Pithom
+  - Raamses
+  - midwives
+  - Shiphrah
+  - Puah
+  - fear-of-God
+  - civil-disobedience
+  - infanticide
+  - male-children
+  - bondage
+  - brick
+  - mortar
+  - covenant-faithfulness
+  - firstborn
+  - Israel-my-son
+  - type-of-Christ
+  - new-king-knew-not-Joseph
+  - genocide
+  - seed-war
+  - dragon-attacks-seed
+---
 # Exodus 1
 
 ---
@@ -112,7 +147,7 @@ Exodus opens where Genesis closed — with Israel in Egypt. The seventy souls wh
 
 
 *AI Keywords for current event matching:*
-`abortion` `attacking` `children` `current` `dragon` `events` `exodus` `infanticide` `killing` `matching` `seed` `state-sponsored`
+#abortion #attacking #children #current #dragon #events #exodus #infanticide #killing #matching #seed #state-sponsored
 
 
 ---
@@ -238,18 +273,18 @@ Exodus opens where Genesis closed — with Israel in Egypt. The seventy souls wh
 
 ### The River (Nile) — Judgment and Salvation
 
-- **Exodus 1:22** — instrument of Pharaoh's death decree
-- **Exodus 2:3** — instrument of Moses' preservation
-- **Exodus 7:17-21** — turned to blood in the first plague
+- [[02. Exodus/EXO_01_REBUILT|Exodus 1:22]] — instrument of Pharaoh's death decree
+- [[02. Exodus/EXO_02_REBUILT|Exodus 2:3]] — instrument of Moses' preservation
+- [[02. Exodus/EXO_07_REBUILT|Exodus 7:17-21]] — turned to blood in the first plague
 - **Exodus 14** — the sea (water motif continued) becomes Israel's salvation and Egypt's destruction
 - *Thread:* What the enemy intends for destruction, God repeatedly uses for preservation, judgment, and new life
 
 ### Male Children Under Threat — The Seed War Through History
 
-- **Genesis 3:15** — seed war announced
-- **Exodus 1:16** — Hebrew males targeted by Pharaoh
-- **Matthew 2:16** — male children of Bethlehem targeted by Herod
-- **Revelation 12:4-5** — the dragon seeks to devour the man child
+- [[01. Genesis/GEN_03_REBUILT|Genesis 3:15]] — seed war announced
+- [[02. Exodus/EXO_01_REBUILT|Exodus 1:16]] — Hebrew males targeted by Pharaoh
+- [[40. Matthew/MATTHEW_02_REBUILT|Matthew 2:16]] — male children of Bethlehem targeted by Herod
+- [[66. Revelation/REVELATION_12_REBUILT|Revelation 12:4-5]] — the dragon seeks to devour the man child
 - *Thread:* Every time the Deliverer is about to emerge, the serpent attacks the male seed. This is a consistent prophetic pattern embedded in the structure of redemptive history — not coincidence.
 
 ---

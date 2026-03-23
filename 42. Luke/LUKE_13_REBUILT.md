@@ -1,3 +1,16 @@
+---
+book: "Luke"
+chapter: 13
+testament: "New Testament"
+key_themes: "Repent or Perish, Parable of the Barren Fig Tree, Healing on the Sabbath, Parables of the Mustard Seed and Leaven, The Narrow Door, Lament over Jerusalem"
+tags:
+  - repent-or-perish
+  - parable-of-the-barren-fig-tree
+  - healing-on-the-sabbath
+  - parables-of-the-mustard-seed-and
+  - the-narrow-door
+  - lament-over-jerusalem
+---
 # Luke 13
 
 ---
@@ -169,7 +182,7 @@ Present, season, told, Galilæans, blood, Pilate, mingled, sacrifices, Jesus, an
 
 
 *AI Keywords for current event matching:*
-`above` `abraham` `air` `barren` `blood` `bowed` `cut` `daughter` `day` `dig` `door` `down` `dresser` `dung` `eighteen` `fig` `fowls` `fox` `galilæans` `gate` `gather` `grain` `great` `healing` `hen` `herod` `house` `infirmity` `iniquity` `jerusalem` `knock` `lament` `leaven` `leavened` `left` `likewise` `loosed` `master` `meal` `morrow` `mustard` `narrow` `parable` `parables` `perish` `prophets` `repent` `sabbath` `seed` `shut` `siloam` `sinners` `spirit` `strait` `three` `together` `tower` `tree` `vineyard` `whole` `workers` `years`
+#above #abraham #air #barren #blood #bowed #cut #daughter #day #dig #door #down #dresser #dung #eighteen #fig #fowls #fox #galilæans #gate #gather #grain #great #healing #hen #herod #house #infirmity #iniquity #jerusalem #knock #lament #leaven #leavened #left #likewise #loosed #master #meal #morrow #mustard #narrow #parable #parables #perish #prophets #repent #sabbath #seed #shut #siloam #sinners #spirit #strait #three #together #tower #tree #vineyard #whole #workers #years
 
 
 ---

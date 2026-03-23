@@ -1,3 +1,14 @@
+---
+book: "Daniel"
+chapter: 8
+testament: "Old Testament"
+key_themes: "Christ's Sanctuary, Daily Sacrifice, Prince of Hosts, Vision Cleansing"
+tags:
+  - christ
+  - daily-sacrifice
+  - prince-of-hosts
+  - vision-cleansing
+---
 # Daniel 8
 
 ---
@@ -105,7 +116,7 @@ Third, year, reign, king, Belshazzar, vision, appeared, Daniel, appeared, first,
 
 
 *AI Keywords for current event matching:*
-`against` `appointed` `away` `broken` `christs` `cleansed` `cleansing` `countenance` `daily` `days` `desolation` `end` `evening` `fierce` `hand` `himself` `host` `hosts` `last` `magnified` `many` `morning` `place` `prince` `princes` `sacrifice` `sanctuary` `taken` `thousand` `time` `transgression` `trodden` `two` `vision` `without`
+#against #appointed #away #broken #christs #cleansed #cleansing #countenance #daily #days #desolation #end #evening #fierce #hand #himself #host #hosts #last #magnified #many #morning #place #prince #princes #sacrifice #sanctuary #taken #thousand #time #transgression #trodden #two #vision #without
 
 
 ---

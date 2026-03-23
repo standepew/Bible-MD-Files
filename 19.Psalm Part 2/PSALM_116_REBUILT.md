@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 116
+testament: "Old Testament"
+key_themes: "Personal Testimony, Divine Deliverance, Thanksgiving Vows, Death of Saints"
+tags:
+  - personal-testimony
+  - divine-deliverance
+  - thanksgiving-vows
+  - death-of-saints
+---
 # Psalm 116
 
 ---
@@ -186,7 +197,7 @@ Love, LORD, heard, voice, supplications, inclined, ear, call, long, live, sorrow
 
 
 *AI Keywords for current event matching:*
-`afflicted` `believed` `benefits` `bonds` `brought` `call` `called` `compassed` `courts` `cup` `death` `deliver` `deliverance` `delivered` `divine` `eyes` `falling` `feet` `greatly` `handmaid` `heard` `hell` `helped` `house` `jerusalem` `land` `living` `loosed` `lord` `love` `low` `name` `pains` `pay` `people` `personal` `precious` `presence` `preserved` `render` `sacrifice` `saints` `salvation` `servant` `sight` `simple` `son` `sorrows` `soul` `spoken` `supplications` `tears` `testimony` `thanksgiving` `truly` `voice` `vows` `walk`
+#afflicted #believed #benefits #bonds #brought #call #called #compassed #courts #cup #death #deliver #deliverance #delivered #divine #eyes #falling #feet #greatly #handmaid #heard #hell #helped #house #jerusalem #land #living #loosed #lord #love #low #name #pains #pay #people #personal #precious #presence #preserved #render #sacrifice #saints #salvation #servant #sight #simple #son #sorrows #soul #spoken #supplications #tears #testimony #thanksgiving #truly #voice #vows #walk
 
 
 ---

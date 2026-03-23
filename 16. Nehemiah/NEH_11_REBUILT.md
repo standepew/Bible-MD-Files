@@ -1,3 +1,24 @@
+---
+book: "Nehemiah"
+chapter: 11
+testament: "Old Testament"
+key_themes: "Jerusalem Population, Voluntary Dwellers, Priestly Leadership, Levitical Service"
+tags:
+  - priests-Jedaiah-son-Joiarib-Jachin
+  - Jeshua-Moladah-Beth-phelet
+  - Hazar-shual-Beer-sheba-villages
+  - Ziklag-Mekonah-villages
+  - En-rimmon-Zareah-Jarmuth
+  - Anathoth-Nob-Ananiah
+  - Hazor-Ramah-Gittaim
+  - Hadid-Zeboim-Neballat
+  - Lod-Ono-valley-craftsmen
+  - Levites-divisions-Judah-Benjamin
+  - jerusalem-population
+  - voluntary-dwellers
+  - priestly-leadership
+  - levitical-service
+---
 # Nehemiah 11
 
 ---
@@ -165,7 +186,7 @@ Rulers, people, dwelt, Jerusalem, rest, people, cast, lots, ten, dwell, Jerusale
 
 
 *AI Keywords for current event matching:*
-`abda` `adaiah` `adullam` `ahasai` `ahitub` `aija` `akkub` `amariah` `amashai` `amzi` `ananiah` `anathoth` `arba` `asaph` `athaiah` `azareel` `azekah` `azrikam` `bakbukiah` `bani` `baruch` `beer` `begin` `benjamin` `beth` `blessed` `brethren` `bunni` `business` `cast` `chief` `children` `cities` `city` `col` `commandment` `concerning` `craftsmen` `day` `dibon` `divisions` `due` `dwell` `dwellers` `dwelt` `eight` `fathers` `fields` `forty` `four` `fourscore` `gabbai` `galal` `gates` `geba` `gispa` `gittaim` `god` `great` `hadid` `hand` `hashabiah` `hashub` `hazaiah` `hazar` `hazor` `hilkiah` `hinnom` `holy` `house` `hozeh` `hundred` `immer` `inheritance` `israel` `ithiel` `jachin` `jarmuth` `jedaiah` `jeduthun` `jekabzeel` `jeroham` `jerusalem` `jesaiah` `jeshua` `joed` `joel` `joiarib` `jozabad` `judah` `kept` `king` `kirjath` `kolaiah` `lachish` `leadership` `levites` `levitical` `lod` `lots` `maaseiah` `mahalaleel` `malchiah` `mattaniah` `matters` `mekonah` `men` `meraioth` `meshezabeel` `meshillemoth` `meshullam` `micha` `michmash` `mighty` `moladah` `neballat` `nethinims` `nine` `nob` `offered` `ono` `ophel` `outward` `overseer` `oversight` `parts` `pashur` `pedaiah` `pelaliah` `people` `perez` `pethahiah` `phelet` `population` `porters` `portion` `possession` `prayer` `priestly` `priests` `principal` `province` `ramah` `residue` `rest` `rimmon` `ruler` `rulers` `sallai` `sallu` `second` `senuah` `seraiah` `servants` `service` `seventy` `shabbethai` `shammua` `sheba` `shemaiah` `shephatiah` `shiloni` `shual` `singers` `solomon` `son` `sons` `talmon` `ten` `thanksgiving` `threescore` `twenty` `two` `uzzi` `uzziah` `valiant` `valley` `valour` `villages` `voluntary` `willingly` `work` `zabdi` `zabdiel` `zadok` `zanoah` `zareah` `zeboim` `zechariah` `zerah` `zichri` `ziha` `ziklag`
+#abda #adaiah #adullam #ahasai #ahitub #aija #akkub #amariah #amashai #amzi #ananiah #anathoth #arba #asaph #athaiah #azareel #azekah #azrikam #bakbukiah #bani #baruch #beer #begin #benjamin #beth #blessed #brethren #bunni #business #cast #chief #children #cities #city #col #commandment #concerning #craftsmen #day #dibon #divisions #due #dwell #dwellers #dwelt #eight #fathers #fields #forty #four #fourscore #gabbai #galal #gates #geba #gispa #gittaim #god #great #hadid #hand #hashabiah #hashub #hazaiah #hazar #hazor #hilkiah #hinnom #holy #house #hozeh #hundred #immer #inheritance #israel #ithiel #jachin #jarmuth #jedaiah #jeduthun #jekabzeel #jeroham #jerusalem #jesaiah #jeshua #joed #joel #joiarib #jozabad #judah #kept #king #kirjath #kolaiah #lachish #leadership #levites #levitical #lod #lots #maaseiah #mahalaleel #malchiah #mattaniah #matters #mekonah #men #meraioth #meshezabeel #meshillemoth #meshullam #micha #michmash #mighty #moladah #neballat #nethinims #nine #nob #offered #ono #ophel #outward #overseer #oversight #parts #pashur #pedaiah #pelaliah #people #perez #pethahiah #phelet #population #porters #portion #possession #prayer #priestly #priests #principal #province #ramah #residue #rest #rimmon #ruler #rulers #sallai #sallu #second #senuah #seraiah #servants #service #seventy #shabbethai #shammua #sheba #shemaiah #shephatiah #shiloni #shual #singers #solomon #son #sons #talmon #ten #thanksgiving #threescore #twenty #two #uzzi #uzziah #valiant #valley #valour #villages #voluntary #willingly #work #zabdi #zabdiel #zadok #zanoah #zareah #zeboim #zechariah #zerah #zichri #ziha #ziklag
 
 
 ---

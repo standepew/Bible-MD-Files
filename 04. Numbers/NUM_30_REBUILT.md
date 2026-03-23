@@ -1,3 +1,36 @@
+---
+book: "Numbers"
+chapter: 30
+testament: "Old Testament"
+key_themes: "The law of vows — what comes out of the mouth binds the soul, A man's vow stands without exception: "he shall do according to all that proceedeth out of his mouth", A woman's vow: three categories — daughter in father's house; wife in husband's house; widow or divorced woman, The father and husband have a single day to disallow a vow heard — silence confirms it; disallowance on the day of hearing voids it, If the husband disallows after silence: he bears her iniquity, not her, The principle: authority structures can protect those under them from hasty vows, but passive silence ratifies; active dissent on the day voids"
+tags:
+  - vow-unto-the-LORD
+  - shall-not-break-his-word
+  - woman-in-fathers-house
+  - father-hears-holds-peace
+  - vow-stands
+  - father-disallows-same-day
+  - LORD-shall-forgive-her
+  - husband-hears-holds-peace
+  - vow-confirmed-by-silence
+  - husband-disallows-same-day
+  - void
+  - he-bears-her-iniquity
+  - widow-and-divorced-vow-stands
+  - statute-of-judgment
+  - between-man-and-wife
+  - between-father-and-daughter
+  - the-law-of-vows
+  - a-man
+  - a-woman
+  - wife-in-husband
+  - widow-or-divorced-woman
+  - the-father-and-husband-have-a
+  - disallowance-on-the-day-of-hearing
+  - if-the-husband-disallows-after-silence
+  - the-principle-authority-structures-can-protect
+  - active-dissent-on-the-day-voids
+---
 # Numbers 30
 
 ---
@@ -54,7 +87,7 @@ Moses speaks to the heads of the tribes. The law of vows: if a man makes a vow t
 
 
 *AI Keywords for current event matching:*
-`533-37` `54-5` `binding` `contracts` `current` `ecclesiastes` `events` `matching` `matthew` `numbers` `oaths` `power` `spoken` `words`
+#533-37 #54-5 #binding #contracts #current #ecclesiastes #events #matching #matthew #numbers #oaths #power #spoken #words
 
 
 ---
@@ -117,15 +150,15 @@ Moses speaks to the heads of the tribes. The law of vows: if a man makes a vow t
 
 ### All That Proceedeth Out of His Mouth — The Word-Creation Thread
 
-**Numbers 30:2** — "he shall do according to all that proceedeth out of his mouth"
+[[04. Numbers/NUM_30_REBUILT|Numbers 30:2]] — "he shall do according to all that proceedeth out of his mouth"
 
 The binding power of the spoken word runs through Scripture as a major theological thread:
 
 - **Genesis 1** — God creates by speaking; what God speaks comes into being
-- **Numbers 30:2** — what a man speaks binds his soul; his word creates a reality
-- **Numbers 14:28** — "as ye have spoken in mine ears, so will I do to you" — Israel's spoken murmurings become their sentence; words in God's ears become enacted reality
-- **Matthew 12:36-37** — "every idle word that men shall speak, they shall give account thereof in the day of judgment. For by thy words thou shalt be justified, and by thy words thou shalt be condemned"
-- **Revelation 20:12** — "the books were opened... and the dead were judged out of those things which were written in the books"
+- [[04. Numbers/NUM_30_REBUILT|Numbers 30:2]] — what a man speaks binds his soul; his word creates a reality
+- [[04. Numbers/NUM_14_REBUILT|Numbers 14:28]] — "as ye have spoken in mine ears, so will I do to you" — Israel's spoken murmurings become their sentence; words in God's ears become enacted reality
+- [[40. Matthew/MATTHEW_12_REBUILT|Matthew 12:36-37]] — "every idle word that men shall speak, they shall give account thereof in the day of judgment. For by thy words thou shalt be justified, and by thy words thou shalt be condemned"
+- [[66. Revelation/REVELATION_20_REBUILT|Revelation 20:12]] — "the books were opened... and the dead were judged out of those things which were written in the books"
 
 **What the Bible establishes:** Words are not neutral sounds. They bind, create, judge, save. The vow law of Numbers 30 is the specific legal form of the general scriptural principle that human speech creates realities that outlast the moment of speaking. Matthew 12:36-37 is the eschatological expansion of Numbers 30:2.
 

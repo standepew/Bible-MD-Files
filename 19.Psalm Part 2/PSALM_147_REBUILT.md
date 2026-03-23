@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 147
+testament: "Old Testament"
+key_themes: "Divine Healing, Creation Wonder, God's Providence, Word Power"
+tags:
+  - divine-healing
+  - creation-wonder
+  - god
+  - word-power
+---
 # Psalm 147
 
 ---
@@ -153,7 +164,7 @@ Praise, LORD, good, sing, praises, God, pleasant, praise, comely, LORD, build, J
 
 
 *AI Keywords for current event matching:*
-`bars` `beast` `bindeth` `broken` `clouds` `covereth` `creation` `divine` `fillest` `finest` `food` `gates` `giveth` `gods` `grass` `grow` `healeth` `healing` `heart` `heaven` `jacob` `lift` `maketh` `meek` `melteth` `number` `power` `providence` `ruinneth` `sendeth` `sheweth` `stars` `strengthen` `swiftly` `telleth` `wheat` `wonder` `word` `wounds`
+#bars #beast #bindeth #broken #clouds #covereth #creation #divine #fillest #finest #food #gates #giveth #gods #grass #grow #healeth #healing #heart #heaven #jacob #lift #maketh #meek #melteth #number #power #providence #ruinneth #sendeth #sheweth #stars #strengthen #swiftly #telleth #wheat #wonder #word #wounds
 
 
 ---

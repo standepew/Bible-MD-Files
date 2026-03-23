@@ -1,3 +1,55 @@
+---
+book: "Genesis"
+chapter: 16
+testament: "Old Testament"
+key_themes: "Sarai's Continued Barrenness — Ten Years Since the Promise, The Flesh's Plan — "Obtain Children By Her," Hagar the Egyptian Handmaid, Abram Hearkens to Sarai — The Adam Echo, Hagar Conceives — Despising Follows Fleshly Success, Sarai's Complaint and Abram's Abdication, Sarai Deals Harshly — Hagar Flees to the Wilderness, The First Appearance of the Angel of the LORD, "Whence Camest Thou? Whither Wilt Thou Go?" — The Searching Questions, "Return and Submit" — The Divine Command With Promise, "I Will Multiply Thy Seed Exceedingly," God Names the Child Before Birth — Ishmael, "He Will Be a Wild Man" — The Ishmael Prophecy, "Thou God Seest Me" — El Roi, Beer-lahai-roi — The Well of the Living One Who Sees, Abram 86 Years Old"
+tags:
+  - Sarai-barren
+  - ten-years
+  - Hagar
+  - Egyptian-handmaid
+  - flesh-plan
+  - obtain-children-by-her
+  - Abram-hearkens-Sarai
+  - Adam-echo
+  - Genesis-3-17
+  - Hagar-conceives
+  - despising-follows-flesh
+  - Sarai-complaint
+  - my-wrong-be-upon-thee
+  - Sarai-deals-harshly
+  - Hagar-flees
+  - wilderness-Shur
+  - angel-of-LORD
+  - first-mention-angel-of-LORD
+  - Christophany
+  - pre-incarnate-Christ
+  - whence-camest-thou
+  - return-submit
+  - I-will-multiply-thy-seed
+  - Ishmael
+  - God-names-before-birth
+  - wild-man
+  - pera
+  - hand-against-every-man
+  - dwell-presence-of-brethren
+  - El-Roi
+  - God-who-sees
+  - Beer-lahai-roi
+  - well-of-living-one-who-sees
+  - Abram-86
+  - flesh-vs-Spirit
+  - Galatians-4-allegory
+  - Hagar-Sinai
+  - bondage-covenant
+  - promise-covenant
+  - Sarah-Jerusalem-above
+  - Arab-nations-Ishmael
+  - Middle-East-conflict-root
+  - barren-womb-pattern
+  - common-grace-vs-covenant
+  - anah-affliction
+---
 # Genesis 16
 
 ---
@@ -144,7 +196,7 @@ Ten years had passed since the covenant promise (Genesis 12:4; 16:3 — Abram wa
 
 For AI matching to topics and current events:
 
-`Sarai barren` `ten years` `flesh plan` `obtain children by her` `Hagar Egyptian handmaid` `Abram hearkens Sarai` `Adam echo` `Genesis 3:17` `shama` `Hagar conceives` `despising follows flesh` `Sarai complaint` `Sarai deals harshly` `Hagar flees` `wilderness Shur` `angel of LORD` `malak YHWH` `first mention angel of LORD` `Christophany` `pre-incarnate Christ` `whence camest thou` `whither wilt thou go` `return and submit` `hit'anni` `I will multiply thy seed` `God names before birth` `Ishmael` `God hears` `pera adam` `wild donkey of a man` `hand against every man` `dwell in presence of brethren` `El Roi` `God who sees` `Beer-lahai-roi` `well of Living One who sees` `Abram 86` `flesh vs Spirit` `Galatians 4 allegory` `Hagar as Sinai` `bondage covenant` `promise covenant` `Sarah Jerusalem above` `Arab nations` `Ishmael twelve princes` `Genesis 25:18` `barren womb pattern` `common grace vs covenant` `anah affliction` `Romans 4:19` `Isaiah 54:1` `Genesis 2:24` `Matthew 19:5` `Psalm 139` `2 Chronicles 16:9`
+#Sarai-barren #ten-years #flesh-plan #obtain-children-by-her #Hagar-Egyptian-handmaid #Abram-hearkens-Sarai #Adam-echo #Genesis-317 #shama #Hagar-conceives #despising-follows-flesh #Sarai-complaint #Sarai-deals-harshly #Hagar-flees #wilderness-Shur #angel-of-LORD #malak-YHWH #first-mention-angel-of-LORD #Christophany #pre-incarnate-Christ #whence-camest-thou #whither-wilt-thou-go #return-and-submit #hitanni #I-will-multiply-thy-seed #God-names-before-birth #Ishmael #God-hears #pera-adam #wild-donkey-of-a-man #hand-against-every-man #dwell-in-presence-of-brethren #El-Roi #God-who-sees #Beer-lahai-roi #well-of-Living-One-who-sees #Abram-86 #flesh-vs-Spirit #Galatians-4-allegory #Hagar-as-Sinai #bondage-covenant #promise-covenant #Sarah-Jerusalem-above #Arab-nations #Ishmael-twelve-princes #Genesis-2518 #barren-womb-pattern #common-grace-vs-covenant #anah-affliction #Romans-419 #Isaiah-541 #Genesis-224 #Matthew-195 #Psalm-139 #2-Chronicles-169
 
 **Relevance to Current Events:**
 - Arab-Israeli conflict — Genesis 16:12 is the oldest explanation in any ancient text of the tension between Ishmael's descendants (Arab nations) and Isaac's descendants (Israel); the "hand against every man, every man's hand against him" description has been accurate for four millennia; it is a prophetic characterization, not a divine curse — it describes what flesh-born independence produces geopolitically
@@ -408,21 +460,21 @@ For AI matching to topics and current events:
 
 ### The Barren Womb — God's Chosen Canvas for Covenant Births
 
-**Genesis 16:1** — "Sarai Abram's wife bare him no children"
+[[01. Genesis/GEN_16_REBUILT|Genesis 16:1]] — "Sarai Abram's wife bare him no children"
 
 **Thread (developed fully in GEN_11 and GEN_12 rebuilds; referenced here in context):**
 - Genesis 11:30 — Sarai barren (introduced)
 - Genesis 16:1 — Sarai still barren (ten years into the covenant promise)
 - Genesis 17:17; 18:11-12 — Sarai "past the age"; her womb biologically dead (Romans 4:19)
 - Genesis 21:2 — "Sarah conceived, and bare Abraham a son" — the impossible made actual
-- **Isaiah 54:1** → **Galatians 4:27** — the barren woman produces more children than the fertile; the new covenant church is the ultimate barren-womb-made-fruitful
+- [[23. Isaiah/ISAIAH_54_REBUILT|Isaiah 54:1]] → [[48. Galatians/GALATIANS_04_REBUILT|Galatians 4:27]] — the barren woman produces more children than the fertile; the new covenant church is the ultimate barren-womb-made-fruitful
 - *Pattern:* Every time God is about to do something of irreversible covenant importance, He first allows the human capacity to reach zero — so that when the promise arrives, no human hand can take credit for it
 
 ---
 
 ### The Fountain in the Wilderness — God's Meeting Place for the Fleeing
 
-**Genesis 16:7** — "A fountain of water in the wilderness"
+[[01. Genesis/GEN_16_REBUILT|Genesis 16:7]] — "A fountain of water in the wilderness"
 
 **Thread:**
 - Genesis 16:7 — Hagar at the fountain; the Angel finds her before she finds Him
@@ -437,7 +489,7 @@ For AI matching to topics and current events:
 
 ### "Heard Thy Affliction" — God's Specific Attention to the Suffering
 
-**Genesis 16:11** — "The LORD hath heard thy affliction"
+[[01. Genesis/GEN_16_REBUILT|Genesis 16:11]] — "The LORD hath heard thy affliction"
 
 **Thread:**
 - Genesis 16:11 — Hagar's individual affliction heard (Ishmael named for it)
@@ -452,7 +504,7 @@ For AI matching to topics and current events:
 
 ### The Pre-Incarnate Christ Seeking the Outcast — The Angel of the LORD Pattern
 
-**Genesis 16:7** — First appearance of the Angel of the LORD; comes to the outcast, the forgotten, the fleeing
+[[01. Genesis/GEN_16_REBUILT|Genesis 16:7]] — First appearance of the Angel of the LORD; comes to the outcast, the forgotten, the fleeing
 
 **Thread:**
 - Genesis 16:7 — Hagar: Egyptian bondwoman, runaway; found at a desert fountain

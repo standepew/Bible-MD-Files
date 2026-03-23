@@ -1,3 +1,14 @@
+---
+book: "Zechariah"
+chapter: 12
+testament: "Old Testament"
+key_themes: "Christ's Divine Protection, Jerusalem's Defense, Pierced Savior, Great Mourning"
+tags:
+  - christ
+  - jerusalem
+  - pierced-savior
+  - great-mourning
+---
 # Zechariah 12
 
 ---
@@ -105,7 +116,7 @@ Burden, word, LORD, Israel, LORD, stretcheth, heavens, layeth, foundation, earth
 
 
 *AI Keywords for current event matching:*
-`again` `apart` `bitterness` `burdensome` `christs` `cup` `david` `defend` `defense` `devour` `divine` `family` `fire` `firstborn` `great` `hearth` `horse` `house` `inhabitants` `inhabited` `jerusalems` `levi` `look` `mourn` `mourning` `nathan` `people` `pierced` `protection` `savior` `smite` `son` `stone` `torch` `trembling`
+#again #apart #bitterness #burdensome #christs #cup #david #defend #defense #devour #divine #family #fire #firstborn #great #hearth #horse #house #inhabitants #inhabited #jerusalems #levi #look #mourn #mourning #nathan #people #pierced #protection #savior #smite #son #stone #torch #trembling
 
 
 ---

@@ -1,3 +1,13 @@
+---
+book: "Isaiah"
+chapter: 66
+testament: "Old Testament"
+key_themes: "Christ's Glory, Divine Judgment, Eternal Worship, Christ's Kingdom"
+tags:
+  - christ
+  - divine-judgment
+  - eternal-worship
+---
 # Isaiah 66
 
 ---
@@ -105,7 +115,7 @@ LORD, heaven, throne, earth, footstool, house, build, rest, habitation, holiness
 
 
 *AI Keywords for current event matching:*
-`anger` `build` `chariots` `christs` `contrite` `die` `divine` `earth` `eternal` `extend` `fire` `flesh` `footstool` `fury` `gentiles` `glory` `habitation` `heaven` `heavens` `holiness` `house` `judgment` `kingdom` `levites` `lord` `moon` `name` `new` `peace` `priests` `remain` `render` `river` `sabbath` `seed` `slain` `spirit` `stream` `throne` `whirlwind` `worm` `worship`
+#anger #build #chariots #christs #contrite #die #divine #earth #eternal #extend #fire #flesh #footstool #fury #gentiles #glory #habitation #heaven #heavens #holiness #house #judgment #kingdom #levites #lord #moon #name #new #peace #priests #remain #render #river #sabbath #seed #slain #spirit #stream #throne #whirlwind #worm #worship
 
 
 ---

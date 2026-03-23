@@ -1,3 +1,14 @@
+---
+book: "Mark"
+chapter: 11
+testament: "New Testament"
+key_themes: "Christ's Triumphant Entry, Cleansing of Temple, Cursing Fig Tree, Prayer and Faith"
+tags:
+  - christ
+  - cleansing-of-temple
+  - cursing-fig-tree
+  - prayer-and-faith
+---
 # Mark 11
 
 ---
@@ -153,7 +164,7 @@ Nigh, Jerusalem, Bethphage, Bethany, mount, Olives, sendeth, disciples, way, vil
 
 
 *AI Keywords for current event matching:*
-`baptism` `believe` `blessed` `cast` `christs` `cleansing` `colt` `cursed` `cursing` `david` `den` `dried` `entry` `faith` `fig` `forgive` `god` `hosanna` `house` `john` `kingdom` `leaves` `lord` `mount` `mountain` `olives` `overthrew` `prayer` `receive` `removed` `roots` `sold` `tables` `temple` `thieves` `tied` `tree` `trespasses` `triumphant` `withered`
+#baptism #believe #blessed #cast #christs #cleansing #colt #cursed #cursing #david #den #dried #entry #faith #fig #forgive #god #hosanna #house #john #kingdom #leaves #lord #mount #mountain #olives #overthrew #prayer #receive #removed #roots #sold #tables #temple #thieves #tied #tree #trespasses #triumphant #withered
 
 
 ---

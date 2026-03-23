@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 8
+testament: "Old Testament"
+key_themes: "God's Glory, Human Dignity, Creation's Wonder, Christ's Prefiguration"
+tags:
+  - god
+  - human-dignity
+  - creation
+  - christ
+---
 # Psalm 8
 
 ---
@@ -117,7 +128,7 @@ Chief, Musician, Gittith, Psalm, David, LORD, Lord, excellent, name, earth, glor
 
 
 *AI Keywords for current event matching:*
-`air` `angels` `avenger` `babes` `beasts` `chief` `christs` `consider` `creations` `crowned` `david` `dignity` `dominion` `earth` `enemies` `enemy` `excellent` `feet` `field` `fingers` `fish` `fowl` `gittith` `glory` `gods` `hands` `heavens` `honour` `human` `lord` `lower` `madest` `man` `mindful` `moon` `musician` `name` `ordained` `oxen` `passeth` `paths` `prefiguration` `psalm` `sea` `seas` `sheep` `son` `stars` `still` `strength` `sucklings` `things` `visit` `wonder` `work` `works`
+#air #angels #avenger #babes #beasts #chief #christs #consider #creations #crowned #david #dignity #dominion #earth #enemies #enemy #excellent #feet #field #fingers #fish #fowl #gittith #glory #gods #hands #heavens #honour #human #lord #lower #madest #man #mindful #moon #musician #name #ordained #oxen #passeth #paths #prefiguration #psalm #sea #seas #sheep #son #stars #still #strength #sucklings #things #visit #wonder #work #works
 
 
 ---

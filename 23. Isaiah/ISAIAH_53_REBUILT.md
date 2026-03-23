@@ -1,3 +1,13 @@
+---
+book: "Isaiah"
+chapter: 53
+testament: "Old Testament"
+key_themes: "Christ's Atonement, Divine Suffering, Spiritual Healing, Christ's Sacrifice"
+tags:
+  - christ
+  - divine-suffering
+  - spiritual-healing
+---
 # Isaiah 53
 
 ---
@@ -129,7 +139,7 @@ Believed, report, arm, LORD, revealed, grow, tender, plant, root, dry, ground, f
 
 
 *AI Keywords for current event matching:*
-`acquainted` `afflicted` `astray` `atonement` `bare` `bruised` `chastisement` `christs` `death` `despised` `divine` `gone` `grief` `healed` `healing` `iniquities` `iniquity` `intercession` `justify` `laid` `man` `many` `men` `offering` `oppressed` `peace` `poured` `rejected` `sacrifice` `sheep` `sin` `sorrows` `soul` `spiritual` `stripes` `suffering` `transgressions` `transgressors` `wounded`
+#acquainted #afflicted #astray #atonement #bare #bruised #chastisement #christs #death #despised #divine #gone #grief #healed #healing #iniquities #iniquity #intercession #justify #laid #man #many #men #offering #oppressed #peace #poured #rejected #sacrifice #sheep #sin #sorrows #soul #spiritual #stripes #suffering #transgressions #transgressors #wounded
 
 
 ---

@@ -1,3 +1,51 @@
+---
+book: "Joshua"
+chapter: 23
+testament: "Old Testament"
+key_themes: "Joshua's Farewell, Divine Faithfulness, Covenant Warning, Idolatry Danger, Complete Victory, Future Consequences, Faithfulness Required"
+tags:
+  - long-time-LORD-rest-Israel-enemies
+  - Joshua-waxed-old-stricken-age
+  - Joshua-called-Israel-elders-heads-judges-officers
+  - old-stricken-age
+  - seen-LORD-God-nations
+  - LORD-God-fought
+  - divided-lot-nations-remain
+  - inheritance-tribes-Jordan
+  - cut-nations-great-sea-westward
+  - LORD-God-expel-drive-sight
+  - possess-land-LORD-God-promised
+  - courageous-keep-book-law-Moses
+  - turn-aside-right-left
+  - come-nations-remain
+  - mention-name-gods
+  - swear-gods
+  - serve-gods
+  - bow-gods
+  - cleave-LORD-God
+  - day
+  - LORD-driven-great-nations-strong
+  - man-stand
+  - man-chase-thousand
+  - LORD-God-fight-promised
+  - heed-love-LORD-God
+  - go-back-cleave-remnant-nations-remain
+  - marriages
+  - go
+  - snares-traps-scourges-sides-thorns-eyes
+  - perish-good-land-LORD-God-given
+  - going-way-earth
+  - hearts-souls
+  - thing-failed-good-things-LORD-God-spoke
+  - come-pass-failed
+  - good-things-LORD-God-promised
+  - LORD-evil-things
+  - destroyed-good-land-LORD-God-given
+  - transgressed-covenant-LORD-God-commanded
+  - served-gods-bowed-gods
+  - anger-LORD-kindled
+  - perish-quickly-good-land-given
+---
 # Joshua 23
 
 ---
@@ -87,7 +135,7 @@ A long time after God gave Israel rest from enemies, Joshua, now old and stricke
 
 
 *AI Keywords for current event matching:*
-`against` `age` `anger` `aside` `back` `book` `bow` `bowed` `called` `chase` `cleave` `come` `commanded` `consequences` `courageous` `covenant` `cut` `day` `destroyed` `divided` `divine` `drive` `driven` `earth` `elders` `enemies` `evil` `expel` `eyes` `failed` `faithfulness` `farewell` `fight` `fought` `given` `god` `gods` `going` `good` `great` `heads` `hearts` `heed` `idolatry` `inheritance` `israel` `jordan` `joshua` `joshuas` `judges` `keep` `kindled` `land` `law` `left` `long` `lord` `lot` `love` `man` `marriages` `mention` `moses` `name` `nations` `officers` `old` `pass` `perish` `possess` `promised` `quickly` `remain` `remnant` `rest` `right` `scourges` `sea` `seen` `serve` `served` `sides` `sight` `snares` `souls` `spoke` `stand` `stricken` `strong` `swear` `thing` `things` `thorns` `thousand` `time` `transgressed` `traps` `tribes` `turn` `victory` `warning` `waxed` `way` `westward`
+#against #age #anger #aside #back #book #bow #bowed #called #chase #cleave #come #commanded #consequences #courageous #covenant #cut #day #destroyed #divided #divine #drive #driven #earth #elders #enemies #evil #expel #eyes #failed #faithfulness #farewell #fight #fought #given #god #gods #going #good #great #heads #hearts #heed #idolatry #inheritance #israel #jordan #joshua #joshuas #judges #keep #kindled #land #law #left #long #lord #lot #love #man #marriages #mention #moses #name #nations #officers #old #pass #perish #possess #promised #quickly #remain #remnant #rest #right #scourges #sea #seen #serve #served #sides #sight #snares #souls #spoke #stand #stricken #strong #swear #thing #things #thorns #thousand #time #transgressed #traps #tribes #turn #victory #warning #waxed #way #westward
 
 
 ---

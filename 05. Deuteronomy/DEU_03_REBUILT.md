@@ -1,3 +1,35 @@
+---
+book: "Deuteronomy"
+chapter: 3
+testament: "Old Testament"
+key_themes: "Defeat of Og King of Bashan, The Last of the Giants, Division of Land East of Jordan, Reuben/Gad/Half-Manasseh, Moses Denied Entry, Joshua Commissioned, Moses' Prayer and God's Answer"
+tags:
+  - deuteronomy
+  - chapter3
+  - Og-Bashan
+  - giants
+  - Rephaim
+  - bedstead-of-iron
+  - sixty-cities
+  - Argob
+  - Hermon
+  - Gilead
+  - Reuben
+  - Gad
+  - Manasseh
+  - Jair
+  - Machir
+  - east-of-Jordan
+  - Moses-denied-entry
+  - Joshua-commissioned
+  - Pisgah
+  - Beth-peor
+  - What-God-is-in-heaven-or-earth
+  - Moses-prayer
+  - Fear-not-God-fights-for-you
+  - Land-distribution
+  - threescore-cities
+---
 # Deuteronomy 3
 
 ---
@@ -104,7 +136,7 @@ Israel turns to Bashan and defeats Og, the last king of the Rephaim (giants), wh
 
 ## KEYWORD INDEX
 
-`Og` `sixty cities` `Rephaim/giants` `Reuben/Gad/half-Manasseh` `Pisgah` `Let it suffice thee` `Moses denied entry` `Joshua commissioned` `encourage/strengthen` `What God is there`
+#Og #sixty-cities #Rephaimgiants #ReubenGadhalf-Manasseh #Pisgah #Let-it-suffice-thee #Moses-denied-entry #Joshua-commissioned #encouragestrengthen #What-God-is-there
 
 **Og** — last of the Rephaim/giants; iron bedstead; 1 Samuel 17 (Goliath connection)  
 **sixty cities** — confirmed by Joshua 13:30, 1 Kings 4:13; total victory  

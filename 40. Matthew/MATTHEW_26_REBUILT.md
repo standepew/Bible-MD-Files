@@ -1,3 +1,14 @@
+---
+book: "Matthew"
+chapter: 26
+testament: "New Testament"
+key_themes: "Christ's Passion Begins, Anointing at Bethany, Last Supper, Gethsemane Prayer"
+tags:
+  - christ
+  - anointing-at-bethany
+  - last-supper
+  - gethsemane-prayer
+---
 # Matthew 26
 
 ---
@@ -201,7 +212,7 @@ Jesus, finished, sayings, disciples, feast, passover, Son, man, betrayed, crucif
 
 
 *AI Keywords for current event matching:*
-`alabaster` `anointing` `begins` `bethany` `betrayed` `blood` `body` `box` `burial` `chief` `christs` `cock` `crew` `crucified` `cup` `father` `feast` `gethsemane` `kingdom` `last` `legions` `memorial` `ointment` `pass` `passion` `passover` `pieces` `prayer` `precious` `priests` `remission` `sins` `spirit` `supper` `testament` `thirty` `twelve` `willing`
+#alabaster #anointing #begins #bethany #betrayed #blood #body #box #burial #chief #christs #cock #crew #crucified #cup #father #feast #gethsemane #kingdom #last #legions #memorial #ointment #pass #passion #passover #pieces #prayer #precious #priests #remission #sins #spirit #supper #testament #thirty #twelve #willing
 
 
 ---

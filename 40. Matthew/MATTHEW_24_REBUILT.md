@@ -1,3 +1,14 @@
+---
+book: "Matthew"
+chapter: 24
+testament: "New Testament"
+key_themes: "Christ's Olivet Prophecy, Temple Destruction, End Times Signs, Second Coming"
+tags:
+  - christ
+  - temple-destruction
+  - end-times-signs
+  - second-coming
+---
 # Matthew 24
 
 ---
@@ -201,7 +212,7 @@ Jesus, departed, temple, disciples, buildings, temple, Jesus, things, stone, thr
 
 
 *AI Keywords for current event matching:*
-`abomination` `christs` `clouds` `coming` `darkened` `deceive` `desolation` `destruction` `east` `elect` `end` `false` `famines` `flee` `gather` `great` `heaven` `lightning` `many` `mount` `mountains` `olives` `olivet` `pestilences` `prophecy` `rumours` `second` `sign` `signs` `son` `stone` `sun` `temple` `thrown` `times` `tribulation` `wars` `world`
+#abomination #christs #clouds #coming #darkened #deceive #desolation #destruction #east #elect #end #false #famines #flee #gather #great #heaven #lightning #many #mount #mountains #olives #olivet #pestilences #prophecy #rumours #second #sign #signs #son #stone #sun #temple #thrown #times #tribulation #wars #world
 
 
 ---

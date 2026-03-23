@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 100
+testament: "Old Testament"
+key_themes: "Joyful Service, Divine Creator, Shepherd Relationship, Everlasting Mercy"
+tags:
+  - joyful-service
+  - divine-creator
+  - shepherd-relationship
+  - everlasting-mercy
+---
 # Psalm 100
 
 ---
@@ -93,7 +104,7 @@ Psalm, praise, joyful, noise, LORD, lands, Serve, LORD, gladness, come, presence
 
 
 *AI Keywords for current event matching:*
-`come` `creator` `divine` `endure` `everlasting` `generations` `gladness` `god` `good` `joyful` `know` `lands` `lord` `made` `mercy` `noise` `ourselves` `pasture` `people` `praise` `presence` `psalm` `relationship` `serve` `service` `sheep` `shepherd` `singing` `truth`
+#come #creator #divine #endure #everlasting #generations #gladness #god #good #joyful #know #lands #lord #made #mercy #noise #ourselves #pasture #people #praise #presence #psalm #relationship #serve #service #sheep #shepherd #singing #truth
 
 
 ---

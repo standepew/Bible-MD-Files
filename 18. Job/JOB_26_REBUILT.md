@@ -1,3 +1,19 @@
+---
+book: "Job"
+chapter: 26
+testament: "Old Testament"
+key_themes: "Job's Response, God's Power, Creation's Order, Divine Mystery"
+tags:
+  - dead-things-formed-waters-inhabitants
+  - hell-naked-destruction-covering
+  - bindeth-waters-thick-clouds-rent
+  - holdeth-face-throne-spreadeth-cloud
+  - pillars-heaven-tremble-astonished-reproof
+  - job
+  - god
+  - creation
+  - divine-mystery
+---
 # Job 26
 
 ---
@@ -129,7 +145,7 @@ Job, answered, helped, without, power, saved, arm, strength. Counselled, wisdom,
 
 
 *AI Keywords for current event matching:*
-`answered` `arm` `astonished` `bindeth` `bounds` `cloud` `clouds` `compassed` `counselled` `covering` `creations` `crooked` `day` `dead` `declared` `destruction` `divideth` `divine` `earth` `empty` `end` `face` `formed` `garnished` `gods` `hand` `hangeth` `heaven` `heavens` `hell` `helped` `holdeth` `inhabitants` `job` `jobs` `mystery` `naked` `night` `north` `nothing` `order` `pillars` `place` `plentifully` `power` `proud` `rent` `reproof` `response` `saved` `sea` `serpent` `smiteth` `spirit` `spreadeth` `strength` `stretcheth` `thick` `thing` `things` `throne` `tremble` `understanding` `uttered` `waters` `wisdom` `without` `words`
+#answered #arm #astonished #bindeth #bounds #cloud #clouds #compassed #counselled #covering #creations #crooked #day #dead #declared #destruction #divideth #divine #earth #empty #end #face #formed #garnished #gods #hand #hangeth #heaven #heavens #hell #helped #holdeth #inhabitants #job #jobs #mystery #naked #night #north #nothing #order #pillars #place #plentifully #power #proud #rent #reproof #response #saved #sea #serpent #smiteth #spirit #spreadeth #strength #stretcheth #thick #thing #things #throne #tremble #understanding #uttered #waters #wisdom #without #words
 
 
 ---

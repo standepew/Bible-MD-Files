@@ -1,3 +1,14 @@
+---
+book: "Job"
+chapter: 34
+testament: "Old Testament"
+key_themes: "Elihu's Second Speech, God's Justice, Divine Sovereignty, Human Accountability"
+tags:
+  - elihu
+  - god
+  - divine-sovereignty
+  - human-accountability
+---
 # Job 34
 
 ---
@@ -165,7 +176,7 @@ Elihu, answered, hear, words, wise, men, give, ear, knowledge, ear, trieth, word
 
 
 *AI Keywords for current event matching:*
-`accept` `accountability` `almighty` `answered` `breath` `charge` `choose` `company` `condemn` `darkness` `death` `delight` `die` `disposed` `divine` `drinketh` `dust` `ear` `earth` `elihu` `elihus` `eyes` `flesh` `give` `god` `gods` `goings` `good` `govern` `hand` `hands` `hate` `hear` `heart` `hide` `human` `incurable` `iniquity` `job` `judgment` `justice` `king` `know` `knowledge` `lie` `man` `meat` `men` `midnight` `mighty` `mouth` `people` `perish` `persons` `pervert` `poor` `princes` `regard` `render` `rich` `right` `righteous` `scorning` `second` `seeth` `shadow` `sovereignty` `speech` `spirit` `taken` `tasteth` `transgression` `trieth` `understanding` `ungodly` `voice` `walketh` `water` `ways` `wicked` `wickedly` `wickedness` `wise` `words` `work` `workers` `world` `wound`
+#accept #accountability #almighty #answered #breath #charge #choose #company #condemn #darkness #death #delight #die #disposed #divine #drinketh #dust #ear #earth #elihu #elihus #eyes #flesh #give #god #gods #goings #good #govern #hand #hands #hate #hear #heart #hide #human #incurable #iniquity #job #judgment #justice #king #know #knowledge #lie #man #meat #men #midnight #mighty #mouth #people #perish #persons #pervert #poor #princes #regard #render #rich #right #righteous #scorning #second #seeth #shadow #sovereignty #speech #spirit #taken #tasteth #transgression #trieth #understanding #ungodly #voice #walketh #water #ways #wicked #wickedly #wickedness #wise #words #work #workers #world #wound
 
 
 ---

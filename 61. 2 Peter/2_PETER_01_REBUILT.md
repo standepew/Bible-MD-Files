@@ -1,3 +1,15 @@
+---
+book: "2 Peter"
+chapter: 1
+testament: "New Testament"
+key_themes: "Divine Power and Precious Promises, Christian Virtues, Assurance of Salvation, Eyewitness Testimony of Christ, Authority of Scripture"
+tags:
+  - divine-power-and-precious-promises
+  - christian-virtues
+  - assurance-of-salvation
+  - eyewitness-testimony-of-christ
+  - authority-of-scripture
+---
 # 2 Peter 1
 
 ---
@@ -107,7 +119,7 @@ Simon, Peter, servant, apostle, Jesus, Christ, obtained, precious, faith, righte
 
 
 *AI Keywords for current event matching:*
-`abundantly` `afar` `apostle` `arise` `assurance` `authority` `barren` `beloved` `blind` `brotherly` `called` `calling` `charity` `christ` `christian` `coming` `corruption` `cunningly` `dark` `dawn` `day` `decease` `devised` `diligence` `divine` `election` `entrance` `escaped` `established` `everlasting` `exceeding` `excellent` `eyewitness` `eyewitnesses` `fables` `faith` `fall` `father` `followed` `forgotten` `ghost` `glory` `god` `godliness` `grace` `great` `hearts` `heaven` `heed` `holy` `honour` `interpretation` `jesus` `kindness` `kingdom` `knowing` `knowledge` `life` `light` `lord` `lust` `majesty` `man` `men` `ministered` `mount` `moved` `multiplied` `nature` `negligent` `obtained` `old` `partakers` `patience` `peace` `peter` `place` `pleased` `power` `precious` `present` `private` `promises` `prophecy` `purged` `put` `received` `remembrance` `righteousness` `salvation` `saviour` `scripture` `servant` `shewed` `shineth` `shortly` `simon` `sins` `son` `spake` `star` `stir` `sure` `tabernacle` `temperance` `testimony` `time` `truth` `unfruitful` `virtue` `virtues` `voice` `word` `world`
+#abundantly #afar #apostle #arise #assurance #authority #barren #beloved #blind #brotherly #called #calling #charity #christ #christian #coming #corruption #cunningly #dark #dawn #day #decease #devised #diligence #divine #election #entrance #escaped #established #everlasting #exceeding #excellent #eyewitness #eyewitnesses #fables #faith #fall #father #followed #forgotten #ghost #glory #god #godliness #grace #great #hearts #heaven #heed #holy #honour #interpretation #jesus #kindness #kingdom #knowing #knowledge #life #light #lord #lust #majesty #man #men #ministered #mount #moved #multiplied #nature #negligent #obtained #old #partakers #patience #peace #peter #place #pleased #power #precious #present #private #promises #prophecy #purged #put #received #remembrance #righteousness #salvation #saviour #scripture #servant #shewed #shineth #shortly #simon #sins #son #spake #star #stir #sure #tabernacle #temperance #testimony #time #truth #unfruitful #virtue #virtues #voice #word #world
 
 
 ---
@@ -236,52 +248,52 @@ Simon, Peter, servant, apostle, Jesus, Christ, obtained, precious, faith, righte
 
 ### The Lamp in a Dark Place — Scripture as the Only Light Until the Day Dawns
 
-**2 Peter 1:19** — "We have also a more sure word of prophecy; whereunto ye do well that ye take heed, as unto a light that shineth in a dark place, until the day dawn, and the day star arise in your hearts"
+[[61. 2 Peter/2_PETER_01_REBUILT|2 Peter 1:19]] — "We have also a more sure word of prophecy; whereunto ye do well that ye take heed, as unto a light that shineth in a dark place, until the day dawn, and the day star arise in your hearts"
 
 **Thread through Scripture:**
-- **Psalm 119:105** — "Thy word is a lamp unto my feet, and a light unto my path" — Scripture as lamp; the word illuminates the path through darkness
-- **Isaiah 8:20** — "To the law and to the testimony: if they speak not according to this word, it is because there is no light in them" — outside of Scripture there is only darkness; no other source of spiritual light exists
-- **John 1:1-5** — "In the beginning was the Word... and the life was the light of men. And the light shineth in darkness; and the darkness comprehended it not" — Christ is the ultimate Word and Light; Scripture is the lamp that bears witness to Him
-- **John 5:35** — Jesus calls John the Baptist "a burning and shining light" — even the greatest prophet was a lamp, not the sun; the lamp points to the Sun
-- **Revelation 22:5** — "And there shall be no night there; and they need no candle, neither light of the sun; for the Lord God giveth them light" — the "day star arising" of 2 Peter 1:19 is the ultimate state; the lamp is needed only while darkness remains; when Christ comes fully, the lamp is superseded by the Sun
+- [[19.Psalm Part 2/PSALM_119_REBUILT|Psalm 119:105]] — "Thy word is a lamp unto my feet, and a light unto my path" — Scripture as lamp; the word illuminates the path through darkness
+- [[23. Isaiah/ISAIAH_08_REBUILT|Isaiah 8:20]] — "To the law and to the testimony: if they speak not according to this word, it is because there is no light in them" — outside of Scripture there is only darkness; no other source of spiritual light exists
+- [[43. John/JOHN_01_REBUILT|John 1:1-5]] — "In the beginning was the Word... and the life was the light of men. And the light shineth in darkness; and the darkness comprehended it not" — Christ is the ultimate Word and Light; Scripture is the lamp that bears witness to Him
+- [[43. John/JOHN_05_REBUILT|John 5:35]] — Jesus calls John the Baptist "a burning and shining light" — even the greatest prophet was a lamp, not the sun; the lamp points to the Sun
+- [[66. Revelation/REVELATION_22_REBUILT|Revelation 22:5]] — "And there shall be no night there; and they need no candle, neither light of the sun; for the Lord God giveth them light" — the "day star arising" of 2 Peter 1:19 is the ultimate state; the lamp is needed only while darkness remains; when Christ comes fully, the lamp is superseded by the Sun
 - *Interpretation:* The world between the first and second advents is the "dark place." Scripture is the lamp given for this interval. The lamp does not replace the Sun — it points to it. Peter's phrase "until the day dawn" establishes that Scripture's lamp-function is transitional, not final. The day star (Christ in glory) will arise, and in that day the lamp is swallowed up by the fullness of light it always anticipated.
 
 ---
 
 ### The Holy Mountain — Transfiguration as Anticipatory Coming Glory
 
-**2 Peter 1:18** — "And this voice which came from heaven we heard, when we were with him in the holy mount"
+[[61. 2 Peter/2_PETER_01_REBUILT|2 Peter 1:18]] — "And this voice which came from heaven we heard, when we were with him in the holy mount"
 
 **Thread through Scripture:**
-- **Exodus 19:18-20** — Sinai as the first "holy mount" — God descends in fire, speaks audibly; the mountain becomes the meeting point between heaven and earth
-- **Isaiah 2:2-3** — "The mountain of the LORD's house shall be established in the top of the mountains... for out of Zion shall go forth the law" — the holy mountain as the center of the coming kingdom
-- **Matthew 17:1-5** — The Transfiguration: Jesus transfigured, Moses and Elijah appear, voice from cloud: "This is my beloved Son, in whom I am well pleased; hear ye him" — the Sinai pattern (cloud, voice, mountain) replicated and surpassed in Christ
-- **Hebrews 12:18-24** — The contrast between Mount Sinai (fire, blackness, tempest) and Mount Zion (city of the living God, spirits of just men made perfect, Jesus the mediator of the new covenant) — the holy mount of the Transfiguration is a foretaste of Mount Zion
-- **Revelation 14:1** — "And I looked, and, lo, a Lamb stood on the mount Sion, and with him an hundred forty and four thousand" — the final holy mountain scene; Christ in glory on Zion with His redeemed
+- [[02. Exodus/EXO_19_REBUILT|Exodus 19:18-20]] — Sinai as the first "holy mount" — God descends in fire, speaks audibly; the mountain becomes the meeting point between heaven and earth
+- [[23. Isaiah/ISAIAH_02_REBUILT|Isaiah 2:2-3]] — "The mountain of the LORD's house shall be established in the top of the mountains... for out of Zion shall go forth the law" — the holy mountain as the center of the coming kingdom
+- [[40. Matthew/MATTHEW_17_REBUILT|Matthew 17:1-5]] — The Transfiguration: Jesus transfigured, Moses and Elijah appear, voice from cloud: "This is my beloved Son, in whom I am well pleased; hear ye him" — the Sinai pattern (cloud, voice, mountain) replicated and surpassed in Christ
+- [[58. Hebrews/HEBREWS_12_REBUILT|Hebrews 12:18-24]] — The contrast between Mount Sinai (fire, blackness, tempest) and Mount Zion (city of the living God, spirits of just men made perfect, Jesus the mediator of the new covenant) — the holy mount of the Transfiguration is a foretaste of Mount Zion
+- [[66. Revelation/REVELATION_14_REBUILT|Revelation 14:1]] — "And I looked, and, lo, a Lamb stood on the mount Sion, and with him an hundred forty and four thousand" — the final holy mountain scene; Christ in glory on Zion with His redeemed
 - *Interpretation:* The "holy mount" of the Transfiguration stands in a chain: Sinai → Transfiguration Mountain → Zion (eschatological). Each holy mountain is a controlled revelation of divine glory. The Transfiguration is the preview of the Second Coming glory — which is precisely Peter's point: "we were eyewitnesses of his majesty" (v.16) is his proof that the Second Coming (v.16: "the power and coming of our Lord Jesus Christ") is not a fable.
 
 ---
 
 ### The Tabernacle — Tent of Flesh, Building of God
 
-**2 Peter 1:13-14** — "I think it meet, as long as I am in this tabernacle, to stir you up... Knowing that shortly I must put off this my tabernacle, even as our Lord Jesus Christ hath shewed me"
+[[61. 2 Peter/2_PETER_01_REBUILT|2 Peter 1:13-14]] — "I think it meet, as long as I am in this tabernacle, to stir you up... Knowing that shortly I must put off this my tabernacle, even as our Lord Jesus Christ hath shewed me"
 
 **Thread through Scripture:**
-- **John 1:14** — "And the Word was made flesh, and dwelt (eskenosen = tabernacled) among us" — Christ's incarnation described as pitching a tent; the divine Word taking up temporary flesh-residence
-- **2 Corinthians 5:1-4** — "For we know that if our earthly house of this tabernacle were dissolved, we have a building of God, a house not made with hands, eternal in the heavens... For we that are in this tabernacle do groan, being burdened" — Paul uses the exact same image: the body is a tent, temporary; the resurrection body is the permanent building
-- **2 Corinthians 5:8** — "We are... willing rather to be absent from the body, and to be present with the Lord" — the putting off of the tabernacle is the path to the permanent dwelling
-- **Revelation 21:3** — "Behold, the tabernacle of God is with men, and he will dwell with them" — in the new creation, God's tabernacle is permanently with His people; the tent-paradigm finally resolved; God and man co-dwell without the transience of all earthly tabernacles
+- [[43. John/JOHN_01_REBUILT|John 1:14]] — "And the Word was made flesh, and dwelt (eskenosen = tabernacled) among us" — Christ's incarnation described as pitching a tent; the divine Word taking up temporary flesh-residence
+- [[47. 2 Corinthians/2_CORINTHIANS_05_REBUILT|2 Corinthians 5:1-4]] — "For we know that if our earthly house of this tabernacle were dissolved, we have a building of God, a house not made with hands, eternal in the heavens... For we that are in this tabernacle do groan, being burdened" — Paul uses the exact same image: the body is a tent, temporary; the resurrection body is the permanent building
+- [[47. 2 Corinthians/2_CORINTHIANS_05_REBUILT|2 Corinthians 5:8]] — "We are... willing rather to be absent from the body, and to be present with the Lord" — the putting off of the tabernacle is the path to the permanent dwelling
+- [[66. Revelation/REVELATION_21_REBUILT|Revelation 21:3]] — "Behold, the tabernacle of God is with men, and he will dwell with them" — in the new creation, God's tabernacle is permanently with His people; the tent-paradigm finally resolved; God and man co-dwell without the transience of all earthly tabernacles
 - *Interpretation:* The tabernacle image runs from the wilderness wandering through Christ's incarnation through the believer's mortal body to the new Jerusalem. It is always the sign of temporary presence in a world not yet the final state. Peter uses it deliberately: he knows he is dying soon; his body is the tent about to be struck. The theology of the tent is the theology of the Christian life — present, purposeful, and passing; the permanent building awaits.
 
 ---
 
 ### The Ladder of Virtues — The Progressive Shape of Participation in the Divine Nature
 
-**2 Peter 1:5-7** — "Add to your faith virtue; and to virtue knowledge; and to knowledge temperance; and to temperance patience; and to patience godliness; and to godliness brotherly kindness; and to brotherly kindness charity"
+[[61. 2 Peter/2_PETER_01_REBUILT|2 Peter 1:5-7]] — "Add to your faith virtue; and to virtue knowledge; and to knowledge temperance; and to temperance patience; and to patience godliness; and to godliness brotherly kindness; and to brotherly kindness charity"
 
 **Thread through Scripture:**
-- **Romans 5:3-5** — "Tribulation worketh patience; and patience, experience; and experience, hope: and hope maketh not ashamed" — Paul's ladder moves through suffering; Peter's through deliberate cultivation; both describe progressive spiritual formation with the same destination
-- **Galatians 5:22-23** — "The fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith, meekness, temperance" — the Spirit produces the same qualities Peter lists; what Peter presents as diligent addition, Paul presents as Spirit-fruit; sanctification is both cooperation with grace and the Spirit's work
-- **James 1:3-4** — "The trying of your faith worketh patience. But let patience have her perfect work, that ye may be perfect and entire, wanting nothing" — patience at the center of Peter's ladder (faith → ... → patience → ...) is the hinge-virtue; James identifies it as the key to becoming whole
-- **1 Corinthians 13:13** — "And now abideth faith, hope, charity, these three; but the greatest of these is charity" — Peter's ladder terminates in charity (agape); so does Paul's; the ladder is designed to lead to love
+- [[45. Romans/ROMANS_05_REBUILT|Romans 5:3-5]] — "Tribulation worketh patience; and patience, experience; and experience, hope: and hope maketh not ashamed" — Paul's ladder moves through suffering; Peter's through deliberate cultivation; both describe progressive spiritual formation with the same destination
+- [[48. Galatians/GALATIANS_05_REBUILT|Galatians 5:22-23]] — "The fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith, meekness, temperance" — the Spirit produces the same qualities Peter lists; what Peter presents as diligent addition, Paul presents as Spirit-fruit; sanctification is both cooperation with grace and the Spirit's work
+- [[59. James/JAMES_01_REBUILT|James 1:3-4]] — "The trying of your faith worketh patience. But let patience have her perfect work, that ye may be perfect and entire, wanting nothing" — patience at the center of Peter's ladder (faith → ... → patience → ...) is the hinge-virtue; James identifies it as the key to becoming whole
+- [[46. 1 Corinthians/1_CORINTHIANS_13_REBUILT|1 Corinthians 13:13]] — "And now abideth faith, hope, charity, these three; but the greatest of these is charity" — Peter's ladder terminates in charity (agape); so does Paul's; the ladder is designed to lead to love
 - *Interpretation:* The eight-rung ladder is not works-salvation. It begins with faith (given by God — v.1: "precious faith") and ends with agape (the perfection of all virtue). It is the shape of a life that has received "all things that pertain unto life and godliness" (v.3) and is now actively appropriating them. The one who does not cultivate these virtues is "blind, and cannot see afar off, and hath forgotten that he was purged from his old sins" (v.9) — amnesia about grace is the root of stagnation.

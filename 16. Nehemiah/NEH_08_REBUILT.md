@@ -1,3 +1,14 @@
+---
+book: "Nehemiah"
+chapter: 8
+testament: "Old Testament"
+key_themes: "Law Reading, Public Worship, Holy Day Celebration, Feast of Tabernacles"
+tags:
+  - law-reading
+  - public-worship
+  - holy-day-celebration
+  - feast-of-tabernacles
+---
 # Nehemiah 8
 
 ---
@@ -141,7 +152,7 @@ People, gathered, street, water, gate, spoke, Ezra, scribe, bring, book, law, Mo
 
 
 *AI Keywords for current event matching:*
-`akkub` `amen` `anaiah` `answered` `assembly` `attentive` `azariah` `bani` `blessed` `book` `booths` `bowed` `branches` `bring` `brought` `captivity` `celebration` `chief` `children` `cities` `commanded` `congregation` `courts` `day` `days` `declared` `distinctly` `drink` `dwell` `ears` `eat` `eighth` `ephraim` `ezra` `faces` `fat` `fathers` `feast` `fetch` `first` `forth` `found` `gate` `gathered` `gladness` `god` `great` `grieved` `ground` `hanan` `hand` `hands` `hashbadana` `hashum` `heads` `hilkiah` `hodijah` `holy` `house` `israel` `jamin` `jerusalem` `jeshua` `joy` `jozabad` `kelita` `last` `law` `left` `levites` `lifting` `lord` `maaseiah` `malchiah` `manner` `mattithiah` `men` `meshullam` `midday` `mirth` `mishael` `month` `morning` `moses` `mount` `mourn` `myrtle` `nehemiah` `nun` `olive` `opened` `palm` `peace` `pedaiah` `pelaiah` `people` `pine` `place` `portions` `prepared` `priest` `priests` `proclaim` `public` `publish` `pulpit` `purpose` `read` `reading` `right` `roof` `sat` `scribe` `second` `sense` `seven` `seventh` `shabbethai` `shema` `sherebiah` `sight` `solemn` `son` `sorry` `spoke` `stilled` `stood` `street` `strength` `sweet` `tabernacles` `taught` `thick` `tirshatha` `trees` `understand` `understanding` `understood` `urijah` `water` `way` `weep` `wept` `women` `wood` `words` `worship` `worshipped` `written` `zechariah`
+#akkub #amen #anaiah #answered #assembly #attentive #azariah #bani #blessed #book #booths #bowed #branches #bring #brought #captivity #celebration #chief #children #cities #commanded #congregation #courts #day #days #declared #distinctly #drink #dwell #ears #eat #eighth #ephraim #ezra #faces #fat #fathers #feast #fetch #first #forth #found #gate #gathered #gladness #god #great #grieved #ground #hanan #hand #hands #hashbadana #hashum #heads #hilkiah #hodijah #holy #house #israel #jamin #jerusalem #jeshua #joy #jozabad #kelita #last #law #left #levites #lifting #lord #maaseiah #malchiah #manner #mattithiah #men #meshullam #midday #mirth #mishael #month #morning #moses #mount #mourn #myrtle #nehemiah #nun #olive #opened #palm #peace #pedaiah #pelaiah #people #pine #place #portions #prepared #priest #priests #proclaim #public #publish #pulpit #purpose #read #reading #right #roof #sat #scribe #second #sense #seven #seventh #shabbethai #shema #sherebiah #sight #solemn #son #sorry #spoke #stilled #stood #street #strength #sweet #tabernacles #taught #thick #tirshatha #trees #understand #understanding #understood #urijah #water #way #weep #wept #women #wood #words #worship #worshipped #written #zechariah
 
 
 ---

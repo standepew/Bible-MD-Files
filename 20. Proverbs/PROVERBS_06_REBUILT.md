@@ -1,3 +1,14 @@
+---
+book: "Proverbs"
+chapter: 6
+testament: "Old Testament"
+key_themes: "Financial Responsibility, Diligence vs. Sloth, Seven Abominations, Sexual Purity"
+tags:
+  - financial-responsibility
+  - diligence-vs-sloth
+  - seven-abominations
+  - sexual-purity
+---
 # Proverbs 6
 
 ---
@@ -141,7 +152,7 @@ Son, surety, friend, stricken, hand, stranger, snared, words, mouth, taken, word
 
 
 *AI Keywords for current event matching:*
-`abominations` `adultery` `ant` `blood` `commandment` `committeth` `consider` `diligence` `evil` `eyes` `false` `financial` `friend` `give` `hands` `humble` `keep` `lamp` `look` `lying` `make` `poverty` `proud` `purity` `responsibility` `seven` `sexual` `shed` `sleep` `sloth` `sluggard` `sure` `surety` `tongue` `travelleth` `understanding` `ways` `wise` `witness` `woman`
+#abominations #adultery #ant #blood #commandment #committeth #consider #diligence #evil #eyes #false #financial #friend #give #hands #humble #keep #lamp #look #lying #make #poverty #proud #purity #responsibility #seven #sexual #shed #sleep #sloth #sluggard #sure #surety #tongue #travelleth #understanding #ways #wise #witness #woman
 
 
 ---

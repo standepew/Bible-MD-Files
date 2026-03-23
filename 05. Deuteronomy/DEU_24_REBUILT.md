@@ -1,3 +1,102 @@
+---
+book: "Deuteronomy"
+chapter: 24
+testament: "Old Testament"
+key_themes: "Divorce Regulations, Remarriage Restrictions, Newlywed Exemption, Millstone Protection, Kidnapping Prohibition, Leprosy Procedures, Pledge Regulations, Worker Protection, Generational Justice, Vulnerable Protection, Harvest Gleaning"
+tags:
+  - taken-wife
+  - married-her
+  - find-no-favour
+  - uncleanness-her
+  - bill-divorcement
+  - give-her-hand
+  - send-her-out-house
+  - departed-house
+  - another-man-wife
+  - latter-husband-hate
+  - bill-divorcement
+  - give-her-hand
+  - send-her-out-house
+  - latter-husband-die
+  - former-husband
+  - sent-her-away
+  - not-take-again
+  - defiled
+  - abomination-LORD
+  - cause-land-sin
+  - inheritance
+  - new-wife
+  - not-go-war
+  - not-charged-business
+  - free-home-year
+  - cheer-up-wife
+  - nether-millstone
+  - upper-millstone
+  - pledge
+  - taketh-man-life
+  - stealing-brethren
+  - children-Israel
+  - merchandise-him
+  - selleth-him
+  - thief-die
+  - put-evil-away
+  - plague-leprosy
+  - observe-diligently
+  - priests-Levites-teach
+  - commanded-observe
+  - remember-LORD-Miriam
+  - way-Egypt
+  - lend-brother-anything
+  - not-go-house
+  - fetch-pledge
+  - stand-abroad
+  - man-lend
+  - bring-out-pledge
+  - man-poor
+  - not-sleep-pledge
+  - deliver-pledge
+  - sun-go-down
+  - sleep-own-raiment
+  - bless-thee
+  - righteousness-LORD
+  - oppress-hired-servant
+  - poor-needy
+  - brethren-strangers
+  - land-gates
+  - day-give-hire
+  - sun-go-down
+  - setteth-heart
+  - cry-against-thee
+  - LORD
+  - sin-thee
+  - fathers-not-die
+  - children
+  - children-not-die
+  - fathers
+  - every-man-die
+  - own-sin
+  - not-pervert-judgment
+  - stranger
+  - fatherless
+  - widow-raiment
+  - pledge
+  - remember-bondman-Egypt
+  - LORD-redeemed
+  - command-do-thing
+  - cut-harvest-field
+  - forgot-sheaf
+  - not-go-fetch
+  - stranger-fatherless-widow
+  - LORD-bless-work
+  - beat-olive-tree
+  - not-go-boughs
+  - stranger-fatherless-widow
+  - gather-grapes-vineyard
+  - not-glean-afterward
+  - stranger-fatherless-widow
+  - remember-bondman-Egypt
+  - command-do-thing
+---
 # Deuteronomy 24
 
 ---
@@ -167,7 +266,7 @@ Moses gives various laws: (1) Divorce—if a man finds "uncleanness" in his wife
 
 
 *AI Keywords for current event matching:*
-`abomination` `abroad` `afterward` `again` `against` `another` `anything` `away` `beat` `bill` `bless` `bondman` `boughs` `brethren` `bring` `brother` `business` `cause` `charged` `cheer` `children` `command` `commanded` `cry` `cut` `day` `defiled` `deliver` `departed` `die` `diligently` `divorce` `divorcement` `down` `egypt` `essential` `every` `evil` `exemption` `fatherless` `fathers` `favour` `fetch` `field` `find` `forgot` `former` `free` `gates` `gather` `generational` `give` `glean` `gleaning` `grapes` `hand` `harvest` `hate` `heart` `hire` `hired` `home` `house` `husband` `inheritance` `israel` `judgment` `justice` `kidnapping` `land` `latter` `lend` `leprosy` `levites` `life` `lord` `man` `married` `merchandise` `millstone` `miriam` `needy` `nether` `new` `newlywed` `observe` `olive` `oppress` `pervert` `plague` `pledge` `poor` `priests` `procedures` `protection` `put` `raiment` `redeemed` `regulations` `remember` `righteousness` `selleth` `send` `sent` `servant` `setteth` `sheaf` `sin` `sleep` `stand` `stealing` `stranger` `strangers` `sun` `take` `taken` `taketh` `teach` `thief` `thing` `tree` `uncleanness` `upper` `vineyard` `vulnerable` `war` `way` `widow` `wife` `work` `worker` `year`
+#abomination #abroad #afterward #again #against #another #anything #away #beat #bill #bless #bondman #boughs #brethren #bring #brother #business #cause #charged #cheer #children #command #commanded #cry #cut #day #defiled #deliver #departed #die #diligently #divorce #divorcement #down #egypt #essential #every #evil #exemption #fatherless #fathers #favour #fetch #field #find #forgot #former #free #gates #gather #generational #give #glean #gleaning #grapes #hand #harvest #hate #heart #hire #hired #home #house #husband #inheritance #israel #judgment #justice #kidnapping #land #latter #lend #leprosy #levites #life #lord #man #married #merchandise #millstone #miriam #needy #nether #new #newlywed #observe #olive #oppress #pervert #plague #pledge #poor #priests #procedures #protection #put #raiment #redeemed #regulations #remember #righteousness #selleth #send #sent #servant #setteth #sheaf #sin #sleep #stand #stealing #stranger #strangers #sun #take #taken #taketh #teach #thief #thing #tree #uncleanness #upper #vineyard #vulnerable #war #way #widow #wife #work #worker #year
 
 
 ---

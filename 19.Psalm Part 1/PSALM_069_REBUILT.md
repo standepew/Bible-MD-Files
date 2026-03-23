@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 69
+testament: "Old Testament"
+key_themes: "Christ's Suffering, Zeal for God's House, Divine Deliverance, Universal Praise"
+tags:
+  - christ
+  - zeal-for-god
+  - divine-deliverance
+  - universal-praise
+---
 # Psalm 69
 
 ---
@@ -105,7 +116,7 @@ Chief, Musician, Shoshannim, Psalm, David, Save, GOD, waters, come, soul, sink, 
 
 
 *AI Keywords for current event matching:*
-`acceptable` `cause` `chastened` `chief` `christs` `come` `david` `deep` `deliver` `deliverance` `delivered` `despiseth` `destroy` `divine` `draw` `drunks` `earth` `eaten` `enemies` `everything` `fallen` `fasting` `floods` `garment` `glad` `god` `gods` `good` `hairs` `hate` `head` `hear` `heart` `heaven` `house` `humble` `live` `lord` `lovingkindness` `magnify` `mercies` `mercy` `mighty` `mire` `moveth` `multitude` `musician` `name` `nigh` `overflow` `poor` `praise` `prayer` `prisoners` `proverb` `psalm` `redeem` `reproach` `reproached` `reproaches` `sackcloth` `salvation` `save` `seas` `see` `seek` `shoshannim` `sink` `song` `soul` `standing` `suffering` `tender` `thanksgiving` `time` `truth` `universal` `waters` `wept` `wrongfully` `zeal`
+#acceptable #cause #chastened #chief #christs #come #david #deep #deliver #deliverance #delivered #despiseth #destroy #divine #draw #drunks #earth #eaten #enemies #everything #fallen #fasting #floods #garment #glad #god #gods #good #hairs #hate #head #hear #heart #heaven #house #humble #live #lord #lovingkindness #magnify #mercies #mercy #mighty #mire #moveth #multitude #musician #name #nigh #overflow #poor #praise #prayer #prisoners #proverb #psalm #redeem #reproach #reproached #reproaches #sackcloth #salvation #save #seas #see #seek #shoshannim #sink #song #soul #standing #suffering #tender #thanksgiving #time #truth #universal #waters #wept #wrongfully #zeal
 
 
 ---

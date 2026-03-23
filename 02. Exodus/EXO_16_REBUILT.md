@@ -1,3 +1,32 @@
+---
+book: "Exodus"
+chapter: 16
+testament: "Old Testament"
+key_themes: "Israel murmurs — "Would we had died in Egypt," God sends quail and manna, Manna defined — "What is it?", The Sabbath first established in practice, An omer of manna kept for generations, Manna as type of Christ, "I am the LORD your God," The daily bread principle"
+tags:
+  - manna
+  - quail
+  - murmuring
+  - flesh-pots-of-Egypt
+  - bread-from-heaven
+  - omer
+  - gather-daily
+  - gather-double-on-sixth
+  - no-manna-on-Sabbath
+  - Sabbath-first-practice
+  - glory-of-the-LORD
+  - prove-them
+  - worms-and-stink
+  - coriander-seed
+  - wafers-with-honey
+  - pot-of-manna
+  - forty-years
+  - bread-of-heaven
+  - daily-bread
+  - I-AM-the-LORD-your-God
+  - spiritual-food
+  - John-6
+---
 # Exodus 16
 
 ---
@@ -91,7 +120,7 @@ Six weeks after the Exodus, the whole congregation murmurs against Moses and Aar
 
 
 *AI Keywords for current event matching:*
-`bread` `current` `events` `exodus` `heaven` `jesus` `john` `life` `matching` `miraculous` `provision`
+#bread #current #events #exodus #heaven #jesus #john #life #matching #miraculous #provision
 
 
 ---

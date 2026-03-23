@@ -1,3 +1,13 @@
+---
+book: "Ezekiel"
+chapter: 44
+testament: "Old Testament"
+key_themes: "Christ's Prince, Holy Priests, Divine Service, Christ's Inheritance"
+tags:
+  - christ
+  - holy-priests
+  - divine-service
+---
 # Ezekiel 44
 
 ---
@@ -117,7 +127,7 @@ Brought, gate, outward, sanctuary, looketh, east, shut, Lord, gate, shut, opened
 
 
 *AI Keywords for current event matching:*
-`bread` `charge` `christs` `come` `dedicated` `difference` `divine` `eat` `firstfruits` `garments` `gate` `holy` `inheritance` `kept` `linen` `lord` `minister` `near` `possession` `priests` `prince` `service` `shut` `sons` `sweat` `teach` `things` `wool` `zadok`
+#bread #charge #christs #come #dedicated #difference #divine #eat #firstfruits #garments #gate #holy #inheritance #kept #linen #lord #minister #near #possession #priests #prince #service #shut #sons #sweat #teach #things #wool #zadok
 
 
 ---

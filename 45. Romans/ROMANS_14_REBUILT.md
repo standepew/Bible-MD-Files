@@ -1,3 +1,14 @@
+---
+book: "Romans"
+chapter: 14
+testament: "New Testament"
+key_themes: "Weak and Strong Faith, Liberty and Conscience, The Kingdom of God, Stumbling Blocks"
+tags:
+  - weak-and-strong-faith
+  - liberty-and-conscience
+  - the-kingdom-of-god
+  - stumbling-blocks
+---
 # Romans 14
 
 ---
@@ -141,7 +152,7 @@ Weak, faith, receive, doubtful, disputations, believeth, eat, things, weak, eate
 
 
 *AI Keywords for current event matching:*
-`acceptable` `account` `alike` `alloweth` `approved` `believeth` `blocks` `bow` `brother` `charitably` `christ` `condemneth` `confess` `conscience` `damned` `day` `dead` `despiseth` `destroy` `die` `died` `dieth` `disputations` `doubteth` `doubtful` `drink` `eat` `eateth` `edify` `esteemed` `evil` `faith` `fall` `falleth` `flesh` `follow` `ghost` `giveth` `god` `good` `grieved` `happy` `herbs` `holden` `holy` `jesus` `joy` `judge` `judgest` `judgment` `kingdom` `knee` `liberty` `live` `liveth` `living` `lord` `man` `master` `meat` `men` `mind` `nought` `occasion` `offence` `offended` `peace` `persuaded` `pure` `receive` `received` `regardeth` `revived` `righteousness` `rose` `seat` `servant` `serveth` `sin` `spoken` `stand` `standeth` `strong` `stumbleth` `stumbling` `stumblingblock` `thanks` `things` `tongue` `unclean` `walkest` `way` `weak` `wine` `work` `written`
+#acceptable #account #alike #alloweth #approved #believeth #blocks #bow #brother #charitably #christ #condemneth #confess #conscience #damned #day #dead #despiseth #destroy #die #died #dieth #disputations #doubteth #doubtful #drink #eat #eateth #edify #esteemed #evil #faith #fall #falleth #flesh #follow #ghost #giveth #god #good #grieved #happy #herbs #holden #holy #jesus #joy #judge #judgest #judgment #kingdom #knee #liberty #live #liveth #living #lord #man #master #meat #men #mind #nought #occasion #offence #offended #peace #persuaded #pure #receive #received #regardeth #revived #righteousness #rose #seat #servant #serveth #sin #spoken #stand #standeth #strong #stumbleth #stumbling #stumblingblock #thanks #things #tongue #unclean #walkest #way #weak #wine #work #written
 
 
 ---
