@@ -153,3 +153,157 @@ God commands Moses to hew two new stone tablets and come up to the mountain; als
 **seventy to Egypt → stars of heaven** — Genesis 46:27; Genesis 15:5; promise faithfully kept
 
 ---
+
+## KEY TERMS WITH CONTEXTUAL DEFINITIONS
+
+### ARK OF THE COVENANT (Aron HaBrit — אֲרוֹן הַבְּרִית)
+- **Construction:** An acacia wood box overlaid with gold; built to house the second set of tables of stone (v.1-5)
+- **Significance:** The ark as the dwelling place of the covenant — God's word literally carried in a box of wood; the divine presence localized in Israel's midst
+- **Typological significance:** The ark points to Christ: the Word made flesh dwelling among men (John 1:14); the mercy seat (hilasterion) pointing to propitiation (Romans 3:25)
+- **Cross-references:** Exodus 25:10-22; Hebrews 9:4; Romans 3:25; 1 John 2:2
+
+### SECOND TABLES OF STONE (vv.1-4)
+- **Context:** God commands Moses to cut new tablets; God rewrites the same words He wrote on the first tablets Moses broke (Exodus 32:19; Deuteronomy 9:17)
+- **Significance:** God's willingness to rewrite what Israel caused to be broken — mercy restoring what judgment destroyed
+- **Typological note:** The law written on stone versus on the heart (Jeremiah 31:33; 2 Corinthians 3:3) — the second tablets of stone point to the need for the new covenant writing on hearts
+- **Cross-references:** Exodus 34:1-4; 2 Corinthians 3:3; Jeremiah 31:33
+
+### CIRCUMCISE YOUR HEART (Mul Levavkhem — מוּל לְבַבְכֶם)
+- **Hebrew:** *mul* — to circumcise, cut off; *levav* — heart, inner being
+- **Significance:** The physical sign of covenant membership (circumcision) has an inward counterpart — the cutting away of stubborn resistance to God
+- **New covenant fulfillment:** God promised to do what Israel could not do for themselves: "The LORD thy God will circumcise thine heart" (Deuteronomy 30:6)
+- **Cross-references:** Deuteronomy 30:6; Jeremiah 4:4; Romans 2:28-29; Colossians 2:11; Philippians 3:3
+
+### GOD OF GODS / LORD OF LORDS (v.17)
+- **Declaration:** "For the LORD your God is God of gods, and Lord of lords, a great God, a mighty, and a terrible, which regardeth not persons, nor taketh reward"
+- **Significance:** The comprehensive sovereignty of Israel's God over all divine and human authority — political, spiritual, cosmic
+- **New Testament echo:** Revelation 17:14; 19:16 — the Lamb/Christ carries this exact title: "King of Kings, and Lord of Lords"
+- **Cross-references:** Psalm 136:2-3; Daniel 2:47; 1 Timothy 6:15; Revelation 17:14; 19:16
+
+---
+
+## THE ACTUAL VERSES (KJV)
+
+1 At that time the LORD said unto me, Hew thee two tables of stone like unto the first, and come up unto me into the mount, and make thee an ark of wood.
+
+2 And I will write on the tables the words that were in the first tables which thou brakest, and thou shalt put them in the ark.
+
+3 And I made an ark of shittim wood, and hewed two tables of stone like unto the first, and went up into the mount, having the two tables in mine hand.
+
+4 And he wrote on the tables, according to the first writing, the ten commandments, which the LORD spake unto you in the mount out of the midst of the fire in the day of the assembly: and the LORD gave them unto me.
+
+5 And I turned myself and came down from the mount, and put the tables in the ark which I had made; and there they be, as the LORD commanded me.
+
+6 And the children of Israel took their journey from Beeroth of the children of Jaakan to Mosera: there Aaron died, and there he was buried; and Eleazar his son ministered in the priest's office in his stead.
+
+7 From thence they journeyed unto Gudgodah; and from Gudgodah to Jotbath, a land of rivers of waters.
+
+8 At that time the LORD separated the tribe of Levi, to bear the ark of the covenant of the LORD, to stand before the LORD to minister unto him, and to bless in his name, unto this day.
+
+9 Wherefore Levi hath no part nor inheritance with his brethren; the LORD is his inheritance, according as the LORD thy God promised him.
+
+10 And I stayed in the mount, according to the first time, forty days and forty nights; and the LORD hearkened unto me at that time also, and the LORD would not destroy thee.
+
+11 And the LORD said unto me, Arise, take thy journey before the people, that they may go in and possess the land, which I sware unto their fathers to give unto them.
+
+12 And now, Israel, what doth the LORD thy God require of thee, but to fear the LORD thy God, to walk in all his ways, and to love him, and to serve the LORD thy God with all thy heart and with all thy soul,
+
+13 To keep the commandments of the LORD, and his statutes, which I command thee this day for thy good?
+
+14 Behold, the heaven and the heaven of heavens is the LORD's thy God, the earth also, with all that therein is.
+
+15 Only the LORD had a delight in thy fathers to love them, and he chose their seed after them, even you above all people, as it is this day.
+
+16 Circumcise therefore the foreskin of your heart, and be no more stiffnecked.
+
+17 For the LORD your God is God of gods, and Lord of lords, a great God, a mighty, and a terrible, which regardeth not persons, nor taketh reward:
+
+18 He doth execute the judgment of the fatherless and widow, and loveth the stranger, in giving him food and raiment.
+
+19 Love ye therefore the stranger: for ye were strangers in the land of Egypt.
+
+20 Thou shalt fear the LORD thy God; him shalt thou serve, and to him shalt thou cleave, and swear by his name.
+
+21 He is thy praise, and he is thy God, that hath done for thee these great and terrible things, which thine eyes have seen.
+
+22 Thy fathers went down into Egypt with threescore and ten persons; and now the LORD thy God hath made thee as the stars of heaven for multitude.
+
+---
+
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
+
+### The Ark of the Covenant — Type of Christ as the Word Made Flesh
+
+The ark, built to house the written word of God, is one of Scripture's richest types of the incarnation. The Word of God dwells in a wooden vessel, carried in the midst of the people.
+
+- **John 1:14** — "And the Word was made flesh, and dwelt among us" — *eskēnōsen* (tabernacled) among us; the incarnation as the ark fulfillment
+- **Romans 3:25** — God set forth Christ as a *hilastērion* (mercy seat, propitiation) — the exact term for the ark's cover in the LXX (Exodus 25:17-22)
+- **Hebrews 9:4** — The ark in the heavenly sanctuary contains the tables of stone, Aaron's rod, and the pot of manna — all types of Christ
+- **Revelation 11:19** — "the ark of his testament" seen in the heavenly temple after the seventh trumpet
+
+---
+
+### "What Doth the LORD Require of Thee" (v.12) — The Summary of the Law
+
+Moses' rhetorical question in verse 12 distills the entire law into five elements: fear, walk in His ways, love, serve, keep commandments. This summary recurs throughout prophetic literature.
+
+- **Micah 6:8** — "What doth the LORD require of thee, but to do justly, and to love mercy, and to walk humbly with thy God" — the prophetic restatement of Deuteronomy 10:12
+- **Matthew 22:37-40** — Jesus' two-commandment summary of the law
+- **James 1:27** — "Pure religion and undefiled before God and the Father is this, To visit the fatherless and widows in their affliction, and to keep himself unspotted from the world" — the practical restatement
+
+---
+
+## COMMONLY MISQUOTED / MISAPPLIED PASSAGES
+
+### "What Doth the LORD Require of Thee, but to Fear the LORD Thy God... and to Love Him" (Deuteronomy 10:12)
+
+**Common misapplication:** Sometimes cited as a minimizing verse — "only" five things required — implying that obedience is simple and easy, and that detailed biblical law is excessive.
+
+**Correct exegetical context:** The "but" (Hebrew *ki 'im*) introduces a comprehensive summary, not a reduction. Fear, walking in all His ways, love, serving with all your heart and soul, and keeping commandments is everything — not a subset. Deuteronomy 5:29 reveals that the only problem with this summary is that Israel's heart was not capable of it. The simplicity of the summary is rhetorical — Moses is saying "this is what it all comes down to," not "this is easy." Romans 8:3-4 confirms: the law could not produce this in the flesh; the Spirit was required.
+
+---
+
+### "For the LORD Your God Is God of Gods, and Lord of Lords" (Deuteronomy 10:17)
+
+**Common misapplication:** Occasionally cited to argue that the Old Testament acknowledged the existence of other real gods — that "God of gods" implies genuine polytheism.
+
+**Correct exegetical context:** "God of gods" is a superlative construction in Hebrew — like "Song of Songs" (greatest song) or "Holy of Holies" (most holy place). It means God is supremely, incomparably, and absolutely God — the highest of all things called "god" or "lord." Isaiah 45:5-6 explicitly denies the existence of other gods: "I am the LORD, and there is none else, there is no God beside me." Deuteronomy 4:35 states the same. Psalm 82 addresses "gods" as human judges or divine beings who fall under God's judgment — none are co-equal or co-eternal with the LORD.
+
+---
+
+## SYMBOLIC THREADS
+
+### Circumcision of the Heart — The Inward Covenant Sign
+
+The command "Circumcise therefore the foreskin of your heart" (v.16) is the single most important verse in Deuteronomy for understanding the new covenant. The outer sign has an inward reality that Israel was commanded to appropriate.
+
+- **Deuteronomy 30:6** — "The LORD thy God will circumcise thine heart" — what Israel is commanded to do (10:16), God promises to do (30:6)
+- **Jeremiah 4:4** — "Circumcise yourselves to the LORD, and take away the foreskins of your heart"
+- **Romans 2:28-29** — "For he is not a Jew, which is one outwardly... But he is a Jew, which is one inwardly; and circumcision is that of the heart, in the spirit, and not in the letter"
+- **Colossians 2:11** — "In whom also ye are circumcised with the circumcision made without hands, in putting off the body of the sins of the flesh by the circumcision of Christ"
+
+---
+
+### "The LORD Is His Inheritance" — The Levi Principle
+
+The tribe of Levi received no land inheritance; "the LORD is his inheritance" (v.9). This principle — that God Himself, not land or wealth, is the portion of the consecrated person — runs through Scripture.
+
+- **Numbers 18:20** — "I am thy part and thine inheritance among the children of Israel" — directly to Aaron
+- **Psalm 16:5** — "The LORD is the portion of mine inheritance and of my cup" — David adopting the Levitical principle for all believers
+- **Psalm 73:26** — "My flesh and my heart faileth: but God is the strength of my heart, and my portion for ever"
+- **Lamentations 3:24** — "The LORD is my portion, saith my soul; therefore will I hope in him"
+- **1 Peter 2:9** — The church as "a royal priesthood" — the whole people of God now bearing the priestly character of Levi
+
+---
+
+### The Stranger / Sojourner — God's Heart for the Marginalized
+
+Verse 18-19 — "He loveth the stranger... Love ye therefore the stranger" — establishes a principle rooted in God's own character: His love for the marginalized is the basis for Israel's obligation to them.
+
+- **Leviticus 19:33-34** — "The stranger that dwelleth with you shall be unto you as one born among you, and thou shalt love him as thyself; for ye were strangers in the land of Egypt"
+- **Ruth** — Ruth the Moabitess as the model stranger incorporated into Israel through covenant love
+- **Matthew 25:35** — "I was a stranger, and ye took me in" — Christ identifying with the stranger
+- **Ephesians 2:12-13** — "ye were without Christ, being aliens from the commonwealth of Israel... But now in Christ Jesus ye who sometimes were far off are made nigh"
+- **Hebrews 11:13** — "they were strangers and pilgrims on the earth" — the whole community of faith as sojourners
+
+---

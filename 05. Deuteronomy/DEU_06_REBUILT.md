@@ -167,3 +167,160 @@ Moses gives Israel the foundational declaration of their faith: "Hear, O Israel:
 **when thy son asketh** — covenant transmission through narrative; Exodus 12:26-27
 
 ---
+
+## KEY TERMS WITH CONTEXTUAL DEFINITIONS
+
+### SHEMA (שְׁמַע)
+- **Hebrew meaning:** "Hear" — imperative of *shama*; Israel's foundational confession of faith
+- **Full declaration:** "Hear, O Israel: The LORD our God is one LORD" (v.4) — the statement of monotheism and exclusive covenant loyalty
+- **Liturgical use:** Recited twice daily in Jewish tradition; posted on doorposts (mezuzah) and worn on the body (phylacteries/tefillin) per vv.8-9
+- **New Testament:** Jesus names Deuteronomy 6:5 as the greatest commandment (Matthew 22:37-38; Mark 12:29-30)
+
+### ECHAD (אֶחָד — One)
+- **Hebrew meaning:** *echad* — one; unity that can include plurality (used of "one flesh" in Genesis 2:24, "one cluster of grapes" in Numbers 13:23)
+- **Significance:** The oneness of God is not mere singularity but absolute uniqueness — there is no other God of the same kind
+- **Trinitarian implication:** The same word used for the oneness of God in Deuteronomy 6:4 is used for compound unity elsewhere in Scripture
+- **Cross-references:** Genesis 2:24; Numbers 13:23; John 10:30; John 17:22
+
+### MEZUZAH (מְזוּזָה — Doorpost)
+- **Command:** Write God's words on the doorposts of your houses (v.9) — the *mezuzah* practice
+- **Significance:** The home is to be saturated with the word of God; the threshold of every house marks the household as belonging to the LORD
+- **Cross-references:** Deuteronomy 11:20; Exodus 12:7, 22-23 (blood on doorposts at Passover — thematic connection between protection and the word)
+
+### DILIGENT INSTRUCTION (Shanan — שָׁנַן)
+- **Hebrew meaning:** *shanan* — to sharpen, to whet; to teach incisively and thoroughly; "teach them diligently" (v.7)
+- **Method:** "when thou sittest in thine house, and when thou walkest by the way, and when thou liest down, and when thou risest up" — total-life instruction, not compartmentalized religion
+- **Significance:** Faith transmission is not institutional but domestic and relational — parents bear primary responsibility
+- **Cross-references:** Deuteronomy 4:9-10; Psalm 78:4-7; Proverbs 22:6; Ephesians 6:4
+
+---
+
+## THE ACTUAL VERSES (KJV)
+
+1 Now these are the commandments, the statutes, and the judgments, which the LORD your God commanded to teach you, that ye might do them in the land whither ye go to possess it:
+
+2 That thou mightest fear the LORD thy God, to keep all his statutes and his commandments, which I command thee, thou, and thy son, and thy son's son, all the days of thy life; and that thy days may be prolonged.
+
+3 Hear therefore, O Israel, and observe to do it; that it may be well with thee, and that ye may increase mightily, as the LORD God of thy fathers hath promised thee, in the land that floweth with milk and honey.
+
+4 Hear, O Israel: The LORD our God is one LORD:
+
+5 And thou shalt love the LORD thy God with all thine heart, and with all thy soul, and with all thy might.
+
+6 And these words, which I command thee this day, shall be in thine heart:
+
+7 And thou shalt teach them diligently unto thy children, and shalt talk of them when thou sittest in thine house, and when thou walkest by the way, and when thou liest down, and when thou risest up.
+
+8 And thou shalt bind them for a sign upon thine hand, and they shall be as frontlets between thine eyes.
+
+9 And thou shalt write them upon the posts of thy house, and on thy gates.
+
+10 And it shall be, when the LORD thy God shall have brought thee into the land which he sware unto thy fathers, to Abraham, to Isaac, and to Jacob, to give thee great and goodly cities, which thou buildedst not,
+
+11 And houses full of all good things, which thou filledst not, and wells digged, which thou diggedst not, vineyards and olive trees, which thou plantedst not; when thou shalt have eaten and be full;
+
+12 Then beware lest thou forget the LORD, which brought thee forth out of the land of Egypt, from the house of bondage.
+
+13 Thou shalt fear the LORD thy God, and serve him, and shalt swear by his name.
+
+14 Ye shall not go after other gods, of the gods of the people which are round about you;
+
+15 (For the LORD thy God is a jealous God among you) lest the anger of the LORD thy God be kindled against thee, and destroy thee from off the face of the earth.
+
+16 Ye shall not tempt the LORD your God, as ye tempted him in Massah.
+
+17 Ye shall diligently keep the commandments of the LORD your God, and his testimonies, and his statutes, which he hath commanded thee.
+
+18 And thou shalt do that which is right and good in the sight of the LORD: that it may be well with thee, and that thou mayest go in and possess the good land which the LORD sware unto thy fathers,
+
+19 To cast out all thine enemies from before thee, as the LORD hath spoken.
+
+20 And when thy son asketh thee in time to come, saying, What mean the testimonies, and the statutes, and the judgments, which the LORD our God hath commanded you?
+
+21 Then thou shalt say unto thy son, We were Pharaoh's bondmen in Egypt; and the LORD brought us out of Egypt with a mighty hand:
+
+22 And the LORD shewed signs and wonders, great and sore, upon Egypt, upon Pharaoh, and upon all his household, before our eyes:
+
+23 And he brought us out from thence, that he might bring us in, to give us the land which he sware unto our fathers.
+
+24 And the LORD commanded us to do all these statutes, to fear the LORD our God, for our good always, that he might preserve us alive, as it is at this day.
+
+25 And it shall be our righteousness, if we observe to do all these commandments before the LORD our God, as he hath commanded us.
+
+---
+
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
+
+### "Thou Shalt Love the LORD Thy God with All Thine Heart" — The Great Commandment Fulfilled in Christ
+
+Jesus identifies Deuteronomy 6:5 as the greatest commandment (Matthew 22:37-38). He is the only one who ever obeyed it perfectly. His life is the fulfillment of what Israel repeatedly failed to do.
+
+- **Matthew 22:37-40** — Jesus names this as the first and great commandment, and the second (Leviticus 19:18) as like it; "on these two hang all the law and the prophets"
+- **Mark 12:29-30** — Jesus quotes the Shema in full before giving the command to love
+- **John 14:31** — "that the world may know that I love the Father; and as the Father gave me commandment, even so I do" — Jesus fulfilling Deuteronomy 6:5 in His obedience to the cross
+- **Romans 5:19** — "by the obedience of one shall many be made righteous" — Christ's perfect love credited to those who could not love perfectly
+
+---
+
+### "Ye Shall Not Tempt the LORD Your God, as Ye Tempted Him in Massah" (v.16) — The Warning Jesus Invokes
+
+When Satan tempts Jesus to throw Himself from the temple pinnacle, Jesus quotes this verse (Matthew 4:7). The Shema chapter contains the verse that defeats the tempter.
+
+- **Exodus 17:1-7** — The original Massah incident: Israel demanded water and questioned whether God was among them
+- **Matthew 4:7** — Jesus, when tempted to test God's care by forcing a miracle, quotes Deuteronomy 6:16 exactly
+- **1 Corinthians 10:9** — "Neither let us tempt Christ, as some of them also tempted, and were destroyed of serpents"
+
+---
+
+## COMMONLY MISQUOTED / MISAPPLIED PASSAGES
+
+### "The LORD Our God Is One LORD" (Deuteronomy 6:4)
+
+**Common misapplication:** Used to argue that God is absolutely singular and numerically one person — a proof-text for strict Unitarianism and against Trinitarian theology.
+
+**Correct exegetical context:** The word *echad* (one) used here is the same word used for "one flesh" in Genesis 2:24 — a unity that includes plurality. The Shema asserts the uniqueness of Israel's God over against polytheism, and His absolute claim on Israel's exclusive loyalty. It does not address the internal nature of God's being. Jesus quotes the Shema approvingly (Mark 12:29) while simultaneously claiming "I and my Father are one" (John 10:30). The New Testament writers who received the Shema as Scripture also affirmed the full deity of the Son and Spirit. The oneness of God is not philosophically simple — it is covenantally exclusive.
+
+---
+
+### "Write Them upon the Posts of Thy House" (Deuteronomy 6:9) — Mezuzah Observance
+
+**Common misapplication:** The command to write God's words on doorposts is sometimes dismissed as purely symbolic or merely cultural, with no practical import for Christians.
+
+**Correct exegetical context:** While the New Testament does not command mezuzot specifically, the underlying principle — that the word of God should saturate the entire domestic environment — is fully carried forward (Colossians 3:16; Ephesians 6:4). The command was literal for Israel: physical writing on doorposts. The principle is totalizing: the word of God belongs in every corner of life. The question for every generation is not whether to take the word seriously in domestic life but how that saturation is implemented.
+
+---
+
+## SYMBOLIC THREADS
+
+### The Shema as Israel's Identity Marker
+
+"Hear, O Israel: The LORD our God is one LORD" is the foundational statement of identity for the covenant people — before commands come, identity is declared.
+
+- **Mark 12:29** — Jesus begins His answer to the greatest commandment with the Shema — identity before obligation
+- **Romans 3:30** — "Seeing it is one God, which shall justify the circumcision by faith, and uncircumcision through faith" — the one God of the Shema is the God of both Jew and Gentile
+- **1 Corinthians 8:6** — "to us there is but one God, the Father, of whom are all things, and we in him; and one Lord Jesus Christ, by whom are all things" — Paul applies the Shema to include Christ
+
+---
+
+### The Prosperity Warning — Forgetting God in the Good Land
+
+The warning of verses 10-12 — beware when you eat and are full that you forget the LORD — is one of Scripture's recurring prophetic warnings. Prosperity is more spiritually dangerous than persecution.
+
+- **Deuteronomy 8:11-20** — Extended development of the same warning
+- **Nehemiah 9:25-26** — "So they did eat, and were filled, and became fat, and delighted themselves in thy great goodness... But they were disobedient, and rebelled against thee"
+- **Hosea 13:6** — "According to their pasture, so were they filled; they were filled, and their heart was exalted; therefore have they forgotten me"
+- **Luke 12:16-21** — The parable of the rich fool: "Soul, thou hast much goods laid up for many years" — forgetting God in prosperity
+- **Revelation 3:17** — Laodicea: "Because thou sayest, I am rich, and increased with goods, and have need of nothing; and knowest not that thou art wretched"
+
+---
+
+### The Obligation of Transmission — Each Generation Must Receive the Story
+
+The question in verse 20 — "when thy son asketh thee in time to come, saying, What mean the testimonies?" — establishes the liturgical pattern of question-and-answer faith transmission. The covenant must be retold, not assumed.
+
+- **Exodus 12:26-27** — Same question at Passover: "What mean ye by this service?"
+- **Exodus 13:14** — "When thy son asketh thee in time to come, saying, What is this?"
+- **Psalm 78:4-7** — "We will not hide them from their children, shewing to the generation to come the praises of the LORD"
+- **2 Timothy 2:2** — "And the things that thou hast heard of me among many witnesses, the same commit thou to faithful men, who shall be able to teach others also" — the New Testament form of Deuteronomy 6:20-25
+
+---

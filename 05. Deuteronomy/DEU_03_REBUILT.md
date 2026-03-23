@@ -150,3 +150,173 @@ Israel turns to Bashan and defeats Og, the last king of the Rephaim (giants), wh
 **What God is there** — rhetorical declaration of God's uniqueness; Exodus 15:11, Isaiah 46:9
 
 ---
+
+## KEY TERMS WITH CONTEXTUAL DEFINITIONS
+
+### OG (King of Bashan)
+- **Identity:** Amorite king of Bashan, north of Sihon's territory; last of the Rephaim giant race
+- **His bed:** An iron bedstead nine cubits long and four cubits wide (v.11) — approximately 13.5 feet × 6 feet; preserved in Rabbath of Ammon as proof of his size
+- **Significance:** His defeat removes the last of the pre-conquest giant kingdoms east of Jordan; establishes the pattern for all Canaanite conquest
+- **Cross-references:** Numbers 21:33-35; Joshua 12:4-5; Psalm 135:11; Psalm 136:20
+
+### BASHAN
+- **Geography:** Fertile tableland east of the Sea of Galilee, known for its cattle and oaks; extends from the Jabbok to Mount Hermon
+- **Significance in conquest:** Sixty fortified cities taken at once (v.4); the region's fertility made it a prize — "the oaks of Bashan" and "the bulls of Bashan" became symbols of strength in prophetic literature
+- **Cross-references:** Psalm 22:12 ("strong bulls of Bashan"); Ezekiel 39:18; Amos 4:1 ("cows of Bashan")
+
+### PISGAH (Mount Nebo / Pisgah)
+- **Location:** Ridge of the Abarim mountains east of Jordan overlooking the Dead Sea and Jericho
+- **Significance:** The place from which Moses views the Promised Land he cannot enter (v.27); where Moses dies (Deuteronomy 34:1-5)
+- **Typological meaning:** Moses sees the land from afar but does not enter — the law shows what God promises but cannot bring us into it; Joshua (Christ) leads in
+- **Cross-references:** Deuteronomy 34:1; Numbers 27:12; Hebrews 11:13 ("having seen the promises afar off")
+
+### TRANSJORDAN SETTLEMENTS (Reuben, Gad, Half-Manasseh)
+- **Background:** Two and a half tribes requested the fertile land east of Jordan before crossing (Numbers 32); Moses grants it conditionally — they must cross armed before their brothers
+- **Significance:** Establishes the principle that receiving your inheritance early does not exempt you from covenant obligation to your brothers
+- **Cross-references:** Numbers 32; Joshua 1:12-18; Joshua 22
+
+---
+
+## THE ACTUAL VERSES (KJV)
+
+1 Then we turned, and went up the way to Bashan: and Og the king of Bashan came out against us, he and all his people, to battle at Edrei.
+
+2 And the LORD said unto me, Fear him not: for I will deliver him, and all his people, and his land, into thy hand; and thou shalt do unto him as thou didst unto Sihon king of the Amorites, which dwelt at Heshbon.
+
+3 So the LORD our God delivered into our hands Og also, the king of Bashan, and all his people: and we smote him until none was left to him remaining.
+
+4 And we took all his cities at that time, there was not a city which we took not from them, threescore cities, all the region of Argob, the kingdom of Og in Bashan.
+
+5 All these cities were fenced with high walls, gates, and bars; beside unwalled towns a great many.
+
+6 And we utterly destroyed them, as we did unto Sihon king of Heshbon, utterly destroying the men, women, and children, of every city.
+
+7 But all the cattle, and the spoil of the cities, we took for a prey to ourselves.
+
+8 And we took at that time out of the hand of the two kings of the Amorites the land that was on this side Jordan, from the river of Arnon unto mount Hermon;
+
+9 (Which Hermon the Sidonians call Sirion; and the Amorites call it Shenir;)
+
+10 All the cities of the plain, and all Gilead, and all Bashan, unto Salchah and Edrei, cities of the kingdom of Og in Bashan.
+
+11 For only Og king of Bashan remained of the remnant of giants; behold, his bedstead was a bedstead of iron; is it not in Rabbath of the children of Ammon? nine cubits was the length thereof, and four cubits the breadth of it, after the cubit of a man.
+
+12 And this land, which we possessed at that time, from Aroer, which is by the river Arnon, and half mount Gilead, and the cities thereof, gave I unto the Reubenites and to the Gadites.
+
+13 And the rest of Gilead, and all Bashan, being the kingdom of Og, gave I unto the half tribe of Manasseh; all the region of Argob, with all Bashan, which was called the land of giants.
+
+14 Jair the son of Manasseh took all the country of Argob unto the coasts of Geshuri and Maachathi; and called them after his own name, Bashan-havoth-jair, unto this day.
+
+15 And I gave Gilead unto Machir.
+
+16 And unto the Reubenites and unto the Gadites I gave from Gilead even unto the river Arnon half the valley, and the border even unto the river Jabbok, which is the border of the children of Ammon;
+
+17 The plain also, and Jordan, and the coast thereof, from Chinnereth even unto the sea of the plain, even the salt sea, under Ashdoth-pisgah eastward.
+
+18 And I commanded you at that time, saying, The LORD your God hath given you this land to possess it: ye shall pass over armed before your brethren the children of Israel, all that are meet for the war.
+
+19 But your wives, and your little ones, and your cattle, (for I know that ye have much cattle,) shall abide in your cities which I have given you;
+
+20 Until the LORD have given rest unto your brethren, as well as unto you, and until they also possess the land which the LORD your God hath given them beyond Jordan: and then shall ye return every man unto his possession, which I have given you.
+
+21 And I commanded Joshua at that time, saying, Thine eyes have seen all that the LORD your God hath done unto these two kings: so shall the LORD do unto all the kingdoms whither thou passest.
+
+22 Ye shall not fear them: for the LORD your God he shall fight for you.
+
+23 And I besought the LORD at that time, saying,
+
+24 O Lord GOD, thou hast begun to shew thy servant thy greatness, and thy mighty hand: for what God is there in heaven or in earth, that can do according to thy works, and according to thy might?
+
+25 I pray thee, let me go over, and see the good land that is beyond Jordan, that goodly mountain, and Lebanon.
+
+26 But the LORD was wroth with me for your sakes, and would not hear me: and the LORD said unto me, Let it suffice thee; speak no more unto me of this matter.
+
+27 Get thee up into the top of Pisgah, and lift up thine eyes westward, and northward, and southward, and eastward, and behold it with thine eyes: for thou shalt not go over this Jordan.
+
+28 But charge Joshua, and encourage him, and strengthen him: for he shall go over before this people, and he shall cause them to inherit the land which thou shalt see.
+
+29 So we abode in the valley over against Beth-peor.
+
+---
+
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
+
+### Moses Forbidden to Enter — The Law Cannot Bring Us Into the Promise
+
+Moses sees the land from Pisgah but cannot cross Jordan. Joshua (Yehoshua — "The LORD saves") leads the people in. This is one of Scripture's clearest types of the law/gospel contrast.
+
+- **Galatians 3:24** — "the law was our schoolmaster to bring us unto Christ" — the law shows the way but cannot bring us there
+- **Hebrews 4:8-9** — "For if Jesus [Joshua] had given them rest, then would he not afterward have spoken of another day. There remaineth therefore a rest to the people of God."
+- **Romans 3:20** — "by the law is the knowledge of sin" — the law reveals the promise and our inability to reach it by our own effort
+- **Romans 8:3-4** — "For what the law could not do, in that it was weak through the flesh, God sending his own Son..."
+
+Moses' view from Pisgah — seeing clearly, longing deeply, unable to enter — is the posture of every soul under the law without Christ.
+
+---
+
+### "The LORD Your God He Shall Fight for You" (v.22) — The Consistent Warfare Principle
+
+Moses commissions Joshua with the declaration that God fights for Israel. This is not circumstantial encouragement but a covenantal principle running from the Exodus to Revelation.
+
+- **Exodus 14:14** — "The LORD shall fight for you, and ye shall hold your peace"
+- **Joshua 23:3** — "the LORD your God is he that hath fought for you"
+- **Romans 8:31** — "If God be for us, who can be against us?"
+- **Revelation 19:11-16** — Christ as Warrior King coming to fight the final battle
+
+---
+
+## COMMONLY MISQUOTED / MISAPPLIED PASSAGES
+
+### "Let It Suffice Thee; Speak No More Unto Me of This Matter" (Deuteronomy 3:26)
+
+**Common misapplication:** Sometimes cited to suggest that persistent prayer is unwelcome to God — that asking more than once about a matter is presumptuous or displeasing.
+
+**Correct exegetical context:** This was a specific, unique situation: Moses had been excluded from Canaan as a consequence of his disobedience at Meribah (Numbers 20:7-12). The matter was judicially settled. God's instruction to stop asking was not a general principle against persistence in prayer but a specific closure on a matter that had been divinely determined. The rest of Scripture strongly commends persistent prayer (Luke 18:1-8; 1 Thessalonians 5:17; Philippians 4:6). God's "no" to Moses here is a judicial decision, not a lesson about prayer frequency.
+
+---
+
+### "Thine Eyes Have Seen All That the LORD Your God Hath Done" (Deuteronomy 3:21)
+
+**Common misapplication:** Used to suggest that seeing God's past works guarantees present faith — that witnessing miracles produces belief.
+
+**Correct exegetical context:** Moses says this to Joshua as an encouragement to faith, not as an automatic guarantee. The very generation whose eyes had seen everything God did in Egypt and the wilderness died in unbelief (Deuteronomy 1:32-35). Seeing is not the same as believing. What Moses is doing here is giving Joshua *grounds* for faith — what God has done is the basis for trusting what God will do — but faith must be exercised. John 12:37 records that even those who saw Jesus' miracles did not believe. Seeing creates accountability; it does not automatically produce faith.
+
+---
+
+## SYMBOLIC THREADS
+
+### The Last of the Giants — Remnant of a Defeated Race
+
+Og's iron bedstead preserved in Rabbath (v.11) is a monument to God's victory over the Rephaim, the giant race that predated Israel's conquest. His size and his end carry symbolic weight throughout Scripture.
+
+- **Genesis 6:4** — The Nephilim before the flood; the giants afterward
+- **Numbers 13:33** — The ten spies saw themselves as grasshoppers before the Anakims — the very giants God was about to destroy
+- **Joshua 11:21-22** — Joshua cuts off the Anakims from all the hill country; remnants remain only in Gaza, Gath, and Ashdod
+- **1 Samuel 17:4** — Goliath of Gath — the last echo of the giant remnant, defeated by David's stone
+
+The iron bedstead of Og is a trophy of divine warfare — proof that what looks unconquerable before God is nothing.
+
+---
+
+### Receiving Inheritance Early — Obligation Remains
+
+The two and a half tribes receive their inheritance east of Jordan before the conquest is complete, yet their obligation to their brothers continues until the land rests (vv.18-20).
+
+- **Numbers 32:6-15** — Moses' sharp rebuke when the tribes first requested the eastern land: "Shall your brethren go to war, and shall ye sit here?"
+- **Joshua 1:12-18** — Joshua reminds them of Moses' command; they affirm their obligation
+- **Joshua 22** — They return after the conquest, their duty fulfilled
+- **1 Corinthians 12:26** — "whether one member suffer, all the members suffer with it; or one member be honoured, all the members rejoice with it" — the body principle applies: you do not disengage from the struggle of your brothers simply because your own situation is settled
+
+---
+
+### Moses Seeing from Afar — The Faith of Those Who Die in Hope
+
+Moses dies having seen the promise from Pisgah without receiving it in his lifetime. This places him in the company of the great cloud of witnesses in Hebrews 11.
+
+- **Hebrews 11:13** — "These all died in faith, not having received the promises, but having seen them afar off, and were persuaded of them, and embraced them"
+- **Hebrews 11:39-40** — "And these all, having obtained a good report through faith, received not the promise: God having provided some better thing for us, that they without us should not be made perfect."
+- **John 8:56** — "Your father Abraham rejoiced to see my day: and he saw it, and was glad" — seeing by faith from afar is genuine seeing
+
+Moses on Pisgah is not a tragedy — it is the posture of all those who die in faith, holding promises that are fulfilled after them.
+
+---
