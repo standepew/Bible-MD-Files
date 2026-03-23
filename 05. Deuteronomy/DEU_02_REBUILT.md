@@ -158,3 +158,184 @@ After the thirty-eight years of wandering until the generation of fighting men w
 **Arnon** — the boundary marker; crossing it means entering God's war
 
 ---
+
+## KEY TERMS WITH CONTEXTUAL DEFINITIONS
+
+### SIHON (King of Heshbon)
+- **Identity:** Amorite king ruling from Heshbon east of Jordan
+- **Significance:** First military opponent God commanded Israel to fight; his defeat broke the psychological barrier of conquest
+- **Hardened heart:** God hardened his spirit (v.30) — same judicial pattern as Pharaoh (Exodus 4:21, Romans 9:17-18)
+- **Cross-references:** Numbers 21:21-31; Deuteronomy 1:4; Joshua 12:2; Nehemiah 9:22
+
+### EMIMS / ZAMZUMMIMS / HORIMS (Pre-conquest Giant Races)
+- **Emims:** Giant race in Moab — "terrible ones" in Hebrew; as tall as Anakims
+- **Zamzummims:** Giant race in Ammon — name possibly means "buzzing/whispering ones"
+- **Horims:** Cave-dwellers of Seir dispossessed by Esau's descendants
+- **Significance:** Establishes that God has always been clearing territories for His appointed peoples — Israel's conquest of Canaan is one instance of universal divine governance
+- **Cross-references:** Genesis 14:5; Numbers 13:33; Deuteronomy 3:11
+
+### ARNON (River/Brook)
+- **Geography:** River emptying into Dead Sea's eastern shore; served as northern boundary of Moab
+- **Significance:** Crossing the Arnon (v.24) marks the transition from observation to active conquest — God's command changes from "pass through without fighting" to "contend with him in battle"
+- **Cross-references:** Numbers 21:13; Deuteronomy 3:8; Joshua 12:1
+
+### DEVOTING TO DESTRUCTION (Herem — חֵרֶם)
+- **Hebrew meaning:** *cherem* — complete dedication to destruction; set apart irrevocably for God's judgment
+- **Application in chapter:** "We utterly destroyed the men, and the women, and the little ones, of every city" (v.34) — applied only to Sihon's cities, not Edom/Moab/Ammon
+- **Theological significance:** Not ethnic genocide but covenantal judgment on peoples whose iniquity was full (Genesis 15:16)
+- **Cross-references:** Deuteronomy 7:2; Joshua 6:17-21; 1 Samuel 15:3
+
+---
+
+## THE ACTUAL VERSES (KJV)
+
+1 Then we turned, and took our journey into the wilderness by the way of the Red sea, as the LORD spake unto me: and we compassed mount Seir many days.
+
+2 And the LORD spake unto me, saying,
+
+3 Ye have compassed this mountain long enough: turn you northward.
+
+4 And command thou the people, saying, Ye are to pass through the coast of your brethren the children of Esau, which dwell in Seir; and they shall be afraid of you: take ye good heed unto yourselves therefore:
+
+5 Meddle not with them; for I will not give you of their land, no, not so much as a foot breadth; because I have given mount Seir unto Esau for a possession.
+
+6 Ye shall buy meat of them for money, that ye may eat; and ye shall also buy water of them for money, that ye may drink.
+
+7 For the LORD thy God hath blessed thee in all the works of thy hand: he knoweth thy walking through this great wilderness: these forty years the LORD thy God hath been with thee; thou hast lacked nothing.
+
+8 And when we passed by from our brethren the children of Esau, which dwelt in Seir, through the way of the plain from Elath, and from Eziongaber, we turned and passed by the way of the wilderness of Moab.
+
+9 And the LORD said unto me, Distress not the Moabites, neither contend with them in battle: for I will not give thee of their land for a possession; because I have given Ar unto the children of Lot for a possession.
+
+10 The Emims dwelt therein in times past, a people great, and many, and tall, as the Anakims;
+
+11 Which also were accounted giants, as the Anakims; but the Moabites call them Emims.
+
+12 The Horims also dwelt in Seir beforetime; but the children of Esau succeeded them, when they had destroyed them from before them, and dwelt in their stead; as Israel did unto the land of his possession, which the LORD gave unto them.
+
+13 Now rise up, said I, and get you over the brook Zered. And we went over the brook Zered.
+
+14 And the space in which we came from Kadesh-barnea, until we were come over the brook Zered, was thirty and eight years; until all the generation of the men of war were wasted out from among the host, as the LORD sware unto them.
+
+15 For indeed the hand of the LORD was against them, to destroy them from among the host, until they were consumed.
+
+16 So it came to pass, when all the men of war were consumed and dead from among the people,
+
+17 That the LORD spake unto me, saying,
+
+18 Thou art to pass over through Ar, the coast of Moab, this day:
+
+19 And when thou comest nigh over against the children of Ammon, distress them not, nor meddle with them: for I will not give thee of the land of the children of Ammon any possession; because I have given it unto the children of Lot for a possession.
+
+20 (That also was accounted a land of giants: giants dwelt therein in old time; and the Ammonites call them Zamzummims;
+
+21 A people great, and many, and tall, as the Anakims; but the LORD destroyed them before them; and they succeeded them, and dwelt in their stead:
+
+22 As he did to the children of Esau, which dwelt in Seir, when he destroyed the Horims from before them; and they succeeded them, and dwelt in their stead even unto this day:
+
+23 And the Avims which dwelt in Hazerim, even unto Azzah, the Caphtorims, which came forth out of Caphtor, destroyed them, and dwelt in their stead.)
+
+24 Rise ye up, take your journey, and pass over the river Arnon: behold, I have given into thine hand Sihon the Amorite, king of Heshbon, and his land: begin to possess it, and contend with him in battle.
+
+25 This day will I begin to put the dread of thee and the fear of thee upon the nations that are under the whole heaven, who shall hear report of thee, and shall tremble, and be in anguish because of thee.
+
+26 And I sent messengers out of the wilderness of Kedemoth unto Sihon king of Heshbon with words of peace, saying,
+
+27 Let me pass through thy land: I will go along by the high way, I will neither turn unto the right hand nor to the left.
+
+28 Thou shalt sell me meat for money, that I may eat; and give me water for money, that I may drink: only I will pass through on my feet;
+
+29 (As the children of Esau which dwell in Seir, and the Moabites which dwell in Ar, did unto me;) until I shall pass over Jordan into the land which the LORD our God giveth us.
+
+30 But Sihon king of Heshbon would not let us pass by him: for the LORD thy God hardened his spirit, and made his heart obstinate, that he might deliver him into thy hand, as appeareth this day.
+
+31 And the LORD said unto me, Behold, I have begun to give Sihon and his land before thee: begin to possess, that thou mayest inherit his land.
+
+32 Then Sihon came out against us, he and all his people, to fight at Jahaz.
+
+33 And the LORD our God delivered him before us; and we smote him, and his sons, and all his people.
+
+34 And we took all his cities at that time, and utterly destroyed the men, and the women, and the little ones, of every city, we left none to remain:
+
+35 Only the cattle we took for a prey unto ourselves, and the spoil of the cities which we took.
+
+36 From Aroer, which is by the brink of the river of Arnon, and from the city that is by the river, even unto Gilead, there was not one city too strong for us: the LORD our God delivered all unto us:
+
+37 Only unto the land of the children of Ammon thou camest not, nor unto any place of the river Jabbok, nor unto the cities in the mountains, nor unto whatsoever the LORD our God forbad us.
+
+---
+
+## PROPHETIC/TYPOLOGICAL CONNECTIONS
+
+### God's Sovereignty Over All Nations — The Universal Principle Behind Israel's Particular History
+
+The historical notes on Edom, Moab, Ammon, and Caphtor (vv.10-23) establish that God's governance of territory is not exclusive to Israel. He cleared Seir for Esau before the Sinai covenant; He displaced the Zamzummims for Ammon; He moved the Caphtorims to displace the Avims. Israel's conquest is not an anomaly — it is one visible instance of what God is always doing with nations.
+
+- **Acts 17:26** — "hath determined the times before appointed, and the bounds of their habitation" — Paul makes this universal and explicit in the New Testament
+- **Amos 9:7** — "Have not I brought up Israel out of the land of Egypt? and the Philistines from Caphtor, and the Syrians from Kir?" — God owns the movement of every nation, not just Israel
+- **Daniel 2:21** — "He changeth the times and the seasons: he removeth kings, and setteth up kings"
+
+---
+
+### Sihon's Hardening as Type of Pharaoh — God's Judicial Hardening
+
+The hardening of Sihon's heart (v.30) follows the identical pattern established with Pharaoh in Exodus. God does not harden hearts arbitrarily — He confirms and accelerates what the person has already chosen. The result glorifies God through judgment.
+
+- **Exodus 4:21; 9:16** — Pharaoh's hardening for the same purpose: God's name declared to all the earth
+- **Romans 9:17-18** — Paul cites Pharaoh as the foundational case of divine hardening in sovereignty
+- **Romans 1:24, 26, 28** — "God gave them up/over" — the New Testament pattern of judicial hardening
+
+---
+
+## COMMONLY MISQUOTED / MISAPPLIED PASSAGES
+
+### "The LORD Thy God Hath Been with Thee; Thou Hast Lacked Nothing" (Deuteronomy 2:7)
+
+**Common misapplication:** Sometimes lifted out of context as a blanket promise of material prosperity — used to support the notion that God's presence guarantees comfort, abundance, and ease.
+
+**Correct exegetical context:** The verse is spoken of forty years in the *wilderness* — the harshest environment possible. "Lacked nothing" means God supplied what was necessary for the journey: manna, water, clothing that did not wear out, feet that did not swell (Deuteronomy 8:4; Nehemiah 9:21). God's provision is for the journey He appoints, not for every desire. The wilderness was not prosperity — it was sufficiency in hardship. The promise is God's faithfulness to His purposes, not an exemption from difficulty.
+
+---
+
+### "The LORD Thy God Hardened His Spirit" (Deuteronomy 2:30)
+
+**Common misapplication:** Used to argue that God causes people to sin against their will, making human responsibility meaningless — or conversely, that God's hardening makes a person's condemnation unjust.
+
+**Correct exegetical context:** Sihon was already an Amorite king whose people's iniquity was approaching fullness (Genesis 15:16). God's hardening of his spirit is a judicial act confirming the direction Sihon had already established, not an arbitrary imposition. Moses offered words of peace (vv.26-29); Sihon rejected them. The hardening ensured Sihon acted in full accordance with his own nature under divine judgment. Romans 9:14-18 treats Pharaoh's hardening — the same pattern — and answers the objection directly: the hardening is just because God is the Potter and is acting in accordance with His sovereign purposes, not arbitrary cruelty.
+
+---
+
+## SYMBOLIC THREADS
+
+### The Offer of Peace Before Judgment — The Gospel Pattern
+
+Israel's offer of peaceful passage to Sihon (vv.26-29) mirrors the structure of the gospel: God sends words of peace before judgment falls. Rejection of the terms of peace makes the subsequent judgment righteous.
+
+- **Deuteronomy 20:10** — the later law codifies this pattern: always proclaim peace first
+- **Luke 14:32** — Jesus uses the exact military language (ambassadors, conditions of peace) in His parable
+- **2 Corinthians 5:20** — "we are ambassadors for Christ... be ye reconciled to God" — the gospel as words of peace before the day of judgment
+- **Revelation 3:20** — "Behold, I stand at the door and knock" — God's persistent offer before the door closes
+
+---
+
+### National Boundaries as Divine Assignment
+
+The triple refrain — "I have given mount Seir to Esau," "I have given Ar to Lot," "I have given Ammon to Lot" — establishes territorial assignment as God's sovereign act, not historical accident.
+
+- **Deuteronomy 32:8** — God divided nations according to the number of Israel
+- **Acts 17:26** — God "determined the times before appointed, and the bounds of their habitation"
+- **Genesis 10** — The Table of Nations establishes that all national geography flows from God's ordering after the flood
+- **Isaiah 10:5-15** — Assyria is God's instrument against Israel — even conquest is within God's governance
+
+---
+
+### The Consuming of a Generation — God's Oath Always Fulfilled
+
+The thirty-eight years counted to the exact day until the last warrior of the condemned generation died (vv.14-15) establishes that God's sworn judgments are as certain as His promises.
+
+- **Numbers 14:29-33** — the original oath: all those twenty and upward who rebelled
+- **Psalm 95:10-11** — "Forty years long was I grieved with this generation... I sware in my wrath, They shall not enter into my rest"
+- **Hebrews 3:17-19** — cited as permanent warning for the church
+- **1 Corinthians 10:5-11** — Paul applies all the wilderness judgments as direct warnings: "these things happened to them for examples"
+
+---
