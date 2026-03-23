@@ -1,3 +1,13 @@
+---
+tags: [research-map, bible-connection, DePew-methodology, prophecy-research, vault-reference, 2026, scripture-interprets-scripture]
+aliases: [Research Bible Map, Bible Connection Map, DePew Research Map]
+related: "[[NEWS_PROPHECY_MAP]], [[PROPHECY_FULFILLMENT_INDEX]], [[COVENANT_INDEX]], [[TYPOLOGY_REGISTER]], [[FINAL_Distribution_Document]], [[The Complete Biblical Research Collection 2026]], [[_VAULT_HOME]], [[!!MASTER_INDEX]]"
+type: research-map
+author: Stanley Thomas DePew
+compiled: 2026-03
+last-updated: 2026-03-23
+---
+
 # RESEARCH → BIBLE CONNECTION MAP
 ## Every Research Finding Mapped to Its Scriptural Anchor
 
