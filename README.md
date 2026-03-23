@@ -68,24 +68,24 @@ Every chapter of the Bible has its own file with a consistent 9-part structure:
 
 | File | What It Does |
 |------|--------------|
-| `COVENANT_INDEX` | The 7 biblical covenants — the theological backbone |
-| `TYPOLOGY_REGISTER` | 40 type→antitype pairs showing how the Old points to the New |
-| `PROPHECY_FULFILLMENT_INDEX` | 60 prophecies with fulfillment status |
-| `CHIASM_INDEX` | Literary structures that reveal emphasis |
-| `SYMBOL_DICTIONARY` | 45 biblical symbols with all occurrences |
-| `HUB_CHAPTERS_INDEX` | Most-connected chapters — Scripture's own emphasis points |
-| `MASTER_CROSS_REFERENCE_INDEX` | The full chapter-to-chapter network |
-| `PEOPLE_INDEX` | Major figures and their typological roles |
-| `KEYWORD_LOOKUP_TABLE` | Topic → chapter lookup |
-| `TAG_THEME_ANALYSIS` | Tag and theme frequency analysis |
-| `NEWS_PROPHECY_MAP` | Current headlines mapped to Scripture references |
-| `PROPHETIC_SERIES_MAP` | Extended prophetic commentary and series map |
-| `RESEARCH_BIBLE_CONNECTION_MAP` | Research and Bible connection mapping |
-| `CONTENT_GAP_REPORT` | Quality control — chapters needing work |
-| `FINAL_Distribution_Document` | Independent structural coherence analysis and distribution guide |
-| `The Complete Biblical Research Collection 2026` | Companion note for the master research PDF (272 pages) |
-| `BIBLE_MAP_OF_CONTENT` | Clickable Map of Content — every book and chapter in one file |
-| `SEARCHABILITY_GUIDE` | How to search the vault — global search, tags, keywords, graph view |
+| [[COVENANT_INDEX]] | The 7 biblical covenants — the theological backbone |
+| [[TYPOLOGY_REGISTER]] | 40 type→antitype pairs showing how the Old points to the New |
+| [[PROPHECY_FULFILLMENT_INDEX]] | 60 prophecies with fulfillment status |
+| [[CHIASM_INDEX]] | Literary structures that reveal emphasis |
+| [[SYMBOL_DICTIONARY]] | 45 biblical symbols with all occurrences |
+| [[HUB_CHAPTERS_INDEX]] | Most-connected chapters — Scripture's own emphasis points |
+| [[MASTER_CROSS_REFERENCE_INDEX]] | The full chapter-to-chapter network |
+| [[PEOPLE_INDEX]] | Major figures and their typological roles |
+| [[KEYWORD_LOOKUP_TABLE]] | Topic → chapter lookup |
+| [[TAG_THEME_ANALYSIS]] | Tag and theme frequency analysis |
+| [[NEWS_PROPHECY_MAP]] | Current headlines mapped to Scripture references |
+| [[PROPHETIC_SERIES_MAP]] | Extended prophetic commentary and series map |
+| [[RESEARCH_BIBLE_CONNECTION_MAP]] | Research and Bible connection mapping |
+| [[CONTENT_GAP_REPORT]] | Quality control — chapters needing work |
+| [[FINAL_Distribution_Document]] | Independent structural coherence analysis and distribution guide |
+| [[The Complete Biblical Research Collection 2026]] | Companion note for the master research PDF (272 pages) |
+| [[BIBLE_MAP_OF_CONTENT]] | Clickable Map of Content — every book and chapter in one file |
+| [[SEARCHABILITY_GUIDE]] | How to search the vault — global search, tags, keywords, graph view |
 
 ### Python Tools (Optional)
 
