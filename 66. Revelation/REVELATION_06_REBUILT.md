@@ -1,3 +1,14 @@
+---
+book: "Revelation"
+chapter: 6
+testament: "New Testament"
+key_themes: "The First Six Seals, The Four Horsemen, The Martyrs Under the Altar, The Great Day of Wrath"
+tags:
+  - the-first-six-seals
+  - the-four-horsemen
+  - the-martyrs-under-the-altar
+  - the-great-day-of-wrath
+---
 # Revelation 6
 
 ---
@@ -117,7 +128,7 @@ Lamb, opened, seals, noise, thunder, four, beasts, Come, white, horse, sat, bow,
 
 
 *AI Keywords for current event matching:*
-`altar` `avenge` `balances` `barley` `beast` `beasts` `black` `blood` `bondman` `bow` `brethren` `captains` `casteth` `chief` `come` `conquer` `conquering` `cried` `crown` `day` `death` `dens` `departed` `dwell` `earth` `earthquake` `face` `fall` `fell` `fellowservants` `fifth` `fig` `figs` `first` `followed` `four` `fourth` `free` `fulfilled` `god` `great` `hair` `hand` `heaven` `held` `hell` `hid` `hide` `holy` `horse` `horsemen` `hunger` `hurt` `island` `judge` `kill` `killed` `kings` `lamb` `little` `lord` `loud` `man` `martyrs` `measure` `measures` `men` `mighty` `moon` `mountain` `mountains` `moved` `name` `noise` `oil` `opened` `pair` `pale` `part` `peace` `penny` `places` `power` `red` `rest` `rich` `robes` `rocks` `rolled` `sackcloth` `sat` `scroll` `seal` `seals` `season` `second` `shaken` `six` `sixth` `slain` `souls` `stand` `stars` `sun` `sword` `testimony` `third` `three` `throne` `thunder` `tree` `true` `untimely` `voice` `wheat` `white` `wind` `wine` `word` `wrath`
+#altar #avenge #balances #barley #beast #beasts #black #blood #bondman #bow #brethren #captains #casteth #chief #come #conquer #conquering #cried #crown #day #death #dens #departed #dwell #earth #earthquake #face #fall #fell #fellowservants #fifth #fig #figs #first #followed #four #fourth #free #fulfilled #god #great #hair #hand #heaven #held #hell #hid #hide #holy #horse #horsemen #hunger #hurt #island #judge #kill #killed #kings #lamb #little #lord #loud #man #martyrs #measure #measures #men #mighty #moon #mountain #mountains #moved #name #noise #oil #opened #pair #pale #part #peace #penny #places #power #red #rest #rich #robes #rocks #rolled #sackcloth #sat #scroll #seal #seals #season #second #shaken #six #sixth #slain #souls #stand #stars #sun #sword #testimony #third #three #throne #thunder #tree #true #untimely #voice #wheat #white #wind #wine #word #wrath
 
 
 ---

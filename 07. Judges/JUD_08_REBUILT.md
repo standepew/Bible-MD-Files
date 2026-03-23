@@ -1,3 +1,63 @@
+---
+book: "Judges"
+chapter: 8
+testament: "Old Testament"
+key_themes: "Ephraim's Complaint, Succoth's Refusal, Penuel's Rejection, Victory Over Kings, Gideon's Vengeance, Offer of Kingship, Golden Ephod, Forty Years' Peace, Abimelech's Birth, Post-Gideon Apostasy"
+tags:
+  - chide-sharply
+  - able-comparison
+  - anger-abated
+  - bread-army
+  - LORD-delivered-Zebah-Zalmunna-hand
+  - tear-flesh-thorns-wilderness-briers
+  - Penuel-spake-likewise
+  - men-Penuel-answered-men-Succoth
+  - come-peace-break-tower
+  - left-hosts-children-east
+  - Gideon-tents-east-Nobah-Jogbehah
+  - smote-host-secure
+  - Zebah-Zalmunna-discomfited-host
+  - caught-young-man-men-Succoth
+  - bread-weary-men
+  - elders-city-thorns-wilderness-briers
+  - taught-men-Succoth
+  - beat-tower-Penuel
+  - slew-men-city
+  - Zebah-Zalmunna-slew-Tabor
+  - answered-resembled-children-king
+  - brethren-sons-mother
+  - LORD-liveth-saved-alive-slay
+  - Jether-firstborn-slay
+  - youth-drew-sword-feared-youth
+  - Gideon-arose-slew-Zebah-Zalmunna
+  - ornaments-camels-necks
+  - delivered-hand-Midian
+  - Gideon-rule-son-rule
+  - LORD-rule
+  - request-earrings-prey
+  - golden-earrings-Ishmaelites
+  - willingly-give
+  - spread-garment-cast-earrings-prey
+  - chains-camels-necks
+  - Gideon-ephod-city-Ophrah
+  - Israel-whoring-ephod
+  - snare-Gideon-house
+  - Midian-subdued-children-Israel
+  - Jerubbaal-son-Joash-dwelt-house
+  - many-wives
+  - concubine-Shechem-bare-son-Abimelech
+  - Baal-berith-god
+  - ephraim
+  - succoth
+  - penuel
+  - victory-over-kings
+  - gideon
+  - offer-of-kingship
+  - golden-ephod
+  - forty-years
+  - abimelech
+  - postgideon-apostasy
+---
 # Judges 8
 
 ---
@@ -109,7 +169,7 @@ Ephraim's men complain sharply that Gideon didn't call them to fight Midianites.
 
 
 *AI Keywords for current event matching:*
-`abated` `abi-ezer` `abi-ezrites` `abimelech` `able` `age` `alive` `anger` `answered` `apostasy` `army` `arose` `baal-berith` `baalim` `bare` `battle` `beat` `begotten` `behold` `body` `bread` `break` `brethren` `briers` `buried` `called` `camels` `cast` `caught` `chains` `chide` `children` `city` `collars` `come` `comparison` `complaint` `concubine` `crossing` `days` `dead` `death` `delivered` `described` `destruction` `died` `discomfited` `divine` `drew` `dwelt` `earrings` `east` `elders` `enemies` `enemy` `enquired` `ephod` `ephraim` `ephraims` `faint` `fall` `family` `father` `feared` `fifteen` `fight` `final` `firstborn` `fled` `flesh` `forty` `garment` `gideon` `gideons` `give` `god` `gold` `golden` `good` `goodness` `grapes` `hand` `hands` `heads` `host` `hosts` `house` `hundred` `idolatry` `ishmaelites` `israel` `jerubbaal` `jether` `joash` `jogbehah` `jordan` `karkor` `kindness` `king` `kings` `kingship` `left` `lifted` `likewise` `liveth` `loaves` `lord` `man` `many` `men` `midian` `midianites` `mother` `necks` `nobah` `offered` `old` `ophrah` `oreb` `ornaments` `passed` `peace` `penuel` `penuels` `people` `period` `posthumous` `prey` `princes` `punishment` `purple` `pursued` `pursuing` `quietness` `raiment` `refusal` `rejection` `remembered` `request` `resembled` `return` `returned` `rise` `rule` `saved` `saying` `secure` `sepulchre` `served` `seven` `seventeen` `sharply` `shechem` `shekels` `side` `slay` `slew` `smote` `snare` `son` `sons` `spake` `spread` `strength` `subdued` `succoth` `succoths` `sun` `sword` `tabor` `taught` `tear` `ten` `tents` `thorns` `thousand` `three` `threescore` `took` `tower` `turned` `twenty` `upbraid` `victory` `vintage` `weary` `weight` `whoring` `wilderness` `willingly` `wives` `years` `young` `youth` `zalmunna` `zebah` `zeeb`
+#abated #abi-ezer #abi-ezrites #abimelech #able #age #alive #anger #answered #apostasy #army #arose #baal-berith #baalim #bare #battle #beat #begotten #behold #body #bread #break #brethren #briers #buried #called #camels #cast #caught #chains #chide #children #city #collars #come #comparison #complaint #concubine #crossing #days #dead #death #delivered #described #destruction #died #discomfited #divine #drew #dwelt #earrings #east #elders #enemies #enemy #enquired #ephod #ephraim #ephraims #faint #fall #family #father #feared #fifteen #fight #final #firstborn #fled #flesh #forty #garment #gideon #gideons #give #god #gold #golden #good #goodness #grapes #hand #hands #heads #host #hosts #house #hundred #idolatry #ishmaelites #israel #jerubbaal #jether #joash #jogbehah #jordan #karkor #kindness #king #kings #kingship #left #lifted #likewise #liveth #loaves #lord #man #many #men #midian #midianites #mother #necks #nobah #offered #old #ophrah #oreb #ornaments #passed #peace #penuel #penuels #people #period #posthumous #prey #princes #punishment #purple #pursued #pursuing #quietness #raiment #refusal #rejection #remembered #request #resembled #return #returned #rise #rule #saved #saying #secure #sepulchre #served #seven #seventeen #sharply #shechem #shekels #side #slay #slew #smote #snare #son #sons #spake #spread #strength #subdued #succoth #succoths #sun #sword #tabor #taught #tear #ten #tents #thorns #thousand #three #threescore #took #tower #turned #twenty #upbraid #victory #vintage #weary #weight #whoring #wilderness #willingly #wives #years #young #youth #zalmunna #zebah #zeeb
 
 
 ---

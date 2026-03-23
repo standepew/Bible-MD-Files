@@ -1,3 +1,13 @@
+---
+book: "Lamentations"
+chapter: 2
+testament: "Old Testament"
+key_themes: "Christ's Anger, Zion's Destruction, Divine Wrath, Christ's Lament"
+tags:
+  - christ
+  - zion
+  - divine-wrath
+---
 # Lamentations 2
 
 ---
@@ -105,7 +115,7 @@ LORD, covered, daughter, Zion, cloud, anger, cast, heaven, earth, beauty, Israel
 
 
 *AI Keywords for current event matching:*
-`altar` `anger` `bent` `bow` `bowels` `burned` `cast` `christs` `cloud` `covered` `cried` `day` `destroyed` `destruction` `divine` `enemy` `eyes` `fail` `fierce` `fire` `flaming` `fury` `habitations` `heart` `holds` `indignation` `killed` `kingdom` `lament` `liver` `lord` `pity` `polluted` `poured` `slain` `strong` `swallowed` `tears` `troubled` `wrath` `zions`
+#altar #anger #bent #bow #bowels #burned #cast #christs #cloud #covered #cried #day #destroyed #destruction #divine #enemy #eyes #fail #fierce #fire #flaming #fury #habitations #heart #holds #indignation #killed #kingdom #lament #liver #lord #pity #polluted #poured #slain #strong #swallowed #tears #troubled #wrath #zions
 
 
 ---

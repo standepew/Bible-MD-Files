@@ -1,3 +1,13 @@
+---
+book: "Ezekiel"
+chapter: 39
+testament: "Old Testament"
+key_themes: "Christ's Victory, Gog's Defeat, Divine Restoration, Christ's Spirit"
+tags:
+  - christ
+  - gog
+  - divine-restoration
+---
 # Ezekiel 39
 
 ---
@@ -129,7 +139,7 @@ Son, man, prophesy, Gog, Lord, GOD, Gog, chief, prince, Meshech, Tubal, turn, si
 
 
 *AI Keywords for current event matching:*
-`back` `birds` `bow` `burn` `bury` `christs` `cleanse` `defeat` `divine` `face` `fall` `field` `fire` `gog` `gogs` `hide` `holy` `know` `land` `lord` `magog` `mountains` `name` `nations` `part` `poured` `prophesy` `ravenous` `restoration` `sanctified` `sixth` `smite` `spirit` `turn` `victory` `weapons`
+#back #birds #bow #burn #bury #christs #cleanse #defeat #divine #face #fall #field #fire #gog #gogs #hide #holy #know #land #lord #magog #mountains #name #nations #part #poured #prophesy #ravenous #restoration #sanctified #sixth #smite #spirit #turn #victory #weapons
 
 
 ---

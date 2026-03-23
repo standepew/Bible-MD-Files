@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 83
+testament: "Old Testament"
+key_themes: "Enemy Confederacy, Divine Vengeance, Historical Victory, God's Supremacy"
+tags:
+  - enemy-confederacy
+  - divine-vengeance
+  - historical-victory
+  - god
+---
 # Psalm 83
 
 ---
@@ -141,7 +152,7 @@ Song, Psalm, Asaph, Keep, silence, GOD, hold, peace, still, GOD, lo, enemies, tu
 
 
 *AI Keywords for current event matching:*
-`asaph` `ashamed` `brook` `confederacy` `confounded` `consulted` `counsel` `crafty` `divine` `dung` `earth` `endor` `enemies` `enemy` `faces` `fill` `forever` `god` `gods` `hate` `head` `hidden` `high` `historical` `hold` `jabin` `jehovah` `keep` `kison` `know` `lifted` `lord` `make` `men` `midianites` `name` `nobles` `ones` `oreb` `peace` `people` `perish` `perished` `princes` `psalm` `seek` `shame` `silence` `sisera` `song` `still` `stubble` `supremacy` `taken` `troubled` `tumult` `vengeance` `victory` `wheel` `wind` `zalmunna` `zebah` `zeeb`
+#asaph #ashamed #brook #confederacy #confounded #consulted #counsel #crafty #divine #dung #earth #endor #enemies #enemy #faces #fill #forever #god #gods #hate #head #hidden #high #historical #hold #jabin #jehovah #keep #kison #know #lifted #lord #make #men #midianites #name #nobles #ones #oreb #peace #people #perish #perished #princes #psalm #seek #shame #silence #sisera #song #still #stubble #supremacy #taken #troubled #tumult #vengeance #victory #wheel #wind #zalmunna #zebah #zeeb
 
 
 ---

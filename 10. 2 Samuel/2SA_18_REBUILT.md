@@ -1,3 +1,17 @@
+---
+book: "2 Samuel"
+chapter: 18
+testament: "Old Testament"
+key_themes: "David's Military Organization, Battle of Ephraim Wood, Absalom's Death, David's Grief, Messengers' Reports"
+tags:
+  - falsehood-life-matter-king-set
+  - run-Ahimaaz-plain-overran-Cushi
+  - king-aside-stand-aside-still
+  - david
+  - battle-of-ephraim-wood
+  - absalom
+  - messengers
+---
 # 2 Samuel 18
 
 ---
@@ -91,7 +105,7 @@ David numbered people, set captains of thousands, hundreds. David sent third par
 
 
 *AI Keywords for current event matching:*
-`abishai` `absalom` `absaloms` `aftermath` `ahimaaz` `alone` `armour` `aside` `avenged` `battle` `bear` `best` `beware` `boughs` `bowed` `brother` `captains` `care` `chamber` `charge` `charged` `city` `commanded` `country` `cushi` `dale` `darts` `david` `davids` `day` `dead` `death` `delivered` `devoured` `die` `died` `drew` `earth` `enemies` `ephraim` `eyes` `face` `falsehood` `field` `fled` `flee` `foremost` `forth` `gate` `gates` `gently` `girdle` `gittite` `god` `good` `great` `grief` `ground` `half` `hand` `hanged` `head` `heap` `hearing` `heart` `heaven` `hundreds` `hurt` `instructions` `israel` `ittai` `joab` `king` `knew` `life` `lifetime` `lord` `man` `matter` `men` `messengers` `military` `mouth` `moved` `mule` `name` `near` `news` `numbered` `oak` `organization` `outcome` `overran` `pace` `people` `pillar` `pit` `place` `plain` `porter` `ran` `ready` `remembrance` `reports` `rise` `roof` `rose` `run` `running` `safe` `saw` `scattered` `seen` `servant` `servants` `set` `shekels` `side` `silver` `slain` `slaughter` `slew` `smite` `son` `stand` `still` `stones` `succour` `sword` `tarry` `ten` `tents` `thick` `third` `thousand` `thousands` `tidings` `touch` `trumpet` `tumult` `twenty` `waiting` `wall` `watchman` `wept` `wood` `young` `zadok` `zeruiah`
+#abishai #absalom #absaloms #aftermath #ahimaaz #alone #armour #aside #avenged #battle #bear #best #beware #boughs #bowed #brother #captains #care #chamber #charge #charged #city #commanded #country #cushi #dale #darts #david #davids #day #dead #death #delivered #devoured #die #died #drew #earth #enemies #ephraim #eyes #face #falsehood #field #fled #flee #foremost #forth #gate #gates #gently #girdle #gittite #god #good #great #grief #ground #half #hand #hanged #head #heap #hearing #heart #heaven #hundreds #hurt #instructions #israel #ittai #joab #king #knew #life #lifetime #lord #man #matter #men #messengers #military #mouth #moved #mule #name #near #news #numbered #oak #organization #outcome #overran #pace #people #pillar #pit #place #plain #porter #ran #ready #remembrance #reports #rise #roof #rose #run #running #safe #saw #scattered #seen #servant #servants #set #shekels #side #silver #slain #slaughter #slew #smite #son #stand #still #stones #succour #sword #tarry #ten #tents #thick #third #thousand #thousands #tidings #touch #trumpet #tumult #twenty #waiting #wall #watchman #wept #wood #young #zadok #zeruiah
 
 
 ---

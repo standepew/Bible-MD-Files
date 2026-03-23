@@ -1,3 +1,13 @@
+---
+book: "Isaiah"
+chapter: 35
+testament: "Old Testament"
+key_themes: "Christ's Healing, Divine Restoration, Spiritual Joy, Christ's Highway"
+tags:
+  - christ
+  - divine-restoration
+  - spiritual-joy
+---
 # Isaiah 35
 
 ---
@@ -117,7 +127,7 @@ Wilderness, solitary, place, glad, desert, rejoice, blossom, rose, blossom, abun
 
 
 *AI Keywords for current event matching:*
-`blind` `blossom` `christs` `deaf` `desert` `divine` `dumb` `ears` `everlasting` `eyes` `flee` `fools` `gladness` `ground` `hart` `healing` `highway` `holiness` `joy` `lame` `land` `leap` `men` `obtain` `opened` `parched` `pool` `ransomed` `redeemed` `rejoice` `restoration` `return` `sighing` `sing` `singing` `sorrow` `spiritual` `springs` `thirsty` `tongue` `unstopped` `walk` `wayfaring` `wilderness` `zion`
+#blind #blossom #christs #deaf #desert #divine #dumb #ears #everlasting #eyes #flee #fools #gladness #ground #hart #healing #highway #holiness #joy #lame #land #leap #men #obtain #opened #parched #pool #ransomed #redeemed #rejoice #restoration #return #sighing #sing #singing #sorrow #spiritual #springs #thirsty #tongue #unstopped #walk #wayfaring #wilderness #zion
 
 
 ---

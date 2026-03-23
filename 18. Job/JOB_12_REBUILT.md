@@ -1,3 +1,28 @@
+---
+book: "Job"
+chapter: 12
+testament: "Old Testament"
+key_themes: "Job's Response, Divine Sovereignty, Creation's Testimony, Human Wisdom"
+tags:
+  - Job-answered-people-wisdom-die
+  - slip-feet-lamp-despised-ease
+  - ear-words-mouth-meat
+  - ancient-wisdom-length-days-understanding
+  - wisdom-strength-counsel-understanding
+  - strength-wisdom-deceived-deceiver
+  - counsellors-spoiled-judges-fools
+  - looseth-bond-kings-girdeth-girdle
+  - princes-spoiled-mighty-overthrown
+  - speech-trusty-understanding-aged
+  - contempt-princes-weaken-mighty
+  - increase-nations-destroy-enlarge-straiten
+  - heart-chief-wander-wilderness-way
+  - gropedark-light-stagger-drunken
+  - job
+  - divine-sovereignty
+  - creation
+  - human-wisdom
+---
 # Job 12
 
 ---
@@ -117,7 +142,7 @@ Job, answered, people, wisdom, die. Understanding, inferior, neighbour, mocked, 
 
 
 *AI Keywords for current event matching:*
-`abundantly` `ancient` `answered` `beasts` `bond` `break` `breath` `built` `counsel` `counsellors` `creations` `days` `deceived` `deceiver` `declare` `despised` `die` `divine` `down` `dry` `ear` `earth` `ease` `feet` `fishes` `fools` `fowls` `girdeth` `girdle` `god` `hand` `human` `inferior` `job` `jobs` `judges` `kings` `lamp` `length` `living` `looseth` `lord` `man` `mankind` `meat` `mocked` `mouth` `neighbour` `opening` `overturn` `people` `prosper` `provoke` `response` `robbers` `scorn` `secure` `send` `shut` `slip` `soul` `sovereignty` `spoiled` `strength` `teach` `testimony` `understanding` `upright` `waters` `wisdom` `withhold` `words` `wrought`
+#abundantly #ancient #answered #beasts #bond #break #breath #built #counsel #counsellors #creations #days #deceived #deceiver #declare #despised #die #divine #down #dry #ear #earth #ease #feet #fishes #fools #fowls #girdeth #girdle #god #hand #human #inferior #job #jobs #judges #kings #lamp #length #living #looseth #lord #man #mankind #meat #mocked #mouth #neighbour #opening #overturn #people #prosper #provoke #response #robbers #scorn #secure #send #shut #slip #soul #sovereignty #spoiled #strength #teach #testimony #understanding #upright #waters #wisdom #withhold #words #wrought
 
 
 ---

@@ -1,3 +1,17 @@
+---
+book: "2 Kings"
+chapter: 2
+testament: "Old Testament"
+key_themes: "Elijah's Ascension, Elisha's Succession, Double Portion Spirit, Jordan Crossing, Prophetic Authority"
+tags:
+  - tarry-Jericho-Go
+  - mount-Carmel-Samaria
+  - elijah
+  - elisha
+  - double-portion-spirit
+  - jordan-crossing
+  - prophetic-authority
+---
 # 2 Kings 2
 
 ---
@@ -89,7 +103,7 @@ LORD take Elijah heaven whirlwind; Elijah Elisha Gilgal. Elijah Elisha, Tarry, L
 
 
 *AI Keywords for current event matching:*
-`ascension` `ashamed` `ask` `bald` `bank` `barren` `bears` `beth-el` `carmel` `cast` `chariot` `children` `city` `clothes` `crossing` `cruse` `cursed` `day` `days` `death` `departure` `divided` `double` `dry` `elijah` `elijahs` `elisha` `elishas` `father` `fell` `fifty` `fire` `forty-two` `found` `gilgal` `god` `ground` `hard` `head` `healed` `healing` `heaven` `horsemen` `horses` `israel` `jericho` `jordan` `judgment` `land` `leave` `looked` `lord` `mantle` `master` `men` `mocked` `mount` `mountain` `naught` `new` `parted` `peace` `pieces` `pleasant` `portion` `prophetic` `prophets` `recognition` `rent` `request` `salt` `samaria` `saying` `see` `seek` `send` `servants` `situation` `smitten` `smote` `sons` `sought` `soul` `spirit` `spoke` `spring` `strong` `succession` `take` `taken` `tarry` `thing` `three` `turned` `two` `urged` `valley` `view` `water` `waters` `way` `whirlwind` `wood` `wrapped`
+#ascension #ashamed #ask #bald #bank #barren #bears #beth-el #carmel #cast #chariot #children #city #clothes #crossing #cruse #cursed #day #days #death #departure #divided #double #dry #elijah #elijahs #elisha #elishas #father #fell #fifty #fire #forty-two #found #gilgal #god #ground #hard #head #healed #healing #heaven #horsemen #horses #israel #jericho #jordan #judgment #land #leave #looked #lord #mantle #master #men #mocked #mount #mountain #naught #new #parted #peace #pieces #pleasant #portion #prophetic #prophets #recognition #rent #request #salt #samaria #saying #see #seek #send #servants #situation #smitten #smote #sons #sought #soul #spirit #spoke #spring #strong #succession #take #taken #tarry #thing #three #turned #two #urged #valley #view #water #waters #way #whirlwind #wood #wrapped
 
 
 ---

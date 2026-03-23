@@ -1,3 +1,13 @@
+---
+book: "Isaiah"
+chapter: 34
+testament: "Old Testament"
+key_themes: "Christ's Judgment, Divine Vengeance, Edom's Destruction, Christ's Justice"
+tags:
+  - christ
+  - divine-vengeance
+  - edom
+---
 # Isaiah 34
 
 ---
@@ -117,7 +127,7 @@ Come, near, nations, hear, hearken, people, earth, hear, therein, world, things,
 
 
 *AI Keywords for current event matching:*
-`armies` `bathed` `book` `brimstone` `burning` `christs` `commanded` `controversy` `day` `delivered` `destroyed` `destruction` `divine` `dust` `edoms` `fail` `fury` `gathered` `generation` `indignation` `judgment` `justice` `lord` `mate` `mouth` `pitch` `read` `recompences` `slaughter` `smoke` `spirit` `streams` `sword` `utterly` `vengeance` `want` `year` `zion`
+#armies #bathed #book #brimstone #burning #christs #commanded #controversy #day #delivered #destroyed #destruction #divine #dust #edoms #fail #fury #gathered #generation #indignation #judgment #justice #lord #mate #mouth #pitch #read #recompences #slaughter #smoke #spirit #streams #sword #utterly #vengeance #want #year #zion
 
 
 ---

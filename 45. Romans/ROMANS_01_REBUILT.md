@@ -1,3 +1,13 @@
+---
+book: "Romans"
+chapter: 1
+testament: "New Testament"
+key_themes: "Paul's Introduction, The Gospel of Christ, God's Wrath Against Sin"
+tags:
+  - paul
+  - the-gospel-of-christ
+  - god
+---
 # Romans 1
 
 ---
@@ -175,7 +185,7 @@ Paul, servant, Jesus, Christ, called, apostle, separated, gospel, God, promised,
 
 
 *AI Keywords for current event matching:*
-`affection` `affections` `afore` `against` `apostle` `apostleship` `ashamed` `backbiters` `barbarians` `beasts` `became` `believeth` `beloved` `birds` `blessed` `boasters` `bodies` `brethren` `burned` `called` `ceasing` `change` `changed` `christ` `clearly` `come` `comforted` `commit` `concerning` `convenient` `corruptible` `covenantbreakers` `covetousness` `creation` `creator` `creature` `creeping` `darkened` `david` `dead` `death` `debate` `debtor` `deceit` `declared` `despiteful` `dishonour` `disobedient` `envy` `error` `established` `eternal` `evil` `excuse` `faith` `father` `filled` `flesh` `foolish` `fools` `forever` `fornication` `fourfooted` `fruit` `gave` `gentiles` `gift` `glorified` `glory` `god` `godhead` `gods` `gospel` `grace` `greek` `greeks` `haters` `hearts` `heaven` `hitherto` `hold` `holiness` `holy` `ignorant` `image` `imaginations` `impart` `implacable` `introduction` `inventors` `invisible` `jesus` `jew` `journey` `judgment` `knew` `knowing` `knowledge` `known` `leaving` `let` `lie` `like` `live` `long` `lord` `lust` `lusts` `made` `maliciousness` `malignity` `man` `manifest` `meet` `men` `mention` `mind` `murder` `mutual` `nations` `natural` `nature` `obedience` `oftentimes` `parents` `paul` `pauls` `peace` `pleasure` `power` `prayers` `preach` `professing` `promised` `prophets` `prosperous` `proud` `purposed` `ready` `received` `receiving` `recompence` `reprobate` `request` `resurrection` `retain` `revealed` `righteousness` `rome` `saints` `salvation` `scriptures` `see` `seed` `seen` `separated` `servant` `serve` `served` `shewed` `sin` `son` `spirit` `spiritual` `spoken` `thank` `thankful` `things` `truth` `uncleanness` `uncorruptible` `understanding` `understood` `ungodliness` `unmerciful` `unrighteousness` `unseemly` `unwise` `use` `vain` `vile` `whisperers` `wickedness` `wise` `without` `witness` `woman` `women` `working` `world` `worshipped` `worthy` `wrath` `written`
+#affection #affections #afore #against #apostle #apostleship #ashamed #backbiters #barbarians #beasts #became #believeth #beloved #birds #blessed #boasters #bodies #brethren #burned #called #ceasing #change #changed #christ #clearly #come #comforted #commit #concerning #convenient #corruptible #covenantbreakers #covetousness #creation #creator #creature #creeping #darkened #david #dead #death #debate #debtor #deceit #declared #despiteful #dishonour #disobedient #envy #error #established #eternal #evil #excuse #faith #father #filled #flesh #foolish #fools #forever #fornication #fourfooted #fruit #gave #gentiles #gift #glorified #glory #god #godhead #gods #gospel #grace #greek #greeks #haters #hearts #heaven #hitherto #hold #holiness #holy #ignorant #image #imaginations #impart #implacable #introduction #inventors #invisible #jesus #jew #journey #judgment #knew #knowing #knowledge #known #leaving #let #lie #like #live #long #lord #lust #lusts #made #maliciousness #malignity #man #manifest #meet #men #mention #mind #murder #mutual #nations #natural #nature #obedience #oftentimes #parents #paul #pauls #peace #pleasure #power #prayers #preach #professing #promised #prophets #prosperous #proud #purposed #ready #received #receiving #recompence #reprobate #request #resurrection #retain #revealed #righteousness #rome #saints #salvation #scriptures #see #seed #seen #separated #servant #serve #served #shewed #sin #son #spirit #spiritual #spoken #thank #thankful #things #truth #uncleanness #uncorruptible #understanding #understood #ungodliness #unmerciful #unrighteousness #unseemly #unwise #use #vain #vile #whisperers #wickedness #wise #without #witness #woman #women #working #world #worshipped #worthy #wrath #written
 
 
 ---

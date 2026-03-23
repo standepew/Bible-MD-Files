@@ -1,3 +1,15 @@
+---
+book: "1 Chronicles"
+chapter: 26
+testament: "Old Testament"
+key_themes: "Temple Porters, Levitical Organization, Treasures Management, Military Leadership"
+tags:
+  - Amramites-Izharites-Hebronites-Uzzielites
+  - temple-porters
+  - levitical-organization
+  - treasures-management
+  - military-leadership
+---
 # 1 Chronicles 26
 
 ---
@@ -109,7 +121,7 @@ Divisions, porters, Korhites, Meshelemiah, son, Kore, sons, Asaph. Sons, Meshele
 
 
 *AI Keywords for current event matching:*
-`able` `affairs` `ahijah` `ammiel` `amramites` `asaph` `assignments` `asuppim` `blessed` `born` `brethren` `business` `captains` `cast` `causeway` `chenaniah` `chief` `children` `counsel` `david` `day` `dedicated` `divisions` `eastward` `eighth` `eightteen` `elam` `eliezer` `elihu` `elioenai` `elzabad` `every` `family` `father` `fathers` `fifth` `firstborn` `fortieth` `found` `four` `fourth` `gadites` `gate` `generations` `gershom` `gershonite` `gilead` `god` `going` `great` `half` `hashabiah` `hebronites` `hilkiah` `hosah` `host` `house` `hundred` `hundreds` `israel` `issachar` `izharites` `jathniel` `jazer` `jediael` `jehieli` `jehohanan` `jehozabad` `jerijah` `jeshaiah` `joah` `joel` `joram` `jordan` `judges` `king` `kore` `korhites` `laadan` `leadership` `levites` `lord` `lot` `lots` `management` `manasseh` `matter` `men` `merari` `meshelemiah` `mighty` `military` `minister` `moses` `nethaneel` `northward` `obed` `obed-edom` `officers` `othni` `outward` `parbar` `pertaining` `peulthai` `porters` `rehabiah` `reign` `repheal` `reubenites` `ruled` `ruler` `rulers` `sacar` `scholar` `second` `semachiah` `service` `seven` `seventh` `shallecheth` `shebuel` `shelemiah` `shelomith` `shemaiah` `shuppim` `side` `simri` `six` `sixth` `small` `son` `sons` `sought` `southward` `strength` `strong` `teacher` `tebaliah` `temple` `things` `third` `thirteen` `thousand` `thousands` `threescore` `treasures` `tribe` `two` `uzzielites` `valour` `ward` `wards` `westward` `wise` `year` `zebadiah` `zechariah` `zetham` `zichri`
+#able #affairs #ahijah #ammiel #amramites #asaph #assignments #asuppim #blessed #born #brethren #business #captains #cast #causeway #chenaniah #chief #children #counsel #david #day #dedicated #divisions #eastward #eighth #eightteen #elam #eliezer #elihu #elioenai #elzabad #every #family #father #fathers #fifth #firstborn #fortieth #found #four #fourth #gadites #gate #generations #gershom #gershonite #gilead #god #going #great #half #hashabiah #hebronites #hilkiah #hosah #host #house #hundred #hundreds #israel #issachar #izharites #jathniel #jazer #jediael #jehieli #jehohanan #jehozabad #jerijah #jeshaiah #joah #joel #joram #jordan #judges #king #kore #korhites #laadan #leadership #levites #lord #lot #lots #management #manasseh #matter #men #merari #meshelemiah #mighty #military #minister #moses #nethaneel #northward #obed #obed-edom #officers #othni #outward #parbar #pertaining #peulthai #porters #rehabiah #reign #repheal #reubenites #ruled #ruler #rulers #sacar #scholar #second #semachiah #service #seven #seventh #shallecheth #shebuel #shelemiah #shelomith #shemaiah #shuppim #side #simri #six #sixth #small #son #sons #sought #southward #strength #strong #teacher #tebaliah #temple #things #third #thirteen #thousand #thousands #threescore #treasures #tribe #two #uzzielites #valour #ward #wards #westward #wise #year #zebadiah #zechariah #zetham #zichri
 
 
 ---

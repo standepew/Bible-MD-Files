@@ -1,3 +1,14 @@
+---
+book: "James"
+chapter: 3
+testament: "New Testament"
+key_themes: "Taming the Tongue, Two Kinds of Wisdom, Earthly vs. Heavenly Wisdom, The Fruit of Righteousness"
+tags:
+  - taming-the-tongue
+  - two-kinds-of-wisdom
+  - earthly-vs-heavenly-wisdom
+  - the-fruit-of-righteousness
+---
 # James 3
 
 ---
@@ -105,7 +116,7 @@ Brethren, masters, knowing, receive, greater, condemnation, offend, word, perfec
 
 
 *AI Keywords for current event matching:*
-`able` `above` `bear` `beasts` `berries` `birds` `bits` `bitter` `bless` `blessing` `boasteth` `body` `brethren` `bridle` `condemnation` `confusion` `conversation` `course` `curse` `cursing` `deadly` `defileth` `descend` `devilish` `driven` `earthly` `endued` `envying` `evil` `father` `fierce` `fig` `figs` `fire` `fountain` `fresh` `fruit` `fruits` `gentle` `glory` `god` `good` `governor` `great` `greater` `hearts` `heavenly` `hell` `helm` `horses` `hypocrisy` `iniquity` `intreated` `kind` `kindleth` `kinds` `knowing` `knowledge` `lie` `listeth` `little` `make` `man` `mankind` `masters` `meekness` `member` `members` `men` `mercy` `mouth` `mouths` `nature` `obey` `offend` `olive` `partiality` `peace` `peaceable` `perfect` `place` `poison` `proceedeth` `pure` `receive` `righteousness` `salt` `sea` `sensual` `serpents` `set` `shew` `ships` `similitude` `small` `sown` `strife` `sweet` `tame` `tamed` `taming` `therewith` `things` `tongue` `tree` `truth` `turn` `turned` `two` `unruly` `vine` `water` `whithersoever` `whole` `winds` `wisdom` `wise` `without` `word` `work` `works` `world` `yield`
+#able #above #bear #beasts #berries #birds #bits #bitter #bless #blessing #boasteth #body #brethren #bridle #condemnation #confusion #conversation #course #curse #cursing #deadly #defileth #descend #devilish #driven #earthly #endued #envying #evil #father #fierce #fig #figs #fire #fountain #fresh #fruit #fruits #gentle #glory #god #good #governor #great #greater #hearts #heavenly #hell #helm #horses #hypocrisy #iniquity #intreated #kind #kindleth #kinds #knowing #knowledge #lie #listeth #little #make #man #mankind #masters #meekness #member #members #men #mercy #mouth #mouths #nature #obey #offend #olive #partiality #peace #peaceable #perfect #place #poison #proceedeth #pure #receive #righteousness #salt #sea #sensual #serpents #set #shew #ships #similitude #small #sown #strife #sweet #tame #tamed #taming #therewith #things #tongue #tree #truth #turn #turned #two #unruly #vine #water #whithersoever #whole #winds #wisdom #wise #without #word #work #works #world #yield
 
 
 ---

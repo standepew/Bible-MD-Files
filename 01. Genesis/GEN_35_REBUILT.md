@@ -1,3 +1,75 @@
+---
+book: "Genesis"
+chapter: 35
+testament: "Old Testament"
+key_themes: "God Commands the Return to Bethel — "Arise, Go Up", The Household Purging — Strange Gods and Earrings Buried Under the Oak at Shechem, The Terror of God Upon the Surrounding Cities — Covenant Protection After the Shechem Massacre, Deborah Dies — The Oak of Weeping, God Appears Again at Bethel — El Shaddai Confirms the Name Israel, The Covenant Promises Formally Reaffirmed — Be Fruitful and Multiply, Nation and Company of Nations, Kings from His Loins, The Land, Jacob Sets the Pillar at Bethel — The First Drink Offering in Scripture, Rachel Travails in Hard Labor Near Bethlehem — The Midwife's "Fear Not", Rachel Names Him Benoni — Jacob Names Him Benjamin, Rachel Dies and Is Buried at Ephrath/Bethlehem, The Pillar Over Rachel's Grave, Reuben Defiles Bilhah — Israel Heard It, The Twelve Sons Listed Complete — the Nation in Seed Form, Jacob Comes to Isaac at Hebron, Isaac Dies at 180 — Gathered to His People, Esau and Jacob Bury Their Father Together"
+tags:
+  - God-commands-return-to-Bethel
+  - arise-go-up
+  - household-purging-strange-gods
+  - teraphim-Rachel-stolen
+  - earrings-associated-with-idolatry
+  - buried-under-oak-Shechem
+  - 2-Kings-23-Josiah-reform
+  - terror-of-God-upon-cities
+  - Deuteronomy-2-25
+  - Joshua-2-9-Rahab
+  - covenant-protection-after-Shechem-massacre
+  - God-appears-Bethel-again
+  - name-confirmed-Israel
+  - El-Shaddai
+  - Exodus-6-3-patriarchal-name
+  - Revelation-1-8-Almighty
+  - be-fruitful-multiply
+  - Genesis-1-28-creation-mandate
+  - Genesis-9-1-Noah
+  - Genesis-17-6-Abraham
+  - covenant-mandate-from-creation
+  - Jacob-sets-pillar-Bethel
+  - first-drink-offering-in-Scripture
+  - Numbers-15-5-7
+  - Rachel-travails-hard-labor
+  - midwife-fear-not
+  - Benoni-son-of-my-sorrow
+  - Benjamin-son-of-right-hand
+  - Psalm-110-1-right-hand
+  - Acts-2-33
+  - Genesis-30-24-Rachel-prophecy
+  - pillar-on-Rachels-grave
+  - Reuben-Bilhah-defiles-fathers-bed
+  - twelve-sons-listed-complete
+  - twelve-governmental-perfection
+  - Jacob-comes-Isaac-Hebron-Mamre
+  - Isaac-dies-180
+  - gathered-to-his-people
+  - Esau-and-Jacob-bury-Isaac
+  - Ishmael-Isaac-buried-Abraham-parallel
+  - El-beth-el
+  - Bethel-bookend
+  - Genesis-28-pillar-vow-departure
+  - Genesis-35-pillar-vow-fulfilled
+  - covenant-renewal-prerequisite-purging
+  - god-commands-the-return-to-bethel
+  - go-up
+  - the-household-purging
+  - the-terror-of-god-upon-the
+  - deborah-dies
+  - god-appears-again-at-bethel
+  - the-covenant-promises-formally-reaffirmed
+  - nation-and-company-of-nations
+  - kings-from-his-loins
+  - the-land
+  - jacob-sets-the-pillar-at-bethel
+  - rachel-travails-in-hard-labor-near
+  - rachel-names-him-benoni
+  - rachel-dies-and-is-buried-at
+  - the-pillar-over-rachel
+  - reuben-defiles-bilhah
+  - the-twelve-sons-listed-complete
+  - jacob-comes-to-isaac-at-hebron
+  - isaac-dies-at-180
+  - esau-and-jacob-bury-their-father
+---
 # Genesis 35
 
 ---
@@ -155,7 +227,7 @@ Jacob came to his father Isaac at Mamre/Hebron. Isaac died at 180 years, old and
 
 For AI matching to topics and current events:
 
-`God commands return to Bethel arise go up` `household purging strange gods teraphim earrings` `Genesis 31:19 Rachel stolen teraphim` `Genesis 31:32 Jacob unknowing curse` `earrings and idolatry Exodus 32:2-3 golden calf` `buried under oak Shechem` `Joshua 24:14-23 same command same location` `1 Samuel 7:3-4 Samuel purging pattern` `2 Kings 23 Josiah reform` `Acts 19:18-19 Ephesian book burning` `be clean change garments preparation` `Exodus 19:10 wash clothes Sinai preparation` `terror of God upon cities` `Exodus 23:27 fear before thee` `Deuteronomy 2:25 dread upon nations` `Joshua 2:9 Rahab your terror fallen on us` `Joshua 5:1 hearts melted` `covenant protection follows purging` `Deborah Rebekah nurse dies Allon-bachuth` `oak of weeping` `God appears Bethel again` `name Israel confirmed` `double confirmation Peniel and Bethel` `El Shaddai patriarchal covenant name` `Genesis 17:1 El Shaddai Abraham` `Genesis 28:3 Isaac El Shaddai blessing` `Exodus 6:2-3 patriarchal covenant name` `Revelation 1:8 Almighty Pantokrator` `be fruitful multiply creation mandate` `Genesis 1:28 original mandate` `Genesis 9:1 Noah` `nation and company of nations` `kings from thy loins` `Matthew 1:1 king from Jacobs loins` `land promise Abraham Isaac Jacob seed` `Galatians 3:16 seed singular Christ` `Hebrews 1:2 heir of all things` `first drink offering in Scripture` `nesek drink offering` `Numbers 15:5-7 drink offering law` `Philippians 2:17 poured out drink offering` `2 Timothy 4:6 spendomai` `Rachel travails hard labor near Bethlehem` `midwife fear not` `Benoni son of my sorrow` `Benjamin son of right hand` `Psalm 110:1 right hand` `Acts 2:33 exalted right hand of God` `Genesis 30:24 Rachel prophecy another son` `Jeremiah 31:15 Rachel weeping children` `Matthew 2:17-18 slaughter of innocents Bethlehem` `Isaiah 53:4 borne our griefs` `pillar over Rachels grave` `Reuben Bilhah defiles fathers bed` `Israel heard it` `2 Samuel 16:21 Absalom concubines power claim` `1 Kings 2:22 Adonijah Abishag throne` `Genesis 49:3-4 Reuben unstable as water` `1 Chronicles 5:1-2 birthright to Joseph` `twelve sons listed complete` `twelve governmental perfection` `Revelation 21:12-14 twelve gates tribes twelve foundations apostles` `Isaac dies 180 gathered to his people` `Matthew 22:31-32 God of living not dead` `Esau and Jacob bury Isaac together` `Genesis 25:9 Isaac Ishmael bury Abraham` `firstborn pattern Cain Ishmael Esau Reuben` `Colossians 1:15 firstborn of every creature` `Romans 8:29 firstborn among brethren` `El-beth-el God of Bethel` `Genesis 28:21 vow fulfilled` `Bethel bookend departure and return` `pillar Genesis 28 and Genesis 35`
+#God-commands-return-to-Bethel-arise-go-up #household-purging-strange-gods-teraphim-earrings #Genesis-3119-Rachel-stolen-teraphim #Genesis-3132-Jacob-unknowing-curse #earrings-and-idolatry-Exodus-322-3-golden-calf #buried-under-oak-Shechem #Joshua-2414-23-same-command-same-location #1-Samuel-73-4-Samuel-purging-pattern #2-Kings-23-Josiah-reform #Acts-1918-19-Ephesian-book-burning #be-clean-change-garments-preparation #Exodus-1910-wash-clothes-Sinai-preparation #terror-of-God-upon-cities #Exodus-2327-fear-before-thee #Deuteronomy-225-dread-upon-nations #Joshua-29-Rahab-your-terror-fallen-on-us #Joshua-51-hearts-melted #covenant-protection-follows-purging #Deborah-Rebekah-nurse-dies-Allon-bachuth #oak-of-weeping #God-appears-Bethel-again #name-Israel-confirmed #double-confirmation-Peniel-and-Bethel #El-Shaddai-patriarchal-covenant-name #Genesis-171-El-Shaddai-Abraham #Genesis-283-Isaac-El-Shaddai-blessing #Exodus-62-3-patriarchal-covenant-name #Revelation-18-Almighty-Pantokrator #be-fruitful-multiply-creation-mandate #Genesis-128-original-mandate #Genesis-91-Noah #nation-and-company-of-nations #kings-from-thy-loins #Matthew-11-king-from-Jacobs-loins #land-promise-Abraham-Isaac-Jacob-seed #Galatians-316-seed-singular-Christ #Hebrews-12-heir-of-all-things #first-drink-offering-in-Scripture #nesek-drink-offering #Numbers-155-7-drink-offering-law #Philippians-217-poured-out-drink-offering #2-Timothy-46-spendomai #Rachel-travails-hard-labor-near-Bethlehem #midwife-fear-not #Benoni-son-of-my-sorrow #Benjamin-son-of-right-hand #Psalm-1101-right-hand #Acts-233-exalted-right-hand-of-God #Genesis-3024-Rachel-prophecy-another-son #Jeremiah-3115-Rachel-weeping-children #Matthew-217-18-slaughter-of-innocents-Bethlehem #Isaiah-534-borne-our-griefs #pillar-over-Rachels-grave #Reuben-Bilhah-defiles-fathers-bed #Israel-heard-it #2-Samuel-1621-Absalom-concubines-power-claim #1-Kings-222-Adonijah-Abishag-throne #Genesis-493-4-Reuben-unstable-as-water #1-Chronicles-51-2-birthright-to-Joseph #twelve-sons-listed-complete #twelve-governmental-perfection #Revelation-2112-14-twelve-gates-tribes-twelve-foundations-apostles #Isaac-dies-180-gathered-to-his-people #Matthew-2231-32-God-of-living-not-dead #Esau-and-Jacob-bury-Isaac-together #Genesis-259-Isaac-Ishmael-bury-Abraham #firstborn-pattern-Cain-Ishmael-Esau-Reuben #Colossians-115-firstborn-of-every-creature #Romans-829-firstborn-among-brethren #El-beth-el-God-of-Bethel #Genesis-2821-vow-fulfilled #Bethel-bookend-departure-and-return #pillar-Genesis-28-and-Genesis-35
 
 **Relevance to Current Events:**
 - The purging before renewal — applicable in church reform, personal repentance, and the consistent biblical pattern that genuine covenant renewal requires putting away what competes with God; the Acts 19 Ephesian book-burning was the New Covenant form of Jacob's oak-burial at Shechem

@@ -1,3 +1,13 @@
+---
+book: "Jeremiah"
+chapter: 42
+testament: "Old Testament"
+key_themes: "Christ's Counsel, Divine Direction, Egypt's Temptation, Christ's Warning"
+tags:
+  - christ
+  - divine-direction
+  - egypt
+---
 # Jeremiah 42
 
 ---
@@ -105,7 +115,7 @@ Captains, forces, Johanan, son, Kareah, Jezaniah, son, Hoshaiah, people, least, 
 
 
 *AI Keywords for current event matching:*
-`abide` `accepted` `answer` `astonishment` `bread` `build` `christs` `counsel` `curse` `declare` `die` `direction` `divine` `egypt` `egypts` `evil` `execration` `famine` `fury` `hunger` `land` `lord` `pestilence` `plant` `poured` `pray` `repent` `reproach` `shew` `supplication` `sword` `temptation` `trumpet` `war` `warning` `way` `you`
+#abide #accepted #answer #astonishment #bread #build #christs #counsel #curse #declare #die #direction #divine #egypt #egypts #evil #execration #famine #fury #hunger #land #lord #pestilence #plant #poured #pray #repent #reproach #shew #supplication #sword #temptation #trumpet #war #warning #way #you
 
 
 ---

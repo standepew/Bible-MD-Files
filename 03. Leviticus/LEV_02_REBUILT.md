@@ -1,3 +1,30 @@
+---
+book: "Leviticus"
+chapter: 2
+testament: "Old Testament"
+key_themes: "The Grain/Meat Offering (minchah), Fine flour with oil and frankincense — the fruit of human labor and cultivation offered to God, No leaven and no honey in any offering made by fire, "The salt of the covenant of thy God" — salt required in all offerings, The memorial portion burned; the remainder eaten by the priests in the holy place, Firstfruits offering, The grain offering as the human/agricultural complement to the animal offering"
+tags:
+  - grain-offering
+  - minchah
+  - fine-flour
+  - oil
+  - frankincense
+  - no-leaven
+  - no-honey
+  - salt-of-the-covenant
+  - memorial-portion
+  - priests-eat-remainder
+  - most-holy
+  - oven
+  - pan
+  - frying-pan
+  - firstfruits
+  - green-ears
+  - beaten-corn
+  - human-labor-offered
+  - sweet-savour
+  - Aaron-and-sons
+---
 # Leviticus 2
 
 ---
@@ -95,7 +122,7 @@ The grain offering (minchah = tribute, gift) is the non-animal offering: fine fl
 
 
 *AI Keywords for current event matching:*
-`56-8` `community` `corinthians` `corruption` `current` `events` `leaven` `leviticus` `matching` `matthew`
+#56-8 #community #corinthians #corruption #current #events #leaven #leviticus #matching #matthew
 
 
 ---
@@ -182,12 +209,12 @@ The grain offering (minchah = tribute, gift) is the non-animal offering: fine fl
 ### Oil — The Holy Spirit Woven Through the Grain Offering
 
 **The thread through Scripture (Revelation 1:20 principle — defined by Scripture):**
-- **Exodus 27:20** — "pure oil olive beaten for the light" — the oil that keeps the menorah burning
+- [[02. Exodus/EXO_27_REBUILT|Exodus 27:20]] — "pure oil olive beaten for the light" — the oil that keeps the menorah burning
 - **Leviticus 2:1, 4, 6** — oil poured on the grain offering; oil mixed into the dough
-- **1 Samuel 16:13** — "Samuel took the horn of oil, and anointed him... and the Spirit of the LORD came upon David from that day forward" — oil = Spirit anointing
-- **Isaiah 61:1** — "The Spirit of the Lord GOD is upon me; because the LORD hath anointed me" — oil as the mark of the Spirit's commissioning
-- **Zechariah 4:6** — "Not by might, nor by power, but by my spirit, saith the LORD of hosts" — context: the golden candlestick fed by oil
-- **Matthew 25:3-4** — The foolish virgins had no oil; the wise had oil — the Spirit's presence as the essential fuel
+- [[09. 1 Samuel/1_SAMUEL_16_REBUILT|1 Samuel 16:13]] — "Samuel took the horn of oil, and anointed him... and the Spirit of the LORD came upon David from that day forward" — oil = Spirit anointing
+- [[23. Isaiah/ISAIAH_61_REBUILT|Isaiah 61:1]] — "The Spirit of the Lord GOD is upon me; because the LORD hath anointed me" — oil as the mark of the Spirit's commissioning
+- [[38. Zechariah/ZECHARIAH_04_REBUILT|Zechariah 4:6]] — "Not by might, nor by power, but by my spirit, saith the LORD of hosts" — context: the golden candlestick fed by oil
+- [[40. Matthew/MATTHEW_25_REBUILT|Matthew 25:3-4]] — The foolish virgins had no oil; the wise had oil — the Spirit's presence as the essential fuel
 
 **What the Bible establishes:** Oil in the grain offering is not a flavoring agent — it is the Spirit's presence woven through the offering. Fine flour without oil = human labor without the Spirit = what God does not receive as a sweet savour. Every oil-soaked grain offering is a confession: "What I bring is only acceptable because the Spirit is in it."
 
@@ -195,11 +222,11 @@ The grain offering (minchah = tribute, gift) is the non-animal offering: fine fl
 
 ### Fine Flour — Perfection and Evenness as a Symbolic Thread
 
-- **Leviticus 2:1** — "his offering shall be of fine flour" — no coarseness, no lumps, perfectly uniform
-- **Psalm 81:16** — "He should have fed them also with the finest of the wheat" — fine flour as God's best provision
-- **John 6:35** — "I am the bread of life" — Christ as the minchah, the fine-flour offering of perfect humanity
-- **Hebrews 4:15** — "tempted in all points like as we are, yet without sin" — the sinless fine flour of Christ's humanity; no impurity, no coarseness of fallen nature
-- **Revelation 19:8** — "the fine linen, clean and white: for the fine linen is the righteousness of saints" — the fine-flour standard applied to the bride's garments at the marriage supper
+- [[03. Leviticus/LEV_02_REBUILT|Leviticus 2:1]] — "his offering shall be of fine flour" — no coarseness, no lumps, perfectly uniform
+- [[19.Psalm Part 2/PSALM_81_REBUILT|Psalm 81:16]] — "He should have fed them also with the finest of the wheat" — fine flour as God's best provision
+- [[43. John/JOHN_06_REBUILT|John 6:35]] — "I am the bread of life" — Christ as the minchah, the fine-flour offering of perfect humanity
+- [[58. Hebrews/HEBREWS_04_REBUILT|Hebrews 4:15]] — "tempted in all points like as we are, yet without sin" — the sinless fine flour of Christ's humanity; no impurity, no coarseness of fallen nature
+- [[66. Revelation/REVELATION_19_REBUILT|Revelation 19:8]] — "the fine linen, clean and white: for the fine linen is the righteousness of saints" — the fine-flour standard applied to the bride's garments at the marriage supper
 
 **What the Bible establishes:** Fine flour is the scriptural symbol of moral and spiritual perfection — no lumps, no impurity, uniform throughout. Its presence in the grain offering demands that what is brought to God reflect His standard of wholeness. Christ is the only pure fine-flour offering; believers clothed in His righteousness are the fine linen of Revelation 19.
 

@@ -204,7 +204,7 @@ chronology:
 
 For AI matching to topics and current events:
 
-`book of generations` `toledot` `Adam` `likeness of God` `image` `Seth` `appointed` `Enos` `Enosh` `mortal` `Cainan` `sorrow` `Mahalaleel` `Blessed God` `Jared` `shall come down` `Enoch` `walked with God` `halak` `translated` `was not` `God took him` `seventh from Adam` `365 years` `Methuselah` `969 years` `longest life` `when he dies it shall come` `prophecy in name` `Lamech` `Noah` `Noach` `comfort` `rest` `cursed ground` `toil` `Shem` `Ham` `Japheth` `and he died` `death reigns` `death refrain` `antediluvian` `pre-flood` `patriarchal ages` `biblical chronology` `creation timeline` `years exact` `genealogy` `gospel in names` `name meanings` `Enoch prophecy` `second coming` `ten thousands of saints` `translation` `catching away` `harpazo type` `Elijah` `longsuffering` `judgment delayed` `God patient`
+#book-of-generations #toledot #Adam #likeness-of-God #image #Seth #appointed #Enos #Enosh #mortal #Cainan #sorrow #Mahalaleel #Blessed-God #Jared #shall-come-down #Enoch #walked-with-God #halak #translated #was-not #God-took-him #seventh-from-Adam #365-years #Methuselah #969-years #longest-life #when-he-dies-it-shall-come #prophecy-in-name #Lamech #Noah #Noach #comfort #rest #cursed-ground #toil #Shem #Ham #Japheth #and-he-died #death-reigns #death-refrain #antediluvian #pre-flood #patriarchal-ages #biblical-chronology #creation-timeline #years-exact #genealogy #gospel-in-names #name-meanings #Enoch-prophecy #second-coming #ten-thousands-of-saints #translation #catching-away #harpazo-type #Elijah #longsuffering #judgment-delayed #God-patient
 
 **Relevance to Current Events:**
 - Biblical chronology vs. evolutionary timeline — Genesis 5 provides exact years from Adam to Noah; this is the Bible's own calendar; no gaps are stated or implied by the text
@@ -513,11 +513,11 @@ For AI matching to topics and current events:
 **Genesis 5:5, 8, 11, 14, 17, 20, 27, 31** — eight times; absent only at v.24
 
 **Thread through Scripture:**
-- **Romans 5:12-14** — "Death reigned from Adam to Moses" — the theological statement of which Genesis 5 is the narrative proof
-- **Romans 6:23** — "The wages of sin is death" — each "and he died" is the wage collected
-- **Hebrews 9:27** — "It is appointed unto men once to die" — the appointment is universal; Genesis 5 is its first extended demonstration
-- **1 Corinthians 15:21-22** — "For since by man came death, by man came also the resurrection of the dead" — the resurrection is the answer to the Genesis 5 refrain
-- **Revelation 20:14** — "And death and hell were cast into the lake of fire. This is the second death." — the final silencing of the "and he died" refrain; death itself dies
+- [[45. Romans/ROMANS_05_REBUILT|Romans 5:12-14]] — "Death reigned from Adam to Moses" — the theological statement of which Genesis 5 is the narrative proof
+- [[45. Romans/ROMANS_06_REBUILT|Romans 6:23]] — "The wages of sin is death" — each "and he died" is the wage collected
+- [[58. Hebrews/HEBREWS_09_REBUILT|Hebrews 9:27]] — "It is appointed unto men once to die" — the appointment is universal; Genesis 5 is its first extended demonstration
+- [[46. 1 Corinthians/1_CORINTHIANS_15_REBUILT|1 Corinthians 15:21-22]] — "For since by man came death, by man came also the resurrection of the dead" — the resurrection is the answer to the Genesis 5 refrain
+- [[66. Revelation/REVELATION_20_REBUILT|Revelation 20:14]] — "And death and hell were cast into the lake of fire. This is the second death." — the final silencing of the "and he died" refrain; death itself dies
 - *Interpretation:* The eight "and he died" statements of Genesis 5 are the longest roll call of death in Scripture until Revelation. They establish the universal dominion of death. The single exception — Enoch — is the promise. Christ's resurrection is the answer. Revelation 20:14 is the resolution. The "and he died" refrain is the problem that the entire Bible is the solution to.
 
 ---
@@ -536,14 +536,14 @@ For AI matching to topics and current events:
 
 ### Translation / Catching Away (harpazo) Type — Enoch and Elijah
 
-**Genesis 5:24** — Enoch translated before the flood  
-**2 Kings 2:11** — Elijah taken before Israel's darkest hour
+[[01. Genesis/GEN_05_REBUILT|Genesis 5:24]] — Enoch translated before the flood  
+[[12. 2 Kings/2_KINGS_02_REBUILT|2 Kings 2:11]] — Elijah taken before Israel's darkest hour
 
 **Thread through Scripture:**
 - **1 Kings 18-19** — Elijah's ministry: confronting Baal worship, calling Israel back; then translated at the moment of his successor's calling (Elisha)
-- **Malachi 4:5-6** — "Behold, I will send you Elijah the prophet before the coming of the great and dreadful day of the LORD" — Elijah's translation is connected to an expected return before judgment; John the Baptist came "in the spirit and power of Elijah" (Luke 1:17)
-- **1 Thessalonians 4:16-17** — "The dead in Christ shall rise first: Then we which are alive and remain shall be caught up (harpazo)" — the pattern of both Enoch and Elijah: living saints taken bodily into God's presence
-- **1 Corinthians 15:51-53** — "We shall not all sleep, but we shall all be changed... this mortal must put on immortality" — the translation requires a change of state, as Enoch and Elijah experienced
+- [[39. Malachi/MALACHI_04_REBUILT|Malachi 4:5-6]] — "Behold, I will send you Elijah the prophet before the coming of the great and dreadful day of the LORD" — Elijah's translation is connected to an expected return before judgment; John the Baptist came "in the spirit and power of Elijah" (Luke 1:17)
+- [[52. 1 Thessalonians/1_THESSALONIANS_04_REBUILT|1 Thessalonians 4:16-17]] — "The dead in Christ shall rise first: Then we which are alive and remain shall be caught up (harpazo)" — the pattern of both Enoch and Elijah: living saints taken bodily into God's presence
+- [[46. 1 Corinthians/1_CORINTHIANS_15_REBUILT|1 Corinthians 15:51-53]] — "We shall not all sleep, but we shall all be changed... this mortal must put on immortality" — the translation requires a change of state, as Enoch and Elijah experienced
 - *Interpretation:* The two translations establish the pattern: God can and does take His people bodily without death. Both come at times of judgment (pre-flood; pre-Assyrian conquest of Israel) — suggesting the pattern of catching away before a specific judgment event. The ultimate fulfillment in 1 Thessalonians 4 is set in the context of the Day of the Lord (1 Thessalonians 5:2). The pattern is consistent.
 
 ---
@@ -568,8 +568,8 @@ For AI matching to topics and current events:
 | Noah | 600 (flood) | 950 |
 
 - **Adam to flood:** 1,656 years (from the Genesis 5 numbers)
-- **Luke 3:36-38** — Luke traces Christ's genealogy through every name in this list to Adam — treating each as a historical person in a calculable line
-- **1 Chronicles 1:1-4** — Chronicles repeats this list as historical genealogy
+- [[42. Luke/LUKE_03_REBUILT|Luke 3:36-38]] — Luke traces Christ's genealogy through every name in this list to Adam — treating each as a historical person in a calculable line
+- [[13. 1 Chronicles/1_CHRONICLES_01_REBUILT|1 Chronicles 1:1-4]] — Chronicles repeats this list as historical genealogy
 - *Interpretation:* Genesis 5 is not symbolic poetry — it is a chronological document. The triple-formula for each entry (age at begetting + years after + total) is a precision device. It is the Bible's own calendar from creation to the flood, and by extension to Abraham (Genesis 11) and from Abraham to Christ (Matthew 1; Luke 3). Scripture provides the complete timeline from Adam to Christ, and from Christ to the present day is recorded history.
 
 ---

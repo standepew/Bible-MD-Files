@@ -1,3 +1,25 @@
+---
+book: "Job"
+chapter: 17
+testament: "Old Testament"
+key_themes: "Job's Despair, Loss of Hope, Friends' Failure, Hope in Death"
+tags:
+  - breath-corrupt-days-extinct-graves-ready
+  - mockers-provocation
+  - surety-strike-hands
+  - hid-heart-understanding-exalt
+  - flattery-friends-children-fail
+  - byword-people-tabret
+  - eye-dim-sorrow-members-shadow
+  - upright-astonished-innocent-stir-hypocrite
+  - righteous-hold-way-clean-hands-stronger
+  - return-wise-man
+  - days-past-purposes-broken-thoughts-heart
+  - change-night-day-light-short-darkness
+  - wait-grave-house-bed-darkness
+  - corruption-father-worm-mother-sister
+  - hope-bars-pit-rest-dust
+---
 # Job 17
 
 ---
@@ -117,7 +139,7 @@ Breath, corrupt, days, extinct, graves, ready. Mockers, provocation. Surety, str
 
 
 *AI Keywords for current event matching:*
-`astonished` `bars` `bed` `breath` `broken` `byword` `change` `children` `clean` `corrupt` `corruption` `darkness` `day` `days` `death` `despair` `dim` `dust` `exalt` `extinct` `eye` `fail` `failure` `father` `flattery` `friends` `grave` `graves` `hands` `heart` `hid` `hold` `hope` `house` `hypocrite` `innocent` `jobs` `light` `loss` `man` `members` `mockers` `mother` `night` `past` `people` `pit` `provocation` `purposes` `ready` `rest` `return` `righteous` `shadow` `short` `sister` `sorrow` `stir` `strike` `stronger` `surety` `tabret` `thoughts` `understanding` `upright` `wait` `way` `wise` `worm`
+#astonished #bars #bed #breath #broken #byword #change #children #clean #corrupt #corruption #darkness #day #days #death #despair #dim #dust #exalt #extinct #eye #fail #failure #father #flattery #friends #grave #graves #hands #heart #hid #hold #hope #house #hypocrite #innocent #jobs #light #loss #man #members #mockers #mother #night #past #people #pit #provocation #purposes #ready #rest #return #righteous #shadow #short #sister #sorrow #stir #strike #stronger #surety #tabret #thoughts #understanding #upright #wait #way #wise #worm
 
 
 ---

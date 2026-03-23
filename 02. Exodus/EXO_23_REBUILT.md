@@ -1,3 +1,36 @@
+---
+book: "Exodus"
+chapter: 23
+testament: "Old Testament"
+key_themes: "Justice laws — no false report, no following the multitude to do evil, help your enemy's ox, no bribery, Sabbath year — land rest for the poor, Three annual feasts commanded, The Angel before Israel — "My name is in him," Covenant blessings for obedience, "By little and little" — the pace of God's conquest, No covenant with Canaan's gods"
+tags:
+  - false-report
+  - unrighteous-witness
+  - multitude-to-do-evil
+  - enemy-ox-restored
+  - poor-in-his-cause
+  - false-matter
+  - bribery-blinds-wise
+  - stranger-not-oppressed
+  - sabbath-year-land-rest
+  - poor-eat-from-field
+  - sabbath-day-for-all
+  - three-feasts
+  - feast-of-unleavened-bread
+  - feast-of-harvest
+  - feast-of-ingathering
+  - firstfruits
+  - not-seethe-kid-in-mothers-milk
+  - Angel-before-thee
+  - my-name-is-in-him
+  - provoke-him-not
+  - I-will-be-enemy-to-enemies
+  - hornets
+  - by-little-and-little
+  - no-covenant-with-Canaanites
+  - no-serving-their-gods
+  - snare
+---
 # Exodus 23
 
 ---
@@ -111,7 +144,7 @@ The civil code concludes. Justice laws: no false witness; do not follow a crowd 
 
 
 *AI Keywords for current event matching:*
-`crowd` `current` `events` `exodus` `following` `matching` `matthew` `mentality` `mob` `romans`
+#crowd #current #events #exodus #following #matching #matthew #mentality #mob #romans
 
 
 ---

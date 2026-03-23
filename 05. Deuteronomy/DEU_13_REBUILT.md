@@ -1,3 +1,33 @@
+---
+book: "Deuteronomy"
+chapter: 13
+testament: "Old Testament"
+key_themes: "False Prophets, Testing by Signs and Wonders, Dreams and Visions, Family Enticement, City Apostasy, Children of Belial, Destroying Idolatry, No Pity in Judgment, Burning the City, Loyalty to God"
+tags:
+  - false-prophet
+  - dreamer-of-dreams
+  - sign-or-wonder
+  - other-gods
+  - test-love-LORD
+  - walk-after-LORD
+  - keep-commandments
+  - put-to-death
+  - brother-enticement
+  - son-daughter
+  - wife-of-bosom
+  - friend-as-soul
+  - no-pity
+  - stone-to-death
+  - children-of-Belial
+  - city-apostasy
+  - inquire-make-search
+  - smite-inhabitants
+  - burn-city
+  - heap-for-ever
+  - cursed-thing
+  - turn-anger
+  - show-mercy
+---
 # Deuteronomy 13
 
 ---
@@ -97,7 +127,7 @@ Moses gives three scenarios of enticement to idolatry, each requiring the death 
 
 
 *AI Keywords for current event matching:*
-`afterwards` `again` `among` `anger` `apostasy` `ask` `away` `belial` `bondage` `bosom` `brother` `brought` `built` `burn` `certain` `children` `city` `come` `commanded` `commands` `compassion` `conceal` `consent` `daughter` `death` `destroy` `destruction` `die` `diligently` `divine` `dreamer` `dreams` `edge` `egypt` `entice` `enticement` `ever` `evil` `eye` `false` `family` `fear` `fire` `first` `friend` `gather` `gods` `gone` `hand` `heap` `hear` `inhabitants` `inquire` `judgment` `kill` `lord` `love` `make` `mercy` `methods` `midst` `mother` `multiply` `pass` `people` `pity` `prophet` `prophetic` `proveth` `purpose` `put` `redeemed` `search` `secretly` `serve` `show` `sign` `signs` `smithe` `son` `soul` `spare` `spoil` `stone` `stones` `street` `surely` `sword` `thrust` `truth` `turn` `utterly` `walk` `wickedness` `wife` `withdrawn` `wonder` `you`
+#afterwards #again #among #anger #apostasy #ask #away #belial #bondage #bosom #brother #brought #built #burn #certain #children #city #come #commanded #commands #compassion #conceal #consent #daughter #death #destroy #destruction #die #diligently #divine #dreamer #dreams #edge #egypt #entice #enticement #ever #evil #eye #false #family #fear #fire #first #friend #gather #gods #gone #hand #heap #hear #inhabitants #inquire #judgment #kill #lord #love #make #mercy #methods #midst #mother #multiply #pass #people #pity #prophet #prophetic #proveth #purpose #put #redeemed #search #secretly #serve #show #sign #signs #smithe #son #soul #spare #spoil #stone #stones #street #surely #sword #thrust #truth #turn #utterly #walk #wickedness #wife #withdrawn #wonder #you
 
 
 ---

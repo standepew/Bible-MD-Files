@@ -1,3 +1,14 @@
+---
+book: "Ezekiel"
+chapter: 4
+testament: "Old Testament"
+key_themes: "Christ's Judgment, Jerusalem's Siege, Prophetic Symbolism, Divine Punishment"
+tags:
+  - christ
+  - jerusalem
+  - prophetic-symbolism
+  - divine-punishment
+---
 # Ezekiel 4
 
 ---
@@ -141,7 +152,7 @@ Son, man, take, tile, lay, pourtray, city, Jerusalem, lay, siege, build, fort, c
 
 
 *AI Keywords for current event matching:*
-`away` `barley` `beans` `bear` `bread` `cakes` `christs` `consume` `days` `defiled` `divine` `drink` `dung` `eat` `fitches` `fort` `forty` `hundred` `iniquity` `iron` `jerusalem` `jerusalems` `judgment` `left` `lentiles` `measure` `millet` `ninety` `pan` `prophetic` `punishment` `side` `siege` `staff` `symbolism` `three` `tile` `weight` `wheat`
+#away #barley #beans #bear #bread #cakes #christs #consume #days #defiled #divine #drink #dung #eat #fitches #fort #forty #hundred #iniquity #iron #jerusalem #jerusalems #judgment #left #lentiles #measure #millet #ninety #pan #prophetic #punishment #side #siege #staff #symbolism #three #tile #weight #wheat
 
 
 ---

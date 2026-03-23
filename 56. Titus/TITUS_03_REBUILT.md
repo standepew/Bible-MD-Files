@@ -1,3 +1,15 @@
+---
+book: "Titus"
+chapter: 3
+testament: "New Testament"
+key_themes: "Submission to Authorities, Christian Conduct, Salvation by Grace, Maintaining Good Works, Final Instructions"
+tags:
+  - submission-to-authorities
+  - christian-conduct
+  - salvation-by-grace
+  - maintaining-good-works
+  - final-instructions
+---
 # Titus 3
 
 ---
@@ -95,7 +107,7 @@ Put, mind, subject, principalities, powers, obey, magistrates, ready, good, work
 
 
 *AI Keywords for current event matching:*
-`abundantly` `admonition` `affirm` `amen` `apollos` `appeared` `artemas` `authorities` `avoid` `believed` `brawlers` `careful` `christ` `christian` `condemned` `conduct` `constantly` `contentions` `deceived` `determined` `diligent` `diligently` `disobedient` `divers` `envy` `eternal` `evil` `faith` `faithful` `final` `first` `foolish` `genealogies` `gentle` `ghost` `god` `good` `grace` `greet` `hateful` `hating` `heirs` `heretick` `holy` `hope` `instructions` `jesus` `journey` `justified` `kindness` `knowing` `law` `lawyer` `learn` `life` `living` `love` `lusts` `magistrates` `maintain` `maintaining` `malice` `man` `meekness` `men` `mercy` `mind` `necessary` `nicopolis` `obey` `ourselves` `pleasures` `powers` `principalities` `profitable` `put` `questions` `ready` `regeneration` `reject` `renewing` `righteousness` `salute` `salvation` `saved` `saviour` `saying` `second` `send` `serving` `shed` `shewing` `sinned` `speak` `strivings` `subject` `submission` `subverted` `tychicus` `unfruitful` `unprofitable` `uses` `vain` `wanting` `washing` `winter` `work` `works` `zenas`
+#abundantly #admonition #affirm #amen #apollos #appeared #artemas #authorities #avoid #believed #brawlers #careful #christ #christian #condemned #conduct #constantly #contentions #deceived #determined #diligent #diligently #disobedient #divers #envy #eternal #evil #faith #faithful #final #first #foolish #genealogies #gentle #ghost #god #good #grace #greet #hateful #hating #heirs #heretick #holy #hope #instructions #jesus #journey #justified #kindness #knowing #law #lawyer #learn #life #living #love #lusts #magistrates #maintain #maintaining #malice #man #meekness #men #mercy #mind #necessary #nicopolis #obey #ourselves #pleasures #powers #principalities #profitable #put #questions #ready #regeneration #reject #renewing #righteousness #salute #salvation #saved #saviour #saying #second #send #serving #shed #shewing #sinned #speak #strivings #subject #submission #subverted #tychicus #unfruitful #unprofitable #uses #vain #wanting #washing #winter #work #works #zenas
 
 
 ---

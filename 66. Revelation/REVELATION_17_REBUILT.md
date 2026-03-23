@@ -1,3 +1,15 @@
+---
+book: "Revelation"
+chapter: 17
+testament: "New Testament"
+key_themes: "The Great Whore, The Scarlet Beast, The Mystery of the Woman and Beast, The Seven Heads and Ten Horns, The Fall of Babylon"
+tags:
+  - the-great-whore
+  - the-scarlet-beast
+  - the-mystery-of-the-woman-and
+  - the-seven-heads-and-ten-horns
+  - the-fall-of-babylon
+---
 # Revelation 17
 
 ---
@@ -119,7 +131,7 @@ Seven, angels, seven, vials, talked, saying, Come, shew, judgment, great, whore,
 
 
 *AI Keywords for current event matching:*
-`abominations` `admiration` `agree` `angel` `angels` `arrayed` `babylon` `beast` `behold` `blasphemy` `blood` `book` `bottomless` `burn` `called` `carried` `carrieth` `chosen` `city` `colour` `coloured` `come` `committed` `continue` `cup` `decked` `desolate` `drunk` `drunken` `dwell` `earth` `eat` `eighth` `faithful` `fall` `fallen` `filthiness` `fire` `five` `flesh` `forehead` `fornication` `foundation` `fulfil` `fulfilled` `full` `god` `gold` `golden` `great` `hand` `harlots` `hate` `heads` `hearts` `horns` `hour` `inhabitants` `jesus` `judgment` `king` `kingdom` `kings` `lamb` `life` `lord` `lords` `made` `many` `martyrs` `marvel` `mind` `mother` `mountains` `multitudes` `mystery` `naked` `name` `names` `nations` `one` `overcome` `pearls` `peoples` `perdition` `pit` `power` `precious` `purple` `received` `reigneth` `saints` `sawest` `saying` `scarlet` `seven` `shew` `short` `sit` `sitteth` `space` `spirit` `stones` `strength` `talked` `ten` `tongues` `vials` `war` `waters` `whore` `wilderness` `wine` `wisdom` `woman` `wonder` `wondered` `words` `world` `written`
+#abominations #admiration #agree #angel #angels #arrayed #babylon #beast #behold #blasphemy #blood #book #bottomless #burn #called #carried #carrieth #chosen #city #colour #coloured #come #committed #continue #cup #decked #desolate #drunk #drunken #dwell #earth #eat #eighth #faithful #fall #fallen #filthiness #fire #five #flesh #forehead #fornication #foundation #fulfil #fulfilled #full #god #gold #golden #great #hand #harlots #hate #heads #hearts #horns #hour #inhabitants #jesus #judgment #king #kingdom #kings #lamb #life #lord #lords #made #many #martyrs #marvel #mind #mother #mountains #multitudes #mystery #naked #name #names #nations #one #overcome #pearls #peoples #perdition #pit #power #precious #purple #received #reigneth #saints #sawest #saying #scarlet #seven #shew #short #sit #sitteth #space #spirit #stones #strength #talked #ten #tongues #vials #war #waters #whore #wilderness #wine #wisdom #woman #wonder #wondered #words #world #written
 
 
 ---

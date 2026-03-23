@@ -1,3 +1,37 @@
+---
+book: "Nehemiah"
+chapter: 10
+testament: "Old Testament"
+key_themes: "Covenant Signatories, Marriage Restrictions, Sabbath Observance, Temple Support"
+tags:
+  - Seraiah-Azariah-Jeremiah
+  - Pashur-Amariah-Malchijah
+  - Hattush-Shebaniah-Malluch
+  - Harim-Meremoth-Obadiah
+  - Daniel-Ginnethon-Baruch
+  - Meshullam-Abijah-Mijamin
+  - Maaziah-Bilgai-Shemaiah-priests
+  - Micha-Rehob-Hashabiah
+  - Zaccur-Sherebiah-Shebaniah
+  - Hodijah-Bani-Beninu
+  - Bunni-Azgad-Bebai
+  - Adonijah-Bigvai-Adin
+  - Ater-Hizkijah-Azzur
+  - Hodijah-Hashum-Bezai
+  - Hariph-Anathoth-Nebai
+  - Magpiash-Meshullam-Hezir
+  - Meshezabeel-Zadok-Jaddua
+  - Pelatiah-Hanan-Anaiah
+  - Hoshea-Hananiah-Hashub
+  - Hallohesh-Pileha-Shobek
+  - Rehum-Hashabnah-Maaseiah
+  - Ahijah-Hanan-Anan
+  - Malluch-Harim-Baanah
+  - covenant-signatories
+  - marriage-restrictions
+  - sabbath-observance
+  - temple-support
+---
 # Nehemiah 10
 
 ---
@@ -177,7 +211,7 @@ Sealed, Nehemiah, Tirshatha, son, Hachaliah, Zidkijah. Seraiah, Azariah, Jeremia
 
 
 *AI Keywords for current event matching:*
-`aaron` `abijah` `adin` `adonijah` `ahijah` `altar` `amariah` `anaiah` `anan` `anathoth` `appointed` `ater` `atonement` `azaniah` `azariah` `azgad` `azzur` `baanah` `bani` `baruch` `bebai` `beninu` `bezai` `bigvai` `bilgai` `binnui` `brethren` `bunni` `burn` `burnt` `buy` `cast` `cattle` `chambers` `chief` `children` `cities` `clave` `commandments` `continual` `corn` `covenant` `curse` `daniel` `daughters` `day` `debt` `dough` `elam` `exaction` `fathers` `feasts` `firstborn` `firstfruits` `firstlings` `flocks` `forsake` `fruit` `ginnethon` `give` `god` `ground` `hachaliah` `hallohesh` `hanan` `hananiah` `harim` `hariph` `hashabiah` `hashabnah` `hashub` `hashum` `hattush` `henadad` `herds` `hezir` `hizkijah` `hodijah` `holy` `hoshea` `house` `houses` `israel` `jaddua` `jeremiah` `jeshua` `judgments` `kadmiel` `kelita` `knowledge` `land` `lands` `law` `levi` `levites` `lord` `lots` `maaseiah` `maaziah` `magpiash` `malchijah` `malluch` `marriage` `meat` `meremoth` `meshezabeel` `meshullam` `micha` `mijamin` `minister` `moab` `moons` `moses` `nebai` `nehemiah` `nethinims` `new` `nobles` `oath` `obadiah` `observance` `observe` `offering` `offerings` `oil` `ordinances` `pahath` `parosh` `part` `pashur` `pelaiah` `pelatiah` `people` `pileha` `porters` `priest` `priests` `rehob` `rehum` `rest` `restrictions` `sabbath` `sabbaths` `sanctuary` `sealed` `sell` `separated` `seraiah` `servant` `service` `set` `seventh` `shebaniah` `shekel` `shemaiah` `sherebiah` `shewbread` `shobek` `signatories` `sin` `singers` `son` `sons` `statutes` `support` `take` `temple` `things` `third` `tillage` `times` `tirshatha` `tithes` `treasure` `trees` `understanding` `vessels` `victuals` `walk` `ware` `wine` `wives` `wood` `work` `written` `year` `yearly` `zaccur` `zadok` `zatthu` `zidkijah`
+#aaron #abijah #adin #adonijah #ahijah #altar #amariah #anaiah #anan #anathoth #appointed #ater #atonement #azaniah #azariah #azgad #azzur #baanah #bani #baruch #bebai #beninu #bezai #bigvai #bilgai #binnui #brethren #bunni #burn #burnt #buy #cast #cattle #chambers #chief #children #cities #clave #commandments #continual #corn #covenant #curse #daniel #daughters #day #debt #dough #elam #exaction #fathers #feasts #firstborn #firstfruits #firstlings #flocks #forsake #fruit #ginnethon #give #god #ground #hachaliah #hallohesh #hanan #hananiah #harim #hariph #hashabiah #hashabnah #hashub #hashum #hattush #henadad #herds #hezir #hizkijah #hodijah #holy #hoshea #house #houses #israel #jaddua #jeremiah #jeshua #judgments #kadmiel #kelita #knowledge #land #lands #law #levi #levites #lord #lots #maaseiah #maaziah #magpiash #malchijah #malluch #marriage #meat #meremoth #meshezabeel #meshullam #micha #mijamin #minister #moab #moons #moses #nebai #nehemiah #nethinims #new #nobles #oath #obadiah #observance #observe #offering #offerings #oil #ordinances #pahath #parosh #part #pashur #pelaiah #pelatiah #people #pileha #porters #priest #priests #rehob #rehum #rest #restrictions #sabbath #sabbaths #sanctuary #sealed #sell #separated #seraiah #servant #service #set #seventh #shebaniah #shekel #shemaiah #sherebiah #shewbread #shobek #signatories #sin #singers #son #sons #statutes #support #take #temple #things #third #tillage #times #tirshatha #tithes #treasure #trees #understanding #vessels #victuals #walk #ware #wine #wives #wood #work #written #year #yearly #zaccur #zadok #zatthu #zidkijah
 
 
 ---

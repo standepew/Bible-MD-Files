@@ -1,3 +1,14 @@
+---
+book: "Nehemiah"
+chapter: 1
+testament: "Old Testament"
+key_themes: "Nehemiah's Burden, Jerusalem's Condition, Prayer of Intercession, Divine Covenant"
+tags:
+  - nehemiah
+  - jerusalem
+  - prayer-of-intercession
+  - divine-covenant
+---
 # Nehemiah 1
 
 ---
@@ -141,7 +152,7 @@ Words, Nehemiah, son, Hachaliah, Chisleu, twentieth, year, Shushan, palace. Hana
 
 
 *AI Keywords for current event matching:*
-`abroad` `affliction` `asked` `attentive` `beseech` `brethren` `broken` `burden` `burned` `captivity` `cast` `children` `chisleu` `chosen` `commanded` `commandments` `condition` `confess` `corruptly` `covenant` `cupbearer` `day` `days` `dealt` `desire` `divine` `ear` `escaped` `eyes` `fasted` `father` `fear` `fire` `gates` `gather` `god` `great` `hachaliah` `hanani` `hand` `hear` `heard` `heaven` `house` `intercession` `israel` `jerusalem` `jerusalems` `jews` `judah` `judgments` `keep` `keepeth` `kept` `king` `left` `lord` `love` `man` `men` `mercy` `moses` `mourned` `name` `nations` `nehemiah` `nehemiahs` `night` `observe` `open` `palace` `people` `place` `power` `prayed` `prayer` `prosper` `province` `redeemed` `remember` `remnant` `reproach` `sat` `scatter` `servant` `servants` `shushan` `sight` `sinned` `sins` `son` `statutes` `strong` `terrible` `transgress` `turn` `twentieth` `uttermost` `wall` `wept` `word` `words` `year`
+#abroad #affliction #asked #attentive #beseech #brethren #broken #burden #burned #captivity #cast #children #chisleu #chosen #commanded #commandments #condition #confess #corruptly #covenant #cupbearer #day #days #dealt #desire #divine #ear #escaped #eyes #fasted #father #fear #fire #gates #gather #god #great #hachaliah #hanani #hand #hear #heard #heaven #house #intercession #israel #jerusalem #jerusalems #jews #judah #judgments #keep #keepeth #kept #king #left #lord #love #man #men #mercy #moses #mourned #name #nations #nehemiah #nehemiahs #night #observe #open #palace #people #place #power #prayed #prayer #prosper #province #redeemed #remember #remnant #reproach #sat #scatter #servant #servants #shushan #sight #sinned #sins #son #statutes #strong #terrible #transgress #turn #twentieth #uttermost #wall #wept #word #words #year
 
 
 ---

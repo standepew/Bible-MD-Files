@@ -1,3 +1,14 @@
+---
+book: "2 Chronicles"
+chapter: 23
+testament: "Old Testament"
+key_themes: "Royal Restoration, Covenant Renewal, Temple Reformation, Divine Protection"
+tags:
+  - royal-restoration
+  - covenant-renewal
+  - temple-reformation
+  - divine-protection
+---
 # 2 Chronicles 23
 
 ---
@@ -161,7 +172,7 @@ Seventh, year, Jehoiada, strengthened, captains, hundreds, Azariah, son, Jeroham
 
 
 *AI Keywords for current event matching:*
-`adaiah` `altar` `altars` `anointed` `athaliah` `azariah` `baal` `brake` `brought` `bucklers` `burnt` `captains` `chief` `cities` `city` `clothes` `come` `commanded` `compass` `congregation` `courses` `courts` `covenant` `crown` `david` `death` `discovery` `dismissed` `divine` `doors` `elishaphat` `else` `enter` `entering` `fathers` `follower` `foundation` `gate` `gates` `gathered` `god` `governors` `hand` `hands` `heard` `high` `holy` `horse` `host` `house` `hundreds` `images` `instruments` `ishmael` `israel` `jehohanan` `jehoiada` `jeroham` `jerusalem` `judah` `justice` `king` `kingdom` `laid` `land` `law` `left` `levites` `looked` `lord` `maaseiah` `mattan` `men` `minister` `moses` `musick` `nobles` `noise` `none` `obed` `offerings` `offices` `ordained` `part` `peaceful` `people` `pieces` `pillar` `planning` `porters` `praise` `praising` `priest` `priests` `princes` `quiet` `ranges` `reformation` `reign` `rejoiced` `rejoicing` `renewal` `rent` `restoration` `right` `royal` `running` `sabbath` `save` `seventh` `shields` `side` `sing` `singers` `singing` `slain` `slay` `slew` `son` `sons` `spears` `strengthened` `sword` `taught` `temple` `testimony` `thing` `third` `throne` `treason` `trumpets` `unclean` `usurpers` `watch` `weapon` `weapons` `year` `zichri`
+#adaiah #altar #altars #anointed #athaliah #azariah #baal #brake #brought #bucklers #burnt #captains #chief #cities #city #clothes #come #commanded #compass #congregation #courses #courts #covenant #crown #david #death #discovery #dismissed #divine #doors #elishaphat #else #enter #entering #fathers #follower #foundation #gate #gates #gathered #god #governors #hand #hands #heard #high #holy #horse #host #house #hundreds #images #instruments #ishmael #israel #jehohanan #jehoiada #jeroham #jerusalem #judah #justice #king #kingdom #laid #land #law #left #levites #looked #lord #maaseiah #mattan #men #minister #moses #musick #nobles #noise #none #obed #offerings #offices #ordained #part #peaceful #people #pieces #pillar #planning #porters #praise #praising #priest #priests #princes #quiet #ranges #reformation #reign #rejoiced #rejoicing #renewal #rent #restoration #right #royal #running #sabbath #save #seventh #shields #side #sing #singers #singing #slain #slay #slew #son #sons #spears #strengthened #sword #taught #temple #testimony #thing #third #throne #treason #trumpets #unclean #usurpers #watch #weapon #weapons #year #zichri
 
 
 ---

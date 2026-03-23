@@ -1,3 +1,13 @@
+---
+book: "Isaiah"
+chapter: 40
+testament: "Old Testament"
+key_themes: "Christ's Comfort, Divine Glory, Christ's Shepherd, God's Sovereignty"
+tags:
+  - christ
+  - divine-glory
+  - god
+---
 # Isaiah 40
 
 ---
@@ -105,7 +115,7 @@ Comfort, comfort, people, saying, God, Speak, comfortably, Jerusalem, cry, warfa
 
 
 *AI Keywords for current event matching:*
-`accomplished` `arm` `bosom` `carry` `christs` `comfort` `comfortably` `divine` `everlasting` `feed` `flesh` `flock` `gather` `gently` `glory` `god` `gods` `hand` `heaven` `iniquity` `jerusalem` `lambs` `lead` `lord` `measured` `meted` `mountains` `mouth` `pardoned` `people` `renew` `revealed` `scales` `see` `shepherd` `sovereignty` `span` `speak` `spoken` `strength` `together` `wait` `warfare` `waters` `weighed` `young`
+#accomplished #arm #bosom #carry #christs #comfort #comfortably #divine #everlasting #feed #flesh #flock #gather #gently #glory #god #gods #hand #heaven #iniquity #jerusalem #lambs #lead #lord #measured #meted #mountains #mouth #pardoned #people #renew #revealed #scales #see #shepherd #sovereignty #span #speak #spoken #strength #together #wait #warfare #waters #weighed #young
 
 
 ---

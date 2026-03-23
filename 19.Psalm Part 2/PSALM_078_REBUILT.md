@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 78
+testament: "Old Testament"
+key_themes: "Historical Instruction, Israel's Rebellion, God's Patience, David's Leadership"
+tags:
+  - historical-instruction
+  - israel
+  - god
+  - david
+---
 # Psalm 78
 
 ---
@@ -129,7 +140,7 @@ Maschil, Asaph, Give, ear, people, law, incline, ears, words, mouth, open, mouth
 
 
 *AI Keywords for current event matching:*
-`accordance` `anger` `aright` `armed` `asaph` `away` `battle` `bows` `carrying` `children` `chose` `compassion` `covenant` `dark` `david` `davids` `day` `destroyed` `ear` `ears` `ephraim` `fathers` `fed` `flesh` `forgive` `generation` `give` `god` `gods` `guided` `hands` `heard` `heart` `historical` `incline` `iniquity` `instruction` `integrity` `israels` `judah` `kept` `known` `law` `leadership` `loved` `maschil` `mount` `mouth` `oft` `open` `parable` `passeth` `patience` `people` `rebellion` `rebellious` `refused` `remembered` `sayings` `servant` `set` `sheepfolds` `skilfulness` `spirit` `stedfast` `stir` `stubborn` `told` `took` `tribe` `turned` `utter` `walk` `wind` `words` `wrath` `zion`
+#accordance #anger #aright #armed #asaph #away #battle #bows #carrying #children #chose #compassion #covenant #dark #david #davids #day #destroyed #ear #ears #ephraim #fathers #fed #flesh #forgive #generation #give #god #gods #guided #hands #heard #heart #historical #incline #iniquity #instruction #integrity #israels #judah #kept #known #law #leadership #loved #maschil #mount #mouth #oft #open #parable #passeth #patience #people #rebellion #rebellious #refused #remembered #sayings #servant #set #sheepfolds #skilfulness #spirit #stedfast #stir #stubborn #told #took #tribe #turned #utter #walk #wind #words #wrath #zion
 
 
 ---

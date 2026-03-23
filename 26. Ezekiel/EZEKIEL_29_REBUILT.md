@@ -1,3 +1,13 @@
+---
+book: "Ezekiel"
+chapter: 29
+testament: "Old Testament"
+key_themes: "Christ's Judgment, Egyptian Pride, Divine Humiliation, Christ's Restoration"
+tags:
+  - christ
+  - egyptian-pride
+  - divine-humiliation
+---
 # Ezekiel 29
 
 ---
@@ -117,7 +127,7 @@ Tenth, year, tenth, month, twelfth, day, month, word, Lord, son, man, face, Phar
 
 
 *AI Keywords for current event matching:*
-`base` `beasts` `break` `bring` `bud` `captivity` `christs` `divine` `dragon` `egyptian` `end` `face` `fall` `fields` `forty` `great` `hooks` `horn` `humiliation` `jaws` `judgment` `kingdom` `made` `meat` `mine` `myself` `pharaoh` `pride` `reed` `rend` `restoration` `river` `staff` `sword` `thrown` `wilderness` `years`
+#base #beasts #break #bring #bud #captivity #christs #divine #dragon #egyptian #end #face #fall #fields #forty #great #hooks #horn #humiliation #jaws #judgment #kingdom #made #meat #mine #myself #pharaoh #pride #reed #rend #restoration #river #staff #sword #thrown #wilderness #years
 
 
 ---

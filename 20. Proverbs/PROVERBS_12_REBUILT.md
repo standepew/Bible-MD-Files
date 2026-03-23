@@ -1,3 +1,14 @@
+---
+book: "Proverbs"
+chapter: 12
+testament: "Old Testament"
+key_themes: "Wisdom vs. Folly, Righteousness vs. Wickedness, Truth vs. Deception, Diligence vs. Sloth"
+tags:
+  - wisdom-vs-folly
+  - righteousness-vs-wickedness
+  - truth-vs-deception
+  - diligence-vs-sloth
+---
 # Proverbs 12
 
 ---
@@ -129,7 +140,7 @@ Loveth, instruction, loveth, knowledge, hateth, reproof, brutish, good, man, obt
 
 
 *AI Keywords for current event matching:*
-`bear` `brutish` `counsel` `deception` `diligence` `diligent` `established` `favour` `folly` `good` `hand` `hateth` `hearkeneth` `instruction` `knowledge` `life` `lip` `loveth` `lying` `man` `moment` `moved` `obtain` `precious` `reproof` `righteous` `righteousness` `root` `rule` `sheweth` `sloth` `slothful` `speaketh` `substance` `tongue` `tribute` `truth` `way` `wickedness` `wisdom` `wise`
+#bear #brutish #counsel #deception #diligence #diligent #established #favour #folly #good #hand #hateth #hearkeneth #instruction #knowledge #life #lip #loveth #lying #man #moment #moved #obtain #precious #reproof #righteous #righteousness #root #rule #sheweth #sloth #slothful #speaketh #substance #tongue #tribute #truth #way #wickedness #wisdom #wise
 
 
 ---

@@ -1,3 +1,97 @@
+---
+book: "Joshua"
+chapter: 11
+testament: "Old Testament"
+key_themes: "Northern Coalition, Jabin King of Hazor, Divine Victory, Houghing Horses, Burning Chariots, Hazor's Destruction, Complete Conquest, Anakim Defeated, Land Rested"
+tags:
+  - Jabin-king-Hazor-heard
+  - sent-Jobab-king-Madon
+  - king-Shimron
+  - king-Achshaph
+  - kings-north-mountains
+  - plains-south-Chinneroth
+  - valley-borders-Dor-west
+  - Canaanite-east-west
+  - Amorite-Hittite-Perizzite-Jebusite-mountains
+  - Hivite-under-Hermon-land-Mizpeh
+  - went-out-hosts
+  - multitude-sand-sea-shore
+  - horses-chariots
+  - kings-met-together
+  - pitched-waters-Merom
+  - fight-Israel
+  - LORD-Joshua
+  - afraid
+  - tomorrow-deliver-slain-Israel
+  - hough-horses
+  - burn-chariots-fire
+  - Joshua-people-war
+  - waters-Merom-suddenly
+  - fell-upon
+  - LORD-delivered-hand-Israel
+  - smote-chased-great-Zidon
+  - Misrephoth-maim
+  - valley-Mizpeh-eastward
+  - smote-remaining
+  - Joshua-LORD-bade
+  - hough-horses
+  - burn-chariots-fire
+  - Joshua-turned-back
+  - took-Hazor
+  - smote-king-sword
+  - Hazor-head-kingdoms
+  - smote-souls-edge-sword
+  - destroying
+  - left-breathe
+  - burnt-Hazor-fire
+  - cities-kings
+  - Joshua-took
+  - smote-edge-sword
+  - destroyed
+  - Moses-servant-LORD-commanded
+  - cities-still-strength
+  - Israel-burned-none
+  - Hazor-burned
+  - spoil-cities-cattle
+  - children-Israel-took-prey
+  - man-smote-edge-sword
+  - destroyed-left-breathe
+  - LORD-commanded-Moses-servant
+  - Moses-commanded-Joshua
+  - Joshua-left-undone
+  - LORD-commanded-Moses
+  - Joshua-took-land
+  - hills-south-country
+  - land-Goshen
+  - valley-plain
+  - mountain-Israel
+  - valley-same
+  - mount-Halak-up-Seir
+  - Baal-gad-valley-Lebanon-mount-Hermon
+  - kings-took-smote-slew
+  - Joshua-war-long-time
+  - kings
+  - city-peace-children-Israel
+  - Hivites-inhabitants-Gibeon
+  - battle
+  - LORD-harden-hearts
+  - battle-Israel
+  - destroy-utterly
+  - favour
+  - destroy
+  - LORD-commanded-Moses
+  - Joshua-cut-Anakims-mountains
+  - Hebron-Debir-Anab
+  - mountains-Judah
+  - mountains-Israel
+  - Joshua-destroyed-cities
+  - Anakims-left-land-children-Israel
+  - Gaza-Gath-Ashdod-remained
+  - Joshua-whole-land
+  - LORD-Moses
+  - Joshua-inheritance-Israel-divisions-tribes
+  - land-rested-war
+---
 # Joshua 11
 
 ---
@@ -123,7 +217,7 @@ Jabin king of Hazor, hearing of Israel's victories, sends to Jobab of Madon, Shi
 
 
 *AI Keywords for current event matching:*
-`achshaph` `afraid` `amorite` `anab` `anakim` `anakims` `army` `ashdod` `attack` `baal-gad` `back` `bade` `battle` `borders` `breathe` `burn` `burned` `burnt` `canaanite` `cattle` `chariots` `chased` `children` `chinneroth` `cities` `city` `coalition` `command` `commanded` `complete` `completion` `conquest` `country` `cut` `debir` `defeat` `deliver` `delivered` `destroy` `destroyed` `destroying` `destruction` `disarmament` `divine` `divisions` `dor` `east` `eastward` `edge` `extended` `favour` `fell` `fight` `fire` `gath` `gaza` `gibeon` `goshen` `great` `halak` `hand` `harden` `hardening` `hazor` `hazors` `head` `heard` `hearts` `hebron` `hermon` `hills` `hittite` `hivite` `hivites` `horses` `hosts` `hough` `inhabitants` `inheritance` `israel` `jabin` `jebusite` `jobab` `joshua` `judah` `king` `kingdoms` `kings` `land` `lebanon` `left` `long` `lord` `madon` `maim` `man` `massive` `merom` `met` `military` `misrephoth` `mizpeh` `moses` `mount` `mountain` `mountains` `multitude` `none` `north` `northern` `obedience` `peace` `people` `perfect` `perizzite` `pitched` `plain` `plains` `prey` `remained` `remaining` `rested` `sand` `sea` `seir` `sent` `servant` `shimron` `shore` `slain` `slew` `smote` `souls` `south` `spoil` `still` `strength` `sudden` `suddenly` `sword` `territorial` `time` `together` `tomorrow` `took` `tribes` `turned` `undone` `utterly` `valley` `war` `warfare` `waters` `went` `west` `whole` `zidon`
+#achshaph #afraid #amorite #anab #anakim #anakims #army #ashdod #attack #baal-gad #back #bade #battle #borders #breathe #burn #burned #burnt #canaanite #cattle #chariots #chased #children #chinneroth #cities #city #coalition #command #commanded #complete #completion #conquest #country #cut #debir #defeat #deliver #delivered #destroy #destroyed #destroying #destruction #disarmament #divine #divisions #dor #east #eastward #edge #extended #favour #fell #fight #fire #gath #gaza #gibeon #goshen #great #halak #hand #harden #hardening #hazor #hazors #head #heard #hearts #hebron #hermon #hills #hittite #hivite #hivites #horses #hosts #hough #inhabitants #inheritance #israel #jabin #jebusite #jobab #joshua #judah #king #kingdoms #kings #land #lebanon #left #long #lord #madon #maim #man #massive #merom #met #military #misrephoth #mizpeh #moses #mount #mountain #mountains #multitude #none #north #northern #obedience #peace #people #perfect #perizzite #pitched #plain #plains #prey #remained #remaining #rested #sand #sea #seir #sent #servant #shimron #shore #slain #slew #smote #souls #south #spoil #still #strength #sudden #suddenly #sword #territorial #time #together #tomorrow #took #tribes #turned #undone #utterly #valley #war #warfare #waters #went #west #whole #zidon
 
 
 ---

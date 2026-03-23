@@ -1,3 +1,14 @@
+---
+book: "John"
+chapter: 10
+testament: "New Testament"
+key_themes: "The Good Shepherd, The Door of the Sheep, I and the Father Are One, Beyond Jordan"
+tags:
+  - the-good-shepherd
+  - the-door-of-the-sheep
+  - i-and-the-father-are-one
+  - beyond-jordan
+---
 # John 10
 
 ---
@@ -129,7 +140,7 @@ Verily, door, sheepfold, climbeth, thief, robber, door, shepherd, porter, openet
 
 
 *AI Keywords for current event matching:*
-`abundantly` `again` `beyond` `calleth` `christ` `commandment` `dedication` `destroy` `devil` `division` `door` `down` `eternal` `father` `feast` `flee` `fleeth` `fold` `follow` `giveth` `goeth` `good` `hear` `hireling` `jews` `jordan` `kill` `lay` `leadeth` `life` `mad` `name` `never` `one` `openeth` `pasture` `perish` `plainly` `porch` `porter` `power` `robber` `robbers` `saved` `sheep` `sheepfold` `shepherd` `solomon` `steal` `stones` `stranger` `take` `thief` `thieves` `voice` `works`
+#abundantly #again #beyond #calleth #christ #commandment #dedication #destroy #devil #division #door #down #eternal #father #feast #flee #fleeth #fold #follow #giveth #goeth #good #hear #hireling #jews #jordan #kill #lay #leadeth #life #mad #name #never #one #openeth #pasture #perish #plainly #porch #porter #power #robber #robbers #saved #sheep #sheepfold #shepherd #solomon #steal #stones #stranger #take #thief #thieves #voice #works
 
 
 ---

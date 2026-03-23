@@ -1,3 +1,14 @@
+---
+book: "Ezekiel"
+chapter: 22
+testament: "Old Testament"
+key_themes: "Christ's Judgment, Bloody City, Corrupt Leaders, Divine Wrath"
+tags:
+  - christ
+  - bloody-city
+  - corrupt-leaders
+  - divine-wrath
+---
 # Ezekiel 22
 
 ---
@@ -129,7 +140,7 @@ Word, Lord, son, man, judge, bloody, city, shew, abominations, Lord, GOD, city, 
 
 
 *AI Keywords for current event matching:*
-`abominations` `blood` `bloody` `christs` `city` `consume` `corrupt` `countries` `days` `defiled` `divine` `draw` `fatherless` `filthiness` `guilty` `hand` `heathen` `idols` `indignation` `israel` `judge` `judgment` `leaders` `light` `mocking` `oppression` `poured` `princes` `reproach` `scatter` `set` `sheddeth` `shew` `smitten` `stranger` `vexed` `wrath`
+#abominations #blood #bloody #christs #city #consume #corrupt #countries #days #defiled #divine #draw #fatherless #filthiness #guilty #hand #heathen #idols #indignation #israel #judge #judgment #leaders #light #mocking #oppression #poured #princes #reproach #scatter #set #sheddeth #shew #smitten #stranger #vexed #wrath
 
 
 ---

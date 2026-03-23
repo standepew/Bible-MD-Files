@@ -1,3 +1,14 @@
+---
+book: "Ephesians"
+chapter: 1
+testament: "New Testament"
+key_themes: "Spiritual Blessings, Divine Election, Redemption in Christ, Sealed with the Spirit"
+tags:
+  - spiritual-blessings
+  - divine-election
+  - redemption-in-christ
+  - sealed-with-the-spirit
+---
 # Ephesians 1
 
 ---
@@ -105,7 +116,7 @@ Paul, apostle, Jesus, Christ, will, God, saints, Ephesus, faithful, Christ, Jesu
 
 
 *AI Keywords for current event matching:*
-`abounded` `accepted` `adoption` `apostle` `believe` `believed` `beloved` `blame` `blessed` `blessings` `blood` `body` `calling` `cease` `children` `chosen` `christ` `church` `counsel` `dead` `dispensation` `divine` `dominion` `earnest` `earth` `election` `enlightened` `ephesus` `exceeding` `eyes` `faith` `faithful` `father` `feet` `filleth` `forgiveness` `foundation` `fulness` `gather` `gave` `glory` `god` `good` `gospel` `grace` `greatness` `hand` `head` `heard` `heaven` `heavenly` `holy` `hope` `inheritance` `jesus` `knowledge` `lord` `love` `mention` `mighty` `mystery` `name` `named` `paul` `peace` `places` `pleasure` `possession` `power` `praise` `prayers` `predestinated` `principality` `promise` `prudence` `purchased` `purpose` `purposed` `put` `raised` `redemption` `revelation` `riches` `right` `saints` `salvation` `sealed` `set` `sins` `spirit` `spiritual` `thanks` `things` `times` `trusted` `truth` `understanding` `wisdom` `without` `word` `worketh` `working` `world` `wrought`
+#abounded #accepted #adoption #apostle #believe #believed #beloved #blame #blessed #blessings #blood #body #calling #cease #children #chosen #christ #church #counsel #dead #dispensation #divine #dominion #earnest #earth #election #enlightened #ephesus #exceeding #eyes #faith #faithful #father #feet #filleth #forgiveness #foundation #fulness #gather #gave #glory #god #good #gospel #grace #greatness #hand #head #heard #heaven #heavenly #holy #hope #inheritance #jesus #knowledge #lord #love #mention #mighty #mystery #name #named #paul #peace #places #pleasure #possession #power #praise #prayers #predestinated #principality #promise #prudence #purchased #purpose #purposed #put #raised #redemption #revelation #riches #right #saints #salvation #sealed #set #sins #spirit #spiritual #thanks #things #times #trusted #truth #understanding #wisdom #without #word #worketh #working #world #wrought
 
 
 ---

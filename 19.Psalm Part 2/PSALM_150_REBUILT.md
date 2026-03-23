@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 150
+testament: "Old Testament"
+key_themes: "Universal Praise, Instrumental Worship, Divine Power, Breath Praise"
+tags:
+  - universal-praise
+  - instrumental-worship
+  - divine-power
+  - breath-praise
+---
 # Psalm 150
 
 ---
@@ -105,7 +116,7 @@ Praise, LORD, Praise, God, sanctuary, praise, firmament, power, praise, mighty, 
 
 
 *AI Keywords for current event matching:*
-`acts` `breath` `dance` `divine` `every` `excellent` `firmament` `greatness` `harp` `instrumental` `instruments` `lord` `mighty` `organs` `power` `praise` `psaltery` `sanctuary` `sound` `stringed` `thing` `timbrel` `trumpet` `universal` `worship`
+#acts #breath #dance #divine #every #excellent #firmament #greatness #harp #instrumental #instruments #lord #mighty #organs #power #praise #psaltery #sanctuary #sound #stringed #thing #timbrel #trumpet #universal #worship
 
 
 ---

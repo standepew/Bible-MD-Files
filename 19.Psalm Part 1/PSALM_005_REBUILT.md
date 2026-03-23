@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 5
+testament: "Old Testament"
+key_themes: "Morning Prayer, Divine Justice, Wicked vs. Righteous, God's Protection"
+tags:
+  - morning-prayer
+  - divine-justice
+  - wicked-vs-righteous
+  - god
+---
 # Psalm 5
 
 ---
@@ -141,7 +152,7 @@ Chief, Musician, Nehiloth, Psalm, David, ear, words, LORD, consider, meditation,
 
 
 *AI Keywords for current event matching:*
-`abhor` `bless` `bloody` `cast` `chief` `compass` `consider` `counsels` `cry` `david` `deceitful` `defend` `destroy` `direct` `divine` `dwell` `ear` `enemies` `evil` `face` `faithfulness` `fall` `favour` `fear` `flatter` `foolish` `god` `gods` `hate` `hearken` `holy` `house` `iniquity` `inward` `joy` `joyful` `justice` `king` `lead` `leasing` `look` `lord` `love` `man` `meditation` `mercy` `morning` `mouth` `multitude` `musician` `name` `nehiloth` `open` `pray` `prayer` `protection` `psalm` `rebelled` `rejoice` `righteous` `righteousness` `sepulchre` `shield` `shout` `sight` `speak` `stand` `straight` `temple` `throat` `tongue` `transgressions` `trust` `voice` `way` `wicked` `wickedness` `words` `workers` `worship`
+#abhor #bless #bloody #cast #chief #compass #consider #counsels #cry #david #deceitful #defend #destroy #direct #divine #dwell #ear #enemies #evil #face #faithfulness #fall #favour #fear #flatter #foolish #god #gods #hate #hearken #holy #house #iniquity #inward #joy #joyful #justice #king #lead #leasing #look #lord #love #man #meditation #mercy #morning #mouth #multitude #musician #name #nehiloth #open #pray #prayer #protection #psalm #rebelled #rejoice #righteous #righteousness #sepulchre #shield #shout #sight #speak #stand #straight #temple #throat #tongue #transgressions #trust #voice #way #wicked #wickedness #words #workers #worship
 
 
 ---

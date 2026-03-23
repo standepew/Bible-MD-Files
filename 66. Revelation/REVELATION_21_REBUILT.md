@@ -1,3 +1,15 @@
+---
+book: "Revelation"
+chapter: 21
+testament: "New Testament"
+key_themes: "The New Heaven and New Earth, The Holy City New Jerusalem, The Tabernacle of God, The New Jerusalem's Description, The Inhabitants of the City"
+tags:
+  - the-new-heaven-and-new-earth
+  - the-holy-city-new-jerusalem
+  - the-tabernacle-of-god
+  - the-new-jerusalem
+  - the-inhabitants-of-the-city
+---
 # Revelation 21
 
 ---
@@ -155,7 +167,7 @@ New, heaven, new, earth, first, heaven, first, earth, passed, sea, John, holy, c
 
 
 *AI Keywords for current event matching:*
-`abominable` `abomination` `adorned` `almighty` `alpha` `amethyst` `angel` `angels` `apostles` `athirst` `beginning` `behold` `beryl` `book` `breadth` `bride` `brimstone` `bring` `building` `carried` `chalcedony` `children` `chrysolite` `chrysoprasus` `city` `clear` `come` `coming` `crying` `crystal` `cubits` `day` `death` `defileth` `descending` `description` `done` `dwell` `earth` `east` `emerald` `end` `enter` `equal` `eyes` `faithful` `fearful` `fire` `first` `former` `forty` `foundation` `foundations` `fountain` `four` `foursquare` `freely` `furlongs` `garnished` `gate` `gates` `glass` `glory` `god` `gold` `golden` `great` `heaven` `height` `high` `holy` `honour` `hundred` `husband` `idolaters` `inhabitants` `inherit` `israel` `jacinth` `jasper` `jerusalem` `jerusalems` `john` `kings` `lake` `lamb` `large` `last` `length` `liars` `lie` `life` `light` `lighten` `lord` `make` `maketh` `man` `measure` `measured` `men` `moon` `mountain` `murderers` `names` `nations` `need` `new` `night` `north` `omega` `one` `overcometh` `pain` `part` `passed` `pearl` `pearls` `people` `plagues` `precious` `prepared` `pure` `reed` `sapphire` `sardius` `sardonyx` `sat` `saved` `sea` `second` `seven` `several` `shew` `shewed` `shine` `shut` `son` `sorcerers` `sorrow` `south` `spirit` `stone` `stones` `street` `sun` `tabernacle` `talked` `tears` `temple` `things` `thousand` `three` `throne` `topaz` `transparent` `tribes` `true` `twelve` `unbelieving` `vials` `voice` `walk` `wall` `water` `west` `whoremongers` `wife` `wipe` `wise` `words` `worketh` `write` `written`
+#abominable #abomination #adorned #almighty #alpha #amethyst #angel #angels #apostles #athirst #beginning #behold #beryl #book #breadth #bride #brimstone #bring #building #carried #chalcedony #children #chrysolite #chrysoprasus #city #clear #come #coming #crying #crystal #cubits #day #death #defileth #descending #description #done #dwell #earth #east #emerald #end #enter #equal #eyes #faithful #fearful #fire #first #former #forty #foundation #foundations #fountain #four #foursquare #freely #furlongs #garnished #gate #gates #glass #glory #god #gold #golden #great #heaven #height #high #holy #honour #hundred #husband #idolaters #inhabitants #inherit #israel #jacinth #jasper #jerusalem #jerusalems #john #kings #lake #lamb #large #last #length #liars #lie #life #light #lighten #lord #make #maketh #man #measure #measured #men #moon #mountain #murderers #names #nations #need #new #night #north #omega #one #overcometh #pain #part #passed #pearl #pearls #people #plagues #precious #prepared #pure #reed #sapphire #sardius #sardonyx #sat #saved #sea #second #seven #several #shew #shewed #shine #shut #son #sorcerers #sorrow #south #spirit #stone #stones #street #sun #tabernacle #talked #tears #temple #things #thousand #three #throne #topaz #transparent #tribes #true #twelve #unbelieving #vials #voice #walk #wall #water #west #whoremongers #wife #wipe #wise #words #worketh #write #written
 
 
 ---

@@ -1,3 +1,14 @@
+---
+book: "Zechariah"
+chapter: 8
+testament: "Old Testament"
+key_themes: "Christ's Restoration Blessing, Jerusalem's Glory, God's Presence, Gathering of Nations"
+tags:
+  - christ
+  - jerusalem
+  - god
+  - gathering-of-nations
+---
 # Zechariah 8
 
 ---
@@ -141,7 +152,7 @@ Word, LORD, hosts, jealous, Zion, great, jealousy, great, fury, returned, Zion, 
 
 
 *AI Keywords for current event matching:*
-`blessing` `boys` `christs` `city` `country` `dwell` `east` `foundation` `gathering` `girls` `glory` `god` `gods` `hands` `holy` `jealous` `jerusalems` `languages` `lord` `men` `midst` `mountain` `nations` `old` `people` `playing` `presence` `prosperous` `restoration` `returned` `righteousness` `save` `seed` `seek` `skirt` `strong` `temple` `ten` `truth` `west` `women` `zion`
+#blessing #boys #christs #city #country #dwell #east #foundation #gathering #girls #glory #god #gods #hands #holy #jealous #jerusalems #languages #lord #men #midst #mountain #nations #old #people #playing #presence #prosperous #restoration #returned #righteousness #save #seed #seek #skirt #strong #temple #ten #truth #west #women #zion
 
 
 ---

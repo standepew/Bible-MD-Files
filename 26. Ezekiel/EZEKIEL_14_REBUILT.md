@@ -1,3 +1,13 @@
+---
+book: "Ezekiel"
+chapter: 14
+testament: "Old Testament"
+key_themes: "Christ's Judgment, Idolatrous Hearts, Divine Righteousness, Christ's Remnant"
+tags:
+  - christ
+  - idolatrous-hearts
+  - divine-righteousness
+---
 # Ezekiel 14
 
 ---
@@ -105,7 +115,7 @@ Elders, Israel, sat, word, Lord, son, men, set, idols, heart, stumblingblock, in
 
 
 *AI Keywords for current event matching:*
-`bear` `brought` `christs` `comforted` `cut` `daniel` `daughters` `deliver` `destroy` `divine` `estranged` `face` `forth` `hand` `heart` `hearts` `idolatrous` `idols` `job` `judgment` `left` `midst` `noah` `off` `punishment` `remnant` `righteousness` `separate` `set` `sons` `souls` `stretch` `stumblingblock`
+#bear #brought #christs #comforted #cut #daniel #daughters #deliver #destroy #divine #estranged #face #forth #hand #heart #hearts #idolatrous #idols #job #judgment #left #midst #noah #off #punishment #remnant #righteousness #separate #set #sons #souls #stretch #stumblingblock
 
 
 ---

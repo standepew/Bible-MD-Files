@@ -1,3 +1,16 @@
+---
+book: "1 Kings"
+chapter: 21
+testament: "Old Testament"
+key_themes: "Naboth's Vineyard, Jezebel's Conspiracy, False Witnesses, Elijah's Confrontation, Ahab's Judgment"
+tags:
+  - Jezebel-Naboth-stoned-dead
+  - naboth
+  - jezebel
+  - false-witnesses
+  - elijah
+  - ahab
+---
 # 1 Kings 21
 
 ---
@@ -89,7 +102,7 @@ Naboth Jezreelite vineyard, Jezreel, palace Ahab king Samaria. Ahab Naboth, vine
 
 
 *AI Keywords for current event matching:*
-`ahab` `ahabs` `ahijah` `air` `amorites` `anger` `arise` `ate` `baasha` `bed` `belial` `better` `blaspheme` `blood` `bread` `carried` `carry` `cast` `children` `city` `clothes` `confrontation` `conspiracy` `cut` `days` `dead` `die` `died` `dies` `displeased` `divine` `dogs` `eat` `elders` `elijah` `elijahs` `enemy` `evil` `face` `false` `fast` `fathers` `field` `flesh` `forbid` `found` `fowls` `garden` `give` `god` `govern` `heavy` `herbs` `high` `house` `humble` `idols` `inhabitants` `inheritance` `israel` `jeroboam` `jezebel` `jezebels` `jezreel` `jezreelite` `judgment` `killed` `king` `kingdom` `lay` `letters` `lick` `licked` `lord` `men` `merry` `money` `naboth` `naboths` `nebat` `nobles` `palace` `partial` `people` `pisseth` `possess` `possession` `posterity` `provocation` `provoked` `refused` `rent` `repentance` `rose` `sackcloth` `sad` `samaria` `seal` `shut` `sight` `sin` `softly` `sold` `son` `sons` `spirit` `spoken` `stirred` `stone` `stoned` `tishbite` `trial` `turned` `vineyard` `wall` `went` `wickedness` `wife` `witness` `word` `words`
+#ahab #ahabs #ahijah #air #amorites #anger #arise #ate #baasha #bed #belial #better #blaspheme #blood #bread #carried #carry #cast #children #city #clothes #confrontation #conspiracy #cut #days #dead #die #died #dies #displeased #divine #dogs #eat #elders #elijah #elijahs #enemy #evil #face #false #fast #fathers #field #flesh #forbid #found #fowls #garden #give #god #govern #heavy #herbs #high #house #humble #idols #inhabitants #inheritance #israel #jeroboam #jezebel #jezebels #jezreel #jezreelite #judgment #killed #king #kingdom #lay #letters #lick #licked #lord #men #merry #money #naboth #naboths #nebat #nobles #palace #partial #people #pisseth #possess #possession #posterity #provocation #provoked #refused #rent #repentance #rose #sackcloth #sad #samaria #seal #shut #sight #sin #softly #sold #son #sons #spirit #spoken #stirred #stone #stoned #tishbite #trial #turned #vineyard #wall #went #wickedness #wife #witness #word #words
 
 
 ---

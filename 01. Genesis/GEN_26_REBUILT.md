@@ -1,3 +1,55 @@
+---
+book: "Genesis"
+chapter: 26
+testament: "Old Testament"
+key_themes: "Famine in the Land — Isaac's Faith Tested as Abraham's Was, "Go Not Down Into Egypt" — God Redirecting the Patriarch to Stay in the Land, The Abrahamic Covenant Reconfirmed to Isaac Explicitly — Same Three Elements: Land, Seed, Nations, "Because Abraham Obeyed My Voice" — Obedience of the Father as the Ground of the Son's Covenant Inheritance, Isaac in Gerar — "She Is My Sister" — The Father's Sin Repeated by the Son, Abimelech's Discovery and Just Rebuke — The Pagan King More Ethical Than the Patriarch, The Hundredfold Harvest in Famine — Divine Blessing Conspicuous Against the World's Scarcity, Philistine Envy — The World Stopping Up the Wells of Covenant Life, "Go from Us, for Thou Art Much Mightier" — Persecution as the Consequence of Visible Blessing, Isaac Re-Digging Abraham's Wells — Recovering the Father's Inheritance Against Opposition, Esek (Strife) / Sitnah (Satanic Opposition) / Rehoboth (God Making Room) — The Three-Stage Map of the Covenant Journey Through Adversity, Beer-Sheba — God Appears the Same Night: "Fear Not, I Am with Thee", Isaac Builds an Altar at Beersheba — The Pattern of the Patriarch, Abimelech Comes to Make a Covenant — "We Saw Certainly That the LORD Was with Thee", "Thou Art Now the Blessed of the LORD" — Enemies Acknowledging Covenant Blessing, Esau's Hittite Wives — "A Grief of Mind" — The Covenant Marriage Standard Violated"
+tags:
+  - famine
+  - second-famine
+  - Isaac
+  - go-not-down-to-Egypt
+  - Egypt-as-type-of-world
+  - dwell-in-the-land
+  - Gerar
+  - Abimelech-Philistines
+  - covenant-reconfirmed-to-Isaac
+  - same-three-elements
+  - land-seed-nations
+  - because-Abraham-obeyed
+  - obedience-of-father-grounds-sons-inheritance
+  - Galatians-3-16-17
+  - she-is-my-sister
+  - Rebekah
+  - repeated-sin-of-father
+  - Abimelech-rebukes-Isaac
+  - pagan-more-ethical-than-patriarch
+  - hundredfold-harvest-in-famine
+  - Matthew-13-8
+  - Philistines-envied
+  - wells-stopped-up
+  - go-from-us-thou-art-mightier
+  - persecution-of-visible-blessing
+  - Isaac-re-digs-Abrahams-wells
+  - recovering-covenant-inheritance
+  - Esek-strife
+  - Sitnah-opposition-satan-root
+  - Rehoboth-God-makes-room
+  - Psalm-31-8
+  - Psalm-118-5
+  - Beer-sheba
+  - fear-not-I-am-with-thee
+  - Isaiah-41-10
+  - Isaac-builds-altar
+  - Abimelech-covenant
+  - we-saw-LORD-was-with-thee
+  - thou-art-blessed-of-LORD
+  - enemies-acknowledging-blessing
+  - Esau-Hittite-wives
+  - grief-of-mind
+  - covenant-marriage-violated
+  - 2-Corinthians-6-14
+  - Genesis-28-1-2
+---
 # Genesis 26
 
 ---
@@ -163,7 +215,7 @@ The chapter ends with a jarring note: Esau at forty married two Hittite women �
 
 For AI matching to topics and current events:
 
-`Isaac famine Gerar` `go not down into Egypt` `Egypt as type of world` `Isaiah 31:1 woe to them that go down to Egypt` `Hosea 11:1 called my son out of Egypt` `covenant reconfirmed to Isaac` `same three elements land seed nations` `Genesis 12:1-3 Genesis 22:16-18 Genesis 26:3-5` `because Abraham obeyed my voice` `covenant inheritance grounded in father's obedience` `Galatians 3:16-17 covenant confirmed in Christ` `Deuteronomy 7:9 thousand generations` `she is my sister` `Isaac lies about Rebekah` `Rebekah not his sister` `Abimelech rebukes Isaac` `pagan more ethical than patriarch` `Scripture records sin without endorsing` `metsacheq sporting Isaac playing` `hundredfold harvest in famine` `Matthew 13:8 parable of sower hundredfold` `Philistines envied Isaac` `John 15:18-19 world hates what is not of it` `wells stopped up filled with earth` `go from us thou art mightier` `persecution of visible blessing` `Isaac re-digs Abraham's wells` `recovering covenant inheritance` `Esek strife` `Sitnah opposition satan root` `Rehoboth God makes room` `rachav wide place enlargement` `Psalm 31:8 large room` `Psalm 118:5 large place` `Isaiah 54:2-3 enlarge thy tent` `Beersheba` `fear not I am with thee` `same night God appears` `Genesis 15:1 fear not Abram` `Isaiah 41:10 fear thou not` `Isaiah 43:1 thou art mine` `2 Timothy 1:7 spirit not of fear` `Isaac builds altar calls on name of LORD` `Abimelech Phichol Ahuzzath` `we saw certainly LORD was with thee` `ra'o ra'inu emphatic` `Genesis 21:22 God is with thee in all thou doest` `Matthew 5:16 light before men` `Esau Hittite wives Judith Bashemath` `grief of mind marat ruach bitterness of spirit` `2 Corinthians 6:14 unequally yoked` `covenant marriage standard violated` `Genesis 27:46 Rebekah weary` `Genesis 28:1-2 Isaac commands Jacob` `pattern of Esau despising covenant`
+#Isaac-famine-Gerar #go-not-down-into-Egypt #Egypt-as-type-of-world #Isaiah-311-woe-to-them-that-go-down-to-Egypt #Hosea-111-called-my-son-out-of-Egypt #covenant-reconfirmed-to-Isaac #same-three-elements-land-seed-nations #Genesis-121-3-Genesis-2216-18-Genesis-263-5 #because-Abraham-obeyed-my-voice #covenant-inheritance-grounded-in-fathers-obedience #Galatians-316-17-covenant-confirmed-in-Christ #Deuteronomy-79-thousand-generations #she-is-my-sister #Isaac-lies-about-Rebekah #Rebekah-not-his-sister #Abimelech-rebukes-Isaac #pagan-more-ethical-than-patriarch #Scripture-records-sin-without-endorsing #metsacheq-sporting-Isaac-playing #hundredfold-harvest-in-famine #Matthew-138-parable-of-sower-hundredfold #Philistines-envied-Isaac #John-1518-19-world-hates-what-is-not-of-it #wells-stopped-up-filled-with-earth #go-from-us-thou-art-mightier #persecution-of-visible-blessing #Isaac-re-digs-Abrahams-wells #recovering-covenant-inheritance #Esek-strife #Sitnah-opposition-satan-root #Rehoboth-God-makes-room #rachav-wide-place-enlargement #Psalm-318-large-room #Psalm-1185-large-place #Isaiah-542-3-enlarge-thy-tent #Beersheba #fear-not-I-am-with-thee #same-night-God-appears #Genesis-151-fear-not-Abram #Isaiah-4110-fear-thou-not #Isaiah-431-thou-art-mine #2-Timothy-17-spirit-not-of-fear #Isaac-builds-altar-calls-on-name-of-LORD #Abimelech-Phichol-Ahuzzath #we-saw-certainly-LORD-was-with-thee #rao-rainu-emphatic #Genesis-2122-God-is-with-thee-in-all-thou-doest #Matthew-516-light-before-men #Esau-Hittite-wives-Judith-Bashemath #grief-of-mind-marat-ruach-bitterness-of-spirit #2-Corinthians-614-unequally-yoked #covenant-marriage-standard-violated #Genesis-2746-Rebekah-weary #Genesis-281-2-Isaac-commands-Jacob #pattern-of-Esau-despising-covenant
 
 **Relevance to Current Events:**
 - The Egypt principle — going to the world for provision versus trusting God in the land; applicable to pastoral guidance on financial decisions, business practices, and any situation where a "safe" worldly alternative tempts the believer away from the path of covenant obedience

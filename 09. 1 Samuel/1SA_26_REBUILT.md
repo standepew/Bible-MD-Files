@@ -1,3 +1,16 @@
+---
+book: "1 Samuel"
+chapter: 26
+testament: "Old Testament"
+key_themes: "Second Opportunity to Kill Saul, David's Integrity, Deep Sleep from LORD, David's Rebuke, Saul's Confession, Spear and Water Cruse"
+tags:
+  - David-spies-understood-Saul
+  - second-opportunity-to-kill-saul
+  - david
+  - deep-sleep-from-lord
+  - saul
+  - spear-and-water-cruse
+---
 # 1 Samuel 26
 
 ---
@@ -87,7 +100,7 @@ Ziphites came to Saul at Gibeah, saying David hid in hill of Hachilah before Jes
 
 
 *AI Keywords for current event matching:*
-`abishai` `abner` `afar` `ahimelech` `anointed` `answerest` `arose` `awaked` `battle` `beheld` `betrayal` `blood` `bolster` `brother` `camp` `captain` `children` `chosen` `confession` `cried` `cruse` `cursed` `david` `davids` `day` `deep` `deliver` `delivered` `descend` `destroy` `die` `divine` `driven` `earth` `enemy` `erred` `evil` `exceedingly` `eyes` `face` `faithfulness` `fall` `fetch` `flea` `fooled` `forbid` `gat` `gibeah` `god` `gods` `good` `great` `ground` `guiltless` `hachilah` `hand` `harm` `hear` `hide` `hill` `hittite` `host` `hunt` `inheritance` `israel` `jeshimon` `joab` `justice` `kept` `king` `knew` `lay` `life` `liveth` `lord` `man` `master` `men` `mountains` `ner` `night` `offering` `opportunity` `partridge` `people` `perish` `pitched` `place` `played` `precious` `prevail` `protection` `pursue` `rebuke` `render` `righteousness` `round` `saul` `sauls` `saw` `second` `seek` `servant` `serve` `side` `sinned` `sleep` `sleeping` `smite` `son` `soul` `space` `spear` `spies` `stirred` `stretch` `things` `thousand` `three` `time` `top` `trench` `tribulation` `understood` `valiant` `voice` `water` `way` `wilderness` `worthy` `young` `zeruiah` `ziph` `ziphites`
+#abishai #abner #afar #ahimelech #anointed #answerest #arose #awaked #battle #beheld #betrayal #blood #bolster #brother #camp #captain #children #chosen #confession #cried #cruse #cursed #david #davids #day #deep #deliver #delivered #descend #destroy #die #divine #driven #earth #enemy #erred #evil #exceedingly #eyes #face #faithfulness #fall #fetch #flea #fooled #forbid #gat #gibeah #god #gods #good #great #ground #guiltless #hachilah #hand #harm #hear #hide #hill #hittite #host #hunt #inheritance #israel #jeshimon #joab #justice #kept #king #knew #lay #life #liveth #lord #man #master #men #mountains #ner #night #offering #opportunity #partridge #people #perish #pitched #place #played #precious #prevail #protection #pursue #rebuke #render #righteousness #round #saul #sauls #saw #second #seek #servant #serve #side #sinned #sleep #sleeping #smite #son #soul #space #spear #spies #stirred #stretch #things #thousand #three #time #top #trench #tribulation #understood #valiant #voice #water #way #wilderness #worthy #young #zeruiah #ziph #ziphites
 
 
 ---

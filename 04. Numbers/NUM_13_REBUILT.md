@@ -1,3 +1,33 @@
+---
+book: "Numbers"
+chapter: 13
+testament: "Old Testament"
+key_themes: "God commands the sending of twelve spies — one per tribe, all rulers, The mission: forty days to search the land — see the cities, the people, the fruit, Moses renames Oshea to Jehoshua (Joshua) — "the LORD is salvation", The spies return with giant grapes and a divided report: the land flows with milk and honey — BUT the people are strong, the cities walled, the giants there, Caleb's faith: "Let us go up at once and possess it; for we are well able", The ten's unbelief: "we be not able... we were in our own sight as grasshoppers, and so we were in their sight", The evil report — a slander against the land God gave"
+tags:
+  - twelve-spies
+  - one-ruler-per-tribe
+  - wilderness-of-Paran
+  - Kadesh
+  - Oshea-renamed-Jehoshua
+  - forty-days-searching
+  - from-zin-to-hamath
+  - Hebron
+  - children-of-Anak
+  - cluster-of-grapes-on-a-staff
+  - brook-Eshcol
+  - firstripe-grapes
+  - milk-and-honey
+  - cities-walled-and-great
+  - Amalekites-Hittites-Jebusites-Amorites-Canaanites
+  - Caleb-stills-the-people
+  - we-are-well-able
+  - evil-report
+  - land-eateth-up-inhabitants
+  - men-of-great-stature
+  - grasshoppers-in-our-own-sight
+  - sons-of-Anak
+  - giants
+---
 # Numbers 13
 
 ---
@@ -67,7 +97,7 @@ The ten spies define the problem precisely. They did not report what God said ab
 
 
 *AI Keywords for current event matching:*
-`1317-20` `assess` `briefing` `current` `defences` `events` `fruit` `gathering` `intelligence` `land` `matching` `moses` `numbers` `people` `reports` `spy`
+#1317-20 #assess #briefing #current #defences #events #fruit #gathering #intelligence #land #matching #moses #numbers #people #reports #spy
 
 
 ---
@@ -157,16 +187,16 @@ The Eshcol cluster, requiring two carriers on a staff, is the only individual pi
 
 ### Forty Days — The Testing Number
 
-**Numbers 13:25** — "they returned from searching of the land after forty days"
+[[04. Numbers/NUM_13_REBUILT|Numbers 13:25]] — "they returned from searching of the land after forty days"
 
 The forty days of the spies' search becomes the forty years of wandering in Numbers 14:34 — "each day for a year." The forty-day number connects to the Bible's consistent testing pattern:
 
-- **Genesis 7:4** — forty days of flood; the world tested and judged
+- [[01. Genesis/GEN_07_REBUILT|Genesis 7:4]] — forty days of flood; the world tested and judged
 - **Exodus 24:18; 34:28** — Moses forty days on Sinai; the Law received
-- **Numbers 13:25** — forty days searching the land; faith tested
-- **Numbers 14:34** — forty days → forty years; the consequence of failing the test
-- **1 Kings 19:8** — Elijah forty days to Horeb; the prophet tested
-- **Matthew 4:2** — Jesus forty days in the wilderness; tested by the devil
+- [[04. Numbers/NUM_13_REBUILT|Numbers 13:25]] — forty days searching the land; faith tested
+- [[04. Numbers/NUM_14_REBUILT|Numbers 14:34]] — forty days → forty years; the consequence of failing the test
+- [[11. 1 Kings/1_KINGS_19_REBUILT|1 Kings 19:8]] — Elijah forty days to Horeb; the prophet tested
+- [[40. Matthew/MATTHEW_04_REBUILT|Matthew 4:2]] — Jesus forty days in the wilderness; tested by the devil
 
 **What the Bible establishes through the forty pattern:** Forty is the duration of a testing-unto-qualification. Moses' forty days on Sinai = qualified to receive the Law. The spies' forty days = tested for faith and failed = forty years of consequence. Jesus' forty days = tested in the wilderness and passed = qualified to begin His ministry. The forty is always a trial; whether it produces faith or unbelief determines the outcome.
 

@@ -1,3 +1,35 @@
+---
+book: "Judges"
+chapter: 10
+testament: "Old Testament"
+key_themes: "Tola's Judgeship, Jair's Leadership, Widespread Idolatry, Multiple Oppressors, Israel's Repentance, God's Refusal, Complete Repentance, Leadership Search"
+tags:
+  - dwelt-Shamir-mount-Ephraim
+  - Jair-died-buried-Camon
+  - children-Israel-evil-sight-LORD
+  - served-Baalim-Ashtaroth
+  - forsook-LORD-served
+  - anger-LORD-hot-Israel
+  - Israel-sore-distressed
+  - children-Israel-cried-LORD
+  - sinned-forsaken-God-served-Baalim
+  - forsaken-served-gods
+  - deliver-gods-chosen-tribulation
+  - children-Israel-LORD-sinned
+  - do-good-deliver-day
+  - soul-grieved-misery-Israel
+  - children-Ammon-gathered-encamped-Gilead
+  - children-Israel-assembled-encamped-Mizpeh
+  - head-inhabitants-Gilead
+  - tola
+  - jair
+  - widespread-idolatry
+  - multiple-oppressors
+  - israel
+  - god
+  - complete-repentance
+  - leadership-search
+---
 # Judges 10
 
 ---
@@ -93,7 +125,7 @@ After Abimelech, Tola son of Puah (son of Dodo), an Issachar man, arises to defe
 
 
 *AI Keywords for current event matching:*
-`abimelech` `amalekites` `ammon` `ammonite` `amorites` `anger` `arose` `ashtaroth` `ass` `assembled` `away` `baalim` `begin` `benjamin` `buried` `camon` `children` `chosen` `cities` `colts` `complete` `cried` `day` `defend` `deliver` `delivered` `died` `distressed` `divine` `dodo` `dwelt` `egyptians` `eighteen` `encamped` `ephraim` `evil` `fight` `forsaken` `forsook` `gathered` `gilead` `gileadite` `god` `gods` `good` `grieved` `hand` `hands` `havoth-jair` `head` `hot` `house` `idolatry` `inhabitants` `initial` `israel` `issachar` `jair` `jairs` `jordan` `judah` `judged` `judgeship` `land` `leadership` `lord` `man` `maonites` `military` `misery` `mizpeh` `moab` `mount` `oppressed` `oppression` `passed` `people` `philistines` `preparations` `princes` `puah` `put` `refusal` `reminder` `repentance` `rode` `served` `shamir` `side` `sight` `sinned` `sold` `son` `sons` `sore` `soul` `strange` `syria` `thirty` `tola` `tolas` `tribulation` `twenty-three` `twenty-two` `vexed` `widespread` `year` `years` `zidon` `zidonians`
+#abimelech #amalekites #ammon #ammonite #amorites #anger #arose #ashtaroth #ass #assembled #away #baalim #begin #benjamin #buried #camon #children #chosen #cities #colts #complete #cried #day #defend #deliver #delivered #died #distressed #divine #dodo #dwelt #egyptians #eighteen #encamped #ephraim #evil #fight #forsaken #forsook #gathered #gilead #gileadite #god #gods #good #grieved #hand #hands #havoth-jair #head #hot #house #idolatry #inhabitants #initial #israel #issachar #jair #jairs #jordan #judah #judged #judgeship #land #leadership #lord #man #maonites #military #misery #mizpeh #moab #mount #oppressed #oppression #passed #people #philistines #preparations #princes #puah #put #refusal #reminder #repentance #rode #served #shamir #side #sight #sinned #sold #son #sons #sore #soul #strange #syria #thirty #tola #tolas #tribulation #twenty-three #twenty-two #vexed #widespread #year #years #zidon #zidonians
 
 
 ---

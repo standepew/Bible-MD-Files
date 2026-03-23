@@ -1,3 +1,35 @@
+---
+book: "Exodus"
+chapter: 32
+testament: "Old Testament"
+key_themes: "The Golden Calf — Israel's great apostasy while Moses is on the mountain, "These be thy gods, O Israel, which brought thee up out of Egypt," Aaron's catastrophic failure of leadership, God's wrath and Moses' intercession — "blot me out of thy book", Moses breaks the tablets at the foot of the mountain, The sons of Levi execute judgment — 3,000 die, Moses' atonement-intercession fails — "Whosoever hath sinned against me, him will I blot out," The plague"
+tags:
+  - golden-calf
+  - great-apostasy
+  - Moses-delayed
+  - Aaron-fails
+  - make-us-gods
+  - graving-tool
+  - feast-to-the-LORD
+  - play
+  - God-says-thy-people
+  - stiffnecked
+  - let-me-alone
+  - I-will-consume-them
+  - Moses-intercedes
+  - remember-Abraham-Isaac-Israel
+  - God-repented
+  - tables-broken
+  - ground-to-powder
+  - drank-it
+  - Aaron-excuses
+  - who-is-on-the-LORDs-side
+  - sons-of-Levi
+  - 3000-slain
+  - blot-me-out
+  - book-of-life
+  - plague
+---
 # Exodus 32
 
 ---
@@ -102,7 +134,7 @@ While Moses is 40 days on the mountain, the people demand gods from Aaron. Aaron
 
 
 *AI Keywords for current event matching:*
-`apostasy` `church` `corinthians` `current` `events` `exodus` `idol` `matching` `warning` `worship`
+#apostasy #church #corinthians #current #events #exodus #idol #matching #warning #worship
 
 
 ---

@@ -1,3 +1,27 @@
+---
+book: "Leviticus"
+chapter: 25
+testament: "Old Testament"
+key_themes: "The land keeps a Sabbath to the LORD every seventh year — the land itself rests, The Jubilee — the fiftieth year: liberty proclaimed throughout the land; every man returns to his possession and his family, "The land is mine; for ye are strangers and sojourners with me" — the fundamental principle of all Israelite economics, The kinsman-redeemer (go'el) — the nearest of kin who buys back what a poor brother has lost, No usury from a brother — money does not bear offspring among God's people, The Israelite brother sold into service must go free at Jubilee — "For unto me the children of Israel are servants; they are my servants""
+tags:
+  - Sabbath-year
+  - Jubilee-fiftieth-year
+  - proclaim-liberty
+  - return-to-possession
+  - return-to-family
+  - land-is-mine
+  - strangers-and-sojourners
+  - kinsman-redeemer
+  - goel
+  - no-usury
+  - no-oppression
+  - pricing-by-years-to-Jubilee
+  - shemittah
+  - year-of-release
+  - mount-Sinai
+  - Israelite-servant-freed-at-Jubilee
+  - I-am-the-LORD-your-God
+---
 # Leviticus 25
 
 ---
@@ -69,7 +93,7 @@ Spoken to Moses in mount Sinai. The land shall keep a Sabbath to the LORD every 
 
 
 *AI Keywords for current event matching:*
-`2510-13` `418-21` `611-2` `cancellation` `current` `debt` `economic` `events` `isaiah` `leviticus` `luke` `matching` `release` `reset` `year`
+#2510-13 #418-21 #611-2 #cancellation #current #debt #economic #events #isaiah #leviticus #luke #matching #release #reset #year
 
 
 ---

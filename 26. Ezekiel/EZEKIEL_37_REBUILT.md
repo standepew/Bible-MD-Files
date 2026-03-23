@@ -1,3 +1,13 @@
+---
+book: "Ezekiel"
+chapter: 37
+testament: "Old Testament"
+key_themes: "Christ's Resurrection, Valley of Bones, Divine Unity, Christ's Kingdom"
+tags:
+  - christ
+  - valley-of-bones
+  - divine-unity
+---
 # Ezekiel 37
 
 ---
@@ -117,7 +127,7 @@ Hand, Lord, spirit, Lord, valley, bones, pass, round, very, many, open, valley, 
 
 
 *AI Keywords for current event matching:*
-`army` `bones` `breath` `christs` `covenant` `cover` `david` `divine` `dry` `flesh` `forevermore` `four` `graves` `great` `king` `kingdom` `live` `midst` `nation` `one` `open` `peace` `resurrection` `sanctuary` `shepherd` `sinews` `skin` `stick` `unity` `valley` `winds`
+#army #bones #breath #christs #covenant #cover #david #divine #dry #flesh #forevermore #four #graves #great #king #kingdom #live #midst #nation #one #open #peace #resurrection #sanctuary #shepherd #sinews #skin #stick #unity #valley #winds
 
 
 ---

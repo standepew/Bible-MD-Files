@@ -1,3 +1,30 @@
+---
+book: "Numbers"
+chapter: 16
+testament: "Old Testament"
+key_themes: "Korah (Levite/Kohathite) and Dathan and Abiram (Reubenites) lead 250 princes in a rebellion against Moses and Aaron, The real charge: "all the congregation are holy" — democratising the priesthood; everyone has equal right to offer incense, Moses' response: fall on his face; then propose the censer test — let the LORD show who is holy, Dathan and Abiram refuse to come up — they call Egypt a land of milk and honey and accuse Moses of making himself prince, The earth opens and swallows Korah, Dathan, Abiram, their households alive into the pit; fire consumes the 250, The day after: the whole congregation murmurs again — "ye have killed the people of the LORD", God's wrath: 14,700 die in a new plague; Aaron runs with incense and stands between the dead and the living"
+tags:
+  - Korah
+  - Dathan-and-Abiram
+  - 250-princes-of-renown
+  - all-congregation-holy
+  - ye-take-too-much-upon-you
+  - Moses-falls-on-face
+  - censer-test
+  - the-LORD-will-show-who-is-holy
+  - Dathan-Abiram-will-not-come-up
+  - Egypt-land-of-milk-and-honey
+  - make-thyself-a-prince
+  - earth-opens-swallows
+  - down-alive-into-the-pit
+  - fire-consumes-250
+  - brazen-plates-on-altar
+  - ye-have-killed-the-LORD
+  - 14700-plague
+  - Aaron-runs-with-incense
+  - stands-between-dead-and-living
+  - plague-stayed
+---
 # Numbers 16
 
 ---
@@ -68,7 +95,7 @@ This is the climax of the chapter and one of the most vivid typological moments 
 
 
 *AI Keywords for current event matching:*
-`131-2` `162-3` `against` `appointed` `current` `divinely` `events` `jude` `leadership` `matching` `numbers` `rebellion` `romans`
+#131-2 #162-3 #against #appointed #current #divinely #events #jude #leadership #matching #numbers #rebellion #romans
 
 
 ---
@@ -172,15 +199,15 @@ Aaron takes fire from the bronze altar — the same fire used for sacrifices, th
 
 ### The Earth Opening Her Mouth — The Land That Devours
 
-**Numbers 16:32** — "the earth opened her mouth, and swallowed them up"
+[[04. Numbers/NUM_16_REBUILT|Numbers 16:32]] — "the earth opened her mouth, and swallowed them up"
 
 The earth opening to swallow those who rebel against God's order runs through Scripture:
 
-- **Numbers 16:30-33** — Korah, Dathan, Abiram, their households swallowed alive
-- **Numbers 26:10** — the same event recalled: "the earth opened her mouth, and swallowed them up together with Korah"
-- **Deuteronomy 11:6** — Moses recalls it to the next generation as a warning
-- **Psalm 106:17** — "The earth opened and swallowed up Dathan, and covered the company of Abiram"
-- **Revelation 12:16** — "And the earth helped the woman, and the earth opened her mouth, and swallowed up the flood which the dragon cast out of his mouth" — in Revelation, the earth opens its mouth to SAVE the woman from the dragon's flood; the same image reversed: what swallowed the rebels protects the remnant
+- [[04. Numbers/NUM_16_REBUILT|Numbers 16:30-33]] — Korah, Dathan, Abiram, their households swallowed alive
+- [[04. Numbers/NUM_26_REBUILT|Numbers 26:10]] — the same event recalled: "the earth opened her mouth, and swallowed them up together with Korah"
+- [[05. Deuteronomy/DEU_11_REBUILT|Deuteronomy 11:6]] — Moses recalls it to the next generation as a warning
+- [[19.Psalm Part 2/PSALM_106_REBUILT|Psalm 106:17]] — "The earth opened and swallowed up Dathan, and covered the company of Abiram"
+- [[66. Revelation/REVELATION_12_REBUILT|Revelation 12:16]] — "And the earth helped the woman, and the earth opened her mouth, and swallowed up the flood which the dragon cast out of his mouth" — in Revelation, the earth opens its mouth to SAVE the woman from the dragon's flood; the same image reversed: what swallowed the rebels protects the remnant
 
 **What the Bible establishes:** The earth's mouth opening is a consistent divine judgment image. In Numbers 16 it swallows rebels. In Revelation 12:16 it swallows the enemy's assault against God's people. The earth is not neutral; it is the instrument of divine justice — in both directions. The earth that vomits out the land's defilers (Leviticus 18:25) is the same earth that swallows those who challenge God's appointed order.
 

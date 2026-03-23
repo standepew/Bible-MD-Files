@@ -1,3 +1,34 @@
+---
+book: "Numbers"
+chapter: 15
+testament: "Old Testament"
+key_themes: "God speaks of the land after the judgment of chapter 14 — "when ye be come into the land" — the covenant continues despite the generation's failure, The flour/oil/wine proportions for accompanying offerings scaled by the size of the animal — a graduated system of completeness, One ordinance for stranger and native alike — repeated twice (vv.15-16 and v.29), The critical distinction: sin through ignorance (atonement available) vs. sin presumptuously/high-handedly (cut off, no atonement), The Sabbath-breaker: a man gathers sticks on the Sabbath; held until God gives the verdict; stoned outside the camp, The fringes (tzitzit) with a ribband of blue: to remember all the commandments; to prevent going after your own heart and eyes"
+tags:
+  - flour-oil-wine-proportions
+  - heave-offering-of-dough
+  - one-ordinance-stranger-and-native
+  - sin-through-ignorance
+  - community-sin-offering
+  - individual-sin-offering
+  - presumptuously
+  - high-handed
+  - reproacheth-the-LORD
+  - cut-off-no-atonement
+  - Sabbath-breaker
+  - stoned-outside-camp
+  - fringes-tzitzit
+  - ribband-of-blue
+  - remember-commandments
+  - god-speaks-of-the-land-after
+  - the-flouroilwine-proportions-for-accompanying-offerings
+  - one-ordinance-for-stranger-and-native
+  - the-critical-distinction-sin-through-ignorance
+  - the-sabbathbreaker-a-man-gathers-sticks
+  - held-until-god-gives-the-verdict
+  - stoned-outside-the-camp
+  - the-fringes-with-a-ribband-of
+  - to-prevent-going-after-your-own
+---
 # Numbers 15
 
 ---
@@ -68,7 +99,7 @@ This narrative sits immediately after the high-handed principle (vv.30-31) to il
 
 
 *AI Keywords for current event matching:*
-`151-2` `cancelled` `come` `continuing` `covenant` `current` `events` `failure` `generations` `gods` `judgment` `land` `matching` `numbers` `promise`
+#151-2 #cancelled #come #continuing #covenant #current #events #failure #generations #gods #judgment #land #matching #numbers #promise
 
 
 ---
@@ -160,14 +191,14 @@ Numbers 15 opens with "When ye be come into the land of your habitations, which 
 
 ### The First of Your Dough — The Firstfruits Thread Applied to Daily Bread
 
-**Numbers 15:20-21** — "Ye shall offer up a cake of the first of your dough for an heave offering"
+[[04. Numbers/NUM_15_REBUILT|Numbers 15:20-21]] — "Ye shall offer up a cake of the first of your dough for an heave offering"
 
 The firstfruits principle (Leviticus 23:10-11 — the wave sheaf of the first harvest) is now applied to daily baking — the first portion of every batch of dough offered to the LORD. The firstfruits thread runs through Scripture from its first mention to its fulfilment:
 
-- **Exodus 23:19** — "The first of the firstfruits of thy land thou shalt bring into the house of the LORD"
-- **Numbers 15:20** — the dough offering — firstfruits of the daily food, not just the annual harvest
-- **Proverbs 3:9** — "Honour the LORD with thy substance, and with the firstfruits of all thine increase"
-- **Romans 11:16** — "For if the firstfruit be holy, the lump is also holy" — Paul uses the dough-offering of Numbers 15:20-21 directly: the firstfruit (the believing remnant of Israel) makes the whole lump (the full harvest of Israel) holy; if the root is holy, the branches are holy too
+- [[02. Exodus/EXO_23_REBUILT|Exodus 23:19]] — "The first of the firstfruits of thy land thou shalt bring into the house of the LORD"
+- [[04. Numbers/NUM_15_REBUILT|Numbers 15:20]] — the dough offering — firstfruits of the daily food, not just the annual harvest
+- [[20. Proverbs/PROVERBS_03_REBUILT|Proverbs 3:9]] — "Honour the LORD with thy substance, and with the firstfruits of all thine increase"
+- [[45. Romans/ROMANS_11_REBUILT|Romans 11:16]] — "For if the firstfruit be holy, the lump is also holy" — Paul uses the dough-offering of Numbers 15:20-21 directly: the firstfruit (the believing remnant of Israel) makes the whole lump (the full harvest of Israel) holy; if the root is holy, the branches are holy too
 - **1 Corinthians 15:20, 23** — "But now is Christ risen from the dead, and become the firstfruits of them that slept... But every man in his own order: Christ the firstfruits; afterward they that are Christ's at his coming" — Christ as the first of the dough, the wave sheaf, the heave offering; His resurrection consecrates the whole harvest
 
 **What the Bible establishes:** The firstfruits thread (Exod 23:19 → Lev 23:10 → Num 15:20 → Rom 11:16 → 1 Cor 15:20-23) runs from the first grain harvest to the resurrection of Christ. Every firstfruits offering is a statement that the whole belongs to God; offering the first consecrates the rest. Christ risen first consecrates the entire harvest of the resurrection.

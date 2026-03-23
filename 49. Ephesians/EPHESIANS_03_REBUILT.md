@@ -1,3 +1,14 @@
+---
+book: "Ephesians"
+chapter: 3
+testament: "New Testament"
+key_themes: "The Mystery of Christ, Paul's Ministry, The Unsearchable Riches, Strengthened in the Inner Man"
+tags:
+  - the-mystery-of-christ
+  - paul
+  - the-unsearchable-riches
+  - strengthened-in-the-inner-man
+---
 # Ephesians 3
 
 ---
@@ -93,7 +104,7 @@ Cause, Paul, prisoner, Jesus, Christ, Gentiles, heard, dispensation, grace, God,
 
 
 *AI Keywords for current event matching:*
-`able` `abundantly` `access` `ages` `amen` `apostles` `ask` `beginning` `body` `boldness` `bow` `breadth` `cause` `christ` `church` `comprehend` `confidence` `created` `depth` `desire` `dispensation` `dwell` `earth` `effectual` `end` `eternal` `exceeding` `faint` `faith` `family` `father` `fellowheirs` `fellowship` `filled` `fulness` `gentiles` `gift` `glory` `god` `gospel` `grace` `grant` `grounded` `heard` `hearts` `heaven` `heavenly` `height` `hid` `holy` `inner` `intent` `jesus` `knees` `know` `knowledge` `known` `least` `length` `less` `lord` `love` `man` `manifold` `men` `minister` `ministry` `mystery` `named` `partakers` `passeth` `paul` `pauls` `places` `power` `powers` `preach` `principalities` `prisoner` `promise` `prophets` `purpose` `purposed` `read` `revealed` `revelation` `riches` `rooted` `saints` `sons` `spirit` `strengthened` `things` `think` `tribulations` `understand` `unsearchable` `wisdom` `words` `worketh` `working` `world` `wrote`
+#able #abundantly #access #ages #amen #apostles #ask #beginning #body #boldness #bow #breadth #cause #christ #church #comprehend #confidence #created #depth #desire #dispensation #dwell #earth #effectual #end #eternal #exceeding #faint #faith #family #father #fellowheirs #fellowship #filled #fulness #gentiles #gift #glory #god #gospel #grace #grant #grounded #heard #hearts #heaven #heavenly #height #hid #holy #inner #intent #jesus #knees #know #knowledge #known #least #length #less #lord #love #man #manifold #men #minister #ministry #mystery #named #partakers #passeth #paul #pauls #places #power #powers #preach #principalities #prisoner #promise #prophets #purpose #purposed #read #revealed #revelation #riches #rooted #saints #sons #spirit #strengthened #things #think #tribulations #understand #unsearchable #wisdom #words #worketh #working #world #wrote
 
 
 ---

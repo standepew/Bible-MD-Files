@@ -1,3 +1,14 @@
+---
+book: "Isaiah"
+chapter: 1
+testament: "Old Testament"
+key_themes: "Divine Judgment, Spiritual Rebellion, Call to Repentance, Christ's Redemption"
+tags:
+  - divine-judgment
+  - spiritual-rebellion
+  - call-to-repentance
+  - christ
+---
 # Isaiah 1
 
 ---
@@ -165,7 +176,7 @@ Vision, Isaiah, son, Amoz, saw, concerning, Judah, Jerusalem, days, Uzziah, Joth
 
 
 *AI Keywords for current event matching:*
-`call` `cease` `christs` `clean` `converts` `country` `desolate` `divine` `evil` `head` `hear` `heavens` `holy` `israel` `judgment` `knoweth` `learn` `nation` `one` `owner` `provoked` `reason` `rebellion` `redeemed` `redemption` `repentance` `righteousness` `scarlet` `sick` `sinful` `sins` `snow` `spiritual` `together` `wash` `well` `white` `whole` `zion`
+#call #cease #christs #clean #converts #country #desolate #divine #evil #head #hear #heavens #holy #israel #judgment #knoweth #learn #nation #one #owner #provoked #reason #rebellion #redeemed #redemption #repentance #righteousness #scarlet #sick #sinful #sins #snow #spiritual #together #wash #well #white #whole #zion
 
 
 ---

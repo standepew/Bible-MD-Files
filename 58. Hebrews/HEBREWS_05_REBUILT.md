@@ -1,3 +1,14 @@
+---
+book: "Hebrews"
+chapter: 5
+testament: "New Testament"
+key_themes: "Qualifications of High Priests, Christ as High Priest, Christ's Obedience and Perfection, Warning Against Immaturity"
+tags:
+  - qualifications-of-high-priests
+  - christ-as-high-priest
+  - christ
+  - warning-against-immaturity
+---
 # Hebrews 5
 
 ---
@@ -81,7 +92,7 @@ High, priest, taken, men, ordained, men, things, pertaining, God, offer, gifts, 
 
 
 *AI Keywords for current event matching:*
-`aaron` `able` `against` `age` `author` `babe` `become` `begotten` `belong` `called` `christ` `christs` `compassed` `compassion` `crying` `days` `death` `discern` `dull` `eternal` `evil` `exercised` `feared` `first` `flesh` `full` `gifts` `glorified` `god` `good` `hard` `heard` `hearing` `high` `honour` `ignorant` `immaturity` `infirmity` `learned` `man` `many` `meat` `melchisedec` `men` `milk` `need` `obedience` `obey` `offer` `offered` `oracles` `ordained` `order` `ought` `people` `perfect` `perfection` `pertaining` `prayers` `priest` `priests` `principles` `qualifications` `reason` `righteousness` `sacrifices` `said` `salvation` `save` `say` `senses` `sins` `son` `strong` `suffered` `supplications` `taken` `taketh` `teach` `teachers` `tears` `things` `time` `unskilful` `use` `useth` `uttered` `warning` `way` `word`
+#aaron #able #against #age #author #babe #become #begotten #belong #called #christ #christs #compassed #compassion #crying #days #death #discern #dull #eternal #evil #exercised #feared #first #flesh #full #gifts #glorified #god #good #hard #heard #hearing #high #honour #ignorant #immaturity #infirmity #learned #man #many #meat #melchisedec #men #milk #need #obedience #obey #offer #offered #oracles #ordained #order #ought #people #perfect #perfection #pertaining #prayers #priest #priests #principles #qualifications #reason #righteousness #sacrifices #said #salvation #save #say #senses #sins #son #strong #suffered #supplications #taken #taketh #teach #teachers #tears #things #time #unskilful #use #useth #uttered #warning #way #word
 
 
 ---

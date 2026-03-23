@@ -1,3 +1,36 @@
+---
+book: "Exodus"
+chapter: 2
+testament: "Old Testament"
+key_themes: "Birth and preservation of Moses, The ark of bulrushes, Pharaoh's daughter, Moses' identity crisis, Moses kills the Egyptian, Moses flees to Midian, The well of Midian, Zipporah, Gershom, Israel's cry reaches God, God remembers His covenant"
+tags:
+  - Moses
+  - birth-of-Moses
+  - ark-of-bulrushes
+  - drawn-out-of-water
+  - Pharaohs-daughter
+  - Jochebed
+  - Miriam
+  - Levi
+  - Hebrew-midwife
+  - Midian
+  - Jethro
+  - Reuel
+  - Zipporah
+  - Gershom
+  - stranger-in-a-strange-land
+  - well
+  - God-heard
+  - God-remembered
+  - covenant-Abraham-Isaac-Jacob
+  - deliverer-hidden
+  - type-of-Christ
+  - prince-of-Egypt
+  - murder
+  - flee
+  - forty-years
+  - burning-bush-setup
+---
 # Exodus 2
 
 ---
@@ -109,7 +142,7 @@ Moses is born to a Levite couple. His mother hides him three months, then places
 
 
 *AI Keywords for current event matching:*
-`asylum` `current` `events` `exodus` `fled` `fugitive` `matching` `moses` `pharaoh` `refugees` `safety` `seekers` `seeking`
+#asylum #current #events #exodus #fled #fugitive #matching #moses #pharaoh #refugees #safety #seekers #seeking
 
 
 ---

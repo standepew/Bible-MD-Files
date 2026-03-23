@@ -1,3 +1,14 @@
+---
+book: "Song of Solomon"
+chapter: 8
+testament: "Old Testament"
+key_themes: "Eternal Love, Spiritual Security, Divine Seal, Perfect Union"
+tags:
+  - eternal-love
+  - spiritual-security
+  - divine-seal
+  - perfect-union
+---
 # Song of Solomon 8
 
 ---
@@ -165,7 +176,7 @@ Brother, sucked, breasts, mother, find, without, kiss, despised, lead, bring, mo
 
 
 *AI Keywords for current event matching:*
-`arm` `beloved` `breasts` `death` `divine` `drown` `eternal` `favour` `floods` `found` `haste` `heart` `love` `make` `mine` `perfect` `quench` `seal` `sealed` `security` `set` `spirit` `spiritual` `strong` `towers` `union` `vineyard` `wall` `waters`
+#arm #beloved #breasts #death #divine #drown #eternal #favour #floods #found #haste #heart #love #make #mine #perfect #quench #seal #sealed #security #set #spirit #spiritual #strong #towers #union #vineyard #wall #waters
 
 
 ---

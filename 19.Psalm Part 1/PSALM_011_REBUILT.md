@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 11
+testament: "Old Testament"
+key_themes: "Trust in God, Divine Protection, God's Judgment, Righteous vs. Wicked"
+tags:
+  - trust-in-god
+  - divine-protection
+  - god
+  - righteous-vs-wicked
+---
 # Psalm 11
 
 ---
@@ -117,7 +128,7 @@ Chief, Musician, Psalm, David, LORD, trust, soul, flee, bird, mountain, wicked, 
 
 
 *AI Keywords for current event matching:*
-`arrow` `behold` `bend` `bird` `bow` `brimstone` `chief` `countenance` `cup` `david` `destroyed` `divine` `eyes` `fire` `flee` `foundations` `god` `gods` `hateth` `heart` `heaven` `holy` `horrible` `judgment` `lord` `loveth` `mountain` `musician` `portion` `privily` `protection` `psalm` `rain` `ready` `righteous` `righteousness` `shoot` `snares` `soul` `string` `tempest` `temple` `throne` `trieth` `trust` `upright` `violence` `wicked`
+#arrow #behold #bend #bird #bow #brimstone #chief #countenance #cup #david #destroyed #divine #eyes #fire #flee #foundations #god #gods #hateth #heart #heaven #holy #horrible #judgment #lord #loveth #mountain #musician #portion #privily #protection #psalm #rain #ready #righteous #righteousness #shoot #snares #soul #string #tempest #temple #throne #trieth #trust #upright #violence #wicked
 
 
 ---

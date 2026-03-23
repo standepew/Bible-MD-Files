@@ -1,3 +1,13 @@
+---
+book: "Isaiah"
+chapter: 28
+testament: "Old Testament"
+key_themes: "Christ's Foundation, Spiritual Drunkenness, Divine Judgment, Christ's Cornerstone"
+tags:
+  - christ
+  - spiritual-drunkenness
+  - divine-judgment
+---
 # Isaiah 28
 
 ---
@@ -105,7 +115,7 @@ Woe, crown, pride, drunkenards, Ephraim, glorious, beauty, fading, flower, head,
 
 
 *AI Keywords for current event matching:*
-`believeth` `christs` `corner` `cornerstone` `crown` `destroying` `divine` `drunkards` `drunkenness` `ephraim` `foundation` `hail` `haste` `judgment` `line` `mighty` `overcome` `overflow` `plummet` `precious` `pride` `refuge` `righteousness` `scourge` `spiritual` `stone` `storm` `strong` `sure` `sweep` `tables` `tempest` `tried` `vomit` `wine`
+#believeth #christs #corner #cornerstone #crown #destroying #divine #drunkards #drunkenness #ephraim #foundation #hail #haste #judgment #line #mighty #overcome #overflow #plummet #precious #pride #refuge #righteousness #scourge #spiritual #stone #storm #strong #sure #sweep #tables #tempest #tried #vomit #wine
 
 
 ---

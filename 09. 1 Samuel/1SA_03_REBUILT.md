@@ -1,3 +1,19 @@
+---
+book: "1 Samuel"
+chapter: 3
+testament: "Old Testament"
+key_themes: "Samuel's Ministry, No Open Vision, God's Call, Samuel's Response, Eli's Perception, God's Message, Eli's Judgment, Samuel's Fear, Samuel's Honesty, Prophet Established"
+tags:
+  - LORD-called-Samuel-answered
+  - ran-Eli-calledst-lie-down
+  - Eli-perceived-LORD-called-child
+  - Eli-called-Samuel-son-answered
+  - samuel
+  - no-open-vision
+  - god
+  - eli
+  - prophet-established
+---
 # 1 Samuel 3
 
 ---
@@ -93,7 +109,7 @@ Samuel ministered to the LORD before Eli. The LORD's word was precious in those 
 
 
 *AI Keywords for current event matching:*
-`answered` `appeared` `ark` `arose` `beer-sheba` `began` `begin` `call` `called` `calledst` `child` `condition` `dan` `day` `days` `dim` `doors` `down` `ears` `eli` `elis` `end` `established` `eyes` `fall` `fear` `feared` `forever` `god` `gods` `good` `grew` `ground` `growth` `heareth` `hid` `hide` `honesty` `house` `iniquity` `inquiry` `israel` `judge` `knew` `laid` `lamp` `lay` `lie` `lord` `message` `ministered` `morning` `offering` `open` `opened` `perceived` `perception` `perform` `place` `precious` `prophet` `purged` `ran` `response` `restrained` `revealed` `sacrifice` `said` `samuel` `samuels` `see` `servant` `shew` `shiloh` `sleep` `son` `sons` `speak` `spiritual` `spoken` `stood` `sworn` `temple` `thing` `things` `third` `time` `times` `tingle` `told` `vile` `vision` `wax` `went` `whit` `word` `words`
+#answered #appeared #ark #arose #beer-sheba #began #begin #call #called #calledst #child #condition #dan #day #days #dim #doors #down #ears #eli #elis #end #established #eyes #fall #fear #feared #forever #god #gods #good #grew #ground #growth #heareth #hid #hide #honesty #house #iniquity #inquiry #israel #judge #knew #laid #lamp #lay #lie #lord #message #ministered #morning #offering #open #opened #perceived #perception #perform #place #precious #prophet #purged #ran #response #restrained #revealed #sacrifice #said #samuel #samuels #see #servant #shew #shiloh #sleep #son #sons #speak #spiritual #spoken #stood #sworn #temple #thing #things #third #time #times #tingle #told #vile #vision #wax #went #whit #word #words
 
 
 ---

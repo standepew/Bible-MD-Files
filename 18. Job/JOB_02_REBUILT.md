@@ -1,3 +1,17 @@
+---
+book: "Job"
+chapter: 2
+testament: "Old Testament"
+key_themes: "Second Heavenly Council, Physical Suffering, Wife's Temptation, Friends' Arrival"
+tags:
+  - LORD-Satan-hand-save-life
+  - potsherd-scrape-sat-ashes
+  - wife-integrity-curse-GOD-die
+  - second-heavenly-council
+  - physical-suffering
+  - wife
+  - friends
+---
 # Job 2
 
 ---
@@ -141,7 +155,7 @@ Day, sons, GOD, present, LORD, Satan, present, LORD. LORD, Satan, whence, comest
 
 
 *AI Keywords for current event matching:*
-`appointment` `arrival` `ashes` `bildad` `boils` `bone` `cause` `comest` `comfort` `considered` `council` `crown` `curse` `day` `days` `destroy` `die` `dust` `earth` `eliphaz` `eschewed` `evil` `eyes` `face` `feared` `flesh` `foolish` `foot` `friends` `god` `going` `good` `great` `grief` `ground` `hand` `heads` `heaven` `heavenly` `holdeth` `integrity` `job` `knew` `life` `lifted` `lips` `lord` `man` `mantle` `mourn` `moved` `naamathite` `nights` `perfect` `physical` `place` `potsherd` `present` `put` `rent` `sat` `satan` `save` `scrape` `second` `servant` `seven` `shuhite` `sin` `skin` `smote` `sons` `sore` `spake` `speak` `sprinkled` `suffering` `temanite` `temptation` `three` `touch` `upright` `voice` `walking` `wept` `whence` `wife` `wifes` `women` `word` `zophar`
+#appointment #arrival #ashes #bildad #boils #bone #cause #comest #comfort #considered #council #crown #curse #day #days #destroy #die #dust #earth #eliphaz #eschewed #evil #eyes #face #feared #flesh #foolish #foot #friends #god #going #good #great #grief #ground #hand #heads #heaven #heavenly #holdeth #integrity #job #knew #life #lifted #lips #lord #man #mantle #mourn #moved #naamathite #nights #perfect #physical #place #potsherd #present #put #rent #sat #satan #save #scrape #second #servant #seven #shuhite #sin #skin #smote #sons #sore #spake #speak #sprinkled #suffering #temanite #temptation #three #touch #upright #voice #walking #wept #whence #wife #wifes #women #word #zophar
 
 
 ---

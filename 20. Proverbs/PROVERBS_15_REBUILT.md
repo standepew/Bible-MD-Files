@@ -1,3 +1,14 @@
+---
+book: "Proverbs"
+chapter: 15
+testament: "Old Testament"
+key_themes: "Gentle Speech, Divine Omniscience, Righteous Sacrifice, Wisdom and Humility"
+tags:
+  - gentle-speech
+  - divine-omniscience
+  - righteous-sacrifice
+  - wisdom-and-humility
+---
 # Proverbs 15
 
 ---
@@ -141,7 +152,7 @@ Soft, answer, turneth, away, wrath, grievous, words, stir, anger, tongue, wise, 
 
 
 *AI Keywords for current event matching:*
-`abomination` `anger` `answer` `appeaseth` `beholding` `delight` `destruction` `divine` `every` `evil` `eyes` `fear` `gentle` `good` `grievous` `hell` `honour` `humility` `instruction` `life` `lord` `omniscience` `place` `prayer` `righteous` `sacrifice` `slow` `soft` `speech` `stir` `strife` `tongue` `tree` `turneth` `upright` `way` `wholesome` `wicked` `wisdom` `words` `wrath`
+#abomination #anger #answer #appeaseth #beholding #delight #destruction #divine #every #evil #eyes #fear #gentle #good #grievous #hell #honour #humility #instruction #life #lord #omniscience #place #prayer #righteous #sacrifice #slow #soft #speech #stir #strife #tongue #tree #turneth #upright #way #wholesome #wicked #wisdom #words #wrath
 
 
 ---

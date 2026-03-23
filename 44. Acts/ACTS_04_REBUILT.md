@@ -1,3 +1,13 @@
+---
+book: "Acts"
+chapter: 4
+testament: "New Testament"
+key_themes: "Peter and John Before the Council, The Prayer of the Disciples, The Believers Share Everything"
+tags:
+  - peter-and-john-before-the-council
+  - the-prayer-of-the-disciples
+  - the-believers-share-everything
+---
 # Acts 4
 
 ---
@@ -151,7 +161,7 @@ Spake, people, priests, captain, temple, Sadducees, grieved, taught, people, pre
 
 
 *AI Keywords for current event matching:*
-`accord` `alexander` `annas` `anointed` `answered` `apostles` `aside` `asked` `assembled` `barnabas` `behold` `beholding` `believed` `believers` `boldness` `builders` `caiaphas` `called` `captain` `chief` `child` `christ` `commanded` `common` `company` `conferred` `consolation` `corner` `council` `counsel` `country` `crucified` `cyprus` `david` `day` `dead` `deed` `determined` `disciples` `distribution` `done` `earth` `elders` `eventide` `everything` `examined` `feet` `filled` `finding` `five` `forty` `further` `gathered` `gentiles` `ghost` `given` `glorified` `god` `good` `grace` `grant` `grieved` `hand` `hands` `head` `heal` `healed` `healing` `heard` `hearken` `heart` `heathen` `heaven` `henceforth` `herod` `high` `hold` `holy` `houses` `ignorant` `imagine` `impotent` `interpreted` `israel` `jerusalem` `jesus` `john` `joses` `judge` `kindred` `kings` `knowledge` `known` `lacked` `laid` `land` `lands` `let` `levite` `lifted` `lord` `made` `man` `many` `marvelled` `means` `men` `midst` `miracle` `money` `morrow` `mouth` `multitude` `name` `nazareth` `need` `next` `nought` `number` `old` `people` `perceived` `peter` `pilate` `place` `pontius` `possessed` `possessors` `power` `prayed` `prayer` `preached` `prices` `priest` `priests` `punish` `rage` `raised` `reported` `resurrection` `right` `rulers` `sadducees` `salvation` `saved` `say` `scribes` `sea` `seen` `servant` `servants` `set` `shaken` `share` `shewed` `sight` `signs` `sold` `son` `soul` `spake` `speak` `stand` `standing` `stone` `stood` `stretching` `surnamed` `taught` `teach` `temple` `things` `thousand` `threaten` `threatened` `threatenings` `truth` `unlearned` `vain` `voice` `whole` `witness` `wonders` `word` `years`
+#accord #alexander #annas #anointed #answered #apostles #aside #asked #assembled #barnabas #behold #beholding #believed #believers #boldness #builders #caiaphas #called #captain #chief #child #christ #commanded #common #company #conferred #consolation #corner #council #counsel #country #crucified #cyprus #david #day #dead #deed #determined #disciples #distribution #done #earth #elders #eventide #everything #examined #feet #filled #finding #five #forty #further #gathered #gentiles #ghost #given #glorified #god #good #grace #grant #grieved #hand #hands #head #heal #healed #healing #heard #hearken #heart #heathen #heaven #henceforth #herod #high #hold #holy #houses #ignorant #imagine #impotent #interpreted #israel #jerusalem #jesus #john #joses #judge #kindred #kings #knowledge #known #lacked #laid #land #lands #let #levite #lifted #lord #made #man #many #marvelled #means #men #midst #miracle #money #morrow #mouth #multitude #name #nazareth #need #next #nought #number #old #people #perceived #peter #pilate #place #pontius #possessed #possessors #power #prayed #prayer #preached #prices #priest #priests #punish #rage #raised #reported #resurrection #right #rulers #sadducees #salvation #saved #say #scribes #sea #seen #servant #servants #set #shaken #share #shewed #sight #signs #sold #son #soul #spake #speak #stand #standing #stone #stood #stretching #surnamed #taught #teach #temple #things #thousand #threaten #threatened #threatenings #truth #unlearned #vain #voice #whole #witness #wonders #word #years
 
 
 ---

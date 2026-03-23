@@ -1,3 +1,13 @@
+---
+book: "Galatians"
+chapter: 1
+testament: "New Testament"
+key_themes: "Paul's Apostleship, The True Gospel, Paul's Conversion, Divine Revelation"
+tags:
+  - paul
+  - the-true-gospel
+  - divine-revelation
+---
 # Galatians 1
 
 ---
@@ -105,7 +115,7 @@ Paul, apostle, men, man, Jesus, Christ, God, Father, raised, dead, brethren, chu
 
 
 *AI Keywords for current event matching:*
-`abode` `accursed` `angel` `another` `apostle` `apostles` `apostleship` `arabia` `blood` `brethren` `brother` `called` `certify` `christ` `church` `churches` `cilicia` `conferred` `conversation` `conversion` `damascus` `days` `dead` `deliver` `destroyed` `divine` `equals` `evil` `exceedingly` `face` `faith` `father` `fathers` `flesh` `galatia` `gave` `glorified` `glory` `god` `gospel` `grace` `heard` `heathen` `heaven` `james` `jerusalem` `jesus` `jews` `judaea` `lie` `lord` `man` `marvel` `measure` `men` `mother` `nation` `paul` `pauls` `peace` `persecuted` `persuade` `pervert` `peter` `please` `pleased` `preach` `preached` `present` `profited` `raised` `received` `regions` `religion` `removed` `reveal` `revelation` `said` `separated` `servant` `sins` `son` `syria` `taught` `three` `time` `traditions` `trouble` `true` `unknown` `wasted` `womb` `world` `write` `years` `zealous`
+#abode #accursed #angel #another #apostle #apostles #apostleship #arabia #blood #brethren #brother #called #certify #christ #church #churches #cilicia #conferred #conversation #conversion #damascus #days #dead #deliver #destroyed #divine #equals #evil #exceedingly #face #faith #father #fathers #flesh #galatia #gave #glorified #glory #god #gospel #grace #heard #heathen #heaven #james #jerusalem #jesus #jews #judaea #lie #lord #man #marvel #measure #men #mother #nation #paul #pauls #peace #persecuted #persuade #pervert #peter #please #pleased #preach #preached #present #profited #raised #received #regions #religion #removed #reveal #revelation #said #separated #servant #sins #son #syria #taught #three #time #traditions #trouble #true #unknown #wasted #womb #world #write #years #zealous
 
 
 ---

@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 128
+testament: "Old Testament"
+key_themes: "Blessing of Righteousness, Family Prosperity, Generational Blessing, Peace in Israel"
+tags:
+  - blessing-of-righteousness
+  - family-prosperity
+  - generational-blessing
+  - peace-in-israel
+---
 # Psalm 128
 
 ---
@@ -105,7 +116,7 @@ Blessed, feareth, LORD, walketh, ways, eat, labour, hands, happy, well, wife, fr
 
 
 *AI Keywords for current event matching:*
-`blessed` `blessing` `children` `days` `eat` `family` `feareth` `fruitful` `generation` `generational` `good` `grandmother` `hands` `happy` `house` `israel` `jerusalem` `labour` `life` `lois` `lord` `olive` `peace` `plants` `prosperity` `righteousness` `round` `see` `sides` `table` `third` `vine` `walketh` `ways` `well` `wife`
+#blessed #blessing #children #days #eat #family #feareth #fruitful #generation #generational #good #grandmother #hands #happy #house #israel #jerusalem #labour #life #lois #lord #olive #peace #plants #prosperity #righteousness #round #see #sides #table #third #vine #walketh #ways #well #wife
 
 
 ---

@@ -1,3 +1,14 @@
+---
+book: "Esther"
+chapter: 3
+testament: "Old Testament"
+key_themes: "Haman's Promotion, Mordecai's Defiance, Plot Against Jews, Royal Decree"
+tags:
+  - haman
+  - mordecai
+  - plot-against-jews
+  - royal-decree
+---
 # Esther 3
 
 ---
@@ -153,7 +164,7 @@ King, Ahasuerus, promote, Haman, son, Hammedatha, Agagite, advanced, seat, princ
 
 
 *AI Keywords for current event matching:*
-`adar` `advanced` `agagite` `against` `ahasuerus` `bowed` `business` `cast` `charge` `children` `city` `commanded` `commandment` `copy` `daily` `day` `decree` `defiance` `destroy` `dispersed` `diverse` `drink` `enemy` `first` `gate` `gave` `good` `governors` `haman` `hamans` `hammedatha` `hand` `hands` `hastened` `hearkened` `jew` `jews` `keep` `kill` `king` `kingdom` `language` `laws` `lay` `letters` `lieutenants` `lot` `matters` `month` `mordecai` `mordecais` `name` `nisan` `old` `palace` `pay` `people` `perish` `perplexed` `please` `plot` `posts` `prey` `princes` `profit` `promote` `promotion` `province` `provinces` `published` `pur` `ready` `reverence` `reverenced` `ring` `royal` `rulers` `sat` `scattered` `scorn` `scribes` `sealed` `seat` `seemeth` `servants` `shewed` `shushan` `silver` `son` `spake` `spoil` `stand` `suffer` `take` `talents` `ten` `thirteenth` `thousand` `told` `transgress` `treasuries` `twelfth` `women` `wrath` `writing` `written` `year` `young`
+#adar #advanced #agagite #against #ahasuerus #bowed #business #cast #charge #children #city #commanded #commandment #copy #daily #day #decree #defiance #destroy #dispersed #diverse #drink #enemy #first #gate #gave #good #governors #haman #hamans #hammedatha #hand #hands #hastened #hearkened #jew #jews #keep #kill #king #kingdom #language #laws #lay #letters #lieutenants #lot #matters #month #mordecai #mordecais #name #nisan #old #palace #pay #people #perish #perplexed #please #plot #posts #prey #princes #profit #promote #promotion #province #provinces #published #pur #ready #reverence #reverenced #ring #royal #rulers #sat #scattered #scorn #scribes #sealed #seat #seemeth #servants #shewed #shushan #silver #son #spake #spoil #stand #suffer #take #talents #ten #thirteenth #thousand #told #transgress #treasuries #twelfth #women #wrath #writing #written #year #young
 
 
 ---

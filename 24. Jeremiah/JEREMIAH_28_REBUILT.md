@@ -1,3 +1,13 @@
+---
+book: "Jeremiah"
+chapter: 28
+testament: "Old Testament"
+key_themes: "Christ's Yoke, False Prophecy, Iron Yoke, Christ's Truth"
+tags:
+  - christ
+  - false-prophecy
+  - iron-yoke
+---
 # Jeremiah 28
 
 ---
@@ -105,7 +115,7 @@ Year, beginning, reign, Zedekiah, king, Judah, fourth, year, fifth, month, Hanan
 
 
 *AI Keywords for current event matching:*
-`babylon` `beasts` `break` `bring` `broken` `cast` `christs` `come` `earth` `false` `field` `hananiah` `hath` `iron` `king` `known` `lie` `lord` `makest` `nebuchadnezzar` `neck` `pass` `people` `place` `prophecy` `prophet` `rebellion` `sent` `serve` `speaketh` `taught` `truly` `trust` `truth` `two` `vessels` `wood` `word` `years` `yoke` `yokes`
+#babylon #beasts #break #bring #broken #cast #christs #come #earth #false #field #hananiah #hath #iron #king #known #lie #lord #makest #nebuchadnezzar #neck #pass #people #place #prophecy #prophet #rebellion #sent #serve #speaketh #taught #truly #trust #truth #two #vessels #wood #word #years #yoke #yokes
 
 
 ---

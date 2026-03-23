@@ -1,3 +1,14 @@
+---
+book: "1 Corinthians"
+chapter: 10
+testament: "New Testament"
+key_themes: "Israel's Example, Warnings Against Sin, The Lord's Table, All to God's Glory"
+tags:
+  - israel
+  - warnings-against-sin
+  - the-lord
+  - all-to-god
+---
 # 1 Corinthians 10
 
 ---
@@ -141,7 +152,7 @@ Brethren, ignorant, fathers, cloud, passed, sea, baptized, Moses, cloud, sea, sp
 
 
 *AI Keywords for current event matching:*
-`able` `admonition` `against` `altar` `asking` `baptized` `bear` `believe` `beloved` `bless` `blessing` `blood` `body` `bread` `break` `brethren` `christ` `church` `cloud` `committed` `common` `communion` `conscience` `cup` `dearly` `destroyed` `destroyer` `devils` `disposed` `drink` `earth` `eat` `edify` `ends` `ensamples` `escape` `evil` `example` `examples` `expedient` `faithful` `fall` `fathers` `feast` `fell` `fellowship` `flee` `flesh` `followed` `fornication` `fulness` `gentiles` `give` `glory` `god` `gods` `grace` `idol` `idolaters` `idolatry` `idols` `ignorant` `intent` `israel` `israels` `jealousy` `jews` `judge` `judged` `lawful` `liberty` `lord` `lords` `lust` `lusted` `man` `many` `meat` `men` `moses` `murmur` `murmured` `offence` `one` `overthrown` `partaker` `partakers` `passed` `people` `play` `please` `pleased` `profit` `provoke` `question` `rock` `rose` `sacrifice` `sacrifices` `sake` `sat` `saved` `sea` `seek` `seeking` `serpents` `shambles` `shewed` `sin` `sold` `speak` `spiritual` `spoken` `standeth` `stronger` `suffer` `table` `takeheed` `tempt` `temptation` `tempted` `thanks` `thing` `things` `thinketh` `thousand` `three` `twenty` `warnings` `way` `wealth` `whatsoever` `wilderness` `wise` `world` `written`
+#able #admonition #against #altar #asking #baptized #bear #believe #beloved #bless #blessing #blood #body #bread #break #brethren #christ #church #cloud #committed #common #communion #conscience #cup #dearly #destroyed #destroyer #devils #disposed #drink #earth #eat #edify #ends #ensamples #escape #evil #example #examples #expedient #faithful #fall #fathers #feast #fell #fellowship #flee #flesh #followed #fornication #fulness #gentiles #give #glory #god #gods #grace #idol #idolaters #idolatry #idols #ignorant #intent #israel #israels #jealousy #jews #judge #judged #lawful #liberty #lord #lords #lust #lusted #man #many #meat #men #moses #murmur #murmured #offence #one #overthrown #partaker #partakers #passed #people #play #please #pleased #profit #provoke #question #rock #rose #sacrifice #sacrifices #sake #sat #saved #sea #seek #seeking #serpents #shambles #shewed #sin #sold #speak #spiritual #spoken #standeth #stronger #suffer #table #takeheed #tempt #temptation #tempted #thanks #thing #things #thinketh #thousand #three #twenty #warnings #way #wealth #whatsoever #wilderness #wise #world #written
 
 
 ---

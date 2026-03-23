@@ -1,3 +1,25 @@
+---
+book: "1 Samuel"
+chapter: 14
+testament: "Old Testament"
+key_themes: "Jonathan's Faith, Victory Through Faith, Saul's Foolish Oath, Honey and Enlightenment, Saul's Rash Vow, People's Sin, Altar Built, Lot Cast, Jonathan Rescued, Saul's Military Success"
+tags:
+  - forefront-northward-Michmash-southward-Gibeah
+  - armourbearer-heart-turn-heart
+  - Jonathan-pass-men-discover
+  - Tarry-place-go-up
+  - land-wood-honey-ground
+  - Saul-God-Jonathan-die
+  - Saul-following-Philistines-Philistines-place
+  - jonathan
+  - victory-through-faith
+  - saul
+  - honey-and-enlightenment
+  - people
+  - altar-built
+  - lot-cast
+  - jonathan-rescued
+---
 # 1 Samuel 14
 
 ---
@@ -93,7 +115,7 @@ Jonathan son of Saul told his armourbearer to go to Philistine garrison on other
 
 
 *AI Keywords for current event matching:*
-`abiel` `abner` `acre` `adjured` `ahiah` `ahimaaz` `ahinoam` `ahitub` `aijalon` `altar` `amalekites` `ammon` `answered` `ark` `armour` `armourbearer` `assembled` `avenged` `battle` `beating` `benjamin` `beth-aven` `blood` `bozez` `brother` `calves` `captain` `charged` `chief` `children` `climbed` `come` `counsel` `country` `cursed` `daughter` `daughters` `day` `days` `deliver` `delivered` `die` `died` `discomfiture` `discover` `discovered` `disobedience` `disperse` `distressed` `divine` `draw` `dropped` `earth` `eat` `eaten` `eateth` `edom` `eli` `enemies` `enlightened` `ephod` `ephraim` `escaped` `established` `evening` `eyes` `faint` `faith` `father` `feared` `feet` `fell` `fellow` `few` `field` `first` `firstborn` `fled` `flew` `followed` `following` `food` `foolish` `forbid` `forefront` `fought` `found` `freely` `garrison` `gibeah` `god` `gone` `good` `ground` `hair` `half` `hand` `hands` `head` `heart` `hebrews` `hid` `holes` `honey` `honeycomb` `host` `hundred` `i-chabod` `increased` `initiative` `ishui` `israel` `israelites` `jonathan` `jonathans` `kingdom` `kings` `kish` `know` `land` `light` `liveth` `lord` `lot` `lots` `man` `many` `melchi-shua` `melted` `men` `merab` `michal` `michmash` `migron` `moab` `morning` `mount` `mouth` `multitude` `name` `near` `ner` `night` `noise` `northward` `number` `oath` `oxen` `pass` `passages` `people` `peoples` `perfect` `philistines` `phinehas` `place` `plow` `pomegranate` `priest` `quaked` `reign` `rescued` `response` `restraint` `rock` `rod` `salvation` `saul` `sauls` `save` `saved` `saveth` `seemeth` `seneh` `sharp` `sheep` `shiloh` `side` `sign` `sin` `six` `slaughter` `slay` `slew` `smote` `son` `sons` `sore` `southward` `spoil` `spoiled` `spoilers` `stone` `straitly` `strong` `sword` `taken` `tarried` `tarry` `tasted` `thing` `transgressed` `tree` `trembled` `trembling` `troubled` `turn` `turned` `twenty` `uncircumcised` `uncle` `uttermost` `valiant` `vexed` `victory` `war` `watchmen` `wife` `withdraw` `wood` `work` `wrought` `yoke` `young` `younger` `zobah`
+#abiel #abner #acre #adjured #ahiah #ahimaaz #ahinoam #ahitub #aijalon #altar #amalekites #ammon #answered #ark #armour #armourbearer #assembled #avenged #battle #beating #benjamin #beth-aven #blood #bozez #brother #calves #captain #charged #chief #children #climbed #come #counsel #country #cursed #daughter #daughters #day #days #deliver #delivered #die #died #discomfiture #discover #discovered #disobedience #disperse #distressed #divine #draw #dropped #earth #eat #eaten #eateth #edom #eli #enemies #enlightened #ephod #ephraim #escaped #established #evening #eyes #faint #faith #father #feared #feet #fell #fellow #few #field #first #firstborn #fled #flew #followed #following #food #foolish #forbid #forefront #fought #found #freely #garrison #gibeah #god #gone #good #ground #hair #half #hand #hands #head #heart #hebrews #hid #holes #honey #honeycomb #host #hundred #i-chabod #increased #initiative #ishui #israel #israelites #jonathan #jonathans #kingdom #kings #kish #know #land #light #liveth #lord #lot #lots #man #many #melchi-shua #melted #men #merab #michal #michmash #migron #moab #morning #mount #mouth #multitude #name #near #ner #night #noise #northward #number #oath #oxen #pass #passages #people #peoples #perfect #philistines #phinehas #place #plow #pomegranate #priest #quaked #reign #rescued #response #restraint #rock #rod #salvation #saul #sauls #save #saved #saveth #seemeth #seneh #sharp #sheep #shiloh #side #sign #sin #six #slaughter #slay #slew #smote #son #sons #sore #southward #spoil #spoiled #spoilers #stone #straitly #strong #sword #taken #tarried #tarry #tasted #thing #transgressed #tree #trembled #trembling #troubled #turn #turned #twenty #uncircumcised #uncle #uttermost #valiant #vexed #victory #war #watchmen #wife #withdraw #wood #work #wrought #yoke #young #younger #zobah
 
 
 ---

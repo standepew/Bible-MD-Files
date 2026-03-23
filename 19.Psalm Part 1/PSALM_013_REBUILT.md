@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 13
+testament: "Old Testament"
+key_themes: "Prayer for Deliverance, Divine Hiddenness, Trust in Mercy, Joyful Thanksgiving"
+tags:
+  - prayer-for-deliverance
+  - divine-hiddenness
+  - trust-in-mercy
+  - joyful-thanksgiving
+---
 # Psalm 13
 
 ---
@@ -117,7 +128,7 @@ Chief, Musician, Psalm, David, long, forget, LORD, forever, hide, face, soul, co
 
 
 *AI Keywords for current event matching:*
-`bountifully` `chief` `consider` `counsel` `daily` `david` `dealt` `death` `deliverance` `divine` `enemy` `exalted` `eyes` `face` `forever` `forget` `god` `hear` `heart` `hiddenness` `hide` `joyful` `lest` `lighten` `long` `lord` `mercy` `moved` `musician` `prayer` `prevailed` `psalm` `questions` `rejoice` `salvation` `say` `sing` `sleep` `sorrow` `soul` `thanksgiving` `trouble` `trust` `trusted`
+#bountifully #chief #consider #counsel #daily #david #dealt #death #deliverance #divine #enemy #exalted #eyes #face #forever #forget #god #hear #heart #hiddenness #hide #joyful #lest #lighten #long #lord #mercy #moved #musician #prayer #prevailed #psalm #questions #rejoice #salvation #say #sing #sleep #sorrow #soul #thanksgiving #trouble #trust #trusted
 
 
 ---

@@ -1,3 +1,13 @@
+---
+book: "Isaiah"
+chapter: 5
+testament: "Old Testament"
+key_themes: "Christ's Vineyard, Divine Judgment, Moral Corruption, Christ's Return"
+tags:
+  - christ
+  - divine-judgment
+  - moral-corruption
+---
 # Isaiah 5
 
 ---
@@ -117,7 +127,7 @@ Sing, wellbeloved, song, beloved, touching, vineyard, wellbeloved, vineyard, fru
 
 
 *AI Keywords for current event matching:*
-`bitter` `break` `call` `choicest` `christs` `come` `corruption` `darkness` `divine` `ensign` `evil` `eyes` `far` `fire` `fruitful` `good` `grapes` `hedge` `hill` `judgment` `lay` `lift` `light` `lion` `moral` `nations` `plant` `pleasant` `return` `roaring` `speed` `stubble` `sweet` `swiftly` `take` `vine` `vineyard` `wall` `waste` `wild` `wise`
+#bitter #break #call #choicest #christs #come #corruption #darkness #divine #ensign #evil #eyes #far #fire #fruitful #good #grapes #hedge #hill #judgment #lay #lift #light #lion #moral #nations #plant #pleasant #return #roaring #speed #stubble #sweet #swiftly #take #vine #vineyard #wall #waste #wild #wise
 
 
 ---

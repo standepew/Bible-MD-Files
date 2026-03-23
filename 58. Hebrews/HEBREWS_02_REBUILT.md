@@ -1,3 +1,13 @@
+---
+book: "Hebrews"
+chapter: 2
+testament: "New Testament"
+key_themes: "Warning Against Neglect, Christ's Humanity, Christ's Suffering and Death, Christ's High Priesthood, Deliverance from Fear of Death"
+tags:
+  - warning-against-neglect
+  - christ
+  - deliverance-from-fear-of-death
+---
 # Hebrews 2
 
 ---
@@ -107,7 +117,7 @@ Earnest, heard, slip, word, spoken, angels, stedfast, transgression, disobedienc
 
 
 *AI Keywords for current event matching:*
-`able` `abraham` `against` `angels` `ashamed` `bearing` `became` `behoved` `blood` `bondage` `brethren` `bringing` `captain` `children` `christs` `church` `come` `confirmed` `crowned` `death` `declare` `deliver` `deliverance` `destroy` `devil` `disobedience` `divers` `earnest` `escape` `faithful` `fear` `feet` `flesh` `ghost` `gifts` `given` `glory` `god` `grace` `hands` `heard` `high` `holy` `honour` `humanity` `jesus` `lifetime` `like` `lord` `lower` `man` `merciful` `midst` `mindful` `miracles` `name` `nature` `neglect` `nothing` `partakers` `partook` `people` `perfect` `power` `praise` `priest` `priesthood` `put` `recompense` `reconciliation` `reward` `salvation` `sanctified` `sanctifieth` `see` `seed` `signs` `sing` `sins` `slip` `son` `sons` `spoken` `stedfast` `subjection` `succour` `suffered` `suffering` `sufferings` `taste` `tempted` `testified` `things` `transgression` `trust` `visitest` `warning` `witness` `wonders` `word` `works` `world`
+#able #abraham #against #angels #ashamed #bearing #became #behoved #blood #bondage #brethren #bringing #captain #children #christs #church #come #confirmed #crowned #death #declare #deliver #deliverance #destroy #devil #disobedience #divers #earnest #escape #faithful #fear #feet #flesh #ghost #gifts #given #glory #god #grace #hands #heard #high #holy #honour #humanity #jesus #lifetime #like #lord #lower #man #merciful #midst #mindful #miracles #name #nature #neglect #nothing #partakers #partook #people #perfect #power #praise #priest #priesthood #put #recompense #reconciliation #reward #salvation #sanctified #sanctifieth #see #seed #signs #sing #sins #slip #son #sons #spoken #stedfast #subjection #succour #suffered #suffering #sufferings #taste #tempted #testified #things #transgression #trust #visitest #warning #witness #wonders #word #works #world
 
 
 ---

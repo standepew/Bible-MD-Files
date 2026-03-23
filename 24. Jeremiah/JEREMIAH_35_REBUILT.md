@@ -1,3 +1,13 @@
+---
+book: "Jeremiah"
+chapter: 35
+testament: "Old Testament"
+key_themes: "Christ's Obedience, Rechabites' Faithfulness, Divine Rebuke, Christ's Blessing"
+tags:
+  - christ
+  - rechabites
+  - divine-rebuke
+---
 # Jeremiah 35
 
 ---
@@ -105,7 +115,7 @@ Word, Jeremiah, LORD, days, Jehoiakim, son, Josiah, king, Judah, house, Rechabit
 
 
 *AI Keywords for current event matching:*
-`answered` `blessing` `build` `christs` `commandment` `divine` `drink` `dwell` `ear` `early` `faithfulness` `father` `forever` `hearkened` `houses` `inclined` `jonadab` `kept` `man` `obedience` `obeyed` `performed` `precepts` `rebuke` `rechabites` `rising` `spoken` `stand` `tents` `voice` `wine`
+#answered #blessing #build #christs #commandment #divine #drink #dwell #ear #early #faithfulness #father #forever #hearkened #houses #inclined #jonadab #kept #man #obedience #obeyed #performed #precepts #rebuke #rechabites #rising #spoken #stand #tents #voice #wine
 
 
 ---

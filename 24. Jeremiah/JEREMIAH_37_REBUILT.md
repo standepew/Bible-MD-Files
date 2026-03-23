@@ -1,3 +1,13 @@
+---
+book: "Jeremiah"
+chapter: 37
+testament: "Old Testament"
+key_themes: "Christ's Imprisonment, False Hope, Divine Warning, Christ's Suffering"
+tags:
+  - christ
+  - false-hope
+  - divine-warning
+---
 # Jeremiah 37
 
 ---
@@ -105,7 +115,7 @@ King, Zedekiah, son, Josiah, reigned, Coniah, son, Jehoiakim, Nebuchadrezzar, ki
 
 
 *AI Keywords for current event matching:*
-`army` `babylon` `burn` `cabins` `chaldeans` `christs` `city` `come` `court` `days` `deceive` `delivered` `depart` `die` `divine` `dungeon` `egypt` `false` `fight` `fire` `hand` `help` `hope` `imprisonment` `jeremiah` `many` `pharaoh` `princes` `prison` `put` `remained` `return` `rise` `smote` `suffering` `tent` `there` `warning` `wroth` `yourselves`
+#army #babylon #burn #cabins #chaldeans #christs #city #come #court #days #deceive #delivered #depart #die #divine #dungeon #egypt #false #fight #fire #hand #help #hope #imprisonment #jeremiah #many #pharaoh #princes #prison #put #remained #return #rise #smote #suffering #tent #there #warning #wroth #yourselves
 
 
 ---

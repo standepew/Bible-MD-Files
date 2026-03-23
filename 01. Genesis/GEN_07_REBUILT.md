@@ -1,3 +1,51 @@
+---
+book: "Genesis"
+chapter: 7
+testament: "Old Testament"
+key_themes: "God Commands Entry into the Ark, Clean and Unclean Animals, Seven Days of Final Warning, The Flood Begins — Fountains of the Deep and Windows of Heaven, Forty Days and Forty Nights of Rain, The LORD Shuts the Door, Waters Prevail and Cover Every Mountain, All Flesh Dies, Noah Only Remains Alive, 150 Days of Waters"
+tags:
+  - Noah
+  - flood
+  - mabbul
+  - ark
+  - come-into-ark
+  - righteous-before-me
+  - clean-beasts
+  - unclean-beasts
+  - sevens
+  - seven-days
+  - forty-days
+  - forty-nights
+  - six-hundredth-year
+  - second-month
+  - seventeenth-day
+  - fountains-of-the-great-deep
+  - tehom-rabbah
+  - windows-of-heaven
+  - arubboth-hashamayim
+  - rain
+  - LORD-shut-him-in
+  - waters-prevailed
+  - gabar
+  - high-hills-covered
+  - mountains-covered
+  - fifteen-cubits
+  - all-flesh-died
+  - breath-of-life
+  - nishmat-chayyim
+  - Noah-only-remained
+  - remnant
+  - hundred-fifty-days
+  - universal-flood
+  - judgment-type
+  - final-judgment-type
+  - baptism-type
+  - resurrection-type
+  - forty-as-testing
+  - seven-as-completion
+  - door-shut-no-return
+  - eight-souls
+---
 # Genesis 7
 
 ---
@@ -117,7 +165,7 @@ God commands Noah: "Come thou and all thy house into the ark; for thee have I se
 
 For AI matching to topics and current events:
 
-`come into the ark` `house` `righteous before me` `this generation` `clean beasts` `seven pairs` `sevens` `unclean beasts` `two pairs` `male and female` `seed alive` `seven days` `forty days` `forty nights` `six hundredth year` `second month` `seventeenth day` `exact date` `fountains of the great deep` `tehom rabbah` `windows of heaven` `arubboth hashamayim` `rain` `Noah's sons` `Shem Ham Japheth` `after his kind` `breath of life` `nishmat chayyim` `LORD shut him in` `God shuts door` `point of no return` `waters prevailed` `gabar` `mabbul` `flood` `high hills covered` `mountains covered` `fifteen cubits` `all flesh died` `dry land` `every man` `every living substance destroyed` `Noah only remained` `hundred and fifty days` `remnant` `eight souls` `ark lifted up` `waters bore up ark` `universal flood` `global flood` `local flood debate` `clean unclean` `pre-Mosaic law` `forty as testing` `seven as completion` `judgment type` `final judgment` `fire after water` `2 Peter 3` `days of Noah`
+#come-into-the-ark #house #righteous-before-me #this-generation #clean-beasts #seven-pairs #sevens #unclean-beasts #two-pairs #male-and-female #seed-alive #seven-days #forty-days #forty-nights #six-hundredth-year #second-month #seventeenth-day #exact-date #fountains-of-the-great-deep #tehom-rabbah #windows-of-heaven #arubboth-hashamayim #rain #Noahs-sons #Shem-Ham-Japheth #after-his-kind #breath-of-life #nishmat-chayyim #LORD-shut-him-in #God-shuts-door #point-of-no-return #waters-prevailed #gabar #mabbul #flood #high-hills-covered #mountains-covered #fifteen-cubits #all-flesh-died #dry-land #every-man #every-living-substance-destroyed #Noah-only-remained #hundred-and-fifty-days #remnant #eight-souls #ark-lifted-up #waters-bore-up-ark #universal-flood #global-flood #local-flood-debate #clean-unclean #pre-Mosaic-law #forty-as-testing #seven-as-completion #judgment-type #final-judgment #fire-after-water #2-Peter-3 #days-of-Noah
 
 **Relevance to Current Events:**
 - Global flood historicity debates — Jesus, Peter, and the prophets all treat the flood as a real, universal, historical event; 2 Peter 3:5-6 explicitly warns against willful ignorance of the flood
@@ -417,28 +465,28 @@ For AI matching to topics and current events:
 
 ### Waters of Judgment = Waters of Salvation — The Dual Nature of the Flood Waters
 
-**Genesis 7:17-18** — "The waters increased, and bare up the ark, and it was lift up above the earth. And the waters prevailed... and the ark went upon the face of the waters"
+[[01. Genesis/GEN_07_REBUILT|Genesis 7:17-18]] — "The waters increased, and bare up the ark, and it was lift up above the earth. And the waters prevailed... and the ark went upon the face of the waters"
 
 **Thread through Scripture:**
-- **Exodus 14:21-28** — The Red Sea: the same waters that drowned Pharaoh's army opened for Israel; the water of judgment for Egypt = the water of salvation for Israel
-- **1 Corinthians 10:1-2** — "Our fathers... were all baptized unto Moses in the cloud and in the sea" — Paul calls the Red Sea crossing a baptism; same structure as the flood
-- **1 Peter 3:20-21** — Peter explicitly: "Eight souls were saved BY WATER. The like figure whereunto even BAPTISM doth also now save us... by the resurrection of Jesus Christ" — the flood's dual-nature water (kills/lifts) = baptism (death to old life/resurrection to new)
-- **Romans 6:3-5** — Buried with Christ in baptism; raised with Christ — the death-then-resurrection movement
-- **John 19:34** — "Blood and water" from Christ's side — the flood's waters and the blood of sacrifice (coats of skins, Genesis 3:21) both flow from the same source of salvation
+- [[02. Exodus/EXO_14_REBUILT|Exodus 14:21-28]] — The Red Sea: the same waters that drowned Pharaoh's army opened for Israel; the water of judgment for Egypt = the water of salvation for Israel
+- [[46. 1 Corinthians/1_CORINTHIANS_10_REBUILT|1 Corinthians 10:1-2]] — "Our fathers... were all baptized unto Moses in the cloud and in the sea" — Paul calls the Red Sea crossing a baptism; same structure as the flood
+- [[60. 1 Peter/1_PETER_03_REBUILT|1 Peter 3:20-21]] — Peter explicitly: "Eight souls were saved BY WATER. The like figure whereunto even BAPTISM doth also now save us... by the resurrection of Jesus Christ" — the flood's dual-nature water (kills/lifts) = baptism (death to old life/resurrection to new)
+- [[45. Romans/ROMANS_06_REBUILT|Romans 6:3-5]] — Buried with Christ in baptism; raised with Christ — the death-then-resurrection movement
+- [[43. John/JOHN_19_REBUILT|John 19:34]] — "Blood and water" from Christ's side — the flood's waters and the blood of sacrifice (coats of skins, Genesis 3:21) both flow from the same source of salvation
 - *Interpretation:* Water in Scripture carries this consistent dual meaning when used in divine judgment and salvation contexts: it kills what is outside the covenant and lifts/saves what is inside. The pattern is established at the flood, confirmed at the Red Sea, applied to baptism by Peter and Paul, and its source is the pierced side of Christ.
 
 ---
 
 ### The Door — Open Invitation Then Shut by God
 
-**Genesis 7:16** — "the LORD shut him in" — closed from the outside by God
+[[01. Genesis/GEN_07_REBUILT|Genesis 7:16]] — "the LORD shut him in" — closed from the outside by God
 
 **Thread through Scripture:**
 - **Song of Solomon 5:2, 6** — "Open to me... I opened to my beloved; but my beloved had withdrawn himself, and was gone" — the missed moment; the door God holds open has a closing time
-- **Matthew 25:10** — Door shut at the bridegroom's coming; "Lord, Lord, open to us" — too late
-- **Luke 13:25** — "When once the master of the house is risen up, and hath shut to the door" — the shut door as the end of the opportunity
-- **Revelation 3:7-8** — "He... that openeth, and no man shutteth; and shutteth, and no man openeth... I have set before thee an open door" — Christ is the door-holder; while He holds it open, no man can shut it; when He shuts it, no man can open it
-- **Revelation 3:20** — "Behold, I stand at the door, and knock" — the last-days invitation; the door is still open to those who hear and open; but the initiative must be taken while the door is accessible
+- [[40. Matthew/MATTHEW_25_REBUILT|Matthew 25:10]] — Door shut at the bridegroom's coming; "Lord, Lord, open to us" — too late
+- [[42. Luke/LUKE_13_REBUILT|Luke 13:25]] — "When once the master of the house is risen up, and hath shut to the door" — the shut door as the end of the opportunity
+- [[66. Revelation/REVELATION_03_REBUILT|Revelation 3:7-8]] — "He... that openeth, and no man shutteth; and shutteth, and no man openeth... I have set before thee an open door" — Christ is the door-holder; while He holds it open, no man can shut it; when He shuts it, no man can open it
+- [[66. Revelation/REVELATION_03_REBUILT|Revelation 3:20]] — "Behold, I stand at the door, and knock" — the last-days invitation; the door is still open to those who hear and open; but the initiative must be taken while the door is accessible
 - *Interpretation:* The door of the ark, shut by God from the outside, is the type of every "door" in Scripture — the closed age of grace, the shut door of the marriage feast, the sealed entrance to God's presence. God holds the door open (2 Peter 3:9 — longsuffering); God closes the door (Genesis 7:16; Matthew 25:10). The urgency of the gospel is the urgency of an open door with an appointed closing time.
 
 ---
@@ -469,15 +517,15 @@ For AI matching to topics and current events:
 
 ### The Remnant — Noah Only Remained
 
-**Genesis 7:23** — "Noah only remained alive, and they that were with him in the ark"
+[[01. Genesis/GEN_07_REBUILT|Genesis 7:23]] — "Noah only remained alive, and they that were with him in the ark"
 
 **Thread through Scripture:**
-- **Genesis 19:29** — Lot preserved from Sodom's destruction — "God remembered Abraham, and sent Lot out of the midst of the overthrow"
-- **1 Kings 19:18** — "Yet I have left me seven thousand in Israel, all the knees which have not bowed unto Baal" — the remnant preserved through Elijah's darkest moment
-- **Isaiah 1:9** — "Except the LORD of hosts had left unto us a very small remnant, we should have been as Sodom"
-- **Ezra 9:8** — "And now for a little space grace hath been shewed from the LORD our God, to leave us a remnant to escape"
-- **Romans 11:5** — "Even so then at this present time also there is a remnant according to the election of grace"
-- **Revelation 12:17** — The dragon makes war with "the remnant of her seed" — the end-times remnant in the same conflict as all previous remnants
+- [[01. Genesis/GEN_19_REBUILT|Genesis 19:29]] — Lot preserved from Sodom's destruction — "God remembered Abraham, and sent Lot out of the midst of the overthrow"
+- [[11. 1 Kings/1_KINGS_19_REBUILT|1 Kings 19:18]] — "Yet I have left me seven thousand in Israel, all the knees which have not bowed unto Baal" — the remnant preserved through Elijah's darkest moment
+- [[23. Isaiah/ISAIAH_01_REBUILT|Isaiah 1:9]] — "Except the LORD of hosts had left unto us a very small remnant, we should have been as Sodom"
+- [[15. Ezra/EZRA_09_REBUILT|Ezra 9:8]] — "And now for a little space grace hath been shewed from the LORD our God, to leave us a remnant to escape"
+- [[45. Romans/ROMANS_11_REBUILT|Romans 11:5]] — "Even so then at this present time also there is a remnant according to the election of grace"
+- [[66. Revelation/REVELATION_12_REBUILT|Revelation 12:17]] — The dragon makes war with "the remnant of her seed" — the end-times remnant in the same conflict as all previous remnants
 - *Interpretation:* The remnant principle — God preserving a small, covenant-faithful group through universal or national judgment — is established at the flood and runs unbroken through Scripture. Eight souls. Seven thousand. A remnant of Israel. The church. The 144,000. The remnant is always small, always preserved by grace (not by superior numbers or power), and always the seed of the next act of redemptive history. Noah's ark containing eight souls is the prototype of every subsequent remnant preservation.
 
 ---

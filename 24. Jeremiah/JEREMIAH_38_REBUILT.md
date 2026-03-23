@@ -1,3 +1,13 @@
+---
+book: "Jeremiah"
+chapter: 38
+testament: "Old Testament"
+key_themes: "Christ's Dungeon, Divine Rescue, Royal Counsel, Christ's Deliverance"
+tags:
+  - christ
+  - divine-rescue
+  - royal-counsel
+---
 # Jeremiah 38
 
 ---
@@ -105,7 +115,7 @@ Shephatiah, son, Mattan, Gedaliah, son, Pashur, Jucal, son, Shelemiah, Pashur, s
 
 
 *AI Keywords for current event matching:*
-`ask` `assuredly` `burn` `burned` `cast` `cause` `christs` `city` `clouts` `cords` `counsel` `deliverance` `divine` `down` `drew` `dungeon` `ebed-melech` `entry` `ethiopian` `forth` `heard` `hide` `house` `let` `live` `lord` `men` `mire` `obey` `old` `rescue` `royal` `secretly` `soul` `sunk` `sware` `thing` `third` `thirty` `voice` `water`
+#ask #assuredly #burn #burned #cast #cause #christs #city #clouts #cords #counsel #deliverance #divine #down #drew #dungeon #ebed-melech #entry #ethiopian #forth #heard #hide #house #let #live #lord #men #mire #obey #old #rescue #royal #secretly #soul #sunk #sware #thing #third #thirty #voice #water
 
 
 ---

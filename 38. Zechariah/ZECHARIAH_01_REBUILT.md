@@ -1,3 +1,14 @@
+---
+book: "Zechariah"
+chapter: 1
+testament: "Old Testament"
+key_themes: "Christ's Call to Repentance, Divine Mercy, Vision of Horses, Restoration of Jerusalem"
+tags:
+  - christ
+  - divine-mercy
+  - vision-of-horses
+  - restoration-of-jerusalem
+---
 # Zechariah 1
 
 ---
@@ -129,7 +140,7 @@ Eighth, month, second, year, Darius, word, LORD, Zechariah, son, Berechiah, son,
 
 
 *AI Keywords for current event matching:*
-`built` `call` `choose` `christs` `cities` `comfortable` `displeased` `divine` `earth` `evil` `fathers` `good` `hear` `hearken` `horse` `horses` `house` `jerusalem` `line` `mercies` `mercy` `myrtle` `prosperity` `red` `repentance` `rest` `restoration` `returned` `sitteth` `sore` `stretched` `trees` `turn` `vision` `walk` `ways` `words`
+#built #call #choose #christs #cities #comfortable #displeased #divine #earth #evil #fathers #good #hear #hearken #horse #horses #house #jerusalem #line #mercies #mercy #myrtle #prosperity #red #repentance #rest #restoration #returned #sitteth #sore #stretched #trees #turn #vision #walk #ways #words
 
 
 ---

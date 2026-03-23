@@ -1,3 +1,14 @@
+---
+book: "Luke"
+chapter: 2
+testament: "New Testament"
+key_themes: "Birth of Jesus, Shepherds and Angels, Presentation in Temple, Jesus at Twelve Years Old"
+tags:
+  - birth-of-jesus
+  - shepherds-and-angels
+  - presentation-in-temple
+  - jesus-at-twelve-years-old
+---
 # Luke 2
 
 ---
@@ -165,7 +176,7 @@ Came, pass, days, decree, Cæsar, Augustus, world, taxed, taxing, first, Cyreniu
 
 
 *AI Keywords for current event matching:*
-`angels` `bethlehem` `birth` `business` `child` `christ` `circumcising` `clothes` `decree` `doctors` `father` `favour` `firstborn` `gentiles` `glory` `god` `good` `great` `heavenly` `host` `increased` `jesus` `joy` `law` `light` `lord` `manger` `old` `peace` `presentation` `prophetess` `purification` `redemption` `shepherds` `simeon` `son` `swaddling` `taxed` `temple` `tidings` `twelve` `wisdom` `years`
+#angels #bethlehem #birth #business #child #christ #circumcising #clothes #decree #doctors #father #favour #firstborn #gentiles #glory #god #good #great #heavenly #host #increased #jesus #joy #law #light #lord #manger #old #peace #presentation #prophetess #purification #redemption #shepherds #simeon #son #swaddling #taxed #temple #tidings #twelve #wisdom #years
 
 
 ---

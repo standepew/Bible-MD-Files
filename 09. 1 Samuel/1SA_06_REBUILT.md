@@ -1,3 +1,21 @@
+---
+book: "1 Samuel"
+chapter: 6
+testament: "Old Testament"
+key_themes: "Ark in Philistia Seven Months, Philistine Counsel, Golden Offerings, Milk Cine Cart, Ark Returns, Beth-shemesh Rejoicing, Burnt Offerings, Beth-shemesh Slain, Ark to Kirjath-jearim"
+tags:
+  - lords-Philistines-border-Beth-shemesh
+  - five-lords-Philistines-Ekron-day
+  - ark-in-philistia-seven-months
+  - philistine-counsel
+  - golden-offerings
+  - milk-cine-cart
+  - ark-returns
+  - bethshemesh-rejoicing
+  - burnt-offerings
+  - bethshemesh-slain
+  - ark-to-kirjathjearim
+---
 # 1 Samuel 6
 
 ---
@@ -87,7 +105,7 @@ The ark of the LORD was in Philistine country seven months. Philistines called f
 
 
 *AI Keywords for current event matching:*
-`abel` `ark` `ashdod` `aside` `askelon` `away` `beth-shemesh` `beth-shemite` `border` `burnt` `calves` `cart` `chance` `cities` `clave` `coast` `coffer` `counsel` `country` `day` `departed` `departure` `diviners` `egyptians` `ekron` `emerods` `empty` `evil` `eyes` `fenced` `fetch` `field` `fifty` `five` `gath` `gaza` `glory` `god` `gods` `goeth` `gold` `golden` `great` `hand` `happened` `harden` `hardened` `harvest` `healed` `hearts` `highway` `holy` `home` `images` `inhabitants` `israel` `jewels` `joshua` `journey` `judgment` `kine` `kirjath-jearim` `known` `lamented` `land` `left` `levites` `lifted` `lighten` `looked` `lord` `lords` `lowing` `mar` `men` `messengers` `mice` `milch` `months` `new` `offering` `offerings` `people` `pharaoh` `philistine` `philistines` `place` `plague` `preparation` `priests` `reaping` `reception` `rejoiced` `remaineth` `removed` `right` `sacrifices` `send` `seven` `shut` `side` `slaughter` `smote` `stand` `stone` `straight` `ten` `thousand` `threescore` `tied` `transfer` `trespass` `turned` `two` `valley` `villages` `way` `wheat` `wonderfully` `wood` `wrought` `yoke`
+#abel #ark #ashdod #aside #askelon #away #beth-shemesh #beth-shemite #border #burnt #calves #cart #chance #cities #clave #coast #coffer #counsel #country #day #departed #departure #diviners #egyptians #ekron #emerods #empty #evil #eyes #fenced #fetch #field #fifty #five #gath #gaza #glory #god #gods #goeth #gold #golden #great #hand #happened #harden #hardened #harvest #healed #hearts #highway #holy #home #images #inhabitants #israel #jewels #joshua #journey #judgment #kine #kirjath-jearim #known #lamented #land #left #levites #lifted #lighten #looked #lord #lords #lowing #mar #men #messengers #mice #milch #months #new #offering #offerings #people #pharaoh #philistine #philistines #place #plague #preparation #priests #reaping #reception #rejoiced #remaineth #removed #right #sacrifices #send #seven #shut #side #slaughter #smote #stand #stone #straight #ten #thousand #threescore #tied #transfer #trespass #turned #two #valley #villages #way #wheat #wonderfully #wood #wrought #yoke
 
 
 ---

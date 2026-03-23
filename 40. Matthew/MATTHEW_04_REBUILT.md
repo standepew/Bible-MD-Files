@@ -1,3 +1,14 @@
+---
+book: "Matthew"
+chapter: 4
+testament: "New Testament"
+key_themes: "Christ's Temptation, Kingdom Ministry, Calling Disciples, Divine Healing"
+tags:
+  - christ
+  - kingdom-ministry
+  - calling-disciples
+  - divine-healing
+---
 # Matthew 4
 
 ---
@@ -117,7 +128,7 @@ Jesus, led, Spirit, wilderness, tempted, devil, fasted, forty, days, forty, nigh
 
 
 *AI Keywords for current event matching:*
-`alone` `bread` `calling` `christs` `days` `devils` `disciples` `disease` `divine` `fishers` `follow` `followed` `forty` `gospel` `healed` `healing` `immediately` `kingdom` `led` `left` `manner` `men` `ministry` `multitudes` `nets` `possessed` `preaching` `repent` `sickness` `spirit` `synagogues` `teaching` `temptation` `tempted` `wilderness`
+#alone #bread #calling #christs #days #devils #disciples #disease #divine #fishers #follow #followed #forty #gospel #healed #healing #immediately #kingdom #led #left #manner #men #ministry #multitudes #nets #possessed #preaching #repent #sickness #spirit #synagogues #teaching #temptation #tempted #wilderness
 
 
 ---

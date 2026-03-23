@@ -1,3 +1,13 @@
+---
+book: "Ezekiel"
+chapter: 23
+testament: "Old Testament"
+key_themes: "Christ's Faithfulness, Unfaithful Sisters, Divine Judgment, Christ's Cup"
+tags:
+  - christ
+  - unfaithful-sisters
+  - divine-judgment
+---
 # Ezekiel 23
 
 ---
@@ -117,7 +127,7 @@ Word, Lord, son, man, women, daughters, mother, committed, whoredoms, Egypt, you
 
 
 *AI Keywords for current event matching:*
-`aholah` `aholibah` `bare` `christs` `cup` `daughters` `deep` `delivered` `discovered` `divine` `doted` `drink` `drunkenness` `faithfulness` `famous` `hand` `harlot` `jerusalem` `judgment` `laughed` `lovers` `mine` `mother` `nakedness` `played` `samaria` `scorn` `sister` `sisters` `slew` `sons` `sorrow` `sword` `two` `unfaithful` `women`
+#aholah #aholibah #bare #christs #cup #daughters #deep #delivered #discovered #divine #doted #drink #drunkenness #faithfulness #famous #hand #harlot #jerusalem #judgment #laughed #lovers #mine #mother #nakedness #played #samaria #scorn #sister #sisters #slew #sons #sorrow #sword #two #unfaithful #women
 
 
 ---

@@ -1,3 +1,90 @@
+---
+book: "Deuteronomy"
+chapter: 25
+testament: "Old Testament"
+key_themes: "Judicial Justice, Flogging Limits, Animal Rights, Levirate Marriage, Family Name Preservation, Refusal Punishment, Assaulting Woman, Dishonest Measures, Just Weights and Measures, Amalek's Destruction"
+tags:
+  - controversy-men
+  - come-judgment
+  - judges-judge
+  - justify-righteous
+  - condemn-wicked
+  - worthy-beaten
+  - judge-cause-lie-down
+  - beaten-face
+  - according-fault
+  - certain-number
+  - forty-stripes
+  - not-exceed
+  - exceed-many-stripes
+  - brother-seem-vile
+  - muzzle-ox
+  - treadeth-corn
+  - brethren-dwell-together
+  - one-die
+  - no-child
+  - wife-dead
+  - not-marry-without-stranger
+  - husbands-brother
+  - take-wife
+  - perform-duty
+  - husbands-brother
+  - firstborn-bear
+  - succeed-name-brother
+  - name-not-put-out-Israel
+  - man-like-not-take
+  - brothers-wife
+  - go-gate-elders
+  - husbands-brother-refuseth
+  - raise-up-name
+  - Israel
+  - perform-duty
+  - elders-city-call
+  - speak-unto
+  - stand-like-not-take
+  - brothers-wife-come
+  - presence-elders
+  - loose-shoe-foot
+  - spit-face
+  - answer-say
+  - done-man
+  - build-brothers-house
+  - name-called-Israel
+  - house-shoe-loosed
+  - men-strive-together
+  - wife-one-draweth-near
+  - deliver-husband
+  - hand-smiteth
+  - put-forth-hand
+  - secrets
+  - cut-off-hand
+  - eye-not-pity
+  - bag-divers-weights
+  - great-small
+  - house-divers-measures
+  - great-small
+  - perfect-just-weight
+  - perfect-just-measure
+  - days-lengthened
+  - land-LORD-giveth
+  - unrighteously
+  - abomination-LORD
+  - remember-Amalek
+  - way-Egypt
+  - met-way
+  - smote-hindmost
+  - feeble-behind
+  - faint-weary
+  - feared-not-God
+  - LORD-given-rest
+  - enemies-round-about
+  - land-inheritance
+  - possess-it
+  - blot-out-remembrance
+  - Amalek
+  - under-heaven
+  - not-forget
+---
 # Deuteronomy 25
 
 ---
@@ -129,7 +216,7 @@ Moses concludes miscellaneous laws: (1) Judicial justice—judges must justify t
 
 
 *AI Keywords for current event matching:*
-`abomination` `according` `amalek` `amaleks` `animal` `answer` `assaulting` `bag` `bear` `beaten` `behind` `blot` `brethren` `brother` `brothers` `build` `call` `called` `cause` `certain` `child` `city` `come` `commerce` `condemn` `controversy` `corn` `cut` `days` `dead` `deliver` `destruction` `die` `divers` `done` `down` `draweth` `duty` `dwell` `egypt` `elders` `enemies` `exceed` `eye` `face` `faint` `fault` `feared` `feeble` `firstborn` `foot` `forget` `forth` `forty` `gate` `given` `giveth` `god` `great` `hand` `heaven` `hindmost` `honest` `house` `husband` `husbands` `inheritance` `israel` `judge` `judges` `judgment` `judicial` `justice` `justify` `land` `lengthened` `levirate` `lie` `like` `loose` `loosed` `lord` `man` `many` `marriage` `marry` `measure` `measures` `men` `met` `muzzle` `name` `near` `number` `off` `one` `perfect` `perform` `pity` `possess` `presence` `procedure` `put` `raise` `refusal` `refuseth` `remember` `remembrance` `rest` `righteous` `rights` `round` `say` `secrets` `seem` `shoe` `small` `smiteth` `smote` `speak` `spit` `stand` `stranger` `stripes` `strive` `succeed` `take` `together` `treadeth` `unrighteously` `vile` `way` `weary` `weight` `weights` `wicked` `wife` `without` `woman` `worthy`
+#abomination #according #amalek #amaleks #animal #answer #assaulting #bag #bear #beaten #behind #blot #brethren #brother #brothers #build #call #called #cause #certain #child #city #come #commerce #condemn #controversy #corn #cut #days #dead #deliver #destruction #die #divers #done #down #draweth #duty #dwell #egypt #elders #enemies #exceed #eye #face #faint #fault #feared #feeble #firstborn #foot #forget #forth #forty #gate #given #giveth #god #great #hand #heaven #hindmost #honest #house #husband #husbands #inheritance #israel #judge #judges #judgment #judicial #justice #justify #land #lengthened #levirate #lie #like #loose #loosed #lord #man #many #marriage #marry #measure #measures #men #met #muzzle #name #near #number #off #one #perfect #perform #pity #possess #presence #procedure #put #raise #refusal #refuseth #remember #remembrance #rest #righteous #rights #round #say #secrets #seem #shoe #small #smiteth #smote #speak #spit #stand #stranger #stripes #strive #succeed #take #together #treadeth #unrighteously #vile #way #weary #weight #weights #wicked #wife #without #woman #worthy
 
 
 ---

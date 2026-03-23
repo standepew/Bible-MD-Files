@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 36
+testament: "Old Testament"
+key_themes: "Wicked's Depravity, God's Mercy, Divine Righteousness, Fountain of Life"
+tags:
+  - wicked
+  - god
+  - divine-righteousness
+  - fountain-of-life
+---
 # Psalm 36
 
 ---
@@ -129,7 +140,7 @@ Chief, Musician, Psalm, David, servant, LORD, transgression, wicked, saith, hear
 
 
 *AI Keywords for current event matching:*
-`abundantly` `beast` `chief` `children` `clouds` `continue` `david` `deceit` `deep` `depravity` `divine` `drink` `excellent` `eyes` `faithfulness` `fatness` `fear` `flattereth` `found` `fountain` `god` `gods` `good` `great` `hateful` `heart` `heavens` `house` `iniquity` `judgments` `know` `left` `life` `light` `lord` `lovingkindness` `make` `man` `men` `mercy` `mountains` `mouth` `musician` `pleasures` `preservest` `psalm` `reacheth` `righteousness` `river` `saith` `satisfied` `see` `servant` `shadow` `transgression` `trust` `upright` `wicked` `wickeds` `wings` `wise` `words`
+#abundantly #beast #chief #children #clouds #continue #david #deceit #deep #depravity #divine #drink #excellent #eyes #faithfulness #fatness #fear #flattereth #found #fountain #god #gods #good #great #hateful #heart #heavens #house #iniquity #judgments #know #left #life #light #lord #lovingkindness #make #man #men #mercy #mountains #mouth #musician #pleasures #preservest #psalm #reacheth #righteousness #river #saith #satisfied #see #servant #shadow #transgression #trust #upright #wicked #wickeds #wings #wise #words
 
 
 ---

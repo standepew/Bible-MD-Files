@@ -1,3 +1,35 @@
+---
+book: "Exodus"
+chapter: 20
+testament: "Old Testament"
+key_themes: "The Ten Commandments, "I am the LORD thy God, which have brought thee out... out of the house of bondage," No other gods, No graven images, Do not take the LORD's name in vain, Remember the Sabbath, Honor father and mother, No murder, No adultery, No stealing, No false witness, No coveting, The people tremble and stand afar off, Moses draws near to God, Altar instructions"
+tags:
+  - Ten-Commandments
+  - Decalogue
+  - I-am-the-LORD-thy-God
+  - house-of-bondage
+  - no-other-gods
+  - no-graven-image
+  - jealous-God
+  - visiting-iniquity-to-third-fourth-generation
+  - mercy-to-thousands
+  - name-in-vain
+  - Sabbath
+  - six-days-labor
+  - seventh-day-rest
+  - honor-father-mother
+  - no-murder
+  - no-adultery
+  - no-stealing
+  - no-false-witness
+  - no-coveting
+  - people-tremble
+  - Moses-draws-near
+  - thick-darkness
+  - altar-of-earth
+  - unhewn-stone
+  - no-steps-to-altar
+---
 # Exodus 20
 
 ---
@@ -142,7 +174,7 @@ God speaks directly to all the people: the Ten Commandments. He opens with His i
 
 
 *AI Keywords for current event matching:*
-`civilization` `commandments` `current` `events` `exodus` `foundational` `law` `matching` `moral` `ten` `western`
+#civilization #commandments #current #events #exodus #foundational #law #matching #moral #ten #western
 
 
 ---

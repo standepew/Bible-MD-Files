@@ -1,3 +1,14 @@
+---
+book: "Matthew"
+chapter: 3
+testament: "New Testament"
+key_themes: "Christ's Baptism, John the Baptist, Holy Spirit, Divine Sonship"
+tags:
+  - christ
+  - john-the-baptist
+  - holy-spirit
+  - divine-sonship
+---
 # Matthew 3
 
 ---
@@ -117,7 +128,7 @@ Days, John, Baptist, preaching, wilderness, Judaea, saying, Repent, kingdom, hea
 
 
 *AI Keywords for current event matching:*
-`baptism` `baptist` `baptize` `baptized` `beloved` `christs` `crying` `descended` `descending` `divine` `dove` `fire` `fulfill` `generation` `ghost` `god` `heaven` `heavens` `holy` `jesus` `john` `lighting` `like` `opened` `pleased` `prepare` `righteousness` `son` `sonship` `spirit` `vipers` `voice` `water` `way` `well`
+#baptism #baptist #baptize #baptized #beloved #christs #crying #descended #descending #divine #dove #fire #fulfill #generation #ghost #god #heaven #heavens #holy #jesus #john #lighting #like #opened #pleased #prepare #righteousness #son #sonship #spirit #vipers #voice #water #way #well
 
 
 ---

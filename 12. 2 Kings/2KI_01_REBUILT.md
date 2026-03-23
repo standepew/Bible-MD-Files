@@ -1,3 +1,19 @@
+---
+book: "2 Kings"
+chapter: 1
+testament: "Old Testament"
+key_themes: "Ahaziah's Idolatry, Elijah's Confrontation, Divine Fire, Prophetic Authority, Judgment"
+tags:
+  - Moab-rebelled-Israel-death-Ahab
+  - LORD-bed-die-Elijah-departed
+  - messengers-turned-back-turned-back
+  - manner-man-meet-words
+  - ahaziah
+  - elijah
+  - divine-fire
+  - prophetic-authority
+  - judgment
+---
 # 2 Kings 1
 
 ---
@@ -85,7 +101,7 @@ Moab rebelled Israel death Ahab. Ahaziah fell lattice upper chamber Samaria, sic
 
 
 *AI Keywords for current event matching:*
-`acts` `afraid` `ahab` `ahaziah` `ahaziahs` `angel` `arise` `arose` `baal-zebub` `back` `bed` `besought` `book` `burnt` `captain` `captains` `chamber` `chronicles` `come` `confrontation` `consume` `consumed` `death` `departed` `die` `died` `disease` `divine` `down` `ekron` `elijah` `enquire` `fell` `fifties` `fifty` `final` `fire` `girdle` `god` `hairy` `heaven` `hill` `humility` `israel` `jehoram` `jehoshaphat` `judah` `judgment` `king` `kings` `knees` `lattice` `leather` `life` `loins` `lord` `man` `manner` `meet` `messengers` `moab` `precious` `quickly` `rebelled` `rebellion` `recover` `reigned` `report` `samaria` `second` `servants` `sick` `son` `spoke` `third` `tishbite` `turn` `turned` `upper` `word` `words` `year`
+#acts #afraid #ahab #ahaziah #ahaziahs #angel #arise #arose #baal-zebub #back #bed #besought #book #burnt #captain #captains #chamber #chronicles #come #confrontation #consume #consumed #death #departed #die #died #disease #divine #down #ekron #elijah #enquire #fell #fifties #fifty #final #fire #girdle #god #hairy #heaven #hill #humility #israel #jehoram #jehoshaphat #judah #judgment #king #kings #knees #lattice #leather #life #loins #lord #man #manner #meet #messengers #moab #precious #quickly #rebelled #rebellion #recover #reigned #report #samaria #second #servants #sick #son #spoke #third #tishbite #turn #turned #upper #word #words #year
 
 
 ---

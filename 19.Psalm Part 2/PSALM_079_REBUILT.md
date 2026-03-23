@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 79
+testament: "Old Testament"
+key_themes: "National Disaster, Divine Anger, Plea for Mercy, Vindication"
+tags:
+  - national-disaster
+  - divine-anger
+  - plea-for-mercy
+  - vindication
+---
 # Psalm 79
 
 ---
@@ -141,7 +152,7 @@ Psalm, Asaph, GOD, heathen, thine, inheritance, holy, temple, defiled, laid, Jer
 
 
 *AI Keywords for current event matching:*
-`anger` `angry` `asaph` `beasts` `blasphemed` `blood` `bodies` `bosom` `brought` `burn` `call` `dead` `defiled` `deliver` `disaster` `divine` `earth` `fire` `flesh` `foolish` `forever` `former` `fowls` `glory` `god` `heaps` `heathen` `heaven` `help` `holy` `inheritance` `iniquities` `jealousy` `jerusalem` `known` `laid` `long` `lord` `low` `meat` `mercies` `mercy` `name` `national` `neighbours` `people` `plea` `pour` `prevent` `psalm` `purge` `remember` `render` `reproach` `reproached` `revenging` `saints` `sake` `salvation` `servants` `sevenfold` `shed` `sight` `sins` `speedily` `temple` `tender` `vindication` `wrath`
+#anger #angry #asaph #beasts #blasphemed #blood #bodies #bosom #brought #burn #call #dead #defiled #deliver #disaster #divine #earth #fire #flesh #foolish #forever #former #fowls #glory #god #heaps #heathen #heaven #help #holy #inheritance #iniquities #jealousy #jerusalem #known #laid #long #lord #low #meat #mercies #mercy #name #national #neighbours #people #plea #pour #prevent #psalm #purge #remember #render #reproach #reproached #revenging #saints #sake #salvation #servants #sevenfold #shed #sight #sins #speedily #temple #tender #vindication #wrath
 
 
 ---

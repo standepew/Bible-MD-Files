@@ -1,3 +1,14 @@
+---
+book: "Acts"
+chapter: 5
+testament: "New Testament"
+key_themes: "Ananias and Sapphira, The Apostles' Miracles, The Second Arrest, Gamaliel's Counsel"
+tags:
+  - ananias-and-sapphira
+  - the-apostles
+  - the-second-arrest
+  - gamaliel
+---
 # Acts 5
 
 ---
@@ -153,7 +164,7 @@ Man, named, Ananias, Sapphira, wife, sold, possession, kept, back, price, wife, 
 
 
 *AI Keywords for current event matching:*
-`accord` `added` `agreed` `alone` `ananias` `angel` `answered` `apostles` `arose` `arrest` `back` `beaten` `beds` `behold` `believers` `blood` `boasting` `bringing` `brought` `buried` `called` `captain` `carried` `carry` `carrying` `ceased` `chief` `children` `christ` `church` `cities` `come` `command` `commanded` `common` `conceived` `couches` `council` `counsel` `counted` `cut` `daily` `days` `dead` `departed` `dispersed` `doctor` `doctrine` `done` `door` `doors` `doubted` `drew` `durst` `early` `entered` `every` `exalted` `fathers` `fear` `feared` `feet` `fell` `fight` `filled` `folks` `forgiveness` `forth` `found` `four` `galilee` `gamaliel` `gamaliels` `gave` `ghost` `given` `god` `great` `grow` `hand` `hands` `hanged` `healed` `heard` `hearing` `heart` `heed` `high` `holy` `hours` `house` `hundred` `husband` `indignation` `intend` `israel` `jerusalem` `jesus` `join` `joined` `judas` `keep` `keepers` `kept` `knowing` `laid` `land` `law` `least` `lest` `let` `lie` `lied` `life` `lord` `magnified` `man` `men` `miracles` `morning` `much` `multitude` `multitudes` `name` `named` `night` `nought` `number` `obey` `obeyed` `officers` `opened` `overshadow` `overthrow` `part` `passing` `people` `perished` `peter` `pharisee` `porch` `possession` `power` `preach` `presence` `price` `priest` `priests` `prince` `prison` `privy` `raised` `refrain` `rejoicing` `remained` `repentance` `reputation` `rest` `returned` `right` `sadducees` `safety` `sapphira` `satan` `saviour` `scattered` `second` `senate` `sent` `shadow` `shame` `shut` `sick` `signs` `sins` `slain` `slay` `slew` `sold` `solomon` `somebody` `space` `speak` `spirit` `spirits` `stand` `standing` `stoned` `straightway` `straitly` `streets` `suffer` `take` `taught` `taxing` `teach` `teaching` `temple` `tempt` `theudas` `things` `three` `told` `touching` `tree` `unclean` `vexed` `violence` `wife` `witnesses` `women` `wonders` `words` `work` `worthy` `wound` `wrought` `yea` `yielded` `young`
+#accord #added #agreed #alone #ananias #angel #answered #apostles #arose #arrest #back #beaten #beds #behold #believers #blood #boasting #bringing #brought #buried #called #captain #carried #carry #carrying #ceased #chief #children #christ #church #cities #come #command #commanded #common #conceived #couches #council #counsel #counted #cut #daily #days #dead #departed #dispersed #doctor #doctrine #done #door #doors #doubted #drew #durst #early #entered #every #exalted #fathers #fear #feared #feet #fell #fight #filled #folks #forgiveness #forth #found #four #galilee #gamaliel #gamaliels #gave #ghost #given #god #great #grow #hand #hands #hanged #healed #heard #hearing #heart #heed #high #holy #hours #house #hundred #husband #indignation #intend #israel #jerusalem #jesus #join #joined #judas #keep #keepers #kept #knowing #laid #land #law #least #lest #let #lie #lied #life #lord #magnified #man #men #miracles #morning #much #multitude #multitudes #name #named #night #nought #number #obey #obeyed #officers #opened #overshadow #overthrow #part #passing #people #perished #peter #pharisee #porch #possession #power #preach #presence #price #priest #priests #prince #prison #privy #raised #refrain #rejoicing #remained #repentance #reputation #rest #returned #right #sadducees #safety #sapphira #satan #saviour #scattered #second #senate #sent #shadow #shame #shut #sick #signs #sins #slain #slay #slew #sold #solomon #somebody #space #speak #spirit #spirits #stand #standing #stoned #straightway #straitly #streets #suffer #take #taught #taxing #teach #teaching #temple #tempt #theudas #things #three #told #touching #tree #unclean #vexed #violence #wife #witnesses #women #wonders #words #work #worthy #wound #wrought #yea #yielded #young
 
 
 ---

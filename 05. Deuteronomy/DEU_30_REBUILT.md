@@ -1,3 +1,108 @@
+---
+book: "Deuteronomy"
+chapter: 30
+testament: "Old Testament"
+key_themes: "Restoration and Return, Captivity Reversal, Heart Circumcision, Divine Compassion, Nearness of God's Word, Life and Death Choice, Blessing and Cursing, Covenant Faithfulness, Heaven and Earth Witnesses, Choosing Life"
+tags:
+  - things-come-upon
+  - blessing-curse
+  - set-before
+  - call-mind
+  - nations
+  - LORD-driven
+  - return-LORD-God
+  - obey-voice
+  - command-day
+  - children
+  - heart-soul
+  - LORD-turn-captivity
+  - compassion
+  - return-gather
+  - nations
+  - LORD-scattered
+  - driven-outmost-heaven
+  - thence-gather
+  - thence-fetch
+  - bring-land
+  - fathers-possessed
+  - possess-land
+  - good-multiply
+  - above-fathers
+  - LORD-circumcise-heart
+  - heart-seed
+  - love-LORD-God
+  - heart-soul
+  - live
+  - put-curses
+  - enemies
+  - hate-thee
+  - persecuted-thee
+  - return-obey-voice
+  - commandments
+  - LORD-plenteous
+  - work-hand
+  - fruit-body
+  - fruit-cattle
+  - fruit-land
+  - rejoice-good
+  - rejoiced-fathers
+  - hearken-voice
+  - keep-commandments-statutes
+  - book-law
+  - turn-LORD-God
+  - heart-soul
+  - commandment-day
+  - not-hidden
+  - not-far-off
+  - heaven
+  - say-who-go-heaven
+  - bring-us
+  - hear-do
+  - beyond-sea
+  - say-who-go-sea
+  - bring-us
+  - hear-do
+  - word-nigh
+  - mouth-heart
+  - may-do
+  - set-before-day
+  - life-good
+  - death-evil
+  - command-day
+  - love-LORD-God
+  - walk-ways
+  - keep-commandments-statutes-judgments
+  - live-multiply
+  - LORD-bless-land
+  - go-possess
+  - heart-turn-away
+  - not-hear
+  - drawn-away
+  - worship-gods
+  - serve-them
+  - denounce-day
+  - surely-perish
+  - prolong-days
+  - land
+  - passest-Jordan
+  - possess-it
+  - call-heaven-earth
+  - record-day
+  - set-before
+  - life-death
+  - blessing-cursing
+  - choose-life
+  - seed-live
+  - love-LORD-God
+  - obey-voice
+  - cleave-unto-him
+  - life-length-days
+  - dwell-land
+  - LORD-sware
+  - fathers
+  - Abraham-Isaac-Jacob
+  - give-them
+---
 # Deuteronomy 30
 
 ---
@@ -97,7 +202,7 @@ Moses presents the path to restoration: when blessings and curses come upon Isra
 
 
 *AI Keywords for current event matching:*
-`above` `abraham` `accessibility` `away` `beyond` `bless` `blessing` `body` `book` `bring` `call` `captivity` `cattle` `children` `choice` `choose` `circumcise` `cleave` `come` `command` `commandment` `commandments` `compassion` `curse` `curses` `cursing` `day` `days` `death` `denounce` `drawn` `driven` `dwell` `earth` `enemies` `evil` `far` `fathers` `fetch` `fruit` `gather` `give` `god` `gods` `good` `hand` `hate` `hear` `hearken` `heart` `heaven` `hidden` `isaac` `jacob` `jordan` `judgments` `keep` `land` `law` `length` `life` `live` `lord` `love` `mind` `mouth` `multiply` `nations` `nigh` `obey` `off` `outmost` `passest` `perish` `persecuted` `plenteous` `possess` `possessed` `prolong` `promise` `prosperity` `put` `record` `rejoice` `rejoiced` `restoration` `return` `say` `scattered` `sea` `seed` `serve` `set` `soul` `spiritual` `statutes` `surely` `sware` `thence` `things` `transformation` `turn` `voice` `walk` `ways` `witness` `word` `work` `worship`
+#above #abraham #accessibility #away #beyond #bless #blessing #body #book #bring #call #captivity #cattle #children #choice #choose #circumcise #cleave #come #command #commandment #commandments #compassion #curse #curses #cursing #day #days #death #denounce #drawn #driven #dwell #earth #enemies #evil #far #fathers #fetch #fruit #gather #give #god #gods #good #hand #hate #hear #hearken #heart #heaven #hidden #isaac #jacob #jordan #judgments #keep #land #law #length #life #live #lord #love #mind #mouth #multiply #nations #nigh #obey #off #outmost #passest #perish #persecuted #plenteous #possess #possessed #prolong #promise #prosperity #put #record #rejoice #rejoiced #restoration #return #say #scattered #sea #seed #serve #set #soul #spiritual #statutes #surely #sware #thence #things #transformation #turn #voice #walk #ways #witness #word #work #worship
 
 
 ---

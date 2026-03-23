@@ -1,3 +1,13 @@
+---
+book: "Isaiah"
+chapter: 29
+testament: "Old Testament"
+key_themes: "Christ's Revelation, Spiritual Blindness, Divine Wonder, Christ's Understanding"
+tags:
+  - christ
+  - spiritual-blindness
+  - divine-wonder
+---
 # Isaiah 29
 
 ---
@@ -117,7 +127,7 @@ Woe, Ariel, Ariel, city, David, dwelt, add, year, year, kill, sacrifices, distre
 
 
 *AI Keywords for current event matching:*
-`blind` `blindness` `book` `cannot` `christs` `closed` `deaf` `deep` `divine` `doctrine` `erred` `eyes` `fear` `field` `fruitful` `god` `hear` `hid` `holy` `increase` `israel` `joy` `learn` `lebanon` `marvellous` `meek` `murmured` `obscurity` `one` `perish` `read` `revelation` `sanctify` `sealed` `see` `sleep` `spirit` `spiritual` `understanding` `wisdom` `wonder` `words` `work`
+#blind #blindness #book #cannot #christs #closed #deaf #deep #divine #doctrine #erred #eyes #fear #field #fruitful #god #hear #hid #holy #increase #israel #joy #learn #lebanon #marvellous #meek #murmured #obscurity #one #perish #read #revelation #sanctify #sealed #see #sleep #spirit #spiritual #understanding #wisdom #wonder #words #work
 
 
 ---

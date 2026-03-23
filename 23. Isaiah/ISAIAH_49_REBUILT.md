@@ -1,3 +1,13 @@
+---
+book: "Isaiah"
+chapter: 49
+testament: "Old Testament"
+key_themes: "Christ's Servant, Divine Commission, Spiritual Restoration, Christ's Glory"
+tags:
+  - christ
+  - divine-commission
+  - spiritual-restoration
+---
 # Isaiah 49
 
 ---
@@ -129,7 +139,7 @@ Listen, isles, hearken, people, far, LORD, called, womb, bowels, mother, made, m
 
 
 *AI Keywords for current event matching:*
-`acceptable` `called` `christs` `commission` `covenant` `darkness` `divine` `eyes` `feed` `forth` `gentiles` `glorified` `glory` `hand` `heard` `high` `hunger` `israel` `jacob` `lift` `light` `lord` `mighty` `mountains` `people` `places` `preserved` `prisoners` `raise` `redeemer` `restoration` `restore` `saviour` `servant` `set` `spiritual` `standard` `thing` `thirst` `time` `tribes` `way` `ways` `womb`
+#acceptable #called #christs #commission #covenant #darkness #divine #eyes #feed #forth #gentiles #glorified #glory #hand #heard #high #hunger #israel #jacob #lift #light #lord #mighty #mountains #people #places #preserved #prisoners #raise #redeemer #restoration #restore #saviour #servant #set #spiritual #standard #thing #thirst #time #tribes #way #ways #womb
 
 
 ---

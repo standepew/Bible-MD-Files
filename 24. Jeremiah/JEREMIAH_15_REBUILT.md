@@ -1,3 +1,20 @@
+---
+book: "Jeremiah"
+chapter: 15
+testament: "Old Testament"
+key_themes: "Christ's Rejection, Divine Judgment, Christ's Suffering, Christ's Protection"
+tags:
+  - christ
+  - divine-judgment
+  - jeremiah-lament
+  - suffering-prophet
+  - intercession-rejected
+  - brasen-wall
+  - moses
+  - samuel
+  - wound-incurable
+  - fire-in-my-bones
+---
 # Jeremiah 15
 
 ---
@@ -105,7 +122,7 @@ LORD, Moses, Samuel, stood, mind, people, cast, sight, go, forth, go, forth, LOR
 
 
 *AI Keywords for current event matching:*
-`backward` `brasen` `cast` `christs` `contention` `deliver` `devour` `divine` `dogs` `earth` `fenced` `fight` `four` `fowls` `gone` `hand` `heaven` `incurable` `judgment` `kinds` `man` `mind` `pain` `perpetual` `prevail` `protection` `redeem` `rejection` `repenting` `save` `slay` `strife` `suffering` `sword` `tear` `wall` `weary` `wound`
+#backward #brasen #cast #christs #contention #deliver #devour #divine #dogs #earth #fenced #fight #four #fowls #gone #hand #heaven #incurable #judgment #kinds #man #mind #pain #perpetual #prevail #protection #redeem #rejection #repenting #save #slay #strife #suffering #sword #tear #wall #weary #wound
 
 
 ---

@@ -1,3 +1,15 @@
+---
+book: "James"
+chapter: 1
+testament: "New Testament"
+key_themes: "Joy in Trials, Wisdom from God, Temptation and Sin, Good Gifts from Above, Being Doers of the Word"
+tags:
+  - joy-in-trials
+  - wisdom-from-god
+  - temptation-and-sin
+  - good-gifts-from-above
+  - being-doers-of-the-word
+---
 # James 1
 
 ---
@@ -143,7 +155,7 @@ James, servant, God, Lord, Jesus, Christ, twelve, tribes, scattered, abroad, gre
 
 
 *AI Keywords for current event matching:*
-`able` `above` `affliction` `ask` `away` `begat` `beholder` `beholdeth` `beloved` `blessed` `brethren` `bridleth` `bringeth` `brother` `burning` `cometh` `conceived` `continueth` `count` `creatures` `crown` `death` `deceiveth` `deceiving` `deed` `degree` `divers` `doer` `doers` `double` `drawn` `driven` `endureth` `engrafted` `enticed` `entire` `err` `evil` `exalted` `face` `fade` `faith` `fall` `falleth` `fashion` `father` `fatherless` `filthiness` `finished` `firstfruits` `flower` `forget` `forgetful` `gift` `gifts` `given` `giveth` `glass` `god` `goeth` `good` `grace` `grass` `hear` `hearer` `hearers` `heart` `heat` `joy` `knowing` `lack` `law` `lay` `liberally` `liberty` `life` `lights` `looketh` `lord` `love` `low` `lust` `made` `man` `manner` `meekness` `men` `minded` `natural` `naughtiness` `pass` `patience` `perfect` `perisheth` `promised` `pure` `receive` `rejoice` `religion` `religious` `rich` `righteousness` `risen` `save` `sea` `shadow` `sin` `slow` `souls` `speak` `straightway` `sun` `superfluity` `swift` `temptation` `temptations` `tempted` `tempteth` `thing` `think` `tongue` `tossed` `trials` `tried` `truth` `trying` `turning` `undefiled` `unspotted` `unstable` `upbraideth` `vain` `variableness` `visit` `wanting` `wave` `wavering` `ways` `widows` `wind` `wisdom` `withereth` `word` `work` `worketh` `world` `wrath`
+#able #above #affliction #ask #away #begat #beholder #beholdeth #beloved #blessed #brethren #bridleth #bringeth #brother #burning #cometh #conceived #continueth #count #creatures #crown #death #deceiveth #deceiving #deed #degree #divers #doer #doers #double #drawn #driven #endureth #engrafted #enticed #entire #err #evil #exalted #face #fade #faith #fall #falleth #fashion #father #fatherless #filthiness #finished #firstfruits #flower #forget #forgetful #gift #gifts #given #giveth #glass #god #goeth #good #grace #grass #hear #hearer #hearers #heart #heat #joy #knowing #lack #law #lay #liberally #liberty #life #lights #looketh #lord #love #low #lust #made #man #manner #meekness #men #minded #natural #naughtiness #pass #patience #perfect #perisheth #promised #pure #receive #rejoice #religion #religious #rich #righteousness #risen #save #sea #shadow #sin #slow #souls #speak #straightway #sun #superfluity #swift #temptation #temptations #tempted #tempteth #thing #think #tongue #tossed #trials #tried #truth #trying #turning #undefiled #unspotted #unstable #upbraideth #vain #variableness #visit #wanting #wave #wavering #ways #widows #wind #wisdom #withereth #word #work #worketh #world #wrath
 
 
 ---

@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 44
+testament: "Old Testament"
+key_themes: "Historical Victory, Present Defeat, Covenant Faithfulness, Prayer for Redemption"
+tags:
+  - historical-victory
+  - present-defeat
+  - covenant-faithfulness
+  - prayer-for-redemption
+---
 # Psalm 44
 
 ---
@@ -141,7 +152,7 @@ Chief, Musician, sons, Korah, Maschil, heard, ears, GOD, fathers, told, work, da
 
 
 *AI Keywords for current event matching:*
-`afflicted` `affliction` `appointed` `arise` `arm` `armies` `avenger` `awake` `back` `belly` `blasphemeth` `bowed` `broken` `byword` `cast` `chief` `cleaveth` `come` `command` `confusion` `continually` `counted` `countenance` `covenant` `covered` `day` `days` `dealt` `death` `declined` `defeat` `deliverances` `derision` `dragons` `drove` `dust` `ears` `earth` `enemy` `face` `faithfulness` `falsely` `fathers` `favour` `forever` `forgettest` `forgotten` `forth` `given` `god` `goest` `hand` `hate` `head` `heard` `heart` `heathen` `help` `hidest` `historical` `increase` `jacob` `killed` `king` `korah` `land` `light` `long` `lord` `maschil` `meat` `mercies` `musician` `neighbours` `nought` `old` `oppression` `people` `place` `plantedst` `possession` `prayer` `present` `price` `put` `redeem` `redemption` `reproach` `reproacheth` `right` `round` `sake` `save` `scattered` `scorn` `sellest` `shadow` `shaking` `shame` `sheep` `slaughter` `sleepest` `sons` `sore` `soul` `spoil` `steps` `sword` `times` `told` `turn` `turned` `victory` `voice` `way` `wealth` `work`
+#afflicted #affliction #appointed #arise #arm #armies #avenger #awake #back #belly #blasphemeth #bowed #broken #byword #cast #chief #cleaveth #come #command #confusion #continually #counted #countenance #covenant #covered #day #days #dealt #death #declined #defeat #deliverances #derision #dragons #drove #dust #ears #earth #enemy #face #faithfulness #falsely #fathers #favour #forever #forgettest #forgotten #forth #given #god #goest #hand #hate #head #heard #heart #heathen #help #hidest #historical #increase #jacob #killed #king #korah #land #light #long #lord #maschil #meat #mercies #musician #neighbours #nought #old #oppression #people #place #plantedst #possession #prayer #present #price #put #redeem #redemption #reproach #reproacheth #right #round #sake #save #scattered #scorn #sellest #shadow #shaking #shame #sheep #slaughter #sleepest #sons #sore #soul #spoil #steps #sword #times #told #turn #turned #victory #voice #way #wealth #work
 
 
 ---

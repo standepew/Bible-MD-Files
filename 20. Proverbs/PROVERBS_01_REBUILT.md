@@ -1,3 +1,14 @@
+---
+book: "Proverbs"
+chapter: 1
+testament: "Old Testament"
+key_themes: "Wisdom's Call, Fear of the LORD, Parental Instruction, Avoiding Evil Companions"
+tags:
+  - wisdom
+  - fear-of-the-lord
+  - parental-instruction
+  - avoiding-evil-companions
+---
 # Proverbs 1
 
 ---
@@ -117,7 +128,7 @@ Proverbs, Solomon, son, David, king, Israel, know, wisdom, instruction, perceive
 
 
 *AI Keywords for current event matching:*
-`avoiding` `beginning` `call` `companions` `consent` `despise` `entice` `evil` `father` `fear` `feet` `fools` `forsake` `grace` `head` `hear` `instruction` `know` `knowledge` `law` `lord` `mother` `ornament` `parental` `perceive` `receive` `refrain` `run` `sinners` `understanding` `walk` `way` `wisdom` `wisdoms` `words`
+#avoiding #beginning #call #companions #consent #despise #entice #evil #father #fear #feet #fools #forsake #grace #head #hear #instruction #know #knowledge #law #lord #mother #ornament #parental #perceive #receive #refrain #run #sinners #understanding #walk #way #wisdom #wisdoms #words
 
 
 ---

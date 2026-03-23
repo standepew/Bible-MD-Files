@@ -1,3 +1,33 @@
+---
+book: "Numbers"
+chapter: 10
+testament: "Old Testament"
+key_themes: "The two silver trumpets — God's communication system for a nation; different blasts for different commands, "At the commandment of the LORD by the hand of Moses" — the departure is entirely governed by God, Israel leaves Sinai exactly as God ordered; the tribes march in the exact sequence of Numbers 2, Hobab the Midianite invited as eyes in the wilderness — Moses appeals to kinship and promise, The ark going before: "Rise up, LORD, and let thine enemies be scattered" — the first recorded war-cry of the march; the ark leads, The departure formula: "Return, O LORD, unto the many thousands of Israel" — the rest-formula when the ark settles"
+tags:
+  - silver-trumpets
+  - whole-piece
+  - two-trumpets
+  - assembly-both-trumpets
+  - leaders-one-trumpet
+  - alarm-east-camp-forward
+  - alarm-south-camp-forward
+  - alarm-for-journeys
+  - not-alarm-for-assembly
+  - sons-of-Aaron-blow
+  - ordinance-forever
+  - war-alarm
+  - blown-before-God
+  - feast-days-and-new-moons
+  - twentieth-day-second-month
+  - cloud-lifted
+  - wilderness-of-Paran
+  - Judah-first
+  - Hobab-invited
+  - three-days-journey
+  - ark-before-them
+  - rise-up-LORD
+  - return-O-LORD
+---
 # Numbers 10
 
 ---
@@ -71,7 +101,7 @@ God commands Moses to make two silver trumpets from a single piece of metal — 
 
 
 *AI Keywords for current event matching:*
-`102-8` `announcements` `communication` `current` `different` `events` `gods` `government` `infrastructure` `matching` `numbers` `signals` `situations` `systems` `trumpet`
+#102-8 #announcements #communication #current #different #events #gods #government #infrastructure #matching #numbers #signals #situations #systems #trumpet
 
 
 ---
@@ -166,14 +196,14 @@ Sinai is where the Law was given. The departure from Sinai begins the journey th
 
 ### Three Days' Journey — The Resurrection Pattern
 
-**Numbers 10:33** — "And they departed from the mount of the LORD three days' journey: and the ark of the covenant of the LORD went before them"
+[[04. Numbers/NUM_10_REBUILT|Numbers 10:33]] — "And they departed from the mount of the LORD three days' journey: and the ark of the covenant of the LORD went before them"
 
 Three days = divine witness; the number of resurrection (as the roadmap establishes — 3 = divine witness throughout Scripture).
 
-- **Genesis 22:4** — Abraham sees the mountain of sacrifice "on the third day" — the first use of three-day journey in Scripture connected to substitutionary death and resurrection (Hebrews 11:19 — "accounting that God was able to raise him up, even from the dead; from whence also he received him in a figure")
-- **Jonah 1:17** — "Jonah was in the belly of the fish three days and three nights" — the type Jesus explicitly identifies: "as Jonas was three days and three nights in the whale's belly; so shall the Son of man be three days and three nights in the heart of the earth" (Matthew 12:40)
-- **Numbers 10:33** — "three days' journey" from the mount of the LORD to the first resting place in the wilderness of Paran — the departure from the mountain of God into the wilderness begins with three days
-- **Hosea 6:2** — "After two days will he revive us: in the third day he will raise us up"
+- [[01. Genesis/GEN_22_REBUILT|Genesis 22:4]] — Abraham sees the mountain of sacrifice "on the third day" — the first use of three-day journey in Scripture connected to substitutionary death and resurrection (Hebrews 11:19 — "accounting that God was able to raise him up, even from the dead; from whence also he received him in a figure")
+- [[32. Jonah/JONAH_01_REBUILT|Jonah 1:17]] — "Jonah was in the belly of the fish three days and three nights" — the type Jesus explicitly identifies: "as Jonas was three days and three nights in the whale's belly; so shall the Son of man be three days and three nights in the heart of the earth" (Matthew 12:40)
+- [[04. Numbers/NUM_10_REBUILT|Numbers 10:33]] — "three days' journey" from the mount of the LORD to the first resting place in the wilderness of Paran — the departure from the mountain of God into the wilderness begins with three days
+- [[28. Hosea/HOSEA_06_REBUILT|Hosea 6:2]] — "After two days will he revive us: in the third day he will raise us up"
 
 **What the Bible establishes:** The first movement of Israel after leaving Sinai is a three-day journey. The ark goes before them — searching out a resting place. The three-day journey is the resurrection pattern: through the ordeal, into the resting place that the forerunner has found. The ark searching out the resting place for Israel is the typological shadow of Hebrews 6:20 — "Whither the forerunner is for us entered, even Jesus, made an high priest for ever after the order of Melchisedec" — Christ going before into the holy of holies to secure the resting place for those who follow.
 

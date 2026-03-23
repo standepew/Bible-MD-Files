@@ -1,3 +1,14 @@
+---
+book: "Joel"
+chapter: 3
+testament: "Old Testament"
+key_themes: "Christ's Final Judgment, Valley of Decision, Divine Restoration, Holy Mountain"
+tags:
+  - christ
+  - valley-of-decision
+  - divine-restoration
+  - holy-mountain
+---
 # Joel 3
 
 ---
@@ -117,7 +128,7 @@ Behold, days, time, bring, captivity, Judah, Jerusalem, gather, nations, valley,
 
 
 *AI Keywords for current event matching:*
-`captivity` `christs` `day` `decision` `divine` `drop` `dwelling` `final` `flow` `fountain` `full` `great` `harvest` `hills` `holy` `house` `jehoshaphat` `jerusalem` `judah` `judgment` `lord` `milk` `mountain` `mountains` `multitudes` `nations` `near` `pass` `plead` `press` `restoration` `ripe` `strangers` `valley` `wickedness` `wine` `zion`
+#captivity #christs #day #decision #divine #drop #dwelling #final #flow #fountain #full #great #harvest #hills #holy #house #jehoshaphat #jerusalem #judah #judgment #lord #milk #mountain #mountains #multitudes #nations #near #pass #plead #press #restoration #ripe #strangers #valley #wickedness #wine #zion
 
 
 ---

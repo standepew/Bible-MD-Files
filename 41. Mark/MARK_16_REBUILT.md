@@ -1,3 +1,14 @@
+---
+book: "Mark"
+chapter: 16
+testament: "New Testament"
+key_themes: "Christ's Resurrection, Appearances, Great Commission, Ascension"
+tags:
+  - christ
+  - appearances
+  - great-commission
+  - ascension
+---
 # Mark 16
 
 ---
@@ -117,7 +128,7 @@ Sabbath, past, Mary, Magdalene, mother, James, Salome, bought, sweet, spices, an
 
 
 *AI Keywords for current event matching:*
-`appearances` `ascension` `baptized` `believe` `believed` `cast` `christs` `commission` `confirming` `devils` `eleven` `follow` `galilee` `gospel` `great` `hand` `hardness` `heaven` `lord` `magdalene` `mary` `meat` `preach` `received` `resurrection` `right` `risen` `rising` `rolled` `see` `sepulchre` `signs` `stone` `unbelief` `word` `working`
+#appearances #ascension #baptized #believe #believed #cast #christs #commission #confirming #devils #eleven #follow #galilee #gospel #great #hand #hardness #heaven #lord #magdalene #mary #meat #preach #received #resurrection #right #risen #rising #rolled #see #sepulchre #signs #stone #unbelief #word #working
 
 
 ---

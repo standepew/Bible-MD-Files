@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 46
+testament: "Old Testament"
+key_themes: "God as Refuge, No Fear, Divine Presence, Peace and Stillness"
+tags:
+  - god-as-refuge
+  - no-fear
+  - divine-presence
+  - peace-and-stillness
+---
 # Psalm 46
 
 ---
@@ -129,7 +140,7 @@ Chief, Musician, sons, Korah, Song, Alamoth, GOD, refuge, strength, present, hel
 
 
 *AI Keywords for current event matching:*
-`alamoth` `behold` `bow` `breaketh` `burneth` `carried` `cease` `chariot` `chief` `city` `cut` `desolations` `divine` `early` `earth` `end` `exalted` `fear` `fire` `glad` `god` `heathen` `help` `high` `holy` `hosts` `jacob` `kingdoms` `know` `korah` `lord` `make` `maketh` `melted` `midst` `mountains` `moved` `musician` `peace` `place` `presence` `present` `raged` `refuge` `removed` `river` `roar` `sea` `shake` `song` `sons` `spear` `still` `stillness` `streams` `strength` `sunder` `swelling` `tabernacles` `trouble` `troubled` `uttered` `voice` `wars` `waters` `works`
+#alamoth #behold #bow #breaketh #burneth #carried #cease #chariot #chief #city #cut #desolations #divine #early #earth #end #exalted #fear #fire #glad #god #heathen #help #high #holy #hosts #jacob #kingdoms #know #korah #lord #make #maketh #melted #midst #mountains #moved #musician #peace #place #presence #present #raged #refuge #removed #river #roar #sea #shake #song #sons #spear #still #stillness #streams #strength #sunder #swelling #tabernacles #trouble #troubled #uttered #voice #wars #waters #works
 
 
 ---

@@ -1,3 +1,13 @@
+---
+book: "Jeremiah"
+chapter: 44
+testament: "Old Testament"
+key_themes: "Christ's Judgment, Idolatry's Rebellion, Queen of Heaven, Christ's Faithfulness"
+tags:
+  - christ
+  - idolatry
+  - queen-of-heaven
+---
 # Jeremiah 44
 
 ---
@@ -81,7 +91,7 @@ Word, Jeremiah, Jews, dwell, land, Egypt, Migdol, Tahpanhes, Noph, country, Path
 
 
 *AI Keywords for current event matching:*
-`brought` `burn` `cakes` `christs` `cut` `desolation` `drink` `escape` `evil` `faithfulness` `fury` `gods` `great` `heaven` `idolatrys` `incense` `jerusalem` `judah` `judgment` `make` `name` `number` `off` `offerings` `plenty` `pour` `poured` `queen` `rebellion` `serve` `small` `stand` `sworn` `victuals` `watch` `words`
+#brought #burn #cakes #christs #cut #desolation #drink #escape #evil #faithfulness #fury #gods #great #heaven #idolatrys #incense #jerusalem #judah #judgment #make #name #number #off #offerings #plenty #pour #poured #queen #rebellion #serve #small #stand #sworn #victuals #watch #words
 
 
 ---

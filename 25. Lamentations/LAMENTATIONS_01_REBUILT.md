@@ -1,3 +1,13 @@
+---
+book: "Lamentations"
+chapter: 1
+testament: "Old Testament"
+key_themes: "Christ's Suffering, Jerusalem's Desolation, Divine Judgment, Christ's Comfort"
+tags:
+  - christ
+  - jerusalem
+  - divine-judgment
+---
 # Lamentations 1
 
 ---
@@ -93,7 +103,7 @@ Lamentations, Jeremiah, city, sit, solitary, full, people, widow, great, nations
 
 
 *AI Keywords for current event matching:*
-`afflicted` `affliction` `beauty` `become` `christs` `city` `comfort` `comforter` `departed` `desolate` `desolation` `divine` `far` `foot` `full` `gates` `hands` `hear` `jerusalems` `judgment` `lord` `many` `multitude` `people` `righteous` `sighs` `sit` `solitary` `sore` `spreadeth` `suffering` `transgressions` `trodden` `weepeth` `widow` `winepress` `yoke`
+#afflicted #affliction #beauty #become #christs #city #comfort #comforter #departed #desolate #desolation #divine #far #foot #full #gates #hands #hear #jerusalems #judgment #lord #many #multitude #people #righteous #sighs #sit #solitary #sore #spreadeth #suffering #transgressions #trodden #weepeth #widow #winepress #yoke
 
 
 ---

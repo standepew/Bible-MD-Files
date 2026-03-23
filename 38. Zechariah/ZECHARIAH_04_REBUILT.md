@@ -1,3 +1,14 @@
+---
+book: "Zechariah"
+chapter: 4
+testament: "Old Testament"
+key_themes: "Christ's Spirit-Powered Ministry, Golden Candlestick, Two Olive Trees, Headstone with Grace"
+tags:
+  - christ
+  - golden-candlestick
+  - two-olive-trees
+  - headstone-with-grace
+---
 # Zechariah 4
 
 ---
@@ -129,7 +140,7 @@ Angel, talked, waked, man, wakened, sleep, seest, looked, candlestick, gold, bow
 
 
 *AI Keywords for current event matching:*
-`become` `bowl` `candlestick` `christs` `gold` `golden` `grace` `great` `headstone` `hosts` `lamps` `left` `lord` `ministry` `mountain` `oil` `olive` `pipes` `plain` `power` `right` `seven` `side` `spirit` `spirit-powered` `top` `trees` `two`
+#become #bowl #candlestick #christs #gold #golden #grace #great #headstone #hosts #lamps #left #lord #ministry #mountain #oil #olive #pipes #plain #power #right #seven #side #spirit #spirit-powered #top #trees #two
 
 
 ---

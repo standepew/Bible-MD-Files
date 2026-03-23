@@ -1,3 +1,13 @@
+---
+book: "Lamentations"
+chapter: 3
+testament: "Old Testament"
+key_themes: "Christ's Suffering, Divine Mercy, Hope in Christ, Christ's Redemption"
+tags:
+  - christ
+  - divine-mercy
+  - hope-in-christ
+---
 # Lamentations 3
 
 ---
@@ -105,7 +115,7 @@ Man, affliction, rod, wrath, led, darkness, light, turned, hand, day, flesh, ski
 
 
 *AI Keywords for current event matching:*
-`affliction` `bitter` `bones` `broken` `causes` `christ` `christs` `compassions` `consumed` `divine` `every` `fail` `faithfulness` `fear` `gravel` `great` `heard` `hope` `life` `mercies` `mercy` `morning` `new` `pleaded` `portion` `quietly` `redeemed` `redemption` `rod` `salvation` `seek` `soul` `stones` `suffering` `voice` `wait` `wormwood`
+#affliction #bitter #bones #broken #causes #christ #christs #compassions #consumed #divine #every #fail #faithfulness #fear #gravel #great #heard #hope #life #mercies #mercy #morning #new #pleaded #portion #quietly #redeemed #redemption #rod #salvation #seek #soul #stones #suffering #voice #wait #wormwood
 
 
 ---

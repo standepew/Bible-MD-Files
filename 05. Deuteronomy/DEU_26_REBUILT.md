@@ -1,3 +1,97 @@
+---
+book: "Deuteronomy"
+chapter: 26
+testament: "Old Testament"
+key_themes: "Firstfruits Offering, Historical Confession, Egyptian Affliction, Divine Deliverance, Land of Milk and Honey, Third-Year Tithe, Covenant Declaration, Mutual Avouching, Holy People Status"
+tags:
+  - come-land
+  - LORD-giveth-inheritance
+  - possess-land
+  - dwell-therein
+  - first-fruit-earth
+  - bring-land
+  - LORD-giveth
+  - put-basket
+  - go-place
+  - LORD-choose-place-name
+  - go-priest-days
+  - say-priest
+  - profess-day-LORD
+  - come-country
+  - LORD-sware-fathers
+  - give-us
+  - priest-take-basket
+  - hand-set-down
+  - altar-LORD
+  - speak-say-LORD
+  - Syrian-perish
+  - father-went-down-Egypt
+  - sojourned-few
+  - became-nation
+  - great-mighty-populous
+  - Egyptians-evil-entreated
+  - afflicted-us
+  - hard-bondage
+  - cried-LORD-God-fathers
+  - LORD-heard-voice
+  - looked-affliction
+  - labour-oppression
+  - LORD-brought-Egypt
+  - mighty-hand
+  - outstretched-arm
+  - great-terribleness
+  - signs-wonders
+  - brought-place
+  - given-land
+  - milk-honey
+  - firstfruits-land
+  - O-LORD-given
+  - set-before-LORD
+  - worship-LORD
+  - rejoice-good-thing
+  - LORD-given
+  - house-Levite-stranger
+  - tithing-all-tithes
+  - third-year
+  - year-tithing
+  - given-Levite
+  - stranger-fatherless-widow
+  - eat-gates
+  - filled
+  - say-LORD
+  - brought-hallowed-things
+  - house
+  - given-Levite
+  - stranger-fatherless-widow
+  - commandments-commanded
+  - not-transgressed-commandments
+  - not-forgotten
+  - not-eaten-mourning
+  - not-unclean-use
+  - not-given-dead
+  - hearkened-voice-LORD
+  - done-commanded
+  - look-holy-habitation
+  - heaven
+  - bless-people-Israel
+  - land-given
+  - swarest-fathers
+  - milk-honey
+  - LORD-commanded-statutes-judgments
+  - keep-do-heart-soul
+  - avouched-LORD-day
+  - God
+  - walk-ways
+  - keep-statutes-commandments-judgments
+  - hearken-voice
+  - LORD-avouched-day
+  - peculiar-people
+  - promised
+  - keep-commandments
+  - make-high-nations
+  - praise-name-honour
+  - holy-people-LORD
+---
 # Deuteronomy 26
 
 ---
@@ -108,7 +202,7 @@ Moses gives instructions for offerings in the promised land: (1) Firstfruits—w
 
 
 *AI Keywords for current event matching:*
-`afflicted` `affliction` `altar` `arm` `avouched` `basket` `became` `bless` `blessing` `bondage` `bring` `brought` `choose` `come` `commanded` `commandments` `country` `covenant` `cried` `day` `days` `dead` `declaration` `divine` `done` `down` `dwell` `earth` `eat` `eaten` `egypt` `egyptians` `entreated` `evil` `father` `fatherless` `fathers` `few` `filled` `first` `firstfruits` `forgotten` `fruit` `gates` `give` `given` `giveth` `god` `good` `great` `habitation` `hallowed` `hand` `hard` `heard` `hearken` `hearkened` `heart` `heaven` `high` `holy` `honey` `honour` `house` `inheritance` `israel` `judgments` `keep` `labour` `land` `levite` `look` `looked` `lord` `make` `mighty` `milk` `mourning` `name` `nation` `nations` `offering` `oppression` `outstretched` `peculiar` `people` `perish` `place` `populous` `possess` `praise` `priest` `profess` `promised` `put` `rejoice` `say` `set` `signs` `sojourned` `soul` `speak` `statutes` `stranger` `sware` `swarest` `syrian` `take` `terribleness` `therein` `thing` `things` `third` `third-year` `tithe` `tithes` `tithing` `transgressed` `unclean` `use` `voice` `walk` `ways` `went` `widow` `wonders` `worship` `year`
+#afflicted #affliction #altar #arm #avouched #basket #became #bless #blessing #bondage #bring #brought #choose #come #commanded #commandments #country #covenant #cried #day #days #dead #declaration #divine #done #down #dwell #earth #eat #eaten #egypt #egyptians #entreated #evil #father #fatherless #fathers #few #filled #first #firstfruits #forgotten #fruit #gates #give #given #giveth #god #good #great #habitation #hallowed #hand #hard #heard #hearken #hearkened #heart #heaven #high #holy #honey #honour #house #inheritance #israel #judgments #keep #labour #land #levite #look #looked #lord #make #mighty #milk #mourning #name #nation #nations #offering #oppression #outstretched #peculiar #people #perish #place #populous #possess #praise #priest #profess #promised #put #rejoice #say #set #signs #sojourned #soul #speak #statutes #stranger #sware #swarest #syrian #take #terribleness #therein #thing #things #third #third-year #tithe #tithes #tithing #transgressed #unclean #use #voice #walk #ways #went #widow #wonders #worship #year
 
 
 ---

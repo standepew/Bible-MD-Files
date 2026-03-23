@@ -1,3 +1,16 @@
+---
+book: "2 Kings"
+chapter: 19
+testament: "Old Testament"
+key_themes: "Hezekiah's Prayer, Isaiah's Prophecy, Divine Defense, Assyrian Defeat, God's Sovereignty"
+tags:
+  - servants-king-Hezekiah-Isaiah
+  - hezekiah
+  - isaiah
+  - divine-defense
+  - assyrian-defeat
+  - god
+---
 # 2 Kings 19
 
 ---
@@ -83,7 +96,7 @@ King Hezekiah heard, rent clothes, sackcloth, house LORD. Eliakim, household, Sh
 
 
 *AI Keywords for current event matching:*
-`abode` `adrammelech` `afraid` `ago` `amoz` `ancient` `angel` `armenia` `arpad` `arrow` `assyria` `assyrian` `assyrians` `bank` `besieged` `birth` `blasphemed` `blasphemy` `blast` `blasted` `borders` `bridle` `came` `camest` `camp` `carmel` `cedar` `chariots` `cherubims` `children` `choice` `cities` `city` `clothes` `coming` `confounded` `corn` `corpses` `daughter` `david` `day` `dead` `deceive` `defeat` `defend` `delivered` `departed` `despised` `destroyed` `destroying` `digged` `dismayed` `divine` `downward` `dried` `ear` `early` `ears` `earth` `eat` `eden` `elders` `eliakim` `esar-haddon` `escape` `escaped` `ethiopia` `exalted` `eyes` `fall` `fathers` `feet` `fenced` `field` `fight` `fir` `fire` `five` `forest` `formed` `fourscore` `fruit` `fruits` `god` `gods` `going` `gozan` `grass` `green` `grow` `grown` `hamath` `hand` `hands` `haran` `head` `heaps` `hear` `heard` `heaven` `height` `hena` `herb` `hezekiah` `hezekiahs` `holy` `hook` `hosts` `house` `household` `housetops` `hundred` `inhabitants` `isaiah` `isaiahs` `israel` `ivah` `jerusalem` `judah` `king` `kingdoms` `kings` `lachish` `land` `lands` `laughter` `lay` `lebanon` `left` `letter` `libnah` `lifted` `lips` `living` `lodgings` `long` `lord` `made` `master` `men` `messengers` `morning` `mount` `mountains` `multitude` `nations` `night` `nineveh` `nisroch` `nose` `one` `places` `plant` `power` `prayed` `prayer` `priests` `prophecy` `prophet` `rab-shakeh` `rage` `read` `reap` `reigned` `remnant` `rent` `reproach` `reproached` `reprove` `response` `return` `returned` `revile` `rezeph` `rivers` `root` `ruinous` `rumour` `sackcloth` `sake` `save` `scorn` `scribe` `second` `see` `sennacherib` `sepharvaim` `servant` `servants` `shaken` `sharezer` `shebna` `shield` `sides` `sign` `small` `smote` `sole` `son` `sons` `sow` `spread` `spring` `stone` `strange` `strength` `sword` `tall` `thelasar` `third` `thousand` `tirhakah` `trees` `trouble` `trust` `truth` `tumult` `upward` `vineyards` `virgin` `voice` `warring` `waste` `waters` `way` `wood` `word` `words` `work` `worshipping` `year` `zeal` `zion`
+#abode #adrammelech #afraid #ago #amoz #ancient #angel #armenia #arpad #arrow #assyria #assyrian #assyrians #bank #besieged #birth #blasphemed #blasphemy #blast #blasted #borders #bridle #came #camest #camp #carmel #cedar #chariots #cherubims #children #choice #cities #city #clothes #coming #confounded #corn #corpses #daughter #david #day #dead #deceive #defeat #defend #delivered #departed #despised #destroyed #destroying #digged #dismayed #divine #downward #dried #ear #early #ears #earth #eat #eden #elders #eliakim #esar-haddon #escape #escaped #ethiopia #exalted #eyes #fall #fathers #feet #fenced #field #fight #fir #fire #five #forest #formed #fourscore #fruit #fruits #god #gods #going #gozan #grass #green #grow #grown #hamath #hand #hands #haran #head #heaps #hear #heard #heaven #height #hena #herb #hezekiah #hezekiahs #holy #hook #hosts #house #household #housetops #hundred #inhabitants #isaiah #isaiahs #israel #ivah #jerusalem #judah #king #kingdoms #kings #lachish #land #lands #laughter #lay #lebanon #left #letter #libnah #lifted #lips #living #lodgings #long #lord #made #master #men #messengers #morning #mount #mountains #multitude #nations #night #nineveh #nisroch #nose #one #places #plant #power #prayed #prayer #priests #prophecy #prophet #rab-shakeh #rage #read #reap #reigned #remnant #rent #reproach #reproached #reprove #response #return #returned #revile #rezeph #rivers #root #ruinous #rumour #sackcloth #sake #save #scorn #scribe #second #see #sennacherib #sepharvaim #servant #servants #shaken #sharezer #shebna #shield #sides #sign #small #smote #sole #son #sons #sow #spread #spring #stone #strange #strength #sword #tall #thelasar #third #thousand #tirhakah #trees #trouble #trust #truth #tumult #upward #vineyards #virgin #voice #warring #waste #waters #way #wood #word #words #work #worshipping #year #zeal #zion
 
 
 ---

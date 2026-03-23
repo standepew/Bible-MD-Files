@@ -1,3 +1,30 @@
+---
+book: "Exodus"
+chapter: 39
+testament: "Old Testament"
+key_themes: "The priestly garments made — ephod, breastplate, robe, coat, mitre, girdle, "HOLINESS TO THE LORD" on the golden plate, The twelve tribes carried on the high priest's shoulders and heart, All the completed work brought to Moses, "As the LORD commanded Moses" — the refrain of total obedience, Moses inspects and blesses the work"
+tags:
+  - priestly-garments
+  - ephod
+  - gold-beaten-into-wires
+  - blue-purple-scarlet-fine-linen
+  - shoulder-pieces
+  - breastplate
+  - twelve-stones
+  - twelve-tribes
+  - lace-of-blue
+  - robe-of-blue
+  - pomegranates
+  - bells-of-gold
+  - HOLINESS-TO-THE-LORD
+  - golden-plate
+  - mitre
+  - linen-coats
+  - girdle
+  - all-finished
+  - as-the-LORD-commanded-Moses
+  - Moses-blessed-them
+---
 # Exodus 39
 
 ---
@@ -80,7 +107,7 @@ The priestly garments are made exactly as commanded: the ephod of gold wire wove
 
 
 *AI Keywords for current event matching:*
-`current` `events` `exodus` `holiness` `lord` `matching` `priest` `revelation` `zechariah`
+#current #events #exodus #holiness #lord #matching #priest #revelation #zechariah
 
 
 ---

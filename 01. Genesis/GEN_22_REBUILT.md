@@ -1,3 +1,79 @@
+---
+book: "Genesis"
+chapter: 22
+testament: "Old Testament"
+key_themes: ""God Did Test Abraham" — The Akedah, "Take Now Thy Son, Thine Only Son Isaac, Whom Thou Lovest" — The Language of Father and Beloved Son, "Get Thee Into the Land of Moriah" — The Mountain of the LORD, Abraham Rose Early — Immediate Obedience Without Recorded Objection, Isaac Carries the Wood — The Son Bears the Instrument of His Own Sacrifice, "Where Is the Lamb?" — The Question That Echoes Through All of Scripture, "God Will Provide Himself a Lamb" — The Three-Level Prophecy, The Binding of Isaac — Faith at the Final Limit, The Knife Raised, "Abraham, Abraham" — The Doubled Name and the Staying of the Hand, "For Now I Know That Thou Fearest God" — Faith Made Visible by Works, The Ram Caught in the Thicket — The Substitute Already Provided, Jehovah-Jireh — The LORD Will See and Provide, "In the Mount of the LORD It Shall Be Seen" — The Forward-Looking Declaration, "By Myself Have I Sworn" — The Unconditional Self-Oath, The Seed Who Shall Possess the Gates of His Enemies, "In Thy Seed Shall All the Nations of the Earth Be Blessed" — The Gospel Preached to Abraham, Rebekah's Name at the Chapter's End — The Bride of the Son Appears After the Resurrection-Type"
+tags:
+  - Akedah
+  - God-tested-Abraham
+  - nasa-test-not-tempt
+  - thine-only-son-yachid
+  - whom-thou-lovest
+  - land-of-Moriah
+  - Abraham-rose-early
+  - wood-on-Isaac
+  - fire-and-knife
+  - where-is-the-lamb
+  - yireh-ra-ah
+  - they-went-both-together
+  - binding-of-Isaac
+  - knife-raised
+  - Abraham-Abraham-doubled-name
+  - for-now-I-know
+  - thou-hast-not-withheld
+  - James-2-21-23
+  - ram-in-thicket
+  - substitutionary-atonement
+  - Isaiah-53-6
+  - Jehovah-Jireh
+  - prophetic-future
+  - by-myself-have-I-sworn
+  - Hebrews-6-13-18
+  - two-immutable-things
+  - seed-singular
+  - gates-of-enemies
+  - Matthew-16-18
+  - Galatians-3-16
+  - Acts-3-25
+  - gospel-preached-to-Abraham
+  - third-day
+  - Hebrews-11-17-19
+  - resurrection-in-figure
+  - 1-Corinthians-15-4
+  - crown-of-thorns
+  - Genesis-3-17-18
+  - Galatians-3-13
+  - Rebekah-appears
+  - bride-of-the-son
+  - burnt-offering-olah
+  - Romans-8-32
+  - John-3-16
+  - John-1-29
+  - Revelation-5-6
+  - Mount-Moriah
+  - 2-Chronicles-3-1
+  - Golgotha-Moriah
+  - three-days-resurrection-pattern
+  - Exodus-3-4-doubled-name
+  - god-did-test-abraham
+  - take-now-thy-son
+  - thine-only-son-isaac
+  - get-thee-into-the-land-of
+  - abraham-rose-early
+  - isaac-carries-the-wood
+  - god-will-provide-himself-a-lamb
+  - the-binding-of-isaac
+  - the-knife-raised
+  - abraham
+  - for-now-i-know-that-thou
+  - the-ram-caught-in-the-thicket
+  - jehovahjireh
+  - in-the-mount-of-the-lord
+  - by-myself-have-i-sworn
+  - the-seed-who-shall-possess-the
+  - in-thy-seed-shall-all-the
+  - rebekah
+---
 # Genesis 22
 
 ---
@@ -190,7 +266,7 @@ The Angel of the LORD called a second time. God swore by Himself — the first d
 
 For AI matching to topics and current events:
 
-`Akedah binding of Isaac` `God tested Abraham nasa` `tempting vs testing distinction` `James 1:13` `thine only son yachid` `monogenes John 3:16` `first use of love ahav in Scripture` `Romans 8:32 spared not his own Son` `land of Moriah` `2 Chronicles 3:1 Temple Mount` `Golgotha Moriah same mountain range` `third day resurrection type` `Hebrews 11:17-19 received in figure` `1 Corinthians 15:4 third day according to scriptures` `where is the lamb` `God will provide himself a lamb` `three levels of fulfillment` `ram in thicket` `John 1:29 Lamb of God` `Revelation 13:8 slain from foundation` `they went both together` `father son unity in sacrifice` `John 10:17-18` `Abraham Abraham doubled name` `hineni here am I` `all doubled names Scripture` `Acts 9:4 Saul Saul` `in the stead of his son tachat beno` `first explicit substitution language` `ram caught in thorns` `Genesis 3:17-18 curse produces thorns` `crown of thorns Matthew 27:29` `Galatians 3:13 made a curse for us` `Isaiah 53:4-6` `2 Corinthians 5:21` `Jehovah-Jireh` `YHWH Yireh ra'ah` `in the mount of the LORD it shall be seen` `prophetic future` `by myself have I sworn` `Hebrews 6:13-18 two immutable things` `strong consolation` `Isaiah 45:23 every knee shall bow` `seed singular` `Galatians 3:16 not seeds but seed which is Christ` `in thy seed all nations blessed` `Galatians 3:8 gospel preached to Abraham` `Acts 3:25-26` `proeuangelisato` `gates of enemies` `Matthew 16:18 gates of hell` `James 2:21-24 faith and works` `yirat Elohim fear of God` `Romans 4 justification by faith` `declaration vs demonstration` `Genesis 15:6 and Genesis 22` `olah burnt offering` `total consecration` `Romans 12:1`
+#Akedah-binding-of-Isaac #God-tested-Abraham-nasa #tempting-vs-testing-distinction #James-113 #thine-only-son-yachid #monogenes-John-316 #first-use-of-love-ahav-in-Scripture #Romans-832-spared-not-his-own-Son #land-of-Moriah #2-Chronicles-31-Temple-Mount #Golgotha-Moriah-same-mountain-range #third-day-resurrection-type #Hebrews-1117-19-received-in-figure #1-Corinthians-154-third-day-according-to-scriptures #where-is-the-lamb #God-will-provide-himself-a-lamb #three-levels-of-fulfillment #ram-in-thicket #John-129-Lamb-of-God #Revelation-138-slain-from-foundation #they-went-both-together #father-son-unity-in-sacrifice #John-1017-18 #Abraham-Abraham-doubled-name #hineni-here-am-I #all-doubled-names-Scripture #Acts-94-Saul-Saul #in-the-stead-of-his-son-tachat-beno #first-explicit-substitution-language #ram-caught-in-thorns #Genesis-317-18-curse-produces-thorns #crown-of-thorns-Matthew-2729 #Galatians-313-made-a-curse-for-us #Isaiah-534-6 #2-Corinthians-521 #Jehovah-Jireh #YHWH-Yireh-raah #in-the-mount-of-the-LORD-it-shall-be-seen #prophetic-future #by-myself-have-I-sworn #Hebrews-613-18-two-immutable-things #strong-consolation #Isaiah-4523-every-knee-shall-bow #seed-singular #Galatians-316-not-seeds-but-seed-which-is-Christ #in-thy-seed-all-nations-blessed #Galatians-38-gospel-preached-to-Abraham #Acts-325-26 #proeuangelisato #gates-of-enemies #Matthew-1618-gates-of-hell #James-221-24-faith-and-works #yirat-Elohim-fear-of-God #Romans-4-justification-by-faith #declaration-vs-demonstration #Genesis-156-and-Genesis-22 #olah-burnt-offering #total-consecration #Romans-121
 
 **Relevance to Current Events:**
 - The atonement debates — Genesis 22 is the foundational text for substitutionary atonement; every debate about "penal substitution" must engage the first explicit substitution language ("in the stead of his son") and its New Testament interpretive thread through Isaiah 53, 2 Corinthians 5:21, and Galatians 3:13

@@ -1,3 +1,28 @@
+---
+book: "1 Chronicles"
+chapter: 6
+testament: "Old Testament"
+key_themes: "Levitical Priesthood, Aaronic Lineage, Temple Service, Levitical Cities, Priestly Duties"
+tags:
+  - sons-Levi-Gershon-Kohath-Merari
+  - sons-Levi-Gershom-Kohath-Merari
+  - names-sons-Gershom-Libni-Shimei
+  - sons-Elkanah-Amasai-Ahimoth
+  - sons-Samuel-firstborn-Vashni-Abiah
+  - Hilen-suburbs-Debir-suburbs
+  - Ashan-suburbs-Beth-shemesh-suburbs
+  - Jokmeam-suburbs-Beth-horon-suburbs
+  - Aijalon-suburbs-Gath-rimmon-suburbs
+  - Ramoth-suburbs-Anem-suburbs
+  - Hukok-suburbs-Rehob-suburbs
+  - Kedemoth-suburbs-Mephaath-suburbs
+  - Heshbon-suburbs-Jazer-suburbs
+  - levitical-priesthood
+  - aaronic-lineage
+  - temple-service
+  - levitical-cities
+  - priestly-duties
+---
 # 1 Chronicles 6
 
 ---
@@ -91,7 +116,7 @@ Sons, Levi, Gershon, Kohath, Merari. Sons, Kohath, Amram, Izhar, Hebron, Uzziel.
 
 
 *AI Keywords for current event matching:*
-`aaron` `aaronic` `abdi` `abdon` `abiah` `abihu` `abishua` `adaiah` `ahimaaz` `ahimoth` `ahitub` `aijalon` `alemeth` `altar` `amariah` `amasai` `amaziah` `amminadab` `amram` `amzi` `anathoth` `anem` `aner` `appointed` `ark` `asaiah` `asaph` `ashan` `asher` `ashtaroth` `assir` `atonement` `azariah` `baaseiah` `bani` `bashan` `benjamin` `berachiah` `beth-horon` `beth-shemesh` `bezer` `bileam` `brethren` `brother` `built` `bukki` `burnt` `caleb` `called` `captivity` `carried` `castles` `children` `cities` `city` `coasts` `commanded` `congregation` `daberath` `david` `debir` `descendants` `divisions` `duties` `dwelling` `east` `ebiasaph` `eleazar` `eliab` `eliel` `elkanah` `ephraim` `eshtemoa` `ethan` `ethni` `executed` `families` `family` `fields` `firstborn` `gad` `galilee` `gath-rimmon` `gave` `geba` `gershom` `gershoms` `gershon` `gezer` `gilead` `give` `given` `god` `golan` `haggiah` `half` `hammon` `hand` `hashabiah` `hebron` `heman` `heshbon` `hilen` `hilkiah` `holy` `house` `hukok` `iddo` `incense` `israel` `issachar` `ithamar` `izhar` `jahath` `jahzah` `jattir` `jazer` `jeaterai` `jehozadak` `jephunneh` `jericho` `jeroham` `jerusalem` `joah` `joel` `johanan` `jokmeam` `jordan` `judah` `kedemoth` `kedesh` `kirjathaim` `kishi` `kohath` `kohathites` `kohaths` `korah` `land` `left` `levi` `levites` `levitical` `libnah` `libni` `lineage` `lord` `lot` `mahanaim` `mahath` `mahli` `malchiah` `malluch` `manasseh` `mashal` `mephaath` `meraioth` `merari` `meraris` `michael` `ministered` `miriam` `moses` `mount` `mushi` `musicians` `nadab` `nahath` `names` `naphtali` `nebuchadnezzar` `offered` `offering` `office` `order` `phinehas` `place` `places` `priest` `priestly` `ramoth` `refuge` `rehob` `remnant` `residue` `rest` `reuben` `right` `rimmon` `round` `samuel` `seraiah` `servant` `service` `set` `shallum` `shamer` `shaul` `shechem` `shemuel` `shimea` `shimei` `side` `simeon` `singer` `singing` `solomon` `son` `song` `sons` `suburbs` `succession` `tabernacle` `tabor` `tahath` `temple` `ten` `thirteen` `toah` `tribe` `twelve` `uriel` `uzza` `uzzi` `uzziah` `uzziel` `vashni` `villages` `waited` `wilderness` `work` `zadok` `zebulun` `zephaniah` `zerah` `zerahiah` `zimmah` `zophai` `zuph`
+#aaron #aaronic #abdi #abdon #abiah #abihu #abishua #adaiah #ahimaaz #ahimoth #ahitub #aijalon #alemeth #altar #amariah #amasai #amaziah #amminadab #amram #amzi #anathoth #anem #aner #appointed #ark #asaiah #asaph #ashan #asher #ashtaroth #assir #atonement #azariah #baaseiah #bani #bashan #benjamin #berachiah #beth-horon #beth-shemesh #bezer #bileam #brethren #brother #built #bukki #burnt #caleb #called #captivity #carried #castles #children #cities #city #coasts #commanded #congregation #daberath #david #debir #descendants #divisions #duties #dwelling #east #ebiasaph #eleazar #eliab #eliel #elkanah #ephraim #eshtemoa #ethan #ethni #executed #families #family #fields #firstborn #gad #galilee #gath-rimmon #gave #geba #gershom #gershoms #gershon #gezer #gilead #give #given #god #golan #haggiah #half #hammon #hand #hashabiah #hebron #heman #heshbon #hilen #hilkiah #holy #house #hukok #iddo #incense #israel #issachar #ithamar #izhar #jahath #jahzah #jattir #jazer #jeaterai #jehozadak #jephunneh #jericho #jeroham #jerusalem #joah #joel #johanan #jokmeam #jordan #judah #kedemoth #kedesh #kirjathaim #kishi #kohath #kohathites #kohaths #korah #land #left #levi #levites #levitical #libnah #libni #lineage #lord #lot #mahanaim #mahath #mahli #malchiah #malluch #manasseh #mashal #mephaath #meraioth #merari #meraris #michael #ministered #miriam #moses #mount #mushi #musicians #nadab #nahath #names #naphtali #nebuchadnezzar #offered #offering #office #order #phinehas #place #places #priest #priestly #ramoth #refuge #rehob #remnant #residue #rest #reuben #right #rimmon #round #samuel #seraiah #servant #service #set #shallum #shamer #shaul #shechem #shemuel #shimea #shimei #side #simeon #singer #singing #solomon #son #song #sons #suburbs #succession #tabernacle #tabor #tahath #temple #ten #thirteen #toah #tribe #twelve #uriel #uzza #uzzi #uzziah #uzziel #vashni #villages #waited #wilderness #work #zadok #zebulun #zephaniah #zerah #zerahiah #zimmah #zophai #zuph
 
 
 ---

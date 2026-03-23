@@ -1,3 +1,15 @@
+---
+book: "2 Thessalonians"
+chapter: 3
+testament: "New Testament"
+key_themes: "Prayer for the Ministry, The Faithful Lord, Command to Work, Discipline of Disorderly, Final Benediction"
+tags:
+  - prayer-for-the-ministry
+  - the-faithful-lord
+  - command-to-work
+  - discipline-of-disorderly
+  - final-benediction
+---
 # 2 Thessalonians 3
 
 ---
@@ -107,7 +119,7 @@ Finally, brethren, pray, word, Lord, free, course, glorified, delivered, unreaso
 
 
 *AI Keywords for current event matching:*
-`admonish` `amen` `ashamed` `behaved` `benediction` `bread` `brethren` `brother` `busybodies` `chargeable` `christ` `command` `company` `confidence` `course` `day` `delivered` `discipline` `disorderly` `doing` `eat` `enemy` `ensample` `epistle` `evil` `exhort` `faith` `faithful` `final` `finally` `follow` `free` `give` `glorified` `grace` `hand` `jesus` `keep` `labour` `lord` `man` `means` `men` `ministry` `night` `note` `nought` `obey` `paul` `peace` `power` `pray` `prayer` `quietness` `received` `salutation` `stablish` `token` `touching` `tradition` `travail` `unreasonable` `weary` `well` `wicked` `withdraw` `word` `work` `working` `write` `wrought`
+#admonish #amen #ashamed #behaved #benediction #bread #brethren #brother #busybodies #chargeable #christ #command #company #confidence #course #day #delivered #discipline #disorderly #doing #eat #enemy #ensample #epistle #evil #exhort #faith #faithful #final #finally #follow #free #give #glorified #grace #hand #jesus #keep #labour #lord #man #means #men #ministry #night #note #nought #obey #paul #peace #power #pray #prayer #quietness #received #salutation #stablish #token #touching #tradition #travail #unreasonable #weary #well #wicked #withdraw #word #work #working #write #wrought
 
 
 ---

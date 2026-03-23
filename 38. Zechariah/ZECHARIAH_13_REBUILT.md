@@ -1,3 +1,14 @@
+---
+book: "Zechariah"
+chapter: 13
+testament: "Old Testament"
+key_themes: "Christ's Cleansing Fountain, False Prophets, Wounded Shepherd, Refined Remnant"
+tags:
+  - christ
+  - false-prophets
+  - wounded-shepherd
+  - refined-remnant
+---
 # Zechariah 13
 
 ---
@@ -93,7 +104,7 @@ Day, fountain, opened, house, David, inhabitants, Jerusalem, sin, uncleanness, d
 
 
 *AI Keywords for current event matching:*
-`ashamed` `call` `christs` `clean` `cleansing` `cut` `false` `fountain` `friends` `gold` `hands` `idols` `lies` `name` `opened` `part` `prophets` `refine` `refined` `remnant` `scattered` `sheep` `shepherd` `silver` `sin` `sins` `smite` `speakest` `spirit` `third` `try` `unclean` `uncleanness` `vision` `washed` `water` `wounded` `wounds`
+#ashamed #call #christs #clean #cleansing #cut #false #fountain #friends #gold #hands #idols #lies #name #opened #part #prophets #refine #refined #remnant #scattered #sheep #shepherd #silver #sin #sins #smite #speakest #spirit #third #try #unclean #uncleanness #vision #washed #water #wounded #wounds
 
 
 ---

@@ -1,3 +1,14 @@
+---
+book: "Hosea"
+chapter: 14
+testament: "Old Testament"
+key_themes: "Christ's Restoration, Divine Healing, Spiritual Fruitfulness, Wise Understanding"
+tags:
+  - christ
+  - divine-healing
+  - spiritual-fruitfulness
+  - wise-understanding
+---
 # Hosea 14
 
 ---
@@ -117,7 +128,7 @@ Israel, return, LORD, God, fallen, iniquity, words, turn, LORD, away, iniquity, 
 
 
 *AI Keywords for current event matching:*
-`anger` `backsliding` `branches` `cast` `christs` `corn` `dew` `divine` `freely` `fruitfulness` `grow` `heal` `healing` `israel` `know` `lebanon` `lily` `lord` `love` `olive` `prudent` `restoration` `return` `revive` `right` `roots` `smell` `spiritual` `spread` `tree` `turned` `understand` `understanding` `vine` `walk` `ways` `wise`
+#anger #backsliding #branches #cast #christs #corn #dew #divine #freely #fruitfulness #grow #heal #healing #israel #know #lebanon #lily #lord #love #olive #prudent #restoration #return #revive #right #roots #smell #spiritual #spread #tree #turned #understand #understanding #vine #walk #ways #wise
 
 
 ---

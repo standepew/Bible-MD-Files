@@ -1,3 +1,13 @@
+---
+book: "Ezekiel"
+chapter: 36
+testament: "Old Testament"
+key_themes: "Christ's Restoration, Israel's Renewal, Divine Cleansing, Christ's Spirit"
+tags:
+  - christ
+  - israel
+  - divine-cleansing
+---
 # Ezekiel 36
 
 ---
@@ -117,7 +127,7 @@ Son, man, prophesy, mountains, Israel, mountains, Israel, word, Lord, Lord, GOD,
 
 
 *AI Keywords for current event matching:*
-`beginnings` `better` `branches` `builded` `christs` `cities` `clean` `cleanse` `cleansing` `divine` `estates` `filthiness` `flock` `fruit` `heart` `holy` `inhabited` `israels` `judgments` `keep` `men` `multiply` `new` `put` `renewal` `restoration` `settle` `shoot` `sown` `spirit` `statutes` `tilled` `walk` `wastes` `water` `yield`
+#beginnings #better #branches #builded #christs #cities #clean #cleanse #cleansing #divine #estates #filthiness #flock #fruit #heart #holy #inhabited #israels #judgments #keep #men #multiply #new #put #renewal #restoration #settle #shoot #sown #spirit #statutes #tilled #walk #wastes #water #yield
 
 
 ---

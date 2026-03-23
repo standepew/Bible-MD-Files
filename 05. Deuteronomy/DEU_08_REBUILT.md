@@ -1,3 +1,37 @@
+---
+book: "Deuteronomy"
+chapter: 8
+testament: "Old Testament"
+key_themes: "Purpose of the Wilderness, Man Shall Not Live by Bread Alone, God Humbles to Prove, The Good Land, Warning Against Pride in Prosperity, My Power Hath Gotten Me Wealth, God Gives Power to Get Wealth, Remember the LORD"
+tags:
+  - deuteronomy
+  - chapter8
+  - wilderness-purpose
+  - humble
+  - prove
+  - bread-alone
+  - every-word-of-God
+  - manna
+  - raiment-waxed-not-old
+  - feet-swelled-not
+  - God-chastens-as-father-chastens-son
+  - good-land
+  - brooks
+  - fountains
+  - wheat-barley
+  - vines-fig-pomegranate
+  - oil-honey
+  - iron-stones
+  - brass
+  - forget-not
+  - pride-in-prosperity
+  - my-power-gotten-wealth
+  - God-gives-power-to-get-wealth
+  - perish-as-nations
+  - fiery-serpents
+  - scorpions
+  - rock-of-flint
+---
 # Deuteronomy 8
 
 ---
@@ -94,7 +128,7 @@ Moses calls Israel to remember all the forty-year wilderness journey — its pur
 
 ## KEYWORD INDEX
 
-`man lives not by bread alone` `manna` `forty years / wilderness` `as a father chastens` `good land / seven fruits` `beware / forget not` `my power gotten wealth` `God gives power to get wealth` `perish as the nations`
+#man-lives-not-by-bread-alone #manna #forty-years--wilderness #as-a-father-chastens #good-land--seven-fruits #beware--forget-not #my-power-gotten-wealth #God-gives-power-to-get-wealth #perish-as-the-nations
 
 **man lives not by bread alone** — Deuteronomy 8:3 quoted by Jesus in Matthew 4:4; manna as type of Christ  
 **manna** — John 6:31-35, 48-51; Revelation 2:17; "hidden manna"  

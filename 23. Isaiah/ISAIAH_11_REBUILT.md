@@ -1,3 +1,14 @@
+---
+book: "Isaiah"
+chapter: 11
+testament: "Old Testament"
+key_themes: "Christ's Branch, Spirit's Anointing, Millennial Peace, Remnant Restoration"
+tags:
+  - christ
+  - spirit
+  - millennial-peace
+  - remnant-restoration
+---
 # Isaiah 11
 
 ---
@@ -129,7 +140,7 @@ Come, rod, stem, Jesse, Branch, grow, roots, spirit, LORD, rest, spirit, wisdom,
 
 
 *AI Keywords for current event matching:*
-`anointing` `branch` `christs` `counsel` `destroy` `dispersed` `dwell` `ensign` `gather` `grow` `highway` `holy` `hurt` `jesse` `kid` `lamb` `leopard` `lie` `lord` `millennial` `mountain` `peace` `recover` `remnant` `rest` `restoration` `rod` `root` `roots` `second` `spirit` `spirits` `stem` `time` `understanding` `wisdom` `wolf`
+#anointing #branch #christs #counsel #destroy #dispersed #dwell #ensign #gather #grow #highway #holy #hurt #jesse #kid #lamb #leopard #lie #lord #millennial #mountain #peace #recover #remnant #rest #restoration #rod #root #roots #second #spirit #spirits #stem #time #understanding #wisdom #wolf
 
 
 ---

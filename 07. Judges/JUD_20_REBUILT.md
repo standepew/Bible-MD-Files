@@ -1,3 +1,31 @@
+---
+book: "Judges"
+chapter: 20
+testament: "Old Testament"
+key_themes: "National Assembly, Levite's Testimony, Benjamin's Defiance, First Defeat, Second Defeat, Third Victory, Benjamin's Near-Annihilation, Six Hundred Survivors"
+tags:
+  - children-Israel-wickedness
+  - concubine-forced-dead
+  - committed-lewdness-folly-Israel
+  - children-Israel-advice-counsel
+  - seven-hundred-chosen-men-lefthanded
+  - sling-stones-hair-breadth-miss
+  - LORD-Judah-first
+  - LORD-battle
+  - battle-children-Benjamin-brother-cease
+  - LORD-tomorrow-deliver-hand
+  - Israel-liers-wait-Gibeah
+  - children-Benjamin-smitten-first
+  - LORD-smote-Benjamin-Israel
+  - liers-wait-hasted-rushed-Gibeah
+  - national-assembly
+  - levite
+  - benjamin
+  - first-defeat
+  - second-defeat
+  - third-victory
+  - six-hundred-survivors
+---
 # Judges 20
 
 ---
@@ -95,7 +123,7 @@ All Israel gathers as one man from Dan to Beer-sheba with Gilead, coming to the 
 
 
 *AI Keywords for current event matching:*
-`aaron` `abode` `advice` `aftermath` `amazed` `answered` `appointed` `arise` `ark` `arose` `array` `ascended` `assembly` `baal-tamar` `backs` `battle` `beast` `beer-sheba` `behind` `belial` `benjamin` `benjamins` `benjamites` `beset` `breadth` `brethren` `brother` `burnt` `came` `cease` `chased` `chief` `children` `chosen` `cities` `city` `come` `committed` `concubine` `congregation` `counsel` `country` `covenant` `cut` `dan` `day` `days` `dead` `death` `defeat` `defiance` `deliver` `destroyed` `done` `draw` `drawn` `drew` `ease` `edge` `eighteen` `eleazar` `encamped` `enclosed` `encouraged` `enquired` `evil` `execution` `fasted` `fell` `fetch` `field` `fire` `first` `five` `flame` `fled` `flee` `folly` `footmen` `forced` `forces` `four` `gathered` `gibeah` `gidom` `gilead` `gleaned` `god` `gone` `great` `ground` `hair` `hand` `hasted` `heard` `hearken` `heaven` `highways` `house` `hundred` `husband` `inhabitants` `inheritance` `israel` `israelites` `judah` `kill` `knit` `land` `lefthanded` `levite` `levites` `lewdness` `liers` `lodge` `looked` `lord` `lot` `man` `meadows` `men` `midst` `military` `miss` `mizpeh` `months` `morning` `national` `near` `night` `numbered` `offerings` `one` `overtook` `peace` `people` `persons` `phinehas` `pieces` `pillar` `place` `places` `preparation` `pursued` `resolve` `retired` `rimmon` `rock` `rose` `round` `rushed` `sat` `second` `sent` `set` `seven` `sign` `six` `slain` `slew` `sling` `smite` `smitten` `smoke` `smote` `son` `sore` `stones` `stood` `sunrising` `survivors` `sword` `ten` `tent` `testimony` `third` `thirty` `thousand` `times` `tomorrow` `tribe` `tribes` `trode` `trusted` `turned` `twenty-five` `twenty-six` `twenty-two` `two` `valour` `victual` `voice` `wait` `war` `way` `went` `wept` `wickedness` `wilderness` `woman` `wrought`
+#aaron #abode #advice #aftermath #amazed #answered #appointed #arise #ark #arose #array #ascended #assembly #baal-tamar #backs #battle #beast #beer-sheba #behind #belial #benjamin #benjamins #benjamites #beset #breadth #brethren #brother #burnt #came #cease #chased #chief #children #chosen #cities #city #come #committed #concubine #congregation #counsel #country #covenant #cut #dan #day #days #dead #death #defeat #defiance #deliver #destroyed #done #draw #drawn #drew #ease #edge #eighteen #eleazar #encamped #enclosed #encouraged #enquired #evil #execution #fasted #fell #fetch #field #fire #first #five #flame #fled #flee #folly #footmen #forced #forces #four #gathered #gibeah #gidom #gilead #gleaned #god #gone #great #ground #hair #hand #hasted #heard #hearken #heaven #highways #house #hundred #husband #inhabitants #inheritance #israel #israelites #judah #kill #knit #land #lefthanded #levite #levites #lewdness #liers #lodge #looked #lord #lot #man #meadows #men #midst #military #miss #mizpeh #months #morning #national #near #night #numbered #offerings #one #overtook #peace #people #persons #phinehas #pieces #pillar #place #places #preparation #pursued #resolve #retired #rimmon #rock #rose #round #rushed #sat #second #sent #set #seven #sign #six #slain #slew #sling #smite #smitten #smoke #smote #son #sore #stones #stood #sunrising #survivors #sword #ten #tent #testimony #third #thirty #thousand #times #tomorrow #tribe #tribes #trode #trusted #turned #twenty-five #twenty-six #twenty-two #two #valour #victual #voice #wait #war #way #went #wept #wickedness #wilderness #woman #wrought
 
 
 ---

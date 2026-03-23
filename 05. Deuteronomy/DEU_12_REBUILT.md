@@ -1,3 +1,33 @@
+---
+book: "Deuteronomy"
+chapter: 12
+testament: "Old Testament"
+key_themes: "Centralized Worship, Destroying Pagan Sites, The Place God Chooses, Burnt Offerings, Tithes and Vows, Eating Blood Prohibited, Rejoicing Before God, Not Adding or Diminishing Commands"
+tags:
+  - centralized-worship
+  - place-God-chooses
+  - destroy-pagan-altars
+  - burnt-offerings
+  - sacrifices
+  - tithes
+  - heave-offerings
+  - vows
+  - freewill-offerings
+  - rejoice-before-LORD
+  - not-eat-blood
+  - blood-is-life
+  - pour-blood-earth
+  - forsake-not-Levite
+  - right-in-own-eyes
+  - rest-and-inheritance
+  - enlarge-border
+  - clean-and-unclean
+  - holy-things
+  - add-not-diminish-not
+  - abominations
+  - child-sacrifice
+  - snared-by-following
+---
 # Deuteronomy 12
 
 ---
@@ -102,7 +132,7 @@ Moses commands Israel to completely destroy all pagan worship sites—high place
 
 
 *AI Keywords for current event matching:*
-`abominations` `add` `altars` `blood` `bring` `burnt` `centralized` `child` `choice` `chooses` `clean` `corn` `daughters` `destroy` `diminish` `earth` `eat` `eating` `enquire` `eyes` `firstlings` `flesh` `following` `freewill` `gates` `god` `gods` `graven` `green` `groves` `habitation` `heave` `high` `hills` `holy` `images` `inheritance` `involved` `levite` `life` `lord` `lusteth` `maidservants` `menservants` `name` `names` `nor` `offering` `offerings` `oil` `pagan` `part` `people` `pillars` `place` `places` `pour` `put` `regulations` `rejoice` `right` `sacrifice` `sacrifices` `seek` `snared` `sons` `soul` `there` `things` `thither` `tithes` `trees` `unclean` `vows` `warnings` `wine` `within` `worship`
+#abominations #add #altars #blood #bring #burnt #centralized #child #choice #chooses #clean #corn #daughters #destroy #diminish #earth #eat #eating #enquire #eyes #firstlings #flesh #following #freewill #gates #god #gods #graven #green #groves #habitation #heave #high #hills #holy #images #inheritance #involved #levite #life #lord #lusteth #maidservants #menservants #name #names #nor #offering #offerings #oil #pagan #part #people #pillars #place #places #pour #put #regulations #rejoice #right #sacrifice #sacrifices #seek #snared #sons #soul #there #things #thither #tithes #trees #unclean #vows #warnings #wine #within #worship
 
 
 ---

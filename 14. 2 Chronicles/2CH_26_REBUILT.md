@@ -1,3 +1,15 @@
+---
+book: "2 Chronicles"
+chapter: 26
+testament: "Old Testament"
+key_themes: "Faithful Reign, Prideful Fall, Priestly Authority, Divine Judgment"
+tags:
+  - right-sight-LORD-father-Amaziah
+  - faithful-reign
+  - prideful-fall
+  - priestly-authority
+  - divine-judgment
+---
 # 2 Chronicles 26
 
 ---
@@ -143,7 +155,7 @@ People, Judah, Uzziah, sixteen, years, king, room, father, Amaziah. Built, Eloth
 
 
 *AI Keywords for current event matching:*
-`aaron` `account` `acts` `altar` `amaziah` `ammonites` `amoz` `arabians` `army` `arrows` `ashdod` `azariah` `baal` `bands` `bows` `brake` `built` `bulwarks` `burial` `buried` `burn` `captains` `carmel` `cast` `cattle` `censer` `chief` `cities` `consecrated` `corner` `country` `cunning` `cut` `days` `death` `desert` `destruction` `digged` `divine` `dressers` `dwelt` `egypt` `eloth` `enemy` `engines` `exceedingly` `faithful` `fall` `father` `fathers` `field` `fifty` `fighting` `first` `five` `forehead` `fortified` `fourscore` `gate` `gath` `gifts` `god` `great` `gur` `habergeons` `hananiah` `hand` `hasted` `heart` `helmets` `help` `helped` `honour` `host` `house` `hundred` `husbandmen` `husbandry` `incense` `isaiah` `jabneh` `jecoliah` `jeiel` `jerusalem` `jotham` `judah` `judging` `judgment` `king` `kings` `land` `last` `leper` `leprosy` `leprous` `lifted` `looked` `lord` `loved` `low` `maaseiah` `marvellously` `mehunims` `men` `mighty` `military` `mother` `mountains` `name` `number` `people` `philistines` `plains` `power` `preparation` `prideful` `priest` `priests` `prophet` `prosper` `reign` `reigned` `restored` `right` `room` `royal` `ruler` `sanctuary` `scribe` `seven` `shields` `shoot` `sight` `six` `sixteen` `slept` `slings` `smitten` `son` `sons` `sought` `spears` `spread` `stead` `stones` `strengthened` `strong` `succession` `temple` `thousand` `three` `thrust` `towers` `transgressed` `trespassed` `turning` `two` `understanding` `uzziah` `valiant` `valley` `valour` `vine` `visions` `wall` `war` `warred` `wells` `withstood` `write` `wroth` `years` `zechariah`
+#aaron #account #acts #altar #amaziah #ammonites #amoz #arabians #army #arrows #ashdod #azariah #baal #bands #bows #brake #built #bulwarks #burial #buried #burn #captains #carmel #cast #cattle #censer #chief #cities #consecrated #corner #country #cunning #cut #days #death #desert #destruction #digged #divine #dressers #dwelt #egypt #eloth #enemy #engines #exceedingly #faithful #fall #father #fathers #field #fifty #fighting #first #five #forehead #fortified #fourscore #gate #gath #gifts #god #great #gur #habergeons #hananiah #hand #hasted #heart #helmets #help #helped #honour #host #house #hundred #husbandmen #husbandry #incense #isaiah #jabneh #jecoliah #jeiel #jerusalem #jotham #judah #judging #judgment #king #kings #land #last #leper #leprosy #leprous #lifted #looked #lord #loved #low #maaseiah #marvellously #mehunims #men #mighty #military #mother #mountains #name #number #people #philistines #plains #power #preparation #prideful #priest #priests #prophet #prosper #reign #reigned #restored #right #room #royal #ruler #sanctuary #scribe #seven #shields #shoot #sight #six #sixteen #slept #slings #smitten #son #sons #sought #spears #spread #stead #stones #strengthened #strong #succession #temple #thousand #three #thrust #towers #transgressed #trespassed #turning #two #understanding #uzziah #valiant #valley #valour #vine #visions #wall #war #warred #wells #withstood #write #wroth #years #zechariah
 
 
 ---

@@ -1,3 +1,14 @@
+---
+book: "Proverbs"
+chapter: 10
+testament: "Old Testament"
+key_themes: "Righteous vs. Wicked, Wisdom vs. Folly, Diligence vs. Sloth, Speech and Character"
+tags:
+  - righteous-vs-wicked
+  - wisdom-vs-folly
+  - diligence-vs-sloth
+  - speech-and-character
+---
 # Proverbs 10
 
 ---
@@ -141,7 +152,7 @@ Proverbs, Solomon, wise, son, glad, father, foolish, son, heaviness, mother, Tre
 
 
 *AI Keywords for current event matching:*
-`character` `choice` `commandments` `covereth` `death` `deliver` `destruction` `diligence` `diligent` `father` `folly` `found` `glad` `hand` `heart` `life` `love` `maketh` `mouth` `near` `poor` `receive` `rich` `righteous` `rot` `send` `silver` `sins` `slack` `sloth` `sluggard` `son` `speech` `tongue` `understanding` `well` `wicked` `wisdom` `wise`
+#character #choice #commandments #covereth #death #deliver #destruction #diligence #diligent #father #folly #found #glad #hand #heart #life #love #maketh #mouth #near #poor #receive #rich #righteous #rot #send #silver #sins #slack #sloth #sluggard #son #speech #tongue #understanding #well #wicked #wisdom #wise
 
 
 ---

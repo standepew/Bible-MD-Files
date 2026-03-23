@@ -1,3 +1,14 @@
+---
+book: "John"
+chapter: 8
+testament: "New Testament"
+key_themes: "The Woman Caught in Adultery, I Am the Light of the World, The Truth Shall Make You Free, Before Abraham Was I Am"
+tags:
+  - the-woman-caught-in-adultery
+  - i-am-the-light-of-the
+  - the-truth-shall-make-you-free
+  - before-abraham-was-i-am
+---
 # John 8
 
 ---
@@ -189,7 +200,7 @@ Jesus, mount, Olives, early, morning, temple, people, sat, taught, scribes, Phar
 
 
 *AI Keywords for current event matching:*
-`abraham` `accuse` `adultery` `beginning` `bondage` `came` `cast` `caught` `children` `condemn` `conscience` `continue` `convicted` `darkness` `death` `devil` `disciples` `early` `father` `flesh` `followeth` `free` `god` `hear` `honoureth` `indeed` `judge` `judgment` `law` `life` `lifted` `light` `make` `man` `men` `morning` `moses` `mount` `murderer` `never` `olives` `please` `record` `rejoiced` `samaritan` `see` `seed` `sent` `servant` `sin` `son` `stone` `stoned` `taught` `temple` `tempting` `testimony` `thyself` `true` `truth` `two` `whence` `whither` `without` `woman` `word` `works` `world` `you`
+#abraham #accuse #adultery #beginning #bondage #came #cast #caught #children #condemn #conscience #continue #convicted #darkness #death #devil #disciples #early #father #flesh #followeth #free #god #hear #honoureth #indeed #judge #judgment #law #life #lifted #light #make #man #men #morning #moses #mount #murderer #never #olives #please #record #rejoiced #samaritan #see #seed #sent #servant #sin #son #stone #stoned #taught #temple #tempting #testimony #thyself #true #truth #two #whence #whither #without #woman #word #works #world #you
 
 
 ---

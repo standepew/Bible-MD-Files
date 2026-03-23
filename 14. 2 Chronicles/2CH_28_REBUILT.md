@@ -1,3 +1,17 @@
+---
+book: "2 Chronicles"
+chapter: 28
+testament: "Old Testament"
+key_themes: "Wicked Reign, Idolatry, Divine Judgment, Foreign Alliances"
+tags:
+  - king-Ahaz-kings-Assyria-help
+  - Edomites-smitten-Judah-carried-captives
+  - distress-trespass-LORD-king-Ahaz
+  - wicked-reign
+  - idolatry
+  - divine-judgment
+  - foreign-alliances
+---
 # 2 Chronicles 28
 
 ---
@@ -147,7 +161,7 @@ Ahaz, twenty, years, reigned, sixteen, years, Jerusalem, right, sight, LORD, Dav
 
 
 *AI Keywords for current event matching:*
-`abominations` `action` `acts` `ahaz` `ajalon` `alliance` `altars` `amasa` `anger` `anointed` `armed` `arrayed` `asses` `assyria` `azariah` `azrikam` `baalim` `berechiah` `beth` `bondmen` `bondwomen` `book` `brethren` `bring` `brought` `buried` `burn` `burnt` `came` `captive` `captives` `carried` `cast` `children` `cities` `city` `clothed` `compassionate` `congregation` `corner` `country` `cut` `damascus` `daughters` `david` `deliver` `delivered` `desecration` `distress` `distressed` `divine` `doors` `drink` `dwelt` `eat` `edomites` `elkanah` `ephraim` `expressed` `father` `fathers` `feeble` `fierce` `fire` `first` `foreign` `forsaken` `gathered` `gave` `gederoth` `gimzo` `god` `gods` `governor` `great` `green` `hadlai` `hand` `heads` `hear` `heathen` `heaven` `help` `hezekiah` `high` `hills` `hinnom` `host` `house` `hundred` `images` `incense` `intend` `invaded` `israel` `jehizkiah` `jericho` `jerusalem` `johanan` `judah` `judgment` `king` `kings` `last` `lord` `low` `maaseiah` `man` `men` `meshillemoth` `mighty` `molten` `multitude` `naked` `name` `oded` `offended` `palm` `pekah` `philistines` `pieces` `pilneser` `places` `portion` `princes` `prophet` `prophetic` `provoked` `purpose` `rage` `reach` `reign` `reigned` `remaliah` `returned` `right` `royal` `ruin` `sacrifice` `sacrificed` `samaria` `sepulchres` `several` `shallum` `shemesh` `shocho` `shod` `shut` `sight` `sins` `sixteen` `slain` `slaughter` `slept` `slew` `smitten` `smote` `son` `sons` `south` `spoil` `stead` `strengthened` `summary` `syria` `temple` `thousand` `tilgath` `timnah` `transgressed` `tree` `trees` `trespass` `twenty` `two` `valiant` `valley` `vessels` `villages` `walked` `war` `warning` `ways` `wicked` `women` `wrath` `wroth` `years` `zichri`
+#abominations #action #acts #ahaz #ajalon #alliance #altars #amasa #anger #anointed #armed #arrayed #asses #assyria #azariah #azrikam #baalim #berechiah #beth #bondmen #bondwomen #book #brethren #bring #brought #buried #burn #burnt #came #captive #captives #carried #cast #children #cities #city #clothed #compassionate #congregation #corner #country #cut #damascus #daughters #david #deliver #delivered #desecration #distress #distressed #divine #doors #drink #dwelt #eat #edomites #elkanah #ephraim #expressed #father #fathers #feeble #fierce #fire #first #foreign #forsaken #gathered #gave #gederoth #gimzo #god #gods #governor #great #green #hadlai #hand #heads #hear #heathen #heaven #help #hezekiah #high #hills #hinnom #host #house #hundred #images #incense #intend #invaded #israel #jehizkiah #jericho #jerusalem #johanan #judah #judgment #king #kings #last #lord #low #maaseiah #man #men #meshillemoth #mighty #molten #multitude #naked #name #oded #offended #palm #pekah #philistines #pieces #pilneser #places #portion #princes #prophet #prophetic #provoked #purpose #rage #reach #reign #reigned #remaliah #returned #right #royal #ruin #sacrifice #sacrificed #samaria #sepulchres #several #shallum #shemesh #shocho #shod #shut #sight #sins #sixteen #slain #slaughter #slept #slew #smitten #smote #son #sons #south #spoil #stead #strengthened #summary #syria #temple #thousand #tilgath #timnah #transgressed #tree #trees #trespass #twenty #two #valiant #valley #vessels #villages #walked #war #warning #ways #wicked #women #wrath #wroth #years #zichri
 
 
 ---

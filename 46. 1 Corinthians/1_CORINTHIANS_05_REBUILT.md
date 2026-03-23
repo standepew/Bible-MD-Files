@@ -1,3 +1,14 @@
+---
+book: "1 Corinthians"
+chapter: 5
+testament: "New Testament"
+key_themes: "Church Discipline, The Leaven of Sin, Christ Our Passover, Judgment Within"
+tags:
+  - church-discipline
+  - the-leaven-of-sin
+  - christ-our-passover
+  - judgment-within
+---
 # 1 Corinthians 5
 
 ---
@@ -93,7 +104,7 @@ Reported, fornication, fornication, named, Gentiles, father, wife, puffed, mourn
 
 
 *AI Keywords for current event matching:*
-`absent` `altogether` `away` `body` `bread` `brother` `called` `christ` `church` `company` `concerning` `covetous` `day` `deed` `deliver` `destruction` `discipline` `drunkard` `eat` `epistle` `extortioner` `extortioners` `father` `feast` `flesh` `fornication` `fornicator` `fornicators` `gathered` `gentiles` `glorying` `god` `good` `idolater` `idolaters` `jesus` `judge` `judged` `judgeth` `judgment` `leaven` `leaveneth` `lord` `lump` `malice` `man` `mourned` `name` `named` `needs` `new` `old` `passover` `person` `power` `present` `puffed` `purge` `put` `railer` `reported` `sacrificed` `satan` `saved` `sin` `sincerity` `spirit` `taken` `truth` `unleavened` `whole` `wicked` `wickedness` `wife` `within` `without` `world` `written`
+#absent #altogether #away #body #bread #brother #called #christ #church #company #concerning #covetous #day #deed #deliver #destruction #discipline #drunkard #eat #epistle #extortioner #extortioners #father #feast #flesh #fornication #fornicator #fornicators #gathered #gentiles #glorying #god #good #idolater #idolaters #jesus #judge #judged #judgeth #judgment #leaven #leaveneth #lord #lump #malice #man #mourned #name #named #needs #new #old #passover #person #power #present #puffed #purge #put #railer #reported #sacrificed #satan #saved #sin #sincerity #spirit #taken #truth #unleavened #whole #wicked #wickedness #wife #within #without #world #written
 
 
 ---

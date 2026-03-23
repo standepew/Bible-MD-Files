@@ -1,3 +1,14 @@
+---
+book: "Proverbs"
+chapter: 17
+testament: "Old Testament"
+key_themes: "Contentment and Strife, Wisdom and Folly, Friendship and Loyalty, Justice and Mercy"
+tags:
+  - contentment-and-strife
+  - wisdom-and-folly
+  - friendship-and-loyalty
+  - justice-and-mercy
+---
 # Proverbs 17
 
 ---
@@ -129,7 +140,7 @@ Dry, morsel, quietness, house, full, sacrifices, strife, wise, servant, rule, so
 
 
 *AI Keywords for current event matching:*
-`abomination` `adversity` `beginning` `born` `brother` `contentment` `covereth` `dry` `earth` `ends` `eyes` `folly` `fool` `friend` `friendship` `full` `good` `holdeth` `house` `justice` `justifieth` `loveth` `loyalty` `maker` `mercy` `mocketh` `morsel` `peace` `poor` `punish` `quietness` `reproacheth` `sacrifices` `strife` `times` `transgression` `understanding` `water` `wicked` `wisdom`
+#abomination #adversity #beginning #born #brother #contentment #covereth #dry #earth #ends #eyes #folly #fool #friend #friendship #full #good #holdeth #house #justice #justifieth #loveth #loyalty #maker #mercy #mocketh #morsel #peace #poor #punish #quietness #reproacheth #sacrifices #strife #times #transgression #understanding #water #wicked #wisdom
 
 
 ---

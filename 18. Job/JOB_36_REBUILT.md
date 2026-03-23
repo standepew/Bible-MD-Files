@@ -1,3 +1,14 @@
+---
+book: "Job"
+chapter: 36
+testament: "Old Testament"
+key_themes: "Elihu's Fourth Speech, God's Power, Divine Discipline, Natural Wonders"
+tags:
+  - elihu
+  - god
+  - divine-discipline
+  - natural-wonders
+---
 # Job 36
 
 ---
@@ -165,7 +176,7 @@ Elihu, proceeded, suffer, shew, GOD, behalf, fetch, knowledge, ascribe, righteou
 
 
 *AI Keywords for current event matching:*
-`affliction` `ascribe` `behalf` `bindeth` `bound` `broad` `cords` `cry` `days` `deliver` `delivereth` `despiseth` `die` `discipline` `divine` `ear` `ears` `elihu` `elihus` `exalted` `eyes` `false` `fatness` `fetch` `fetters` `fourth` `fulfilled` `full` `giveth` `god` `gods` `heap` `heart` `holden` `hypocrites` `iniquity` `judgment` `justice` `kings` `knowledge` `life` `maker` `mighty` `natural` `obey` `open` `oppression` `perfect` `perish` `place` `pleasures` `poor` `power` `preserveth` `proceeded` `prosperity` `ransom` `removed` `return` `right` `righteous` `righteousness` `serve` `shew` `sheweth` `speech` `strait` `straitness` `strength` `stroke` `suffer` `sword` `table` `throne` `transgressions` `unclean` `wicked` `wisdom` `withdraw` `wonders` `words` `work` `wrath` `years` `youth`
+#affliction #ascribe #behalf #bindeth #bound #broad #cords #cry #days #deliver #delivereth #despiseth #die #discipline #divine #ear #ears #elihu #elihus #exalted #eyes #false #fatness #fetch #fetters #fourth #fulfilled #full #giveth #god #gods #heap #heart #holden #hypocrites #iniquity #judgment #justice #kings #knowledge #life #maker #mighty #natural #obey #open #oppression #perfect #perish #place #pleasures #poor #power #preserveth #proceeded #prosperity #ransom #removed #return #right #righteous #righteousness #serve #shew #sheweth #speech #strait #straitness #strength #stroke #suffer #sword #table #throne #transgressions #unclean #wicked #wisdom #withdraw #wonders #words #work #wrath #years #youth
 
 
 ---

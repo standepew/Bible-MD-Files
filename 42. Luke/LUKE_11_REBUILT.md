@@ -1,3 +1,16 @@
+---
+book: "Luke"
+chapter: 11
+testament: "New Testament"
+key_themes: "The Lord's Prayer, Persistence in Prayer, Jesus and Beelzebub, The Sign of Jonah, The Light of the Body, Woes to the Pharisees and Lawyers"
+tags:
+  - the-lord
+  - persistence-in-prayer
+  - jesus-and-beelzebub
+  - the-sign-of-jonah
+  - the-light-of-the-body
+  - woes-to-the-pharisees-and-lawyers
+---
 # Luke 11
 
 ---
@@ -241,7 +254,7 @@ Praying, place, ceased, disciple, Lord, teach, pray, John, taught, disciples, pr
 
 
 *AI Keywords for current event matching:*
-`abel` `appear` `ask` `beelzebub` `blood` `body` `bread` `candlestick` `chief` `come` `cup` `daily` `divided` `evil` `eye` `father` `finger` `forgive` `friend` `full` `generation` `gifts` `god` `good` `graves` `greater` `heaven` `heed` `holy` `importunity` `jesus` `jonah` `jonas` `key` `kingdom` `knowledge` `lawyers` `light` `lords` `man` `men` `midnight` `nineve` `persistence` `pharisees` `platter` `prayer` `prophets` `queen` `seats` `seek` `sepulchres` `seven` `sign` `single` `sins` `south` `spirit` `spirits` `strong` `take` `temptation` `uppermost` `woes`
+#abel #appear #ask #beelzebub #blood #body #bread #candlestick #chief #come #cup #daily #divided #evil #eye #father #finger #forgive #friend #full #generation #gifts #god #good #graves #greater #heaven #heed #holy #importunity #jesus #jonah #jonas #key #kingdom #knowledge #lawyers #light #lords #man #men #midnight #nineve #persistence #pharisees #platter #prayer #prophets #queen #seats #seek #sepulchres #seven #sign #single #sins #south #spirit #spirits #strong #take #temptation #uppermost #woes
 
 
 ---

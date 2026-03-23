@@ -1,3 +1,99 @@
+---
+book: "Joshua"
+chapter: 24
+testament: "Old Testament"
+key_themes: "Covenant Renewal, Historical Review, Divine Faithfulness, Choice of Service, Joshua's Challenge, Covenant at Shechem, Memorial Stone, Joshua's Death, Joseph's Burial"
+tags:
+  - Joshua-gathered-tribes-Israel-Shechem
+  - elders-Israel-heads-judges-officers
+  - presented-God
+  - Joshua-people-LORD-God-Israel
+  - fathers-dwelt-flood-old-time
+  - Terah-father-Abraham-father-Nachor
+  - served-gods
+  - father-Abraham-flood
+  - led-land-Canaan
+  - multiplied-seed
+  - Isaac
+  - Isaac-Jacob-Esau
+  - Esau-mount-Seir-possess
+  - Jacob-children-Egypt
+  - Moses-Aaron
+  - plagued-Egypt
+  - brought
+  - fathers-Egypt
+  - sea
+  - cried-LORD
+  - darkness-Egyptians
+  - sea-covered
+  - Egypt-wilderness-season
+  - land-Amorites-Jordan
+  - fought-hand-possess-land
+  - destroyed
+  - Balak-son-Zippor-king-Moab
+  - warred-Israel
+  - Balaam-son-Beor-curse
+  - hearken-Balaam
+  - blessed-delivered-hand
+  - Jordan-Jericho
+  - delivered-hand
+  - hornet-drove
+  - two-kings-Amorites
+  - sword-bow
+  - land-labour
+  - cities-built
+  - dwell-vineyards-oliveyards-planted-eat
+  - fear-LORD-serve-sincerity-truth
+  - serve-LORD
+  - evil-serve-LORD
+  - choose-day-serve
+  - gods-fathers-flood
+  - gods-Amorites-land-dwell
+  - house-serve-LORD
+  - people-answered
+  - forsake-LORD-serve-gods
+  - LORD-God-brought-fathers-Egypt
+  - house-bondage
+  - great-signs-sight
+  - preserved-way-people-passed
+  - LORD-drove-Amorites-dwelt-land
+  - serve-LORD-God
+  - Joshua-people-serve-LORD
+  - holy-God
+  - jealous-God
+  - forgive-transgressions-sins
+  - forsake-LORD-strange-gods
+  - turn-hurt-consume-good
+  - people-Nay-serve-LORD
+  - witnesses-serve-LORD
+  - witnesses
+  - put-away-strange-gods
+  - incline-heart-LORD-God-Israel
+  - covenant-people-statute-ordinance-Shechem
+  - wrote-words-book-law-God
+  - great-stone-oak-sanctuary-LORD
+  - stone-witness
+  - heard-words-LORD-spake
+  - witness-deny-God
+  - people-depart-inheritance
+  - hundred-ten-years
+  - Israel-served-LORD-days-Joshua
+  - days-elders-overlived-Joshua
+  - known-works-LORD-Israel
+  - bones-Joseph-children-Israel-Egypt
+  - buried-Shechem
+  - hundred-pieces-silver
+  - inheritance-children-Joseph
+  - Eleazar-son-Aaron-died
+  - covenant-renewal
+  - historical-review
+  - divine-faithfulness
+  - choice-of-service
+  - joshua
+  - covenant-at-shechem
+  - memorial-stone
+  - joseph
+---
 # Joshua 24
 
 ---
@@ -93,7 +189,7 @@ Joshua gathers all Israel's tribes to Shechem with their leaders, presenting the
 
 
 *AI Keywords for current event matching:*
-`aaron` `abraham` `amorites` `answered` `away` `balaam` `balak` `beor` `blessed` `bondage` `bones` `book` `border` `bought` `bow` `brought` `built` `burial` `buried` `canaan` `canaanites` `challenge` `chariots` `children` `choose` `cities` `consume` `continued` `covenant` `covered` `cried` `curse` `darkness` `day` `days` `death` `delivered` `deny` `depart` `destroyed` `died` `drove` `dwell` `dwelt` `eat` `egypt` `egyptians` `elders` `eleazar` `eleazars` `ephraim` `esau` `establishment` `evil` `faithfulness` `father` `fathers` `fear` `flood` `forgive` `forsake` `fought` `gaash` `gathered` `girgashites` `god` `gods` `good` `great` `ground` `hamor` `hand` `heads` `heard` `hearken` `heart` `hill` `historical` `hittites` `hivites` `holy` `hornet` `horsemen` `house` `hundred` `hurt` `incline` `inheritance` `isaac` `israel` `jacob` `jealous` `jebusites` `jericho` `jordan` `joseph` `josephs` `joshua` `joshuas` `judges` `king` `kings` `known` `labour` `land` `law` `led` `lord` `men` `moab` `moses` `mount` `multiplied` `nachor` `nay` `north` `nun` `oak` `obey` `officers` `old` `oliveyards` `ordinance` `overlived` `parcel` `passed` `people` `peoples` `perizzites` `phinehas` `pieces` `plagued` `planted` `possess` `presented` `preserved` `provision` `pursued` `put` `red` `response` `review` `sanctuary` `sea` `season` `seed` `seir` `serah` `servant` `serve` `served` `shechem` `sight` `signs` `silver` `sincerity` `sins` `son` `sons` `spake` `statute` `stone` `strange` `sword` `ten` `terah` `time` `timnath` `transgressions` `tribes` `truth` `turn` `two` `vineyards` `voice` `warning` `warred` `way` `wilderness` `witness` `witnesses` `words` `works` `wrote` `years` `zippor`
+#aaron #abraham #amorites #answered #away #balaam #balak #beor #blessed #bondage #bones #book #border #bought #bow #brought #built #burial #buried #canaan #canaanites #challenge #chariots #children #choose #cities #consume #continued #covenant #covered #cried #curse #darkness #day #days #death #delivered #deny #depart #destroyed #died #drove #dwell #dwelt #eat #egypt #egyptians #elders #eleazar #eleazars #ephraim #esau #establishment #evil #faithfulness #father #fathers #fear #flood #forgive #forsake #fought #gaash #gathered #girgashites #god #gods #good #great #ground #hamor #hand #heads #heard #hearken #heart #hill #historical #hittites #hivites #holy #hornet #horsemen #house #hundred #hurt #incline #inheritance #isaac #israel #jacob #jealous #jebusites #jericho #jordan #joseph #josephs #joshua #joshuas #judges #king #kings #known #labour #land #law #led #lord #men #moab #moses #mount #multiplied #nachor #nay #north #nun #oak #obey #officers #old #oliveyards #ordinance #overlived #parcel #passed #people #peoples #perizzites #phinehas #pieces #plagued #planted #possess #presented #preserved #provision #pursued #put #red #response #review #sanctuary #sea #season #seed #seir #serah #servant #serve #served #shechem #sight #signs #silver #sincerity #sins #son #sons #spake #statute #stone #strange #sword #ten #terah #time #timnath #transgressions #tribes #truth #turn #two #vineyards #voice #warning #warred #way #wilderness #witness #witnesses #words #works #wrote #years #zippor
 
 
 ---

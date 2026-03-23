@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 138
+testament: "Old Testament"
+key_themes: "Whole Heart Praise, God's Truth, Divine Answer, Kings' Praise"
+tags:
+  - whole-heart-praise
+  - god
+  - divine-answer
+  - kings
+---
 # Psalm 138
 
 ---
@@ -129,7 +140,7 @@ Psalm, David, praise, whole, heart, gods, sing, praise, worship, holy, temple, p
 
 
 *AI Keywords for current event matching:*
-`answer` `answered` `cried` `divine` `earth` `glory` `gods` `great` `hear` `heart` `holy` `kings` `lord` `lovingkindness` `magnified` `midst` `mouth` `name` `praise` `revive` `sing` `strength` `strengthened` `temple` `trouble` `truth` `whole` `word` `words` `worship`
+#answer #answered #cried #divine #earth #glory #gods #great #hear #heart #holy #kings #lord #lovingkindness #magnified #midst #mouth #name #praise #revive #sing #strength #strengthened #temple #trouble #truth #whole #word #words #worship
 
 
 ---

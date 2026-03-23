@@ -1,3 +1,15 @@
+---
+book: "Nehemiah"
+chapter: 13
+testament: "Old Testament"
+key_themes: "Final Reforms, Sabbath Violations, Mixed Marriages, Priestly Purity"
+tags:
+  - merchants-sellers-ware-lodged-Jerusalem
+  - final-reforms
+  - sabbath-violations
+  - mixed-marriages
+  - priestly-purity
+---
 # Nehemiah 13
 
 ---
@@ -177,7 +189,7 @@ Day, read, book, Moses, audience, people, found, written, Ammonite, Moabite, con
 
 
 *AI Keywords for current event matching:*
-`aforetime` `allied` `ammon` `ammonite` `appointed` `artaxerxes` `ashdod` `asses` `audience` `babylon` `balaam` `beloved` `blessing` `book` `bread` `brethren` `bringing` `brought` `burden` `burdens` `business` `cast` `chamber` `chambers` `charged` `chased` `children` `city` `cleanse` `cleansed` `commanded` `congregation` `contended` `corn` `counted` `courts` `covenant` `curse` `cursed` `dark` `daughters` `day` `days` `deeds` `defiled` `distribute` `eliashib` `evil` `faithful` `fathers` `field` `figs` `final` `firstfruits` `fish` `fled` `forever` `forsaken` `found` `frankincense` `gates` `gathered` `give` `given` `god` `good` `grapes` `great` `greatness` `grieved` `hair` `half` `hanan` `hands` `heard` `hearken` `high` `hired` `horonite` `house` `household` `israel` `jerusalem` `jews` `joiada` `judah` `keep` `king` `lading` `laid` `language` `law` `lay` `leave` `levites` `lodged` `marriages` `married` `marrying` `mattaniah` `meat` `men` `merchants` `mercy` `met` `mixed` `moab` `moabite` `moses` `multitude` `nations` `new` `nobles` `obtained` `offering` `offerings` `office` `offices` `oil` `opened` `outlandish` `oversight` `pedaiah` `people` `perceived` `place` `plucked` `porters` `portions` `prepared` `preparing` `presses` `priest` `priesthood` `priestly` `priests` `profane` `profaning` `purity` `read` `reforms` `remember` `rulers` `sabbath` `sanballat` `sanctify` `scribe` `sellers` `separated` `servants` `sheaves` `shelemiah` `shut` `sin` `singers` `smote` `sold` `solomon` `son` `sons` `spare` `speak` `speech` `spoke` `strange` `strangers` `stuff` `swear` `take` `testified` `thirtieth` `time` `times` `tithe` `tithes` `tobiah` `transgress` `treading` `treasurers` `treasuries` `turned` `two` `tyre` `understood` `vessels` `victuals` `violations` `wall` `wards` `ware` `water` `wine` `wipe` `wives` `women` `wood` `work` `wrath` `written` `year` `zaccur` `zadok`
+#aforetime #allied #ammon #ammonite #appointed #artaxerxes #ashdod #asses #audience #babylon #balaam #beloved #blessing #book #bread #brethren #bringing #brought #burden #burdens #business #cast #chamber #chambers #charged #chased #children #city #cleanse #cleansed #commanded #congregation #contended #corn #counted #courts #covenant #curse #cursed #dark #daughters #day #days #deeds #defiled #distribute #eliashib #evil #faithful #fathers #field #figs #final #firstfruits #fish #fled #forever #forsaken #found #frankincense #gates #gathered #give #given #god #good #grapes #great #greatness #grieved #hair #half #hanan #hands #heard #hearken #high #hired #horonite #house #household #israel #jerusalem #jews #joiada #judah #keep #king #lading #laid #language #law #lay #leave #levites #lodged #marriages #married #marrying #mattaniah #meat #men #merchants #mercy #met #mixed #moab #moabite #moses #multitude #nations #new #nobles #obtained #offering #offerings #office #offices #oil #opened #outlandish #oversight #pedaiah #people #perceived #place #plucked #porters #portions #prepared #preparing #presses #priest #priesthood #priestly #priests #profane #profaning #purity #read #reforms #remember #rulers #sabbath #sanballat #sanctify #scribe #sellers #separated #servants #sheaves #shelemiah #shut #sin #singers #smote #sold #solomon #son #sons #spare #speak #speech #spoke #strange #strangers #stuff #swear #take #testified #thirtieth #time #times #tithe #tithes #tobiah #transgress #treading #treasurers #treasuries #turned #two #tyre #understood #vessels #victuals #violations #wall #wards #ware #water #wine #wipe #wives #women #wood #work #wrath #written #year #zaccur #zadok
 
 
 ---

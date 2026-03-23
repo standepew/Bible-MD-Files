@@ -1,3 +1,13 @@
+---
+book: "Ezekiel"
+chapter: 45
+testament: "Old Testament"
+key_themes: "Christ's Inheritance, Holy Portion, Divine Justice, Christ's Reconciliation"
+tags:
+  - christ
+  - holy-portion
+  - divine-justice
+---
 # Ezekiel 45
 
 ---
@@ -105,7 +115,7 @@ Divide, land, inheritance, oblation, Lord, holy, portion, land, length, five, tw
 
 
 *AI Keywords for current event matching:*
-`balances` `burnt` `christs` `divide` `divine` `ephah` `execute` `five` `holy` `houses` `hundred` `inheritance` `judgment` `justice` `land` `length` `levites` `lord` `ministers` `offering` `offerings` `peace` `place` `portion` `priests` `reconciliation` `remove` `round` `sanctuary` `sin` `square` `violence`
+#balances #burnt #christs #divide #divine #ephah #execute #five #holy #houses #hundred #inheritance #judgment #justice #land #length #levites #lord #ministers #offering #offerings #peace #place #portion #priests #reconciliation #remove #round #sanctuary #sin #square #violence
 
 
 ---

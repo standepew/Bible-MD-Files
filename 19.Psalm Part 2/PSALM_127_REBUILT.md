@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 127
+testament: "Old Testament"
+key_themes: "Divine Providence, Human Futility, Children as Heritage, Family Blessing"
+tags:
+  - divine-providence
+  - human-futility
+  - children-as-heritage
+  - family-blessing
+---
 # Psalm 127
 
 ---
@@ -93,7 +104,7 @@ Song, degrees, Solomon, LORD, build, house, labour, vain, build, LORD, keep, cit
 
 
 *AI Keywords for current event matching:*
-`arrows` `beloved` `blessing` `build` `children` `city` `divine` `early` `enemies` `family` `fruit` `full` `futility` `gate` `giveth` `hand` `happy` `heritage` `house` `human` `keep` `labour` `late` `lord` `man` `mighty` `providence` `quiver` `reward` `rise` `sit` `sleep` `speak` `vain` `waketh` `watchman` `womb`
+#arrows #beloved #blessing #build #children #city #divine #early #enemies #family #fruit #full #futility #gate #giveth #hand #happy #heritage #house #human #keep #labour #late #lord #man #mighty #providence #quiver #reward #rise #sit #sleep #speak #vain #waketh #watchman #womb
 
 
 ---

@@ -1,3 +1,14 @@
+---
+book: "Daniel"
+chapter: 9
+testament: "Old Testament"
+key_themes: "Christ's Prayer, Divine Mercy, Seventy Weeks, Messiah Prince"
+tags:
+  - christ
+  - divine-mercy
+  - seventy-weeks
+  - messiah-prince
+---
 # Daniel 9
 
 ---
@@ -105,7 +116,7 @@ First, year, Darius, son, Ahasuerus, seed, Medes, king, realm, Chaldeans, first,
 
 
 *AI Keywords for current event matching:*
-`anger` `christs` `confessing` `cut` `divine` `end` `everlasting` `face` `fasting` `finish` `forgive` `forgivenesses` `great` `hear` `iniquity` `mercies` `mercy` `messiah` `off` `prayer` `prince` `reconciliation` `righteousness` `sackcloth` `set` `seven` `seventy` `sin` `sins` `supplications` `threescore` `transgression` `turn` `two` `weeks`
+#anger #christs #confessing #cut #divine #end #everlasting #face #fasting #finish #forgive #forgivenesses #great #hear #iniquity #mercies #mercy #messiah #off #prayer #prince #reconciliation #righteousness #sackcloth #set #seven #seventy #sin #sins #supplications #threescore #transgression #turn #two #weeks
 
 
 ---

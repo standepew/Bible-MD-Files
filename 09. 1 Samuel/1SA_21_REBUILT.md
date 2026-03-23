@@ -1,3 +1,17 @@
+---
+book: "1 Samuel"
+chapter: 21
+testament: "Old Testament"
+key_themes: "David at Nob, Holy Bread, Goliath's Sword, Doeg the Edomite, David at Gath, Feigning Madness"
+tags:
+  - Achish-servants-mad-brought-Achish
+  - david-at-nob
+  - holy-bread
+  - goliath
+  - doeg-the-edomite
+  - david-at-gath
+  - feigning-madness
+---
 # 1 Samuel 21
 
 ---
@@ -83,7 +97,7 @@ David came to Nob to Ahimelech the priest; Ahimelech was afraid at meeting David
 
 
 *AI Keywords for current event matching:*
-`achish` `afraid` `ahimelech` `alone` `arose` `beard` `behaviour` `bread` `brought` `business` `changed` `chiefest` `cloth` `commanded` `common` `dances` `david` `day` `days` `detained` `doeg` `doegs` `doors` `edomite` `elah` `ephod` `fear` `feigned` `fellow` `five` `fled` `gate` `gath` `goliath` `goliaths` `hallowed` `hand` `hands` `haste` `heart` `herdmen` `holy` `hot` `house` `kept` `king` `know` `land` `loaves` `lord` `mad` `man` `meeting` `men` `nob` `philistine` `place` `play` `presence` `present` `priest` `sanctified` `saul` `scrabbled` `servants` `shewbread` `sing` `slew` `sore` `spear` `spittle` `sword` `taken` `ten` `thousands` `three` `truth` `valley` `vessel` `vessels` `weapons` `women` `words` `wrapped` `young`
+#achish #afraid #ahimelech #alone #arose #beard #behaviour #bread #brought #business #changed #chiefest #cloth #commanded #common #dances #david #day #days #detained #doeg #doegs #doors #edomite #elah #ephod #fear #feigned #fellow #five #fled #gate #gath #goliath #goliaths #hallowed #hand #hands #haste #heart #herdmen #holy #hot #house #kept #king #know #land #loaves #lord #mad #man #meeting #men #nob #philistine #place #play #presence #present #priest #sanctified #saul #scrabbled #servants #shewbread #sing #slew #sore #spear #spittle #sword #taken #ten #thousands #three #truth #valley #vessel #vessels #weapons #women #words #wrapped #young
 
 
 ---

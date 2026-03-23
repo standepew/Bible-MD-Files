@@ -1,3 +1,14 @@
+---
+book: "John"
+chapter: 3
+testament: "New Testament"
+key_themes: "Nicodemus and the New Birth, God's Love for the World, John the Baptist's Final Testimony, Eternal Life Through Faith"
+tags:
+  - nicodemus-and-the-new-birth
+  - god
+  - john-the-baptist
+  - eternal-life-through-faith
+---
 # John 3
 
 ---
@@ -141,7 +152,7 @@ Man, Pharisees, Nicodemus, ruler, Jews, Jesus, night, Rabbi, know, teacher, God,
 
 
 *AI Keywords for current event matching:*
-`above` `again` `baptists` `baptized` `baptizing` `begotten` `believeth` `birth` `bloweth` `born` `bride` `bridegroom` `cometh` `condemn` `darkness` `decrease` `disciples` `eternal` `everlasting` `faith` `father` `final` `flesh` `god` `gods` `heaven` `increase` `jesus` `jews` `john` `life` `lifted` `light` `love` `loved` `loveth` `man` `measure` `moses` `mother` `new` `nicodemus` `night` `pharisees` `purifying` `receive` `ruler` `seal` `serpent` `son` `spirit` `testimony` `water` `whosoever` `wind` `womb` `words` `world` `wrath`
+#above #again #baptists #baptized #baptizing #begotten #believeth #birth #bloweth #born #bride #bridegroom #cometh #condemn #darkness #decrease #disciples #eternal #everlasting #faith #father #final #flesh #god #gods #heaven #increase #jesus #jews #john #life #lifted #light #love #loved #loveth #man #measure #moses #mother #new #nicodemus #night #pharisees #purifying #receive #ruler #seal #serpent #son #spirit #testimony #water #whosoever #wind #womb #words #world #wrath
 
 
 ---

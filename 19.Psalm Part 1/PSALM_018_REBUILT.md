@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 18
+testament: "Old Testament"
+key_themes: "Divine Deliverance, God's Power, Christ's Victory, Thanksgiving for Salvation"
+tags:
+  - divine-deliverance
+  - god
+  - christ
+  - thanksgiving-for-salvation
+---
 # Psalm 18
 
 ---
@@ -165,7 +176,7 @@ Chief, Musician, Psalm, David, servant, LORD, spake, words, song, day, delivered
 
 
 *AI Keywords for current event matching:*
-`anointed` `blessed` `bow` `broken` `buckler` `cherub` `chief` `christs` `consumed` `david` `day` `deliverance` `delivered` `deliverer` `devoured` `divine` `earth` `enemies` `enemy` `exalted` `fallen` `feet` `fire` `fly` `forevermore` `fortress` `foundations` `girdeth` `give` `god` `gods` `great` `hand` `hands` `hated` `head` `heathen` `high` `hills` `hinds` `holden` `horn` `king` `liveth` `lord` `mercy` `mouth` `moved` `musician` `name` `nostrils` `overtaken` `people` `perfect` `places` `power` `praises` `psalm` `pursued` `right` `rock` `rode` `salvation` `saul` `seed` `servant` `shew` `shield` `shook` `sing` `smoke` `song` `spake` `steel` `strength` `strivings` `strong` `thanks` `thanksgiving` `tower` `trembled` `trust` `victory` `war` `way` `wind` `wings` `words`
+#anointed #blessed #bow #broken #buckler #cherub #chief #christs #consumed #david #day #deliverance #delivered #deliverer #devoured #divine #earth #enemies #enemy #exalted #fallen #feet #fire #fly #forevermore #fortress #foundations #girdeth #give #god #gods #great #hand #hands #hated #head #heathen #high #hills #hinds #holden #horn #king #liveth #lord #mercy #mouth #moved #musician #name #nostrils #overtaken #people #perfect #places #power #praises #psalm #pursued #right #rock #rode #salvation #saul #seed #servant #shew #shield #shook #sing #smoke #song #spake #steel #strength #strivings #strong #thanks #thanksgiving #tower #trembled #trust #victory #war #way #wind #wings #words
 
 
 ---

@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 135
+testament: "Old Testament"
+key_themes: "Divine Praise, God's Sovereignty, Creation's Power, Judgment of Idols"
+tags:
+  - divine-praise
+  - god
+  - creation
+  - judgment-of-idols
+---
 # Psalm 135
 
 ---
@@ -141,7 +152,7 @@ Praise, LORD, praise, name, LORD, praise, servants, LORD, stand, house, LORD, co
 
 
 *AI Keywords for current event matching:*
-`above` `ascend` `bringeth` `causeth` `chosen` `creations` `divine` `earth` `gods` `gold` `great` `hands` `heathen` `heaven` `idols` `jacob` `judgment` `lightnings` `like` `lord` `make` `maketh` `mouths` `name` `pleasant` `pleased` `power` `praise` `praises` `rain` `silver` `sing` `sovereignty` `speak` `treasuries` `vapours` `wind` `work`
+#above #ascend #bringeth #causeth #chosen #creations #divine #earth #gods #gold #great #hands #heathen #heaven #idols #jacob #judgment #lightnings #like #lord #make #maketh #mouths #name #pleasant #pleased #power #praise #praises #rain #silver #sing #sovereignty #speak #treasuries #vapours #wind #work
 
 
 ---

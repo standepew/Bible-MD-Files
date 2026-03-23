@@ -1,3 +1,14 @@
+---
+book: "Ezekiel"
+chapter: 27
+testament: "Old Testament"
+key_themes: "Christ's Lament, Tyrus Pride, Commercial Glory, Divine Ruin"
+tags:
+  - christ
+  - tyrus-pride
+  - commercial-glory
+  - divine-ruin
+---
 # Ezekiel 27
 
 ---
@@ -117,7 +128,7 @@ Word, Lord, son, man, lamentation, Tyrus, Tyrus, situate, entry, sea, merchant, 
 
 
 *AI Keywords for current event matching:*
-`any` `beauty` `boards` `broken` `christs` `commercial` `divine` `east` `enriched` `entry` `fall` `glorious` `glory` `isles` `kings` `lament` `lamentation` `many` `merchant` `merchants` `midst` `multitude` `never` `people` `perfect` `perfected` `pride` `replenished` `riches` `ruin` `seas` `shake` `ship` `ships` `situate` `suburbs` `tarshish` `traded` `tyrus` `wind`
+#any #beauty #boards #broken #christs #commercial #divine #east #enriched #entry #fall #glorious #glory #isles #kings #lament #lamentation #many #merchant #merchants #midst #multitude #never #people #perfect #perfected #pride #replenished #riches #ruin #seas #shake #ship #ships #situate #suburbs #tarshish #traded #tyrus #wind
 
 
 ---

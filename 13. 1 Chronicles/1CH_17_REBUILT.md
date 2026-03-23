@@ -1,3 +1,18 @@
+---
+book: "1 Chronicles"
+chapter: 17
+testament: "Old Testament"
+key_themes: "God's Covenant with David, Temple Building Promise, David's Humble Response, God's Unconditional Promise"
+tags:
+  - not-build-house-God-Israel
+  - establish-kingdom-throne-kingdom-Israel
+  - build-house-God-Israel
+  - establish-throne-kingdom-Israel
+  - house-building-man-build-house
+  - god
+  - temple-building-promise
+  - david
+---
 # 1 Chronicles 17
 
 ---
@@ -153,7 +168,7 @@ David, sat, house, Nathan, prophet, dwell, house, cedars, ark, covenant, LORD, r
 
 
 *AI Keywords for current event matching:*
-`according` `appointed` `ark` `away` `blessing` `brought` `build` `building` `built` `calling` `canaan` `cedars` `children` `choose` `chosen` `coming` `commanded` `covenant` `curtains` `david` `davids` `day` `desire` `divine` `dwell` `dwelt` `earth` `egypt` `enemies` `establish` `eternal` `faithfulness` `father` `father-son` `feed` `following` `forever` `given` `god` `gods` `going` `great` `greatness` `heart` `heaven` `heritage` `hitherto` `hosts` `house` `humility` `iniquity` `israel` `judges` `king` `kingdom` `land` `like` `lord` `made` `man` `men` `mercy` `messianic` `name` `nathan` `never` `night` `people` `place` `planted` `promise` `prophet` `protection` `redeemed` `relationship` `remain` `revealed` `ruler` `safety` `said` `sat` `saying` `servant` `shalt` `sheep` `sheepcote` `since` `son` `spake` `subdue` `subdued` `tabernacle` `take` `tell` `temple` `tent` `throne` `told` `took` `tribe` `truth` `vision` `visions` `walked` `waste` `while` `wickedness` `word` `words`
+#according #appointed #ark #away #blessing #brought #build #building #built #calling #canaan #cedars #children #choose #chosen #coming #commanded #covenant #curtains #david #davids #day #desire #divine #dwell #dwelt #earth #egypt #enemies #establish #eternal #faithfulness #father #father-son #feed #following #forever #given #god #gods #going #great #greatness #heart #heaven #heritage #hitherto #hosts #house #humility #iniquity #israel #judges #king #kingdom #land #like #lord #made #man #men #mercy #messianic #name #nathan #never #night #people #place #planted #promise #prophet #protection #redeemed #relationship #remain #revealed #ruler #safety #said #sat #saying #servant #shalt #sheep #sheepcote #since #son #spake #subdue #subdued #tabernacle #take #tell #temple #tent #throne #told #took #tribe #truth #vision #visions #walked #waste #while #wickedness #word #words
 
 
 ---

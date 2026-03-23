@@ -1,3 +1,14 @@
+---
+book: "2 Corinthians"
+chapter: 8
+testament: "New Testament"
+key_themes: "The Grace of Giving, The Macedonian Example, Christ's Poverty, The Equality of Giving"
+tags:
+  - the-grace-of-giving
+  - the-macedonian-example
+  - christ
+  - the-equality-of-giving
+---
 # 2 Corinthians 8
 
 ---
@@ -129,7 +140,7 @@ Brethren, grace, God, bestowed, churches, Macedonia, great, trial, affliction, a
 
 
 *AI Keywords for current event matching:*
-`abound` `abounded` `abundance` `accepted` `accord` `administered` `advice` `affliction` `bear` `begun` `behalf` `bestowed` `beyond` `blame` `boasting` `brethren` `brother` `burdened` `care` `chosen` `christ` `christs` `churches` `commandment` `confidence` `declaration` `deep` `desired` `diligence` `diligent` `doing` `earnest` `eased` `enquire` `enquired` `equality` `example` `exhortation` `expedient` `faith` `fellowhelper` `fellowship` `finish` `forward` `forwardness` `gathered` `gave` `gift` `giving` `glory` `god` `gospel` `grace` `great` `hath` `heart` `honest` `hoped` `intreaty` `jesus` `joy` `knowledge` `liberality` `little` `lord` `love` `macedonia` `macedonian` `man` `men` `messengers` `mind` `ministering` `much` `occasion` `others` `partner` `perform` `performance` `poor` `poverty` `power` `praise` `praying` `proof` `prove` `proved` `providing` `readiness` `ready` `receive` `record` `rich` `riches` `saints` `sakes` `selves` `sent` `shew` `sight` `sincerity` `supply` `thanks` `things` `titus` `travel` `trial` `utterance` `want` `willing` `written` `year`
+#abound #abounded #abundance #accepted #accord #administered #advice #affliction #bear #begun #behalf #bestowed #beyond #blame #boasting #brethren #brother #burdened #care #chosen #christ #christs #churches #commandment #confidence #declaration #deep #desired #diligence #diligent #doing #earnest #eased #enquire #enquired #equality #example #exhortation #expedient #faith #fellowhelper #fellowship #finish #forward #forwardness #gathered #gave #gift #giving #glory #god #gospel #grace #great #hath #heart #honest #hoped #intreaty #jesus #joy #knowledge #liberality #little #lord #love #macedonia #macedonian #man #men #messengers #mind #ministering #much #occasion #others #partner #perform #performance #poor #poverty #power #praise #praying #proof #prove #proved #providing #readiness #ready #receive #record #rich #riches #saints #sakes #selves #sent #shew #sight #sincerity #supply #thanks #things #titus #travel #trial #utterance #want #willing #written #year
 
 
 ---

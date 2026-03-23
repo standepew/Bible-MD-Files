@@ -1,3 +1,151 @@
+---
+book: "Joshua"
+chapter: 8
+testament: "Old Testament"
+key_themes: "Victory at Ai, Divine Strategy, Military Ambush, Feigned Retreat, Spear Signal, City Burning, Covenant Renewal, Mount Ebal Altar, Law Writing, Blessings and Curses"
+tags:
+  - LORD-Joshua
+  - Fear-not-dismayed
+  - people-war
+  - arise-Ai
+  - given-hand-king-Ai
+  - people-city-land
+  - Ai-king-Jericho-king
+  - spoil-cattle-prey
+  - ambush-city-behind
+  - Joshua-arose
+  - Ai
+  - thirty-thousand-mighty-men
+  - night
+  - commanded
+  - lie-wait-city
+  - city
+  - far-city
+  - ready
+  - people-approach-city
+  - come-against
+  - first
+  - flee
+  - drawn-city
+  - flee-first
+  - rise-ambush
+  - seize-city
+  - LORD-God-deliver-hand
+  - taken-city
+  - set-city-fire
+  - commandment-LORD
+  - Joshua-sent
+  - ambush
+  - abode-Beth-el-Ai
+  - west-side-Ai
+  - Joshua-lodged-night
+  - people
+  - Joshua-rose-early-morning
+  - numbered-people
+  - elders-Israel
+  - people-Ai
+  - north-side-Ai
+  - valley-Ai
+  - five-thousand-men
+  - ambush-Beth-el-Ai
+  - west-side-city
+  - set-people
+  - host-north-city
+  - liers-wait-west-city
+  - Joshua-night-midst-valley
+  - king-Ai-saw
+  - hasted-rose-early
+  - men-city-Israel-battle
+  - appointed-plain
+  - liers-ambush-city
+  - Joshua-Israel-beaten
+  - fled-way-wilderness
+  - people-Ai-called-together
+  - pursue-Israel
+  - city-open
+  - pursued-Israel
+  - man-left-Ai-Beth-el
+  - went-Israel
+  - Stretch-spear-hand-Ai
+  - give-hand
+  - Joshua-stretched-spear-hand-city
+  - ambush-arose-quickly
+  - place
+  - ran-stretched-hand
+  - entered-city
+  - took-city
+  - hasted-set-city-fire
+  - men-Ai-looked
+  - smoke-city-ascended-heaven
+  - power-flee-way-way
+  - people-fled-wilderness
+  - turned-back-pursuers
+  - Joshua-Israel-ambush-city
+  - smoke-city-ascended
+  - turned-slew-men-Ai
+  - issued-city
+  - midst-Israel
+  - side-side
+  - smote-remain-escape
+  - king-Ai-alive
+  - brought-Joshua
+  - Israel-end-slaying-inhabitants-Ai
+  - field-wilderness
+  - chased-them
+  - fallen-edge-sword
+  - consumed
+  - Israelites-returned-Ai
+  - smote-edge-sword
+  - fell-day
+  - men-women
+  - twelve-thousand
+  - men-Ai
+  - Joshua-drew-hand-back
+  - stretched-spear
+  - utterly-destroyed-inhabitants-Ai
+  - cattle-spoil-city-Israel-prey
+  - word-LORD-commanded-Joshua
+  - Joshua-burnt-Ai
+  - heap-forever
+  - desolation-day
+  - king-Ai-hanged-tree-eventide
+  - sun-down
+  - Joshua-commanded-take-carcase-tree
+  - cast-entering-gate-city
+  - raise-great-heap-stones
+  - remain-day
+  - book-law-Moses
+  - altar-whole-stones
+  - man-lift-iron
+  - burnt-offerings-LORD
+  - peace-offerings
+  - wrote-stones-copy-law-Moses
+  - wrote-presence-children-Israel
+  - Israel-elders-officers-judges
+  - side-ark-side-priests-Levites
+  - bare-ark-covenant-LORD
+  - stranger-born-among
+  - half-mount-Gerizim
+  - half-mount-Ebal
+  - Moses-servant-LORD-commanded
+  - bless-people-Israel
+  - read-words-law
+  - blessings-cursings
+  - book-law-Moses-commanded
+  - Joshua-read-congregation-Israel
+  - women-little-ones
+  - strangers-conversant
+  - victory-at-ai
+  - divine-strategy
+  - military-ambush
+  - feigned-retreat
+  - spear-signal
+  - city-burning
+  - covenant-renewal
+  - mount-ebal-altar
+  - law-writing
+  - blessings-and-curses
+---
 # Joshua 8
 
 ---
@@ -122,7 +270,7 @@ God commands Joshua not to fear but to take all warriors to Ai, promising victor
 
 
 *AI Keywords for current event matching:*
-`abode` `against` `alive` `altar` `ambush` `among` `appointed` `approach` `arise` `ark` `arose` `ascended` `back` `bare` `battle` `beaten` `behind` `beth` `bless` `blessings` `book` `born` `brought` `built` `burnt` `called` `carcass` `cast` `cattle` `chased` `children` `city` `come` `command` `commanded` `commandment` `complete` `congregation` `conquest` `consumed` `conversant` `copy` `covenant` `cursings` `day` `deliver` `desolation` `destroyed` `destruction` `dismayed` `divine` `down` `drawn` `drew` `early` `ebal` `edge` `elders` `end` `entered` `entering` `escape` `eventide` `fallen` `far` `fear` `feigned` `fell` `field` `fire` `first` `five` `fled` `flee` `forever` `gate` `gerizim` `give` `given` `god` `great` `half` `hand` `hanged` `hasted` `heap` `heaven` `host` `inhabitants` `iron` `israel` `israelites` `issued` `jericho` `joshua` `judges` `king` `land` `law` `left` `levites` `lie` `liers` `lift` `little` `lodged` `looked` `lord` `man` `men` `midst` `mighty` `military` `morning` `moses` `mount` `night` `north` `numbered` `offerings` `officers` `ones` `open` `peace` `people` `place` `plain` `power` `preparation` `presence` `prey` `priests` `pursue` `pursued` `pursuers` `quickly` `raise` `ran` `read` `reading` `ready` `remain` `renewal` `retreat` `returned` `rise` `rose` `saw` `seize` `sent` `servant` `set` `side` `signal` `slaying` `slew` `smoke` `smote` `spear` `spoil` `stones` `stranger` `strangers` `strategy` `stretch` `stretched` `sun` `sword` `take` `taken` `thirty` `thousand` `together` `took` `tree` `turned` `twelve` `utterly` `valley` `victory` `wait` `war` `way` `went` `west` `whole` `wilderness` `women` `word` `words` `writing` `wrote`
+#abode #against #alive #altar #ambush #among #appointed #approach #arise #ark #arose #ascended #back #bare #battle #beaten #behind #beth #bless #blessings #book #born #brought #built #burnt #called #carcass #cast #cattle #chased #children #city #come #command #commanded #commandment #complete #congregation #conquest #consumed #conversant #copy #covenant #cursings #day #deliver #desolation #destroyed #destruction #dismayed #divine #down #drawn #drew #early #ebal #edge #elders #end #entered #entering #escape #eventide #fallen #far #fear #feigned #fell #field #fire #first #five #fled #flee #forever #gate #gerizim #give #given #god #great #half #hand #hanged #hasted #heap #heaven #host #inhabitants #iron #israel #israelites #issued #jericho #joshua #judges #king #land #law #left #levites #lie #liers #lift #little #lodged #looked #lord #man #men #midst #mighty #military #morning #moses #mount #night #north #numbered #offerings #officers #ones #open #peace #people #place #plain #power #preparation #presence #prey #priests #pursue #pursued #pursuers #quickly #raise #ran #read #reading #ready #remain #renewal #retreat #returned #rise #rose #saw #seize #sent #servant #set #side #signal #slaying #slew #smoke #smote #spear #spoil #stones #stranger #strangers #strategy #stretch #stretched #sun #sword #take #taken #thirty #thousand #together #took #tree #turned #twelve #utterly #valley #victory #wait #war #way #went #west #whole #wilderness #women #word #words #writing #wrote
 
 
 ---

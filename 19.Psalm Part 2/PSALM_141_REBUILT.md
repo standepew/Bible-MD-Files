@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 141
+testament: "Old Testament"
+key_themes: "Personal Prayer, Spiritual Guard, Righteous Reproof, Divine Trust"
+tags:
+  - personal-prayer
+  - spiritual-guard
+  - righteous-reproof
+  - divine-trust
+---
 # Psalm 141
 
 ---
@@ -141,7 +152,7 @@ LORD, cry, make, haste, give, ear, voice, cry, prayer, set, forth, incense, lift
 
 
 *AI Keywords for current event matching:*
-`cry` `destitute` `divine` `door` `ear` `escape` `evil` `excellent` `eyes` `forth` `give` `god` `guard` `haste` `heart` `incense` `incline` `judges` `keep` `kindness` `leave` `lips` `lord` `make` `mouth` `nets` `oil` `overthrown` `personal` `prayer` `reproof` `reprove` `righteous` `set` `smite` `soul` `spiritual` `trust` `voice` `watch` `wicked`
+#cry #destitute #divine #door #ear #escape #evil #excellent #eyes #forth #give #god #guard #haste #heart #incense #incline #judges #keep #kindness #leave #lips #lord #make #mouth #nets #oil #overthrown #personal #prayer #reproof #reprove #righteous #set #smite #soul #spiritual #trust #voice #watch #wicked
 
 
 ---

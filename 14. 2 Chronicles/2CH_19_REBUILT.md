@@ -1,3 +1,15 @@
+---
+book: "2 Chronicles"
+chapter: 19
+testament: "Old Testament"
+key_themes: "Divine Rebuke, Judicial Reform, Spiritual Renewal, Legal System"
+tags:
+  - judges-Take
+  - divine-rebuke
+  - judicial-reform
+  - spiritual-renewal
+  - legal-system
+---
 # 2 Chronicles 19
 
 ---
@@ -153,7 +165,7 @@ Jehoshaphat, king, Judah, returned, house, peace, Jerusalem. Jehu, son, Hanani, 
 
 
 *AI Keywords for current event matching:*
-`amariah` `beer` `blood` `brethren` `brought` `cause` `charged` `chief` `cities` `city` `commandment` `controversies` `courageously` `divine` `dwelt` `ephraim` `faithfully` `fathers` `fear` `fenced` `gifts` `god` `good` `groves` `hanani` `hate` `heart` `heed` `help` `house` `iniquity` `ishmael` `israel` `jehoshaphat` `jehu` `jerusalem` `judah` `judge` `judges` `judgment` `judgments` `judicial` `king` `land` `law` `legal` `levites` `lord` `love` `man` `matters` `mount` `officers` `peace` `people` `perfect` `persons` `prepared` `priest` `priests` `rebuke` `reform` `renewal` `respect` `returned` `ruler` `seek` `seer` `sheba` `son` `spiritual` `statutes` `system` `take` `things` `trespass` `ungodly` `warn` `wrath` `zebadiah`
+#amariah #beer #blood #brethren #brought #cause #charged #chief #cities #city #commandment #controversies #courageously #divine #dwelt #ephraim #faithfully #fathers #fear #fenced #gifts #god #good #groves #hanani #hate #heart #heed #help #house #iniquity #ishmael #israel #jehoshaphat #jehu #jerusalem #judah #judge #judges #judgment #judgments #judicial #king #land #law #legal #levites #lord #love #man #matters #mount #officers #peace #people #perfect #persons #prepared #priest #priests #rebuke #reform #renewal #respect #returned #ruler #seek #seer #sheba #son #spiritual #statutes #system #take #things #trespass #ungodly #warn #wrath #zebadiah
 
 
 ---

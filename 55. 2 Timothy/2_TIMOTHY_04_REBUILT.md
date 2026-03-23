@@ -1,3 +1,16 @@
+---
+book: "2 Timothy"
+chapter: 4
+testament: "New Testament"
+key_themes: "Paul's Final Charge, Preach the Word, Sound Doctrine Rejected, Paul's Testimony, Crown of Righteousness, Personal Requests, The Lord's Faithfulness"
+tags:
+  - paul
+  - preach-the-word
+  - sound-doctrine-rejected
+  - crown-of-righteousness
+  - personal-requests
+  - the-lord
+---
 # 2 Timothy 4
 
 ---
@@ -111,7 +124,7 @@ Charge, God, Lord, Jesus, Christ, judge, quick, dead, appearing, kingdom, Preach
 
 
 *AI Keywords for current event matching:*
-`afflictions` `alexander` `amen` `answer` `appearing` `aquila` `books` `brethren` `carpus` `charge` `christ` `claudia` `cloke` `coppersmith` `corinth` `course` `crescens` `crown` `dalmatia` `day` `dead` `deliver` `delivered` `demas` `departed` `departure` `diligence` `doctrine` `ears` `endure` `ephesus` `erastus` `eubulus` `evangelist` `evil` `exhort` `fables` `faith` `faithfulness` `fight` `final` `finished` `forsaken` `forsook` `fought` `full` `fully` `galatia` `gentiles` `give` `glory` `god` `good` `grace` `greatly` `greet` `hand` `heap` `heard` `heavenly` `household` `instant` `itching` `jesus` `judge` `kept` `kingdom` `known` `laid` `linus` `lion` `longsuffering` `lord` `lords` `love` `loved` `luke` `lusts` `mark` `miletum` `ministry` `mouth` `offered` `onesiphorus` `parchments` `pauls` `personal` `pray` `preach` `preaching` `present` `preserve` `prisca` `profitable` `proof` `pudens` `quick` `ready` `rebuke` `rejected` `reprove` `requests` `reward` `righteous` `righteousness` `salute` `season` `sent` `shortly` `sick` `sound` `spirit` `stood` `strengthened` `teachers` `testimony` `thessalonica` `things` `time` `titus` `troas` `trophimus` `truth` `turn` `turned` `tychicus` `ware` `watch` `winter` `withstood` `word` `words` `work` `works` `world`
+#afflictions #alexander #amen #answer #appearing #aquila #books #brethren #carpus #charge #christ #claudia #cloke #coppersmith #corinth #course #crescens #crown #dalmatia #day #dead #deliver #delivered #demas #departed #departure #diligence #doctrine #ears #endure #ephesus #erastus #eubulus #evangelist #evil #exhort #fables #faith #faithfulness #fight #final #finished #forsaken #forsook #fought #full #fully #galatia #gentiles #give #glory #god #good #grace #greatly #greet #hand #heap #heard #heavenly #household #instant #itching #jesus #judge #kept #kingdom #known #laid #linus #lion #longsuffering #lord #lords #love #loved #luke #lusts #mark #miletum #ministry #mouth #offered #onesiphorus #parchments #pauls #personal #pray #preach #preaching #present #preserve #prisca #profitable #proof #pudens #quick #ready #rebuke #rejected #reprove #requests #reward #righteous #righteousness #salute #season #sent #shortly #sick #sound #spirit #stood #strengthened #teachers #testimony #thessalonica #things #time #titus #troas #trophimus #truth #turn #turned #tychicus #ware #watch #winter #withstood #word #words #work #works #world
 
 
 ---

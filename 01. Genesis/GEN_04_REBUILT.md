@@ -1,3 +1,52 @@
+---
+book: "Genesis"
+chapter: 4
+testament: "Old Testament"
+key_themes: "Cain and Abel, Two Offerings — Blood vs. Works, Acceptance and Rejection by God, First Murder, The Mark of Cain, Two Bloodlines — Seed of Serpent vs. Seed of Woman, Cain's Line and Its Corruption, Seth Appointed, Calling Upon the Name of the LORD"
+tags:
+  - Cain
+  - Abel
+  - offering
+  - minchah
+  - blood-sacrifice
+  - firstlings
+  - bekorah
+  - fat
+  - fruit-of-ground
+  - respect
+  - accepted-rejected
+  - faith-vs-works
+  - wroth
+  - countenance-fell
+  - sin-lieth-at-door
+  - rovets
+  - first-murder
+  - blood-cries-from-ground
+  - brothers-keeper
+  - mark-of-Cain
+  - land-of-Nod
+  - Cains-line
+  - Enoch-city
+  - Lamech
+  - two-wives
+  - polygamy
+  - Jabal
+  - Jubal
+  - Tubal-cain
+  - Lamechs-song
+  - Seth
+  - sheth
+  - appointed-seed
+  - Enos-Enosh
+  - call-upon-name-of-LORD
+  - two-seeds
+  - seed-of-woman
+  - seed-of-serpent
+  - Abel-type-of-Christ
+  - Cain-type-of-false-religion
+  - righteous-persecuted
+  - blood-speaks
+---
 # Genesis 4
 
 ---
@@ -115,7 +164,7 @@ Adam and Eve bear Cain (the tiller of the ground) and Abel (the keeper of sheep)
 
 For AI matching to topics and current events:
 
-`Cain` `Abel` `Adam` `Eve` `keeper of sheep` `tiller of ground` `offering` `minchah` `tribute` `fruit of ground` `firstlings` `bekorah` `flock` `fat` `respect` `accepted` `rejected` `wroth` `angry` `countenance fell` `sin lieth at door` `rovets` `crouching` `predator` `slew` `murder` `first murder` `blood crieth` `voice of blood` `ground opened` `brother's keeper` `fugitive` `vagabond` `mark of Cain` `land of Nod` `east of Eden` `Enoch` `city` `civilization` `Irad` `Mehujael` `Methusael` `Lamech` `two wives` `polygamy` `Adah` `Zillah` `Jabal` `tents` `cattle` `Jubal` `harp` `organ` `music` `Tubal-cain` `brass` `iron` `weapons` `Naamah` `Lamech's song` `seventy-sevenfold` `vengeance` `Seth` `sheth` `appointed` `Enos` `Enosh` `call upon name of LORD` `two lines` `two seeds` `seed of serpent` `seed of woman` `faith vs works` `blood sacrifice` `righteous persecuted` `false religion`
+#Cain #Abel #Adam #Eve #keeper-of-sheep #tiller-of-ground #offering #minchah #tribute #fruit-of-ground #firstlings #bekorah #flock #fat #respect #accepted #rejected #wroth #angry #countenance-fell #sin-lieth-at-door #rovets #crouching #predator #slew #murder #first-murder #blood-crieth #voice-of-blood #ground-opened #brothers-keeper #fugitive #vagabond #mark-of-Cain #land-of-Nod #east-of-Eden #Enoch #city #civilization #Irad #Mehujael #Methusael #Lamech #two-wives #polygamy #Adah #Zillah #Jabal #tents #cattle #Jubal #harp #organ #music #Tubal-cain #brass #iron #weapons #Naamah #Lamechs-song #seventy-sevenfold #vengeance #Seth #sheth #appointed #Enos #Enosh #call-upon-name-of-LORD #two-lines #two-seeds #seed-of-serpent #seed-of-woman #faith-vs-works #blood-sacrifice #righteous-persecuted #false-religion
 
 **Relevance to Current Events:**
 - Faith vs. works salvation — the Cain/Abel divide is the divide between every religion of self-effort and the biblical gospel of blood atonement; it is the oldest theological conflict
@@ -421,59 +470,59 @@ For AI matching to topics and current events:
 
 ### Blood — Crying, Speaking, Cleansing
 
-**Genesis 4:10** — "The voice of thy brother's blood crieth unto me from the ground"
+[[01. Genesis/GEN_04_REBUILT|Genesis 4:10]] — "The voice of thy brother's blood crieth unto me from the ground"
 
 **Thread through Scripture:**
-- **Genesis 9:4-6** — Blood is the life; capital punishment established because innocent blood shed requires blood in return
-- **Leviticus 17:11** — "The life of the flesh is in the blood: and I have given it to you upon the altar to make an atonement for your souls"
-- **Hebrews 9:22** — "Without shedding of blood is no remission" — blood is the currency of atonement
-- **Hebrews 12:24** — Christ's blood "speaketh better things than that of Abel" — Abel's blood cries for justice; Christ's blood speaks mercy
-- **Revelation 6:10** — Martyrs' blood cries: "How long, O Lord, dost thou not judge and avenge our blood?" — the cry of Abel's blood echoed through history
-- **Revelation 19:2** — God avenges "the blood of his servants at her hand" — the final answer to the cry of every innocent blood shed since Abel
+- [[01. Genesis/GEN_09_REBUILT|Genesis 9:4-6]] — Blood is the life; capital punishment established because innocent blood shed requires blood in return
+- [[03. Leviticus/LEV_17_REBUILT|Leviticus 17:11]] — "The life of the flesh is in the blood: and I have given it to you upon the altar to make an atonement for your souls"
+- [[58. Hebrews/HEBREWS_09_REBUILT|Hebrews 9:22]] — "Without shedding of blood is no remission" — blood is the currency of atonement
+- [[58. Hebrews/HEBREWS_12_REBUILT|Hebrews 12:24]] — Christ's blood "speaketh better things than that of Abel" — Abel's blood cries for justice; Christ's blood speaks mercy
+- [[66. Revelation/REVELATION_06_REBUILT|Revelation 6:10]] — Martyrs' blood cries: "How long, O Lord, dost thou not judge and avenge our blood?" — the cry of Abel's blood echoed through history
+- [[66. Revelation/REVELATION_19_REBUILT|Revelation 19:2]] — God avenges "the blood of his servants at her hand" — the final answer to the cry of every innocent blood shed since Abel
 - *Interpretation:* Blood speaks throughout Scripture. Every drop of innocent blood shed since Abel cries to God. The ultimate answer is twofold: Christ's blood speaks mercy for the repentant; God's judgment speaks justice for the murderers. Neither cry goes unanswered.
 
 ---
 
 ### The Two Lines — Two Civilizations From Genesis to Revelation
 
-**Genesis 4:17-26** — Cain's line (city, arts, weapons, boasting) vs. Seth's line (appointed seed, calling on God)
+[[01. Genesis/GEN_04_REBUILT|Genesis 4:17-26]] — Cain's line (city, arts, weapons, boasting) vs. Seth's line (appointed seed, calling on God)
 
 **Thread through Scripture:**
-- **Genesis 6:1-4** — The two lines intermix; corruption floods the earth; the flood wipes Cain's line; the godly line is preserved in Noah
-- **Genesis 11:1-9** — Babel — Cain's civilization pattern resurfaces: one city, one name, one tower reaching heaven — the city of man against God
-- **Isaiah 14:12-15** — The ultimate expression of the Cain-spirit: "I will ascend into heaven, I will exalt my throne above the stars of God... I will be like the most High" — the city of man's final architect is Satan
+- [[01. Genesis/GEN_06_REBUILT|Genesis 6:1-4]] — The two lines intermix; corruption floods the earth; the flood wipes Cain's line; the godly line is preserved in Noah
+- [[01. Genesis/GEN_11_REBUILT|Genesis 11:1-9]] — Babel — Cain's civilization pattern resurfaces: one city, one name, one tower reaching heaven — the city of man against God
+- [[23. Isaiah/ISAIAH_14_REBUILT|Isaiah 14:12-15]] — The ultimate expression of the Cain-spirit: "I will ascend into heaven, I will exalt my throne above the stars of God... I will be like the most High" — the city of man's final architect is Satan
 - **Revelation 17-18** — Babylon the Great — the city of man at its height, "the great city which reigneth over the kings of the earth" — Cain's civilization at full development, judged and fallen
-- **Revelation 21:2** — "And I John saw the holy city, new Jerusalem, coming down from God out of heaven" — God's city, built by God, not by human hands — Seth's line at full development
+- [[66. Revelation/REVELATION_21_REBUILT|Revelation 21:2]] — "And I John saw the holy city, new Jerusalem, coming down from God out of heaven" — God's city, built by God, not by human hands — Seth's line at full development
 - *Interpretation:* Genesis 4 introduces the two civilizations that run through all of human history and are resolved in Revelation. The city of man (Cain → Babel → Babylon → Revelation 17) versus the city of God (Seth → Israel → the church → new Jerusalem → Revelation 21). These are not merely ancient categories — every generation lives in the tension between these two cities.
 
 ---
 
 ### The Mark — Protection, Seal, and Counterfeit
 
-**Genesis 4:15** — God sets a mark on Cain for his protection
+[[01. Genesis/GEN_04_REBUILT|Genesis 4:15]] — God sets a mark on Cain for his protection
 
 **Thread through Scripture:**
-- **Ezekiel 9:4** — God marks the foreheads of the mourners in Jerusalem to protect them from judgment — same protective-mark pattern
-- **Revelation 7:3** — "Hurt not the earth, neither the sea, nor the trees, till we have sealed the servants of our God in their foreheads" — protective seal
-- **Revelation 9:4** — The locust judgment cannot touch "those men which have not the seal of God in their foreheads" — the seal protects
-- **Revelation 13:16-17** — The beast's mark — on the right hand or forehead — required to buy or sell; it is ownership, not protection; allegiance, not mercy
-- **Revelation 14:1** — The 144,000 with the Father's name written in their foreheads — the true seal, the true ownership mark
+- [[26. Ezekiel/EZEKIEL_09_REBUILT|Ezekiel 9:4]] — God marks the foreheads of the mourners in Jerusalem to protect them from judgment — same protective-mark pattern
+- [[66. Revelation/REVELATION_07_REBUILT|Revelation 7:3]] — "Hurt not the earth, neither the sea, nor the trees, till we have sealed the servants of our God in their foreheads" — protective seal
+- [[66. Revelation/REVELATION_09_REBUILT|Revelation 9:4]] — The locust judgment cannot touch "those men which have not the seal of God in their foreheads" — the seal protects
+- [[66. Revelation/REVELATION_13_REBUILT|Revelation 13:16-17]] — The beast's mark — on the right hand or forehead — required to buy or sell; it is ownership, not protection; allegiance, not mercy
+- [[66. Revelation/REVELATION_14_REBUILT|Revelation 14:1]] — The 144,000 with the Father's name written in their foreheads — the true seal, the true ownership mark
 - *Interpretation:* Genesis 4:15 establishes the mark/seal pattern. God's mark = protection by the owner; absence of the mark = vulnerability. Revelation presents two marks — God's seal (protection, ownership, salvation) and the beast's mark (ownership, damnation, exclusion from God's protection). The choice between the two marks is the choice between the two lords. The pattern begins in Genesis 4.
 
 ---
 
 ### Calling Upon the Name of the LORD — The Thread of True Worship
 
-**Genesis 4:26** — "Then began men to call upon the name of the LORD"
+[[01. Genesis/GEN_04_REBUILT|Genesis 4:26]] — "Then began men to call upon the name of the LORD"
 
 **Thread through Scripture:**
-- **Genesis 12:8** — Abraham "called upon the name of the LORD" — the patriarch carries the Genesis 4:26 practice
-- **Genesis 26:25** — Isaac builds an altar and calls upon the name of the LORD
-- **Psalm 116:13** — "I will take the cup of salvation, and call upon the name of the LORD"
-- **Joel 2:32** — "Whosoever shall call on the name of the LORD shall be delivered"
-- **Acts 2:21** — Peter at Pentecost quotes Joel: "Whosoever shall call on the name of the Lord shall be saved"
-- **Romans 10:13** — "For whosoever shall call upon the name of the Lord shall be saved"
-- **1 Corinthians 1:2** — "Unto the church of God which is at Corinth, to them that are sanctified in Christ Jesus, called to be saints, with all that in every place call upon the name of Jesus Christ our Lord" — the church is defined as those who call upon the name of the Lord
+- [[01. Genesis/GEN_12_REBUILT|Genesis 12:8]] — Abraham "called upon the name of the LORD" — the patriarch carries the Genesis 4:26 practice
+- [[01. Genesis/GEN_26_REBUILT|Genesis 26:25]] — Isaac builds an altar and calls upon the name of the LORD
+- [[19.Psalm Part 2/PSALM_116_REBUILT|Psalm 116:13]] — "I will take the cup of salvation, and call upon the name of the LORD"
+- [[29. Joel/JOEL_02_REBUILT|Joel 2:32]] — "Whosoever shall call on the name of the LORD shall be delivered"
+- [[44. Acts/ACTS_02_REBUILT|Acts 2:21]] — Peter at Pentecost quotes Joel: "Whosoever shall call on the name of the Lord shall be saved"
+- [[45. Romans/ROMANS_10_REBUILT|Romans 10:13]] — "For whosoever shall call upon the name of the Lord shall be saved"
+- [[46. 1 Corinthians/1_CORINTHIANS_01_REBUILT|1 Corinthians 1:2]] — "Unto the church of God which is at Corinth, to them that are sanctified in Christ Jesus, called to be saints, with all that in every place call upon the name of Jesus Christ our Lord" — the church is defined as those who call upon the name of the Lord
 - *Interpretation:* The defining act of the people of God in every age is "calling upon the name of the LORD." It begins in Genesis 4:26 in Seth's line. It runs through the patriarchs, through Israel's worship, through Joel's promise, to Pentecost, to Paul's definition of the church, and to Romans 10:13's universal invitation. The church is the continuation of Seth's line — the people who call upon the name of the LORD.
 
 ---

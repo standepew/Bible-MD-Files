@@ -1,3 +1,44 @@
+---
+book: "Genesis"
+chapter: 42
+testament: "Old Testament"
+key_themes: "Jacob Sends Ten Sons to Egypt — Benjamin Withheld, Joseph Recognizes His Brothers — They Do Not Recognize Him, Joseph Remembers His Dreams — The First Bow, The Test Begins — Accused as Spies, Three Days in Prison, Simeon Bound as Hostage, The Brothers' Conscience Awakens — "We Are Verily Guilty", Joseph Turns and Weeps — Hidden Grief, The Money Returned in the Sacks — Fear Multiplied, Jacob Refuses to Send Benjamin — "All These Things Are Against Me""
+tags:
+  - Jacob-saw-corn-in-Egypt
+  - Jacob-sends-ten-sons
+  - Joseph-governor-over-land
+  - Joseph-recognized-his-brothers
+  - Joseph-dreams-fulfilled
+  - Joseph-remembered-his-dreams
+  - he-spake-roughly-to-them
+  - ye-are-spies
+  - we-are-true-men
+  - three-days-in-prison
+  - Simeon-bound-before-their-eyes
+  - one-brother-remain-in-prison
+  - bring-youngest-brother
+  - Joseph-turned-from-them-wept
+  - money-returned-in-sacks
+  - they-were-afraid
+  - their-heart-failed-them
+  - all-these-things-against-me
+  - type-of-Christ-unrecognized
+  - Luke-24-16-eyes-holden
+  - Joseph-speaks-through-interpreter
+  - dreams-fulfilled-first-bow
+  - Genesis-37-7-sheaves-bowing
+  - conscience-awakening
+  - Proverbs-28-13
+  - jacob-sends-ten-sons-to-egypt
+  - joseph-recognizes-his-brothers
+  - joseph-remembers-his-dreams
+  - the-test-begins
+  - simeon-bound-as-hostage
+  - the-brothers
+  - joseph-turns-and-weeps
+  - the-money-returned-in-the-sacks
+  - jacob-refuses-to-send-benjamin
+---
 # Genesis 42
 
 ---
@@ -76,7 +117,7 @@ Jacob's response was the lament of a man whose grief was compounding: "Me have y
 
 ## KEYWORD INDEX
 
-`Jacob saw corn in Egypt` `why do ye look one upon another` `ten sons sent Benjamin withheld` `ten brothers bowed faces to earth` `Joseph saw his brethren knew them` `they knew not him` `he made himself strange spake roughly` `Zechariah 12:10 look on me whom they pierced` `Luke 24:16 eyes holden` `Romans 11:25-26 blindness in part until fulness of Gentiles` `John 1:11 came unto his own received him not` `Joseph remembered his dreams Genesis 37:7` `first fulfillment of bow dream` `ye are spies` `we are true men twelve brothers one not` `three days in prison` `one remain bring youngest brother` `Simeon bound before their eyes` `we are verily guilty concerning our brother` `saw anguish of his soul would not hear` `Galatians 6:7 whatsoever man soweth shall reap` `Numbers 32:23 sin will find you out` `Proverbs 28:13 covereth sins shall not prosper` `Luke 15:17 came to himself` `Joseph turned and wept` `John 11:35 Jesus wept` `Isaiah 53:3 man of sorrows` `money returned in sacks` `their heart failed them` `what is this God hath done` `Jacob all these things against me` `Romans 8:28 all things work together for good` `Isaiah 55:8-9 my thoughts not your thoughts` `2 Corinthians 4:17-18 light momentary troubles` `Reuben two sons surety` `Jacob refused Joseph is not Simeon is not` `gray hairs with sorrow to the grave`
+#Jacob-saw-corn-in-Egypt #why-do-ye-look-one-upon-another #ten-sons-sent-Benjamin-withheld #ten-brothers-bowed-faces-to-earth #Joseph-saw-his-brethren-knew-them #they-knew-not-him #he-made-himself-strange-spake-roughly #Zechariah-1210-look-on-me-whom-they-pierced #Luke-2416-eyes-holden #Romans-1125-26-blindness-in-part-until-fulness-of-Gentiles #John-111-came-unto-his-own-received-him-not #Joseph-remembered-his-dreams-Genesis-377 #first-fulfillment-of-bow-dream #ye-are-spies #we-are-true-men-twelve-brothers-one-not #three-days-in-prison #one-remain-bring-youngest-brother #Simeon-bound-before-their-eyes #we-are-verily-guilty-concerning-our-brother #saw-anguish-of-his-soul-would-not-hear #Galatians-67-whatsoever-man-soweth-shall-reap #Numbers-3223-sin-will-find-you-out #Proverbs-2813-covereth-sins-shall-not-prosper #Luke-1517-came-to-himself #Joseph-turned-and-wept #John-1135-Jesus-wept #Isaiah-533-man-of-sorrows #money-returned-in-sacks #their-heart-failed-them #what-is-this-God-hath-done #Jacob-all-these-things-against-me #Romans-828-all-things-work-together-for-good #Isaiah-558-9-my-thoughts-not-your-thoughts #2-Corinthians-417-18-light-momentary-troubles #Reuben-two-sons-surety #Jacob-refused-Joseph-is-not-Simeon-is-not #gray-hairs-with-sorrow-to-the-grave
 
 **Current Events Relevance:**
 - The awakening conscience — the brothers saying "we are verily guilty" under pressure; the relationship between external distress and the surfacing of suppressed guilt; applicable in pastoral counseling, teaching on repentance, and the theology of how God uses circumstances to surface what the soul has buried

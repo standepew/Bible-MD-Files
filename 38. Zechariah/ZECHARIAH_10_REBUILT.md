@@ -1,3 +1,14 @@
+---
+book: "Zechariah"
+chapter: 10
+testament: "Old Testament"
+key_themes: "Christ's Divine Provision, Good Shepherd, True Leadership, Restoration of Israel"
+tags:
+  - christ
+  - good-shepherd
+  - true-leadership
+  - restoration-of-israel
+---
 # Zechariah 10
 
 ---
@@ -129,7 +140,7 @@ Ask, LORD, rain, time, latter, rain, LORD, bright, clouds, showers, rain, grass,
 
 
 *AI Keywords for current event matching:*
-`bright` `bring` `christs` `clouds` `confounded` `corner` `divine` `enemies` `field` `fight` `flock` `gather` `good` `goodly` `grass` `hiss` `horse` `house` `israel` `joseph` `latter` `leadership` `lord` `men` `mighty` `nail` `pass` `place` `provision` `rain` `restoration` `riders` `save` `sea` `shepherd` `showers` `strengthen` `tread` `true` `visited`
+#bright #bring #christs #clouds #confounded #corner #divine #enemies #field #fight #flock #gather #good #goodly #grass #hiss #horse #house #israel #joseph #latter #leadership #lord #men #mighty #nail #pass #place #provision #rain #restoration #riders #save #sea #shepherd #showers #strengthen #tread #true #visited
 
 
 ---

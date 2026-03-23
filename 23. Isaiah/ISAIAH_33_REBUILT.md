@@ -1,3 +1,13 @@
+---
+book: "Isaiah"
+chapter: 33
+testament: "Old Testament"
+key_themes: "Christ's Salvation, Divine Exaltation, Righteous Living, Christ's Kingdom"
+tags:
+  - christ
+  - divine-exaltation
+  - righteous-living
+---
 # Isaiah 33
 
 ---
@@ -153,7 +163,7 @@ Woe, spoilest, spoiled, dealest, treacherously, dealt, treacherously, cease, spo
 
 
 *AI Keywords for current event matching:*
-`arm` `bribes` `broad` `christs` `despiseth` `divine` `down` `dwelleth` `every` `exaltation` `exalted` `gain` `gracious` `habitation` `hands` `high` `jerusalem` `judgment` `kingdom` `lift` `living` `lord` `morning` `oppressions` `quiet` `righteous` `righteously` `righteousness` `rise` `rivers` `salvation` `save` `shake` `speak` `streams` `tabernacle` `taken` `time` `trouble` `uprightly` `walk` `zion`
+#arm #bribes #broad #christs #despiseth #divine #down #dwelleth #every #exaltation #exalted #gain #gracious #habitation #hands #high #jerusalem #judgment #kingdom #lift #living #lord #morning #oppressions #quiet #righteous #righteously #righteousness #rise #rivers #salvation #save #shake #speak #streams #tabernacle #taken #time #trouble #uprightly #walk #zion
 
 
 ---

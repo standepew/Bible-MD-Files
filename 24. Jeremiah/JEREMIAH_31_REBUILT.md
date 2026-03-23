@@ -1,3 +1,13 @@
+---
+book: "Jeremiah"
+chapter: 31
+testament: "Old Testament"
+key_themes: "Christ's Everlasting Love, New Covenant, Christ's Redemption, Holy City"
+tags:
+  - christ
+  - new-covenant
+  - holy-city
+---
 # Jeremiah 31
 
 ---
@@ -117,7 +127,7 @@ Time, LORD, God, families, Israel, people, LORD, people, left, sword, grace, wil
 
 
 *AI Keywords for current event matching:*
-`blind` `bring` `built` `christs` `city` `coasts` `corner` `country` `covenant` `drawn` `earth` `everlasting` `father` `forever` `forgive` `gate` `gather` `hananeel` `hearts` `holy` `iniquity` `inward` `israel` `jacob` `lame` `law` `lord` `love` `lovingkindness` `new` `north` `parts` `plucked` `ransomed` `redeemed` `redemption` `remember` `sin` `stronger` `thrown` `tower` `woman` `write`
+#blind #bring #built #christs #city #coasts #corner #country #covenant #drawn #earth #everlasting #father #forever #forgive #gate #gather #hananeel #hearts #holy #iniquity #inward #israel #jacob #lame #law #lord #love #lovingkindness #new #north #parts #plucked #ransomed #redeemed #redemption #remember #sin #stronger #thrown #tower #woman #write
 
 
 ---

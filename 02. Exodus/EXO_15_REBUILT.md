@@ -1,3 +1,38 @@
+---
+book: "Exodus"
+chapter: 15
+testament: "Old Testament"
+key_themes: "The Song of Moses, "The LORD is my strength and song and salvation," "The LORD is a man of war," "Who is like unto thee?", Miriam leads the women, The bitter waters of Marah healed by the tree, Jehovah Rapha — the LORD that healeth, Elim — twelve wells and seventy palms"
+tags:
+  - Song-of-Moses
+  - Song-of-the-Sea
+  - I-will-sing-unto-the-LORD
+  - triumphed-gloriously
+  - horse-and-rider
+  - LORD-is-my-strength
+  - LORD-is-my-salvation
+  - LORD-is-a-man-of-war
+  - YHWH-his-name
+  - who-is-like-thee
+  - fearful-in-praises
+  - redeemed
+  - holy-habitation
+  - LORD-shall-reign-forever
+  - Miriam-prophetess
+  - timbrel
+  - dances
+  - Marah
+  - bitter-waters
+  - tree-cast-in
+  - waters-sweet
+  - Jehovah-Rapha
+  - Elim
+  - twelve-wells
+  - seventy-palms
+  - healing
+  - obedience
+  - statute-and-ordinance
+---
 # Exodus 15
 
 ---
@@ -106,7 +141,7 @@ Moses and Israel sing the Song of Moses — the first great hymn of Scripture �
 
 
 *AI Keywords for current event matching:*
-`current` `deliverance` `events` `exodus` `follows` `matching` `praise` `salvation` `song` `songs` `victory`
+#current #deliverance #events #exodus #follows #matching #praise #salvation #song #songs #victory
 
 
 ---
@@ -224,9 +259,9 @@ Moses and Israel sing the Song of Moses — the first great hymn of Scripture �
 
 ### Three Days Without Water → Provision — The Resurrection Pattern
 
-- **Exodus 15:22** — Three days in the wilderness, no water → Marah → the tree → sweet water
-- **Jonah 1:17** — Three days in the fish → release → Nineveh
-- **Matthew 12:40** — Three days in the heart of the earth → resurrection
+- [[02. Exodus/EXO_15_REBUILT|Exodus 15:22]] — Three days in the wilderness, no water → Marah → the tree → sweet water
+- [[32. Jonah/JONAH_01_REBUILT|Jonah 1:17]] — Three days in the fish → release → Nineveh
+- [[40. Matthew/MATTHEW_12_REBUILT|Matthew 12:40]] — Three days in the heart of the earth → resurrection
 - *Thread:* Three days of apparent lack/death followed by supernatural provision/resurrection is one of Scripture's most consistent patterns. The three days without water in Exodus 15 follows immediately after the Red Sea — victory followed by testing. This is the pattern of the Christian life: after every great deliverance comes a test of whether the faith that was demonstrated at the Red Sea holds through three days of thirst.
 
 ---

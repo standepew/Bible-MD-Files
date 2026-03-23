@@ -1,3 +1,14 @@
+---
+book: "Proverbs"
+chapter: 4
+testament: "Old Testament"
+key_themes: "Father's Instruction, Pursuit of Wisdom, Path of Righteousness, Heart Guard"
+tags:
+  - father
+  - pursuit-of-wisdom
+  - path-of-righteousness
+  - heart-guard
+---
 # Proverbs 4
 
 ---
@@ -129,7 +140,7 @@ Hear, children, instruction, father, attend, know, understanding, give, good, do
 
 
 *AI Keywords for current event matching:*
-`commandments` `crown` `darkness` `diligence` `doctrine` `evil` `father` `fathers` `foot` `get` `glory` `good` `guard` `heart` `instruction` `issues` `keep` `life` `light` `path` `paths` `principal` `pursuit` `remove` `right` `righteousness` `shining` `thing` `understanding` `way` `wicked` `wisdom` `words`
+#commandments #crown #darkness #diligence #doctrine #evil #father #fathers #foot #get #glory #good #guard #heart #instruction #issues #keep #life #light #path #paths #principal #pursuit #remove #right #righteousness #shining #thing #understanding #way #wicked #wisdom #words
 
 
 ---

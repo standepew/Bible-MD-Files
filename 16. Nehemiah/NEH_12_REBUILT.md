@@ -1,3 +1,32 @@
+---
+book: "Nehemiah"
+chapter: 12
+testament: "Old Testament"
+key_themes: "Priestly Genealogy, Wall Dedication, Joyful Celebration, Temple Service"
+tags:
+  - Amariah-Malluch-Hattush
+  - Shechaniah-Rehum-Meremoth
+  - Iddo-Ginnetho-Abijah
+  - Miamin-Maadiah-Bilgah
+  - Shemaiah-Joiarib-Jedaiah
+  - Bakbukiah-Unni-brethren-watches
+  - Ezra-Meshullam-Amariah-Jehohanan
+  - Melicu-Jonathan-Shebaniah-Joseph
+  - Harim-Adna-Meraioth-Helkai
+  - Iddo-Zechariah-Ginnethon-Meshullam
+  - Abijah-Zichri-Miniamin-Moadiah-Piltai
+  - Bilgah-Shammua-Shemaiah-Jehonathan
+  - Joiarib-Mattenai-Jedaiah-Uzzi
+  - Sallai-Kallai-Amok-Eber
+  - Hilkiah-Hashabiah-Jedaiah-Nethaneel
+  - Hoshaiah-half-princes-Judah
+  - Azariah-Ezra-Meshullam
+  - Judah-Benjamin-Shemaiah-Jeremiah
+  - priestly-genealogy
+  - wall-dedication
+  - joyful-celebration
+  - temple-service
+---
 # Nehemiah 12
 
 ---
@@ -165,7 +194,7 @@ Priests, Levites, Zerubbabel, son, Shealtiel, Jeshua, Seraiah, Jeremiah, Ezra. A
 
 
 *AI Keywords for current event matching:*
-`aaron` `abijah` `adna` `afar` `against` `akkub` `amariah` `amok` `appointed` `asaph` `azarael` `azariah` `azmaveth` `bakbukiah` `begat` `benjamin` `beyond` `bilgah` `binnui` `book` `brethren` `broad` `brought` `builded` `celebration` `chambers` `chief` `children` `chronicles` `cities` `city` `commandment` `companies` `company` `country` `cymbals` `darius` `david` `day` `days` `dedication` `dung` `eastward` `eber` `elam` `eleazar` `eliakim` `eliashib` `elioenai` `ephraim` `ezer` `ezra` `fathers` `fields` `firstfruits` `fish` `fountain` `furnaces` `gate` `gates` `gather` `gathered` `gave` `geba` `genealogy` `gilalai` `gilgal` `ginnetho` `ginnethon` `gladness` `god` `going` `governor` `great` `half` `hananeel` `hanani` `hananiah` `hand` `harim` `harps` `hashabiah` `hattush` `heard` `helkai` `hilkiah` `holy` `hoshaiah` `house` `iddo` `instruments` `israel` `jaddua` `jedaiah` `jehohanan` `jehonathan` `jeremiah` `jerusalem` `jeshua` `jezrahiah` `johanan` `joiada` `joiakim` `joiarib` `jonathan` `joseph` `joy` `joyful` `jozadak` `judah` `kadmiel` `kallai` `keep` `keeping` `law` `levi` `levites` `loud` `maadiah` `maai` `maaseiah` `malchijah` `malluch` `man` `mattaniah` `mattenai` `meah` `melicu` `meraiah` `meraioth` `meremoth` `meshullam` `miamin` `michaiah` `milalai` `miniamin` `moadiah` `musical` `nehemiah` `nethaneel` `netophathi` `obadiah` `offered` `offerings` `old` `overseer` `people` `persian` `piltai` `places` `plain` `porters` `portion` `portions` `praise` `priest` `priestly` `priests` `princes` `prison` `psalteries` `purification` `purified` `recorded` `rehum` `reign` `rejoice` `rejoiced` `right` `rulers` `sacrifices` `sallai` `sallu` `sanctified` `scribe` `seraiah` `service` `shammua` `shealtiel` `shebaniah` `shechaniah` `sheep` `shemaiah` `sherebiah` `singers` `singing` `solomon` `son` `songs` `sons` `sought` `stairs` `still` `talmon` `temple` `thanks` `thanksgiving` `thanksgivings` `things` `thresholds` `tithes` `tower` `treasures` `trumpets` `unni` `uzzi` `villages` `waited` `wall` `ward` `watches` `water` `wives` `written` `zaccur` `zechariah` `zerubbabel` `zichri`
+#aaron #abijah #adna #afar #against #akkub #amariah #amok #appointed #asaph #azarael #azariah #azmaveth #bakbukiah #begat #benjamin #beyond #bilgah #binnui #book #brethren #broad #brought #builded #celebration #chambers #chief #children #chronicles #cities #city #commandment #companies #company #country #cymbals #darius #david #day #days #dedication #dung #eastward #eber #elam #eleazar #eliakim #eliashib #elioenai #ephraim #ezer #ezra #fathers #fields #firstfruits #fish #fountain #furnaces #gate #gates #gather #gathered #gave #geba #genealogy #gilalai #gilgal #ginnetho #ginnethon #gladness #god #going #governor #great #half #hananeel #hanani #hananiah #hand #harim #harps #hashabiah #hattush #heard #helkai #hilkiah #holy #hoshaiah #house #iddo #instruments #israel #jaddua #jedaiah #jehohanan #jehonathan #jeremiah #jerusalem #jeshua #jezrahiah #johanan #joiada #joiakim #joiarib #jonathan #joseph #joy #joyful #jozadak #judah #kadmiel #kallai #keep #keeping #law #levi #levites #loud #maadiah #maai #maaseiah #malchijah #malluch #man #mattaniah #mattenai #meah #melicu #meraiah #meraioth #meremoth #meshullam #miamin #michaiah #milalai #miniamin #moadiah #musical #nehemiah #nethaneel #netophathi #obadiah #offered #offerings #old #overseer #people #persian #piltai #places #plain #porters #portion #portions #praise #priest #priestly #priests #princes #prison #psalteries #purification #purified #recorded #rehum #reign #rejoice #rejoiced #right #rulers #sacrifices #sallai #sallu #sanctified #scribe #seraiah #service #shammua #shealtiel #shebaniah #shechaniah #sheep #shemaiah #sherebiah #singers #singing #solomon #son #songs #sons #sought #stairs #still #talmon #temple #thanks #thanksgiving #thanksgivings #things #thresholds #tithes #tower #treasures #trumpets #unni #uzzi #villages #waited #wall #ward #watches #water #wives #written #zaccur #zechariah #zerubbabel #zichri
 
 
 ---

@@ -1,3 +1,15 @@
+---
+book: "Ezra"
+chapter: 4
+testament: "Old Testament"
+key_themes: "Opposition to Temple, False Alliance, Political Interference, Work Stopped"
+tags:
+  - letter-sent-plainly-read
+  - opposition-to-temple
+  - false-alliance
+  - political-interference
+  - work-stopped
+---
 # Ezra 4
 
 ---
@@ -117,7 +129,7 @@ Adversaries, Judah, Benjamin, heard, children, captivity, builded, temple, LORD,
 
 
 *AI Keywords for current event matching:*
-`accusation` `adversaries` `ahasuerus` `alliance` `answer` `apharsathchites` `apharsites` `archevites` `artaxerxes` `asnappar` `assur` `babylonians` `bad` `beginning` `benjamin` `beyond` `bishlam` `book` `brought` `build` `builded` `building` `came` `captivity` `cease` `ceased` `certified` `certify` `chancellor` `chief` `children` `cities` `city` `commanded` `commandment` `companions` `copy` `counsellors` `countries` `custom` `cyrus` `damage` `darius` `days` `dehavites` `destroyed` `dinaites` `dishonour` `dwell` `elamites` `endamage` `esar` `fail` `false` `fathers` `force` `found` `foundations` `frustrate` `given` `god` `great` `grow` `haddon` `hands` `haste` `heard` `heed` `hired` `hither` `house` `hurt` `hurtful` `inhabitants` `insurrection` `interference` `interpreted` `israel` `jerusalem` `jeshua` `jews` `joined` `judah` `king` `kings` `known` `land` `letter` `lord` `maintenance` `meet` `men` `mighty` `mithredath` `moved` `nations` `noble` `old` `opposition` `paid` `palace` `pay` `peace` `people` `persia` `plainly` `political` `portion` `power` `provinces` `purpose` `read` `rebellion` `rebellious` `records` `rehum` `reign` `rest` `revenue` `river` `ruled` `sacrifice` `samaria` `scribe` `search` `second` `sedition` `seek` `sent` `servants` `shimshai` `side` `sort` `stopped` `susanchites` `syrian` `tabeel` `tarpelites` `temple` `time` `toll` `tongue` `tribute` `troubled` `walls` `weakened` `work` `writing` `wrote` `year` `zerubbabel`
+#accusation #adversaries #ahasuerus #alliance #answer #apharsathchites #apharsites #archevites #artaxerxes #asnappar #assur #babylonians #bad #beginning #benjamin #beyond #bishlam #book #brought #build #builded #building #came #captivity #cease #ceased #certified #certify #chancellor #chief #children #cities #city #commanded #commandment #companions #copy #counsellors #countries #custom #cyrus #damage #darius #days #dehavites #destroyed #dinaites #dishonour #dwell #elamites #endamage #esar #fail #false #fathers #force #found #foundations #frustrate #given #god #great #grow #haddon #hands #haste #heard #heed #hired #hither #house #hurt #hurtful #inhabitants #insurrection #interference #interpreted #israel #jerusalem #jeshua #jews #joined #judah #king #kings #known #land #letter #lord #maintenance #meet #men #mighty #mithredath #moved #nations #noble #old #opposition #paid #palace #pay #peace #people #persia #plainly #political #portion #power #provinces #purpose #read #rebellion #rebellious #records #rehum #reign #rest #revenue #river #ruled #sacrifice #samaria #scribe #search #second #sedition #seek #sent #servants #shimshai #side #sort #stopped #susanchites #syrian #tabeel #tarpelites #temple #time #toll #tongue #tribute #troubled #walls #weakened #work #writing #wrote #year #zerubbabel
 
 
 ---

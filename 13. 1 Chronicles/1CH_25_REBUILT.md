@@ -1,3 +1,14 @@
+---
+book: "1 Chronicles"
+chapter: 25
+testament: "Old Testament"
+key_themes: "Temple Musicians, Levitical Worship, Divine Organization, Spiritual Service"
+tags:
+  - temple-musicians
+  - levitical-worship
+  - divine-organization
+  - spiritual-service
+---
 # 1 Chronicles 25
 
 ---
@@ -83,7 +94,7 @@ David, captains, host, separated, service, sons, Asaph, Heman, Jeduthun, prophes
 
 
 *AI Keywords for current event matching:*
-`asaph` `asaphs` `asarelah` `becheriah` `benjamini` `bukkiah` `captains` `cast` `cymbals` `daughters` `david` `divine` `eighteenth` `eighth` `eleventh` `eliathah` `ezer` `family` `father` `fifteenth` `fifth` `first` `four` `fourteen` `fourteenth` `fourth` `gave` `gedaliah` `giddalti` `god` `great` `hanani` `hananiah` `hands` `harps` `hashabiah` `heman` `hemans` `horn` `host` `hothir` `jeduthun` `jeduthuns` `jehiel` `jerimoth` `jeshaiah` `jeshiah` `joseph` `joshbekashah` `king` `lift` `lot` `lots` `mahaith` `mahazioth` `mallothi` `mattaniah` `mattithiah` `musicians` `nethaniah` `nineteenth` `ninth` `number` `one` `order` `prophesied` `prophesy` `psalteries` `romamti` `scholar` `second` `seer` `selection` `separated` `service` `seventeenth` `seventh` `shubael` `six` `sixteenth` `sixth` `small` `sons` `teacher` `temple` `tenth` `third` `thirteenth` `three` `twelfth` `twentieth` `two` `uzziel` `ward` `webul` `words` `workmen` `zaccur` `zeri`
+#asaph #asaphs #asarelah #becheriah #benjamini #bukkiah #captains #cast #cymbals #daughters #david #divine #eighteenth #eighth #eleventh #eliathah #ezer #family #father #fifteenth #fifth #first #four #fourteen #fourteenth #fourth #gave #gedaliah #giddalti #god #great #hanani #hananiah #hands #harps #hashabiah #heman #hemans #horn #host #hothir #jeduthun #jeduthuns #jehiel #jerimoth #jeshaiah #jeshiah #joseph #joshbekashah #king #lift #lot #lots #mahaith #mahazioth #mallothi #mattaniah #mattithiah #musicians #nethaniah #nineteenth #ninth #number #one #order #prophesied #prophesy #psalteries #romamti #scholar #second #seer #selection #separated #service #seventeenth #seventh #shubael #six #sixteenth #sixth #small #sons #teacher #temple #tenth #third #thirteenth #three #twelfth #twentieth #two #uzziel #ward #webul #words #workmen #zaccur #zeri
 
 
 ---

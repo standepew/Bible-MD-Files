@@ -1,3 +1,14 @@
+---
+book: "Galatians"
+chapter: 3
+testament: "New Testament"
+key_themes: "Faith versus Works, The Blessing of Abraham, The Purpose of the Law, Unity in Christ"
+tags:
+  - faith-versus-works
+  - the-blessing-of-abraham
+  - the-purpose-of-the-law
+  - unity-in-christ
+---
 # Galatians 3
 
 ---
@@ -129,7 +140,7 @@ Foolish, Galatians, bewitched, obey, truth, eyes, Jesus, Christ, evidently, cruc
 
 
 *AI Keywords for current event matching:*
-`abraham` `accounted` `addeth` `angels` `baptized` `begun` `believe` `believed` `bewitched` `blessed` `blessing` `bond` `book` `brethren` `children` `christ` `come` `concluded` `confirmed` `continueth` `covenant` `crucified` `curse` `cursed` `disannul` `disannulleth` `doeth` `effect` `evident` `evidently` `eyes` `faith` `faithful` `female` `flesh` `foolish` `forbid` `foreseeing` `four` `free` `galatians` `gentiles` `given` `god` `gospel` `greek` `hand` `hangeth` `hearing` `heathen` `heirs` `hundred` `inheritance` `jesus` `jew` `justified` `justify` `kept` `know` `law` `learn` `life` `live` `made` `male` `man` `manner` `mediator` `men` `ministereth` `miracles` `nations` `obey` `perfect` `preached` `promise` `promises` `purpose` `put` `receive` `received` `redeemed` `revealed` `righteous` `righteousness` `schoolmaster` `scripture` `seed` `seeds` `serveth` `shut` `sight` `sin` `speak` `spirit` `suffered` `thirty` `transgressions` `tree` `truth` `unity` `vain` `versus` `worketh` `works` `written` `years`
+#abraham #accounted #addeth #angels #baptized #begun #believe #believed #bewitched #blessed #blessing #bond #book #brethren #children #christ #come #concluded #confirmed #continueth #covenant #crucified #curse #cursed #disannul #disannulleth #doeth #effect #evident #evidently #eyes #faith #faithful #female #flesh #foolish #forbid #foreseeing #four #free #galatians #gentiles #given #god #gospel #greek #hand #hangeth #hearing #heathen #heirs #hundred #inheritance #jesus #jew #justified #justify #kept #know #law #learn #life #live #made #male #man #manner #mediator #men #ministereth #miracles #nations #obey #perfect #preached #promise #promises #purpose #put #receive #received #redeemed #revealed #righteous #righteousness #schoolmaster #scripture #seed #seeds #serveth #shut #sight #sin #speak #spirit #suffered #thirty #transgressions #tree #truth #unity #vain #versus #worketh #works #written #years
 
 
 ---

@@ -1,3 +1,18 @@
+---
+book: "1 Chronicles"
+chapter: 7
+testament: "Old Testament"
+key_themes: "Issachar's Warriors, Benjamin's Descendants, Manasseh's Expansion, Ephraim's Lineage, Asher's Military Might"
+tags:
+  - Non-son-Jehoshua-son
+  - sons-Jether-Jephunneh-Pispah-Ara
+  - sons-Ulla-Arah-Haniel-Rezia
+  - issachar
+  - benjamin
+  - manasseh
+  - ephraim
+  - asher
+---
 # 1 Chronicles 7
 
 ---
@@ -85,7 +100,7 @@ Sons, Issachar, Tola, Puah, Jashub, Shimron, four. Sons, Tola, Uzzi, Rephaiah, J
 
 
 *AI Keywords for current event matching:*
-`abiah` `abiezer` `ahi` `ahian` `ahishahar` `alameth` `amal` `ammihud` `anathoth` `aniam` `apt` `ara` `arah` `aram` `aramitess` `asher` `ashers` `ashriel` `ashvath` `bands` `bare` `battle` `becher` `bedan` `beera` `bela` `benjamin` `benjamins` `bered` `beri` `beriah` `beth-el` `beth-horon` `beth-shean` `bezer` `bilhan` `bimhal` `birzavith` `borders` `born` `brethren` `brother` `built` `called` `came` `cattle` `chenaanah` `chief` `children` `choice` `comfort` `conceived` `concubine` `daughter` `daughters` `david` `days` `descendants` `dor` `dwelt` `eastward` `ehud` `eladah` `elead` `eliezer` `elioenai` `elishama` `ephraim` `ephraims` `evil` `expansion` `ezbon` `ezer` `families` `father` `fathers` `fit` `five` `four` `fourscore` `gath` `gaza` `genealogies` `genealogy` `generations` `gezer` `gilead` `habitations` `hammoleketh` `haniel` `harnepher` `heads` `heber` `helem` `hod` `hotham` `house` `hundred` `huppim` `imna` `imnah` `imrah` `iri` `ishiah` `ishod` `ishuai` `israel` `issachar` `issachars` `isuah` `ithran` `izrahiah` `jahmai` `japhlet` `jashub` `jediael` `jehoshua` `jehubbah` `jephunneh` `jeriel` `jerimoth` `jether` `jeush` `jibsam` `joash` `joel` `joseph` `laadan` `land` `likhi` `lineage` `maachah` `machir` `mahalah` `malchiel` `manasseh` `manassehs` `megiddo` `men` `michael` `mighty` `military` `mourned` `naaran` `nether` `non` `number` `obadiah` `omri` `pasach` `peresh` `pispah` `possessions` `princes` `puah` `rakem` `reckoned` `rephah` `rephaiah` `resheph` `rezia` `rohgah` `second` `serah` `seven` `seventeen` `shamer` `shamma` `shechem` `shelesh` `shemida` `shemuel` `sherah` `sheresh` `shilshah` `shimron` `shomer` `shua` `shual` `shuppim` `shuthelah` `sister` `six` `slew` `soldiers` `son` `sons` `suah` `taanach` `tahan` `tahath` `take` `telah` `tharshish` `thirty` `thousand` `three` `tola` `towns` `tribal` `twenty` `two` `ulam` `ulla` `upper` `uzzen` `uzzi` `uzziel` `valiant` `valour` `war` `warriors` `westward` `wife` `wives` `zabad` `zelophehad` `zemira` `zethan` `zophah`
+#abiah #abiezer #ahi #ahian #ahishahar #alameth #amal #ammihud #anathoth #aniam #apt #ara #arah #aram #aramitess #asher #ashers #ashriel #ashvath #bands #bare #battle #becher #bedan #beera #bela #benjamin #benjamins #bered #beri #beriah #beth-el #beth-horon #beth-shean #bezer #bilhan #bimhal #birzavith #borders #born #brethren #brother #built #called #came #cattle #chenaanah #chief #children #choice #comfort #conceived #concubine #daughter #daughters #david #days #descendants #dor #dwelt #eastward #ehud #eladah #elead #eliezer #elioenai #elishama #ephraim #ephraims #evil #expansion #ezbon #ezer #families #father #fathers #fit #five #four #fourscore #gath #gaza #genealogies #genealogy #generations #gezer #gilead #habitations #hammoleketh #haniel #harnepher #heads #heber #helem #hod #hotham #house #hundred #huppim #imna #imnah #imrah #iri #ishiah #ishod #ishuai #israel #issachar #issachars #isuah #ithran #izrahiah #jahmai #japhlet #jashub #jediael #jehoshua #jehubbah #jephunneh #jeriel #jerimoth #jether #jeush #jibsam #joash #joel #joseph #laadan #land #likhi #lineage #maachah #machir #mahalah #malchiel #manasseh #manassehs #megiddo #men #michael #mighty #military #mourned #naaran #nether #non #number #obadiah #omri #pasach #peresh #pispah #possessions #princes #puah #rakem #reckoned #rephah #rephaiah #resheph #rezia #rohgah #second #serah #seven #seventeen #shamer #shamma #shechem #shelesh #shemida #shemuel #sherah #sheresh #shilshah #shimron #shomer #shua #shual #shuppim #shuthelah #sister #six #slew #soldiers #son #sons #suah #taanach #tahan #tahath #take #telah #tharshish #thirty #thousand #three #tola #towns #tribal #twenty #two #ulam #ulla #upper #uzzen #uzzi #uzziel #valiant #valour #war #warriors #westward #wife #wives #zabad #zelophehad #zemira #zethan #zophah
 
 
 ---

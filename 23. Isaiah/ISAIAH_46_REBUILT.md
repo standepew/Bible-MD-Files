@@ -1,3 +1,13 @@
+---
+book: "Isaiah"
+chapter: 46
+testament: "Old Testament"
+key_themes: "Christ's Supremacy, Divine Carriage, Spiritual Idols, Christ's Salvation"
+tags:
+  - christ
+  - divine-carriage
+  - spiritual-idols
+---
 # Isaiah 46
 
 ---
@@ -105,7 +115,7 @@ Bel, boweth, Nebo, stoopeth, idols, beasts, cattle, carriages, heavy, loaden, bu
 
 
 *AI Keywords for current event matching:*
-`age` `bag` `balance` `bear` `beast` `bel` `belly` `borne` `boweth` `bring` `burden` `carriage` `carried` `carry` `christs` `deliver` `divine` `else` `glory` `god` `gold` `goldsmith` `hairs` `hire` `hoar` `idols` `israel` `lavish` `like` `made` `maketh` `near` `nebo` `none` `old` `place` `righteousness` `salvation` `shoulder` `silver` `spiritual` `stoopeth` `supremacy` `tarry` `weary` `weigh` `womb` `zion`
+#age #bag #balance #bear #beast #bel #belly #borne #boweth #bring #burden #carriage #carried #carry #christs #deliver #divine #else #glory #god #gold #goldsmith #hairs #hire #hoar #idols #israel #lavish #like #made #maketh #near #nebo #none #old #place #righteousness #salvation #shoulder #silver #spiritual #stoopeth #supremacy #tarry #weary #weigh #womb #zion
 
 
 ---

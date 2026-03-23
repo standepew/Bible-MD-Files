@@ -1,3 +1,14 @@
+---
+book: "Proverbs"
+chapter: 30
+testament: "Old Testament"
+key_themes: "Divine Wisdom and Human Limitation, God's Sovereignty, Moral Corruption, Natural Wisdom"
+tags:
+  - divine-wisdom-and-human-limitation
+  - god
+  - moral-corruption
+  - natural-wisdom
+---
 # Proverbs 30
 
 ---
@@ -117,7 +128,7 @@ Words, Agur, son, Jakeh, prophecy, man, spake, Ithiel, Ithiel, Ucal, brutish, ma
 
 
 *AI Keywords for current event matching:*
-`ants` `ascended` `conies` `corruption` `curse` `descended` `divine` `earth` `ends` `established` `eyes` `father` `fists` `four` `gathered` `generation` `god` `gods` `heaven` `houses` `human` `limitation` `little` `lofty` `meat` `moral` `name` `natural` `prepare` `pure` `rocks` `shield` `sovereignty` `things` `trust` `wind` `wisdom` `word`
+#ants #ascended #conies #corruption #curse #descended #divine #earth #ends #established #eyes #father #fists #four #gathered #generation #god #gods #heaven #houses #human #limitation #little #lofty #meat #moral #name #natural #prepare #pure #rocks #shield #sovereignty #things #trust #wind #wisdom #word
 
 
 ---

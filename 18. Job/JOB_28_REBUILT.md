@@ -1,3 +1,30 @@
+---
+book: "Job"
+chapter: 28
+testament: "Old Testament"
+key_themes: "Wisdom's Search, Human Mining, Divine Wisdom, Fear of the Lord"
+tags:
+  - vein-silver-place-gold-fine
+  - iron-earth-brass-molten-stone
+  - hand-rock-overturn-mountains-roots
+  - cutteth-rivers-rocks-eye-precious
+  - bindeth-floods-overflowing-hid-light
+  - wisdom-found-place-understanding
+  - price-land-living-depth-sea
+  - gotten-gold-silver-weighed-price
+  - gold-Ophir-precious-onyx-sapphire
+  - gold-crystal-jewels-fine-gold
+  - whence-wisdom-place-understanding
+  - hid-eyes-living-fowls-air
+  - destruction-death-fame-ears
+  - weight-winds-weigheth-waters-measure
+  - decree-rain-way-lightning-thunder
+  - declare-prepared-searched
+  - wisdom
+  - human-mining
+  - divine-wisdom
+  - fear-of-the-lord
+---
 # Job 28
 
 ---
@@ -129,7 +156,7 @@ Vein, silver, place, gold, fine. Iron, earth, brass, molten, stone. End, darknes
 
 
 *AI Keywords for current event matching:*
-`bindeth` `brass` `bread` `crystal` `cutoff` `darkness` `death` `depth` `divine` `dried` `dust` `earth` `end` `eye` `fear` `fierce` `fine` `fire` `flood` `floods` `foot` `forgotten` `found` `fowl` `gold` `gone` `gotten` `hand` `hid` `human` `inhabitant` `iron` `jewels` `land` `light` `lion` `living` `lord` `mining` `molten` `mountains` `onyx` `ophir` `overflowing` `overturn` `path` `perfection` `place` `precious` `price` `rivers` `rock` `rocks` `roots` `sapphire` `sapphires` `sea` `search` `shadow` `silver` `stone` `stones` `understanding` `vein` `vulture` `waters` `weighed` `whelps` `wisdom` `wisdoms`
+#bindeth #brass #bread #crystal #cutoff #darkness #death #depth #divine #dried #dust #earth #end #eye #fear #fierce #fine #fire #flood #floods #foot #forgotten #found #fowl #gold #gone #gotten #hand #hid #human #inhabitant #iron #jewels #land #light #lion #living #lord #mining #molten #mountains #onyx #ophir #overflowing #overturn #path #perfection #place #precious #price #rivers #rock #rocks #roots #sapphire #sapphires #sea #search #shadow #silver #stone #stones #understanding #vein #vulture #waters #weighed #whelps #wisdom #wisdoms
 
 
 ---

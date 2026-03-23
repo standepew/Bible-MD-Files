@@ -1,3 +1,13 @@
+---
+book: "Isaiah"
+chapter: 58
+testament: "Old Testament"
+key_themes: "Christ's Fast, Divine Justice, Spiritual Service, Christ's Blessing"
+tags:
+  - christ
+  - divine-justice
+  - spiritual-service
+---
 # Isaiah 58
 
 ---
@@ -117,7 +127,7 @@ Cry, aloud, spare, trumpet, shew, people, transgression, house, Jacob, sins, see
 
 
 *AI Keywords for current event matching:*
-`acceptable` `afflict` `aloud` `bands` `blessing` `bread` `break` `bring` `burdens` `chosen` `christs` `cover` `cry` `day` `deal` `divine` `fast` `flesh` `free` `glory` `health` `heavy` `hide` `house` `hungry` `justice` `light` `loose` `lord` `morning` `naked` `oppressed` `poor` `rereward` `righteousness` `service` `soul` `spiritual` `spring` `trumpet` `undo` `wickedness` `yoke`
+#acceptable #afflict #aloud #bands #blessing #bread #break #bring #burdens #chosen #christs #cover #cry #day #deal #divine #fast #flesh #free #glory #health #heavy #hide #house #hungry #justice #light #loose #lord #morning #naked #oppressed #poor #rereward #righteousness #service #soul #spiritual #spring #trumpet #undo #wickedness #yoke
 
 
 ---

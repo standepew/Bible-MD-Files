@@ -1,3 +1,33 @@
+---
+book: "Leviticus"
+chapter: 1
+testament: "Old Testament"
+key_themes: "The Burnt Offering (olah = "that which goes up"), God speaks from the Tabernacle — the first words from the completed dwelling, The approach to God requires a mediator and a substitute, "He shall put his hand upon the head" — identification and substitution, "It shall be accepted for him to make atonement for him," Three grades of offering: bull, flock, birds — all ranks of Israel can approach God, "A sweet savour unto the LORD""
+tags:
+  - burnt-offering
+  - olah
+  - God-calls-from-tabernacle
+  - voluntary-offering
+  - male-without-blemish
+  - hand-on-head
+  - identification
+  - substitution
+  - accepted-for-him
+  - atonement
+  - sweet-savour
+  - herd
+  - flock
+  - turtledoves
+  - pigeons
+  - wholly-burned
+  - northward
+  - priests-sons
+  - sprinkle-blood
+  - wash-inwards
+  - approach-to-God
+  - graduated-offering
+  - all-ranks
+---
 # Leviticus 1
 
 ---
@@ -93,7 +123,7 @@ Leviticus opens with God speaking to Moses from inside the completed Tabernacle.
 
 
 *AI Keywords for current event matching:*
-`anothers` `bearing` `corinthians` `current` `events` `guilt` `isaiah` `leviticus` `matching` `substitution`
+#anothers #bearing #corinthians #current #events #guilt #isaiah #leviticus #matching #substitution
 
 
 ---
@@ -202,11 +232,11 @@ The five offerings introduced in Leviticus 1-7 are five dimensions of the one sa
 **First mention principle:** The fire of Leviticus 1 is placed by the sons of Aaron (v.7), but Leviticus 9:24 establishes that the original fire came from the LORD Himself. The altar fire is divine in origin.
 
 **The thread through Scripture:**
-- **Genesis 15:17** — the burning lamp passing through the covenant pieces = God's fire of acceptance on a sacrifice
-- **Leviticus 6:13** — "The fire shall ever be burning upon the altar; it shall never go out" — the divine fire as the perpetual symbol of God's ongoing acceptance
-- **1 Kings 18:38** — Elijah on Carmel: fire from the LORD = divine ratification
-- **Acts 2:3** — tongues of fire at Pentecost = the New Covenant altar fire falling on living temples
-- **Hebrews 12:29** — "For our God is a consuming fire" — the fire is God's own nature
+- [[01. Genesis/GEN_15_REBUILT|Genesis 15:17]] — the burning lamp passing through the covenant pieces = God's fire of acceptance on a sacrifice
+- [[03. Leviticus/LEV_06_REBUILT|Leviticus 6:13]] — "The fire shall ever be burning upon the altar; it shall never go out" — the divine fire as the perpetual symbol of God's ongoing acceptance
+- [[11. 1 Kings/1_KINGS_18_REBUILT|1 Kings 18:38]] — Elijah on Carmel: fire from the LORD = divine ratification
+- [[44. Acts/ACTS_02_REBUILT|Acts 2:3]] — tongues of fire at Pentecost = the New Covenant altar fire falling on living temples
+- [[58. Hebrews/HEBREWS_12_REBUILT|Hebrews 12:29]] — "For our God is a consuming fire" — the fire is God's own nature
 
 **What the Bible establishes:** Fire = God's consuming holiness; when applied to a sacrifice = acceptance; when applied to sin unmediated by blood = destruction. The fire that consumed the burnt offering in Leviticus 1 is the same fire that would have consumed the sinner — redirected to the substitute.
 
@@ -215,13 +245,13 @@ The five offerings introduced in Leviticus 1-7 are five dimensions of the one sa
 ### The Altar — The Meeting Point of God's Holiness and Human Need
 
 **The altar (Hebrew: mizbeach = place of slaughter)** runs as a thread from Genesis to Revelation:
-- **Genesis 8:20** — Noah builds the first post-flood altar; God smells the sweet savour
-- **Genesis 22:9** — Abraham builds the altar on Moriah; Isaac on the wood
-- **Exodus 20:24** — "An altar of earth thou shalt make unto me"
+- [[01. Genesis/GEN_08_REBUILT|Genesis 8:20]] — Noah builds the first post-flood altar; God smells the sweet savour
+- [[01. Genesis/GEN_22_REBUILT|Genesis 22:9]] — Abraham builds the altar on Moriah; Isaac on the wood
+- [[02. Exodus/EXO_20_REBUILT|Exodus 20:24]] — "An altar of earth thou shalt make unto me"
 - **Leviticus 1** — The Tabernacle altar at the door — the required point of approach
-- **Isaiah 6:6** — The live coal from the altar cleanses Isaiah's lips
-- **Revelation 8:3** — The golden altar before the throne; incense and prayers
-- **Revelation 9:13** — The voice from the four horns of the golden altar
+- [[23. Isaiah/ISAIAH_06_REBUILT|Isaiah 6:6]] — The live coal from the altar cleanses Isaiah's lips
+- [[66. Revelation/REVELATION_08_REBUILT|Revelation 8:3]] — The golden altar before the throne; incense and prayers
+- [[66. Revelation/REVELATION_09_REBUILT|Revelation 9:13]] — The voice from the four horns of the golden altar
 
 **What the Bible establishes (Revelation 1:20 principle — symbols defined by Scripture):** The altar is always the place where heaven's demand and earth's need intersect through blood. It is the geography of atonement. Every altar in Scripture is a marker pointing to Calvary, which is the altar where the final sacrifice was made.
 

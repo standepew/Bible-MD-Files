@@ -1,3 +1,18 @@
+---
+book: "1 Samuel"
+chapter: 13
+testament: "Old Testament"
+key_themes: "Saul's Second Year, Jonathan's Victory, Saul's Impatience, Unlawful Sacrifice, Samuel's Rebuke, Kingdom Rejected, No Smiths in Israel, Going to Philistines"
+tags:
+  - garrison-Philistines-passage-Michmash
+  - saul
+  - jonathan
+  - unlawful-sacrifice
+  - samuel
+  - kingdom-rejected
+  - no-smiths-in-israel
+  - going-to-philistines
+---
 # 1 Samuel 13
 
 ---
@@ -87,7 +102,7 @@ Saul reigned one year; when he had reigned two years, he chose three thousand me
 
 
 *AI Keywords for current event matching:*
-`abode` `abomination` `appointed` `arose` `axe` `axes` `battle` `benjamin` `beth-aven` `beth-el` `beth-horon` `border` `burnt` `called` `came` `camp` `captain` `caves` `chariots` `commanded` `commandment` `companies` `company` `continue` `coulter` `coulters` `days` `disadvantage` `distressed` `eastward` `encamped` `end` `established` `ever` `fight` `file` `followed` `foolishly` `forced` `forks` `gad` `garrison` `gathered` `geba` `gibeah` `gilead` `gilgal` `goads` `god` `hand` `hear` `heard` `heart` `hebrews` `hide` `high` `horsemen` `hundred` `impatience` `israel` `israelites` `jonathan` `jonathans` `jordan` `kept` `kingdom` `land` `lord` `mattock` `mattocks` `meet` `men` `michmash` `military` `mount` `multitude` `numbered` `offered` `offering` `offerings` `ophrah` `organization` `passage` `peace` `people` `philistine` `philistines` `pitched` `pits` `places` `present` `rebuke` `reigned` `rejection` `rest` `rocks` `salute` `samuel` `samuels` `sand` `saul` `sauls` `scattered` `sea` `set` `seven` `share` `sharpen` `shore` `shual` `six` `smith` `smitten` `smote` `son` `sought` `spear` `spears` `spoilers` `strait` `supplication` `sword` `swords` `tarried` `tents` `thickets` `thirty` `thousand` `threat` `three` `time` `trembling` `trumpet` `two` `valley` `victory` `way` `wilderness` `year` `years` `zeboim`
+#abode #abomination #appointed #arose #axe #axes #battle #benjamin #beth-aven #beth-el #beth-horon #border #burnt #called #came #camp #captain #caves #chariots #commanded #commandment #companies #company #continue #coulter #coulters #days #disadvantage #distressed #eastward #encamped #end #established #ever #fight #file #followed #foolishly #forced #forks #gad #garrison #gathered #geba #gibeah #gilead #gilgal #goads #god #hand #hear #heard #heart #hebrews #hide #high #horsemen #hundred #impatience #israel #israelites #jonathan #jonathans #jordan #kept #kingdom #land #lord #mattock #mattocks #meet #men #michmash #military #mount #multitude #numbered #offered #offering #offerings #ophrah #organization #passage #peace #people #philistine #philistines #pitched #pits #places #present #rebuke #reigned #rejection #rest #rocks #salute #samuel #samuels #sand #saul #sauls #scattered #sea #set #seven #share #sharpen #shore #shual #six #smith #smitten #smote #son #sought #spear #spears #spoilers #strait #supplication #sword #swords #tarried #tents #thickets #thirty #thousand #threat #three #time #trembling #trumpet #two #valley #victory #way #wilderness #year #years #zeboim
 
 
 ---

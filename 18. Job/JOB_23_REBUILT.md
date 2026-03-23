@@ -1,3 +1,15 @@
+---
+book: "Job"
+chapter: 23
+testament: "Old Testament"
+key_themes: "Job's Response, Desire for God, Divine Hiddenness, Faithful Obedience"
+tags:
+  - know-words-answer-understand-say
+  - job
+  - desire-for-god
+  - divine-hiddenness
+  - faithful-obedience
+---
 # Job 23
 
 ---
@@ -141,7 +153,7 @@ Job, answered, complaint, bitter, stroke, heavier, groaning. Knew, find, seat, o
 
 
 *AI Keywords for current event matching:*
-`afraid` `almighty` `answer` `answered` `appointed` `arguments` `back` `backward` `behold` `bitter` `cause` `commandment` `complaint` `covered` `cut` `darkness` `declined` `delivered` `desire` `desireth` `divine` `esteemed` `face` `faithful` `find` `food` `foot` `forward` `god` `gold` `gone` `great` `groaning` `hand` `heart` `heavier` `held` `hiddenness` `hideth` `job` `jobs` `judge` `kept` `knew` `know` `knoweth` `left` `lips` `mind` `mouth` `necessary` `obedience` `off` `order` `perceive` `performeth` `plead` `power` `presence` `response` `right` `say` `seat` `soft` `soul` `steps` `strength` `stroke` `tried` `troubleth` `turn` `understand` `way` `words` `work`
+#afraid #almighty #answer #answered #appointed #arguments #back #backward #behold #bitter #cause #commandment #complaint #covered #cut #darkness #declined #delivered #desire #desireth #divine #esteemed #face #faithful #find #food #foot #forward #god #gold #gone #great #groaning #hand #heart #heavier #held #hiddenness #hideth #job #jobs #judge #kept #knew #know #knoweth #left #lips #mind #mouth #necessary #obedience #off #order #perceive #performeth #plead #power #presence #response #right #say #seat #soft #soul #steps #strength #stroke #tried #troubleth #turn #understand #way #words #work
 
 
 ---

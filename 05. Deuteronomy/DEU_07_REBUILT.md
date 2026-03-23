@@ -1,3 +1,39 @@
+---
+book: "Deuteronomy"
+chapter: 7
+testament: "Old Testament"
+key_themes: "Seven Nations Cast Out, No Covenant / No Marriage with Canaanites, Israel as Holy and Chosen People, Election by Love Not Merit, The Faithful God of a Thousand Generations, Blessings of Obedience, God Driving Out Nations Little by Little, No Pity on Idols"
+tags:
+  - deuteronomy
+  - chapter7
+  - seven-nations
+  - Hittites
+  - Girgashites
+  - Amorites
+  - Canaanites
+  - Perizzites
+  - Hivites
+  - Jebusites
+  - holy-people
+  - chosen
+  - separation
+  - no-intermarriage
+  - destroy-altars
+  - break-pillars
+  - burn-groves
+  - graven-images
+  - special-treasure
+  - election-by-love
+  - not-by-number
+  - faithful-God
+  - thousand-generations
+  - hornet
+  - little-by-little
+  - no-pity
+  - abomination
+  - cursed-thing
+  - snare
+---
 # Deuteronomy 7
 
 ---
@@ -96,7 +132,7 @@ When the LORD brings Israel into Canaan, He will cast out seven nations greater 
 
 ## KEYWORD INDEX
 
-`seven nations` `holy people / peculiar treasure` `election by love` `fewest of all people` `faithful God` `no intermarriage` `little by little` `abomination / cursed thing` `hornet` `snare`
+#seven-nations #holy-people--peculiar-treasure #election-by-love #fewest-of-all-people #faithful-God #no-intermarriage #little-by-little #abomination--cursed-thing #hornet #snare
 
 **seven nations** — greater and mightier; seven = complete measure of pagan Canaan  
 **holy people / peculiar treasure** — segullah; Exodus 19:5; 1 Peter 2:9; Titus 2:14  

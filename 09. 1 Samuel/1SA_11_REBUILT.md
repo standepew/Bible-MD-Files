@@ -1,3 +1,23 @@
+---
+book: "1 Samuel"
+chapter: 11
+testament: "Old Testament"
+key_themes: "Ammonite Threat, Jabesh-gilead Siege, Cruel Terms, Seven Days Respite, Messengers to Saul, Spirit Comes Upon Saul, Oxen Cut Up, Army Gathered, Victory, Kingdom Renewed"
+tags:
+  - fear-LORD-people-consent
+  - morrow-Jabesh-good
+  - Samuel-people-Gilgal-renew-kingdom
+  - ammonite-threat
+  - jabeshgilead-siege
+  - cruel-terms
+  - seven-days-respite
+  - messengers-to-saul
+  - spirit-comes-upon-saul
+  - oxen-cut-up
+  - army-gathered
+  - victory
+  - kingdom-renewed
+---
 # 1 Samuel 11
 
 ---
@@ -83,7 +103,7 @@ Nahash the Ammonite encamped against Jabesh-gilead. Jabesh men asked Nahash to m
 
 
 *AI Keywords for current event matching:*
-`ammonite` `ammonites` `anger` `army` `bezek` `children` `coasts` `companies` `consent` `covenant` `day` `days` `death` `elders` `encamped` `eyes` `fear` `field` `gathered` `gibeah` `gilgal` `glad` `god` `good` `heat` `help` `herd` `hewed` `host` `hot` `hundred` `israel` `jabesh` `jabesh-gilead` `judah` `kindled` `king` `kingdom` `left` `lord` `man` `men` `messengers` `midst` `military` `morning` `morrow` `nahash` `numbered` `offerings` `oxen` `peace` `people` `pieces` `reign` `rejoiced` `remained` `renew` `renewal` `reproach` `respite` `response` `right` `sacrifices` `salvation` `samuel` `saul` `sauls` `save` `scattered` `serve` `seven` `slew` `spirit` `sun` `thirty` `thousand` `threat` `three` `thrust` `tidings` `two` `victory` `voices` `watch` `weep` `wept` `wrought` `yoke`
+#ammonite #ammonites #anger #army #bezek #children #coasts #companies #consent #covenant #day #days #death #elders #encamped #eyes #fear #field #gathered #gibeah #gilgal #glad #god #good #heat #help #herd #hewed #host #hot #hundred #israel #jabesh #jabesh-gilead #judah #kindled #king #kingdom #left #lord #man #men #messengers #midst #military #morning #morrow #nahash #numbered #offerings #oxen #peace #people #pieces #reign #rejoiced #remained #renew #renewal #reproach #respite #response #right #sacrifices #salvation #samuel #saul #sauls #save #scattered #serve #seven #slew #spirit #sun #thirty #thousand #threat #three #thrust #tidings #two #victory #voices #watch #weep #wept #wrought #yoke
 
 
 ---

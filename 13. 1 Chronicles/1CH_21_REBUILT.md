@@ -1,3 +1,19 @@
+---
+book: "1 Chronicles"
+chapter: 21
+testament: "Old Testament"
+key_themes: "David's Census, Divine Judgment, Pestilence, Angel's Intervention, Altar at Ornan"
+tags:
+  - God-displeased-thing-smote-Israel
+  - LORD-spake-Gad-David-seer
+  - Gad-David-LORD-choose
+  - LORD-commanded-angel-sword-sheath
+  - david
+  - divine-judgment
+  - pestilence
+  - angel
+  - altar-at-ornan
+---
 # 1 Chronicles 21
 
 ---
@@ -121,7 +137,7 @@ Satan, stood, Israel, provoked, David, number, Israel. David, Joab, rulers, peop
 
 
 *AI Keywords for current event matching:*
-`abominable` `acceptance` `advised` `afraid` `altar` `angel` `angels` `answered` `away` `beer-sheba` `beheld` `benjamin` `beseech` `bowed` `built` `burnt` `buy` `called` `came` `choose` `clothed` `coasts` `commanded` `cost` `counted` `dan` `david` `davids` `departed` `destroyed` `destroying` `displeased` `divine` `done` `drawn` `drew` `earth` `elders` `enemies` `enough` `enquire` `evil` `eyes` `face` `faces` `fall` `famine` `father` `fell` `fire` `foes` `foolishly` `four` `full` `gad` `gibeon` `give` `god` `gold` `good` `grant` `great` `greatly` `ground` `hand` `heaven` `hid` `high` `house` `hundred` `iniquity` `instruments` `intervention` `israel` `jebusite` `jerusalem` `joab` `judah` `judgment` `king` `land` `levi` `lifted` `looked` `lord` `loxen` `man` `many` `meat` `men` `mercies` `months` `moses` `name` `nay` `number` `numbered` `offer` `offering` `offerings` `ornan` `ornans` `overtaketh` `peace` `people` `pestilence` `place` `plague` `plagued` `prayed` `prevailed` `price` `provoked` `repentance` `repented` `require` `rulers` `sackcloth` `sacrificed` `satan` `saying` `season` `seer` `sent` `servent` `servents` `seventy` `shalt` `sheath` `sheep` `shekels` `sin` `sinned` `six` `smote` `sons` `spake` `stand` `stay` `stayed` `stood` `strait` `stretched` `sword` `tabernacle` `tell` `ten` `thing` `things` `thousand` `three` `threescore` `threshing` `threshingfloor` `times` `trespass` `turned` `weight` `wheat` `wilderness` `wood` `word` `years`
+#abominable #acceptance #advised #afraid #altar #angel #angels #answered #away #beer-sheba #beheld #benjamin #beseech #bowed #built #burnt #buy #called #came #choose #clothed #coasts #commanded #cost #counted #dan #david #davids #departed #destroyed #destroying #displeased #divine #done #drawn #drew #earth #elders #enemies #enough #enquire #evil #eyes #face #faces #fall #famine #father #fell #fire #foes #foolishly #four #full #gad #gibeon #give #god #gold #good #grant #great #greatly #ground #hand #heaven #hid #high #house #hundred #iniquity #instruments #intervention #israel #jebusite #jerusalem #joab #judah #judgment #king #land #levi #lifted #looked #lord #loxen #man #many #meat #men #mercies #months #moses #name #nay #number #numbered #offer #offering #offerings #ornan #ornans #overtaketh #peace #people #pestilence #place #plague #plagued #prayed #prevailed #price #provoked #repentance #repented #require #rulers #sackcloth #sacrificed #satan #saying #season #seer #sent #servent #servents #seventy #shalt #sheath #sheep #shekels #sin #sinned #six #smote #sons #spake #stand #stay #stayed #stood #strait #stretched #sword #tabernacle #tell #ten #thing #things #thousand #three #threescore #threshing #threshingfloor #times #trespass #turned #weight #wheat #wilderness #wood #word #years
 
 
 ---

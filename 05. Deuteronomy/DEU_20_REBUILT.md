@@ -1,3 +1,96 @@
+---
+book: "Deuteronomy"
+chapter: 20
+testament: "Old Testament"
+key_themes: "Warfare Regulations, Divine Courage, Priestly Encouragement, Military Exemptions, Fearful Soldiers, Peace Proclamation, Siege Warfare, Canaanite Destruction, Environmental Protection"
+tags:
+  - go-out-battle
+  - enemies
+  - horses-chariots
+  - people-more-than-thou
+  - not-afraid
+  - LORD-with-thee
+  - brought-up-Egypt
+  - priest-approach
+  - speak-people
+  - hear-O-Israel
+  - approach-battle
+  - hearts-faint
+  - fear-not
+  - tremble-not
+  - terrified-not
+  - LORD-go-with-you
+  - fight-for-you
+  - save-you
+  - officers-speak
+  - built-new-house
+  - not-dedicated
+  - go-return-house
+  - die-battle
+  - another-man-dedicate
+  - planted-vineyard
+  - not-yet-eaten
+  - go-return-house
+  - die-battle
+  - another-man-eat
+  - betrothed-wife
+  - not-taken-her
+  - go-return-house
+  - die-battle
+  - another-man-take-her
+  - fearful-fainthearted
+  - go-return-house
+  - brethren-heart-faint
+  - make-captains-armies
+  - lead-people
+  - come-nigh-city
+  - fight-against
+  - proclaim-peace
+  - answer-peace
+  - open-unto-thee
+  - tributaries-unto-thee
+  - serve-thee
+  - make-no-peace
+  - make-war
+  - besiege-it
+  - LORD-delivered
+  - smite-every-male
+  - edge-sword
+  - women-little-ones
+  - cattle-spoil
+  - take-unto-self
+  - eat-spoil-enemies
+  - LORD-given-thee
+  - cities-far-off
+  - not-cities-nations
+  - cities-people
+  - LORD-give-inheritance
+  - save-alive-nothing
+  - breatheth
+  - utterly-destroy
+  - Hittites-Amorites
+  - Canaanites-Perizzites
+  - Hivites-Jebusites
+  - LORD-commanded
+  - teach-you-not
+  - abominations
+  - done-unto-gods
+  - sin-against-LORD
+  - besiege-city-long-time
+  - make-war
+  - take-it
+  - not-destroy-trees
+  - forcing-axe
+  - eat-of-them
+  - not-cut-down
+  - tree-field-man-life
+  - employ-siege
+  - trees-not-meat
+  - destroy-cut-down
+  - build-bulwarks
+  - city-war-thee
+  - subdued
+---
 # Deuteronomy 20
 
 ---
@@ -112,7 +205,7 @@ Moses gives warfare regulations: when facing superior enemy forces with horses a
 
 
 *AI Keywords for current event matching:*
-`abominations` `afraid` `against` `alive` `amorites` `another` `answer` `approach` `armies` `axe` `battle` `besiege` `betrothed` `breatheth` `brethren` `brought` `build` `built` `bulwarks` `canaanite` `canaanites` `captains` `cattle` `chariots` `cities` `city` `come` `commanded` `courage` `cut` `dedicate` `dedicated` `delivered` `destroy` `die` `distant` `divine` `done` `down` `eat` `eaten` `edge` `egypt` `employ` `enemies` `environmental` `every` `exemptions` `faint` `fainthearted` `far` `fear` `fearful` `field` `fight` `forcing` `give` `given` `gods` `hear` `heart` `hearts` `hittites` `hivites` `horses` `house` `inheritance` `israel` `jebusites` `lead` `life` `little` `long` `lord` `make` `male` `man` `meat` `military` `nations` `new` `nigh` `nothing` `off` `officers` `ones` `open` `peace` `people` `perizzites` `planted` `priest` `proclaim` `protection` `protocol` `return` `save` `self` `serve` `siege` `sin` `smite` `speak` `spoil` `subdued` `sword` `take` `taken` `teach` `terrified` `time` `tree` `trees` `tremble` `tributaries` `utterly` `vineyard` `war` `wife` `women` `yet` `you`
+#abominations #afraid #against #alive #amorites #another #answer #approach #armies #axe #battle #besiege #betrothed #breatheth #brethren #brought #build #built #bulwarks #canaanite #canaanites #captains #cattle #chariots #cities #city #come #commanded #courage #cut #dedicate #dedicated #delivered #destroy #die #distant #divine #done #down #eat #eaten #edge #egypt #employ #enemies #environmental #every #exemptions #faint #fainthearted #far #fear #fearful #field #fight #forcing #give #given #gods #hear #heart #hearts #hittites #hivites #horses #house #inheritance #israel #jebusites #lead #life #little #long #lord #make #male #man #meat #military #nations #new #nigh #nothing #off #officers #ones #open #peace #people #perizzites #planted #priest #proclaim #protection #protocol #return #save #self #serve #siege #sin #smite #speak #spoil #subdued #sword #take #taken #teach #terrified #time #tree #trees #tremble #tributaries #utterly #vineyard #war #wife #women #yet #you
 
 
 ---

@@ -1,3 +1,13 @@
+---
+book: "Jeremiah"
+chapter: 16
+testament: "Old Testament"
+key_themes: "Christ's Celibacy, Divine Judgment, Spiritual Fishing, Christ's Refuge"
+tags:
+  - christ
+  - divine-judgment
+  - spiritual-fishing
+---
 # Jeremiah 16
 
 ---
@@ -105,7 +115,7 @@ Word, LORD, saying, take, wife, sons, daughters, place, LORD, sons, daughters, b
 
 
 *AI Keywords for current event matching:*
-`affliction` `buried` `cease` `celibacy` `christs` `daughters` `day` `deaths` `divine` `dung` `earth` `ends` `face` `feasting` `fish` `fishers` `fishing` `fortress` `gentiles` `grievous` `holes` `house` `hunt` `hunters` `judgment` `lamented` `lord` `mirth` `mourning` `name` `refuge` `rocks` `send` `sons` `spiritual` `strength` `take` `voice` `wife`
+#affliction #buried #cease #celibacy #christs #daughters #day #deaths #divine #dung #earth #ends #face #feasting #fish #fishers #fishing #fortress #gentiles #grievous #holes #house #hunt #hunters #judgment #lamented #lord #mirth #mourning #name #refuge #rocks #send #sons #spiritual #strength #take #voice #wife
 
 
 ---

@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 27
+testament: "Old Testament"
+key_themes: "God as Light and Salvation, Confidence in God, Desire for God's Presence, Courage in Trouble"
+tags:
+  - god-as-light-and-salvation
+  - confidence-in-god
+  - desire-for-god
+  - courage-in-trouble
+---
 # Psalm 27
 
 ---
@@ -153,7 +164,7 @@ Psalm, David, LORD, light, salvation, fear, strength, life, afraid, wicked, enem
 
 
 *AI Keywords for current event matching:*
-`afraid` `anger` `answer` `beauty` `behold` `came` `confidence` `confident` `courage` `cry` `david` `days` `desire` `desired` `dwell` `eat` `encamp` `enemies` `enquire` `face` `far` `father` `fear` `fell` `flesh` `foes` `forsake` `god` `gods` `head` `hear` `heart` `help` `hide` `host` `house` `joy` `lead` `leave` `life` `lifted` `light` `lord` `mercy` `mother` `offer` `path` `pavilion` `plain` `praises` `presence` `psalm` `rise` `rock` `round` `sacrifices` `said` `salvation` `secret` `seek` `servant` `set` `sing` `strength` `strengthen` `stumbled` `tabernacle` `take` `teach` `temple` `thing` `time` `trouble` `voice` `wait` `war` `way` `wicked`
+#afraid #anger #answer #beauty #behold #came #confidence #confident #courage #cry #david #days #desire #desired #dwell #eat #encamp #enemies #enquire #face #far #father #fear #fell #flesh #foes #forsake #god #gods #head #hear #heart #help #hide #host #house #joy #lead #leave #life #lifted #light #lord #mercy #mother #offer #path #pavilion #plain #praises #presence #psalm #rise #rock #round #sacrifices #said #salvation #secret #seek #servant #set #sing #strength #strengthen #stumbled #tabernacle #take #teach #temple #thing #time #trouble #voice #wait #war #way #wicked
 
 
 ---

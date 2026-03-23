@@ -1,3 +1,14 @@
+---
+book: "Song of Solomon"
+chapter: 2
+testament: "Old Testament"
+key_themes: "Christ's Beauty, Spiritual Refreshment, Divine Protection, Spring Resurrection"
+tags:
+  - christ
+  - spiritual-refreshment
+  - divine-protection
+  - spring-resurrection
+---
 # Song of Solomon 2
 
 ---
@@ -141,7 +152,7 @@ Rose, Sharon, lily, valleys, lily, thorns, love, daughters, apple, tree, trees, 
 
 
 *AI Keywords for current event matching:*
-`among` `appear` `banner` `banqueting` `beauty` `beloved` `birds` `christs` `delight` `divine` `embrace` `flowers` `fruit` `hand` `house` `left` `lily` `love` `past` `protection` `refreshment` `resurrection` `right` `rose` `sat` `shadow` `sharon` `singing` `sons` `spiritual` `spring` `sweet` `taste` `valleys` `winter`
+#among #appear #banner #banqueting #beauty #beloved #birds #christs #delight #divine #embrace #flowers #fruit #hand #house #left #lily #love #past #protection #refreshment #resurrection #right #rose #sat #shadow #sharon #singing #sons #spiritual #spring #sweet #taste #valleys #winter
 
 
 ---

@@ -1,3 +1,13 @@
+---
+book: "Isaiah"
+chapter: 18
+testament: "Old Testament"
+key_themes: "Christ's Ensign, Divine Harvest, Spiritual Rest, Christ's Glory"
+tags:
+  - christ
+  - divine-harvest
+  - spiritual-rest
+---
 # Isaiah 18
 
 ---
@@ -117,7 +127,7 @@ Woe, land, shadowing, wings, beyond, rivers, Ethiopia, send, ambassadors, sea, v
 
 
 *AI Keywords for current event matching:*
-`afore` `bloweth` `brought` `bud` `christs` `clear` `cloud` `consider` `cut` `dew` `divine` `dwellers` `dwelling` `earth` `ensign` `glory` `grape` `harvest` `heat` `herbs` `hosts` `inhabitants` `lifteth` `lord` `mount` `peeled` `people` `perfect` `present` `pruning` `rest` `ripening` `scattered` `sour` `spiritual` `sprigs` `take` `trumpet` `world` `zion`
+#afore #bloweth #brought #bud #christs #clear #cloud #consider #cut #dew #divine #dwellers #dwelling #earth #ensign #glory #grape #harvest #heat #herbs #hosts #inhabitants #lifteth #lord #mount #peeled #people #perfect #present #pruning #rest #ripening #scattered #sour #spiritual #sprigs #take #trumpet #world #zion
 
 
 ---

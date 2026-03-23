@@ -1,3 +1,14 @@
+---
+book: "Matthew"
+chapter: 9
+testament: "New Testament"
+key_themes: "Christ's Forgiveness Power, Call of Matthew, New Covenant, Harvest Compassion"
+tags:
+  - christ
+  - call-of-matthew
+  - new-covenant
+  - harvest-compassion
+---
 # Matthew 9
 
 ---
@@ -141,7 +152,7 @@ Entered, ship, passed, city, behold, brought, man, sick, palsy, lying, bed, Jesu
 
 
 *AI Keywords for current event matching:*
-`arise` `arose` `bottles` `call` `christs` `cloth` `compassion` `covenant` `custom` `few` `follow` `forgive` `forgiven` `forgiveness` `garment` `harvest` `labourers` `man` `matthew` `multitudes` `new` `old` `plenteous` `power` `pray` `publicans` `receipt` `sinners` `sins` `son` `walk` `wine`
+#arise #arose #bottles #call #christs #cloth #compassion #covenant #custom #few #follow #forgive #forgiven #forgiveness #garment #harvest #labourers #man #matthew #multitudes #new #old #plenteous #power #pray #publicans #receipt #sinners #sins #son #walk #wine
 
 
 ---

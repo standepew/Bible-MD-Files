@@ -1,3 +1,14 @@
+---
+book: "2 Chronicles"
+chapter: 27
+testament: "Old Testament"
+key_themes: "Faithful Reign, Building Projects, Military Victory, Divine Preparation"
+tags:
+  - faithful-reign
+  - building-projects
+  - military-victory
+  - divine-preparation
+---
 # 2 Chronicles 27
 
 ---
@@ -131,7 +142,7 @@ Jotham, twenty, five, years, reigned, sixteen, years, Jerusalem, mother, Jerusha
 
 
 *AI Keywords for current event matching:*
-`acts` `ahaz` `ammon` `ammonites` `barley` `book` `building` `built` `buried` `castles` `children` `cities` `city` `corruptly` `daughter` `david` `divine` `entered` `father` `fathers` `five` `forests` `fought` `gate` `god` `high` `historical` `house` `hundred` `israel` `jerusalem` `jerushah` `jotham` `judah` `king` `kings` `lord` `measures` `mighty` `military` `mother` `mountains` `much` `ophel` `people` `preparation` `prepared` `prevailed` `projects` `record` `reigned` `right` `royal` `second` `sight` `silver` `sixteen` `slept` `son` `stead` `succession` `talents` `temple` `ten` `third` `thousand` `towers` `twenty` `uzziah` `victory` `wall` `wars` `ways` `wheat` `year` `years` `zadok`
+#acts #ahaz #ammon #ammonites #barley #book #building #built #buried #castles #children #cities #city #corruptly #daughter #david #divine #entered #father #fathers #five #forests #fought #gate #god #high #historical #house #hundred #israel #jerusalem #jerushah #jotham #judah #king #kings #lord #measures #mighty #military #mother #mountains #much #ophel #people #preparation #prepared #prevailed #projects #record #reigned #right #royal #second #sight #silver #sixteen #slept #son #stead #succession #talents #temple #ten #third #thousand #towers #twenty #uzziah #victory #wall #wars #ways #wheat #year #years #zadok
 
 
 ---

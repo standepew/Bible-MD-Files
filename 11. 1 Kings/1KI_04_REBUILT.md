@@ -1,3 +1,22 @@
+---
+book: "1 Kings"
+chapter: 4
+testament: "Old Testament"
+key_themes: "Solomon's Administration, Twelve Officers, Royal Provision, Divine Wisdom, Peace and Prosperity"
+tags:
+  - king-Solomon-king-Israel
+  - princes-Azariah-son-Zadok-priest
+  - son-Hur-mount-Ephraim
+  - Ahinadab-son-Iddo-Mahanaim
+  - Baanah-son-Hushai-Asher-Aloth
+  - Jehoshaphat-son-Paruah-Issachar
+  - Shimei-son-Elah-Benjamin
+  - solomon
+  - twelve-officers
+  - royal-provision
+  - divine-wisdom
+  - peace-and-prosperity
+---
 # 1 Kings 4
 
 ---
@@ -83,7 +102,7 @@ King Solomon king Israel. Princes: Azariah son Zadok priest; Elihoreph, Ahiah so
 
 
 *AI Keywords for current event matching:*
-`abda` `abel-meholah` `abiathar` `abinadab` `administration` `adoniram` `ahiah` `ahilud` `ahimaaz` `ahinadab` `ahishar` `aloth` `amorites` `argob` `aruboth` `asher` `azariah` `azzah` `baana` `baanah` `barley` `bars` `bashan` `basmath` `beasts` `beer-sheba` `benaiah` `benjamin` `beth-shean` `beth-shemesh` `border` `brasen` `cedar` `chalcol` `charge` `chariots` `children` `cities` `country` `creeping` `dan` `darda` `daughter` `day` `days` `dekar` `description` `divine` `dominion` `dor` `drinking` `dromedaries` `dwelt` `earth` `east` `eating` `egypt` `elah` `elihoreph` `elon-beth-hanan` `ephraim` `ethan` `exceeding` `excelled` `ezrahite` `fallowdeer` `fame` `fat` `fatted` `fig` `fine` `fishes` `five` `flour` `forty` `fowl` `friend` `geber` `gilead` `god` `great` `harts` `hear` `heart` `heman` `hepher` `hesed` `horsemen` `horses` `host` `household` `hundred` `hur` `hushai` `hyssop` `iddo` `israel` `issachar` `jair` `jehoiada` `jehoshaphat` `jezreel` `jokneam` `judah` `king` `kingdoms` `kings` `lacked` `land` `largeness` `lebanon` `life` `mahanaim` `mahol` `makaz` `manasseh` `meal` `measures` `megiddo` `men` `merry` `military` `month` `mount` `multitude` `naphtali` `nathan` `nations` `officer` `officers` `oxen` `paruah` `pastures` `peace` `people` `philistines` `place` `presents` `priest` `priests` `princes` `principal` `prosperity` `proverbs` `provided` `provision` `ramoth-gilead` `recorder` `region` `reigned` `river` `roebucks` `royal` `safely` `sand` `scribes` `sea` `served` `shaalbim` `sheep` `shimei` `shisha` `shore` `sides` `sihon` `sochoh` `solomon` `son` `songs` `sons` `spoke` `stalls` `straw` `strength` `taanach` `table` `taphath` `ten` `things` `thirty` `thousand` `three` `threescore` `tiphsah` `towns` `tree` `trees` `tribute` `twelve` `twenty` `understanding` `uri` `victuals` `vine` `wall` `walls` `wife` `wisdom` `wiser` `year` `zabud` `zadok` `zartanah`
+#abda #abel-meholah #abiathar #abinadab #administration #adoniram #ahiah #ahilud #ahimaaz #ahinadab #ahishar #aloth #amorites #argob #aruboth #asher #azariah #azzah #baana #baanah #barley #bars #bashan #basmath #beasts #beer-sheba #benaiah #benjamin #beth-shean #beth-shemesh #border #brasen #cedar #chalcol #charge #chariots #children #cities #country #creeping #dan #darda #daughter #day #days #dekar #description #divine #dominion #dor #drinking #dromedaries #dwelt #earth #east #eating #egypt #elah #elihoreph #elon-beth-hanan #ephraim #ethan #exceeding #excelled #ezrahite #fallowdeer #fame #fat #fatted #fig #fine #fishes #five #flour #forty #fowl #friend #geber #gilead #god #great #harts #hear #heart #heman #hepher #hesed #horsemen #horses #host #household #hundred #hur #hushai #hyssop #iddo #israel #issachar #jair #jehoiada #jehoshaphat #jezreel #jokneam #judah #king #kingdoms #kings #lacked #land #largeness #lebanon #life #mahanaim #mahol #makaz #manasseh #meal #measures #megiddo #men #merry #military #month #mount #multitude #naphtali #nathan #nations #officer #officers #oxen #paruah #pastures #peace #people #philistines #place #presents #priest #priests #princes #principal #prosperity #proverbs #provided #provision #ramoth-gilead #recorder #region #reigned #river #roebucks #royal #safely #sand #scribes #sea #served #shaalbim #sheep #shimei #shisha #shore #sides #sihon #sochoh #solomon #son #songs #sons #spoke #stalls #straw #strength #taanach #table #taphath #ten #things #thirty #thousand #three #threescore #tiphsah #towns #tree #trees #tribute #twelve #twenty #understanding #uri #victuals #vine #wall #walls #wife #wisdom #wiser #year #zabud #zadok #zartanah
 
 
 ---

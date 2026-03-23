@@ -1,3 +1,14 @@
+---
+book: "Jonah"
+chapter: 3
+testament: "Old Testament"
+key_themes: "Christ's Second Call, Nineveh's Repentance, Divine Mercy, God's Relenting"
+tags:
+  - christ
+  - nineveh
+  - divine-mercy
+  - god
+---
 # Jonah 3
 
 ---
@@ -105,7 +116,7 @@ Word, LORD, Jonah, second, time, Arise, Nineveh, great, city, preach, preaching,
 
 
 *AI Keywords for current event matching:*
-`anger` `arise` `arose` `believed` `bid` `call` `christs` `cry` `divine` `evil` `fast` `fierce` `god` `gods` `greatest` `king` `lord` `mercy` `mightily` `nineveh` `ninevehs` `people` `perish` `preach` `preaching` `proclaimed` `relenting` `repentance` `repented` `sackcloth` `saw` `second` `time` `turn` `turned` `way` `word` `works`
+#anger #arise #arose #believed #bid #call #christs #cry #divine #evil #fast #fierce #god #gods #greatest #king #lord #mercy #mightily #nineveh #ninevehs #people #perish #preach #preaching #proclaimed #relenting #repentance #repented #sackcloth #saw #second #time #turn #turned #way #word #works
 
 
 ---

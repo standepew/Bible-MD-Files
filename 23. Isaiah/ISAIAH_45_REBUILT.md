@@ -1,3 +1,13 @@
+---
+book: "Isaiah"
+chapter: 45
+testament: "Old Testament"
+key_themes: "Christ's Sovereignty, Divine Creation, Spiritual Salvation, Christ's Lordship"
+tags:
+  - christ
+  - divine-creation
+  - spiritual-salvation
+---
 # Isaiah 45
 
 ---
@@ -117,7 +127,7 @@ LORD, anointed, Cyrus, right, hand, holden, subdue, nations, loose, loins, kings
 
 
 *AI Keywords for current event matching:*
-`anointed` `bow` `bring` `christs` `create` `created` `creation` `cyrus` `darkness` `divine` `earth` `else` `everlasting` `every` `evil` `form` `formed` `forth` `god` `heavens` `israel` `justified` `kings` `knee` `light` `loins` `look` `loose` `lord` `lordship` `make` `nations` `none` `peace` `salvation` `saved` `seed` `sovereignty` `spiritual` `subdue` `swear` `tongue`
+#anointed #bow #bring #christs #create #created #creation #cyrus #darkness #divine #earth #else #everlasting #every #evil #form #formed #forth #god #heavens #israel #justified #kings #knee #light #loins #look #loose #lord #lordship #make #nations #none #peace #salvation #saved #seed #sovereignty #spiritual #subdue #swear #tongue
 
 
 ---

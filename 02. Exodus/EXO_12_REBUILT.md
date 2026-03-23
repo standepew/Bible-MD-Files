@@ -1,3 +1,35 @@
+---
+book: "Exodus"
+chapter: 12
+testament: "Old Testament"
+key_themes: "Institution of the Passover, The Lamb without blemish, Blood on the doorposts, The destroyer passes over, Unleavened bread, The Exodus at midnight, 430 years fulfilled to the day, The mixed multitude, No bone broken, One law for stranger and homeborn, The firstborn of Egypt slain"
+tags:
+  - Passover
+  - lamb-without-blemish
+  - blood-on-doorposts
+  - lintel
+  - sideposts
+  - destroyer
+  - pass-over
+  - unleavened-bread
+  - bitter-herbs
+  - loins-girded
+  - haste
+  - midnight
+  - death-of-firstborn
+  - great-cry
+  - spoil-Egypt
+  - 600000-men
+  - mixed-multitude
+  - 430-years
+  - bones-not-broken
+  - one-law
+  - circumcision-required
+  - memorial-feast
+  - Abib
+  - first-month
+  - Lamb-of-God
+---
 # Exodus 12
 
 ---
@@ -119,7 +151,7 @@ God institutes the Passover — the defining redemptive event of the Old Testame
 
 
 *AI Keywords for current event matching:*
-`communion` `corinthians` `current` `events` `exodus` `foundational` `institution` `lords` `matching` `passover` `supper`
+#communion #corinthians #current #events #exodus #foundational #institution #lords #matching #passover #supper
 
 
 ---
@@ -272,10 +304,10 @@ God institutes the Passover — the defining redemptive event of the Old Testame
 
 ### Unleavened Bread — Haste and Purity
 
-- **Exodus 12:11** — eat in haste; no time for bread to rise
-- **1 Corinthians 5:6-8** — Paul interprets leaven = malice and wickedness; unleavened bread = sincerity and truth
-- **Matthew 16:6** — leaven of the Pharisees = corrupt doctrine
-- **Galatians 5:9** — "A little leaven leaveneth the whole lump"
+- [[02. Exodus/EXO_12_REBUILT|Exodus 12:11]] — eat in haste; no time for bread to rise
+- [[46. 1 Corinthians/1_CORINTHIANS_05_REBUILT|1 Corinthians 5:6-8]] — Paul interprets leaven = malice and wickedness; unleavened bread = sincerity and truth
+- [[40. Matthew/MATTHEW_16_REBUILT|Matthew 16:6]] — leaven of the Pharisees = corrupt doctrine
+- [[48. Galatians/GALATIANS_05_REBUILT|Galatians 5:9]] — "A little leaven leaveneth the whole lump"
 - *Thread:* Leaven throughout Scripture = spreading corruption (doctrinal or moral). Unleavened = purity, separation from Egypt's old life. The seven days of unleavened bread is a week (complete period) of living without the old corruption — the new life in full.
 
 ---

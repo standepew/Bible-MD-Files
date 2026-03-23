@@ -1,3 +1,14 @@
+---
+book: "Jonah"
+chapter: 2
+testament: "Old Testament"
+key_themes: "Christ's Prayer from Deep, Divine Deliverance, Salvation from Death, Resurrection Typology"
+tags:
+  - christ
+  - divine-deliverance
+  - salvation-from-death
+  - resurrection-typology
+---
 # Jonah 2
 
 ---
@@ -117,7 +128,7 @@ Jonah, prayed, LORD, God, fish, belly, cried, reason, affliction, LORD, heard, b
 
 
 *AI Keywords for current event matching:*
-`affliction` `belly` `billows` `brought` `cast` `christs` `compassed` `cried` `days` `death` `deep` `deliverance` `divine` `dry` `fainted` `fish` `floods` `heard` `hell` `holy` `land` `life` `lord` `nights` `prayed` `prayer` `remembered` `resurrection` `sacrifice` `salvation` `temple` `thanksgiving` `three` `typology` `voice` `vomited` `waves`
+#affliction #belly #billows #brought #cast #christs #compassed #cried #days #death #deep #deliverance #divine #dry #fainted #fish #floods #heard #hell #holy #land #life #lord #nights #prayed #prayer #remembered #resurrection #sacrifice #salvation #temple #thanksgiving #three #typology #voice #vomited #waves
 
 
 ---

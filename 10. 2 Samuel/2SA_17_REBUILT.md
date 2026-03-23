@@ -1,3 +1,18 @@
+---
+book: "2 Samuel"
+chapter: 17
+testament: "Old Testament"
+key_themes: "Ahithophel's Counsel, Hushai's Counter-Counsel, Divine Intervention, Ahithophel's Suicide, Support for David"
+tags:
+  - saying-pleased-Absalom-elders-Israel
+  - Absalom-Hushai-Archite-hear-saith
+  - found-dew-ground-left
+  - Israel-Absalom-Gilead
+  - ahithophel
+  - hushai
+  - divine-intervention
+  - support-for-david
+---
 # 2 Samuel 17
 
 ---
@@ -89,7 +104,7 @@ Ahithophel told Absalom, choose twelve thousand men, arise pursue David this nig
 
 
 *AI Keywords for current event matching:*
-`abiathar` `abigail` `absalom` `afraid` `ahimaaz` `ahithophel` `ahithophels` `amasa` `ammiel` `ammon` `appointed` `archite` `arise` `arose` `bahurim` `barley` `barzillai` `basons` `battle` `beans` `bear` `beds` `beer-sheba` `bring` `brook` `butter` `captain` `chafed` `cheese` `children` `choose` `city` `communication` `corn` `counsel` `counselled` `counter-counsel` `court` `covering` `dan` `daughter` `david` `davids` `defeat` `departed` `dew` `died` `divine` `earthen` `eat` `elders` `en-rogel` `end` `escape` `evil` `father` `field` `flee` `flour` `found` `gathered` `gilead` `gileadite` `good` `ground` `handed` `hanged` `hear` `hid` `honey` `host` `house` `household` `hungry` `hushai` `hushais` `intervention` `israel` `israelite` `ithra` `jerusalem` `joab` `jonathan` `jordan` `kine` `king` `known` `lad` `left` `lentiles` `light` `lion` `lo-debar` `lodge` `lord` `machir` `mahanaim` `man` `manner` `melt` `men` `mighty` `military` `minds` `morning` `mother` `mouth` `multitude` `nahash` `network` `night` `order` `organization` `overthrown` `parched` `pass` `peace` `people` `person` `pit` `place` `pleased` `priests` `pulse` `pursue` `quickly` `rabbah` `returned` `river` `robbed` `rogelim` `ropes` `saddled` `saith` `saw` `saying` `sea` `send` `sepulchre` `servants` `sheep` `shobi` `sister` `slaughter` `smite` `son` `sought` `speak` `spoken` `stone` `support` `swallowed` `tell` `thirsty` `thousand` `time` `told` `twelve` `valiant` `vessels` `war` `water` `weak` `weary` `well` `wench` `went` `wheat` `whelps` `wilderness` `woman` `zadok` `zeruiah`
+#abiathar #abigail #absalom #afraid #ahimaaz #ahithophel #ahithophels #amasa #ammiel #ammon #appointed #archite #arise #arose #bahurim #barley #barzillai #basons #battle #beans #bear #beds #beer-sheba #bring #brook #butter #captain #chafed #cheese #children #choose #city #communication #corn #counsel #counselled #counter-counsel #court #covering #dan #daughter #david #davids #defeat #departed #dew #died #divine #earthen #eat #elders #en-rogel #end #escape #evil #father #field #flee #flour #found #gathered #gilead #gileadite #good #ground #handed #hanged #hear #hid #honey #host #house #household #hungry #hushai #hushais #intervention #israel #israelite #ithra #jerusalem #joab #jonathan #jordan #kine #king #known #lad #left #lentiles #light #lion #lo-debar #lodge #lord #machir #mahanaim #man #manner #melt #men #mighty #military #minds #morning #mother #mouth #multitude #nahash #network #night #order #organization #overthrown #parched #pass #peace #people #person #pit #place #pleased #priests #pulse #pursue #quickly #rabbah #returned #river #robbed #rogelim #ropes #saddled #saith #saw #saying #sea #send #sepulchre #servants #sheep #shobi #sister #slaughter #smite #son #sought #speak #spoken #stone #support #swallowed #tell #thirsty #thousand #time #told #twelve #valiant #vessels #war #water #weak #weary #well #wench #went #wheat #whelps #wilderness #woman #zadok #zeruiah
 
 
 ---

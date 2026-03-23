@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 126
+testament: "Old Testament"
+key_themes: "Divine Restoration, Joyful Harvest, Sowing in Tears, Reaping in Joy"
+tags:
+  - divine-restoration
+  - joyful-harvest
+  - sowing-in-tears
+  - reaping-in-joy
+---
 # Psalm 126
 
 ---
@@ -105,7 +116,7 @@ Song, degrees, LORD, turned, captivity, Zion, dream, mouth, filled, laughter, to
 
 
 *AI Keywords for current event matching:*
-`again` `bearing` `bringing` `captivity` `divine` `filled` `forth` `glad` `goeth` `great` `harvest` `joy` `joyful` `laughter` `lord` `mouth` `precious` `reap` `reaping` `rejoicing` `restoration` `seed` `sheaves` `singing` `south` `sow` `sowing` `streams` `tears` `things` `tongue` `turn` `turned` `weepeth` `zion`
+#again #bearing #bringing #captivity #divine #filled #forth #glad #goeth #great #harvest #joy #joyful #laughter #lord #mouth #precious #reap #reaping #rejoicing #restoration #seed #sheaves #singing #south #sow #sowing #streams #tears #things #tongue #turn #turned #weepeth #zion
 
 
 ---

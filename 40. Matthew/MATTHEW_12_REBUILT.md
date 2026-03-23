@@ -1,3 +1,14 @@
+---
+book: "Matthew"
+chapter: 12
+testament: "New Testament"
+key_themes: "Christ's Lordship of Sabbath, Healing Authority, Kingdom Power, Spiritual Family"
+tags:
+  - christ
+  - healing-authority
+  - kingdom-power
+  - spiritual-family
+---
 # Matthew 12
 
 ---
@@ -129,7 +140,7 @@ Jesus, sabbath, corn, disciples, hungred, pluck, ears, corn, eat, Pharisees, dis
 
 
 *AI Keywords for current event matching:*
-`authority` `brethren` `brother` `christs` `come` `divided` `family` `father` `god` `greater` `hand` `heal` `healing` `kingdom` `lawful` `lord` `lordship` `man` `mercy` `mother` `power` `restored` `sabbath` `sacrifice` `sister` `spirit` `spiritual` `stretch` `strong` `temple` `whole` `withered`
+#authority #brethren #brother #christs #come #divided #family #father #god #greater #hand #heal #healing #kingdom #lawful #lord #lordship #man #mercy #mother #power #restored #sabbath #sacrifice #sister #spirit #spiritual #stretch #strong #temple #whole #withered
 
 
 ---

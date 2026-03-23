@@ -1,3 +1,21 @@
+---
+book: "2 Samuel"
+chapter: 15
+testament: "Old Testament"
+key_themes: "Absalom's Rebellion, Stealing Hearts, David's Flight, Loyal Followers, Strategic Countermeasures"
+tags:
+  - obeisance-hand-took-kissed
+  - king-peace-arose-Hebron
+  - king-people-place-far
+  - LORD-delight-behold-LORD-good
+  - tarry-plain-wilderness-word-certify
+  - David-passest-burden
+  - absalom
+  - stealing-hearts
+  - david
+  - loyal-followers
+  - strategic-countermeasures
+---
 # 2 Samuel 15
 
 ---
@@ -89,7 +107,7 @@ Absalom prepared chariots, horses, fifty men to run before. Rose early, stood by
 
 
 *AI Keywords for current event matching:*
-`abiathar` `absalom` `absaloms` `ahimaaz` `ahithophel` `appoint` `archite` `arise` `ark` `arose` `ascent` `barefoot` `behold` `brethren` `bring` `brook` `burden` `called` `cause` `certify` `chariots` `cherethites` `city` `coat` `concubines` `conspiracy` `conspirators` `controversy` `counsel` `counsellor` `countermeasures` `country` `covenant` `covered` `david` `davids` `day` `death` `deceptive` `defeat` `delight` `depart` `deputed` `down` `early` `earth` `escape` `evil` `exile` `eyes` `far` `father` `favour` `fifty` `flee` `flight` `foolishness` `forty` `friend` `gate` `gath` `geshur` `giloh` `gilonite` `gittite` `gittites` `god` `good` `habitation` `hand` `head` `hear` `hearts` `hebron` `horses` `house` `household` `hundred` `hushai` `israel` `ittai` `ittais` `jerusalem` `jonathan` `judge` `judgment` `justice` `keep` `kidron` `king` `kissed` `knew` `lament` `land` `levites` `life` `little` `lord` `loud` `loyalty` `man` `matters` `men` `mercy` `messenger` `mount` `obeisance` `olivet` `ones` `overtake` `pass` `passed` `passest` `passing` `pay` `peace` `pelethites` `people` `place` `plain` `pray` `preparation` `prepared` `priest` `priests` `ready` `reigneth` `rent` `return` `right` `rose` `run` `sacrifices` `seer` `send` `servant` `servants` `serve` `simplicity` `six` `son` `sons` `speed` `spies` `spreads` `stole` `stood` `stranger` `strategic` `strong` `suit` `sword` `syria` `tarried` `tarry` `ten` `took` `top` `tribes` `trumpet` `truth` `two` `voice` `vow` `vowed` `way` `wept` `whither` `wilderness` `withdrawal` `women` `word` `worshipped` `years` `yesterday` `zadok`
+#abiathar #absalom #absaloms #ahimaaz #ahithophel #appoint #archite #arise #ark #arose #ascent #barefoot #behold #brethren #bring #brook #burden #called #cause #certify #chariots #cherethites #city #coat #concubines #conspiracy #conspirators #controversy #counsel #counsellor #countermeasures #country #covenant #covered #david #davids #day #death #deceptive #defeat #delight #depart #deputed #down #early #earth #escape #evil #exile #eyes #far #father #favour #fifty #flee #flight #foolishness #forty #friend #gate #gath #geshur #giloh #gilonite #gittite #gittites #god #good #habitation #hand #head #hear #hearts #hebron #horses #house #household #hundred #hushai #israel #ittai #ittais #jerusalem #jonathan #judge #judgment #justice #keep #kidron #king #kissed #knew #lament #land #levites #life #little #lord #loud #loyalty #man #matters #men #mercy #messenger #mount #obeisance #olivet #ones #overtake #pass #passed #passest #passing #pay #peace #pelethites #people #place #plain #pray #preparation #prepared #priest #priests #ready #reigneth #rent #return #right #rose #run #sacrifices #seer #send #servant #servants #serve #simplicity #six #son #sons #speed #spies #spreads #stole #stood #stranger #strategic #strong #suit #sword #syria #tarried #tarry #ten #took #top #tribes #trumpet #truth #two #voice #vow #vowed #way #wept #whither #wilderness #withdrawal #women #word #worshipped #years #yesterday #zadok
 
 
 ---

@@ -1,3 +1,17 @@
+---
+book: "Luke"
+chapter: 21
+testament: "New Testament"
+key_themes: "The Widow's Offering, Signs of the End Times, Persecution of Believers, The Destruction of Jerusalem, The Coming of the Son of Man, The Parable of the Fig Tree, Watch and Pray"
+tags:
+  - the-widow
+  - signs-of-the-end-times
+  - persecution-of-believers
+  - the-destruction-of-jerusalem
+  - the-coming-of-the-son-of
+  - the-parable-of-the-fig-tree
+  - watch-and-pray
+---
 # Luke 21
 
 ---
@@ -159,7 +173,7 @@ Looked, rich, men, casting, gifts, treasury, poor, widow, casting, thither, two,
 
 
 *AI Keywords for current event matching:*
-`abundance` `believers` `betrayed` `christ` `cloud` `coming` `commotions` `compassed` `day` `days` `deceived` `destruction` `distress` `end` `fig` `flee` `generation` `god` `goodly` `great` `hands` `heaven` `jerusalem` `judæa` `kingdom` `lay` `living` `man` `men` `mites` `moon` `mouth` `nation` `nigh` `offering` `offerings` `overcharged` `parable` `parents` `pass` `penury` `people` `persecute` `persecution` `poor` `power` `pray` `rich` `shoot` `signs` `son` `stand` `stars` `stone` `stones` `summer` `sun` `surfeiting` `synagogues` `testimony` `thrown` `times` `tree` `trees` `two` `unawares` `vengeance` `wars` `watch` `widow` `widows` `wisdom` `words` `wrath`
+#abundance #believers #betrayed #christ #cloud #coming #commotions #compassed #day #days #deceived #destruction #distress #end #fig #flee #generation #god #goodly #great #hands #heaven #jerusalem #judæa #kingdom #lay #living #man #men #mites #moon #mouth #nation #nigh #offering #offerings #overcharged #parable #parents #pass #penury #people #persecute #persecution #poor #power #pray #rich #shoot #signs #son #stand #stars #stone #stones #summer #sun #surfeiting #synagogues #testimony #thrown #times #tree #trees #two #unawares #vengeance #wars #watch #widow #widows #wisdom #words #wrath
 
 
 ---

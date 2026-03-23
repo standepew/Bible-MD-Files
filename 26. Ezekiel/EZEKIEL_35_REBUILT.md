@@ -1,3 +1,13 @@
+---
+book: "Ezekiel"
+chapter: 35
+testament: "Old Testament"
+key_themes: "Christ's Judgment, Edom's Hatred, Divine Desolation, Christ's Vengeance"
+tags:
+  - christ
+  - edom
+  - divine-desolation
+---
 # Ezekiel 35
 
 ---
@@ -105,7 +115,7 @@ Word, Lord, son, man, face, mount, Seir, prophesy, Lord, GOD, mount, Seir, stret
 
 
 *AI Keywords for current event matching:*
-`according` `anger` `blood` `calamity` `christs` `cities` `cut` `desolate` `desolation` `desolations` `divine` `edoms` `face` `fill` `force` `hand` `hatred` `judgment` `known` `make` `men` `mountains` `off` `perpetual` `prepare` `pursue` `set` `shed` `slain` `stretch` `sword` `time` `vengeance` `waste`
+#according #anger #blood #calamity #christs #cities #cut #desolate #desolation #desolations #divine #edoms #face #fill #force #hand #hatred #judgment #known #make #men #mountains #off #perpetual #prepare #pursue #set #shed #slain #stretch #sword #time #vengeance #waste
 
 
 ---

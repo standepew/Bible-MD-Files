@@ -1,3 +1,30 @@
+---
+book: "Numbers"
+chapter: 29
+testament: "Old Testament"
+key_themes: "The seventh month — the most sacred month of the year; three appointed times in one month, Day of Trumpets (1st): a blowing of trumpets — holy convocation; bull, ram, seven lambs, goat for sin, Day of Atonement (10th): afflict your souls; holy convocation; identical animal count to Trumpets — the day of national cleansing, Feast of Tabernacles (15th–21st): seven days of offering — the great countdown; thirteen bulls to seven bulls, descending daily, Eight day Assembly (22nd): the solemn assembly — one bull, one ram, seven lambs; the smallest offering closes the largest feast, "Beside your vows, and your freewill offerings" — the commanded and the voluntary both have their place, Moses told all this to the children of Israel"
+tags:
+  - seventh-month
+  - day-of-blowing-trumpets
+  - holy-convocation
+  - afflict-your-souls
+  - day-of-atonement
+  - feast-of-tabernacles
+  - seven-days
+  - thirteen-bullocks-first-day
+  - twelve-second-day
+  - eleven-third-day
+  - ten-fourth-day
+  - nine-fifth-day
+  - eight-sixth-day
+  - seven-seventh-day
+  - decreasing-bulls
+  - solemn-assembly-eighth-day
+  - one-bullock-final-day
+  - beside-continual-burnt-offering
+  - vows-and-freewill-offerings
+  - Moses-told-the-children-of-Israel
+---
 # Numbers 29
 
 ---
@@ -69,7 +96,7 @@ The seventh month contains three great sacred times. First day: a holy convocati
 
 
 *AI Keywords for current event matching:*
-`announcement` `corinthians` `current` `divine` `events` `intervention` `matching` `matthew` `numbers` `thessalonians` `trumpets`
+#announcement #corinthians #current #divine #events #intervention #matching #matthew #numbers #thessalonians #trumpets
 
 
 ---

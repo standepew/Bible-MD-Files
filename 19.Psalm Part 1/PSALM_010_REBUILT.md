@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 10
+testament: "Old Testament"
+key_themes: "Problem of Evil, Wicked's Pride, God's Hiddenness, Prayer for Justice"
+tags:
+  - problem-of-evil
+  - wicked
+  - god
+  - prayer-for-justice
+---
 # Psalm 10
 
 ---
@@ -177,7 +188,7 @@ Standest, afar, LORD, hidest, times, trouble, wicked, pride, persecute, poor, ta
 
 
 *AI Keywords for current event matching:*
-`abhorreth` `adversity` `afar` `arise` `arm` `blesseth` `boasteth` `break` `contemn` `countenance` `covetous` `cursing` `deceit` `desire` `devices` `enemies` `evil` `find` `forget` `fraud` `god` `gods` `grievous` `hand` `heart` `heathen` `hiddenness` `hidest` `humble` `imagined` `innocent` `judgments` `justice` `king` `land` `lift` `lord` `lurking` `man` `mischief` `mouth` `moved` `murder` `none` `perished` `persecute` `places` `poor` `prayer` `pride` `problem` `puffeth` `require` `secret` `seek` `sight` `sitteth` `standest` `taken` `thoughts` `times` `tongue` `trouble` `vanity` `villages` `ways` `wicked` `wickedness` `wickeds`
+#abhorreth #adversity #afar #arise #arm #blesseth #boasteth #break #contemn #countenance #covetous #cursing #deceit #desire #devices #enemies #evil #find #forget #fraud #god #gods #grievous #hand #heart #heathen #hiddenness #hidest #humble #imagined #innocent #judgments #justice #king #land #lift #lord #lurking #man #mischief #mouth #moved #murder #none #perished #persecute #places #poor #prayer #pride #problem #puffeth #require #secret #seek #sight #sitteth #standest #taken #thoughts #times #tongue #trouble #vanity #villages #ways #wicked #wickedness #wickeds
 
 
 ---

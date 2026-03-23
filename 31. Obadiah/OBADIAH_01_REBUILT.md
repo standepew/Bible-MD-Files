@@ -1,3 +1,14 @@
+---
+book: "Obadiah"
+chapter: 1
+testament: "Old Testament"
+key_themes: "Christ's Judgment on Edom, Divine Justice, Pride and Humiliation, Zion's Deliverance"
+tags:
+  - christ
+  - divine-justice
+  - pride-and-humiliation
+  - zion
+---
 # Obadiah 1
 
 ---
@@ -129,7 +140,7 @@ Vision, Obadiah, Lord, GOD, concerning, Edom, heard, rumour, LORD, ambassador, h
 
 
 *AI Keywords for current event matching:*
-`bring` `brother` `christs` `clefts` `cut` `deceived` `deliverance` `despised` `divine` `done` `down` `eagle` `edom` `exalt` `forever` `greatly` `heart` `holiness` `humiliation` `judgment` `justice` `kingdom` `lord` `made` `mount` `nest` `off` `possess` `possessions` `pride` `return` `reward` `rock` `small` `stars` `violence` `zion` `zions`
+#bring #brother #christs #clefts #cut #deceived #deliverance #despised #divine #done #down #eagle #edom #exalt #forever #greatly #heart #holiness #humiliation #judgment #justice #kingdom #lord #made #mount #nest #off #possess #possessions #pride #return #reward #rock #small #stars #violence #zion #zions
 
 
 ---

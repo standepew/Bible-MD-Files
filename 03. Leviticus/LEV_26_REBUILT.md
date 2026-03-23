@@ -1,3 +1,31 @@
+---
+book: "Leviticus"
+chapter: 26
+testament: "Old Testament"
+key_themes: "The covenant blessing/curse structure — obedience brings extraordinary blessing; disobedience brings escalating judgment in four waves, "I will walk among you, and will be your God, and ye shall be my people" — the covenant goal stated as the ultimate blessing, The four escalating waves of judgment each preceded by "if ye will not yet hearken" — God does not move to the next level without giving space to repent, Even in judgment: "I will not cast them away... to destroy them utterly" — the covenant is not annulled, The land's Sabbath rest during the exile — the land enjoys what Israel refused to give it"
+tags:
+  - no-idols
+  - keep-sabbaths
+  - reverence-sanctuary
+  - covenant-blessings
+  - rain-in-season
+  - sword-through-the-land
+  - I-will-walk-among-you
+  - four-waves-of-judgment
+  - seven-times
+  - pride-broken
+  - heaven-as-iron
+  - earth-as-brass
+  - wild-beasts
+  - pestilence
+  - sword
+  - cities-waste
+  - scatter-among-heathen
+  - land-enjoys-sabbaths
+  - uncircumcised-hearts-humbled
+  - I-will-remember-my-covenant
+  - Jacob-Isaac-Abraham
+---
 # Leviticus 26
 
 ---
@@ -81,7 +109,7 @@ The Hebrew prophets operate as the announced implementation of this passage:
 
 
 *AI Keywords for current event matching:*
-`blessings` `current` `curses` `deuteronomy` `events` `judgment` `leviticus` `matching` `national` `nations` `proverbs`
+#blessings #current #curses #deuteronomy #events #judgment #leviticus #matching #national #nations #proverbs
 
 
 ---
@@ -183,15 +211,15 @@ Leviticus 26 is not prediction — it is covenant mechanism. The prophets are no
 
 ### Heaven as Iron, Earth as Brass — The Closed-Heaven Symbol
 
-**Leviticus 26:19** — "I will make your heaven as iron, and your earth as brass"
+[[03. Leviticus/LEV_26_REBUILT|Leviticus 26:19]] — "I will make your heaven as iron, and your earth as brass"
 
 Iron sky = no rain (the sky closed); brass earth = the hardened, infertile ground that receives no water.
 
 This symbol of closed heaven runs through Scripture:
-- **Deuteronomy 28:23** — "And thy heaven that is over thy head shall be brass, and the earth that is under thee shall be iron" — same image in Deuteronomy's curse-catalogue
-- **1 Kings 17:1** — Elijah declares: "there shall not be dew nor rain these years, but according to my word" — the iron heaven enforced by prophetic word; the Leviticus 26 curse activated
-- **James 5:17-18** — "Elias was a man subject to like passions as we are, and he prayed earnestly that it might not rain: and it rained not on the earth by the space of three years and six months. And he prayed again, and the heaven gave rain" — the iron heaven and its opening are both connected to prayer
-- **Revelation 11:6** — the two witnesses "have power to shut heaven, that it rain not in the days of their prophecy" — the Leviticus 26 covenant-curse power delegated to the end-time witnesses
+- [[05. Deuteronomy/DEU_28_REBUILT|Deuteronomy 28:23]] — "And thy heaven that is over thy head shall be brass, and the earth that is under thee shall be iron" — same image in Deuteronomy's curse-catalogue
+- [[11. 1 Kings/1_KINGS_17_REBUILT|1 Kings 17:1]] — Elijah declares: "there shall not be dew nor rain these years, but according to my word" — the iron heaven enforced by prophetic word; the Leviticus 26 curse activated
+- [[59. James/JAMES_05_REBUILT|James 5:17-18]] — "Elias was a man subject to like passions as we are, and he prayed earnestly that it might not rain: and it rained not on the earth by the space of three years and six months. And he prayed again, and the heaven gave rain" — the iron heaven and its opening are both connected to prayer
+- [[66. Revelation/REVELATION_11_REBUILT|Revelation 11:6]] — the two witnesses "have power to shut heaven, that it rain not in the days of their prophecy" — the Leviticus 26 covenant-curse power delegated to the end-time witnesses
 
 **What the Bible establishes:** Closed heaven in Scripture is always a covenant-enforcement symbol — God withholding His provision in response to covenant violation. Open heaven (the blessing of Leviticus 26:4 — "rain in due season") is the emblem of covenant faithfulness rewarded. James 5:17-18 establishes that prayer is the mechanism by which the heaven's closure and opening operate, linking Elijah's intercession to the covenant structure of Leviticus 26.
 

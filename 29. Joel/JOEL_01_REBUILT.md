@@ -1,3 +1,14 @@
+---
+book: "Joel"
+chapter: 1
+testament: "Old Testament"
+key_themes: "Christ's Judgment, Locust Plague, Divine Call to Repentance, Day of the LORD"
+tags:
+  - christ
+  - locust-plague
+  - divine-call-to-repentance
+  - day-of-the-lord
+---
 # Joel 1
 
 ---
@@ -105,7 +116,7 @@ Word, LORD, Joel, son, Pethuel, Hear, old, men, ear, inhabitants, land, days, fa
 
 
 *AI Keywords for current event matching:*
-`almighty` `assembly` `burned` `call` `cankerworm` `caterpiller` `christs` `cry` `cut` `day` `destruction` `devoured` `divine` `fast` `fire` `flame` `gird` `gladness` `hand` `joy` `judgment` `lament` `lion` `locust` `lord` `meat` `nation` `off` `palmerworm` `plague` `repentance` `sanctify` `solemn` `strong` `teeth`
+#almighty #assembly #burned #call #cankerworm #caterpiller #christs #cry #cut #day #destruction #devoured #divine #fast #fire #flame #gird #gladness #hand #joy #judgment #lament #lion #locust #lord #meat #nation #off #palmerworm #plague #repentance #sanctify #solemn #strong #teeth
 
 
 ---

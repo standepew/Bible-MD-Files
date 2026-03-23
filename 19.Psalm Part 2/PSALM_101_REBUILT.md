@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 101
+testament: "Old Testament"
+key_themes: "Royal Integrity, Personal Holiness, Righteous Leadership, Moral Purity"
+tags:
+  - royal-integrity
+  - personal-holiness
+  - righteous-leadership
+  - moral-purity
+---
 # Psalm 101
 
 ---
@@ -129,7 +140,7 @@ Psalm, David, sing, mercy, judgment, LORD, sing, behave, wisely, perfect, way, c
 
 
 *AI Keywords for current event matching:*
-`aside` `behave` `city` `cut` `david` `deceit` `depart` `destroy` `doers` `dwell` `early` `eyes` `faithful` `froward` `hate` `heart` `high` `holiness` `house` `integrity` `judgment` `know` `land` `leadership` `lies` `look` `lord` `mercy` `moral` `neighbour` `perfect` `person` `personal` `privily` `proud` `psalm` `purity` `righteous` `royal` `serve` `set` `sight` `sing` `slander` `suffer` `tarry` `telleth` `thing` `turn` `walk` `way` `wicked` `wisely` `work` `worketh`
+#aside #behave #city #cut #david #deceit #depart #destroy #doers #dwell #early #eyes #faithful #froward #hate #heart #high #holiness #house #integrity #judgment #know #land #leadership #lies #look #lord #mercy #moral #neighbour #perfect #person #personal #privily #proud #psalm #purity #righteous #royal #serve #set #sight #sing #slander #suffer #tarry #telleth #thing #turn #walk #way #wicked #wisely #work #worketh
 
 
 ---

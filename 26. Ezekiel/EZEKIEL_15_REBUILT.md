@@ -1,3 +1,13 @@
+---
+book: "Ezekiel"
+chapter: 15
+testament: "Old Testament"
+key_themes: "Christ's Judgment, Useless Vine, Divine Fire, Christ's Wrath"
+tags:
+  - christ
+  - useless-vine
+  - divine-fire
+---
 # Ezekiel 15
 
 ---
@@ -105,7 +115,7 @@ Word, Lord, son, man, vine, tree, tree, branch, trees, forest, wood, work, pin, 
 
 
 *AI Keywords for current event matching:*
-`another` `burned` `cast` `christs` `desolate` `devour` `divine` `ends` `face` `fire` `fuel` `hang` `inhabitants` `jerusalem` `judgment` `land` `meet` `midst` `pin` `set` `tree` `trespass` `useless` `vine` `wood` `work` `wrath`
+#another #burned #cast #christs #desolate #devour #divine #ends #face #fire #fuel #hang #inhabitants #jerusalem #judgment #land #meet #midst #pin #set #tree #trespass #useless #vine #wood #work #wrath
 
 
 ---

@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 54
+testament: "Old Testament"
+key_themes: "Prayer for Help, Divine Deliverance, Enemy's Opposition, Sacrifice and Praise"
+tags:
+  - prayer-for-help
+  - divine-deliverance
+  - enemy
+  - sacrifice-and-praise
+---
 # Psalm 54
 
 ---
@@ -105,7 +116,7 @@ Chief, Musician, Neginoth, Maschil, Psalm, David, Ziphims, came, Saul, David, hi
 
 
 *AI Keywords for current event matching:*
-`behold` `came` `chief` `cut` `david` `deliverance` `delivered` `desire` `divine` `ear` `enemies` `enemys` `eye` `freely` `give` `god` `good` `hear` `help` `helper` `hide` `judge` `lord` `maschil` `mouth` `musician` `name` `neginoth` `opposition` `oppressors` `praise` `prayer` `psalm` `reward` `risen` `sacrifice` `saul` `save` `seek` `set` `soul` `strangers` `strength` `trouble` `truth` `uphold` `words` `ziphims`
+#behold #came #chief #cut #david #deliverance #delivered #desire #divine #ear #enemies #enemys #eye #freely #give #god #good #hear #help #helper #hide #judge #lord #maschil #mouth #musician #name #neginoth #opposition #oppressors #praise #prayer #psalm #reward #risen #sacrifice #saul #save #seek #set #soul #strangers #strength #trouble #truth #uphold #words #ziphims
 
 
 ---

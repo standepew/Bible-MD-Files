@@ -1,3 +1,14 @@
+---
+book: "Hosea"
+chapter: 6
+testament: "Old Testament"
+key_themes: "Christ's Healing, Resurrection Power, Divine Mercy, Covenant Knowledge"
+tags:
+  - christ
+  - resurrection-power
+  - divine-mercy
+  - covenant-knowledge
+---
 # Hosea 6
 
 ---
@@ -105,7 +116,7 @@ Come, return, LORD, torn, heal, smitten, bind, two, days, revive, third, day, ra
 
 
 *AI Keywords for current event matching:*
-`bind` `burnt` `christs` `covenant` `day` `desired` `divine` `follow` `forth` `god` `going` `heal` `healing` `know` `knowledge` `live` `lord` `mercy` `offerings` `power` `raise` `resurrection` `revive` `sacrifice` `sight` `smitten` `third` `torn` `transgressed`
+#bind #burnt #christs #covenant #day #desired #divine #follow #forth #god #going #heal #healing #know #knowledge #live #lord #mercy #offerings #power #raise #resurrection #revive #sacrifice #sight #smitten #third #torn #transgressed
 
 
 ---

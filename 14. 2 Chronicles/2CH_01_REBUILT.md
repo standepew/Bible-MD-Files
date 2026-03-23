@@ -1,3 +1,14 @@
+---
+book: "2 Chronicles"
+chapter: 1
+testament: "Old Testament"
+key_themes: "Solomon's Reign, Divine Wisdom, Temple Preparation, Kingdom Prosperity"
+tags:
+  - solomon
+  - divine-wisdom
+  - temple-preparation
+  - kingdom-prosperity
+---
 # 2 Chronicles 1
 
 ---
@@ -157,7 +168,7 @@ Solomon, son, David, strengthened, kingdom, LORD, God, with, magnified, exceedin
 
 
 *AI Keywords for current event matching:*
-`abundance` `altar` `appeared` `ark` `ask` `asked` `bezalel` `blessing` `brasen` `brought` `burnt` `captains` `cedar` `chariot` `chariots` `chief` `cities` `congregation` `david` `divine` `dust` `earth` `economic` `egypt` `enemies` `established` `exceedingly` `father` `fathers` `fetched` `fifty` `four` `gathered` `gibeon` `give` `god` `gold` `governors` `granted` `great` `heart` `high` `hittites` `honour` `horse` `horsemen` `horses` `hundred` `hundreds` `hur` `israel` `jearim` `jerusalem` `journey` `judge` `judges` `king` `kingdom` `kings` `kirjath` `knowledge` `life` `like` `linen` `long` `lord` `made` `magnified` `merchants` `mercy` `moses` `multitude` `night` `offered` `offerings` `people` `place` `placed` `plenteous` `preparation` `prepared` `price` `promise` `prosperity` `received` `reign` `reigned` `riches` `said` `servant` `shekel` `shekels` `shewed` `silver` `six` `soloman` `solomons` `son` `sought` `spake` `stead` `stones` `strengthened` `sycamore` `syrian` `tabernacle` `temple` `tent` `thousand` `thousands` `trees` `twelve` `uri` `vale` `wealth` `wilderness` `wisdom` `yarn`
+#abundance #altar #appeared #ark #ask #asked #bezalel #blessing #brasen #brought #burnt #captains #cedar #chariot #chariots #chief #cities #congregation #david #divine #dust #earth #economic #egypt #enemies #established #exceedingly #father #fathers #fetched #fifty #four #gathered #gibeon #give #god #gold #governors #granted #great #heart #high #hittites #honour #horse #horsemen #horses #hundred #hundreds #hur #israel #jearim #jerusalem #journey #judge #judges #king #kingdom #kings #kirjath #knowledge #life #like #linen #long #lord #made #magnified #merchants #mercy #moses #multitude #night #offered #offerings #people #place #placed #plenteous #preparation #prepared #price #promise #prosperity #received #reign #reigned #riches #said #servant #shekel #shekels #shewed #silver #six #soloman #solomons #son #sought #spake #stead #stones #strengthened #sycamore #syrian #tabernacle #temple #tent #thousand #thousands #trees #twelve #uri #vale #wealth #wilderness #wisdom #yarn
 
 
 ---

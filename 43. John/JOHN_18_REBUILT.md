@@ -1,3 +1,14 @@
+---
+book: "John"
+chapter: 18
+testament: "New Testament"
+key_themes: "The Betrayal and Arrest of Jesus, Peter's Denials, Jesus Before Annas and Caiaphas, Jesus Before Pilate"
+tags:
+  - the-betrayal-and-arrest-of-jesus
+  - peter
+  - jesus-before-annas-and-caiaphas
+  - jesus-before-pilate
+---
 # John 18
 
 ---
@@ -141,7 +152,7 @@ Spoken, words, disciples, brook, Cedron, garden, disciples, Judas, betrayed, kne
 
 
 *AI Keywords for current event matching:*
-`accusation` `again` `annas` `another` `arrest` `ask` `asked` `backward` `band` `barabbas` `bear` `betrayal` `betrayed` `born` `bound` `brook` `caiaphas` `cedron` `chief` `coals` `cock` `crew` `cried` `cup` `custom` `cut` `damsel` `death` `defiled` `delivered` `denials` `denied` `disciple` `disciples` `doctrine` `done` `door` `ear` `early` `evil` `father` `fault` `fell` `fight` `fire` `fulfilled` `garden` `ground` `hall` `heard` `heareth` `hence` `high` `himself` `jesus` `jew` `jews` `judas` `judge` `judgment` `king` `kingdom` `kinsman` `knew` `knowing` `known` `lanterns` `law` `lawful` `led` `let` `lost` `malchus` `malefactor` `men` `morning` `nation` `nazareth` `none` `nothing` `openly` `palace` `passover` `peter` `peters` `pilate` `place` `priest` `priests` `release` `robber` `saying` `secret` `seek` `servant` `servants` `simon` `struck` `sword` `synagogue` `tellers` `temple` `thing` `things` `thyself` `torches` `truth` `warmed` `weapons` `went` `witness` `world` `year`
+#accusation #again #annas #another #arrest #ask #asked #backward #band #barabbas #bear #betrayal #betrayed #born #bound #brook #caiaphas #cedron #chief #coals #cock #crew #cried #cup #custom #cut #damsel #death #defiled #delivered #denials #denied #disciple #disciples #doctrine #done #door #ear #early #evil #father #fault #fell #fight #fire #fulfilled #garden #ground #hall #heard #heareth #hence #high #himself #jesus #jew #jews #judas #judge #judgment #king #kingdom #kinsman #knew #knowing #known #lanterns #law #lawful #led #let #lost #malchus #malefactor #men #morning #nation #nazareth #none #nothing #openly #palace #passover #peter #peters #pilate #place #priest #priests #release #robber #saying #secret #seek #servant #servants #simon #struck #sword #synagogue #tellers #temple #thing #things #thyself #torches #truth #warmed #weapons #went #witness #world #year
 
 
 ---

@@ -1,3 +1,13 @@
+---
+book: "Isaiah"
+chapter: 7
+testament: "Old Testament"
+key_themes: "Christ's Virgin Birth, Divine Sign, Faith in God, Christ's Protection"
+tags:
+  - christ
+  - divine-sign
+  - faith-in-god
+---
 # Isaiah 7
 
 ---
@@ -117,7 +127,7 @@ Came, pass, days, Ahaz, son, Jotham, son, Uzziah, king, Judah, Rezin, king, Syri
 
 
 *AI Keywords for current event matching:*
-`ask` `bear` `believe` `birth` `butter` `call` `christs` `conceive` `cow` `depth` `divine` `eat` `established` `fainthearted` `faith` `fear` `firebrands` `forsaken` `give` `god` `heed` `height` `honey` `immanuel` `kings` `land` `lord` `nourish` `protection` `quiet` `sign` `smoking` `son` `take` `virgin` `weary`
+#ask #bear #believe #birth #butter #call #christs #conceive #cow #depth #divine #eat #established #fainthearted #faith #fear #firebrands #forsaken #give #god #heed #height #honey #immanuel #kings #land #lord #nourish #protection #quiet #sign #smoking #son #take #virgin #weary
 
 
 ---

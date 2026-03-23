@@ -1,3 +1,14 @@
+---
+book: "John"
+chapter: 11
+testament: "New Testament"
+key_themes: "The Death of Lazarus, I Am the Resurrection, The Raising of Lazarus, The Council Against Jesus"
+tags:
+  - the-death-of-lazarus
+  - i-am-the-resurrection
+  - the-raising-of-lazarus
+  - the-council-against-jesus
+---
 # John 11
 
 ---
@@ -177,7 +188,7 @@ Certain, man, sick, Lazarus, Bethany, town, Mary, sister, Martha, Mary, anointed
 
 
 *AI Keywords for current event matching:*
-`abroad` `against` `alone` `arose` `ask` `believe` `believed` `believeth` `bethany` `bound` `brother` `caiaphas` `chief` `children` `come` `comfort` `council` `day` `days` `dead` `death` `die` `died` `father` `feet` `fell` `fifteen` `four` `friend` `furlongs` `glory` `god` `grave` `graveclothes` `here` `hours` `jesus` `jews` `lazarus` `let` `life` `lord` `lovest` `martha` `mary` `master` `miracles` `nation` `people` `perish` `pharisees` `place` `plainly` `priest` `priests` `quickly` `raising` `resurrection` `rise` `romans` `scattered` `sick` `sleepeth` `stinketh` `stone` `thank` `thomas` `told` `town` `twelve` `walk` `weep` `wept`
+#abroad #against #alone #arose #ask #believe #believed #believeth #bethany #bound #brother #caiaphas #chief #children #come #comfort #council #day #days #dead #death #die #died #father #feet #fell #fifteen #four #friend #furlongs #glory #god #grave #graveclothes #here #hours #jesus #jews #lazarus #let #life #lord #lovest #martha #mary #master #miracles #nation #people #perish #pharisees #place #plainly #priest #priests #quickly #raising #resurrection #rise #romans #scattered #sick #sleepeth #stinketh #stone #thank #thomas #told #town #twelve #walk #weep #wept
 
 
 ---

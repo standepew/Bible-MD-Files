@@ -1,3 +1,29 @@
+---
+book: "Job"
+chapter: 19
+testament: "Old Testament"
+key_themes: "Job's Response, Divine Persecution, Social Isolation, Hope of Redeemer"
+tags:
+  - vex-soul-break-pieces-words
+  - ten-times-reproached-ashamed-strange
+  - erred-error-remain-magnify-reproach
+  - God-overthrown-net-wrong-judgment
+  - fenced-pass-darkness-paths
+  - stripped-glory-crown-head
+  - destroyed-gone-hope-removed-tree
+  - kindled-wrath-enemies-troops-tabernacle
+  - brethren-acquaintance-kinsfolk-friends-forgotten-stranger-aliens
+  - servant-answer-breath-wife-children-despised-spoke
+  - inward-friends-abhorred-loved-turned
+  - bone-skin-flesh-escaped-teeth
+  - pity-friends-hand-GOD-touched
+  - persecute-GOD-flesh-satisfied
+  - written-book-graven-iron-pen-lead-rock
+  - redeemer-liveth-latter-day-earth
+  - skin-worms-destroy-flesh-see-GOD
+  - eyes-behold-reins-consumed
+  - persecute-root-matter-sword-wrath-punishments-judgment
+---
 # Job 19
 
 ---
@@ -129,7 +155,7 @@ Vex, soul, break, pieces, words. Ten, times, reproached, ashamed, strange. Erred
 
 
 *AI Keywords for current event matching:*
-`abhorred` `acquaintance` `aliens` `answer` `ashamed` `bone` `book` `break` `breath` `brethren` `children` `crown` `darkness` `despised` `destroyed` `divine` `enemies` `erred` `error` `escaped` `fenced` `flesh` `forgotten` `friends` `glory` `god` `gone` `graven` `hand` `head` `hope` `inward` `iron` `isolation` `jobs` `judgment` `kindled` `kinsfolk` `lead` `loved` `magnify` `net` `overthrown` `pass` `paths` `pen` `persecute` `persecution` `pieces` `pity` `redeemer` `remain` `removed` `reproach` `reproached` `response` `rock` `satisfied` `servant` `skin` `social` `soul` `spoke` `strange` `stranger` `stripped` `tabernacle` `teeth` `ten` `times` `touched` `tree` `troops` `turned` `vex` `wife` `words` `wrath` `written` `wrong`
+#abhorred #acquaintance #aliens #answer #ashamed #bone #book #break #breath #brethren #children #crown #darkness #despised #destroyed #divine #enemies #erred #error #escaped #fenced #flesh #forgotten #friends #glory #god #gone #graven #hand #head #hope #inward #iron #isolation #jobs #judgment #kindled #kinsfolk #lead #loved #magnify #net #overthrown #pass #paths #pen #persecute #persecution #pieces #pity #redeemer #remain #removed #reproach #reproached #response #rock #satisfied #servant #skin #social #soul #spoke #strange #stranger #stripped #tabernacle #teeth #ten #times #touched #tree #troops #turned #vex #wife #words #wrath #written #wrong
 
 
 ---

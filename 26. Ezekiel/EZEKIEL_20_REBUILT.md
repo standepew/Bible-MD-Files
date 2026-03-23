@@ -1,3 +1,13 @@
+---
+book: "Ezekiel"
+chapter: 20
+testament: "Old Testament"
+key_themes: "Christ's Holiness, Israel's Rebellion, Divine Judgment, Christ's Restoration"
+tags:
+  - christ
+  - israel
+  - divine-judgment
+---
 # Ezekiel 20
 
 ---
@@ -129,7 +139,7 @@ Seventh, year, fifth, month, tenth, day, month, elders, Israel, enquire, Lord, s
 
 
 *AI Keywords for current event matching:*
-`abominations` `accomplish` `anger` `arm` `bond` `cast` `chose` `christs` `covenant` `divine` `egypt` `fire` `forsake` `fury` `hand` `hearken` `heathen` `holiness` `idols` `israel` `israels` `judgment` `kindle` `known` `lifted` `mighty` `people` `polluted` `pour` `rebelled` `rebellion` `restoration` `sabbaths` `scatter` `sign` `stretched` `wilderness`
+#abominations #accomplish #anger #arm #bond #cast #chose #christs #covenant #divine #egypt #fire #forsake #fury #hand #hearken #heathen #holiness #idols #israel #israels #judgment #kindle #known #lifted #mighty #people #polluted #pour #rebelled #rebellion #restoration #sabbaths #scatter #sign #stretched #wilderness
 
 
 ---

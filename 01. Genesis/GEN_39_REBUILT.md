@@ -1,3 +1,62 @@
+---
+book: "Genesis"
+chapter: 39
+testament: "Old Testament"
+key_themes: "Joseph Brought Down to Egypt — Bought by Potiphar Captain of the Guard, "The LORD Was With Joseph" — The Central Fourfold Declaration, Joseph Prospers in Potiphar's House — All Things Put Into His Hand, The LORD Blesses the Egyptian's House for Joseph's Sake — The Covenant Seed as Channel of Blessing, "He Knew Not Ought He Had, Save the Bread Which He Did Eat" — Total Trust and Total Delegation, Joseph Goodly and Well-Favoured — Physical Description as Narrative Preparation, Potiphar's Wife — Daily Temptation and Joseph's Threefold Ground of Refusal, The Third Refusal Ground — "How Then Can I Sin Against God", Joseph Fled — Leaving the Garment in Her Hand, The False Accusation — The Garment as False Evidence Twice Presented, Potiphar's Wrath Kindled — But Not Execution — The Soft Landing, Joseph Cast Into the King's Prison, "But the LORD Was With Joseph" — Divine Presence in the Second Pit, Favor in the Sight of the Prison Keeper — The Pattern Repeated, The Prison Keeper Delegates All to Joseph — The Third Complete Delegation"
+tags:
+  - Joseph-brought-down-to-Egypt
+  - Potiphar-captain-of-guard
+  - Egyptian-bought-of-Ishmaelites
+  - LORD-was-with-Joseph-fourfold
+  - prosperous-man-tsalach
+  - Joshua-1-5-9
+  - Judges-6-12-Gideon
+  - Isaiah-43-2
+  - Matthew-28-20
+  - Potiphar-made-Joseph-overseer
+  - total-trust-total-delegation
+  - Joseph-goodly-well-favoured
+  - Potiphar-wife-cast-eyes
+  - daily-temptation-day-by-day
+  - Joseph-threefold-refusal
+  - master-trusted-him
+  - 1-Corinthians-6-18-20
+  - Hebrews-13-4
+  - 2-Timothy-2-22
+  - flee-fornication-pheugete
+  - Joseph-fled-garment-in-hand
+  - third-garment-moment
+  - false-accusation-garment-as-evidence
+  - twice-told-servants-then-Potiphar
+  - Proverbs-19-5
+  - Psalm-27-12
+  - Potiphar-wrath-but-not-execution
+  - king-prison-soft-landing
+  - hesed-in-the-prison
+  - Psalm-105-17-22
+  - Lamentations-3-22-23
+  - Romans-8-28
+  - keeper-delegates-all-to-Joseph
+  - tsalach-accomplish-Isaiah-55-11
+  - Philippians-2-5-11
+  - Revelation-1-13-16
+  - prison-lowest-before-highest
+  - joseph-brought-down-to-egypt
+  - the-lord-was-with-joseph
+  - joseph-prospers-in-potiphar
+  - the-lord-blesses-the-egyptian
+  - he-knew-not-ought-he-had
+  - save-the-bread-which-he-did
+  - joseph-goodly-and-wellfavoured
+  - potiphar
+  - the-third-refusal-ground
+  - joseph-fled
+  - the-false-accusation
+  - joseph-cast-into-the-king
+  - but-the-lord-was-with-joseph
+  - favor-in-the-sight-of-the
+  - the-prison-keeper-delegates-all-to
+---
 # Genesis 39
 
 ---
@@ -135,7 +194,7 @@ Then: "But the LORD was with Joseph." The word "but" was the hinge. Despite the 
 
 For AI matching to topics and current events:
 
-`LORD was with Joseph fourfold Genesis 39:2 3 21 23` `divine presence in suffering` `Potiphar captain of guard` `Joseph bought of Ishmaelites` `prosperous man tsalach accomplish purpose` `Isaiah 55:11 tsalach` `Genesis 21:22 God is with thee Abraham` `Genesis 26:28 LORD was with thee Isaac` `Joshua 1:5 9 I will be with thee` `Judges 6:12 LORD is with thee Gideon` `Immanuel Matthew 1:23 God with us` `Matthew 28:20 I am with you alway` `Acts 7:9-10 Stephen God was with him` `Potiphar made Joseph overseer all in his hand` `he knew not save bread he did eat` `total trust total delegation` `Luke 16:10 faithful in least faithful in much` `LORD blessed Egyptian house for Josephs sake` `Genesis 12:3 bless them that bless thee` `Genesis 30:27 Laban blessed for Jacob` `covenant seed channel of blessing to nations` `Potiphar wife cast her eyes upon Joseph` `day by day daily temptation yom yom` `Joseph refused threefold` `thou art his wife marriage covenant Hebrews 13:4` `how then can I sin against God` `Psalm 51:4 against thee only have I sinned` `Proverbs 15:3 eyes of LORD` `1 Corinthians 6:18-20 flee fornication temple Holy Spirit` `Hebrews 13:4 adulterers God will judge` `2 Timothy 2:22 flee youthful lusts` `Joseph fled garment in hand` `cost of faithful flight` `false accusation twice told` `garment as false evidence` `Proverbs 19:5 false witness not unpunished` `Psalm 27:12 false witnesses risen against me` `Matthew 26:59-61 false witness against Jesus` `Acts 6:11-13 Stephen false accusation` `Revelation 12:10 accuser of brethren` `Potiphar wrath but not execution soft landing` `king prison placement providential` `Psalm 105:17-19 he sent a man before them` `Psalm 105:18 laid in iron` `but the LORD was with Joseph hesed` `Lamentations 3:22-23 mercies of LORD not consumed` `Romans 8:28 all things work together for good` `favor prison keeper chen Genesis 6:8 Noah` `keeper delegates all to Joseph` `third complete delegation Potiphar keeper Pharaoh` `garment thread Genesis 37 39 41` `stripped brothers seized Potiphars wife clothed Pharaoh` `Philippians 2:5-11 humiliation exaltation` `Revelation 1:13-16 Son of Man clothed garment` `type of Christ false accusation unjust condemnation` `false accusation as door to next step` `daily integrity no human observer` `God prospers what Joseph does tsalach` `integrity under persistent pressure`
+#LORD-was-with-Joseph-fourfold-Genesis-392-3-21-23 #divine-presence-in-suffering #Potiphar-captain-of-guard #Joseph-bought-of-Ishmaelites #prosperous-man-tsalach-accomplish-purpose #Isaiah-5511-tsalach #Genesis-2122-God-is-with-thee-Abraham #Genesis-2628-LORD-was-with-thee-Isaac #Joshua-15-9-I-will-be-with-thee #Judges-612-LORD-is-with-thee-Gideon #Immanuel-Matthew-123-God-with-us #Matthew-2820-I-am-with-you-alway #Acts-79-10-Stephen-God-was-with-him #Potiphar-made-Joseph-overseer-all-in-his-hand #he-knew-not-save-bread-he-did-eat #total-trust-total-delegation #Luke-1610-faithful-in-least-faithful-in-much #LORD-blessed-Egyptian-house-for-Josephs-sake #Genesis-123-bless-them-that-bless-thee #Genesis-3027-Laban-blessed-for-Jacob #covenant-seed-channel-of-blessing-to-nations #Potiphar-wife-cast-her-eyes-upon-Joseph #day-by-day-daily-temptation-yom-yom #Joseph-refused-threefold #thou-art-his-wife-marriage-covenant-Hebrews-134 #how-then-can-I-sin-against-God #Psalm-514-against-thee-only-have-I-sinned #Proverbs-153-eyes-of-LORD #1-Corinthians-618-20-flee-fornication-temple-Holy-Spirit #Hebrews-134-adulterers-God-will-judge #2-Timothy-222-flee-youthful-lusts #Joseph-fled-garment-in-hand #cost-of-faithful-flight #false-accusation-twice-told #garment-as-false-evidence #Proverbs-195-false-witness-not-unpunished #Psalm-2712-false-witnesses-risen-against-me #Matthew-2659-61-false-witness-against-Jesus #Acts-611-13-Stephen-false-accusation #Revelation-1210-accuser-of-brethren #Potiphar-wrath-but-not-execution-soft-landing #king-prison-placement-providential #Psalm-10517-19-he-sent-a-man-before-them #Psalm-10518-laid-in-iron #but-the-LORD-was-with-Joseph-hesed #Lamentations-322-23-mercies-of-LORD-not-consumed #Romans-828-all-things-work-together-for-good #favor-prison-keeper-chen-Genesis-68-Noah #keeper-delegates-all-to-Joseph #third-complete-delegation-Potiphar-keeper-Pharaoh #garment-thread-Genesis-37-39-41 #stripped-brothers-seized-Potiphars-wife-clothed-Pharaoh #Philippians-25-11-humiliation-exaltation #Revelation-113-16-Son-of-Man-clothed-garment #type-of-Christ-false-accusation-unjust-condemnation #false-accusation-as-door-to-next-step #daily-integrity-no-human-observer #God-prospers-what-Joseph-does-tsalach #integrity-under-persistent-pressure
 
 **Relevance to Current Events:**
 - Workplace integrity and sexual harassment — Joseph as the model of employee integrity under sustained workplace pressure; refusing repeated sexual advances; the theological ground of "sin against God" as the deepest motivation for workplace integrity; applicable in pastoral teaching on workplace ethics, professional relationships, and the theology of integrity

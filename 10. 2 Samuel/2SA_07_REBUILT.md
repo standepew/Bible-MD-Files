@@ -1,3 +1,19 @@
+---
+book: "2 Samuel"
+chapter: 7
+testament: "Old Testament"
+key_themes: "David's Desire to Build Temple, God's Covenant with David, David's Prayer, Eternal Kingdom Promise"
+tags:
+  - Nathan-king-heart-LORD
+  - night-word-LORD-Nathan
+  - Egypt-children-Israel-tent-tabernacle
+  - mercy-depart-Saul-put-away
+  - words-vision-Nathan-David
+  - David-GOD-knowest-servant
+  - david
+  - god
+  - eternal-kingdom-promise
+---
 # 2 Samuel 7
 
 ---
@@ -81,7 +97,7 @@ King sat in house, LORD given rest from enemies. King told Nathan prophet, dwell
 
 
 *AI Keywords for current event matching:*
-`afflict` `appoint` `ark` `away` `beforetime` `bless` `blessed` `blessing` `bowels` `brought` `build` `cedar` `chasten` `children` `commanded` `commit` `confirmed` `continue` `covenant` `curtains` `cut` `david` `davids` `days` `depart` `desire` `dwell` `ears` `earth` `egypt` `enemies` `establish` `established` `eternal` `father` `fathers` `feed` `following` `forever` `fulfilled` `given` `god` `gods` `goodness` `great` `heart` `hitherto` `hosts` `house` `iniquity` `israel` `judges` `king` `kingdom` `know` `knowest` `land` `like` `lord` `magnified` `man` `manner` `men` `mercy` `move` `name` `nathan` `nation` `nations` `night` `none` `people` `place` `places` `plant` `please` `pray` `prayer` `promised` `prophet` `put` `redeem` `redeemed` `response` `rest` `revealed` `rod` `ruler` `sake` `sat` `saul` `seed` `servant` `sheep` `sheepcote` `sight` `sleep` `small` `son` `spoken` `stablish` `stripes` `tabernacle` `tent` `terrible` `thing` `things` `throne` `tribes` `true` `vision` `walked` `wentest` `wickedness` `withersoever` `word` `words`
+#afflict #appoint #ark #away #beforetime #bless #blessed #blessing #bowels #brought #build #cedar #chasten #children #commanded #commit #confirmed #continue #covenant #curtains #cut #david #davids #days #depart #desire #dwell #ears #earth #egypt #enemies #establish #established #eternal #father #fathers #feed #following #forever #fulfilled #given #god #gods #goodness #great #heart #hitherto #hosts #house #iniquity #israel #judges #king #kingdom #know #knowest #land #like #lord #magnified #man #manner #men #mercy #move #name #nathan #nation #nations #night #none #people #place #places #plant #please #pray #prayer #promised #prophet #put #redeem #redeemed #response #rest #revealed #rod #ruler #sake #sat #saul #seed #servant #sheep #sheepcote #sight #sleep #small #son #spoken #stablish #stripes #tabernacle #tent #terrible #thing #things #throne #tribes #true #vision #walked #wentest #wickedness #withersoever #word #words
 
 
 ---

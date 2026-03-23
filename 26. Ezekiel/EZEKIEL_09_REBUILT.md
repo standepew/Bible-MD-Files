@@ -1,3 +1,13 @@
+---
+book: "Ezekiel"
+chapter: 9
+testament: "Old Testament"
+key_themes: "Christ's Judgment, Divine Marking, Temple Cleansing, Christ's Protection"
+tags:
+  - christ
+  - divine-marking
+  - temple-cleansing
+---
 # Ezekiel 9
 
 ---
@@ -117,7 +127,7 @@ Cried, ears, loud, voice, charge, city, draw, near, man, destroying, weapon, han
 
 
 *AI Keywords for current event matching:*
-`ancient` `begin` `charge` `christs` `city` `cleansing` `clothed` `courts` `cry` `defile` `destroying` `divine` `fill` `foreheads` `house` `inkhorn` `israel` `judgment` `linen` `mark` `marking` `men` `near` `protection` `residue` `sanctuary` `set` `sigh` `slaughter` `slay` `temple` `utterly` `weapon` `writer`
+#ancient #begin #charge #christs #city #cleansing #clothed #courts #cry #defile #destroying #divine #fill #foreheads #house #inkhorn #israel #judgment #linen #mark #marking #men #near #protection #residue #sanctuary #set #sigh #slaughter #slay #temple #utterly #weapon #writer
 
 
 ---

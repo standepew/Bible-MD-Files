@@ -1,3 +1,19 @@
+---
+book: "Acts"
+chapter: 6
+testament: "New Testament"
+key_themes: "The Appointment of Seven Deacons, Stephen's Ministry, Stephen's Arrest"
+tags:
+  - the-appointment-of-seven-deacons
+  - stephen
+  - deacons
+  - daily-ministration
+  - laying-on-of-hands
+  - hellenists
+  - false-witnesses
+  - blasphemy
+  - full-of-the-holy-ghost
+---
 # Acts 6
 
 ---
@@ -79,7 +95,7 @@ Days, number, disciples, multiplied, arose, murmuring, Grecians, Hebrews, widows
 
 
 *AI Keywords for current event matching:*
-`alexandrians` `angel` `antioch` `apostles` `appoint` `appointment` `arose` `arrest` `asia` `blasphemous` `brethren` `brought` `business` `called` `came` `caught` `ceaseth` `change` `chose` `cilicia` `company` `council` `customs` `cyrenians` `daily` `days` `deacons` `delivered` `destroy` `disciples` `disputing` `elders` `face` `faith` `false` `full` `ghost` `give` `god` `great` `greatly` `grecians` `hands` `heard` `hebrews` `holy` `honest` `increased` `jerusalem` `jesus` `laid` `law` `leave` `libertines` `look` `looking` `man` `men` `ministration` `ministry` `miracles` `moses` `multiplied` `multitude` `murmuring` `nazareth` `neglected` `nicanor` `nicolas` `number` `obedient` `parmenas` `people` `philip` `place` `pleased` `power` `prayed` `prayer` `priests` `prochorus` `proselyte` `reason` `report` `resist` `sat` `say` `saying` `scribes` `serve` `set` `seven` `spake` `speak` `spirit` `stedfastly` `stephen` `stephens` `stirred` `suborned` `synagogue` `tables` `timon` `twelve` `widows` `wisdom` `witnesses` `wonders` `word` `words`
+#alexandrians #angel #antioch #apostles #appoint #appointment #arose #arrest #asia #blasphemous #brethren #brought #business #called #came #caught #ceaseth #change #chose #cilicia #company #council #customs #cyrenians #daily #days #deacons #delivered #destroy #disciples #disputing #elders #face #faith #false #full #ghost #give #god #great #greatly #grecians #hands #heard #hebrews #holy #honest #increased #jerusalem #jesus #laid #law #leave #libertines #look #looking #man #men #ministration #ministry #miracles #moses #multiplied #multitude #murmuring #nazareth #neglected #nicanor #nicolas #number #obedient #parmenas #people #philip #place #pleased #power #prayed #prayer #priests #prochorus #proselyte #reason #report #resist #sat #say #saying #scribes #serve #set #seven #spake #speak #spirit #stedfastly #stephen #stephens #stirred #suborned #synagogue #tables #timon #twelve #widows #wisdom #witnesses #wonders #word #words
 
 
 ---

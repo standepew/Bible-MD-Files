@@ -1,3 +1,49 @@
+---
+book: "Genesis"
+chapter: 2
+testament: "Old Testament"
+key_themes: "Seventh Day Sabbath, Formation of Man from Dust, Breath of Life, Garden of Eden, Tree of Life, Tree of Knowledge, The Prohibition and Death Warning, Naming of Animals, Deep Sleep and Creation of Woman, Marriage Instituted, One Flesh, Naked and Not Ashamed"
+tags:
+  - seventh-day
+  - sabbath
+  - rest
+  - sanctified
+  - LORD-God
+  - YHWH-Elohim
+  - dust-of-ground
+  - breath-of-life
+  - nishmat-chayyim
+  - living-soul
+  - nephesh
+  - garden-Eden
+  - tree-of-life
+  - tree-of-knowledge
+  - good-and-evil
+  - rivers-Eden
+  - Euphrates
+  - dress-and-keep
+  - prohibition
+  - surely-die
+  - moth-tamuth
+  - not-good-alone
+  - help-meet
+  - ezer-kenegdo
+  - naming-animals
+  - deep-sleep
+  - rib
+  - tsela
+  - woman
+  - bone-of-bones
+  - flesh-of-flesh
+  - one-flesh
+  - leave-cleave
+  - naked-not-ashamed
+  - marriage
+  - covenant-of-marriage
+  - Adam-Eve
+  - type-Christ-church
+  - second-Adam
+---
 # Genesis 2
 
 ---
@@ -109,7 +155,7 @@ God finished creation on the sixth day and rested on the seventh, blessing and s
 
 For AI matching to topics and current events:
 
-`seventh day` `rested` `finished` `host` `blessed` `sanctified` `Sabbath` `generations` `toledot` `LORD God` `YHWH Elohim` `covenant name` `dust of ground` `afar` `formed` `breath of life` `nishmat chayyim` `living soul` `nephesh chayyah` `garden` `Eden` `eastward` `planted` `tree of life` `tree of knowledge` `good and evil` `rivers` `Pison` `Gihon` `Hiddekel` `Euphrates` `Havilah` `gold` `bdellium` `onyx` `dress it` `keep it` `freely eat` `commanded` `surely die` `moth tamuth` `not good` `alone` `help meet` `ezer kenegdo` `names` `naming animals` `authority` `deep sleep` `tardemah` `rib` `tsela` `woman` `ishshah` `bone of my bones` `flesh of my flesh` `leave father and mother` `cleave` `one flesh` `naked` `not ashamed` `marriage` `covenant` `husband and wife`
+#seventh-day #rested #finished #host #blessed #sanctified #Sabbath #generations #toledot #LORD-God #YHWH-Elohim #covenant-name #dust-of-ground #afar #formed #breath-of-life #nishmat-chayyim #living-soul #nephesh-chayyah #garden #Eden #eastward #planted #tree-of-life #tree-of-knowledge #good-and-evil #rivers #Pison #Gihon #Hiddekel #Euphrates #Havilah #gold #bdellium #onyx #dress-it #keep-it #freely-eat #commanded #surely-die #moth-tamuth #not-good #alone #help-meet #ezer-kenegdo #names #naming-animals #authority #deep-sleep #tardemah #rib #tsela #woman #ishshah #bone-of-my-bones #flesh-of-my-flesh #leave-father-and-mother #cleave #one-flesh #naked #not-ashamed #marriage #covenant #husband-and-wife
 
 **Relevance to Current Events:**
 - Marriage definition debates — Genesis 2:24 is the creation definition, quoted by Jesus in Matthew 19:4-6; it is the Bible's own answer
@@ -381,13 +427,13 @@ For AI matching to topics and current events:
 
 ### The Tree of Life — From Garden to New Jerusalem
 
-**Genesis 2:9** — Tree of life in the midst of the garden
+[[01. Genesis/GEN_02_REBUILT|Genesis 2:9]] — Tree of life in the midst of the garden
 
 **Thread through all of Scripture:**
-- **Genesis 3:22-24** — Access blocked by cherubim and flaming sword after the Fall
-- **Proverbs 3:18** — Wisdom is "a tree of life to them that lay hold upon her" — the tree becomes a wisdom metaphor; Christ, who IS the wisdom of God (1 Corinthians 1:24), IS the tree of life
-- **Proverbs 11:30** — "The fruit of the righteous is a tree of life" — righteousness (which is through Christ) produces tree-of-life fruit
-- **Revelation 2:7** — "To him that overcometh will I give to eat of the tree of life, which is in the midst of the paradise of God" — same location: in the midst; restored to the overcomer
+- [[01. Genesis/GEN_03_REBUILT|Genesis 3:22-24]] — Access blocked by cherubim and flaming sword after the Fall
+- [[20. Proverbs/PROVERBS_03_REBUILT|Proverbs 3:18]] — Wisdom is "a tree of life to them that lay hold upon her" — the tree becomes a wisdom metaphor; Christ, who IS the wisdom of God (1 Corinthians 1:24), IS the tree of life
+- [[20. Proverbs/PROVERBS_11_REBUILT|Proverbs 11:30]] — "The fruit of the righteous is a tree of life" — righteousness (which is through Christ) produces tree-of-life fruit
+- [[66. Revelation/REVELATION_02_REBUILT|Revelation 2:7]] — "To him that overcometh will I give to eat of the tree of life, which is in the midst of the paradise of God" — same location: in the midst; restored to the overcomer
 - **Revelation 22:2, 14** — Tree of life in the new Jerusalem, bearing twelve fruits, healing for the nations; access granted to those who have washed their robes
   - *Interpretation:* The trajectory of the tree of life is the trajectory of salvation history: given (Genesis 2) → forfeited through sin (Genesis 3) → promised to overcomers (Revelation 2:7) → fully restored in new creation (Revelation 22). Christ is the tree of life — He IS eternal life (John 14:6; 1 John 5:12). Access to Him is access to the tree. The cherubim's flaming sword blocked the way to life; Christ's cross opened it (Hebrews 10:19-20).
 
@@ -395,45 +441,45 @@ For AI matching to topics and current events:
 
 ### Dust — The Humility of Human Origin and the Hope of Resurrection
 
-**Genesis 2:7** — "formed man of the dust of the ground"  
-**Genesis 3:19** — "for dust thou art, and unto dust shalt thou return"
+[[01. Genesis/GEN_02_REBUILT|Genesis 2:7]] — "formed man of the dust of the ground"  
+[[01. Genesis/GEN_03_REBUILT|Genesis 3:19]] — "for dust thou art, and unto dust shalt thou return"
 
 **Thread through Scripture:**
-- **Psalm 103:14** — "He knoweth our frame; he remembereth that we are dust" — God's compassion grounded in our dust-origin
-- **Job 10:9** — "Remember, I beseech thee, that thou hast made me as the clay; and wilt thou bring me into dust again?"
-- **Ecclesiastes 3:20** — "All go unto one place; all are of the dust, and all turn to dust again"
-- **Isaiah 26:19** — "Thy dead men shall live, together with my dead body shall they arise. Awake and sing, ye that dwell in dust" — resurrection language drawn from the dust of Genesis 2:7
-- **Daniel 12:2** — "And many of them that sleep in the dust of the earth shall awake" — the resurrection draws on the dust imagery of Genesis 2
-- **John 5:28-29** — "The hour is coming, in the which all that are in the graves shall hear his voice, And shall come forth" — the same God who breathed life into dust will breathe resurrection life into the dust of graves
-- **1 Corinthians 15:47-49** — "The first man is of the earth, earthy... as we have borne the image of the earthy, we shall also bear the image of the heavenly"
+- [[19.Psalm Part 2/PSALM_103_REBUILT|Psalm 103:14]] — "He knoweth our frame; he remembereth that we are dust" — God's compassion grounded in our dust-origin
+- [[18. Job/JOB_10_REBUILT|Job 10:9]] — "Remember, I beseech thee, that thou hast made me as the clay; and wilt thou bring me into dust again?"
+- [[21. Ecclesiastes/ECCLESIASTES_03_REBUILT|Ecclesiastes 3:20]] — "All go unto one place; all are of the dust, and all turn to dust again"
+- [[23. Isaiah/ISAIAH_26_REBUILT|Isaiah 26:19]] — "Thy dead men shall live, together with my dead body shall they arise. Awake and sing, ye that dwell in dust" — resurrection language drawn from the dust of Genesis 2:7
+- [[27. Daniel/DANIEL_12_REBUILT|Daniel 12:2]] — "And many of them that sleep in the dust of the earth shall awake" — the resurrection draws on the dust imagery of Genesis 2
+- [[43. John/JOHN_05_REBUILT|John 5:28-29]] — "The hour is coming, in the which all that are in the graves shall hear his voice, And shall come forth" — the same God who breathed life into dust will breathe resurrection life into the dust of graves
+- [[46. 1 Corinthians/1_CORINTHIANS_15_REBUILT|1 Corinthians 15:47-49]] — "The first man is of the earth, earthy... as we have borne the image of the earthy, we shall also bear the image of the heavenly"
   - *Interpretation:* The dust of Genesis 2:7 is not a statement of worthlessness but of origin and dependence. Man is dust animated by God's breath. At death he returns to dust. At resurrection he rises from dust by God's power — the same power that first breathed life into dust. The resurrection is the final answer to Genesis 2:7.
 
 ---
 
 ### The Deep Sleep (Tardemah) — Surrender Before Transformation
 
-**Genesis 2:21** — "the LORD God caused a deep sleep (tardemah) to fall upon Adam"
+[[01. Genesis/GEN_02_REBUILT|Genesis 2:21]] — "the LORD God caused a deep sleep (tardemah) to fall upon Adam"
 
 **Thread through Scripture:**
-- **Genesis 15:12** — Tardemah falls on Abraham during the covenant ratification: "And when the sun was going down, a deep sleep fell upon Abram; and, lo, an horror of great darkness fell upon him" — Abraham sleeps while God alone passes through the covenant sacrifice; man is passive, God is active
-- **1 Samuel 26:12** — Tardemah from the LORD causes Saul's camp to sleep deeply; God protects David
-- **Isaiah 29:10** — "For the LORD hath poured out upon you the spirit of deep sleep (tardemah)" — here used of spiritual stupor in judgment
+- [[01. Genesis/GEN_15_REBUILT|Genesis 15:12]] — Tardemah falls on Abraham during the covenant ratification: "And when the sun was going down, a deep sleep fell upon Abram; and, lo, an horror of great darkness fell upon him" — Abraham sleeps while God alone passes through the covenant sacrifice; man is passive, God is active
+- [[09. 1 Samuel/1_SAMUEL_26_REBUILT|1 Samuel 26:12]] — Tardemah from the LORD causes Saul's camp to sleep deeply; God protects David
+- [[23. Isaiah/ISAIAH_29_REBUILT|Isaiah 29:10]] — "For the LORD hath poured out upon you the spirit of deep sleep (tardemah)" — here used of spiritual stupor in judgment
   - *Interpretation:* Tardemah in Genesis 2:21 is the deep sleep in which the man is passive and God is active — from this sleep comes the greatest gift: the woman. The pattern runs through Abraham's sleep (passive while God establishes the covenant) to the type of Christ's death (passive in death while the Father works the resurrection and the church is born from His side). The greatest works of God are accomplished while man sleeps — while man is passive and surrendered. Striving cannot produce what surrender receives.
 
 ---
 
 ### Naked and Not Ashamed → Clothed by God — The Arc of Covering
 
-**Genesis 2:25** — "They were both naked, the man and his wife, and were not ashamed"  
-**Genesis 3:7** — They sew fig leaves  
-**Genesis 3:21** — God provides coats of skins
+[[01. Genesis/GEN_02_REBUILT|Genesis 2:25]] — "They were both naked, the man and his wife, and were not ashamed"  
+[[01. Genesis/GEN_03_REBUILT|Genesis 3:7]] — They sew fig leaves  
+[[01. Genesis/GEN_03_REBUILT|Genesis 3:21]] — God provides coats of skins
 
 **Thread through Scripture:**
-- **Isaiah 61:10** — "He hath clothed me with the garments of salvation, he hath covered me with the robe of righteousness" — spiritual clothing as the solution to Genesis 3 shame
-- **Zechariah 3:3-5** — Joshua the high priest in "filthy garments" (shame/sin) before God; God commands: "Take away the filthy garments from him... I will clothe thee with change of raiment" — the same pattern: shame removed, clean clothing provided by God
-- **Revelation 3:18** — Christ offers "white raiment, that thou mayest be clothed, and that the shame of thy nakedness do not appear"
-- **Revelation 19:7-8** — The bride of Christ arrayed in "fine linen, clean and white: for the fine linen is the righteousness of saints"
-- **Romans 13:14** — "Put ye on the Lord Jesus Christ" — being clothed with Christ as the answer to nakedness
+- [[23. Isaiah/ISAIAH_61_REBUILT|Isaiah 61:10]] — "He hath clothed me with the garments of salvation, he hath covered me with the robe of righteousness" — spiritual clothing as the solution to Genesis 3 shame
+- [[38. Zechariah/ZECHARIAH_03_REBUILT|Zechariah 3:3-5]] — Joshua the high priest in "filthy garments" (shame/sin) before God; God commands: "Take away the filthy garments from him... I will clothe thee with change of raiment" — the same pattern: shame removed, clean clothing provided by God
+- [[66. Revelation/REVELATION_03_REBUILT|Revelation 3:18]] — Christ offers "white raiment, that thou mayest be clothed, and that the shame of thy nakedness do not appear"
+- [[66. Revelation/REVELATION_19_REBUILT|Revelation 19:7-8]] — The bride of Christ arrayed in "fine linen, clean and white: for the fine linen is the righteousness of saints"
+- [[45. Romans/ROMANS_13_REBUILT|Romans 13:14]] — "Put ye on the Lord Jesus Christ" — being clothed with Christ as the answer to nakedness
   - *Interpretation:* The arc runs from Genesis 2:25 (innocent nakedness) → Genesis 3:7 (shameful nakedness, self-covered with fig leaves — man's inadequate attempt) → Genesis 3:21 (God covers them with skins — requiring death, a blood sacrifice) → Revelation 19:8 (the redeemed clothed in white, the righteousness of Christ). Man's coverings are always inadequate (fig leaves / self-righteousness). God's covering always involves blood (coats of skins / the cross). The arc of covering is the arc of redemption.
 
 ---

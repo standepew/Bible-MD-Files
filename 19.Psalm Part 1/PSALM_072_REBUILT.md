@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 72
+testament: "Old Testament"
+key_themes: "Messianic King, Righteous Judgment, Universal Dominion, Eternal Blessing"
+tags:
+  - messianic-king
+  - righteous-judgment
+  - universal-dominion
+  - eternal-blessing
+---
 # Psalm 72
 
 ---
@@ -117,7 +128,7 @@ Psalm, Solomon, Give, king, judgments, GOD, righteousness, king, son, judge, peo
 
 
 *AI Keywords for current event matching:*
-`blessed` `blessing` `bow` `break` `bring` `call` `children` `continued` `dominion` `dust` `dwell` `earth` `ends` `endure` `enemies` `eternal` `fear` `forever` `generations` `give` `god` `isles` `israel` `judge` `judgment` `judgments` `king` `kings` `lick` `lord` `men` `messianic` `moon` `name` `nations` `needy` `oppressor` `people` `pieces` `poor` `presents` `psalm` `righteous` `righteousness` `river` `save` `sea` `solomon` `son` `sun` `tarshish` `things` `universal` `wilderness` `wondrous`
+#blessed #blessing #bow #break #bring #call #children #continued #dominion #dust #dwell #earth #ends #endure #enemies #eternal #fear #forever #generations #give #god #isles #israel #judge #judgment #judgments #king #kings #lick #lord #men #messianic #moon #name #nations #needy #oppressor #people #pieces #poor #presents #psalm #righteous #righteousness #river #save #sea #solomon #son #sun #tarshish #things #universal #wilderness #wondrous
 
 
 ---

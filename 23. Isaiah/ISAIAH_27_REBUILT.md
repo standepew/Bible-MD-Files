@@ -1,3 +1,14 @@
+---
+book: "Isaiah"
+chapter: 27
+testament: "Old Testament"
+key_themes: "Christ's Victory, Leviathan's Defeat, Israel's Restoration, Divine Protection"
+tags:
+  - christ
+  - leviathan
+  - israel
+  - divine-protection
+---
 # Isaiah 27
 
 ---
@@ -105,7 +116,7 @@ Day, LORD, sore, great, strong, sword, punish, leviathan, piercing, serpent, lev
 
 
 *AI Keywords for current event matching:*
-`blossom` `bud` `children` `christs` `crooked` `day` `defeat` `divine` `dragon` `fill` `fruit` `fury` `gather` `great` `israel` `israels` `keep` `leviathan` `leviathans` `lord` `make` `moment` `night` `peace` `piercing` `protection` `punish` `restoration` `root` `sea` `serpent` `slay` `sore` `strong` `sword` `take` `trumpet` `victory` `water` `world` `worship`
+#blossom #bud #children #christs #crooked #day #defeat #divine #dragon #fill #fruit #fury #gather #great #israel #israels #keep #leviathan #leviathans #lord #make #moment #night #peace #piercing #protection #punish #restoration #root #sea #serpent #slay #sore #strong #sword #take #trumpet #victory #water #world #worship
 
 
 ---

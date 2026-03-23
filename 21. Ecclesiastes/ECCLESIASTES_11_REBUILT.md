@@ -1,3 +1,14 @@
+---
+book: "Ecclesiastes"
+chapter: 11
+testament: "Old Testament"
+key_themes: "Generosity and Investment, Divine Sovereignty, Human Limitations, Life and Light"
+tags:
+  - generosity-and-investment
+  - divine-sovereignty
+  - human-limitations
+  - life-and-light
+---
 # Ecclesiastes 11
 
 ---
@@ -153,7 +164,7 @@ Cast, bread, waters, find, days, Give, portion, seven, eight, knowest, evil, ear
 
 
 *AI Keywords for current event matching:*
-`behold` `bones` `bread` `cast` `clouds` `darkness` `days` `divine` `evil` `falleth` `full` `generosity` `give` `god` `human` `investment` `knowest` `life` `light` `limitations` `maketh` `morning` `observeth` `place` `portion` `rain` `remember` `seed` `seven` `sovereignty` `sow` `spirit` `sun` `sweet` `tree` `waters` `way` `wind` `works`
+#behold #bones #bread #cast #clouds #darkness #days #divine #evil #falleth #full #generosity #give #god #human #investment #knowest #life #light #limitations #maketh #morning #observeth #place #portion #rain #remember #seed #seven #sovereignty #sow #spirit #sun #sweet #tree #waters #way #wind #works
 
 
 ---

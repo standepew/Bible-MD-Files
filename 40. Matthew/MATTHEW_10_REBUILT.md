@@ -1,3 +1,14 @@
+---
+book: "Matthew"
+chapter: 10
+testament: "New Testament"
+key_themes: "Christ's Commission, Twelve Apostles, Persecution Promise, Divine Reward"
+tags:
+  - christ
+  - twelve-apostles
+  - persecution-promise
+  - divine-reward
+---
 # Matthew 10
 
 ---
@@ -165,7 +176,7 @@ Called, disciples, given, power, unclean, spirits, cast, heal, sickness, disease
 
 
 *AI Keywords for current event matching:*
-`andrew` `apostles` `brother` `christs` `commission` `confess` `councils` `cross` `deny` `disciples` `divine` `endure` `find` `forth` `given` `hated` `james` `john` `kingdom` `life` `lose` `men` `names` `persecution` `peter` `power` `preach` `promise` `reward` `saved` `scourge` `sent` `sheep` `simon` `take` `twelve` `wolves`
+#andrew #apostles #brother #christs #commission #confess #councils #cross #deny #disciples #divine #endure #find #forth #given #hated #james #john #kingdom #life #lose #men #names #persecution #peter #power #preach #promise #reward #saved #scourge #sent #sheep #simon #take #twelve #wolves
 
 
 ---

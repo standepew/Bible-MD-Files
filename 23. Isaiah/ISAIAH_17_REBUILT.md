@@ -1,3 +1,14 @@
+---
+book: "Isaiah"
+chapter: 17
+testament: "Old Testament"
+key_themes: "Divine Judgment, Christ's Glory, Spiritual Harvest, True Worship"
+tags:
+  - divine-judgment
+  - christ
+  - spiritual-harvest
+  - true-worship
+---
 # Isaiah 17
 
 ---
@@ -141,7 +152,7 @@ Burden, Damascus, Behold, Damascus, taken, city, ruinous, heap, cities, Aroer, f
 
 
 *AI Keywords for current event matching:*
-`altars` `berries` `burden` `christs` `damascus` `divine` `forgotten` `gathereth` `gleaning` `glory` `god` `grapes` `harvest` `harvestman` `heap` `holy` `images` `jacob` `judgment` `left` `look` `maker` `mindful` `olive` `one` `plant` `plants` `pleasant` `respect` `rock` `ruinous` `salvation` `slips` `spiritual` `strange` `strength` `thin` `tree` `true` `worship`
+#altars #berries #burden #christs #damascus #divine #forgotten #gathereth #gleaning #glory #god #grapes #harvest #harvestman #heap #holy #images #jacob #judgment #left #look #maker #mindful #olive #one #plant #plants #pleasant #respect #rock #ruinous #salvation #slips #spiritual #strange #strength #thin #tree #true #worship
 
 
 ---

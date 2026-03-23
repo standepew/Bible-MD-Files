@@ -1,3 +1,14 @@
+---
+book: "Amos"
+chapter: 6
+testament: "Old Testament"
+key_themes: "Christ's Judgment on Complacency, False Security, Divine Pride, Final Destruction"
+tags:
+  - christ
+  - false-security
+  - divine-pride
+  - final-destruction
+---
 # Amos 6
 
 ---
@@ -105,7 +116,7 @@ Woe, ease, Zion, trust, mountain, Samaria, named, chief, nations, house, Israel,
 
 
 *AI Keywords for current event matching:*
-`afflict` `beds` `bowls` `chief` `christs` `clefts` `complacency` `couches` `day` `destruction` `divine` `drink` `ease` `eat` `entering` `evil` `excellency` `false` `final` `great` `horns` `house` `ivory` `jacob` `judgment` `lambs` `little` `mountain` `named` `nation` `nations` `nought` `pride` `put` `raise` `rejoice` `seat` `security` `smite` `stretch` `taken` `thing` `trust` `violence` `wine` `woe`
+#afflict #beds #bowls #chief #christs #clefts #complacency #couches #day #destruction #divine #drink #ease #eat #entering #evil #excellency #false #final #great #horns #house #ivory #jacob #judgment #lambs #little #mountain #named #nation #nations #nought #pride #put #raise #rejoice #seat #security #smite #stretch #taken #thing #trust #violence #wine #woe
 
 
 ---

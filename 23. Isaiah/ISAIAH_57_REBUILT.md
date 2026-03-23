@@ -1,3 +1,13 @@
+---
+book: "Isaiah"
+chapter: 57
+testament: "Old Testament"
+key_themes: "Christ's Righteousness, Spiritual Idolatry, Divine Healing, Christ's Peace"
+tags:
+  - christ
+  - spiritual-idolatry
+  - divine-healing
+---
 # Isaiah 57
 
 ---
@@ -105,7 +115,7 @@ Righteous, perisheth, man, heart, merciful, men, taken, considering, righteous, 
 
 
 *AI Keywords for current event matching:*
-`adulterer` `beds` `children` `christs` `create` `declare` `divine` `enflaming` `enter` `far` `fruit` `heal` `healing` `humble` `idolatry` `idols` `lead` `lips` `men` `merciful` `near` `peace` `perisheth` `rest` `restore` `revive` `righteous` `righteousness` `sea` `seed` `slaying` `sons` `sorceress` `spirit` `spiritual` `taken` `troubled` `uprightness` `walking` `whore` `wicked`
+#adulterer #beds #children #christs #create #declare #divine #enflaming #enter #far #fruit #heal #healing #humble #idolatry #idols #lead #lips #men #merciful #near #peace #perisheth #rest #restore #revive #righteous #righteousness #sea #seed #slaying #sons #sorceress #spirit #spiritual #taken #troubled #uprightness #walking #whore #wicked
 
 
 ---

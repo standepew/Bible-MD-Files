@@ -1,3 +1,14 @@
+---
+book: "Ecclesiastes"
+chapter: 8
+testament: "Old Testament"
+key_themes: "Wisdom and Authority, Divine Timing, Human Mortality, Justice and Mercy"
+tags:
+  - wisdom-and-authority
+  - divine-timing
+  - human-mortality
+  - justice-and-mercy
+---
 # Ecclesiastes 8
 
 ---
@@ -141,7 +152,7 @@ Wise, man, interpretation, thing, man, wisdom, maketh, face, shine, boldness, fa
 
 
 *AI Keywords for current event matching:*
-`authority` `commandment` `day` `death` `discharge` `divine` `every` `evil` `executed` `fear` `find` `god` `human` `interpretation` `judgment` `justice` `keep` `king` `labour` `man` `mercy` `mortality` `power` `purpose` `retain` `seek` `sentence` `sinner` `spirit` `time` `timing` `well` `wisdom` `wise` `word` `work`
+#authority #commandment #day #death #discharge #divine #every #evil #executed #fear #find #god #human #interpretation #judgment #justice #keep #king #labour #man #mercy #mortality #power #purpose #retain #seek #sentence #sinner #spirit #time #timing #well #wisdom #wise #word #work
 
 
 ---

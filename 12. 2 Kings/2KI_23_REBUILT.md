@@ -1,3 +1,16 @@
+---
+book: "2 Kings"
+chapter: 23
+testament: "Old Testament"
+key_themes: "Josiah's Covenant, Temple Cleansing, Passover Celebration, Idolatry Destruction, Josiah's Death, Babylonian Influence"
+tags:
+  - evil-sight-LORD-fathers
+  - josiah
+  - temple-cleansing
+  - passover-celebration
+  - idolatry-destruction
+  - babylonian-influence
+---
 # 2 Kings 23
 
 ---
@@ -87,7 +100,7 @@ King sent, elders Judah, Jerusalem. King, house LORD, men Judah, inhabitants Jer
 
 
 *AI Keywords for current event matching:*
-`abomination` `abominations` `acts` `ahaz` `alone` `altar` `altars` `ammon` `anger` `anointed` `arise` `ashes` `ashtoreth` `assyria` `baal` `babylonian` `bands` `beat` `beer-sheba` `beth-el` `bones` `book` `brake` `bread` `brethren` `brook` `built` `burn` `burned` `cast` `celebration` `chamber` `chamberlain` `chariot` `chariots` `chemosh` `children` `chosen` `chronicles` `cities` `city` `cleansing` `commanded` `commandment` `commandments` `corruption` `covenant` `cut` `daughter` `days` `dead` `death` `defiled` `destruction` `died` `door` `dust` `ears` `egypt` `eighteenth` `elders` `eleven` `eliakim` `entering` `euphrates` `evil` `exacted` `familiar` `father` `fathers` `fields` `fierceness` `filled` `fire` `found` `gate` `gates` `geba` `god` `gold` `governor` `graves` `great` `grove` `groves` `hamath` `hamutal` `hand` `hangings` `heart` `heaven` `high` `hilkiah` `hinnom` `holden` `horses` `host` `house` `houses` `hundred` `idolatrous` `idolatry` `idols` `images` `incense` `influence` `inhabitants` `israel` `jehoahaz` `jehoiakim` `jeremiah` `jeroboam` `jerusalem` `joshua` `josiah` `josiahs` `judah` `judgess` `keep` `keepers` `kidron` `kindled` `king` `kings` `land` `law` `left` `libnah` `like` `lord` `man` `manasseh` `megiddo` `men` `milcom` `moabites` `molech` `money` `months` `moon` `moses` `mother` `mount` `name` `nathan-melech` `nebat` `ordained` `order` `passover` `pedaiah` `people` `perform` `pharaoh` `pharaoh-nechoh` `pieces` `pillar` `place` `places` `planets` `polluted` `powder` `priest` `priests` `proclaimed` `prophet` `prophets` `provocations` `provoke` `provoked` `reign` `reigned` `remove` `returned` `riblah` `right` `river` `room` `rumah` `samaria` `second` `seen` `sent` `sepulchres` `sepulture` `servants` `sight` `silver` `sin` `slew` `small` `sodomites` `solomon` `son` `soul` `spied` `spirits` `stamped` `statutes` `stead` `suburbs` `sun` `talent` `talents` `taxation` `taxed` `temple` `testimonies` `things` `three` `title` `top` `topheth` `tribute` `turned` `twenty-five` `twenty-three` `unleavened` `upper` `valley` `vessels` `walk` `wizards` `women` `word` `words` `workers` `wrath` `year` `years` `zebudah` `zidonians`
+#abomination #abominations #acts #ahaz #alone #altar #altars #ammon #anger #anointed #arise #ashes #ashtoreth #assyria #baal #babylonian #bands #beat #beer-sheba #beth-el #bones #book #brake #bread #brethren #brook #built #burn #burned #cast #celebration #chamber #chamberlain #chariot #chariots #chemosh #children #chosen #chronicles #cities #city #cleansing #commanded #commandment #commandments #corruption #covenant #cut #daughter #days #dead #death #defiled #destruction #died #door #dust #ears #egypt #eighteenth #elders #eleven #eliakim #entering #euphrates #evil #exacted #familiar #father #fathers #fields #fierceness #filled #fire #found #gate #gates #geba #god #gold #governor #graves #great #grove #groves #hamath #hamutal #hand #hangings #heart #heaven #high #hilkiah #hinnom #holden #horses #host #house #houses #hundred #idolatrous #idolatry #idols #images #incense #influence #inhabitants #israel #jehoahaz #jehoiakim #jeremiah #jeroboam #jerusalem #joshua #josiah #josiahs #judah #judgess #keep #keepers #kidron #kindled #king #kings #land #law #left #libnah #like #lord #man #manasseh #megiddo #men #milcom #moabites #molech #money #months #moon #moses #mother #mount #name #nathan-melech #nebat #ordained #order #passover #pedaiah #people #perform #pharaoh #pharaoh-nechoh #pieces #pillar #place #places #planets #polluted #powder #priest #priests #proclaimed #prophet #prophets #provocations #provoke #provoked #reign #reigned #remove #returned #riblah #right #river #room #rumah #samaria #second #seen #sent #sepulchres #sepulture #servants #sight #silver #sin #slew #small #sodomites #solomon #son #soul #spied #spirits #stamped #statutes #stead #suburbs #sun #talent #talents #taxation #taxed #temple #testimonies #things #three #title #top #topheth #tribute #turned #twenty-five #twenty-three #unleavened #upper #valley #vessels #walk #wizards #women #word #words #workers #wrath #year #years #zebudah #zidonians
 
 
 ---

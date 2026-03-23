@@ -1,3 +1,14 @@
+---
+book: "Hebrews"
+chapter: 8
+testament: "New Testament"
+key_themes: "Christ's Heavenly Ministry, The True Tabernacle, A Better Covenant, The New Covenant Promises"
+tags:
+  - christ
+  - the-true-tabernacle
+  - a-better-covenant
+  - the-new-covenant-promises
+---
 # Hebrews 8
 
 ---
@@ -93,7 +104,7 @@ Sum, high, priest, set, right, hand, throne, Majesty, heavens, minister, sanctua
 
 
 *AI Keywords for current event matching:*
-`admonished` `better` `brother` `christs` `continued` `covenant` `day` `days` `decayeth` `earth` `egypt` `established` `example` `excellent` `fathers` `fault` `faultless` `finding` `first` `gifts` `god` `greatest` `hand` `hearts` `heavenly` `heavens` `high` `house` `iniquities` `israel` `judah` `know` `land` `law` `laws` `lead` `least` `lord` `majesty` `make` `man` `mediator` `merciful` `mind` `minister` `ministry` `moses` `mount` `necessity` `neighbour` `new` `offer` `old` `ordained` `pattern` `people` `pitched` `place` `priest` `priests` `promises` `put` `ready` `regarded` `remember` `right` `sacrifices` `sanctuary` `second` `serve` `set` `shadow` `shewed` `sins` `sought` `sum` `tabernacle` `teach` `things` `throne` `true` `unrighteousness` `vanish` `waxeth` `write`
+#admonished #better #brother #christs #continued #covenant #day #days #decayeth #earth #egypt #established #example #excellent #fathers #fault #faultless #finding #first #gifts #god #greatest #hand #hearts #heavenly #heavens #high #house #iniquities #israel #judah #know #land #law #laws #lead #least #lord #majesty #make #man #mediator #merciful #mind #minister #ministry #moses #mount #necessity #neighbour #new #offer #old #ordained #pattern #people #pitched #place #priest #priests #promises #put #ready #regarded #remember #right #sacrifices #sanctuary #second #serve #set #shadow #shewed #sins #sought #sum #tabernacle #teach #things #throne #true #unrighteousness #vanish #waxeth #write
 
 
 ---

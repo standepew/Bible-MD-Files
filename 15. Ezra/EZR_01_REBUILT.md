@@ -1,3 +1,14 @@
+---
+book: "Ezra"
+chapter: 1
+testament: "Old Testament"
+key_themes: "Cyrus Decree, Divine Sovereignty, Temple Restoration, Return from Exile"
+tags:
+  - cyrus-decree
+  - divine-sovereignty
+  - temple-restoration
+  - return-from-exile
+---
 # Ezra 1
 
 ---
@@ -117,7 +128,7 @@ First, year, Cyrus, king, Persia, word, LORD, mouth, Jeremiah, fulfilled, LORD, 
 
 
 *AI Keywords for current event matching:*
-`babylon` `basons` `beasts` `benjamin` `brought` `build` `captivity` `charged` `chargers` `chief` `cyrus` `divine` `earth` `exile` `fathers` `first` `five` `four` `freewill` `fulfilled` `fulfillment` `given` `god` `gods` `gold` `goods` `hand` `hands` `heaven` `house` `hundred` `israel` `jeremiah` `jerusalem` `judah` `king` `kingdom` `kingdoms` `knives` `levites` `lord` `men` `mithredath` `mouth` `nebuchadnezzar` `nine` `number` `numbered` `offered` `offering` `people` `persia` `place` `precious` `priests` `prince` `proclamation` `prophetic` `raised` `remain` `restoration` `return` `rose` `saying` `sheshbazzar` `silver` `sojourn` `sovereignty` `spirit` `stirred` `strengthened` `temple` `ten` `things` `thirty` `thousand` `treasurer` `twenty` `vessels` `willingly` `word` `writing` `year`
+#babylon #basons #beasts #benjamin #brought #build #captivity #charged #chargers #chief #cyrus #divine #earth #exile #fathers #first #five #four #freewill #fulfilled #fulfillment #given #god #gods #gold #goods #hand #hands #heaven #house #hundred #israel #jeremiah #jerusalem #judah #king #kingdom #kingdoms #knives #levites #lord #men #mithredath #mouth #nebuchadnezzar #nine #number #numbered #offered #offering #people #persia #place #precious #priests #prince #proclamation #prophetic #raised #remain #restoration #return #rose #saying #sheshbazzar #silver #sojourn #sovereignty #spirit #stirred #strengthened #temple #ten #things #thirty #thousand #treasurer #twenty #vessels #willingly #word #writing #year
 
 
 ---

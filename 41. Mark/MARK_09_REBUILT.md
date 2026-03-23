@@ -1,3 +1,14 @@
+---
+book: "Mark"
+chapter: 9
+testament: "New Testament"
+key_themes: "Christ's Transfiguration, Healing of Demon-possessed Boy, Teaching on Greatness, Warning Against Sin"
+tags:
+  - christ
+  - healing-of-demonpossessed-boy
+  - teaching-on-greatness
+  - warning-against-sin
+---
 # Mark 9
 
 ---
@@ -213,7 +224,7 @@ Verily, stand, taste, death, kingdom, power, six, days, Jesus, Peter, James, Joh
 
 
 *AI Keywords for current event matching:*
-`against` `believe` `beloved` `boy` `children` `christs` `cut` `deaf` `demon-possessed` `die` `dumb` `elias` `fasting` `fire` `forbid` `greatness` `healing` `kingdom` `moses` `offend` `one` `peace` `power` `prayer` `quenched` `receive` `salt` `salted` `servant` `sin` `son` `spirit` `teaching` `transfiguration` `transfigured` `unbelief` `warning` `white` `worm`
+#against #believe #beloved #boy #children #christs #cut #deaf #demon-possessed #die #dumb #elias #fasting #fire #forbid #greatness #healing #kingdom #moses #offend #one #peace #power #prayer #quenched #receive #salt #salted #servant #sin #son #spirit #teaching #transfiguration #transfigured #unbelief #warning #white #worm
 
 
 ---

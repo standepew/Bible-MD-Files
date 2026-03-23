@@ -1,3 +1,14 @@
+---
+book: "Hebrews"
+chapter: 3
+testament: "New Testament"
+key_themes: "Christ Superior to Moses, Warning Against Unbelief, The Rest of God, Holding Fast Confidence"
+tags:
+  - christ-superior-to-moses
+  - warning-against-unbelief
+  - the-rest-of-god
+  - holding-fast-confidence
+---
 # Hebrews 3
 
 ---
@@ -93,7 +104,7 @@ Holy, brethren, partakers, heavenly, calling, consider, Apostle, High, Priest, p
 
 
 *AI Keywords for current event matching:*
-`against` `alway` `apostle` `appointed` `beginning` `believed` `brethren` `builded` `built` `called` `calling` `came` `carcases` `christ` `confidence` `consider` `counted` `daily` `day` `deceitfulness` `departing` `egypt` `end` `enter` `err` `evil` `exhort` `faithful` `fast` `fathers` `fell` `firm` `forty` `generation` `ghost` `glory` `god` `grieved` `harden` `hardened` `hear` `heard` `heart` `hearts` `heavenly` `heed` `high` `hold` `holding` `holy` `honour` `hope` `house` `jesus` `known` `living` `man` `moses` `partakers` `priest` `profession` `proved` `provocation` `provoke` `rejoicing` `rest` `servant` `sin` `sinned` `son` `spoken` `stedfast` `superior` `sware` `take` `temptation` `tempted` `testimony` `things` `unbelief` `voice` `warning` `ways` `wilderness` `works` `worthy` `wrath` `years`
+#against #alway #apostle #appointed #beginning #believed #brethren #builded #built #called #calling #came #carcases #christ #confidence #consider #counted #daily #day #deceitfulness #departing #egypt #end #enter #err #evil #exhort #faithful #fast #fathers #fell #firm #forty #generation #ghost #glory #god #grieved #harden #hardened #hear #heard #heart #hearts #heavenly #heed #high #hold #holding #holy #honour #hope #house #jesus #known #living #man #moses #partakers #priest #profession #proved #provocation #provoke #rejoicing #rest #servant #sin #sinned #son #spoken #stedfast #superior #sware #take #temptation #tempted #testimony #things #unbelief #voice #warning #ways #wilderness #works #worthy #wrath #years
 
 
 ---

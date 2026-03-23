@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 88
+testament: "Old Testament"
+key_themes: "Deep Suffering, Spiritual Darkness, Divine Silence, Cry for Help"
+tags:
+  - deep-suffering
+  - spiritual-darkness
+  - divine-silence
+  - cry-for-help
+---
 # Psalm 88
 
 ---
@@ -153,7 +164,7 @@ Song, Psalm, sons, Korah, chief, Musician, Mahalath, Leannoth, Maschil, Heman, E
 
 
 *AI Keywords for current event matching:*
-`afflicted` `called` `cast` `chief` `come` `counted` `cried` `cry` `daily` `dark` `darkness` `day` `deep` `deeps` `divine` `ear` `ezrahite` `face` `forgetfulness` `god` `grave` `hands` `hard` `help` `heman` `hidest` `incline` `korah` `land` `leannoth` `lieth` `life` `lord` `lowest` `mahalath` `man` `maschil` `morning` `musician` `nigh` `night` `pit` `prayer` `prevent` `psalm` `righteousness` `salvation` `silence` `song` `sons` `soul` `spiritual` `strength` `stretched` `suffering` `troubles` `waves` `wonders` `wrath`
+#afflicted #called #cast #chief #come #counted #cried #cry #daily #dark #darkness #day #deep #deeps #divine #ear #ezrahite #face #forgetfulness #god #grave #hands #hard #help #heman #hidest #incline #korah #land #leannoth #lieth #life #lord #lowest #mahalath #man #maschil #morning #musician #nigh #night #pit #prayer #prevent #psalm #righteousness #salvation #silence #song #sons #soul #spiritual #strength #stretched #suffering #troubles #waves #wonders #wrath
 
 
 ---

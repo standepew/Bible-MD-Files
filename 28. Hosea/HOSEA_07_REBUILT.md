@@ -1,3 +1,13 @@
+---
+book: "Hosea"
+chapter: 7
+testament: "Old Testament"
+key_themes: "Christ's Healing Rejected, Spiritual Adultery, Divine Deception, Christ's Net"
+tags:
+  - christ
+  - spiritual-adultery
+  - divine-deception
+---
 # Hosea 7
 
 ---
@@ -93,7 +103,7 @@ Healed, Israel, iniquity, Ephraim, discovered, wickedness, Samaria, commit, fals
 
 
 *AI Keywords for current event matching:*
-`adulterers` `adultery` `bring` `cake` `chastise` `christs` `commit` `consider` `deception` `discovered` `divine` `dove` `down` `falsehood` `fowls` `glad` `healed` `healing` `hearts` `heated` `heaven` `iniquity` `king` `lies` `make` `net` `oven` `princes` `rejected` `samaria` `silly` `spiritual` `spread` `turned` `wickedness`
+#adulterers #adultery #bring #cake #chastise #christs #commit #consider #deception #discovered #divine #dove #down #falsehood #fowls #glad #healed #healing #hearts #heated #heaven #iniquity #king #lies #make #net #oven #princes #rejected #samaria #silly #spiritual #spread #turned #wickedness
 
 
 ---

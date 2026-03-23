@@ -1,3 +1,27 @@
+---
+book: "Leviticus"
+chapter: 9
+testament: "Old Testament"
+key_themes: "The eighth day — the first day of priestly ministry after the seven days of consecration, Aaron officiates for the first time — first for himself, then for the people, "For to day the LORD will appear unto you" — the promised theophany as the goal of the entire sacrificial system, The fire from the LORD consuming the offering — divine acceptance made visible, The people shout and fall on their faces — the right response to the manifest glory of God"
+tags:
+  - eighth-day
+  - Aaron-officiates
+  - first-priestly-ministry
+  - sin-offering-for-Aaron
+  - ram-for-burnt-offering
+  - peoples-offerings
+  - all-five-offerings-presented
+  - glory-of-the-LORD
+  - fire-from-the-LORD
+  - fire-consumes-offering
+  - people-shout
+  - fell-on-their-faces
+  - Aaron-blesses-people
+  - Moses-and-Aaron-enter-tabernacle
+  - divine-acceptance
+  - theophany
+  - for-today-the-LORD-will-appear
+---
 # Leviticus 9
 
 ---
@@ -91,7 +115,7 @@ The eighth day after the seven days of consecration. Moses calls Aaron, his sons
 
 
 *AI Keywords for current event matching:*
-`211-12` `colossians` `creation` `current` `day` `eighth` `events` `john` `leviticus` `matching` `new` `resurrection`
+#211-12 #colossians #creation #current #day #eighth #events #john #leviticus #matching #new #resurrection
 
 
 ---

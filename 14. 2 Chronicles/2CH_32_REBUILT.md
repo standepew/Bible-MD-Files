@@ -1,3 +1,15 @@
+---
+book: "2 Chronicles"
+chapter: 32
+testament: "Old Testament"
+key_themes: "Assyrian Invasion, Divine Deliverance, Faith in Crisis, Pride and Humility"
+tags:
+  - Hezekiah-Sennacherib-purposed-fight-Jerusalem
+  - assyrian-invasion
+  - divine-deliverance
+  - faith-in-crisis
+  - pride-and-humility
+---
 # 2 Chronicles 32
 
 ---
@@ -167,7 +179,7 @@ Sennacherib, king, Assyria, Judah, encamped, fenced, cities, win. Hezekiah, Senn
 
 
 *AI Keywords for current event matching:*
-`abundance` `acts` `affright` `afraid` `altar` `altars` `ambassadors` `amoz` `angel` `arm` `assyria` `assyrian` `babylon` `battles` `beasts` `benefit` `book` `bowels` `broken` `brook` `buried` `burn` `camp` `captains` `chiefest` `cities` `city` `comfortably` `commanded` `corn` `cotes` `counsel` `courageous` `cried` `crisis` `cut` `darts` `david` `days` `death` `deceive` `deliver` `deliverance` `destroyed` `die` `dismayed` `divine` `earth` `encamped` `enquire` `face` `faith` `famine` `fathers` `fenced` `fight` `flesh` `flocks` `fountains` `gate` `gathered` `gifts` `gihon` `god` `gods` `gold` `goodness` `guided` `hand` `hands` `heart` `heaven` `help` `helped` `herds` `hezekiah` `high` `honour` `house` `humbled` `humility` `incense` `increase` `inhabitants` `invasion` `isaiah` `israel` `jerusalem` `jewels` `jews` `judah` `king` `kingdom` `kings` `lachish` `land` `lands` `leaders` `left` `letters` `lifted` `lord` `loud` `magnified` `man` `manasseh` `men` `midst` `mighty` `millo` `multitude` `nation` `nations` `oil` `people` `persuade` `places` `pleasant` `possessions` `power` `prayed` `precious` `presents` `pride` `princes` `prophet` `prospered` `provided` `purposed` `rail` `reigned` `rendered` `rested` `returned` `riches` `royal` `saved` `sennacherib` `sent` `sepulchres` `servant` `servants` `shame` `shields` `sick` `side` `siege` `sight` `sign` `silver` `slept` `slew` `son` `sons` `spake` `speak` `speech` `spices` `spoke` `stalls` `stead` `stones` `stop` `stopped` `storehouses` `street` `strengthened` `strong` `substance` `summary` `sword` `taken` `thirst` `towers` `treasuries` `trouble` `trust` `try` `upper` `valour` `vision` `voice` `wall` `war` `water` `watercourse` `waters` `west` `win` `wine` `wonder` `words` `work` `works` `worship` `wrath`
+#abundance #acts #affright #afraid #altar #altars #ambassadors #amoz #angel #arm #assyria #assyrian #babylon #battles #beasts #benefit #book #bowels #broken #brook #buried #burn #camp #captains #chiefest #cities #city #comfortably #commanded #corn #cotes #counsel #courageous #cried #crisis #cut #darts #david #days #death #deceive #deliver #deliverance #destroyed #die #dismayed #divine #earth #encamped #enquire #face #faith #famine #fathers #fenced #fight #flesh #flocks #fountains #gate #gathered #gifts #gihon #god #gods #gold #goodness #guided #hand #hands #heart #heaven #help #helped #herds #hezekiah #high #honour #house #humbled #humility #incense #increase #inhabitants #invasion #isaiah #israel #jerusalem #jewels #jews #judah #king #kingdom #kings #lachish #land #lands #leaders #left #letters #lifted #lord #loud #magnified #man #manasseh #men #midst #mighty #millo #multitude #nation #nations #oil #people #persuade #places #pleasant #possessions #power #prayed #precious #presents #pride #princes #prophet #prospered #provided #purposed #rail #reigned #rendered #rested #returned #riches #royal #saved #sennacherib #sent #sepulchres #servant #servants #shame #shields #sick #side #siege #sight #sign #silver #slept #slew #son #sons #spake #speak #speech #spices #spoke #stalls #stead #stones #stop #stopped #storehouses #street #strengthened #strong #substance #summary #sword #taken #thirst #towers #treasuries #trouble #trust #try #upper #valour #vision #voice #wall #war #water #watercourse #waters #west #win #wine #wonder #words #work #works #worship #wrath
 
 
 ---

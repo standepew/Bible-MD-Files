@@ -1,3 +1,66 @@
+---
+book: "Genesis"
+chapter: 28
+testament: "Old Testament"
+key_themes: "Isaac Formally Transfers the Abrahamic Covenant to Jacob — "The Blessing of Abraham" Named and Pronounced, "El Shaddai" — The Patriarchal Covenant Name Invoked at the Transmission, Esau's Corrective-Without-Repentance Marriage — Taking Ishmael's Daughter as a Third Wife and Still Missing the Point, Jacob's Departure — Beer-Sheba to Haran — Empty-Handed with a Stone for a Pillow, "A Certain Place" at Sunset — The Wilderness as the Site of Theophany, Jacob's Dream — The Ladder Set on Earth Reaching to Heaven — Angels Ascending and Descending, God Stands Above the Ladder and Speaks the Covenant, "I Will Not Leave Thee Until I Have Done That Which I Have Spoken" — The Unconditional Covenant Promise, Jacob Wakes — "Surely the LORD Is in This Place; and I Knew It Not", "How Dreadful Is This Place" — Holy Fear as the Appropriate Response to the Divine Presence, "This Is None Other But the House of God, and This Is the Gate of Heaven" — Bethel as the Point of Heaven-Earth Contact, The Stone Pillar and the Anointing Oil — The First Covenant Memorial, Bethel — The Renaming of Luz — House of God, Jacob's Vow — "If God Will Be With Me... Then Shall the LORD Be My God" — Covenant Response to Covenant Promise, The Tithe Vowed Before the Law — Jacob's Tenth"
+tags:
+  - Isaac-blesses-Jacob
+  - Abrahamic-blessing-formally-transferred
+  - El-Shaddai
+  - Genesis-17-1
+  - Exodus-6-3
+  - covenant-name-of-fruitfulness
+  - Esau-Mahalath-Ishmael-daughter
+  - corrective-without-repentance
+  - Hebrews-12-16
+  - Jacob-departs-Beer-Sheba
+  - Beer-Sheba-to-Haran
+  - stone-for-pillow
+  - wilderness-theophany
+  - Jacobs-dream
+  - sullam-ladder
+  - salal-to-lift-up
+  - John-1-51-Jesus-interprets-ladder
+  - angels-ascending-descending
+  - Son-of-man
+  - mediator
+  - 1-Timothy-2-5
+  - John-14-6
+  - LORD-stands-above
+  - covenant-to-Jacob-land-seed-nations
+  - seed-as-dust-of-earth
+  - spread-west-east-north-south
+  - all-families-blessed-in-thee
+  - I-am-with-thee
+  - I-will-not-leave-thee
+  - Deuteronomy-31-6
+  - Joshua-1-5
+  - Hebrews-13-5
+  - Matthew-28-20
+  - Jacob-wakes-afraid
+  - surely-LORD-is-in-this-place
+  - I-knew-it-not
+  - holy-fear-yirah
+  - how-dreadful
+  - house-of-God
+  - gate-of-heaven
+  - Beit-El
+  - Bethel
+  - Luz-almond-shaqed-shoqed
+  - Jeremiah-1-11-12
+  - stone-pillar-matstsebah
+  - oil-anointing
+  - Messiah-Anointed-One
+  - Psalm-118-22
+  - 1-Peter-2-6-7
+  - chief-cornerstone
+  - tithe-ma-aser
+  - tithe-before-the-law
+  - Genesis-14-20
+  - Hebrews-7-4-9
+  - Jacob-vow
+  - covenant-response
+---
 # Genesis 28
 
 ---
@@ -170,7 +233,7 @@ Jacob woke. He was afraid. He said: "Surely the LORD is in this place; and I kne
 
 For AI matching to topics and current events:
 
-`Isaac formally transfers Abrahamic blessing to Jacob` `the blessing of Abraham named` `Genesis 28:3-4 El Shaddai` `Galatians 3:14 blessing of Abraham on Gentiles` `Galatians 3:29 heirs according to promise` `El Shaddai covenant name` `impossible fruitfulness` `Genesis 17:1 first El Shaddai` `Exodus 6:3 patriarchal name` `Revelation 1:8 Pantokrator` `Esau Mahalath Ishmael's daughter` `corrective without repentance` `Hebrews 12:16 profane person` `surface adjustment without heart transformation` `Jacob departs Beer-Sheba Haran` `stone for pillow wilderness` `sullam ladder one Hebrew occurrence` `salal to lift up highway` `John 1:51 Jesus interprets ladder` `Son of man` `angels ascending descending` `one mediator 1 Timothy 2:5` `I am the way John 14:6` `heaven opened John 1:51` `Hebrews 1:14 ministering spirits` `LORD stood above covenant` `all families of earth blessed` `Acts 3:25 kindreds families` `I will not leave thee` `Deuteronomy 31:6 will not forsake` `Joshua 1:5` `Hebrews 13:5 never leave thee` `Matthew 28:20 I am with you alway` `surely LORD is in this place` `I knew it not` `Psalm 139:7-10 whither shall I flee` `Exodus 3:5 holy ground` `holy fear yir'ah` `how dreadful nora` `Proverbs 1:7 fear of LORD beginning of wisdom` `Isaiah 6:5 woe is me undone` `Revelation 1:17 fell at his feet` `stone pillar matstsebah anointed` `Messiah Christ anointed one` `shemen oil` `Psalm 118:22 cornerstone` `Matthew 21:42` `1 Peter 2:4-6 living stone` `1 Peter 2:5 spiritual house` `gate of heaven sha'ar hashamayim` `John 1:51 heaven open` `Revelation 4:1 door opened in heaven` `Malachi 3:10 windows of heaven` `Bethel beit-El house of God` `Luz almond` `Jeremiah 1:11-12 shaqed shoqed` `then shall LORD be my God covenant declaration` `tithe ma'aser before the law` `Genesis 14:20 Abraham Melchizedek tithe` `Hebrews 7:4-9` `Malachi 3:10` `covenant response not commercial bargain`
+#Isaac-formally-transfers-Abrahamic-blessing-to-Jacob #the-blessing-of-Abraham-named #Genesis-283-4-El-Shaddai #Galatians-314-blessing-of-Abraham-on-Gentiles #Galatians-329-heirs-according-to-promise #El-Shaddai-covenant-name #impossible-fruitfulness #Genesis-171-first-El-Shaddai #Exodus-63-patriarchal-name #Revelation-18-Pantokrator #Esau-Mahalath-Ishmaels-daughter #corrective-without-repentance #Hebrews-1216-profane-person #surface-adjustment-without-heart-transformation #Jacob-departs-Beer-Sheba-Haran #stone-for-pillow-wilderness #sullam-ladder-one-Hebrew-occurrence #salal-to-lift-up-highway #John-151-Jesus-interprets-ladder #Son-of-man #angels-ascending-descending #one-mediator-1-Timothy-25 #I-am-the-way-John-146 #heaven-opened-John-151 #Hebrews-114-ministering-spirits #LORD-stood-above-covenant #all-families-of-earth-blessed #Acts-325-kindreds-families #I-will-not-leave-thee #Deuteronomy-316-will-not-forsake #Joshua-15 #Hebrews-135-never-leave-thee #Matthew-2820-I-am-with-you-alway #surely-LORD-is-in-this-place #I-knew-it-not #Psalm-1397-10-whither-shall-I-flee #Exodus-35-holy-ground #holy-fear-yirah #how-dreadful-nora #Proverbs-17-fear-of-LORD-beginning-of-wisdom #Isaiah-65-woe-is-me-undone #Revelation-117-fell-at-his-feet #stone-pillar-matstsebah-anointed #Messiah-Christ-anointed-one #shemen-oil #Psalm-11822-cornerstone #Matthew-2142 #1-Peter-24-6-living-stone #1-Peter-25-spiritual-house #gate-of-heaven-shaar-hashamayim #John-151-heaven-open #Revelation-41-door-opened-in-heaven #Malachi-310-windows-of-heaven #Bethel-beit-El-house-of-God #Luz-almond #Jeremiah-111-12-shaqed-shoqed #then-shall-LORD-be-my-God-covenant-declaration #tithe-maaser-before-the-law #Genesis-1420-Abraham-Melchizedek-tithe #Hebrews-74-9 #Malachi-310 #covenant-response-not-commercial-bargain
 
 **Relevance to Current Events:**
 - God in the wilderness — the discovery that divine presence is not confined to sacred institutions; applicable in pastoral care for those displaced, in exile, or in the "wilderness" of consequences from past failure

@@ -1,3 +1,13 @@
+---
+book: "Isaiah"
+chapter: 19
+testament: "Old Testament"
+key_themes: "Christ's Judgment, Egypt's Fall, Spiritual Transformation, Christ's Healing"
+tags:
+  - christ
+  - egypt
+  - spiritual-transformation
+---
 # Isaiah 19
 
 ---
@@ -129,7 +139,7 @@ Burden, Egypt, Behold, LORD, rideth, swift, cloud, come, Egypt, idols, Egypt, mo
 
 
 *AI Keywords for current event matching:*
-`altar` `assyria` `border` `burden` `christs` `cruel` `egypt` `egypts` `fail` `fall` `fierce` `fishers` `heal` `healing` `heart` `highway` `idols` `intreated` `judgment` `king` `known` `lord` `melt` `mourn` `moved` `pillar` `reeds` `return` `sign` `smite` `spirit` `spiritual` `transformation` `waters` `wither` `witness`
+#altar #assyria #border #burden #christs #cruel #egypt #egypts #fail #fall #fierce #fishers #heal #healing #heart #highway #idols #intreated #judgment #king #known #lord #melt #mourn #moved #pillar #reeds #return #sign #smite #spirit #spiritual #transformation #waters #wither #witness
 
 
 ---

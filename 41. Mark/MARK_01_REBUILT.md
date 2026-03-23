@@ -1,3 +1,14 @@
+---
+book: "Mark"
+chapter: 1
+testament: "New Testament"
+key_themes: "Christ's Ministry Begins, John the Baptist, Jesus' Baptism, Early Miracles"
+tags:
+  - christ
+  - john-the-baptist
+  - jesus
+  - early-miracles
+---
 # Mark 1
 
 ---
@@ -201,7 +212,7 @@ Beginning, gospel, Jesus, Christ, Son, God, written, prophets, messenger, face, 
 
 
 *AI Keywords for current event matching:*
-`authority` `baptism` `baptist` `beginning` `begins` `beloved` `christs` `compassion` `crying` `dove` `driveth` `early` `face` `fishers` `fulfilled` `god` `gospel` `hand` `heavens` `holy` `jesus` `john` `kingdom` `men` `messenger` `ministry` `miracles` `moved` `one` `opened` `paths` `repentance` `scribes` `son` `spirit` `straight` `time` `wilderness`
+#authority #baptism #baptist #beginning #begins #beloved #christs #compassion #crying #dove #driveth #early #face #fishers #fulfilled #god #gospel #hand #heavens #holy #jesus #john #kingdom #men #messenger #ministry #miracles #moved #one #opened #paths #repentance #scribes #son #spirit #straight #time #wilderness
 
 
 ---

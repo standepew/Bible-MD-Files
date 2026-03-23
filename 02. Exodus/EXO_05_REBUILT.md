@@ -1,3 +1,27 @@
+---
+book: "Exodus"
+chapter: 5
+testament: "Old Testament"
+key_themes: "First confrontation with Pharaoh, "Who is the LORD?", Pharaoh increases the burden, Straw withheld from bricks, Israel turns against Moses, Moses cries to God, The pattern of worse-before-better"
+tags:
+  - Pharaoh
+  - who-is-the-LORD
+  - let-my-people-go
+  - feast-in-the-wilderness
+  - burdens-increased
+  - straw
+  - bricks
+  - idle
+  - taskmasters
+  - officers-beaten
+  - people-turn-against-Moses
+  - Moses-cries-to-God
+  - worse-before-better
+  - God-delays
+  - faith-tested
+  - deliverance-pattern
+  - resistance
+---
 # Exodus 5
 
 ---
@@ -85,7 +109,7 @@ Moses and Aaron confront Pharaoh: "Thus saith the LORD God of Israel, Let my peo
 
 
 *AI Keywords for current event matching:*
-`answered` `atheism` `current` `declaration` `defiance` `entire` `events` `exodus` `god` `lord` `matching` `pharaohs`
+#answered #atheism #current #declaration #defiance #entire #events #exodus #god #lord #matching #pharaohs
 
 
 ---
@@ -201,8 +225,8 @@ Moses and Aaron confront Pharaoh: "Thus saith the LORD God of Israel, Let my peo
 
 - The demand for bricks without straw is not merely about production — it is a tool of demoralization
 - When the ruling power demands the impossible (same output, fewer resources), it crushes the spirit and eliminates any space for religious practice
-- **Daniel 6:7** — the decree against prayer: same tactic — use law to make faithfulness impossible
-- **Revelation 13:17** — the mark of the beast: no buying or selling without compliance — the same tactic at the end of the age; economic pressure used to force abandonment of God
+- [[27. Daniel/DANIEL_06_REBUILT|Daniel 6:7]] — the decree against prayer: same tactic — use law to make faithfulness impossible
+- [[66. Revelation/REVELATION_13_REBUILT|Revelation 13:17]] — the mark of the beast: no buying or selling without compliance — the same tactic at the end of the age; economic pressure used to force abandonment of God
 - *Thread:* Bricks without straw is the prototype of every system that uses impossible requirements to suppress the worship of God. Exodus 5 establishes the pattern that Revelation 13 brings to its ultimate expression.
 
 ---

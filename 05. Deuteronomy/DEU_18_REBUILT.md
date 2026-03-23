@@ -1,3 +1,68 @@
+---
+book: "Deuteronomy"
+chapter: 18
+testament: "Old Testament"
+key_themes: "Priestly Support, Levitical Inheritance, Priest's Portion, Firstfruits, Ministry at Chosen Place, Forbidden Practices, Child Sacrifice, Divination, Spiritism, The Prophet Like Moses, Testing True Prophets, False Prophet Punishment"
+tags:
+  - priests-Levites
+  - no-part-inheritance
+  - LORD-is-inheritance
+  - offerings-fire
+  - priest
+  - shoulder-two-cheeks-maw
+  - firstfruits-corn-wine-oil
+  - first-fleece
+  - chosen-stand-minister
+  - name-of-LORD
+  - sons-for-ever
+  - Levite-come-gates
+  - desire-mind
+  - place-LORD-chooses
+  - minister-name-LORD
+  - like-portions-eat
+  - sale-patrimony
+  - not-learn-abominations
+  - pass-through-fire
+  - divination
+  - observer-times
+  - enchanter
+  - witch
+  - charmer
+  - consulter-familiar-spirits
+  - wizard
+  - necromancer
+  - abomination-LORD
+  - drive-them-out
+  - perfect-with-LORD
+  - hearkened-observers-times
+  - Prophet-like-Moses
+  - midst-of-thee
+  - brethren
+  - hearken-unto-him
+  - desired-Horeb
+  - assembly
+  - voice-LORD
+  - great-fire
+  - not-hear-again
+  - not-die
+  - well-spoken
+  - raise-up-Prophet
+  - among-brethren
+  - like-thee
+  - words-in-mouth
+  - speak-all-command
+  - hearken-not-words
+  - require-it-of-him
+  - presume-speak-word
+  - not-commanded
+  - speak-name-other-gods
+  - prophet-die
+  - know-word-not-spoken
+  - thing-follow-not
+  - come-not-pass
+  - spoken-presumptuously
+  - not-afraid
+---
 # Deuteronomy 18
 
 ---
@@ -114,7 +179,7 @@ Moses outlines priestly support: Levites have no land inheritance because the LO
 
 
 *AI Keywords for current event matching:*
-`abomination` `abominations` `afraid` `among` `assembly` `brethren` `charmer` `cheeks` `chooses` `chosen` `come` `command` `commanded` `consulter` `corn` `daughter` `day` `desire` `desiredst` `die` `divination` `divine` `diviners` `drive` `due` `eat` `enchanter` `ever` `false` `familiar` `fire` `first` `firstfruit` `fleece` `follow` `forbidden` `gates` `give` `gods` `hath` `hear` `hearken` `hearkened` `horeb` `inheritance` `israel` `know` `learn` `levite` `levites` `like` `lord` `maw` `midst` `mind` `minister` `ministry` `moses` `mouth` `name` `nations` `necromancer` `observer` `observers` `offer` `offerings` `oil` `part` `pass` `patrimony` `people` `perfect` `place` `portion` `portions` `possessed` `practices` `presume` `presumptuously` `priest` `priestly` `priests` `prophet` `raise` `require` `sacrifice` `said` `sale` `see` `sheep` `shoulder` `sojourned` `son` `sons` `speak` `spirits` `spoken` `stand` `standard` `suffered` `support` `tests` `thing` `times` `tribes` `two` `voice` `well` `wine` `witch` `wizard` `word` `words`
+#abomination #abominations #afraid #among #assembly #brethren #charmer #cheeks #chooses #chosen #come #command #commanded #consulter #corn #daughter #day #desire #desiredst #die #divination #divine #diviners #drive #due #eat #enchanter #ever #false #familiar #fire #first #firstfruit #fleece #follow #forbidden #gates #give #gods #hath #hear #hearken #hearkened #horeb #inheritance #israel #know #learn #levite #levites #like #lord #maw #midst #mind #minister #ministry #moses #mouth #name #nations #necromancer #observer #observers #offer #offerings #oil #part #pass #patrimony #people #perfect #place #portion #portions #possessed #practices #presume #presumptuously #priest #priestly #priests #prophet #raise #require #sacrifice #said #sale #see #sheep #shoulder #sojourned #son #sons #speak #spirits #spoken #stand #standard #suffered #support #tests #thing #times #tribes #two #voice #well #wine #witch #wizard #word #words
 
 
 ---

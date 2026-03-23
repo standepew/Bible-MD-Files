@@ -1,3 +1,25 @@
+---
+book: "Numbers (The Fourth Book of Moses)"
+chapter: 1
+testament: "Old Testament"
+key_themes: "The first military census of Israel — every fighting man numbered by name and tribe, God counts His people precisely; nothing is approximate with Him, The Levites are exempt from the military count and assigned to the Tabernacle — proximity to the holy requires a different service, "The stranger that cometh nigh shall be put to death" — the boundary around the sacred is enforced with death, Total: 603,550 fighting men, The date: first day of the second month, second year after the Exodus"
+tags:
+  - census
+  - military-count
+  - 603550
+  - twelve-tribes
+  - Levites-exempt
+  - Tabernacle-service
+  - stranger-put-to-death
+  - by-their-families
+  - by-their-fathers-houses
+  - able-to-go-forth-to-war
+  - wilderness-of-Sinai
+  - second-year
+  - tribe-captains
+  - Levites-as-buffer-around-Tabernacle
+  - no-wrath-upon-congregation
+---
 # Numbers 1
 
 ---
@@ -66,7 +88,7 @@ One year and one month after the Exodus from Egypt, God commands Moses to number
 
 
 *AI Keywords for current event matching:*
-`12-3` `21-3` `caesars` `census` `count` `current` `events` `gods` `luke` `matching` `national` `numbers` `population` `register`
+#12-3 #21-3 #caesars #census #count #current #events #gods #luke #matching #national #numbers #population #register
 
 
 ---
@@ -179,15 +201,15 @@ Both censuses share the same structure: God numbering a specific group from the 
 
 ### The Tribe of Judah Leads — The Lion's Primacy Established in the March
 
-**Numbers 1:27** — Judah: 74,600 — the largest tribe in the census
+[[04. Numbers/NUM_01_REBUILT|Numbers 1:27]] — Judah: 74,600 — the largest tribe in the census
 
 **Numbers 2:3, 9** — "On the east side toward the rising of the sun shall they of the standard of the camp of Judah pitch... These shall first set forth."
 
 Judah goes first in the march, is numbered largest, and faces east (the direction of the rising sun and of the Tabernacle entrance). This leadership is not accident:
 
-- **Genesis 49:8-10** — "Judah, thou art he whom thy brethren shall praise... The sceptre shall not depart from Judah, nor a lawgiver from between his feet, until Shiloh come"
-- **1 Chronicles 5:2** — "For Judah prevailed above his brethren, and of him came the chief ruler"
-- **Revelation 5:5** — "the Lion of the tribe of Juda, the Root of David, hath prevailed to open the book"
+- [[01. Genesis/GEN_49_REBUILT|Genesis 49:8-10]] — "Judah, thou art he whom thy brethren shall praise... The sceptre shall not depart from Judah, nor a lawgiver from between his feet, until Shiloh come"
+- [[13. 1 Chronicles/1_CHRONICLES_05_REBUILT|1 Chronicles 5:2]] — "For Judah prevailed above his brethren, and of him came the chief ruler"
+- [[66. Revelation/REVELATION_05_REBUILT|Revelation 5:5]] — "the Lion of the tribe of Juda, the Root of David, hath prevailed to open the book"
 
 The census of Numbers 1 is not merely military logistics. Judah's position — largest tribe, first in the march, facing east — is the enacted prophecy of Genesis 49:10: the sceptre is in Judah. The march order of the wilderness is the prophetic order of redemptive history. The tribe that leads Israel through the wilderness is the tribe from which the King of kings will come.
 

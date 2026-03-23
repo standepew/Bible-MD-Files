@@ -1,3 +1,17 @@
+---
+book: "2 Samuel"
+chapter: 5
+testament: "Old Testament"
+key_themes: "David Anointed King Over Israel, Capture of Jerusalem, Hiram's Alliance, Philistine Defeats, Divine Guidance"
+tags:
+  - Philistines-spread-valley-Rephaim
+  - left-images-David-men-burned
+  - david-anointed-king-over-israel
+  - capture-of-jerusalem
+  - hiram
+  - philistine-defeats
+  - divine-guidance
+---
 # 2 Samuel 5
 
 ---
@@ -83,7 +97,7 @@ All tribes of Israel came to David in Hebron, said behold bone and flesh. In tim
 
 
 *AI Keywords for current event matching:*
-`anointed` `anointing` `baal-perazim` `began` `bestir` `blind` `bone` `born` `breach` `broken` `broughtest` `built` `burned` `captain` `carpenters` `cedar` `chief` `city` `commanded` `compass` `concubines` `conquest` `daughters` `david` `davids` `day` `defeats` `deliver` `dwelt` `elders` `eliada` `eliphalet` `elishama` `elishua` `enemies` `enquired` `established` `exalted` `family` `feed` `fetch` `flesh` `fort` `forty` `gazer` `geba` `god` `going` `great` `grew` `gutter` `hand` `hated` `heard` `hebron` `hiram` `hither` `hold` `host` `hosts` `house` `ibhar` `images` `inhabitants` `international` `inward` `israel` `japhia` `jebusites` `jerusalem` `judah` `king` `kingdom` `lame` `league` `leddest` `left` `lord` `masons` `men` `messengers` `millo` `months` `mulberry` `names` `nathan` `nepheg` `past` `people` `perceived` `philistine` `philistines` `recognition` `reign` `reigned` `rephaim` `sake` `saul` `seek` `seven` `shammua` `shobab` `six` `smite` `smiteth` `smote` `solomon` `sons` `soul` `sound` `spread` `strong` `thinking` `thirty` `thirty-three` `time` `tops` `trees` `tribes` `tyre` `valley` `waters` `whosoever` `wives` `years` `zion`
+#anointed #anointing #baal-perazim #began #bestir #blind #bone #born #breach #broken #broughtest #built #burned #captain #carpenters #cedar #chief #city #commanded #compass #concubines #conquest #daughters #david #davids #day #defeats #deliver #dwelt #elders #eliada #eliphalet #elishama #elishua #enemies #enquired #established #exalted #family #feed #fetch #flesh #fort #forty #gazer #geba #god #going #great #grew #gutter #hand #hated #heard #hebron #hiram #hither #hold #host #hosts #house #ibhar #images #inhabitants #international #inward #israel #japhia #jebusites #jerusalem #judah #king #kingdom #lame #league #leddest #left #lord #masons #men #messengers #millo #months #mulberry #names #nathan #nepheg #past #people #perceived #philistine #philistines #recognition #reign #reigned #rephaim #sake #saul #seek #seven #shammua #shobab #six #smite #smiteth #smote #solomon #sons #soul #sound #spread #strong #thinking #thirty #thirty-three #time #tops #trees #tribes #tyre #valley #waters #whosoever #wives #years #zion
 
 
 ---

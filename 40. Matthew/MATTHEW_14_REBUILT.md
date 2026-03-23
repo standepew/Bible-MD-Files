@@ -1,3 +1,14 @@
+---
+book: "Matthew"
+chapter: 14
+testament: "New Testament"
+key_themes: "Christ's Compassion, Feeding Multitude, Walking on Water, Divine Healing"
+tags:
+  - christ
+  - feeding-multitude
+  - walking-on-water
+  - divine-healing
+---
 # Matthew 14
 
 ---
@@ -165,7 +176,7 @@ Herod, tetrarch, heard, fame, Jesus, servants, John, Baptist, risen, dead, might
 
 
 *AI Keywords for current event matching:*
-`baskets` `bid` `blessed` `brake` `brought` `ceased` `christs` `come` `compassion` `desert` `diseased` `divine` `faith` `feeding` `fishes` `five` `followed` `fourth` `garment` `gennesaret` `healed` `healing` `heaven` `little` `loaves` `looking` `moved` `multitude` `multitudes` `perfectly` `place` `sea` `sick` `touch` `twelve` `two` `walking` `watch` `water` `whole` `wind`
+#baskets #bid #blessed #brake #brought #ceased #christs #come #compassion #desert #diseased #divine #faith #feeding #fishes #five #followed #fourth #garment #gennesaret #healed #healing #heaven #little #loaves #looking #moved #multitude #multitudes #perfectly #place #sea #sick #touch #twelve #two #walking #watch #water #whole #wind
 
 
 ---

@@ -1,3 +1,14 @@
+---
+book: "Ecclesiastes"
+chapter: 10
+testament: "Old Testament"
+key_themes: "Wisdom and Folly, Authority and Leadership, Diligence and Sloth, Speech and Silence"
+tags:
+  - wisdom-and-folly
+  - authority-and-leadership
+  - diligence-and-sloth
+  - speech-and-silence
+---
 # Ecclesiastes 10
 
 ---
@@ -189,7 +200,7 @@ Dead, flies, cause, ointment, apothecary, send, stinking, savour, little, folly,
 
 
 *AI Keywords for current event matching:*
-`authority` `blunt` `building` `child` `curse` `dead` `dignity` `diligence` `flies` `folly` `fool` `full` `great` `hands` `heart` `idleness` `iron` `king` `leadership` `man` `nobles` `ointment` `ruler` `silence` `sloth` `slothfulness` `son` `speech` `spirit` `wisdom` `wise` `words`
+#authority #blunt #building #child #curse #dead #dignity #diligence #flies #folly #fool #full #great #hands #heart #idleness #iron #king #leadership #man #nobles #ointment #ruler #silence #sloth #slothfulness #son #speech #spirit #wisdom #wise #words
 
 
 ---

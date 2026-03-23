@@ -1,3 +1,14 @@
+---
+book: "Isaiah"
+chapter: 3
+testament: "Old Testament"
+key_themes: "Divine Judgment, Leadership Collapse, Social Chaos, Christ's Restoration"
+tags:
+  - divine-judgment
+  - leadership-collapse
+  - social-chaos
+  - christ
+---
 # Isaiah 3
 
 ---
@@ -165,7 +176,7 @@ Behold, Lord, LORD, hosts, take, Jerusalem, Judah, stay, staff, whole, stay, bre
 
 
 *AI Keywords for current event matching:*
-`away` `babes` `behave` `chaos` `child` `children` `christs` `collapse` `divine` `doings` `eat` `fruit` `jerusalem` `judgment` `leadership` `lord` `man` `mighty` `oppressed` `people` `plead` `princes` `proudly` `restoration` `righteous` `ruined` `rule` `scab` `smite` `social` `standeth` `take` `taken` `well` `women`
+#away #babes #behave #chaos #child #children #christs #collapse #divine #doings #eat #fruit #jerusalem #judgment #leadership #lord #man #mighty #oppressed #people #plead #princes #proudly #restoration #righteous #ruined #rule #scab #smite #social #standeth #take #taken #well #women
 
 
 ---

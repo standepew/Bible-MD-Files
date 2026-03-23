@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 114
+testament: "Old Testament"
+key_themes: "Exodus Miracle, Creation's Response, Divine Power, God's Presence"
+tags:
+  - exodus-miracle
+  - creation
+  - divine-power
+  - god
+---
 # Psalm 114
 
 ---
@@ -129,7 +140,7 @@ Israel, Egypt, house, Jacob, people, strange, language, Judah, sanctuary, Israel
 
 
 *AI Keywords for current event matching:*
-`back` `creations` `divine` `driven` `earth` `egypt` `exodus` `fled` `flint` `fountain` `god` `gods` `hills` `house` `israel` `jacob` `jordan` `lambs` `language` `little` `lord` `miracle` `mountains` `people` `power` `presence` `rams` `response` `rock` `sea` `skipped` `standing` `strange` `tremble` `turned` `water` `waters`
+#back #creations #divine #driven #earth #egypt #exodus #fled #flint #fountain #god #gods #hills #house #israel #jacob #jordan #lambs #language #little #lord #miracle #mountains #people #power #presence #rams #response #rock #sea #skipped #standing #strange #tremble #turned #water #waters
 
 
 ---

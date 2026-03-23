@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 48
+testament: "Old Testament"
+key_themes: "God's Holy City, Zion's Glory, Divine Protection, Eternal Praise"
+tags:
+  - god
+  - zion
+  - divine-protection
+  - eternal-praise
+---
 # Psalm 48
 
 ---
@@ -141,7 +152,7 @@ Song, Psalm, sons, Korah, Great, LORD, greatly, praised, city, GOD, mountain, ho
 
 
 *AI Keywords for current event matching:*
-`assembled` `beautiful` `breakest` `bulwarks` `city` `consider` `daughters` `death` `divine` `earth` `east` `ends` `establish` `eternal` `fear` `following` `forever` `full` `generation` `glad` `glory` `god` `gods` `great` `greatly` `guide` `hand` `hasted` `holiness` `holy` `hosts` `joy` `judah` `judgments` `king` `kings` `known` `korah` `lord` `lovingkindness` `mark` `marvelled` `midst` `mount` `mountain` `name` `north` `pain` `palaces` `passed` `praise` `praised` `protection` `psalm` `refuge` `rejoice` `right` `righteousness` `round` `ships` `sides` `situation` `song` `sons` `tarshish` `tell` `temple` `thought` `took` `towers` `travail` `troubled` `walk` `wind` `zion` `zions`
+#assembled #beautiful #breakest #bulwarks #city #consider #daughters #death #divine #earth #east #ends #establish #eternal #fear #following #forever #full #generation #glad #glory #god #gods #great #greatly #guide #hand #hasted #holiness #holy #hosts #joy #judah #judgments #king #kings #known #korah #lord #lovingkindness #mark #marvelled #midst #mount #mountain #name #north #pain #palaces #passed #praise #praised #protection #psalm #refuge #rejoice #right #righteousness #round #ships #sides #situation #song #sons #tarshish #tell #temple #thought #took #towers #travail #troubled #walk #wind #zion #zions
 
 
 ---

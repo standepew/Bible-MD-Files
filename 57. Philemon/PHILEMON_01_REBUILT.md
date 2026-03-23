@@ -1,3 +1,15 @@
+---
+book: "Philemon"
+chapter: 1
+testament: "New Testament"
+key_themes: "Paul's Greeting, Thanksgiving for Philemon, Appeal for Onesimus, Christ's Transformation, Partnership in the Gospel"
+tags:
+  - paul
+  - thanksgiving-for-philemon
+  - appeal-for-onesimus
+  - christ
+  - partnership-in-the-gospel
+---
 # Philemon 1
 
 ---
@@ -95,7 +107,7 @@ Paul, prisoner, Jesus, Christ, Timothy, brother, Philemon, dearly, beloved, fell
 
 
 *AI Keywords for current event matching:*
-`account` `acknowledging` `again` `aged` `albeit` `amen` `appeal` `apphia` `archippus` `aristarchus` `begotten` `beloved` `benefit` `beseech` `besides` `bold` `bonds` `bowels` `brother` `christ` `christs` `church` `communication` `confidence` `consolation` `convenient` `dearly` `demas` `departed` `effectual` `enjoin` `epaphras` `faith` `father` `fellowlabourer` `fellowlabourers` `fellowprisoner` `fellowsoldier` `flesh` `forever` `given` `god` `good` `gospel` `grace` `great` `greeting` `hand` `hearing` `house` `jesus` `joy` `knowing` `lodging` `lord` `love` `lucas` `making` `marcus` `mention` `mind` `ministered` `necessity` `obedience` `onesimus` `owest` `oweth` `partner` `partnership` `paul` `pauls` `peace` `philemon` `prayers` `prisoner` `profitable` `receive` `refresh` `refreshed` `repay` `retained` `saints` `sake` `salute` `say` `season` `self` `sent` `servant` `son` `specially` `spirit` `stead` `thank` `thanksgiving` `thing` `timothy` `transformation` `trust` `unprofitable` `willingly` `without` `written` `wronged` `wrote`
+#account #acknowledging #again #aged #albeit #amen #appeal #apphia #archippus #aristarchus #begotten #beloved #benefit #beseech #besides #bold #bonds #bowels #brother #christ #christs #church #communication #confidence #consolation #convenient #dearly #demas #departed #effectual #enjoin #epaphras #faith #father #fellowlabourer #fellowlabourers #fellowprisoner #fellowsoldier #flesh #forever #given #god #good #gospel #grace #great #greeting #hand #hearing #house #jesus #joy #knowing #lodging #lord #love #lucas #making #marcus #mention #mind #ministered #necessity #obedience #onesimus #owest #oweth #partner #partnership #paul #pauls #peace #philemon #prayers #prisoner #profitable #receive #refresh #refreshed #repay #retained #saints #sake #salute #say #season #self #sent #servant #son #specially #spirit #stead #thank #thanksgiving #thing #timothy #transformation #trust #unprofitable #willingly #without #written #wronged #wrote
 
 
 ---

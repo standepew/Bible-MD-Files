@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 84
+testament: "Old Testament"
+key_themes: "Longing for God's House, Divine Blessing, Spiritual Strength, Eternal Dwelling"
+tags:
+  - longing-for-god
+  - divine-blessing
+  - spiritual-strength
+  - eternal-dwelling
+---
 # Psalm 84
 
 ---
@@ -141,7 +152,7 @@ Chief, Musician, Gittith, Psalm, sons, Korah, amiable, tabernacles, LORD, hosts,
 
 
 *AI Keywords for current event matching:*
-`amiable` `appeareth` `baca` `better` `blessed` `blessing` `chief` `courts` `crieth` `day` `divine` `doorkeeper` `dwell` `dwelling` `eternal` `fainteth` `filleth` `flesh` `gittith` `god` `gods` `heart` `hosts` `house` `korah` `living` `longeth` `longing` `lord` `man` `musician` `passing` `pools` `praising` `psalm` `rain` `shield` `sons` `soul` `spiritual` `strength` `sun` `tabernacles` `tents` `thousand` `valley` `ways` `well` `wickedness` `zion`
+#amiable #appeareth #baca #better #blessed #blessing #chief #courts #crieth #day #divine #doorkeeper #dwell #dwelling #eternal #fainteth #filleth #flesh #gittith #god #gods #heart #hosts #house #korah #living #longeth #longing #lord #man #musician #passing #pools #praising #psalm #rain #shield #sons #soul #spiritual #strength #sun #tabernacles #tents #thousand #valley #ways #well #wickedness #zion
 
 
 ---

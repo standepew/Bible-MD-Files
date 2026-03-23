@@ -1,3 +1,15 @@
+---
+book: "Matthew"
+chapter: 7
+testament: "New Testament"
+key_themes: "Christ's Judgment, Golden Rule, Strait Gate, False Prophets, Wise Foundation"
+tags:
+  - christ
+  - golden-rule
+  - strait-gate
+  - false-prophets
+  - wise-foundation
+---
 # Matthew 7
 
 ---
@@ -143,7 +155,7 @@ Judge, judged, judgment, judge, measured, mete, measured, beholdest, mote, broth
 
 
 *AI Keywords for current event matching:*
-`ask` `beam` `beware` `broad` `cast` `christs` `clothing` `false` `father` `foolish` `foundation` `fruits` `gate` `give` `golden` `house` `hypocrite` `judge` `judgment` `knock` `know` `law` `man` `measured` `mete` `mote` `narrow` `opened` `prophets` `ravening` `rock` `rule` `sand` `seek` `sheep` `strait` `way` `wide` `wise` `wolves`
+#ask #beam #beware #broad #cast #christs #clothing #false #father #foolish #foundation #fruits #gate #give #golden #house #hypocrite #judge #judgment #knock #know #law #man #measured #mete #mote #narrow #opened #prophets #ravening #rock #rule #sand #seek #sheep #strait #way #wide #wise #wolves
 
 
 ---

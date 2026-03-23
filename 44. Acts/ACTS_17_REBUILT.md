@@ -1,3 +1,14 @@
+---
+book: "Acts"
+chapter: 17
+testament: "New Testament"
+key_themes: "Preaching in Thessalonica, Preaching in Berea, Preaching in Athens, Paul's Sermon on Mars Hill"
+tags:
+  - preaching-in-thessalonica
+  - preaching-in-berea
+  - preaching-in-athens
+  - paul
+---
 # Acts 17
 
 ---
@@ -177,7 +188,7 @@ Amphipolis, Apollonia, Thessalonica, synagogue, Jews, Paul, manner, sabbath, day
 
 
 *AI Keywords for current event matching:*
-`abode` `alleging` `altar` `amphipolis` `apollonia` `appointed` `areopagite` `areopagus` `art` `assaulted` `assurance` `athenians` `athens` `babbler` `baser` `beheld` `believed` `berea` `blood` `bounds` `breath` `brethren` `bringest` `brother` `brought` `caesar` `chief` `christ` `city` `clave` `commanded` `commandment` `company` `conducted` `consorted` `crying` `daily` `damaris` `day` `days` `dead` `declare` `decrees` `departed` `determined` `device` `devotions` `devout` `dionysius` `disputed` `doctrine` `dwell` `dwelleth` `ears` `earth` `encountered` `envy` `epicureans` `face` `far` `feel` `fellows` `find` `found` `gathered` `giveth` `god` `godhead` `gods` `gold` `graven` `greeks` `habitation` `hands` `haply` `hear` `heard` `heaven` `hill` `hither` `honourable` `house` `idolatry` `ignorance` `ignorantly` `immediately` `inscription` `jason` `jesus` `jews` `judge` `king` `know` `knowledge` `lewd` `life` `live` `lord` `made` `man` `manner` `mans` `market` `mars` `matter` `mean` `men` `met` `midst` `mind` `mocked` `move` `moved` `multitude` `nations` `needed` `new` `night` `noble` `offspring` `opening` `ordained` `others` `passed` `paul` `pauls` `people` `perceive` `persons` `philosophers` `poets` `preach` `preached` `preaching` `raised` `readiness` `reasoned` `received` `repent` `resurrection` `righteousness` `risen` `rulers` `sabbath` `say` `saying` `scriptures` `sea` `searched` `security` `seek` `sent` `sermon` `setter` `silas` `silver` `sort` `sought` `speakest` `speed` `spent` `spirit` `stirred` `stoicks` `stone` `stood` `strange` `strangers` `suffered` `superstitious` `synagogue` `tell` `temples` `therein` `thessalonica` `thing` `things` `think` `thither` `time` `times` `timotheus` `troubled` `turned` `unknown` `uproar` `upside` `waited` `wholly` `winked` `woman` `women` `word` `world` `worship` `worshipped`
+#abode #alleging #altar #amphipolis #apollonia #appointed #areopagite #areopagus #art #assaulted #assurance #athenians #athens #babbler #baser #beheld #believed #berea #blood #bounds #breath #brethren #bringest #brother #brought #caesar #chief #christ #city #clave #commanded #commandment #company #conducted #consorted #crying #daily #damaris #day #days #dead #declare #decrees #departed #determined #device #devotions #devout #dionysius #disputed #doctrine #dwell #dwelleth #ears #earth #encountered #envy #epicureans #face #far #feel #fellows #find #found #gathered #giveth #god #godhead #gods #gold #graven #greeks #habitation #hands #haply #hear #heard #heaven #hill #hither #honourable #house #idolatry #ignorance #ignorantly #immediately #inscription #jason #jesus #jews #judge #king #know #knowledge #lewd #life #live #lord #made #man #manner #mans #market #mars #matter #mean #men #met #midst #mind #mocked #move #moved #multitude #nations #needed #new #night #noble #offspring #opening #ordained #others #passed #paul #pauls #people #perceive #persons #philosophers #poets #preach #preached #preaching #raised #readiness #reasoned #received #repent #resurrection #righteousness #risen #rulers #sabbath #say #saying #scriptures #sea #searched #security #seek #sent #sermon #setter #silas #silver #sort #sought #speakest #speed #spent #spirit #stirred #stoicks #stone #stood #strange #strangers #suffered #superstitious #synagogue #tell #temples #therein #thessalonica #thing #things #think #thither #time #times #timotheus #troubled #turned #unknown #uproar #upside #waited #wholly #winked #woman #women #word #world #worship #worshipped
 
 
 ---

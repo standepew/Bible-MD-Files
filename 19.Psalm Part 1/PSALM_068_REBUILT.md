@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 68
+testament: "Old Testament"
+key_themes: "God's Victory, Divine Leadership, Ascension, Universal Dominion"
+tags:
+  - god
+  - divine-leadership
+  - ascension
+  - universal-dominion
+---
 # Psalm 68
 
 ---
@@ -105,7 +116,7 @@ Chief, Musician, Psalm, Song, David, GOD, arise, enemies, scattered, hate, flee,
 
 
 *AI Keywords for current event matching:*
-`angels` `arise` `ascended` `ascension` `away` `bound` `bring` `bringeth` `captive` `captivity` `chains` `chariots` `chief` `david` `divine` `dominion` `driven` `dry` `dwell` `earth` `egypt` `enemies` `ethiopia` `families` `father` `fatherless` `fire` `flee` `gifts` `god` `gods` `habitation` `hands` `hate` `heavens` `high` `holy` `jerusalem` `judge` `kingdoms` `kings` `land` `leadership` `led` `lord` `marched` `melteth` `men` `musician` `old` `people` `perish` `place` `praises` `presence` `presents` `princes` `psalm` `rebellious` `received` `rideth` `scattered` `setteth` `sinai` `sing` `smoke` `solitary` `song` `stretch` `temple` `thousand` `thousands` `twenty` `universal` `victory` `wax` `wentest` `wicked` `widows` `wilderness`
+#angels #arise #ascended #ascension #away #bound #bring #bringeth #captive #captivity #chains #chariots #chief #david #divine #dominion #driven #dry #dwell #earth #egypt #enemies #ethiopia #families #father #fatherless #fire #flee #gifts #god #gods #habitation #hands #hate #heavens #high #holy #jerusalem #judge #kingdoms #kings #land #leadership #led #lord #marched #melteth #men #musician #old #people #perish #place #praises #presence #presents #princes #psalm #rebellious #received #rideth #scattered #setteth #sinai #sing #smoke #solitary #song #stretch #temple #thousand #thousands #twenty #universal #victory #wax #wentest #wicked #widows #wilderness
 
 
 ---

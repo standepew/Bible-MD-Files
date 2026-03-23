@@ -1,3 +1,13 @@
+---
+book: "Isaiah"
+chapter: 37
+testament: "Old Testament"
+key_themes: "Christ's Prayer, Divine Deliverance, Angelic Victory, Christ's Protection"
+tags:
+  - christ
+  - divine-deliverance
+  - angelic-victory
+---
 # Isaiah 37
 
 ---
@@ -105,7 +115,7 @@ Came, pass, king, Hezekiah, heard, rent, clothes, covered, sackcloth, house, LOR
 
 
 *AI Keywords for current event matching:*
-`angel` `angelic` `blast` `christs` `city` `corpses` `david` `dead` `defend` `deliverance` `departed` `divine` `ear` `escape` `fall` `five` `fourscore` `hand` `hear` `hezekiah` `hundred` `incline` `know` `land` `lord` `mine` `prayed` `prayer` `protection` `remnant` `return` `rumour` `sake` `save` `send` `servant` `smote` `sword` `thousand` `victory` `words`
+#angel #angelic #blast #christs #city #corpses #david #dead #defend #deliverance #departed #divine #ear #escape #fall #five #fourscore #hand #hear #hezekiah #hundred #incline #know #land #lord #mine #prayed #prayer #protection #remnant #return #rumour #sake #save #send #servant #smote #sword #thousand #victory #words
 
 
 ---

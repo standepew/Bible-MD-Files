@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 85
+testament: "Old Testament"
+key_themes: "Divine Favor, Forgiveness, Spiritual Revival, Peace and Righteousness"
+tags:
+  - divine-favor
+  - forgiveness
+  - spiritual-revival
+  - peace-and-righteousness
+---
 # Psalm 85
 
 ---
@@ -129,7 +140,7 @@ Chief, Musician, Psalm, sons, Korah, LORD, favourable, land, brought, captivity,
 
 
 *AI Keywords for current event matching:*
-`anger` `brought` `captivity` `cause` `cease` `chief` `covered` `divine` `earth` `favor` `favourable` `fierceness` `forgiven` `forgiveness` `god` `grant` `heaven` `iniquity` `jacob` `kissed` `korah` `land` `look` `lord` `mercy` `met` `musician` `peace` `people` `psalm` `rejoice` `revival` `revive` `righteousness` `saints` `salvation` `shew` `sin` `sons` `speak` `spiritual` `spring` `steps` `taken` `together` `truth` `turn` `turned` `way` `wrath`
+#anger #brought #captivity #cause #cease #chief #covered #divine #earth #favor #favourable #fierceness #forgiven #forgiveness #god #grant #heaven #iniquity #jacob #kissed #korah #land #look #lord #mercy #met #musician #peace #people #psalm #rejoice #revival #revive #righteousness #saints #salvation #shew #sin #sons #speak #spiritual #spring #steps #taken #together #truth #turn #turned #way #wrath
 
 
 ---

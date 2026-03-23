@@ -1,3 +1,14 @@
+---
+book: "John"
+chapter: 5
+testament: "New Testament"
+key_themes: "Healing at Bethesda, The Sabbath Controversy, The Father and the Son, Witnesses to Christ"
+tags:
+  - healing-at-bethesda
+  - the-sabbath-controversy
+  - the-father-and-the-son
+  - witnesses-to-christ
+---
 # John 5
 
 ---
@@ -165,7 +176,7 @@ Feast, Jews, Jesus, Jerusalem, Jerusalem, sheep, market, pool, Hebrew, Bethesda,
 
 
 *AI Keywords for current event matching:*
-`accuse` `angel` `bed` `bethesda` `borne` `broken` `burning` `christ` `committed` `controversy` `damnation` `day` `eight` `equal` `everlasting` `father` `feast` `five` `folk` `god` `greater` `healing` `honor` `impotent` `jesus` `jews` `judgment` `lawful` `life` `light` `loveth` `made` `moses` `nothing` `persecute` `pool` `porches` `quickeneth` `resurrection` `sabbath` `scriptures` `search` `sin` `slay` `son` `take` `thirty` `troubled` `voice` `whole` `wilt` `witness` `witnesses` `worketh` `works` `years`
+#accuse #angel #bed #bethesda #borne #broken #burning #christ #committed #controversy #damnation #day #eight #equal #everlasting #father #feast #five #folk #god #greater #healing #honor #impotent #jesus #jews #judgment #lawful #life #light #loveth #made #moses #nothing #persecute #pool #porches #quickeneth #resurrection #sabbath #scriptures #search #sin #slay #son #take #thirty #troubled #voice #whole #wilt #witness #witnesses #worketh #works #years
 
 
 ---

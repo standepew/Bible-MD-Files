@@ -1,3 +1,31 @@
+---
+book: "Exodus"
+chapter: 30
+testament: "Old Testament"
+key_themes: "The Altar of Incense — "before the mercy seat," Perpetual incense morning and evening, The Ransom / Half-Shekel — atonement money for every soul, The Laver of Brass — washing before ministry, The Holy Anointing Oil — sacred composition, never for common use, The Holy Incense — sacred composition, never to be replicated, The soul's ransom is equal for rich and poor"
+tags:
+  - altar-of-incense
+  - golden-altar
+  - shittim-wood-overlaid-gold
+  - before-the-veil
+  - perpetual-incense
+  - morning-and-evening-incense
+  - no-strange-incense
+  - atonement-on-horns-once-a-year
+  - half-shekel-ransom
+  - atonement-money
+  - rich-same-as-poor
+  - laver-of-brass
+  - wash-hands-and-feet-or-die
+  - holy-anointing-oil
+  - myrrh-cinnamon-calamus-cassia
+  - anoint-tabernacle-ark-altar
+  - not-upon-mans-flesh
+  - holy-incense
+  - stacte-onycha-galbanum-frankincense
+  - not-to-be-replicated
+  - cut-off-from-people
+---
 # Exodus 30
 
 ---
@@ -96,7 +124,7 @@ God commands: (1) The Altar of Incense — shittim wood overlaid with gold, posi
 
 
 *AI Keywords for current event matching:*
-`307-8` `83-4` `current` `events` `exodus` `incense` `intercession` `matching` `prayer` `prayers` `psalm` `revelation`
+#307-8 #83-4 #current #events #exodus #incense #intercession #matching #prayer #prayers #psalm #revelation
 
 
 ---

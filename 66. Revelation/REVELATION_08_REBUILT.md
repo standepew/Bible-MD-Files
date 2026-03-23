@@ -1,3 +1,14 @@
+---
+book: "Revelation"
+chapter: 8
+testament: "New Testament"
+key_themes: "The Seventh Seal and Silence, The Seven Trumpets, The First Four Trumpets, The Three Woes"
+tags:
+  - the-seventh-seal-and-silence
+  - the-seven-trumpets
+  - the-first-four-trumpets
+  - the-three-woes
+---
 # Revelation 8
 
 ---
@@ -93,7 +104,7 @@ Opened, seventh, seal, silence, heaven, half, hour, seven, angels, stood, God, g
 
 
 *AI Keywords for current event matching:*
-`altar` `angel` `angels` `ascended` `beheld` `bitter` `blood` `burning` `burnt` `called` `cast` `censer` `creatures` `darkened` `day` `destroyed` `died` `earth` `earthquake` `fell` `filled` `fire` `first` `flying` `followed` `fountains` `four` `fourth` `given` `god` `golden` `grass` `great` `green` `hail` `half` `hand` `heaven` `hour` `incense` `inhabiters` `lamp` `life` `lightnings` `loud` `made` `men` `midst` `mingled` `moon` `mountain` `name` `night` `offer` `opened` `part` `prayers` `prepared` `reason` `rivers` `saints` `sea` `seal` `second` `seven` `seventh` `ships` `shone` `silence` `smitten` `smoke` `sound` `sounded` `standed` `star` `stars` `stood` `sun` `third` `three` `throne` `thunderings` `trees` `trumpet` `trumpets` `voice` `voices` `waters` `woe` `woes` `wormwood`
+#altar #angel #angels #ascended #beheld #bitter #blood #burning #burnt #called #cast #censer #creatures #darkened #day #destroyed #died #earth #earthquake #fell #filled #fire #first #flying #followed #fountains #four #fourth #given #god #golden #grass #great #green #hail #half #hand #heaven #hour #incense #inhabiters #lamp #life #lightnings #loud #made #men #midst #mingled #moon #mountain #name #night #offer #opened #part #prayers #prepared #reason #rivers #saints #sea #seal #second #seven #seventh #ships #shone #silence #smitten #smoke #sound #sounded #standed #star #stars #stood #sun #third #three #throne #thunderings #trees #trumpet #trumpets #voice #voices #waters #woe #woes #wormwood
 
 
 ---

@@ -1,3 +1,26 @@
+---
+book: "Job"
+chapter: 16
+testament: "Old Testament"
+key_themes: "Job's Response, Miserable Comforters, Divine Assault, Plea for Mediator"
+tags:
+  - vain-words-end-emboldeneth-answer
+  - strengthen-mouth-lips-asswage-grief
+  - speak-grief-asswaged-forbear-eased
+  - weary-desolate-company
+  - wrinkles-witness-leanness-face
+  - God-delivered-ungodly-hands-wicked
+  - breach-breach-giant
+  - injustice-hands-prayer-pure
+  - earth-cover-blood-cry-place
+  - witness-heaven-record-high
+  - plead-man-GOD-neighbour
+  - years-go-way-return
+  - job
+  - miserable-comforters
+  - divine-assault
+  - plea-for-mediator
+---
 # Job 16
 
 ---
@@ -129,7 +152,7 @@ Job, answered, heard, things, miserable, comforters. Vain, words, end, emboldene
 
 
 *AI Keywords for current event matching:*
-`answer` `answered` `archers` `assault` `asswage` `asswaged` `breach` `broken` `cheek` `cleave` `comforters` `company` `compass` `delivered` `desolate` `divine` `ease` `eased` `emboldeneth` `end` `enemy` `eyes` `face` `forbear` `gall` `gaped` `gathered` `giant` `gnasheth` `god` `grief` `ground` `hands` `hated` `head` `heap` `heard` `job` `jobs` `leanness` `lips` `mark` `mediator` `miserable` `mouth` `neck` `pieces` `plea` `poureth` `reins` `reproachfully` `response` `shake` `shaken` `sharpen` `smitten` `soul` `spare` `speak` `stead` `strengthen` `teareth` `teeth` `things` `ungodly` `vain` `weary` `wicked` `witness` `words` `wrath` `wrinkles`
+#answer #answered #archers #assault #asswage #asswaged #breach #broken #cheek #cleave #comforters #company #compass #delivered #desolate #divine #ease #eased #emboldeneth #end #enemy #eyes #face #forbear #gall #gaped #gathered #giant #gnasheth #god #grief #ground #hands #hated #head #heap #heard #job #jobs #leanness #lips #mark #mediator #miserable #mouth #neck #pieces #plea #poureth #reins #reproachfully #response #shake #shaken #sharpen #smitten #soul #spare #speak #stead #strengthen #teareth #teeth #things #ungodly #vain #weary #wicked #witness #words #wrath #wrinkles
 
 
 ---

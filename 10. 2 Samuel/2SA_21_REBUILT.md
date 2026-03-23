@@ -1,3 +1,15 @@
+---
+book: "2 Samuel"
+chapter: 21
+testament: "Old Testament"
+key_themes: "Famine and Atonement, Gibeonite Vengeance, Rizpah's Vigil, David's Justice, Philistine Giants"
+tags:
+  - famine-and-atonement
+  - gibeonite-vengeance
+  - rizpah
+  - david
+  - philistine-giants
+---
 # 2 Samuel 21
 
 ---
@@ -89,7 +101,7 @@ Famine in David's days three years, year after year; David enquired of LORD. LOR
 
 
 *AI Keywords for current event matching:*
-`abishai` `adriel` `aiah` `air` `amorites` `armoni` `atonement` `background` `barley` `barzillai` `battle` `beam` `beasts` `benjamin` `beth-lehemite` `beth-shan` `birds` `bless` `bloody` `bones` `born` `brass` `brother` `brought` `children` `choose` `coasts` `commanded` `concubine` `consumed` `daughter` `david` `davids` `day` `days` `death` `defied` `delivered` `demanded` `destroyed` `devised` `elhanan` `enquired` `execution` `faint` `famine` `father` `fell` `field` `fingers` `first` `five` `four` `gath` `gathered` `giant` `gibeah` `gibeonite` `gibeonites` `gilboa` `gittite` `give` `gob` `god` `gold` `goliath` `great` `hand` `hands` `hanged` `harvest` `heaven` `hill` `house` `hundred` `hushathite` `inheritance` `inquiry` `intreated` `ishbi-benob` `israel` `jaare-oregim` `jabesh-gilead` `jonathan` `judah` `justice` `kill` `killed` `king` `kish` `land` `light` `lord` `man` `meholathite` `men` `mephibosheth` `michal` `negotiation` `new` `night` `oath` `performed` `philistine` `philistines` `quench` `remnant` `rizpah` `rizpahs` `rock` `sackcloth` `saph` `saul` `say` `sepulchre` `servants` `seven` `shekels` `shimea` `sibbechai` `silver` `six` `slay` `slew` `smote` `son` `sons` `spared` `spear` `staff` `stature` `street` `succoured` `swear` `sword` `sworn` `three` `toes` `twenty` `two` `vigil` `war` `wars` `water` `weaver` `year` `years` `zeal` `zelah` `zeruiah`
+#abishai #adriel #aiah #air #amorites #armoni #atonement #background #barley #barzillai #battle #beam #beasts #benjamin #beth-lehemite #beth-shan #birds #bless #bloody #bones #born #brass #brother #brought #children #choose #coasts #commanded #concubine #consumed #daughter #david #davids #day #days #death #defied #delivered #demanded #destroyed #devised #elhanan #enquired #execution #faint #famine #father #fell #field #fingers #first #five #four #gath #gathered #giant #gibeah #gibeonite #gibeonites #gilboa #gittite #give #gob #god #gold #goliath #great #hand #hands #hanged #harvest #heaven #hill #house #hundred #hushathite #inheritance #inquiry #intreated #ishbi-benob #israel #jaare-oregim #jabesh-gilead #jonathan #judah #justice #kill #killed #king #kish #land #light #lord #man #meholathite #men #mephibosheth #michal #negotiation #new #night #oath #performed #philistine #philistines #quench #remnant #rizpah #rizpahs #rock #sackcloth #saph #saul #say #sepulchre #servants #seven #shekels #shimea #sibbechai #silver #six #slay #slew #smote #son #sons #spared #spear #staff #stature #street #succoured #swear #sword #sworn #three #toes #twenty #two #vigil #war #wars #water #weaver #year #years #zeal #zelah #zeruiah
 
 
 ---

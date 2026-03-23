@@ -1,3 +1,13 @@
+---
+book: "Isaiah"
+chapter: 31
+testament: "Old Testament"
+key_themes: "Christ's Protection, Divine Defense, Spiritual Trust, Christ's Victory"
+tags:
+  - christ
+  - divine-defense
+  - spiritual-trust
+---
 # Isaiah 31
 
 ---
@@ -129,7 +139,7 @@ Woe, Egypt, help, stay, horses, trust, chariots, many, horsemen, strong, LORD, H
 
 
 *AI Keywords for current event matching:*
-`assyrian` `away` `birds` `cast` `christs` `defend` `defense` `deliver` `divine` `fall` `fight` `fire` `flying` `furnace` `hand` `helpeth` `holpen` `holy` `idols` `jerusalem` `lion` `look` `lord` `man` `mean` `mighty` `mount` `one` `preserve` `prey` `protection` `roaring` `seek` `spiritual` `stretch` `sword` `trust` `turn` `victory` `zion`
+#assyrian #away #birds #cast #christs #defend #defense #deliver #divine #fall #fight #fire #flying #furnace #hand #helpeth #holpen #holy #idols #jerusalem #lion #look #lord #man #mean #mighty #mount #one #preserve #prey #protection #roaring #seek #spiritual #stretch #sword #trust #turn #victory #zion
 
 
 ---

@@ -1,3 +1,67 @@
+---
+book: "Genesis"
+chapter: 30
+testament: "Old Testament"
+key_themes: "Rachel's Envy — "Give Me Children, or Else I Die" — The Misdirected Desperate Cry, Jacob's Theologically Precise Answer — "Am I in God's Stead?" — Sovereignty of the Womb, The Handmaid System — Bilhah and Zilpah as Proxy Wives — Dan, Naphtali, Gad, Asher, The Mandrakes Bargain — Human Strategy Failing Where Divine Providence Prevails, Leah's Continued Fruitfulness — Issachar, Zebulun, Dinah, "God Remembered Rachel" — Covenant Memory as Active Covenant Fulfillment, Joseph Born — "He Will Add" — The Name That Contained a Prophecy, Jacob Requests Departure — Laban Acknowledges "The LORD Hath Blessed Me for Thy Sake", The Spotted and Speckled Wages Negotiation — Laban's Pre-Emptive Removal, Jacob's Rods — The Divinely Instructed Method, God Providing for Jacob at Laban's Expense, Jacob's Selective Breeding — Strong Cattle His, Feeble Laban's — Jacob Prospering Exceedingly, The Twelve Tribes of Israel Complete in Structure by Genesis 30's End"
+tags:
+  - Rachel-envious
+  - sovereignty-of-womb
+  - Psalm-127-3
+  - Bilhah
+  - Dan-God-hath-judged
+  - Naphtali-wrestled-prevailed
+  - Isaiah-9-1-2
+  - Matthew-4-13-16
+  - Zilpah
+  - Gad-troop
+  - Asher-happy-blessed
+  - mandrakes-duda-im
+  - Song-of-Solomon-7-13
+  - mandrakes-fail-God-prevails
+  - Issachar-God-given-hire
+  - Zebulun-dwelling
+  - Isaiah-9-1
+  - Dinah-justice
+  - God-remembered-Rachel
+  - wayizkor-Elohim
+  - Genesis-8-1-Noah
+  - Exodus-2-24
+  - 1-Samuel-1-19-Hannah
+  - Luke-1-54-55
+  - Joseph-born
+  - yosef-yasaf-He-will-add
+  - Acts-7-9-10
+  - Genesis-45-7
+  - barren-matriarch-thread
+  - Jacob-requests-departure
+  - Genesis-12-3
+  - spotted-speckled-ringstraked
+  - Laban-removes-three-days-journey
+  - Jacob-rods-poplar-hazel-chestnut
+  - providence-not-visualization
+  - strong-cattle-his-feeble-Labans
+  - Jacob-prosperous
+  - twelve-tribes-structural-completion
+  - Revelation-7-4-8
+  - Revelation-21-12-14
+  - rachel
+  - jacob
+  - the-handmaid-system
+  - naphtali
+  - gad
+  - asher
+  - the-mandrakes-bargain
+  - leah
+  - zebulun
+  - dinah
+  - god-remembered-rachel
+  - joseph-born
+  - jacob-requests-departure
+  - the-spotted-and-speckled-wages-negotiation
+  - god-providing-for-jacob-at-laban
+  - feeble-laban
+  - the-twelve-tribes-of-israel-complete
+---
 # Genesis 30
 
 ---
@@ -123,7 +187,7 @@ What Genesis 31 later disclosed was that this was not Jacob's cleverness — God
 
 For AI matching to topics and current events:
 
-`Rachel envious give me children or else I die` `Jacob Am I in God s stead` `sovereignty of womb atsara withheld` `Psalm 127:3 children heritage of LORD` `Isaiah 66:9 bring to birth` `1 Samuel 1:5-6 LORD shut up her womb` `Bilhah Dan God hath judged Naphtali wrestling` `Isaiah 9:1-2 land of Naphtali` `Matthew 4:13-16 Galilean ministry` `Zilpah Gad troop Asher happy blessed` `Anna prophetess tribe of Asher Luke 2:36-38` `mandrakes duda'im Song of Solomon 7:13` `mandrakes fail God prevails` `Psalm 33:16-17 no king saved by multitude` `Proverbs 21:30-31 safety is of the LORD` `Jeremiah 17:5-6 trust in man arm of flesh` `Issachar God given hire 1 Chronicles 12:32 understanding of times` `Zebulun dwelling Isaiah 9:1` `Dinah justice` `God remembered Rachel wayizkor Elohim` `zakar covenant action not forgetfulness` `Genesis 8:1 God remembered Noah` `Exodus 2:24 remembered covenant` `1 Samuel 1:19 remembered Hannah` `Luke 1:54-55 Mary remembrance of mercy` `Joseph born yosef yasaf He will add` `Rachel naming prayer prophecy of Benjamin` `Genesis 35:16-18 Benjamin Rachel dies` `Genesis 37:3 Jacob loved Joseph` `Genesis 45:7 God sent me to preserve life` `Acts 7:9-10 God was with Joseph` `John 3:16-17 Father sent Son` `Jacob/Joseph Father/Son type` `Laban LORD blessed me for thy sake` `Genesis 12:3 in thee all families blessed` `Genesis 39:5 Potiphar blessed for Joseph's sake` `derivative blessing covenant overflow` `spotted speckled ringstraked wages` `Laban removes three days journey` `Jacob rods poplar hazel chestnut` `Genesis 31:10-12 divine explanation dream` `providence not visualization` `Proverbs 16:9 LORD directeth steps` `strong cattle Jacob feeble Laban` `Jacob exceedingly prosperous` `twelve tribes structural completion` `Revelation 7:4-8 144000` `Revelation 21:12-14 twelve gates` `barren matriarch thread completed` `divine zakar pattern`
+#Rachel-envious-give-me-children-or-else-I-die #Jacob-Am-I-in-God-s-stead #sovereignty-of-womb-atsara-withheld #Psalm-1273-children-heritage-of-LORD #Isaiah-669-bring-to-birth #1-Samuel-15-6-LORD-shut-up-her-womb #Bilhah-Dan-God-hath-judged-Naphtali-wrestling #Isaiah-91-2-land-of-Naphtali #Matthew-413-16-Galilean-ministry #Zilpah-Gad-troop-Asher-happy-blessed #Anna-prophetess-tribe-of-Asher-Luke-236-38 #mandrakes-dudaim-Song-of-Solomon-713 #mandrakes-fail-God-prevails #Psalm-3316-17-no-king-saved-by-multitude #Proverbs-2130-31-safety-is-of-the-LORD #Jeremiah-175-6-trust-in-man-arm-of-flesh #Issachar-God-given-hire-1-Chronicles-1232-understanding-of-times #Zebulun-dwelling-Isaiah-91 #Dinah-justice #God-remembered-Rachel-wayizkor-Elohim #zakar-covenant-action-not-forgetfulness #Genesis-81-God-remembered-Noah #Exodus-224-remembered-covenant #1-Samuel-119-remembered-Hannah #Luke-154-55-Mary-remembrance-of-mercy #Joseph-born-yosef-yasaf-He-will-add #Rachel-naming-prayer-prophecy-of-Benjamin #Genesis-3516-18-Benjamin-Rachel-dies #Genesis-373-Jacob-loved-Joseph #Genesis-457-God-sent-me-to-preserve-life #Acts-79-10-God-was-with-Joseph #John-316-17-Father-sent-Son #JacobJoseph-FatherSon-type #Laban-LORD-blessed-me-for-thy-sake #Genesis-123-in-thee-all-families-blessed #Genesis-395-Potiphar-blessed-for-Josephs-sake #derivative-blessing-covenant-overflow #spotted-speckled-ringstraked-wages #Laban-removes-three-days-journey #Jacob-rods-poplar-hazel-chestnut #Genesis-3110-12-divine-explanation-dream #providence-not-visualization #Proverbs-169-LORD-directeth-steps #strong-cattle-Jacob-feeble-Laban #Jacob-exceedingly-prosperous #twelve-tribes-structural-completion #Revelation-74-8-144000 #Revelation-2112-14-twelve-gates #barren-matriarch-thread-completed #divine-zakar-pattern
 
 **Relevance to Current Events:**
 - God's sovereignty over the womb — applicable in pastoral counseling for infertility, in theological discussions of IVF and reproductive technology, and in encouraging those who have prayed for children without answer; Jacob's "Am I in God's stead?" correctly identified the issue while Hannah's prayer correctly modeled the response

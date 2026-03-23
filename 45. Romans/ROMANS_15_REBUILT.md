@@ -1,3 +1,14 @@
+---
+book: "Romans"
+chapter: 15
+testament: "New Testament"
+key_themes: "Bearing with the Weak, Christ's Example, Unity in Worship, Paul's Ministry Plans"
+tags:
+  - bearing-with-the-weak
+  - christ
+  - unity-in-worship
+  - paul
+---
 # Romans 15
 
 ---
@@ -177,7 +188,7 @@ Strong, bear, infirmities, weak, please, ourselves, please, neighbour, good, edi
 
 
 *AI Keywords for current event matching:*
-`abound` `acceptable` `accepted` `achaia` `admonish` `aforetime` `bear` `bearing` `believe` `believing` `beseech` `blessing` `boldly` `brethren` `build` `carnal` `christ` `christs` `circumcision` `comfort` `coming` `company` `confess` `confirm` `consolation` `contribution` `dare` `debtors` `deed` `delivered` `desire` `duty` `edification` `esaias` `example` `father` `fathers` `fell` `fill` `filled` `foundation` `fruit` `fully` `fulness` `gentiles` `ghost` `glorify` `glory` `god` `good` `goodness` `gospel` `grace` `grant` `heard` `hindered` `holy` `hope` `illyricum` `infirmities` `jerusalem` `jesse` `jesus` `journey` `joy` `judaea` `knowledge` `laud` `learning` `likeminded` `lord` `love` `macedonia` `mercy` `mighty` `mind` `minister` `ministering` `ministry` `mouth` `name` `named` `neighbour` `obedient` `offering` `ourselves` `partakers` `parts` `patience` `pauls` `peace` `people` `performed` `persuaded` `pertain` `place` `plans` `please` `pleased` `poor` `power` `praise` `prayers` `preach` `preached` `promises` `receive` `received` `refreshed` `reign` `rejoice` `reminding` `reproached` `reproaches` `rise` `root` `round` `saints` `sanctified` `scriptures` `sealed` `see` `service` `signs` `sing` `spain` `speak` `spirit` `spiritual` `spoken` `strive` `strived` `strong` `trust` `truth` `understand` `unity` `weak` `wonders` `word` `worship` `written` `wrought` `years`
+#abound #acceptable #accepted #achaia #admonish #aforetime #bear #bearing #believe #believing #beseech #blessing #boldly #brethren #build #carnal #christ #christs #circumcision #comfort #coming #company #confess #confirm #consolation #contribution #dare #debtors #deed #delivered #desire #duty #edification #esaias #example #father #fathers #fell #fill #filled #foundation #fruit #fully #fulness #gentiles #ghost #glorify #glory #god #good #goodness #gospel #grace #grant #heard #hindered #holy #hope #illyricum #infirmities #jerusalem #jesse #jesus #journey #joy #judaea #knowledge #laud #learning #likeminded #lord #love #macedonia #mercy #mighty #mind #minister #ministering #ministry #mouth #name #named #neighbour #obedient #offering #ourselves #partakers #parts #patience #pauls #peace #people #performed #persuaded #pertain #place #plans #please #pleased #poor #power #praise #prayers #preach #preached #promises #receive #received #refreshed #reign #rejoice #reminding #reproached #reproaches #rise #root #round #saints #sanctified #scriptures #sealed #see #service #signs #sing #spain #speak #spirit #spiritual #spoken #strive #strived #strong #trust #truth #understand #unity #weak #wonders #word #worship #written #wrought #years
 
 
 ---

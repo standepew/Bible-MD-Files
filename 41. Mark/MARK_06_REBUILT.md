@@ -1,3 +1,15 @@
+---
+book: "Mark"
+chapter: 6
+testament: "New Testament"
+key_themes: "Christ's Rejection, Mission of Twelve, Death of John, Feeding Five Thousand, Walking on Sea"
+tags:
+  - christ
+  - mission-of-twelve
+  - death-of-john
+  - feeding-five-thousand
+  - walking-on-sea
+---
 # Mark 6
 
 ---
@@ -239,7 +251,7 @@ Went, country, disciples, sabbath, teach, synagogue, hearing, astonished, man, t
 
 
 *AI Keywords for current event matching:*
-`anointed` `baptist` `baskets` `border` `carpenter` `cheer` `christs` `danced` `death` `dust` `feeding` `feet` `five` `fourth` `garment` `good` `hardened` `head` `heart` `herodias` `honour` `john` `loaves` `miracle` `mission` `oil` `pleased` `prophet` `rejection` `sea` `son` `staff` `thousand` `twelve` `two` `unbelief` `walking` `watch` `wife`
+#anointed #baptist #baskets #border #carpenter #cheer #christs #danced #death #dust #feeding #feet #five #fourth #garment #good #hardened #head #heart #herodias #honour #john #loaves #miracle #mission #oil #pleased #prophet #rejection #sea #son #staff #thousand #twelve #two #unbelief #walking #watch #wife
 
 
 ---

@@ -1,3 +1,14 @@
+---
+book: "Proverbs"
+chapter: 29
+testament: "Old Testament"
+key_themes: "Authority and Justice, Wisdom and Folly, Pride and Humility, Divine Sovereignty"
+tags:
+  - authority-and-justice
+  - wisdom-and-folly
+  - pride-and-humility
+  - divine-sovereignty
+---
 # Proverbs 29
 
 ---
@@ -141,7 +152,7 @@ Reproved, hardeneth, neck, suddenly, destroyed, remedy, righteous, authority, pe
 
 
 *AI Keywords for current event matching:*
-`authority` `away` `bring` `city` `divine` `establish` `faithfully` `father` `fear` `folly` `humble` `humility` `judgeth` `judgment` `justice` `king` `land` `lord` `loveth` `low` `man` `men` `people` `perish` `poor` `pride` `put` `rejoice` `rejoiceth` `righteous` `safe` `scornful` `snare` `sovereignty` `spirit` `trust` `turn` `uphold` `vision` `wisdom` `wise` `wrath`
+#authority #away #bring #city #divine #establish #faithfully #father #fear #folly #humble #humility #judgeth #judgment #justice #king #land #lord #loveth #low #man #men #people #perish #poor #pride #put #rejoice #rejoiceth #righteous #safe #scornful #snare #sovereignty #spirit #trust #turn #uphold #vision #wisdom #wise #wrath
 
 
 ---

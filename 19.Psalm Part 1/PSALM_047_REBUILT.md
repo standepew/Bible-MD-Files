@@ -1,3 +1,13 @@
+---
+book: "Psalms"
+chapter: 47
+testament: "Old Testament"
+key_themes: "God's Universal Reign, Royal Triumph, God's Inheritance, Praise and Worship"
+tags:
+  - god
+  - royal-triumph
+  - praise-and-worship
+---
 # Psalm 47
 
 ---
@@ -129,7 +139,7 @@ Chief, Musician, sons, Korah, clap, hands, people, shout, GOD, voice, triumph, L
 
 
 *AI Keywords for current event matching:*
-`abraham` `belong` `chief` `choose` `clap` `earth` `exalted` `excellency` `feet` `gathered` `god` `gods` `gone` `great` `greatly` `hands` `heathen` `high` `holiness` `inheritance` `jacob` `king` `korah` `lord` `loved` `musician` `nations` `people` `praise` `praises` `princes` `reign` `reigneth` `royal` `shields` `shout` `sing` `sitteth` `sons` `sound` `subdue` `terrible` `throne` `triumph` `trumpet` `understanding` `universal` `voice` `worship`
+#abraham #belong #chief #choose #clap #earth #exalted #excellency #feet #gathered #god #gods #gone #great #greatly #hands #heathen #high #holiness #inheritance #jacob #king #korah #lord #loved #musician #nations #people #praise #praises #princes #reign #reigneth #royal #shields #shout #sing #sitteth #sons #sound #subdue #terrible #throne #triumph #trumpet #understanding #universal #voice #worship
 
 
 ---

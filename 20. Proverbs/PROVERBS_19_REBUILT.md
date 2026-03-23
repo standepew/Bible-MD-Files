@@ -1,3 +1,14 @@
+---
+book: "Proverbs"
+chapter: 19
+testament: "Old Testament"
+key_themes: "Integrity and Poverty, Wisdom and Understanding, Justice and Mercy, Discipline and Instruction"
+tags:
+  - integrity-and-poverty
+  - wisdom-and-understanding
+  - justice-and-mercy
+  - discipline-and-instruction
+---
 # Proverbs 19
 
 ---
@@ -129,7 +140,7 @@ Poor, walketh, integrity, perverse, lips, fool, soul, without, knowledge, good, 
 
 
 *AI Keywords for current event matching:*
-`anger` `chasten` `commandment` `counsel` `deferreth` `discipline` `discretion` `escape` `false` `find` `friends` `getteth` `good` `hear` `hope` `instruction` `integrity` `judgments` `justice` `keepeth` `lies` `loveth` `maketh` `mercy` `neighbour` `poor` `poverty` `prepared` `receive` `scorners` `separated` `son` `soul` `speaketh` `understanding` `unpunished` `walketh` `wealth` `wisdom` `witness`
+#anger #chasten #commandment #counsel #deferreth #discipline #discretion #escape #false #find #friends #getteth #good #hear #hope #instruction #integrity #judgments #justice #keepeth #lies #loveth #maketh #mercy #neighbour #poor #poverty #prepared #receive #scorners #separated #son #soul #speaketh #understanding #unpunished #walketh #wealth #wisdom #witness
 
 
 ---

@@ -1,3 +1,14 @@
+---
+book: "1 Thessalonians"
+chapter: 3
+testament: "New Testament"
+key_themes: "Timothy Sent to Thessalonica, Paul's Concern and Comfort, Prayer for the Thessalonians, Established in Holiness"
+tags:
+  - timothy-sent-to-thessalonica
+  - paul
+  - prayer-for-the-thessalonians
+  - established-in-holiness
+---
 # 1 Thessalonians 3
 
 ---
@@ -93,7 +104,7 @@ Forbear, thought, good, left, Athens, alone, sent, Timotheus, brother, minister,
 
 
 *AI Keywords for current event matching:*
-`abound` `affliction` `afflictions` `alone` `appointed` `athens` `brother` `brought` `came` `charity` `christ` `comfort` `comforted` `coming` `concern` `day` `desiring` `direct` `distress` `end` `establish` `established` `exceedingly` `face` `faith` `fast` `father` `fellowlabourer` `forbear` `god` `good` `gospel` `greatly` `hearts` `holiness` `increase` `jesus` `joy` `know` `labour` `lacking` `left` `live` `lord` `love` `men` `minister` `moved` `night` `pass` `pauls` `perfect` `prayer` `praying` `remembrance` `render` `saints` `sakes` `sent` `stablish` `stand` `suffer` `tempted` `tempter` `thanks` `thessalonians` `thessalonica` `thought` `tidings` `timotheus` `timothy` `toward` `tribulation` `unblameable` `vain` `way`
+#abound #affliction #afflictions #alone #appointed #athens #brother #brought #came #charity #christ #comfort #comforted #coming #concern #day #desiring #direct #distress #end #establish #established #exceedingly #face #faith #fast #father #fellowlabourer #forbear #god #good #gospel #greatly #hearts #holiness #increase #jesus #joy #know #labour #lacking #left #live #lord #love #men #minister #moved #night #pass #pauls #perfect #prayer #praying #remembrance #render #saints #sakes #sent #stablish #stand #suffer #tempted #tempter #thanks #thessalonians #thessalonica #thought #tidings #timotheus #timothy #toward #tribulation #unblameable #vain #way
 
 
 ---

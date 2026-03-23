@@ -1,3 +1,34 @@
+---
+book: "Leviticus"
+chapter: 6
+testament: "Old Testament"
+key_themes: "Trespass against a neighbor through fraud, deception, or theft requires restitution before the sacrifice is valid, The perpetual fire on the altar — "it shall never go out," The priest's daily duty of clearing the ashes in linen garments, Priestly instructions for the burnt offering, grain offering, the high priest's own daily grain offering (wholly burned), and the sin offering, The sin offering eaten in the holy place by the priests, Vessels that contact sin-offering blood must be dealt with specially"
+tags:
+  - trespass-against-neighbor
+  - fraud
+  - theft
+  - found-lost-thing
+  - false-oath
+  - restore-principal
+  - add-fifth-part
+  - restitution-before-sacrifice
+  - perpetual-fire
+  - fire-never-goes-out
+  - linen-garments-for-ashes
+  - clean-place-outside-camp
+  - morning-wood
+  - law-of-burnt-offering
+  - law-of-grain-offering
+  - Aaron-eats-remainder
+  - unleavened-in-holy-place
+  - high-priests-own-offering
+  - wholly-burned
+  - law-of-sin-offering
+  - eaten-in-court
+  - earthen-vessel-broken
+  - brasen-pot-scoured
+  - most-holy
+---
 # Leviticus 6
 
 ---
@@ -78,7 +109,7 @@ God addresses trespass against a neighbor: fraud with deposits, theft, extortion
 
 
 *AI Keywords for current event matching:*
-`523-24` `64-5` `current` `events` `leviticus` `luke` `matching` `matthew` `restitution` `worship`
+#523-24 #64-5 #current #events #leviticus #luke #matching #matthew #restitution #worship
 
 
 ---
@@ -181,16 +212,16 @@ God addresses trespass against a neighbor: fraud with deposits, theft, extortion
 
 ### The Perpetual Fire — A Thread Through All of Scripture
 
-**Leviticus 6:13** — "The fire shall ever be burning upon the altar; it shall never go out"
+[[03. Leviticus/LEV_06_REBUILT|Leviticus 6:13]] — "The fire shall ever be burning upon the altar; it shall never go out"
 
 The thread of the never-extinguished fire:
-- **Leviticus 9:24** — the fire's divine origin: it came from before the LORD
-- **1 Kings 18:38** — Elijah on Carmel: the fire of the LORD falls and consumes — the same divine fire as a sign of acceptance
-- **2 Chronicles 7:1** — fire from heaven consumes Solomon's burnt offering at the Temple dedication
-- **Isaiah 31:9** — "the LORD, whose fire is in Zion, and his furnace in Jerusalem" — the fire of God's presence identified with His dwelling place
-- **Daniel 7:9-10** — "his throne was like the fiery flame... a fiery stream issued and came forth from before him" — the heavenly altar fire behind the earthly one
-- **Hebrews 7:25** — "he ever liveth to make intercession" — the New Covenant tamid; the perpetual fire of Christ's intercessory priesthood that cannot go out
-- **Revelation 8:5** — "the angel took the censer, and filled it with fire of the altar" — the altar fire still present before the throne in the eschaton
+- [[03. Leviticus/LEV_09_REBUILT|Leviticus 9:24]] — the fire's divine origin: it came from before the LORD
+- [[11. 1 Kings/1_KINGS_18_REBUILT|1 Kings 18:38]] — Elijah on Carmel: the fire of the LORD falls and consumes — the same divine fire as a sign of acceptance
+- [[14. 2 Chronicles/2_CHRONICLES_07_REBUILT|2 Chronicles 7:1]] — fire from heaven consumes Solomon's burnt offering at the Temple dedication
+- [[23. Isaiah/ISAIAH_31_REBUILT|Isaiah 31:9]] — "the LORD, whose fire is in Zion, and his furnace in Jerusalem" — the fire of God's presence identified with His dwelling place
+- [[27. Daniel/DANIEL_07_REBUILT|Daniel 7:9-10]] — "his throne was like the fiery flame... a fiery stream issued and came forth from before him" — the heavenly altar fire behind the earthly one
+- [[58. Hebrews/HEBREWS_07_REBUILT|Hebrews 7:25]] — "he ever liveth to make intercession" — the New Covenant tamid; the perpetual fire of Christ's intercessory priesthood that cannot go out
+- [[66. Revelation/REVELATION_08_REBUILT|Revelation 8:5]] — "the angel took the censer, and filled it with fire of the altar" — the altar fire still present before the throne in the eschaton
 
 **What the Bible establishes:** The perpetual altar fire is the emblem of perpetual access to God through sacrifice. It cannot go out because God's acceptance of the atoning work is permanent. The New Covenant counterpart is Christ's ever-living intercession (Hebrews 7:25) — the fire of His finished work burns perpetually before the Father on behalf of those He redeemed.
 
@@ -198,14 +229,14 @@ The thread of the never-extinguished fire:
 
 ### The Linen Garments — Humility and Righteousness at the Altar
 
-**Leviticus 6:10** — "And the priest shall put on his linen garment, and his linen breeches shall he put upon his flesh, and take up the ashes which the fire hath consumed"
+[[03. Leviticus/LEV_06_REBUILT|Leviticus 6:10]] — "And the priest shall put on his linen garment, and his linen breeches shall he put upon his flesh, and take up the ashes which the fire hath consumed"
 
 The linen thread at the altar:
-- **Leviticus 16:4** — Aaron wears linen (not the glorious vestments) on the Day of Atonement when he enters the Most Holy Place — his simplest garments for his most holy act
+- [[03. Leviticus/LEV_16_REBUILT|Leviticus 16:4]] — Aaron wears linen (not the glorious vestments) on the Day of Atonement when he enters the Most Holy Place — his simplest garments for his most holy act
 - **Ezekiel 9:2-3, 11** — the man clothed in linen among the executors of judgment — linen as the marker of the holy
-- **Revelation 15:6** — "clothed in pure and white linen" — the angels of the final plagues wear linen
-- **Revelation 19:8** — "the fine linen is the righteousness of saints" — linen = righteousness defined by Scripture
-- **Revelation 19:14** — "clothed in fine linen, white and clean" — the armies of heaven
+- [[66. Revelation/REVELATION_15_REBUILT|Revelation 15:6]] — "clothed in pure and white linen" — the angels of the final plagues wear linen
+- [[66. Revelation/REVELATION_19_REBUILT|Revelation 19:8]] — "the fine linen is the righteousness of saints" — linen = righteousness defined by Scripture
+- [[66. Revelation/REVELATION_19_REBUILT|Revelation 19:14]] — "clothed in fine linen, white and clean" — the armies of heaven
 
 **What the Bible establishes (Revelation 1:20 principle — symbols defined by Scripture):** Linen = the righteousness that is clean, white, and unadorned. When the priest wore linen to clean the altar, he was doing the humblest, most physical work of the sanctuary in the garment of righteousness. The greatest act (the Day of Atonement) and the most menial act (removing ashes) both required linen. Righteousness is required for every level of service before God, not only the spectacular.
 

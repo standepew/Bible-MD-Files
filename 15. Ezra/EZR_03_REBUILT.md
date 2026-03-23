@@ -1,3 +1,14 @@
+---
+book: "Ezra"
+chapter: 3
+testament: "Old Testament"
+key_themes: "Altar Rebuilt, Worship Restored, Temple Foundation, Mixed Emotions"
+tags:
+  - altar-rebuilt
+  - worship-restored
+  - temple-foundation
+  - mixed-emotions
+---
 # Ezra 3
 
 ---
@@ -129,7 +140,7 @@ Seventh, month, children, Israel, cities, people, gathered, Jerusalem. Jeshua, s
 
 
 *AI Keywords for current event matching:*
-`afar` `altar` `ancient` `apparel` `appointed` `asaph` `bases` `brethren` `builded` `builders` `burnt` `captivity` `carpenters` `cedar` `chief` `children` `cities` `coming` `consecrated` `continual` `countries` `course` `custom` `cymbals` `cyrus` `daily` `david` `day` `discern` `drink` `duty` `emotions` `endureth` `evening` `eyes` `fathers` `fear` `feast` `feasts` `first` `foundation` `freewill` `gathered` `god` `good` `grant` `great` `heard` `henadad` `house` `israel` `jerusalem` `jeshua` `joppa` `joy` `jozadak` `judah` `kadmiel` `king` `laid` `law` `lebanon` `levites` `lord` `loud` `man` `masons` `meat` `men` `mercy` `mixed` `money` `month` `moons` `morning` `moses` `new` `noise` `number` `offer` `offering` `offerings` `oil` `ordinance` `people` `persia` `praise` `praised` `praising` `priests` `rebuilt` `remnant` `required` `restored` `sang` `sea` `second` `set` `seventh` `shealtiel` `shout` `shouted` `son` `sons` `tabernacles` `temple` `thanks` `trees` `trumpets` `twenty` `tyre` `upward` `voice` `weeping` `wept` `willingly` `work` `workmen` `worship` `written` `year` `years` `zerubbabel` `zidon`
+#afar #altar #ancient #apparel #appointed #asaph #bases #brethren #builded #builders #burnt #captivity #carpenters #cedar #chief #children #cities #coming #consecrated #continual #countries #course #custom #cymbals #cyrus #daily #david #day #discern #drink #duty #emotions #endureth #evening #eyes #fathers #fear #feast #feasts #first #foundation #freewill #gathered #god #good #grant #great #heard #henadad #house #israel #jerusalem #jeshua #joppa #joy #jozadak #judah #kadmiel #king #laid #law #lebanon #levites #lord #loud #man #masons #meat #men #mercy #mixed #money #month #moons #morning #moses #new #noise #number #offer #offering #offerings #oil #ordinance #people #persia #praise #praised #praising #priests #rebuilt #remnant #required #restored #sang #sea #second #set #seventh #shealtiel #shout #shouted #son #sons #tabernacles #temple #thanks #trees #trumpets #twenty #tyre #upward #voice #weeping #wept #willingly #work #workmen #worship #written #year #years #zerubbabel #zidon
 
 
 ---

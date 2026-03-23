@@ -1,3 +1,14 @@
+---
+book: "Isaiah"
+chapter: 26
+testament: "Old Testament"
+key_themes: "Christ's Peace, Perfect Trust, Divine Judgment, Resurrection Hope"
+tags:
+  - christ
+  - perfect-trust
+  - divine-judgment
+  - resurrection-hope
+---
 # Isaiah 26
 
 ---
@@ -117,7 +128,7 @@ Day, song, sung, land, Judah, strong, city, salvation, God, appoint, walls, bulw
 
 
 *AI Keywords for current event matching:*
-`arise` `awake` `bring` `cast` `christs` `city` `dead` `desire` `dew` `divine` `dwell` `early` `ever` `everlasting` `foot` `herbs` `high` `hope` `inhabitants` `judgment` `lay` `live` `lord` `low` `men` `mind` `ordain` `peace` `perfect` `poor` `punish` `resurrection` `seek` `soul` `stayed` `strength` `tread` `trust`
+#arise #awake #bring #cast #christs #city #dead #desire #dew #divine #dwell #early #ever #everlasting #foot #herbs #high #hope #inhabitants #judgment #lay #live #lord #low #men #mind #ordain #peace #perfect #poor #punish #resurrection #seek #soul #stayed #strength #tread #trust
 
 
 ---

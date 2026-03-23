@@ -1,3 +1,15 @@
+---
+book: "Revelation"
+chapter: 1
+testament: "New Testament"
+key_themes: "The Revelation of Jesus Christ, Vision of the Glorified Christ, Seven Churches and Seven Stars, Alpha and Omega, Keys of Hell and Death"
+tags:
+  - the-revelation-of-jesus-christ
+  - vision-of-the-glorified-christ
+  - seven-churches-and-seven-stars
+  - alpha-and-omega
+  - keys-of-hell-and-death
+---
 # Revelation 1
 
 ---
@@ -131,7 +143,7 @@ Revelation, Jesus, Christ, God, servants, shortly, pass, sent, signified, angel,
 
 
 *AI Keywords for current event matching:*
-`alive` `almighty` `alpha` `angel` `angels` `asia` `bare` `beginning` `begotten` `blessed` `blood` `book` `brass` `brother` `burned` `candlesticks` `christ` `churches` `clothed` `clouds` `cometh` `companion` `countenance` `day` `dead` `death` `dominion` `earth` `ending` `ephesus` `eye` `eyes` `faithful` `father` `fear` `feet` `fell` `fine` `fire` `first` `flame` `foot` `furnace` `garment` `girded` `girdle` `glorified` `glory` `god` `golden` `grace` `hairs` `hand` `head` `hear` `hell` `hereafter` `isle` `jesus` `john` `keep` `keys` `kindreds` `kingdom` `kings` `laid` `laodicea` `last` `like` `liveth` `lord` `loved` `man` `many` `midst` `mouth` `mystery` `omega` `pass` `patience` `patmos` `peace` `pergamos` `philadelphia` `pierced` `priests` `prince` `prophecy` `readeth` `record` `revelation` `right` `sardis` `saw` `seen` `seest` `sent` `servant` `servants` `seven` `sharp` `shineth` `shortly` `signified` `sins` `smyrna` `snow` `son` `spirit` `spirits` `stars` `strength` `sun` `sword` `testimony` `things` `throne` `thyatira` `time` `tribulation` `trumpet` `turned` `twoedged` `vision` `voice` `wail` `washed` `waters` `white` `witness` `wool` `word` `words` `write` `written`
+#alive #almighty #alpha #angel #angels #asia #bare #beginning #begotten #blessed #blood #book #brass #brother #burned #candlesticks #christ #churches #clothed #clouds #cometh #companion #countenance #day #dead #death #dominion #earth #ending #ephesus #eye #eyes #faithful #father #fear #feet #fell #fine #fire #first #flame #foot #furnace #garment #girded #girdle #glorified #glory #god #golden #grace #hairs #hand #head #hear #hell #hereafter #isle #jesus #john #keep #keys #kindreds #kingdom #kings #laid #laodicea #last #like #liveth #lord #loved #man #many #midst #mouth #mystery #omega #pass #patience #patmos #peace #pergamos #philadelphia #pierced #priests #prince #prophecy #readeth #record #revelation #right #sardis #saw #seen #seest #sent #servant #servants #seven #sharp #shineth #shortly #signified #sins #smyrna #snow #son #spirit #spirits #stars #strength #sun #sword #testimony #things #throne #thyatira #time #tribulation #trumpet #turned #twoedged #vision #voice #wail #washed #waters #white #witness #wool #word #words #write #written
 
 
 ---

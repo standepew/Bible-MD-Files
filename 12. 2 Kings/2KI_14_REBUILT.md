@@ -1,3 +1,15 @@
+---
+book: "2 Kings"
+chapter: 14
+testament: "Old Testament"
+key_themes: "Amaziah's Reign, Justice for Murderers, Edomite Victory, Israel's Defeat, Jeroboam's Expansion"
+tags:
+  - amaziah
+  - justice-for-murderers
+  - edomite-victory
+  - israel
+  - jeroboam
+---
 # 2 Kings 14
 
 ---
@@ -87,7 +99,7 @@ Second year Joash son Jehoahaz king Israel, Amaziah son Joash king Judah. Twenty
 
 
 *AI Keywords for current event matching:*
-`acts` `affliction` `ahaziah` `amaziah` `amaziahs` `amittai` `away` `azariah` `azariahs` `beast` `beth-shemesh` `bitter` `blot` `book` `brake` `built` `buried` `burnt` `cedar` `children` `chronicles` `city` `coast` `confirmed` `conspiracy` `corner` `cubits` `damascus` `daughter` `david` `day` `death` `defeat` `edom` `edomite` `elath` `entering` `ephraim` `evil` `face` `fall` `father` `fathers` `fifteen` `fifteenth` `fled` `forty-one` `fought` `four` `gate` `gath-hepher` `glory` `god` `gold` `hamath` `hand` `hear` `heart` `heaven` `helper` `high` `home` `horses` `hostages` `house` `hundred` `hurt` `incense` `israel` `israels` `jehoaddan` `jehoahaz` `jehoash` `jehu` `jeroboam` `jeroboams` `jerusalem` `joash` `joktheel` `jonah` `judah` `justice` `king` `kingdom` `kings` `lachish` `law` `lebanon` `left` `lifted` `lived` `lord` `man` `meddle` `messengers` `moses` `mother` `murderers` `name` `nebat` `people` `places` `plain` `prophet` `recovered` `reign` `reigned` `restored` `right` `sacrificed` `salt` `samaria` `sea` `second` `selah` `sent` `servant` `servants` `shut` `sight` `silver` `sin` `sins` `sixteen` `slain` `slept` `slew` `smitten` `son` `succession` `taken` `tarry` `ten` `tents` `thistle` `thousand` `treasures` `twenty-five` `twenty-nine` `valley` `vessels` `victory` `wall` `war` `warred` `wife` `wild` `word` `worse` `year` `years` `zachariah`
+#acts #affliction #ahaziah #amaziah #amaziahs #amittai #away #azariah #azariahs #beast #beth-shemesh #bitter #blot #book #brake #built #buried #burnt #cedar #children #chronicles #city #coast #confirmed #conspiracy #corner #cubits #damascus #daughter #david #day #death #defeat #edom #edomite #elath #entering #ephraim #evil #face #fall #father #fathers #fifteen #fifteenth #fled #forty-one #fought #four #gate #gath-hepher #glory #god #gold #hamath #hand #hear #heart #heaven #helper #high #home #horses #hostages #house #hundred #hurt #incense #israel #israels #jehoaddan #jehoahaz #jehoash #jehu #jeroboam #jeroboams #jerusalem #joash #joktheel #jonah #judah #justice #king #kingdom #kings #lachish #law #lebanon #left #lifted #lived #lord #man #meddle #messengers #moses #mother #murderers #name #nebat #people #places #plain #prophet #recovered #reign #reigned #restored #right #sacrificed #salt #samaria #sea #second #selah #sent #servant #servants #shut #sight #silver #sin #sins #sixteen #slain #slept #slew #smitten #son #succession #taken #tarry #ten #tents #thistle #thousand #treasures #twenty-five #twenty-nine #valley #vessels #victory #wall #war #warred #wife #wild #word #worse #year #years #zachariah
 
 
 ---

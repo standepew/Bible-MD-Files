@@ -1,3 +1,14 @@
+---
+book: "Zephaniah"
+chapter: 2
+testament: "Old Testament"
+key_themes: "Christ's Call to Repentance, Judgment on Nations, God's Protection, Restoration of Judah"
+tags:
+  - christ
+  - judgment-on-nations
+  - god
+  - restoration-of-judah
+---
 # Zephaniah 2
 
 ---
@@ -117,7 +128,7 @@ Gather, together, gather, together, nation, desired, decree, bring, forth, day, 
 
 
 *AI Keywords for current event matching:*
-`ashkelon` `away` `call` `captivity` `christs` `coast` `day` `desolation` `evening` `feed` `forsaken` `gather` `gaza` `gods` `hid` `houses` `judah` `judgment` `lie` `lord` `meekness` `moab` `nations` `nineveh` `possess` `protection` `remnant` `repentance` `restoration` `righteousness` `seek` `sodom` `together` `turn` `visit`
+#ashkelon #away #call #captivity #christs #coast #day #desolation #evening #feed #forsaken #gather #gaza #gods #hid #houses #judah #judgment #lie #lord #meekness #moab #nations #nineveh #possess #protection #remnant #repentance #restoration #righteousness #seek #sodom #together #turn #visit
 
 
 ---

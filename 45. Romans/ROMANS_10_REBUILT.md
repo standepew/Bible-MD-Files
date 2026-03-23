@@ -1,3 +1,14 @@
+---
+book: "Romans"
+chapter: 10
+testament: "New Testament"
+key_themes: "Israel's Salvation, Christ the End of the Law, The Word of Faith, Salvation for All"
+tags:
+  - israel
+  - christ-the-end-of-the-law
+  - the-word-of-faith
+  - salvation-for-all
+---
 # Romans 10
 
 ---
@@ -117,7 +128,7 @@ Brethren, heart, desire, prayer, God, Israel, saved, bear, record, zeal, God, kn
 
 
 *AI Keywords for current event matching:*
-`above` `anger` `ascend` `ashamed` `asked` `bear` `beautiful` `believe` `believed` `believeth` `bold` `brethren` `bring` `call` `christ` `confess` `confession` `dead` `deep` `descend` `describeth` `desire` `difference` `disobedient` `doeth` `earth` `end` `esaias` `establish` `faith` `feet` `foolish` `found` `gainsaying` `glad` `god` `gospel` `greek` `hands` `hear` `heard` `hearing` `heart` `heaven` `ignorant` `israel` `israels` `jealousy` `jesus` `jew` `know` `knowledge` `law` `live` `lord` `made` `man` `manifest` `moses` `mouth` `nation` `nigh` `obeyed` `peace` `people` `prayer` `preach` `preacher` `provoke` `raised` `record` `report` `rich` `righteousness` `saith` `salvation` `saved` `scripture` `sent` `sought` `sound` `speak` `stretched` `submitted` `tidings` `wise` `word` `words` `world` `written` `zeal`
+#above #anger #ascend #ashamed #asked #bear #beautiful #believe #believed #believeth #bold #brethren #bring #call #christ #confess #confession #dead #deep #descend #describeth #desire #difference #disobedient #doeth #earth #end #esaias #establish #faith #feet #foolish #found #gainsaying #glad #god #gospel #greek #hands #hear #heard #hearing #heart #heaven #ignorant #israel #israels #jealousy #jesus #jew #know #knowledge #law #live #lord #made #man #manifest #moses #mouth #nation #nigh #obeyed #peace #people #prayer #preach #preacher #provoke #raised #record #report #rich #righteousness #saith #salvation #saved #scripture #sent #sought #sound #speak #stretched #submitted #tidings #wise #word #words #world #written #zeal
 
 
 ---

@@ -1,3 +1,14 @@
+---
+book: "Ephesians"
+chapter: 6
+testament: "New Testament"
+key_themes: "Family Relationships, Spiritual Warfare, The Armor of God, Final Benediction"
+tags:
+  - family-relationships
+  - spiritual-warfare
+  - the-armor-of-god
+  - final-benediction
+---
 # Ephesians 6
 
 ---
@@ -105,7 +116,7 @@ Children, obey, parents, Lord, right, Honour, father, mother, commandment, promi
 
 
 *AI Keywords for current event matching:*
-`admonition` `affairs` `ambassador` `amen` `armor` `armour` `beloved` `benediction` `blood` `boldly` `bond` `bonds` `breastplate` `brethren` `brother` `children` `christ` `comfort` `commandment` `darkness` `darts` `day` `devil` `done` `earth` `evil` `eyeservice` `faith` `faithful` `family` `father` `fathers` `fear` `feet` `fiery` `final` `flesh` `forbearing` `free` `girt` `god` `good` `gospel` `grace` `having` `heart` `hearts` `heaven` `helmet` `high` `honour` `jesus` `know` `knowing` `live` `loins` `long` `lord` `love` `master` `masters` `men` `menpleasers` `minister` `mother` `mouth` `mystery` `nurture` `obedient` `obey` `parents` `peace` `perseverance` `persons` `places` `power` `powers` `prayer` `praying` `preparation` `principalities` `promise` `provoke` `purpose` `quench` `receive` `relationships` `respect` `right` `righteousness` `rulers` `saints` `salvation` `servants` `service` `shield` `shod` `sincerity` `singleness` `speak` `spirit` `spiritual` `stand` `strong` `supplication` `sword` `thing` `threatening` `trembling` `truth` `tychicus` `utterance` `warfare` `watching` `well` `whole` `wicked` `wickedness` `wiles` `withstand` `word` `world` `wrath` `wrestle`
+#admonition #affairs #ambassador #amen #armor #armour #beloved #benediction #blood #boldly #bond #bonds #breastplate #brethren #brother #children #christ #comfort #commandment #darkness #darts #day #devil #done #earth #evil #eyeservice #faith #faithful #family #father #fathers #fear #feet #fiery #final #flesh #forbearing #free #girt #god #good #gospel #grace #having #heart #hearts #heaven #helmet #high #honour #jesus #know #knowing #live #loins #long #lord #love #master #masters #men #menpleasers #minister #mother #mouth #mystery #nurture #obedient #obey #parents #peace #perseverance #persons #places #power #powers #prayer #praying #preparation #principalities #promise #provoke #purpose #quench #receive #relationships #respect #right #righteousness #rulers #saints #salvation #servants #service #shield #shod #sincerity #singleness #speak #spirit #spiritual #stand #strong #supplication #sword #thing #threatening #trembling #truth #tychicus #utterance #warfare #watching #well #whole #wicked #wickedness #wiles #withstand #word #world #wrath #wrestle
 
 
 ---

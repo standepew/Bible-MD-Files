@@ -1,3 +1,17 @@
+---
+book: "Luke"
+chapter: 23
+testament: "New Testament"
+key_themes: "Jesus Before Pilate, Jesus Before Herod, Jesus Before the Crowd, The Crucifixion, The Two Criminals, The Death of Jesus, The Burial of Jesus"
+tags:
+  - jesus-before-pilate
+  - jesus-before-herod
+  - jesus-before-the-crowd
+  - the-crucifixion
+  - the-two-criminals
+  - the-death-of-jesus
+  - the-burial-of-jesus
+---
 # Luke 23
 
 ---
@@ -195,7 +209,7 @@ Multitude, arose, led, Pilate, accuse, found, fellow, perverting, nation, forbid
 
 
 *AI Keywords for current event matching:*
-`answered` `arimathæa` `barabbas` `begged` `body` `burial` `calvary` `cast` `centurion` `commend` `criminals` `crowd` `crucified` `crucifixion` `crucify` `cyrenian` `darkened` `darkness` `death` `deeds` `desirous` `earth` `exceeding` `father` `fault` `fear` `find` `forgive` `glad` `glorified` `god` `gorgeous` `hanged` `herod` `hewn` `hoped` `hour` `jesus` `jews` `joseph` `jurisdiction` `justly` `king` `kingdom` `lots` `loud` `malefactors` `miracles` `multitude` `nation` `nothing` `ointments` `paradise` `parted` `perverting` `pilate` `railed` `raiment` `release` `remember` `robe` `season` `sepulchre` `simon` `sixth` `spices` `spirit` `sun` `temple` `two` `veil` `voices` `worthy`
+#answered #arimathæa #barabbas #begged #body #burial #calvary #cast #centurion #commend #criminals #crowd #crucified #crucifixion #crucify #cyrenian #darkened #darkness #death #deeds #desirous #earth #exceeding #father #fault #fear #find #forgive #glad #glorified #god #gorgeous #hanged #herod #hewn #hoped #hour #jesus #jews #joseph #jurisdiction #justly #king #kingdom #lots #loud #malefactors #miracles #multitude #nation #nothing #ointments #paradise #parted #perverting #pilate #railed #raiment #release #remember #robe #season #sepulchre #simon #sixth #spices #spirit #sun #temple #two #veil #voices #worthy
 
 
 ---

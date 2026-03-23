@@ -1,3 +1,35 @@
+---
+book: "Numbers"
+chapter: 20
+testament: "Old Testament"
+key_themes: "Miriam dies at Kadesh — no lamentation recorded, no burial detail; the passing of the first generation begins, The people contend for water again — identical complaint to Exodus 17, but this is the second generation at the end of the forty years, God commands Moses to speak to the rock; Moses strikes it twice in anger — the one fatal act that costs him the promised land, "Because ye believed me not, to sanctify me in the eyes of the children of Israel" — Moses' sin is not anger but unbelief that failed to glorify God, Edom refuses Israel passage — the brother nation blocking the brother nation, Aaron dies on Mount Hor — the high priestly garments transferred to Eleazar; Aaron gathered to his people"
+tags:
+  - Miriam-dies-Kadesh
+  - no-water
+  - strove-with-Moses
+  - glory-of-LORD-appears
+  - speak-to-the-rock
+  - Moses-strikes-twice
+  - water-comes-abundantly
+  - Meribah
+  - believed-me-not
+  - sanctify-me-not
+  - Edom-refuses-passage
+  - mount-Hor
+  - Aaron-gathered-to-his-people
+  - garments-on-Eleazar
+  - Aaron-dies-on-the-mount
+  - thirty-days-mourning
+  - miriam-dies-at-kadesh
+  - the-passing-of-the-first-generation
+  - the-people-contend-for-water-again
+  - god-commands-moses-to-speak-to
+  - moses-strikes-it-twice-in-anger
+  - because-ye-believed-me-not-to
+  - edom-refuses-israel-passage
+  - aaron-dies-on-mount-hor
+  - aaron-gathered-to-his-people
+---
 # Numbers 20
 
 ---
@@ -69,7 +101,7 @@ The congregation comes to the wilderness of Zin in the first month — the forti
 
 
 *AI Keywords for current event matching:*
-`accountability` `barred` `cost` `current` `events` `failure` `land` `leaders` `leadership` `matching` `momentary` `moses` `numbers` `paying`
+#accountability #barred #cost #current #events #failure #land #leaders #leadership #matching #momentary #moses #numbers #paying
 
 
 ---
@@ -158,9 +190,9 @@ The rock struck once → water that sustained Israel for forty years → spoken 
 
 Numbers 20 records the deaths of two of the three leaders of the Exodus: Miriam at Kadesh (v.1), Aaron on Mount Hor (v.28). Moses will die on Mount Nebo (Deuteronomy 34). All three die in the wilderness without entering the land. The original leadership is being stripped away so that only the new generation enters Canaan under new leadership — Joshua.
 
-- **Deuteronomy 34:5-8** — Moses dies on Mount Nebo; thirty days mourning — same as Aaron
-- **Matthew 17:3** — at the Transfiguration, Moses and Elijah appear with Jesus: the two who died without entering the earthly land appear on the mountain of transformation, having entered the heavenly reality
-- **Hebrews 11:13** — "These all died in faith, not having received the promises, but having seen them afar off" — Moses and Aaron are among those who died in faith; their deaths in the wilderness are not defeats but acts of faith in the promise they did not receive in their own lifetime
+- [[05. Deuteronomy/DEU_34_REBUILT|Deuteronomy 34:5-8]] — Moses dies on Mount Nebo; thirty days mourning — same as Aaron
+- [[40. Matthew/MATTHEW_17_REBUILT|Matthew 17:3]] — at the Transfiguration, Moses and Elijah appear with Jesus: the two who died without entering the earthly land appear on the mountain of transformation, having entered the heavenly reality
+- [[58. Hebrews/HEBREWS_11_REBUILT|Hebrews 11:13]] — "These all died in faith, not having received the promises, but having seen them afar off" — Moses and Aaron are among those who died in faith; their deaths in the wilderness are not defeats but acts of faith in the promise they did not receive in their own lifetime
 
 **What the Bible establishes:** The three wilderness leaders — Miriam, Aaron, Moses — all die before the crossing of Jordan. The Jordan crossing is reserved for the new generation under Joshua (Jesus). The old creation leadership does not enter the rest; the new creation leader brings his people through. This is not their failure — it is the structure of the type. Moses and Aaron were never meant to be what Joshua was; they were the scaffold, not the building.
 

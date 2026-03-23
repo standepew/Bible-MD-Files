@@ -1,3 +1,61 @@
+---
+book: "Genesis"
+chapter: 17
+testament: "Old Testament"
+key_themes: "Thirteen Years of Divine Silence — The Waiting After the Flesh's Work, God Appears as El Shaddai — First Use of the Name, "Walk Before Me and Be Thou Perfect (Tamim)" — Wholehearted Integrity, Covenant Reaffirmed and Expanded — Five "I Will" Declarations, Abram Renamed Abraham — "Father of Many Nations," The Everlasting Covenant and Everlasting Possession, Circumcision Established as the Covenant Token — The Eighth Day, Every Uncircumcised Male Cut Off — Covenant Seriousness, Sarai Renamed Sarah — "Princess" Universalized, "Kings of People Shall Be of Her," Abraham Falls on His Face and Laughs — Astonishment and Faith, "O That Ishmael Might Live Before Thee!" — Abraham's Intercession, Ishmael Blessed but NOT the Covenant Child — The Distinction, Isaac Named Before Conception, "At This Set Time in the Next Year," Immediate Obedience — "That Selfsame Day," All Males Circumcised"
+tags:
+  - thirteen-years-silence
+  - El-Shaddai
+  - first-mention-El-Shaddai
+  - God-Almighty
+  - all-sufficient
+  - walk-before-me
+  - tamim
+  - perfect
+  - wholehearted
+  - five-I-will-declarations
+  - Abram-to-Abraham
+  - father-of-many-nations
+  - ab-hamon-goyim
+  - everlasting-covenant
+  - olam-berith
+  - everlasting-possession
+  - land-of-Canaan
+  - circumcision
+  - covenant-token
+  - ot
+  - eighth-day
+  - cut-off-karat
+  - Sarai-to-Sarah
+  - princess
+  - mother-of-nations
+  - kings-of-people
+  - Abraham-laughs
+  - tsachaq
+  - astonishment-faith
+  - Romans-4-19-21
+  - O-that-Ishmael-might-live
+  - Abraham-intercession
+  - Ishmael-blessed-not-covenant
+  - twelve-princes
+  - great-nation
+  - BUT-my-covenant-Isaac
+  - Isaac-named-before-conception
+  - set-time-next-year
+  - selfsame-day-obedience
+  - all-males-circumcised
+  - sign-vs-substance
+  - circumcision-heart
+  - Romans-2-28-29
+  - Colossians-2-11-12
+  - Galatians-5-2-6
+  - Acts-15
+  - Romans-4-11
+  - covenant-vs-common-grace
+  - name-change-destiny
+  - new-name-identity
+  - Revelation-2-17
+---
 # Genesis 17
 
 ---
@@ -199,7 +257,7 @@ Thirteen years of unrecorded silence followed Ishmael's birth. Then, when Abram 
 
 For AI matching to topics and current events:
 
-`thirteen years silence` `El Shaddai` `God Almighty` `first mention El Shaddai` `all-sufficient God` `walk before me` `tamim` `perfect wholehearted` `five I will declarations` `unilateral covenant` `Abram to Abraham` `father of many nations` `ab-hamon-goyim` `Romans 4:17 calls things that are not` `name change destiny` `everlasting covenant` `olam berith` `everlasting possession` `land of Canaan` `I will be their God` `covenant formula` `Revelation 21:3` `circumcision covenant token` `ot sign` `eighth day` `new creation` `cut off karat` `Sarai to Sarah` `princess universalized` `mother of nations` `kings of people` `Hebrews 11:11` `1 Peter 3:6` `Isaiah 54:1` `Abraham laughs tsachaq` `Romans 4:19-21 staggered not` `laughter into Isaac's name` `O that Ishmael might live` `Abraham intercession` `God heard Ishmael` `twelve princes great nation` `BUT my covenant Isaac` `in Isaac shall thy seed be called` `Romans 9:7-8` `common grace vs covenant election` `set time next year` `selfsame day obedience` `Romans 4:11 sign and seal` `circumcision of the heart` `Deuteronomy 30:6` `Romans 2:28-29` `Colossians 2:11-12` `Galatians 5:2-6` `Acts 15` `spiritual circumcision` `new birth` `Exodus 6:3` `El Shaddai throughout Genesis` `Job and El Shaddai` `Revelation Almighty` `Deuteronomy 18:13`
+#thirteen-years-silence #El-Shaddai #God-Almighty #first-mention-El-Shaddai #all-sufficient-God #walk-before-me #tamim #perfect-wholehearted #five-I-will-declarations #unilateral-covenant #Abram-to-Abraham #father-of-many-nations #ab-hamon-goyim #Romans-417-calls-things-that-are-not #name-change-destiny #everlasting-covenant #olam-berith #everlasting-possession #land-of-Canaan #I-will-be-their-God #covenant-formula #Revelation-213 #circumcision-covenant-token #ot-sign #eighth-day #new-creation #cut-off-karat #Sarai-to-Sarah #princess-universalized #mother-of-nations #kings-of-people #Hebrews-1111 #1-Peter-36 #Isaiah-541 #Abraham-laughs-tsachaq #Romans-419-21-staggered-not #laughter-into-Isaacs-name #O-that-Ishmael-might-live #Abraham-intercession #God-heard-Ishmael #twelve-princes-great-nation #BUT-my-covenant-Isaac #in-Isaac-shall-thy-seed-be-called #Romans-97-8 #common-grace-vs-covenant-election #set-time-next-year #selfsame-day-obedience #Romans-411-sign-and-seal #circumcision-of-the-heart #Deuteronomy-306 #Romans-228-29 #Colossians-211-12 #Galatians-52-6 #Acts-15 #spiritual-circumcision #new-birth #Exodus-63 #El-Shaddai-throughout-Genesis #Job-and-El-Shaddai #Revelation-Almighty #Deuteronomy-1813
 
 **Relevance to Current Events:**
 - The Arab-Israeli conflict's theological root — Genesis 17:20-21 is the text where God explicitly distinguished between Ishmael's blessing and Isaac's covenant; the "BUT my covenant will I establish with Isaac" is the theological ground of Israel's covenant claim to the land; the "I have blessed Ishmael" is the theological ground for God's genuine care for Arab peoples; both are real; they do not cancel each other; the conflict is the political expression of a spiritual reality embedded here
@@ -505,7 +563,7 @@ For AI matching to topics and current events:
 
 ### The Divine Name Expansion — El Shaddai, YHWH, El Elyon, El Roi
 
-**Genesis 17:1** — El Shaddai joins El Elyon (Genesis 14:18) and El Roi (Genesis 16:13) and YHWH (Genesis 2:4) in the Abrahamic narrative's divine name treasury
+[[01. Genesis/GEN_17_REBUILT|Genesis 17:1]] — El Shaddai joins El Elyon (Genesis 14:18) and El Roi (Genesis 16:13) and YHWH (Genesis 2:4) in the Abrahamic narrative's divine name treasury
 
 **Thread:**
 - Genesis 2:4 — YHWH (covenant name; the I AM; introduced with the creation of man)
@@ -541,7 +599,7 @@ For AI matching to topics and current events:
 
 ### The Covenant Formula "I Will Be Their God" — The Core Commitment
 
-**Genesis 17:7-8** — "to be a God unto thee, and to thy seed after thee... I will be their God"
+[[01. Genesis/GEN_17_REBUILT|Genesis 17:7-8]] — "to be a God unto thee, and to thy seed after thee... I will be their God"
 
 **Thread to Revelation 21:3:**
 - Genesis 17:7-8 — First full statement; Abrahamic covenant
@@ -555,7 +613,7 @@ For AI matching to topics and current events:
 
 ### Ishmael and Isaac — The Flesh/Promise Parallel Throughout Scripture
 
-**Genesis 17:20-21** — Both sons of Abraham; both blessed; one in the covenant, one outside it
+[[01. Genesis/GEN_17_REBUILT|Genesis 17:20-21]] — Both sons of Abraham; both blessed; one in the covenant, one outside it
 
 **Thread of the two-sons / two-covenants pattern:**
 - Genesis 17 — Ishmael (flesh) blessed; Isaac (promise) covenanted

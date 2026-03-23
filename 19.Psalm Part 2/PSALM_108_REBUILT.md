@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 108
+testament: "Old Testament"
+key_themes: "Fixed Heart, Divine Praise, God's Glory, Victory Through God"
+tags:
+  - fixed-heart
+  - divine-praise
+  - god
+  - victory-through-god
+---
 # Psalm 108
 
 ---
@@ -153,7 +164,7 @@ Song, Psalm, David, GOD, heart, fixed, sing, give, praise, glory, Awake, psalter
 
 
 *AI Keywords for current event matching:*
-`answer` `awake` `beloved` `clouds` `delivered` `divine` `early` `earth` `enemies` `exalted` `fixed` `give` `glory` `god` `gods` `great` `hand` `harp` `heart` `heavens` `holiness` `lord` `mercy` `nations` `people` `praise` `praises` `psaltery` `reacheth` `rejoice` `right` `save` `sing` `spoken` `tread` `truth` `valiantly` `victory`
+#answer #awake #beloved #clouds #delivered #divine #early #earth #enemies #exalted #fixed #give #glory #god #gods #great #hand #harp #heart #heavens #holiness #lord #mercy #nations #people #praise #praises #psaltery #reacheth #rejoice #right #save #sing #spoken #tread #truth #valiantly #victory
 
 
 ---

@@ -1,3 +1,14 @@
+---
+book: "Ezekiel"
+chapter: 25
+testament: "Old Testament"
+key_themes: "Christ's Vengeance, Ammonite Judgment, Moab Condemnation, Divine Justice"
+tags:
+  - christ
+  - ammonite-judgment
+  - moab-condemnation
+  - divine-justice
+---
 # Ezekiel 25
 
 ---
@@ -105,7 +116,7 @@ Word, Lord, son, man, face, Ammonites, prophesy, Ammonites, word, Lord, GOD, Aha
 
 
 *AI Keywords for current event matching:*
-`ammonite` `camels` `christs` `cities` `clapped` `condemnation` `cut` `deliver` `despiteful` `divine` `east` `execute` `frontiers` `furious` `hand` `hands` `heart` `judgment` `justice` `know` `lord` `men` `moab` `open` `people` `rebukes` `rejoiced` `remembered` `side` `spoil` `stable` `stretch` `taking` `vengeance`
+#ammonite #camels #christs #cities #clapped #condemnation #cut #deliver #despiteful #divine #east #execute #frontiers #furious #hand #hands #heart #judgment #justice #know #lord #men #moab #open #people #rebukes #rejoiced #remembered #side #spoil #stable #stretch #taking #vengeance
 
 
 ---

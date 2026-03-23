@@ -1,3 +1,14 @@
+---
+book: "Revelation"
+chapter: 4
+testament: "New Testament"
+key_themes: "The Heavenly Throne Room, The Four and Twenty Elders, The Four Living Creatures, Worship Around the Throne"
+tags:
+  - the-heavenly-throne-room
+  - the-four-and-twenty-elders
+  - the-four-living-creatures
+  - worship-around-the-throne
+---
 # Revelation 4
 
 ---
@@ -93,7 +104,7 @@ Door, opened, heaven, voice, trumpet, talking, Come, shew, things, hereafter, im
 
 
 *AI Keywords for current event matching:*
-`almighty` `around` `beast` `beasts` `burning` `calf` `cast` `clothed` `come` `created` `creatures` `crowns` `crystal` `day` `door` `eagle` `elders` `emerald` `eyes` `face` `fall` `fire` `first` `flying` `four` `fourth` `full` `glass` `glory` `god` `gold` `heads` `heaven` `heavenly` `hereafter` `holy` `honour` `immediately` `jasper` `lamps` `lightnings` `lion` `liveth` `living` `lord` `man` `midst` `night` `opened` `pleasure` `power` `proceeded` `raiment` `rainbow` `receive` `rest` `room` `round` `sardine` `sat` `sea` `seats` `second` `set` `seven` `shew` `sitting` `six` `spirit` `spirits` `stone` `talking` `thanks` `things` `third` `throne` `thunderings` `trumpet` `twenty` `voice` `voices` `white` `wings` `worship` `worthy`
+#almighty #around #beast #beasts #burning #calf #cast #clothed #come #created #creatures #crowns #crystal #day #door #eagle #elders #emerald #eyes #face #fall #fire #first #flying #four #fourth #full #glass #glory #god #gold #heads #heaven #heavenly #hereafter #holy #honour #immediately #jasper #lamps #lightnings #lion #liveth #living #lord #man #midst #night #opened #pleasure #power #proceeded #raiment #rainbow #receive #rest #room #round #sardine #sat #sea #seats #second #set #seven #shew #sitting #six #spirit #spirits #stone #talking #thanks #things #third #throne #thunderings #trumpet #twenty #voice #voices #white #wings #worship #worthy
 
 
 ---

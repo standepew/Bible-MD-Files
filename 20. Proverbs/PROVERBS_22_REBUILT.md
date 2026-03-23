@@ -1,3 +1,14 @@
+---
+book: "Proverbs"
+chapter: 22
+testament: "Old Testament"
+key_themes: "Good Name and Riches, Divine Creation, Wisdom and Instruction, Justice and Mercy"
+tags:
+  - good-name-and-riches
+  - divine-creation
+  - wisdom-and-instruction
+  - justice-and-mercy
+---
 # Proverbs 22
 
 ---
@@ -129,7 +140,7 @@ Good, name, chosen, great, riches, loving, favour, silver, gold, rich, poor, mee
 
 
 *AI Keywords for current event matching:*
-`ancient` `bow` `cause` `child` `chosen` `counsels` `creation` `depart` `divine` `ear` `excellent` `eyes` `favour` `gold` `good` `great` `hear` `increase` `instruction` `justice` `knowledge` `landmark` `lord` `loving` `maker` `meet` `mercy` `name` `old` `oppress` `plead` `poor` `preserve` `remove` `rich` `riches` `silver` `things` `train` `way` `wisdom` `wise` `words`
+#ancient #bow #cause #child #chosen #counsels #creation #depart #divine #ear #excellent #eyes #favour #gold #good #great #hear #increase #instruction #justice #knowledge #landmark #lord #loving #maker #meet #mercy #name #old #oppress #plead #poor #preserve #remove #rich #riches #silver #things #train #way #wisdom #wise #words
 
 
 ---

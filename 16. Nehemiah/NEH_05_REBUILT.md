@@ -1,3 +1,17 @@
+---
+book: "Nehemiah"
+chapter: 5
+testament: "Old Testament"
+key_themes: "Economic Oppression, Nehemiah's Anger, Usury Reform, Personal Sacrifice"
+tags:
+  - sons-daughters-corn-eat-live
+  - angry-heard-cry-words
+  - think-GOD-good-people
+  - economic-oppression
+  - nehemiah
+  - usury-reform
+  - personal-sacrifice
+---
 # Nehemiah 5
 
 ---
@@ -165,7 +179,7 @@ Great, cry, people, wives, brethren, Jews. Sons, daughters, corn, eat, live. Mor
 
 
 *AI Keywords for current event matching:*
-`ability` `amen` `anger` `angry` `answer` `appointed` `artaxerxes` `assembly` `bare` `bondage` `borrowed` `bought` `bread` `brethren` `brother` `brothers` `chargeable` `children` `choice` `congregation` `consulted` `continued` `corn` `cry` `daily` `daughters` `day` `days` `dearth` `eat` `economic` `emptied` `enemies` `exact` `fear` `fifty` `flesh` `former` `forty` `fowls` `gathered` `god` `good` `governor` `governors` `great` `heard` `heathen` `heavy` `held` `house` `houses` `hundred` `hundredth` `jews` `judah` `king` `labour` `land` `lands` `lap` `live` `lord` `men` `money` `mortgaged` `nehemiahs` `nobles` `oath` `oil` `oliveyards` `oppression` `peace` `people` `perform` `personal` `praised` `prepared` `priests` `promise` `rebuked` `redeem` `redeemed` `reform` `reproach` `require` `required` `restore` `rule` `rulers` `sacrifice` `sell` `servants` `shake` `shaken` `sheep` `shekels` `shook` `silver` `six` `sold` `sons` `table` `ten` `think` `thirtieth` `tribute` `twelve` `twentieth` `two` `usury` `vineyards` `walk` `wall` `wine` `wives` `words` `work` `year` `years`
+#ability #amen #anger #angry #answer #appointed #artaxerxes #assembly #bare #bondage #borrowed #bought #bread #brethren #brother #brothers #chargeable #children #choice #congregation #consulted #continued #corn #cry #daily #daughters #day #days #dearth #eat #economic #emptied #enemies #exact #fear #fifty #flesh #former #forty #fowls #gathered #god #good #governor #governors #great #heard #heathen #heavy #held #house #houses #hundred #hundredth #jews #judah #king #labour #land #lands #lap #live #lord #men #money #mortgaged #nehemiahs #nobles #oath #oil #oliveyards #oppression #peace #people #perform #personal #praised #prepared #priests #promise #rebuked #redeem #redeemed #reform #reproach #require #required #restore #rule #rulers #sacrifice #sell #servants #shake #shaken #sheep #shekels #shook #silver #six #sold #sons #table #ten #think #thirtieth #tribute #twelve #twentieth #two #usury #vineyards #walk #wall #wine #wives #words #work #year #years
 
 
 ---

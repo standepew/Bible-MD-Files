@@ -1,3 +1,14 @@
+---
+book: "John"
+chapter: 15
+testament: "New Testament"
+key_themes: "The True Vine, Abiding in Christ, The Commandment to Love, The World's Hatred"
+tags:
+  - the-true-vine
+  - abiding-in-christ
+  - the-commandment-to-love
+  - the-world
+---
 # John 15
 
 ---
@@ -117,7 +128,7 @@ True, vine, Father, husbandman, branch, beareth, fruit, taketh, branch, beareth,
 
 
 *AI Keywords for current event matching:*
-`abide` `abideth` `abiding` `ask` `away` `bear` `branch` `branches` `bring` `bringeth` `burned` `cast` `cause` `chosen` `christ` `clean` `cloke` `command` `commandment` `commandments` `continue` `disciples` `done` `father` `fire` `forth` `friends` `fruit` `fulfilled` `full` `glorified` `greater` `hate` `hated` `hateth` `hatred` `heard` `husbandman` `joy` `keep` `kept` `know` `knoweth` `known` `lay` `life` `lord` `love` `loved` `name` `nothing` `ordained` `persecute` `persecuted` `purgeth` `remain` `sake` `saying` `seen` `sent` `servant` `servants` `sin` `spoken` `taketh` `true` `vine` `withered` `without` `word` `words` `works` `world` `worlds`
+#abide #abideth #abiding #ask #away #bear #branch #branches #bring #bringeth #burned #cast #cause #chosen #christ #clean #cloke #command #commandment #commandments #continue #disciples #done #father #fire #forth #friends #fruit #fulfilled #full #glorified #greater #hate #hated #hateth #hatred #heard #husbandman #joy #keep #kept #know #knoweth #known #lay #life #lord #love #loved #name #nothing #ordained #persecute #persecuted #purgeth #remain #sake #saying #seen #sent #servant #servants #sin #spoken #taketh #true #vine #withered #without #word #words #works #world #worlds
 
 
 ---

@@ -1,3 +1,29 @@
+---
+book: "Exodus"
+chapter: 7
+testament: "Old Testament"
+key_themes: "Moses as a god to Pharaoh, Aaron as prophet, The purpose of hardening, The first plague — water to blood, Magicians counterfeit the sign, Pharaoh's heart hardened, The Nile judged, "That they shall know I am the LORD""
+tags:
+  - Moses-god-to-Pharaoh
+  - Aaron-prophet
+  - hardened-heart
+  - plague-1
+  - water-to-blood
+  - Nile-to-blood
+  - magicians
+  - enchantments
+  - fish-die
+  - river-stinks
+  - seven-days
+  - Egyptians-dig-for-water
+  - signs-and-wonders
+  - counterfeit-miracles
+  - Pharaoh-hardened
+  - know-I-am-the-LORD
+  - judgment-on-Egypt
+  - judgment-on-Egyptian-gods
+  - Nile-god-Hapi
+---
 # Exodus 7
 
 ---
@@ -99,7 +125,7 @@ God commissions Moses and Aaron with clarified roles: Moses is as a god to Phara
 
 
 *AI Keywords for current event matching:*
-`711-12` `counterfeit` `current` `events` `exodus` `false` `genuine` `magicians` `matching` `miracles` `replicate` `signs` `swallows`
+#711-12 #counterfeit #current #events #exodus #false #genuine #magicians #matching #miracles #replicate #signs #swallows
 
 
 ---
@@ -222,12 +248,12 @@ Each plague targets a specific Egyptian deity — God is dismantling the religio
 
 ### Blood — Life, Death, and Judgment
 
-- **Genesis 4:10** — "The voice of thy brother's blood crieth unto me from the ground" — blood speaks
-- **Leviticus 17:11** — "The life of the flesh is in the blood: and I have given it to you upon the altar to make an atonement"
-- **Exodus 7:17** — The Nile turned to blood = death, not life; judgment, not sustenance
+- [[01. Genesis/GEN_04_REBUILT|Genesis 4:10]] — "The voice of thy brother's blood crieth unto me from the ground" — blood speaks
+- [[03. Leviticus/LEV_17_REBUILT|Leviticus 17:11]] — "The life of the flesh is in the blood: and I have given it to you upon the altar to make an atonement"
+- [[02. Exodus/EXO_07_REBUILT|Exodus 7:17]] — The Nile turned to blood = death, not life; judgment, not sustenance
 - **Exodus 12** — Blood on the doorposts = life and protection
-- **Matthew 26:28** — "This is my blood of the new testament, which is shed for many for the remission of sins"
-- **Revelation 16:6** — "For they have shed the blood of saints and prophets, and thou hast given them blood to drink"
+- [[40. Matthew/MATTHEW_26_REBUILT|Matthew 26:28]] — "This is my blood of the new testament, which is shed for many for the remission of sins"
+- [[66. Revelation/REVELATION_16_REBUILT|Revelation 16:6]] — "For they have shed the blood of saints and prophets, and thou hast given them blood to drink"
 - *Thread:* Blood in Scripture is simultaneously the most powerful symbol of life (Leviticus 17:11), judgment (Exodus 7), protection (Exodus 12), and redemption (Matthew 26:28). The first plague turning water to blood is the inversion of blessing — what sustained life becomes the sign of judgment. The same blood that saves God's people (Passover) judges His enemies (plague).
 
 ---

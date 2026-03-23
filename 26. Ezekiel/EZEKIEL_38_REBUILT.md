@@ -1,3 +1,13 @@
+---
+book: "Ezekiel"
+chapter: 38
+testament: "Old Testament"
+key_themes: "Christ's Victory, Gog Magog, Divine Judgment, Christ's Glory"
+tags:
+  - christ
+  - gog-magog
+  - divine-judgment
+---
 # Ezekiel 38
 
 ---
@@ -129,7 +139,7 @@ Word, Lord, son, man, face, Gog, land, Magog, chief, prince, Meshech, Tubal, pro
 
 
 *AI Keywords for current event matching:*
-`army` `back` `blood` `bring` `chief` `christs` `company` `divine` `eyes` `face` `forth` `fury` `glory` `gog` `great` `judgment` `know` `known` `latter` `lord` `magnify` `magog` `many` `meshech` `mighty` `mountains` `nations` `pestilence` `prince` `sanctify` `set` `shaking` `sword` `tubal` `turn` `victory` `years`
+#army #back #blood #bring #chief #christs #company #divine #eyes #face #forth #fury #glory #gog #great #judgment #know #known #latter #lord #magnify #magog #many #meshech #mighty #mountains #nations #pestilence #prince #sanctify #set #shaking #sword #tubal #turn #victory #years
 
 
 ---

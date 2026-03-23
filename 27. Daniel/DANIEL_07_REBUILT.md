@@ -1,3 +1,14 @@
+---
+book: "Daniel"
+chapter: 7
+testament: "Old Testament"
+key_themes: "Christ's Kingdom, Ancient of Days, Son of Man, Saints' Victory"
+tags:
+  - christ
+  - ancient-of-days
+  - son-of-man
+  - saints
+---
 # Daniel 7
 
 ---
@@ -105,7 +116,7 @@ First, year, Belshazzar, king, Babylon, Daniel, dream, visions, head, bed, wrote
 
 
 *AI Keywords for current event matching:*
-`ancient` `burning` `christs` `clouds` `days` `destroyed` `dominion` `everlasting` `fiery` `garment` `glory` `hair` `heaven` `highest` `judgment` `kingdom` `man` `obey` `possess` `pure` `saints` `serve` `son` `take` `throne` `victory` `wheels` `white` `wool`
+#ancient #burning #christs #clouds #days #destroyed #dominion #everlasting #fiery #garment #glory #hair #heaven #highest #judgment #kingdom #man #obey #possess #pure #saints #serve #son #take #throne #victory #wheels #white #wool
 
 
 ---

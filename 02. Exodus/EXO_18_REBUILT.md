@@ -1,3 +1,38 @@
+---
+book: "Exodus"
+chapter: 18
+testament: "Old Testament"
+key_themes: "Jethro comes to Moses, Jethro's confession — "Now I know that the LORD is greater than all gods," The burnt offering and communion meal before God, Moses judging the people alone, Jethro's counsel — delegate authority, Rulers of thousands/hundreds/fifties/tens, Qualifications for leadership, Moses heeds the voice of his father-in-law"
+tags:
+  - Jethro
+  - Midianite-priest
+  - Moses-father-in-law
+  - Zipporah-returned
+  - Gershom
+  - Eliezer
+  - Jethro-hears-what-God-did
+  - Jethro-rejoices
+  - now-I-know-the-LORD-greater
+  - burnt-offering
+  - elders-eat-before-God
+  - Moses-judges-alone
+  - morning-to-evening
+  - wearing-away
+  - counsel
+  - delegate
+  - rulers-of-thousands
+  - rulers-of-hundreds
+  - rulers-of-fifties
+  - rulers-of-tens
+  - able-men
+  - fear-God
+  - men-of-truth
+  - hating-covetousness
+  - hard-causes-to-Moses
+  - delegated-authority
+  - Gentile-wisdom
+  - separation-of-powers
+---
 # Exodus 18
 
 ---
@@ -95,7 +130,7 @@ Jethro, Moses' Midianite father-in-law, hears all that God did for Moses and Isr
 
 
 *AI Keywords for current event matching:*
-`1817-18` `away` `burnout` `current` `events` `exodus` `leadership` `matching` `surely` `systems` `unsustainable` `wear` `wilt`
+#1817-18 #away #burnout #current #events #exodus #leadership #matching #surely #systems #unsustainable #wear #wilt
 
 
 ---

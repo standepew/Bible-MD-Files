@@ -1,3 +1,14 @@
+---
+book: "2 Chronicles"
+chapter: 36
+testament: "Old Testament"
+key_themes: "Final Kings, Babylonian Exile, Temple Destruction, Prophetic Fulfillment"
+tags:
+  - final-kings
+  - babylonian-exile
+  - temple-destruction
+  - prophetic-fulfillment
+---
 # 2 Chronicles 36
 
 ---
@@ -165,7 +176,7 @@ People, land, Jehoahaz, son, Josiah, king, father, stead, Jerusalem. Jehoahaz, t
 
 
 *AI Keywords for current event matching:*
-`abominations` `accomplished` `acts` `age` `arose` `babylon` `babylonian` `betimes` `book` `brake` `brother` `brought` `build` `burnt` `carried` `carry` `chaldees` `charged` `chief` `compassion` `condemned` `corruption` `cyrus` `days` `desolate` `despised` `destroyed` `dwelling` `earth` `egypt` `eight` `eleven` `eliakim` `escaped` `evil` `exile` `expired` `father` `fathers` `fetters` `final` `fire` `first` `five` `found` `fulfil` `fulfillment` `given` `god` `gold` `goodly` `great` `hallowed` `hand` `hardened` `heart` `heathen` `heaven` `house` `humbled` `hundred` `israel` `jehoahaz` `jehoiachin` `jehoiakim` `jeremiah` `jerusalem` `josiah` `judah` `king` `kingdom` `kingdoms` `kings` `land` `long` `lord` `maiden` `man` `men` `messengers` `misused` `mocked` `months` `mouth` `name` `national` `nebuchadnezzar` `necho` `neck` `old` `one` `palaces` `people` `persia` `place` `polluted` `priests` `princes` `proclamation` `prophet` `prophetic` `prophets` `rebelled` `reign` `reigned` `remedy` `rising` `sabbath` `sabbaths` `sanctuary` `saying` `sending` `servants` `sight` `silver` `slew` `small` `son` `sons` `spirit` `stead` `stiffened` `stirred` `stooped` `swear` `sword` `talent` `talents` `temple` `ten` `three` `threescore` `transgressed` `treasures` `turned` `turning` `twenty` `vessels` `wall` `word` `words` `wrath` `writing` `year` `years` `young` `zedekiah`
+#abominations #accomplished #acts #age #arose #babylon #babylonian #betimes #book #brake #brother #brought #build #burnt #carried #carry #chaldees #charged #chief #compassion #condemned #corruption #cyrus #days #desolate #despised #destroyed #dwelling #earth #egypt #eight #eleven #eliakim #escaped #evil #exile #expired #father #fathers #fetters #final #fire #first #five #found #fulfil #fulfillment #given #god #gold #goodly #great #hallowed #hand #hardened #heart #heathen #heaven #house #humbled #hundred #israel #jehoahaz #jehoiachin #jehoiakim #jeremiah #jerusalem #josiah #judah #king #kingdom #kingdoms #kings #land #long #lord #maiden #man #men #messengers #misused #mocked #months #mouth #name #national #nebuchadnezzar #necho #neck #old #one #palaces #people #persia #place #polluted #priests #princes #proclamation #prophet #prophetic #prophets #rebelled #reign #reigned #remedy #rising #sabbath #sabbaths #sanctuary #saying #sending #servants #sight #silver #slew #small #son #sons #spirit #stead #stiffened #stirred #stooped #swear #sword #talent #talents #temple #ten #three #threescore #transgressed #treasures #turned #turning #twenty #vessels #wall #word #words #wrath #writing #year #years #young #zedekiah
 
 
 ---

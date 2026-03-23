@@ -1,3 +1,42 @@
+---
+book: "Judges"
+chapter: 11
+testament: "Old Testament"
+key_themes: "Jephthah's Background, Rejected Son, Leadership Call, Diplomatic Negotiation, Historical Defense, Vow Tragedy, Daughter's Sacrifice, Annual Lamentation"
+tags:
+  - Gilead-begat-Jephthah
+  - Gilead-wife-bare-sons
+  - gathered-vain-men-Jephthah-went
+  - children-Ammon-war-Israel
+  - Come-captain-fight-children-Ammon
+  - come-distress
+  - elders-Gilead-LORD-witness-words
+  - Jephthah-uttered-words-LORD-Mizpeh
+  - Jephthah-messengers-king-children-Ammon
+  - fight-land
+  - king-children-Ammon-messengers-Jephthah
+  - restore-lands-peaceably
+  - Israel-abode-Kadesh
+  - Arnon-border-Moab
+  - pass-land-place
+  - Sihon-trusted-Israel-pass-coast
+  - possess
+  - Chemosh-god-giveth-possess
+  - LORD-God-drive-out-possess
+  - strive-Israel-fight
+  - recover-time
+  - Jephthah-vowed-vow-LORD
+  - deliver-children-Ammon-hands
+  - children-Ammon-subdued-children-Israel
+  - jephthah
+  - rejected-son
+  - leadership-call
+  - diplomatic-negotiation
+  - historical-defense
+  - vow-tragedy
+  - daughter
+  - annual-lamentation
+---
 # Judges 11
 
 ---
@@ -95,7 +134,7 @@ Jephthah the Gileadite, a mighty warrior, is Gilead's son by a harlot. Gilead's 
 
 
 *AI Keywords for current event matching:*
-`abode` `against` `alas` `ammon` `amorites` `annual` `argument` `arnon` `aroer` `back` `background` `balak` `bare` `begat` `beside` `better` `bewail` `bewailed` `border` `brethren` `bring` `brought` `burnt` `came` `captain` `chemosh` `child` `children` `cities` `clothes` `coast` `coasts` `come` `cometh` `companions` `compassed` `consent` `country` `custom` `dances` `daughter` `daughters` `day` `days` `defense` `deliver` `delivered` `diplomatic` `dispossessed` `distress` `divine` `doors` `drive` `dwelt` `east` `edom` `egypt` `elders` `empowerment` `end` `enemies` `exile` `expel` `father` `fellows` `fetch` `fight` `fled` `fought` `four` `fulfillment` `gathered` `gilead` `gileadite` `giveth` `god` `great` `grew` `hand` `hands` `harlot` `hate` `head` `hearken` `hearkened` `heshbon` `historical` `home` `house` `hundred` `inhabitants` `inherit` `israel` `jabbok` `jahaz` `jephthah` `jephthahs` `jordan` `judge` `kadesh` `king` `knew` `lament` `land` `lands` `leadership` `let` `lord` `low` `man` `manasseh` `meet` `men` `messengers` `mighty` `military` `minnith` `mission` `mizpeh` `moab` `months` `mountains` `mouth` `negotiation` `offering` `opened` `pass` `passed` `peace` `peaceably` `people` `pitched` `place` `plain` `possess` `possessed` `proceeded` `process` `recover` `red` `rent` `restore` `returned` `saw` `sea` `sent` `side` `sihon` `sinned` `slaughter` `smote` `son` `sons` `spirit` `strange` `strive` `subdued` `taken` `theological` `three` `thrust` `timbrels` `time` `tob` `took` `towns` `tragic` `trouble` `trusted` `turn` `twenty` `two` `uttered` `vain` `valour` `vengeance` `victory` `vineyards` `virginity` `vow` `vowed` `war` `went` `wife` `wilderness` `within` `witness` `woman` `words` `wrong` `year` `yearly` `years` `zippor`
+#abode #against #alas #ammon #amorites #annual #argument #arnon #aroer #back #background #balak #bare #begat #beside #better #bewail #bewailed #border #brethren #bring #brought #burnt #came #captain #chemosh #child #children #cities #clothes #coast #coasts #come #cometh #companions #compassed #consent #country #custom #dances #daughter #daughters #day #days #defense #deliver #delivered #diplomatic #dispossessed #distress #divine #doors #drive #dwelt #east #edom #egypt #elders #empowerment #end #enemies #exile #expel #father #fellows #fetch #fight #fled #fought #four #fulfillment #gathered #gilead #gileadite #giveth #god #great #grew #hand #hands #harlot #hate #head #hearken #hearkened #heshbon #historical #home #house #hundred #inhabitants #inherit #israel #jabbok #jahaz #jephthah #jephthahs #jordan #judge #kadesh #king #knew #lament #land #lands #leadership #let #lord #low #man #manasseh #meet #men #messengers #mighty #military #minnith #mission #mizpeh #moab #months #mountains #mouth #negotiation #offering #opened #pass #passed #peace #peaceably #people #pitched #place #plain #possess #possessed #proceeded #process #recover #red #rent #restore #returned #saw #sea #sent #side #sihon #sinned #slaughter #smote #son #sons #spirit #strange #strive #subdued #taken #theological #three #thrust #timbrels #time #tob #took #towns #tragic #trouble #trusted #turn #twenty #two #uttered #vain #valour #vengeance #victory #vineyards #virginity #vow #vowed #war #went #wife #wilderness #within #witness #woman #words #wrong #year #yearly #years #zippor
 
 
 ---

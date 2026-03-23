@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 51
+testament: "Old Testament"
+key_themes: "Repentance, Confession, Clean Heart, Joy of Salvation"
+tags:
+  - repentance
+  - confession
+  - clean-heart
+  - joy-of-salvation
+---
 # Psalm 51
 
 ---
@@ -129,7 +140,7 @@ Chief, Musician, Psalm, David, Nathan, prophet, came, Bath, sheba, mercy, GOD, l
 
 
 *AI Keywords for current event matching:*
-`acknowledge` `aloud` `bath` `bloodguiltiness` `blot` `bones` `broken` `came` `cast` `chief` `clean` `cleanse` `clear` `conceive` `confession` `contrite` `create` `david` `deliver` `desirest` `despise` `evil` `face` `free` `gladness` `god` `hear` `heart` `hidden` `hide` `holy` `hyssop` `iniquities` `iniquity` `inward` `joy` `judgest` `justified` `know` `lips` `lord` `lovingkindness` `mercies` `mercy` `mother` `mouth` `multitude` `musician` `nathan` `open` `part` `parts` `praise` `presence` `prophet` `psalm` `purge` `rejoice` `renew` `repentance` `restore` `right` `righteousness` `salvation` `shapen` `sheba` `shew` `sight` `sin` `sing` `sinned` `sins` `snow` `speakest` `spirit` `tender` `throughly` `tongue` `transgressions` `truth` `uphold` `wash` `whiter` `wisdom` `within`
+#acknowledge #aloud #bath #bloodguiltiness #blot #bones #broken #came #cast #chief #clean #cleanse #clear #conceive #confession #contrite #create #david #deliver #desirest #despise #evil #face #free #gladness #god #hear #heart #hidden #hide #holy #hyssop #iniquities #iniquity #inward #joy #judgest #justified #know #lips #lord #lovingkindness #mercies #mercy #mother #mouth #multitude #musician #nathan #open #part #parts #praise #presence #prophet #psalm #purge #rejoice #renew #repentance #restore #right #righteousness #salvation #shapen #sheba #shew #sight #sin #sing #sinned #sins #snow #speakest #spirit #tender #throughly #tongue #transgressions #truth #uphold #wash #whiter #wisdom #within
 
 
 ---

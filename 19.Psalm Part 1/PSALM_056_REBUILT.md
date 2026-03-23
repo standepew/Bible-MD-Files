@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 56
+testament: "Old Testament"
+key_themes: "Trust in God, Fear vs. Faith, Divine Protection, Prayer and Praise"
+tags:
+  - trust-in-god
+  - fear-vs-faith
+  - divine-protection
+  - prayer-and-praise
+---
 # Psalm 56
 
 ---
@@ -105,7 +116,7 @@ Chief, Musician, Jonath, elem, rechokim, Michtam, David, Philistines, took, Gath
 
 
 *AI Keywords for current event matching:*
-`afraid` `back` `daily` `death` `deliver` `delivered` `divine` `enemies` `faith` `falling` `fear` `feet` `fighting` `flesh` `god` `light` `living` `lord` `man` `merciful` `oppresseth` `praise` `praises` `prayer` `protection` `render` `soul` `swallow` `trust` `turn` `vows` `walk` `word`
+#afraid #back #daily #death #deliver #delivered #divine #enemies #faith #falling #fear #feet #fighting #flesh #god #light #living #lord #man #merciful #oppresseth #praise #praises #prayer #protection #render #soul #swallow #trust #turn #vows #walk #word
 
 
 ---

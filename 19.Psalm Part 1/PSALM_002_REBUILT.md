@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 2
+testament: "Old Testament"
+key_themes: "Messiah's Reign, Nations' Rebellion, Divine Decree, Son's Dominion"
+tags:
+  - messiah
+  - nations
+  - divine-decree
+  - son
+---
 # Psalm 2
 
 ---
@@ -153,7 +164,7 @@ Heathen, rage, people, imagine, vain, kings, earth, set, rulers, counsel, togeth
 
 
 *AI Keywords for current event matching:*
-`angry` `anointed` `ask` `bands` `begotten` `blessed` `break` `cast` `cords` `counsel` `dash` `declare` `decree` `derision` `displeasure` `divine` `dominion` `earth` `fear` `heathen` `heavens` `hill` `holy` `imagine` `inheritance` `instructed` `iron` `judges` `kindled` `king` `kings` `kiss` `laugh` `lord` `messiahs` `nations` `people` `perish` `pieces` `possession` `potter` `rage` `rebellion` `reign` `rejoice` `rod` `rulers` `serve` `set` `son` `sons` `together` `trembling` `trust` `uttermost` `vain` `vessel` `way` `wise` `wrath` `zion`
+#angry #anointed #ask #bands #begotten #blessed #break #cast #cords #counsel #dash #declare #decree #derision #displeasure #divine #dominion #earth #fear #heathen #heavens #hill #holy #imagine #inheritance #instructed #iron #judges #kindled #king #kings #kiss #laugh #lord #messiahs #nations #people #perish #pieces #possession #potter #rage #rebellion #reign #rejoice #rod #rulers #serve #set #son #sons #together #trembling #trust #uttermost #vain #vessel #way #wise #wrath #zion
 
 
 ---

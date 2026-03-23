@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 25
+testament: "Old Testament"
+key_themes: "Prayer for Guidance, Divine Mercy, Sin Confession, Trust in God"
+tags:
+  - prayer-for-guidance
+  - divine-mercy
+  - sin-confession
+  - trust-in-god
+---
 # Psalm 25
 
 ---
@@ -189,7 +200,7 @@ Psalm, David, lift, soul, LORD, trust, ashamed, enemies, triumph, wait, ashamed,
 
 
 *AI Keywords for current event matching:*
-`afflicted` `ashamed` `cause` `confession` `covenant` `david` `day` `deliver` `desolate` `divine` `enemies` `forgive` `god` `goodness` `great` `guidance` `guide` `iniquity` `integrity` `judgment` `keep` `lead` `lift` `lord` `lovingkindnesses` `meek` `mercies` `mercy` `name` `old` `pardon` `paths` `prayer` `preserve` `psalm` `remember` `sake` `salvation` `shew` `sin` `sins` `soul` `teach` `tender` `testimonies` `transgress` `transgressions` `triumph` `trust` `truth` `turn` `uprightness` `wait` `way` `ways` `youth`
+#afflicted #ashamed #cause #confession #covenant #david #day #deliver #desolate #divine #enemies #forgive #god #goodness #great #guidance #guide #iniquity #integrity #judgment #keep #lead #lift #lord #lovingkindnesses #meek #mercies #mercy #name #old #pardon #paths #prayer #preserve #psalm #remember #sake #salvation #shew #sin #sins #soul #teach #tender #testimonies #transgress #transgressions #triumph #trust #truth #turn #uprightness #wait #way #ways #youth
 
 
 ---

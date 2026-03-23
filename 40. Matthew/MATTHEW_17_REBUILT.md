@@ -1,3 +1,14 @@
+---
+book: "Matthew"
+chapter: 17
+testament: "New Testament"
+key_themes: "Christ's Transfiguration, Divine Glory, Faith Requirement, Suffering Revelation"
+tags:
+  - christ
+  - divine-glory
+  - faith-requirement
+  - suffering-revelation
+---
 # Matthew 17
 
 ---
@@ -129,7 +140,7 @@ Six, days, Jesus, taketh, Peter, James, John, brother, bringeth, high, mountain,
 
 
 *AI Keywords for current event matching:*
-`baptist` `beloved` `betrayed` `bright` `christs` `cloud` `come` `divine` `elias` `face` `faith` `generation` `glory` `grain` `hands` `hear` `impossible` `john` `kill` `light` `moses` `mountain` `mustard` `pleased` `raised` `remove` `requirement` `revelation` `shine` `son` `suffering` `sun` `things` `transfiguration` `transfigured` `unbelief` `well` `white`
+#baptist #beloved #betrayed #bright #christs #cloud #come #divine #elias #face #faith #generation #glory #grain #hands #hear #impossible #john #kill #light #moses #mountain #mustard #pleased #raised #remove #requirement #revelation #shine #son #suffering #sun #things #transfiguration #transfigured #unbelief #well #white
 
 
 ---

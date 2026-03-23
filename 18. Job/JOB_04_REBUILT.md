@@ -1,3 +1,23 @@
+---
+book: "Job"
+chapter: 4
+testament: "Old Testament"
+key_themes: "Eliphaz's Counsel, Retribution Principle, Divine Vision, Human Frailty"
+tags:
+  - instructed-strengthened-weak-hands
+  - come-faint-troubled
+  - fear-confidence-hope-uprightness-ways
+  - plow-iniquity-sow-wickedness-reap
+  - thing-secretly-ear-received
+  - Fear-trembling-bones-shake
+  - trust-servants-angels-charged-folly
+  - destroyed-morning-evening-perish-regarding
+  - excellency-die-wisdom
+  - eliphaz
+  - retribution-principle
+  - divine-vision
+  - human-frailty
+---
 # Job 4
 
 ---
@@ -129,7 +149,7 @@ Eliphaz, Temanite, answered, commune, grieved, withhold, speaking. Instructed, s
 
 
 *AI Keywords for current event matching:*
-`angels` `answered` `blast` `bones` `breath` `broken` `charged` `come` `commune` `confidence` `consumed` `counsel` `cut` `deep` `discern` `divine` `ear` `eliphaz` `eliphazs` `eyes` `face` `faint` `fallen` `falling` `fear` `feeble` `fierce` `flesh` `folly` `form` `frailty` `god` `grieved` `hair` `hands` `hope` `human` `image` `iniquity` `innocent` `instructed` `knees` `lack` `lion` `lions` `maker` `man` `men` `mortal` `night` `nostrils` `off` `old` `passed` `perish` `perished` `plow` `prey` `principle` `pure` `reap` `received` `remember` `retribution` `righteous` `roaring` `scattered` `secretly` `servants` `shake` `silence` `sleep` `sow` `speaking` `spirit` `stood` `stout` `strengthened` `teeth` `temanite` `thing` `thoughts` `trembling` `troubled` `trust` `upheld` `uprightness` `vision` `visions` `voice` `ways` `weak` `whelps` `wickedness` `withhold` `words` `young`
+#angels #answered #blast #bones #breath #broken #charged #come #commune #confidence #consumed #counsel #cut #deep #discern #divine #ear #eliphaz #eliphazs #eyes #face #faint #fallen #falling #fear #feeble #fierce #flesh #folly #form #frailty #god #grieved #hair #hands #hope #human #image #iniquity #innocent #instructed #knees #lack #lion #lions #maker #man #men #mortal #night #nostrils #off #old #passed #perish #perished #plow #prey #principle #pure #reap #received #remember #retribution #righteous #roaring #scattered #secretly #servants #shake #silence #sleep #sow #speaking #spirit #stood #stout #strengthened #teeth #temanite #thing #thoughts #trembling #troubled #trust #upheld #uprightness #vision #visions #voice #ways #weak #whelps #wickedness #withhold #words #young
 
 
 ---

@@ -1,3 +1,14 @@
+---
+book: "Hosea"
+chapter: 8
+testament: "Old Testament"
+key_themes: "Christ's Judgment, Idolatrous Worship, Sown Wind Reap Whirlwind, Forgotten Maker"
+tags:
+  - christ
+  - idolatrous-worship
+  - sown-wind-reap-whirlwind
+  - forgotten-maker
+---
 # Hosea 8
 
 ---
@@ -105,7 +116,7 @@ Trumpet, mouth, eagle, house, LORD, transgressed, covenant, trespassed, law, Isr
 
 
 *AI Keywords for current event matching:*
-`build` `calf` `christs` `covenant` `eagle` `fire` `forgotten` `gold` `great` `house` `idolatrous` `idols` `judgment` `law` `made` `maker` `mouth` `pleasure` `reap` `samaria` `send` `silver` `sown` `strange` `strangers` `swallow` `temples` `thing` `things` `transgressed` `trumpet` `vessel` `whirlwind` `wind` `worship`
+#build #calf #christs #covenant #eagle #fire #forgotten #gold #great #house #idolatrous #idols #judgment #law #made #maker #mouth #pleasure #reap #samaria #send #silver #sown #strange #strangers #swallow #temples #thing #things #transgressed #trumpet #vessel #whirlwind #wind #worship
 
 
 ---

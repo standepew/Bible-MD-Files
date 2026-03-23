@@ -1,3 +1,19 @@
+---
+book: "2 Timothy"
+chapter: 2
+testament: "New Testament"
+key_themes: "Be Strong in Grace, Commit to Faithful Men, The Good Soldier, The Athlete, The Farmer, Christ's Resurrection, Faithful Saying, Approved Workman, Vessels of Honor"
+tags:
+  - be-strong-in-grace
+  - commit-to-faithful-men
+  - the-good-soldier
+  - the-athlete
+  - the-farmer
+  - christ
+  - faithful-saying
+  - approved-workman
+  - vessels-of-honor
+---
 # 2 Timothy 2
 
 ---
@@ -127,7 +143,7 @@ Son, strong, grace, Christ, Jesus, things, heard, many, witnesses, commit, faith
 
 
 *AI Keywords for current event matching:*
-`abideth` `able` `acknowledging` `affairs` `approved` `apt` `ashamed` `athlete` `avoid` `babblings` `believe` `bonds` `bound` `call` `canker` `cannot` `captive` `charging` `charity` `chosen` `christ` `christs` `commit` `consider` `crowned` `david` `dead` `deny` `depart` `devil` `dishonour` `dividing` `doer` `earth` `eat` `elect` `endure` `entangle` `erred` `eternal` `evil` `faith` `faithful` `farmer` `first` `flee` `follow` `foolish` `foundation` `fruits` `gender` `gentle` `give` `glory` `god` `gold` `good` `gospel` `grace` `great` `hardness` `heard` `hearers` `heart` `honor` `honour` `house` `husbandman` `hymenaeus` `increase` `iniquity` `instructing` `jesus` `knoweth` `laboureth` `lawfully` `life` `live` `lord` `lusts` `many` `master` `masteries` `meekness` `meet` `men` `name` `nameth` `obtain` `oppose` `overthrow` `partaker` `past` `patient` `peace` `peradventure` `philetus` `please` `prepared` `profane` `profit` `pure` `purge` `questions` `raised` `recover` `reign` `remember` `remembrance` `repentance` `resurrection` `righteousness` `rightly` `sakes` `salvation` `sanctified` `saying` `seal` `seed` `servant` `shun` `silver` `snares` `soldier` `son` `standeth` `strifes` `strive` `strong` `study` `subverting` `suffer` `sure` `taken` `teach` `things` `trouble` `truth` `understanding` `ungodliness` `unlearned` `use` `vain` `vessel` `vessels` `warreth` `witnesses` `wood` `word` `words` `work` `workman` `youthful`
+#abideth #able #acknowledging #affairs #approved #apt #ashamed #athlete #avoid #babblings #believe #bonds #bound #call #canker #cannot #captive #charging #charity #chosen #christ #christs #commit #consider #crowned #david #dead #deny #depart #devil #dishonour #dividing #doer #earth #eat #elect #endure #entangle #erred #eternal #evil #faith #faithful #farmer #first #flee #follow #foolish #foundation #fruits #gender #gentle #give #glory #god #gold #good #gospel #grace #great #hardness #heard #hearers #heart #honor #honour #house #husbandman #hymenaeus #increase #iniquity #instructing #jesus #knoweth #laboureth #lawfully #life #live #lord #lusts #many #master #masteries #meekness #meet #men #name #nameth #obtain #oppose #overthrow #partaker #past #patient #peace #peradventure #philetus #please #prepared #profane #profit #pure #purge #questions #raised #recover #reign #remember #remembrance #repentance #resurrection #righteousness #rightly #sakes #salvation #sanctified #saying #seal #seed #servant #shun #silver #snares #soldier #son #standeth #strifes #strive #strong #study #subverting #suffer #sure #taken #teach #things #trouble #truth #understanding #ungodliness #unlearned #use #vain #vessel #vessels #warreth #witnesses #wood #word #words #work #workman #youthful
 
 
 ---

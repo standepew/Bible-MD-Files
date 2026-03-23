@@ -1,3 +1,13 @@
+---
+book: "Jeremiah"
+chapter: 14
+testament: "Old Testament"
+key_themes: "Christ's Drought, Spiritual Thirst, False Prophets, Christ's Mercy"
+tags:
+  - christ
+  - spiritual-thirst
+  - false-prophets
+---
 # Jeremiah 14
 
 ---
@@ -93,7 +103,7 @@ Word, LORD, Jeremiah, dearth, Judah, mourneth, gates, languish, black, ground, c
 
 
 *AI Keywords for current event matching:*
-`abhor` `asses` `calved` `chapt` `christs` `consumed` `covenant` `divination` `drought` `earth` `empty` `fail` `false` `famine` `field` `gates` `ground` `hind` `hope` `israel` `judah` `languish` `lies` `little` `mercy` `mourneth` `name` `ones` `prophesy` `prophets` `rain` `remember` `saviour` `spiritual` `sword` `thirst` `vessels` `vision` `wait` `waters` `wild`
+#abhor #asses #calved #chapt #christs #consumed #covenant #divination #drought #earth #empty #fail #false #famine #field #gates #ground #hind #hope #israel #judah #languish #lies #little #mercy #mourneth #name #ones #prophesy #prophets #rain #remember #saviour #spiritual #sword #thirst #vessels #vision #wait #waters #wild
 
 
 ---

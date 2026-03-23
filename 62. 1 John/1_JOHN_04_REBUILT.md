@@ -1,3 +1,15 @@
+---
+book: "1 John"
+chapter: 4
+testament: "New Testament"
+key_themes: "Testing the Spirits, God is Love, Christ's Coming in the Flesh, Love Perfected Among Us, Boldness in Judgment"
+tags:
+  - testing-the-spirits
+  - god-is-love
+  - christ
+  - love-perfected-among-us
+  - boldness-in-judgment
+---
 # 1 John 4
 
 ---
@@ -107,7 +119,7 @@ Beloved, believe, spirit, spirits, whether, God, false, prophets, gone, world, k
 
 
 *AI Keywords for current event matching:*
-`among` `another` `antichrist` `begotten` `believe` `believed` `beloved` `boldness` `born` `brother` `casteth` `children` `christ` `christs` `come` `coming` `commandment` `confess` `confesseth` `dwell` `dwelleth` `error` `false` `father` `fear` `feareth` `first` `flesh` `given` `god` `gone` `greater` `heard` `heareth` `herein` `jesus` `judgment` `know` `knoweth` `known` `live` `love` `loved` `loveth` `manifested` `overcome` `perfect` `perfected` `prophets` `propitiation` `saviour` `seen` `sent` `sins` `son` `speak` `spirit` `spirits` `testify` `testing` `torment` `truth` `whether` `world`
+#among #another #antichrist #begotten #believe #believed #beloved #boldness #born #brother #casteth #children #christ #christs #come #coming #commandment #confess #confesseth #dwell #dwelleth #error #false #father #fear #feareth #first #flesh #given #god #gone #greater #heard #heareth #herein #jesus #judgment #know #knoweth #known #live #love #loved #loveth #manifested #overcome #perfect #perfected #prophets #propitiation #saviour #seen #sent #sins #son #speak #spirit #spirits #testify #testing #torment #truth #whether #world
 
 
 ---

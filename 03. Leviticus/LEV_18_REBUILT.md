@@ -1,3 +1,26 @@
+---
+book: "Leviticus"
+chapter: 18
+testament: "Old Testament"
+key_themes: ""I am the LORD your God" — stated three times as the authority for all that follows, Not Egypt and not Canaan — God's people are defined by what they are NOT, as well as by what God commands, Comprehensive prohibitions on sexual immorality: incest (eleven specific relations), adultery, Molech worship (child sacrifice), homosexual practice, bestiality, The land itself has a holiness that is violated by these practices — "the land vomiteth out her inhabitants", "He shall live in them" — the statutes are life-giving, not merely restrictive"
+tags:
+  - sexual-ethics
+  - I-am-the-LORD-your-God
+  - not-Egypt-not-Canaan
+  - incest-prohibited
+  - near-of-kin
+  - uncover-nakedness
+  - adultery
+  - Molech-child-sacrifice
+  - homosexuality-abomination
+  - bestiality-confusion
+  - the-land-vomiteth-out
+  - nations-defiled
+  - cut-off-from-the-people
+  - keep-my-statutes
+  - he-shall-live-in-them
+  - holiness-code
+---
 # Leviticus 18
 
 ---
@@ -81,7 +104,7 @@ The chapter opens with a double framing: not the doings of Egypt (where they cam
 
 
 *AI Keywords for current event matching:*
-`124-27` `182-4` `69-11` `corinthians` `current` `ethics` `events` `god` `grounded` `leviticus` `lord` `matching` `romans` `sexual`
+#124-27 #182-4 #69-11 #corinthians #current #ethics #events #god #grounded #leviticus #lord #matching #romans #sexual
 
 
 ---

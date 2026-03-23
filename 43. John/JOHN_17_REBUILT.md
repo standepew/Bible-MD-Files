@@ -1,3 +1,14 @@
+---
+book: "John"
+chapter: 17
+testament: "New Testament"
+key_themes: "Jesus Prays for Himself, Jesus Prays for His Disciples, Jesus Prays for All Believers, The Glory of Unity"
+tags:
+  - jesus-prays-for-himself
+  - jesus-prays-for-his-disciples
+  - jesus-prays-for-all-believers
+  - the-glory-of-unity
+---
 # John 17
 
 ---
@@ -117,7 +128,7 @@ Words, spake, Jesus, lifted, eyes, heaven, Father, hour, glorify, Son, glorify, 
 
 
 *AI Keywords for current event matching:*
-`behold` `believe` `believers` `christ` `come` `declare` `declared` `disciples` `earth` `eternal` `evil` `father` `finished` `foundations` `fulfilled` `gavest` `given` `glorified` `glorify` `glory` `god` `hated` `himself` `holy` `hour` `jesus` `joy` `keep` `kept` `know` `known` `life` `lost` `love` `loved` `manifested` `men` `mine` `name` `one` `perdition` `perfect` `power` `pray` `prays` `received` `righteous` `sanctify` `scripture` `sent` `son` `true` `truth` `unity` `word` `words` `work` `world`
+#behold #believe #believers #christ #come #declare #declared #disciples #earth #eternal #evil #father #finished #foundations #fulfilled #gavest #given #glorified #glorify #glory #god #hated #himself #holy #hour #jesus #joy #keep #kept #know #known #life #lost #love #loved #manifested #men #mine #name #one #perdition #perfect #power #pray #prays #received #righteous #sanctify #scripture #sent #son #true #truth #unity #word #words #work #world
 
 
 ---

@@ -1,3 +1,15 @@
+---
+book: "Revelation"
+chapter: 22
+testament: "New Testament"
+key_themes: "The River of Life, The Tree of Life, The Final Promise, The Final Warning, The Final Invitation"
+tags:
+  - the-river-of-life
+  - the-tree-of-life
+  - the-final-promise
+  - the-final-warning
+  - the-final-invitation
+---
 # Revelation 22
 
 ---
@@ -131,7 +143,7 @@ Shewed, pure, river, water, life, clear, crystal, proceeding, throne, God, Lamb,
 
 
 *AI Keywords for current event matching:*
-`add` `alpha` `amen` `angel` `athirst` `away` `bare` `beginning` `behold` `blessed` `book` `brethren` `bride` `bright` `candle` `christ` `churches` `city` `clear` `come` `commandments` `crystal` `curse` `david` `dogs` `either` `end` `enter` `face` `faithful` `feet` `fell` `fellowservant` `filthy` `final` `first` `foreheads` `forever` `freely` `fruit` `fruits` `gates` `god` `grace` `hand` `healing` `heard` `heareth` `holy` `idolaters` `invitation` `jesus` `john` `keep` `keepeth` `lamb` `last` `leaves` `lie` `life` `light` `lord` `loveth` `maketh` `man` `manner` `midst` `month` `morning` `murderers` `name` `nations` `need` `night` `offspring` `omega` `part` `plagues` `proceeding` `promise` `prophecy` `prophets` `pure` `quickly` `reign` `reward` `right` `righteous` `river` `root` `sayings` `seal` `sent` `servants` `serve` `shew` `shewed` `shortly` `side` `sorcerers` `spirit` `star` `street` `sun` `surely` `take` `testifieth` `testify` `things` `throne` `time` `tree` `true` `twelve` `unjust` `warning` `water` `whoremongers` `whosoever` `words` `work` `worship` `yielded`
+#add #alpha #amen #angel #athirst #away #bare #beginning #behold #blessed #book #brethren #bride #bright #candle #christ #churches #city #clear #come #commandments #crystal #curse #david #dogs #either #end #enter #face #faithful #feet #fell #fellowservant #filthy #final #first #foreheads #forever #freely #fruit #fruits #gates #god #grace #hand #healing #heard #heareth #holy #idolaters #invitation #jesus #john #keep #keepeth #lamb #last #leaves #lie #life #light #lord #loveth #maketh #man #manner #midst #month #morning #murderers #name #nations #need #night #offspring #omega #part #plagues #proceeding #promise #prophecy #prophets #pure #quickly #reign #reward #right #righteous #river #root #sayings #seal #sent #servants #serve #shew #shewed #shortly #side #sorcerers #spirit #star #street #sun #surely #take #testifieth #testify #things #throne #time #tree #true #twelve #unjust #warning #water #whoremongers #whosoever #words #work #worship #yielded
 
 
 ---

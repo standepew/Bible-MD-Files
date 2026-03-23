@@ -1,3 +1,14 @@
+---
+book: "Zechariah"
+chapter: 14
+testament: "Old Testament"
+key_themes: "Christ's Final Victory, Day of the LORD, Mount of Olives, Universal Worship"
+tags:
+  - christ
+  - day-of-the-lord
+  - mount-of-olives
+  - universal-worship
+---
 # Zechariah 14
 
 ---
@@ -117,7 +128,7 @@ Behold, day, LORD, cometh, spoil, divided, midst, gather, nations, Jerusalem, ba
 
 
 *AI Keywords for current event matching:*
-`canaanite` `christs` `city` `cleave` `day` `earth` `earthquake` `feast` `feet` `fight` `final` `flee` `gather` `great` `holiness` `king` `living` `lord` `midst` `mount` `nations` `olives` `one` `stand` `tabernacles` `taken` `universal` `valley` `victory` `waters` `worship`
+#canaanite #christs #city #cleave #day #earth #earthquake #feast #feet #fight #final #flee #gather #great #holiness #king #living #lord #midst #mount #nations #olives #one #stand #tabernacles #taken #universal #valley #victory #waters #worship
 
 
 ---

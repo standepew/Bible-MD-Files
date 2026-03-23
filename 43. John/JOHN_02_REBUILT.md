@@ -1,3 +1,14 @@
+---
+book: "John"
+chapter: 2
+testament: "New Testament"
+key_themes: "The Wedding at Cana, First Miracle, Cleansing the Temple, Sign of the Resurrection"
+tags:
+  - the-wedding-at-cana
+  - first-miracle
+  - cleansing-the-temple
+  - sign-of-the-resurrection
+---
 # John 2
 
 ---
@@ -105,7 +116,7 @@ Third, day, marriage, Cana, Galilee, mother, Jesus, called, disciples, marriage,
 
 
 *AI Keywords for current event matching:*
-`apiece` `beginning` `believed` `body` `bridegroom` `cana` `changers` `cleansing` `cords` `day` `days` `dead` `destroy` `disciples` `drove` `father` `feast` `fill` `firkins` `first` `glory` `good` `governor` `hour` `house` `jerusalem` `jews` `knew` `made` `man` `manifested` `marriage` `men` `merchandise` `mine` `miracle` `miracles` `money` `oxen` `passover` `raise` `resurrection` `risen` `saith` `scourge` `scripture` `servants` `sign` `sold` `stone` `temple` `testify` `third` `three` `wanted` `water` `waterpots` `wedding` `whatsoever` `wine`
+#apiece #beginning #believed #body #bridegroom #cana #changers #cleansing #cords #day #days #dead #destroy #disciples #drove #father #feast #fill #firkins #first #glory #good #governor #hour #house #jerusalem #jews #knew #made #man #manifested #marriage #men #merchandise #mine #miracle #miracles #money #oxen #passover #raise #resurrection #risen #saith #scourge #scripture #servants #sign #sold #stone #temple #testify #third #three #wanted #water #waterpots #wedding #whatsoever #wine
 
 
 ---

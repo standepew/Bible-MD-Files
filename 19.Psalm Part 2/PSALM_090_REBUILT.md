@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 90
+testament: "Old Testament"
+key_themes: "God's Eternity, Human Frailty, Divine Anger, Wisdom and Mercy"
+tags:
+  - god
+  - human-frailty
+  - divine-anger
+  - wisdom-and-mercy
+---
 # Psalm 90
 
 ---
@@ -141,7 +152,7 @@ Prayer, Moses, man, GOD, LORD, dwelling, place, generations, mountains, brought,
 
 
 *AI Keywords for current event matching:*
-`according` `anger` `apply` `beauty` `brought` `carriest` `children` `consumed` `countenance` `cut` `days` `destruction` `divine` `dwelling` `early` `earth` `establish` `eternity` `evening` `everlasting` `fear` `flood` `flourish` `formed` `frailty` `generations` `glad` `god` `gods` `grass` `grow` `hands` `hearts` `human` `iniquities` `knoweth` `light` `lord` `man` `men` `mercy` `morning` `moses` `mountains` `night` `number` `passed` `past` `place` `power` `prayer` `rejoice` `repent` `return` `satisfy` `sayest` `secret` `servants` `set` `sight` `sins` `sleep` `spend` `tale` `teach` `ten` `thousand` `threescore` `troubled` `turnest` `watch` `wisdom` `wither` `work` `world` `wrath` `years` `yesterday`
+#according #anger #apply #beauty #brought #carriest #children #consumed #countenance #cut #days #destruction #divine #dwelling #early #earth #establish #eternity #evening #everlasting #fear #flood #flourish #formed #frailty #generations #glad #god #gods #grass #grow #hands #hearts #human #iniquities #knoweth #light #lord #man #men #mercy #morning #moses #mountains #night #number #passed #past #place #power #prayer #rejoice #repent #return #satisfy #sayest #secret #servants #set #sight #sins #sleep #spend #tale #teach #ten #thousand #threescore #troubled #turnest #watch #wisdom #wither #work #world #wrath #years #yesterday
 
 
 ---

@@ -1,3 +1,21 @@
+---
+book: "1 Kings"
+chapter: 6
+testament: "Old Testament"
+key_themes: "Temple Construction, Divine Covenant, Sacred Architecture, Cherubim, Seven Years Building"
+tags:
+  - house-windows-narrow-lights
+  - Solomon-built-house-finished
+  - house-temple-forty-cubits-long
+  - height-cherub-ten-cubits-cherub
+  - overlaid-cherubims-gold
+  - floor-house-overlaid-gold-without
+  - temple-construction
+  - divine-covenant
+  - sacred-architecture
+  - cherubim
+  - seven-years-building
+---
 # 1 Kings 6
 
 ---
@@ -89,7 +107,7 @@ Four hundred eightieth year children Israel land Egypt, fourth year Solomon reig
 
 
 *AI Keywords for current event matching:*
-`altar` `ark` `axe` `beams` `began` `boards` `breadth` `broad` `brought` `building` `built` `bul` `carved` `cedar` `ceiling` `chains` `chamber` `chambers` `cherub` `cherubims` `children` `commandments` `construction` `court` `covenant` `covered` `cubits` `david` `decoration` `decorations` `design` `divine` `door` `doors` `dwell` `egypt` `eighth` `eightieth` `eleventh` `entering` `execute` `fashion` `fastened` `father` `fifth` `figures` `finished` `fir` `fitted` `five` `floor` `flowers` `folding` `forepart` `forsake` `forty` `foundation` `four` `fourth` `gold` `hammer` `height` `hewed` `high` `holy` `house` `hundred` `inner` `interior` `iron` `israel` `judgments` `keep` `king` `knops` `land` `leaves` `length` `lights` `lintel` `long` `lord` `materials` `measure` `middle` `midst` `month` `narrow` `narrowed` `nethermost` `olive` `open` `oracle` `overlaid` `palm` `part` `partition` `parts` `people` `perform` `place` `planks` `porch` `posts` `pure` `ready` `reign` `rested` `rests` `right` `round` `row` `rows` `second` `seen` `set` `seven` `side` `sides` `six` `size` `solomon` `spread` `stairs` `statutes` `stone` `stretched` `temple` `ten` `third` `thirty` `three` `threescore` `timber` `timeline` `tool` `tree` `trees` `twenty` `uttermost` `walk` `wall` `walls` `winding` `windows` `wing` `wings` `without` `wood` `word` `work` `year` `years` `zif`
+#altar #ark #axe #beams #began #boards #breadth #broad #brought #building #built #bul #carved #cedar #ceiling #chains #chamber #chambers #cherub #cherubims #children #commandments #construction #court #covenant #covered #cubits #david #decoration #decorations #design #divine #door #doors #dwell #egypt #eighth #eightieth #eleventh #entering #execute #fashion #fastened #father #fifth #figures #finished #fir #fitted #five #floor #flowers #folding #forepart #forsake #forty #foundation #four #fourth #gold #hammer #height #hewed #high #holy #house #hundred #inner #interior #iron #israel #judgments #keep #king #knops #land #leaves #length #lights #lintel #long #lord #materials #measure #middle #midst #month #narrow #narrowed #nethermost #olive #open #oracle #overlaid #palm #part #partition #parts #people #perform #place #planks #porch #posts #pure #ready #reign #rested #rests #right #round #row #rows #second #seen #set #seven #side #sides #six #size #solomon #spread #stairs #statutes #stone #stretched #temple #ten #third #thirty #three #threescore #timber #timeline #tool #tree #trees #twenty #uttermost #walk #wall #walls #winding #windows #wing #wings #without #wood #word #work #year #years #zif
 
 
 ---

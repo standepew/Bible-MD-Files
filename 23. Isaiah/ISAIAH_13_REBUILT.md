@@ -1,3 +1,14 @@
+---
+book: "Isaiah"
+chapter: 13
+testament: "Old Testament"
+key_themes: "Divine Judgment, Babylon's Fall, Day of the LORD, Christ's Victory"
+tags:
+  - divine-judgment
+  - babylon
+  - day-of-the-lord
+  - christ
+---
 # Isaiah 13
 
 ---
@@ -141,7 +152,7 @@ Burden, Babylon, Isaiah, son, Amoz, Lift, banner, high, mountain, exalt, voice, 
 
 
 *AI Keywords for current event matching:*
-`almighty` `babylon` `babylons` `beasts` `beauty` `burden` `chaldees` `christs` `complete` `darkened` `day` `destruction` `divine` `faint` `fall` `glory` `gold` `hands` `hearts` `inhabited` `judgment` `kingdoms` `lord` `melt` `mighty` `never` `ones` `pangs` `precious` `punish` `sanctified` `sorrows` `stars` `victory` `wild` `world`
+#almighty #babylon #babylons #beasts #beauty #burden #chaldees #christs #complete #darkened #day #destruction #divine #faint #fall #glory #gold #hands #hearts #inhabited #judgment #kingdoms #lord #melt #mighty #never #ones #pangs #precious #punish #sanctified #sorrows #stars #victory #wild #world
 
 
 ---

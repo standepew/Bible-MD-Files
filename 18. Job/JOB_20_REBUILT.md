@@ -1,3 +1,23 @@
+---
+book: "Job"
+chapter: 20
+testament: "Old Testament"
+key_themes: "Zophar's Second Speech, Wicked's Short Triumph, Divine Judgment, Complete Ruin"
+tags:
+  - eye-see-place-behold
+  - bones-sin-youth-dust
+  - meat-bowels-gall-asps
+  - rivers-floods-brooks-honey-butter
+  - quietness-belly-save-desired
+  - meat-left-goods
+  - fulness-sufficiency-straits-wicked-hand
+  - heaven-reveal-iniquity-earth-rise
+  - portion-wicked-GOD-heritage-appointed
+  - zophar
+  - wicked
+  - divine-judgment
+  - complete-ruin
+---
 # Job 20
 
 ---
@@ -129,7 +149,7 @@ Zophar, Naamathite, answered, thoughts, haste, check, reproach, spirit, understa
 
 
 *AI Keywords for current event matching:*
-`answered` `asps` `behold` `belly` `bones` `bowels` `brooks` `builded` `butter` `cast` `check` `children` `clouds` `complete` `desired` `divine` `dream` `dung` `dust` `excellency` `eye` `floods` `forsake` `forsaken` `gall` `god` `goods` `hands` `haste` `head` `heavens` `honey` `house` `hypocrite` `joy` `judgment` `keep` `laboured` `meat` `moment` `mouth` `naamathite` `night` `oppressed` `perish` `place` `please` `poison` `poor` `quietness` `rejoice` `reproach` `restitution` `restore` `riches` `rivers` `ruin` `save` `second` `see` `short` `sin` `slay` `spare` `speech` `spirit` `substance` `suck` `swallow` `swallowed` `sweet` `thoughts` `tongue` `triumph` `triumphing` `understanding` `violently` `viper` `vision` `vomit` `wicked` `wickedness` `wickeds` `youth` `zophar` `zophars`
+#answered #asps #behold #belly #bones #bowels #brooks #builded #butter #cast #check #children #clouds #complete #desired #divine #dream #dung #dust #excellency #eye #floods #forsake #forsaken #gall #god #goods #hands #haste #head #heavens #honey #house #hypocrite #joy #judgment #keep #laboured #meat #moment #mouth #naamathite #night #oppressed #perish #place #please #poison #poor #quietness #rejoice #reproach #restitution #restore #riches #rivers #ruin #save #second #see #short #sin #slay #spare #speech #spirit #substance #suck #swallow #swallowed #sweet #thoughts #tongue #triumph #triumphing #understanding #violently #viper #vision #vomit #wicked #wickedness #wickeds #youth #zophar #zophars
 
 
 ---

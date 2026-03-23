@@ -1,3 +1,15 @@
+---
+book: "Mark"
+chapter: 12
+testament: "New Testament"
+key_themes: "Parable of Wicked Husbandmen, Tribute to Caesar, Resurrection, Greatest Commandment, Christ as David's Lord"
+tags:
+  - parable-of-wicked-husbandmen
+  - tribute-to-caesar
+  - resurrection
+  - greatest-commandment
+  - christ-as-david
+---
 # Mark 12
 
 ---
@@ -179,7 +191,7 @@ Began, speak, parables, man, planted, vineyard, hedge, digged, winefat, built, t
 
 
 *AI Keywords for current event matching:*
-`abraham` `angels` `brethren` `bush` `caesar` `christ` `commandment` `cæsar` `david` `davids` `destroy` `enemies` `first` `footstool` `ghost` `god` `greater` `greatest` `hand` `heaven` `holy` `husbandmen` `image` `living` `lord` `love` `neighbour` `none` `parable` `planted` `rejected` `render` `resurrection` `right` `seven` `son` `stone` `superscription` `things` `tribute` `vineyard` `wellbeloved` `wicked`
+#abraham #angels #brethren #bush #caesar #christ #commandment #cæsar #david #davids #destroy #enemies #first #footstool #ghost #god #greater #greatest #hand #heaven #holy #husbandmen #image #living #lord #love #neighbour #none #parable #planted #rejected #render #resurrection #right #seven #son #stone #superscription #things #tribute #vineyard #wellbeloved #wicked
 
 
 ---

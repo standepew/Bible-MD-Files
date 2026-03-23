@@ -1,3 +1,30 @@
+---
+book: "Leviticus"
+chapter: 5
+testament: "Old Testament"
+key_themes: "The graduated sin offering — extending to the poorest, specific cases of obligation, The Trespass/Guilt Offering (asham) introduced, Sins of omission — the witness who fails to testify, Touching unclean things, Rash oaths, The sliding scale: lamb → two birds → fine flour — no one is too poor to be forgiven, Trespass against holy things (desecration of the sacred) requires ram plus 20% restitution, Unknown guilt: "though he wist it not, yet is he guilty, and shall bear his iniquity""
+tags:
+  - graduated-offering
+  - sliding-scale
+  - sins-of-omission
+  - false-oath
+  - touching-unclean
+  - lamb
+  - two-turtledoves
+  - two-pigeons
+  - fine-flour-for-poorest
+  - sin-offering-of-flour
+  - asham
+  - trespass-offering
+  - ram-without-blemish
+  - estimation-in-shekels
+  - add-fifth-part
+  - trespass-against-holy-things
+  - unknown-guilt
+  - wist-it-not
+  - it-shall-be-forgiven
+  - hath-certainly-trespassed-against-the-LORD
+---
 # Leviticus 5
 
 ---
@@ -79,7 +106,7 @@ Chapter 5 extends the sin offering provisions to specific obligation cases and i
 
 
 *AI Keywords for current event matching:*
-`57-11` `current` `events` `forgiven` `isaiah` `leviticus` `luke` `matching` `one` `poor` `revelation` `too`
+#57-11 #current #events #forgiven #isaiah #leviticus #luke #matching #one #poor #revelation #too
 
 
 ---
@@ -167,16 +194,16 @@ Chapter 5 extends the sin offering provisions to specific obligation cases and i
 
 ### The Sliding Scale as a Symbolic Thread — Access for All
 
-**Leviticus 5:6-11** — Lamb → two birds → fine flour; the same "it shall be forgiven him" at the end of each tier.
+[[03. Leviticus/LEV_05_REBUILT|Leviticus 5:6-11]] — Lamb → two birds → fine flour; the same "it shall be forgiven him" at the end of each tier.
 
 This is not just economy — it is the first fully explicit statement in Leviticus that the cost of access to God adjusts to the worshipper's means. The thread:
 
 - **Leviticus 1:3, 10, 14** — The burnt offering scale: bull → sheep/goat → birds
-- **Leviticus 5:6-11** — The sin offering scale: lamb → two birds → fine flour
-- **Leviticus 12:6-8** — Birth purification: lamb → two birds (Mary and Joseph used this tier — Luke 2:24)
-- **Leviticus 14:21-32** — Leper's cleansing: three lambs → one lamb + two birds
-- **Isaiah 55:1** — "Ho, every one that thirsteth, come ye to the waters, and he that hath no money; come ye, buy, and eat... without money" — the sliding scale reaches its New Covenant limit: no price at all
-- **Revelation 22:17** — "And whosoever will, let him take the water of life freely" — the scale has collapsed to zero cost; Christ's one sacrifice covers all tiers simultaneously
+- [[03. Leviticus/LEV_05_REBUILT|Leviticus 5:6-11]] — The sin offering scale: lamb → two birds → fine flour
+- [[03. Leviticus/LEV_12_REBUILT|Leviticus 12:6-8]] — Birth purification: lamb → two birds (Mary and Joseph used this tier — Luke 2:24)
+- [[03. Leviticus/LEV_14_REBUILT|Leviticus 14:21-32]] — Leper's cleansing: three lambs → one lamb + two birds
+- [[23. Isaiah/ISAIAH_55_REBUILT|Isaiah 55:1]] — "Ho, every one that thirsteth, come ye to the waters, and he that hath no money; come ye, buy, and eat... without money" — the sliding scale reaches its New Covenant limit: no price at all
+- [[66. Revelation/REVELATION_22_REBUILT|Revelation 22:17]] — "And whosoever will, let him take the water of life freely" — the scale has collapsed to zero cost; Christ's one sacrifice covers all tiers simultaneously
 
 **What the Bible establishes:** The sliding scale of Leviticus 5 is not merely practical accommodation — it is the enacted declaration that the identity of God makes provision for every person who comes to Him. The New Covenant removes the scale entirely without removing the principle: no one is excluded from access to God by what they lack.
 
@@ -188,12 +215,12 @@ This is not just economy — it is the first fully explicit statement in Levitic
 
 This introduction of silver valuation ties into a broader thread:
 
-- **Exodus 30:12-16** — The half-shekel ransom: "every man a ransom for his soul... the rich shall not give more, and the poor shall not give less" — silver as the medium of ransom, with a fixed value per soul
+- [[02. Exodus/EXO_30_REBUILT|Exodus 30:12-16]] — The half-shekel ransom: "every man a ransom for his soul... the rich shall not give more, and the poor shall not give less" — silver as the medium of ransom, with a fixed value per soul
 - **Leviticus 27** — The entire chapter on valuations in silver shekels; every person, animal, field assigned a silver value
-- **Numbers 3:47** — Five shekels per firstborn redeemed
-- **Zechariah 11:12-13** — "So they weighed for my price thirty pieces of silver" — the price of the Shepherd
-- **Matthew 26:15** — Thirty pieces of silver for Christ — precisely the valuation assigned to a slave gored by an ox (Exodus 21:32); the lowest human valuation in the Law applied to the Son of God
-- **1 Peter 1:18-19** — "ye were not redeemed with corruptible things, as silver and gold... But with the precious blood of Christ" — the silver system is superseded; what silver valued is now priced in blood
+- [[04. Numbers/NUM_03_REBUILT|Numbers 3:47]] — Five shekels per firstborn redeemed
+- [[38. Zechariah/ZECHARIAH_11_REBUILT|Zechariah 11:12-13]] — "So they weighed for my price thirty pieces of silver" — the price of the Shepherd
+- [[40. Matthew/MATTHEW_26_REBUILT|Matthew 26:15]] — Thirty pieces of silver for Christ — precisely the valuation assigned to a slave gored by an ox (Exodus 21:32); the lowest human valuation in the Law applied to the Son of God
+- [[60. 1 Peter/1_PETER_01_REBUILT|1 Peter 1:18-19]] — "ye were not redeemed with corruptible things, as silver and gold... But with the precious blood of Christ" — the silver system is superseded; what silver valued is now priced in blood
 
 **What the Bible establishes:** Silver = the medium of human valuation and ransom throughout the Law. When Christ is sold for thirty pieces of silver, the Law's own valuation system is applied to Him — and then superseded, because His blood purchases what no amount of silver could.
 

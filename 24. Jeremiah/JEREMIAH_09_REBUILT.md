@@ -1,3 +1,13 @@
+---
+book: "Jeremiah"
+chapter: 9
+testament: "Old Testament"
+key_themes: "Christ's Lament, Spiritual Deception, Divine Glory, Christ's Knowledge"
+tags:
+  - christ
+  - spiritual-deception
+  - divine-glory
+---
 # Jeremiah 9
 
 ---
@@ -117,7 +127,7 @@ Head, waters, eyes, fountain, tears, weep, day, night, slain, daughter, people, 
 
 
 *AI Keywords for current event matching:*
-`assembly` `bend` `bow` `christs` `circumcision` `daughter` `day` `deceit` `deception` `divine` `exercise` `fountain` `glory` `head` `heart` `judgment` `know` `knowledge` `lament` `lies` `lovingkindness` `night` `people` `riches` `righteousness` `slain` `speaketh` `spiritual` `taught` `tears` `tongue` `tongues` `treacherous` `understand` `waters` `weep` `wisdom`
+#assembly #bend #bow #christs #circumcision #daughter #day #deceit #deception #divine #exercise #fountain #glory #head #heart #judgment #know #knowledge #lament #lies #lovingkindness #night #people #riches #righteousness #slain #speaketh #spiritual #taught #tears #tongue #tongues #treacherous #understand #waters #weep #wisdom
 
 
 ---

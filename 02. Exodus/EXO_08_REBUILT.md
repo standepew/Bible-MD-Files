@@ -1,3 +1,30 @@
+---
+book: "Exodus"
+chapter: 8
+testament: "Old Testament"
+key_themes: "Plagues 2-4 — Frogs, Lice, Flies, Magicians say "This is the finger of God," God makes a distinction between Goshen and Egypt, Pharaoh's pattern of false promises"
+tags:
+  - plague-2
+  - plague-3
+  - plague-4
+  - frogs
+  - lice
+  - flies
+  - magicians
+  - finger-of-God
+  - Goshen
+  - division-between-my-people
+  - Pharaohs-false-promises
+  - Pharaoh-bargains
+  - hardened-heart
+  - magicians-cannot-replicate
+  - enchantments-fail
+  - sacrifice-in-the-land
+  - abomination
+  - three-days-journey
+  - Moses-intercedes
+  - none-like-the-LORD
+---
 # Exodus 8
 
 ---
@@ -91,7 +118,7 @@ Three more plagues strike Egypt. Plague 2: Frogs cover all of Egypt; even the ma
 
 
 *AI Keywords for current event matching:*
-`activity` `current` `divine` `events` `exodus` `finger` `god` `matching` `recognition` `secularpagan`
+#activity #current #divine #events #exodus #finger #god #matching #recognition #secularpagan
 
 
 ---
@@ -215,7 +242,7 @@ Each offer keeps some part of Israel in Egypt's control. Moses refuses all four.
 
 ### Frogs — Unclean Spirits
 
-- **Revelation 16:13** — "I saw three unclean spirits like frogs come out of the mouth of the dragon, and out of the mouth of the beast, and out of the mouth of the false prophet"
+- [[66. Revelation/REVELATION_16_REBUILT|Revelation 16:13]] — "I saw three unclean spirits like frogs come out of the mouth of the dragon, and out of the mouth of the beast, and out of the mouth of the false prophet"
 - The frog plague of Exodus 8 finds its end-time parallel in Revelation 16 — the spirits like frogs = the deceptive voices of the end-time trinity of evil
 - *Thread:* Frogs in biblical symbolism = unclean things emerging from the water; the plague of frogs is a judgment that makes the private/domestic sacred space (bedchambers, ovens, kneadingtroughs) unclean — the same pattern as end-time spiritual deception penetrating every sphere
 

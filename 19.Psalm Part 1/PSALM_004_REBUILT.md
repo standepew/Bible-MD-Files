@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 4
+testament: "Old Testament"
+key_themes: "Evening Prayer, Divine Mercy, Righteous Sacrifice, Peaceful Sleep"
+tags:
+  - evening-prayer
+  - divine-mercy
+  - righteous-sacrifice
+  - peaceful-sleep
+---
 # Psalm 4
 
 ---
@@ -141,7 +152,7 @@ Chief, Musician, Neginoth, Psalm, David, hear, call, GOD, righteousness, enlarge
 
 
 *AI Keywords for current event matching:*
-`apart` `awe` `bed` `call` `chief` `commune` `corn` `countenance` `david` `distress` `divine` `dwell` `enlarged` `evening` `gladness` `glory` `god` `godly` `good` `hear` `heart` `increased` `lay` `leasing` `light` `long` `lord` `love` `many` `men` `mercy` `musician` `neginoth` `offer` `peace` `peaceful` `prayer` `psalm` `put` `righteous` `righteousness` `sacrifice` `sacrifices` `safety` `seek` `selah` `set` `shame` `shew` `sin` `sleep` `sons` `stand` `still` `time` `trust` `turn` `vanity` `wine`
+#apart #awe #bed #call #chief #commune #corn #countenance #david #distress #divine #dwell #enlarged #evening #gladness #glory #god #godly #good #hear #heart #increased #lay #leasing #light #long #lord #love #many #men #mercy #musician #neginoth #offer #peace #peaceful #prayer #psalm #put #righteous #righteousness #sacrifice #sacrifices #safety #seek #selah #set #shame #shew #sin #sleep #sons #stand #still #time #trust #turn #vanity #wine
 
 
 ---

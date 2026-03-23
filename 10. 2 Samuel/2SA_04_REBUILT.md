@@ -1,3 +1,15 @@
+---
+book: "2 Samuel"
+chapter: 4
+testament: "Old Testament"
+key_themes: "Ish-bosheth's Death, Rechab and Baanah's Treachery, David's Justice, Mephibosheth's Lament"
+tags:
+  - Beerothites-fled-Gittaim-sojourners-day
+  - ishbosheth
+  - rechab-and-baanah
+  - david
+  - mephibosheth
+---
 # 2 Samuel 4
 
 ---
@@ -85,7 +97,7 @@ Saul's son heard Abner dead in Hebron, hands feeble, Israelites troubled. Saul's
 
 
 *AI Keywords for current event matching:*
-`abner` `adversity` `answered` `avenged` `baanah` `bands` `bed` `bedchamber` `beeroth` `beerothite` `beerothites` `beheaded` `benjamin` `blood` `brother` `buried` `captains` `children` `cut` `david` `davids` `day` `dead` `earth` `enemy` `escaped` `fear` `feeble` `feet` `fell` `fetched` `fifth` `five` `fled` `gittaim` `good` `hand` `hands` `hanged` `haste` `head` `heard` `heat` `hebron` `held` `house` `ish-bosheth` `ish-bosheths` `israelites` `jezreel` `jonathan` `justice` `king` `lame` `life` `liveth` `lord` `men` `mephibosheth` `mephibosheths` `midst` `murder` `night` `noon` `nurse` `person` `plain` `pool` `presentation` `rechab` `reckoned` `redeemed` `require` `reward` `rib` `righteous` `rimmon` `saul` `seed` `sepulchre` `slain` `slew` `smote` `sojourners` `son` `sons` `sought` `soul` `story` `tidings` `told` `treachery` `troubled` `two` `wheat` `wicked` `years` `young` `ziklag`
+#abner #adversity #answered #avenged #baanah #bands #bed #bedchamber #beeroth #beerothite #beerothites #beheaded #benjamin #blood #brother #buried #captains #children #cut #david #davids #day #dead #earth #enemy #escaped #fear #feeble #feet #fell #fetched #fifth #five #fled #gittaim #good #hand #hands #hanged #haste #head #heard #heat #hebron #held #house #ish-bosheth #ish-bosheths #israelites #jezreel #jonathan #justice #king #lame #life #liveth #lord #men #mephibosheth #mephibosheths #midst #murder #night #noon #nurse #person #plain #pool #presentation #rechab #reckoned #redeemed #require #reward #rib #righteous #rimmon #saul #seed #sepulchre #slain #slew #smote #sojourners #son #sons #sought #soul #story #tidings #told #treachery #troubled #two #wheat #wicked #years #young #ziklag
 
 
 ---

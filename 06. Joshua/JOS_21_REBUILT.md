@@ -1,3 +1,68 @@
+---
+book: "Joshua"
+chapter: 21
+testament: "Old Testament"
+key_themes: "Levitical Cities, Priestly Inheritance, Suburbs for Cattle, Kohathites, Gershonites, Merarites, Cities of Refuge, Complete Possession, God's Faithfulness"
+tags:
+  - heads-fathers-tribes-children-Israel
+  - spake-Shiloh-land-Canaan
+  - suburbs-cattle
+  - children-Israel-Levites-inheritance
+  - commandment-LORD-cities-suburbs
+  - lot-families-Kohathites
+  - children-Aaron-priest-Levites
+  - thirteen-cities
+  - ten-cities
+  - twelve-cities
+  - LORD-commanded-hand-Moses
+  - cities-mentioned-name
+  - first-lot
+  - suburbs-round
+  - children-Aaron-priest-Hebron-suburbs
+  - city-refuge-slayer
+  - Libnah-suburbs
+  - Jattir-suburbs-Eshtemoa-suburbs
+  - Holon-suburbs-Debir-suburbs
+  - nine-cities-two-tribes
+  - Anathoth-suburbs-Almon-suburbs
+  - four-cities
+  - lot-tribe-Ephraim
+  - Shechem-suburbs-mount-Ephraim
+  - Gezer-suburbs
+  - Kibzaim-suburbs-Beth-horon-suburbs
+  - Aijalon-suburbs-Gath-rimmon-suburbs
+  - two-cities
+  - Golan-Bashan-suburbs
+  - Beesh-terah-suburbs
+  - Jarmuth-suburbs-En-gannim-suburbs
+  - Helkath-suburbs-Rehob-suburbs
+  - tribe-Naphtali-Kedesh-Galilee-suburbs
+  - Hammoth-dor-suburbs-Kartan-suburbs
+  - three-cities
+  - Jokneam-suburbs-Kartah-suburbs
+  - Dimnah-suburbs-Nahalal-suburbs
+  - Kedemoth-suburbs-Mephaath-suburbs
+  - tribe-Gad-Ramoth-Gilead-suburbs
+  - Mahanaim-suburbs
+  - Heshbon-suburbs-Jazer-suburbs
+  - four-cities-all
+  - cities-suburbs-round
+  - possessed-dwelt
+  - LORD-rest-round
+  - sware-fathers
+  - stood-man-enemies
+  - LORD-delivered-enemies-hand
+  - came-pass
+  - levitical-cities
+  - priestly-inheritance
+  - suburbs-for-cattle
+  - kohathites
+  - gershonites
+  - merarites
+  - cities-of-refuge
+  - complete-possession
+  - god
+---
 # Joshua 21
 
 ---
@@ -93,7 +158,7 @@ Levitical heads approach Eleazar, Joshua, and tribal heads at Shiloh, requesting
 
 
 *AI Keywords for current event matching:*
-`aaron` `aarons` `abdon` `aijalon` `ain` `almon` `anak` `anathoth` `arba` `asher` `bashan` `beesh-terah` `benjamin` `beth-horon` `beth-shemesh` `bezer` `caleb` `came` `canaan` `cattle` `children` `cities` `city` `commanded` `commandment` `country` `dabareh` `dan` `debir` `delivered` `dimnah` `distribution` `dwell` `dwelt` `eight` `eleazar` `eltekeh` `en-gannim` `enemies` `ephraim` `eshtemoa` `failed` `families` `father` `fathers` `fields` `first` `forty` `four` `gad` `galilee` `gath-rimmon` `geba` `gershon` `gershonites` `gezer` `gibbethon` `gibeon` `gilead` `give` `golan` `good` `half` `hammoth-dor` `hand` `heads` `hebron` `helkath` `heshbon` `hill` `holon` `house` `inheritance` `israel` `israels` `issachar` `jahazah` `jarmuth` `jattir` `jazer` `jephunneh` `jokneam` `joshua` `judah` `juttah` `kartah` `kartan` `kedemoth` `kedesh` `kibzaim` `kishon` `kohath` `kohathites` `land` `levi` `levites` `levitical` `libnah` `lord` `lot` `mahanaim` `man` `manasseh` `mentioned` `mephaath` `merari` `merarites` `mishal` `moses` `mount` `nahalal` `name` `naphtali` `nine` `nun` `ought` `pass` `possessed` `possession` `priest` `priests` `ramoth` `refuge` `rehob` `remained` `remaining` `request` `response` `rest` `reuben` `round` `shechem` `shiloh` `simeon` `slayer` `son` `spake` `spoken` `stood` `suburbs` `summary` `sware` `tanach` `ten` `thing` `thirteen` `three` `tribe` `tribes` `twelve` `two` `villages` `zebulun`
+#aaron #aarons #abdon #aijalon #ain #almon #anak #anathoth #arba #asher #bashan #beesh-terah #benjamin #beth-horon #beth-shemesh #bezer #caleb #came #canaan #cattle #children #cities #city #commanded #commandment #country #dabareh #dan #debir #delivered #dimnah #distribution #dwell #dwelt #eight #eleazar #eltekeh #en-gannim #enemies #ephraim #eshtemoa #failed #families #father #fathers #fields #first #forty #four #gad #galilee #gath-rimmon #geba #gershon #gershonites #gezer #gibbethon #gibeon #gilead #give #golan #good #half #hammoth-dor #hand #heads #hebron #helkath #heshbon #hill #holon #house #inheritance #israel #israels #issachar #jahazah #jarmuth #jattir #jazer #jephunneh #jokneam #joshua #judah #juttah #kartah #kartan #kedemoth #kedesh #kibzaim #kishon #kohath #kohathites #land #levi #levites #levitical #libnah #lord #lot #mahanaim #man #manasseh #mentioned #mephaath #merari #merarites #mishal #moses #mount #nahalal #name #naphtali #nine #nun #ought #pass #possessed #possession #priest #priests #ramoth #refuge #rehob #remained #remaining #request #response #rest #reuben #round #shechem #shiloh #simeon #slayer #son #spake #spoken #stood #suburbs #summary #sware #tanach #ten #thing #thirteen #three #tribe #tribes #twelve #two #villages #zebulun
 
 
 ---

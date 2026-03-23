@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 61
+testament: "Old Testament"
+key_themes: "Prayer from Distance, God as Rock, Eternal Protection, Royal Blessing"
+tags:
+  - prayer-from-distance
+  - god-as-rock
+  - eternal-protection
+  - royal-blessing
+---
 # Psalm 61
 
 ---
@@ -117,7 +128,7 @@ Chief, Musician, Neginah, Psalm, David, Hear, cry, GOD, attend, prayer, end, ear
 
 
 *AI Keywords for current event matching:*
-`abide` `attend` `blessing` `chief` `covert` `cry` `david` `distance` `earth` `end` `enemy` `eternal` `fear` `forever` `generations` `god` `hear` `heart` `heritage` `higher` `king` `lead` `life` `mercy` `musician` `name` `neginah` `overwhelmed` `prayer` `prepare` `preserve` `prolong` `protection` `psalm` `rock` `royal` `shelter` `strong` `tabernacle` `tower` `trust` `truth` `wings` `years`
+#abide #attend #blessing #chief #covert #cry #david #distance #earth #end #enemy #eternal #fear #forever #generations #god #hear #heart #heritage #higher #king #lead #life #mercy #musician #name #neginah #overwhelmed #prayer #prepare #preserve #prolong #protection #psalm #rock #royal #shelter #strong #tabernacle #tower #trust #truth #wings #years
 
 
 ---

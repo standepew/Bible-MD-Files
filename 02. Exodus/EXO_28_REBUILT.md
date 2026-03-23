@@ -1,3 +1,32 @@
+---
+book: "Exodus"
+chapter: 28
+testament: "Old Testament"
+key_themes: "The Priestly Garments — "for glory and for beauty," The Ephod and its onyx shoulder stones — Israel's names on Aaron's shoulders, The Breastplate of Judgment — twelve stones, twelve tribes, The Urim and Thummim, The Robe of the Ephod — blue with bells and pomegranates, "His sound shall be heard when he goeth in," The Golden Plate — "HOLINESS TO THE LORD," The linen undergarments, Aaron bears the iniquity of the holy things"
+tags:
+  - priestly-garments
+  - glory-and-beauty
+  - ephod
+  - onyx-stones
+  - twelve-names
+  - memorial-stones
+  - shoulderpieces
+  - breastplate-of-judgment
+  - twelve-stones-twelve-tribes
+  - Urim-Thummim
+  - bear-judgment-upon-heart
+  - robe-of-ephod-blue
+  - bells-and-pomegranates
+  - his-sound-heard
+  - golden-plate
+  - HOLINESS-TO-THE-LORD
+  - mitre
+  - bear-iniquity-of-holy-things
+  - linen-breeches
+  - consecrate-Aaron
+  - spirit-of-wisdom
+  - for-glory-and-beauty
+---
 # Exodus 28
 
 ---
@@ -82,7 +111,7 @@ God commands garments for Aaron "for glory and for beauty," made by those filled
 
 
 *AI Keywords for current event matching:*
-`bearing` `current` `events` `exodus` `heart` `hebrews` `intercessory` `matching` `ministry` `names` `prayer` `shoulders`
+#bearing #current #events #exodus #heart #hebrews #intercessory #matching #ministry #names #prayer #shoulders
 
 
 ---

@@ -1,3 +1,15 @@
+---
+book: "1 Kings"
+chapter: 19
+testament: "Old Testament"
+key_themes: "Elijah's Despair, Divine Encouragement, Horeb Encounter, Still Small Voice, Elisha's Call"
+tags:
+  - elijah
+  - divine-encouragement
+  - horeb-encounter
+  - still-small-voice
+  - elisha
+---
 # 1 Kings 19
 
 ---
@@ -85,7 +97,7 @@ Ahab Jezebel Elijah slain prophets sword. Jezebel messenger Elijah, gods, life, 
 
 
 *AI Keywords for current event matching:*
-`abel-meholah` `ahab` `altars` `angel` `anoint` `arise` `arose` `ate` `baal` `back` `baken` `beer-sheba` `boiled` `bowed` `brake` `cake` `call` `came` `cast` `cave` `children` `coals` `commission` `covenant` `cruse` `damascus` `day` `days` `departed` `die` `divine` `doest` `done` `drink` `earthquake` `eat` `elijah` `elijahs` `elisha` `elishas` `encounter` `enough` `entering` `escapeth` `face` `father` `fathers` `fire` `flesh` `flight` `follow` `forsaken` `forty` `found` `god` `gods` `great` `hazael` `head` `heard` `horeb` `hosts` `instruments` `israel` `jealous` `jehu` `jezebel` `jezebels` `journey` `judah` `juniper` `king` `kiss` `kissed` `knees` `laid` `left` `life` `lodged` `lord` `mantle` `meat` `messenger` `ministered` `mother` `mount` `mountains` `mouth` `nights` `nimshi` `oxen` `passed` `people` `plowing` `prophet` `prophets` `ran` `rent` `requested` `return` `returned` `rocks` `room` `sat` `second` `seek` `servant` `seven` `shaphat` `slain` `slay` `slept` `slew` `small` `son` `stand` `still` `strength` `strong` `sustenance` `sword` `syria` `take` `thousand` `threat` `thrown` `time` `tomorrow` `touched` `tree` `twelfth` `twelve` `voice` `water` `went` `wilderness` `wind` `word` `wrapped` `yoke`
+#abel-meholah #ahab #altars #angel #anoint #arise #arose #ate #baal #back #baken #beer-sheba #boiled #bowed #brake #cake #call #came #cast #cave #children #coals #commission #covenant #cruse #damascus #day #days #departed #die #divine #doest #done #drink #earthquake #eat #elijah #elijahs #elisha #elishas #encounter #enough #entering #escapeth #face #father #fathers #fire #flesh #flight #follow #forsaken #forty #found #god #gods #great #hazael #head #heard #horeb #hosts #instruments #israel #jealous #jehu #jezebel #jezebels #journey #judah #juniper #king #kiss #kissed #knees #laid #left #life #lodged #lord #mantle #meat #messenger #ministered #mother #mount #mountains #mouth #nights #nimshi #oxen #passed #people #plowing #prophet #prophets #ran #rent #requested #return #returned #rocks #room #sat #second #seek #servant #seven #shaphat #slain #slay #slept #slew #small #son #stand #still #strength #strong #sustenance #sword #syria #take #thousand #threat #thrown #time #tomorrow #touched #tree #twelfth #twelve #voice #water #went #wilderness #wind #word #wrapped #yoke
 
 
 ---

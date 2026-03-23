@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 20
+testament: "Old Testament"
+key_themes: "Prayer for Victory, Divine Help, Trust in God vs. Human Strength, God's Salvation"
+tags:
+  - prayer-for-victory
+  - divine-help
+  - trust-in-god-vs-human-strength
+  - god
+---
 # Psalm 20
 
 ---
@@ -141,7 +152,7 @@ Chief, Musician, Psalm, David, LORD, hear, day, trouble, name, GOD, Jacob, defen
 
 
 *AI Keywords for current event matching:*
-`accept` `anointed` `banners` `brought` `burnt` `call` `chariots` `chief` `counsel` `david` `day` `defend` `divine` `down` `fallen` `fulfil` `god` `gods` `grant` `hand` `hear` `heart` `heaven` `help` `holy` `horses` `human` `jacob` `king` `lord` `musician` `name` `offerings` `petitions` `prayer` `psalm` `rejoice` `remember` `right` `risen` `sacrifice` `salvation` `sanctuary` `save` `saveth` `saving` `selah` `send` `set` `stand` `strength` `strengthen` `trouble` `trust` `upright` `victory` `zion`
+#accept #anointed #banners #brought #burnt #call #chariots #chief #counsel #david #day #defend #divine #down #fallen #fulfil #god #gods #grant #hand #hear #heart #heaven #help #holy #horses #human #jacob #king #lord #musician #name #offerings #petitions #prayer #psalm #rejoice #remember #right #risen #sacrifice #salvation #sanctuary #save #saveth #saving #selah #send #set #stand #strength #strengthen #trouble #trust #upright #victory #zion
 
 
 ---

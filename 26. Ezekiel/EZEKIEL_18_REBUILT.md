@@ -1,3 +1,13 @@
+---
+book: "Ezekiel"
+chapter: 18
+testament: "Old Testament"
+key_themes: "Christ's Justice, Personal Responsibility, Divine Mercy, Christ's Salvation"
+tags:
+  - christ
+  - personal-responsibility
+  - divine-mercy
+---
 # Ezekiel 18
 
 ---
@@ -117,7 +127,7 @@ Word, Lord, son, man, proverb, land, Israel, fathers, eaten, sour, grapes, child
 
 
 *AI Keywords for current event matching:*
-`bear` `cast` `christs` `die` `divine` `heart` `iniquity` `justice` `keep` `kept` `lawful` `live` `man` `mercy` `mine` `new` `personal` `pleasure` `responsibility` `right` `righteous` `righteousness` `salvation` `sinneth` `soul` `souls` `spirit` `statutes` `surely` `transgressions` `turn` `wicked` `wickedness`
+#bear #cast #christs #die #divine #heart #iniquity #justice #keep #kept #lawful #live #man #mercy #mine #new #personal #pleasure #responsibility #right #righteous #righteousness #salvation #sinneth #soul #souls #spirit #statutes #surely #transgressions #turn #wicked #wickedness
 
 
 ---

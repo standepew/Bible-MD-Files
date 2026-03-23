@@ -1,3 +1,13 @@
+---
+book: "Acts"
+chapter: 23
+testament: "New Testament"
+key_themes: "Paul Before the Council, The Plot Against Paul, Paul Sent to Caesarea"
+tags:
+  - paul-before-the-council
+  - the-plot-against-paul
+  - paul-sent-to-caesarea
+---
 # Acts 23
 
 ---
@@ -151,7 +161,7 @@ Paul, earnestly, beholding, council, Men, brethren, lived, conscience, God, day,
 
 
 *AI Keywords for current event matching:*
-`accused` `accusers` `against` `agreed` `among` `ananias` `angel` `antipatris` `army` `arose` `aside` `asked` `banded` `bear` `beasts` `beholding` `bonds` `both` `bound` `brethren` `bring` `brother` `brought` `caesarea` `called` `captain` `castle` `cause` `centurion` `centurions` `certain` `charge` `charged` `cheer` `chief` `cilicia` `claudius` `come` `commanded` `commandest` `commandment` `confess` `conscience` `conspiracy` `contrary` `council` `cried` `cry` `curse` `day` `death` `delivered` `depart` `desire` `dissension` `divided` `drink` `earnestly` `eat` `elders` `enquire` `entered` `epistle` `evil` `excellent` `farewell` `fearing` `felix` `fight` `find` `following` `force` `forty` `god` `good` `governor` `great` `greeting` `hall` `hand` `hear` `heard` `herod` `high` `hope` `horsemen` `hour` `hundred` `jerusalem` `jews` `judge` `judgment` `kept` `kill` `killed` `laid` `law` `left` `letter` `lived` `looking` `lord` `lying` `lysias` `man` `manner` `men` `morrow` `mouth` `multitude` `near` `neither` `night` `oath` `part` `paul` `people` `perceived` `perfectly` `pharisee` `pharisees` `pieces` `plot` `prayed` `presented` `priest` `priests` `prisoner` `privately` `promise` `provide` `province` `pulled` `question` `questions` `read` `ready` `rescued` `resurrection` `revilest` `roman` `rome` `ruler` `sadducees` `safe` `say` `scribes` `sent` `set` `shewed` `signify` `sister` `sittest` `slain` `smite` `smitten` `soldiers` `something` `somewhat` `son` `speak` `spearmen` `spirit` `spoken` `stood` `straightway` `strove` `tell` `testified` `thing` `third` `threescore` `told` `took` `two` `understood` `wait` `wall` `whited` `wist` `witness` `worthy` `written` `wrote` `yield` `young`
+#accused #accusers #against #agreed #among #ananias #angel #antipatris #army #arose #aside #asked #banded #bear #beasts #beholding #bonds #both #bound #brethren #bring #brother #brought #caesarea #called #captain #castle #cause #centurion #centurions #certain #charge #charged #cheer #chief #cilicia #claudius #come #commanded #commandest #commandment #confess #conscience #conspiracy #contrary #council #cried #cry #curse #day #death #delivered #depart #desire #dissension #divided #drink #earnestly #eat #elders #enquire #entered #epistle #evil #excellent #farewell #fearing #felix #fight #find #following #force #forty #god #good #governor #great #greeting #hall #hand #hear #heard #herod #high #hope #horsemen #hour #hundred #jerusalem #jews #judge #judgment #kept #kill #killed #laid #law #left #letter #lived #looking #lord #lying #lysias #man #manner #men #morrow #mouth #multitude #near #neither #night #oath #part #paul #people #perceived #perfectly #pharisee #pharisees #pieces #plot #prayed #presented #priest #priests #prisoner #privately #promise #provide #province #pulled #question #questions #read #ready #rescued #resurrection #revilest #roman #rome #ruler #sadducees #safe #say #scribes #sent #set #shewed #signify #sister #sittest #slain #smite #smitten #soldiers #something #somewhat #son #speak #spearmen #spirit #spoken #stood #straightway #strove #tell #testified #thing #third #threescore #told #took #two #understood #wait #wall #whited #wist #witness #worthy #written #wrote #yield #young
 
 
 ---

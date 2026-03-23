@@ -1,3 +1,171 @@
+---
+book: "Joshua"
+chapter: 10
+testament: "Old Testament"
+key_themes: "Amorite Coalition, Gibeonite Alliance, Divine Victory, Long Day, Sun Stands Still, Hailstones, Five Kings Captured, Southern Campaign, Complete Conquest"
+tags:
+  - Adoni-zedek-king-Jerusalem-heard
+  - Joshua-took-Ai
+  - destroyed
+  - Jericho-king
+  - Ai-king
+  - inhabitants-Gibeon-peace-Israel
+  - feared-greatly
+  - Gibeon-great-city
+  - royal-city
+  - greater-Ai
+  - men-mighty
+  - Adoni-zedek-king-Jerusalem-sent
+  - Hoham-king-Hebron
+  - Piram-king-Jarmuth
+  - Japhia-king-Lachish
+  - Debir-king-Eglon
+  - Come-help
+  - smite-Gibeon
+  - peace-Joshua-children-Israel
+  - five-kings-Amorites
+  - king-Jerusalem
+  - king-Hebron
+  - king-Jarmuth
+  - king-Lachish
+  - king-Eglon
+  - gathered-together
+  - hosts
+  - encamped-Gibeon
+  - war
+  - men-Gibeon-sent-Joshua-camp-Gilgal
+  - Slack-hand-servants
+  - come-quickly
+  - save-help
+  - kings-Amorites-dwell-mountains
+  - gathered-against
+  - Joshua-ascended-Gilgal
+  - people-war
+  - mighty-men-valour
+  - LORD-Joshua
+  - Fear-not
+  - delivered-hand
+  - stand
+  - Joshua-came-suddenly
+  - Gilgal-night
+  - LORD-discomfited-Israel
+  - slew-great-slaughter-Gibeon
+  - chased-way-Beth-horon
+  - smote-Azekah
+  - Makkedah
+  - fled-Israel
+  - going-down-Beth-horon
+  - LORD-cast-great-stones-heaven
+  - Azekah
+  - died
+  - hailstones-died
+  - children-Israel-slew-sword
+  - Joshua-spoke-LORD
+  - day-LORD-delivered-Amorites
+  - children-Israel
+  - sight-Israel
+  - Sun-stand-Gibeon
+  - Moon-valley-Ajalon
+  - sun-stood
+  - moon-stayed
+  - people-avenged-enemies
+  - written-book-Jasher
+  - sun-stood-midst-heaven
+  - hasted-not-day
+  - day-LORD-hearkened-voice-man
+  - LORD-fought-Israel
+  - Joshua-returned-Israel-camp-Gilgal
+  - five-kings-fled
+  - hid-cave-Makkedah
+  - told-Joshua
+  - five-kings-found-hid-cave-Makkedah
+  - Joshua-Roll-great-stones-mouth-cave
+  - set-men-keep
+  - stay-not
+  - pursue-enemies
+  - smite-hindmost
+  - suffer-enter-cities
+  - LORD-God-delivered-hand
+  - Joshua-children-Israel-slaying-great-slaughter
+  - consumed
+  - remained-fenced-cities
+  - people-returned-camp-Joshua-Makkedah-peace
+  - moved-tongue-children-Israel
+  - Joshua-Open-mouth-cave
+  - bring-five-kings-cave
+  - five-kings-Jerusalem-Hebron-Jarmuth-Lachish-Eglon
+  - Joshua-called-men-Israel
+  - captains-men-war
+  - Come-near
+  - feet-necks-kings
+  - came-near
+  - feet-necks
+  - Fear-not-dismayed
+  - strong-good-courage
+  - LORD-enemies-fight
+  - Joshua-slew
+  - hanged-five-trees
+  - hanging-trees-evening
+  - time-going-sun
+  - Joshua-commanded
+  - took-trees
+  - cast-cave-hid
+  - laid-great-stones-cave-mouth
+  - remain-day
+  - Joshua-Makkedah
+  - smote-edge-sword
+  - king-destroyed
+  - souls-inhabitants
+  - remain-destroyed-king-Jericho
+  - Joshua-passed-Makkedah-Israel-Libnah
+  - fought-Libnah
+  - LORD-delivered-king-hand-Israel
+  - smote-edge-sword
+  - souls-inhabitants
+  - remain-king-Jericho
+  - Joshua-passed-Libnah-Israel-Lachish
+  - encamped-fought
+  - LORD-delivered-Lachish-hand-Israel
+  - second-day
+  - smote-edge-sword
+  - souls-inhabitants
+  - Libnah
+  - Horam-king-Gezer-help-Lachish
+  - Joshua-smote-people
+  - none-remaining
+  - Lachish-Joshua-passed-Eglon-Israel
+  - encamped-fought
+  - took-day
+  - smote-edge-sword
+  - souls-inhabitants
+  - destroyed-day
+  - Lachish
+  - Joshua-Eglon-Israel-Hebron
+  - fought
+  - took-king-cities
+  - smote-edge-sword
+  - king-cities-souls-inhabitants
+  - none-remaining
+  - Eglon-destroyed-souls-inhabitants
+  - Joshua-returned-Israel-Debir
+  - fought
+  - took-king-cities
+  - smote-edge-sword
+  - destroyed-souls-inhabitants
+  - none-remaining
+  - Hebron-Debir-king
+  - Libnah-king
+  - Joshua-smote-country-hills
+  - south-vale-springs
+  - kings
+  - remain-destroyed-breathed
+  - LORD-God-Israel-commanded
+  - Joshua-smote-Kadesh-barnea-Gaza
+  - country-Goshen-Gibeon
+  - kings-land-Joshua-time
+  - LORD-God-Israel-fought-Israel
+  - Joshua-returned-Israel-camp-Gilgal
+---
 # Joshua 10
 
 ---
@@ -95,7 +263,7 @@ Adoni-zedek king of Jerusalem, hearing Joshua took Ai and destroyed it, and that
 
 
 *AI Keywords for current event matching:*
-`adoni-zedek` `against` `ajalon` `amorite` `amorites` `appeal` `ascended` `avenged` `azekah` `beth-horon` `book` `breathed` `bring` `called` `came` `camp` `campaign` `captains` `capture` `cast` `cave` `celestial` `ceremony` `chased` `children` `cities` `city` `coalition` `come` `commanded` `complete` `conquest` `consumed` `country` `courage` `day` `debir` `delivered` `destroyed` `died` `discomfited` `dismayed` `divine` `down` `dwell` `edge` `eglon` `encamped` `enemies` `enter` `evening` `fear` `feared` `feet` `fenced` `fight` `five` `fled` `fought` `found` `gathered` `gaza` `gezer` `gibeon` `gibeonite` `gilgal` `god` `going` `good` `goshen` `great` `greater` `greatly` `hailstones` `hand` `hanged` `hanging` `hasted` `heard` `hearkened` `heaven` `hebron` `help` `hid` `hills` `hindmost` `hoham` `horam` `hosts` `inhabitants` `israel` `japhia` `jarmuth` `jasher` `jericho` `jerusalem` `joshua` `kadesh-barnea` `keep` `king` `kings` `lachish` `laid` `land` `libnah` `lord` `makkedah` `man` `men` `midst` `mighty` `miracle` `moon` `mountains` `mouth` `moved` `near` `necks` `night` `none` `open` `passed` `peace` `people` `piram` `pursue` `quickly` `remain` `remained` `remaining` `returned` `roll` `royal` `save` `second` `sent` `servants` `set` `sight` `slack` `slaughter` `slaying` `slew` `smite` `smote` `souls` `south` `southern` `spoke` `springs` `stand` `stay` `stayed` `stones` `stood` `strong` `suddenly` `suffer` `sun` `sword` `time` `together` `told` `tongue` `took` `trees` `vale` `valley` `valour` `victory` `voice` `war` `way` `written`
+#adoni-zedek #against #ajalon #amorite #amorites #appeal #ascended #avenged #azekah #beth-horon #book #breathed #bring #called #came #camp #campaign #captains #capture #cast #cave #celestial #ceremony #chased #children #cities #city #coalition #come #commanded #complete #conquest #consumed #country #courage #day #debir #delivered #destroyed #died #discomfited #dismayed #divine #down #dwell #edge #eglon #encamped #enemies #enter #evening #fear #feared #feet #fenced #fight #five #fled #fought #found #gathered #gaza #gezer #gibeon #gibeonite #gilgal #god #going #good #goshen #great #greater #greatly #hailstones #hand #hanged #hanging #hasted #heard #hearkened #heaven #hebron #help #hid #hills #hindmost #hoham #horam #hosts #inhabitants #israel #japhia #jarmuth #jasher #jericho #jerusalem #joshua #kadesh-barnea #keep #king #kings #lachish #laid #land #libnah #lord #makkedah #man #men #midst #mighty #miracle #moon #mountains #mouth #moved #near #necks #night #none #open #passed #peace #people #piram #pursue #quickly #remain #remained #remaining #returned #roll #royal #save #second #sent #servants #set #sight #slack #slaughter #slaying #slew #smite #smote #souls #south #southern #spoke #springs #stand #stay #stayed #stones #stood #strong #suddenly #suffer #sun #sword #time #together #told #tongue #took #trees #vale #valley #valour #victory #voice #war #way #written
 
 
 ---

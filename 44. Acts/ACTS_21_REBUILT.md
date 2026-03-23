@@ -1,3 +1,21 @@
+---
+book: "Acts"
+chapter: 21
+testament: "New Testament"
+key_themes: "Paul's Journey to Jerusalem, The Prophecy of Agabus, Paul's Arrest in Jerusalem"
+tags:
+  - paul
+  - the-prophecy-of-agabus
+  - jerusalem
+  - agabus
+  - bound
+  - vow
+  - philip-evangelist
+  - arrest
+  - temple
+  - riot
+  - caesarea
+---
 # Acts 21
 
 ---
@@ -175,7 +193,7 @@ Gotten, launched, straight, course, Coos, Rhodes, Patara, finding, ship, sailing
 
 
 *AI Keywords for current event matching:*
-`aboard` `abode` `accomplished` `accomplishment` `agabus` `almost` `answered` `arrest` `art` `asia` `band` `beating` `beckoned` `believe` `beseech` `besought` `bind` `blood` `bound` `break` `brethren` `brother` `brought` `burden` `caesarea` `captain` `carriages` `carry` `castle` `ceased` `centurions` `certainty` `chains` `charges` `chief` `children` `cilicia` `circumcise` `citizen` `city` `come` `commanded` `company` `concluded` `coos` `course` `cried` `crying` `customs` `cyprus` `daughters` `day` `days` `declared` `deliver` `demanded` `departed` `die` `disciple` `disciples` `discovered` `done` `doors` `drew` `egyptian` `elders` `ended` `entered` `ephesian` `evangelist` `feet` `finding` `finished` `followed` `fornication` `forsake` `forthwith` `four` `gentiles` `ghost` `girdle` `gladly` `glorified` `god` `gotten` `great` `greek` `greeks` `hand` `hands` `heads` `hear` `heard` `heart` `hebrew` `help` `holy` `house` `idols` `informed` `israel` `james` `jerusalem` `jesus` `jew` `jews` `journey` `judaea` `keepest` `kill` `kneeled` `know` `laid` `landed` `launched` `law` `led` `leddest` `left` `licence` `lodge` `lord` `madest` `man` `mean` `men` `ministry` `mnason` `moses` `moved` `multitude` `murderers` `name` `near` `needs` `nothing` `observe` `offered` `offering` `orderly` `owneth` `particularly` `patara` `paul` `pauls` `people` `persuaded` `phenicia` `philip` `place` `polluted` `prayed` `present` `prophecy` `prophesied` `prophet` `ptolemais` `purification` `purify` `purifying` `ran` `ready` `received` `rhodes` `sailed` `sailing` `saluted` `seen` `set` `seven` `shave` `ship` `shore` `shut` `signify` `silence` `soldiers` `spake` `speak` `spirit` `stairs` `stirred` `stood` `straight` `strangled` `suffer` `supposed` `syria` `take` `tarried` `tarsus` `teachest` `teacheth` `temple` `things` `thousand` `thousands` `tidings` `together` `tongue` `took` `touching` `trophimus` `tumult` `two` `tyre` `unlade` `uproar` `violence` `virgins` `vow` `walk` `walkest` `way` `weep` `wilderness` `wives` `written` `wrought` `zealous`
+#aboard #abode #accomplished #accomplishment #agabus #almost #answered #arrest #art #asia #band #beating #beckoned #believe #beseech #besought #bind #blood #bound #break #brethren #brother #brought #burden #caesarea #captain #carriages #carry #castle #ceased #centurions #certainty #chains #charges #chief #children #cilicia #circumcise #citizen #city #come #commanded #company #concluded #coos #course #cried #crying #customs #cyprus #daughters #day #days #declared #deliver #demanded #departed #die #disciple #disciples #discovered #done #doors #drew #egyptian #elders #ended #entered #ephesian #evangelist #feet #finding #finished #followed #fornication #forsake #forthwith #four #gentiles #ghost #girdle #gladly #glorified #god #gotten #great #greek #greeks #hand #hands #heads #hear #heard #heart #hebrew #help #holy #house #idols #informed #israel #james #jerusalem #jesus #jew #jews #journey #judaea #keepest #kill #kneeled #know #laid #landed #launched #law #led #leddest #left #licence #lodge #lord #madest #man #mean #men #ministry #mnason #moses #moved #multitude #murderers #name #near #needs #nothing #observe #offered #offering #orderly #owneth #particularly #patara #paul #pauls #people #persuaded #phenicia #philip #place #polluted #prayed #present #prophecy #prophesied #prophet #ptolemais #purification #purify #purifying #ran #ready #received #rhodes #sailed #sailing #saluted #seen #set #seven #shave #ship #shore #shut #signify #silence #soldiers #spake #speak #spirit #stairs #stirred #stood #straight #strangled #suffer #supposed #syria #take #tarried #tarsus #teachest #teacheth #temple #things #thousand #thousands #tidings #together #tongue #took #touching #trophimus #tumult #two #tyre #unlade #uproar #violence #virgins #vow #walk #walkest #way #weep #wilderness #wives #written #wrought #zealous
 
 
 ---

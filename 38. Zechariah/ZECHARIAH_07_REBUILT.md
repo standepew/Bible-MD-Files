@@ -1,3 +1,14 @@
+---
+book: "Zechariah"
+chapter: 7
+testament: "Old Testament"
+key_themes: "Christ's Call to True Obedience, Empty Rituals, Social Justice, Divine Rejection"
+tags:
+  - christ
+  - empty-rituals
+  - social-justice
+  - divine-rejection
+---
 # Zechariah 7
 
 ---
@@ -129,7 +140,7 @@ Fourth, year, king, Darius, word, LORD, Zechariah, fourth, day, ninth, month, Ch
 
 
 *AI Keywords for current event matching:*
-`adamant` `brother` `call` `christs` `compassions` `divine` `drink` `ears` `eat` `empty` `evil` `execute` `fast` `fasted` `fatherless` `former` `hear` `hearken` `imagine` `judgment` `justice` `mercy` `mourned` `obedience` `oppress` `poor` `prophets` `pulled` `refused` `rejection` `rituals` `shew` `shoulder` `social` `stone` `stopped` `stranger` `true` `widow` `words` `yourselves`
+#adamant #brother #call #christs #compassions #divine #drink #ears #eat #empty #evil #execute #fast #fasted #fatherless #former #hear #hearken #imagine #judgment #justice #mercy #mourned #obedience #oppress #poor #prophets #pulled #refused #rejection #rituals #shew #shoulder #social #stone #stopped #stranger #true #widow #words #yourselves
 
 
 ---

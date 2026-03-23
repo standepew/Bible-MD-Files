@@ -1,3 +1,13 @@
+---
+book: "Isaiah"
+chapter: 61
+testament: "Old Testament"
+key_themes: "Christ's Anointing, Divine Commission, Spiritual Restoration, Christ's Joy"
+tags:
+  - christ
+  - divine-commission
+  - spiritual-restoration
+---
 # Isaiah 61
 
 ---
@@ -105,7 +115,7 @@ Spirit, Lord, GOD, anointed, preach, good, tidings, meek, sent, bind, brokenhear
 
 
 *AI Keywords for current event matching:*
-`acceptable` `anointed` `anointing` `appoint` `ashes` `beauty` `bind` `brokenhearted` `build` `captives` `christs` `comfort` `commission` `day` `divine` `garment` `garments` `god` `good` `greatly` `joy` `joyful` `liberty` `lord` `mourn` `mourning` `oil` `old` `praise` `preach` `proclaim` `rejoice` `restoration` `righteousness` `robe` `salvation` `sent` `soul` `spirit` `spiritual` `tidings` `vengeance` `wastes` `year` `zion`
+#acceptable #anointed #anointing #appoint #ashes #beauty #bind #brokenhearted #build #captives #christs #comfort #commission #day #divine #garment #garments #god #good #greatly #joy #joyful #liberty #lord #mourn #mourning #oil #old #praise #preach #proclaim #rejoice #restoration #righteousness #robe #salvation #sent #soul #spirit #spiritual #tidings #vengeance #wastes #year #zion
 
 
 ---

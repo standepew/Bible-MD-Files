@@ -1,3 +1,20 @@
+---
+book: "1 Chronicles"
+chapter: 23
+testament: "Old Testament"
+key_themes: "Solomon's Anointing, Levitical Organization, Temple Service Arrangements, David's Final Instructions"
+tags:
+  - Gershonites-Laadan-Shimei
+  - sons-Moses-Gershom-Eliezer
+  - sons-Gershom-Shebuel-chief
+  - sons-Izhar-Shelomith-chief
+  - sons-Merari-Mahli-Mushi
+  - sons-Mahli-Eleazar-Kish
+  - solomon
+  - levitical-organization
+  - temple-service-arrangements
+  - david
+---
 # 1 Chronicles 23
 
 ---
@@ -119,7 +136,7 @@ David, old, full, days, Solomon, son, king, Israel. David, gathered, princes, Is
 
 
 *AI Keywords for current event matching:*
-`aaron` `above` `age` `amariah` `amram` `anointing` `baked` `beriah` `bless` `brethren` `burn` `burnt` `cakes` `carry` `chambers` `charge` `chief` `commanded` `congregation` `continually` `counted` `courses` `courts` `david` `days` `died` `divided` `dwell` `eder` `eight` `eleazar` `eliezer` `evening` `ever` `father` `fathers` `feasts` `fine` `first` `flour` `forward` `four` `fourth` `fried` `full` `gathered` `gershom` `gershomites` `gershon` `gershonites` `given` `god` `haran` `haziel` `hebron` `hebronites` `holy` `house` `incense` `instruments` `israel` `izhar` `izharites` `jahath` `jahaziel` `jehiel` `jekameam` `jeremoth` `jeriah` `jerusalem` `jesiah` `jeush` `joel` `judges` `keep` `king` `kish` `kohath` `kohathites` `laadan` `last` `levi` `levites` `levitical` `lord` `made` `mahli` `man` `manner` `many` `measure` `meat` `merari` `merarites` `michah` `minister` `moons` `morning` `moses` `mushi` `name` `names` `new` `number` `numbered` `offer` `offering` `office` `officers` `old` `one` `organization` `pan` `people` `place` `polls` `porters` `praise` `praised` `priests` `princes` `purifying` `reckoning` `rehabiah` `rest` `sabbaths` `sacrifices` `sanctify` `second` `separated` `service` `set` `shebuel` `shelomith` `shewbread` `shimei` `six` `size` `solomon` `solomons` `son` `sons` `stand` `tabernacle` `temple` `thank` `thereof` `therewith` `things` `third` `thirty` `thousand` `three` `took` `tribe` `twenty` `unleavened` `upward` `uzziel` `uzzielites` `vessels` `wait` `words` `work` `worship` `years` `zetham` `zina` `zizah`
+#aaron #above #age #amariah #amram #anointing #baked #beriah #bless #brethren #burn #burnt #cakes #carry #chambers #charge #chief #commanded #congregation #continually #counted #courses #courts #david #days #died #divided #dwell #eder #eight #eleazar #eliezer #evening #ever #father #fathers #feasts #fine #first #flour #forward #four #fourth #fried #full #gathered #gershom #gershomites #gershon #gershonites #given #god #haran #haziel #hebron #hebronites #holy #house #incense #instruments #israel #izhar #izharites #jahath #jahaziel #jehiel #jekameam #jeremoth #jeriah #jerusalem #jesiah #jeush #joel #judges #keep #king #kish #kohath #kohathites #laadan #last #levi #levites #levitical #lord #made #mahli #man #manner #many #measure #meat #merari #merarites #michah #minister #moons #morning #moses #mushi #name #names #new #number #numbered #offer #offering #office #officers #old #one #organization #pan #people #place #polls #porters #praise #praised #priests #princes #purifying #reckoning #rehabiah #rest #sabbaths #sacrifices #sanctify #second #separated #service #set #shebuel #shelomith #shewbread #shimei #six #size #solomon #solomons #son #sons #stand #tabernacle #temple #thank #thereof #therewith #things #third #thirty #thousand #three #took #tribe #twenty #unleavened #upward #uzziel #uzzielites #vessels #wait #words #work #worship #years #zetham #zina #zizah
 
 
 ---

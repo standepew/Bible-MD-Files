@@ -1,3 +1,33 @@
+---
+book: "Exodus"
+chapter: 25
+testament: "Old Testament"
+key_themes: "The freewill offering for the Tabernacle, "Let them make me a sanctuary; that I may dwell among them," The Ark of the Testimony — shittim wood overlaid with gold, The Mercy Seat with two cherubim, "There I will meet with thee," The Table of Showbread, The Golden Menorah (Candlestick), "After the pattern which was shewed thee in the mount""
+tags:
+  - tabernacle
+  - sanctuary
+  - I-will-dwell-among-them
+  - freewill-offering
+  - gold-silver-brass
+  - blue-purple-scarlet
+  - fine-linen
+  - goats-hair
+  - rams-skins-red
+  - shittim-wood
+  - ark-of-testimony
+  - mercy-seat
+  - cherubim
+  - there-I-will-meet-thee
+  - table-of-showbread
+  - shewbread
+  - menorah
+  - golden-candlestick
+  - seven-lamps
+  - pattern-in-the-mount
+  - heavenly-pattern
+  - Hebrews-8
+  - heavenly-tabernacle
+---
 # Exodus 25
 
 ---
@@ -110,7 +140,7 @@ God instructs Moses to take a freewill offering from every willing heart: gold, 
 
 
 *AI Keywords for current event matching:*
-`covenant` `current` `dwelling` `events` `exodus` `god` `john` `man` `matching` `purpose` `revelation` `ultimate`
+#covenant #current #dwelling #events #exodus #god #john #man #matching #purpose #revelation #ultimate
 
 
 ---

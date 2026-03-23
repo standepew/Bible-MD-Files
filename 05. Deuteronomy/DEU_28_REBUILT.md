@@ -1,3 +1,167 @@
+---
+book: "Deuteronomy"
+chapter: 28
+testament: "Old Testament"
+key_themes: "Blessings for Obedience, Curses for Disobedience, Covenant Consequences, National Prosperity, Agricultural Blessings, Military Victory, Divine Favor, Economic Prosperity, International Preeminence, Judgment for Apostasy, Military Defeat, Disease, Natural Disasters, Economic Ruin, Captivity, Servitude"
+tags:
+  - hearken-diligently
+  - voice-LORD-God
+  - observe-do-commandments
+  - set-high-nations
+  - blessings-overtake
+  - blessed-city
+  - blessed-field
+  - blessed-fruit-body
+  - blessed-fruit-ground
+  - blessed-fruit-cattle
+  - increase-kine
+  - flocks-sheep
+  - blessed-basket-store
+  - blessed-comest
+  - blessed-goest-out
+  - enemies-smitten
+  - come-out-way
+  - flee-seven-ways
+  - command-blessing
+  - storehouses
+  - set-hand
+  - bless-land
+  - holy-people
+  - sworn
+  - keep-commandments
+  - walk-ways
+  - called-name-LORD
+  - afraid-thee
+  - plenteous-goods
+  - fruit-body
+  - fruit-cattle
+  - fruit-ground
+  - land-sware-fathers
+  - open-good-treasure
+  - heaven-rain-season
+  - bless-work-hand
+  - lend-many-nations
+  - not-borrow
+  - head-not-tail
+  - above-only
+  - not-beneath
+  - not-go-aside
+  - right-hand-left
+  - go-other-gods
+  - serve-them
+  - not-hearken-voice
+  - observe-do-commandments-statutes
+  - curses-overtake
+  - cursed-city
+  - cursed-field
+  - cursed-basket-store
+  - cursed-fruit-body
+  - cursed-fruit-land
+  - cursed-goest-out
+  - send-cursing
+  - vexation-rebuke
+  - set-hand
+  - destroyed-perish-quickly
+  - wickedness-doings
+  - forsaken-me
+  - pestilence-cleave
+  - consumed-land
+  - smite-consumption
+  - fever-inflammation
+  - extreme-burning
+  - sword-blasting-mildew
+  - pursue-perish
+  - heaven-brass
+  - earth-iron
+  - rain-powder-dust
+  - destroyed
+  - smitten-enemies
+  - go-out-way
+  - flee-seven-ways
+  - removed-kingdoms
+  - carcase-meat
+  - fowls-air
+  - beasts-earth
+  - no-man-fray
+  - botch-Egypt
+  - emerods-scab-itch
+  - not-healed
+  - smite-madness
+  - blindness-astonishment-heart
+  - grope-noonday
+  - blind-gropeth-darkness
+  - not-prosper-ways
+  - oppressed-spoiled
+  - no-man-save
+  - betroth-wife
+  - another-man-lie
+  - build-house
+  - not-dwell
+  - plant-vineyard
+  - not-gather-grapes
+  - ox-slain-eyes
+  - not-eat
+  - ass-violently-taken
+  - not-restored
+  - sheep-given-enemies
+  - none-rescue
+  - sons-daughters-given
+  - another-people
+  - eyes-look-fail
+  - longing-day-long
+  - no-might-hand
+  - fruit-land-labours
+  - nation-know-not-eat
+  - oppressed-crushed-alway
+  - mad-sight-eyes
+  - smite-knees-legs
+  - sore-botch
+  - not-healed
+  - sole-foot-top-head
+  - bring-king
+  - nation-not-know
+  - fathers-not-know
+  - serve-other-gods
+  - wood-stone
+  - astonishment-proverb-byword
+  - nations-LORD-lead
+  - carry-much-seed
+  - gather-little
+  - locust-consume
+  - plant-vineyards
+  - dress-them
+  - not-drink-wine
+  - gather-grapes
+  - worms-eat
+  - olive-trees-coasts
+  - not-anoint-oil
+  - olive-cast-fruit
+  - beget-sons-daughters
+  - not-enjoy
+  - captivity
+  - trees-fruit-land
+  - locust-consume
+  - stranger-within
+  - get-above-high
+  - come-down-low
+  - lend-thee
+  - not-lend-him
+  - head-tail
+  - curses-pursue-overtake
+  - destroyed
+  - hearkened-not-voice
+  - keep-commandments-statutes
+  - sign-wonder
+  - seed-forever
+  - served-not-LORD-God
+  - joyfulness-gladness-heart
+  - abundance-things
+  - serve-enemies
+  - hunger-thirst-nakedness
+  - want-things
+  - yoke-iron-neck
+  - destroyed
+---
 # Deuteronomy 28
 
 ---
@@ -103,7 +267,7 @@ Moses presents comprehensive covenant consequences: (1) Blessings for obedienceâ
 
 
 *AI Keywords for current event matching:*
-`above` `abundance` `afraid` `air` `alway` `anoint` `another` `aside` `ass` `astonishment` `basket` `beasts` `beget` `beneath` `betroth` `blasting` `bless` `blessed` `blessing` `blessings` `blind` `blindness` `body` `borrow` `botch` `brass` `bring` `build` `burning` `byword` `called` `captivity` `carcase` `carry` `cast` `cattle` `cause` `city` `cleave` `coasts` `come` `comest` `command` `commandments` `consume` `consumed` `consumption` `crushed` `cursed` `curses` `cursing` `darkness` `daughters` `day` `destroyed` `diligently` `disobedience` `doings` `down` `dress` `drink` `dust` `dwell` `earth` `eat` `egypt` `emerods` `enemies` `enjoy` `extreme` `eyes` `fail` `fathers` `fever` `field` `flee` `flocks` `foot` `forever` `forsaken` `fowls` `fray` `fruit` `gather` `get` `given` `gladness` `god` `gods` `goest` `good` `goods` `grapes` `grope` `gropeth` `ground` `hand` `head` `healed` `hearken` `hearkened` `heart` `heaven` `high` `holy` `house` `hunger` `increase` `inflammation` `iron` `itch` `joyfulness` `keep` `kine` `king` `kingdoms` `knees` `know` `labours` `land` `lead` `left` `legs` `lend` `lie` `little` `locust` `long` `longing` `look` `lord` `low` `mad` `madness` `man` `many` `meat` `mildew` `much` `nakedness` `name` `nation` `nations` `neck` `none` `noonday` `obedience` `observe` `oil` `olive` `open` `oppressed` `overtake` `people` `perish` `pestilence` `plant` `plenteous` `powder` `prosper` `proverb` `pursue` `quickly` `rain` `rebuke` `removed` `rescue` `restored` `right` `save` `scab` `season` `seed` `send` `serve` `served` `set` `seven` `sheep` `sight` `sign` `slain` `smite` `smitten` `sole` `sons` `sore` `spoiled` `statutes` `stone` `store` `storehouses` `stranger` `sware` `sword` `sworn` `tail` `taken` `things` `thirst` `top` `treasure` `trees` `ultimate` `vexation` `vineyard` `vineyards` `violently` `voice` `walk` `want` `way` `ways` `wickedness` `wife` `wine` `within` `wonder` `wood` `work` `worms` `yoke`
+#above #abundance #afraid #air #alway #anoint #another #aside #ass #astonishment #basket #beasts #beget #beneath #betroth #blasting #bless #blessed #blessing #blessings #blind #blindness #body #borrow #botch #brass #bring #build #burning #byword #called #captivity #carcase #carry #cast #cattle #cause #city #cleave #coasts #come #comest #command #commandments #consume #consumed #consumption #crushed #cursed #curses #cursing #darkness #daughters #day #destroyed #diligently #disobedience #doings #down #dress #drink #dust #dwell #earth #eat #egypt #emerods #enemies #enjoy #extreme #eyes #fail #fathers #fever #field #flee #flocks #foot #forever #forsaken #fowls #fray #fruit #gather #get #given #gladness #god #gods #goest #good #goods #grapes #grope #gropeth #ground #hand #head #healed #hearken #hearkened #heart #heaven #high #holy #house #hunger #increase #inflammation #iron #itch #joyfulness #keep #kine #king #kingdoms #knees #know #labours #land #lead #left #legs #lend #lie #little #locust #long #longing #look #lord #low #mad #madness #man #many #meat #mildew #much #nakedness #name #nation #nations #neck #none #noonday #obedience #observe #oil #olive #open #oppressed #overtake #people #perish #pestilence #plant #plenteous #powder #prosper #proverb #pursue #quickly #rain #rebuke #removed #rescue #restored #right #save #scab #season #seed #send #serve #served #set #seven #sheep #sight #sign #slain #smite #smitten #sole #sons #sore #spoiled #statutes #stone #store #storehouses #stranger #sware #sword #sworn #tail #taken #things #thirst #top #treasure #trees #ultimate #vexation #vineyard #vineyards #violently #voice #walk #want #way #ways #wickedness #wife #wine #within #wonder #wood #work #worms #yoke
 
 
 ---

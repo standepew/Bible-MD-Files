@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 148
+testament: "Old Testament"
+key_themes: "Universal Praise, Creation Worship, Angelic Praise, Human Praise"
+tags:
+  - universal-praise
+  - creation-worship
+  - angelic-praise
+  - human-praise
+---
 # Psalm 148
 
 ---
@@ -165,7 +176,7 @@ Praise, LORD, Praise, LORD, heavens, praise, heights, angels, hosts, sun, moon, 
 
 
 *AI Keywords for current event matching:*
-`angelic` `angels` `beasts` `cattle` `children` `commanded` `created` `creation` `decree` `earth` `fulfilling` `heavens` `heights` `hills` `hosts` `human` `judges` `kings` `lord` `maidens` `men` `moon` `mountains` `old` `pass` `people` `praise` `princes` `stars` `stormy` `sun` `universal` `waters` `wind` `worship` `young`
+#angelic #angels #beasts #cattle #children #commanded #created #creation #decree #earth #fulfilling #heavens #heights #hills #hosts #human #judges #kings #lord #maidens #men #moon #mountains #old #pass #people #praise #princes #stars #stormy #sun #universal #waters #wind #worship #young
 
 
 ---

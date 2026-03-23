@@ -1,3 +1,13 @@
+---
+book: "Romans"
+chapter: 4
+testament: "New Testament"
+key_themes: "Abraham's Justification by Faith, The Promise to Abraham, Faith Before Circumcision"
+tags:
+  - abraham
+  - the-promise-to-abraham
+  - faith-before-circumcision
+---
 # Romans 4
 
 ---
@@ -139,7 +149,7 @@ Abraham, father, pertaining, flesh, found, justified, works, glory, God, scriptu
 
 
 *AI Keywords for current event matching:*
-`able` `abraham` `abrahams` `alone` `believe` `believed` `believeth` `blessed` `blessedness` `body` `calleth` `circumcision` `considered` `counted` `covered` `david` `dead` `deadness` `debt` `delivered` `describeth` `effect` `end` `faith` `father` `flesh` `forgiven` `found` `fully` `giving` `glory` `god` `grace` `heir` `heirs` `hope` `hundred` `impute` `imputed` `imputeth` `iniquities` `jesus` `justification` `justified` `justifieth` `law` `lord` `man` `nations` `offences` `perform` `persuaded` `pertaining` `promise` `promised` `quickeneth` `raised` `received` `reckoned` `reward` `righteousness` `sake` `sara` `scripture` `seal` `seed` `sign` `sin` `sins` `spoken` `staggered` `steps` `strong` `sure` `things` `transgression` `unbelief` `uncircumcised` `uncircumcision` `ungodly` `void` `walk` `weak` `womb` `worketh` `works` `world` `wrath` `written` `years`
+#able #abraham #abrahams #alone #believe #believed #believeth #blessed #blessedness #body #calleth #circumcision #considered #counted #covered #david #dead #deadness #debt #delivered #describeth #effect #end #faith #father #flesh #forgiven #found #fully #giving #glory #god #grace #heir #heirs #hope #hundred #impute #imputed #imputeth #iniquities #jesus #justification #justified #justifieth #law #lord #man #nations #offences #perform #persuaded #pertaining #promise #promised #quickeneth #raised #received #reckoned #reward #righteousness #sake #sara #scripture #seal #seed #sign #sin #sins #spoken #staggered #steps #strong #sure #things #transgression #unbelief #uncircumcised #uncircumcision #ungodly #void #walk #weak #womb #worketh #works #world #wrath #written #years
 
 
 ---

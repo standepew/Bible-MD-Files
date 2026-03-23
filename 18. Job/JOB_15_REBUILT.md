@@ -1,3 +1,38 @@
+---
+book: "Job"
+chapter: 15
+testament: "Old Testament"
+key_themes: "Eliphaz's Second Speech, Human Sinfulness, Wicked's Fate, Traditional Wisdom"
+tags:
+  - unprofitable-talk-speeches-good
+  - cast-fear-restrain-prayer-GOD
+  - mouth-iniquity-tongue-crafty
+  - mouth-condemn-lips-testify
+  - first-man-born-hills
+  - secret-GOD-restrain-wisdom
+  - consolations-GOD-small-secret-thing
+  - heart-carry-eyes-wink
+  - spirit-GOD-words-mouth
+  - man-clean-woman-righteous
+  - trust-saints-heavens-clean
+  - abominable-filthy-man-iniquity-water
+  - shew-hear-seen-declare
+  - wise-men-fathers-hidden
+  - earth-given-stranger-passed
+  - dreadful-sound-ears-prosperity-destroyer
+  - return-darkness-waited-sword
+  - wander-bread-darkness-hand
+  - stretch-hand-GOD-strengthen-Almighty
+  - runneth-neck-bucklers
+  - face-fatness-collops-flanks
+  - deceived-trust-vanity-recompence
+  - accomplished-time-branch-green
+  - conceive-mischief-vanity-belly-deceit
+  - eliphaz
+  - human-sinfulness
+  - wicked
+  - traditional-wisdom
+---
 # Job 15
 
 ---
@@ -129,7 +164,7 @@ Eliphaz, Temanite, answered, wise, man, vain, knowledge, belly, east, wind. Unpr
 
 
 *AI Keywords for current event matching:*
-`abominable` `aged` `answered` `belly` `born` `carry` `cast` `clean` `condemn` `consolations` `crafty` `east` `elder` `eliphaz` `eliphazs` `eyes` `fate` `father` `fear` `filthy` `first` `god` `good` `grayheaded` `heart` `heavens` `hills` `human` `iniquity` `knowest` `knowledge` `lips` `man` `men` `mouth` `prayer` `restrain` `righteous` `saints` `second` `secret` `sinfulness` `small` `speech` `speeches` `spirit` `talk` `temanite` `testify` `thing` `tongue` `traditional` `trust` `understandest` `unprofitable` `vain` `water` `wickeds` `wind` `wink` `wisdom` `wise` `woman` `words`
+#abominable #aged #answered #belly #born #carry #cast #clean #condemn #consolations #crafty #east #elder #eliphaz #eliphazs #eyes #fate #father #fear #filthy #first #god #good #grayheaded #heart #heavens #hills #human #iniquity #knowest #knowledge #lips #man #men #mouth #prayer #restrain #righteous #saints #second #secret #sinfulness #small #speech #speeches #spirit #talk #temanite #testify #thing #tongue #traditional #trust #understandest #unprofitable #vain #water #wickeds #wind #wink #wisdom #wise #woman #words
 
 
 ---

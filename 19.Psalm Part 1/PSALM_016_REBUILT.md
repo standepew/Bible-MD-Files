@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 16
+testament: "Old Testament"
+key_themes: "Trust in God, Christ's Resurrection, Eternal Joy, Divine Inheritance"
+tags:
+  - trust-in-god
+  - christ
+  - eternal-joy
+  - divine-inheritance
+---
 # Psalm 16
 
 ---
@@ -141,7 +152,7 @@ Michtam, David, preserve, GOD, trust, soul, LORD, Lord, goodness, extend, saints
 
 
 *AI Keywords for current event matching:*
-`always` `bless` `christs` `corruption` `counsel` `cup` `david` `delight` `divine` `earth` `eternal` `excellent` `extend` `fallen` `flesh` `forevermore` `fulness` `given` `glad` `glory` `god` `goodly` `goodness` `hand` `heart` `hell` `heritage` `holy` `hope` `inheritance` `instruct` `joy` `leave` `life` `lines` `lord` `lot` `maintainest` `michtam` `moved` `night` `one` `path` `places` `pleasant` `pleasures` `portion` `presence` `preserve` `reins` `rejoiceth` `rest` `resurrection` `right` `saints` `seasons` `set` `shew` `soul` `suffer` `trust`
+#always #bless #christs #corruption #counsel #cup #david #delight #divine #earth #eternal #excellent #extend #fallen #flesh #forevermore #fulness #given #glad #glory #god #goodly #goodness #hand #heart #hell #heritage #holy #hope #inheritance #instruct #joy #leave #life #lines #lord #lot #maintainest #michtam #moved #night #one #path #places #pleasant #pleasures #portion #presence #preserve #reins #rejoiceth #rest #resurrection #right #saints #seasons #set #shew #soul #suffer #trust
 
 
 ---

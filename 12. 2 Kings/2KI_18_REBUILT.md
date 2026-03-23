@@ -1,3 +1,16 @@
+---
+book: "2 Kings"
+chapter: 18
+testament: "Old Testament"
+key_themes: "Hezekiah's Righteousness, Religious Reform, Assyrian Threat, Rab-shakeh's Challenge, Divine Trust"
+tags:
+  - right-sight-LORD-David-father
+  - hezekiah
+  - religious-reform
+  - assyrian-threat
+  - rabshakeh
+  - divine-trust
+---
 # 2 Kings 18
 
 ---
@@ -85,7 +98,7 @@ Third year Hoshea son Elah king Israel, Hezekiah son Ahaz king Judah reign. Twen
 
 
 *AI Keywords for current event matching:*
-`abi` `agreement` `ahaz` `altar` `altars` `answered` `arpad` `asaph` `assyria` `assyrian` `bear` `besieged` `borders` `brake` `brasen` `bread` `bruised` `burnt` `captain` `carried` `challenge` `chariots` `children` `cistern` `cities` `city` `clave` `clothes` `come` `commanded` `commandment` `commandments` `conduit` `confidence` `corn` `counsel` `countries` `country` `covenant` `cut` `daughter` `david` `deceive` `deliver` `delivered` `destroy` `die` `doors` `drink` `dung` `ears` `eat` `egypt` `elah` `eliakim` `face` `father` `fenced` `field` `fig` `following` `fourteenth` `fourth` `fuller` `gaza` `god` `gods` `gold` `gozan` `great` `groves` `habor` `halah` `hamath` `hand` `hear` `hearken` `held` `hena` `hezekiah` `hezekiahs` `high` `highway` `hilkiah` `honey` `horsemen` `horses` `hoshea` `host` `house` `household` `hundred` `images` `incense` `invasion` `israel` `ivah` `jerusalem` `jews` `joah` `judah` `king` `kings` `lachish` `land` `language` `lean` `live` `lord` `loud` `master` `medes` `men` `moses` `mother` `nations` `nehushtan` `ninth` `obeyed` `offended` `oil` `olive` `overlaid` `peace` `people` `persuades` `pharaoh` `philistines` `pieces` `pierce` `pillars` `piss` `place` `places` `pledges` `pool` `present` `prospered` `rab-shakeh` `rab-shakehs` `rabsaris` `rebelled` `recorder` `reed` `reign` `reigned` `removed` `rent` `response` `return` `riders` `right` `righteousness` `river` `samaria` `scribe` `sennacherib` `sennacheribs` `sepharvaim` `serpent` `servant` `servants` `served` `seventh` `shalmaneser` `shebna` `sight` `silver` `sixth` `smote` `son` `speech` `staff` `strength` `syrian` `taken` `talents` `tartan` `temple` `third` `thirty` `thousand` `threat` `three` `took` `tower` `transgressed` `treasures` `tree` `trust` `trusted` `trustest` `turn` `twenty-five` `twenty-nine` `two` `understand` `upper` `vain` `vine` `vineyards` `voice` `wall` `war` `watchmen` `wine` `word` `words` `worship` `year` `years` `zachariah`
+#abi #agreement #ahaz #altar #altars #answered #arpad #asaph #assyria #assyrian #bear #besieged #borders #brake #brasen #bread #bruised #burnt #captain #carried #challenge #chariots #children #cistern #cities #city #clave #clothes #come #commanded #commandment #commandments #conduit #confidence #corn #counsel #countries #country #covenant #cut #daughter #david #deceive #deliver #delivered #destroy #die #doors #drink #dung #ears #eat #egypt #elah #eliakim #face #father #fenced #field #fig #following #fourteenth #fourth #fuller #gaza #god #gods #gold #gozan #great #groves #habor #halah #hamath #hand #hear #hearken #held #hena #hezekiah #hezekiahs #high #highway #hilkiah #honey #horsemen #horses #hoshea #host #house #household #hundred #images #incense #invasion #israel #ivah #jerusalem #jews #joah #judah #king #kings #lachish #land #language #lean #live #lord #loud #master #medes #men #moses #mother #nations #nehushtan #ninth #obeyed #offended #oil #olive #overlaid #peace #people #persuades #pharaoh #philistines #pieces #pierce #pillars #piss #place #places #pledges #pool #present #prospered #rab-shakeh #rab-shakehs #rabsaris #rebelled #recorder #reed #reign #reigned #removed #rent #response #return #riders #right #righteousness #river #samaria #scribe #sennacherib #sennacheribs #sepharvaim #serpent #servant #servants #served #seventh #shalmaneser #shebna #sight #silver #sixth #smote #son #speech #staff #strength #syrian #taken #talents #tartan #temple #third #thirty #thousand #threat #three #took #tower #transgressed #treasures #tree #trust #trusted #trustest #turn #twenty-five #twenty-nine #two #understand #upper #vain #vine #vineyards #voice #wall #war #watchmen #wine #word #words #worship #year #years #zachariah
 
 
 ---

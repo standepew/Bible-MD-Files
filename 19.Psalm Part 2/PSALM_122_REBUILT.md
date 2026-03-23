@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 122
+testament: "Old Testament"
+key_themes: "Jerusalem's Joy, House of the LORD, City of Peace, Unity of Worship"
+tags:
+  - jerusalem
+  - house-of-the-lord
+  - city-of-peace
+  - unity-of-worship
+---
 # Psalm 122
 
 ---
@@ -141,7 +152,7 @@ Song, degrees, David, glad, said, house, LORD, feet, stand, gates, Jerusalem, Je
 
 
 *AI Keywords for current event matching:*
-`brethren` `builded` `city` `compact` `companions` `feet` `gates` `give` `glad` `god` `good` `house` `israel` `jerusalem` `jerusalems` `joy` `lord` `name` `palaces` `peace` `pray` `prosperity` `said` `sake` `seek` `stand` `testimony` `thanks` `tribes` `unity` `walls` `within` `worship`
+#brethren #builded #city #compact #companions #feet #gates #give #glad #god #good #house #israel #jerusalem #jerusalems #joy #lord #name #palaces #peace #pray #prosperity #said #sake #seek #stand #testimony #thanks #tribes #unity #walls #within #worship
 
 
 ---

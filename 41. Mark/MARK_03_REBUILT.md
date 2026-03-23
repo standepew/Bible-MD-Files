@@ -1,3 +1,14 @@
+---
+book: "Mark"
+chapter: 3
+testament: "New Testament"
+key_themes: "Christ's Healing Power, Calling of Twelve, Kingdom Division, Family of Faith"
+tags:
+  - christ
+  - calling-of-twelve
+  - kingdom-division
+  - family-of-faith
+---
 # Mark 3
 
 ---
@@ -189,7 +200,7 @@ Entered, synagogue, withered, hand, watched, heal, sabbath, accuse, man, withere
 
 
 *AI Keywords for current event matching:*
-`beelzebub` `bind` `brethren` `brother` `calling` `cast` `christs` `devils` `divided` `division` `faith` `family` `god` `hand` `hardness` `heal` `healing` `hearts` `kingdom` `life` `man` `mother` `ordained` `power` `preach` `restored` `save` `send` `sicknesses` `sister` `spiritual` `strong` `twelve` `whole` `withered`
+#beelzebub #bind #brethren #brother #calling #cast #christs #devils #divided #division #faith #family #god #hand #hardness #heal #healing #hearts #kingdom #life #man #mother #ordained #power #preach #restored #save #send #sicknesses #sister #spiritual #strong #twelve #whole #withered
 
 
 ---

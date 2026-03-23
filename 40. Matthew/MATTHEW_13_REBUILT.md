@@ -1,3 +1,14 @@
+---
+book: "Matthew"
+chapter: 13
+testament: "New Testament"
+key_themes: "Christ's Parabolic Teaching, Kingdom Mysteries, Harvest Judgment, Treasure Discovery"
+tags:
+  - christ
+  - kingdom-mysteries
+  - harvest-judgment
+  - treasure-discovery
+---
 # Matthew 13
 
 ---
@@ -141,7 +152,7 @@ Jesus, house, sea, side, multitudes, gathered, ship, sat, multitude, shore, spak
 
 
 *AI Keywords for current event matching:*
-`angels` `bought` `christs` `discovery` `end` `field` `fire` `furnace` `gather` `good` `great` `harvest` `hear` `hearing` `judgment` `kingdom` `leaven` `meal` `merchant` `mustard` `mysteries` `parables` `parabolic` `pearl` `reapers` `see` `seed` `seeing` `seeking` `sold` `spake` `tares` `teaching` `treasure` `wheat`
+#angels #bought #christs #discovery #end #field #fire #furnace #gather #good #great #harvest #hear #hearing #judgment #kingdom #leaven #meal #merchant #mustard #mysteries #parables #parabolic #pearl #reapers #see #seed #seeing #seeking #sold #spake #tares #teaching #treasure #wheat
 
 
 ---

@@ -1,3 +1,36 @@
+---
+book: "Job"
+chapter: 21
+testament: "Old Testament"
+key_themes: "Job's Response, Wicked's Prosperity, Death's Equality, False Comfort"
+tags:
+  - houses-safe-fear-rod-GOD
+  - little-ones-flock-children-dance
+  - timbrel-harp-rejoice-organ
+  - spend-days-wealth-moment-grave
+  - God-depart-knowledge-ways
+  - Almighty-serve-pray-profit
+  - good-hand-counsel-wicked
+  - candle-wicked-destruction-sorrows-anger
+  - stubble-wind-chaff-storm
+  - iniquity-children-reward-know
+  - eyes-destruction-wrath-Almighty
+  - pleasure-house-months-cut
+  - teach-GOD-knowledge-judgeth-high
+  - dies-full-strength-ease-quiet
+  - breasts-milk-bones-marrow
+  - dies-bitterness-soul-pleasure
+  - lie-dust-worms-cover
+  - thoughts-devices-wrongfully-imagine
+  - house-prince-dwelling-wicked
+  - go-way-tokens-destruction-wrath
+  - declare-way-face-repay-done
+  - comfort-vain-answers-falsehood
+  - job
+  - wicked
+  - death
+  - false-comfort
+---
 # Job 21
 
 ---
@@ -117,7 +150,7 @@ Job, answered, hear, diligently, speech, consolations. Suffer, speak, mock, comp
 
 
 *AI Keywords for current event matching:*
-`afraid` `almighty` `anger` `answered` `astonished` `bull` `calf` `calveth` `candle` `chaff` `children` `comfort` `complaint` `consolations` `counsel` `cow` `dance` `days` `deaths` `depart` `destruction` `diligently` `equality` `established` `faileth` `false` `fear` `flesh` `flock` `gendereth` `god` `good` `grave` `hand` `harp` `hear` `houses` `iniquity` `job` `jobs` `know` `knowledge` `little` `live` `man` `mighty` `mock` `moment` `mouth` `offspring` `ones` `organ` `power` `pray` `profit` `prosperity` `rejoice` `remember` `response` `reward` `rod` `safe` `seed` `serve` `sorrows` `speak` `speech` `spend` `spirit` `storm` `stubble` `suffer` `timbrel` `trembling` `troubled` `ways` `wealth` `wicked` `wickeds` `wind`
+#afraid #almighty #anger #answered #astonished #bull #calf #calveth #candle #chaff #children #comfort #complaint #consolations #counsel #cow #dance #days #deaths #depart #destruction #diligently #equality #established #faileth #false #fear #flesh #flock #gendereth #god #good #grave #hand #harp #hear #houses #iniquity #job #jobs #know #knowledge #little #live #man #mighty #mock #moment #mouth #offspring #ones #organ #power #pray #profit #prosperity #rejoice #remember #response #reward #rod #safe #seed #serve #sorrows #speak #speech #spend #spirit #storm #stubble #suffer #timbrel #trembling #troubled #ways #wealth #wicked #wickeds #wind
 
 
 ---

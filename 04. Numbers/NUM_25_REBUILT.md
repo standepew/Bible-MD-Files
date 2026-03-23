@@ -1,3 +1,29 @@
+---
+book: "Numbers"
+chapter: 25
+testament: "Old Testament"
+key_themes: "What four oracles of blessing could not accomplish, a woman in a tent accomplishes — Israel seduced into Baal-worship through Moabite women, Israel joins himself to Baal-Peor; the anger of the LORD burns; a plague begins, A Simeonite prince openly brings a Midianite princess into the camp in full view of the weeping congregation, Phinehas the priest acts: he takes a javelin and thrusts both through; the plague is stayed — 24,000 dead, God rewards Phinehas with the covenant of peace and an everlasting priesthood: "because he was zealous for his God", The doctrine of Balaam revealed: what the curse could not accomplish, the counsel to corrupt did (Revelation 2:14; Numbers 31:16)"
+tags:
+  - Israel-abode-in-Shittim
+  - whoredom-with-daughters-of-Moab
+  - called-to-sacrifices-of-their-gods
+  - Israel-joined-to-Baal-Peor
+  - anger-of-the-LORD
+  - hang-them-before-the-sun
+  - slay-every-one-his-men
+  - Zimri-son-of-Salu
+  - Cozbi-daughter-of-Zur
+  - Phinehas-son-of-Eleazar
+  - took-javelin
+  - thrust-both-through
+  - plague-stayed
+  - 24000-dead
+  - covenant-of-peace
+  - everlasting-priesthood
+  - zealous-for-his-God
+  - made-atonement
+  - vex-the-Midianites
+---
 # Numbers 25
 
 ---
@@ -63,7 +89,7 @@ Israel camps at Shittim. The people begin committing whoredom with Moabite women
 
 
 *AI Keywords for current event matching:*
-`251-3` `balaams` `counsel` `current` `enemys` `events` `immorality` `indirect` `matching` `numbers` `revelation` `seduction` `sexual` `spiritual` `strategy`
+#251-3 #balaams #counsel #current #enemys #events #immorality #indirect #matching #numbers #revelation #seduction #sexual #spiritual #strategy
 
 
 ---
@@ -135,12 +161,12 @@ Aaron ran with incense and stood between the dead and the living (Numbers 16:48)
 
 ### The Weeping Congregation at the Tabernacle Door
 
-**Numbers 25:6** — "the congregation of the children of Israel, who were weeping before the door of the tabernacle of the congregation"
+[[04. Numbers/NUM_25_REBUILT|Numbers 25:6]] — "the congregation of the children of Israel, who were weeping before the door of the tabernacle of the congregation"
 
 The congregation is weeping — presumably in intercession, in grief, in response to the plague and the commanded executions. Into this scene of communal prayer and mourning, Zimri walks brazenly past with Cozbi. The brazenness is the point: the open, public defiance of the covenant in the very moment of corporate repentance.
 
-- **Joel 2:17** — "Let the priests, the ministers of the LORD, weep between the porch and the altar, and let them say, Spare thy people, O LORD" — the priestly weeping between the Tabernacle entrance and the altar; the intercession posture
-- **Numbers 25:6-8** — the congregation weeps at the door; Zimri walks through; Phinehas rises from among the congregation — the priest who is in the posture of intercession is also the one who rises to execute zeal
+- [[29. Joel/JOEL_02_REBUILT|Joel 2:17]] — "Let the priests, the ministers of the LORD, weep between the porch and the altar, and let them say, Spare thy people, O LORD" — the priestly weeping between the Tabernacle entrance and the altar; the intercession posture
+- [[04. Numbers/NUM_25_REBUILT|Numbers 25:6-8]] — the congregation weeps at the door; Zimri walks through; Phinehas rises from among the congregation — the priest who is in the posture of intercession is also the one who rises to execute zeal
 
 **What the Bible establishes:** Priestly intercession and priestly zeal are not opposites — they are two aspects of the same office. The priest who weeps for the people must also be willing to act for the people when their corruption threatens the entire community. The sequence — weeping, then rising, then acting — is the Phinehas model.
 

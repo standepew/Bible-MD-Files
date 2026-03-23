@@ -1,3 +1,13 @@
+---
+book: "Jeremiah"
+chapter: 8
+testament: "Old Testament"
+key_themes: "Christ's Judgment, Spiritual Blindness, Divine Sorrow, Christ's Healing"
+tags:
+  - christ
+  - spiritual-blindness
+  - divine-sorrow
+---
 # Jeremiah 8
 
 ---
@@ -105,7 +115,7 @@ Time, LORD, bones, kings, Judah, bones, princes, bones, priests, bones, prophets
 
 
 *AI Keywords for current event matching:*
-`astonishment` `backsliding` `balm` `black` `blindness` `bones` `chosen` `christs` `consume` `daughter` `death` `deceit` `divine` `dung` `earth` `face` `faint` `fast` `gilead` `graves` `healing` `health` `heart` `hold` `hurt` `judgment` `know` `law` `life` `people` `perpetual` `physician` `recovered` `sorrow` `spiritual` `taken` `there` `vain`
+#astonishment #backsliding #balm #black #blindness #bones #chosen #christs #consume #daughter #death #deceit #divine #dung #earth #face #faint #fast #gilead #graves #healing #health #heart #hold #hurt #judgment #know #law #life #people #perpetual #physician #recovered #sorrow #spiritual #taken #there #vain
 
 
 ---

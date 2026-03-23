@@ -1,3 +1,14 @@
+---
+book: "2 Corinthians"
+chapter: 3
+testament: "New Testament"
+key_themes: "The Epistle of Christ, The New Testament Ministry, The Veil Removed, The Glory of the Lord"
+tags:
+  - the-epistle-of-christ
+  - the-new-testament-ministry
+  - the-veil-removed
+  - the-glory-of-the-lord
+---
 # 2 Corinthians 3
 
 ---
@@ -105,7 +116,7 @@ Begin, commend, commend, epistles, commendation, epistles, commendation, epistle
 
 
 *AI Keywords for current event matching:*
-`able` `abolished` `away` `begin` `behold` `beholding` `blinded` `changed` `children` `christ` `commend` `commendation` `condemnation` `countenance` `death` `declared` `done` `engraven` `epistle` `epistles` `exceed` `excellet` `face` `fleshy` `giveth` `glass` `glorious` `glory` `god` `heart` `hearts` `hope` `image` `ink` `israel` `killeth` `known` `letter` `liberty` `life` `living` `lord` `made` `manifestly` `men` `minds` `ministered` `ministers` `ministration` `ministry` `moses` `new` `old` `open` `plainness` `read` `reading` `remaineth` `removed` `respect` `righteousness` `selves` `speech` `spirit` `stedfastly` `stone` `stones` `sufficiency` `sufficient` `tables` `taken` `testament` `trust` `turn` `untaken` `vail` `veil` `ward` `written`
+#able #abolished #away #begin #behold #beholding #blinded #changed #children #christ #commend #commendation #condemnation #countenance #death #declared #done #engraven #epistle #epistles #exceed #excellet #face #fleshy #giveth #glass #glorious #glory #god #heart #hearts #hope #image #ink #israel #killeth #known #letter #liberty #life #living #lord #made #manifestly #men #minds #ministered #ministers #ministration #ministry #moses #new #old #open #plainness #read #reading #remaineth #removed #respect #righteousness #selves #speech #spirit #stedfastly #stone #stones #sufficiency #sufficient #tables #taken #testament #trust #turn #untaken #vail #veil #ward #written
 
 
 ---

@@ -1,3 +1,15 @@
+---
+book: "Jude"
+chapter: 1
+testament: "New Testament"
+key_themes: "Contending for the Faith, False Teachers and Their Judgment, Examples of Divine Judgment, Characteristics of the Ungodly, Exhortation to Believers"
+tags:
+  - contending-for-the-faith
+  - false-teachers-and-their-judgment
+  - examples-of-divine-judgment
+  - characteristics-of-the-ungodly
+  - exhortation-to-believers
+---
 # Jude 1
 
 ---
@@ -131,7 +143,7 @@ Jude, servant, Jesus, Christ, brother, James, sanctified, God, Father, preserved
 
 
 *AI Keywords for current event matching:*
-`able` `accusation` `adam` `admiration` `advantage` `angels` `apostles` `archangel` `balaam` `beasts` `believed` `believers` `beloved` `blackness` `brother` `brute` `building` `cain` `called` `chains` `characteristics` `charity` `christ` `cities` `clouds` `cometh` `common` `compassion` `complainers` `condemnation` `contend` `contending` `convince` `core` `corrupt` `crept` `darkness` `day` `dead` `deeds` `defile` `delivered` `denying` `despise` `destroyed` `devil` `difference` `dignities` `diligence` `disputed` `divine` `dominion` `dreamers` `durst` `earnestly` `egypt` `enoch` `error` `estate` `eternal` `everlasting` `evil` `example` `examples` `exceeding` `execute` `exhort` `exhortation` `faith` `falling` `false` `father` `faultless` `fear` `feast` `feasts` `feeding` `filthy` `fire` `first` `flesh` `foaming` `fornication` `fruit` `gainsaying` `garment` `ghost` `glory` `god` `gomorrha` `gone` `grace` `great` `greedily` `habitation` `hard` `hating` `holy` `james` `jesus` `joy` `jude` `judgment` `keep` `kept` `know` `lasciviousness` `last` `left` `life` `lord` `love` `lusts` `majesty` `men` `mercy` `michael` `mockers` `moses` `mouth` `multiplied` `murmurers` `naturally` `ordained` `peace` `people` `perished` `persons` `plucked` `power` `praying` `presence` `present` `preserved` `prophesied` `pulling` `raging` `railing` `ran` `rebuke` `remember` `remembrance` `reserved` `reward` `roots` `saints` `salvation` `sanctified` `save` `saved` `saviour` `sea` `sensual` `separate` `servant` `seventh` `shame` `sinners` `sodom` `speak` `speeches` `spirit` `spots` `spotted` `stars` `strange` `swelling` `teachers` `ten` `thousands` `time` `told` `trees` `turning` `twice` `unawares` `ungodly` `vengeance` `walk` `walking` `wandering` `water` `waves` `way` `winds` `wise` `withereth` `woe` `words` `write`
+#able #accusation #adam #admiration #advantage #angels #apostles #archangel #balaam #beasts #believed #believers #beloved #blackness #brother #brute #building #cain #called #chains #characteristics #charity #christ #cities #clouds #cometh #common #compassion #complainers #condemnation #contend #contending #convince #core #corrupt #crept #darkness #day #dead #deeds #defile #delivered #denying #despise #destroyed #devil #difference #dignities #diligence #disputed #divine #dominion #dreamers #durst #earnestly #egypt #enoch #error #estate #eternal #everlasting #evil #example #examples #exceeding #execute #exhort #exhortation #faith #falling #false #father #faultless #fear #feast #feasts #feeding #filthy #fire #first #flesh #foaming #fornication #fruit #gainsaying #garment #ghost #glory #god #gomorrha #gone #grace #great #greedily #habitation #hard #hating #holy #james #jesus #joy #jude #judgment #keep #kept #know #lasciviousness #last #left #life #lord #love #lusts #majesty #men #mercy #michael #mockers #moses #mouth #multiplied #murmurers #naturally #ordained #peace #people #perished #persons #plucked #power #praying #presence #present #preserved #prophesied #pulling #raging #railing #ran #rebuke #remember #remembrance #reserved #reward #roots #saints #salvation #sanctified #save #saved #saviour #sea #sensual #separate #servant #seventh #shame #sinners #sodom #speak #speeches #spirit #spots #spotted #stars #strange #swelling #teachers #ten #thousands #time #told #trees #turning #twice #unawares #ungodly #vengeance #walk #walking #wandering #water #waves #way #winds #wise #withereth #woe #words #write
 
 
 ---

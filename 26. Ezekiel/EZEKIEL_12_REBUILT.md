@@ -1,3 +1,13 @@
+---
+book: "Ezekiel"
+chapter: 12
+testament: "Old Testament"
+key_themes: "Christ's Signs, Rebellious House, Divine Captivity, Christ's Word"
+tags:
+  - christ
+  - rebellious-house
+  - divine-captivity
+---
 # Ezekiel 12
 
 ---
@@ -129,7 +139,7 @@ Word, Lord, son, man, dwellest, midst, rebellious, house, eyes, see, see, ears, 
 
 
 *AI Keywords for current event matching:*
-`babylon` `captivity` `chaldeans` `christs` `come` `cover` `days` `dig` `divine` `doest` `ears` `eyes` `face` `faileth` `hear` `house` `nations` `net` `pass` `prolonged` `rebellious` `removing` `scatter` `see` `signs` `spread` `stuff` `twilight` `vision` `wall` `word`
+#babylon #captivity #chaldeans #christs #come #cover #days #dig #divine #doest #ears #eyes #face #faileth #hear #house #nations #net #pass #prolonged #rebellious #removing #scatter #see #signs #spread #stuff #twilight #vision #wall #word
 
 
 ---

@@ -1,3 +1,14 @@
+---
+book: "Matthew"
+chapter: 15
+testament: "New Testament"
+key_themes: "Christ's Heart Purity, Tradition vs Commandment, Canaanite Faith, Feeding Four Thousand"
+tags:
+  - christ
+  - tradition-vs-commandment
+  - canaanite-faith
+  - feeding-four-thousand
+---
 # Matthew 15
 
 ---
@@ -141,7 +152,7 @@ Jesus, scribes, Pharisees, Jerusalem, disciples, transgress, tradition, elders, 
 
 
 *AI Keywords for current event matching:*
-`baskets` `canaan` `canaanite` `christs` `commandment` `daughter` `defileth` `elders` `esaias` `evil` `faith` `far` `father` `feeding` `few` `fishes` `four` `god` `great` `heart` `honour` `hypocrites` `loaves` `lord` `man` `mercy` `proceed` `purity` `seven` `thoughts` `thousand` `tradition` `whole` `woman`
+#baskets #canaan #canaanite #christs #commandment #daughter #defileth #elders #esaias #evil #faith #far #father #feeding #few #fishes #four #god #great #heart #honour #hypocrites #loaves #lord #man #mercy #proceed #purity #seven #thoughts #thousand #tradition #whole #woman
 
 
 ---

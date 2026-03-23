@@ -1,3 +1,24 @@
+---
+book: "1 Samuel"
+chapter: 9
+testament: "Old Testament"
+key_themes: "Saul Introduced, Lost Asses, Search Journey, Seeking Prophet, Divine Appointment, Samuel's Knowledge, Saul's Humility, Royal Anointing, Special Honor"
+tags:
+  - Saul-servant-city-man-God
+  - seer-sacrifice-people-high-place
+  - city-Samuel-high-place
+  - Saul-Samuel-gate-seer-house
+  - Samuel-cook-portion-set
+  - saul-introduced
+  - lost-asses
+  - search-journey
+  - seeking-prophet
+  - divine-appointment
+  - samuel
+  - saul
+  - royal-anointing
+  - special-honor
+---
 # 1 Samuel 9
 
 ---
@@ -89,7 +110,7 @@ Kish, a Benjaminite mighty man of power (son of Abiel, son of Zeror, son of Bech
 
 
 *AI Keywords for current event matching:*
-`abiel` `abroad` `anoint` `aphiah` `appointment` `arise` `arose` `asses` `ate` `background` `bechorath` `benjamin` `benjamite` `benjamites` `bidden` `bless` `bread` `captain` `caring` `chiefest` `choice` `city` `cometh` `communed` `communication` `cook` `cry` `day` `days` `desire` `divine` `draw` `ear` `early` `eat` `end` `enquire` `ephraim` `families` `family` `father` `found` `fourth` `gate` `god` `goodlier` `goodly` `heart` `high` `hill` `honourable` `house` `humility` `israel` `journey` `kept` `kish` `land` `least` `left` `looked` `lord` `lost` `maidens` `man` `meeting` `mighty` `morrow` `mount` `parlour` `pass` `passed` `people` `person` `persons` `philistines` `place` `portion` `power` `present` `prophet` `reign` `return` `royal` `sacrifice` `saith` `samuel` `saul` `sauls` `save` `seek` `seeking` `seer` `send` `servant` `set` `shalim` `shalisha` `shekel` `shoulder` `shoulders` `silver` `sit` `smallest` `son` `spake` `spent` `spring` `still` `thirty` `thought` `three` `time` `told` `tomorrow` `top` `treatment` `tribe` `tribes` `upward` `vessels` `water` `way` `word` `young` `zeror` `zuph`
+#abiel #abroad #anoint #aphiah #appointment #arise #arose #asses #ate #background #bechorath #benjamin #benjamite #benjamites #bidden #bless #bread #captain #caring #chiefest #choice #city #cometh #communed #communication #cook #cry #day #days #desire #divine #draw #ear #early #eat #end #enquire #ephraim #families #family #father #found #fourth #gate #god #goodlier #goodly #heart #high #hill #honourable #house #humility #israel #journey #kept #kish #land #least #left #looked #lord #lost #maidens #man #meeting #mighty #morrow #mount #parlour #pass #passed #people #person #persons #philistines #place #portion #power #present #prophet #reign #return #royal #sacrifice #saith #samuel #saul #sauls #save #seek #seeking #seer #send #servant #set #shalim #shalisha #shekel #shoulder #shoulders #silver #sit #smallest #son #spake #spent #spring #still #thirty #thought #three #time #told #tomorrow #top #treatment #tribe #tribes #upward #vessels #water #way #word #young #zeror #zuph
 
 
 ---

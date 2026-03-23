@@ -1,3 +1,13 @@
+---
+book: "Jeremiah"
+chapter: 17
+testament: "Old Testament"
+key_themes: "Christ's Heart, Trust in Flesh, Trust in LORD, Christ's Healing"
+tags:
+  - christ
+  - trust-in-flesh
+  - trust-in-lord
+---
 # Jeremiah 17
 
 ---
@@ -117,7 +127,7 @@ Sin, Judah, written, pen, iron, point, diamond, graven, table, heart, horns, alt
 
 
 *AI Keywords for current event matching:*
-`arm` `blessed` `christs` `cursed` `day` `deceitful` `departs` `desert` `evil` `flesh` `fountain` `graven` `green` `heal` `healing` `heart` `heath` `hope` `leaf` `living` `lord` `man` `planted` `praise` `saved` `search` `sin` `table` `tree` `trust` `trusteth` `waters` `written`
+#arm #blessed #christs #cursed #day #deceitful #departs #desert #evil #flesh #fountain #graven #green #heal #healing #heart #heath #hope #leaf #living #lord #man #planted #praise #saved #search #sin #table #tree #trust #trusteth #waters #written
 
 
 ---

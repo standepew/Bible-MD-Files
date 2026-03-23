@@ -1,3 +1,14 @@
+---
+book: "2 Chronicles"
+chapter: 2
+testament: "Old Testament"
+key_themes: "Temple Construction, Divine Wisdom, International Cooperation, Labor Organization"
+tags:
+  - temple-construction
+  - divine-wisdom
+  - international-cooperation
+  - labor-organization
+---
 # 2 Chronicles 2
 
 ---
@@ -137,7 +148,7 @@ Solomon, determined, build, house, name, LORD, house, kingdom. Solomon, told, th
 
 
 *AI Keywords for current event matching:*
-`abundance` `algum` `answered` `barley` `baths` `bear` `bearers` `beaten` `blessed` `blue` `brass` `bring` `build` `burdens` `burn` `burnt` `cannot` `carry` `cedar` `cedars` `contain` `continual` `cooperation` `craftsman` `crimson` `cunning` `cut` `dan` `daughters` `david` `dealt` `dedicate` `determined` `device` `divine` `dwell` `earth` `endued` `evening` `father` `feasts` `fifty` `find` `fine` `fir` `floats` `force` `found` `fourscore` `give` `given` `god` `gods` `gold` `grave` `graving` `great` `heaven` `heavens` `hew` `hewers` `house` `hundred` `huram` `hurams` `incense` `international` `iron` `israel` `jerusalem` `joppa` `judah` `king` `kingdom` `labor` `land` `lebanon` `linen` `lord` `loved` `made` `man` `manner` `measures` `men` `moons` `morning` `mountain` `much` `name` `need` `new` `numbered` `numbering` `offerings` `oil` `ordinance` `organization` `oversee` `people` `prepare` `provided` `provision` `prudence` `purple` `purpose` `response` `sabbaths` `sacrifice` `saying` `sea` `send` `sent` `servants` `set` `shewbread` `silver` `six` `skilful` `skill` `skilled` `solemn` `solomon` `son` `spoken` `stone` `strangers` `sweet` `temple` `ten` `thousand` `three` `threescore` `timber` `told` `trees` `twenty` `tyre` `understanding` `wheat` `wine` `wise` `woman` `wonderful` `wood` `work` `worship` `writing`
+#abundance #algum #answered #barley #baths #bear #bearers #beaten #blessed #blue #brass #bring #build #burdens #burn #burnt #cannot #carry #cedar #cedars #contain #continual #cooperation #craftsman #crimson #cunning #cut #dan #daughters #david #dealt #dedicate #determined #device #divine #dwell #earth #endued #evening #father #feasts #fifty #find #fine #fir #floats #force #found #fourscore #give #given #god #gods #gold #grave #graving #great #heaven #heavens #hew #hewers #house #hundred #huram #hurams #incense #international #iron #israel #jerusalem #joppa #judah #king #kingdom #labor #land #lebanon #linen #lord #loved #made #man #manner #measures #men #moons #morning #mountain #much #name #need #new #numbered #numbering #offerings #oil #ordinance #organization #oversee #people #prepare #provided #provision #prudence #purple #purpose #response #sabbaths #sacrifice #saying #sea #send #sent #servants #set #shewbread #silver #six #skilful #skill #skilled #solemn #solomon #son #spoken #stone #strangers #sweet #temple #ten #thousand #three #threescore #timber #told #trees #twenty #tyre #understanding #wheat #wine #wise #woman #wonderful #wood #work #worship #writing
 
 
 ---

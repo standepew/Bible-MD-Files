@@ -1,3 +1,14 @@
+---
+book: "Acts"
+chapter: 16
+testament: "New Testament"
+key_themes: "Timothy Joins Paul and Silas, The Macedonian Call, Lydia's Conversion, Paul and Silas in Prison"
+tags:
+  - timothy-joins-paul-and-silas
+  - the-macedonian-call
+  - lydia
+  - paul-and-silas-in-prison
+---
 # Acts 16
 
 ---
@@ -165,7 +176,7 @@ Derbe, Lystra, disciple, Timotheus, son, woman, Jewess, believed, father, Greek,
 
 
 *AI Keywords for current event matching:*
-`abide` `abiding` `apostles` `appeared` `asia` `assayed` `assuredly` `attended` `awaking` `bands` `baptized` `beat` `beaten` `believe` `believed` `believing` `besought` `bithynia` `brethren` `brought` `call` `called` `came` `cast` `caught` `charge` `charging` `chief` `christ` `churches` `circumcised` `cities` `city` `clothes` `colony` `come` `comforted` `command` `commanded` `constrained` `conversion` `course` `cried` `customs` `daily` `damsel` `day` `days` `decrees` `delivered` `depart` `departed` `derbe` `disciple` `divination` `doors` `drew` `earthquake` `elders` `endeavoured` `established` `faith` `faithful` `fast` `father` `feared` `feet` `fell` `fetch` `fled` `followed` `forbidden` `foundations` `gain` `gains` `galatia` `gathering` `ghost` `god` `gospel` `greek` `grieved` `harm` `heard` `heart` `help` `high` `holy` `hope` `hour` `house` `household` `iconium` `immediately` `increased` `inner` `jailor` `jerusalem` `jesus` `jewess` `jews` `joins` `judged` `keep` `keeper` `killed` `knew` `laid` `lawful` `light` `loosed` `loosing` `lord` `loud` `lydia` `lydias` `lystra` `macedonia` `macedonian` `magistrates` `man` `marketplace` `masters` `meat` `met` `midnight` `multitude` `mysia` `neapolis` `night` `number` `observe` `open` `opened` `openly` `ordained` `passing` `paul` `peace` `philippi` `phrygia` `possessed` `praises` `prayed` `prayer` `preach` `prison` `prisoners` `privily` `purple` `quarters` `received` `region` `rejoiced` `rent` `reported` `resorted` `river` `romans` `rose` `rulers` `sabbath` `safely` `salvation` `samothracia` `sang` `sat` `saved` `seller` `sent` `serjeants` `servants` `set` `shaken` `shew` `side` `silas` `sirs` `sleep` `son` `soothsaying` `spirit` `spoke` `spoken` `sprang` `stocks` `straight` `straightway` `stripes` `suddenly` `suffered` `supposing` `sword` `teach` `things` `thrust` `thyatira` `timotheus` `timothy` `took` `trembling` `troas` `trouble` `turned` `uncondemned` `verily` `vision` `voice` `washed` `way` `woman` `women` `wont` `word` `worshipped`
+#abide #abiding #apostles #appeared #asia #assayed #assuredly #attended #awaking #bands #baptized #beat #beaten #believe #believed #believing #besought #bithynia #brethren #brought #call #called #came #cast #caught #charge #charging #chief #christ #churches #circumcised #cities #city #clothes #colony #come #comforted #command #commanded #constrained #conversion #course #cried #customs #daily #damsel #day #days #decrees #delivered #depart #departed #derbe #disciple #divination #doors #drew #earthquake #elders #endeavoured #established #faith #faithful #fast #father #feared #feet #fell #fetch #fled #followed #forbidden #foundations #gain #gains #galatia #gathering #ghost #god #gospel #greek #grieved #harm #heard #heart #help #high #holy #hope #hour #house #household #iconium #immediately #increased #inner #jailor #jerusalem #jesus #jewess #jews #joins #judged #keep #keeper #killed #knew #laid #lawful #light #loosed #loosing #lord #loud #lydia #lydias #lystra #macedonia #macedonian #magistrates #man #marketplace #masters #meat #met #midnight #multitude #mysia #neapolis #night #number #observe #open #opened #openly #ordained #passing #paul #peace #philippi #phrygia #possessed #praises #prayed #prayer #preach #prison #prisoners #privily #purple #quarters #received #region #rejoiced #rent #reported #resorted #river #romans #rose #rulers #sabbath #safely #salvation #samothracia #sang #sat #saved #seller #sent #serjeants #servants #set #shaken #shew #side #silas #sirs #sleep #son #soothsaying #spirit #spoke #spoken #sprang #stocks #straight #straightway #stripes #suddenly #suffered #supposing #sword #teach #things #thrust #thyatira #timotheus #timothy #took #trembling #troas #trouble #turned #uncondemned #verily #vision #voice #washed #way #woman #women #wont #word #worshipped
 
 
 ---

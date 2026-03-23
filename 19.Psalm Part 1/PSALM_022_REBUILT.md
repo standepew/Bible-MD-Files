@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 22
+testament: "Old Testament"
+key_themes: "Christ's Crucifixion, Abandonment, Suffering, Universal Worship"
+tags:
+  - christ
+  - abandonment
+  - suffering
+  - universal-worship
+---
 # Psalm 22
 
 ---
@@ -129,7 +140,7 @@ Chief, Musician, Aijeleth, Shahar, Psalm, David, GOD, forsaken, help, roaring, c
 
 
 *AI Keywords for current event matching:*
-`abandonment` `aijeleth` `assembly` `bones` `bowels` `brethren` `cast` `chief` `christs` `compassed` `congregation` `crucifixion` `david` `daytime` `death` `declare` `despised` `dogs` `dust` `ends` `far` `feet` `forsaken` `garments` `god` `governor` `hands` `head` `hearest` `heart` `help` `inclosed` `jaws` `joint` `kindreds` `kingdom` `laugh` `lip` `lord` `lots` `melted` `musician` `name` `nations` `near` `night` `part` `pierced` `potsherd` `poured` `praise` `psalm` `remember` `reproach` `roaring` `scorn` `season` `shahar` `shake` `shoot` `silent` `strength` `suffering` `tongue` `trouble` `turn` `universal` `vesture` `water` `wax` `wicked` `world` `worm` `worship`
+#abandonment #aijeleth #assembly #bones #bowels #brethren #cast #chief #christs #compassed #congregation #crucifixion #david #daytime #death #declare #despised #dogs #dust #ends #far #feet #forsaken #garments #god #governor #hands #head #hearest #heart #help #inclosed #jaws #joint #kindreds #kingdom #laugh #lip #lord #lots #melted #musician #name #nations #near #night #part #pierced #potsherd #poured #praise #psalm #remember #reproach #roaring #scorn #season #shahar #shake #shoot #silent #strength #suffering #tongue #trouble #turn #universal #vesture #water #wax #wicked #world #worm #worship
 
 
 ---

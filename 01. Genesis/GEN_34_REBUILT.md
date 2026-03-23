@@ -1,3 +1,64 @@
+---
+book: "Genesis"
+chapter: 34
+testament: "Old Testament"
+key_themes: "Dinah Goes Out to See the Daughters of the Land, Shechem Takes and Defiles Dinah — Three Verbs, All His, Jacob Hears and Holds His Peace Until His Sons Return, Hamor's Negotiation — Intermarriage and Assimilation as the Covenant Danger, Jacob's Sons Answer Deceitfully — The Covenant Sign Weaponized, Hamor and Shechem Convince the City — The Gate-Covenant Under False Pretense, The Third Day — Simeon and Levi Take Their Swords, The Slaughter of Every Male in the City, Dinah Taken Out of Shechem's House, The Plunder by All Jacob's Sons — Cattle, Wealth, Women, Children, Jacob's Rebuke — Pragmatic Not Yet Moral — "Ye Have Troubled Me to Make Me to Stink", Simeon and Levi's Answer — "Should He Deal with Our Sister as with an Harlot?", Genesis 49:5-7 as the Deferred Moral Verdict, The Chapter Between the Two Altars — Covenant Shadow Between Shechem and Bethel"
+tags:
+  - Dinah-goes-out
+  - daughters-of-the-land
+  - Shechem-son-of-Hamor-Hivite
+  - timme-defilement-covenant-term
+  - Leviticus-18-24-25
+  - Deuteronomy-22-25-27
+  - 2-Samuel-13-Tamar-parallel
+  - Jacob-held-his-peace
+  - Hamor-negotiates
+  - intermarriage-covenant-danger
+  - Deuteronomy-7-3-4
+  - Ezra-9-1-2
+  - Nehemiah-13-25-27
+  - 2-Corinthians-6-14
+  - sons-answer-deceitfully-mirmah
+  - circumcision-weaponized
+  - Genesis-17-covenant-sign
+  - Romans-2-28-29
+  - Jeremiah-9-25-26
+  - Hamor-persuades-city-at-gate
+  - Ruth-4-1-2-gate
+  - third-day-Simeon-Levi-swords
+  - third-day-inversion
+  - Simeon-Levi-slew-all-males
+  - Dinah-taken-from-house
+  - sons-of-Jacob-plunder
+  - few-in-number-Canaanites-Perizzites
+  - Simeon-Levi-answer-harlot
+  - cursed-be-their-anger
+  - folly-in-Israel-nebalah
+  - Judges-19-20
+  - chapter-between-two-altars
+  - Shechem-altar-Genesis-33-20
+  - Bethel-altar-Genesis-35-7
+  - violence-exceeding-justice
+  - Romans-12-19
+  - Proverbs-24-29
+  - dinah-goes-out-to-see-the
+  - shechem-takes-and-defiles-dinah
+  - all-his
+  - jacob-hears-and-holds-his-peace
+  - hamor
+  - jacob
+  - hamor-and-shechem-convince-the-city
+  - the-third-day
+  - the-slaughter-of-every-male-in
+  - dinah-taken-out-of-shechem
+  - the-plunder-by-all-jacob
+  - wealth
+  - women
+  - children
+  - simeon-and-levi
+  - genesis-4957-as-the-deferred-moral
+  - the-chapter-between-the-two-altars
+---
 # Genesis 34
 
 ---
@@ -125,7 +186,7 @@ Simeon and Levi's final answer was a genuine question with genuine weight: "Shou
 
 For AI matching to topics and current events:
 
-`Dinah goes out daughters of the land` `Shechem son of Hamor Hivite` `he took her lay with her defiled her` `three verbs all his` `timme defilement covenant term` `Leviticus 18:24-25 land defiled` `Numbers 35:33-34 blood defiles land` `Deuteronomy 22:25-27 forced violation man guilty not woman` `Tamar parallel 2 Samuel 13:12` `Jacob held his peace` `sons return from field grieved very wroth` `folly in Israel nebalah` `Deuteronomy 22:21 nebalah` `Joshua 7:15 Achan nebalah` `Judges 19-20 Gibeah nebalah` `2 Samuel 13:12 Tamar nebalah` `which thing ought not to be done` `Hamor proposes intermarriage assimilation` `Deuteronomy 7:3-4 no intermarriage` `1 Kings 11:1-4 Solomon turned by wives` `Ezra 9:1-2 holy seed mingled` `Nehemiah 13:25-27 Solomon sin outlandish women` `2 Corinthians 6:14 unequally yoked` `shall not their cattle be ours Hamor to Shechemites` `sons answer deceitfully mirmah` `Genesis 27:35 mirmah same word Jacob` `circumcision weaponized` `Genesis 17:10-11 covenant sign` `1 Samuel 4 ark misused` `Romans 2:28-29 circumcision of heart` `Jeremiah 9:25-26 uncircumcised heart` `third day Simeon Levi swords` `third day inversion death not life` `Hosea 6:2 third day raise us up` `1 Corinthians 15:4 raised third day` `slew all males Hamor Shechem` `Dinah taken from Shechem house` `sons of Jacob plunder wealth wives children` `Jacob rebukes pragmatic not moral` `ye troubled me to stink` `few in number Canaanites Perizzites` `Genesis 49:5-7 deferred moral verdict` `instruments of cruelty kele chamas` `Genesis 6:11 chamas violence before flood` `cursed be their anger fierce cruel` `I will divide them in Jacob scatter them in Israel` `Simeon absorbed into Judah Joshua 19` `Levi scattered as priests Numbers 18:20` `Levi redeemed at Sinai Exodus 32:26-29` `Romans 12:19 vengeance mine saith the Lord` `Proverbs 24:29 do not repay` `should he deal with our sister as harlot` `Dinah has no voice in the text` `din justice Dinah name` `chapter between two altars` `El-elohe-Israel Genesis 33:20` `El-bethel Genesis 35:7`
+#Dinah-goes-out-daughters-of-the-land #Shechem-son-of-Hamor-Hivite #he-took-her-lay-with-her-defiled-her #three-verbs-all-his #timme-defilement-covenant-term #Leviticus-1824-25-land-defiled #Numbers-3533-34-blood-defiles-land #Deuteronomy-2225-27-forced-violation-man-guilty-not-woman #Tamar-parallel-2-Samuel-1312 #Jacob-held-his-peace #sons-return-from-field-grieved-very-wroth #folly-in-Israel-nebalah #Deuteronomy-2221-nebalah #Joshua-715-Achan-nebalah #Judges-19-20-Gibeah-nebalah #2-Samuel-1312-Tamar-nebalah #which-thing-ought-not-to-be-done #Hamor-proposes-intermarriage-assimilation #Deuteronomy-73-4-no-intermarriage #1-Kings-111-4-Solomon-turned-by-wives #Ezra-91-2-holy-seed-mingled #Nehemiah-1325-27-Solomon-sin-outlandish-women #2-Corinthians-614-unequally-yoked #shall-not-their-cattle-be-ours-Hamor-to-Shechemites #sons-answer-deceitfully-mirmah #Genesis-2735-mirmah-same-word-Jacob #circumcision-weaponized #Genesis-1710-11-covenant-sign #1-Samuel-4-ark-misused #Romans-228-29-circumcision-of-heart #Jeremiah-925-26-uncircumcised-heart #third-day-Simeon-Levi-swords #third-day-inversion-death-not-life #Hosea-62-third-day-raise-us-up #1-Corinthians-154-raised-third-day #slew-all-males-Hamor-Shechem #Dinah-taken-from-Shechem-house #sons-of-Jacob-plunder-wealth-wives-children #Jacob-rebukes-pragmatic-not-moral #ye-troubled-me-to-stink #few-in-number-Canaanites-Perizzites #Genesis-495-7-deferred-moral-verdict #instruments-of-cruelty-kele-chamas #Genesis-611-chamas-violence-before-flood #cursed-be-their-anger-fierce-cruel #I-will-divide-them-in-Jacob-scatter-them-in-Israel #Simeon-absorbed-into-Judah-Joshua-19 #Levi-scattered-as-priests-Numbers-1820 #Levi-redeemed-at-Sinai-Exodus-3226-29 #Romans-1219-vengeance-mine-saith-the-Lord #Proverbs-2429-do-not-repay #should-he-deal-with-our-sister-as-harlot #Dinah-has-no-voice-in-the-text #din-justice-Dinah-name #chapter-between-two-altars #El-elohe-Israel-Genesis-3320 #El-bethel-Genesis-357
 
 **Relevance to Current Events:**
 - Sexual violence and its covenant-weight — Shechem's act was not merely a social offense but a covenant violation (timme) with corporate consequences; applicable in pastoral counseling on sexual assault, in church discussions of how violations are handled, and in theology of the body (1 Corinthians 6:18-20)

@@ -1,3 +1,16 @@
+---
+book: "Mark"
+chapter: 14
+testament: "New Testament"
+key_themes: "Christ's Anointing, Last Supper, Gethsemane, Betrayal, Peter's Denial, Trial Before Sanhedrin"
+tags:
+  - christ
+  - last-supper
+  - gethsemane
+  - betrayal
+  - peter
+  - trial-before-sanhedrin
+---
 # Mark 14
 
 ---
@@ -205,7 +218,7 @@ Two, days, feast, passover, unleavened, bread, chief, priests, scribes, craft, d
 
 
 *AI Keywords for current event matching:*
-`abba` `alabaster` `anointing` `betray` `betrayal` `blasphemy` `blessed` `blood` `body` `box` `christs` `cock` `condemned` `crew` `death` `denial` `denied` `father` `fire` `fled` `flesh` `forsook` `fulfilled` `galilaean` `gethsemane` `guilty` `high` `hour` `judas` `kiss` `know` `last` `memorial` `new` `ointment` `pass` `passover` `peters` `pray` `precious` `prepare` `priest` `sanhedrin` `scattered` `scriptures` `shepherd` `son` `speech` `spirit` `staves` `supper` `swords` `testament` `token` `trial` `warming`
+#abba #alabaster #anointing #betray #betrayal #blasphemy #blessed #blood #body #box #christs #cock #condemned #crew #death #denial #denied #father #fire #fled #flesh #forsook #fulfilled #galilaean #gethsemane #guilty #high #hour #judas #kiss #know #last #memorial #new #ointment #pass #passover #peters #pray #precious #prepare #priest #sanhedrin #scattered #scriptures #shepherd #son #speech #spirit #staves #supper #swords #testament #token #trial #warming
 
 
 ---

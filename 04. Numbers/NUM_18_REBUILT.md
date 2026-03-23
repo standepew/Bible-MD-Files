@@ -1,3 +1,28 @@
+---
+book: "Numbers"
+chapter: 18
+testament: "Old Testament"
+key_themes: "God speaks directly to Aaron — the only chapter in Numbers addressed to Aaron alone — assigning him and his sons the iniquity of the sanctuary, The Levites given to Aaron as a gift; the priests bear the iniquity of the priesthood, The priestly portions: every holy offering, the wave and heave offerings, the firstfruits of oil/wine/grain/firstborn animals, all devoted things, firstborn sons redeemed at five shekels, The covenant of salt — the priestly allotment is permanent and irrevocable, "I am thy part and thine inheritance among the children of Israel" — God Himself is Aaron's inheritance; the Levites' inheritance is the tithe; the Levites tithe the tithe to Aaron"
+tags:
+  - God-speaks-to-Aaron
+  - bear-iniquity-of-sanctuary
+  - bear-iniquity-of-priesthood
+  - Levites-as-gift
+  - stranger-shall-not-come-nigh
+  - service-of-gift
+  - all-holy-offerings-for-Aaron
+  - wave-offerings
+  - heave-offerings
+  - firstfruits-oil-wine-grain
+  - every-devoted-thing
+  - firstborn-of-man-redeemed-five-shekels
+  - firstborn-animals-sacrificed
+  - covenant-of-salt
+  - no-inheritance-in-land
+  - I-am-thy-part
+  - Levites-receive-tithe
+  - Levites-tithe-the-tithe-to-Aaron
+---
 # Numbers 18
 
 ---
@@ -68,7 +93,7 @@ After the terror of Numbers 17:12-13 ("we die, we perish"), God answers by clari
 
 
 *AI Keywords for current event matching:*
-`1821-32` `aaron` `current` `events` `funding` `giving` `israels` `levites` `malachi` `matching` `matthew` `ministry` `numbers` `one-tenth` `tithe`
+#1821-32 #aaron #current #events #funding #giving #israels #levites #malachi #matching #matthew #ministry #numbers #one-tenth #tithe
 
 
 ---
@@ -156,8 +181,8 @@ Every tribe receives territorial inheritance in Canaan. The Levites receive 48 c
 
 This landlessness creates the most mobile and universally present group in Israel: Levites scattered in every tribe; priests belonging to no territory. The priest serves all Israel precisely because he belongs to none of it.
 
-- **Matthew 8:20** — "The Son of man hath not where to lay his head" — the ultimate Aaronic priest; no territory, no land, belonging entirely to His Father's service
-- **Hebrews 13:14** — "For here have we no continuing city, but we seek one to come" — the New Covenant community with the same territorial rootlessness as the Levites: scattered among the nations, belonging to none of them, serving all of them, waiting for the city God has prepared
+- [[40. Matthew/MATTHEW_08_REBUILT|Matthew 8:20]] — "The Son of man hath not where to lay his head" — the ultimate Aaronic priest; no territory, no land, belonging entirely to His Father's service
+- [[58. Hebrews/HEBREWS_13_REBUILT|Hebrews 13:14]] — "For here have we no continuing city, but we seek one to come" — the New Covenant community with the same territorial rootlessness as the Levites: scattered among the nations, belonging to none of them, serving all of them, waiting for the city God has prepared
 
 **What the Bible establishes:** The Levitical landlessness is not a deprivation but a liberation. Having no earthly territory to defend means having no earthly loyalties to divide devotion. The priest belongs entirely to God. The New Covenant community is likewise dispersed, landless in the eschatological sense, "strangers and pilgrims" (1 Peter 2:11) — freed from territorial identity to serve all peoples everywhere.
 

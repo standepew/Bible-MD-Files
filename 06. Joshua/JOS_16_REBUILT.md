@@ -1,3 +1,37 @@
+---
+book: "Joshua"
+chapter: 16
+testament: "Old Testament"
+key_themes: "Joseph's Inheritance, Ephraim's Boundaries, Manasseh's Cities, Canaanite Problem, Gezer Unconquered, Tribal Cooperation"
+tags:
+  - lot-children-Joseph-Jordan-Jericho
+  - water-Jericho-east
+  - wilderness-Jericho-mount-Beth-el
+  - Beth-el-Luz
+  - pass-borders-Archi-Ataroth
+  - westward-coast-Japhleti
+  - coast-Beth-horon-nether
+  - Gezer
+  - goings-sea
+  - children-Joseph-Manasseh-Ephraim-inheritance
+  - border-children-Ephraim-families
+  - border-inheritance-east-side-Ataroth-addar
+  - Beth-horon-upper
+  - border-sea-Michmethah-north-side
+  - border-eastward-Taanath-shiloh
+  - passed-east-Janohah
+  - down-Janohah-Ataroth
+  - Naarath-Jericho
+  - Jordan
+  - border-Tappuah-westward-river-Kanah
+  - goings-sea
+  - inheritance-tribe-children-Ephraim-families
+  - separate-cities-children-Ephraim-inheritance-children-Manasseh
+  - cities-villages
+  - drave-Canaanites-dwelt-Gezer
+  - Canaanites-dwell-Ephraimites-day
+  - serve-tribute
+---
 # Joshua 16
 
 ---
@@ -75,7 +109,7 @@ Joseph's inheritance extends from Jordan by Jericho eastward to Jericho waters, 
 
 
 *AI Keywords for current event matching:*
-`archi` `ataroth` `ataroth-addar` `beth-el` `beth-horon` `border` `borders` `boundaries` `canaanite` `canaanites` `children` `cities` `coast` `day` `down` `drave` `dwell` `dwelt` `east` `eastward` `ephraim` `ephraimites` `ephraims` `families` `gezer` `goings` `inheritance` `intertribal` `janohah` `japhleti` `jericho` `jordan` `joseph` `josephs` `kanah` `lot` `luz` `manasseh` `michmethah` `mount` `naarath` `nether` `north` `pass` `passed` `problem` `river` `sea` `separate` `serve` `side` `taanath-shiloh` `tappuah` `tribe` `tribute` `upper` `villages` `water` `westward` `wilderness`
+#archi #ataroth #ataroth-addar #beth-el #beth-horon #border #borders #boundaries #canaanite #canaanites #children #cities #coast #day #down #drave #dwell #dwelt #east #eastward #ephraim #ephraimites #ephraims #families #gezer #goings #inheritance #intertribal #janohah #japhleti #jericho #jordan #joseph #josephs #kanah #lot #luz #manasseh #michmethah #mount #naarath #nether #north #pass #passed #problem #river #sea #separate #serve #side #taanath-shiloh #tappuah #tribe #tribute #upper #villages #water #westward #wilderness
 
 
 ---

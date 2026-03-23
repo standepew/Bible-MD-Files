@@ -1,3 +1,13 @@
+---
+book: "Ezekiel"
+chapter: 32
+testament: "Old Testament"
+key_themes: "Christ's Lament, Egyptian Fall, Divine Judgment, Christ's Comfort"
+tags:
+  - christ
+  - egyptian-fall
+  - divine-judgment
+---
 # Ezekiel 32
 
 ---
@@ -105,7 +115,7 @@ Twelfth, year, twelfth, month, first, day, month, word, Lord, son, man, lamentat
 
 
 *AI Keywords for current event matching:*
-`babylon` `blood` `christs` `comfort` `comforted` `cover` `dark` `divine` `egyptian` `fall` `flesh` `fowls` `heaven` `judgment` `lament` `lamentation` `land` `lion` `mountains` `multitude` `net` `pharaoh` `seas` `see` `slain` `spread` `stars` `sword` `terror` `troubled` `waters` `whale` `young`
+#babylon #blood #christs #comfort #comforted #cover #dark #divine #egyptian #fall #flesh #fowls #heaven #judgment #lament #lamentation #land #lion #mountains #multitude #net #pharaoh #seas #see #slain #spread #stars #sword #terror #troubled #waters #whale #young
 
 
 ---

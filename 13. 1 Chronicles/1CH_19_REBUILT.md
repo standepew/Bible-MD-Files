@@ -1,3 +1,14 @@
+---
+book: "1 Chronicles"
+chapter: 19
+testament: "Old Testament"
+key_themes: "David's Kindness, Ammonite Insult, Military Strategy, Divine Victory"
+tags:
+  - david
+  - ammonite-insult
+  - military-strategy
+  - divine-victory
+---
 # 1 Chronicles 19
 
 ---
@@ -111,7 +122,7 @@ Nahash, king, children, Ammon, died, son, reigned, stead. David, kindness, Hanun
 
 
 *AI Keywords for current event matching:*
-`abishai` `ammon` `ammonite` `array` `ashamed` `away` `battle` `beards` `behave` `behind` `beyond` `brother` `buttocks` `came` `campaign` `captain` `certain` `chariots` `children` `chose` `cities` `city` `comfort` `courage` `crisis` `cut` `david` `davids` `died` `divine` `drew` `father` `field` `fled` `footmen` `forty` `fought` `garments` `gate` `gathered` `god` `good` `greatly` `grown` `hadarezer` `hanun` `heard` `help` `hire` `hired` `honour` `horsemen` `host` `insult` `israel` `jericho` `jerusalem` `joab` `killed` `kindness` `king` `kings` `land` `lord` `maachah` `made` `medeba` `meet` `men` `mesopotamia` `messengers` `midst` `mighty` `military` `nahash` `nigh` `odious` `overthrow` `peace` `people` `pitched` `princes` `pursued` `reigned` `return` `river` `said` `saw` `search` `sent` `servants` `served` `set` `settlement` `seven` `shaved` `shophach` `sight` `silver` `slew` `son` `spy` `stead` `strategic` `strong` `succession` `syria` `syrians` `talents` `tarry` `thirty` `thousand` `told` `took` `two` `valiantly` `victory` `went` `worse` `zobah`
+#abishai #ammon #ammonite #array #ashamed #away #battle #beards #behave #behind #beyond #brother #buttocks #came #campaign #captain #certain #chariots #children #chose #cities #city #comfort #courage #crisis #cut #david #davids #died #divine #drew #father #field #fled #footmen #forty #fought #garments #gate #gathered #god #good #greatly #grown #hadarezer #hanun #heard #help #hire #hired #honour #horsemen #host #insult #israel #jericho #jerusalem #joab #killed #kindness #king #kings #land #lord #maachah #made #medeba #meet #men #mesopotamia #messengers #midst #mighty #military #nahash #nigh #odious #overthrow #peace #people #pitched #princes #pursued #reigned #return #river #said #saw #search #sent #servants #served #set #settlement #seven #shaved #shophach #sight #silver #slew #son #spy #stead #strategic #strong #succession #syria #syrians #talents #tarry #thirty #thousand #told #took #two #valiantly #victory #went #worse #zobah
 
 
 ---

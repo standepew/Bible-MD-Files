@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 81
+testament: "Old Testament"
+key_themes: "Joyful Worship, Divine Deliverance, Covenant Faithfulness, Spiritual Blessing"
+tags:
+  - joyful-worship
+  - divine-deliverance
+  - covenant-faithfulness
+  - spiritual-blessing
+---
 # Psalm 81
 
 ---
@@ -153,7 +164,7 @@ Chief, Musician, Gittith, Psalm, Asaph, Sing, aloud, GOD, strength, joyful, nois
 
 
 *AI Keywords for current event matching:*
-`adversaries` `aloud` `answered` `appointed` `asaph` `blessing` `blow` `bring` `brought` `burden` `called` `chief` `covenant` `deliverance` `delivered` `divine` `egypt` `endured` `enemies` `faithfulness` `feast` `fed` `fill` `finest` `gittith` `god` `hand` `hands` `harp` `haters` `honey` `israel` `jacob` `joseph` `joyful` `land` `law` `lord` `meribah` `moon` `mouth` `musician` `new` `noise` `open` `ordained` `place` `pleasant` `pots` `proved` `psalm` `psaltery` `removed` `rock` `satisfied` `secret` `shoulder` `sing` `solemn` `soon` `spiritual` `statute` `strange` `strength` `subdued` `submitted` `testimony` `thunder` `timbrel` `time` `trouble` `trumpet` `turned` `waters` `went` `wheat` `wide` `worship`
+#adversaries #aloud #answered #appointed #asaph #blessing #blow #bring #brought #burden #called #chief #covenant #deliverance #delivered #divine #egypt #endured #enemies #faithfulness #feast #fed #fill #finest #gittith #god #hand #hands #harp #haters #honey #israel #jacob #joseph #joyful #land #law #lord #meribah #moon #mouth #musician #new #noise #open #ordained #place #pleasant #pots #proved #psalm #psaltery #removed #rock #satisfied #secret #shoulder #sing #solemn #soon #spiritual #statute #strange #strength #subdued #submitted #testimony #thunder #timbrel #time #trouble #trumpet #turned #waters #went #wheat #wide #worship
 
 
 ---

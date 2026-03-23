@@ -1,3 +1,109 @@
+---
+book: "Judges"
+chapter: 5
+testament: "Old Testament"
+key_themes: "Victory Song, Divine Warfare, Tribal Participation, Jael's Blessing, Sisera's Mother, Cosmic Involvement, Meroz's Curse, Forty Years' Rest"
+tags:
+  - sang-Deborah-Barak-son-Abinoam-day
+  - Praise-LORD-avenging-Israel
+  - people-willingly-offered
+  - Hear-kings-give-ear-princes
+  - sing-LORD
+  - sing-praise-LORD-God-Israel
+  - LORD-wentest-Seir
+  - marched-field-Edom
+  - earth-trembled
+  - heavens-dropped
+  - clouds-dropped-water
+  - mountains-melted-LORD
+  - Sinai-LORD-God-Israel
+  - days-Shamgar-son-Anath
+  - days-Jael
+  - highways-unoccupied
+  - travellers-walked-byways
+  - inhabitants-villages-ceased
+  - ceased-Israel
+  - Deborah-arose
+  - mother-Israel
+  - chose-new-gods
+  - war-gates
+  - shield-spear-forty-thousand-Israel
+  - heart-governors-Israel
+  - offered-willingly-people
+  - Bless-LORD
+  - Speak-ride-white-asses
+  - sit-judgment
+  - walk-way
+  - delivered-noise-archers
+  - places-drawing-water
+  - rehearse-righteous-acts-LORD
+  - righteous-acts-inhabitants-villages-Israel
+  - people-LORD-gates
+  - Awake-awake-Deborah
+  - awake-awake-utter-song
+  - arise-Barak-lead-captivity-captive
+  - son-Abinoam
+  - made-remaineth-dominion-nobles-people
+  - LORD-dominion-mighty
+  - Ephraim-root-Amalek
+  - Benjamin-people
+  - Machir-governors
+  - Zebulun-handle-pen-writer
+  - princes-Issachar-Deborah
+  - Issachar-Barak
+  - sent-foot-valley
+  - divisions-Reuben-great-thoughts-heart
+  - abodest-sheepfolds
+  - hear-bleatings-flocks
+  - divisions-Reuben-great-searchings-heart
+  - Gilead-abode-beyond-Jordan
+  - Dan-remain-ships
+  - Asher-continued-sea-shore
+  - abode-breaches
+  - Zebulun-Naphtali-people-jeoparded-lives-death
+  - high-places-field
+  - kings-fought
+  - kings-Canaan-Taanach-waters-Megiddo
+  - gain-money
+  - fought-heaven
+  - stars-courses-fought-Sisera
+  - river-Kishon-swept
+  - ancient-river-river-Kishon
+  - soul-trodden-strength
+  - horsehoofs-broken-pransings
+  - pransings-mighty-ones
+  - Curse-Meroz-angel-LORD
+  - curse-bitterly-inhabitants
+  - came-help-LORD
+  - help-LORD-mighty
+  - Blessed-women-Jael-wife-Heber-Kenite
+  - blessed-women-tent
+  - asked-water-gave-milk
+  - brought-butter-lordly-dish
+  - hand-nail
+  - right-hand-workmen-hammer
+  - hammer-smote-Sisera
+  - smote-head
+  - pierced-stricken-temples
+  - feet-bowed-fell-lay
+  - feet-bowed-fell
+  - bowed-fell-dead
+  - mother-Sisera-looked-window
+  - cried-lattice
+  - chariot-long-coming
+  - tarry-wheels-chariots
+  - wise-ladies-answered
+  - returned-answer
+  - sped-divided-prey
+  - man-damsel-two
+  - Sisera-prey-divers-colours
+  - prey-divers-colours-needlework
+  - divers-colours-needlework-both-sides
+  - meet-necks-take-spoil
+  - enemies-perish-LORD
+  - love-sun-goes-forth-might
+  - land-rest-forty-years
+---
 # Judges 5
 
 ---
@@ -103,7 +209,7 @@ Deborah and Barak sing this victory song, praising the LORD for avenging Israel 
 
 
 *AI Keywords for current event matching:*
-`abinoam` `abode` `abodest` `acts` `amalek` `anath` `ancient` `angel` `answer` `answered` `archers` `arise` `arose` `asher` `asked` `asses` `avenging` `awake` `awakening` `barak` `battle` `benjamin` `beyond` `bitterly` `bleatings` `bless` `blessed` `blessing` `both` `bowed` `breaches` `broken` `brought` `butter` `byways` `call` `came` `canaan` `captive` `captivity` `ceased` `chariot` `chariots` `chose` `clouds` `colours` `coming` `continued` `courses` `cried` `curse` `damsel` `dan` `dark` `day` `days` `dead` `death` `deborah` `decline` `delivered` `description` `dish` `divers` `divided` `divine` `divisions` `dominion` `drawing` `dropped` `ear` `earth` `edom` `enemies` `ephraim` `faithful` `feet` `fell` `field` `final` `flocks` `foot` `forth` `forty` `fought` `future` `gain` `gates` `gave` `gilead` `give` `god` `gods` `goes` `governors` `great` `hammer` `hand` `handle` `head` `hear` `heart` `heaven` `heavens` `heber` `help` `high` `highways` `honor` `hope` `horsehoofs` `inhabitants` `israel` `issachar` `jael` `jaels` `jeoparded` `jordan` `judgment` `kenite` `kings` `kishon` `ladies` `land` `lattice` `lay` `lead` `leaders` `lives` `long` `looked` `lord` `lordly` `love` `machir` `made` `man` `marched` `meet` `megiddo` `melted` `meroz` `merozs` `mighty` `milk` `money` `mother` `mountains` `nail` `naphtali` `necks` `needlework` `new` `nobles` `noise` `offered` `ones` `participation` `pen` `people` `period` `perish` `pierced` `places` `praise` `pransings` `prayer` `presence` `prey` `princes` `rehearse` `remain` `remaineth` `rest` `returned` `reuben` `ride` `right` `righteous` `river` `root` `sang` `sea` `searchings` `seir` `sent` `shamgar` `sheepfolds` `shield` `ships` `shore` `sides` `sinai` `sing` `sisera` `siseras` `sit` `smote` `son` `song` `soul` `speak` `spear` `sped` `spiritual` `spoil` `stars` `strength` `stricken` `sun` `swept` `taanach` `take` `tarry` `temples` `tent` `thoughts` `thousand` `travellers` `trembled` `tribal` `trodden` `two` `unoccupied` `utter` `valley` `victory` `villages` `walk` `walked` `war` `water` `waters` `way` `wentest` `wheels` `white` `wife` `willingly` `window` `wise` `women` `workmen` `writer` `years` `zebulun`
+#abinoam #abode #abodest #acts #amalek #anath #ancient #angel #answer #answered #archers #arise #arose #asher #asked #asses #avenging #awake #awakening #barak #battle #benjamin #beyond #bitterly #bleatings #bless #blessed #blessing #both #bowed #breaches #broken #brought #butter #byways #call #came #canaan #captive #captivity #ceased #chariot #chariots #chose #clouds #colours #coming #continued #courses #cried #curse #damsel #dan #dark #day #days #dead #death #deborah #decline #delivered #description #dish #divers #divided #divine #divisions #dominion #drawing #dropped #ear #earth #edom #enemies #ephraim #faithful #feet #fell #field #final #flocks #foot #forth #forty #fought #future #gain #gates #gave #gilead #give #god #gods #goes #governors #great #hammer #hand #handle #head #hear #heart #heaven #heavens #heber #help #high #highways #honor #hope #horsehoofs #inhabitants #israel #issachar #jael #jaels #jeoparded #jordan #judgment #kenite #kings #kishon #ladies #land #lattice #lay #lead #leaders #lives #long #looked #lord #lordly #love #machir #made #man #marched #meet #megiddo #melted #meroz #merozs #mighty #milk #money #mother #mountains #nail #naphtali #necks #needlework #new #nobles #noise #offered #ones #participation #pen #people #period #perish #pierced #places #praise #pransings #prayer #presence #prey #princes #rehearse #remain #remaineth #rest #returned #reuben #ride #right #righteous #river #root #sang #sea #searchings #seir #sent #shamgar #sheepfolds #shield #ships #shore #sides #sinai #sing #sisera #siseras #sit #smote #son #song #soul #speak #spear #sped #spiritual #spoil #stars #strength #stricken #sun #swept #taanach #take #tarry #temples #tent #thoughts #thousand #travellers #trembled #tribal #trodden #two #unoccupied #utter #valley #victory #villages #walk #walked #war #water #waters #way #wentest #wheels #white #wife #willingly #window #wise #women #workmen #writer #years #zebulun
 
 
 ---

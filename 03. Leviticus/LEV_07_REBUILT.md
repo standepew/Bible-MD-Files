@@ -1,3 +1,34 @@
+---
+book: "Leviticus"
+chapter: 7
+testament: "Old Testament"
+key_themes: "Completion of the trespass offering laws, The peace offering — its three forms (thanksgiving, vow, voluntary), The time constraints on eating the peace offering flesh, The prohibition on eating unclean flesh — "cut off from his people," No fat and no blood — a perpetual statute for all generations, The wave breast and heave shoulder — the priest's ordained portion, Summary verse: "This is the law of the burnt offering, of the meat offering, and of the sin offering, and of the trespass offering..." — the five offerings summarized"
+tags:
+  - trespass-offering-law
+  - most-holy
+  - sin-offering-and-trespass-same-law
+  - skin-of-burnt-offering-to-priest
+  - peace-offering-thanksgiving
+  - peace-offering-vow
+  - peace-offering-voluntary
+  - unleavened-cakes
+  - leavened-bread-with-thanksgiving
+  - heave-offering
+  - eat-same-day
+  - thanksgiving
+  - vow-two-days
+  - third-day-abomination
+  - unclean-flesh-burned
+  - cut-off
+  - no-fat
+  - no-blood
+  - perpetual-statute
+  - wave-breast
+  - heave-shoulder
+  - statute-for-ever
+  - summary-of-the-law
+  - wilderness-of-Sinai
+---
 # Leviticus 7
 
 ---
@@ -91,7 +122,7 @@ Chapter 7 closes the first major section of Leviticus. The trespass offering: mo
 
 
 *AI Keywords for current event matching:*
-`current` `events` `hebrews` `leviticus` `matching` `praise` `psalm` `sacrifice` `thanksgiving`
+#current #events #hebrews #leviticus #matching #praise #psalm #sacrifice #thanksgiving
 
 
 ---
@@ -204,15 +235,15 @@ Chapter 7 closes the first major section of Leviticus. The trespass offering: mo
 
 ### The Three-Day Limit — A Thread Through Scripture
 
-**Leviticus 7:17-18** — The peace offering flesh must be eaten within two days; day three = piggul = abomination
+[[03. Leviticus/LEV_07_REBUILT|Leviticus 7:17-18]] — The peace offering flesh must be eaten within two days; day three = piggul = abomination
 
 The three-day boundary is a recurring scriptural marker:
-- **Genesis 22:4** — "Then on the third day Abraham lifted up his eyes" — the third day as the day of resolution after the trial; Isaac "alive from the dead" on the third day (Hebrews 11:19)
+- [[01. Genesis/GEN_22_REBUILT|Genesis 22:4]] — "Then on the third day Abraham lifted up his eyes" — the third day as the day of resolution after the trial; Isaac "alive from the dead" on the third day (Hebrews 11:19)
 - **Exodus 19:11, 15-16** — "And be ready against the third day: for the third day the LORD will come down" — the divine appointment at Sinai
-- **Hosea 6:2** — "After two days will he revive us: in the third day he will raise us up, and we shall live in his sight" — the resurrection pattern
-- **Jonah 1:17** — three days and three nights in the whale's belly
-- **Matthew 12:40** — "So shall the Son of man be three days and three nights in the heart of the earth" — Jesus applies the Jonah pattern to His own death and resurrection
-- **1 Corinthians 15:4** — "he rose again the third day according to the scriptures" — "according to the scriptures" = the entire three-day thread throughout the OT
+- [[28. Hosea/HOSEA_06_REBUILT|Hosea 6:2]] — "After two days will he revive us: in the third day he will raise us up, and we shall live in his sight" — the resurrection pattern
+- [[32. Jonah/JONAH_01_REBUILT|Jonah 1:17]] — three days and three nights in the whale's belly
+- [[40. Matthew/MATTHEW_12_REBUILT|Matthew 12:40]] — "So shall the Son of man be three days and three nights in the heart of the earth" — Jesus applies the Jonah pattern to His own death and resurrection
+- [[46. 1 Corinthians/1_CORINTHIANS_15_REBUILT|1 Corinthians 15:4]] — "he rose again the third day according to the scriptures" — "according to the scriptures" = the entire three-day thread throughout the OT
 
 **What the Bible establishes:** Three days in Scripture consistently marks the boundary between what is valid/alive and what has become corrupt/dead. The peace offering that is eaten within two days participates in the living, accepted sacrifice; the flesh carried to day three has crossed the boundary into corruption. Christ's resurrection on the third day is the supreme enactment of this principle: death could not hold Him past the boundary of the third day.
 
@@ -220,7 +251,7 @@ The three-day boundary is a recurring scriptural marker:
 
 ### The Five Offerings as a Complete Portrait of Christ
 
-**Leviticus 7:37-38** closes all five offerings as a unified system. The five together form one complete typological portrait:
+[[03. Leviticus/LEV_07_REBUILT|Leviticus 7:37-38]] closes all five offerings as a unified system. The five together form one complete typological portrait:
 
 | Offering | What It Typifies | New Testament Fulfillment |
 |---|---|---|

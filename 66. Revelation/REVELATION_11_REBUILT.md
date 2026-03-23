@@ -1,3 +1,15 @@
+---
+book: "Revelation"
+chapter: 11
+testament: "New Testament"
+key_themes: "Measuring the Temple, The Two Witnesses, Their Death and Resurrection, The Seventh Trumpet, The Kingdoms of This World"
+tags:
+  - measuring-the-temple
+  - the-two-witnesses
+  - their-death-and-resurrection
+  - the-seventh-trumpet
+  - the-kingdoms-of-this-world
+---
 # Revelation 11
 
 ---
@@ -119,7 +131,7 @@ Reed, rod, angel, stand, saying, Rise, measure, temple, God, altar, worship, cou
 
 
 *AI Keywords for current event matching:*
-`affrighted` `almighty` `altar` `angel` `angry` `ark` `ascended` `ascendeth` `beast` `beheld` `blood` `bodies` `bottomless` `candlesticks` `christ` `city` `clothed` `cloud` `come` `court` `crucified` `days` `dead` `death` `destroy` `devoureth` `dwell` `dwelt` `earth` `earthquake` `egypt` `elders` `enemies` `entered` `faces` `fear` `feet` `fell` `finished` `fire` `foot` `forever` `forty` `four` `gentiles` `gifts` `give` `glory` `god` `graves` `great` `hail` `half` `heaven` `holy` `hour` `hundred` `hurt` `judged` `kill` `killed` `kindreds` `kingdoms` `life` `lightnings` `lord` `make` `measure` `measuring` `merry` `months` `mouth` `name` `nations` `olive` `opened` `overcome` `part` `people` `pit` `plagues` `power` `proceedeth` `prophecy` `prophesy` `prophets` `rain` `reed` `reign` `reigned` `rejoice` `remnant` `resurrection` `reward` `rise` `rod` `sackcloth` `saints` `sat` `saw` `saying` `seats` `second` `seen` `send` `servants` `seven` `seventh` `shut` `slain` `small` `smite` `sodom` `sounded` `spirit` `spiritually` `stand` `standing` `stood` `street` `suffer` `taken` `temple` `tenth` `testament` `testimony` `thanks` `third` `thousand` `three` `threescore` `thunderings` `time` `tongues` `tormented` `tread` `trees` `trumpet` `turn` `twenty` `two` `voice` `voices` `war` `waters` `without` `witnesses` `woe` `world` `worship` `worshipped` `wrath`
+#affrighted #almighty #altar #angel #angry #ark #ascended #ascendeth #beast #beheld #blood #bodies #bottomless #candlesticks #christ #city #clothed #cloud #come #court #crucified #days #dead #death #destroy #devoureth #dwell #dwelt #earth #earthquake #egypt #elders #enemies #entered #faces #fear #feet #fell #finished #fire #foot #forever #forty #four #gentiles #gifts #give #glory #god #graves #great #hail #half #heaven #holy #hour #hundred #hurt #judged #kill #killed #kindreds #kingdoms #life #lightnings #lord #make #measure #measuring #merry #months #mouth #name #nations #olive #opened #overcome #part #people #pit #plagues #power #proceedeth #prophecy #prophesy #prophets #rain #reed #reign #reigned #rejoice #remnant #resurrection #reward #rise #rod #sackcloth #saints #sat #saw #saying #seats #second #seen #send #servants #seven #seventh #shut #slain #small #smite #sodom #sounded #spirit #spiritually #stand #standing #stood #street #suffer #taken #temple #tenth #testament #testimony #thanks #third #thousand #three #threescore #thunderings #time #tongues #tormented #tread #trees #trumpet #turn #twenty #two #voice #voices #war #waters #without #witnesses #woe #world #worship #worshipped #wrath
 
 
 ---

@@ -1,3 +1,14 @@
+---
+book: "Ecclesiastes"
+chapter: 5
+testament: "Old Testament"
+key_themes: "Worship and Reverence, Vows and Promises, Wealth and Contentment, Divine Justice"
+tags:
+  - worship-and-reverence
+  - vows-and-promises
+  - wealth-and-contentment
+  - divine-justice
+---
 # Ecclesiastes 5
 
 ---
@@ -141,7 +152,7 @@ Keep, foot, goest, house, God, ready, hear, give, sacrifice, fools, consider, ev
 
 
 *AI Keywords for current event matching:*
-`abundance` `answereth` `better` `contentment` `defer` `divine` `foot` `give` `god` `hasty` `hear` `heart` `higher` `highest` `house` `joy` `justice` `keep` `labouring` `loveth` `man` `mouth` `oppression` `pay` `poor` `promises` `rash` `ready` `reverence` `rich` `sacrifice` `satisfied` `silver` `sleep` `suffer` `sweet` `utter` `violent` `vow` `vowest` `vows` `wealth` `worship`
+#abundance #answereth #better #contentment #defer #divine #foot #give #god #hasty #hear #heart #higher #highest #house #joy #justice #keep #labouring #loveth #man #mouth #oppression #pay #poor #promises #rash #ready #reverence #rich #sacrifice #satisfied #silver #sleep #suffer #sweet #utter #violent #vow #vowest #vows #wealth #worship
 
 
 ---

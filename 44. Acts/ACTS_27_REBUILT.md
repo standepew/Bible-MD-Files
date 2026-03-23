@@ -1,3 +1,13 @@
+---
+book: "Acts"
+chapter: 27
+testament: "New Testament"
+key_themes: "Paul's Voyage to Rome, The Storm at Sea, Paul's Assurance, The Shipwreck"
+tags:
+  - paul
+  - the-storm-at-sea
+  - the-shipwreck
+---
 # Acts 27
 
 ---
@@ -213,7 +223,7 @@ Determined, sail, Italy, delivered, Paul, prisoners, Julius, centurion, Augustus
 
 
 *AI Keywords for current event matching:*
-`abide` `abstinence` `admonished` `adramyttium` `adria` `advised` `aground` `alexandria` `anchors` `angel` `appeared` `aristarchus` `asia` `assurance` `attain` `augustus` `band` `bands` `bear` `believe` `believed` `besought` `blew` `boards` `boat` `bread` `broken` `brought` `caeser` `cast` `caught` `centurion` `cheer` `cilicia` `city` `clauda` `cnidus` `coasts` `colour` `coming` `commanded` `committed` `commodious` `continued` `contrary` `counsel` `country` `courteously` `creek` `crete` `cut` `cyprus` `damage` `dangerous` `day` `days` `delivered` `depart` `determined` `discovered` `drew` `drive` `driven` `eat` `eaten` `entering` `entreated` `escape` `escaped` `euroclydon` `exceedingly` `exhort` `fair` `fall` `falling` `fast` `fasting` `fathoms` `fear` `fearing` `flee` `forepart` `foreship` `fourteenth` `friends` `further` `gave` `given` `god` `good` `hair` `hardly` `harm` `haven` `havens` `head` `health` `hearkened` `helps` `hinder` `hoised` `hope` `hundred` `hurt` `island` `italy` `julius` `kept` `kill` `lading` `land` `lasea` `launched` `liberty` `life` `lightened` `lives` `long` `loosed` `loosing` `loss` `lycia` `macedonian` `mainsail` `master` `meat` `met` `midnight` `midst` `myra` `neither` `next` `nigh` `night` `north` `nothing` `obtained` `owner` `pamphylia` `part` `passing` `past` `paul` `pauls` `perceived` `phenice` `pieces` `place` `pray` `presence` `prisoners` `purpose` `put` `quicksands` `refresh` `rest` `rocks` `rome` `ropes` `rudder` `safe` `sail` `sailed` `sailing` `salmone` `save` `saved` `scarce` `sea` `seas` `serve` `ship` `shipmen` `shipwreck` `shore` `sidon` `sixteen` `slowly` `softly` `soldiers` `souls` `sounded` `south` `spent` `spoke` `spoken` `stars` `stern` `storm` `strake` `stuck` `suffering` `sun` `swim` `tackling` `taken` `tarried` `tempest` `tempestuous` `thanks` `thence` `thessalonica` `third` `threescore` `thrust` `time` `told` `tossed` `touched` `two` `undergirding` `unmoveable` `violence` `voyage` `waves` `west` `wheat` `willing` `wind` `winds` `winter` `wished` `work`
+#abide #abstinence #admonished #adramyttium #adria #advised #aground #alexandria #anchors #angel #appeared #aristarchus #asia #assurance #attain #augustus #band #bands #bear #believe #believed #besought #blew #boards #boat #bread #broken #brought #caeser #cast #caught #centurion #cheer #cilicia #city #clauda #cnidus #coasts #colour #coming #commanded #committed #commodious #continued #contrary #counsel #country #courteously #creek #crete #cut #cyprus #damage #dangerous #day #days #delivered #depart #determined #discovered #drew #drive #driven #eat #eaten #entering #entreated #escape #escaped #euroclydon #exceedingly #exhort #fair #fall #falling #fast #fasting #fathoms #fear #fearing #flee #forepart #foreship #fourteenth #friends #further #gave #given #god #good #hair #hardly #harm #haven #havens #head #health #hearkened #helps #hinder #hoised #hope #hundred #hurt #island #italy #julius #kept #kill #lading #land #lasea #launched #liberty #life #lightened #lives #long #loosed #loosing #loss #lycia #macedonian #mainsail #master #meat #met #midnight #midst #myra #neither #next #nigh #night #north #nothing #obtained #owner #pamphylia #part #passing #past #paul #pauls #perceived #phenice #pieces #place #pray #presence #prisoners #purpose #put #quicksands #refresh #rest #rocks #rome #ropes #rudder #safe #sail #sailed #sailing #salmone #save #saved #scarce #sea #seas #serve #ship #shipmen #shipwreck #shore #sidon #sixteen #slowly #softly #soldiers #souls #sounded #south #spent #spoke #spoken #stars #stern #storm #strake #stuck #suffering #sun #swim #tackling #taken #tarried #tempest #tempestuous #thanks #thence #thessalonica #third #threescore #thrust #time #told #tossed #touched #two #undergirding #unmoveable #violence #voyage #waves #west #wheat #willing #wind #winds #winter #wished #work
 
 
 ---

@@ -1,3 +1,27 @@
+---
+book: "Numbers"
+chapter: 7
+testament: "Old Testament"
+key_themes: "The dedication of the altar — each of the twelve tribal princes brings an identical offering on successive days, The identical offerings declare equal standing before God regardless of tribal size or prestige, Six covered wagons and twelve oxen given by the princes for Tabernacle transport — distributed to Gershon and Merari; Kohath receives none, God speaks to Moses from between the cherubim above the mercy seat — the Tabernacle functions as the meeting place, The longest chapter in the Torah; the repetition is deliberate — every tribe matters equally, every offering is recorded individually"
+tags:
+  - altar-dedication
+  - twelve-princes
+  - twelve-days
+  - identical-offerings
+  - six-wagons
+  - twelve-oxen
+  - Kohath-no-wagon
+  - one-silver-charger-130-shekels
+  - one-silver-bowl-70-shekels
+  - one-gold-spoon-10-shekels
+  - burnt-offering
+  - sin-offering
+  - peace-offerings
+  - dedication-totals
+  - God-speaks-from-mercy-seat
+  - between-the-cherubims
+  - equal-tribal-standing
+---
 # Numbers 7
 
 ---
@@ -66,7 +90,7 @@ On the day Moses finishes setting up and anointing the Tabernacle, the twelve tr
 
 
 *AI Keywords for current event matching:*
-`current` `equal` `events` `every` `galatians` `god` `identical` `matching` `numbers` `offering` `regardless` `romans` `standing` `statussize` `tribes`
+#current #equal #events #every #galatians #god #identical #matching #numbers #offering #regardless #romans #standing #statussize #tribes
 
 
 ---

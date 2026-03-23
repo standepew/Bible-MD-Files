@@ -1,3 +1,14 @@
+---
+book: "Hosea"
+chapter: 2
+testament: "Old Testament"
+key_themes: "Christ's Restoration, Wilderness Experience, Covenant Betrothal, Divine Healing"
+tags:
+  - christ
+  - wilderness-experience
+  - covenant-betrothal
+  - divine-healing
+---
 # Hosea 2
 
 ---
@@ -105,7 +116,7 @@ Brethren, Ammi, sisters, Ru, hamah, Plead, mother, plead, wife, husband, whoredo
 
 
 *AI Keywords for current event matching:*
-`achor` `allure` `betroth` `betrothal` `christs` `comfortably` `covenant` `divine` `door` `dry` `experience` `faithfulness` `find` `first` `flax` `forever` `heal` `healing` `hedge` `hope` `husband` `judgment` `land` `lewdness` `lovingkindness` `make` `mercies` `naked` `paths` `recover` `restoration` `return` `righteousness` `slay` `speak` `strip` `thirst` `thorns` `valley` `wall` `wilderness` `wool`
+#achor #allure #betroth #betrothal #christs #comfortably #covenant #divine #door #dry #experience #faithfulness #find #first #flax #forever #heal #healing #hedge #hope #husband #judgment #land #lewdness #lovingkindness #make #mercies #naked #paths #recover #restoration #return #righteousness #slay #speak #strip #thirst #thorns #valley #wall #wilderness #wool
 
 
 ---

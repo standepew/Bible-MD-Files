@@ -1,3 +1,31 @@
+---
+book: "Leviticus"
+chapter: 4
+testament: "Old Testament"
+key_themes: "The Sin Offering (chattat) — specifically for sins of ignorance (shegagah), Four social tiers: the anointed priest, the whole congregation, a ruler, a common person, The priest's sin bears communal consequences — his offering is the same as the congregation's, Blood applied differently by rank: into the Holy Place for priest/congregation; on the bronze altar horns for ruler/individual, The carcass burned outside the camp for priest and congregation, "And it shall be forgiven him" — the guarantee of atonement for the repentant"
+tags:
+  - sin-offering
+  - chattat
+  - shegagah
+  - sins-of-ignorance
+  - anointed-priest
+  - whole-congregation
+  - ruler
+  - common-person
+  - blood-seven-times-before-veil
+  - blood-on-incense-altar-horns
+  - blood-at-base-of-altar
+  - fat-burned
+  - carcass-outside-camp
+  - it-shall-be-forgiven
+  - graduated-by-rank
+  - hand-on-head
+  - male-without-blemish
+  - female-goat
+  - female-lamb
+  - communal-sin
+  - priestly-sin
+---
 # Leviticus 4
 
 ---
@@ -96,7 +124,7 @@ God introduces the sin offering (chattat) — specifically for sins committed "t
 
 
 *AI Keywords for current event matching:*
-`current` `events` `ignorance` `john` `leviticus` `luke` `matching` `psalm` `sin` `sins` `unintentional`
+#current #events #ignorance #john #leviticus #luke #matching #psalm #sin #sins #unintentional
 
 
 ---
@@ -210,7 +238,7 @@ The seven-times sprinkling thread:
 - **Leviticus 4:6, 17** — sin offering for priest/congregation: seven times before the veil
 - **Leviticus 14:7, 16, 27** — leper's cleansing: seven sprinklings
 - **Leviticus 16:14, 19** — Day of Atonement: seven sprinklings on and before the mercy seat
-- **Numbers 19:4** — the red heifer ceremony: seven sprinklings toward the Tabernacle
+- [[04. Numbers/NUM_19_REBUILT|Numbers 19:4]] — the red heifer ceremony: seven sprinklings toward the Tabernacle
 
 **What the Bible establishes (seven = completion per the roadmap):** Seven sprinklings = complete, total, comprehensive application of the blood. Nothing is left uncovered; the atonement reaches every point. The blood applied seven times is not redundant application — it is the declaration of total coverage. Where the blood goes seven times, no sin remains unaddressed.
 
@@ -221,11 +249,11 @@ The seven-times sprinkling thread:
 Blood is applied to the horns of the altars in Leviticus 4 (both the incense altar and the burnt offering altar).
 
 The horn thread:
-- **Exodus 27:2** — "And thou shalt make the horns of it upon the four corners thereof: his horns shall be of the same" — the horns are integral, not decorative
-- **1 Kings 1:50** — Adonijah "caught hold on the horns of the altar" — the altar horns as a place of refuge; clinging to the horns = claiming the protection of the sacrifice
-- **1 Kings 2:28** — Joab "fled unto the tabernacle of the LORD, and caught hold on the horns of the altar"
-- **Psalm 118:27** — "Bind the sacrifice with cords, even unto the horns of the altar"
-- **Habakkuk 3:4** — "and there was the hiding of his power" — the horns as the place where God's protective strength is concentrated
+- [[02. Exodus/EXO_27_REBUILT|Exodus 27:2]] — "And thou shalt make the horns of it upon the four corners thereof: his horns shall be of the same" — the horns are integral, not decorative
+- [[11. 1 Kings/1_KINGS_01_REBUILT|1 Kings 1:50]] — Adonijah "caught hold on the horns of the altar" — the altar horns as a place of refuge; clinging to the horns = claiming the protection of the sacrifice
+- [[11. 1 Kings/1_KINGS_02_REBUILT|1 Kings 2:28]] — Joab "fled unto the tabernacle of the LORD, and caught hold on the horns of the altar"
+- [[19.Psalm Part 2/PSALM_118_REBUILT|Psalm 118:27]] — "Bind the sacrifice with cords, even unto the horns of the altar"
+- [[35. Habakkuk/HABAKKUK_03_REBUILT|Habakkuk 3:4]] — "and there was the hiding of his power" — the horns as the place where God's protective strength is concentrated
 
 **What the Bible establishes:** The horns of the altar are the points of God's power and protection converging with the place of sacrifice. Blood on the horns = the atonement applied at the point of maximum authority and refuge. When a fugitive clung to the horns, he was claiming the protection of the blood that had been applied there. The New Covenant equivalent: clinging by faith to Christ crucified is clinging to the only true altar whose blood provides permanent refuge.
 

@@ -1,3 +1,13 @@
+---
+book: "Acts"
+chapter: 26
+testament: "New Testament"
+key_themes: "Paul's Defense Before Agrippa, His Conversion Story, The King's Response"
+tags:
+  - paul
+  - his-conversion-story
+  - the-king
+---
 # Acts 26
 
 ---
@@ -175,7 +185,7 @@ Agrippa, Paul, permitted, speak, stretched, hand, answered, happy, king, Agrippa
 
 
 *AI Keywords for current event matching:*
-`accused` `agrippa` `almost` `altogether` `answer` `answered` `appealed` `appear` `appeared` `aside` `authority` `believers` `believest` `bernice` `beseech` `beside` `blaspheme` `bonds` `caeser` `caught` `causes` `chief` `christ` `christian` `cities` `coasts` `commission` `compelled` `continue` `conversion` `corner` `customs` `damascus` `darkness` `day` `dead` `death` `defense` `delivering` `disobedient` `earth` `exceedingly` `expert` `eyes` `faith` `fallen` `fathers` `feet` `festus` `forgiveness` `freely` `gentiles` `god` `gone` `governor` `great` `hand` `happy` `hear` `heard` `heaven` `heavenly` `hebrew` `help` `hidden` `hope` `incredible` `inheritance` `jerusalem` `jesus` `jews` `journeyed` `judaea` `judged` `kick` `kill` `king` `kings` `know` `knoweth` `learning` `liberty` `life` `light` `lord` `loud` `mad` `manner` `midday` `minister` `moses` `much` `nation` `nazareth` `night` `noble` `obtained` `open` `patiently` `paul` `pauls` `people` `permitted` `persecuted` `persecutest` `persuaded` `persuadest` `pharisee` `power` `pricks` `priests` `prison` `promise` `prophets` `punished` `purpose` `questions` `raise` `religion` `repent` `repentance` `response` `rise` `rose` `saints` `sanctified` `satan` `saul` `seen` `send` `serving` `shew` `shining` `sins` `small` `soberness` `spake` `speak` `speaking` `stand` `story` `straitest` `strange` `stretched` `suffer` `sun` `synagogues` `talked` `temple` `testify` `thought` `tongue` `touching` `tribes` `truth` `turn` `twelve` `vision` `voice` `witness` `witnessing` `works` `worthy` `youth`
+#accused #agrippa #almost #altogether #answer #answered #appealed #appear #appeared #aside #authority #believers #believest #bernice #beseech #beside #blaspheme #bonds #caeser #caught #causes #chief #christ #christian #cities #coasts #commission #compelled #continue #conversion #corner #customs #damascus #darkness #day #dead #death #defense #delivering #disobedient #earth #exceedingly #expert #eyes #faith #fallen #fathers #feet #festus #forgiveness #freely #gentiles #god #gone #governor #great #hand #happy #hear #heard #heaven #heavenly #hebrew #help #hidden #hope #incredible #inheritance #jerusalem #jesus #jews #journeyed #judaea #judged #kick #kill #king #kings #know #knoweth #learning #liberty #life #light #lord #loud #mad #manner #midday #minister #moses #much #nation #nazareth #night #noble #obtained #open #patiently #paul #pauls #people #permitted #persecuted #persecutest #persuaded #persuadest #pharisee #power #pricks #priests #prison #promise #prophets #punished #purpose #questions #raise #religion #repent #repentance #response #rise #rose #saints #sanctified #satan #saul #seen #send #serving #shew #shining #sins #small #soberness #spake #speak #speaking #stand #story #straitest #strange #stretched #suffer #sun #synagogues #talked #temple #testify #thought #tongue #touching #tribes #truth #turn #twelve #vision #voice #witness #witnessing #works #worthy #youth
 
 
 ---

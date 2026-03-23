@@ -1,3 +1,14 @@
+---
+book: "Zephaniah"
+chapter: 1
+testament: "Old Testament"
+key_themes: "Christ's Final Judgment, Day of the LORD, Divine Wrath, Complete Consumption"
+tags:
+  - christ
+  - day-of-the-lord
+  - divine-wrath
+  - complete-consumption
+---
 # Zephaniah 1
 
 ---
@@ -129,7 +140,7 @@ Word, LORD, Zephaniah, son, Cushi, son, Gedaliah, son, Amariah, son, Hizkiah, da
 
 
 *AI Keywords for current event matching:*
-`alarm` `baal` `beast` `christs` `complete` `consume` `consumption` `cut` `darkness` `day` `deliver` `devoured` `distress` `divine` `dwell` `final` `fire` `gloominess` `gold` `great` `hand` `jealousy` `judgment` `land` `lord` `man` `near` `prepared` `remnant` `riddance` `sacrifice` `silver` `speedy` `stretch` `trouble` `trumpet` `utterly` `wrath`
+#alarm #baal #beast #christs #complete #consume #consumption #cut #darkness #day #deliver #devoured #distress #divine #dwell #final #fire #gloominess #gold #great #hand #jealousy #judgment #land #lord #man #near #prepared #remnant #riddance #sacrifice #silver #speedy #stretch #trouble #trumpet #utterly #wrath
 
 
 ---

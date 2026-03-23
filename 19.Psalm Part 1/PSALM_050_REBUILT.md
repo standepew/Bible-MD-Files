@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 50
+testament: "Old Testament"
+key_themes: "God's Judgment, True Worship, Thanksgiving vs. Sacrifice, Wicked's Hypocrisy"
+tags:
+  - god
+  - true-worship
+  - thanksgiving-vs-sacrifice
+  - wicked
+---
 # Psalm 50
 
 ---
@@ -129,7 +140,7 @@ Psalm, Asaph, mighty, GOD, LORD, spoken, called, earth, rising, sun, going, Zion
 
 
 *AI Keywords for current event matching:*
-`above` `adulterers` `beast` `beasts` `beauty` `behind` `blood` `broken` `brother` `bullock` `bulls` `burnt` `call` `called` `cast` `cattle` `come` `consented` `continually` `contrite` `covenant` `deceit` `declare` `deliver` `despise` `devour` `drink` `earth` `eat` `evil` `field` `fire` `flesh` `folds` `forest` `fowls` `frameth` `fulness` `gather` `givest` `glorify` `goats` `god` `gods` `going` `hate` `heart` `heavens` `high` `hills` `house` `hungry` `hypocrisy` `instruction` `judge` `judgment` `keep` `lord` `mighty` `mine` `mother` `mountains` `mouth` `offer` `offerings` `partaker` `pay` `people` `perfection` `reprove` `righteousness` `rising` `round` `sacrifice` `sacrifices` `saints` `saw` `shined` `silence` `sittest` `slanderest` `son` `speakest` `spirit` `spoken` `statutes` `sun` `tell` `tempestuous` `thanksgiving` `thief` `thousand` `tongue` `trouble` `true` `vows` `wicked` `wickeds` `wild` `words` `world` `worship` `zion`
+#above #adulterers #beast #beasts #beauty #behind #blood #broken #brother #bullock #bulls #burnt #call #called #cast #cattle #come #consented #continually #contrite #covenant #deceit #declare #deliver #despise #devour #drink #earth #eat #evil #field #fire #flesh #folds #forest #fowls #frameth #fulness #gather #givest #glorify #goats #god #gods #going #hate #heart #heavens #high #hills #house #hungry #hypocrisy #instruction #judge #judgment #keep #lord #mighty #mine #mother #mountains #mouth #offer #offerings #partaker #pay #people #perfection #reprove #righteousness #rising #round #sacrifice #sacrifices #saints #saw #shined #silence #sittest #slanderest #son #speakest #spirit #spoken #statutes #sun #tell #tempestuous #thanksgiving #thief #thousand #tongue #trouble #true #vows #wicked #wickeds #wild #words #world #worship #zion
 
 
 ---

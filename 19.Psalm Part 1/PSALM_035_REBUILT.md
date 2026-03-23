@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 35
+testament: "Old Testament"
+key_themes: "Prayer for Justice, Divine Vengeance, False Witnesses, Thanksgiving for Deliverance"
+tags:
+  - prayer-for-justice
+  - divine-vengeance
+  - false-witnesses
+  - thanksgiving-for-deliverance
+---
 # Psalm 35
 
 ---
@@ -153,7 +164,7 @@ Psalm, David, plead, cause, LORD, strive, fight, against, shield, buckler, stand
 
 
 *AI Keywords for current event matching:*
-`aha` `angel` `bones` `brought` `buckler` `catch` `cause` `chaff` `charge` `chase` `confounded` `confusion` `congregation` `dark` `david` `day` `deceitful` `deliverance` `deliverest` `destruction` `devise` `divine` `draw` `evil` `eye` `fall` `false` `fight` `give` `god` `good` `great` `help` `hid` `hurt` `joyful` `judge` `justice` `knew` `laid` `land` `lord` `matters` `mouth` `much` `net` `opened` `peace` `people` `persecute` `plead` `poor` `praise` `prayer` `psalm` `put` `quiet` `rejoice` `rewarded` `righteousness` `rise` `said` `salvation` `say` `seek` `seen` `shame` `shield` `slippery` `soul` `speak` `spear` `spoiling` `stand` `stop` `strive` `strong` `thanks` `thanksgiving` `tongue` `turned` `unawares` `vengeance` `way` `wide` `wind` `witnesses`
+#aha #angel #bones #brought #buckler #catch #cause #chaff #charge #chase #confounded #confusion #congregation #dark #david #day #deceitful #deliverance #deliverest #destruction #devise #divine #draw #evil #eye #fall #false #fight #give #god #good #great #help #hid #hurt #joyful #judge #justice #knew #laid #land #lord #matters #mouth #much #net #opened #peace #people #persecute #plead #poor #praise #prayer #psalm #put #quiet #rejoice #rewarded #righteousness #rise #said #salvation #say #seek #seen #shame #shield #slippery #soul #speak #spear #spoiling #stand #stop #strive #strong #thanks #thanksgiving #tongue #turned #unawares #vengeance #way #wide #wind #witnesses
 
 
 ---

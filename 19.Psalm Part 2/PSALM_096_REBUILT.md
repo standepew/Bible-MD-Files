@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 96
+testament: "Old Testament"
+key_themes: "New Song Worship, Divine Glory, Universal Praise, Righteous Judgment"
+tags:
+  - new-song-worship
+  - divine-glory
+  - universal-praise
+  - righteous-judgment
+---
 # Psalm 96
 
 ---
@@ -129,7 +140,7 @@ Sing, LORD, new, song, sing, LORD, earth, bless, name, shew, salvation, day, dec
 
 
 *AI Keywords for current event matching:*
-`beauty` `bless` `cometh` `day` `declare` `divine` `earth` `feared` `give` `glad` `glory` `gods` `great` `greatly` `heathen` `heavens` `holiness` `honour` `judge` `judgment` `kindreds` `lord` `majesty` `name` `new` `people` `praise` `praised` `reigneth` `rejoice` `righteous` `righteously` `righteousness` `roar` `salvation` `sanctuary` `sea` `shew` `sing` `song` `strength` `truth` `universal` `wonders` `world` `worship`
+#beauty #bless #cometh #day #declare #divine #earth #feared #give #glad #glory #gods #great #greatly #heathen #heavens #holiness #honour #judge #judgment #kindreds #lord #majesty #name #new #people #praise #praised #reigneth #rejoice #righteous #righteously #righteousness #roar #salvation #sanctuary #sea #shew #sing #song #strength #truth #universal #wonders #world #worship
 
 
 ---

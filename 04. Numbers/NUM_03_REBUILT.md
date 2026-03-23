@@ -1,3 +1,25 @@
+---
+book: "Numbers"
+chapter: 3
+testament: "Old Testament"
+key_themes: "The Levites taken as substitutes for all Israel's firstborn males — the theological exchange at the heart of the priestly system, "All the firstborn are mine" — God's claim on every firstborn rooted in the Passover night in Egypt, The three Levitical clans and their specific assignments: Gershon (outer coverings), Kohath (holy furniture), Merari (structural framework), The Levites numbered from one month old and upward — a different count for a different purpose, 22,273 firstborn in Israel vs. 22,000 Levites — the 273 excess are redeemed at five shekels each"
+tags:
+  - Levites-substitute-for-firstborn
+  - all-firstborn-mine
+  - Passover-claim
+  - Gershon-west
+  - Kohath-south
+  - Merari-north
+  - Aaron-and-Moses-east
+  - 22000-Levites
+  - 22273-firstborn
+  - 273-excess-redeemed-five-shekels
+  - stranger-put-to-death
+  - Eleazar-son-of-Aaron
+  - Nadab-Abihu-dead-no-sons
+  - Levites-given-to-Aaron
+  - wholly-given
+---
 # Numbers 3
 
 ---
@@ -67,7 +89,7 @@ The chapter opens with the generations of Aaron and Moses, noting the death of N
 
 
 *AI Keywords for current event matching:*
-`anothers` `christ` `current` `events` `firstborn` `instead` `levites` `matching` `numbers` `place` `someone` `substitute` `substitution` `taking` `typology`
+#anothers #christ #current #events #firstborn #instead #levites #matching #numbers #place #someone #substitute #substitution #taking #typology
 
 
 ---

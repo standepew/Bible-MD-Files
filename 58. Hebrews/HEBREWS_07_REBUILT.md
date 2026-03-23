@@ -1,3 +1,13 @@
+---
+book: "Hebrews"
+chapter: 7
+testament: "New Testament"
+key_themes: "Melchizedek's Priesthood, Christ's Superior Priesthood, Change of Law and Priesthood, Christ's Unchangeable Priesthood"
+tags:
+  - melchizedek
+  - christ
+  - change-of-law-and-priesthood
+---
 # Hebrews 7
 
 ---
@@ -105,7 +115,7 @@ Melchisedec, king, Salem, priest, high, God, met, Abraham, returning, slaughter,
 
 
 *AI Keywords for current event matching:*
-`aaron` `able` `abraham` `altar` `arises` `attendance` `beginning` `better` `blessed` `brethren` `bringing` `called` `carnal` `change` `changed` `christs` `come` `commandment` `consecrated` `consider` `continually` `continue` `continues` `contradiction` `counted` `daily` `days` `death` `descent` `die` `disannulling` `draw` `end` `endless` `evident` `father` `forevermore` `god` `great` `harmless` `heavens` `high` `higher` `holy` `hope` `infirmity` `intercession` `interpretation` `jesus` `juda` `king` `kings` `law` `less` `levi` `levitical` `life` `like` `lives` `liveth` `loins` `lord` `made` `man` `melchisedec` `melchizedeks` `met` `moses` `mother` `needeth` `nigh` `oath` `offer` `offered` `office` `order` `part` `patriarch` `payed` `peace` `people` `perfect` `perfection` `pertaineth` `power` `priest` `priesthood` `priests` `promises` `receive` `received` `receiveth` `repent` `returning` `righteousness` `rise` `sacrifice` `salem` `save` `separate` `similitude` `sinners` `sins` `slaughter` `son` `sons` `spoils` `spoke` `spoken` `sprang` `superior` `surety` `sware` `tenth` `testament` `testifieth` `tithes` `tribe` `unchangeable` `undefiled` `unprofitableness` `uttermost` `weakness` `witnessed`
+#aaron #able #abraham #altar #arises #attendance #beginning #better #blessed #brethren #bringing #called #carnal #change #changed #christs #come #commandment #consecrated #consider #continually #continue #continues #contradiction #counted #daily #days #death #descent #die #disannulling #draw #end #endless #evident #father #forevermore #god #great #harmless #heavens #high #higher #holy #hope #infirmity #intercession #interpretation #jesus #juda #king #kings #law #less #levi #levitical #life #like #lives #liveth #loins #lord #made #man #melchisedec #melchizedeks #met #moses #mother #needeth #nigh #oath #offer #offered #office #order #part #patriarch #payed #peace #people #perfect #perfection #pertaineth #power #priest #priesthood #priests #promises #receive #received #receiveth #repent #returning #righteousness #rise #sacrifice #salem #save #separate #similitude #sinners #sins #slaughter #son #sons #spoils #spoke #spoken #sprang #superior #surety #sware #tenth #testament #testifieth #tithes #tribe #unchangeable #undefiled #unprofitableness #uttermost #weakness #witnessed
 
 
 ---

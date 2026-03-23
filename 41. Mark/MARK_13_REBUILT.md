@@ -1,3 +1,15 @@
+---
+book: "Mark"
+chapter: 13
+testament: "New Testament"
+key_themes: "Christ's Olivet Discourse, Signs of the End, Great Tribulation, Second Coming, Watch and Pray"
+tags:
+  - christ
+  - signs-of-the-end
+  - great-tribulation
+  - second-coming
+  - watch-and-pray
+---
 # Mark 13
 
 ---
@@ -191,7 +203,7 @@ Went, temple, disciple, Master, stones, buildings, Jesus, answering, buildings, 
 
 
 *AI Keywords for current event matching:*
-`abomination` `affliction` `buildings` `christs` `coming` `councils` `darkened` `day` `days` `deceive` `desolation` `discourse` `end` `endure` `false` `far` `fig` `four` `generation` `great` `hour` `house` `journey` `man` `many` `master` `mount` `olives` `olivet` `pass` `pray` `rumours` `second` `signs` `son` `stones` `sun` `synagogues` `tree` `tribulation` `wars` `watch` `winds` `words`
+#abomination #affliction #buildings #christs #coming #councils #darkened #day #days #deceive #desolation #discourse #end #endure #false #far #fig #four #generation #great #hour #house #journey #man #many #master #mount #olives #olivet #pass #pray #rumours #second #signs #son #stones #sun #synagogues #tree #tribulation #wars #watch #winds #words
 
 
 ---

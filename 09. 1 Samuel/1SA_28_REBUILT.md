@@ -1,3 +1,19 @@
+---
+book: "1 Samuel"
+chapter: 28
+testament: "Old Testament"
+key_themes: "Philistine War, Saul's Fear, No Divine Response, Witch of Endor, Samuel's Spirit, Saul's Judgment"
+tags:
+  - Saul-Philistines-afraid-heart-trembled
+  - Saul-sware-LORD-punishment
+  - woman-bring-Saul-Samuel
+  - Samuel-LORD-departed-enemy
+  - philistine-war
+  - saul
+  - no-divine-response
+  - witch-of-endor
+  - samuel
+---
 # 1 Samuel 28
 
 ---
@@ -87,7 +103,7 @@ Philistines gathered armies for warfare to fight Israel. Achish told David assur
 
 
 *AI Keywords for current event matching:*
-`achish` `afraid` `amalek` `armies` `assuredly` `ate` `away` `baked` `battle` `bed` `bowed` `bread` `bring` `brought` `buried` `calf` `called` `city` `compelled` `david` `day` `dead` `deceived` `deliver` `departed` `die` `disguised` `disquieted` `distressed` `divine` `dreams` `earth` `eat` `eaten` `endor` `enemy` `enquire` `enquired` `face` `familiar` `fat` `fear` `fight` `flour` `forbidden` `forever` `form` `gathered` `gilboa` `god` `gods` `ground` `hand` `handmaid` `hastened` `head` `hearken` `hearkened` `heart` `host` `house` `israel` `judgment` `keeper` `killed` `king` `kingdom` `kneaded` `known` `lamented` `land` `life` `lord` `loud` `make` `man` `mantle` `men` `message` `morrow` `morsel` `named` `neighbour` `night` `obeyed` `old` `perceived` `philistine` `philistines` `pitched` `practice` `prophets` `punishment` `raiment` `ramah` `refused` `rent` `rose` `samuel` `samuels` `saul` `sauls` `sawest` `servant` `servants` `shunem` `silence` `snare` `sons` `sore` `spirit` `spirits` `spoke` `stooped` `strength` `sware` `trembled` `troubled` `unleavened` `urim` `voice` `war` `warfare` `way` `witch` `wizards` `woman` `words` `wrath`
+#achish #afraid #amalek #armies #assuredly #ate #away #baked #battle #bed #bowed #bread #bring #brought #buried #calf #called #city #compelled #david #day #dead #deceived #deliver #departed #die #disguised #disquieted #distressed #divine #dreams #earth #eat #eaten #endor #enemy #enquire #enquired #face #familiar #fat #fear #fight #flour #forbidden #forever #form #gathered #gilboa #god #gods #ground #hand #handmaid #hastened #head #hearken #hearkened #heart #host #house #israel #judgment #keeper #killed #king #kingdom #kneaded #known #lamented #land #life #lord #loud #make #man #mantle #men #message #morrow #morsel #named #neighbour #night #obeyed #old #perceived #philistine #philistines #pitched #practice #prophets #punishment #raiment #ramah #refused #rent #rose #samuel #samuels #saul #sauls #sawest #servant #servants #shunem #silence #snare #sons #sore #spirit #spirits #spoke #stooped #strength #sware #trembled #troubled #unleavened #urim #voice #war #warfare #way #witch #wizards #woman #words #wrath
 
 
 ---

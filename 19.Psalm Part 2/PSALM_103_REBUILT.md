@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 103
+testament: "Old Testament"
+key_themes: "Divine Blessing, Forgiveness of Sins, Healing Power, God's Mercy"
+tags:
+  - divine-blessing
+  - forgiveness-of-sins
+  - healing-power
+  - god
+---
 # Psalm 103
 
 ---
@@ -213,7 +224,7 @@ Psalm, David, bless, LORD, soul, bless, holy, name, bless, LORD, soul, forget, b
 
 
 *AI Keywords for current event matching:*
-`angels` `anger` `benefits` `bless` `blessing` `children` `david` `dealt` `diseases` `divine` `dominion` `eagle` `earth` `east` `everlasting` `father` `forget` `forgiveness` `forgiveth` `gods` `good` `gracious` `great` `healeth` `healing` `heaven` `high` `holy` `hosts` `iniquities` `lord` `merciful` `mercy` `mouth` `name` `pitieth` `places` `plenteous` `power` `psalm` `removed` `renewed` `rewarded` `satisfieth` `sins` `slow` `soul` `things` `transgressions` `west` `works` `youth`
+#angels #anger #benefits #bless #blessing #children #david #dealt #diseases #divine #dominion #eagle #earth #east #everlasting #father #forget #forgiveness #forgiveth #gods #good #gracious #great #healeth #healing #heaven #high #holy #hosts #iniquities #lord #merciful #mercy #mouth #name #pitieth #places #plenteous #power #psalm #removed #renewed #rewarded #satisfieth #sins #slow #soul #things #transgressions #west #works #youth
 
 
 ---

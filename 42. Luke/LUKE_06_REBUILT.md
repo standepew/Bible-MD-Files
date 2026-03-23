@@ -1,3 +1,16 @@
+---
+book: "Luke"
+chapter: 6
+testament: "New Testament"
+key_themes: "Lord of the Sabbath, Healing on the Sabbath, Choosing of the Twelve, Beatitudes and Woes, Love for Enemies, Wise and Foolish Builders"
+tags:
+  - lord-of-the-sabbath
+  - healing-on-the-sabbath
+  - choosing-of-the-twelve
+  - beatitudes-and-woes
+  - love-for-enemies
+  - wise-and-foolish-builders
+---
 # Luke 6
 
 ---
@@ -205,7 +218,7 @@ Second, sabbath, corn, fields, disciples, plucked, ears, corn, eat, rubbing, han
 
 
 *AI Keywords for current event matching:*
-`apostles` `beam` `beatitudes` `bless` `blessed` `blind` `builders` `children` `choosing` `communed` `corn` `curse` `day` `enemies` `evil` `eye` `fields` `filled` `foolish` `foundation` `good` `hand` `healing` `highest` `hunger` `iscariot` `judas` `laugh` `lead` `life` `likewise` `lord` `love` `madness` `measure` `mountain` `peter` `poor` `pray` `restored` `rich` `rock` `sabbath` `save` `shewbread` `simon` `twelve` `weep` `whole` `wise` `withered` `woe` `woes`
+#apostles #beam #beatitudes #bless #blessed #blind #builders #children #choosing #communed #corn #curse #day #enemies #evil #eye #fields #filled #foolish #foundation #good #hand #healing #highest #hunger #iscariot #judas #laugh #lead #life #likewise #lord #love #madness #measure #mountain #peter #poor #pray #restored #rich #rock #sabbath #save #shewbread #simon #twelve #weep #whole #wise #withered #woe #woes
 
 
 ---

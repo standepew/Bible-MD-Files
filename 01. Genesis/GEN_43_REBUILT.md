@@ -1,3 +1,35 @@
+---
+book: "Genesis"
+chapter: 43
+testament: "Old Testament"
+key_themes: "The Famine Compels the Second Journey — Jacob Must Release Benjamin, Judah's Surety — "I Will Be Surety for Him", The Brothers Return to Egypt with Benjamin and Double Money, The Steward's Answer — "Your God and the God of Your Father Hath Given You Treasure", Joseph Sees Benjamin — His Bowels Yearned, The Feast — Benjmin's Portion Five Times Greater, Separate Tables — The Boundary Between Hebrew and Egyptian, The Second Fulfillment of the Dreams — All Eleven Bowed"
+tags:
+  - famine-sore-in-land
+  - Jacob-send-again-buy-food
+  - Judah-speaks-man-said-strictly
+  - Judah-surety-for-Benjamin
+  - Jacob-releases-Benjamin
+  - take-double-money
+  - present-for-the-man
+  - Is-your-father-yet-alive
+  - Joseph-sees-Benjamin-bowels-yearned
+  - Joseph-sought-where-to-weep
+  - wept-in-chamber
+  - Benjamin-portion-five-times
+  - Messianic-five-fold
+  - separate-tables
+  - eleven-bowed-second-dream-fulfillment
+  - Simeon-released
+  - Joseph-asked-welfare-of-father
+  - treasure-in-sacks-unexplained-grace
+  - the-famine-compels-the-second-journey
+  - judah
+  - the-brothers-return-to-egypt-with
+  - the-steward
+  - joseph-sees-benjamin
+  - the-feast
+  - the-second-fulfillment-of-the-dreams
+---
 # Genesis 43
 
 ---
@@ -66,7 +98,7 @@ The feast was served with the three groups at three separate tables: the Egyptia
 
 ## KEYWORD INDEX
 
-`famine sore Jacob send again buy food` `Judah you shall not see face without brother` `Reuben offered sons Judah offered self` `I will be surety blame me forever` `Hebrews 7:22 Jesus surety of better covenant` `Romans 5:6-8 while yet sinners Christ died` `arav surety pledge permanent accountability` `take double money present for the man` `balm honey spices myrrh nuts almonds` `Genesis 37:25 same trade goods to Egypt` `steward bring men to house prepare feast` `brothers afraid about the money` `fear not your God gave you treasure in sacks` `I had your money` `Philippians 4:19 God shall supply` `Romans 8:32 freely give all things` `Simeon released` `they bowed to earth before Joseph` `Is your father well yet alive` `they bowed heads made obeisance` `Is this your younger brother` `God be gracious unto thee my son` `Numbers 6:25 Aaronic blessing` `Joseph sought where to weep wept in chamber` `washed face returned restrained himself` `three separate tables Egyptians Joseph brothers` `abomination Egyptians eat with Hebrews` `Benjamin portion five times greater` `Genesis 37:3-4 jealousy over preferential treatment` `Matthew 20:15 eye evil because I am good` `second bow all eleven Genesis 37:9` `they drank were merry with him` `Judah surety type of Christ guarantee` `concealed blessing God be gracious` `five-fold grace tests jealousy`
+#famine-sore-Jacob-send-again-buy-food #Judah-you-shall-not-see-face-without-brother #Reuben-offered-sons-Judah-offered-self #I-will-be-surety-blame-me-forever #Hebrews-722-Jesus-surety-of-better-covenant #Romans-56-8-while-yet-sinners-Christ-died #arav-surety-pledge-permanent-accountability #take-double-money-present-for-the-man #balm-honey-spices-myrrh-nuts-almonds #Genesis-3725-same-trade-goods-to-Egypt #steward-bring-men-to-house-prepare-feast #brothers-afraid-about-the-money #fear-not-your-God-gave-you-treasure-in-sacks #I-had-your-money #Philippians-419-God-shall-supply #Romans-832-freely-give-all-things #Simeon-released #they-bowed-to-earth-before-Joseph #Is-your-father-well-yet-alive #they-bowed-heads-made-obeisance #Is-this-your-younger-brother #God-be-gracious-unto-thee-my-son #Numbers-625-Aaronic-blessing #Joseph-sought-where-to-weep-wept-in-chamber #washed-face-returned-restrained-himself #three-separate-tables-Egyptians-Joseph-brothers #abomination-Egyptians-eat-with-Hebrews #Benjamin-portion-five-times-greater #Genesis-373-4-jealousy-over-preferential-treatment #Matthew-2015-eye-evil-because-I-am-good #second-bow-all-eleven-Genesis-379 #they-drank-were-merry-with-him #Judah-surety-type-of-Christ-guarantee #concealed-blessing-God-be-gracious #five-fold-grace-tests-jealousy
 
 **Current Events Relevance:**
 - The surety — Judah offering himself for Benjamin; applicable in teaching on the atonement, covenant guarantee, and what it means for Christ to be our surety

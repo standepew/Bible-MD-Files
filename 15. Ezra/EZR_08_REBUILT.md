@@ -1,3 +1,16 @@
+---
+book: "Ezra"
+chapter: 8
+testament: "Old Testament"
+key_themes: "Return Journey, Levitical Recruitment, Fasting and Prayer, Sacred Treasures"
+tags:
+  - fasted-besought-GOD-intreated
+  - Jerusalem-abode-three-days
+  - return-journey
+  - levitical-recruitment
+  - fasting-and-prayer
+  - sacred-treasures
+---
 # Ezra 8
 
 ---
@@ -165,7 +178,7 @@ Chief, fathers, genealogy, went, Babylon, reign, Artaxerxes, king. Sons, Phineha
 
 
 *AI Keywords for current event matching:*
-`abode` `adin` `adonikam` `afflict` `ahava` `appointed` `ariel` `artaxerxes` `ashamed` `athaliah` `azgad` `babylon` `band` `basons` `bebai` `besought` `bigvai` `binnui` `brethren` `bullocks` `burnt` `captivity` `carried` `casiphia` `chambers` `chief` `children` `commandment` `commissions` `copper` `counsellors` `daniel` `david` `day` `days` `delivered` `departed` `drams` `ebed` `eight` `eighteen` `elam` `eleazar` `eliezer` `elihoenai` `eliphelet` `elnathan` `enemy` `every` `expressed` `fast` `fasted` `fasting` `fathers` `fifty` `fine` `first` `forsake` `fourscore` `fourth` `freewill` `furthered` `gathered` `genealogy` `gershom` `goats` `god` `gold` `good` `governors` `hakkatan` `hand` `hashabiah` `hattush` `holy` `horsemen` `house` `hundred` `iddo` `intreated` `israel` `ithamar` `jahaziel` `jarib` `jehiel` `jeiel` `jerusalem` `jeshaiah` `jeshua` `joab` `johanan` `joiarib` `jonathan` `josiphiah` `journey` `jozabad` `keep` `king` `lambs` `last` `lay` `levi` `levites` `levitical` `lieutenants` `little` `lord` `lords` `mahli` `males` `man` `men` `merari` `meremoth` `meshullam` `michael` `ministers` `moab` `month` `name` `names` `nathan` `nethinims` `ninety` `noadiah` `number` `obadiah` `offered` `offering` `offerings` `ones` `pahath` `people` `pharosh` `phinehas` `place` `power` `prayer` `precious` `priest` `priests` `princes` `proclaimed` `rams` `recruitment` `reign` `require` `return` `right` `river` `runneth` `sacred` `seek` `sent` `separated` `service` `seven` `seventy` `shechaniah` `shelomith` `shemaiah` `shephatiah` `sherebiah` `side` `silver` `sin` `six` `soldiers` `son` `sons` `spoken` `substance` `talents` `ten` `tents` `thousand` `three` `threescore` `time` `told` `treasures` `twelfth` `twelve` `twenty` `two` `understanding` `uriah` `uthai` `vessels` `viewed` `wait` `watch` `way` `weighed` `weight` `went` `wrath` `written` `zabbud` `zebadiah` `zechariah` `zerahiah`
+#abode #adin #adonikam #afflict #ahava #appointed #ariel #artaxerxes #ashamed #athaliah #azgad #babylon #band #basons #bebai #besought #bigvai #binnui #brethren #bullocks #burnt #captivity #carried #casiphia #chambers #chief #children #commandment #commissions #copper #counsellors #daniel #david #day #days #delivered #departed #drams #ebed #eight #eighteen #elam #eleazar #eliezer #elihoenai #eliphelet #elnathan #enemy #every #expressed #fast #fasted #fasting #fathers #fifty #fine #first #forsake #fourscore #fourth #freewill #furthered #gathered #genealogy #gershom #goats #god #gold #good #governors #hakkatan #hand #hashabiah #hattush #holy #horsemen #house #hundred #iddo #intreated #israel #ithamar #jahaziel #jarib #jehiel #jeiel #jerusalem #jeshaiah #jeshua #joab #johanan #joiarib #jonathan #josiphiah #journey #jozabad #keep #king #lambs #last #lay #levi #levites #levitical #lieutenants #little #lord #lords #mahli #males #man #men #merari #meremoth #meshullam #michael #ministers #moab #month #name #names #nathan #nethinims #ninety #noadiah #number #obadiah #offered #offering #offerings #ones #pahath #people #pharosh #phinehas #place #power #prayer #precious #priest #priests #princes #proclaimed #rams #recruitment #reign #require #return #right #river #runneth #sacred #seek #sent #separated #service #seven #seventy #shechaniah #shelomith #shemaiah #shephatiah #sherebiah #side #silver #sin #six #soldiers #son #sons #spoken #substance #talents #ten #tents #thousand #three #threescore #time #told #treasures #twelfth #twelve #twenty #two #understanding #uriah #uthai #vessels #viewed #wait #watch #way #weighed #weight #went #wrath #written #zabbud #zebadiah #zechariah #zerahiah
 
 
 ---

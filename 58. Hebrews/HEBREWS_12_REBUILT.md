@@ -1,3 +1,15 @@
+---
+book: "Hebrews"
+chapter: 12
+testament: "New Testament"
+key_themes: "The Race of Faith, Christ's Example, Divine Chastening, Pursuit of Holiness, The Heavenly Mount Zion"
+tags:
+  - the-race-of-faith
+  - christ
+  - divine-chastening
+  - pursuit-of-holiness
+  - the-heavenly-mount-zion
+---
 # Hebrews 12
 
 ---
@@ -143,7 +155,7 @@ Cloud, witnesses, lay, aside, weight, sin, beset, run, patience, race, set, look
 
 
 *AI Keywords for current event matching:*
-`abel` `acceptably` `afterward` `against` `angels` `aside` `assembly` `author` `bastards` `beast` `beset` `better` `birthright` `bitterness` `blackness` `blessing` `blood` `burned` `chastened` `chasteneth` `chastening` `chastisement` `children` `christs` `church` `city` `cloud` `commanded` `consider` `consuming` `contradiction` `corrected` `covenant` `cross` `darkness` `dart` `dealeth` `defiled` `despise` `despising` `diligently` `divine` `earth` `endure` `endured` `esau` `escaped` `example` `exceedingly` `exercised` `exhortation` `fail` `faint` `faith` `father` `fathers` `fear` `feeble` `feet` `finisher` `fire` `firstborn` `flesh` `follow` `forgotten` `fornicator` `fruit` `general` `god` `godly` `grace` `grievous` `hand` `hands` `hang` `healed` `heard` `heaven` `heavenly` `holiness` `inherited` `innumerable` `intreated` `jerusalem` `jesus` `joy` `joyous` `judge` `kingdom` `knees` `lame` `lay` `lift` `live` `living` `looking` `lord` `loveth` `made` `meat` `mediator` `men` `minds` `morsel` `moses` `mount` `mountain` `moved` `new` `partakers` `paths` `patience` `peace` `peaceable` `perfect` `person` `place` `pleasure` `present` `profane` `profit` `promised` `pursuit` `quake` `race` `rebuked` `receiveth` `receiving` `refuse` `refused` `rejected` `remain` `removing` `repentance` `resisted` `reverence` `right` `righteousness` `root` `run` `scourgeth` `see` `serve` `set` `shake` `shaken` `shame` `shook` `sight` `signifieth` `sin` `sinners` `sion` `sold` `son` `sons` `sought` `sound` `speak` `speaketh` `spirits` `spoke` `spoken` `springing` `sprinkling` `stoned` `straight` `striving` `subjection` `tears` `tempest` `terrible` `things` `throne` `thrust` `touch` `trouble` `trumpet` `turn` `turned` `voice` `way` `weary` `weight` `without` `witnesses` `word` `words` `written` `zion`
+#abel #acceptably #afterward #against #angels #aside #assembly #author #bastards #beast #beset #better #birthright #bitterness #blackness #blessing #blood #burned #chastened #chasteneth #chastening #chastisement #children #christs #church #city #cloud #commanded #consider #consuming #contradiction #corrected #covenant #cross #darkness #dart #dealeth #defiled #despise #despising #diligently #divine #earth #endure #endured #esau #escaped #example #exceedingly #exercised #exhortation #fail #faint #faith #father #fathers #fear #feeble #feet #finisher #fire #firstborn #flesh #follow #forgotten #fornicator #fruit #general #god #godly #grace #grievous #hand #hands #hang #healed #heard #heaven #heavenly #holiness #inherited #innumerable #intreated #jerusalem #jesus #joy #joyous #judge #kingdom #knees #lame #lay #lift #live #living #looking #lord #loveth #made #meat #mediator #men #minds #morsel #moses #mount #mountain #moved #new #partakers #paths #patience #peace #peaceable #perfect #person #place #pleasure #present #profane #profit #promised #pursuit #quake #race #rebuked #receiveth #receiving #refuse #refused #rejected #remain #removing #repentance #resisted #reverence #right #righteousness #root #run #scourgeth #see #serve #set #shake #shaken #shame #shook #sight #signifieth #sin #sinners #sion #sold #son #sons #sought #sound #speak #speaketh #spirits #spoke #spoken #springing #sprinkling #stoned #straight #striving #subjection #tears #tempest #terrible #things #throne #thrust #touch #trouble #trumpet #turn #turned #voice #way #weary #weight #without #witnesses #word #words #written #zion
 
 
 ---

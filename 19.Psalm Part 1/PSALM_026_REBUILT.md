@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 26
+testament: "Old Testament"
+key_themes: "Prayer for Vindication, Personal Integrity, Separation from Evil, Worship in Truth"
+tags:
+  - prayer-for-vindication
+  - personal-integrity
+  - separation-from-evil
+  - worship-in-truth
+---
 # Psalm 26
 
 ---
@@ -165,7 +176,7 @@ Psalm, David, judge, LORD, walked, integrity, trusted, slide, examine, prove, re
 
 
 *AI Keywords for current event matching:*
-`altar` `bless` `bloody` `compass` `congregation` `congregations` `david` `dissemblers` `dwelleth` `evil` `examine` `eyes` `gather` `habitation` `hands` `hated` `heart` `honour` `house` `innocency` `integrity` `judge` `life` `lord` `loved` `lovingkindness` `men` `merciful` `personal` `persons` `place` `prayer` `prove` `psalm` `publish` `redeem` `reins` `sat` `separation` `sinners` `sit` `slide` `soul` `tell` `thanksgiving` `trusted` `truth` `vain` `vindication` `voice` `walk` `walked` `wash` `wicked` `wondrous` `works` `worship`
+#altar #bless #bloody #compass #congregation #congregations #david #dissemblers #dwelleth #evil #examine #eyes #gather #habitation #hands #hated #heart #honour #house #innocency #integrity #judge #life #lord #loved #lovingkindness #men #merciful #personal #persons #place #prayer #prove #psalm #publish #redeem #reins #sat #separation #sinners #sit #slide #soul #tell #thanksgiving #trusted #truth #vain #vindication #voice #walk #walked #wash #wicked #wondrous #works #worship
 
 
 ---

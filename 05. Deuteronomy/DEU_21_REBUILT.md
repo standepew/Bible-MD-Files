@@ -1,3 +1,109 @@
+---
+book: "Deuteronomy"
+chapter: 21
+testament: "Old Testament"
+key_themes: "Unsolved Murder, Blood Atonement, War Captives, Marriage Regulations, Firstborn Rights, Stubborn Son, Capital Punishment, Hanging on Tree, Land Defilement"
+tags:
+  - found-slain
+  - land-LORD-giveth
+  - lying-field
+  - not-known-slain
+  - elders-judges
+  - measure-cities-roundabout
+  - city-next-slain
+  - elders-city
+  - take-heifer
+  - not-wrought-with
+  - not-drawn-yoke
+  - rough-valley
+  - neither-eared-sown
+  - strike-off-neck
+  - valley
+  - priests-sons-Levi
+  - come-near
+  - chosen-minister
+  - bless-name-LORD
+  - word-controversy
+  - stroke-tried
+  - elders-city
+  - wash-hands
+  - heifer-beheaded
+  - answer-say
+  - hands-not-shed
+  - eyes-not-seen
+  - merciful-LORD
+  - people-Israel
+  - redeemed
+  - lay-not-innocent-blood
+  - charge-people
+  - blood-forgiven
+  - put-away-guilt
+  - innocent-blood
+  - do-which-right
+  - sight-LORD
+  - go-forth-war
+  - enemies
+  - LORD-delivered
+  - taken-captive
+  - seest-captives
+  - beautiful-woman
+  - desire-unto-her
+  - wife
+  - bring-home-house
+  - shave-head
+  - pare-nails
+  - raiment-captivity
+  - remain-house
+  - bewail-father-mother
+  - full-month
+  - go-in-unto-her
+  - husband-wife
+  - no-delight-her
+  - let-her-go
+  - whither-she-will
+  - not-sell-money
+  - not-merchandise
+  - humbled-her
+  - two-wives
+  - one-beloved
+  - another-hated
+  - born-children
+  - beloved-hated
+  - firstborn-son
+  - hated-woman
+  - make-sons-inherit
+  - not-make-beloved-firstborn
+  - hated-firstborn
+  - acknowledge-hated-firstborn
+  - double-portion
+  - beginning-strength
+  - right-firstborn
+  - stubborn-rebellious-son
+  - not-obey-voice-father
+  - not-obey-voice-mother
+  - chastened-him
+  - not-hearken
+  - father-mother-lay-hold
+  - bring-elders-city
+  - gate-place
+  - say-elders-city
+  - stubborn-rebellious
+  - not-obey-voice
+  - glutton-drunkard
+  - men-city-stone-him
+  - die
+  - put-evil-away
+  - Israel-hear-fear
+  - sin-worthy-death
+  - put-to-death
+  - hang-tree
+  - body-not-remain
+  - all-night-tree
+  - bury-day
+  - accursed-God
+  - land-not-defiled
+  - inheritance
+---
 # Deuteronomy 21
 
 ---
@@ -113,7 +219,7 @@ Moses provides regulations for various situations: (1) Unsolved murder—if a sl
 
 
 *AI Keywords for current event matching:*
-`accursed` `acknowledge` `another` `answer` `away` `beautiful` `beginning` `beheaded` `beloved` `bewail` `bless` `blood` `body` `born` `bring` `bury` `captive` `captives` `captivity` `charge` `chastened` `children` `chosen` `cities` `city` `come` `controversy` `day` `death` `defiled` `delight` `delivered` `desire` `die` `double` `drawn` `drunkard` `eared` `elders` `enemies` `evil` `eyes` `father` `fear` `field` `firstborn` `forgiven` `forth` `found` `full` `gate` `giveth` `glutton` `god` `guilt` `hands` `hang` `hanging` `hated` `head` `hear` `hearken` `heifer` `hold` `home` `house` `humbled` `husband` `inherit` `inheritance` `innocent` `israel` `judges` `known` `land` `lay` `let` `levi` `lord` `lying` `make` `marriage` `measure` `men` `merchandise` `merciful` `minister` `money` `month` `mother` `murder` `nails` `name` `near` `neck` `neither` `next` `night` `obey` `off` `one` `pare` `people` `place` `portion` `priests` `put` `raiment` `rebellious` `redeemed` `regulations` `remain` `right` `rights` `rough` `round` `say` `seen` `seest` `sell` `shave` `shed` `sight` `sin` `slain` `son` `sons` `sown` `stone` `strength` `strike` `stroke` `stubborn` `take` `taken` `tree` `tried` `two` `unsolved` `valley` `voice` `war` `wash` `whither` `wife` `wives` `woman` `word` `worthy` `wrought` `yoke`
+#accursed #acknowledge #another #answer #away #beautiful #beginning #beheaded #beloved #bewail #bless #blood #body #born #bring #bury #captive #captives #captivity #charge #chastened #children #chosen #cities #city #come #controversy #day #death #defiled #delight #delivered #desire #die #double #drawn #drunkard #eared #elders #enemies #evil #eyes #father #fear #field #firstborn #forgiven #forth #found #full #gate #giveth #glutton #god #guilt #hands #hang #hanging #hated #head #hear #hearken #heifer #hold #home #house #humbled #husband #inherit #inheritance #innocent #israel #judges #known #land #lay #let #levi #lord #lying #make #marriage #measure #men #merchandise #merciful #minister #money #month #mother #murder #nails #name #near #neck #neither #next #night #obey #off #one #pare #people #place #portion #priests #put #raiment #rebellious #redeemed #regulations #remain #right #rights #rough #round #say #seen #seest #sell #shave #shed #sight #sin #slain #son #sons #sown #stone #strength #strike #stroke #stubborn #take #taken #tree #tried #two #unsolved #valley #voice #war #wash #whither #wife #wives #woman #word #worthy #wrought #yoke
 
 
 ---

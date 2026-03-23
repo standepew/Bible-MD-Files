@@ -1,3 +1,32 @@
+---
+book: "Exodus"
+chapter: 37
+testament: "Old Testament"
+key_themes: "Bezaleel personally makes the Ark and Mercy Seat, The cherubim beaten from one piece with the mercy seat, The Table of Showbread constructed, The Golden Menorah — one talent of pure gold — almond-shaped bowls, The Altar of Incense, The holy anointing oil and pure incense compounded"
+tags:
+  - Bezaleel-makes-ark
+  - shittim-wood
+  - gold-within-and-without
+  - crown-of-gold
+  - mercy-seat
+  - cherubim-one-piece
+  - faces-toward-each-other
+  - faces-toward-mercyseat
+  - table-of-shewbread
+  - gold-vessels
+  - menorah
+  - beaten-work
+  - almond-shaped
+  - seven-lamps
+  - one-talent-gold
+  - incense-altar
+  - foursquare
+  - holy-anointing-oil
+  - pure-incense
+  - apothecary
+  - kapporeth
+  - hilasterion
+---
 # Exodus 37
 
 ---
@@ -69,7 +98,7 @@ Bezaleel himself makes the Ark of shittim wood — 2.5 by 1.5 by 1.5 cubits — 
 
 
 *AI Keywords for current event matching:*
-`atonement` `christ` `current` `events` `exodus` `john` `matching` `mercy` `propitiation` `romans` `seat`
+#atonement #christ #current #events #exodus #john #matching #mercy #propitiation #romans #seat
 
 
 ---

@@ -1,3 +1,14 @@
+---
+book: "Ecclesiastes"
+chapter: 6
+testament: "Old Testament"
+key_themes: "Divine Sovereignty, Human Limitations, Wealth and Misery, Life and Death"
+tags:
+  - divine-sovereignty
+  - human-limitations
+  - wealth-and-misery
+  - life-and-death
+---
 # Ecclesiastes 6
 
 ---
@@ -129,7 +140,7 @@ Evil, seen, sun, common, men, man, God, given, riches, wealth, honour, wanteth, 
 
 
 *AI Keywords for current event matching:*
-`among` `better` `birth` `cannot` `common` `contend` `darkness` `death` `departeth` `divine` `eat` `evil` `filled` `given` `giveth` `god` `good` `honour` `human` `life` `limitations` `men` `mightier` `misery` `power` `riches` `seen` `shadow` `soul` `sovereignty` `spend` `stranger` `sun` `untimely` `wealth`
+#among #better #birth #cannot #common #contend #darkness #death #departeth #divine #eat #evil #filled #given #giveth #god #good #honour #human #life #limitations #men #mightier #misery #power #riches #seen #shadow #soul #sovereignty #spend #stranger #sun #untimely #wealth
 
 
 ---

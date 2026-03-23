@@ -1,3 +1,13 @@
+---
+book: "Daniel"
+chapter: 1
+testament: "Old Testament"
+key_themes: "Christ's Faithfulness, Divine Providence, Godly Wisdom, Christ's Honor"
+tags:
+  - christ
+  - divine-providence
+  - godly-wisdom
+---
 # Daniel 1
 
 ---
@@ -105,7 +115,7 @@ Third, year, reign, Jehoiakim, king, Judah, Nebuchadnezzar, king, Babylon, Jerus
 
 
 *AI Keywords for current event matching:*
-`better` `brought` `christs` `communed` `continued` `cunning` `cyrus` `daniel` `days` `defile` `divine` `faithfulness` `found` `gave` `god` `godly` `honor` `king` `knowledge` `like` `lord` `none` `providence` `pulse` `purposed` `requested` `science` `skilful` `stood` `ten` `times` `understanding` `wisdom`
+#better #brought #christs #communed #continued #cunning #cyrus #daniel #days #defile #divine #faithfulness #found #gave #god #godly #honor #king #knowledge #like #lord #none #providence #pulse #purposed #requested #science #skilful #stood #ten #times #understanding #wisdom
 
 
 ---

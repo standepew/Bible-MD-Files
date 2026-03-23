@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 133
+testament: "Old Testament"
+key_themes: "Unity of Brethren, Anointed Blessing, Divine Favor, Eternal Life"
+tags:
+  - unity-of-brethren
+  - anointed-blessing
+  - divine-favor
+  - eternal-life
+---
 # Psalm 133
 
 ---
@@ -81,7 +92,7 @@ Song, degrees, David, good, pleasant, brethren, dwell, unity, precious, ointment
 
 
 *AI Keywords for current event matching:*
-`aarons` `anointed` `beard` `blessing` `brethren` `commanded` `descended` `dew` `divine` `dwell` `eternal` `favor` `forevermore` `garments` `good` `head` `hermon` `life` `lord` `mountains` `ointment` `pleasant` `precious` `skirts` `together` `unity` `youth` `zion`
+#aarons #anointed #beard #blessing #brethren #commanded #descended #dew #divine #dwell #eternal #favor #forevermore #garments #good #head #hermon #life #lord #mountains #ointment #pleasant #precious #skirts #together #unity #youth #zion
 
 
 ---

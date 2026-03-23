@@ -1,3 +1,13 @@
+---
+book: "Jeremiah"
+chapter: 25
+testament: "Old Testament"
+key_themes: "Christ's Cup, Divine Fury, Seventy Years, Christ's Judgment"
+tags:
+  - christ
+  - divine-fury
+  - seventy-years
+---
 # Jeremiah 25
 
 ---
@@ -117,7 +127,7 @@ Word, Jeremiah, people, Judah, fourth, year, Jehoiakim, son, Josiah, king, Judah
 
 
 *AI Keywords for current event matching:*
-`accomplished` `astonishment` `babylon` `christs` `controversy` `cup` `day` `desolations` `destroy` `divine` `drink` `drunken` `families` `fury` `hand` `high` `howl` `judgment` `king` `lord` `nations` `nebuchadrezzar` `north` `perpetual` `punish` `roar` `servant` `serve` `seventy` `shepherds` `slain` `spue` `take` `wine` `years`
+#accomplished #astonishment #babylon #christs #controversy #cup #day #desolations #destroy #divine #drink #drunken #families #fury #hand #high #howl #judgment #king #lord #nations #nebuchadrezzar #north #perpetual #punish #roar #servant #serve #seventy #shepherds #slain #spue #take #wine #years
 
 
 ---

@@ -1,3 +1,14 @@
+---
+book: "Job"
+chapter: 39
+testament: "Old Testament"
+key_themes: "God's Second Speech, Animal Kingdom, Divine Providence, Human Ignorance"
+tags:
+  - god
+  - animal-kingdom
+  - divine-providence
+  - human-ignorance
+---
 # Job 39
 
 ---
@@ -141,7 +152,7 @@ Wild, goats, rock, bring, hinds, calve, number, months, fulfil, bow, themselves,
 
 
 *AI Keywords for current event matching:*
-`abide` `animal` `ass` `band` `bands` `barn` `barren` `beast` `believe` `bind` `bow` `break` `bring` `calve` `cast` `city` `corn` `crib` `crush` `crying` `divine` `driver` `dust` `dwellings` `earth` `eggs` `fear` `feathers` `foot` `forget` `free` `fulfil` `furrow` `gather` `goats` `gods` `good` `great` `green` `grow` `hardened` `harrow` `hinds` `human` `ignorance` `kingdom` `labour` `land` `leaveth` `liking` `loosed` `months` `mountains` `multitude` `number` `ones` `ostrich` `pasture` `peacocks` `providence` `range` `regardeth` `return` `rock` `scorneth` `searcheth` `second` `seed` `serve` `sorrows` `speech` `strength` `themselves` `trust` `unicorn` `vain` `valleys` `warmeth` `wild` `wilderness` `willing` `wings` `young`
+#abide #animal #ass #band #bands #barn #barren #beast #believe #bind #bow #break #bring #calve #cast #city #corn #crib #crush #crying #divine #driver #dust #dwellings #earth #eggs #fear #feathers #foot #forget #free #fulfil #furrow #gather #goats #gods #good #great #green #grow #hardened #harrow #hinds #human #ignorance #kingdom #labour #land #leaveth #liking #loosed #months #mountains #multitude #number #ones #ostrich #pasture #peacocks #providence #range #regardeth #return #rock #scorneth #searcheth #second #seed #serve #sorrows #speech #strength #themselves #trust #unicorn #vain #valleys #warmeth #wild #wilderness #willing #wings #young
 
 
 ---

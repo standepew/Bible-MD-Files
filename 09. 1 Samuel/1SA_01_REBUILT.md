@@ -1,3 +1,22 @@
+---
+book: "1 Samuel"
+chapter: 1
+testament: "Old Testament"
+key_themes: "Hannah's Barrenness, Elkanah's Family, Shiloh Worship, Peninnah's Provocation, Hannah's Vow, Eli's Misunderstanding, Samuel's Birth, Hannah's Dedication"
+tags:
+  - bitterness-soul-prayed-LORD-wept
+  - Eli-drunken-wine
+  - Elkanah-house-yearly-sacrifice-vow
+  - woman-abode-son-suck-weaned
+  - slew-bullock-child-Eli
+  - child-prayed-LORD-petition-asked
+  - hannah
+  - elkanah
+  - shiloh-worship
+  - peninnah
+  - eli
+  - samuel
+---
 # 1 Samuel 1
 
 ---
@@ -97,7 +116,7 @@ Elkanah of Ramathaim-zophim, an Ephrathite from mount Ephraim, had two wives: Ha
 
 
 *AI Keywords for current event matching:*
-`abide` `abode` `abundance` `adversary` `affliction` `annual` `appear` `asked` `ate` `background` `bare` `belial` `better` `birth` `bitterness` `blessing` `bottle` `bullock` `bullocks` `called` `child` `children` `city` `comfort` `complaint` `conceived` `continued` `countenance` `daughter` `daughters` `days` `decision` `dedication` `drank` `drink` `drunken` `dynamics` `eli` `elihu` `elis` `elkanah` `ephah` `ephraim` `ephrathite` `establish` `explanation` `family` `flour` `forever` `forget` `fret` `give` `god` `good` `grace` `grant` `grief` `grieved` `handmaid` `hannah` `hannahs` `head` `heard` `heart` `hophni` `hosts` `house` `husband` `husbands` `israel` `jeroham` `knew` `lent` `life` `lips` `lived` `liveth` `lord` `loved` `man` `marked` `misunderstanding` `morning` `mount` `mouth` `moved` `offered` `peace` `peninnah` `petition` `phinehas` `portion` `portions` `post` `poured` `prayed` `prayer` `praying` `presentation` `priest` `priests` `provoked` `ramah` `ramathaim-zophim` `razor` `remember` `remembered` `returned` `rose` `sacrifice` `sad` `samuel` `samuels` `seat` `shiloh` `shut` `sight` `slew` `son` `sons` `sorrowful` `soul` `spake` `spirit` `spoken` `strong` `suck` `tarry` `temple` `ten` `testimony` `three` `time` `tohu` `two` `voice` `vow` `vowed` `way` `weaned` `weepest` `wept` `wife` `wine` `wives` `woman` `womb` `word` `worship` `worshipped` `worthy` `year` `yearly` `young` `zuph`
+#abide #abode #abundance #adversary #affliction #annual #appear #asked #ate #background #bare #belial #better #birth #bitterness #blessing #bottle #bullock #bullocks #called #child #children #city #comfort #complaint #conceived #continued #countenance #daughter #daughters #days #decision #dedication #drank #drink #drunken #dynamics #eli #elihu #elis #elkanah #ephah #ephraim #ephrathite #establish #explanation #family #flour #forever #forget #fret #give #god #good #grace #grant #grief #grieved #handmaid #hannah #hannahs #head #heard #heart #hophni #hosts #house #husband #husbands #israel #jeroham #knew #lent #life #lips #lived #liveth #lord #loved #man #marked #misunderstanding #morning #mount #mouth #moved #offered #peace #peninnah #petition #phinehas #portion #portions #post #poured #prayed #prayer #praying #presentation #priest #priests #provoked #ramah #ramathaim-zophim #razor #remember #remembered #returned #rose #sacrifice #sad #samuel #samuels #seat #shiloh #shut #sight #slew #son #sons #sorrowful #soul #spake #spirit #spoken #strong #suck #tarry #temple #ten #testimony #three #time #tohu #two #voice #vow #vowed #way #weaned #weepest #wept #wife #wine #wives #woman #womb #word #worship #worshipped #worthy #year #yearly #young #zuph
 
 
 ---

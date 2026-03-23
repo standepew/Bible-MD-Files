@@ -1,3 +1,13 @@
+---
+book: "Ezekiel"
+chapter: 26
+testament: "Old Testament"
+key_themes: "Christ's Judgment, Tyrus Pride, Divine Destruction, Christ's Glory"
+tags:
+  - christ
+  - tyrus-pride
+  - divine-destruction
+---
 # Ezekiel 26
 
 ---
@@ -105,7 +115,7 @@ Eleventh, year, first, day, month, word, Lord, son, man, Tyrus, Jerusalem, Aha, 
 
 
 *AI Keywords for current event matching:*
-`against` `aha` `break` `christs` `destroy` `destruction` `divine` `dust` `found` `gates` `glory` `jerusalem` `judgment` `laid` `land` `living` `many` `nations` `nebuchadrezzar` `never` `people` `pride` `replenished` `riches` `scrape` `sea` `set` `spoil` `terror` `towers` `tyrus` `walls` `waste` `waves`
+#against #aha #break #christs #destroy #destruction #divine #dust #found #gates #glory #jerusalem #judgment #laid #land #living #many #nations #nebuchadrezzar #never #people #pride #replenished #riches #scrape #sea #set #spoil #terror #towers #tyrus #walls #waste #waves
 
 
 ---

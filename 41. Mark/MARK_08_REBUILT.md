@@ -1,3 +1,15 @@
+---
+book: "Mark"
+chapter: 8
+testament: "New Testament"
+key_themes: "Feeding Four Thousand, Sign of Heaven, Healing of Blind Man, Peter's Confession, Christ's Suffering"
+tags:
+  - feeding-four-thousand
+  - sign-of-heaven
+  - healing-of-blind-man
+  - peter
+  - christ
+---
 # Mark 8
 
 ---
@@ -215,7 +227,7 @@ Multitude, great, nothing, eat, Jesus, disciples, compassion, multitude, three, 
 
 
 *AI Keywords for current event matching:*
-`ashamed` `baskets` `bethsaida` `blind` `christ` `christs` `clearly` `compassion` `confession` `cross` `deny` `feeding` `four` `generation` `healing` `heaven` `house` `life` `loaves` `lose` `man` `multitude` `peter` `peters` `pharisees` `question` `rebuke` `restored` `satan` `seek` `sent` `seven` `sighed` `sign` `son` `soul` `spirit` `suffer` `suffering` `tell` `thousand` `trees` `walking` `world`
+#ashamed #baskets #bethsaida #blind #christ #christs #clearly #compassion #confession #cross #deny #feeding #four #generation #healing #heaven #house #life #loaves #lose #man #multitude #peter #peters #pharisees #question #rebuke #restored #satan #seek #sent #seven #sighed #sign #son #soul #spirit #suffer #suffering #tell #thousand #trees #walking #world
 
 
 ---

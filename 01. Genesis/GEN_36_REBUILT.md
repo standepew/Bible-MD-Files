@@ -1,3 +1,45 @@
+---
+book: "Genesis"
+chapter: 36
+testament: "Old Testament"
+key_themes: "The Toledot of Esau — Who Is Edom, Esau's Wives and Sons Born in Canaan, The Separation of Esau's Household from Jacob — The Land Could Not Bear Both, Esau Settles in Mount Seir, The Horites — The Original Inhabitants Absorbed by Esau's Line, The Chiefs (Alluphim) of Edom Listed by Clan, The Eight Kings of Edom Who Reigned Before Any King Reigned in Israel, The Final Dukes of Edom by Territory, Amalek Introduced — Born from Esau's Grandson — the Seed of Israel's Perpetual Enemy, Bozrah Named — the City That Threads from Genesis to Isaiah 63 and Micah 2, The Complete Documentation of the Non-Covenant Line Before the Joseph Story Begins, God Gave Seir to Esau as He Gave Canaan to Israel — The Providential Allocation of Lands"
+tags:
+  - toledot-Esau
+  - Esau-is-Edom
+  - three-times-stated
+  - Adah-Aholibamah-Bashemath
+  - Eliphaz-Reuel-sons
+  - separation-Esau-Jacob
+  - land-could-not-bear-them
+  - Esau-in-mount-Seir
+  - Horites-Seir-original-inhabitants
+  - alluphim-chiefs
+  - flesh-moves-faster
+  - Amalek-from-Timna-and-Eliphaz
+  - 1-Samuel-15-Saul-Amalek
+  - Haman-Agagite-Esther-3-1
+  - Bozrah-city-of-Edom
+  - Obadiah-1-against-Esau-Edom
+  - Romans-9-13-election
+  - two-nations-from-womb
+  - complete-documentation-non-covenant-line
+  - Cain-Ham-Ishmael-Esau-pattern
+  - Edom-red-color-thread
+  - Isaiah-1-18-scarlet
+  - Revelation-6-4-red-horse
+  - the-toledot-of-esau
+  - esau
+  - the-separation-of-esau
+  - esau-settles-in-mount-seir
+  - the-horites
+  - the-chiefs-of-edom-listed-by
+  - the-eight-kings-of-edom-who
+  - the-final-dukes-of-edom-by
+  - amalek-introduced
+  - bozrah-named
+  - the-complete-documentation-of-the-noncovenant
+  - god-gave-seir-to-esau-as
+---
 # Genesis 36
 
 ---
@@ -120,7 +162,7 @@ The chapter closed with the final territorial dukes of Edom, and with a statemen
 
 For AI matching to topics and current events:
 
-`toledot Esau who is Edom` `three times stated Esau is Edom` `Genesis 25:25 born red admoni` `Genesis 25:30 Edom red stew name` `Esau wives Canaanite Hittite Hivite Ishmaelite` `Genesis 26:34-35 grief of Isaac Rebekah` `separation Esau Jacob land could not bear` `Genesis 13:5-11 Abraham Lot parallel` `covenant land for covenant seed` `Esau settles Mount Seir` `Deuteronomy 2:4-5 God gave Seir to Esau` `Deuteronomy 2:12-22 Horites dispossessed parallel Canaanites` `Acts 17:26 bounds of habitation` `Horites absorbed by Esau's line` `Amalek from Timna and Eliphaz` `Genesis 36:12 single verse longest enmity` `Exodus 17:8-16 Amalek attacks Israel wilderness` `Exodus 17:16 LORD war with Amalek generation to generation` `Deuteronomy 25:17-19 remember Amalek` `1 Samuel 15 Saul fails to destroy Amalek` `to obey better than sacrifice` `Haman Agagite Esther 3:1` `womb enmity Genesis 25:22` `eight kings of Edom` `before any king reigned in Israel` `flesh moves faster than covenant` `Deuteronomy 17:14-20 law of the king` `1 Samuel 8:4-7 rejection of God as king` `Edom no dynasty succession` `Genesis 49:10 sceptre not depart Judah` `2 Samuel 7:12-13 Davidic covenant` `Bozrah city of Edom` `Isaiah 34:6 sacrifice in Bozrah` `Isaiah 63:1 from Edom dyed garments` `Revelation 19:13-15 vesture dipped in blood` `Micah 2:12 sheep of Bozrah` `Obadiah 1:10 violence against brother Jacob` `Malachi 1:2-4 Jacob loved Esau hated` `Romans 9:13 election` `Numbers 20:14-21 Edom refuses passage` `Psalm 137:7 Edom at Jerusalems fall` `Amos 1:11-12 pursued brother with sword` `Isaiah 34:5-17 judgment Idumea` `Ezekiel 25:12-14 perpetual hatred` `alluphim chiefs dukes` `Zechariah 12:5-6 governors of Judah alluphim` `non-covenant line fully documented` `Cain Ham Ishmael Esau pattern` `Edom red color thread` `Isaiah 1:18 scarlet white as snow` `Revelation 6:4 red horse` `Esau father of Edomites` `two nations from womb` `brotherly conflict national enmity`
+#toledot-Esau-who-is-Edom #three-times-stated-Esau-is-Edom #Genesis-2525-born-red-admoni #Genesis-2530-Edom-red-stew-name #Esau-wives-Canaanite-Hittite-Hivite-Ishmaelite #Genesis-2634-35-grief-of-Isaac-Rebekah #separation-Esau-Jacob-land-could-not-bear #Genesis-135-11-Abraham-Lot-parallel #covenant-land-for-covenant-seed #Esau-settles-Mount-Seir #Deuteronomy-24-5-God-gave-Seir-to-Esau #Deuteronomy-212-22-Horites-dispossessed-parallel-Canaanites #Acts-1726-bounds-of-habitation #Horites-absorbed-by-Esaus-line #Amalek-from-Timna-and-Eliphaz #Genesis-3612-single-verse-longest-enmity #Exodus-178-16-Amalek-attacks-Israel-wilderness #Exodus-1716-LORD-war-with-Amalek-generation-to-generation #Deuteronomy-2517-19-remember-Amalek #1-Samuel-15-Saul-fails-to-destroy-Amalek #to-obey-better-than-sacrifice #Haman-Agagite-Esther-31 #womb-enmity-Genesis-2522 #eight-kings-of-Edom #before-any-king-reigned-in-Israel #flesh-moves-faster-than-covenant #Deuteronomy-1714-20-law-of-the-king #1-Samuel-84-7-rejection-of-God-as-king #Edom-no-dynasty-succession #Genesis-4910-sceptre-not-depart-Judah #2-Samuel-712-13-Davidic-covenant #Bozrah-city-of-Edom #Isaiah-346-sacrifice-in-Bozrah #Isaiah-631-from-Edom-dyed-garments #Revelation-1913-15-vesture-dipped-in-blood #Micah-212-sheep-of-Bozrah #Obadiah-110-violence-against-brother-Jacob #Malachi-12-4-Jacob-loved-Esau-hated #Romans-913-election #Numbers-2014-21-Edom-refuses-passage #Psalm-1377-Edom-at-Jerusalems-fall #Amos-111-12-pursued-brother-with-sword #Isaiah-345-17-judgment-Idumea #Ezekiel-2512-14-perpetual-hatred #alluphim-chiefs-dukes #Zechariah-125-6-governors-of-Judah-alluphim #non-covenant-line-fully-documented #Cain-Ham-Ishmael-Esau-pattern #Edom-red-color-thread #Isaiah-118-scarlet-white-as-snow #Revelation-64-red-horse #Esau-father-of-Edomites #two-nations-from-womb #brotherly-conflict-national-enmity
 
 **Relevance to Current Events:**
 - National enmity rooted in family fracture — the Esau/Edom thread showed that brotherly conflict could institutionalize across generations into national enmity; applicable in discussions of ethnic conflict, inter-generational grievance, and the theology of reconciliation vs. judgment

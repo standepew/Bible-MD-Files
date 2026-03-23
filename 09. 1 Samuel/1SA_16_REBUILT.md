@@ -1,3 +1,17 @@
+---
+book: "1 Samuel"
+chapter: 16
+testament: "Old Testament"
+key_themes: "David Anointed, God's Choice by Heart, Spirit Departs from Saul, Evil Spirit Troubles Saul, David's Music Brings Relief"
+tags:
+  - looked-Eliab-LORD-anointed
+  - David-Saul-stood-loved-armourbearer
+  - david-anointed
+  - god
+  - spirit-departs-from-saul
+  - evil-spirit-troubles-saul
+  - david
+---
 # 1 Samuel 16
 
 ---
@@ -87,7 +101,7 @@ The LORD told Samuel how long he'd mourn for Saul since He rejected him from rei
 
 
 *AI Keywords for current event matching:*
-`abinadab` `anoint` `anointed` `anointing` `appearance` `arise` `armourbearer` `ass` `beautiful` `beth-lehem` `beth-lehemite` `bottle` `bread` `brethren` `bring` `brought` `children` `chosen` `come` `comely` `coming` `command` `countenance` `cunning` `david` `davids` `day` `departed` `divine` `down` `elders` `eliab` `evil` `favour` `fetch` `god` `goodly` `hand` `harp` `healing` `hear` `heart` `heifer` `height` `horn` `israel` `jesse` `kid` `kill` `king` `laden` `looked` `lord` `loved` `man` `matters` `messengers` `mighty` `mourn` `musical` `name` `oil` `outward` `pass` `peaceably` `person` `play` `played` `player` `playing` `provided` `prudent` `ramah` `refreshed` `refused` `reigning` `rejected` `ruddy` `sacrifice` `samuel` `sanctify` `saul` `seek` `seeth` `selection` `sent` `servants` `service` `seven` `shammah` `sheep` `shew` `sight` `sit` `son` `sons` `spirit` `stand` `stature` `stood` `town` `transfer` `trembled` `troubled` `valiant` `war` `well` `wine` `youngest`
+#abinadab #anoint #anointed #anointing #appearance #arise #armourbearer #ass #beautiful #beth-lehem #beth-lehemite #bottle #bread #brethren #bring #brought #children #chosen #come #comely #coming #command #countenance #cunning #david #davids #day #departed #divine #down #elders #eliab #evil #favour #fetch #god #goodly #hand #harp #healing #hear #heart #heifer #height #horn #israel #jesse #kid #kill #king #laden #looked #lord #loved #man #matters #messengers #mighty #mourn #musical #name #oil #outward #pass #peaceably #person #play #played #player #playing #provided #prudent #ramah #refreshed #refused #reigning #rejected #ruddy #sacrifice #samuel #sanctify #saul #seek #seeth #selection #sent #servants #service #seven #shammah #sheep #shew #sight #sit #son #sons #spirit #stand #stature #stood #town #transfer #trembled #troubled #valiant #war #well #wine #youngest
 
 
 ---

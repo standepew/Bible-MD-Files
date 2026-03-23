@@ -1,3 +1,19 @@
+---
+book: "1 Kings"
+chapter: 7
+testament: "Old Testament"
+key_themes: "Solomon's Palace, Bronze Work, Hiram's Craftsmanship, Temple Furnishings, Sacred Vessels"
+tags:
+  - Solomon-fetched-Hiram-Tyre
+  - work-bases-borders-borders-ledges
+  - ten-bases-ten-lavers-bases
+  - sea-twelve-oxen-sea
+  - solomon
+  - bronze-work
+  - hiram
+  - temple-furnishings
+  - sacred-vessels
+---
 # 1 Kings 7
 
 ---
@@ -87,7 +103,7 @@ Solomon building house thirteen years, finished house. House forest Lebanon, len
 
 
 *AI Keywords for current event matching:*
-`above` `addition` `additions` `against` `altar` `axletrees` `base` `bases` `basons` `baths` `beam` `beams` `belly` `boaz` `borders` `bowls` `brasen` `brass` `breadth` `bright` `brim` `bronze` `brought` `building` `candlesticks` `cast` `casting` `cedar` `cedars` `censers` `chain` `chapiter` `chapiters` `chariot` `checker` `cherubims` `clay` `compass` `compassing` `construction` `coping` `corners` `costly` `court` `cover` `covered` `craftsmanship` `cubit` `cubits` `cunning` `cup` `daughter` `david` `dedicated` `doors` `dwelt` `east` `eastward` `eight` `eighteen` `exceeding` `father` `felloes` `fetched` `fifteen` `fifty` `finished` `five` `floor` `flowers` `forest` `forty` `found` `foundation` `four` `foursquare` `gold` `graved` `gravings` `great` `ground` `half` `hand` `height` `hewed` `high` `hinges` `hiram` `hirams` `holy` `house` `hundred` `inner` `inward` `jachin` `joined` `jordan` `judge` `judgment` `king` `knops` `lamps` `laver` `lavers` `lebanon` `ledges` `left` `length` `light` `lilies` `lily` `line` `lions` `lord` `many` `materials` `measure` `measures` `molten` `mouth` `naphtali` `naves` `nets` `network` `networks` `north` `one` `oracle` `outside` `oxen` `palace` `palm` `pharaoh` `pillar` `pillars` `place` `plain` `plates` `pomegranates` `porch` `posts` `pots` `proportion` `pure` `ranks` `right` `round` `row` `rows` `royal` `saws` `sea` `seven` `shewbread` `shovels` `side` `silver` `size` `snuffers` `solomon` `son` `south` `spokes` `spoons` `square` `stones` `stood` `succoth` `table` `temple` `ten` `thick` `thin` `thirteen` `thirty` `thousand` `three` `throne` `tongs` `top` `tops` `treasures` `trees` `tribe` `twelve` `two` `tyre` `undersetters` `understanding` `unweighed` `vessels` `weight` `west` `wheel` `wheels` `widows` `wife` `windows` `wisdom` `within` `without` `work` `worker` `wreaths` `years` `zarthan`
+#above #addition #additions #against #altar #axletrees #base #bases #basons #baths #beam #beams #belly #boaz #borders #bowls #brasen #brass #breadth #bright #brim #bronze #brought #building #candlesticks #cast #casting #cedar #cedars #censers #chain #chapiter #chapiters #chariot #checker #cherubims #clay #compass #compassing #construction #coping #corners #costly #court #cover #covered #craftsmanship #cubit #cubits #cunning #cup #daughter #david #dedicated #doors #dwelt #east #eastward #eight #eighteen #exceeding #father #felloes #fetched #fifteen #fifty #finished #five #floor #flowers #forest #forty #found #foundation #four #foursquare #gold #graved #gravings #great #ground #half #hand #height #hewed #high #hinges #hiram #hirams #holy #house #hundred #inner #inward #jachin #joined #jordan #judge #judgment #king #knops #lamps #laver #lavers #lebanon #ledges #left #length #light #lilies #lily #line #lions #lord #many #materials #measure #measures #molten #mouth #naphtali #naves #nets #network #networks #north #one #oracle #outside #oxen #palace #palm #pharaoh #pillar #pillars #place #plain #plates #pomegranates #porch #posts #pots #proportion #pure #ranks #right #round #row #rows #royal #saws #sea #seven #shewbread #shovels #side #silver #size #snuffers #solomon #son #south #spokes #spoons #square #stones #stood #succoth #table #temple #ten #thick #thin #thirteen #thirty #thousand #three #throne #tongs #top #tops #treasures #trees #tribe #twelve #two #tyre #undersetters #understanding #unweighed #vessels #weight #west #wheel #wheels #widows #wife #windows #wisdom #within #without #work #worker #wreaths #years #zarthan
 
 
 ---

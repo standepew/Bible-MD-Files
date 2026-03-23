@@ -1,3 +1,13 @@
+---
+book: "Song of Solomon"
+chapter: 5
+testament: "Old Testament"
+key_themes: "Spiritual Intimacy, Christ's Absence, Bride's Longing, Christ's Glory"
+tags:
+  - spiritual-intimacy
+  - christ
+  - bride
+---
 # Song of Solomon 5
 
 ---
@@ -189,7 +199,7 @@ Come, garden, sister, spouse, gathered, myrrh, spice, eaten, honeycomb, honey, d
 
 
 *AI Keywords for current event matching:*
-`absence` `altogether` `beloved` `brides` `charge` `chiefest` `christs` `come` `daughters` `failed` `find` `garden` `glory` `honey` `honeycomb` `intimacy` `knocketh` `longing` `love` `lovely` `milk` `opened` `ruddy` `sick` `sought` `soul` `spiritual` `ten` `thousand` `white` `wine` `withdrawn`
+#absence #altogether #beloved #brides #charge #chiefest #christs #come #daughters #failed #find #garden #glory #honey #honeycomb #intimacy #knocketh #longing #love #lovely #milk #opened #ruddy #sick #sought #soul #spiritual #ten #thousand #white #wine #withdrawn
 
 
 ---

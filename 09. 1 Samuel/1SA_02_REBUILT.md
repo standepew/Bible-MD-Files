@@ -1,3 +1,21 @@
+---
+book: "1 Samuel"
+chapter: 2
+testament: "Old Testament"
+key_themes: "Hannah's Prayer, God's Sovereignty, Eli's Wicked Sons, Samuel's Ministry, God's Judgment, Man of God's Prophecy, Faithful Priest Promised"
+tags:
+  - holy-LORD-rock-God
+  - bows-mighty-broken-stumbled-strength
+  - fleshhook-priest-Shiloh-Israelites
+  - sons-evil-dealings-people
+  - good-report-LORD-people-transgress
+  - hannah
+  - god
+  - eli
+  - samuel
+  - man-of-god
+  - faithful-priest-promised
+---
 # 1 Samuel 2
 
 ---
@@ -83,7 +101,7 @@ Hannah prays, rejoicing in the LORD with her horn exalted and mouth enlarged ove
 
 
 *AI Keywords for current event matching:*
-`abhorred` `actions` `adversaries` `age` `altar` `anointed` `appear` `arm` `arrogancy` `bare` `barren` `beggar` `belial` `blessed` `born` `bows` `bread` `bring` `broken` `burn` `burnt` `caldron` `ceased` `chiefest` `child` `children` `choose` `coat` `conceived` `congregation` `consume` `crouch` `custom` `cut` `darkness` `daughters` `day` `days` `dealings` `desire` `despise` `die` `door` `dunghill` `dust` `earth` `eat` `egypt` `eli` `elis` `elkanah` `ends` `enemies` `enemy` `enlarged` `ephod` `esteemed` `evil` `exalted` `eyes` `faithful` `family` `far` `fat` `father` `favour` `feeble` `feet` `fire` `flesh` `fleshhook` `flower` `force` `forever` `full` `give` `glory` `god` `gods` `good` `grave` `great` `grew` `grieve` `habitation` `hannah` `hannahs` `heard` `hearkened` `heart` `heaven` `hired` `holy` `home` `honour` `hophni` `horn` `house` `hungry` `husband` `incense` `increase` `intreat` `israel` `israelites` `judge` `judgment` `kettle` `kick` `killeth` `king` `knew` `knowledge` `life` `lift` `lightly` `linen` `loan` `lord` `low` `maketh` `man` `men` `mighty` `mind` `minister` `ministered` `ministry` `morsel` `mother` `mouth` `nay` `offering` `offerings` `offices` `old` `pan` `people` `pharaoh` `phinehas` `piece` `pieces` `pillars` `plainly` `poor` `pot` `prayed` `prayer` `prevail` `priest` `priests` `princes` `proudly` `ramah` `raw` `rejoice` `rejoiceth` `report` `rich` `roast` `rock` `sacrifice` `sacrificed` `saints` `salvation` `samuel` `samuels` `seed` `seething` `servant` `set` `seven` `shiloh` `sign` `silent` `silver` `sin` `slay` `sodden` `sons` `soul` `strength` `stumbled` `sure` `tabernacle` `take` `teeth` `three` `throne` `thunder` `transgress` `tribes` `two` `visited` `walk` `wealth` `weighed` `wicked` `wife` `woman` `women` `world` `year` `yearly` `young`
+#abhorred #actions #adversaries #age #altar #anointed #appear #arm #arrogancy #bare #barren #beggar #belial #blessed #born #bows #bread #bring #broken #burn #burnt #caldron #ceased #chiefest #child #children #choose #coat #conceived #congregation #consume #crouch #custom #cut #darkness #daughters #day #days #dealings #desire #despise #die #door #dunghill #dust #earth #eat #egypt #eli #elis #elkanah #ends #enemies #enemy #enlarged #ephod #esteemed #evil #exalted #eyes #faithful #family #far #fat #father #favour #feeble #feet #fire #flesh #fleshhook #flower #force #forever #full #give #glory #god #gods #good #grave #great #grew #grieve #habitation #hannah #hannahs #heard #hearkened #heart #heaven #hired #holy #home #honour #hophni #horn #house #hungry #husband #incense #increase #intreat #israel #israelites #judge #judgment #kettle #kick #killeth #king #knew #knowledge #life #lift #lightly #linen #loan #lord #low #maketh #man #men #mighty #mind #minister #ministered #ministry #morsel #mother #mouth #nay #offering #offerings #offices #old #pan #people #pharaoh #phinehas #piece #pieces #pillars #plainly #poor #pot #prayed #prayer #prevail #priest #priests #princes #proudly #ramah #raw #rejoice #rejoiceth #report #rich #roast #rock #sacrifice #sacrificed #saints #salvation #samuel #samuels #seed #seething #servant #set #seven #shiloh #sign #silent #silver #sin #slay #sodden #sons #soul #strength #stumbled #sure #tabernacle #take #teeth #three #throne #thunder #transgress #tribes #two #visited #walk #wealth #weighed #wicked #wife #woman #women #world #year #yearly #young
 
 
 ---

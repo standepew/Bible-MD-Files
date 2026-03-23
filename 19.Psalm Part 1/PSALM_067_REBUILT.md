@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 67
+testament: "Old Testament"
+key_themes: "God's Mercy, Universal Praise, Divine Governance, Earth's Increase"
+tags:
+  - god
+  - universal-praise
+  - divine-governance
+  - earth
+---
 # Psalm 67
 
 ---
@@ -105,7 +116,7 @@ Chief, Musician, Neginoth, Psalm, Song, GOD, merciful, bless, cause, face, shine
 
 
 *AI Keywords for current event matching:*
-`bless` `cause` `chief` `divine` `earth` `earths` `ends` `face` `fear` `glad` `god` `gods` `govern` `governance` `increase` `joy` `judge` `merciful` `mercy` `musician` `nations` `neginoth` `people` `praise` `psalm` `righteously` `shine` `sing` `song` `universal` `yield`
+#bless #cause #chief #divine #earth #earths #ends #face #fear #glad #god #gods #govern #governance #increase #joy #judge #merciful #mercy #musician #nations #neginoth #people #praise #psalm #righteously #shine #sing #song #universal #yield
 
 
 ---

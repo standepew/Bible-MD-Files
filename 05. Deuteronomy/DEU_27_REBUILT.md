@@ -1,3 +1,97 @@
+---
+book: "Deuteronomy"
+chapter: 27
+testament: "Old Testament"
+key_themes: "Covenant Renewal, Memorial Stones, Altar Construction, Law Writing, Mount Gerizim Blessings, Mount Ebal Curses, Twelve Tribal Divisions, Levitical Pronouncements, Covenant Amen"
+tags:
+  - Moses-elders-Israel
+  - commanded-people
+  - keep-commandments
+  - day-pass-Jordan
+  - land-LORD-giveth
+  - set-great-stones
+  - plaister-plaister
+  - write-upon-stones
+  - words-law
+  - passed-over
+  - go-land
+  - LORD-giveth
+  - milk-honey
+  - LORD-God-fathers
+  - promised
+  - gone-over-Jordan
+  - set-stones
+  - command-day
+  - mount-Ebal
+  - plaister-plaister
+  - build-altar
+  - LORD-God
+  - altar-stones
+  - not-lift-iron-tool
+  - build-altar-LORD
+  - whole-stones
+  - offer-burnt-offerings
+  - LORD-God
+  - offer-peace-offerings
+  - eat-rejoice-LORD-God
+  - write-stones-words-law
+  - plainly
+  - Moses-priests-Levites
+  - spake-Israel
+  - take-hearken-Israel
+  - day-become-people-LORD-God
+  - obey-voice-LORD-God
+  - commandments-statutes
+  - command-day
+  - Moses-charged-people
+  - stand-mount-Gerizim
+  - bless-people
+  - come-over-Jordan
+  - Simeon-Levi-Judah
+  - Issachar-Joseph-Benjamin
+  - stand-mount-Ebal
+  - curse
+  - Reuben-Gad-Asher
+  - Zebulun-Dan-Naphtali
+  - Levites-speak
+  - loud-voice
+  - men-Israel
+  - Cursed-man
+  - graven-molten-image
+  - abomination-LORD
+  - hands-craftsman
+  - secret-place
+  - people-answer-Amen
+  - Cursed-setteth-light
+  - father-mother
+  - people-say-Amen
+  - Cursed-removeth-landmark
+  - people-say-Amen
+  - Cursed-maketh-blind-wander
+  - people-say-Amen
+  - Cursed-perverteth-judgment
+  - stranger-fatherless-widow
+  - people-say-Amen
+  - Cursed-lieth-father-wife
+  - uncovereth-father-skirt
+  - people-say-Amen
+  - Cursed-lieth-beast
+  - people-say-Amen
+  - Cursed-lieth-sister
+  - daughter-father
+  - daughter-mother
+  - people-say-Amen
+  - Cursed-lieth-mother-law
+  - people-say-Amen
+  - Cursed-smiteth-neighbour-secretly
+  - people-say-Amen
+  - Cursed-taketh-reward
+  - slay-innocent
+  - people-say-Amen
+  - Cursed-confirmeth-not-words-law
+  - do-them
+  - people-say-Amen
+---
 # Deuteronomy 27
 
 ---
@@ -99,7 +193,7 @@ Moses commands Israel to keep all God's commandments when they cross Jordan into
 
 
 *AI Keywords for current event matching:*
-`abomination` `altar` `amen` `answer` `asher` `assignment` `beast` `become` `benjamin` `bless` `blind` `build` `burnt` `charged` `come` `command` `commanded` `commandments` `commands` `confirmeth` `construction` `covenant` `craftsman` `curse` `cursed` `curses` `dan` `daughter` `day` `declaration` `eat` `ebal` `elders` `father` `fatherless` `fathers` `gad` `gerizim` `giveth` `god` `gone` `graven` `great` `hands` `hearken` `honey` `image` `innocent` `iron` `israel` `issachar` `jordan` `joseph` `judah` `judgment` `keep` `land` `landmark` `law` `levi` `levites` `levitical` `lieth` `lift` `light` `lord` `loud` `maketh` `man` `memorial` `men` `milk` `molten` `moses` `mother` `mount` `naphtali` `neighbour` `obey` `offer` `offerings` `pass` `passed` `peace` `people` `perverteth` `place` `plainly` `plaister` `priests` `promised` `pronouncements` `rejoice` `removeth` `reuben` `reward` `say` `secret` `secretly` `set` `setteth` `simeon` `sister` `skirt` `slay` `smiteth` `spake` `speak` `stand` `statutes` `stones` `stranger` `take` `taketh` `tool` `tribal` `twelve` `uncovereth` `voice` `wander` `whole` `widow` `wife` `words` `write` `zebulun`
+#abomination #altar #amen #answer #asher #assignment #beast #become #benjamin #bless #blind #build #burnt #charged #come #command #commanded #commandments #commands #confirmeth #construction #covenant #craftsman #curse #cursed #curses #dan #daughter #day #declaration #eat #ebal #elders #father #fatherless #fathers #gad #gerizim #giveth #god #gone #graven #great #hands #hearken #honey #image #innocent #iron #israel #issachar #jordan #joseph #judah #judgment #keep #land #landmark #law #levi #levites #levitical #lieth #lift #light #lord #loud #maketh #man #memorial #men #milk #molten #moses #mother #mount #naphtali #neighbour #obey #offer #offerings #pass #passed #peace #people #perverteth #place #plainly #plaister #priests #promised #pronouncements #rejoice #removeth #reuben #reward #say #secret #secretly #set #setteth #simeon #sister #skirt #slay #smiteth #spake #speak #stand #statutes #stones #stranger #take #taketh #tool #tribal #twelve #uncovereth #voice #wander #whole #widow #wife #words #write #zebulun
 
 
 ---

@@ -1,3 +1,13 @@
+---
+book: "Jeremiah"
+chapter: 11
+testament: "Old Testament"
+key_themes: "Christ's Covenant, Covenant Breaking, Divine Vengeance, Christ's Persecution"
+tags:
+  - christ
+  - covenant-breaking
+  - divine-vengeance
+---
 # Jeremiah 11
 
 ---
@@ -105,7 +115,7 @@ Word, Jeremiah, LORD, saying, Hear, words, covenant, speak, men, Judah, inhabita
 
 
 *AI Keywords for current event matching:*
-`breaking` `bring` `broken` `brought` `christs` `conspiracy` `covenant` `cry` `devices` `devised` `die` `divine` `escape` `evil` `flowing` `found` `god` `gods` `hand` `hearken` `honey` `iniquities` `lamb` `land` `life` `milk` `obey` `people` `persecution` `punish` `seek` `slaughter` `turned` `vengeance` `visitation` `voice` `went` `words` `year`
+#breaking #bring #broken #brought #christs #conspiracy #covenant #cry #devices #devised #die #divine #escape #evil #flowing #found #god #gods #hand #hearken #honey #iniquities #lamb #land #life #milk #obey #people #persecution #punish #seek #slaughter #turned #vengeance #visitation #voice #went #words #year
 
 
 ---

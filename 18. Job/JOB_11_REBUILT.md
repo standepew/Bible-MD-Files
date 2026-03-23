@@ -1,3 +1,27 @@
+---
+book: "Job"
+chapter: 11
+testament: "Old Testament"
+key_themes: "Zophar's Speech, Divine Wisdom, Human Limitation, Promise of Restoration"
+tags:
+  - lies-hold-peace-mockest-ashamed
+  - doctrine-pure-clean-eyes
+  - searching-God-Almighty-perfection
+  - high-heaven-deeper-hell
+  - measure-longer-earth-broader-sea
+  - cut-shut-gather-hinder
+  - vain-men-wickedness-consider
+  - vain-wise-wild-ass-colt
+  - prepare-heart-stretch-hands
+  - iniquity-hand-wickedness-tabernacles
+  - lift-face-spot-stedfast-fear
+  - secure-hope-dig-rest-safety
+  - lie-down-afraid-suit
+  - zophar
+  - divine-wisdom
+  - human-limitation
+  - promise-of-restoration
+---
 # Job 11
 
 ---
@@ -129,7 +153,7 @@ Zophar, Naamathite, answered, multitude, words, justified. Lies, hold, peace, mo
 
 
 *AI Keywords for current event matching:*
-`almighty` `answered` `ashamed` `ass` `broader` `clean` `colt` `consider` `cut` `deeper` `divine` `doctrine` `double` `earth` `eyes` `face` `fear` `gather` `god` `hand` `hands` `heart` `heaven` `hell` `high` `hinder` `hold` `human` `iniquity` `justified` `lies` `lift` `limitation` `lips` `longer` `measure` `men` `mockest` `multitude` `naamathite` `open` `peace` `perfection` `prepare` `promise` `pure` `restoration` `sea` `searching` `secrets` `shut` `speak` `speech` `spot` `stedfast` `stretch` `tabernacles` `vain` `wickedness` `wild` `wisdom` `wise` `words` `zophar` `zophars`
+#almighty #answered #ashamed #ass #broader #clean #colt #consider #cut #deeper #divine #doctrine #double #earth #eyes #face #fear #gather #god #hand #hands #heart #heaven #hell #high #hinder #hold #human #iniquity #justified #lies #lift #limitation #lips #longer #measure #men #mockest #multitude #naamathite #open #peace #perfection #prepare #promise #pure #restoration #sea #searching #secrets #shut #speak #speech #spot #stedfast #stretch #tabernacles #vain #wickedness #wild #wisdom #wise #words #zophar #zophars
 
 
 ---

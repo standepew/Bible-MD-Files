@@ -1,3 +1,14 @@
+---
+book: "Matthew"
+chapter: 19
+testament: "New Testament"
+key_themes: "Christ's Marriage Teaching, Rich Young Ruler, Cost of Discipleship, Eternal Reward"
+tags:
+  - christ
+  - rich-young-ruler
+  - cost-of-discipleship
+  - eternal-reward
+---
 # Matthew 19
 
 ---
@@ -141,7 +152,7 @@ Jesus, finished, sayings, departed, Galilee, coasts, Judaea, beyond, Jordan, mul
 
 
 *AI Keywords for current event matching:*
-`camel` `christs` `commandments` `cost` `discipleship` `eternal` `everlasting` `exception` `female` `flesh` `fornication` `forsaken` `god` `good` `great` `hast` `heaven` `hundredfold` `impossible` `joined` `keep` `life` `male` `marriage` `master` `needle` `one` `possessions` `regeneration` `reward` `rich` `ruler` `sell` `teaching` `throne` `thrones` `treasure` `twelve` `young`
+#camel #christs #commandments #cost #discipleship #eternal #everlasting #exception #female #flesh #fornication #forsaken #god #good #great #hast #heaven #hundredfold #impossible #joined #keep #life #male #marriage #master #needle #one #possessions #regeneration #reward #rich #ruler #sell #teaching #throne #thrones #treasure #twelve #young
 
 
 ---

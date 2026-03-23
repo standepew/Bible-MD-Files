@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 113
+testament: "Old Testament"
+key_themes: "Universal Praise, God's Exaltation, Divine Humility, Lifting the Lowly"
+tags:
+  - universal-praise
+  - god
+  - divine-humility
+  - lifting-the-lowly
+---
 # Psalm 113
 
 ---
@@ -141,7 +152,7 @@ Praise, LORD, servants, LORD, praise, name, LORD, Blessed, name, LORD, time, for
 
 
 *AI Keywords for current event matching:*
-`barren` `behold` `blessed` `children` `divine` `dunghill` `dust` `dwelleth` `earth` `exaltation` `forevermore` `forth` `glory` `god` `gods` `going` `heaven` `heavens` `high` `house` `humbleth` `humility` `joyful` `keep` `lifteth` `lifting` `like` `lord` `lowly` `maketh` `mother` `name` `nations` `needy` `people` `poor` `praise` `praised` `princes` `raiseth` `rising` `servants` `set` `sun` `things` `time` `universal` `woman`
+#barren #behold #blessed #children #divine #dunghill #dust #dwelleth #earth #exaltation #forevermore #forth #glory #god #gods #going #heaven #heavens #high #house #humbleth #humility #joyful #keep #lifteth #lifting #like #lord #lowly #maketh #mother #name #nations #needy #people #poor #praise #praised #princes #raiseth #rising #servants #set #sun #things #time #universal #woman
 
 
 ---

@@ -1,3 +1,13 @@
+---
+book: "Acts"
+chapter: 11
+testament: "New Testament"
+key_themes: "Peter Reports to Jerusalem, The Church in Antioch, The First Christians"
+tags:
+  - peter-reports-to-jerusalem
+  - the-church-in-antioch
+  - the-first-christians
+---
 # Acts 11
 
 ---
@@ -127,7 +137,7 @@ Apostles, brethren, Judaea, heard, Gentiles, received, word, God, Peter, Jerusal
 
 
 *AI Keywords for current event matching:*
-`ability` `abroad` `accompanied` `added` `agabus` `air` `angel` `answered` `antioch` `apostles` `arise` `arose` `assembled` `bade` `baptized` `barnabas` `beasts` `began` `beginning` `behold` `believed` `brethren` `brought` `caesar` `caesarea` `call` `called` `came` `christ` `christians` `church` `circumcision` `city` `claudius` `cleansed` `cleave` `common` `considered` `contended` `corners` `creeping` `cyprus` `cyrene` `days` `dearth` `departed` `descend` `determined` `didst` `disciples` `doubting` `drawn` `dwelt` `ears` `earth` `eat` `elders` `entered` `exhorted` `expounded` `eyes` `faith` `fastened` `fell` `first` `found` `four` `fourfooted` `fowls` `full` `gentiles` `ghost` `gift` `glad` `glorified` `god` `good` `grace` `granted` `great` `grecians` `hand` `hands` `heard` `heart` `heaven` `held` `holy` `house` `jerusalem` `jesus` `jews` `john` `joppa` `judaea` `life` `lord` `man` `matter` `men` `mouth` `much` `number` `order` `peace` `people` `persecution` `peter` `phenice` `praying` `preaching` `prophets` `purpose` `received` `rehearsed` `relief` `remembered` `repentance` `reports` `saul` `saved` `scattered` `seek` `seen` `send` `sent` `sheet` `shewed` `signified` `simon` `six` `slay` `speak` `spirit` `spoke` `stephen` `stood` `surname` `tarsus` `taught` `things` `three` `tidings` `times` `trance` `travelled` `turned` `uncircumcised` `unclean` `vessel` `vision` `voice` `water` `wentest` `whole` `wild` `withstand` `word` `words` `world` `year`
+#ability #abroad #accompanied #added #agabus #air #angel #answered #antioch #apostles #arise #arose #assembled #bade #baptized #barnabas #beasts #began #beginning #behold #believed #brethren #brought #caesar #caesarea #call #called #came #christ #christians #church #circumcision #city #claudius #cleansed #cleave #common #considered #contended #corners #creeping #cyprus #cyrene #days #dearth #departed #descend #determined #didst #disciples #doubting #drawn #dwelt #ears #earth #eat #elders #entered #exhorted #expounded #eyes #faith #fastened #fell #first #found #four #fourfooted #fowls #full #gentiles #ghost #gift #glad #glorified #god #good #grace #granted #great #grecians #hand #hands #heard #heart #heaven #held #holy #house #jerusalem #jesus #jews #john #joppa #judaea #life #lord #man #matter #men #mouth #much #number #order #peace #people #persecution #peter #phenice #praying #preaching #prophets #purpose #received #rehearsed #relief #remembered #repentance #reports #saul #saved #scattered #seek #seen #send #sent #sheet #shewed #signified #simon #six #slay #speak #spirit #spoke #stephen #stood #surname #tarsus #taught #things #three #tidings #times #trance #travelled #turned #uncircumcised #unclean #vessel #vision #voice #water #wentest #whole #wild #withstand #word #words #world #year
 
 
 ---

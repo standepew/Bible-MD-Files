@@ -1,3 +1,37 @@
+---
+book: "Judges"
+chapter: 15
+testament: "Old Testament"
+key_themes: "Samson's Revenge, Foxes and Firebrands, Crop Destruction, Wife and Father Killed, Jawbone Victory, Thirst and Water, Twenty Years' Judgeship"
+tags:
+  - chamber-wife-father-suffer-go
+  - younger-sister-fairer-take-instead
+  - Samson-blameless-Philistines-displeasure
+  - Samson-caught-three-hundred-foxes
+  - Philistines-burnt-father-fire
+  - Samson-avenged-cease
+  - smote-hip-thigh-great-slaughter
+  - dwelt-top-rock-Etam
+  - Philistines-pitched-Judah-spread-Lehi
+  - men-Judah-come-against
+  - bind-Samson-done
+  - Philistines-rulers-done
+  - Samson-As-done
+  - bind-fall-upon
+  - bind-fast-deliver-hand-kill
+  - Lehi-Philistines-shouted
+  - bands-loosed-hands
+  - die-thirst-fall-hand-uncircumcised
+  - drank-spirit-came-revived
+  - En-hakkore-Lehi-day
+  - samson
+  - foxes-and-firebrands
+  - crop-destruction
+  - wife-and-father-killed
+  - jawbone-victory
+  - thirst-and-water
+  - twenty-years
+---
 # Judges 15
 
 ---
@@ -97,7 +131,7 @@ During wheat harvest, Samson visits his wife with a kid, wanting to go into her 
 
 
 *AI Keywords for current event matching:*
-`against` `agreement` `arms` `ass` `attack` `avenged` `bands` `bind` `binding` `blameless` `bound` `brands` `brought` `burnt` `called` `came` `cast` `caught` `cease` `chamber` `clave` `come` `companion` `confrontation` `cords` `corn` `day` `days` `declaration` `deliver` `deliverance` `die` `displeasure` `divine` `done` `drank` `dwelt` `en-hakkore` `etam` `fairer` `fall` `fast` `father` `fire` `firebrand` `firebrands` `flax` `found` `fox` `foxes` `gave` `given` `god` `great` `hand` `hands` `harvest` `hated` `heaps` `hip` `hollow` `hundred` `instead` `israel` `jaw` `jawbone` `judah` `judahs` `judged` `judgeship` `kid` `kill` `law` `lehi` `long` `loosed` `lord` `made` `marriage` `men` `midst` `mightily` `new` `olives` `philistine` `philistines` `pitched` `place` `provision` `pursuit` `ramath-lehi` `rejection` `response` `revenge` `revived` `rock` `rulers` `samson` `servant` `set` `shocks` `shouted` `sister` `slain` `slaughter` `slew` `smote` `son` `sore` `speaking` `spirit` `spread` `standing` `suffer` `tail` `tails` `take` `thigh` `thirst` `thought` `thousand` `three` `time` `timnite` `took` `top` `turned` `twenty` `two` `uncircumcised` `victory` `vineyards` `violent` `visited` `water` `wheat` `wife` `years` `younger`
+#against #agreement #arms #ass #attack #avenged #bands #bind #binding #blameless #bound #brands #brought #burnt #called #came #cast #caught #cease #chamber #clave #come #companion #confrontation #cords #corn #day #days #declaration #deliver #deliverance #die #displeasure #divine #done #drank #dwelt #en-hakkore #etam #fairer #fall #fast #father #fire #firebrand #firebrands #flax #found #fox #foxes #gave #given #god #great #hand #hands #harvest #hated #heaps #hip #hollow #hundred #instead #israel #jaw #jawbone #judah #judahs #judged #judgeship #kid #kill #law #lehi #long #loosed #lord #made #marriage #men #midst #mightily #new #olives #philistine #philistines #pitched #place #provision #pursuit #ramath-lehi #rejection #response #revenge #revived #rock #rulers #samson #servant #set #shocks #shouted #sister #slain #slaughter #slew #smote #son #sore #speaking #spirit #spread #standing #suffer #tail #tails #take #thigh #thirst #thought #thousand #three #time #timnite #took #top #turned #twenty #two #uncircumcised #victory #vineyards #violent #visited #water #wheat #wife #years #younger
 
 
 ---

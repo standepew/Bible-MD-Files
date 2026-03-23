@@ -1,3 +1,15 @@
+---
+book: "1 Peter"
+chapter: 4
+testament: "New Testament"
+key_themes: "Living for God's Will, Past Life of Gentiles, End Times and Watchfulness, Spiritual Gifts, Suffering as Christians"
+tags:
+  - living-for-god
+  - past-life-of-gentiles
+  - end-times-and-watchfulness
+  - spiritual-gifts
+  - suffering-as-christians
+---
 # 1 Peter 4
 
 ---
@@ -107,7 +119,7 @@ Christ, suffered, flesh, arm, mind, suffered, flesh, ceased, sin, longer, live, 
 
 
 *AI Keywords for current event matching:*
-`ability` `abominable` `account` `appear` `arm` `ashamed` `banquetings` `begin` `behalf` `beloved` `busybody` `cause` `ceased` `charity` `christ` `christian` `christians` `commit` `cover` `creator` `dead` `doing` `dominion` `end` `evil` `evildoer` `exceeding` `excess` `faithful` `fervent` `fiery` `flesh` `gentiles` `gift` `gifts` `give` `giveth` `glad` `glorified` `glorify` `glory` `god` `gods` `gospel` `grace` `grudging` `hand` `happy` `hospitality` `house` `idolatries` `jesus` `joy` `judge` `judged` `judgment` `keeping` `lasciviousness` `life` `live` `living` `longer` `lusts` `manifold` `matters` `men` `mind` `minister` `multitude` `murderer` `name` `obey` `oracles` `partakers` `past` `praise` `prayer` `preached` `quick` `ready` `received` `rejoice` `reproached` `resteth` `revealed` `revellings` `righteous` `riot` `saved` `sin` `sinner` `sins` `sober` `souls` `speak` `speaking` `spirit` `spiritual` `spoken` `stewards` `strange` `suffer` `suffered` `suffering` `sufferings` `thief` `thing` `things` `time` `times` `trial` `ungodly` `walked` `watch` `watchfulness` `well` `wine` `wrought`
+#ability #abominable #account #appear #arm #ashamed #banquetings #begin #behalf #beloved #busybody #cause #ceased #charity #christ #christian #christians #commit #cover #creator #dead #doing #dominion #end #evil #evildoer #exceeding #excess #faithful #fervent #fiery #flesh #gentiles #gift #gifts #give #giveth #glad #glorified #glorify #glory #god #gods #gospel #grace #grudging #hand #happy #hospitality #house #idolatries #jesus #joy #judge #judged #judgment #keeping #lasciviousness #life #live #living #longer #lusts #manifold #matters #men #mind #minister #multitude #murderer #name #obey #oracles #partakers #past #praise #prayer #preached #quick #ready #received #rejoice #reproached #resteth #revealed #revellings #righteous #riot #saved #sin #sinner #sins #sober #souls #speak #speaking #spirit #spiritual #spoken #stewards #strange #suffer #suffered #suffering #sufferings #thief #thing #things #time #times #trial #ungodly #walked #watch #watchfulness #well #wine #wrought
 
 
 ---

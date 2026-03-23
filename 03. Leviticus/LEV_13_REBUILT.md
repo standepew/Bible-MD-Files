@@ -1,3 +1,34 @@
+---
+book: "Leviticus"
+chapter: 13
+testament: "Old Testament"
+key_themes: "The diagnosis of tzara'at (translated "leprosy" — broader than Hansen's disease; includes various skin and surface conditions), The priest as diagnostician — looking, observing, isolating, pronouncing, The spreading nature of the affliction as the criterion of uncleanness, "He is unclean... he shall dwell alone; without the camp shall his habitation be", Leprosy in garments — the "fretting" plague that spreads"
+tags:
+  - tzarat
+  - leprosy
+  - skin-plague
+  - diagnosis
+  - priest-examines
+  - white-rising
+  - scab
+  - bright-spot
+  - deeper-than-skin
+  - hair-turned-white
+  - shut-up-seven-days
+  - spread-or-stay
+  - pronounce-clean
+  - pronounce-unclean
+  - raw-flesh
+  - head-bare
+  - rent-clothes
+  - covering-on-upper-lip
+  - cry-unclean-unclean
+  - dwell-alone
+  - without-the-camp
+  - leprosy-in-garments
+  - fretting-leprosy
+  - burn-the-garment
+---
 # Leviticus 13
 
 ---
@@ -79,7 +110,7 @@ An elaborate diagnostic system for tzara'at (the generic term for serious skin c
 
 
 *AI Keywords for current event matching:*
-`cleansing` `current` `events` `honest` `isaiah` `leviticus` `luke` `matching` `prerequisite` `romans` `self-disclosure` `uncleanness`
+#cleansing #current #events #honest #isaiah #leviticus #luke #matching #prerequisite #romans #self-disclosure #uncleanness
 
 
 ---

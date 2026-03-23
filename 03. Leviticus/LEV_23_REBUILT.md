@@ -1,3 +1,25 @@
+---
+book: "Leviticus"
+chapter: 23
+testament: "Old Testament"
+key_themes: ""These are MY feasts" — not Israel's feasts; the LORD's appointed times (moedim), The seven feasts as a complete prophetic calendar: Passover → Unleavened Bread → Firstfruits → Pentecost → Trumpets → Atonement → Tabernacles, The feasts are "holy convocations" — sacred assemblies, appointed times when God shows up, The gleaning law repeated at the centre of the feast calendar — justice for the poor is inseparable from worship, The wave sheaf of firstfruits points to resurrection; Pentecost to the Spirit; Trumpets and Atonement to the end; Tabernacles to the restoration"
+tags:
+  - feasts-of-the-LORD
+  - moedim-appointed-times
+  - holy-convocations
+  - Passover-14th-Nisan
+  - Unleavened-Bread-7-days
+  - Firstfruits-wave-sheaf
+  - Pentecost-50-days
+  - Feast-of-Trumpets
+  - Day-of-Atonement-afflict-souls
+  - Feast-of-Tabernacles-booths
+  - sabbath-weekly
+  - gleaning-for-poor
+  - these-are-my-feasts
+  - statute-forever
+  - eighth-day-solemn-assembly
+---
 # Leviticus 23
 
 ---
@@ -85,7 +107,7 @@ God gives Moses the complete calendar of His appointed times. The weekly Sabbath
 
 
 *AI Keywords for current event matching:*
-`216-17` `appointed` `calendar` `colossians` `current` `events` `feasts` `gods` `leviticus` `lords` `matching` `prophetic` `timeline` `times`
+#216-17 #appointed #calendar #colossians #current #events #feasts #gods #leviticus #lords #matching #prophetic #timeline #times
 
 
 ---

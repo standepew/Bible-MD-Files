@@ -1,3 +1,36 @@
+---
+book: "Deuteronomy"
+chapter: 11
+testament: "Old Testament"
+key_themes: "Love and Obedience, Teaching the Next Generation, Blessing and Curse, Possessing the Land, Rain as Blessing, Heart Deception, Binding God's Words, Mount Gerizim and Ebal, Remembering God's Acts"
+tags:
+  - love-the-LORD
+  - keep-commandments
+  - teach-children
+  - bind-on-hand
+  - frontlets-between-eyes
+  - door-posts-gates
+  - blessing-and-curse
+  - mount-Gerizim
+  - mount-Ebal
+  - rain-of-heaven
+  - first-rain
+  - latter-rain
+  - land-of-milk-and-honey
+  - heart-deception
+  - other-gods
+  - remember-Egypt
+  - Red-Sea
+  - Dathan-Abiram
+  - possess-the-land
+  - diligently-keep
+  - fear-and-dread
+  - drive-out-nations
+  - days-of-heaven
+  - wilderness-to-possess
+  - obedience-blessing
+  - disobedience-curse
+---
 # Deuteronomy 11
 
 ---
@@ -111,7 +144,7 @@ Moses commands Israel to love the LORD and keep His commandments always, remindi
 
 
 *AI Keywords for current event matching:*
-`abiram` `acts` `against` `agricultural` `aside` `between` `bind` `blessing` `blessings` `cattle` `children` `choice` `cleave` `commandments` `corn` `curse` `dathan` `deceived` `deception` `disobey` `door` `down` `drive` `due` `earth` `eat` `ebal` `egypt` `euphrates` `eyes` `feet` `first` `frontlets` `full` `gates` `gather` `generation` `gerizim` `gods` `grass` `great` `hand` `heart` `heaven` `keep` `kindled` `land` `latter` `lebanon` `lord` `lords` `love` `lying` `mount` `mouth` `nations` `next` `obedience` `obey` `oil` `opened` `perish` `pharaoh` `possess` `possession` `posts` `quickly` `rain` `red` `remembering` `rising` `sea` `season` `seen` `serve` `set` `shut` `sitting` `soles` `soul` `speak` `stronger` `swallowed` `teach` `teaching` `tread` `turn` `walk` `walking` `warning` `ways` `wilderness` `wine` `worship` `wrath` `you`
+#abiram #acts #against #agricultural #aside #between #bind #blessing #blessings #cattle #children #choice #cleave #commandments #corn #curse #dathan #deceived #deception #disobey #door #down #drive #due #earth #eat #ebal #egypt #euphrates #eyes #feet #first #frontlets #full #gates #gather #generation #gerizim #gods #grass #great #hand #heart #heaven #keep #kindled #land #latter #lebanon #lord #lords #love #lying #mount #mouth #nations #next #obedience #obey #oil #opened #perish #pharaoh #possess #possession #posts #quickly #rain #red #remembering #rising #sea #season #seen #serve #set #shut #sitting #soles #soul #speak #stronger #swallowed #teach #teaching #tread #turn #walk #walking #warning #ways #wilderness #wine #worship #wrath #you
 
 
 ---

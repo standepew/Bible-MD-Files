@@ -1,3 +1,14 @@
+---
+book: "Galatians"
+chapter: 5
+testament: "New Testament"
+key_themes: "Liberty in Christ, Faith Working by Love, Walking in the Spirit, Fruit of the Spirit"
+tags:
+  - liberty-in-christ
+  - faith-working-by-love
+  - walking-in-the-spirit
+  - fruit-of-the-spirit
+---
 # Galatians 5
 
 ---
@@ -105,7 +116,7 @@ Stand, fast, liberty, Christ, made, free, entangled, yoke, bondage, Behold, Paul
 
 
 *AI Keywords for current event matching:*
-`adultery` `affections` `availeth` `behold` `bite` `bondage` `called` `calleth` `ceased` `christ` `circumcised` `circumcision` `confidence` `consumed` `contrary` `cross` `crucified` `cut` `debtor` `desirous` `devour` `drunkenness` `effect` `emulations` `entangled` `envying` `envyings` `faith` `fallen` `fast` `flesh` `fornication` `free` `fruit` `fulfil` `fulfilled` `gentleness` `glory` `god` `goodness` `grace` `hatred` `heresies` `hope` `idolatry` `inherit` `jesus` `joy` `judgment` `justified` `kingdom` `lasciviousness` `law` `leaven` `leaveneth` `led` `liberty` `live` `longsuffering` `lord` `love` `lump` `lust` `lusteth` `lusts` `made` `manifest` `meekness` `minded` `murders` `neighbour` `obey` `occasion` `off` `offence` `paul` `peace` `persecution` `persuasion` `preach` `profit` `provoking` `revellings` `righteousness` `run` `seditions` `serve` `spirit` `stand` `strife` `temperance` `testify` `trouble` `troubleth` `truth` `uncircumcision` `uncleanness` `use` `vain` `variance` `wait` `walk` `walking` `whole` `witchcraft` `word` `worketh` `working` `works` `wrath` `yoke`
+#adultery #affections #availeth #behold #bite #bondage #called #calleth #ceased #christ #circumcised #circumcision #confidence #consumed #contrary #cross #crucified #cut #debtor #desirous #devour #drunkenness #effect #emulations #entangled #envying #envyings #faith #fallen #fast #flesh #fornication #free #fruit #fulfil #fulfilled #gentleness #glory #god #goodness #grace #hatred #heresies #hope #idolatry #inherit #jesus #joy #judgment #justified #kingdom #lasciviousness #law #leaven #leaveneth #led #liberty #live #longsuffering #lord #love #lump #lust #lusteth #lusts #made #manifest #meekness #minded #murders #neighbour #obey #occasion #off #offence #paul #peace #persecution #persuasion #preach #profit #provoking #revellings #righteousness #run #seditions #serve #spirit #stand #strife #temperance #testify #trouble #troubleth #truth #uncircumcision #uncleanness #use #vain #variance #wait #walk #walking #whole #witchcraft #word #worketh #working #works #wrath #yoke
 
 
 ---

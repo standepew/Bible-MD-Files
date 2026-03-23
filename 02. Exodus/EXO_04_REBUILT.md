@@ -1,3 +1,30 @@
+---
+book: "Exodus"
+chapter: 4
+testament: "Old Testament"
+key_themes: "Moses' three signs, The rod/serpent, Leprous hand, Water to blood, Moses' objection of slow speech, Aaron appointed as spokesman, Israel is God's firstborn son, The circumcision of Moses' son, Zipporah's act, Aaron meets Moses, Israel believes and worships"
+tags:
+  - Moses
+  - three-signs
+  - rod-serpent
+  - leprous-hand
+  - water-to-blood
+  - slow-of-speech
+  - Aaron-spokesman
+  - Israel-my-firstborn
+  - firstborn-son
+  - circumcision
+  - Zipporah
+  - bloody-husband
+  - signs-and-wonders
+  - hardened-heart
+  - Pharaoh-warned
+  - God-made-mans-mouth
+  - signs-of-the-prophet
+  - authenticate-the-messenger
+  - worship
+  - bow-the-head
+---
 # Exodus 4
 
 ---
@@ -106,7 +133,7 @@ Moses raises three objections to his commissioning: the people won't believe, he
 
 
 *AI Keywords for current event matching:*
-`41-9` `authenticating` `current` `events` `exodus` `given` `matching` `messenger` `miracles` `signs` `validate`
+#41-9 #authenticating #current #events #exodus #given #matching #messenger #miracles #signs #validate
 
 
 ---
@@ -232,13 +259,13 @@ Moses raises three objections to his commissioning: the people won't believe, he
 
 ### The Serpent — Defeated Enemy Under the Deliverer's Authority
 
-- **Genesis 3:1** — serpent as the deceiver
-- **Exodus 4:3** — rod becomes serpent; Moses flees
-- **Exodus 4:4** — Moses takes it by the tail; it becomes a rod — the serpent is subordinated to the deliverer's authority
-- **Exodus 7:12** — Aaron's serpent swallows all others — absolute victory
-- **Numbers 21:9** — serpent on a pole = healing
-- **Luke 10:19** — "Behold, I give unto you power to tread on serpents and scorpions"
-- **Revelation 20:2** — the old serpent bound
+- [[01. Genesis/GEN_03_REBUILT|Genesis 3:1]] — serpent as the deceiver
+- [[02. Exodus/EXO_04_REBUILT|Exodus 4:3]] — rod becomes serpent; Moses flees
+- [[02. Exodus/EXO_04_REBUILT|Exodus 4:4]] — Moses takes it by the tail; it becomes a rod — the serpent is subordinated to the deliverer's authority
+- [[02. Exodus/EXO_07_REBUILT|Exodus 7:12]] — Aaron's serpent swallows all others — absolute victory
+- [[04. Numbers/NUM_21_REBUILT|Numbers 21:9]] — serpent on a pole = healing
+- [[42. Luke/LUKE_10_REBUILT|Luke 10:19]] — "Behold, I give unto you power to tread on serpents and scorpions"
+- [[66. Revelation/REVELATION_20_REBUILT|Revelation 20:2]] — the old serpent bound
 - *Thread:* The serpent's defeat begins in miniature at Exodus 4 and reaches its consummation in Revelation 20.
 
 ---

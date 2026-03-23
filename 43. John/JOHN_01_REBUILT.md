@@ -1,3 +1,14 @@
+---
+book: "John"
+chapter: 1
+testament: "New Testament"
+key_themes: "The Word Became Flesh, John the Baptist's Testimony, The First Disciples, Nathanael's Declaration"
+tags:
+  - the-word-became-flesh
+  - john-the-baptist
+  - the-first-disciples
+  - nathanael
+---
 # John 1
 
 ---
@@ -177,7 +188,7 @@ Beginning, Word, God, Word, with, Word, God, beginning, God, things, made, witho
 
 
 *AI Keywords for current event matching:*
-`andrew` `baptists` `baptize` `bear` `became` `beginning` `behold` `called` `cephas` `come` `crying` `declaration` `descending` `disciples` `fig` `first` `flesh` `follow` `followed` `found` `god` `grace` `guile` `heaven` `israel` `israelite` `jesus` `john` `king` `lamb` `law` `life` `light` `made` `man` `messias` `moses` `nathanaels` `nazareth` `open` `philip` `prophets` `see` `sent` `simon` `son` `spirit` `testimony` `things` `tree` `true` `truth` `voice` `water` `witness` `word` `write`
+#andrew #baptists #baptize #bear #became #beginning #behold #called #cephas #come #crying #declaration #descending #disciples #fig #first #flesh #follow #followed #found #god #grace #guile #heaven #israel #israelite #jesus #john #king #lamb #law #life #light #made #man #messias #moses #nathanaels #nazareth #open #philip #prophets #see #sent #simon #son #spirit #testimony #things #tree #true #truth #voice #water #witness #word #write
 
 
 ---

@@ -1,3 +1,14 @@
+---
+book: "Hosea"
+chapter: 3
+testament: "Old Testament"
+key_themes: "Christ's Redemption Price, Faithful Love, Exile Period, Davidic Kingdom"
+tags:
+  - christ
+  - faithful-love
+  - exile-period
+  - davidic-kingdom
+---
 # Hosea 3
 
 ---
@@ -81,7 +92,7 @@ LORD, love, woman, beloved, friend, adulteress, love, LORD, children, Israel, lo
 
 
 *AI Keywords for current event matching:*
-`abide` `adulteress` `barley` `beloved` `bought` `christs` `david` `davidic` `days` `exile` `faithful` `fear` `fifteen` `friend` `half` `harlot` `homer` `image` `king` `kingdom` `latter` `lord` `love` `period` `pieces` `play` `price` `prince` `redemption` `sacrifice` `seek` `without`
+#abide #adulteress #barley #beloved #bought #christs #david #davidic #days #exile #faithful #fear #fifteen #friend #half #harlot #homer #image #king #kingdom #latter #lord #love #period #pieces #play #price #prince #redemption #sacrifice #seek #without
 
 
 ---

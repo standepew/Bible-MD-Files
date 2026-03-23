@@ -1,3 +1,19 @@
+---
+book: "Job"
+chapter: 31
+testament: "Old Testament"
+key_themes: "Job's Final Defense, Personal Integrity, Social Justice, Divine Examination"
+tags:
+  - sow-eat-offspring-rooted
+  - wife-grind-another-bow-down
+  - perish-clothing-poor-covering
+  - loins-blessed-warmed-fleece-sheep
+  - destruction-GOD-terror-highness-endure
+  - job
+  - personal-integrity
+  - social-justice
+  - divine-examination
+---
 # Job 31
 
 ---
@@ -165,7 +181,7 @@ Covenant, eyes, maid, portion, GOD, inheritance, Almighty. Destruction, wicked, 
 
 
 *AI Keywords for current event matching:*
-`almighty` `another` `answer` `balance` `blot` `bow` `cause` `contended` `count` `covenant` `crime` `deceit` `deceived` `defense` `desire` `despise` `destruction` `divine` `door` `down` `eat` `examination` `eyes` `fail` `fashioned` `father` `fatherless` `final` `fire` `foot` `god` `grind` `hands` `hasted` `heart` `heinous` `increase` `inheritance` `iniquity` `integrity` `jobs` `judges` `justice` `laid` `maid` `maidservant` `manservant` `morsel` `mother` `neighbour` `offspring` `personal` `poor` `portion` `punishment` `riseth` `root` `rooted` `see` `social` `sow` `step` `steps` `strange` `turned` `vanity` `visit` `wait` `walked` `way` `ways` `weighed` `wicked` `widow` `wife` `withheld` `woman` `womb` `workers` `youth`
+#almighty #another #answer #balance #blot #bow #cause #contended #count #covenant #crime #deceit #deceived #defense #desire #despise #destruction #divine #door #down #eat #examination #eyes #fail #fashioned #father #fatherless #final #fire #foot #god #grind #hands #hasted #heart #heinous #increase #inheritance #iniquity #integrity #jobs #judges #justice #laid #maid #maidservant #manservant #morsel #mother #neighbour #offspring #personal #poor #portion #punishment #riseth #root #rooted #see #social #sow #step #steps #strange #turned #vanity #visit #wait #walked #way #ways #weighed #wicked #widow #wife #withheld #woman #womb #workers #youth
 
 
 ---

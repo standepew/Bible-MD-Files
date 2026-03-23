@@ -1,3 +1,14 @@
+---
+book: "Matthew"
+chapter: 11
+testament: "New Testament"
+key_themes: "Christ's Divine Revelation, John's Testimony, Kingdom Violence, Rest for Souls"
+tags:
+  - christ
+  - john
+  - kingdom-violence
+  - rest-for-souls
+---
 # Matthew 11
 
 ---
@@ -129,7 +140,7 @@ Jesus, made, end, commanding, disciples, departed, teach, preach, cities, John, 
 
 
 *AI Keywords for current event matching:*
-`blind` `christs` `cities` `come` `delivered` `divine` `exalted` `father` `give` `greater` `heaven` `heavy` `john` `johns` `kingdom` `knoweth` `laden` `messenger` `receive` `rest` `reveal` `revelation` `son` `souls` `suffereth` `take` `testimony` `violence` `violent` `woe` `yoke`
+#blind #christs #cities #come #delivered #divine #exalted #father #give #greater #heaven #heavy #john #johns #kingdom #knoweth #laden #messenger #receive #rest #reveal #revelation #son #souls #suffereth #take #testimony #violence #violent #woe #yoke
 
 
 ---

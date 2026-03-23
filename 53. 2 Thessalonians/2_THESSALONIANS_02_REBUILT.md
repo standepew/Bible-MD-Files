@@ -1,3 +1,15 @@
+---
+book: "2 Thessalonians"
+chapter: 2
+testament: "New Testament"
+key_themes: "The Day of Christ, The Man of Sin, The Restrainer, The Deception of the Wicked, Salvation of the Elect"
+tags:
+  - the-day-of-christ
+  - the-man-of-sin
+  - the-restrainer
+  - the-deception-of-the-wicked
+  - salvation-of-the-elect
+---
 # 2 Thessalonians 2
 
 ---
@@ -95,7 +107,7 @@ Beseech, brethren, coming, Lord, Jesus, Christ, gathering, shaken, mind, trouble
 
 
 *AI Keywords for current event matching:*
-`away` `beginning` `belief` `believe` `believed` `beloved` `beseech` `bound` `brethren` `brightness` `called` `chosen` `christ` `comfort` `coming` `consolation` `consume` `damned` `day` `deceivableness` `deceive` `deception` `delusion` `destroy` `elect` `epistle` `everlasting` `exalteth` `falling` `fast` `father` `gathering` `given` `glory` `god` `good` `gospel` `grace` `hand` `hearts` `hold` `hope` `iniquity` `jesus` `letter` `letteth` `lie` `lord` `love` `loved` `lying` `man` `mind` `mouth` `mystery` `obtaining` `opposeth` `perdition` `perish` `pleasure` `power` `received` `remember` `restrainer` `revealed` `salvation` `sanctification` `satan` `saved` `send` `shaken` `shewing` `signs` `sin` `sitteth` `son` `spirit` `stablish` `stand` `strong` `taken` `taught` `temple` `thanks` `time` `told` `traditions` `troubled` `truth` `unrighteousness` `way` `wicked` `withholdeth` `wonders` `word` `work` `working` `worshipped`
+#away #beginning #belief #believe #believed #beloved #beseech #bound #brethren #brightness #called #chosen #christ #comfort #coming #consolation #consume #damned #day #deceivableness #deceive #deception #delusion #destroy #elect #epistle #everlasting #exalteth #falling #fast #father #gathering #given #glory #god #good #gospel #grace #hand #hearts #hold #hope #iniquity #jesus #letter #letteth #lie #lord #love #loved #lying #man #mind #mouth #mystery #obtaining #opposeth #perdition #perish #pleasure #power #received #remember #restrainer #revealed #salvation #sanctification #satan #saved #send #shaken #shewing #signs #sin #sitteth #son #spirit #stablish #stand #strong #taken #taught #temple #thanks #time #told #traditions #troubled #truth #unrighteousness #way #wicked #withholdeth #wonders #word #work #working #worshipped
 
 
 ---

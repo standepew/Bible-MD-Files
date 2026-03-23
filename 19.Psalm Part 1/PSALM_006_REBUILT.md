@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 6
+testament: "Old Testament"
+key_themes: "Penitential Prayer, Divine Mercy, Healing from Sickness, Victory Over Enemies"
+tags:
+  - penitential-prayer
+  - divine-mercy
+  - healing-from-sickness
+  - victory-over-enemies
+---
 # Psalm 6
 
 ---
@@ -141,7 +152,7 @@ Chief, Musician, Neginoth, Sheminith, Psalm, David, LORD, rebuke, anger, chasten
 
 
 *AI Keywords for current event matching:*
-`anger` `ashamed` `bed` `bones` `chasten` `chief` `consumed` `couch` `david` `death` `deliver` `depart` `displeasure` `divine` `enemies` `eye` `grave` `grief` `groaning` `heal` `healing` `heard` `hot` `iniquity` `let` `long` `lord` `mercies` `mercy` `musician` `neginoth` `night` `old` `penitential` `prayer` `psalm` `rebuke` `receive` `remembrance` `return` `sake` `save` `sheminith` `sickness` `sore` `soul` `suddenly` `supplication` `swim` `tears` `thanks` `vexed` `victory` `water` `waxeth` `weak` `weary` `weeping` `workers`
+#anger #ashamed #bed #bones #chasten #chief #consumed #couch #david #death #deliver #depart #displeasure #divine #enemies #eye #grave #grief #groaning #heal #healing #heard #hot #iniquity #let #long #lord #mercies #mercy #musician #neginoth #night #old #penitential #prayer #psalm #rebuke #receive #remembrance #return #sake #save #sheminith #sickness #sore #soul #suddenly #supplication #swim #tears #thanks #vexed #victory #water #waxeth #weak #weary #weeping #workers
 
 
 ---

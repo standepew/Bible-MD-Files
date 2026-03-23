@@ -1,3 +1,14 @@
+---
+book: "Matthew"
+chapter: 23
+testament: "New Testament"
+key_themes: "Christ's Woe Pronouncements, Religious Hypocrisy, True Humility, Jerusalem Lament"
+tags:
+  - christ
+  - religious-hypocrisy
+  - true-humility
+  - jerusalem-lament
+---
 # Matthew 23
 
 ---
@@ -189,7 +200,7 @@ Jesus, spake, multitude, disciples, saying, scribes, Pharisees, sit, Moses, seat
 
 
 *AI Keywords for current event matching:*
-`brethren` `broad` `burdens` `chickens` `christs` `damnation` `desolate` `eight` `exalted` `gather` `generation` `greetings` `heavy` `hell` `house` `humble` `humility` `hypocrisy` `hypocrites` `jerusalem` `kill` `lament` `love` `master` `one` `outward` `phylacteries` `pronouncements` `prophets` `religious` `righteousness` `sent` `servant` `stonest` `true` `vipers` `woe` `woes`
+#brethren #broad #burdens #chickens #christs #damnation #desolate #eight #exalted #gather #generation #greetings #heavy #hell #house #humble #humility #hypocrisy #hypocrites #jerusalem #kill #lament #love #master #one #outward #phylacteries #pronouncements #prophets #religious #righteousness #sent #servant #stonest #true #vipers #woe #woes
 
 
 ---

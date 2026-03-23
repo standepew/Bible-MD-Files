@@ -1,3 +1,14 @@
+---
+book: "2 Chronicles"
+chapter: 16
+testament: "Old Testament"
+key_themes: "Political Alliance, Divine Rebuke, Human Reliance, Spiritual Decline"
+tags:
+  - political-alliance
+  - divine-rebuke
+  - human-reliance
+  - spiritual-decline
+---
 # 2 Chronicles 16
 
 ---
@@ -135,7 +146,7 @@ Six, thirtieth, year, reign, Asa, Baasha, king, Israel, Judah, built, Ramah, int
 
 
 *AI Keywords for current event matching:*
-`abel` `acts` `alliance` `apothecaries` `armies` `art` `asa` `baasha` `bed` `ben` `book` `break` `brought` `building` `built` `burial` `buried` `burning` `captains` `carried` `cease` `chariots` `cities` `city` `come` `damascus` `dan` `david` `decline` `delivered` `depart` `died` `disease` `diseased` `divers` `divine` `earth` `escaped` `ethiopians` `eyes` `father` `fathers` `feet` `first` `foolishly` `fortieth` `geba` `god` `gold` `great` `hadad` `hanani` `hand` `heard` `hearkened` `heart` `horsemen` `host` `house` `huge` `ijon` `intent` `israel` `judah` `king` `kings` `last` `league` `left` `lord` `lubims` `maim` `military` `mizpah` `naphtali` `ninth` `odours` `oppressed` `people` `perfect` `physicians` `political` `prison` `rage` `ramah` `rebuke` `reign` `rejection` `relied` `royal` `seer` `sent` `sepulchres` `silver` `six` `slept` `smote` `sought` `spices` `spiritual` `stones` `store` `strong` `success` `sweet` `syria` `thirtieth` `thirty` `threat` `timber` `treasures` `wars` `work` `wroth` `year`
+#abel #acts #alliance #apothecaries #armies #art #asa #baasha #bed #ben #book #break #brought #building #built #burial #buried #burning #captains #carried #cease #chariots #cities #city #come #damascus #dan #david #decline #delivered #depart #died #disease #diseased #divers #divine #earth #escaped #ethiopians #eyes #father #fathers #feet #first #foolishly #fortieth #geba #god #gold #great #hadad #hanani #hand #heard #hearkened #heart #horsemen #host #house #huge #ijon #intent #israel #judah #king #kings #last #league #left #lord #lubims #maim #military #mizpah #naphtali #ninth #odours #oppressed #people #perfect #physicians #political #prison #rage #ramah #rebuke #reign #rejection #relied #royal #seer #sent #sepulchres #silver #six #slept #smote #sought #spices #spiritual #stones #store #strong #success #sweet #syria #thirtieth #thirty #threat #timber #treasures #wars #work #wroth #year
 
 
 ---

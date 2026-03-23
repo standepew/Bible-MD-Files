@@ -1,3 +1,15 @@
+---
+book: "1 Peter"
+chapter: 5
+testament: "New Testament"
+key_themes: "Leadership and Humility, Humility Under God's Hand, Resistance Against the Devil, Suffering and God's Grace, Final Greetings"
+tags:
+  - leadership-and-humility
+  - humility-under-god
+  - resistance-against-the-devil
+  - suffering-and-god
+  - final-greetings
+---
 # 1 Peter 5
 
 ---
@@ -83,7 +95,7 @@ Elders, exhort, elder, witness, sufferings, Christ, partaker, glory, revealed, F
 
 
 *AI Keywords for current event matching:*
-`accomplished` `adversary` `afflictions` `against` `appear` `babylon` `brethren` `briefly` `brother` `called` `care` `careth` `casting` `charity` `chief` `christ` `church` `clothed` `constraint` `crown` `devil` `devour` `dominion` `due` `elder` `elders` `elected` `ensamples` `eternal` `exalt` `exhort` `exhorting` `fadeth` `faith` `faithful` `feed` `filthy` `final` `flock` `giveth` `glory` `god` `gods` `grace` `greet` `greetings` `hand` `heritage` `humble` `humility` `jesus` `leadership` `lion` `lords` `lucre` `marcus` `mighty` `mind` `oversight` `partaker` `peace` `perfect` `proud` `ready` `resist` `resistance` `resisteth` `revealed` `roaring` `saluteth` `settle` `shepherd` `silvanus` `sober` `son` `stablish` `stand` `stedfast` `strengthen` `subject` `submit` `suffered` `suffering` `sufferings` `testifying` `time` `true` `vigilant` `walketh` `willingly` `witness` `world` `written` `younger`
+#accomplished #adversary #afflictions #against #appear #babylon #brethren #briefly #brother #called #care #careth #casting #charity #chief #christ #church #clothed #constraint #crown #devil #devour #dominion #due #elder #elders #elected #ensamples #eternal #exalt #exhort #exhorting #fadeth #faith #faithful #feed #filthy #final #flock #giveth #glory #god #gods #grace #greet #greetings #hand #heritage #humble #humility #jesus #leadership #lion #lords #lucre #marcus #mighty #mind #oversight #partaker #peace #perfect #proud #ready #resist #resistance #resisteth #revealed #roaring #saluteth #settle #shepherd #silvanus #sober #son #stablish #stand #stedfast #strengthen #subject #submit #suffered #suffering #sufferings #testifying #time #true #vigilant #walketh #willingly #witness #world #written #younger
 
 
 ---

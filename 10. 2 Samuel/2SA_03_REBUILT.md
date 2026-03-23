@@ -1,3 +1,17 @@
+---
+book: "2 Samuel"
+chapter: 3
+testament: "Old Testament"
+key_themes: "Civil War, David's Sons, Abner's Defection, Abner's Death, David's Grief, Joab's Vengeance"
+tags:
+  - Abner-answer-feared
+  - Joab-king-Abner-sent-peace
+  - king-lamented-Abner-folly-die
+  - civil-war
+  - david
+  - abner
+  - joab
+---
 # 2 Samuel 3
 
 ---
@@ -85,7 +99,7 @@ Long war between house of Saul and house of David; David waxed stronger, house o
 
 
 *AI Keywords for current event matching:*
-`abigail` `abishai` `abital` `abner` `abners` `absalom` `adonijah` `ahinoam` `aiah` `amnon` `anointed` `answer` `arise` `asahel` `bahurim` `battle` `beer-sheba` `benjamin` `bier` `blood` `born` `bound` `bread` `brethren` `brother` `buried` `carmelite` `charged` `chileab` `civil` `clothes` `coming` `communication` `concubine` `dan` `daughter` `david` `davids` `day` `death` `deceive` `defection` `delivered` `desire` `die` `died` `dog` `eat` `eglah` `elders` `enemies` `espoused` `evil` `face` `fallen` `fallest` `falleth` `family` `father` `fault` `feared` `feast` `fetters` `fifth` `firstborn` `folly` `foreskins` `fourth` `friends` `gate` `gather` `geshur` `gibeon` `god` `going` `grave` `great` `grief` `guiltless` `haggith` `hand` `hands` `hard` `head` `heart` `hebron` `host` `house` `hundred` `husband` `ish-bosheth` `israel` `issue` `ithream` `jezreelitess` `joab` `judah` `kindness` `king` `kingdom` `knew` `know` `laish` `lamented` `land` `league` `leper` `long` `lord` `maacah` `man` `meat` `men` `messengers` `michal` `mourn` `nabal` `ner` `notice` `peace` `people` `phaltiel` `philistines` `pleased` `prince` `progress` `pursuing` `reign` `return` `reward` `rib` `rizpah` `sackcloth` `saul` `save` `second` `sent` `servant` `servants` `shephatiah` `sirah` `sixth` `slain` `slay` `slew` `son` `sons` `speak` `spoil` `spoken` `staff` `strength` `strong` `stronger` `sun` `sword` `swore` `sworn` `talmai` `third` `throne` `troop` `twenty` `voice` `war` `weak` `weaker` `weep` `weeping` `well` `wicked` `wickedness` `wife` `woman` `wroth` `zeruiah`
+#abigail #abishai #abital #abner #abners #absalom #adonijah #ahinoam #aiah #amnon #anointed #answer #arise #asahel #bahurim #battle #beer-sheba #benjamin #bier #blood #born #bound #bread #brethren #brother #buried #carmelite #charged #chileab #civil #clothes #coming #communication #concubine #dan #daughter #david #davids #day #death #deceive #defection #delivered #desire #die #died #dog #eat #eglah #elders #enemies #espoused #evil #face #fallen #fallest #falleth #family #father #fault #feared #feast #fetters #fifth #firstborn #folly #foreskins #fourth #friends #gate #gather #geshur #gibeon #god #going #grave #great #grief #guiltless #haggith #hand #hands #hard #head #heart #hebron #host #house #hundred #husband #ish-bosheth #israel #issue #ithream #jezreelitess #joab #judah #kindness #king #kingdom #knew #know #laish #lamented #land #league #leper #long #lord #maacah #man #meat #men #messengers #michal #mourn #nabal #ner #notice #peace #people #phaltiel #philistines #pleased #prince #progress #pursuing #reign #return #reward #rib #rizpah #sackcloth #saul #save #second #sent #servant #servants #shephatiah #sirah #sixth #slain #slay #slew #son #sons #speak #spoil #spoken #staff #strength #strong #stronger #sun #sword #swore #sworn #talmai #third #throne #troop #twenty #voice #war #weak #weaker #weep #weeping #well #wicked #wickedness #wife #woman #wroth #zeruiah
 
 
 ---

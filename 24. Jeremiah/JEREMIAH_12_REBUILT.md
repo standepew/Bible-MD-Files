@@ -1,3 +1,13 @@
+---
+book: "Jeremiah"
+chapter: 12
+testament: "Old Testament"
+key_themes: "Christ's Righteousness, Prosperity of Wicked, Divine Compassion, Christ's Restoration"
+tags:
+  - christ
+  - prosperity-of-wicked
+  - divine-compassion
+---
 # Jeremiah 12
 
 ---
@@ -105,7 +115,7 @@ Righteous, LORD, plead, talk, judgments, way, wicked, prosper, happy, deal, trea
 
 
 *AI Keywords for current event matching:*
-`again` `art` `beloved` `bring` `built` `christs` `compassion` `divine` `enemies` `every` `far` `forsaken` `given` `happy` `heart` `heritage` `house` `judgments` `knowest` `land` `learn` `liveth` `lord` `man` `midst` `mouth` `near` `people` `planted` `plead` `prosper` `prosperity` `reins` `restoration` `return` `righteous` `righteousness` `root` `swear` `taken` `treacherously` `tried` `ways` `wicked`
+#again #art #beloved #bring #built #christs #compassion #divine #enemies #every #far #forsaken #given #happy #heart #heritage #house #judgments #knowest #land #learn #liveth #lord #man #midst #mouth #near #people #planted #plead #prosper #prosperity #reins #restoration #return #righteous #righteousness #root #swear #taken #treacherously #tried #ways #wicked
 
 
 ---

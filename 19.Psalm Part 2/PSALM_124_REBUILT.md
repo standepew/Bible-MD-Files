@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 124
+testament: "Old Testament"
+key_themes: "Divine Deliverance, God's Help, Escape from Danger, Trust in the LORD"
+tags:
+  - divine-deliverance
+  - god
+  - escape-from-danger
+  - trust-in-the-lord
+---
 # Psalm 124
 
 ---
@@ -117,7 +128,7 @@ Song, degrees, David, LORD, side, Israel, say, LORD, side, men, rose, swallowed,
 
 
 *AI Keywords for current event matching:*
-`against` `bird` `blessed` `broken` `danger` `deliverance` `divine` `earth` `escape` `escaped` `fowlers` `given` `gods` `heaven` `help` `israel` `lord` `made` `men` `name` `overwhelmed` `prey` `quick` `rose` `side` `snare` `swallowed` `teeth` `trust` `waters`
+#against #bird #blessed #broken #danger #deliverance #divine #earth #escape #escaped #fowlers #given #gods #heaven #help #israel #lord #made #men #name #overwhelmed #prey #quick #rose #side #snare #swallowed #teeth #trust #waters
 
 
 ---

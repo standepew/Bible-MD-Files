@@ -1,3 +1,13 @@
+---
+book: "Jeremiah"
+chapter: 20
+testament: "Old Testament"
+key_themes: "Christ's Persecution, Divine Vengeance, Burning Fire, Christ's Deliverance"
+tags:
+  - christ
+  - divine-vengeance
+  - burning-fire
+---
 # Jeremiah 20
 
 ---
@@ -105,7 +115,7 @@ Pashur, son, Immer, priest, chief, governor, house, LORD, heard, Jeremiah, proph
 
 
 *AI Keywords for current event matching:*
-`babylon` `bones` `burning` `christs` `daily` `deliverance` `delivered` `derision` `divine` `enemies` `fall` `familiars` `fire` `forbearing` `give` `halting` `heart` `jeremiah` `judah` `lord` `magor` `mighty` `missabib` `mocketh` `persecution` `persecutors` `poor` `praise` `prevail` `see` `shut` `smote` `soul` `stay` `stocks` `stumble` `sword` `terrible` `terror` `vengeance` `watched` `weary` `word`
+#babylon #bones #burning #christs #daily #deliverance #delivered #derision #divine #enemies #fall #familiars #fire #forbearing #give #halting #heart #jeremiah #judah #lord #magor #mighty #missabib #mocketh #persecution #persecutors #poor #praise #prevail #see #shut #smote #soul #stay #stocks #stumble #sword #terrible #terror #vengeance #watched #weary #word
 
 
 ---

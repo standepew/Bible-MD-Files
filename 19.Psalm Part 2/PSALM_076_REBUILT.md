@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 76
+testament: "Old Testament"
+key_themes: "God's Glory, Divine Victory, Fear of God, Heavenly Judgment"
+tags:
+  - god
+  - divine-victory
+  - fear-of-god
+  - heavenly-judgment
+---
 # Psalm 76
 
 ---
@@ -153,7 +164,7 @@ Chief, Musician, Neginoth, Psalm, Song, Asaph, Judah, GOD, known, name, great, I
 
 
 *AI Keywords for current event matching:*
-`angry` `arose` `arrows` `asaph` `battle` `bow` `brake` `cast` `caused` `chariot` `chief` `dead` `divine` `dwelling` `earth` `excellent` `fear` `feared` `found` `glorious` `glory` `god` `gods` `great` `hands` `heard` `heaven` `heavenly` `horse` `israel` `jacob` `judah` `judgment` `kings` `known` `man` `meek` `men` `mountains` `musician` `name` `neginoth` `place` `praise` `prey` `psalm` `rebuke` `remainder` `restrain` `salem` `save` `shield` `sight` `sleep` `slept` `song` `spoiled` `stand` `still` `stouthearted` `sword` `tabernacle` `terrible` `victory` `wrath` `zion`
+#angry #arose #arrows #asaph #battle #bow #brake #cast #caused #chariot #chief #dead #divine #dwelling #earth #excellent #fear #feared #found #glorious #glory #god #gods #great #hands #heard #heaven #heavenly #horse #israel #jacob #judah #judgment #kings #known #man #meek #men #mountains #musician #name #neginoth #place #praise #prey #psalm #rebuke #remainder #restrain #salem #save #shield #sight #sleep #slept #song #spoiled #stand #still #stouthearted #sword #tabernacle #terrible #victory #wrath #zion
 
 
 ---

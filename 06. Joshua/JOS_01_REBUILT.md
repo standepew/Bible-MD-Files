@@ -1,3 +1,83 @@
+---
+book: "Joshua"
+chapter: 1
+testament: "Old Testament"
+key_themes: "Leadership Transition, Divine Commission, Promised Land Conquest, God's Presence, Courage and Strength, Law Meditation, Jordan Crossing, Eastern Tribes, Obedience and Success"
+tags:
+  - death-Moses-servant-LORD
+  - LORD-spake-Joshua-son-Nun
+  - Moses-minister
+  - Moses-servant-dead
+  - arise-go-Jordan
+  - people-land-give
+  - children-Israel
+  - sole-foot-tread
+  - given-thee
+  - said-Moses
+  - wilderness-Lebanon
+  - great-river-Euphrates
+  - land-Hittites
+  - great-sea-sun-down
+  - coast
+  - no-man-stand-before
+  - days-life
+  - Moses-with-thee
+  - fail-thee
+  - forsake-thee
+  - strong-good-courage
+  - divide-inheritance
+  - land-sware-fathers
+  - strong-very-courage
+  - observe-law
+  - Moses-servant-commanded
+  - turn-right-left
+  - prosper-whithersoever
+  - book-law-not-depart-mouth
+  - meditate-day-night
+  - observe-according-written
+  - make-way-prosperous
+  - good-success
+  - commanded-be-strong
+  - good-courage
+  - afraid-dismayed
+  - LORD-God-with-thee
+  - whithersoever-goest
+  - Joshua-commanded-officers
+  - command-people
+  - pass-host
+  - prepare-victuals
+  - three-days-pass-Jordan
+  - possess-land
+  - LORD-God-giveth
+  - Reubenites-Gadites-half-tribe-Manasseh
+  - remember-word-Moses-servant-LORD-commanded
+  - LORD-God-given-rest
+  - land-given
+  - wives-little-ones-cattle
+  - remain-land-Moses-gave
+  - Jordan-side
+  - pass-brethren-armed
+  - mighty-men-valour
+  - help-brethren
+  - LORD-given-brethren-rest
+  - possessed-land
+  - LORD-God-giveth
+  - return-land-possession
+  - enjoy-land
+  - Moses-LORD-servant-gave
+  - Jordan-sunrising
+  - answered-Joshua
+  - command-do
+  - whithersoever-send-go
+  - hearkened-Moses
+  - things-hearken-thee
+  - LORD-God-with-thee
+  - Moses-with-thee
+  - rebel-commandment
+  - not-hearken-words
+  - command-put-death
+  - strong-good-courage
+---
 # Joshua 1
 
 ---
@@ -116,7 +196,7 @@ After Moses' death, God commissions Joshua as leader, commanding him to cross th
 
 
 *AI Keywords for current event matching:*
-`according` `answered` `arise` `armed` `book` `brethren` `cattle` `children` `coast` `command` `commanded` `commandment` `courage` `crossing` `day` `days` `dead` `death` `depart` `divide` `divine` `down` `eastern` `euphrates` `fail` `fathers` `foot` `forsake` `gadites` `gave` `give` `given` `giveth` `god` `goest` `good` `great` `half` `hearken` `hearkened` `help` `hittites` `host` `inheritance` `israel` `jordan` `joshua` `land` `law` `leadership` `lebanon` `left` `life` `little` `lord` `make` `man` `manasseh` `meditate` `meditation` `men` `mighty` `minister` `moses` `mouth` `night` `nun` `obedience` `observe` `officers` `ones` `pass` `people` `possess` `prepare` `presence` `promise` `prosper` `prosperous` `put` `rebel` `remain` `remember` `rest` `reubenites` `right` `river` `said` `sea` `send` `servant` `side` `sole` `son` `spake` `stand` `strong` `success` `sun` `sware` `things` `three` `transition` `tread` `tribe` `tribes` `turn` `valour` `victuals` `way` `whithersoever` `wilderness` `wives` `word` `words` `written`
+#according #answered #arise #armed #book #brethren #cattle #children #coast #command #commanded #commandment #courage #crossing #day #days #dead #death #depart #divide #divine #down #eastern #euphrates #fail #fathers #foot #forsake #gadites #gave #give #given #giveth #god #goest #good #great #half #hearken #hearkened #help #hittites #host #inheritance #israel #jordan #joshua #land #law #leadership #lebanon #left #life #little #lord #make #man #manasseh #meditate #meditation #men #mighty #minister #moses #mouth #night #nun #obedience #observe #officers #ones #pass #people #possess #prepare #presence #promise #prosper #prosperous #put #rebel #remain #remember #rest #reubenites #right #river #said #sea #send #servant #side #sole #son #spake #stand #strong #success #sun #sware #things #three #transition #tread #tribe #tribes #turn #valour #victuals #way #whithersoever #wilderness #wives #word #words #written
 
 
 ---

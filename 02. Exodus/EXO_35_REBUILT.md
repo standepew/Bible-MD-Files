@@ -1,3 +1,32 @@
+---
+book: "Exodus"
+chapter: 35
+testament: "Old Testament"
+key_themes: "The Sabbath command re-given before the Tabernacle work begins, The freewill offering — "every one whose heart stirred him up" and "whose spirit made him willing," Men and women of all ranks bringing every kind of material, Women spinning at home, Bezaleel and Aholiab re-presented to the congregation as Spirit-filled craftsmen"
+tags:
+  - Sabbath-re-given
+  - no-fire-on-Sabbath
+  - willing-heart
+  - spirit-made-willing
+  - freewill-offering
+  - gold-silver-brass
+  - blue-purple-scarlet
+  - fine-linen
+  - goats-hair
+  - rams-skins
+  - badgers-skins
+  - shittim-wood
+  - oil-spices-incense
+  - onyx-stones
+  - women-spinning
+  - wise-hearted-women
+  - Bezaleel-named-to-congregation
+  - Aholiab
+  - Spirit-of-God
+  - wisdom-understanding-knowledge
+  - Spirit-filled-craftsmanship
+  - teach
+---
 # Exodus 35
 
 ---
@@ -67,7 +96,7 @@ Moses assembles the entire congregation. He opens with the Sabbath command — n
 
 
 *AI Keywords for current event matching:*
-`3521-29` `chronicles` `corinthians` `current` `events` `exodus` `freewill` `generous` `giving` `matching` `offering`
+#3521-29 #chronicles #corinthians #current #events #exodus #freewill #generous #giving #matching #offering
 
 
 ---

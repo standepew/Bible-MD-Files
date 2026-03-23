@@ -1,3 +1,14 @@
+---
+book: "Micah"
+chapter: 6
+testament: "Old Testament"
+key_themes: "Christ's Controversy with Israel, Divine Faithfulness, True Worship, Justice Required"
+tags:
+  - christ
+  - divine-faithfulness
+  - true-worship
+  - justice-required
+---
 # Micah 6
 
 ---
@@ -129,7 +140,7 @@ Hear, LORD, saith, Arise, contend, mountains, hills, hear, voice, mountains, LOR
 
 
 *AI Keywords for current event matching:*
-`balak` `brought` `burnt` `christs` `contend` `controversy` `divine` `egypt` `faithfulness` `firstborn` `humbly` `israel` `justice` `justly` `love` `men` `mercy` `moses` `mountains` `offerings` `oil` `people` `plead` `rams` `redeemed` `remember` `required` `rich` `rivers` `sent` `servants` `testify` `thousands` `transgression` `true` `violence` `walk` `wearied` `worship`
+#balak #brought #burnt #christs #contend #controversy #divine #egypt #faithfulness #firstborn #humbly #israel #justice #justly #love #men #mercy #moses #mountains #offerings #oil #people #plead #rams #redeemed #remember #required #rich #rivers #sent #servants #testify #thousands #transgression #true #violence #walk #wearied #worship
 
 
 ---

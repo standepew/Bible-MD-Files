@@ -1,3 +1,14 @@
+---
+book: "Zechariah"
+chapter: 9
+testament: "Old Testament"
+key_themes: "Christ's Triumphal Entry, Humble King, Universal Dominion, Prisoners of Hope"
+tags:
+  - christ
+  - humble-king
+  - universal-dominion
+  - prisoners-of-hope
+---
 # Zechariah 9
 
 ---
@@ -117,7 +128,7 @@ Burden, word, LORD, land, Hadrach, Damascus, rest, eyes, man, tribes, Israel, LO
 
 
 *AI Keywords for current event matching:*
-`ass` `blood` `chariot` `christs` `colt` `cometh` `covenant` `cut` `daughter` `dominion` `double` `earth` `ends` `entry` `foal` `greatly` `heathen` `hold` `hope` `humble` `king` `lowly` `peace` `prisoners` `rejoice` `render` `riding` `salvation` `sea` `shout` `speak` `strong` `triumphal` `universal` `zion`
+#ass #blood #chariot #christs #colt #cometh #covenant #cut #daughter #dominion #double #earth #ends #entry #foal #greatly #heathen #hold #hope #humble #king #lowly #peace #prisoners #rejoice #render #riding #salvation #sea #shout #speak #strong #triumphal #universal #zion
 
 
 ---

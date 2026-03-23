@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 105
+testament: "Old Testament"
+key_themes: "Historical Recounting, Covenant Faithfulness, Divine Protection, Israel's History"
+tags:
+  - historical-recounting
+  - covenant-faithfulness
+  - divine-protection
+  - israel
+---
 # Psalm 105
 
 ---
@@ -153,7 +164,7 @@ Give, thanks, LORD, call, name, make, known, deeds, people, Sing, psalms, talk, 
 
 
 *AI Keywords for current event matching:*
-`aaron` `abraham` `anointed` `children` `chosen` `cloud` `commanded` `confirmed` `covenant` `covering` `divine` `egypt` `everlasting` `faithfulness` `fire` `generations` `harm` `historical` `history` `holy` `isaac` `israel` `israels` `jacob` `joseph` `journey` `judgments` `keep` `kings` `land` `law` `laws` `light` `man` `marvellous` `moses` `mouth` `night` `oath` `observe` `plagues` `promise` `promised` `prophets` `protection` `recounting` `remember` `remembered` `reproved` `sakes` `seed` `sent` `servant` `spread` `statutes` `suffered` `thousand` `touch` `wilderness` `wonders` `word` `works` `wrong`
+#aaron #abraham #anointed #children #chosen #cloud #commanded #confirmed #covenant #covering #divine #egypt #everlasting #faithfulness #fire #generations #harm #historical #history #holy #isaac #israel #israels #jacob #joseph #journey #judgments #keep #kings #land #law #laws #light #man #marvellous #moses #mouth #night #oath #observe #plagues #promise #promised #prophets #protection #recounting #remember #remembered #reproved #sakes #seed #sent #servant #spread #statutes #suffered #thousand #touch #wilderness #wonders #word #works #wrong
 
 
 ---

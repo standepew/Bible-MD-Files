@@ -1,3 +1,16 @@
+---
+book: "2 Chronicles"
+chapter: 29
+testament: "Old Testament"
+key_themes: "Temple Restoration, Religious Reform, Covenant Renewal, Worship Renewal"
+tags:
+  - right-sight-LORD-David-father
+  - Levites-instruments-David-priests-trumpets
+  - temple-restoration
+  - religious-reform
+  - covenant-renewal
+  - worship-renewal
+---
 # 2 Chronicles 29
 
 ---
@@ -155,7 +168,7 @@ Hezekiah, five, twenty, years, reigned, nine, twenty, years, Jerusalem, mother, 
 
 
 *AI Keywords for current event matching:*
-`aaron` `abdi` `abijah` `abundance` `ahaz` `altar` `amasai` `asaph` `astonishment` `atonement` `azariah` `backs` `began` `blood` `bowed` `brethren` `brook` `brought` `bullocks` `burn` `burned` `burnt` `captivity` `carry` `cast` `chosen` `city` `cleanse` `cleansed` `commanded` `commandment` `congregation` `consecrated` `court` `covenant` `cymbals` `daughter` `daughters` `david` `day` `days` `delivered` `doors` `drink` `early` `east` `eden` `eight` `eighth` `elizaphan` `end` `ended` `evil` `eyes` `faces` `fallen` `fat` `father` `fathers` `few` `fierce` `filthiness` `finished` `first` `five` `flay` `forsaken` `free` `gad` `gathered` `gershonites` `gladness` `goats` `god` `habitation` `hands` `harps` `heads` `heart` `heman` `hezekiah` `hissing` `holy` `house` `hundred` `incense` `inner` `instruments` `israel` `jeduthun` `jehalelel` `jehiel` `jeiel` `jerusalem` `joah` `joel` `judah` `kidron` `killed` `king` `kingdom` `kish` `kohathites` `laid` `lambs` `lamps` `levites` `lord` `mahath` `mattaniah` `merari` `minister` `month` `mother` `musical` `nathan` `negligent` `nine` `offer` `offered` `offering` `offerings` `opened` `ordained` `order` `oxen` `part` `peace` `people` `place` `porch` `praise` `praises` `prepared` `priests` `princes` `prophet` `prophets` `psalteries` `put` `rams` `reconciliation` `reign` `reigned` `rejoiced` `repaired` `restoration` `right` `rose` `royal` `rulers` `sacrifices` `sacrificial` `sanctified` `sanctify` `sanctuary` `sang` `seer` `serve` `service` `seven` `seventy` `sheep` `shemaiah` `shewbread` `shimei` `shimri` `shut` `sight` `sin` `sing` `singers` `six` `sixteenth` `son` `song` `sons` `sounded` `sprinkled` `stand` `street` `succession` `suddenly` `sword` `system` `table` `temple` `thank` `thanksgiving` `thousand` `three` `transgression` `trespassed` `trouble` `trumpeters` `trumpets` `turned` `twenty` `two` `uncleanness` `upright` `uzziel` `vessels` `wives` `words` `work` `worship` `worshipped` `wrath` `year` `years` `zechariah` `zimmah`
+#aaron #abdi #abijah #abundance #ahaz #altar #amasai #asaph #astonishment #atonement #azariah #backs #began #blood #bowed #brethren #brook #brought #bullocks #burn #burned #burnt #captivity #carry #cast #chosen #city #cleanse #cleansed #commanded #commandment #congregation #consecrated #court #covenant #cymbals #daughter #daughters #david #day #days #delivered #doors #drink #early #east #eden #eight #eighth #elizaphan #end #ended #evil #eyes #faces #fallen #fat #father #fathers #few #fierce #filthiness #finished #first #five #flay #forsaken #free #gad #gathered #gershonites #gladness #goats #god #habitation #hands #harps #heads #heart #heman #hezekiah #hissing #holy #house #hundred #incense #inner #instruments #israel #jeduthun #jehalelel #jehiel #jeiel #jerusalem #joah #joel #judah #kidron #killed #king #kingdom #kish #kohathites #laid #lambs #lamps #levites #lord #mahath #mattaniah #merari #minister #month #mother #musical #nathan #negligent #nine #offer #offered #offering #offerings #opened #ordained #order #oxen #part #peace #people #place #porch #praise #praises #prepared #priests #princes #prophet #prophets #psalteries #put #rams #reconciliation #reign #reigned #rejoiced #repaired #restoration #right #rose #royal #rulers #sacrifices #sacrificial #sanctified #sanctify #sanctuary #sang #seer #serve #service #seven #seventy #sheep #shemaiah #shewbread #shimei #shimri #shut #sight #sin #sing #singers #six #sixteenth #son #song #sons #sounded #sprinkled #stand #street #succession #suddenly #sword #system #table #temple #thank #thanksgiving #thousand #three #transgression #trespassed #trouble #trumpeters #trumpets #turned #twenty #two #uncleanness #upright #uzziel #vessels #wives #words #work #worship #worshipped #wrath #year #years #zechariah #zimmah
 
 
 ---

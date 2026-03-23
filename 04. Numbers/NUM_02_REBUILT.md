@@ -1,3 +1,23 @@
+---
+book: "Numbers"
+chapter: 2
+testament: "Old Testament"
+key_themes: "The arrangement of the twelve tribes around the Tabernacle — God's people ordered around His presence, Four divisions of three tribes each — east, south, west, north — with the Tabernacle and Levites at the centre, The march order mirrors the camp order — Judah first, Dan last as rear guard, "Every man by his own standard" — identity, belonging, and place are all assigned, The entire design is theocentric: everything radiates outward from where God dwells"
+tags:
+  - camp-arrangement
+  - four-camps
+  - Judah-east-first
+  - Reuben-south-second
+  - Ephraim-west-third
+  - Dan-north-fourth-rearguard
+  - Tabernacle-at-centre
+  - Levites-in-midst
+  - standards-and-ensigns
+  - march-order
+  - 603550
+  - God-at-the-centre
+  - theocentric-community
+---
 # Numbers 2
 
 ---
@@ -64,7 +84,7 @@ God commands the arrangement of Israel's camp. The Tabernacle sits at the centre
 
 
 *AI Keywords for current event matching:*
-`community` `current` `events` `every` `formless` `mass` `matching` `numbers` `order` `ordered` `person` `place` `social` `standard` `structure` `tribe`
+#community #current #events #every #formless #mass #matching #numbers #order #ordered #person #place #social #standard #structure #tribe
 
 
 ---
@@ -152,16 +172,16 @@ What the roadmap establishes: the Bible defines its own symbols. Ezekiel 1 defin
 
 ### The Tabernacle at the Centre — The Axis of Everything
 
-**Numbers 2:17** — "Then the tabernacle of the congregation shall set forward with the camp of the Levites in the midst of the camp"
+[[04. Numbers/NUM_02_REBUILT|Numbers 2:17]] — "Then the tabernacle of the congregation shall set forward with the camp of the Levites in the midst of the camp"
 
 "In the midst" — the Tabernacle is the axis of the entire community. This centrality is a symbolic thread Scripture never abandons:
 
-- **Exodus 25:8** — "let them make me a sanctuary; that I may dwell among them" — the purpose of the Tabernacle stated at its commission; dwelling in the midst
-- **Numbers 2:17** — the Tabernacle literally at the centre of the march
-- **John 1:14** — "And the Word was made flesh, and dwelt among us" — the Greek eskenosen = tabernacled; the living Tabernacle in the midst of Israel
-- **John 7:37-38** — "In the last day, that great day of the feast, Jesus stood" — at the Feast of Tabernacles, Jesus stands at the centre of the assembled people
-- **Revelation 21:3** — "the tabernacle of God is with men, and he will dwell with them" — the final fulfillment: the Tabernacle-God permanently in the midst of His people
-- **Revelation 21:22-23** — "for the Lord God Almighty and the Lamb are the temple of it" — in the new creation, the Tabernacle-at-the-centre has become God Himself; there is no separate structure because the presence is total
+- [[02. Exodus/EXO_25_REBUILT|Exodus 25:8]] — "let them make me a sanctuary; that I may dwell among them" — the purpose of the Tabernacle stated at its commission; dwelling in the midst
+- [[04. Numbers/NUM_02_REBUILT|Numbers 2:17]] — the Tabernacle literally at the centre of the march
+- [[43. John/JOHN_01_REBUILT|John 1:14]] — "And the Word was made flesh, and dwelt among us" — the Greek eskenosen = tabernacled; the living Tabernacle in the midst of Israel
+- [[43. John/JOHN_07_REBUILT|John 7:37-38]] — "In the last day, that great day of the feast, Jesus stood" — at the Feast of Tabernacles, Jesus stands at the centre of the assembled people
+- [[66. Revelation/REVELATION_21_REBUILT|Revelation 21:3]] — "the tabernacle of God is with men, and he will dwell with them" — the final fulfillment: the Tabernacle-God permanently in the midst of His people
+- [[66. Revelation/REVELATION_21_REBUILT|Revelation 21:22-23]] — "for the Lord God Almighty and the Lamb are the temple of it" — in the new creation, the Tabernacle-at-the-centre has become God Himself; there is no separate structure because the presence is total
 
 **What the Bible establishes:** From Exodus 25 to Revelation 21, the movement of Scripture is toward the complete fulfilment of Numbers 2:17 — the Tabernacle/God at the centre of the community He has gathered. The wilderness camp is the prophetic picture. The new creation is the permanent reality.
 

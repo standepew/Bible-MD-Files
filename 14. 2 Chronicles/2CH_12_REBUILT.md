@@ -1,3 +1,17 @@
+---
+book: "2 Chronicles"
+chapter: 12
+testament: "Old Testament"
+key_themes: "Divine Judgment, Egyptian Invasion, Humble Repentance, Partial Restoration"
+tags:
+  - took-fenced-cities-Judah-Jerusalem
+  - servants-service-service-kingdoms-countries
+  - evil-prepared-heart-seek-LORD
+  - divine-judgment
+  - egyptian-invasion
+  - humble-repentance
+  - partial-restoration
+---
 # 2 Chronicles 12
 
 ---
@@ -183,7 +197,7 @@ Rehoboam, established, kingdom, strengthened, forsake, law, LORD, Israel. Fifth,
 
 
 *AI Keywords for current event matching:*
-`abijah` `acts` `altogether` `ammonitess` `book` `brass` `buried` `chamber` `chariots` `chief` `chosen` `cities` `city` `continually` `countries` `david` `decline` `deliverance` `destroy` `divine` `egypt` `entered` `entrance` `established` `ethiopians` `evil` `failure` `fathers` `fenced` `fetched` `fifth` `first` `forsake` `forsaken` `forty` `gathered` `genealogies` `gold` `grant` `guard` `hand` `heart` `historical` `horsemen` `house` `humble` `humbled` `hundred` `iddo` `israel` `jeroboam` `jerusalem` `judah` `judgment` `king` `kingdom` `kingdoms` `last` `law` `left` `lesson` `lord` `loss` `lubims` `made` `mercy` `mother` `naamah` `name` `number` `partial` `people` `poured` `prepared` `princes` `prophet` `prophetic` `rebuke` `record` `rehoboam` `reign` `reigned` `repentance` `restoration` `righteous` `royal` `seek` `seer` `servants` `service` `servitude` `seventeen` `shemaiah` `shields` `shishak` `slept` `solomon` `son` `spiritual` `stead` `strengthened` `substitution` `succession` `sukkiims` `thousand` `threescore` `took` `transgressed` `treasures` `tribes` `turned` `twelve` `wars` `well` `word` `wrath` `year` `years`
+#abijah #acts #altogether #ammonitess #book #brass #buried #chamber #chariots #chief #chosen #cities #city #continually #countries #david #decline #deliverance #destroy #divine #egypt #entered #entrance #established #ethiopians #evil #failure #fathers #fenced #fetched #fifth #first #forsake #forsaken #forty #gathered #genealogies #gold #grant #guard #hand #heart #historical #horsemen #house #humble #humbled #hundred #iddo #israel #jeroboam #jerusalem #judah #judgment #king #kingdom #kingdoms #last #law #left #lesson #lord #loss #lubims #made #mercy #mother #naamah #name #number #partial #people #poured #prepared #princes #prophet #prophetic #rebuke #record #rehoboam #reign #reigned #repentance #restoration #righteous #royal #seek #seer #servants #service #servitude #seventeen #shemaiah #shields #shishak #slept #solomon #son #spiritual #stead #strengthened #substitution #succession #sukkiims #thousand #threescore #took #transgressed #treasures #tribes #turned #twelve #wars #well #word #wrath #year #years
 
 
 ---

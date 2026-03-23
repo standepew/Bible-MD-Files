@@ -1,3 +1,13 @@
+---
+book: "Isaiah"
+chapter: 38
+testament: "Old Testament"
+key_themes: "Christ's Healing, Divine Mercy, Spiritual Restoration, Christ's Life"
+tags:
+  - christ
+  - divine-mercy
+  - spiritual-restoration
+---
 # Isaiah 38
 
 ---
@@ -117,7 +127,7 @@ Days, Hezekiah, sick, death, Isaiah, prophet, son, Amoz, came, saying, LORD, hou
 
 
 *AI Keywords for current event matching:*
-`add` `back` `boil` `cast` `children` `christs` `city` `days` `death` `defend` `deliver` `divine` `father` `fifteen` `healing` `heard` `hezekiah` `house` `instruments` `known` `life` `live` `living` `lord` `make` `men` `mercy` `order` `praise` `prayer` `recover` `restoration` `seen` `sick` `sing` `sins` `songs` `spirit` `spiritual` `stringed` `tears` `things` `truth` `years`
+#add #back #boil #cast #children #christs #city #days #death #defend #deliver #divine #father #fifteen #healing #heard #hezekiah #house #instruments #known #life #live #living #lord #make #men #mercy #order #praise #prayer #recover #restoration #seen #sick #sing #sins #songs #spirit #spiritual #stringed #tears #things #truth #years
 
 
 ---

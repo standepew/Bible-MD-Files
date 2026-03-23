@@ -1,3 +1,19 @@
+---
+book: "2 Samuel"
+chapter: 1
+testament: "Old Testament"
+key_themes: "News of Saul's Death, Amalekite's Report, David's Grief, Execution of Amalekite, David's Lament"
+tags:
+  - looked-behind-called-answered-Amalekite
+  - Stand-slay-anguish-life-whole
+  - David-young-man-stranger-Amalekite
+  - David-young-men-smote-died
+  - mighty-fallen-weapons-war-perished
+  - news-of-saul
+  - amalekite
+  - david
+  - execution-of-amalekite
+---
 # 2 Samuel 1
 
 ---
@@ -83,7 +99,7 @@ After Saul's death, David returned from Amalekites' slaughter, abode two days in
 
 
 *AI Keywords for current event matching:*
-`abode` `afraid` `amalekite` `amalekites` `anguish` `anointed` `answered` `apparel` `arm` `askelon` `away` `battle` `beauty` `behind` `blood` `book` `bow` `bracelet` `brother` `called` `camp` `cast` `chance` `chariots` `children` `clothes` `comest` `crown` `daughters` `david` `davids` `day` `days` `dead` `death` `delights` `destroy` `dew` `died` `distressed` `divided` `eagles` `earth` `empty` `escaped` `execution` `fallen` `fasted` `fat` `fell` `fields` `fled` `followed` `gath` `gilboa` `gold` `grief` `hand` `head` `high` `horsemen` `house` `israel` `jasher` `jonathan` `judah` `knew` `lament` `lamentation` `leaned` `life` `lions` `live` `lives` `looked` `lord` `love` `lovely` `man` `matter` `men` `mighty` `mount` `mountains` `mourned` `mouth` `news` `obeisance` `offerings` `oil` `ornaments` `people` `perished` `philistines` `places` `pleasant` `rain` `rejoice` `rent` `report` `returned` `saul` `scarlet` `shield` `slain` `slaughter` `slay` `smote` `son` `spear` `stand` `stood` `stranger` `stretch` `stronger` `swifter` `sword` `teach` `tell` `testified` `third` `triumph` `two` `uncircumcised` `war` `weapons` `weep` `wept` `whence` `whole` `women` `wonderful` `young` `ziklag`
+#abode #afraid #amalekite #amalekites #anguish #anointed #answered #apparel #arm #askelon #away #battle #beauty #behind #blood #book #bow #bracelet #brother #called #camp #cast #chance #chariots #children #clothes #comest #crown #daughters #david #davids #day #days #dead #death #delights #destroy #dew #died #distressed #divided #eagles #earth #empty #escaped #execution #fallen #fasted #fat #fell #fields #fled #followed #gath #gilboa #gold #grief #hand #head #high #horsemen #house #israel #jasher #jonathan #judah #knew #lament #lamentation #leaned #life #lions #live #lives #looked #lord #love #lovely #man #matter #men #mighty #mount #mountains #mourned #mouth #news #obeisance #offerings #oil #ornaments #people #perished #philistines #places #pleasant #rain #rejoice #rent #report #returned #saul #scarlet #shield #slain #slaughter #slay #smote #son #spear #stand #stood #stranger #stretch #stronger #swifter #sword #teach #tell #testified #third #triumph #two #uncircumcised #war #weapons #weep #wept #whence #whole #women #wonderful #young #ziklag
 
 
 ---

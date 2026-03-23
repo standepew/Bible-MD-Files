@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 142
+testament: "Old Testament"
+key_themes: "Cave Prayer, Divine Refuge, Spiritual Despair, Deliverance from Persecutors"
+tags:
+  - cave-prayer
+  - divine-refuge
+  - spiritual-despair
+  - deliverance-from-persecutors
+---
 # Psalm 142
 
 ---
@@ -117,7 +128,7 @@ Maschil, David, Prayer, cave, cried, LORD, voice, voice, LORD, supplication, pou
 
 
 *AI Keywords for current event matching:*
-`attend` `bring` `brought` `cared` `cave` `compass` `complaint` `cried` `cry` `deliver` `deliverance` `despair` `divine` `failed` `land` `living` `lord` `low` `man` `overwhelmed` `persecutors` `portion` `poured` `prayer` `prison` `refuge` `righteous` `soul` `spirit` `spiritual` `stronger` `voice`
+#attend #bring #brought #cared #cave #compass #complaint #cried #cry #deliver #deliverance #despair #divine #failed #land #living #lord #low #man #overwhelmed #persecutors #portion #poured #prayer #prison #refuge #righteous #soul #spirit #spiritual #stronger #voice
 
 
 ---

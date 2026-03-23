@@ -1,3 +1,18 @@
+---
+book: "2 Kings"
+chapter: 24
+testament: "Old Testament"
+key_themes: "Babylonian Conquest, Jehoiakim's Rebellion, Jerusalem's Siege, Temple Treasures Taken, Babylonian Exile, Zedekiah's Reign"
+tags:
+  - evil-sight-LORD-father
+  - evil-sight-LORD-Jehoiakim
+  - babylonian-conquest
+  - jehoiakim
+  - jerusalem
+  - temple-treasures-taken
+  - babylonian-exile
+  - zedekiah
+---
 # 2 Kings 24
 
 ---
@@ -85,7 +100,7 @@ Days, Nebuchadnezzar, king, Babylon, Jehoiakim, servant, three years, turned, re
 
 
 *AI Keywords for current event matching:*
-`acts` `ammon` `anger` `apt` `babylon` `babylonian` `bands` `besieged` `blood` `book` `brother` `captive` `captives` `captivity` `carried` `cast` `chaldees` `changed` `children` `chronicles` `city` `commandment` `conquest` `craftsmen` `cut` `daughter` `days` `destroy` `egypt` `eighteen` `eighth` `eleven` `elnathan` `euphrates` `evil` `exile` `father` `fathers` `filled` `gold` `hamutal` `house` `innocent` `israel` `jehoiachin` `jehoiakim` `jehoiakims` `jeremiah` `jerusalem` `jerusalems` `judah` `king` `kings` `land` `libnah` `lord` `manasseh` `mattaniah` `men` `mighty` `moabites` `months` `mother` `name` `nebuchadnezzar` `nehushta` `officers` `pardon` `people` `pertained` `pieces` `poorest` `presence` `princes` `prophets` `rebelled` `rebellion` `reign` `reigned` `remove` `river` `said` `sent` `servant` `servants` `servents` `seven` `siege` `sight` `sins` `slept` `smiths` `solomon` `son` `spake` `stead` `strong` `syrians` `taken` `temple` `ten` `thousand` `three` `took` `treasures` `turned` `twenty-one` `valour` `vessels` `war` `wives` `word` `year` `years` `zedekiah` `zedekiahs`
+#acts #ammon #anger #apt #babylon #babylonian #bands #besieged #blood #book #brother #captive #captives #captivity #carried #cast #chaldees #changed #children #chronicles #city #commandment #conquest #craftsmen #cut #daughter #days #destroy #egypt #eighteen #eighth #eleven #elnathan #euphrates #evil #exile #father #fathers #filled #gold #hamutal #house #innocent #israel #jehoiachin #jehoiakim #jehoiakims #jeremiah #jerusalem #jerusalems #judah #king #kings #land #libnah #lord #manasseh #mattaniah #men #mighty #moabites #months #mother #name #nebuchadnezzar #nehushta #officers #pardon #people #pertained #pieces #poorest #presence #princes #prophets #rebelled #rebellion #reign #reigned #remove #river #said #sent #servant #servants #servents #seven #siege #sight #sins #slept #smiths #solomon #son #spake #stead #strong #syrians #taken #temple #ten #thousand #three #took #treasures #turned #twenty-one #valour #vessels #war #wives #word #year #years #zedekiah #zedekiahs
 
 
 ---

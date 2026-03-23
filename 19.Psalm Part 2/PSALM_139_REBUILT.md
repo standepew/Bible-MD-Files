@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 139
+testament: "Old Testament"
+key_themes: "God's Omniscience, Divine Presence, Creation Wonder, Separation from Evil"
+tags:
+  - god
+  - divine-presence
+  - creation-wonder
+  - separation-from-evil
+---
 # Psalm 139
 
 ---
@@ -153,7 +164,7 @@ LORD, searched, known, downsitting, uprising, understood, thought, afar, compass
 
 
 *AI Keywords for current event matching:*
-`ascend` `bed` `bloody` `book` `creation` `depart` `divine` `downsitting` `evil` `fearfully` `flee` `gods` `hatred` `heart` `heaven` `hell` `know` `known` `made` `members` `men` `mother` `omniscience` `perfect` `presence` `search` `searched` `separation` `slay` `spirit` `substance` `thought` `tongue` `understood` `unperfect` `uprising` `whither` `wicked` `womb` `wonder` `wonderfully` `word` `written`
+#ascend #bed #bloody #book #creation #depart #divine #downsitting #evil #fearfully #flee #gods #hatred #heart #heaven #hell #know #known #made #members #men #mother #omniscience #perfect #presence #search #searched #separation #slay #spirit #substance #thought #tongue #understood #unperfect #uprising #whither #wicked #womb #wonder #wonderfully #word #written
 
 
 ---

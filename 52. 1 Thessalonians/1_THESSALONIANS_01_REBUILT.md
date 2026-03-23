@@ -1,3 +1,14 @@
+---
+book: "1 Thessalonians"
+chapter: 1
+testament: "New Testament"
+key_themes: "Thanksgiving for the Thessalonians, Their Faith and Witness, Paul's Ministry, Waiting for Christ's Return"
+tags:
+  - thanksgiving-for-the-thessalonians
+  - their-faith-and-witness
+  - paul
+  - waiting-for-christ
+---
 # 1 Thessalonians 1
 
 ---
@@ -81,7 +92,7 @@ Paul, Silvanus, Timotheus, church, Thessalonians, God, Father, Lord, Jesus, Chri
 
 
 *AI Keywords for current event matching:*
-`abroad` `achaia` `affliction` `assurance` `believe` `beloved` `brethren` `ceasing` `christ` `christs` `church` `dead` `delivered` `election` `ensamples` `entering` `faith` `father` `followers` `ghost` `give` `god` `gospel` `grace` `heaven` `holy` `hope` `idols` `jesus` `joy` `know` `knowing` `labour` `living` `lord` `love` `macedonia` `manner` `ministry` `patience` `paul` `pauls` `peace` `place` `power` `prayers` `raised` `received` `remembering` `return` `sake` `serve` `shew` `sight` `silvanus` `son` `sounded` `speak` `spread` `thanks` `thanksgiving` `thessalonians` `timotheus` `true` `turned` `wait` `waiting` `ward` `witness` `word` `work` `wrath`
+#abroad #achaia #affliction #assurance #believe #beloved #brethren #ceasing #christ #christs #church #dead #delivered #election #ensamples #entering #faith #father #followers #ghost #give #god #gospel #grace #heaven #holy #hope #idols #jesus #joy #know #knowing #labour #living #lord #love #macedonia #manner #ministry #patience #paul #pauls #peace #place #power #prayers #raised #received #remembering #return #sake #serve #shew #sight #silvanus #son #sounded #speak #spread #thanks #thanksgiving #thessalonians #timotheus #true #turned #wait #waiting #ward #witness #word #work #wrath
 
 
 ---

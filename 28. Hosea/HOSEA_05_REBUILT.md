@@ -1,3 +1,13 @@
+---
+book: "Hosea"
+chapter: 5
+testament: "Old Testament"
+key_themes: "Christ's Judgment, Spiritual Pride, Divine Discipline, Christ's Return"
+tags:
+  - christ
+  - spiritual-pride
+  - divine-discipline
+---
 # Hosea 5
 
 ---
@@ -105,7 +115,7 @@ Hear, priests, hearken, house, Israel, ear, house, king, judgment, snare, Mizpah
 
 
 *AI Keywords for current event matching:*
-`acknowledge` `affliction` `away` `christs` `discipline` `divine` `early` `face` `fall` `iniquity` `israel` `judgment` `mizpah` `moth` `net` `offence` `place` `pour` `pride` `return` `rottenness` `seek` `snare` `spiritual` `spread` `tear` `testify` `toward` `walked` `willingly` `wrath`
+#acknowledge #affliction #away #christs #discipline #divine #early #face #fall #iniquity #israel #judgment #mizpah #moth #net #offence #place #pour #pride #return #rottenness #seek #snare #spiritual #spread #tear #testify #toward #walked #willingly #wrath
 
 
 ---

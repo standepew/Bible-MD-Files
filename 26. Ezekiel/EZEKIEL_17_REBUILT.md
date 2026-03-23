@@ -1,3 +1,13 @@
+---
+book: "Ezekiel"
+chapter: 17
+testament: "Old Testament"
+key_themes: "Christ's Kingdom, Babylonian Eagle, Divine Sovereignty, Christ's Covenant"
+tags:
+  - christ
+  - babylonian-eagle
+  - divine-sovereignty
+---
 # Ezekiel 17
 
 ---
@@ -129,7 +139,7 @@ Word, Lord, son, man, riddle, parable, house, Israel, Lord, GOD, great, eagle, g
 
 
 *AI Keywords for current event matching:*
-`babylonian` `branch` `break` `cedar` `christs` `city` `colours` `covenant` `cut` `despised` `divers` `divine` `eagle` `east` `fruit` `goodly` `great` `high` `highest` `kingdom` `land` `merchants` `net` `oath` `parable` `prosper` `pull` `riddle` `roots` `sovereignty` `spread` `traffick` `vine` `wind` `wings` `wither`
+#babylonian #branch #break #cedar #christs #city #colours #covenant #cut #despised #divers #divine #eagle #east #fruit #goodly #great #high #highest #kingdom #land #merchants #net #oath #parable #prosper #pull #riddle #roots #sovereignty #spread #traffick #vine #wind #wings #wither
 
 
 ---

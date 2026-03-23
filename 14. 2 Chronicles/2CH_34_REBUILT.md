@@ -1,3 +1,15 @@
+---
+book: "2 Chronicles"
+chapter: 34
+testament: "Old Testament"
+key_themes: "Faithful King, Idol Destruction, Temple Repair, Covenant Renewal"
+tags:
+  - king-gathered-elders-Judah-Jerusalem
+  - faithful-king
+  - idol-destruction
+  - temple-repair
+  - covenant-renewal
+---
 # 2 Chronicles 34
 
 ---
@@ -167,7 +179,7 @@ Josiah, eight, years, reigned, Jerusalem, thirty, years, right, sight, LORD, wal
 
 
 *AI Keywords for current event matching:*
-`abdon` `abominations` `ahikam` `altars` `amend` `anger` `answered` `appointed` `artificers` `asaiah` `azaliah` `baalim` `bearers` `beaten` `began` `benjamin` `bones` `book` `brake` `bring` `broken` `brought` `builders` `burdens` `burned` `burnt` `carried` `carved` `caused` `children` `cities` `city` `cleansed` `clothes` `college` `commanded` `commandments` `countries` `couplings` `covenant` `curses` `cut` `david` `days` `declined` `delivered` `departed` `destroyed` `destruction` `discovery` `doors` `down` `dust` `dwelt` `ears` `eight` `eighteenth` `eighth` `elders` `enquire` `ephraim` `evil` `eyes` `faithful` `faithfully` `father` `fathers` `floor` `following` `forsaken` `forward` `found` `gather` `gathered` `gave` `god` `gods` `governor` `grave` `graven` `graves` `great` `groves` `hand` `hands` `hasrah` `heard` `heart` `hewn` `high` `hilkiah` `house` `houses` `huldah` `humbled` `idol` `idols` `images` `incense` `inhabitants` `instruments` `israel` `jahath` `jerusalem` `joah` `joahaz` `josiah` `judah` `keep` `keeper` `kept` `king` `kings` `kohathites` `land` `law` `left` `levites` `lord` `maaseiah` `man` `manasseh` `mattocks` `men` `merari` `meshullam` `micah` `molten` `money` `moses` `musick` `naphtali` `obadiah` `officers` `overseers` `oversight` `peace` `people` `perform` `pieces` `place` `places` `porters` `poured` `powder` `presence` `present` `priest` `priests` `prophetess` `provoke` `purge` `purged` `quenched` `read` `recorder` `reign` `reigned` `remnant` `renewal` `rent` `repair` `returned` `right` `round` `sacrificed` `scribe` `scribes` `seek` `sent` `servant` `servants` `serve` `service` `set` `shallum` `shaphan` `sight` `simeon` `skill` `small` `son` `sons` `soul` `spake` `stand` `statutes` `stone` `strowed` `temple` `tender` `testimonies` `thirty` `tikvath` `timber` `twelfth` `walk` `walked` `wardrobe` `ways` `weep` `wife` `word` `words` `work` `workmen` `works` `wrath` `written` `wrought` `year` `years` `young` `zechariah`
+#abdon #abominations #ahikam #altars #amend #anger #answered #appointed #artificers #asaiah #azaliah #baalim #bearers #beaten #began #benjamin #bones #book #brake #bring #broken #brought #builders #burdens #burned #burnt #carried #carved #caused #children #cities #city #cleansed #clothes #college #commanded #commandments #countries #couplings #covenant #curses #cut #david #days #declined #delivered #departed #destroyed #destruction #discovery #doors #down #dust #dwelt #ears #eight #eighteenth #eighth #elders #enquire #ephraim #evil #eyes #faithful #faithfully #father #fathers #floor #following #forsaken #forward #found #gather #gathered #gave #god #gods #governor #grave #graven #graves #great #groves #hand #hands #hasrah #heard #heart #hewn #high #hilkiah #house #houses #huldah #humbled #idol #idols #images #incense #inhabitants #instruments #israel #jahath #jerusalem #joah #joahaz #josiah #judah #keep #keeper #kept #king #kings #kohathites #land #law #left #levites #lord #maaseiah #man #manasseh #mattocks #men #merari #meshullam #micah #molten #money #moses #musick #naphtali #obadiah #officers #overseers #oversight #peace #people #perform #pieces #place #places #porters #poured #powder #presence #present #priest #priests #prophetess #provoke #purge #purged #quenched #read #recorder #reign #reigned #remnant #renewal #rent #repair #returned #right #round #sacrificed #scribe #scribes #seek #sent #servant #servants #serve #service #set #shallum #shaphan #sight #simeon #skill #small #son #sons #soul #spake #stand #statutes #stone #strowed #temple #tender #testimonies #thirty #tikvath #timber #twelfth #walk #walked #wardrobe #ways #weep #wife #word #words #work #workmen #works #wrath #written #wrought #year #years #young #zechariah
 
 
 ---

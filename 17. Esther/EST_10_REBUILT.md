@@ -1,3 +1,14 @@
+---
+book: "Esther"
+chapter: 10
+testament: "Old Testament"
+key_themes: "Royal Tribute, Mordecai's Greatness, Final Honor, Peaceful Leadership"
+tags:
+  - royal-tribute
+  - mordecai
+  - final-honor
+  - peaceful-leadership
+---
 # Esther 10
 
 ---
@@ -81,7 +92,7 @@ King, Ahasuerus, laid, tribute, land, isles, sea. Acts, power, might, declaratio
 
 
 *AI Keywords for current event matching:*
-`accepted` `acts` `advanced` `ahasuerus` `book` `brethren` `chronicles` `declaration` `final` `great` `greatness` `honor` `isles` `jew` `jews` `king` `kings` `laid` `land` `leadership` `media` `mordecai` `mordecais` `multitude` `next` `peace` `peaceful` `people` `persia` `power` `royal` `sea` `seed` `seeking` `speaking` `tribute` `wealth` `written`
+#accepted #acts #advanced #ahasuerus #book #brethren #chronicles #declaration #final #great #greatness #honor #isles #jew #jews #king #kings #laid #land #leadership #media #mordecai #mordecais #multitude #next #peace #peaceful #people #persia #power #royal #sea #seed #seeking #speaking #tribute #wealth #written
 
 
 ---

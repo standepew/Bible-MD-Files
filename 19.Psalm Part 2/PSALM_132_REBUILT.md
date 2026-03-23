@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 132
+testament: "Old Testament"
+key_themes: "David's Covenant, God's Promise, Zion's Rest, Eternal Throne"
+tags:
+  - david
+  - god
+  - zion
+  - eternal-throne
+---
 # Psalm 132
 
 ---
@@ -201,7 +212,7 @@ Song, degrees, remember, David, afflictions, sware, LORD, vowed, mighty, God, Ja
 
 
 *AI Keywords for current event matching:*
-`abundantly` `afflictions` `bless` `body` `bud` `children` `chosen` `covenant` `crown` `david` `davids` `desired` `dwell` `eternal` `flourish` `forever` `forevermore` `fruit` `gods` `habitation` `horn` `keep` `lord` `promise` `provision` `remember` `rest` `set` `sit` `sware` `swore` `sworn` `throne` `truth` `zion` `zions`
+#abundantly #afflictions #bless #body #bud #children #chosen #covenant #crown #david #davids #desired #dwell #eternal #flourish #forever #forevermore #fruit #gods #habitation #horn #keep #lord #promise #provision #remember #rest #set #sit #sware #swore #sworn #throne #truth #zion #zions
 
 
 ---

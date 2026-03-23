@@ -1,3 +1,21 @@
+---
+book: "1 Samuel"
+chapter: 22
+testament: "Old Testament"
+key_themes: "David at Cave Adullam, Gathering of Followers, Parents to Moab, Prophet Gad's Direction, Saul's Paranoia, Doeg's Accusation, Priestly Massacre, Abiathar's Escape"
+tags:
+  - Saul-Ahitub-lord
+  - king-die-Ahimelech-father-house
+  - servants-king-hand-priests-LORD
+  - david-at-cave-adullam
+  - gathering-of-followers
+  - parents-to-moab
+  - prophet-gad
+  - saul
+  - doeg
+  - priestly-massacre
+  - abiathar
+---
 # 1 Samuel 22
 
 ---
@@ -87,7 +105,7 @@ David departed, escaped to cave Adullam; when his brethren and father's house he
 
 
 *AI Keywords for current event matching:*
-`abiathar` `abiathars` `accusation` `adullam` `ahimelech` `ahitub` `asses` `begin` `benjamites` `bidding` `bread` `brethren` `call` `captain` `captains` `cave` `children` `city` `conspired` `david` `davids` `death` `debt` `defense` `depart` `departed` `die` `direction` `discontented` `discovered` `distress` `divine` `doeg` `doegs` `dwelt` `edomite` `enquire` `enquired` `ephod` `escape` `escaped` `faithful` `father` `fear` `fields` `five` `fled` `footmen` `forest` `four` `fourscore` `gad` `gathered` `gibeah` `god` `goliath` `hand` `hareth` `heard` `hold` `honourable` `house` `hundred` `hundreds` `impute` `jesse` `jonathan` `judah` `king` `knew` `know` `land` `law` `league` `lie` `life` `linen` `lord` `massacre` `men` `mizpeh` `moab` `mother` `nob` `occasioned` `oxen` `paranoia` `philistine` `priest` `priestly` `priests` `prophet` `ramah` `refuge` `rise` `safeguard` `saul` `sauls` `seeketh` `servant` `servants` `sheep` `shew` `slay` `slew` `son` `sons` `sorry` `spear` `standing` `stirred` `sucklings` `sword` `thousands` `tree` `victuals` `vineyards` `wait` `went` `women`
+#abiathar #abiathars #accusation #adullam #ahimelech #ahitub #asses #begin #benjamites #bidding #bread #brethren #call #captain #captains #cave #children #city #conspired #david #davids #death #debt #defense #depart #departed #die #direction #discontented #discovered #distress #divine #doeg #doegs #dwelt #edomite #enquire #enquired #ephod #escape #escaped #faithful #father #fear #fields #five #fled #footmen #forest #four #fourscore #gad #gathered #gibeah #god #goliath #hand #hareth #heard #hold #honourable #house #hundred #hundreds #impute #jesse #jonathan #judah #king #knew #know #land #law #league #lie #life #linen #lord #massacre #men #mizpeh #moab #mother #nob #occasioned #oxen #paranoia #philistine #priest #priestly #priests #prophet #ramah #refuge #rise #safeguard #saul #sauls #seeketh #servant #servants #sheep #shew #slay #slew #son #sons #sorry #spear #standing #stirred #sucklings #sword #thousands #tree #victuals #vineyards #wait #went #women
 
 
 ---

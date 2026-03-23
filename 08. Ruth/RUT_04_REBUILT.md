@@ -1,3 +1,23 @@
+---
+book: "Ruth"
+chapter: 4
+testament: "Old Testament"
+key_themes: "Gate Transaction, Ten Elders, Land Redemption, Ruth's Marriage, Shoe Testimony, Witnesses Blessing, Boaz and Ruth's Marriage, Obed's Birth, Davidic Genealogy"
+tags:
+  - ten-men-elders-city-sat
+  - kinsman-Boaz-Buy-shoe-drew
+  - worthily-Ephratah-famous-Beth-lehem
+  - Naomi-child-bosom-nurse-child
+  - gate-transaction
+  - ten-elders
+  - land-redemption
+  - ruth
+  - shoe-testimony
+  - witnesses-blessing
+  - boaz-and-ruth
+  - obed
+  - davidic-genealogy
+---
 # Ruth 4
 
 ---
@@ -95,7 +115,7 @@ Boaz went to the gate and sat down. The kinsman he had spoken of came by, and Bo
 
 
 *AI Keywords for current event matching:*
-`advertise` `age` `amminadab` `aside` `bare` `beth-lehem` `birth` `blessed` `blessing` `boaz` `born` `bosom` `bought` `brethren` `brother` `build` `buy` `called` `ceremony` `changing` `child` `chilion` `city` `conception` `confirm` `country` `cut` `daughter` `david` `davidic` `day` `dead` `drew` `elders` `elimelech` `ephratah` `famous` `father` `field` `former` `gate` `genealogy` `generations` `hand` `hezron` `house` `inhabitants` `inheritance` `israel` `jesse` `judah` `kinsman` `kinsmans` `know` `land` `leah` `life` `lord` `love` `mahlon` `manner` `mar` `marriage` `men` `mine` `moab` `moabitess` `nahshon` `name` `naming` `naomi` `naomis` `neighbour` `neighbours` `nourisher` `nurse` `obed` `old` `parcel` `people` `pharez` `place` `plucked` `prayer` `public` `purchased` `rachel` `raise` `ram` `redeem` `redeeming` `redemption` `refusal` `restoration` `restorer` `right` `ruth` `ruths` `salmon` `sat` `seed` `selleth` `seven` `shoe` `son` `sons` `spoke` `tamar` `tell` `ten` `testimony` `thyself` `time` `transaction` `turn` `went` `wife` `witnesses` `woman` `women` `worthily` `young`
+#advertise #age #amminadab #aside #bare #beth-lehem #birth #blessed #blessing #boaz #born #bosom #bought #brethren #brother #build #buy #called #ceremony #changing #child #chilion #city #conception #confirm #country #cut #daughter #david #davidic #day #dead #drew #elders #elimelech #ephratah #famous #father #field #former #gate #genealogy #generations #hand #hezron #house #inhabitants #inheritance #israel #jesse #judah #kinsman #kinsmans #know #land #leah #life #lord #love #mahlon #manner #mar #marriage #men #mine #moab #moabitess #nahshon #name #naming #naomi #naomis #neighbour #neighbours #nourisher #nurse #obed #old #parcel #people #pharez #place #plucked #prayer #public #purchased #rachel #raise #ram #redeem #redeeming #redemption #refusal #restoration #restorer #right #ruth #ruths #salmon #sat #seed #selleth #seven #shoe #son #sons #spoke #tamar #tell #ten #testimony #thyself #time #transaction #turn #went #wife #witnesses #woman #women #worthily #young
 
 
 ---

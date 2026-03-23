@@ -1,3 +1,16 @@
+---
+book: "2 Kings"
+chapter: 7
+testament: "Old Testament"
+key_themes: "Famine Prophecy, Syrian Flight, Leprous Discovery, Prophetic Fulfillment, Skeptic's Judgment"
+tags:
+  - people-trode-gate-died
+  - famine-prophecy
+  - syrian-flight
+  - leprous-discovery
+  - prophetic-fulfillment
+  - skeptic
+---
 # 2 Kings 7
 
 ---
@@ -89,7 +102,7 @@ Elisha, LORD, word, LORD, morrow, measure fine flour, shekel, two measures barle
 
 
 *AI Keywords for current event matching:*
-`abandonment` `alive` `asses` `ate` `barley` `camp` `carried` `catch` `charge` `chariot` `chariots` `city` `consumed` `day` `die` `died` `divine` `drank` `eat` `egyptians` `elisha` `entering` `eyes` `famine` `field` `fine` `fled` `flour` `fulfillment` `garments` `gate` `god` `gold` `good` `great` `haste` `heaven` `hid` `hired` `hittites` `horses` `host` `house` `household` `hungry` `initiative` `intervention` `investigation` `israel` `israelites` `jordan` `judgment` `kill` `king` `kings` `leaned` `leprous` `life` `live` `lord` `man` `measure` `measures` `men` `messengers` `mischief` `morning` `morrow` `multitude` `news` `night` `noise` `peace` `people` `porter` `porters` `promise` `prophetic` `raiment` `report` `samaria` `save` `servant` `servants` `shekel` `silver` `skeptics` `spoke` `syria` `syrian` `syrians` `tent` `tents` `thing` `tidings` `tied` `trode` `twilight` `two` `uttermost` `vessels` `voice` `way` `well` `windows` `word`
+#abandonment #alive #asses #ate #barley #camp #carried #catch #charge #chariot #chariots #city #consumed #day #die #died #divine #drank #eat #egyptians #elisha #entering #eyes #famine #field #fine #fled #flour #fulfillment #garments #gate #god #gold #good #great #haste #heaven #hid #hired #hittites #horses #host #house #household #hungry #initiative #intervention #investigation #israel #israelites #jordan #judgment #kill #king #kings #leaned #leprous #life #live #lord #man #measure #measures #men #messengers #mischief #morning #morrow #multitude #news #night #noise #peace #people #porter #porters #promise #prophetic #raiment #report #samaria #save #servant #servants #shekel #silver #skeptics #spoke #syria #syrian #syrians #tent #tents #thing #tidings #tied #trode #twilight #two #uttermost #vessels #voice #way #well #windows #word
 
 
 ---

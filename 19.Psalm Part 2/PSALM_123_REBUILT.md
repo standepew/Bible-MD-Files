@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 123
+testament: "Old Testament"
+key_themes: "Humble Supplication, Divine Mercy, Servant's Dependence, Contempt of the Proud"
+tags:
+  - humble-supplication
+  - divine-mercy
+  - servant
+  - contempt-of-the-proud
+---
 # Psalm 123
 
 ---
@@ -81,7 +92,7 @@ Song, degrees, lift, eyes, dwellest, heavens, Behold, eyes, servants, hand, mast
 
 
 *AI Keywords for current event matching:*
-`contempt` `dependence` `divine` `dwellest` `ease` `eyes` `filled` `god` `hand` `heavens` `humble` `lift` `lord` `maiden` `masters` `mercy` `mistress` `proud` `scorning` `servants` `supplication` `until` `wait`
+#contempt #dependence #divine #dwellest #ease #eyes #filled #god #hand #heavens #humble #lift #lord #maiden #masters #mercy #mistress #proud #scorning #servants #supplication #until #wait
 
 
 ---

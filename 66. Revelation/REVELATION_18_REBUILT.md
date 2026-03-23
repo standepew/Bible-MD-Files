@@ -1,3 +1,15 @@
+---
+book: "Revelation"
+chapter: 18
+testament: "New Testament"
+key_themes: "The Fall of Babylon, The Lament of the Kings, The Lament of the Merchants, The Final Destruction, The Rejoicing of Heaven"
+tags:
+  - the-fall-of-babylon
+  - the-lament-of-the-kings
+  - the-lament-of-the-merchants
+  - the-final-destruction
+  - the-rejoicing-of-heaven
+---
 # Revelation 18
 
 ---
@@ -119,7 +131,7 @@ Angel, heaven, great, power, earth, lightened, glory, cried, mightily, strong, v
 
 
 *AI Keywords for current event matching:*
-`abundance` `afar` `alas` `angel` `apostles` `avenged` `babylon` `beasts` `bewail` `bird` `blood` `brass` `bride` `bridegroom` `burned` `burning` `buyeth` `cage` `candle` `cast` `chariots` `cinnamon` `city` `clothed` `come` `committed` `company` `costliness` `craft` `craftsman` `cried` `cup` `dainty` `day` `death` `deceived` `decked` `delicacies` `deliciously` `departed` `desolate` `destruction` `devils` `double` `drunk` `dust` `earth` `fall` `fallen` `famine` `fear` `filled` `final` `find` `fine` `fire` `flour` `fornication` `foul` `found` `frankincense` `fruits` `glorified` `glory` `god` `gold` `goodly` `great` `habitation` `harpers` `hateful` `heads` `heard` `heart` `heaven` `hold` `holy` `horses` `hour` `iniquities` `iron` `ivory` `judgeth` `judgment` `kings` `lament` `light` `lightened` `linen` `lived` `lord` `lusted` `made` `marble` `men` `merchandise` `merchants` `mightily` `mighty` `millstone` `mourn` `mourning` `musicians` `nations` `nought` `odours` `oil` `ointments` `partakers` `pearls` `people` `pipers` `plagues` `power` `precious` `prophets` `purple` `queen` `reached` `reason` `receive` `rejoice` `rejoicing` `remembered` `reward` `rewarded` `rich` `riches` `sailors` `saints` `saying` `scarlet` `sea` `sheep` `shine` `shipmaster` `ships` `silk` `silver` `sins` `sit` `slain` `slaves` `smoke` `sorceries` `sorrow` `soul` `souls` `sound` `spirit` `stand` `standing` `stone` `stones` `strong` `thrown` `thyine` `torment` `trade` `trumpeters` `unclean` `vessels` `violence` `voice` `wailing` `waxed` `weep` `weeping` `wheat` `widow` `wine` `wood` `works` `wrath`
+#abundance #afar #alas #angel #apostles #avenged #babylon #beasts #bewail #bird #blood #brass #bride #bridegroom #burned #burning #buyeth #cage #candle #cast #chariots #cinnamon #city #clothed #come #committed #company #costliness #craft #craftsman #cried #cup #dainty #day #death #deceived #decked #delicacies #deliciously #departed #desolate #destruction #devils #double #drunk #dust #earth #fall #fallen #famine #fear #filled #final #find #fine #fire #flour #fornication #foul #found #frankincense #fruits #glorified #glory #god #gold #goodly #great #habitation #harpers #hateful #heads #heard #heart #heaven #hold #holy #horses #hour #iniquities #iron #ivory #judgeth #judgment #kings #lament #light #lightened #linen #lived #lord #lusted #made #marble #men #merchandise #merchants #mightily #mighty #millstone #mourn #mourning #musicians #nations #nought #odours #oil #ointments #partakers #pearls #people #pipers #plagues #power #precious #prophets #purple #queen #reached #reason #receive #rejoice #rejoicing #remembered #reward #rewarded #rich #riches #sailors #saints #saying #scarlet #sea #sheep #shine #shipmaster #ships #silk #silver #sins #sit #slain #slaves #smoke #sorceries #sorrow #soul #souls #sound #spirit #stand #standing #stone #stones #strong #thrown #thyine #torment #trade #trumpeters #unclean #vessels #violence #voice #wailing #waxed #weep #weeping #wheat #widow #wine #wood #works #wrath
 
 
 ---

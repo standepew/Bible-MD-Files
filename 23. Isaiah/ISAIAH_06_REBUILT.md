@@ -1,3 +1,14 @@
+---
+book: "Isaiah"
+chapter: 6
+testament: "Old Testament"
+key_themes: "Christ's Glory, Isaiah's Commission, Spiritual Cleansing, Divine Call"
+tags:
+  - christ
+  - isaiah
+  - spiritual-cleansing
+  - divine-call
+---
 # Isaiah 6
 
 ---
@@ -141,7 +152,7 @@ Year, king, Uzziah, died, Lord, sitting, throne, lifted, train, filled, temple, 
 
 
 *AI Keywords for current event matching:*
-`away` `call` `christs` `cleansing` `coal` `commission` `divine` `filled` `glory` `hear` `here` `holy` `iniquity` `isaiahs` `lifted` `lips` `live` `perceive` `purged` `return` `see` `seed` `send` `seraphims` `sin` `spiritual` `taken` `temple` `tenth` `throne` `touched` `train` `unclean` `understand` `undone` `woe`
+#away #call #christs #cleansing #coal #commission #divine #filled #glory #hear #here #holy #iniquity #isaiahs #lifted #lips #live #perceive #purged #return #see #seed #send #seraphims #sin #spiritual #taken #temple #tenth #throne #touched #train #unclean #understand #undone #woe
 
 
 ---

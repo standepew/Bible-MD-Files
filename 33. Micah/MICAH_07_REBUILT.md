@@ -1,3 +1,14 @@
+---
+book: "Micah"
+chapter: 7
+testament: "Old Testament"
+key_themes: "Christ's Personal Lament, Social Corruption, Divine Hope, God's Mercy and Forgiveness"
+tags:
+  - christ
+  - social-corruption
+  - divine-hope
+  - god
+---
 # Micah 7
 
 ---
@@ -129,7 +140,7 @@ Woe, gathered, summer, fruits, grapegatherings, vintage, cluster, eat, soul, des
 
 
 *AI Keywords for current event matching:*
-`anger` `arise` `blood` `brother` `christs` `corruption` `delighteth` `depths` `divine` `enemies` `fall` `forgiveness` `friend` `fruits` `gathered` `gods` `good` `hope` `house` `hunt` `iniquity` `lament` `lie` `light` `look` `lord` `man` `men` `mercy` `net` `pardoneth` `perished` `personal` `retain` `salvation` `sea` `social` `summer` `trust` `upright` `wait` `woe`
+#anger #arise #blood #brother #christs #corruption #delighteth #depths #divine #enemies #fall #forgiveness #friend #fruits #gathered #gods #good #hope #house #hunt #iniquity #lament #lie #light #look #lord #man #men #mercy #net #pardoneth #perished #personal #retain #salvation #sea #social #summer #trust #upright #wait #woe
 
 
 ---

@@ -1,3 +1,14 @@
+---
+book: "Proverbs"
+chapter: 8
+testament: "Old Testament"
+key_themes: "Wisdom's Call, Divine Creation, Eternal Existence, Life and Favor"
+tags:
+  - wisdom
+  - divine-creation
+  - eternal-existence
+  - life-and-favor
+---
 # Proverbs 8
 
 ---
@@ -141,7 +152,7 @@ Wisdom, cry, understanding, put, voice, standeth, top, high, places, way, places
 
 
 *AI Keywords for current event matching:*
-`beginning` `blessed` `brought` `call` `compass` `creation` `crieth` `cry` `depths` `divine` `early` `earth` `entry` `eternal` `everlasting` `existence` `favor` `favour` `find` `findeth` `forth` `gates` `heavens` `high` `keep` `life` `lord` `love` `obtain` `places` `possessed` `prepared` `set` `standeth` `top` `understanding` `voice` `way` `ways` `wisdom` `wisdoms` `works`
+#beginning #blessed #brought #call #compass #creation #crieth #cry #depths #divine #early #earth #entry #eternal #everlasting #existence #favor #favour #find #findeth #forth #gates #heavens #high #keep #life #lord #love #obtain #places #possessed #prepared #set #standeth #top #understanding #voice #way #ways #wisdom #wisdoms #works
 
 
 ---

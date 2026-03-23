@@ -1,3 +1,13 @@
+---
+book: "Isaiah"
+chapter: 44
+testament: "Old Testament"
+key_themes: "Christ's Servant, Divine Blessing, Spiritual Renewal, Christ's Forgiveness"
+tags:
+  - christ
+  - divine-blessing
+  - spiritual-renewal
+---
 # Isaiah 44
 
 ---
@@ -105,7 +115,7 @@ Hear, Jacob, servant, Israel, chosen, LORD, made, formed, womb, help, Fear, Jaco
 
 
 *AI Keywords for current event matching:*
-`blessing` `blotted` `chosen` `christs` `cloud` `divine` `forgiveness` `forgotten` `formed` `glorified` `grass` `heavens` `israel` `jacob` `jesurun` `offspring` `pour` `redeemed` `renewal` `return` `seed` `servant` `shout` `sing` `sins` `spirit` `spiritual` `spring` `thick` `thirsty` `transgressions` `water` `willows` `womb`
+#blessing #blotted #chosen #christs #cloud #divine #forgiveness #forgotten #formed #glorified #grass #heavens #israel #jacob #jesurun #offspring #pour #redeemed #renewal #return #seed #servant #shout #sing #sins #spirit #spiritual #spring #thick #thirsty #transgressions #water #willows #womb
 
 
 ---

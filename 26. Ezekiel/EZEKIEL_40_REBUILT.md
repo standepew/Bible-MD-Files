@@ -1,3 +1,13 @@
+---
+book: "Ezekiel"
+chapter: 40
+testament: "Old Testament"
+key_themes: "Christ's Temple, Divine Vision, Holy Architecture, Christ's Presence"
+tags:
+  - christ
+  - divine-vision
+  - holy-architecture
+---
 # Ezekiel 40
 
 ---
@@ -105,7 +115,7 @@ Five, twentieth, year, captivity, beginning, year, tenth, day, month, fourteenth
 
 
 *AI Keywords for current event matching:*
-`altar` `architecture` `behold` `brass` `chambers` `christs` `declare` `divine` `ears` `eyes` `foursquare` `god` `hear` `heart` `high` `holy` `little` `lord` `man` `measuring` `minister` `mountain` `near` `palm` `presence` `reed` `round` `seest` `set` `sons` `temple` `trees` `vision` `visions` `wall` `zadok`
+#altar #architecture #behold #brass #chambers #christs #declare #divine #ears #eyes #foursquare #god #hear #heart #high #holy #little #lord #man #measuring #minister #mountain #near #palm #presence #reed #round #seest #set #sons #temple #trees #vision #visions #wall #zadok
 
 
 ---

@@ -1,3 +1,14 @@
+---
+book: "Amos"
+chapter: 4
+testament: "Old Testament"
+key_themes: "Christ's Call to Repentance, Divine Discipline, God's Creation, Prepare to Meet God"
+tags:
+  - christ
+  - divine-discipline
+  - god
+  - prepare-to-meet-god
+---
 # Amos 4
 
 ---
@@ -105,7 +116,7 @@ Hear, word, kine, Bashan, mountain, Samaria, oppress, poor, crush, needy, master
 
 
 *AI Keywords for current event matching:*
-`blasting` `bread` `call` `christs` `cleanness` `createth` `creation` `crush` `discipline` `divine` `formeth` `god` `gods` `hear` `high` `hosts` `israel` `lord` `maketh` `meet` `morning` `mountains` `name` `needy` `oppress` `places` `poor` `prepare` `rain` `repentance` `returned` `smitten` `teeth` `treadeth` `want` `wind` `withholden` `word` `yet`
+#blasting #bread #call #christs #cleanness #createth #creation #crush #discipline #divine #formeth #god #gods #hear #high #hosts #israel #lord #maketh #meet #morning #mountains #name #needy #oppress #places #poor #prepare #rain #repentance #returned #smitten #teeth #treadeth #want #wind #withholden #word #yet
 
 
 ---

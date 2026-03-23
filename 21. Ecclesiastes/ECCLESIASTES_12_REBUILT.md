@@ -1,3 +1,14 @@
+---
+book: "Ecclesiastes"
+chapter: 12
+testament: "Old Testament"
+key_themes: "Remember Creator, Aging and Death, Divine Judgment, Wisdom's Conclusion"
+tags:
+  - remember-creator
+  - aging-and-death
+  - divine-judgment
+  - wisdom
+---
 # Ecclesiastes 12
 
 ---
@@ -165,7 +176,7 @@ Remember, Creator, days, youth, evil, days, come, years, draw, nigh, pleasure, s
 
 
 *AI Keywords for current event matching:*
-`aging` `bow` `bring` `come` `commandments` `conclusion` `cord` `creator` `days` `death` `divine` `draw` `duty` `evil` `fear` `goads` `god` `good` `house` `judgment` `keepers` `loosed` `man` `men` `nigh` `remember` `secret` `silver` `strong` `thing` `tremble` `whole` `wisdoms` `wise` `words` `years` `youth`
+#aging #bow #bring #come #commandments #conclusion #cord #creator #days #death #divine #draw #duty #evil #fear #goads #god #good #house #judgment #keepers #loosed #man #men #nigh #remember #secret #silver #strong #thing #tremble #whole #wisdoms #wise #words #years #youth
 
 
 ---

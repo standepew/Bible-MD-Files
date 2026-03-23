@@ -1,3 +1,55 @@
+---
+book: "Genesis"
+chapter: 18
+testament: "Old Testament"
+key_themes: "The LORD Appears at Mamre — Theophany in Human Form, Abraham Sitting at the Tent Door in the Heat of the Day, Three Men — One Is the LORD, Abraham Runs and Bows — Extravagant Hospitality, The Meal Prepared — Calf Tender and Good, Butter, Milk, and Cakes, "Where Is Sarah Thy Wife?" — The Question That Announced the Miracle, "Is Any Thing Too Hard for the LORD?" — The Rhetorical Question of All Time, "At the Time Appointed" — Divine Precision, Sarah Laughs Within Herself — Doubt and Fear, "Nay; But Thou Didst Laugh" — God Sees the Hidden, "Shall I Hide from Abraham?" — The Counsel of a Friend, "For I Know Him" — God's Testimony About Abraham, "The Cry of Sodom Is Great" — Sin That Ascends to Heaven, "I Will Go Down and See" — Judicial Due Diligence, Abraham Stands Before the LORD — The Intercessor's Posture, "Shall Not the Judge of All the Earth Do Right?" — The Appeal to Divine Character, The Descending Intercession — 50 to 10, "I Will Not Destroy It for Ten's Sake""
+tags:
+  - theophany-Mamre
+  - three-men-one-LORD
+  - Abraham-hospitality
+  - running-urgency
+  - extravagant-service
+  - wash-your-feet
+  - calf-tender-good
+  - butter-milk-cakes
+  - Where-is-Sarah
+  - is-anything-too-hard
+  - pala
+  - appointed-time
+  - moedim
+  - Sarah-laughs
+  - tsachaq
+  - doubt-within
+  - Nay-but-thou-didst-laugh
+  - God-sees-hidden
+  - Shall-I-hide-from-Abraham
+  - Amos-3-7
+  - John-15-15
+  - Abraham-friend-of-God
+  - for-I-know-him
+  - command-household-in-righteousness
+  - cry-of-Sodom
+  - zeaqah
+  - sin-ascends-to-heaven
+  - I-will-go-down-and-see
+  - judicial-due-diligence
+  - Abraham-stands-before-LORD
+  - intercessor-posture
+  - Judge-of-all-the-earth
+  - shall-not-Judge-do-right
+  - 50-to-10
+  - ten-righteous
+  - intercession-pattern
+  - dust-and-ashes
+  - righteous-not-with-wicked
+  - Hebrews-13-2
+  - Genesis-19-1
+  - angels-unawares
+  - pre-incarnate-Christ
+  - Revelation-3-20
+  - marriage-supper
+  - Ezekiel-22-30
+---
 # Genesis 18
 
 ---
@@ -156,7 +208,7 @@
 
 For AI matching to topics and current events:
 
-`theophany Mamre` `pre-incarnate Christ eating` `three men one LORD` `two angels Sodom` `Abraham runs bows` `extravagant hospitality` `Hebrews 13:2` `angels unawares` `wash your feet` `calf tender and good` `Where is Sarah` `is anything too hard for the LORD` `pala` `wonderful miraculous beyond ability` `Jeremiah 32:17` `Jeremiah 32:27` `Luke 1:37` `appointed time moedim` `Galatians 4:4` `Sarah laughs within herself` `tsachaq` `God hears hidden laugh` `Nay but thou didst laugh` `Psalm 139:1-4` `Hebrews 4:12-13` `Shall I hide from Abraham` `Amos 3:7` `John 15:15` `Abraham Friend of God` `James 2:23` `for I know him` `command household in righteousness` `cry of Sodom` `zeaqah` `sin ascends to heaven` `Genesis 4:10` `iniquity not yet full` `I will go down and see` `judicial due diligence` `Abraham stands before LORD` `intercessor posture` `drew near vayigash` `Judge of all the earth` `shall not Judge do right` `50 to 10 intercession` `dust and ashes` `ten righteous` `minyan` `Ezekiel 22:30 stand in gap` `Romans 8:34 Christ intercedes` `Hebrews 7:25` `marriage supper Revelation 3:20` `Revelation 19:9`
+#theophany-Mamre #pre-incarnate-Christ-eating #three-men-one-LORD #two-angels-Sodom #Abraham-runs-bows #extravagant-hospitality #Hebrews-132 #angels-unawares #wash-your-feet #calf-tender-and-good #Where-is-Sarah #is-anything-too-hard-for-the-LORD #pala #wonderful-miraculous-beyond-ability #Jeremiah-3217 #Jeremiah-3227 #Luke-137 #appointed-time-moedim #Galatians-44 #Sarah-laughs-within-herself #tsachaq #God-hears-hidden-laugh #Nay-but-thou-didst-laugh #Psalm-1391-4 #Hebrews-412-13 #Shall-I-hide-from-Abraham #Amos-37 #John-1515 #Abraham-Friend-of-God #James-223 #for-I-know-him #command-household-in-righteousness #cry-of-Sodom #zeaqah #sin-ascends-to-heaven #Genesis-410 #iniquity-not-yet-full #I-will-go-down-and-see #judicial-due-diligence #Abraham-stands-before-LORD #intercessor-posture #drew-near-vayigash #Judge-of-all-the-earth #shall-not-Judge-do-right #50-to-10-intercession #dust-and-ashes #ten-righteous #minyan #Ezekiel-2230-stand-in-gap #Romans-834-Christ-intercedes #Hebrews-725 #marriage-supper-Revelation-320 #Revelation-199
 
 **Relevance to Current Events:**
 - National judgment and intercession — Genesis 18:20-32 is the foundational text for intercessory prayer for nations under divine judgment; Ezekiel 22:30's "I sought for a man... but found none" is the warning side of Genesis 18:23-32's model; the church's intercessory role for nations threatened by judgment is grounded here
@@ -466,7 +518,7 @@ For AI matching to topics and current events:
 
 ### The Divine Descent — From Mamre to Bethlehem to the New Jerusalem
 
-**Genesis 18:21** — "I will go down now"
+[[01. Genesis/GEN_18_REBUILT|Genesis 18:21]] — "I will go down now"
 
 **Thread:**
 - Genesis 11:5-7 — "The LORD came down to see the city" (Babel) — descent for judgment on pride
@@ -480,7 +532,7 @@ For AI matching to topics and current events:
 
 ### Covenant Fellowship Meals — From Mamre to the Marriage Supper
 
-**Genesis 18:8** — "they did eat"
+[[01. Genesis/GEN_18_REBUILT|Genesis 18:8]] — "they did eat"
 
 **Thread:**
 - Genesis 14:18 — Melchizedek brought bread and wine to Abram (first covenant meal)
@@ -495,7 +547,7 @@ For AI matching to topics and current events:
 
 ### The Righteous Remnant — From Abraham's Ten to the Seven Thousand to the Seal of God
 
-**Genesis 18:32** — "I will not destroy it for ten's sake"
+[[01. Genesis/GEN_18_REBUILT|Genesis 18:32]] — "I will not destroy it for ten's sake"
 
 **Thread:**
 - Genesis 18:32 — ten righteous would spare an entire city; Sodom had none
@@ -509,7 +561,7 @@ For AI matching to topics and current events:
 
 ### "I Know Him" — The Covenant Friendship Pattern
 
-**Genesis 18:19** — "For I know him, that he will command his children and his household"
+[[01. Genesis/GEN_18_REBUILT|Genesis 18:19]] — "For I know him, that he will command his children and his household"
 
 **Thread:**
 - Genesis 18:19 — "I know him" — God's declaration about Abraham; friendship grounded in faith and household faithfulness

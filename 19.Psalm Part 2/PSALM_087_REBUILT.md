@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 87
+testament: "Old Testament"
+key_themes: "Zion's Glory, Divine Foundation, Universal Recognition, Eternal City"
+tags:
+  - zion
+  - divine-foundation
+  - universal-recognition
+  - eternal-city
+---
 # Psalm 87
 
 ---
@@ -93,7 +104,7 @@ Psalm, Song, sons, Korah, foundation, holy, mountains, LORD, loveth, gates, Zion
 
 
 *AI Keywords for current event matching:*
-`babylon` `behold` `born` `builder` `city` `divine` `dwellings` `establish` `eternal` `ethiopia` `foundation` `gates` `glorious` `glory` `god` `highest` `holy` `instruments` `jacob` `know` `korah` `lord` `loveth` `maker` `man` `mention` `mountains` `philistia` `players` `psalm` `rahab` `recognition` `singers` `song` `sons` `spoken` `springs` `things` `tyre` `universal` `zion` `zions`
+#babylon #behold #born #builder #city #divine #dwellings #establish #eternal #ethiopia #foundation #gates #glorious #glory #god #highest #holy #instruments #jacob #know #korah #lord #loveth #maker #man #mention #mountains #philistia #players #psalm #rahab #recognition #singers #song #sons #spoken #springs #things #tyre #universal #zion #zions
 
 
 ---

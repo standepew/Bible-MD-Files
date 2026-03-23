@@ -1,3 +1,14 @@
+---
+book: "Isaiah"
+chapter: 65
+testament: "Old Testament"
+key_themes: "Christ's Salvation, Divine Judgment, New Creation, Eternal Kingdom"
+tags:
+  - christ
+  - divine-judgment
+  - new-creation
+  - eternal-kingdom
+---
 # Isaiah 65
 
 ---
@@ -93,7 +104,7 @@ Sought, asked, found, sought, Behold, behold, nation, called, name, spread, hand
 
 
 *AI Keywords for current event matching:*
-`anger` `asked` `bow` `build` `christs` `cluster` `continually` `create` `creation` `destroy` `divine` `earth` `elect` `enjoy` `eternal` `feed` `former` `found` `hands` `heavens` `holy` `houses` `hurt` `inhabit` `inherit` `jerusalem` `judgment` `kingdom` `lamb` `long` `mountain` `new` `number` `people` `provoketh` `rebellious` `rejoicing` `remembered` `sakes` `salvation` `servants` `sought` `sword` `wine` `wolf` `work`
+#anger #asked #bow #build #christs #cluster #continually #create #creation #destroy #divine #earth #elect #enjoy #eternal #feed #former #found #hands #heavens #holy #houses #hurt #inhabit #inherit #jerusalem #judgment #kingdom #lamb #long #mountain #new #number #people #provoketh #rebellious #rejoicing #remembered #sakes #salvation #servants #sought #sword #wine #wolf #work
 
 
 ---

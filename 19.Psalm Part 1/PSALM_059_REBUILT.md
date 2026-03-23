@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 59
+testament: "Old Testament"
+key_themes: "Deliverance from Enemies, God's Defense, Wicked's Pride, Divine Power"
+tags:
+  - deliverance-from-enemies
+  - god
+  - wicked
+  - divine-power
+---
 # Psalm 59
 
 ---
@@ -141,7 +152,7 @@ Chief, Musician, Al, taschith, Michtam, David, Saul, sent, watched, house, kill,
 
 
 *AI Keywords for current event matching:*
-`against` `aloud` `awake` `belch` `bloody` `chief` `city` `consume` `cursing` `david` `defence` `defend` `defense` `deliver` `deliverance` `derision` `divine` `dog` `enemies` `evening` `gathered` `god` `gods` `hear` `heathen` `hosts` `house` `iniquity` `israel` `kill` `laugh` `lie` `lips` `lord` `lying` `make` `men` `mercy` `michtam` `mighty` `morning` `mouth` `musician` `noise` `power` `pride` `refuge` `return` `rise` `round` `saul` `save` `sent` `shield` `sin` `sing` `soul` `speak` `strength` `swords` `taken` `taschith` `transgression` `visit` `wait` `watched` `wickeds` `workers` `wrath`
+#against #aloud #awake #belch #bloody #chief #city #consume #cursing #david #defence #defend #defense #deliver #deliverance #derision #divine #dog #enemies #evening #gathered #god #gods #hear #heathen #hosts #house #iniquity #israel #kill #laugh #lie #lips #lord #lying #make #men #mercy #michtam #mighty #morning #mouth #musician #noise #power #pride #refuge #return #rise #round #saul #save #sent #shield #sin #sing #soul #speak #strength #swords #taken #taschith #transgression #visit #wait #watched #wickeds #workers #wrath
 
 
 ---

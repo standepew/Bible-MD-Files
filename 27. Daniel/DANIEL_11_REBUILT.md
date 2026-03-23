@@ -1,3 +1,14 @@
+---
+book: "Daniel"
+chapter: 11
+testament: "Old Testament"
+key_themes: "Christ's Kingdom, King of South, King of North, Holy Covenant"
+tags:
+  - christ
+  - king-of-south
+  - king-of-north
+  - holy-covenant
+---
 # Daniel 11
 
 ---
@@ -105,7 +116,7 @@ First, year, Darius, Mede, stood, confirm, strengthen, shew, truth, three, kings
 
 
 *AI Keywords for current event matching:*
-`abomination` `appointed` `army` `chariots` `christs` `covenant` `daily` `daughter` `desolate` `dominion` `fortress` `glorious` `god` `great` `holy` `king` `kingdom` `kings` `know` `land` `north` `sacrifice` `south` `time` `whirlwind`
+#abomination #appointed #army #chariots #christs #covenant #daily #daughter #desolate #dominion #fortress #glorious #god #great #holy #king #kingdom #kings #know #land #north #sacrifice #south #time #whirlwind
 
 
 ---

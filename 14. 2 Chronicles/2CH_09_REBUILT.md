@@ -1,3 +1,15 @@
+---
+book: "2 Chronicles"
+chapter: 9
+testament: "Old Testament"
+key_themes: "Queen of Sheba, Solomon's Wisdom, Kingdom Glory, Reign Conclusion"
+tags:
+  - brought-Solomon-horses-Egypt-lands
+  - queen-of-sheba
+  - solomon
+  - kingdom-glory
+  - reign-conclusion
+---
 # 2 Chronicles 9
 
 ---
@@ -179,7 +191,7 @@ Queen, Sheba, heard, fame, Solomon, prove, Solomon, hard, questions, Jerusalem, 
 
 
 *AI Keywords for current event matching:*
-`abundance` `accounted` `acts` `ahijah` `algum` `amazement` `apes` `apparel` `arabia` `ascent` `asked` `attendance` `bare` `beaten` `believed` `bestowed` `blessed` `book` `border` `bring` `brought` `built` `buried` `came` `camels` `cedar` `chapmen` `chariot` `chariots` `cities` `city` `come` `communed` `company` `country` `cupbearers` `david` `days` `delighted` `desire` `drinking` `earth` `egypt` `equipment` `establish` `exceed` `extent` `eyes` `fame` `fastened` `father` `fathers` `first` `footstool` `forest` `forever` `forty` `four` `gave` `gifts` `god` `gold` `governors` `great` `greatness` `half` `happy` `hard` `harness` `harps` `hear` `heard` `heart` `hid` `historical` `horsemen` `horses` `house` `hundred` `huram` `iddo` `israel` `ivory` `jeroboam` `jerusalem` `judah` `judgment` `justice` `king` `kingdom` `kings` `land` `lands` `last` `lebanon` `like` `lions` `lord` `loved` `low` `luxury` `made` `meat` `men` `merchants` `military` `ministers` `mules` `nathan` `nebat` `nothing` `ophir` `overlaid` `palace` `passed` `peacocks` `philistines` `place` `plains` `precious` `presence` `present` `prophecy` `prophet` `prove` `psalteries` `pure` `queen` `queens` `questions` `raiment` `rate` `record` `rehoboam` `reigned` `report` `riches` `river` `royal` `seen` `seer` `servants` `set` `sheba` `shekels` `shield` `shields` `shilonite` `ships` `side` `silver` `singers` `sitting` `six` `slept` `solomon` `solomons` `son` `sought` `spice` `spices` `spirit` `stalls` `stand` `standing` `stays` `stead` `steps` `stones` `strength` `supremacy` `sycamore` `table` `talents` `target` `targets` `tarshish` `terraces` `territorial` `thousand` `three` `threescore` `throne` `told` `trees` `true` `turned` `twelve` `twenty` `two` `vessels` `visions` `visit` `wealth` `weight` `wisdom` `words` `year` `years`
+#abundance #accounted #acts #ahijah #algum #amazement #apes #apparel #arabia #ascent #asked #attendance #bare #beaten #believed #bestowed #blessed #book #border #bring #brought #built #buried #came #camels #cedar #chapmen #chariot #chariots #cities #city #come #communed #company #country #cupbearers #david #days #delighted #desire #drinking #earth #egypt #equipment #establish #exceed #extent #eyes #fame #fastened #father #fathers #first #footstool #forest #forever #forty #four #gave #gifts #god #gold #governors #great #greatness #half #happy #hard #harness #harps #hear #heard #heart #hid #historical #horsemen #horses #house #hundred #huram #iddo #israel #ivory #jeroboam #jerusalem #judah #judgment #justice #king #kingdom #kings #land #lands #last #lebanon #like #lions #lord #loved #low #luxury #made #meat #men #merchants #military #ministers #mules #nathan #nebat #nothing #ophir #overlaid #palace #passed #peacocks #philistines #place #plains #precious #presence #present #prophecy #prophet #prove #psalteries #pure #queen #queens #questions #raiment #rate #record #rehoboam #reigned #report #riches #river #royal #seen #seer #servants #set #sheba #shekels #shield #shields #shilonite #ships #side #silver #singers #sitting #six #slept #solomon #solomons #son #sought #spice #spices #spirit #stalls #stand #standing #stays #stead #steps #stones #strength #supremacy #sycamore #table #talents #target #targets #tarshish #terraces #territorial #thousand #three #threescore #throne #told #trees #true #turned #twelve #twenty #two #vessels #visions #visit #wealth #weight #wisdom #words #year #years
 
 
 ---

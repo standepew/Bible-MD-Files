@@ -1,3 +1,32 @@
+---
+book: "Deuteronomy"
+chapter: 9
+testament: "Old Testament"
+key_themes: "Not for Your Righteousness, For the Wickedness of These Nations, Thou Art a Stiffnecked People, The Golden Calf Recalled, Moses' Forty-Day Intercession, Remember Your Rebellions from Egypt to Now, Moses as Intercessor"
+tags:
+  - deuteronomy
+  - chapter9
+  - not-for-righteousness
+  - stiffnecked
+  - golden-calf
+  - molten-calf
+  - forty-days-forty-nights
+  - intercession
+  - Moses-mediator
+  - tables-of-stone
+  - tables-broken
+  - Taberah
+  - Massah
+  - Kibroth-hattaavah
+  - Kadesh-barnea
+  - rebellious-from-day-I-knew-you
+  - consuming-fire
+  - wickedness-of-nations
+  - Horeb-sin
+  - Aaron-sin
+  - Moses-intercession
+  - destroy-not-thy-people
+---
 # Deuteronomy 9
 
 ---
@@ -93,7 +122,7 @@ Moses confronts Israel's potential pride about the coming conquest: you are not 
 
 ## KEYWORD INDEX
 
-`not for righteousness` `stiffnecked` `golden calf` `consuming fire` `forty days / forty nights` `intercession` `broken tables` `rebellious from the day I knew you` `wickedness of the nations` `Remember Abraham, Isaac, Jacob`
+#not-for-righteousness #stiffnecked #golden-calf #consuming-fire #forty-days--forty-nights #intercession #broken-tables #rebellious-from-the-day-I-knew-you #wickedness-of-the-nations #Remember-Abraham-Isaac-Jacob
 
 **not for righteousness** — Ephesians 2:8-9; Titus 3:5; the Old Testament's anti-merit statement  
 **stiffnecked** — the diagnosis; Exodus 33:3; Acts 7:51  

@@ -1,3 +1,32 @@
+---
+book: "Numbers"
+chapter: 11
+testament: "Old Testament"
+key_themes: "The wilderness complaint cycle begins — complaint → fire → cry → Moses intercedes → fire quenched, The mixed multitude lusts after Egypt's food; Israel joins the weeping, The manna despised — the bread from heaven rejected for the memory of slavery's vegetables, Moses' breaking point: "I am not able to bear all this people alone... kill me", God's two answers: (1) seventy elders share Moses' spirit for shared burden, (2) quail given until it comes out their nostrils — judgment wrapped in the answer to their demand, "Is the LORD's hand waxed short?" — God's rebuke of Moses' unbelief about provision, Kibroth-hattaavah: "the graves of lust" — they buried the people that lusted"
+tags:
+  - complaint
+  - fire-of-the-LORD
+  - Taberah
+  - mixed-multitude
+  - lusting
+  - Egypt-fish-cucumbers-melons
+  - manna-despised
+  - Moses-broken
+  - nursing-father
+  - seventy-elders
+  - spirit-distributed
+  - Eldad-Medad
+  - prophesy-in-camp
+  - Joshua-forbid-them
+  - Moses-would-God-all-prophets
+  - quail-from-sea
+  - two-cubits-high
+  - ten-homers
+  - flesh-between-teeth
+  - wrath-of-the-LORD
+  - great-plague
+  - Kibroth-hattaavah-graves-of-lust
+---
 # Numbers 11
 
 ---
@@ -80,7 +109,7 @@ Three days into the march from Sinai (Numbers 10:33), the people begin complaini
 
 
 *AI Keywords for current event matching:*
-`against` `complaining` `complaint` `consequence` `current` `events` `fire` `leadership` `lord` `matching` `murmuring` `numbers` `pattern`
+#against #complaining #complaint #consequence #current #events #fire #leadership #lord #matching #murmuring #numbers #pattern
 
 
 ---
@@ -169,14 +198,14 @@ The seventy elders prophesying (and ceasing) is the limited, provisional form. T
 
 ### The Flesh-Between-the-Teeth Thread — Getting What You Demanded as Judgment
 
-**Numbers 11:33** — "And while the flesh was yet between their teeth, ere it was chewed, the wrath of the LORD was kindled"
+[[04. Numbers/NUM_11_REBUILT|Numbers 11:33]] — "And while the flesh was yet between their teeth, ere it was chewed, the wrath of the LORD was kindled"
 
 God gives them exactly what they demanded — and the demand itself becomes the judgment. This pattern runs through Scripture:
 
-- **Numbers 11:18-20** — "ye shall eat flesh... until it come out at your nostrils" — the answered prayer as curse
-- **Psalm 78:29-31** — "So they did eat, and were well filled... while their meat was yet in their mouths, The wrath of God came upon them"
-- **Psalm 106:15** — "And he gave them their request; but sent leanness into their soul" — the theological summary of Numbers 11
-- **Hosea 13:11** — "I gave thee a king in mine anger, and took him away in my wrath" — Saul given because Israel demanded a king (1 Samuel 8); the same pattern of the answered demand as judgment
+- [[04. Numbers/NUM_11_REBUILT|Numbers 11:18-20]] — "ye shall eat flesh... until it come out at your nostrils" — the answered prayer as curse
+- [[19.Psalm Part 2/PSALM_78_REBUILT|Psalm 78:29-31]] — "So they did eat, and were well filled... while their meat was yet in their mouths, The wrath of God came upon them"
+- [[19.Psalm Part 2/PSALM_106_REBUILT|Psalm 106:15]] — "And he gave them their request; but sent leanness into their soul" — the theological summary of Numbers 11
+- [[28. Hosea/HOSEA_13_REBUILT|Hosea 13:11]] — "I gave thee a king in mine anger, and took him away in my wrath" — Saul given because Israel demanded a king (1 Samuel 8); the same pattern of the answered demand as judgment
 - **Romans 1:24, 26, 28** — "God gave them up... God gave them up... God gave them over" — three times in Romans 1 God gives people over to what they chose; the judicial abandonment to desire is the ultimate form of the Numbers 11:33 pattern
 
 **What the Bible establishes:** "He gave them their request; but sent leanness into their soul" (Psalm 106:15) is one of the most sobering verses in Scripture. Getting what you demanded from God — when God has already provided something better — is not always a blessing. The quail between the teeth, the wrath while still eating, the graves of lust: this is the warning that the God who hears every prayer also judges those who despise His provision while demanding their own preference.

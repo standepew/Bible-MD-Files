@@ -1,3 +1,13 @@
+---
+book: "Isaiah"
+chapter: 41
+testament: "Old Testament"
+key_themes: "Christ's Servant, Divine Protection, Spiritual Strength, Christ's Victory"
+tags:
+  - christ
+  - divine-protection
+  - spiritual-strength
+---
 # Isaiah 41
 
 ---
@@ -117,7 +127,7 @@ Keep, silence, islands, people, renew, strength, come, near, speak, come, near, 
 
 
 *AI Keywords for current event matching:*
-`abraham` `ashamed` `beat` `chosen` `christs` `confounded` `confusion` `divine` `east` `fear` `find` `friend` `hand` `help` `hold` `incensed` `instrument` `israel` `jacob` `lord` `man` `mountains` `perish` `protection` `rejoice` `renew` `right` `righteous` `righteousness` `seed` `seek` `servant` `small` `spiritual` `strength` `strengthen` `strive` `teeth` `thresh` `threshing` `uphold` `victory` `wind`
+#abraham #ashamed #beat #chosen #christs #confounded #confusion #divine #east #fear #find #friend #hand #help #hold #incensed #instrument #israel #jacob #lord #man #mountains #perish #protection #rejoice #renew #right #righteous #righteousness #seed #seek #servant #small #spiritual #strength #strengthen #strive #teeth #thresh #threshing #uphold #victory #wind
 
 
 ---

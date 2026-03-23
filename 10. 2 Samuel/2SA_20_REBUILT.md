@@ -1,3 +1,19 @@
+---
+book: "2 Samuel"
+chapter: 20
+testament: "Old Testament"
+key_themes: "Sheba's Rebellion, Amasa's Death, Wise Woman's Intervention, Joab's Supremacy, David's Administration"
+tags:
+  - Amasa-Judah-tarried-time
+  - Joab-swallows-destroy
+  - Sheva-scribe-Zadok-Abiathar-priests
+  - Ira-Jairite-chief-ruler-David
+  - sheba
+  - amasa
+  - wise-woman
+  - joab
+  - david
+---
 # 2 Samuel 20
 
 ---
@@ -91,7 +107,7 @@ Man of Belial, Sheba son of Bichri, Benjamite, blew trumpet, said no part in Dav
 
 
 *AI Keywords for current event matching:*
-`abel` `abiathar` `abishai` `absalom` `administration` `adoram` `ahilud` `amasa` `amasas` `ask` `bank` `battered` `beard` `belial` `benaiah` `benjamite` `berites` `besieged` `beth-maachah` `bichri` `blew` `blood` `bowels` `brother` `came` `cherethites` `chief` `cities` `city` `clave` `cloth` `concubines` `consequences` `counsel` `david` `days` `death` `depart` `destroy` `died` `ended` `ephraim` `escape` `failure` `faithful` `favoured` `fed` `fell` `fenced` `field` `fifth` `followed` `garment` `gathered` `gibeon` `girded` `girdle` `great` `ground` `hand` `handmaid` `harm` `head` `health` `hear` `highway` `host` `house` `inheritance` `intervention` `ira` `israel` `jairite` `jehoiada` `jehoshaphat` `jerusalem` `jesse` `joab` `joabs` `jordan` `judah` `king` `kiss` `loins` `lord` `man` `matter` `men` `mighty` `mother` `old` `part` `peaceable` `pelethites` `people` `present` `priests` `pursue` `pursuit` `rebellion` `recorder` `resolution` `rib` `right` `ruler` `scribe` `servants` `sheath` `sheba` `shebas` `sheva` `siege` `smote` `son` `speak` `still` `stone` `swallows` `sword` `tarried` `ten` `tents` `three` `throw` `time` `trench` `tribes` `tribute` `trumpet` `wall` `wallowed` `ward` `widowhood` `wisdom` `wise` `woman` `womans` `women` `words` `zadok`
+#abel #abiathar #abishai #absalom #administration #adoram #ahilud #amasa #amasas #ask #bank #battered #beard #belial #benaiah #benjamite #berites #besieged #beth-maachah #bichri #blew #blood #bowels #brother #came #cherethites #chief #cities #city #clave #cloth #concubines #consequences #counsel #david #days #death #depart #destroy #died #ended #ephraim #escape #failure #faithful #favoured #fed #fell #fenced #field #fifth #followed #garment #gathered #gibeon #girded #girdle #great #ground #hand #handmaid #harm #head #health #hear #highway #host #house #inheritance #intervention #ira #israel #jairite #jehoiada #jehoshaphat #jerusalem #jesse #joab #joabs #jordan #judah #king #kiss #loins #lord #man #matter #men #mighty #mother #old #part #peaceable #pelethites #people #present #priests #pursue #pursuit #rebellion #recorder #resolution #rib #right #ruler #scribe #servants #sheath #sheba #shebas #sheva #siege #smote #son #speak #still #stone #swallows #sword #tarried #ten #tents #three #throw #time #trench #tribes #tribute #trumpet #wall #wallowed #ward #widowhood #wisdom #wise #woman #womans #women #words #zadok
 
 
 ---

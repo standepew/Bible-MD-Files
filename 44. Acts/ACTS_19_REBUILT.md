@@ -1,3 +1,14 @@
+---
+book: "Acts"
+chapter: 19
+testament: "New Testament"
+key_themes: "Paul in Ephesus, The Holy Spirit Received, The Sons of Sceva, The Riot in Ephesus"
+tags:
+  - paul-in-ephesus
+  - the-holy-spirit-received
+  - the-sons-of-sceva
+  - the-riot-in-ephesus
+---
 # Acts 19
 
 ---
@@ -153,7 +164,7 @@ Apollos, Corinth, Paul, passed, upper, coasts, Ephesus, finding, disciples, rece
 
 
 *AI Keywords for current event matching:*
-`accord` `account` `achaia` `adjure` `adventure` `alexander` `answered` `apollos` `appeased` `aprons` `aristarchus` `arts` `asia` `assembly` `baptism` `baptized` `beckoned` `believe` `believed` `blasphemers` `body` `bold` `books` `brought` `burned` `called` `came` `caught` `cause` `chief` `christ` `churches` `city` `coasts` `companions` `concourse` `confessed` `confused` `confusion` `continued` `corinth` `counted` `craft` `craftsmen` `cried` `curious` `daily` `danger` `deeds` `defence` `demetrius` `departed` `deputies` `despised` `destroyed` `determined` `diana` `disciples` `diseases` `dismissed` `disputing` `divers` `drew` `dwelling` `dwelt` `ended` `enquire` `entered` `ephesians` `ephesus` `erastus` `evil` `exorcists` `fear` `fell` `fifty` `finding` `forward` `friends` `gain` `gaius` `ghost` `god` `goddess` `gods` `great` `greeks` `hand` `handkerchiefs` `hands` `hardened` `hear` `heard` `holy` `hours` `image` `implead` `jerusalem` `jesus` `jew` `jews` `john` `jupiter` `kingdom` `know` `laid` `law` `lawful` `lord` `macedonia` `magnificence` `magnified` `man` `matter` `matters` `men` `mightily` `ministered` `miracles` `months` `multitude` `name` `occupation` `open` `part` `passed` `paul` `people` `persuaded` `persuading` `pieces` `preach` `prevailed` `price` `priests` `prophesied` `purposed` `question` `quiet` `rashly` `received` `repentance` `riot` `robbers` `rome` `rushed` `sayings` `sceva` `school` `season` `see` `sent` `separated` `seven` `shrines` `sick` `silver` `silversmith` `sons` `spake` `special` `spirit` `spirits` `spoken` `stayed` `stir` `suffered` `synagogue` `temple` `theatre` `things` `thousand` `three` `timotheus` `tongues` `townclerk` `turned` `twelve` `two` `tyrannus` `upper` `uproar` `used` `vagabond` `voice` `way` `wealth` `word` `workmen` `world` `worshipped` `worshipper` `wrath` `wrought` `years`
+#accord #account #achaia #adjure #adventure #alexander #answered #apollos #appeased #aprons #aristarchus #arts #asia #assembly #baptism #baptized #beckoned #believe #believed #blasphemers #body #bold #books #brought #burned #called #came #caught #cause #chief #christ #churches #city #coasts #companions #concourse #confessed #confused #confusion #continued #corinth #counted #craft #craftsmen #cried #curious #daily #danger #deeds #defence #demetrius #departed #deputies #despised #destroyed #determined #diana #disciples #diseases #dismissed #disputing #divers #drew #dwelling #dwelt #ended #enquire #entered #ephesians #ephesus #erastus #evil #exorcists #fear #fell #fifty #finding #forward #friends #gain #gaius #ghost #god #goddess #gods #great #greeks #hand #handkerchiefs #hands #hardened #hear #heard #holy #hours #image #implead #jerusalem #jesus #jew #jews #john #jupiter #kingdom #know #laid #law #lawful #lord #macedonia #magnificence #magnified #man #matter #matters #men #mightily #ministered #miracles #months #multitude #name #occupation #open #part #passed #paul #people #persuaded #persuading #pieces #preach #prevailed #price #priests #prophesied #purposed #question #quiet #rashly #received #repentance #riot #robbers #rome #rushed #sayings #sceva #school #season #see #sent #separated #seven #shrines #sick #silver #silversmith #sons #spake #special #spirit #spirits #spoken #stayed #stir #suffered #synagogue #temple #theatre #things #thousand #three #timotheus #tongues #townclerk #turned #twelve #two #tyrannus #upper #uproar #used #vagabond #voice #way #wealth #word #workmen #world #worshipped #worshipper #wrath #wrought #years
 
 
 ---

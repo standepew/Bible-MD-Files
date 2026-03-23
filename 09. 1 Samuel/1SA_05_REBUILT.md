@@ -1,3 +1,20 @@
+---
+book: "1 Samuel"
+chapter: 5
+testament: "Old Testament"
+key_themes: "Ark in Philistia, Dagon Fallen, Dagon Destroyed, Ashdod Plagued, Ark to Gath, Gath Plagued, Ark to Ekron, Ekron Plagued, Ark Returned"
+tags:
+  - Dagon-place
+  - ark-in-philistia
+  - dagon-fallen
+  - dagon-destroyed
+  - ashdod-plagued
+  - ark-to-gath
+  - gath-plagued
+  - ark-to-ekron
+  - ekron-plagued
+  - ark-returned
+---
 # 1 Samuel 5
 
 ---
@@ -85,7 +102,7 @@ The Philistines took the ark of God from Eben-ezer to Ashdod, bringing it into D
 
 
 *AI Keywords for current event matching:*
-`abide` `ark` `ashdod` `away` `captured` `carried` `city` `coasts` `cried` `cry` `cut` `dagon` `day` `dead` `defeated` `destroyed` `destruction` `died` `early` `earth` `eben-ezer` `ekron` `ekronites` `emerods` `face` `fallen` `gath` `gathered` `god` `great` `ground` `hand` `hands` `head` `heaven` `heavy` `house` `israel` `left` `lord` `lords` `men` `morning` `morrow` `moved` `palms` `parts` `people` `philistines` `place` `plagued` `priests` `secret` `sent` `set` `slay` `small` `smote` `sore` `stump` `thither` `threshold` `tread`
+#abide #ark #ashdod #away #captured #carried #city #coasts #cried #cry #cut #dagon #day #dead #defeated #destroyed #destruction #died #early #earth #eben-ezer #ekron #ekronites #emerods #face #fallen #gath #gathered #god #great #ground #hand #hands #head #heaven #heavy #house #israel #left #lord #lords #men #morning #morrow #moved #palms #parts #people #philistines #place #plagued #priests #secret #sent #set #slay #small #smote #sore #stump #thither #threshold #tread
 
 
 ---

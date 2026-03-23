@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 111
+testament: "Old Testament"
+key_themes: "Divine Works, God's Righteousness, Covenant Faithfulness, Wisdom Foundation"
+tags:
+  - divine-works
+  - god
+  - covenant-faithfulness
+  - wisdom-foundation
+---
 # Psalm 111
 
 ---
@@ -153,7 +164,7 @@ Praise, LORD, praise, LORD, whole, heart, assembly, upright, congregation, works
 
 
 *AI Keywords for current event matching:*
-`beginning` `commanded` `commandments` `covenant` `divine` `endureth` `faithfulness` `fast` `fear` `forever` `foundation` `glorious` `gods` `good` `great` `hands` `holy` `honourable` `judgment` `lord` `made` `mindful` `name` `people` `pleasure` `power` `praise` `redemption` `remembered` `reverend` `righteousness` `sent` `shewed` `sought` `stand` `sure` `truth` `understanding` `uprightness` `verity` `wisdom` `wonderful` `work` `works`
+#beginning #commanded #commandments #covenant #divine #endureth #faithfulness #fast #fear #forever #foundation #glorious #gods #good #great #hands #holy #honourable #judgment #lord #made #mindful #name #people #pleasure #power #praise #redemption #remembered #reverend #righteousness #sent #shewed #sought #stand #sure #truth #understanding #uprightness #verity #wisdom #wonderful #work #works
 
 
 ---

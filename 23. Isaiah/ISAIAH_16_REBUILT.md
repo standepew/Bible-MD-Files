@@ -1,3 +1,13 @@
+---
+book: "Isaiah"
+chapter: 16
+testament: "Old Testament"
+key_themes: "Christ's Refuge, Divine Protection, Moab's Pride, Christ's Throne"
+tags:
+  - christ
+  - divine-protection
+  - moab
+---
 # Isaiah 16
 
 ---
@@ -129,7 +139,7 @@ Send, lamb, ruler, land, Sela, wilderness, mount, daughter, Zion, wandering, bir
 
 
 *AI Keywords for current event matching:*
-`bird` `christs` `consumed` `covert` `david` `divine` `dwell` `end` `established` `extortioner` `hasting` `haughtiness` `hide` `judging` `lamb` `lies` `mine` `moab` `moabs` `night` `oppressors` `outcasts` `pride` `protection` `proud` `refuge` `righteousness` `ruler` `seeking` `shadow` `spoiler` `tabernacle` `throne` `wandering`
+#bird #christs #consumed #covert #david #divine #dwell #end #established #extortioner #hasting #haughtiness #hide #judging #lamb #lies #mine #moab #moabs #night #oppressors #outcasts #pride #protection #proud #refuge #righteousness #ruler #seeking #shadow #spoiler #tabernacle #throne #wandering
 
 
 ---

@@ -1,3 +1,14 @@
+---
+book: "1 Thessalonians"
+chapter: 5
+testament: "New Testament"
+key_themes: "The Day of the Lord, Children of Light, Final Instructions, Complete Sanctification"
+tags:
+  - the-day-of-the-lord
+  - children-of-light
+  - final-instructions
+  - complete-sanctification
+---
 # 1 Thessalonians 5
 
 ---
@@ -105,7 +116,7 @@ Times, seasons, brethren, write, know, perfectly, day, Lord, cometh, thief, nigh
 
 
 *AI Keywords for current event matching:*
-`abstain` `admonish` `amen` `appearance` `appointed` `beseech` `blameless` `body` `breastplate` `brethren` `calleth` `ceasing` `charge` `child` `children` `christ` `cometh` `comfort` `coming` `complete` `concerning` `darkness` `day` `despise` `destruction` `died` `drunken` `edify` `epistle` `escape` `esteemed` `evermore` `evil` `exhort` `faith` `faithful` `fast` `feebleminded` `final` `follow` `give` `god` `good` `grace` `greet` `helmet` `highly` `hold` `holy` `hope` `instructions` `jesus` `kiss` `know` `labour` `light` `live` `lord` `love` `men` `night` `obtain` `others` `overtake` `patient` `peace` `perfectly` `pray` `preserved` `prophesyings` `prove` `putting` `quench` `read` `rejoice` `render` `safety` `sake` `salvation` `sanctification` `sanctify` `seasons` `sleep` `sober` `soul` `spirit` `sudden` `support` `thanks` `thief` `thing` `things` `times` `travail` `unruly` `wake` `watch` `weak` `whole` `wholly` `woman` `work` `wrath` `write`
+#abstain #admonish #amen #appearance #appointed #beseech #blameless #body #breastplate #brethren #calleth #ceasing #charge #child #children #christ #cometh #comfort #coming #complete #concerning #darkness #day #despise #destruction #died #drunken #edify #epistle #escape #esteemed #evermore #evil #exhort #faith #faithful #fast #feebleminded #final #follow #give #god #good #grace #greet #helmet #highly #hold #holy #hope #instructions #jesus #kiss #know #labour #light #live #lord #love #men #night #obtain #others #overtake #patient #peace #perfectly #pray #preserved #prophesyings #prove #putting #quench #read #rejoice #render #safety #sake #salvation #sanctification #sanctify #seasons #sleep #sober #soul #spirit #sudden #support #thanks #thief #thing #things #times #travail #unruly #wake #watch #weak #whole #wholly #woman #work #wrath #write
 
 
 ---

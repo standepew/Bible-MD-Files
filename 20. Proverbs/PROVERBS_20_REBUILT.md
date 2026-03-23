@@ -1,3 +1,14 @@
+---
+book: "Proverbs"
+chapter: 20
+testament: "Old Testament"
+key_themes: "Wine and Deception, Divine Providence, Justice and Integrity, Wisdom and Understanding"
+tags:
+  - wine-and-deception
+  - divine-providence
+  - justice-and-integrity
+  - wisdom-and-understanding
+---
 # Proverbs 20
 
 ---
@@ -129,7 +140,7 @@ Wine, mocker, strong, drink, raging, deceived, thereby, wise, fear, king, roarin
 
 
 *AI Keywords for current event matching:*
-`balance` `bread` `candle` `counsel` `deceit` `deceived` `deception` `deep` `divers` `divine` `draw` `drink` `ear` `eye` `false` `goings` `good` `hearing` `heart` `integrity` `jewel` `justice` `knowledge` `lips` `lord` `man` `measures` `mocker` `precious` `providence` `seeing` `spirit` `strong` `sweet` `thereby` `understand` `understanding` `walketh` `water` `weights` `wine` `wisdom` `wise`
+#balance #bread #candle #counsel #deceit #deceived #deception #deep #divers #divine #draw #drink #ear #eye #false #goings #good #hearing #heart #integrity #jewel #justice #knowledge #lips #lord #man #measures #mocker #precious #providence #seeing #spirit #strong #sweet #thereby #understand #understanding #walketh #water #weights #wine #wisdom #wise
 
 
 ---

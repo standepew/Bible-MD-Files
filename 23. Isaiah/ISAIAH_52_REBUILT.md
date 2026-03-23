@@ -1,3 +1,13 @@
+---
+book: "Isaiah"
+chapter: 52
+testament: "Old Testament"
+key_themes: "Christ's Redemption, Divine Glory, Spiritual Freedom, Christ's Suffering"
+tags:
+  - christ
+  - divine-glory
+  - spiritual-freedom
+---
 # Isaiah 52
 
 ---
@@ -129,7 +139,7 @@ Awake, awake, strength, Zion, beautiful, garments, Jerusalem, holy, city, hencef
 
 
 *AI Keywords for current event matching:*
-`arise` `arm` `astonied` `bands` `beautiful` `captive` `christs` `city` `daughter` `depart` `divine` `dust` `exalted` `extolled` `eyes` `form` `freedom` `garments` `glory` `god` `high` `holy` `jerusalem` `kings` `loose` `man` `marred` `men` `money` `mouths` `nations` `neck` `nought` `redeemed` `redemption` `salvation` `shake` `shut` `sold` `sons` `spiritual` `sprinkle` `suffering` `touch` `unclean` `visage` `without` `yourselves` `zion`
+#arise #arm #astonied #bands #beautiful #captive #christs #city #daughter #depart #divine #dust #exalted #extolled #eyes #form #freedom #garments #glory #god #high #holy #jerusalem #kings #loose #man #marred #men #money #mouths #nations #neck #nought #redeemed #redemption #salvation #shake #shut #sold #sons #spiritual #sprinkle #suffering #touch #unclean #visage #without #yourselves #zion
 
 
 ---

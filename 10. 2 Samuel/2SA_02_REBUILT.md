@@ -1,3 +1,18 @@
+---
+book: "2 Samuel"
+chapter: 2
+testament: "Old Testament"
+key_themes: "David Anointed King of Judah, Ish-bosheth King of Israel, Civil War Begins, Battle of Gibeon, Asahel's Death, Truce"
+tags:
+  - David-men-household-cities-Hebron
+  - Joab-GOD-morning-people-brother
+  - david-anointed-king-of-judah
+  - ishbosheth-king-of-israel
+  - civil-war-begins
+  - battle-of-gibeon
+  - asahel
+  - truce
+---
 # 2 Samuel 2
 
 ---
@@ -85,7 +100,7 @@ David enquired of LORD about going to cities of Judah; LORD said go up. David as
 
 
 *AI Keywords for current event matching:*
-`abigail` `abishai` `abner` `ahinoam` `ammah` `anointed` `anointing` `arise` `armour` `asahel` `asahels` `ashurites` `aside` `battle` `beaten` `begins` `behind` `benjamin` `bethlehem` `bithron` `bitterness` `break` `brethren` `brother` `buried` `captain` `carmelite` `caught` `children` `cities` `civil` `david` `davids` `day` `dead` `death` `devour` `died` `end` `enquired` `ephraim` `face` `father` `fell` `fellow` `fifth` `following` `foot` `forty` `fought` `gathered` `giah` `gibeon` `gilead` `god` `gratitude` `ground` `hands` `head` `hebron` `helkath-hazzurim` `hill` `hinder` `hold` `host` `house` `household` `hundred` `ish-bosheth` `ish-bosheths` `israel` `jabesh` `jezreel` `jezreelitess` `joab` `jordan` `judah` `kindness` `king` `kingdom` `latter` `left` `light` `lord` `mahanaim` `master` `men` `messengers` `months` `morning` `nabal` `ner` `night` `nineteen` `people` `place` `plain` `play` `pool` `pursued` `refused` `reigned` `requite` `return` `rib` `right` `roe` `sat` `saul` `sepulchre` `servants` `seven` `side` `six` `smite` `smitten` `son` `sons` `sore` `spear` `still` `strengthened` `sun` `sword` `three` `threescore` `thrust` `troop` `truce` `trumpet` `truth` `turned` `twelve` `two` `valiant` `war` `whither` `wife` `wild` `wilderness` `wives` `years` `young` `zeruiah`
+#abigail #abishai #abner #ahinoam #ammah #anointed #anointing #arise #armour #asahel #asahels #ashurites #aside #battle #beaten #begins #behind #benjamin #bethlehem #bithron #bitterness #break #brethren #brother #buried #captain #carmelite #caught #children #cities #civil #david #davids #day #dead #death #devour #died #end #enquired #ephraim #face #father #fell #fellow #fifth #following #foot #forty #fought #gathered #giah #gibeon #gilead #god #gratitude #ground #hands #head #hebron #helkath-hazzurim #hill #hinder #hold #host #house #household #hundred #ish-bosheth #ish-bosheths #israel #jabesh #jezreel #jezreelitess #joab #jordan #judah #kindness #king #kingdom #latter #left #light #lord #mahanaim #master #men #messengers #months #morning #nabal #ner #night #nineteen #people #place #plain #play #pool #pursued #refused #reigned #requite #return #rib #right #roe #sat #saul #sepulchre #servants #seven #side #six #smite #smitten #son #sons #sore #spear #still #strengthened #sun #sword #three #threescore #thrust #troop #truce #trumpet #truth #turned #twelve #two #valiant #war #whither #wife #wild #wilderness #wives #years #young #zeruiah
 
 
 ---

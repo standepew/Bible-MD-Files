@@ -1,3 +1,56 @@
+---
+book: "Genesis"
+chapter: 29
+testament: "Old Testament"
+key_themes: "Jacob Arrives in the East — The Journey from Beer-Sheba Ends at a Well, The Well with the Great Stone — The Covenant Meeting Place, Rachel Arrives — Jacob Sees Her and Acts, Jacob Rolls the Great Stone Alone — Love as the Power Behind Superhuman Effort, Jacob Weeps — The Emotional Fullness of Covenant Arrival, One Month with Laban — The Wages Negotiation, Jacob's Love for Rachel — "Beautiful and Well Favoured", "Seven Years Seemed But a Few Days — For the Love He Had to Her", Laban's Wedding Night Deception — Leah Brought in the Dark, "In the Morning, Behold, It Was Leah" — The Deceiver Deceived, Laban's Appeal to the Firstborn Tradition — The Principle Jacob Violated Now Used Against Him, Jacob Serves Seven More Years for Rachel, "The LORD Saw That Leah Was Hated" — God's Attention on the Overlooked, Leah's Opened Womb — The Covenant Line Through the Unloved Wife, The Four Sons of Leah — Reuben, Simeon, Levi, Judah — Spiritual Autobiography in Names, Judah's Name — Pure Praise — The Messianic Line Born from Worship Not Desire"
+tags:
+  - Jacob-arrives-east
+  - well-Haran
+  - three-flocks
+  - great-stone
+  - Rachel-arrives
+  - Jacob-rolls-stone-alone
+  - love-as-power
+  - Jacob-weeps-kisses-Rachel
+  - Laban-welcomes
+  - wages-negotiation
+  - Rachel-beautiful-well-favoured
+  - Leah-tender-eyed
+  - seven-years-love
+  - seemed-but-few-days
+  - Ephesians-5-25
+  - Hebrews-12-2
+  - wedding-feast
+  - Laban-deception
+  - Leah-in-the-dark
+  - veiled
+  - in-the-morning-behold-it-was-Leah
+  - deceiver-deceived
+  - Galatians-6-7
+  - firstborn-tradition-weaponized
+  - Luke-6-38
+  - seven-more-years
+  - Rachel-loved-Leah-hated
+  - sane-comparative-love
+  - Luke-14-26
+  - LORD-saw-that-Leah-was-hated
+  - opened-womb
+  - barren-Rachel
+  - Psalm-68-5-6
+  - 1-Samuel-1
+  - Isaiah-54-1
+  - Reuben-LORD-hath-looked
+  - Simeon-LORD-hath-heard
+  - Levi-joined-Numbers-18-2-4
+  - Judah-praise-yadah
+  - Messianic-line-through-Leah
+  - Genesis-49-8-10
+  - Revelation-5-5
+  - Matthew-1-2-3
+  - well-meeting-thread
+  - stone-rolled-resurrection
+  - 1-Corinthians-1-26-29
+---
 # Genesis 29
 
 ---
@@ -153,7 +206,7 @@ Leah bore four sons. Each name was a prayer. Reuben — the LORD has seen my aff
 
 For AI matching to topics and current events:
 
-`Jacob arrives east well Haran` `three flocks great stone` `Rachel arrives Jacob rolls stone alone` `love as power superhuman effort` `Jacob kisses Rachel weeps` `Laban wages negotiation` `Rachel beautiful well favoured` `Leah tender-eyed rakkot` `seven years love few days` `Song of Solomon 8:6-7` `Ephesians 5:25 Christ loved church` `Hebrews 12:2 joy set before him` `Isaiah 53:10-11 satisfied` `wedding feast evening deception` `Leah veiled dark` `in the morning behold it was Leah` `deceiver deceived` `Genesis 27 vs Genesis 29 mirror` `Galatians 6:7 whatsoever man soweth` `Numbers 32:23 sin will find you out` `Luke 6:38 same measure` `Laban firstborn tradition weaponized` `Matthew 7:2 same judgment` `Proverbs 26:27 pit shall fall` `Rachel loved Leah hated sane'` `comparative love Semitic idiom` `Luke 14:26 hate in Semitic` `LORD saw that Leah was hated` `va-yar YHWH saw` `opened womb barren Rachel` `El Roi God who sees` `Genesis 16:13 Hagar` `Psalm 68:5-6 father of fatherless` `1 Samuel 1 Hannah barren` `Luke 1:48 low estate` `1 Corinthians 1:26-29 foolish things` `Reuben ra'ah oni LORD saw affliction` `Psalm 31:7 known my soul in adversities` `Simeon shama heard` `Psalm 34:6` `1 John 5:14` `Levi lavah joined` `Numbers 18:2-4 Levites joined` `Judah yadah praise` `pure praise no human demand` `Genesis 49:8-10 scepter Judah Shiloh` `Ruth 4:18-22 line of David` `Matthew 1:2-3 genealogy Jesus` `Revelation 5:5 Lion of tribe of Judah` `well meeting thread` `John 4 living water` `stone rolled from well Matthew 28:2` `Messianic line through Leah` `reaping sowing moral architecture` `barren matriarch pattern` `God attending to overlooked`
+#Jacob-arrives-east-well-Haran #three-flocks-great-stone #Rachel-arrives-Jacob-rolls-stone-alone #love-as-power-superhuman-effort #Jacob-kisses-Rachel-weeps #Laban-wages-negotiation #Rachel-beautiful-well-favoured #Leah-tender-eyed-rakkot #seven-years-love-few-days #Song-of-Solomon-86-7 #Ephesians-525-Christ-loved-church #Hebrews-122-joy-set-before-him #Isaiah-5310-11-satisfied #wedding-feast-evening-deception #Leah-veiled-dark #in-the-morning-behold-it-was-Leah #deceiver-deceived #Genesis-27-vs-Genesis-29-mirror #Galatians-67-whatsoever-man-soweth #Numbers-3223-sin-will-find-you-out #Luke-638-same-measure #Laban-firstborn-tradition-weaponized #Matthew-72-same-judgment #Proverbs-2627-pit-shall-fall #Rachel-loved-Leah-hated-sane #comparative-love-Semitic-idiom #Luke-1426-hate-in-Semitic #LORD-saw-that-Leah-was-hated #va-yar-YHWH-saw #opened-womb-barren-Rachel #El-Roi-God-who-sees #Genesis-1613-Hagar #Psalm-685-6-father-of-fatherless #1-Samuel-1-Hannah-barren #Luke-148-low-estate #1-Corinthians-126-29-foolish-things #Reuben-raah-oni-LORD-saw-affliction #Psalm-317-known-my-soul-in-adversities #Simeon-shama-heard #Psalm-346 #1-John-514 #Levi-lavah-joined #Numbers-182-4-Levites-joined #Judah-yadah-praise #pure-praise-no-human-demand #Genesis-498-10-scepter-Judah-Shiloh #Ruth-418-22-line-of-David #Matthew-12-3-genealogy-Jesus #Revelation-55-Lion-of-tribe-of-Judah #well-meeting-thread #John-4-living-water #stone-rolled-from-well-Matthew-282 #Messianic-line-through-Leah #reaping-sowing-moral-architecture #barren-matriarch-pattern #God-attending-to-overlooked
 
 **Relevance to Current Events:**
 - The deceiver deceived — the precise measure-for-measure justice of God's moral architecture; applicable in counseling on consequences of deception, in pastoral discussions of Galatians 6:7, and in addressing the question of divine justice

@@ -1,3 +1,14 @@
+---
+book: "Proverbs"
+chapter: 2
+testament: "Old Testament"
+key_themes: "Seeking Wisdom, Divine Protection, Moral Uprightness, Avoiding Temptation"
+tags:
+  - seeking-wisdom
+  - divine-protection
+  - moral-uprightness
+  - avoiding-temptation
+---
 # Proverbs 2
 
 ---
@@ -129,7 +140,7 @@ Son, receive, words, hide, commandments, incline, ear, wisdom, apply, heart, und
 
 
 *AI Keywords for current event matching:*
-`avoid` `avoiding` `buckler` `commandments` `darkness` `deliver` `divine` `dwell` `ear` `equity` `evil` `giveth` `good` `hide` `incline` `judgment` `keepeth` `land` `lord` `man` `men` `moral` `paths` `protection` `receive` `righteousness` `search` `seek` `seeking` `silver` `strange` `temptation` `treasures` `understand` `upright` `uprightly` `uprightness` `walk` `way` `ways` `wisdom` `woman` `words`
+#avoid #avoiding #buckler #commandments #darkness #deliver #divine #dwell #ear #equity #evil #giveth #good #hide #incline #judgment #keepeth #land #lord #man #men #moral #paths #protection #receive #righteousness #search #seek #seeking #silver #strange #temptation #treasures #understand #upright #uprightly #uprightness #walk #way #ways #wisdom #woman #words
 
 
 ---

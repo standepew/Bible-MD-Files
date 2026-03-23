@@ -1,3 +1,131 @@
+---
+book: "Deuteronomy"
+chapter: 22
+testament: "Old Testament"
+key_themes: "Lost Property, Neighborly Assistance, Cross-Dressing Prohibition, Environmental Protection, Roof Safety, Mixed Seeds, Mixed Animals, Mixed Fabrics, Tassels on Garments, Marriage Laws, Virginity Accusations, Sexual Offenses, Adultery, Betrothal Violations, Incest Prohibition"
+tags:
+  - brother-ox-sheep
+  - go-astray
+  - hide-not-thyself
+  - bring-again-brother
+  - brother-not-nigh
+  - know-him-not
+  - bring-own-house
+  - until-brother-seek
+  - restore-again
+  - like-manner-ass
+  - raiment
+  - lost-thing
+  - found
+  - likewise
+  - mayest-not-hide
+  - ass-ox-fall
+  - way
+  - hide-not-thyself
+  - surely-help
+  - lift-up-again
+  - woman-wear-man
+  - pertaineth-man
+  - man-put-woman-garment
+  - abomination-LORD
+  - bird-nest
+  - way-tree
+  - ground
+  - young-ones
+  - eggs
+  - dam-sitting
+  - not-take-dam
+  - let-dam-go
+  - take-young
+  - well-with-thee
+  - prolong-days
+  - build-new-house
+  - battlement-roof
+  - bring-not-blood
+  - house-man-fall
+  - sow-vineyard
+  - divers-seeds
+  - fruit-defiled
+  - plow-ox-ass
+  - garment-divers-sorts
+  - woollen-linen
+  - fringes-four-quarters
+  - vesture
+  - coverest-self
+  - take-wife
+  - go-in-unto-her
+  - hate-her
+  - occasions-speech
+  - evil-name
+  - not-maid
+  - father-damsel
+  - mother-damsel
+  - tokens-virginity
+  - elders-city-gate
+  - father-say-elders
+  - gave-daughter-wife
+  - hateth-her
+  - occasions-speech
+  - found-not-maid
+  - tokens-virginity
+  - spread-cloth
+  - elders-city
+  - take-man-chastise
+  - amerce-hundred-shekels
+  - silver
+  - father-damsel
+  - evil-name-virgin-Israel
+  - wife-his
+  - not-put-away-days
+  - thing-true
+  - tokens-virginity-not-found
+  - bring-out-damsel
+  - door-father-house
+  - men-city-stone
+  - die-wrought-folly
+  - Israel-play-whore
+  - father-house
+  - put-evil-away
+  - found-lying-woman
+  - married-husband
+  - both-die
+  - man-lay-woman
+  - woman
+  - put-evil-Israel
+  - damsel-virgin
+  - betrothed-husband
+  - find-city
+  - lie-with-her
+  - bring-both-gate
+  - stone-them-die
+  - damsel-cried-not
+  - city
+  - man-humbled-neighbour-wife
+  - put-evil-away
+  - find-betrothed-damsel
+  - field
+  - force-her
+  - lie-with-her
+  - man-die
+  - damsel-nothing
+  - no-sin-worthy-death
+  - riseth-neighbour
+  - slay-him
+  - found-field
+  - betrothed-damsel-cried
+  - none-save
+  - find-damsel-virgin
+  - not-betrothed
+  - lay-hold-lie-with-her
+  - found
+  - man-lay-her
+  - give-damsel-father
+  - fifty-shekels-silver
+  - wife-humbled
+  - not-put-away-days
+  - take-father-wife
+  - discover-father-skirt
+---
 # Deuteronomy 22
 
 ---
@@ -150,7 +278,7 @@ Moses gives miscellaneous laws covering various aspects of life: (1) Property re
 
 
 *AI Keywords for current event matching:*
-`abomination` `accusation` `again` `agricultural` `amerce` `ass` `astray` `away` `battlement` `betrothed` `bird` `blood` `both` `bring` `brother` `build` `chastise` `city` `cloth` `clothing` `coverest` `cried` `dam` `damsel` `daughter` `days` `death` `defiled` `die` `discover` `divers` `door` `eggs` `elders` `environmental` `evil` `fall` `false` `father` `field` `fifty` `find` `folly` `force` `found` `four` `fringes` `fruit` `garment` `gate` `gave` `give` `ground` `hate` `hateth` `help` `hide` `hold` `house` `humbled` `hundred` `husband` `incest` `israel` `know` `laws` `lay` `let` `lie` `lift` `like` `likewise` `linen` `lord` `lost` `lying` `maid` `man` `manner` `marriage` `married` `mayest` `men` `moral` `mother` `name` `neighbour` `nest` `new` `nigh` `none` `nothing` `occasions` `offenses` `ones` `pertaineth` `play` `plow` `prohibition` `prohibitions` `prolong` `property` `protection` `put` `quarters` `raiment` `regulations` `requirements` `responsibility` `restore` `riseth` `roof` `safety` `save` `say` `seeds` `seek` `self` `sexual` `sheep` `shekels` `silver` `sin` `sitting` `skirt` `slay` `sorts` `sow` `speech` `spread` `stone` `surely` `take` `thing` `thyself` `tokens` `tree` `true` `until` `vesture` `vineyard` `virgin` `virginity` `way` `wear` `well` `whore` `wife` `woman` `woollen` `worthy` `wrought` `young`
+#abomination #accusation #again #agricultural #amerce #ass #astray #away #battlement #betrothed #bird #blood #both #bring #brother #build #chastise #city #cloth #clothing #coverest #cried #dam #damsel #daughter #days #death #defiled #die #discover #divers #door #eggs #elders #environmental #evil #fall #false #father #field #fifty #find #folly #force #found #four #fringes #fruit #garment #gate #gave #give #ground #hate #hateth #help #hide #hold #house #humbled #hundred #husband #incest #israel #know #laws #lay #let #lie #lift #like #likewise #linen #lord #lost #lying #maid #man #manner #marriage #married #mayest #men #moral #mother #name #neighbour #nest #new #nigh #none #nothing #occasions #offenses #ones #pertaineth #play #plow #prohibition #prohibitions #prolong #property #protection #put #quarters #raiment #regulations #requirements #responsibility #restore #riseth #roof #safety #save #say #seeds #seek #self #sexual #sheep #shekels #silver #sin #sitting #skirt #slay #sorts #sow #speech #spread #stone #surely #take #thing #thyself #tokens #tree #true #until #vesture #vineyard #virgin #virginity #way #wear #well #whore #wife #woman #woollen #worthy #wrought #young
 
 
 ---

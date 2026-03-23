@@ -1,3 +1,58 @@
+---
+book: "Joshua"
+chapter: 14
+testament: "Old Testament"
+key_themes: "Land Distribution, Caleb's Request, Faithful Spy, Divine Promise, Mountain Inheritance, Strength at 85, Anakim Challenge, Hebron Inheritance"
+tags:
+  - Eleazar-priest
+  - Joshua-son-Nun
+  - heads-fathers-tribes-children-Israel
+  - distributed-inheritance
+  - lot-inheritance
+  - LORD-commanded-hand-Moses
+  - nine-tribes-half-tribe
+  - Levites-inheritance
+  - children-Joseph-two-tribes
+  - Manasseh-Ephraim
+  - part-Levites-land
+  - cities-dwell-suburbs-cattle-substance
+  - LORD-commanded-Moses
+  - children-Israel-divided-land
+  - children-Judah-Joshua-Gilgal
+  - Caleb-son-Jephunneh-Kenezite
+  - forty-years-old
+  - brought-word-heart
+  - brethren-up-heart-people-melt
+  - wholly-followed-LORD-God
+  - Moses-sware-day
+  - LORD-kept-alive
+  - said
+  - forty-five-years
+  - LORD-spake-word-Moses
+  - children-Israel-wandered-wilderness
+  - fourscore-five-years-old
+  - strong-day-Moses-sent
+  - strength-strength-war
+  - go-come
+  - mountain-LORD-spake-day
+  - heardest-Anakims-cities-great-fenced
+  - LORD-drive
+  - LORD-said
+  - Joshua-blessed
+  - Caleb-son-Jephunneh-Hebron-inheritance
+  - wholly-followed-LORD-God-Israel
+  - Hebron-Kirjath-arba
+  - Arba-great-man-Anakims
+  - land-rest-war
+  - land-distribution
+  - caleb
+  - faithful-spy
+  - divine-promise
+  - mountain-inheritance
+  - strength-at-85
+  - anakim-challenge
+  - hebron-inheritance
+---
 # Joshua 14
 
 ---
@@ -80,7 +135,7 @@ Eleazar the priest, Joshua, and tribal heads distribute the Canaan land inherita
 
 
 *AI Keywords for current event matching:*
-`alive` `anakims` `arba` `blessed` `brethren` `brought` `caleb` `calebs` `canaan` `cattle` `challenge` `children` `cities` `come` `commanded` `concerning` `countries` `day` `distributed` `distribution` `divided` `drive` `dwell` `eleazar` `ephraim` `espy` `faithful` `fathers` `feet` `fenced` `five` `followed` `forever` `forty` `fourscore` `gave` `gilgal` `god` `granted` `great` `half` `hand` `heads` `heardest` `heart` `hebron` `inheritance` `inherited` `israel` `jephunneh` `jordan` `joseph` `joshua` `judah` `kadesh-barnea` `kenezite` `kept` `kirjath` `knowest` `land` `levites` `lord` `lot` `man` `manasseh` `melt` `moses` `mountain` `nine` `nun` `old` `part` `people` `priest` `request` `rest` `said` `sent` `servant` `son` `spake` `strength` `strong` `substance` `suburbs` `sware` `thing` `tribe` `tribes` `trodden` `two` `waiting` `wandered` `war` `wholly` `wilderness` `word` `years`
+#alive #anakims #arba #blessed #brethren #brought #caleb #calebs #canaan #cattle #challenge #children #cities #come #commanded #concerning #countries #day #distributed #distribution #divided #drive #dwell #eleazar #ephraim #espy #faithful #fathers #feet #fenced #five #followed #forever #forty #fourscore #gave #gilgal #god #granted #great #half #hand #heads #heardest #heart #hebron #inheritance #inherited #israel #jephunneh #jordan #joseph #joshua #judah #kadesh-barnea #kenezite #kept #kirjath #knowest #land #levites #lord #lot #man #manasseh #melt #moses #mountain #nine #nun #old #part #people #priest #request #rest #said #sent #servant #son #spake #strength #strong #substance #suburbs #sware #thing #tribe #tribes #trodden #two #waiting #wandered #war #wholly #wilderness #word #years
 
 
 ---

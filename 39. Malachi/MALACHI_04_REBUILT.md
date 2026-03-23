@@ -1,3 +1,14 @@
+---
+book: "Malachi"
+chapter: 4
+testament: "Old Testament"
+key_themes: "Christ's Final Judgment, Sun of Righteousness, Elijah's Return, Heart Reconciliation"
+tags:
+  - christ
+  - sun-of-righteousness
+  - elijah
+  - heart-reconciliation
+---
 # Malachi 4
 
 ---
@@ -105,7 +116,7 @@ Behold, day, cometh, burn, oven, proud, wickedly, stubble, burn, leave, root, br
 
 
 *AI Keywords for current event matching:*
-`arise` `branch` `burn` `calves` `children` `christs` `curse` `day` `dreadful` `earth` `elijah` `elijahs` `fathers` `fear` `final` `forth` `great` `grow` `healing` `heart` `judgment` `judgments` `law` `leave` `name` `oven` `proud` `reconciliation` `remember` `return` `righteousness` `root` `send` `smite` `statutes` `stubble` `sun` `turn` `wickedly`
+#arise #branch #burn #calves #children #christs #curse #day #dreadful #earth #elijah #elijahs #fathers #fear #final #forth #great #grow #healing #heart #judgment #judgments #law #leave #name #oven #proud #reconciliation #remember #return #righteousness #root #send #smite #statutes #stubble #sun #turn #wickedly
 
 
 ---

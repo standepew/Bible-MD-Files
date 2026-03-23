@@ -1,3 +1,14 @@
+---
+book: "Micah"
+chapter: 3
+testament: "Old Testament"
+key_themes: "Christ's Judgment on Leaders, Corrupt Prophets, True Prophet, Zion's Destruction"
+tags:
+  - christ
+  - corrupt-prophets
+  - true-prophet
+  - zion
+---
 # Micah 3
 
 ---
@@ -117,7 +128,7 @@ Hear, heads, Jacob, princes, house, Israel, know, judgment, hate, good, love, ev
 
 
 *AI Keywords for current event matching:*
-`become` `bite` `blood` `build` `christs` `corrupt` `cry` `declare` `destruction` `err` `field` `full` `good` `hate` `heads` `heaps` `iniquity` `israel` `jacob` `jerusalem` `judgment` `know` `leaders` `lord` `peace` `plowed` `power` `prepare` `princes` `prophet` `prophets` `spirit` `teeth` `transgression` `true` `war` `zion` `zions`
+#become #bite #blood #build #christs #corrupt #cry #declare #destruction #err #field #full #good #hate #heads #heaps #iniquity #israel #jacob #jerusalem #judgment #know #leaders #lord #peace #plowed #power #prepare #princes #prophet #prophets #spirit #teeth #transgression #true #war #zion #zions
 
 
 ---

@@ -1,3 +1,14 @@
+---
+book: "1 Corinthians"
+chapter: 6
+testament: "New Testament"
+key_themes: "Lawsuits Among Believers, The Unrighteous, Sanctified in Christ, The Temple of the Holy Ghost"
+tags:
+  - lawsuits-among-believers
+  - the-unrighteous
+  - sanctified-in-christ
+  - the-temple-of-the-holy-ghost
+---
 # 1 Corinthians 6
 
 ---
@@ -117,7 +128,7 @@ Dare, matter, unjust, saints, know, saints, judge, world, judge, world, unworthy
 
 
 *AI Keywords for current event matching:*
-`able` `abusers` `adulterers` `among` `angels` `believers` `belly` `bodies` `body` `bought` `brethren` `brother` `brought` `christ` `church` `committeth` `covetous` `dare` `deceived` `defraud` `destroy` `drunkards` `effeminate` `esteemed` `expedient` `extortioners` `fault` `flee` `flesh` `forbidden` `fornication` `fornicators` `ghost` `glorify` `god` `harlot` `holy` `idolaters` `inherit` `jesus` `joined` `judge` `judgments` `justified` `kingdom` `know` `law` `lawful` `lawsuits` `least` `life` `lord` `man` `matter` `matters` `meats` `members` `much` `name` `power` `price` `raise` `raised` `revilers` `saints` `sanctified` `set` `shame` `sin` `sinneth` `smallest` `spirit` `temple` `thieves` `two` `unbelievers` `unjust` `unrighteous` `unworthy` `utterly` `washed` `wise` `without` `world` `wrong`
+#able #abusers #adulterers #among #angels #believers #belly #bodies #body #bought #brethren #brother #brought #christ #church #committeth #covetous #dare #deceived #defraud #destroy #drunkards #effeminate #esteemed #expedient #extortioners #fault #flee #flesh #forbidden #fornication #fornicators #ghost #glorify #god #harlot #holy #idolaters #inherit #jesus #joined #judge #judgments #justified #kingdom #know #law #lawful #lawsuits #least #life #lord #man #matter #matters #meats #members #much #name #power #price #raise #raised #revilers #saints #sanctified #set #shame #sin #sinneth #smallest #spirit #temple #thieves #two #unbelievers #unjust #unrighteous #unworthy #utterly #washed #wise #without #world #wrong
 
 
 ---

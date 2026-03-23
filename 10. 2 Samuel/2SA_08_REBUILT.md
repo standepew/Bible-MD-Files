@@ -1,3 +1,14 @@
+---
+book: "2 Samuel"
+chapter: 8
+testament: "Old Testament"
+key_themes: "David's Military Victories, Subjugation of Enemies, Administrative Organization, Divine Preservation"
+tags:
+  - david
+  - subjugation-of-enemies
+  - administrative-organization
+  - divine-preservation
+---
 # 2 Samuel 8
 
 ---
@@ -85,7 +96,7 @@ David smote Philistines, subdued them; took Metheg-ammah from Philistines. Smote
 
 
 *AI Keywords for current event matching:*
-`abiathar` `administration` `ahilud` `ahimelech` `ahitub` `alive` `amalek` `ammon` `benaiah` `berothai` `betah` `bless` `border` `brass` `brought` `campaign` `casting` `chariot` `chariots` `cherethites` `chief` `children` `cities` `conquest` `damascus` `david` `davids` `death` `dedicate` `dedicated` `edom` `edomite` `eighteen` `euphrates` `exceeding` `executed` `footmen` `fought` `full` `garrisons` `gifts` `gold` `ground` `hadadezer` `hadadzer` `hamath` `hand` `heard` `horsemen` `horses` `host` `houghed` `hundred` `israel` `jehoiada` `jehoshaphat` `jerusalem` `joab` `joram` `judgment` `justice` `keep` `king` `line` `lines` `lord` `measured` `men` `metheg-ammah` `moab` `moabite` `moabites` `name` `nations` `one` `pelethites` `people` `philistine` `philistines` `preserved` `priests` `recorder` `recover` `rehob` `reigned` `reserved` `returned` `river` `rulers` `salt` `salute` `scribe` `seraiah` `servants` `seven` `shields` `silver` `slew` `smite` `smitten` `smote` `son` `sons` `spoil` `spoils` `subdued` `subjugation` `succour` `syria` `syrian` `syrians` `thousand` `toi` `tribute` `twenty` `two` `valley` `vessels` `victory` `wars` `whithersoever` `zadok` `zeruiah` `zobah`
+#abiathar #administration #ahilud #ahimelech #ahitub #alive #amalek #ammon #benaiah #berothai #betah #bless #border #brass #brought #campaign #casting #chariot #chariots #cherethites #chief #children #cities #conquest #damascus #david #davids #death #dedicate #dedicated #edom #edomite #eighteen #euphrates #exceeding #executed #footmen #fought #full #garrisons #gifts #gold #ground #hadadezer #hadadzer #hamath #hand #heard #horsemen #horses #host #houghed #hundred #israel #jehoiada #jehoshaphat #jerusalem #joab #joram #judgment #justice #keep #king #line #lines #lord #measured #men #metheg-ammah #moab #moabite #moabites #name #nations #one #pelethites #people #philistine #philistines #preserved #priests #recorder #recover #rehob #reigned #reserved #returned #river #rulers #salt #salute #scribe #seraiah #servants #seven #shields #silver #slew #smite #smitten #smote #son #sons #spoil #spoils #subdued #subjugation #succour #syria #syrian #syrians #thousand #toi #tribute #twenty #two #valley #vessels #victory #wars #whithersoever #zadok #zeruiah #zobah
 
 
 ---

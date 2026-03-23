@@ -1,3 +1,15 @@
+---
+book: "Esther"
+chapter: 8
+testament: "Old Testament"
+key_themes: "Haman's Estate Given, Mordecai Promoted, New Decree Issued, Jews' Victory"
+tags:
+  - Jews-light-gladness-joy-honour
+  - haman
+  - mordecai-promoted
+  - new-decree-issued
+  - jews
+---
 # Esther 8
 
 ---
@@ -141,7 +153,7 @@ Day, king, Ahasuerus, house, Haman, Jews, enemy, Esther, queen. Mordecai, king, 
 
 
 *AI Keywords for current event matching:*
-`adar` `agagite` `ahasuerus` `apparel` `arose` `assault` `avenge` `besought` `blue` `camels` `city` `commanded` `commandment` `copy` `crown` `day` `decree` `deputies` `destroy` `destruction` `device` `devised` `dromedaries` `endure` `enemies` `enemy` `estate` `esther` `ethiopia` `evil` `eyes` `favour` `fear` `feast` `feet` `fell` `fine` `gallows` `garment` `gather` `gave` `given` `glad` `gladness` `gold` `golden` `good` `granted` `great` `haman` `hamans` `hammedatha` `hand` `hanged` `hastened` `held` `honour` `horseback` `house` `hundred` `india` `issued` `jew` `jews` `joy` `kindred` `king` `laid` `land` `language` `letters` `lieutenants` `life` `light` `liketh` `linen` `little` `man` `mischief` `month` `mordecai` `mules` `name` `new` `ones` `palace` `people` `perish` `please` `pleasing` `posts` `power` `presence` `pressed` `prey` `promoted` `province` `provinces` `published` `purple` `queen` `ready` `rejoiced` `reverse` `riders` `right` `ring` `royal` `rulers` `sceptre` `scribes` `seal` `sealed` `see` `sent` `seven` `shushan` `sight` `sivan` `slay` `son` `spake` `spoil` `stand` `stood` `take` `tears` `thing` `third` `thirteenth` `three` `told` `twelfth` `twentieth` `twenty` `victory` `white` `women` `write` `writing` `written` `wrote` `young`
+#adar #agagite #ahasuerus #apparel #arose #assault #avenge #besought #blue #camels #city #commanded #commandment #copy #crown #day #decree #deputies #destroy #destruction #device #devised #dromedaries #endure #enemies #enemy #estate #esther #ethiopia #evil #eyes #favour #fear #feast #feet #fell #fine #gallows #garment #gather #gave #given #glad #gladness #gold #golden #good #granted #great #haman #hamans #hammedatha #hand #hanged #hastened #held #honour #horseback #house #hundred #india #issued #jew #jews #joy #kindred #king #laid #land #language #letters #lieutenants #life #light #liketh #linen #little #man #mischief #month #mordecai #mules #name #new #ones #palace #people #perish #please #pleasing #posts #power #presence #pressed #prey #promoted #province #provinces #published #purple #queen #ready #rejoiced #reverse #riders #right #ring #royal #rulers #sceptre #scribes #seal #sealed #see #sent #seven #shushan #sight #sivan #slay #son #spake #spoil #stand #stood #take #tears #thing #third #thirteenth #three #told #twelfth #twentieth #twenty #victory #white #women #write #writing #written #wrote #young
 
 
 ---

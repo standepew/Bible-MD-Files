@@ -1,3 +1,26 @@
+---
+book: "1 Samuel"
+chapter: 8
+testament: "Old Testament"
+key_themes: "Samuel's Sons Corrupt, Elders Request King, Samuel Displeased, God's Explanation, King's Rights Warning, People Refuse Warning, Want to Be Like Nations, God Grants Request"
+tags:
+  - Samuel-old-sons-judges-Israel
+  - elders-Israel-gathered-Samuel-Ramah
+  - Samuel-words-LORD-people-king
+  - daughters-confectionaries-cooks-bakers
+  - fields-vineyards-oliveyards-best-servants
+  - tenth-seed-vineyards-officers-servants
+  - tenth-sheep-servants
+  - nations-king-judge-battles
+  - samuel
+  - elders-request-king
+  - samuel-displeased
+  - god
+  - king
+  - people-refuse-warning
+  - want-to-be-like-nations
+  - god-grants-request
+---
 # 1 Samuel 8
 
 ---
@@ -86,7 +109,7 @@ When Samuel was old, he made his sons judges over Israel. His firstborn Joel and
 
 
 *AI Keywords for current event matching:*
-`abiah` `asses` `bakers` `battles` `beer-sheba` `best` `bribes` `brought` `captains` `chariots` `chosen` `city` `confectionaries` `cooks` `cry` `daughters` `day` `displeased` `ear` `ears` `egypt` `elders` `explanation` `fields` `fifties` `firstborn` `forsaken` `gathered` `gods` `goodliest` `grant` `ground` `harvest` `hear` `heard` `hearken` `horsemen` `instruments` `israel` `joel` `judge` `judges` `judgment` `king` `kings` `lord` `lucre` `maidservants` `manner` `men` `menservants` `nations` `nay` `obey` `officers` `old` `oliveyards` `people` `peoples` `perverted` `prayed` `protest` `ramah` `reap` `refusal` `refused` `rehearsed` `reign` `rejected` `request` `rights` `run` `samuel` `samuels` `second` `seed` `servants` `served` `sheep` `solemnly` `sons` `take` `tenth` `thousands` `turned` `vineyards` `voice` `walk` `walked` `war` `ways` `words` `work` `works` `young`
+#abiah #asses #bakers #battles #beer-sheba #best #bribes #brought #captains #chariots #chosen #city #confectionaries #cooks #cry #daughters #day #displeased #ear #ears #egypt #elders #explanation #fields #fifties #firstborn #forsaken #gathered #gods #goodliest #grant #ground #harvest #hear #heard #hearken #horsemen #instruments #israel #joel #judge #judges #judgment #king #kings #lord #lucre #maidservants #manner #men #menservants #nations #nay #obey #officers #old #oliveyards #people #peoples #perverted #prayed #protest #ramah #reap #refusal #refused #rehearsed #reign #rejected #request #rights #run #samuel #samuels #second #seed #servants #served #sheep #solemnly #sons #take #tenth #thousands #turned #vineyards #voice #walk #walked #war #ways #words #work #works #young
 
 
 ---

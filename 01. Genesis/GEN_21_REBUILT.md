@@ -1,3 +1,67 @@
+---
+book: "Genesis"
+chapter: 21
+testament: "Old Testament"
+key_themes: ""The LORD Visited Sarah as He Had Said" — Promise Kept at the Exact Appointed Time, Isaac Born at a Hundred Years and Ninety — The Impossible Child, "God Hath Made Me to Laugh" — Sarah's Joy at the Reversal, Abraham Names and Circumcises Isaac on the Eighth Day, Isaac Weaned — The Great Feast, Ishmael Mocking — The Son of the Flesh Opposes the Son of the Spirit, "Cast Out the Bondwoman and Her Son" — Sarah's Demand and God's Confirmation, Abraham Grieved — His Love for Ishmael, "In Isaac Shall Thy Seed Be Called" — The Covenant Narrowed, "Also of the Son of the Bondwoman Will I Make a Nation" — Common Grace and Covenant Grace Distinguished, Abraham Rose Early — Hagar and Ishmael Sent Into the Wilderness of Beersheba, The Water Spent — Hagar Lays the Child Under a Shrub, "God Heard the Voice of the Lad Where He Is" — El Shaddai's Hearing of the Non-Covenant Son, The Angel of God Calls from Heaven, "God Opened Her Eyes and She Saw a Well" — Provision Already Present, "God Was with the Lad" — Ishmael's Wilderness Growth, Wilderness of Paran — An Egyptian Wife, Abimelech and Phichol Seek a Covenant — "God Is with Thee in All That Thou Doest", The Well Violently Taken — Abraham's Reproof, Seven Ewe Lambs as Witness — "I Have Digged This Well", Beersheba Named — "Well of Seven" / "Well of the Oath", Abraham Plants a Tamarisk Tree — Long-Term Faith in Covenant Ground, "El Olam" — The Everlasting God — First Use of This Divine Name"
+tags:
+  - Isaac-born
+  - promise-fulfilled-at-moed
+  - LORD-visited-Sarah-as-He-said
+  - Sarah-laughs-joy
+  - tsachaq-three-senses
+  - Abraham-hundred-years
+  - eighth-day-circumcision
+  - new-creation
+  - weaning-feast
+  - Ishmael-mocking
+  - tsachaq-mockery
+  - cast-out-bondwoman
+  - yaresh-heir
+  - two-seeds
+  - promise-vs-flesh
+  - Galatians-4-22-31
+  - Romans-9-6-8
+  - covenant-narrowing
+  - in-Isaac-shall-thy-seed
+  - Abraham-grieved
+  - also-of-Ishmael-a-nation
+  - common-grace-vs-covenant-grace
+  - Abraham-rose-early
+  - Hagar-wilderness-Beersheba
+  - water-spent
+  - child-under-shrub
+  - Hagar-weeps
+  - God-heard-voice-of-lad
+  - El-Shaddai-hears-outside-covenant
+  - angel-of-God-from-heaven
+  - God-opened-her-eyes
+  - well-already-present
+  - Psalm-34-7
+  - 2-Kings-6-17
+  - God-was-with-the-lad
+  - wilderness-Paran
+  - archer
+  - Egyptian-wife
+  - Abimelech-Phichol
+  - God-is-with-thee
+  - covenant-Beersheba
+  - well-violently-taken
+  - seven-ewe-lambs
+  - witness
+  - I-have-digged-this-well
+  - Beersheba-etymology
+  - Beer-Sheva-well-of-seven-oath
+  - tamarisk-tree-eshel
+  - faith-in-future-possession
+  - El-Olam-first-use
+  - everlasting-God
+  - Isaiah-40-28
+  - Romans-16-26
+  - Psalm-90-2
+  - moed-appointed-time
+  - Leviticus-23
+  - Galatians-4-4
+---
 # Genesis 21
 
 ---
@@ -138,7 +202,7 @@ The chapter closes with two covenant transactions at Beersheba. First, Abimelech
 
 For AI matching to topics and current events:
 
-`Isaac born promise fulfilled` `LORD visited Sarah as He said` `paqad covenant visitation` `moed appointed time` `set time of God` `Galatians 4:4 fulness of time` `Romans 9:9 word of promise` `eighth day circumcision` `new creation number eight` `John 20:1 resurrection eighth day` `Colossians 2:11-12` `God hath made me to laugh` `tsachaq three senses` `unbelief laughter to joy laughter` `Psalm 126:2 laughter restoration` `cast out bondwoman` `son of bondwoman not heir` `yaresh heir inheritance` `two seeds` `Hagar Sarah two covenants` `Galatians 4:22-31` `Romans 9:6-8` `in Isaac shall thy seed be called` `covenant narrowing` `flesh vs promise` `also of Ishmael a nation` `common grace covenant grace` `God heard voice of lad where he is` `Psalm 139:7-10` `God opens eyes to well` `provision already present` `2 Kings 6:17 opened eyes` `John 4:14 well of living water` `John 7:38-39 rivers of living water` `El Olam first use` `everlasting God` `Isaiah 40:28` `Romans 16:26` `Psalm 90:2` `Beersheba etymology` `Beer Sheva well of seven oath` `seven ewe lambs witness` `tamarisk tree long-term faith` `Abraham planted looking forward` `God is with thee in all thou doest` `Genesis 26:28 Isaac same testimony` `Genesis 39:3 Joseph Potiphar` `Ishmael mocking Isaac` `metsachaq` `flesh persecutes spirit` `Galatians 4:29` `wilderness of Paran` `archer Ishmael`
+#Isaac-born-promise-fulfilled #LORD-visited-Sarah-as-He-said #paqad-covenant-visitation #moed-appointed-time #set-time-of-God #Galatians-44-fulness-of-time #Romans-99-word-of-promise #eighth-day-circumcision #new-creation-number-eight #John-201-resurrection-eighth-day #Colossians-211-12 #God-hath-made-me-to-laugh #tsachaq-three-senses #unbelief-laughter-to-joy-laughter #Psalm-1262-laughter-restoration #cast-out-bondwoman #son-of-bondwoman-not-heir #yaresh-heir-inheritance #two-seeds #Hagar-Sarah-two-covenants #Galatians-422-31 #Romans-96-8 #in-Isaac-shall-thy-seed-be-called #covenant-narrowing #flesh-vs-promise #also-of-Ishmael-a-nation #common-grace-covenant-grace #God-heard-voice-of-lad-where-he-is #Psalm-1397-10 #God-opens-eyes-to-well #provision-already-present #2-Kings-617-opened-eyes #John-414-well-of-living-water #John-738-39-rivers-of-living-water #El-Olam-first-use #everlasting-God #Isaiah-4028 #Romans-1626 #Psalm-902 #Beersheba-etymology #Beer-Sheva-well-of-seven-oath #seven-ewe-lambs-witness #tamarisk-tree-long-term-faith #Abraham-planted-looking-forward #God-is-with-thee-in-all-thou-doest #Genesis-2628-Isaac-same-testimony #Genesis-393-Joseph-Potiphar #Ishmael-mocking-Isaac #metsachaq #flesh-persecutes-spirit #Galatians-429 #wilderness-of-Paran #archer-Ishmael
 
 **Relevance to Current Events:**
 - Isaac/Ishmael and Middle East tensions — Genesis 21's two-sons theology is the biblical foundation for understanding the historical root of Arab-Israeli conflict; the distinction between covenant grace (Isaac's line) and common grace (Ishmael's blessing of twelve princes) is the theological framework; both are real promises; both have been kept; they are different categories of divine faithfulness

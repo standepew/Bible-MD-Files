@@ -1,3 +1,13 @@
+---
+book: "Daniel"
+chapter: 4
+testament: "Old Testament"
+key_themes: "Christ's Sovereignty, Divine Humiliation, Heavenly Rule, Christ's Restoration"
+tags:
+  - christ
+  - divine-humiliation
+  - heavenly-rule
+---
 # Daniel 4
 
 ---
@@ -105,7 +115,7 @@ Nebuchadnezzar, king, people, nations, languages, dwell, earth, Peace, multiplie
 
 
 *AI Keywords for current event matching:*
-`basest` `beast` `blessed` `christs` `decree` `demand` `divine` `drive` `eat` `established` `everlasting` `excellent` `giveth` `grass` `heart` `heavenly` `heavens` `high` `holy` `humiliation` `kingdom` `know` `living` `majesty` `men` `most` `ones` `oxen` `restoration` `returned` `rule` `ruleth` `seven` `sovereignty` `times` `understanding` `watchers` `whomsoever`
+#basest #beast #blessed #christs #decree #demand #divine #drive #eat #established #everlasting #excellent #giveth #grass #heart #heavenly #heavens #high #holy #humiliation #kingdom #know #living #majesty #men #most #ones #oxen #restoration #returned #rule #ruleth #seven #sovereignty #times #understanding #watchers #whomsoever
 
 
 ---

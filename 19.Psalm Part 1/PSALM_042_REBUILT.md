@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 42
+testament: "Old Testament"
+key_themes: "Spiritual Thirst, Soul's Longing, Hope in God, Divine Remembrance"
+tags:
+  - spiritual-thirst
+  - soul
+  - hope-in-god
+  - divine-remembrance
+---
 # Psalm 42
 
 ---
@@ -117,7 +128,7 @@ Chief, Musician, Maschil, sons, Korah, hart, panteth, water, brooks, panteth, so
 
 
 *AI Keywords for current event matching:*
-`appear` `billows` `brooks` `calleth` `cast` `chief` `come` `command` `continually` `countenance` `day` `daytime` `deep` `disquieted` `divine` `enemy` `forgotten` `god` `gone` `hart` `health` `help` `hermonites` `hill` `holyday` `hope` `house` `jordan` `joy` `kept` `korah` `land` `life` `living` `longing` `lord` `lovingkindness` `maschil` `meat` `mizar` `mourning` `multitude` `musician` `night` `noise` `oppression` `panteth` `pour` `praise` `prayer` `remember` `remembrance` `rock` `song` `sons` `soul` `souls` `spiritual` `tears` `thirst` `thirsteth` `voice` `water` `waterspouts` `waves` `went` `within`
+#appear #billows #brooks #calleth #cast #chief #come #command #continually #countenance #day #daytime #deep #disquieted #divine #enemy #forgotten #god #gone #hart #health #help #hermonites #hill #holyday #hope #house #jordan #joy #kept #korah #land #life #living #longing #lord #lovingkindness #maschil #meat #mizar #mourning #multitude #musician #night #noise #oppression #panteth #pour #praise #prayer #remember #remembrance #rock #song #sons #soul #souls #spiritual #tears #thirst #thirsteth #voice #water #waterspouts #waves #went #within
 
 
 ---

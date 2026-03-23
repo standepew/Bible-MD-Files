@@ -1,3 +1,41 @@
+---
+book: "Judges"
+chapter: 14
+testament: "Old Testament"
+key_themes: "Samson's Marriage, Philistine Woman, Lion Killing, Honey in Carcass, Wedding Riddle, Wife's Betrayal, Thirty Men Slain, Wife Given Away"
+tags:
+  - Samson-Timnath-woman-daughters-Philistines
+  - Samson-father-get-pleaseth-well
+  - Philistines-dominion-Israel
+  - young-lion-roared
+  - told-father-mother
+  - swarm-bees-honey-carcass-lion
+  - told-honey-carcass-lion
+  - father-woman-feast
+  - young-men-used
+  - brought-thirty-companions
+  - thirty-sheets-thirty-change-garments
+  - Put-riddle-hear
+  - Out-eater-meat-strong-sweetness
+  - three-days-expound-riddle
+  - burn-fire-called-take
+  - told-father-mother-told
+  - wept-seven-days-feast-lasted
+  - seventh-day-told-lay-sore
+  - told-riddle-children-people
+  - plowed-heifer-found-riddle
+  - change-garments-expounded-riddle
+  - anger-kindled-father-house
+  - Samson-wife-given-companion-friend
+  - samson
+  - philistine-woman
+  - lion-killing
+  - honey-in-carcass
+  - wedding-riddle
+  - wife
+  - thirty-men-slain
+  - wife-given-away
+---
 # Judges 14
 
 ---
@@ -101,7 +139,7 @@ Samson goes to Timnath and sees a Philistine woman. He tells his parents to get 
 
 
 *AI Keywords for current event matching:*
-`anger` `arrangement` `ashkelon` `ate` `bees` `brethren` `brought` `burn` `called` `carcass` `challenge` `change` `children` `city` `companion` `companions` `content` `daughters` `day` `days` `declare` `desire` `discovery` `divine` `dominion` `eater` `encounter` `entice` `expound` `expounded` `father` `feast` `fire` `found` `friend` `garments` `get` `given` `hand` `hands` `hate` `hear` `heifer` `honey` `house` `husband` `israel` `kid` `kindled` `knew` `lasted` `lay` `lion` `lord` `loss` `love` `marriage` `meat` `men` `mightily` `mother` `objection` `occasion` `parental` `people` `philistines` `pleased` `pleaseth` `plowed` `pressure` `purpose` `put` `rent` `response` `returned` `revenge` `riddle` `roared` `samson` `samsons` `seven` `seventh` `sheets` `slew` `solution` `sore` `sought` `spirit` `spoil` `strong` `stronger` `sun` `swarm` `sweeter` `sweetness` `take` `talked` `thirty` `three` `time` `timnath` `told` `took` `turned` `uncircumcised` `used` `vineyards` `violent` `wedding` `well` `went` `wept` `wife` `wifes` `woman` `young`
+#anger #arrangement #ashkelon #ate #bees #brethren #brought #burn #called #carcass #challenge #change #children #city #companion #companions #content #daughters #day #days #declare #desire #discovery #divine #dominion #eater #encounter #entice #expound #expounded #father #feast #fire #found #friend #garments #get #given #hand #hands #hate #hear #heifer #honey #house #husband #israel #kid #kindled #knew #lasted #lay #lion #lord #loss #love #marriage #meat #men #mightily #mother #objection #occasion #parental #people #philistines #pleased #pleaseth #plowed #pressure #purpose #put #rent #response #returned #revenge #riddle #roared #samson #samsons #seven #seventh #sheets #slew #solution #sore #sought #spirit #spoil #strong #stronger #sun #swarm #sweeter #sweetness #take #talked #thirty #three #time #timnath #told #took #turned #uncircumcised #used #vineyards #violent #wedding #well #went #wept #wife #wifes #woman #young
 
 
 ---

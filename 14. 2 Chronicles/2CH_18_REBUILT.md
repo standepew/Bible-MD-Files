@@ -1,3 +1,18 @@
+---
+book: "2 Chronicles"
+chapter: 18
+testament: "Old Testament"
+key_themes: "Unholy Alliance, False Prophets, True Prophet, Divine Judgment"
+tags:
+  - Jehoshaphat-prophet-LORD-besides-enquire
+  - Micaiah-LORD-liveth-God-speak
+  - spirit-LORD-entice-LORD-Wherewith
+  - inner-chamber-hide
+  - unholy-alliance
+  - false-prophets
+  - true-prophet
+  - divine-judgment
+---
 # 2 Chronicles 18
 
 ---
@@ -153,7 +168,7 @@ Jehoshaphat, riches, honour, abundance, joined, affinity, Ahab. Years, Ahab, Sam
 
 
 *AI Keywords for current event matching:*
-`abundance` `adjure` `affinity` `affliction` `ahab` `alliance` `amon` `answered` `assent` `battle` `besides` `bow` `bread` `call` `captains` `carry` `chamber` `chariot` `chariots` `cheek` `chenaanah` `city` `compassed` `consumed` `cried` `day` `declare` `deliver` `delivered` `depart` `died` `disguise` `disguised` `divine` `down` `drew` `enquire` `evil` `false` `fellow` `fetch` `fight` `forbear` `four` `gathered` `gilead` `god` `good` `governor` `great` `hand` `harness` `hate` `heaven` `helped` `hide` `honour` `horns` `host` `house` `hundred` `imla` `increased` `inner` `iron` `israel` `jehoshaphat` `joash` `joined` `joints` `judah` `judgment` `killed` `king` `left` `liveth` `lord` `lying` `man` `master` `messenger` `micaiah` `mountains` `mouth` `name` `officer` `oxen` `peace` `people` `perceived` `persuaded` `prison` `prophesied` `prophet` `prophets` `prosper` `pursuing` `push` `ramoth` `return` `riches` `right` `robes` `samaria` `say` `scattered` `sheep` `shepherd` `small` `smote` `son` `speak` `spirit` `spoken` `sun` `syria` `syrians` `throne` `times` `true` `truth` `turned` `unholy` `venture` `war` `water` `word` `wounded` `years` `zedekiah`
+#abundance #adjure #affinity #affliction #ahab #alliance #amon #answered #assent #battle #besides #bow #bread #call #captains #carry #chamber #chariot #chariots #cheek #chenaanah #city #compassed #consumed #cried #day #declare #deliver #delivered #depart #died #disguise #disguised #divine #down #drew #enquire #evil #false #fellow #fetch #fight #forbear #four #gathered #gilead #god #good #governor #great #hand #harness #hate #heaven #helped #hide #honour #horns #host #house #hundred #imla #increased #inner #iron #israel #jehoshaphat #joash #joined #joints #judah #judgment #killed #king #left #liveth #lord #lying #man #master #messenger #micaiah #mountains #mouth #name #officer #oxen #peace #people #perceived #persuaded #prison #prophesied #prophet #prophets #prosper #pursuing #push #ramoth #return #riches #right #robes #samaria #say #scattered #sheep #shepherd #small #smote #son #speak #spirit #spoken #sun #syria #syrians #throne #times #true #truth #turned #unholy #venture #war #water #word #wounded #years #zedekiah
 
 
 ---

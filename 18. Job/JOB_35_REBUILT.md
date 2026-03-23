@@ -1,3 +1,14 @@
+---
+book: "Job"
+chapter: 35
+testament: "Old Testament"
+key_themes: "Elihu's Third Speech, Human Pride, Divine Transcendence, Futility of Self-Righteousness"
+tags:
+  - elihu
+  - human-pride
+  - divine-transcendence
+  - futility-of-selfrighteousness
+---
 # Job 35
 
 ---
@@ -153,7 +164,7 @@ Elihu, spake, right, righteousness, GOD, advantage, profit, cleansed, sin, answe
 
 
 *AI Keywords for current event matching:*
-`advantage` `almighty` `anger` `answer` `arm` `beasts` `cleansed` `clouds` `companions` `cry` `divine` `earth` `elihu` `elihus` `evil` `extremity` `fowls` `futility` `giveth` `god` `hand` `hear` `heaven` `heavens` `higher` `human` `hurt` `judgment` `knowledge` `maker` `man` `men` `mighty` `mouth` `multiplied` `multiplieth` `multitude` `night` `open` `oppressed` `oppressions` `pride` `profit` `receiveth` `regard` `right` `righteous` `righteousness` `self-righteousness` `sin` `sinnest` `son` `songs` `spake` `speech` `teacheth` `third` `transcendence` `transgressions` `trust` `vain` `vanity` `wickedness` `wiser` `words`
+#advantage #almighty #anger #answer #arm #beasts #cleansed #clouds #companions #cry #divine #earth #elihu #elihus #evil #extremity #fowls #futility #giveth #god #hand #hear #heaven #heavens #higher #human #hurt #judgment #knowledge #maker #man #men #mighty #mouth #multiplied #multiplieth #multitude #night #open #oppressed #oppressions #pride #profit #receiveth #regard #right #righteous #righteousness #self-righteousness #sin #sinnest #son #songs #spake #speech #teacheth #third #transcendence #transgressions #trust #vain #vanity #wickedness #wiser #words
 
 
 ---

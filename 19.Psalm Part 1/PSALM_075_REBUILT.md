@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 75
+testament: "Old Testament"
+key_themes: "Divine Judgment, God's Sovereignty, Cup of Wrath, Horns of Righteous"
+tags:
+  - divine-judgment
+  - god
+  - cup-of-wrath
+  - horns-of-righteous
+---
 # Psalm 75
 
 ---
@@ -117,7 +128,7 @@ Chief, Musician, Al, taschith, Psalm, Song, Asaph, GOD, give, thanks, name, near
 
 
 *AI Keywords for current event matching:*
-`asaph` `bear` `chief` `congregation` `cup` `cut` `declare` `dissolved` `divine` `dregs` `drink` `earth` `east` `exalted` `full` `give` `god` `gods` `hand` `high` `horn` `horns` `inhabitants` `judge` `judgment` `lift` `lord` `mixture` `musician` `name` `near` `pillars` `poureth` `promotion` `psalm` `putteth` `receive` `red` `righteous` `setteth` `song` `south` `sovereignty` `taschith` `thanks` `thereof` `uprightly` `west` `wicked` `wine` `wondrous` `works` `wrath` `wring`
+#asaph #bear #chief #congregation #cup #cut #declare #dissolved #divine #dregs #drink #earth #east #exalted #full #give #god #gods #hand #high #horn #horns #inhabitants #judge #judgment #lift #lord #mixture #musician #name #near #pillars #poureth #promotion #psalm #putteth #receive #red #righteous #setteth #song #south #sovereignty #taschith #thanks #thereof #uprightly #west #wicked #wine #wondrous #works #wrath #wring
 
 
 ---

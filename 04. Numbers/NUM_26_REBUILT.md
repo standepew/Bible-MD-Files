@@ -1,3 +1,34 @@
+---
+book: "Numbers"
+chapter: 26
+testament: "Old Testament"
+key_themes: "After the plague — a new census; a new generation counted for the conquest, The second census is given to Moses AND Eleazar (not Aaron) — the priestly succession has passed, Total: 601,730 fighting men — slightly less than the first census (603,550), The land will be divided by lot according to the count — more people, more land; fewer people, less land, The Levites counted separately: 23,000 males from one month old, The solemn closing note: not one man numbered in the first census survived — except Caleb and Joshua. The LORD's sentence has been fulfilled to the letter."
+tags:
+  - after-the-plague
+  - Moses-and-Eleazar
+  - plains-of-Moab
+  - twenty-years-old-and-upward
+  - able-to-go-to-war
+  - all-twelve-tribes-numbered
+  - Reuben-43730
+  - Simeon-22200
+  - Gad-40500
+  - Judah-76500
+  - Issachar-64300
+  - Zebulun-60500
+  - Manasseh-52700
+  - Ephraim-32500
+  - Benjamin-45600
+  - Dan-64400
+  - Asher-53400
+  - Naphtali-45400
+  - total-601730
+  - land-divided-by-lot
+  - Levites-23000
+  - children-of-Korah-died-not
+  - not-a-man-remained-of-first-census
+  - save-Caleb-and-Joshua
+---
 # Numbers 26
 
 ---
@@ -64,7 +95,7 @@ After the Baal-Peor plague, God tells Moses and Eleazar to take a new census —
 
 
 *AI Keywords for current event matching:*
-`21-3` `241-3` `census` `counting` `current` `davids` `events` `forbidden` `luke` `matching` `numbers` `people` `samuel`
+#21-3 #241-3 #census #counting #current #davids #events #forbidden #luke #matching #numbers #people #samuel
 
 
 ---
@@ -174,8 +205,8 @@ The first census (Numbers 1) numbered Israel at the beginning of the wilderness 
 
 Simeon numbered 59,300 at the first census (Numbers 1:23) and 22,200 at the second — a reduction of 37,100, the largest proportional decline of any tribe. Zimri, the man whose public sin triggered the final plague, was a Simeonite prince. The tribe that lost the most to Baal-Peor is also the tribe that produced the perpetrator.
 
-- **Genesis 49:5-7** — Jacob's deathbed blessing: "Simeon and Levi are brethren; instruments of cruelty are in their habitations... I will divide them in Jacob, and scatter them in Israel" — Jacob prophesied Simeon's scattering
-- **Joshua 19:1** — Simeon receives its inheritance within Judah's territory — effectively absorbed; the prophecy of division fulfilled
+- [[01. Genesis/GEN_49_REBUILT|Genesis 49:5-7]] — Jacob's deathbed blessing: "Simeon and Levi are brethren; instruments of cruelty are in their habitations... I will divide them in Jacob, and scatter them in Israel" — Jacob prophesied Simeon's scattering
+- [[06. Joshua/JOSHUA_19_REBUILT|Joshua 19:1]] — Simeon receives its inheritance within Judah's territory — effectively absorbed; the prophecy of division fulfilled
 - **Deuteronomy 33** — Moses' final blessings omit Simeon entirely
 
 **What the Bible establishes:** The trajectory of Simeon from its Genesis 49 curse through its Numbers 26 decline through its Joshua 19 absorption and its Deuteronomy 33 omission is a single prophetic line spanning four books — the long arc of Jacob's spoken word working itself out across generations.

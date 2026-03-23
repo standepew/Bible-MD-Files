@@ -1,3 +1,14 @@
+---
+book: "Ephesians"
+chapter: 2
+testament: "New Testament"
+key_themes: "Made Alive in Christ, Saved by Grace, One in Christ, The Household of God"
+tags:
+  - made-alive-in-christ
+  - saved-by-grace
+  - one-in-christ
+  - the-household-of-god
+---
 # Ephesians 2
 
 ---
@@ -93,7 +104,7 @@ Quickened, dead, trespasses, sins, walked, course, world, prince, power, air, sp
 
 
 *AI Keywords for current event matching:*
-`abolished` `access` `afar` `ages` `air` `aliens` `alive` `apostles` `blood` `boast` `body` `broken` `builded` `building` `built` `called` `chief` `children` `christ` `circumcision` `commandments` `commonwealth` `conversation` `corner` `course` `covenants` `created` `cross` `dead` `desires` `disobedience` `enmity` `exceeding` `faith` `far` `father` `fellowcitizens` `fitly` `flesh` `foreigners` `foundation` `framed` `fulfilling` `gentiles` `gift` `god` `good` `grace` `great` `habitation` `hands` `heavenly` `holy` `hope` `household` `israel` `jesus` `kindness` `law` `lord` `love` `loved` `lusts` `made` `man` `mercy` `middle` `mind` `nature` `new` `nigh` `one` `ordained` `ordinances` `others` `partition` `peace` `places` `power` `preached` `prince` `promise` `prophets` `quicken` `quickened` `raised` `reconcile` `remember` `rich` `riches` `saints` `saved` `shew` `sins` `sit` `slain` `spirit` `stone` `strangers` `temple` `trespasses` `twain` `uncircumcision` `walk` `walked` `wall` `worketh` `workmanship` `works` `world` `wrath` `yourselves`
+#abolished #access #afar #ages #air #aliens #alive #apostles #blood #boast #body #broken #builded #building #built #called #chief #children #christ #circumcision #commandments #commonwealth #conversation #corner #course #covenants #created #cross #dead #desires #disobedience #enmity #exceeding #faith #far #father #fellowcitizens #fitly #flesh #foreigners #foundation #framed #fulfilling #gentiles #gift #god #good #grace #great #habitation #hands #heavenly #holy #hope #household #israel #jesus #kindness #law #lord #love #loved #lusts #made #man #mercy #middle #mind #nature #new #nigh #one #ordained #ordinances #others #partition #peace #places #power #preached #prince #promise #prophets #quicken #quickened #raised #reconcile #remember #rich #riches #saints #saved #shew #sins #sit #slain #spirit #stone #strangers #temple #trespasses #twain #uncircumcision #walk #walked #wall #worketh #workmanship #works #world #wrath #yourselves
 
 
 ---

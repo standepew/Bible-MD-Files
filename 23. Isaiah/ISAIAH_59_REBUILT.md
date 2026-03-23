@@ -1,3 +1,13 @@
+---
+book: "Isaiah"
+chapter: 59
+testament: "Old Testament"
+key_themes: "Christ's Salvation, Divine Intervention, Spiritual Warfare, Christ's Redemption"
+tags:
+  - christ
+  - divine-intervention
+  - spiritual-warfare
+---
 # Isaiah 59
 
 ---
@@ -117,7 +127,7 @@ Behold, LORD, hand, shortened, save, ear, heavy, hear, iniquities, separated, Go
 
 
 *AI Keywords for current event matching:*
-`arm` `breastplate` `brought` `christs` `clad` `cloke` `come` `covenant` `divine` `enemy` `flood` `garments` `hand` `head` `helmet` `intercessor` `intervention` `lord` `mouth` `put` `redeemer` `redemption` `righteousness` `salvation` `save` `shortened` `spirit` `spiritual` `standard` `sustained` `transgression` `turn` `vengeance` `warfare` `zeal` `zion`
+#arm #breastplate #brought #christs #clad #cloke #come #covenant #divine #enemy #flood #garments #hand #head #helmet #intercessor #intervention #lord #mouth #put #redeemer #redemption #righteousness #salvation #save #shortened #spirit #spiritual #standard #sustained #transgression #turn #vengeance #warfare #zeal #zion
 
 
 ---

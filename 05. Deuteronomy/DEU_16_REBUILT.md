@@ -1,3 +1,38 @@
+---
+book: "Deuteronomy"
+chapter: 16
+testament: "Old Testament"
+key_themes: "Feasts of Israel, Passover, Feast of Weeks, Feast of Tabernacles, Centralized Worship, Judges and Officers, Justice System, No Bribes, No Sacred Trees, No Images"
+tags:
+  - month-of-Abib
+  - keep-passover
+  - brought-forth-Egypt
+  - sacrifice-passover
+  - place-LORD-chooses
+  - unleavened-bread
+  - bread-of-affliction
+  - remember-Egypt
+  - seven-days
+  - solemn-assembly
+  - feast-of-weeks
+  - seven-weeks
+  - sickle-to-corn
+  - freewill-offering
+  - rejoice-before-LORD
+  - feast-of-tabernacles
+  - gather-corn-wine
+  - three-times-year
+  - appear-empty
+  - judges-officers
+  - just-judgment
+  - not-wrest-judgment
+  - not-respect-persons
+  - not-take-gift
+  - gift-blind-eyes
+  - altogether-just
+  - plant-not-grove
+  - set-not-up-image
+---
 # Deuteronomy 16
 
 ---
@@ -127,7 +162,7 @@ Moses commands the three annual feasts: Passover (month of Abib, commemorating E
 
 
 *AI Keywords for current event matching:*
-`abib` `able` `affliction` `altar` `altogether` `any` `appear` `assembly` `begin` `bless` `blessed` `blessing` `blind` `bondman` `bread` `brought` `chooses` `coast` `corn` `daughter` `days` `down` `eat` `egypt` `empty` `eyes` `fatherless` `feast` `flock` `follow` `forbidden` `forth` `freewill` `gates` `gathered` `gift` `give` `going` `grove` `hand` `hands` `haste` `hateth` `hath` `herd` `image` `increase` `inherit` `judge` `judges` `judgment` `judicial` `keep` `land` `leaven` `leavened` `levite` `live` `lord` `maidservant` `make` `males` `manservant` `month` `morning` `near` `night` `number` `observance` `observe` `offering` `officers` `passover` `people` `persons` `pervert` `pilgrimage` `place` `plant` `rejoice` `remain` `remember` `requirements` `respect` `roast` `sacrifice` `seen` `set` `seven` `sickle` `solemn` `son` `statutes` `stranger` `sun` `surely` `system` `tabernacles` `take` `three` `times` `trees` `tribute` `turn` `unleavened` `weeks` `widow` `wine` `within` `words` `work` `works` `worship` `wrest` `year`
+#abib #able #affliction #altar #altogether #any #appear #assembly #begin #bless #blessed #blessing #blind #bondman #bread #brought #chooses #coast #corn #daughter #days #down #eat #egypt #empty #eyes #fatherless #feast #flock #follow #forbidden #forth #freewill #gates #gathered #gift #give #going #grove #hand #hands #haste #hateth #hath #herd #image #increase #inherit #judge #judges #judgment #judicial #keep #land #leaven #leavened #levite #live #lord #maidservant #make #males #manservant #month #morning #near #night #number #observance #observe #offering #officers #passover #people #persons #pervert #pilgrimage #place #plant #rejoice #remain #remember #requirements #respect #roast #sacrifice #seen #set #seven #sickle #solemn #son #statutes #stranger #sun #surely #system #tabernacles #take #three #times #trees #tribute #turn #unleavened #weeks #widow #wine #within #words #work #works #worship #wrest #year
 
 
 ---

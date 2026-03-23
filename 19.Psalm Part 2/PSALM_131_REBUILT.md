@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 131
+testament: "Old Testament"
+key_themes: "Humble Heart, Childlike Trust, Spiritual Simplicity, Hope in the LORD"
+tags:
+  - humble-heart
+  - childlike-trust
+  - spiritual-simplicity
+  - hope-in-the-lord
+---
 # Psalm 131
 
 ---
@@ -69,7 +80,7 @@ Song, degrees, David, heart, haughty, eyes, lofty, exercise, great, matters, thi
 
 
 *AI Keywords for current event matching:*
-`behaved` `child` `childlike` `exercise` `eyes` `forever` `great` `haughty` `heart` `henceforth` `high` `hope` `humble` `israel` `lofty` `lord` `matters` `mother` `myself` `quieted` `simplicity` `soul` `spiritual` `things` `too` `trust` `weaned`
+#behaved #child #childlike #exercise #eyes #forever #great #haughty #heart #henceforth #high #hope #humble #israel #lofty #lord #matters #mother #myself #quieted #simplicity #soul #spiritual #things #too #trust #weaned
 
 
 ---

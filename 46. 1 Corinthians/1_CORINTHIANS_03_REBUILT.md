@@ -1,3 +1,14 @@
+---
+book: "1 Corinthians"
+chapter: 3
+testament: "New Testament"
+key_themes: "Carnal Christians, God's Building, The Foundation Christ, The Temple of God"
+tags:
+  - carnal-christians
+  - god
+  - the-foundation-christ
+  - the-temple-of-god
+---
 # 1 Corinthians 3
 
 ---
@@ -117,7 +128,7 @@ Brethren, speak, spiritual, carnal, babes, Christ, fed, milk, meat, bear, carnal
 
 
 *AI Keywords for current event matching:*
-`abide` `apollos` `babes` `bear` `become` `believed` `brethren` `build` `buildeth` `building` `burned` `carnal` `cephas` `christ` `christians` `craftiness` `day` `death` `deceive` `declare` `defile` `destroy` `divisions` `dwelleth` `envying` `fed` `fire` `fool` `foolishness` `foundation` `gave` `glory` `god` `gods` `gold` `grace` `hay` `holy` `husbandry` `increase` `jesus` `knoweth` `labour` `labourers` `laid` `life` `lord` `loss` `man` `manifest` `masterbuilder` `meat` `men` `milk` `ministers` `paul` `planted` `planteth` `precious` `present` `receive` `revealed` `reward` `saith` `saved` `silver` `speak` `spirit` `spiritual` `stones` `strife` `stubble` `suffer` `takeheed` `taketh` `temple` `things` `thoughts` `vain` `walk` `watered` `watereth` `wisdom` `wise` `wood` `work` `world` `written` `yours`
+#abide #apollos #babes #bear #become #believed #brethren #build #buildeth #building #burned #carnal #cephas #christ #christians #craftiness #day #death #deceive #declare #defile #destroy #divisions #dwelleth #envying #fed #fire #fool #foolishness #foundation #gave #glory #god #gods #gold #grace #hay #holy #husbandry #increase #jesus #knoweth #labour #labourers #laid #life #lord #loss #man #manifest #masterbuilder #meat #men #milk #ministers #paul #planted #planteth #precious #present #receive #revealed #reward #saith #saved #silver #speak #spirit #spiritual #stones #strife #stubble #suffer #takeheed #taketh #temple #things #thoughts #vain #walk #watered #watereth #wisdom #wise #wood #work #world #written #yours
 
 
 ---

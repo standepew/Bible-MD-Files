@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 66
+testament: "Old Testament"
+key_themes: "Joyful Praise, God's Works, Divine Testing, Grateful Worship"
+tags:
+  - joyful-praise
+  - god
+  - divine-testing
+  - grateful-worship
+---
 # Psalm 66
 
 ---
@@ -129,7 +140,7 @@ Chief, Musician, Song, Psalm, Make, joyful, noise, GOD, lands, Sing, honour, nam
 
 
 *AI Keywords for current event matching:*
-`affliction` `away` `behold` `bless` `brought` `bullocks` `burnt` `caused` `chief` `divine` `dry` `earth` `enemies` `eyes` `fatlings` `fire` `flood` `foot` `forever` `glorious` `goats` `god` `gods` `grateful` `greatness` `heads` `honour` `house` `incense` `joyful` `laid` `land` `lands` `lips` `loins` `make` `men` `mercy` `mouth` `musician` `name` `nations` `net` `noise` `offer` `offerings` `pay` `place` `power` `praise` `prayer` `proved` `psalm` `rams` `rejoined` `ride` `ruleth` `sacrifices` `sea` `silver` `sing` `song` `spoken` `submit` `terrible` `testing` `tried` `trouble` `turned` `uttered` `vows` `water` `wealthy` `went` `works` `worship`
+#affliction #away #behold #bless #brought #bullocks #burnt #caused #chief #divine #dry #earth #enemies #eyes #fatlings #fire #flood #foot #forever #glorious #goats #god #gods #grateful #greatness #heads #honour #house #incense #joyful #laid #land #lands #lips #loins #make #men #mercy #mouth #musician #name #nations #net #noise #offer #offerings #pay #place #power #praise #prayer #proved #psalm #rams #rejoined #ride #ruleth #sacrifices #sea #silver #sing #song #spoken #submit #terrible #testing #tried #trouble #turned #uttered #vows #water #wealthy #went #works #worship
 
 
 ---

@@ -1,3 +1,13 @@
+---
+book: "Isaiah"
+chapter: 30
+testament: "Old Testament"
+key_themes: "Christ's Rest, Divine Mercy, Spiritual Guidance, Christ's Healing"
+tags:
+  - christ
+  - divine-mercy
+  - spiritual-guidance
+---
 # Isaiah 30
 
 ---
@@ -117,7 +127,7 @@ Woe, rebellious, children, LORD, take, counsel, cover, covering, spirit, add, si
 
 
 *AI Keywords for current event matching:*
-`answer` `behind` `bind` `blessed` `breach` `christs` `confidence` `divine` `exalted` `give` `gracious` `guidance` `heal` `healing` `hear` `left` `light` `mercy` `quietness` `rain` `rest` `returning` `right` `see` `seed` `sevenfold` `spiritual` `stroke` `teachers` `turn` `voice` `wait` `walk` `way` `word`
+#answer #behind #bind #blessed #breach #christs #confidence #divine #exalted #give #gracious #guidance #heal #healing #hear #left #light #mercy #quietness #rain #rest #returning #right #see #seed #sevenfold #spiritual #stroke #teachers #turn #voice #wait #walk #way #word
 
 
 ---

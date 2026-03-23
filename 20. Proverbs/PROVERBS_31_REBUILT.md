@@ -1,3 +1,14 @@
+---
+book: "Proverbs"
+chapter: 31
+testament: "Old Testament"
+key_themes: "Royal Wisdom, Virtuous Woman, Justice and Mercy, Divine Praise"
+tags:
+  - royal-wisdom
+  - virtuous-woman
+  - justice-and-mercy
+  - divine-praise
+---
 # Proverbs 31
 
 ---
@@ -117,7 +128,7 @@ Words, king, Lemuel, prophecy, mother, taught, son, son, womb, son, vows, streng
 
 
 *AI Keywords for current event matching:*
-`arise` `blessed` `call` `cause` `children` `divine` `dumb` `feareth` `flax` `forget` `fruit` `hand` `hands` `heart` `husband` `judge` `judgment` `justice` `king` `law` `lemuel` `lord` `mercy` `mouth` `needy` `open` `pervert` `plead` `poor` `praise` `praised` `price` `prophecy` `righteously` `royal` `rubies` `safely` `seeketh` `stretcheth` `trust` `virtuous` `wisdom` `woman` `wool` `works`
+#arise #blessed #call #cause #children #divine #dumb #feareth #flax #forget #fruit #hand #hands #heart #husband #judge #judgment #justice #king #law #lemuel #lord #mercy #mouth #needy #open #pervert #plead #poor #praise #praised #price #prophecy #righteously #royal #rubies #safely #seeketh #stretcheth #trust #virtuous #wisdom #woman #wool #works
 
 
 ---

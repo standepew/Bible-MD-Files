@@ -1,3 +1,18 @@
+---
+book: "1 Samuel"
+chapter: 30
+testament: "Old Testament"
+key_themes: "Amalekite Raid, Ziklag Burned, Families Captured, David's Distress, Divine Guidance, Victory, Spoil Distribution"
+tags:
+  - David-people-voice-wept-power
+  - amalekite-raid
+  - ziklag-burned
+  - families-captured
+  - david
+  - divine-guidance
+  - victory
+  - spoil-distribution
+---
 # 1 Samuel 30
 
 ---
@@ -83,7 +98,7 @@ When David and men came to Ziklag third day, Amalekites invaded south, Ziklag, s
 
 
 *AI Keywords for current event matching:*
-`abiathar` `abigail` `ahimelech` `ahinoam` `alike` `amalekite` `amalekites` `answered` `aroer` `ate` `attac` `attack` `battle` `belial` `belongest` `besor` `beth-el` `bread` `brethren` `brook` `brought` `burned` `cake` `caleb` `camels` `captives` `carmelite` `carried` `cattle` `cherethites` `children` `chor-ashan` `cities` `city` `coast` `company` `complete` `dancing` `daughters` `david` `davids` `day` `days` `deliver` `delivered` `depart` `distressed` `distribution` `drinking` `earth` `eating` `egyptian` `elders` `encouraged` `enemies` `enquired` `ephod` `escaped` `eshtemoa` `evening` `faint` `fell` `field` `figs` `fire` `fled` `flocks` `follow` `four` `friends` `given` `god` `great` `grieved` `hand` `haunt` `hebron` `herds` `hormah` `hundred` `invaded` `invasion` `israel` `jattir` `jerahmeelites` `jezreelitess` `judah` `kenites` `kill` `lacking` `lead` `left` `lord` `man` `master` `meet` `men` `nabal` `next` `nights` `ordinance` `overtake` `part` `people` `philistines` `places` `power` `present` `preserved` `priest` `pursue` `pursued` `pursuit` `rachal` `raisins` `ramoth` `recover` `recovered` `recovery` `rescued` `response` `saluted` `sick` `siphmoth` `six` `slew` `small` `smitten` `smote` `son` `sons` `soul` `south` `spirit` `spoil` `statute` `stoning` `stuff` `swear` `third` `three` `troop` `twilight` `two` `victory` `voice` `water` `way` `wept` `whence` `wicked` `wife` `wives` `women` `young` `ziklag`
+#abiathar #abigail #ahimelech #ahinoam #alike #amalekite #amalekites #answered #aroer #ate #attac #attack #battle #belial #belongest #besor #beth-el #bread #brethren #brook #brought #burned #cake #caleb #camels #captives #carmelite #carried #cattle #cherethites #children #chor-ashan #cities #city #coast #company #complete #dancing #daughters #david #davids #day #days #deliver #delivered #depart #distressed #distribution #drinking #earth #eating #egyptian #elders #encouraged #enemies #enquired #ephod #escaped #eshtemoa #evening #faint #fell #field #figs #fire #fled #flocks #follow #four #friends #given #god #great #grieved #hand #haunt #hebron #herds #hormah #hundred #invaded #invasion #israel #jattir #jerahmeelites #jezreelitess #judah #kenites #kill #lacking #lead #left #lord #man #master #meet #men #nabal #next #nights #ordinance #overtake #part #people #philistines #places #power #present #preserved #priest #pursue #pursued #pursuit #rachal #raisins #ramoth #recover #recovered #recovery #rescued #response #saluted #sick #siphmoth #six #slew #small #smitten #smote #son #sons #soul #south #spirit #spoil #statute #stoning #stuff #swear #third #three #troop #twilight #two #victory #voice #water #way #wept #whence #wicked #wife #wives #women #young #ziklag
 
 
 ---

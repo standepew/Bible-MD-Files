@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 95
+testament: "Old Testament"
+key_themes: "Joyful Worship, Divine Creator, Shepherd Care, Warning Against Hardness"
+tags:
+  - joyful-worship
+  - divine-creator
+  - shepherd-care
+  - warning-against-hardness
+---
 # Psalm 95
 
 ---
@@ -153,7 +164,7 @@ Joyful, noise, LORD, rock, salvation, come, presence, thanksgiving, joyful, nois
 
 
 *AI Keywords for current event matching:*
-`against` `bow` `care` `come` `creator` `day` `deep` `divine` `dry` `earth` `enter` `err` `fathers` `formed` `forty` `generation` `god` `gods` `great` `grieved` `hand` `hands` `harden` `hardness` `hear` `heart` `hills` `joyful` `king` `kneel` `known` `land` `lord` `made` `maker` `noise` `pasture` `people` `places` `presence` `proved` `provocation` `psalms` `rest` `rock` `salvation` `saw` `sea` `sheep` `shepherd` `strength` `sware` `temptation` `tempted` `thanksgiving` `voice` `warning` `ways` `wilderness` `work` `worship` `wrath` `years`
+#against #bow #care #come #creator #day #deep #divine #dry #earth #enter #err #fathers #formed #forty #generation #god #gods #great #grieved #hand #hands #harden #hardness #hear #heart #hills #joyful #king #kneel #known #land #lord #made #maker #noise #pasture #people #places #presence #proved #provocation #psalms #rest #rock #salvation #saw #sea #sheep #shepherd #strength #sware #temptation #tempted #thanksgiving #voice #warning #ways #wilderness #work #worship #wrath #years
 
 
 ---

@@ -1,3 +1,15 @@
+---
+book: "Luke"
+chapter: 14
+testament: "New Testament"
+key_themes: "Healing on the Sabbath, Parable of the Wedding Feast, Parable of the Great Supper, The Cost of Discipleship, The Salt of the Earth"
+tags:
+  - healing-on-the-sabbath
+  - parable-of-the-wedding-feast
+  - parable-of-the-great-supper
+  - the-cost-of-discipleship
+  - the-salt-of-the-earth
+---
 # Luke 14
 
 ---
@@ -155,7 +167,7 @@ House, chief, Pharisees, eat, bread, sabbath, watched, man, dropsy, Jesus, answe
 
 
 *AI Keywords for current event matching:*
-`ass` `bear` `bidden` `bought` `build` `cast` `chief` `cost` `count` `cross` `discipleship` `dropsy` `earth` `exalted` `excuse` `fallen` `father` `feast` `fit` `five` `good` `great` `ground` `hate` `heal` `healed` `healing` `higher` `highest` `humbleth` `land` `lawful` `lost` `lowest` `make` `many` `parable` `pit` `pull` `room` `rooms` `sabbath` `salt` `savour` `seasoned` `supper` `ten` `thousand` `tower` `wedding` `yoke`
+#ass #bear #bidden #bought #build #cast #chief #cost #count #cross #discipleship #dropsy #earth #exalted #excuse #fallen #father #feast #fit #five #good #great #ground #hate #heal #healed #healing #higher #highest #humbleth #land #lawful #lost #lowest #make #many #parable #pit #pull #room #rooms #sabbath #salt #savour #seasoned #supper #ten #thousand #tower #wedding #yoke
 
 
 ---

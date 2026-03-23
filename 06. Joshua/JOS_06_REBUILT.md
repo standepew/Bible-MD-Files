@@ -1,3 +1,115 @@
+---
+book: "Joshua"
+chapter: 6
+testament: "Old Testament"
+key_themes: "Jericho Conquest, Divine Strategy, Seven Days March, Seven Priests, Seven Trumpets, Wall Collapse, Holy War, Rahab's Rescue, Accursed City, Devoted Things, Joshua's Fame"
+tags:
+  - Jericho-straitly-shut
+  - children-Israel
+  - went-out
+  - came-in
+  - LORD-Joshua
+  - given-hand-Jericho
+  - king
+  - mighty-men-valour
+  - compass-city
+  - men-war
+  - round-city-once
+  - six-days
+  - seven-priests-bear-ark
+  - seven-trumpets-rams-horns
+  - priests-blow-trumpets
+  - long-blast-rams-horn
+  - hear-sound-trumpet
+  - people-shout-great-shout
+  - wall-city-fall-flat
+  - people-ascend-straight
+  - Joshua-son-Nun-called-priests
+  - Take-ark-covenant
+  - said-people
+  - Pass-compass-city
+  - armed-pass-ark-LORD
+  - Joshua-spoken-people
+  - blew-trumpets
+  - ark-covenant-LORD-followed
+  - armed-men-went-priests
+  - rereward-ark-LORD
+  - priests-going-blew-trumpets
+  - Joshua-commanded-people
+  - shout-noise-voice
+  - word-proceed-mouth
+  - day-bid-shout
+  - shout
+  - ark-LORD-compassed-city
+  - going-once
+  - came-camp
+  - lodged-camp
+  - Joshua-rose-early-morning
+  - priests-ark-LORD
+  - armed-men-went
+  - second-day-compassed-city-once
+  - returned-camp
+  - compassed-city-manner-seven-times
+  - day-compassed-city-seven-times
+  - seventh-time-priests-blew-trumpets
+  - Joshua-people
+  - Shout
+  - LORD-given-city
+  - city-accursed
+  - LORD
+  - Rahab-harlot-live
+  - house
+  - hid-messengers-sent
+  - wise-keep-accursed-thing
+  - accursed-thing
+  - accursed-camp-Israel-curse
+  - trouble
+  - silver-gold-vessels-brass-iron
+  - consecrated-LORD
+  - treasury-LORD
+  - people-shouted-priests-blew-trumpets
+  - people-heard-sound-trumpet
+  - people-shouted-great-shout
+  - wall-fell-flat
+  - people-went-city
+  - straight-took-city
+  - destroyed-city
+  - man-woman
+  - young-old
+  - ox-sheep-ass
+  - edge-sword
+  - Joshua-two-men-spied-country
+  - harlot-house
+  - bring-woman
+  - sware
+  - young-men-spies
+  - brought-Rahab
+  - father-mother-brethren
+  - brought-kindred
+  - left-camp-Israel
+  - burnt-city-fire
+  - treasury-house-LORD
+  - Joshua-saved-Rahab-harlot-alive
+  - father-household
+  - dwelleth-Israel-day
+  - Joshua-adjured-time
+  - Cursed-man-LORD
+  - riseth-build-city-Jericho
+  - lay-foundation-firstborn
+  - youngest-son-set-gates
+  - fame-noised-country
+  - jericho-conquest
+  - divine-strategy
+  - seven-days-march
+  - seven-priests
+  - seven-trumpets
+  - wall-collapse
+  - holy-war
+  - rahab
+  - accursed-city
+  - devoted-things
+  - joshua
+---
 # Joshua 6
 
 ---
@@ -128,7 +240,7 @@ Jericho is shut tight because of Israel. God tells Joshua He has given Jericho i
 
 
 *AI Keywords for current event matching:*
-`accursed` `adjured` `alive` `ark` `armed` `ascend` `ass` `bear` `bearing` `bid` `blast` `blew` `blow` `brass` `brethren` `bring` `brought` `build` `burnt` `called` `came` `camp` `children` `city` `command` `commanded` `compass` `compassed` `conquest` `consecrated` `continually` `country` `covenant` `curse` `cursed` `dawning` `day` `days` `destroyed` `devoted` `divine` `dwelleth` `early` `edge` `fall` `fame` `father` `fell` `fire` `firstborn` `flat` `followed` `foundation` `gates` `given` `going` `gold` `great` `hand` `harlot` `hear` `heard` `hid` `holy` `horn` `horns` `house` `household` `iron` `israel` `jericho` `joshua` `joshuas` `keep` `kindred` `king` `lay` `leadership` `left` `live` `lodged` `long` `lord` `man` `manner` `marching` `mechanism` `men` `messengers` `mighty` `morning` `mother` `mouth` `noise` `noised` `nun` `old` `once` `order` `pass` `passed` `people` `priestly` `priests` `proceed` `process` `rahab` `rahabs` `rams` `rebuilding` `rereward` `rescue` `returned` `riseth` `rose` `round` `said` `saved` `second` `sent` `set` `seven` `seven-day` `seventh` `sheep` `shout` `shouted` `shut` `siege` `silence` `silver` `six` `son` `sound` `spied` `spies` `spoken` `spy` `straight` `straitly` `strategy` `sware` `sword` `take` `thing` `things` `time` `times` `took` `treasury` `trouble` `trumpet` `trumpets` `two` `valour` `vessels` `victory` `voice` `wall` `war` `went` `wise` `woman` `word` `young` `youngest`
+#accursed #adjured #alive #ark #armed #ascend #ass #bear #bearing #bid #blast #blew #blow #brass #brethren #bring #brought #build #burnt #called #came #camp #children #city #command #commanded #compass #compassed #conquest #consecrated #continually #country #covenant #curse #cursed #dawning #day #days #destroyed #devoted #divine #dwelleth #early #edge #fall #fame #father #fell #fire #firstborn #flat #followed #foundation #gates #given #going #gold #great #hand #harlot #hear #heard #hid #holy #horn #horns #house #household #iron #israel #jericho #joshua #joshuas #keep #kindred #king #lay #leadership #left #live #lodged #long #lord #man #manner #marching #mechanism #men #messengers #mighty #morning #mother #mouth #noise #noised #nun #old #once #order #pass #passed #people #priestly #priests #proceed #process #rahab #rahabs #rams #rebuilding #rereward #rescue #returned #riseth #rose #round #said #saved #second #sent #set #seven #seven-day #seventh #sheep #shout #shouted #shut #siege #silence #silver #six #son #sound #spied #spies #spoken #spy #straight #straitly #strategy #sware #sword #take #thing #things #time #times #took #treasury #trouble #trumpet #trumpets #two #valour #vessels #victory #voice #wall #war #went #wise #woman #word #young #youngest
 
 
 ---

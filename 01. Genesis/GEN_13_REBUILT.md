@@ -1,3 +1,57 @@
+---
+book: "Genesis"
+chapter: 13
+testament: "Old Testament"
+key_themes: "Abram Goes Up Out of Egypt — Restoration After Failure, Return to Bethel — The Altar of First Devotion, Wealth Without Unity — Strife Among the Brethren, Abram's Generosity — Surrendering Rights, "Lift Up Thine Eyes" — Two Visions of the Land, Lot's Choice by Sight — The Jordan Plain "Like the Garden of the LORD," Lot Journeys East — Toward Sodom, The Men of Sodom Were Wicked Exceedingly, After Separation — God Speaks, The Land Promise Expanded to Four Directions and Forever, Seed as Dust of the Earth, "Arise and Walk Through the Land," Abram to Hebron — Fellowship at the Altar"
+tags:
+  - Abram
+  - Lot
+  - goes-up-from-Egypt
+  - restoration-after-failure
+  - return-to-altar
+  - Bethel
+  - very-rich
+  - cattle-silver-gold
+  - strife
+  - herdmen
+  - brethren
+  - achim
+  - we-be-brethren
+  - separation
+  - Lot-lifts-eyes
+  - sight-vs-faith
+  - plain-of-Jordan
+  - well-watered
+  - like-garden-of-LORD
+  - like-Egypt
+  - Zoar
+  - Lot-journeys-east
+  - east-direction
+  - tent-toward-Sodom
+  - Sodom
+  - wicked-sinners-exceedingly
+  - Gomorrah
+  - lift-up-thine-eyes
+  - four-directions
+  - land-promise
+  - seed-forever
+  - dust-of-earth
+  - arise-walk-through-land
+  - Hebron
+  - Mamre
+  - altar
+  - fellowship
+  - olam
+  - zera
+  - Lot-progressive-compromise
+  - tent-vs-city
+  - pilgrim-identity
+  - worldly-choice
+  - 2Peter-2-7
+  - Luke-17-28
+  - Galatians-3-29
+  - Romans-4-13
+---
 # Genesis 13
 
 ---
@@ -165,7 +219,7 @@ Abram came up out of Egypt — "went up" (alah) — with Sarai, Lot, and all his
 
 For AI matching to topics and current events:
 
-`Abram goes up from Egypt` `alah` `restoration after failure` `return to altar` `Bethel` `first devotion` `Abram very rich` `cattle silver gold` `strife` `riv` `herdmen` `Canaanite Perizzite in land` `we be brethren` `achim` `covenant kinship` `surrender rights` `Lot lifts eyes` `sight vs faith` `plain of Jordan` `well watered` `like garden of LORD` `like Egypt` `Zoar` `Lot journeys east` `qidmah` `east direction` `eastward exile` `tent toward Sodom` `men of Sodom wicked` `chatta'im` `ra` `me'od` `wicked sinners exceedingly` `cry of Sodom` `Sodom's sins` `Ezekiel 16:49` `Jude 7` `after Lot separated` `separation and revelation` `lift up thine eyes` `northward southward eastward westward` `four directions` `land forever` `olam` `seed as dust of earth` `arise walk through land` `faith-possession` `Hebron` `Mamre` `altar` `cheber` `fellowship` `progressive compromise` `Lot in Sodom` `Luke 17:28` `2 Corinthians 5:7` `walk by faith not sight` `heir of world` `Romans 4:13` `Revelation 7:9`
+#Abram-goes-up-from-Egypt #alah #restoration-after-failure #return-to-altar #Bethel #first-devotion #Abram-very-rich #cattle-silver-gold #strife #riv #herdmen #Canaanite-Perizzite-in-land #we-be-brethren #achim #covenant-kinship #surrender-rights #Lot-lifts-eyes #sight-vs-faith #plain-of-Jordan #well-watered #like-garden-of-LORD #like-Egypt #Zoar #Lot-journeys-east #qidmah #east-direction #eastward-exile #tent-toward-Sodom #men-of-Sodom-wicked #chattaim #ra #meod #wicked-sinners-exceedingly #cry-of-Sodom #Sodoms-sins #Ezekiel-1649 #Jude-7 #after-Lot-separated #separation-and-revelation #lift-up-thine-eyes #northward-southward-eastward-westward #four-directions #land-forever #olam #seed-as-dust-of-earth #arise-walk-through-land #faith-possession #Hebron #Mamre #altar #cheber #fellowship #progressive-compromise #Lot-in-Sodom #Luke-1728 #2-Corinthians-57 #walk-by-faith-not-sight #heir-of-world #Romans-413 #Revelation-79
 
 **Relevance to Current Events:**
 - Worldly prosperity and its moral costs — the Jordan plain looked perfect by every visible measure; the men of Sodom were wicked exceedingly; the appearance of prosperity does not confirm the righteousness of a choice; this applies to business partnerships, relational choices, and national alignments
@@ -455,13 +509,13 @@ The Psalm 1:1 parallel: "walketh not... standeth... sitteth" — walk → stand 
 - Genesis 22:4 — "Abraham lifted up his eyes, and saw the place" (Moriah) — the faith-vision on the way to the ultimate test
 - Genesis 22:13 — "Abraham lifted up his eyes, and looked, and behold behind him a ram" — the provision-vision after obedience
 - Numbers 13:27-33 — the ten spies lifted up their eyes and saw the giants; the two faithful spies (Caleb and Joshua) lifted up their eyes and saw the inheritance; same land, different vision; the eyes see what the heart is set on
-- **Hebrews 12:2** — "Looking unto Jesus the author and finisher of our faith" — the ultimate "lift up your eyes"; fixing the gaze on Christ rather than on the Jordan plain or the giants; the final form of the faith-vision
+- [[58. Hebrews/HEBREWS_12_REBUILT|Hebrews 12:2]] — "Looking unto Jesus the author and finisher of our faith" — the ultimate "lift up your eyes"; fixing the gaze on Christ rather than on the Jordan plain or the giants; the final form of the faith-vision
 
 ---
 
 ### East — The Direction of Exile
 
-**Genesis 13:11** — "Lot journeyed east"
+[[01. Genesis/GEN_13_REBUILT|Genesis 13:11]] — "Lot journeyed east"
 
 **Thread through Scripture:**
 - Genesis 3:24 — east of Eden: exile of Adam
@@ -477,7 +531,7 @@ The Psalm 1:1 parallel: "walketh not... standeth... sitteth" — walk → stand 
 
 ### Tent vs. City — Pilgrim Identity vs. World Settlement
 
-**Genesis 13:12** — "Abram dwelled in the land of Canaan, and Lot dwelled in the cities of the plain"
+[[01. Genesis/GEN_13_REBUILT|Genesis 13:12]] — "Abram dwelled in the land of Canaan, and Lot dwelled in the cities of the plain"
 
 **Thread through Scripture:**
 - Abram: tent (ohel) — pilgrim; no permanent structure; always ready to move at God's direction; builds altars, not houses

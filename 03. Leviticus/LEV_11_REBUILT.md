@@ -1,3 +1,32 @@
+---
+book: "Leviticus"
+chapter: 11
+testament: "Old Testament"
+key_themes: "The food laws — clean and unclean animals, "For I am the LORD your God: ye shall therefore sanctify yourselves, and ye shall be holy; for I am holy" — the foundational reason for all dietary distinction, The categories: land animals (hoof and cud), water creatures (fins and scales), birds (listed by prohibition), insects (most forbidden; leaping insects permitted), Carcass contamination — what contact with unclean carcasses does to persons and vessels, "To make a difference between the unclean and the clean""
+tags:
+  - clean-unclean
+  - food-laws
+  - split-hoof
+  - chews-cud
+  - fins-scales
+  - abomination
+  - creeping-things
+  - leaping-insects-permitted
+  - carcass-contamination
+  - earthen-vessel-broken
+  - fountain-remains-clean
+  - seed-dry-is-clean
+  - be-holy-for-I-am-holy
+  - I-am-the-LORD-your-God
+  - difference-between-clean-unclean
+  - swine
+  - camel
+  - hare
+  - eagle
+  - raven
+  - weasel
+  - mouse
+---
 # Leviticus 11
 
 ---
@@ -65,7 +94,7 @@ God speaks to Moses and Aaron with comprehensive food laws. Land animals: permit
 
 
 *AI Keywords for current event matching:*
-`1144-45` `115-16` `current` `ethics` `events` `holy` `identity-shaped` `leviticus` `matching` `matthew` `peter`
+#1144-45 #115-16 #current #ethics #events #holy #identity-shaped #leviticus #matching #matthew #peter
 
 
 ---

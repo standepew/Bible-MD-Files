@@ -1,3 +1,14 @@
+---
+book: "Jonah"
+chapter: 1
+testament: "Old Testament"
+key_themes: "Christ's Call to Mission, Divine Discipline, Repentance of Mariners, Great Fish"
+tags:
+  - christ
+  - divine-discipline
+  - repentance-of-mariners
+  - great-fish
+---
 # Jonah 1
 
 ---
@@ -105,7 +116,7 @@ Word, LORD, Jonah, son, Amittai, Arise, Nineveh, great, city, cry, wickedness, c
 
 
 *AI Keywords for current event matching:*
-`against` `arise` `belly` `broken` `call` `cast` `christs` `come` `cried` `cry` `days` `discipline` `divine` `fell` `fish` `flee` `great` `jonah` `lord` `lot` `lots` `mariners` `mighty` `mission` `nights` `nineveh` `offered` `prepared` `presence` `repentance` `sacrifice` `ship` `swallow` `tempest` `three` `wickedness` `wind` `word`
+#against #arise #belly #broken #call #cast #christs #come #cried #cry #days #discipline #divine #fell #fish #flee #great #jonah #lord #lot #lots #mariners #mighty #mission #nights #nineveh #offered #prepared #presence #repentance #sacrifice #ship #swallow #tempest #three #wickedness #wind #word
 
 
 ---

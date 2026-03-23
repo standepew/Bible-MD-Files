@@ -1,3 +1,14 @@
+---
+book: "Proverbs"
+chapter: 16
+testament: "Old Testament"
+key_themes: "Divine Sovereignty, Human Planning, Pride and Humility, Divine Justice"
+tags:
+  - divine-sovereignty
+  - human-planning
+  - pride-and-humility
+  - divine-justice
+---
 # Proverbs 16
 
 ---
@@ -129,7 +140,7 @@ Preparations, heart, man, answer, tongue, LORD, ways, man, clean, eyes, LORD, we
 
 
 *AI Keywords for current event matching:*
-`abomination` `balance` `cast` `commit` `day` `destruction` `deviseth` `directeth` `disposing` `divine` `established` `evil` `heart` `human` `humble` `humility` `justice` `lap` `lord` `lot` `lowly` `made` `man` `planning` `preparations` `pride` `proud` `righteousness` `sovereignty` `spirit` `spirits` `steps` `throne` `way` `weigheth` `weight` `wicked` `works`
+#abomination #balance #cast #commit #day #destruction #deviseth #directeth #disposing #divine #established #evil #heart #human #humble #humility #justice #lap #lord #lot #lowly #made #man #planning #preparations #pride #proud #righteousness #sovereignty #spirit #spirits #steps #throne #way #weigheth #weight #wicked #works
 
 
 ---

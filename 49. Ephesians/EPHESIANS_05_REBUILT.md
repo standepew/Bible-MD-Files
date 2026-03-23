@@ -1,3 +1,14 @@
+---
+book: "Ephesians"
+chapter: 5
+testament: "New Testament"
+key_themes: "Walk in Love, Children of Light, Wise Living, Marriage and Christ"
+tags:
+  - walk-in-love
+  - children-of-light
+  - wise-living
+  - marriage-and-christ
+---
 # Ephesians 5
 
 ---
@@ -117,7 +128,7 @@ Followers, God, dear, children, walk, love, Christ, loved, given, offering, sacr
 
 
 *AI Keywords for current event matching:*
-`acceptable` `arise` `awake` `blemish` `bodies` `body` `bones` `cause` `cherish` `children` `christ` `church` `circumspectly` `cleanse` `convenient` `covetous` `covetousness` `darkness` `days` `dead` `dear` `deceive` `disobedience` `drunk` `evil` `excess` `father` `fear` `fellowship` `filled` `filthiness` `flesh` `followers` `foolish` `fools` `fornication` `fruit` `gave` `give` `given` `giving` `glorious` `god` `goodness` `hated` `head` `heart` `holy` `husband` `husbands` `hymns` `idolater` `inheritance` `jesting` `jesus` `joined` `kingdom` `know` `leave` `light` `living` `lord` `love` `loved` `loveth` `man` `manifest` `marriage` `melody` `members` `mother` `mystery` `name` `named` `nourish` `offering` `partakers` `person` `present` `proving` `psalms` `redeeming` `reprove` `reproved` `reverence` `righteousness` `sacrifice` `saints` `saith` `sanctify` `saviour` `savour` `secret` `shame` `singing` `sleepest` `songs` `speak` `speaking` `spirit` `spiritual` `spot` `subject` `submit` `submitting` `sweetsmelling` `talking` `thanks` `things` `time` `truth` `unclean` `uncleanness` `understanding` `unfruitful` `unwise` `vain` `walk` `washing` `water` `whoremonger` `wife` `wine` `wise` `wives` `word` `words` `works` `wrath` `wrinkle`
+#acceptable #arise #awake #blemish #bodies #body #bones #cause #cherish #children #christ #church #circumspectly #cleanse #convenient #covetous #covetousness #darkness #days #dead #dear #deceive #disobedience #drunk #evil #excess #father #fear #fellowship #filled #filthiness #flesh #followers #foolish #fools #fornication #fruit #gave #give #given #giving #glorious #god #goodness #hated #head #heart #holy #husband #husbands #hymns #idolater #inheritance #jesting #jesus #joined #kingdom #know #leave #light #living #lord #love #loved #loveth #man #manifest #marriage #melody #members #mother #mystery #name #named #nourish #offering #partakers #person #present #proving #psalms #redeeming #reprove #reproved #reverence #righteousness #sacrifice #saints #saith #sanctify #saviour #savour #secret #shame #singing #sleepest #songs #speak #speaking #spirit #spiritual #spot #subject #submit #submitting #sweetsmelling #talking #thanks #things #time #truth #unclean #uncleanness #understanding #unfruitful #unwise #vain #walk #washing #water #whoremonger #wife #wine #wise #wives #word #words #works #wrath #wrinkle
 
 
 ---

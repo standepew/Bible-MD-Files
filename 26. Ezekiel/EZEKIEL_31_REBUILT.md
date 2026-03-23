@@ -1,3 +1,13 @@
+---
+book: "Ezekiel"
+chapter: 31
+testament: "Old Testament"
+key_themes: "Christ's Majesty, Assyrian Pride, Divine Judgment, Christ's Kingdom"
+tags:
+  - christ
+  - assyrian-pride
+  - divine-judgment
+---
 # Ezekiel 31
 
 ---
@@ -117,7 +127,7 @@ Eleventh, year, third, month, first, day, month, word, Lord, son, man, Pharaoh, 
 
 
 *AI Keywords for current event matching:*
-`assyrian` `branches` `brought` `cedar` `christs` `comforted` `cut` `delivered` `divine` `down` `earth` `eden` `envied` `fair` `fallen` `greatness` `hand` `heart` `heathen` `height` `high` `judgment` `kingdom` `lifted` `majesty` `mighty` `nether` `off` `parts` `pharaoh` `pride` `shot` `stature` `top` `trees`
+#assyrian #branches #brought #cedar #christs #comforted #cut #delivered #divine #down #earth #eden #envied #fair #fallen #greatness #hand #heart #heathen #height #high #judgment #kingdom #lifted #majesty #mighty #nether #off #parts #pharaoh #pride #shot #stature #top #trees
 
 
 ---

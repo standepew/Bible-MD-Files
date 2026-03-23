@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 146
+testament: "Old Testament"
+key_themes: "Eternal Praise, Divine Help, Creation Power, Compassionate Justice"
+tags:
+  - eternal-praise
+  - divine-help
+  - creation-power
+  - compassionate-justice
+---
 # Psalm 146
 
 ---
@@ -153,7 +164,7 @@ Praise, LORD, Praise, LORD, soul, live, praise, LORD, sing, praises, GOD, being,
 
 
 *AI Keywords for current event matching:*
-`blind` `compassionate` `creation` `divine` `earth` `eternal` `executeth` `eyes` `god` `happy` `heaven` `help` `hope` `jacob` `judgment` `justice` `keepeth` `live` `loosen` `lord` `made` `openeth` `power` `praise` `praises` `preserveth` `prisoners` `sing` `soul` `strangers` `trust` `truth` `while`
+#blind #compassionate #creation #divine #earth #eternal #executeth #eyes #god #happy #heaven #help #hope #jacob #judgment #justice #keepeth #live #loosen #lord #made #openeth #power #praise #praises #preserveth #prisoners #sing #soul #strangers #trust #truth #while
 
 
 ---

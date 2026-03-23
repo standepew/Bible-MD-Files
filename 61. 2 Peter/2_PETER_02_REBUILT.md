@@ -1,3 +1,15 @@
+---
+book: "2 Peter"
+chapter: 2
+testament: "New Testament"
+key_themes: "False Teachers and Their Destruction, Examples of Divine Judgment, Characteristics of False Teachers, The Way of Balaam, The Dog and Sow Proverb"
+tags:
+  - false-teachers-and-their-destruction
+  - examples-of-divine-judgment
+  - characteristics-of-false-teachers
+  - the-way-of-balaam
+  - the-dog-and-sow-proverb
+---
 # 2 Peter 2
 
 ---
@@ -107,7 +119,7 @@ False, prophets, people, false, teachers, privily, damnable, heresies, denying, 
 
 
 *AI Keywords for current event matching:*
-`accusation` `adultery` `afraid` `allure` `angels` `ashes` `ass` `astray` `balaam` `beasts` `beginning` `beguiling` `better` `blemishes` `bondage` `bosor` `bought` `brought` `brute` `cast` `cease` `chains` `characteristics` `children` `christ` `cities` `clean` `clouds` `commandment` `condemned` `conversation` `corruption` `covetous` `covetousness` `cursed` `damnable` `damnation` `darkness` `day` `deceivings` `deeds` `deliver` `delivered` `denying` `despise` `destroyed` `destruction` `dignities` `divine` `dog` `dumb` `dwelling` `eighth` `ensample` `entangled` `error` `escaped` `evil` `examples` `exercised` `eyes` `false` `feast` `feigned` `filthy` `flesh` `flood` `follow` `following` `forbad` `forsaken` `full` `god` `godly` `gomorrha` `gone` `government` `great` `greater` `hearing` `heart` `hell` `heresies` `holy` `iniquity` `jesus` `judgment` `knoweth` `knowledge` `known` `latter` `liberty` `lingereth` `live` `long` `lord` `lot` `loved` `lust` `lusts` `madness` `man` `merchandise` `mire` `mist` `natural` `noah` `old` `overcome` `overthrow` `people` `perish` `pernicious` `person` `pleasure` `pollutions` `power` `practices` `preacher` `presumptuous` `privily` `promise` `prophet` `prophets` `proverb` `punished` `railing` `reason` `rebuked` `reserve` `reserved` `reward` `right` `righteous` `righteousness` `riot` `saved` `saviour` `seeing` `selfwilled` `servants` `sin` `sinned` `slumbereth` `sodom` `son` `soul` `souls` `sow` `spared` `speak` `speaking` `spoken` `sporting` `spots` `swelling` `swift` `taken` `teachers` `tempest` `temptations` `things` `time` `true` `truth` `turned` `turning` `uncleanness` `understand` `ungodly` `unjust` `unlawful` `unrighteousness` `unstable` `utterly` `vanity` `vexed` `voice` `vomit` `wages` `walk` `wallowing` `wantonness` `washed` `water` `way` `ways` `wells` `wicked` `words` `world` `worse`
+#accusation #adultery #afraid #allure #angels #ashes #ass #astray #balaam #beasts #beginning #beguiling #better #blemishes #bondage #bosor #bought #brought #brute #cast #cease #chains #characteristics #children #christ #cities #clean #clouds #commandment #condemned #conversation #corruption #covetous #covetousness #cursed #damnable #damnation #darkness #day #deceivings #deeds #deliver #delivered #denying #despise #destroyed #destruction #dignities #divine #dog #dumb #dwelling #eighth #ensample #entangled #error #escaped #evil #examples #exercised #eyes #false #feast #feigned #filthy #flesh #flood #follow #following #forbad #forsaken #full #god #godly #gomorrha #gone #government #great #greater #hearing #heart #hell #heresies #holy #iniquity #jesus #judgment #knoweth #knowledge #known #latter #liberty #lingereth #live #long #lord #lot #loved #lust #lusts #madness #man #merchandise #mire #mist #natural #noah #old #overcome #overthrow #people #perish #pernicious #person #pleasure #pollutions #power #practices #preacher #presumptuous #privily #promise #prophet #prophets #proverb #punished #railing #reason #rebuked #reserve #reserved #reward #right #righteous #righteousness #riot #saved #saviour #seeing #selfwilled #servants #sin #sinned #slumbereth #sodom #son #soul #souls #sow #spared #speak #speaking #spoken #sporting #spots #swelling #swift #taken #teachers #tempest #temptations #things #time #true #truth #turned #turning #uncleanness #understand #ungodly #unjust #unlawful #unrighteousness #unstable #utterly #vanity #vexed #voice #vomit #wages #walk #wallowing #wantonness #washed #water #way #ways #wells #wicked #words #world #worse
 
 
 ---

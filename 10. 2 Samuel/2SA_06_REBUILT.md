@@ -1,3 +1,16 @@
+---
+book: "2 Samuel"
+chapter: 6
+testament: "Old Testament"
+key_themes: "Bringing Ark to Jerusalem, Uzzah's Death, David's Fear, Obed-edom's Blessing, David's Joy, Michal's Contempt"
+tags:
+  - Michal-daughter-Saul-child-death
+  - bringing-ark-to-jerusalem
+  - uzzah
+  - david
+  - obededom
+  - michal
+---
 # 2 Samuel 6
 
 ---
@@ -83,7 +96,7 @@ David gathered chosen men of Israel, thirty thousand. David arose, went with peo
 
 
 *AI Keywords for current event matching:*
-`abinadab` `accompanying` `afraid` `ahio` `anger` `appoint` `ark` `arose` `aside` `baale` `base` `bless` `blessed` `blessing` `breach` `bread` `burnt` `cake` `cart` `cherubims` `child` `chose` `chosen` `city` `contempt` `cornets` `cymbals` `danced` `dancing` `daughter` `david` `davids` `day` `death` `despised` `died` `displeased` `drove` `dwelleth` `ephod` `error` `eyes` `father` `fatlings` `fellows` `fir` `flagon` `flesh` `gathered` `gibeah` `girded` `gittite` `gladness` `glorious` `god` `hand` `handmaids` `harps` `heart` `honour` `hosts` `house` `household` `instruments` `israel` `joy` `judah` `king` `leaping` `linen` `lord` `maidservants` `meet` `men` `michal` `michals` `months` `multitude` `nachon` `name` `new` `obed-edom` `obed-edoms` `offerings` `oxen` `paces` `peace` `people` `perez-uzzah` `pertaineth` `pitched` `place` `play` `played` `psalteries` `remove` `ruler` `sacrificed` `saul` `servants` `shamelessly` `shook` `shouting` `sight` `six` `smote` `sons` `sound` `spoken` `tabernacle` `thirty` `thousand` `three` `threshingfloor` `timbrels` `transportation` `trumpet` `uncovered` `uzzah` `uzzahs` `vain` `vile` `window` `wine` `women`
+#abinadab #accompanying #afraid #ahio #anger #appoint #ark #arose #aside #baale #base #bless #blessed #blessing #breach #bread #burnt #cake #cart #cherubims #child #chose #chosen #city #contempt #cornets #cymbals #danced #dancing #daughter #david #davids #day #death #despised #died #displeased #drove #dwelleth #ephod #error #eyes #father #fatlings #fellows #fir #flagon #flesh #gathered #gibeah #girded #gittite #gladness #glorious #god #hand #handmaids #harps #heart #honour #hosts #house #household #instruments #israel #joy #judah #king #leaping #linen #lord #maidservants #meet #men #michal #michals #months #multitude #nachon #name #new #obed-edom #obed-edoms #offerings #oxen #paces #peace #people #perez-uzzah #pertaineth #pitched #place #play #played #psalteries #remove #ruler #sacrificed #saul #servants #shamelessly #shook #shouting #sight #six #smote #sons #sound #spoken #tabernacle #thirty #thousand #three #threshingfloor #timbrels #transportation #trumpet #uncovered #uzzah #uzzahs #vain #vile #window #wine #women
 
 
 ---

@@ -1,3 +1,13 @@
+---
+book: "Jeremiah"
+chapter: 18
+testament: "Old Testament"
+key_themes: "Christ's Potter, Divine Sovereignty, Human Rebellion, Christ's Vengeance"
+tags:
+  - christ
+  - divine-sovereignty
+  - human-rebellion
+---
 # Jeremiah 18
 
 ---
@@ -105,7 +115,7 @@ Word, Jeremiah, LORD, saying, Arise, potter, house, cause, hear, words, went, po
 
 
 *AI Keywords for current event matching:*
-`again` `anger` `build` `children` `christs` `clay` `deliver` `destroy` `devices` `devise` `digged` `divine` `evil` `famine` `forgotten` `hand` `heart` `hope` `house` `human` `imagination` `jeremiah` `made` `marred` `overthrown` `pit` `plant` `pluck` `potter` `pull` `rebellion` `repent` `soul` `sovereignty` `vanity` `vengeance` `vessel` `wheels` `work`
+#again #anger #build #children #christs #clay #deliver #destroy #devices #devise #digged #divine #evil #famine #forgotten #hand #heart #hope #house #human #imagination #jeremiah #made #marred #overthrown #pit #plant #pluck #potter #pull #rebellion #repent #soul #sovereignty #vanity #vengeance #vessel #wheels #work
 
 
 ---

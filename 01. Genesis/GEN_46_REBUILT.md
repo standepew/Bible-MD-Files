@@ -1,3 +1,38 @@
+---
+book: "Genesis"
+chapter: 46
+testament: "Old Testament"
+key_themes: "Israel Journeys to Egypt — The Final Patriarchal Migration, God Speaks at Beersheba — The Last Theophany Before Egypt, "Fear Not to Go Down Into Egypt — I Will Make of Thee a Great Nation There", The Covenant Promise Renewed at the Threshold of Captivity, The Seventy Souls of Jacob's House — The Complete Number, Joseph Meets Jacob — Twenty-Two Years of Separation Ended, Goshen Appointed as the Dwelling Place, The Separation of Hebrew Shepherds from Egyptian Society"
+tags:
+  - Israel-journeys-to-Egypt
+  - Beersheba-sacrifices
+  - Jacob-Jacob-double-name-call
+  - seventy-souls-of-Jacob
+  - Deuteronomy-10-22
+  - Acts-7-14
+  - Genesis-15-13-sojourn-promised
+  - Jacob-permitted-contrast
+  - Judah-sent-before-as-pathfinder
+  - Joseph-made-ready-chariot
+  - Goshen-for-shepherds
+  - every-shepherd-abomination-to-Egyptians
+  - seventy-nations-Genesis-10
+  - seventy-souls-Genesis-46
+  - Deuteronomy-32-8
+  - Luke-10-1-seventy-sent
+  - Hosea-11-1
+  - Abraham-Abraham-Genesis-22-11
+  - Moses-Moses-Exodus-3-4
+  - Deuteronomy-31-6
+  - israel-journeys-to-egypt
+  - god-speaks-at-beersheba
+  - fear-not-to-go-down-into
+  - the-covenant-promise-renewed-at-the
+  - the-seventy-souls-of-jacob
+  - joseph-meets-jacob
+  - goshen-appointed-as-the-dwelling-place
+  - the-separation-of-hebrew-shepherds-from
+---
 # Genesis 46
 
 ---
@@ -65,7 +100,7 @@ Joseph instructed his brothers on the protocol before Pharaoh: declare yourselve
 
 ## KEYWORD INDEX
 
-`Israel journeys to Egypt` `Beersheba last altar covenant land` `offered sacrifices to God of father Isaac` `God spoke visions of night` `Jacob Jacob double name call` `Genesis 22:11 Abraham Abraham` `Exodus 3:4 Moses Moses` `1 Samuel 3:10 Samuel Samuel` `Luke 22:31 Simon Simon` `Acts 9:4 Saul Saul` `Here am I` `I am God God of thy father` `fear not to go down into Egypt` `I will make thee great nation there` `I will go down with thee` `I will also surely bring thee up again` `Genesis 15:13-14 sojourn affliction return decreed` `Isaiah 43:2 when thou passest through waters` `Deuteronomy 31:6 LORD thy God goeth with thee` `Hebrews 13:5 never leave nor forsake` `Joseph shall put hand upon thine eyes` `seventy souls of Jacob` `Genesis 10 seventy nations` `Deuteronomy 10:22 seventy in stars out` `Deuteronomy 32:8 bounds of nations` `Luke 10:1 seventy sent out` `Kohath in list ancestor of Moses` `Judah sent before as pathfinder` `Joseph made ready chariot` `fell on neck wept good while` `now let me die seen thy face` `Luke 2:29-30 Simeon nunc dimittis` `Luke 15:20 father ran fell on neck` `we are shepherds occupation` `every shepherd abomination Egyptians` `Goshen separated dwelling` `separation secured by Egypt's own prejudice` `covenant people in Egypt not of Egypt` `Genesis 26:2 Isaac forbidden Egypt` `Jacob permitted contrast same God different purpose` `Hosea 11:1 Matthew 2:15 out of Egypt called my son` `the covenant descent and the promised return`
+#Israel-journeys-to-Egypt #Beersheba-last-altar-covenant-land #offered-sacrifices-to-God-of-father-Isaac #God-spoke-visions-of-night #Jacob-Jacob-double-name-call #Genesis-2211-Abraham-Abraham #Exodus-34-Moses-Moses #1-Samuel-310-Samuel-Samuel #Luke-2231-Simon-Simon #Acts-94-Saul-Saul #Here-am-I #I-am-God-God-of-thy-father #fear-not-to-go-down-into-Egypt #I-will-make-thee-great-nation-there #I-will-go-down-with-thee #I-will-also-surely-bring-thee-up-again #Genesis-1513-14-sojourn-affliction-return-decreed #Isaiah-432-when-thou-passest-through-waters #Deuteronomy-316-LORD-thy-God-goeth-with-thee #Hebrews-135-never-leave-nor-forsake #Joseph-shall-put-hand-upon-thine-eyes #seventy-souls-of-Jacob #Genesis-10-seventy-nations #Deuteronomy-1022-seventy-in-stars-out #Deuteronomy-328-bounds-of-nations #Luke-101-seventy-sent-out #Kohath-in-list-ancestor-of-Moses #Judah-sent-before-as-pathfinder #Joseph-made-ready-chariot #fell-on-neck-wept-good-while #now-let-me-die-seen-thy-face #Luke-229-30-Simeon-nunc-dimittis #Luke-1520-father-ran-fell-on-neck #we-are-shepherds-occupation #every-shepherd-abomination-Egyptians #Goshen-separated-dwelling #separation-secured-by-Egypts-own-prejudice #covenant-people-in-Egypt-not-of-Egypt #Genesis-262-Isaac-forbidden-Egypt #Jacob-permitted-contrast-same-God-different-purpose #Hosea-111-Matthew-215-out-of-Egypt-called-my-son #the-covenant-descent-and-the-promised-return
 
 **Current Events Relevance:**
 - "Fear not to go down" — God's command to proceed into the hard place with the explicit promise of accompaniment and return; applicable in pastoral care for those facing unavoidable seasons of hardship, displacement, or loss

@@ -1,3 +1,14 @@
+---
+book: "Haggai"
+chapter: 1
+testament: "Old Testament"
+key_themes: "Christ's Call to Build, Divine Priority, Material Discontent, Spiritual Awakening"
+tags:
+  - christ
+  - divine-priority
+  - material-discontent
+  - spiritual-awakening
+---
 # Haggai 1
 
 ---
@@ -141,7 +152,7 @@ Second, year, Darius, king, sixth, month, first, day, month, word, LORD, Haggai,
 
 
 *AI Keywords for current event matching:*
-`awakening` `bag` `build` `built` `call` `christs` `cieled` `clothe` `consider` `discontent` `divine` `drink` `earneth` `eat` `enough` `feared` `filled` `holes` `house` `houses` `lie` `little` `lord` `material` `much` `obeyed` `pleasure` `priority` `sown` `spirit` `spiritual` `stirred` `take` `time` `voice` `wages` `warm` `waste` `ways` `work`
+#awakening #bag #build #built #call #christs #cieled #clothe #consider #discontent #divine #drink #earneth #eat #enough #feared #filled #holes #house #houses #lie #little #lord #material #much #obeyed #pleasure #priority #sown #spirit #spiritual #stirred #take #time #voice #wages #warm #waste #ways #work
 
 
 ---

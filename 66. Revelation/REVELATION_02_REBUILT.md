@@ -1,3 +1,14 @@
+---
+book: "Revelation"
+chapter: 2
+testament: "New Testament"
+key_themes: "Message to Ephesus (Lost First Love), Message to Smyrna (Faithful in Tribulation), Message to Pergamos (Compromise with False Doctrine), Message to Thyatira (Tolerance of Jezebel)"
+tags:
+  - message-to-ephesus
+  - message-to-smyrna
+  - message-to-pergamos
+  - message-to-thyatira
+---
 # Revelation 2
 
 ---
@@ -129,7 +140,7 @@ Angel, church, Ephesus, write, holdeth, seven, stars, right, hand, walketh, mids
 
 
 *AI Keywords for current event matching:*
-`adultery` `alive` `angel` `antipas` `apostles` `balaam` `balac` `bear` `bed` `blasphemy` `borne` `brass` `broken` `burden` `candlestick` `candlesticks` `cast` `charity` `children` `church` `churches` `come` `commit` `compromise` `crown` `days` `dead` `death` `deeds` `denied` `depths` `devil` `doctrine` `dwellest` `ear` `eat` `edges` `end` `ephesus` `evil` `eyes` `fainted` `faith` `faithful` `fallen` `false` `fast` `father` `fear` `feet` `fight` `fine` `fire` `first` `flame` `fornication` `found` `gave` `give` `god` `golden` `great` `hand` `hate` `hatest` `hear` `hearts` `hidden` `hold` `holdest` `holdeth` `hurt` `idols` `iron` `israel` `jews` `jezebel` `keepeth` `kill` `know` `knoweth` `known` `labour` `laboured` `last` `left` `liars` `life` `lost` `love` `manna` `martyr` `message` `midst` `morning` `mouth` `name` `nations` `new` `nicolaitans` `overcometh` `paradise` `patience` `pergamos` `place` `potter` `poverty` `power` `prison` `prophetess` `received` `receiveth` `reins` `remember` `remove` `repent` `repented` `rest` `rich` `right` `rod` `rule` `sacrificed` `saith` `sake` `satan` `searcheth` `seat` `second` `seduce` `servants` `service` `seven` `sharp` `shivers` `slain` `smyrna` `son` `space` `speak` `spirit` `star` `stars` `stone` `stumblingblock` `suffer` `sufferest` `sword` `synagogue` `taught` `teach` `ten` `thyatira` `tolerance` `tree` `tribulation` `tried` `two` `vessels` `walketh` `whence` `white` `woman` `works` `write` `written`
+#adultery #alive #angel #antipas #apostles #balaam #balac #bear #bed #blasphemy #borne #brass #broken #burden #candlestick #candlesticks #cast #charity #children #church #churches #come #commit #compromise #crown #days #dead #death #deeds #denied #depths #devil #doctrine #dwellest #ear #eat #edges #end #ephesus #evil #eyes #fainted #faith #faithful #fallen #false #fast #father #fear #feet #fight #fine #fire #first #flame #fornication #found #gave #give #god #golden #great #hand #hate #hatest #hear #hearts #hidden #hold #holdest #holdeth #hurt #idols #iron #israel #jews #jezebel #keepeth #kill #know #knoweth #known #labour #laboured #last #left #liars #life #lost #love #manna #martyr #message #midst #morning #mouth #name #nations #new #nicolaitans #overcometh #paradise #patience #pergamos #place #potter #poverty #power #prison #prophetess #received #receiveth #reins #remember #remove #repent #repented #rest #rich #right #rod #rule #sacrificed #saith #sake #satan #searcheth #seat #second #seduce #servants #service #seven #sharp #shivers #slain #smyrna #son #space #speak #spirit #star #stars #stone #stumblingblock #suffer #sufferest #sword #synagogue #taught #teach #ten #thyatira #tolerance #tree #tribulation #tried #two #vessels #walketh #whence #white #woman #works #write #written
 
 
 ---

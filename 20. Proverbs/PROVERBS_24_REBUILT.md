@@ -1,3 +1,14 @@
+---
+book: "Proverbs"
+chapter: 24
+testament: "Old Testament"
+key_themes: "Wisdom and Strength, Justice and Judgment, Diligence and Sloth, Divine Knowledge"
+tags:
+  - wisdom-and-strength
+  - justice-and-judgment
+  - diligence-and-sloth
+  - divine-knowledge
+---
 # Proverbs 24
 
 ---
@@ -117,7 +128,7 @@ Envious, evil, men, desire, them, heart, studieth, destruction, lips, talk, misc
 
 
 *AI Keywords for current event matching:*
-`adversity` `answer` `builded` `chambers` `day` `diligence` `displease` `divine` `faint` `filled` `giveth` `house` `increaseth` `judgment` `justice` `keep` `know` `knowledge` `lips` `little` `lord` `man` `persons` `poverty` `respect` `right` `righteous` `saith` `see` `sleep` `sloth` `slumber` `soul` `strength` `strong` `travelleth` `wicked` `wisdom` `wise`
+#adversity #answer #builded #chambers #day #diligence #displease #divine #faint #filled #giveth #house #increaseth #judgment #justice #keep #know #knowledge #lips #little #lord #man #persons #poverty #respect #right #righteous #saith #see #sleep #sloth #slumber #soul #strength #strong #travelleth #wicked #wisdom #wise
 
 
 ---

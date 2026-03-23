@@ -1,3 +1,37 @@
+---
+book: "Numbers"
+chapter: 32
+testament: "Old Testament"
+key_themes: "Reuben and Gad see the cattle-land east of Jordan and ask to settle there instead of crossing over, Moses's alarm: this is exactly what happened at Kadesh — the fathers discouraged the people and cost them forty years; are you rising up to do the same?, The tribes offer a counter-proposal: we will build cities for our families, then go armed before all Israel until every tribe has their inheritance — only then will we return, Moses accepts the conditional arrangement: if you cross and fight, the land east of Jordan is yours; if you do not, you shall have possession in Canaan with the rest, The tribal settlement: Gad and Reuben rebuild cities on the east; half the tribe of Manasseh receives Gilead and Bashan, "Be sure your sin will find you out" — the most famous verse in Numbers 32"
+tags:
+  - great-multitude-of-cattle
+  - land-of-Jazer-and-Gilead
+  - place-for-cattle
+  - bring-us-not-over-Jordan
+  - Moses-alarmed
+  - fathers-at-Kadesh
+  - discouraged-the-heart
+  - whats-increase-of-sinful-men
+  - if-ye-turn-away
+  - destroy-this-people
+  - go-ready-armed-before-Israel
+  - not-inherit-on-yonder-side
+  - if-ye-will-do-this
+  - Gad-builds-Dibon-Ataroth-Aroer
+  - Reuben-builds-Heshbon-Elealeh
+  - Machir-takes-Gilead
+  - Jair-takes-Havoth-jair
+  - Nobah-takes-Kenath
+  - reuben-and-gad-see-the-cattleland
+  - moses
+  - are-you-rising-up-to-do
+  - the-tribes-offer-a-counterproposal-we
+  - moses-accepts-the-conditional-arrangement-if
+  - if-you-do-not-you-shall
+  - the-tribal-settlement-gad-and-reuben
+  - half-the-tribe-of-manasseh-receives
+  - be-sure-your-sin-will-find
+---
 # Numbers 32
 
 ---
@@ -64,7 +98,7 @@ Reuben and Gad have great multitudes of cattle. They see the conquered land of J
 
 
 *AI Keywords for current event matching:*
-`122-3` `67-8` `current` `events` `exposed` `galatians` `hebrews` `hidden` `inevitably` `luke` `matching` `numbers` `sin`
+#122-3 #67-8 #current #events #exposed #galatians #hebrews #hidden #inevitably #luke #matching #numbers #sin
 
 
 ---
@@ -151,8 +185,8 @@ Reuben, Gad, and half Manasseh settle east of Jordan — outside the boundaries 
 
 Numbers 32:17 — "we ourselves will go ready armed before the children of Israel" — the eastern tribes promise to serve the common mission before enjoying their personal inheritance.
 
-- **Romans 15:1-3** — "We then that are strong ought to bear the infirmities of the weak, and not to please ourselves" — the New Covenant principle: those who have already received should serve those who have not yet
-- **Philippians 2:3-4** — "Let each esteem other better than themselves. Look not every man on his own things, but every man also on the things of others"
+- [[45. Romans/ROMANS_15_REBUILT|Romans 15:1-3]] — "We then that are strong ought to bear the infirmities of the weak, and not to please ourselves" — the New Covenant principle: those who have already received should serve those who have not yet
+- [[50. Philippians/PHILIPPIANS_02_REBUILT|Philippians 2:3-4]] — "Let each esteem other better than themselves. Look not every man on his own things, but every man also on the things of others"
 - *Interpretation: The Reubenite and Gadite commitment — we will not return to our houses until every brother has his inheritance — is the type of the servant posture. They had what they needed; they still went forward until all were settled. This is the Numbers 32 model for those who have been blessed: go before, fight alongside, stay until the work is done.*
 
 ---

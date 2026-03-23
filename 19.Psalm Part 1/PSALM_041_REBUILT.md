@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 41
+testament: "Old Testament"
+key_themes: "Caring for the Poor, Betrayal by Friends, Divine Healing, God's Favor"
+tags:
+  - caring-for-the-poor
+  - betrayal-by-friends
+  - divine-healing
+  - god
+---
 # Psalm 41
 
 ---
@@ -129,7 +140,7 @@ Chief, Musician, Psalm, David, blessed, considereth, poor, LORD, deliver, time, 
 
 
 *AI Keywords for current event matching:*
-`abroad` `against` `alive` `ate` `bed` `betrayal` `blessed` `bread` `caring` `chief` `cleaveth` `come` `considereth` `david` `deliver` `devise` `die` `disease` `divine` `earth` `enemies` `enemy` `everlasting` `evil` `face` `familiar` `fast` `favor` `favourest` `forever` `friend` `friends` `gathereth` `god` `gods` `goeth` `hate` `heal` `healing` `heart` `heel` `hurt` `iniquity` `integrity` `israel` `keep` `languishing` `lieth` `lifted` `lord` `make` `merciful` `musician` `name` `perish` `poor` `preserve` `psalm` `raise` `requite` `rise` `see` `settest` `sickness` `sinned` `soul` `speak` `strengthen` `telleth` `time` `triumph` `trouble` `trusted` `upholdest` `vanity` `whisper`
+#abroad #against #alive #ate #bed #betrayal #blessed #bread #caring #chief #cleaveth #come #considereth #david #deliver #devise #die #disease #divine #earth #enemies #enemy #everlasting #evil #face #familiar #fast #favor #favourest #forever #friend #friends #gathereth #god #gods #goeth #hate #heal #healing #heart #heel #hurt #iniquity #integrity #israel #keep #languishing #lieth #lifted #lord #make #merciful #musician #name #perish #poor #preserve #psalm #raise #requite #rise #see #settest #sickness #sinned #soul #speak #strengthen #telleth #time #triumph #trouble #trusted #upholdest #vanity #whisper
 
 
 ---

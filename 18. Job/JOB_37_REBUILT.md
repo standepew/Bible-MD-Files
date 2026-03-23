@@ -1,3 +1,14 @@
+---
+book: "Job"
+chapter: 37
+testament: "Old Testament"
+key_themes: "Elihu's Fifth Speech, God's Voice, Natural Phenomena, Divine Majesty"
+tags:
+  - elihu
+  - god
+  - natural-phenomena
+  - divine-majesty
+---
 # Job 37
 
 ---
@@ -177,7 +188,7 @@ Heart, trembleth, moved, place, hear, attentively, noise, voice, sound, mouth, d
 
 
 *AI Keywords for current event matching:*
-`attentively` `balancings` `beasts` `breath` `bright` `cloud` `clouds` `cold` `commandeth` `comprehend` `correction` `counsels` `darkness` `dens` `directeth` `disposed` `divine` `earth` `elihus` `excellency` `face` `fifth` `frost` `garments` `glass` `god` `gods` `great` `hand` `hear` `heard` `hearken` `heart` `heaven` `job` `know` `knowledge` `land` `light` `lightning` `looking` `majesty` `man` `marvellously` `mercy` `molten` `mouth` `moved` `natural` `noise` `north` `perfect` `phenomena` `place` `places` `quieteth` `rain` `roareth` `scattereth` `sealeth` `shine` `sky` `small` `snow` `sound` `south` `speech` `spread` `stand` `stay` `still` `straitened` `strength` `strong` `swallowed` `teach` `thick` `thundereth` `trembleth` `turned` `voice` `warm` `watering` `waters` `wearieth` `whirlwind` `wind` `wondrous` `work` `works` `world`
+#attentively #balancings #beasts #breath #bright #cloud #clouds #cold #commandeth #comprehend #correction #counsels #darkness #dens #directeth #disposed #divine #earth #elihus #excellency #face #fifth #frost #garments #glass #god #gods #great #hand #hear #heard #hearken #heart #heaven #job #know #knowledge #land #light #lightning #looking #majesty #man #marvellously #mercy #molten #mouth #moved #natural #noise #north #perfect #phenomena #place #places #quieteth #rain #roareth #scattereth #sealeth #shine #sky #small #snow #sound #south #speech #spread #stand #stay #still #straitened #strength #strong #swallowed #teach #thick #thundereth #trembleth #turned #voice #warm #watering #waters #wearieth #whirlwind #wind #wondrous #work #works #world
 
 
 ---

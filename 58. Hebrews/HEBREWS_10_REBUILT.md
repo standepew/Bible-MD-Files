@@ -1,3 +1,15 @@
+---
+book: "Hebrews"
+chapter: 10
+testament: "New Testament"
+key_themes: "Insufficiency of the Law, Christ's Perfect Sacrifice, The New Covenant, Bold Access to God, Warning Against Apostasy"
+tags:
+  - insufficiency-of-the-law
+  - christ
+  - the-new-covenant
+  - bold-access-to-god
+  - warning-against-apostasy
+---
 # Hebrews 10
 
 ---
@@ -143,7 +155,7 @@ Law, shadow, good, things, image, sacrifices, offered, year, year, continually, 
 
 
 *AI Keywords for current event matching:*
-`above` `access` `adversaries` `afflictions` `against` `apostasy` `approaching` `assembling` `assurance` `back` `believe` `belong` `better` `blood` `bodies` `body` `bold` `boldness` `bonds` `book` `brethren` `bulls` `burnt` `ceased` `christ` `christs` `come` `comers` `cometh` `companions` `compassion` `confidence` `conscience` `consecrated` `consider` `continually` `counted` `covenant` `daily` `day` `days` `despised` `despite` `devour` `died` `done` `draw` `endured` `enduring` `enemies` `enter` `establish` `evil` `exhorting` `expecting` `faith` `faithful` `fall` `fast` `fearful` `fiery` `fight` `first` `flesh` `foot` `footstool` `forever` `former` `forsaking` `full` `gazingstock` `ghost` `goats` `god` `good` `goods` `grace` `great` `hand` `hands` `heart` `hearts` `heaven` `high` `hold` `holiest` `holy` `house` `illuminated` `image` `indignation` `iniquities` `insufficiency` `jesus` `joyfully` `judge` `judgment` `know` `knowing` `knowledge` `law` `laws` `little` `live` `living` `looking` `lord` `love` `man` `manner` `mercy` `minds` `ministering` `moses` `near` `new` `offered` `offering` `offerings` `oftentimes` `patience` `people` `perdition` `perfect` `perfected` `pleasure` `prepared` `priest` `profession` `promise` `promised` `provoke` `punishment` `pure` `purged` `receive` `received` `recompence` `recompense` `remain` `remember` `remembrance` `remission` `reproaches` `reward` `right` `sacrifice` `sacrifices` `sanctified` `saving` `second` `shadow` `sin` `sins` `son` `sorer` `soul` `spirit` `spoiling` `sprinkled` `standeth` `substance` `take` `taketh` `tarry` `thing` `things` `trodden` `true` `truth` `unholy` `used` `veil` `vengeance` `volume` `warning` `washed` `water` `wavering` `way` `while` `wilfully` `witness` `witnesses` `works` `world` `worshippers` `write` `written` `year`
+#above #access #adversaries #afflictions #against #apostasy #approaching #assembling #assurance #back #believe #belong #better #blood #bodies #body #bold #boldness #bonds #book #brethren #bulls #burnt #ceased #christ #christs #come #comers #cometh #companions #compassion #confidence #conscience #consecrated #consider #continually #counted #covenant #daily #day #days #despised #despite #devour #died #done #draw #endured #enduring #enemies #enter #establish #evil #exhorting #expecting #faith #faithful #fall #fast #fearful #fiery #fight #first #flesh #foot #footstool #forever #former #forsaking #full #gazingstock #ghost #goats #god #good #goods #grace #great #hand #hands #heart #hearts #heaven #high #hold #holiest #holy #house #illuminated #image #indignation #iniquities #insufficiency #jesus #joyfully #judge #judgment #know #knowing #knowledge #law #laws #little #live #living #looking #lord #love #man #manner #mercy #minds #ministering #moses #near #new #offered #offering #offerings #oftentimes #patience #people #perdition #perfect #perfected #pleasure #prepared #priest #profession #promise #promised #provoke #punishment #pure #purged #receive #received #recompence #recompense #remain #remember #remembrance #remission #reproaches #reward #right #sacrifice #sacrifices #sanctified #saving #second #shadow #sin #sins #son #sorer #soul #spirit #spoiling #sprinkled #standeth #substance #take #taketh #tarry #thing #things #trodden #true #truth #unholy #used #veil #vengeance #volume #warning #washed #water #wavering #way #while #wilfully #witness #witnesses #works #world #worshippers #write #written #year
 
 
 ---

@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 58
+testament: "Old Testament"
+key_themes: "Wicked's Deception, Divine Judgment, Righteous Vengeance, God's Justice"
+tags:
+  - wicked
+  - divine-judgment
+  - righteous-vengeance
+  - god
+---
 # Psalm 58
 
 ---
@@ -129,7 +140,7 @@ Chief, Musician, Al, taschith, Michtam, David, ye, indeed, speak, righteousness,
 
 
 *AI Keywords for current event matching:*
-`arrows` `astray` `bend` `birth` `blood` `born` `bow` `break` `chief` `congregation` `continually` `cut` `david` `deception` `divine` `earth` `estranged` `feel` `feet` `god` `gods` `great` `hands` `heart` `judge` `judgeth` `judgment` `justice` `lies` `lions` `living` `lord` `man` `melt` `men` `michtam` `mouth` `musician` `pass` `pieces` `pots` `rejoice` `reward` `righteous` `righteousness` `run` `see` `shoot` `snailed` `sons` `speak` `speaking` `sun` `taschith` `teeth` `thorns` `untimely` `uprightly` `vengeance` `violence` `wash` `waters` `weigh` `whirlwind` `wicked` `wickedness` `wickeds` `woman` `womb` `work` `wrath` `young`
+#arrows #astray #bend #birth #blood #born #bow #break #chief #congregation #continually #cut #david #deception #divine #earth #estranged #feel #feet #god #gods #great #hands #heart #judge #judgeth #judgment #justice #lies #lions #living #lord #man #melt #men #michtam #mouth #musician #pass #pieces #pots #rejoice #reward #righteous #righteousness #run #see #shoot #snailed #sons #speak #speaking #sun #taschith #teeth #thorns #untimely #uprightly #vengeance #violence #wash #waters #weigh #whirlwind #wicked #wickedness #wickeds #woman #womb #work #wrath #young
 
 
 ---

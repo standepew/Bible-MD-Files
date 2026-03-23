@@ -1,3 +1,119 @@
+---
+book: "Joshua"
+chapter: 15
+testament: "Old Testament"
+key_themes: "Judah's Inheritance, Tribal Boundaries, Caleb's Victory, Othniel's Capture, Achsah's Request, City List, Jebusite Problem"
+tags:
+  - lot-tribe-children-Judah-families
+  - border-Edom-wilderness-Zin-southward
+  - uttermost-part-south-coast
+  - south-border-shore-salt-sea
+  - bay-southward
+  - south-side-Maaleh-acrabbim
+  - passed-Zin
+  - ascended-south-side-Kadesh-barnea
+  - passed-Hezron
+  - went-Adar
+  - fetched-compass-Karkaa
+  - passed-Azmon
+  - river-Egypt
+  - goings-coast-sea
+  - south-coast
+  - east-border-salt-sea
+  - Jordan
+  - border-Beth-hogla
+  - passed-north-Beth-arabah
+  - border-stone-Bohan-son-Reuben
+  - border-Debir-valley-Achor
+  - northward-Gilgal
+  - going-up-Adummim
+  - south-side-river
+  - border-waters-En-shemesh
+  - goings-En-rogel
+  - border-valley-son-Hinnom
+  - south-side-Jebusite
+  - Jerusalem
+  - end-valley-giants-northward
+  - cities-mount-Ephron
+  - border-Baalah-Kirjath-jearim
+  - went-Beth-shemesh
+  - passed-Timnah
+  - border-side-Ekron-northward
+  - border-Shicron
+  - passed-mount-Baalah
+  - Jabneel
+  - goings-border-sea
+  - west-border-great-sea
+  - coast
+  - coast-children-Judah-families
+  - commandment-LORD-Joshua
+  - city-Arba-father-Anak
+  - Hebron
+  - Caleb-drove-three-sons-Anak
+  - Sheshai-Ahiman-Talmai-children-Anak
+  - went-inhabitants-Debir
+  - Debir-Kirjath-sepher
+  - Caleb-said
+  - smiteth-Kirjath-sepher
+  - taketh-Achsah-daughter-wife
+  - Othniel-son-Kenaz-brother-Caleb
+  - took-Achsah-daughter-wife
+  - came-moved-ask-father-field
+  - lighted-ass
+  - Caleb-wouldest
+  - answered-blessing
+  - south-land
+  - springs-water
+  - upper-springs-nether-springs
+  - inheritance-tribe-children-Judah-families
+  - Kabzeel-Eder-Jagur
+  - Kinah-Dimonah-Adadah
+  - Kedesh-Hazor-Ithnan
+  - Ziph-Telem-Bealoth
+  - Hazor-Hadattah-Kerioth-Hezron-Hazor
+  - Amam-Shema-Moladah
+  - Hazar-gaddah-Heshmon-Beth-palet
+  - Hazar-shual-Beer-sheba-Bizjothjah
+  - Baalah-Iim-Azem
+  - Eltolad-Chesil-Hormah
+  - Ziklag-Madmannah-Sansannah
+  - Lebaoth-Shilhim-Ain-Rimmon
+  - cities-twenty-nine-villages
+  - valley-Eshtaol-Zoreah-Ashnah
+  - Zanoah-En-gannim-Tappuah-Enam
+  - Jarmuth-Adullam-Socoh-Azekah
+  - Sharaim-Adithaim-Gederah-Gederothaim
+  - fourteen-cities-villages
+  - mountains-Shamir-Jattir-Socoh
+  - Dannah-Kirjath-sannah-Debir
+  - Anab-Eshtemoh-Anim
+  - Goshen-Holon-Giloh
+  - eleven-cities-villages
+  - Arab-Dumah-Eshean
+  - Janum-Beth-tappuah-Aphekah
+  - Humtah-Kirjath-arba-Hebron-Zior
+  - nine-cities-villages
+  - Maon-Carmel-Ziph-Juttah
+  - Jezreel-Jokdeam-Zanoah
+  - Cain-Gibeah-Timnah
+  - ten-cities-villages
+  - Halhul-Beth-zur-Gedor
+  - Maarath-Beth-anoth-Eltekon
+  - six-cities-villages
+  - Kirjath-baal-Kirjath-jearim-Rabbah
+  - two-cities-villages
+  - wilderness-Beth-arabah-Middin-Secacah
+  - Nibshan-city-Salt-En-gedi
+  - Jebusites-inhabitants-Jerusalem
+  - children-Judah-drive
+  - judah
+  - tribal-boundaries
+  - caleb
+  - othniel
+  - achsah
+  - city-list
+  - jebusite-problem
+---
 # Joshua 15
 
 ---
@@ -97,7 +213,7 @@ This chapter details Judah's tribal inheritance boundaries. The south border ext
 
 
 *AI Keywords for current event matching:*
-`achor` `achsah` `achsahs` `acrabbim` `adadah` `adar` `adithaim` `adullam` `adummim` `ahiman` `ain` `amam` `anab` `anak` `anim` `answered` `aphekah` `arab` `arabah` `arba` `ascended` `ashnah` `ask` `ass` `azekah` `azem` `azmon` `baalah` `bay` `bealoth` `beer-sheba` `beth` `beth-anoth` `beth-arabah` `beth-palet` `beth-shemesh` `beth-tappuah` `beth-zur` `bizjothjah` `blessing` `bohan` `border` `boundaries` `brother` `cain` `caleb` `calebs` `came` `capture` `carmel` `chesalon` `chesil` `children` `cities` `city` `coast` `commandment` `compass` `compassed` `conquest` `dannah` `daughter` `day` `debir` `dimonah` `drive` `drove` `dumah` `dwell` `east` `eder` `edom` `egypt` `ekron` `eleven` `eltekon` `eltolad` `en-gannim` `en-gedi` `en-rogel` `en-shemesh` `enam` `end` `ephron` `eshean` `eshtaol` `eshtemoh` `families` `father` `fetched` `field` `fountain` `fourteen` `gederah` `gederothaim` `gedor` `giants` `gibeah` `gilgal` `giloh` `going` `goings` `goshen` `great` `hadattah` `halhul` `hazar-gaddah` `hazar-shual` `hazor` `hebron` `heshmon` `hezron` `hill` `hinnom` `hogla` `holon` `hormah` `humtah` `iim` `inhabitants` `inheritance` `ithnan` `jabneel` `jagur` `janum` `jarmuth` `jattir` `jearim` `jebusite` `jebusites` `jephunneh` `jerusalem` `jezreel` `jokdeam` `jordan` `joshua` `judah` `judahs` `juttah` `kabzeel` `kadesh-barnea` `karkaa` `kedesh` `kenaz` `kerioth` `kinah` `kirjath-arba` `kirjath-baal` `kirjath-jearim` `kirjath-sannah` `kirjath-sepher` `land` `lebaoth` `lighted` `lord` `lot` `maaleh` `maarath` `madmannah` `maon` `middin` `moladah` `mount` `mountain` `mountains` `moved` `nephtoah` `nether` `nibshan` `nine` `north` `northward` `othniel` `othniels` `part` `passed` `quarter` `rabbah` `request` `reuben` `rimmon` `river` `said` `salt` `sansannah` `sea` `secacah` `seir` `shamir` `sharaim` `shema` `sheshai` `shicron` `shilhim` `shore` `side` `six` `smiteth` `socoh` `son` `sons` `south` `southward` `springs` `stone` `taketh` `talmai` `tappuah` `telem` `ten` `three` `timnah` `took` `top` `tribe` `twenty` `two` `unfinished` `upper` `uttermost` `valley` `victory` `villages` `water` `waters` `went` `west` `westward` `wife` `wilderness` `wouldest` `zanoah` `ziklag` `zin` `zior` `ziph` `zoreah`
+#achor #achsah #achsahs #acrabbim #adadah #adar #adithaim #adullam #adummim #ahiman #ain #amam #anab #anak #anim #answered #aphekah #arab #arabah #arba #ascended #ashnah #ask #ass #azekah #azem #azmon #baalah #bay #bealoth #beer-sheba #beth #beth-anoth #beth-arabah #beth-palet #beth-shemesh #beth-tappuah #beth-zur #bizjothjah #blessing #bohan #border #boundaries #brother #cain #caleb #calebs #came #capture #carmel #chesalon #chesil #children #cities #city #coast #commandment #compass #compassed #conquest #dannah #daughter #day #debir #dimonah #drive #drove #dumah #dwell #east #eder #edom #egypt #ekron #eleven #eltekon #eltolad #en-gannim #en-gedi #en-rogel #en-shemesh #enam #end #ephron #eshean #eshtaol #eshtemoh #families #father #fetched #field #fountain #fourteen #gederah #gederothaim #gedor #giants #gibeah #gilgal #giloh #going #goings #goshen #great #hadattah #halhul #hazar-gaddah #hazar-shual #hazor #hebron #heshmon #hezron #hill #hinnom #hogla #holon #hormah #humtah #iim #inhabitants #inheritance #ithnan #jabneel #jagur #janum #jarmuth #jattir #jearim #jebusite #jebusites #jephunneh #jerusalem #jezreel #jokdeam #jordan #joshua #judah #judahs #juttah #kabzeel #kadesh-barnea #karkaa #kedesh #kenaz #kerioth #kinah #kirjath-arba #kirjath-baal #kirjath-jearim #kirjath-sannah #kirjath-sepher #land #lebaoth #lighted #lord #lot #maaleh #maarath #madmannah #maon #middin #moladah #mount #mountain #mountains #moved #nephtoah #nether #nibshan #nine #north #northward #othniel #othniels #part #passed #quarter #rabbah #request #reuben #rimmon #river #said #salt #sansannah #sea #secacah #seir #shamir #sharaim #shema #sheshai #shicron #shilhim #shore #side #six #smiteth #socoh #son #sons #south #southward #springs #stone #taketh #talmai #tappuah #telem #ten #three #timnah #took #top #tribe #twenty #two #unfinished #upper #uttermost #valley #victory #villages #water #waters #went #west #westward #wife #wilderness #wouldest #zanoah #ziklag #zin #zior #ziph #zoreah
 
 
 ---

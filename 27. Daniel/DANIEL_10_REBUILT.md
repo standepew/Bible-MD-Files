@@ -1,3 +1,14 @@
+---
+book: "Daniel"
+chapter: 10
+testament: "Old Testament"
+key_themes: "Christ's Revelation, Spiritual Warfare, Angelic Beings, Divine Strength"
+tags:
+  - christ
+  - spiritual-warfare
+  - angelic-beings
+  - divine-strength
+---
 # Daniel 10
 
 ---
@@ -105,7 +116,7 @@ Third, year, Cyrus, king, Persia, thing, revealed, Daniel, Belteshazzar, thing, 
 
 
 *AI Keywords for current event matching:*
-`angelic` `appearance` `beings` `certain` `chief` `christs` `clothed` `divine` `fight` `linen` `man` `michael` `noted` `persia` `prince` `princes` `revealed` `revelation` `scripture` `spiritual` `strength` `strengthened` `strong` `thing` `truth` `understanding` `vision` `warfare` `withstood`
+#angelic #appearance #beings #certain #chief #christs #clothed #divine #fight #linen #man #michael #noted #persia #prince #princes #revealed #revelation #scripture #spiritual #strength #strengthened #strong #thing #truth #understanding #vision #warfare #withstood
 
 
 ---

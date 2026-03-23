@@ -1,3 +1,13 @@
+---
+book: "Ezekiel"
+chapter: 34
+testament: "Old Testament"
+key_themes: "Christ's Shepherd, False Shepherds, Divine Restoration, Christ's Kingdom"
+tags:
+  - christ
+  - false-shepherds
+  - divine-restoration
+---
 # Ezekiel 34
 
 ---
@@ -105,7 +115,7 @@ Word, Lord, son, man, prophesy, shepherds, Israel, prophesy, Lord, GOD, shepherd
 
 
 *AI Keywords for current event matching:*
-`christs` `clothe` `countries` `covenant` `cruelty` `david` `divine` `dwell` `eat` `false` `fat` `feed` `force` `gather` `good` `high` `kingdom` `know` `lord` `mountains` `one` `pasture` `peace` `plant` `prey` `renown` `restoration` `safely` `search` `seek` `servant` `sheep` `shepherd` `shepherds` `themselves` `wool`
+#christs #clothe #countries #covenant #cruelty #david #divine #dwell #eat #false #fat #feed #force #gather #good #high #kingdom #know #lord #mountains #one #pasture #peace #plant #prey #renown #restoration #safely #search #seek #servant #sheep #shepherd #shepherds #themselves #wool
 
 
 ---

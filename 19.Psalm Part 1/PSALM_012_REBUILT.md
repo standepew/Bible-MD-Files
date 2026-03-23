@@ -1,3 +1,14 @@
+---
+book: "Psalms"
+chapter: 12
+testament: "Old Testament"
+key_themes: "Decline of Godliness, Pure Words of God, Preservation of Faithful, Divine Protection"
+tags:
+  - decline-of-godliness
+  - pure-words-of-god
+  - preservation-of-faithful
+  - divine-protection
+---
 # Psalm 12
 
 ---
@@ -129,7 +140,7 @@ Chief, Musician, Sheminith, Psalm, David, Help, LORD, godly, ceaseth, faithful, 
 
 
 *AI Keywords for current event matching:*
-`arise` `ceaseth` `chief` `children` `cut` `david` `decline` `divine` `double` `earth` `exalted` `fail` `faithful` `flattering` `furnace` `generation` `god` `godliness` `godly` `heart` `help` `keep` `lips` `lord` `men` `musician` `needy` `neighbour` `oppression` `poor` `preservation` `preserve` `prevail` `protection` `proud` `psalm` `puffeth` `pure` `purified` `safety` `saith` `set` `seven` `sheminith` `side` `sighing` `silver` `speak` `times` `tongue` `vanity` `vilest` `walk` `wicked` `words`
+#arise #ceaseth #chief #children #cut #david #decline #divine #double #earth #exalted #fail #faithful #flattering #furnace #generation #god #godliness #godly #heart #help #keep #lips #lord #men #musician #needy #neighbour #oppression #poor #preservation #preserve #prevail #protection #proud #psalm #puffeth #pure #purified #safety #saith #set #seven #sheminith #side #sighing #silver #speak #times #tongue #vanity #vilest #walk #wicked #words
 
 
 ---

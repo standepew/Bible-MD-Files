@@ -1,3 +1,47 @@
+---
+book: "Nehemiah"
+chapter: 7
+testament: "Old Testament"
+key_themes: "City Security, Genealogical Records, Priests and Levites, Temple Contributions"
+tags:
+  - Shephatiah-three-hundred-seventy-two
+  - Arah-six-hundred-fifty-two
+  - Zattu-eight-hundred-forty-five
+  - Zaccai-seven-hundred-threescore
+  - Binnui-six-hundred-forty-eight
+  - Bebai-six-hundred-twenty-eight
+  - Adonikam-six-hundred-threescore-seven
+  - Bigvai-two-thousand-threescore-seven
+  - Adin-six-hundred-fifty-five
+  - Ater-Hezekiah-ninety-eight
+  - Hashum-three-hundred-twenty-eight
+  - Bezai-three-hundred-twenty-four
+  - Hariph-hundred-twelve
+  - Gibeon-ninety-five
+  - Anathoth-hundred-twenty-eight
+  - Beth-azmaveth-forty-two
+  - Michmas-hundred-twenty-two
+  - Nebo-fifty-two
+  - Harim-three-hundred-twenty
+  - Jericho-three-hundred-forty-five
+  - Immer-thousand-fifty-two
+  - Harim-thousand-seventeen
+  - Keros-children-Sia-children-Padon
+  - Lebana-children-Hagaba-children-Shalmai
+  - Hanan-children-Giddel-children-Gahar
+  - Reaiah-children-Rezin-children-Nekoda
+  - Gazzam-children-Uzza-children-Phaseah
+  - Besai-children-Meunim-children-Nephishesim
+  - Bakbuk-children-Hakupha-children-Harhur
+  - Bazlith-children-Mehida-children-Harsha
+  - Barkos-children-Sisera-children-Tamah
+  - Neziah-children-Hatipha
+  - Jaala-children-Darkon-children-Giddel
+  - city-security
+  - genealogical-records
+  - priests-and-levites
+  - temple-contributions
+---
 # Nehemiah 7
 
 ---
@@ -153,7 +197,7 @@ Wall, built, doors, porters, singers, Levites, appointed. Brother, Hanani, Hanan
 
 
 *AI Keywords for current event matching:*
-`addon` `adin` `adonikam` `akkub` `amon` `anathoth` `appoint` `appointed` `arah` `asaph` `asses` `ater` `azariah` `azgad` `azmaveth` `baanah` `babylon` `bakbuk` `bar` `barkos` `barzillai` `basons` `bazlith` `bebai` `beeroth` `besai` `beth` `bezai` `bigvai` `bilshan` `binnui` `brother` `builded` `built` `called` `camels` `captivity` `carried` `charge` `chephirah` `cherub` `chief` `children` `cities` `city` `congregation` `contributions` `darkon` `daughter` `delaiah` `doors` `drams` `eat` `eight` `eighteen` `elam` `faithful` `father` `fathers` `feared` `few` `fifty` `first` `five` `forty` `found` `four` `fourscore` `gahar` `garments` `gates` `gather` `gazzam` `geba` `genealogical` `genealogy` `gibeon` `giddel` `gileadite` `god` `gold` `great` `habaiah` `hadid` `hagaba` `hakupha` `hanan` `hanani` `hananiah` `haresha` `harhur` `harim` `hariph` `harsha` `hashum` `hashupha` `hatipha` `hatita` `hattil` `heart` `hezekiah` `hodevah` `holy` `horses` `hot` `house` `houses` `hundred` `immer` `inhabitants` `israel` `jaala` `jearim` `jedaiah` `jericho` `jerusalem` `jeshua` `joab` `judah` `kadmiel` `keros` `king` `kirjath` `koz` `large` `lebana` `lehem` `levites` `lod` `maidservants` `man` `manservants` `mehida` `melah` `men` `meunim` `michmas` `mispereth` `moab` `month` `mordecai` `mules` `nahamani` `name` `nebo` `nebuchadnezzar` `nehemiah` `nehum` `nekoda` `nephishesim` `nethinims` `netophah` `neziah` `nine` `ninety` `nobles` `number` `one` `ono` `padon` `pahath` `palace` `parosh` `pashur` `people` `perida` `phaseah` `pochereth` `polluted` `porters` `pound` `priest` `priesthood` `priests` `province` `raamiah` `ramah` `reaiah` `reckoned` `records` `register` `rest` `rezin` `ruler` `rulers` `security` `seed` `senaah` `servants` `seven` `seventeen` `seventh` `seventy` `shallum` `shalmai` `shephatiah` `shobai` `shut` `sia` `silver` `singers` `singing` `sisera` `six` `solomon` `sophereth` `sotai` `sought` `sun` `tabbaoth` `talmon` `tamah` `tel` `temple` `thirty` `thousand` `three` `threescore` `thummim` `tirshatha` `tobiah` `treasure` `twelve` `twenty` `two` `urim` `uzza` `wall` `watch` `watches` `wife` `women` `work` `written` `zaccai` `zattu` `zebaim` `zerubbabel` `ziha`
+#addon #adin #adonikam #akkub #amon #anathoth #appoint #appointed #arah #asaph #asses #ater #azariah #azgad #azmaveth #baanah #babylon #bakbuk #bar #barkos #barzillai #basons #bazlith #bebai #beeroth #besai #beth #bezai #bigvai #bilshan #binnui #brother #builded #built #called #camels #captivity #carried #charge #chephirah #cherub #chief #children #cities #city #congregation #contributions #darkon #daughter #delaiah #doors #drams #eat #eight #eighteen #elam #faithful #father #fathers #feared #few #fifty #first #five #forty #found #four #fourscore #gahar #garments #gates #gather #gazzam #geba #genealogical #genealogy #gibeon #giddel #gileadite #god #gold #great #habaiah #hadid #hagaba #hakupha #hanan #hanani #hananiah #haresha #harhur #harim #hariph #harsha #hashum #hashupha #hatipha #hatita #hattil #heart #hezekiah #hodevah #holy #horses #hot #house #houses #hundred #immer #inhabitants #israel #jaala #jearim #jedaiah #jericho #jerusalem #jeshua #joab #judah #kadmiel #keros #king #kirjath #koz #large #lebana #lehem #levites #lod #maidservants #man #manservants #mehida #melah #men #meunim #michmas #mispereth #moab #month #mordecai #mules #nahamani #name #nebo #nebuchadnezzar #nehemiah #nehum #nekoda #nephishesim #nethinims #netophah #neziah #nine #ninety #nobles #number #one #ono #padon #pahath #palace #parosh #pashur #people #perida #phaseah #pochereth #polluted #porters #pound #priest #priesthood #priests #province #raamiah #ramah #reaiah #reckoned #records #register #rest #rezin #ruler #rulers #security #seed #senaah #servants #seven #seventeen #seventh #seventy #shallum #shalmai #shephatiah #shobai #shut #sia #silver #singers #singing #sisera #six #solomon #sophereth #sotai #sought #sun #tabbaoth #talmon #tamah #tel #temple #thirty #thousand #three #threescore #thummim #tirshatha #tobiah #treasure #twelve #twenty #two #urim #uzza #wall #watch #watches #wife #women #work #written #zaccai #zattu #zebaim #zerubbabel #ziha
 
 
 ---

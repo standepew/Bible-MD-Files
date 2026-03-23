@@ -1,3 +1,14 @@
+---
+book: "Nahum"
+chapter: 1
+testament: "Old Testament"
+key_themes: "Christ's Divine Vengeance, God's Power and Wrath, Protection of the Righteous, Nineveh's Destruction"
+tags:
+  - christ
+  - god
+  - protection-of-the-righteous
+  - nineveh
+---
 # Nahum 1
 
 ---
@@ -129,7 +140,7 @@ Burden, Nineveh, book, vision, Nahum, Elkoshite, God, jealous, LORD, revengeth, 
 
 
 *AI Keywords for current event matching:*
-`anger` `burden` `christs` `cut` `day` `destruction` `divine` `end` `fire` `flood` `fury` `god` `gods` `good` `great` `hold` `jealous` `knoweth` `lord` `nineveh` `ninevehs` `overrunning` `poured` `power` `protection` `reserveth` `revengeth` `righteous` `slow` `storm` `strong` `take` `trouble` `trust` `utter` `vengeance` `whirlwind` `wicked` `wrath`
+#anger #burden #christs #cut #day #destruction #divine #end #fire #flood #fury #god #gods #good #great #hold #jealous #knoweth #lord #nineveh #ninevehs #overrunning #poured #power #protection #reserveth #revengeth #righteous #slow #storm #strong #take #trouble #trust #utter #vengeance #whirlwind #wicked #wrath
 
 
 ---

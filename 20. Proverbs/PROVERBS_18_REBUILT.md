@@ -1,3 +1,14 @@
+---
+book: "Proverbs"
+chapter: 18
+testament: "Old Testament"
+key_themes: "Speech and Power, Friendship and Isolation, Pride and Humility, Divine Protection"
+tags:
+  - speech-and-power
+  - friendship-and-isolation
+  - pride-and-humility
+  - divine-protection
+---
 # Proverbs 18
 
 ---
@@ -117,7 +128,7 @@ Desire, man, separated, seeketh, intermeddleth, wisdom, fool, delight, understan
 
 
 *AI Keywords for current event matching:*
-`brook` `brother` `city` `closer` `death` `deep` `destruction` `divine` `favour` `flowing` `friend` `friendship` `harder` `haughty` `heart` `honour` `humility` `isolation` `life` `lord` `man` `mouth` `name` `obtain` `offended` `power` `pride` `protection` `rich` `righteous` `runneth` `safe` `speech` `sticketh` `strong` `tongue` `tower` `waters` `wealth` `wellspring` `wisdom` `words`
+#brook #brother #city #closer #death #deep #destruction #divine #favour #flowing #friend #friendship #harder #haughty #heart #honour #humility #isolation #life #lord #man #mouth #name #obtain #offended #power #pride #protection #rich #righteous #runneth #safe #speech #sticketh #strong #tongue #tower #waters #wealth #wellspring #wisdom #words
 
 
 ---

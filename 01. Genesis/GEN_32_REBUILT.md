@@ -1,3 +1,34 @@
+---
+book: "Genesis"
+chapter: 32
+testament: "Old Testament"
+key_themes: "Jacob Prepares to Meet Esau, Jacob's Prayer of Humility, The Gift Strategy, Jacob Wrestles with the Angel, The Name Changed to Israel, The Hollow of Jacob's Thigh"
+tags:
+  - angels-of-God
+  - Mahanaim
+  - two-camps
+  - Esau-four-hundred-men
+  - Jacob-afraid
+  - Jacob-prays
+  - Jacob-divided-camp
+  - gift-to-Esau
+  - Jabbok-ford
+  - wrestled-with-man
+  - prevailed
+  - hollow-of-thigh
+  - name-changed-Israel
+  - Peniel
+  - saw-God-face-to-face
+  - sinew-of-thigh
+  - Israel-means-prince-with-God
+  - theophany
+  - pre-incarnate-Christ
+  - covenant-prayer
+  - prevailing-prayer
+  - identity-transformation
+  - limp
+  - dietary-law-sinew
+---
 # Genesis 32
 
 ---
@@ -94,7 +125,7 @@ As Jacob departs from Laban, the angels of God meet him — a divine escort into
 
 For AI matching to topics and current events:
 
-`Jacob` `Israel` `Esau` `Laban` `angels` `God's host` `Mahanaim` `two camps` `messengers` `four hundred men` `afraid` `distressed` `divided` `prayer` `intercession` `unworthiness` `covenant` `Abraham` `Isaac` `promise` `seed` `sand of the sea` `present` `gift` `appease` `Jabbok` `ford` `brook` `alone` `wrestled` `man` `prevailed` `thigh` `hollow` `out of joint` `bless me` `name` `Jacob` `Israel` `prince` `power with God` `Peniel` `face to face` `life preserved` `sun rose` `halted` `sinew` `shrank` `dietary law` `theophany` `Angel of the LORD` `LORD God of hosts`
+#Jacob #Israel #Esau #Laban #angels #Gods-host #Mahanaim #two-camps #messengers #four-hundred-men #afraid #distressed #divided #prayer #intercession #unworthiness #covenant #Abraham #Isaac #promise #seed #sand-of-the-sea #present #gift #appease #Jabbok #ford #brook #alone #wrestled #man #prevailed #thigh #hollow #out-of-joint #bless-me #name #Jacob #Israel #prince #power-with-God #Peniel #face-to-face #life-preserved #sun-rose #halted #sinew #shrank #dietary-law #theophany #Angel-of-the-LORD #LORD-God-of-hosts
 
 **Relevance to Current Events:**
 - National identity crises — who is "Israel" today? (Romans 9:6 answers this from the text)
@@ -284,57 +315,57 @@ For AI matching to topics and current events:
 
 ### The Night — Time of Crisis, Wrestling, and Revelation
 
-**Genesis 32:22** — "And he rose up that NIGHT"  
-**Genesis 32:24** — The wrestling continues "until the breaking of the DAY"
+[[01. Genesis/GEN_32_REBUILT|Genesis 32:22]] — "And he rose up that NIGHT"  
+[[01. Genesis/GEN_32_REBUILT|Genesis 32:24]] — The wrestling continues "until the breaking of the DAY"
 
 **Night as the time of wrestling and divine encounter — thread through Scripture:**
-- **Genesis 15:12** — "And when the sun was going down, a deep sleep fell upon Abram... and, lo, an horror of great darkness fell upon him" — God's covenant with Abraham ratified in darkness
-- **Exodus 12:29** — "And it came to pass, that at MIDNIGHT the LORD smote all the firstborn" — Passover deliverance comes at midnight
-- **Job 33:14-16** — "In a dream, in a vision of the NIGHT, when deep sleep falleth upon men... then he openeth the ears of men"
-- **Matthew 26:34-36** — Gethsemane: Christ wrestles in the night
-- **Acts 16:25** — Paul and Silas pray "at MIDNIGHT" — the prison doors open
-- **Revelation 3:3** — "I will come on thee as a thief" — the unexpected coming in the night
+- [[01. Genesis/GEN_15_REBUILT|Genesis 15:12]] — "And when the sun was going down, a deep sleep fell upon Abram... and, lo, an horror of great darkness fell upon him" — God's covenant with Abraham ratified in darkness
+- [[02. Exodus/EXO_12_REBUILT|Exodus 12:29]] — "And it came to pass, that at MIDNIGHT the LORD smote all the firstborn" — Passover deliverance comes at midnight
+- [[18. Job/JOB_33_REBUILT|Job 33:14-16]] — "In a dream, in a vision of the NIGHT, when deep sleep falleth upon men... then he openeth the ears of men"
+- [[40. Matthew/MATTHEW_26_REBUILT|Matthew 26:34-36]] — Gethsemane: Christ wrestles in the night
+- [[44. Acts/ACTS_16_REBUILT|Acts 16:25]] — Paul and Silas pray "at MIDNIGHT" — the prison doors open
+- [[66. Revelation/REVELATION_03_REBUILT|Revelation 3:3]] — "I will come on thee as a thief" — the unexpected coming in the night
 - *Interpretation:* Night in Scripture is consistently the time when God acts, wrestles, delivers, and reveals. The darkness is not God's absence — it is often His most intense presence. Jacob's darkest hour (four hundred men coming, family at risk, alone) becomes the night of his transformation. The sun rises AFTER the encounter (v.31). This pattern is woven through from Genesis to Revelation.
 
 ---
 
 ### The Limp — Permanent Mark of Encounter with God
 
-**Genesis 32:31** — "he halted upon his thigh"
+[[01. Genesis/GEN_32_REBUILT|Genesis 32:31]] — "he halted upon his thigh"
 
 **Thread through Scripture:**
-- **Exodus 34:29-30** — Moses' face shone after meeting God: he was permanently marked, had to wear a veil
-- **Isaiah 6:5-7** — Isaiah "undone" before the seraphim; his lips touched with a coal — permanently changed
-- **Acts 9:3-9** — Paul blinded by the risen Christ on the Damascus road — permanent mark of the encounter, a thorn remained (2 Corinthians 12:7)
-- **Revelation 1:17** — John "fell at his feet as dead" when he saw the glorified Christ — the encounter is overwhelming
+- [[02. Exodus/EXO_34_REBUILT|Exodus 34:29-30]] — Moses' face shone after meeting God: he was permanently marked, had to wear a veil
+- [[23. Isaiah/ISAIAH_06_REBUILT|Isaiah 6:5-7]] — Isaiah "undone" before the seraphim; his lips touched with a coal — permanently changed
+- [[44. Acts/ACTS_09_REBUILT|Acts 9:3-9]] — Paul blinded by the risen Christ on the Damascus road — permanent mark of the encounter, a thorn remained (2 Corinthians 12:7)
+- [[66. Revelation/REVELATION_01_REBUILT|Revelation 1:17]] — John "fell at his feet as dead" when he saw the glorified Christ — the encounter is overwhelming
 - *Interpretation:* Those who genuinely encounter God are permanently marked. They do not walk out the same way they walked in. The limp is not a judgment — it is a testimony. Every step Jacob takes for the rest of his life is a visible witness that he met God at the Jabbok. The wound and the blessing are inseparable.
 
 ---
 
 ### Alone — The Pattern of Solitary Encounter
 
-**Genesis 32:24** — "And Jacob was left ALONE"
+[[01. Genesis/GEN_32_REBUILT|Genesis 32:24]] — "And Jacob was left ALONE"
 
 **Thread of solitary divine encounter:**
-- **Genesis 15:12** — Abraham alone when God ratifies the covenant
-- **Exodus 3:1-4** — Moses alone tending the flock when the burning bush appears
-- **1 Kings 19:10-13** — Elijah alone at Horeb when the still small voice speaks
-- **Matthew 4:1** — Jesus "led by the Spirit into the wilderness" — alone during the temptation
-- **Matthew 14:23** — "he went up into a mountain apart to pray: and when the evening was come, he was there ALONE"
-- **Revelation 1:9** — John alone on the isle of Patmos when the Revelation is given
+- [[01. Genesis/GEN_15_REBUILT|Genesis 15:12]] — Abraham alone when God ratifies the covenant
+- [[02. Exodus/EXO_03_REBUILT|Exodus 3:1-4]] — Moses alone tending the flock when the burning bush appears
+- [[11. 1 Kings/1_KINGS_19_REBUILT|1 Kings 19:10-13]] — Elijah alone at Horeb when the still small voice speaks
+- [[40. Matthew/MATTHEW_04_REBUILT|Matthew 4:1]] — Jesus "led by the Spirit into the wilderness" — alone during the temptation
+- [[40. Matthew/MATTHEW_14_REBUILT|Matthew 14:23]] — "he went up into a mountain apart to pray: and when the evening was come, he was there ALONE"
+- [[66. Revelation/REVELATION_01_REBUILT|Revelation 1:9]] — John alone on the isle of Patmos when the Revelation is given
 - *Interpretation:* God consistently meets His people in solitude. The great encounters — covenant, call, wrestling, vision — happen when the crowd is gone. The sending-away of Jacob's family (v.22-23) is not incidental; it is the preparation for the encounter. The crowd had to cross before the wrestling could begin.
 
 ---
 
 ### Two Camps / Mahanaim — The Seen and Unseen Army
 
-**Genesis 32:2** — "This is God's host: and he called the name of that place MAHANAIM" (Two Camps)  
-**Genesis 32:7** — Jacob divides his own people into TWO camps
+[[01. Genesis/GEN_32_REBUILT|Genesis 32:2]] — "This is God's host: and he called the name of that place MAHANAIM" (Two Camps)  
+[[01. Genesis/GEN_32_REBUILT|Genesis 32:7]] — Jacob divides his own people into TWO camps
 
 **Thread of two armies — seen and unseen:**
-- **2 Kings 6:17** — "Behold, the mountain was full of horses and chariots of fire round about Elisha" — God's unseen army revealed
-- **Matthew 26:53** — "Thinkest thou that I cannot now pray to my Father, and he shall presently give me more than twelve legions of angels?"
-- **Revelation 19:14** — "And the armies which were in heaven followed him upon white horses"
+- [[12. 2 Kings/2_KINGS_06_REBUILT|2 Kings 6:17]] — "Behold, the mountain was full of horses and chariots of fire round about Elisha" — God's unseen army revealed
+- [[40. Matthew/MATTHEW_26_REBUILT|Matthew 26:53]] — "Thinkest thou that I cannot now pray to my Father, and he shall presently give me more than twelve legions of angels?"
+- [[66. Revelation/REVELATION_19_REBUILT|Revelation 19:14]] — "And the armies which were in heaven followed him upon white horses"
 - *Interpretation:* Mahanaim establishes the principle of the two-army reality: the enemy's visible force (Esau's four hundred men) and God's invisible host (the angels already encamped). The man of faith navigates between these two realities. Jacob sees both and names the place accordingly. The unseen army is always larger.
 
 ---

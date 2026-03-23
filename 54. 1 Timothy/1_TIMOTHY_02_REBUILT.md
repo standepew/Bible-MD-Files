@@ -1,3 +1,14 @@
+---
+book: "1 Timothy"
+chapter: 2
+testament: "New Testament"
+key_themes: "Prayer for All Men, God's Desire for Salvation, Christ the One Mediator, Instructions for Men and Women"
+tags:
+  - prayer-for-all-men
+  - god
+  - christ-the-one-mediator
+  - instructions-for-men-and-women
+---
 # 1 Timothy 2
 
 ---
@@ -81,7 +92,7 @@ Exhort, supplications, prayers, intercessions, giving, thanks, men, kings, autho
 
 
 *AI Keywords for current event matching:*
-`acceptable` `adam` `adorn` `apostle` `apparel` `array` `authority` `becometh` `broided` `charity` `childbearing` `christ` `continue` `costly` `deceived` `desire` `doubting` `due` `eve` `exhort` `faith` `formed` `gave` `gentiles` `giving` `god` `godliness` `gods` `gold` `good` `hair` `hands` `holiness` `holy` `honesty` `instructions` `intercessions` `jesus` `kings` `knowledge` `learn` `lie` `life` `lifting` `man` `mediator` `men` `modest` `one` `ordained` `peaceable` `pearls` `pray` `prayer` `prayers` `preacher` `professing` `quiet` `ransom` `salvation` `saved` `saviour` `shamefacedness` `sight` `silence` `sobriety` `speak` `subjection` `suffer` `supplications` `teach` `teacher` `testified` `thanks` `time` `transgression` `truth` `usurp` `verity` `woman` `women` `works` `wrath`
+#acceptable #adam #adorn #apostle #apparel #array #authority #becometh #broided #charity #childbearing #christ #continue #costly #deceived #desire #doubting #due #eve #exhort #faith #formed #gave #gentiles #giving #god #godliness #gods #gold #good #hair #hands #holiness #holy #honesty #instructions #intercessions #jesus #kings #knowledge #learn #lie #life #lifting #man #mediator #men #modest #one #ordained #peaceable #pearls #pray #prayer #prayers #preacher #professing #quiet #ransom #salvation #saved #saviour #shamefacedness #sight #silence #sobriety #speak #subjection #suffer #supplications #teach #teacher #testified #thanks #time #transgression #truth #usurp #verity #woman #women #works #wrath
 
 
 ---

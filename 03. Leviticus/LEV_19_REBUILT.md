@@ -1,3 +1,32 @@
+---
+book: "Leviticus"
+chapter: 19
+testament: "Old Testament"
+key_themes: ""Ye shall be holy: for I the LORD your God am holy" — the chapter's governing principle, The Ten Commandments applied to daily life in comprehensive social legislation, "Thou shalt love thy neighbour as thyself" — cited by Jesus as the second great commandment, Justice without partiality — neither favouring the poor nor the powerful, The stranger shall be as one born among you — the sojourner's equal standing, Just weights and measures — commercial honesty as covenant faithfulness"
+tags:
+  - holiness
+  - be-holy-for-I-am-holy
+  - I-am-the-LORD
+  - love-your-neighbour
+  - gleanings-for-poor
+  - no-stealing
+  - no-lying
+  - no-false-swearing
+  - wages-not-withheld
+  - no-talebearer
+  - rebuke-your-neighbour
+  - no-grudge
+  - no-vengeance
+  - mingled-seed
+  - mingled-garments
+  - fruit-trees-uncircumcised
+  - no-enchantment
+  - no-marks-on-flesh
+  - honour-the-aged
+  - stranger-as-native
+  - just-weights-and-measures
+  - I-am-the-LORD-repeated
+---
 # Leviticus 19
 
 ---
@@ -94,7 +123,7 @@ God commands Moses to speak to the entire congregation — not just the priests 
 
 
 *AI Keywords for current event matching:*
-`199-10` `2535-40` `current` `events` `justice` `leviticus` `matching` `matthew` `poor` `ruth` `social` `treatment`
+#199-10 #2535-40 #current #events #justice #leviticus #matching #matthew #poor #ruth #social #treatment
 
 
 ---
@@ -214,16 +243,16 @@ This typological chain: Leviticus 19 (the law) → Ruth 2 (the law lived) → Bo
 
 ### The Corner of the Field — Provision at the Margins as a Symbolic Thread
 
-**Leviticus 19:9** — "thou shalt not wholly reap the corners of thy field" — peah (Hebrew: corner, edge)
+[[03. Leviticus/LEV_19_REBUILT|Leviticus 19:9]] — "thou shalt not wholly reap the corners of thy field" — peah (Hebrew: corner, edge)
 
 The corner of the field is the margin — the edge that is not at the centre of economic productivity. God reserves the margins for those who have nothing.
 
 The thread:
 - **Leviticus 19:9-10; 23:22** — the gleaning law stated twice in Leviticus
-- **Deuteronomy 24:19-21** — extended: forgotten sheaves, forgotten olives, forgotten grapes — all left for the stranger, fatherless, and widow
+- [[05. Deuteronomy/DEU_24_REBUILT|Deuteronomy 24:19-21]] — extended: forgotten sheaves, forgotten olives, forgotten grapes — all left for the stranger, fatherless, and widow
 - **Ruth 2** — the law enacted in narrative; Ruth gleans at the margins of Boaz's field
 - **Matthew 14:20; 15:37** — "they took up of the fragments that remained twelve baskets full" — after Jesus feeds the multitudes, the fragments (the "gleanings" of the miraculous provision) are gathered; nothing is wasted
-- **Luke 14:21-23** — "Go out quickly into the streets and lanes of the city, and bring in hither the poor, and the maimed, and the halt, and the blind" — the banquet fills from the margins, from those the centre has excluded
+- [[42. Luke/LUKE_14_REBUILT|Luke 14:21-23]] — "Go out quickly into the streets and lanes of the city, and bring in hither the poor, and the maimed, and the halt, and the blind" — the banquet fills from the margins, from those the centre has excluded
 
 **What the Bible establishes:** God's provision is designed to have margins — edges deliberately left unharvested for those who have no field of their own. A society that harvests completely to the edge, leaving nothing for the vulnerable, has violated the structure of God's economy. The New Covenant equivalent is not automatic gleaning but the deliberate, structured generosity of the community.
 
@@ -233,7 +262,7 @@ The thread:
 
 The repeated "I am the LORD" is itself a symbolic declaration. In Exodus 3:14-15, God names Himself to Moses: "I AM THAT I AM... The LORD God of your fathers... this is my name for ever." Every "I am the LORD" in Leviticus 19 is a resonance of that first self-declaration.
 
-- **Exodus 3:14-15** — the first full statement of the divine name
+- [[02. Exodus/EXO_03_REBUILT|Exodus 3:14-15]] — the first full statement of the divine name
 - **Leviticus 19** — the name repeated 16 times as the moral anchor of the whole chapter
 - **John 6:35; 8:12; 10:9, 11; 11:25; 14:6; 15:1** — the seven "I am" declarations of Jesus in John; each one re-sounds the divine name in the New Covenant context
 - **Revelation 1:8; 22:13** — "I am Alpha and Omega" — the eschatological I AM closing the canon

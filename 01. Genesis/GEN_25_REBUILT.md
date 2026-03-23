@@ -1,3 +1,78 @@
+---
+book: "Genesis"
+chapter: 25
+testament: "Old Testament"
+key_themes: "Abraham Dies "Full of Years" and Is "Gathered to His People" — The Biblical View of Death, Keturah and the Sons Sent East — The Covenant Line Preserved Through Intentional Separation, "Abraham Gave All That He Had unto Isaac" — The Covenant Inheritance Undivided, Isaac and Ishmael Together at Machpelah — The Two Seeds at the Burial of the Father, "God Blessed Isaac After the Death of Abraham" — The Covenant Outlives Every Individual Carrier, Ishmael's Twelve Princes Fulfilled Exactly — God Keeps Non-Covenant Promises Too, Rebekah Barren — The Pattern of the Barren Matriarch and the Supernatural Covenant Birth, Isaac Entreated the LORD — Prayer as the Required Response to Covenant Barrenness, The Children Struggled Within Her — The Conflict Begins in the Womb, "Two Nations in Thy Womb" — The Prenatal Declaration of Sovereign Election, "The Elder Shall Serve the Younger" — God Reversing the Natural Order, Esau Born Red and Hairy — The Man of the Flesh Named for His Appearance, Jacob Born Grasping the Heel — The Supplanter Who Will Become Israel, Isaac Loves Esau / Rebekah Loves Jacob — Parental Favoritism Entering the Covenant Household, Esau Sells His Birthright for Red Pottage — The Profane Exchange of the Eternal for the Immediate, "Thus Esau Despised His Birthright" — The Narrator's Verdict"
+tags:
+  - Abraham-dies-175
+  - full-of-years
+  - gathered-to-his-people
+  - death-as-reunion
+  - conscious-existence-beyond-death
+  - Hebrews-11-13-16
+  - Keturah-incense
+  - sons-of-Keturah
+  - Midian
+  - Sheba
+  - Dedan
+  - Abraham-gave-all-to-Isaac
+  - covenant-inheritance-undivided
+  - Isaac-and-Ishmael-bury-Abraham
+  - Machpelah
+  - God-blessed-Isaac-after-death
+  - covenant-outlives-the-patriarch
+  - Ishmael-twelve-princes-fulfilled
+  - Genesis-17-20
+  - God-keeps-non-covenant-promises
+  - Rebekah-barren
+  - pattern-barren-matriarchs
+  - Sarah-Rachel-Hannah-Elizabeth
+  - supernatural-covenant-birth
+  - Isaac-entreated-LORD
+  - prayer-for-barrenness
+  - children-struggled-in-womb
+  - two-nations-in-thy-womb
+  - prenatal-sovereign-declaration
+  - Romans-9-10-13
+  - elder-shall-serve-younger
+  - God-reversing-natural-order
+  - David-Ephraim-Perez
+  - 1-Corinthians-1-27-28
+  - Esau-born-red-hairy
+  - Jacob-born-grasping-heel
+  - supplanter-to-Israel
+  - Genesis-32-28
+  - Hosea-12-3-4
+  - parental-favoritism
+  - Esau-profane-bebelos
+  - birthright-bekorah
+  - pottage-red-lentils
+  - Hebrews-12-16-17
+  - thus-Esau-despised-his-birthright
+  - Edom-red
+  - Obadiah
+  - Malachi-1-2-3
+  - Romans-9-13
+  - heel-thread-Genesis-3-15
+  - Jacob-Esau-two-natures
+  - Galatians-5-17
+  - Romans-7-15-25
+  - abraham-dies
+  - keturah-and-the-sons-sent-east
+  - abraham-gave-all-that-he-had
+  - isaac-and-ishmael-together-at-machpelah
+  - god-blessed-isaac-after-the-death
+  - ishmael
+  - rebekah-barren
+  - isaac-entreated-the-lord
+  - the-children-struggled-within-her
+  - the-elder-shall-serve-the-younger
+  - esau-born-red-and-hairy
+  - jacob-born-grasping-the-heel
+  - isaac-loves-esau-rebekah-loves-jacob
+  - esau-sells-his-birthright-for-red
+  - thus-esau-despised-his-birthright
+---
 # Genesis 25
 
 ---
@@ -160,7 +235,7 @@ Then Jacob made pottage. Esau came in from the field faint. He wanted the red st
 
 For AI matching to topics and current events:
 
-`Abraham dies 175 years old` `gathered to his people` `death as reunion` `conscious existence after death` `Luke 16:22 Abraham's bosom` `Matthew 22:31-32 God of living not dead` `Hebrews 11:13-16 heavenly city` `Keturah incense` `sons of Keturah Midian Sheba Dedan` `Abraham gave all to Isaac` `covenant inheritance undivided` `sons of concubines sent east` `Isaac and Ishmael bury Abraham` `Machpelah` `God blessed Isaac after Abraham's death` `covenant outlives the patriarch` `Ishmael twelve princes` `Genesis 17:20 fulfilled exactly` `Isaiah 55:11` `Rebekah barren` `pattern barren matriarchs` `Sarah Rachel Hannah Elizabeth` `supernatural covenant birth` `Isaac entreated the LORD` `athar urgent prayer` `children struggled in womb` `two nations in thy womb` `prenatal sovereign declaration` `Romans 9:10-13 election not of works` `purpose of God according to election` `not of works but of him that calleth` `Jacob have I loved Esau have I hated` `Malachi 1:2-3` `love and hate as covenant election language` `Luke 14:26 hate idiom` `elder shall serve the younger` `God reversing natural order` `Abel over Cain` `Ephraim over Manasseh` `David youngest of seven` `1 Corinthians 1:27-29` `Esau born red hairy` `Jacob born grasping heel` `supplanter to Israel` `Genesis 32:28` `Hosea 12:3-4` `parental favoritism` `birthright bekorah` `double portion firstborn` `priestly function firstborn` `Esau profane bebelos` `Hebrews 12:16-17` `found no place of repentance` `thus Esau despised his birthright` `baz to despise` `Edom red pottage` `Obadiah judgment on Edom` `red thread Isaiah 1:18` `heel thread Genesis 3:15` `Jacob Esau two natures` `Galatians 5:17 flesh against spirit` `Romans 7:15-25` `twelve as number of governmental completeness` `Arab-Israeli conflict roots`
+#Abraham-dies-175-years-old #gathered-to-his-people #death-as-reunion #conscious-existence-after-death #Luke-1622-Abrahams-bosom #Matthew-2231-32-God-of-living-not-dead #Hebrews-1113-16-heavenly-city #Keturah-incense #sons-of-Keturah-Midian-Sheba-Dedan #Abraham-gave-all-to-Isaac #covenant-inheritance-undivided #sons-of-concubines-sent-east #Isaac-and-Ishmael-bury-Abraham #Machpelah #God-blessed-Isaac-after-Abrahams-death #covenant-outlives-the-patriarch #Ishmael-twelve-princes #Genesis-1720-fulfilled-exactly #Isaiah-5511 #Rebekah-barren #pattern-barren-matriarchs #Sarah-Rachel-Hannah-Elizabeth #supernatural-covenant-birth #Isaac-entreated-the-LORD #athar-urgent-prayer #children-struggled-in-womb #two-nations-in-thy-womb #prenatal-sovereign-declaration #Romans-910-13-election-not-of-works #purpose-of-God-according-to-election #not-of-works-but-of-him-that-calleth #Jacob-have-I-loved-Esau-have-I-hated #Malachi-12-3 #love-and-hate-as-covenant-election-language #Luke-1426-hate-idiom #elder-shall-serve-the-younger #God-reversing-natural-order #Abel-over-Cain #Ephraim-over-Manasseh #David-youngest-of-seven #1-Corinthians-127-29 #Esau-born-red-hairy #Jacob-born-grasping-heel #supplanter-to-Israel #Genesis-3228 #Hosea-123-4 #parental-favoritism #birthright-bekorah #double-portion-firstborn #priestly-function-firstborn #Esau-profane-bebelos #Hebrews-1216-17 #found-no-place-of-repentance #thus-Esau-despised-his-birthright #baz-to-despise #Edom-red-pottage #Obadiah-judgment-on-Edom #red-thread-Isaiah-118 #heel-thread-Genesis-315 #Jacob-Esau-two-natures #Galatians-517-flesh-against-spirit #Romans-715-25 #twelve-as-number-of-governmental-completeness #Arab-Israeli-conflict-roots
 
 **Relevance to Current Events:**
 - The Jacob/Esau dynamic and the Arab-Israeli conflict — Edom (Esau's descendants) and Israel (Jacob's descendants) represent one of the oldest conflicts in recorded history; their prenatal struggle was declared by God before either was born; the roots of Middle Eastern tension are planted here; the entire trajectory of Obadiah, Malachi 1, and Isaiah 34 traces from Genesis 25

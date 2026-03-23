@@ -1,3 +1,15 @@
+---
+book: "Philippians"
+chapter: 4
+testament: "New Testament"
+key_themes: "Standing Fast in the Lord, Rejoicing Always, Prayer and Peace, Contentment in All Circumstances, God's Provision"
+tags:
+  - standing-fast-in-the-lord
+  - rejoicing-always
+  - prayer-and-peace
+  - contentment-in-all-circumstances
+  - god
+---
 # Philippians 4
 
 ---
@@ -107,7 +119,7 @@ Therefore, brethren, dearly, beloved, longed, joy, crown, stand, fast, Lord, dea
 
 
 *AI Keywords for current event matching:*
-`abased` `abound` `acceptable` `account` `affliction` `alway` `always` `amen` `beginning` `beloved` `beseech` `book` `brethren` `caesar` `care` `careful` `chiefly` `christ` `church` `circumstances` `clement` `communicated` `content` `contentment` `crown` `dearly` `departed` `desire` `epaphroditus` `euodias` `fast` `father` `fellowlabourers` `flourished` `forever` `fruit` `full` `gift` `giving` `glory` `god` `gods` `good` `gospel` `grace` `greatly` `greet` `hand` `heard` `hearts` `help` `honest` `household` `hungry` `instructed` `intreat` `jesus` `joy` `keep` `know` `known` `laboured` `lacked` `learned` `life` `longed` `lord` `lovely` `macedonia` `men` `mind` `minds` `moderation` `names` `necessity` `need` `nothing` `notwithstanding` `odour` `opportunity` `passeth` `peace` `philippians` `praise` `prayer` `provision` `pure` `received` `receiving` `rejoice` `rejoiced` `rejoicing` `report` `requests` `respect` `riches` `sacrifice` `saint` `saints` `salute` `seen` `sent` `smell` `stand` `standing` `state` `strengtheneth` `suffer` `supplication` `supply` `sweet` `syntyche` `thanksgiving` `therefore` `things` `think` `true` `understanding` `virtue` `want` `well` `wellpleasing` `women` `yokefellow`
+#abased #abound #acceptable #account #affliction #alway #always #amen #beginning #beloved #beseech #book #brethren #caesar #care #careful #chiefly #christ #church #circumstances #clement #communicated #content #contentment #crown #dearly #departed #desire #epaphroditus #euodias #fast #father #fellowlabourers #flourished #forever #fruit #full #gift #giving #glory #god #gods #good #gospel #grace #greatly #greet #hand #heard #hearts #help #honest #household #hungry #instructed #intreat #jesus #joy #keep #know #known #laboured #lacked #learned #life #longed #lord #lovely #macedonia #men #mind #minds #moderation #names #necessity #need #nothing #notwithstanding #odour #opportunity #passeth #peace #philippians #praise #prayer #provision #pure #received #receiving #rejoice #rejoiced #rejoicing #report #requests #respect #riches #sacrifice #saint #saints #salute #seen #sent #smell #stand #standing #state #strengtheneth #suffer #supplication #supply #sweet #syntyche #thanksgiving #therefore #things #think #true #understanding #virtue #want #well #wellpleasing #women #yokefellow
 
 
 ---

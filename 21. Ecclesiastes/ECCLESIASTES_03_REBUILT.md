@@ -1,3 +1,14 @@
+---
+book: "Ecclesiastes"
+chapter: 3
+testament: "Old Testament"
+key_themes: "Divine Timing, Human Mortality, God's Sovereignty, Eternal Perspective"
+tags:
+  - divine-timing
+  - human-mortality
+  - god
+  - eternal-perspective
+---
 # Ecclesiastes 3
 
 ---
@@ -117,7 +128,7 @@ Thing, season, time, purpose, heaven, time, born, time, die, time, plant, time, 
 
 
 *AI Keywords for current event matching:*
-`beast` `beasts` `beautiful` `befalleth` `born` `die` `divine` `doeth` `downward` `eternal` `forever` `god` `gods` `human` `judge` `men` `mortality` `past` `perspective` `plant` `pluck` `portion` `preeminence` `purpose` `rejoice` `requireth` `righteous` `season` `sons` `sovereignty` `spirit` `there` `time` `timing` `upward` `work` `works`
+#beast #beasts #beautiful #befalleth #born #die #divine #doeth #downward #eternal #forever #god #gods #human #judge #men #mortality #past #perspective #plant #pluck #portion #preeminence #purpose #rejoice #requireth #righteous #season #sons #sovereignty #spirit #there #time #timing #upward #work #works
 
 
 ---
